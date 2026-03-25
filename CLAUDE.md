@@ -36,7 +36,7 @@ All specs live in `docs/` — read them before making changes:
 - Tamagui (design system, theming, components)
 - Zustand + immer (client state)
 - TanStack Query (async/DB reads)
-- Drizzle ORM + expo-sqlite (database)
+- expo-sqlite (database, async API)
 - react-native-reanimated + Moti (animations)
 - Biome (formatting + linting — no semicolons, single quotes)
 - TypeScript strict mode
@@ -46,7 +46,6 @@ All specs live in `docs/` — read them before making changes:
 ```bash
 pnpm expo start          # dev server
 pnpm expo start --web    # web dev
-pnpm drizzle-kit generate # generate DB migrations
 pnpm biome check --write .  # format + lint
 ```
 
@@ -54,6 +53,6 @@ pnpm biome check --write .  # format + lint
 
 - Zustand stores use immer middleware (mutate drafts)
 - TanStack Query for all DB/async reads (even local SQLite)
-- Drizzle schema is the single source of truth for DB types
+- DB types defined in `src/db/schema.ts`, migrations in `src/db/client.ts`
 - Bible text: bundled Douay-Rheims JSON for offline, Bolls.life API for other translations (cached in SQLite)
 - 30-day DWDO psalter cycle (see `docs/features/divine-office.md` for the full table)

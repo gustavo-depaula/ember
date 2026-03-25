@@ -7,8 +7,8 @@ Implementation tasks for Ember MVP, ordered by dependency. Each phase builds on 
 ## Phase 0: Project Setup ✅
 
 - [x] Initialize Expo project (SDK 55, TypeScript, Expo Router)
-- [x] Install core dependencies (zustand, immer, tamagui, @tamagui/core, @tamagui/config, react-native-reanimated, moti, expo-sqlite, drizzle-orm, @tanstack/react-query, expo-font, date-fns, @react-native-async-storage/async-storage, lucide-react-native, react-native-svg, react-native-web, react-dom)
-- [x] Install dev dependencies (drizzle-kit, @biomejs/biome)
+- [x] Install core dependencies (zustand, immer, tamagui, @tamagui/core, @tamagui/config, react-native-reanimated, moti, expo-sqlite, @tanstack/react-query, expo-font, date-fns, @react-native-async-storage/async-storage, lucide-react-native, react-native-svg, react-native-web, react-dom)
+- [x] Install dev dependencies (@biomejs/biome)
 - [x] Configure Biome 2.x (no semicolons, single quotes, tabs)
 - [x] Configure path aliases (@/) in tsconfig with strict mode
 - [x] Configure Tamagui (createTamagui config with Ember tokens, themes, fonts)
@@ -18,7 +18,7 @@ Implementation tasks for Ember MVP, ordered by dependency. Each phase builds on 
 - [x] Define Ember design tokens in Tamagui config (colors, typography, spacing, radii)
 - [x] Define Tamagui themes (light, dark, liturgical season sub-themes)
 - [x] Configure Reanimated + Tamagui babel plugins
-- [x] Configure Metro with .sql extension for Drizzle migrations
+- [x] Configure Metro with COOP/COEP headers for expo-sqlite on web
 - [x] Package manager: pnpm
 
 ## Phase 1: Content Pipeline ✅
@@ -32,11 +32,10 @@ Implementation tasks for Ember MVP, ordered by dependency. Each phase builds on 
 - [x] Build content provider (`src/lib/content.ts`) — getBooks, getChapter with bundled DRB path + API fallback
 - [x] Download scripts: `scripts/download-drb.ts`, `scripts/download-ccc.ts`
 
-## Phase 2: Database Layer (Drizzle ORM) ✅
+## Phase 2: Database Layer (expo-sqlite) ✅
 
-- [x] Set up Drizzle with expo-sqlite driver (`src/db/client.ts`) with migration runner
-- [x] Define schema in `src/db/schema.ts` — 6 tables (practices, practice_logs, reading_progress, daily_office, office_preferences, cached_translations)
-- [x] Generate initial migration with `drizzle-kit generate` (output in `drizzle/`)
+- [x] Set up expo-sqlite async API (`src/db/client.ts`) with inline SQL migrations
+- [x] Define TypeScript row types in `src/db/schema.ts` — 6 tables (practices, practice_logs, reading_progress, daily_office, office_preferences, cached_translations)
 - [x] Seed 8 MVP practices on first launch (`src/db/seed.ts`)
 - [x] TanStack Query provider already in root layout (Phase 0), DB init + migration wired into `_layout.tsx`
 
@@ -62,17 +61,17 @@ Implementation tasks for Ember MVP, ordered by dependency. Each phase builds on 
 - [x] `<ProgressBar>` — reading progress indicator
 - [x] `<TabBar>` — bottom tab navigation with calligraphic icons, gold active state
 
-## Phase 5: Plan of Life Feature
+## Phase 5: Plan of Life Feature ✅
 
-- [ ] `/plan/` screen — overview green wall (all practices combined) + today's practice checklist
-- [ ] Practice checklist — list of 8 practices with toggle checkboxes for today
-- [ ] Toggle logic — tap to mark complete (writes to SQLite, updates store, animates)
-- [ ] Overview green wall — renders past days colored by completion ratio (0-8 practices)
-- [ ] Summary stats — current streak, completion rate this week/month
-- [ ] `/plan/[practiceId]` screen — individual practice detail with its own green wall
-- [ ] Individual green wall — binary (done/not done) per day for one practice
-- [ ] Practice stats — current streak, longest streak, total days, completion rate
-- [ ] Day tap interaction — tap a cell to see tooltip of what was done/missed that day
+- [x] `/plan/` screen — overview green wall (all practices combined) + today's practice checklist
+- [x] Practice checklist — list of 8 practices with toggle checkboxes for today
+- [x] Toggle logic — tap to mark complete (writes to SQLite, updates store, animates)
+- [x] Overview green wall — renders past days colored by completion ratio (0-8 practices)
+- [x] Summary stats — current streak, completion rate this week/month
+- [x] `/plan/[practiceId]` screen — individual practice detail with its own green wall
+- [x] Individual green wall — binary (done/not done) per day for one practice
+- [x] Practice stats — current streak, longest streak, total days, completion rate
+- [x] Day tap interaction — tap a cell to see tooltip of what was done/missed that day
 
 ## Phase 6: Divine Office Feature
 

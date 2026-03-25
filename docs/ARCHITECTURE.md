@@ -6,7 +6,7 @@
 |-------|--------|-----|
 | Framework | Expo (SDK 52+) | Single codebase for web + iOS + Android |
 | Navigation | Expo Router | File-based routing, deep linking, web-friendly |
-| Storage | expo-sqlite via Drizzle ORM | Type-safe queries, auto-migrations, functional API |
+| Storage | expo-sqlite (async API) | Direct SQL queries, no ORM overhead, works reliably on web |
 | KV Storage | AsyncStorage | Simple preferences: theme, translation choice, onboarding state |
 | State | Zustand + immer | Lightweight state with draft mutations for immutable updates |
 | Async/Data | TanStack Query | Caching, loading states, error handling — even for SQLite reads |
@@ -170,10 +170,10 @@ src/
     officeStore.ts
     readingStore.ts
     preferencesStore.ts
-  db/                   (drizzle schema + migrations)
-    schema.ts
-    migrations/
-    client.ts
+  db/                   (sqlite schema, types, client)
+    schema.ts           (TypeScript types for DB rows)
+    client.ts           (async DB init, migrations, getDb())
+    seed.ts
   lib/                  (API clients, helpers)
     bolls.ts
     content.ts

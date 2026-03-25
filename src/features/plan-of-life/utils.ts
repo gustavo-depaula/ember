@@ -73,6 +73,27 @@ export function getPracticeStreak(dates: string[]): number {
 	return streak
 }
 
+export function getLongestPracticeStreak(dates: string[]): number {
+	if (dates.length === 0) return 0
+
+	const sorted = [...dates].sort()
+	let longest = 1
+	let current = 1
+
+	for (let i = 1; i < sorted.length; i++) {
+		const prev = new Date(sorted[i - 1])
+		const curr = new Date(sorted[i])
+		if (differenceInCalendarDays(curr, prev) === 1) {
+			current++
+			if (current > longest) longest = current
+		} else {
+			current = 1
+		}
+	}
+
+	return longest
+}
+
 // Maps completion ratio to 0-4 intensity for green wall rendering
 export function toGreenWallData(
 	logs: Array<{ date: string; completed: number }>,

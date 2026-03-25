@@ -156,11 +156,11 @@ export const usePracticeStore = create(
 ```typescript
 const { data: logs, isLoading } = useQuery({
   queryKey: ['practiceLogs', today],
-  queryFn: () => db.select().from(practiceLogs).where(eq(practiceLogs.date, today)),
+  queryFn: () => getDb().getAllAsync<PracticeLog>('SELECT * FROM practice_logs WHERE date = ?', [today]),
 })
 ```
 
-- **Drizzle ORM** for expo-sqlite (type-safe schema, functional query API, auto-migrations)
+- **expo-sqlite** async API directly — no ORM, raw SQL queries with TypeScript row types from `@/db/schema`
 
 ## Error Handling
 
