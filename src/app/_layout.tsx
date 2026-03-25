@@ -19,6 +19,8 @@ import { useColorScheme } from 'react-native'
 import { TamaguiProvider } from 'tamagui'
 
 import { config } from '@/config/tamagui.config'
+import { useDbMigrations } from '@/db/client'
+import { seedPractices } from '@/db/seed'
 import { useThemeStore } from '@/stores/themeStore'
 
 SplashScreen.preventAutoHideAsync()
@@ -37,6 +39,8 @@ export default function RootLayout() {
 		SourceSerif4_600SemiBold,
 	})
 
+	const { success: dbReady } = useDbMigrations()
+
 	const systemScheme = useColorScheme()
 	const { preference, hydrated, hydrate } = useThemeStore()
 
@@ -45,12 +49,18 @@ export default function RootLayout() {
 	}, [hydrate])
 
 	useEffect(() => {
-		if (fontsLoaded && hydrated) {
+		if (dbReady) {
+			seedPractices()
+		}
+	}, [dbReady])
+
+	useEffect(() => {
+		if (fontsLoaded && hydrated && dbReady) {
 			SplashScreen.hideAsync()
 		}
-	}, [fontsLoaded, hydrated])
+	}, [fontsLoaded, hydrated, dbReady])
 
-	if (!fontsLoaded || !hydrated) return undefined
+	if (!fontsLoaded || !hydrated || !dbReady) return undefined
 
 	const resolvedTheme = preference === 'system' ? (systemScheme ?? 'light') : preference
 
