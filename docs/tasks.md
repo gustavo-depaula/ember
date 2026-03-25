@@ -1,0 +1,108 @@
+# Tasks
+
+Implementation tasks for Ember MVP, ordered by dependency. Each phase builds on the previous one.
+
+---
+
+## Phase 0: Project Setup
+
+- [ ] Initialize Expo project (SDK 52+, TypeScript, Expo Router)
+- [ ] Install core dependencies (zustand, nativewind, expo-sqlite, expo-font, date-fns, @react-native-async-storage/async-storage)
+- [ ] Configure Nativewind (tailwind.config with Ember color palette)
+- [ ] Load custom fonts (Cormorant Garamond, Source Serif Pro) via expo-font
+- [ ] Set up Expo Router file structure with tab layout (Home, Office, Plan, Settings)
+- [ ] Implement dark/light/system theme provider with AsyncStorage persistence
+- [ ] Create base design tokens (colors, typography, spacing) as a theme config
+
+## Phase 1: Content Pipeline
+
+- [ ] Download and bundle Douay-Rheims JSON from `xxruyle/Bible-DouayRheims` into `assets/bible/drb/`
+- [ ] Download and bundle CCC JSON from `nossbigg/catechism-ccc-json` into `assets/catechism/`
+- [ ] Parse hymn texts from `divinumofficium/divinum-officium` into structured JSON (`assets/hymns/`)
+- [ ] Create `assets/psalter/30-day.json` — the DWDO psalter cycle mapping (day -> morning/evening psalm ranges)
+- [ ] Create `assets/prayers/` — fixed prayer texts (Our Father, canticles, Marian antiphons, opening/closing verses)
+- [ ] Build Bolls.life API client (fetch books list, fetch chapter text, with SQLite caching layer)
+- [ ] Build content provider that reads bundled DRB or fetches from API based on selected translation
+
+## Phase 2: Database Layer
+
+- [ ] Set up expo-sqlite database initialization and migration system
+- [ ] Create `practices` table + seed with 8 MVP practices
+- [ ] Create `practice_logs` table (date + practice_id composite PK, indexes)
+- [ ] Create `reading_progress` table (tracks OT, NT, CCC, psalter positions)
+- [ ] Create `daily_office` table (date + hour composite PK)
+- [ ] Create `office_preferences` table (KV store for translation, psalter cycle, completed readings)
+- [ ] Create `cached_translations` table (translation + book + chapter PK)
+
+## Phase 3: State Management (Zustand Stores)
+
+- [ ] `usePracticeStore` — CRUD for practice logs, query by date range (for green wall), streak calculation
+- [ ] `useOfficeStore` — daily office completion state, mark hour complete
+- [ ] `useReadingStore` — reading progress (current position per track), advance to next chapter, mark books as read
+- [ ] `usePreferencesStore` — translation selection, theme, psalter cycle (bridges AsyncStorage + SQLite)
+
+## Phase 4: Design System Components
+
+- [ ] `<ThemeProvider>` — context for light/dark mode, color tokens
+- [ ] `<ScreenLayout>` — standard screen wrapper with padding, scroll, safe area
+- [ ] `<Card>` — surface card with shadow and rounded corners
+- [ ] `<SectionDivider>` — ornamental divider with cross/fleuron symbol
+- [ ] `<DropCap>` — decorative first letter for readings/psalms (gold, 3-4 lines tall)
+- [ ] `<GreenWall>` — contribution heatmap component (accepts date->value map, renders grid)
+- [ ] `<PrayerText>` — styled text block for prayers (generous line height, serif font)
+- [ ] `<RubricLabel>` — small gold label for section titles in office (e.g., "HYMN", "PSALMODY")
+- [ ] `<ProgressBar>` — reading progress indicator
+- [ ] `<TabBar>` — bottom tab navigation with calligraphic icons, gold active state
+
+## Phase 5: Plan of Life Feature
+
+- [ ] `/plan/` screen — overview green wall (all practices combined) + today's practice checklist
+- [ ] Practice checklist — list of 8 practices with toggle checkboxes for today
+- [ ] Toggle logic — tap to mark complete (writes to SQLite, updates store, animates)
+- [ ] Overview green wall — renders past days colored by completion ratio (0-8 practices)
+- [ ] Summary stats — current streak, completion rate this week/month
+- [ ] `/plan/[practiceId]` screen — individual practice detail with its own green wall
+- [ ] Individual green wall — binary (done/not done) per day for one practice
+- [ ] Practice stats — current streak, longest streak, total days, completion rate
+- [ ] Day tap interaction — tap a cell to see tooltip of what was done/missed that day
+
+## Phase 6: Divine Office Feature
+
+- [ ] Lectio continua engine — calculate today's OT reading, NT reading, and CCC portion based on progress
+- [ ] Psalter engine — given day of month, return morning and evening psalm ranges from 30-day cycle
+- [ ] Compline psalm rotation — return correct psalm(s) based on day of week
+- [ ] Marian antiphon selector — return correct antiphon based on liturgical season/date
+- [ ] Hymn selector — return appropriate hymn for hour and season
+- [ ] `/office/` screen — hub with 3 cards (Morning, Evening, Compline) showing status and today's references
+- [ ] `/office/morning` screen — full scrollable prayer flow (opening verse -> hymn -> psalmody -> OT reading -> Benedictus -> intercessions -> Our Father -> closing)
+- [ ] `/office/evening` screen — same flow with evening psalms, NT reading, Magnificat
+- [ ] `/office/compline` screen — same flow with Compline psalms, CCC reading, Nunc Dimittis, Marian antiphon
+- [ ] "Mark as Complete" button — records completion in SQLite, advances reading progress to next portion
+- [ ] Prayer flow styling — drop caps, ornamental dividers, rubric labels, generous spacing
+
+## Phase 7: Progress & Settings
+
+- [ ] `/progress/` screen — three progress bars (OT %, NT %, CCC %) with estimated completion dates
+- [ ] Completed books list and current position display
+- [ ] `/settings/` screen — translation picker (DRB bundled + Bolls.life online options)
+- [ ] Mark books as already read — checklist of all 73 Bible books, updates reading progress starting point
+- [ ] Theme toggle (light / dark / system)
+- [ ] Attribution/credits screen (Bible, CCC, Divinum Officium sources)
+
+## Phase 8: Home Screen
+
+- [ ] `/` (Home) screen — today's date with greeting
+- [ ] Today's practices checklist (same component as plan screen, compact)
+- [ ] Next office hour card — shows which hour is next (based on time of day), with tap to open
+- [ ] Office completion status for today (icons showing which hours are done)
+- [ ] Quick reading progress summary
+
+## Phase 9: Polish
+
+- [ ] Animations — fade transitions between screens, subtle checkbox toggle animation, green wall cell fade-in
+- [ ] Empty states — first launch with no data (encouraging message, not blank)
+- [ ] Error states — offline fallback notice when API translation unavailable
+- [ ] Responsive layout — tablet/web wider layout vs phone compact
+- [ ] App icon and splash screen (Ember-themed, gold on dark)
+- [ ] Test on web, iOS simulator, Android emulator
+- [ ] Verify data persistence across app kills and restarts
