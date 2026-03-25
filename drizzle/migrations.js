@@ -9,4 +9,3 @@ import m0000 from './0000_mature_nicolaos.sql';
       m0000
     }
   }
-  
