@@ -21,7 +21,7 @@ import {
 const defaultPracticeCount = 8
 
 function aggregateByDate(
-	logs: Array<{ date: string; practiceId: string }>,
+	logs: Array<{ date: string; practice_id: string }>,
 ): Array<{ date: string; completed: number }> {
 	const counts = new Map<string, number>()
 	for (const log of logs) {
