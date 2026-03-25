@@ -34,6 +34,7 @@ export async function updateReadingProgress(
 		currentChapter?: number
 		currentVerse?: number
 		completedBooks?: string
+		completedChapters?: string
 	},
 ): Promise<void> {
 	const sets: string[] = []
@@ -54,6 +55,10 @@ export async function updateReadingProgress(
 	if (updates.completedBooks !== undefined) {
 		sets.push('completed_books = ?')
 		params.push(updates.completedBooks)
+	}
+	if (updates.completedChapters !== undefined) {
+		sets.push('completed_chapters = ?')
+		params.push(updates.completedChapters)
 	}
 
 	if (sets.length === 0) return

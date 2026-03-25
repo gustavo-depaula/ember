@@ -141,6 +141,92 @@ export function useMarkBooksRead() {
 	})
 }
 
+async function modifyCompletedChapters(
+	type: 'ot' | 'nt',
+	modifier: (chapters: Record<string, number[]>) => void,
+) {
+	const current = await getReadingProgressByType(type)
+	if (!current) return
+
+	const chapters: Record<string, number[]> = JSON.parse(current.completed_chapters)
+	modifier(chapters)
+
+	await updateReadingProgress(type, {
+		completedChapters: JSON.stringify(chapters),
+	})
+}
+
+export function useToggleChapterRead() {
+	const queryClient = useQueryClient()
+
+	return useMutation({
+		mutationFn: ({
+			type,
+			bookId,
+			chapter,
+		}: {
+			type: 'ot' | 'nt'
+			bookId: string
+			chapter: number
+		}) =>
+			modifyCompletedChapters(type, (chapters) => {
+				const bookChapters = chapters[bookId] ?? []
+				if (bookChapters.includes(chapter)) {
+					chapters[bookId] = bookChapters.filter((c) => c !== chapter)
+					if (chapters[bookId].length === 0) delete chapters[bookId]
+				} else {
+					chapters[bookId] = [...bookChapters, chapter].sort((a, b) => a - b)
+				}
+			}),
+		onSuccess: () => {
+			queryClient.invalidateQueries({ queryKey: ['readingProgress'] })
+		},
+	})
+}
+
+export function useToggleBookRead() {
+	const queryClient = useQueryClient()
+
+	return useMutation({
+		mutationFn: ({
+			type,
+			bookId,
+			totalChapters,
+		}: {
+			type: 'ot' | 'nt'
+			bookId: string
+			totalChapters: number
+		}) =>
+			modifyCompletedChapters(type, (chapters) => {
+				const bookChapters = chapters[bookId] ?? []
+				if (bookChapters.length === totalChapters) {
+					delete chapters[bookId]
+				} else {
+					chapters[bookId] = Array.from({ length: totalChapters }, (_, i) => i + 1)
+				}
+			}),
+		onSuccess: () => {
+			queryClient.invalidateQueries({ queryKey: ['readingProgress'] })
+		},
+	})
+}
+
+export function useSetReadingPosition() {
+	const queryClient = useQueryClient()
+
+	return useMutation({
+		mutationFn: ({ type, book, chapter }: { type: string; book?: string; chapter: number }) =>
+			updateReadingProgress(type, {
+				currentBook: book,
+				currentChapter: chapter,
+				currentVerse: 1,
+			}),
+		onSuccess: () => {
+			queryClient.invalidateQueries({ queryKey: ['readingProgress'] })
+		},
+	})
+}
+
 // --- Content-loading hooks ---
 
 export type PsalmData = { ref: PsalmRef; verses: Verse[] }
