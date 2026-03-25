@@ -21,9 +21,11 @@ export function ScreenLayout({
 			backgroundColor="$background"
 			paddingTop={insets.top}
 			paddingBottom={insets.bottom}
-			paddingHorizontal={padded ? '$md' : undefined}
+			alignItems="center"
 		>
-			{children}
+			<YStack flex={1} width="100%" maxWidth={640} paddingHorizontal={padded ? '$md' : undefined}>
+				{children}
+			</YStack>
 		</YStack>
 	)
 

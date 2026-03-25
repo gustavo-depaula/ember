@@ -2,6 +2,7 @@
 import { format } from 'date-fns'
 import { useRouter } from 'expo-router'
 import { ChevronLeft } from 'lucide-react-native'
+import { AnimatePresence, MotiView } from 'moti'
 import { Pressable } from 'react-native'
 import { Spinner, Text, useTheme, XStack, YStack } from 'tamagui'
 
@@ -86,6 +87,7 @@ export function PrayerFlow({ hour, date }: { hour: OfficeHour; date: string }) {
 						section={section}
 						psalmData={psalmData}
 						readingData={readingData?.verses}
+						readingFallback={readingData?.fallback}
 						cccData={cccData}
 						isCompleted={isCompleted}
 						isSubmitting={completeHour.isPending}
@@ -101,6 +103,7 @@ function SectionBlock({
 	section,
 	psalmData,
 	readingData,
+	readingFallback,
 	cccData,
 	isCompleted,
 	isSubmitting,
@@ -109,6 +112,7 @@ function SectionBlock({
 	section: PrayerSection
 	psalmData: PsalmData[]
 	readingData: Verse[] | undefined
+	readingFallback?: boolean
 	cccData: Array<{ number: number; text: string; section: string }> | undefined
 	isCompleted: boolean
 	isSubmitting: boolean
@@ -129,7 +133,13 @@ function SectionBlock({
 
 		case 'reading':
 			if (section.reference.type === 'bible') {
-				return <BibleReadingBlock reference={section.reference} verses={readingData} />
+				return (
+					<BibleReadingBlock
+						reference={section.reference}
+						verses={readingData}
+						fallback={readingFallback}
+					/>
+				)
 			}
 			return <CccReadingBlock reference={section.reference} paragraphs={cccData} />
 
@@ -226,14 +236,23 @@ function PsalmodyBlock({ psalmData }: { psalmData: PsalmData[] }) {
 function BibleReadingBlock({
 	reference,
 	verses,
+	fallback,
 }: {
 	reference: { type: 'bible'; book: string; bookName: string; chapter: number }
 	verses: Verse[] | undefined
+	fallback?: boolean
 }) {
 	if (!verses) return undefined
 
 	return (
 		<YStack gap="$sm">
+			{fallback && (
+				<XStack backgroundColor="$backgroundSurface" borderRadius="$md" padding="$sm">
+					<Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
+						Showing Douay-Rheims (offline) — selected translation unavailable
+					</Text>
+				</XStack>
+			)}
 			<Text fontFamily="$body" fontSize="$2" color="$colorSecondary" fontWeight="500">
 				{reference.bookName} {reference.chapter}
 			</Text>
@@ -314,29 +333,38 @@ function CompleteButton({
 	isSubmitting: boolean
 	onComplete: () => void
 }) {
-	if (isCompleted) {
-		return (
-			<YStack alignItems="center" paddingVertical="$lg">
-				<Text fontFamily="$body" fontSize="$3" color="$accent">
-					Completed
-				</Text>
-			</YStack>
-		)
-	}
-
 	return (
-		<Pressable onPress={onComplete} disabled={isSubmitting}>
-			<YStack
-				backgroundColor="$accent"
-				borderRadius="$lg"
-				paddingVertical="$md"
-				alignItems="center"
-				opacity={isSubmitting ? 0.6 : 1}
-			>
-				<Text fontFamily="$heading" fontSize="$3" color="$background">
-					{isSubmitting ? 'Completing...' : 'Mark as Complete'}
-				</Text>
-			</YStack>
-		</Pressable>
+		<AnimatePresence exitBeforeEnter>
+			{isCompleted ? (
+				<MotiView
+					key="completed"
+					from={{ opacity: 0, scale: 0.8 }}
+					animate={{ opacity: 1, scale: 1 }}
+					transition={{ type: 'spring', damping: 15, stiffness: 200 }}
+				>
+					<YStack alignItems="center" paddingVertical="$lg">
+						<Text fontFamily="$body" fontSize="$3" color="$accent">
+							Completed
+						</Text>
+					</YStack>
+				</MotiView>
+			) : (
+				<MotiView key="button" from={{ opacity: 0 }} animate={{ opacity: 1 }}>
+					<Pressable onPress={onComplete} disabled={isSubmitting}>
+						<YStack
+							backgroundColor="$accent"
+							borderRadius="$lg"
+							paddingVertical="$md"
+							alignItems="center"
+							opacity={isSubmitting ? 0.6 : 1}
+						>
+							<Text fontFamily="$heading" fontSize="$3" color="$background">
+								{isSubmitting ? 'Completing...' : 'Mark as Complete'}
+							</Text>
+						</YStack>
+					</Pressable>
+				</MotiView>
+			)}
+		</AnimatePresence>
 	)
 }

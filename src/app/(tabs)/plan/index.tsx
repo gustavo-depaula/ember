@@ -77,6 +77,12 @@ export default function PlanScreen() {
 					onDayPress={(date) => setSelectedDay((prev) => (prev === date ? undefined : date))}
 				/>
 
+				{stats.streak === 0 && stats.rate === 0 && (
+					<Text fontFamily="$body" fontSize="$2" color="$colorSecondary" textAlign="center">
+						Complete your daily practices to fill the wall
+					</Text>
+				)}
+
 				{selectedDay && (
 					<Card gap="$sm">
 						<Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
