@@ -7,12 +7,17 @@ Implementation tasks for Ember MVP, ordered by dependency. Each phase builds on 
 ## Phase 0: Project Setup
 
 - [ ] Initialize Expo project (SDK 52+, TypeScript, Expo Router)
-- [ ] Install core dependencies (zustand, nativewind, expo-sqlite, expo-font, date-fns, @react-native-async-storage/async-storage)
-- [ ] Configure Nativewind (tailwind.config with Ember color palette)
+- [ ] Install core dependencies (zustand, immer, tamagui, @tamagui/config, react-native-reanimated, moti, expo-sqlite, drizzle-orm, @tanstack/react-query, expo-font, date-fns, @react-native-async-storage/async-storage)
+- [ ] Install dev dependencies (drizzle-kit, @biomejs/biome)
+- [ ] Configure Biome (no semicolons, single quotes)
+- [ ] Configure path aliases (@/) in tsconfig
+- [ ] Configure Tamagui (createTamagui config with Ember tokens, themes, fonts)
 - [ ] Load custom fonts (Cormorant Garamond, Source Serif Pro) via expo-font
 - [ ] Set up Expo Router file structure with tab layout (Home, Office, Plan, Settings)
-- [ ] Implement dark/light/system theme provider with AsyncStorage persistence
-- [ ] Create base design tokens (colors, typography, spacing) as a theme config
+- [ ] Implement dark/light/system theme switching via Tamagui themes with AsyncStorage persistence
+- [ ] Define Ember design tokens in Tamagui config (colors, typography, spacing, radii)
+- [ ] Define Tamagui themes (light, dark, liturgical season sub-themes)
+- [ ] Configure Reanimated babel plugin
 
 ## Phase 1: Content Pipeline
 
@@ -24,26 +29,26 @@ Implementation tasks for Ember MVP, ordered by dependency. Each phase builds on 
 - [ ] Build Bolls.life API client (fetch books list, fetch chapter text, with SQLite caching layer)
 - [ ] Build content provider that reads bundled DRB or fetches from API based on selected translation
 
-## Phase 2: Database Layer
+## Phase 2: Database Layer (Drizzle ORM)
 
-- [ ] Set up expo-sqlite database initialization and migration system
-- [ ] Create `practices` table + seed with 8 MVP practices
-- [ ] Create `practice_logs` table (date + practice_id composite PK, indexes)
-- [ ] Create `reading_progress` table (tracks OT, NT, CCC, psalter positions)
-- [ ] Create `daily_office` table (date + hour composite PK)
-- [ ] Create `office_preferences` table (KV store for translation, psalter cycle, completed readings)
-- [ ] Create `cached_translations` table (translation + book + chapter PK)
+- [ ] Set up Drizzle with expo-sqlite driver (`db/client.ts`)
+- [ ] Define schema in `db/schema.ts` (practices, practice_logs, reading_progress, daily_office, office_preferences, cached_translations)
+- [ ] Generate initial migration with `drizzle-kit generate`
+- [ ] Seed 8 MVP practices on first launch
+- [ ] Set up TanStack Query provider in root layout
 
-## Phase 3: State Management (Zustand Stores)
+## Phase 3: State & Data Layer
 
-- [ ] `usePracticeStore` — CRUD for practice logs, query by date range (for green wall), streak calculation
-- [ ] `useOfficeStore` — daily office completion state, mark hour complete
-- [ ] `useReadingStore` — reading progress (current position per track), advance to next chapter, mark books as read
-- [ ] `usePreferencesStore` — translation selection, theme, psalter cycle (bridges AsyncStorage + SQLite)
+- [ ] `usePracticeStore` (Zustand + immer) — client state for practice toggles
+- [ ] `useOfficeStore` (Zustand + immer) — daily office completion state
+- [ ] `usePreferencesStore` (Zustand + immer) — translation, theme, psalter cycle (bridges AsyncStorage)
+- [ ] TanStack Query hooks for practice logs (query by date range for green wall, streak calc)
+- [ ] TanStack Query hooks for reading progress (current position, advance chapter, mark books read)
+- [ ] TanStack Query hooks for daily office (completion status per hour per day)
 
 ## Phase 4: Design System Components
 
-- [ ] `<ThemeProvider>` — context for light/dark mode, color tokens
+- [ ] `<TamaguiProvider>` wrapper — wires up Tamagui config, theme selection, font loading
 - [ ] `<ScreenLayout>` — standard screen wrapper with padding, scroll, safe area
 - [ ] `<Card>` — surface card with shadow and rounded corners
 - [ ] `<SectionDivider>` — ornamental divider with cross/fleuron symbol
@@ -99,7 +104,7 @@ Implementation tasks for Ember MVP, ordered by dependency. Each phase builds on 
 
 ## Phase 9: Polish
 
-- [ ] Animations — fade transitions between screens, subtle checkbox toggle animation, green wall cell fade-in
+- [ ] Animations (Moti) — fade transitions between screens, subtle checkbox toggle animation, green wall cell fade-in with staggered delay
 - [ ] Empty states — first launch with no data (encouraging message, not blank)
 - [ ] Error states — offline fallback notice when API translation unavailable
 - [ ] Responsive layout — tablet/web wider layout vs phone compact

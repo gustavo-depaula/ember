@@ -6,6 +6,20 @@ The app should feel like a **digital sacred space** — calm, beautiful, and rev
 
 ---
 
+## Implementation: Tamagui
+
+The design system is implemented as a Tamagui configuration — a single `createTamagui()` call that defines all tokens, themes, and fonts. This config is portable and can be extracted as a standalone package (`@ember/design-system`) for reuse across projects.
+
+Key Tamagui concepts used:
+- **Tokens** — design primitives (colors, spacing, radii, font sizes) accessible via `$tokenName`
+- **Themes** — named sets of semantic color mappings (light, dark, advent, lent, etc.) that cascade and compose
+- **Fonts** — font family + weight + size + line-height definitions, loaded via expo-font
+- **styled()** — creates themed components that resolve `$tokens` at build time via the compiler
+
+All custom components (DropCap, SectionDivider, GreenWall, etc.) are built with Tamagui's `styled()` and reference theme tokens, so they automatically adapt to light/dark/liturgical themes.
+
+---
+
 ## Color Palette
 
 ### Light Mode
@@ -121,12 +135,13 @@ These should be **subtle, not overwhelming** — hints of the tradition, not a t
 - Inactive tab: secondary text color
 - No labels on small screens; icon + label on larger screens
 
-### Animations
+### Animations (Reanimated + Moti)
 - Smooth, gentle transitions (200-300ms)
 - Fade in/out for screen transitions
 - No bouncy or playful animations — everything should feel measured and calm
-- Checkbox toggle: subtle scale + color fill animation
-- Green wall cells: gentle fade-in when data loads
+- Checkbox toggle: subtle scale + color fill animation (Moti `AnimatePresence`)
+- Green wall cells: gentle fade-in when data loads (Moti `MotiView` with staggered delay)
+- Use Moti's declarative API for simple animations, Reanimated worklets for gesture-driven or complex ones
 
 ---
 
