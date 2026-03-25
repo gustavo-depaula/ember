@@ -87,14 +87,14 @@ Implementation tasks for Ember MVP, ordered by dependency. Each phase builds on 
 - [x] "Mark as Complete" button — records completion in SQLite, advances reading progress to next portion
 - [x] Prayer flow styling — drop caps, ornamental dividers, rubric labels, generous spacing
 
-## Phase 7: Progress & Settings
+## Phase 7: Progress & Settings ✅
 
-- [ ] `/progress/` screen — three progress bars (OT %, NT %, CCC %) with estimated completion dates
-- [ ] Completed books list and current position display
-- [ ] `/settings/` screen — translation picker (DRB bundled + Bolls.life online options)
-- [ ] Mark books as already read — checklist of all 73 Bible books, updates reading progress starting point
-- [ ] Theme toggle (light / dark / system)
-- [ ] Attribution/credits screen (Bible, CCC, Divinum Officium sources)
+- [x] `/progress/` screen — three progress bars (OT %, NT %, CCC %) with estimated completion dates
+- [x] Completed books list and current position display
+- [x] `/settings/` screen — translation picker (DRB bundled + Bolls.life online options)
+- [x] Mark books as already read — checklist of all 73 Bible books, updates reading progress starting point
+- [x] Theme toggle (light / dark / system)
+- [x] Attribution/credits screen (Bible, CCC, Divinum Officium sources)
 
 ## Phase 8: Home Screen
 

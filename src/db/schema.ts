@@ -20,6 +20,7 @@ export type ReadingProgress = {
 	current_chapter: number
 	current_verse: number
 	completed_books: string
+	completed_chapters: string
 	start_date: string
 }
 
