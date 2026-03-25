@@ -1,4 +1,5 @@
 import { addDays, format, startOfWeek, subWeeks } from 'date-fns'
+import { MotiView } from 'moti'
 import { useMemo } from 'react'
 import { Pressable } from 'react-native'
 import { useTheme, XStack, YStack } from 'tamagui'
@@ -29,14 +30,30 @@ function buildWeekGrid(data: WallEntry[], weeks: number): WallEntry[][] {
 
 const cell = { size: 12, gap: 2, radius: 2 }
 
-function Cell({ color, date, onPress }: { color: string; date: string; onPress?: () => void }) {
+function Cell({
+	color,
+	date,
+	delay,
+	onPress,
+}: {
+	color: string
+	date: string
+	delay: number
+	onPress?: () => void
+}) {
 	const square = (
-		<YStack
-			width={cell.size}
-			height={cell.size}
-			borderRadius={cell.radius}
-			backgroundColor={color}
-		/>
+		<MotiView
+			from={{ opacity: 0, scale: 0.5 }}
+			animate={{ opacity: 1, scale: 1 }}
+			transition={{ type: 'timing', duration: 300, delay }}
+		>
+			<YStack
+				width={cell.size}
+				height={cell.size}
+				borderRadius={cell.radius}
+				backgroundColor={color}
+			/>
+		</MotiView>
 	)
 
 	if (onPress) {
@@ -74,11 +91,12 @@ export function GreenWall({
 		<XStack gap={cell.gap} justifyContent="flex-end">
 			{grid.map((week, wi) => (
 				<YStack key={week[0]?.date ?? wi} gap={cell.gap}>
-					{week.map((entry) => (
+					{week.map((entry, di) => (
 						<Cell
 							key={entry.date}
 							color={colors[entry.value] ?? colors[0]}
 							date={entry.date}
+							delay={(wi * 7 + di) * 15}
 							onPress={onDayPress ? () => onDayPress(entry.date) : undefined}
 						/>
 					))}

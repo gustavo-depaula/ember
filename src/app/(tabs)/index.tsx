@@ -170,6 +170,17 @@ export default function HomeScreen() {
 								toggle.mutate({ practiceId: id, date: today, completed })
 							}
 						/>
+						{completedIds.size === 0 && (
+							<Text
+								fontFamily="$body"
+								fontSize="$2"
+								color="$colorSecondary"
+								textAlign="center"
+								paddingVertical="$sm"
+							>
+								Begin your day with a single practice
+							</Text>
+						)}
 					</YStack>
 				)}
 
