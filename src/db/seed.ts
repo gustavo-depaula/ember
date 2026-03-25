@@ -1,7 +1,8 @@
+import { format } from 'date-fns'
 import { count } from 'drizzle-orm'
 
 import { db } from './client'
-import { practices } from './schema'
+import { practices, readingProgress } from './schema'
 
 const mvpPractices = [
 	{ id: 'morning-offering', name: 'Morning Offering', icon: '🌅', sortOrder: 1 },
@@ -25,4 +26,17 @@ export async function seedPractices() {
 			enabled: 1,
 		})),
 	)
+}
+
+export async function seedReadingProgress() {
+	const [result] = await db.select({ total: count() }).from(readingProgress)
+	if (result.total > 0) return
+
+	const today = format(new Date(), 'yyyy-MM-dd')
+
+	await db.insert(readingProgress).values([
+		{ type: 'ot', currentBook: 'genesis', currentChapter: 1, startDate: today },
+		{ type: 'nt', currentBook: 'matthew', currentChapter: 1, startDate: today },
+		{ type: 'catechism', currentBook: 'ccc', currentChapter: 1, startDate: today },
+	])
 }
