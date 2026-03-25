@@ -4,20 +4,22 @@ Implementation tasks for Ember MVP, ordered by dependency. Each phase builds on 
 
 ---
 
-## Phase 0: Project Setup
+## Phase 0: Project Setup ✅
 
-- [ ] Initialize Expo project (SDK 52+, TypeScript, Expo Router)
-- [ ] Install core dependencies (zustand, immer, tamagui, @tamagui/config, react-native-reanimated, moti, expo-sqlite, drizzle-orm, @tanstack/react-query, expo-font, date-fns, @react-native-async-storage/async-storage)
-- [ ] Install dev dependencies (drizzle-kit, @biomejs/biome)
-- [ ] Configure Biome (no semicolons, single quotes)
-- [ ] Configure path aliases (@/) in tsconfig
-- [ ] Configure Tamagui (createTamagui config with Ember tokens, themes, fonts)
-- [ ] Load custom fonts (Cormorant Garamond, Source Serif Pro) via expo-font
-- [ ] Set up Expo Router file structure with tab layout (Home, Office, Plan, Settings)
-- [ ] Implement dark/light/system theme switching via Tamagui themes with AsyncStorage persistence
-- [ ] Define Ember design tokens in Tamagui config (colors, typography, spacing, radii)
-- [ ] Define Tamagui themes (light, dark, liturgical season sub-themes)
-- [ ] Configure Reanimated babel plugin
+- [x] Initialize Expo project (SDK 55, TypeScript, Expo Router)
+- [x] Install core dependencies (zustand, immer, tamagui, @tamagui/core, @tamagui/config, react-native-reanimated, moti, expo-sqlite, drizzle-orm, @tanstack/react-query, expo-font, date-fns, @react-native-async-storage/async-storage, lucide-react-native, react-native-svg, react-native-web, react-dom)
+- [x] Install dev dependencies (drizzle-kit, @biomejs/biome)
+- [x] Configure Biome 2.x (no semicolons, single quotes, tabs)
+- [x] Configure path aliases (@/) in tsconfig with strict mode
+- [x] Configure Tamagui (createTamagui config with Ember tokens, themes, fonts)
+- [x] Load custom fonts (Cormorant Garamond, Source Serif 4) via expo-font
+- [x] Set up Expo Router file structure with tab layout (Home, Office, Plan, Settings)
+- [x] Implement dark/light/system theme switching via Tamagui themes with AsyncStorage persistence (themeStore.ts)
+- [x] Define Ember design tokens in Tamagui config (colors, typography, spacing, radii)
+- [x] Define Tamagui themes (light, dark, liturgical season sub-themes)
+- [x] Configure Reanimated + Tamagui babel plugins
+- [x] Configure Metro with .sql extension for Drizzle migrations
+- [x] Package manager: pnpm
 
 ## Phase 1: Content Pipeline
 

@@ -44,10 +44,10 @@ All specs live in `docs/` — read them before making changes:
 ## Commands
 
 ```bash
-npx expo start          # dev server
-npx expo start --web    # web dev
-npx drizzle-kit generate # generate DB migrations
-npx @biomejs/biome check --write .  # format + lint
+pnpm expo start          # dev server
+pnpm expo start --web    # web dev
+pnpm drizzle-kit generate # generate DB migrations
+pnpm biome check --write .  # format + lint
 ```
 
 ## Key Patterns
