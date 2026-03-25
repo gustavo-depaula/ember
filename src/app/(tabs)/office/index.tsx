@@ -13,7 +13,9 @@ import {
 	getComplinePsalms,
 	getPsalmsForDay,
 } from '@/features/divine-office/psalter'
+import { getPsalmNumbering } from '@/lib/bolls'
 import { getDrbBooks } from '@/lib/content'
+import { usePreferencesStore } from '@/stores/preferencesStore'
 
 const hourConfig = [
 	{
@@ -55,6 +57,8 @@ export default function OfficeScreen() {
 
 	const todayDate = useMemo(() => new Date(), [])
 	const today = useMemo(() => format(todayDate, 'yyyy-MM-dd'), [todayDate])
+	const translation = usePreferencesStore((s) => s.translation)
+	const numbering = getPsalmNumbering(translation)
 
 	const { data: status } = useDailyOfficeStatus(today)
 	const { data: allProgress = [] } = useAllReadingProgress()
@@ -64,8 +68,11 @@ export default function OfficeScreen() {
 		[allProgress],
 	)
 
-	const psalmsForDay = useMemo(() => getPsalmsForDay(todayDate), [todayDate])
-	const complinePsalms = useMemo(() => getComplinePsalms(todayDate), [todayDate])
+	const psalmsForDay = useMemo(() => getPsalmsForDay(todayDate, numbering), [todayDate, numbering])
+	const complinePsalms = useMemo(
+		() => getComplinePsalms(todayDate, numbering),
+		[todayDate, numbering],
+	)
 
 	function getPsalmLabel(hour: OfficeHour): string {
 		if (hour === 'morning') return formatPsalmRefs(psalmsForDay.morning)

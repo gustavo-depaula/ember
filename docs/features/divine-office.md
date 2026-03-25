@@ -117,9 +117,11 @@ All 150 psalms in 30 days, split between Morning and Evening prayer:
 | 29  | 139-141     | 142-143     |
 | 30  | 144-146     | 147-150     |
 
+The table above uses MT (Hebrew) numbering. The app stores both MT and LXX numbering systems in `src/assets/psalter/30-day.json` and selects the correct one based on the chosen Bible translation (e.g., DRB uses LXX, NABRE/RSV use MT).
+
 The day of the psalter cycle is determined by `day_of_month` (1-30). Months with 31 days repeat day 30. February uses days 1-28/29.
 
-**Compline psalms** rotate weekly (not part of the 30-day cycle):
+**Compline psalms** rotate weekly (not part of the 30-day cycle, MT numbering shown):
 - Sunday: Psalm 4
 - Monday: Psalm 91
 - Tuesday: Psalm 134
