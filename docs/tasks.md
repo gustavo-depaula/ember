@@ -49,18 +49,18 @@ Implementation tasks for Ember MVP, ordered by dependency. Each phase builds on 
 - [x] TanStack Query hooks for reading progress (current position, advance chapter, mark books read)
 - [x] TanStack Query hooks for daily office (completion status per hour per day)
 
-## Phase 4: Design System Components
+## Phase 4: Design System Components ✅
 
-- [ ] `<TamaguiProvider>` wrapper — wires up Tamagui config, theme selection, font loading
-- [ ] `<ScreenLayout>` — standard screen wrapper with padding, scroll, safe area
-- [ ] `<Card>` — surface card with shadow and rounded corners
-- [ ] `<SectionDivider>` — ornamental divider with cross/fleuron symbol
-- [ ] `<DropCap>` — decorative first letter for readings/psalms (gold, 3-4 lines tall)
-- [ ] `<GreenWall>` — contribution heatmap component (accepts date->value map, renders grid)
-- [ ] `<PrayerText>` — styled text block for prayers (generous line height, serif font)
-- [ ] `<RubricLabel>` — small gold label for section titles in office (e.g., "HYMN", "PSALMODY")
-- [ ] `<ProgressBar>` — reading progress indicator
-- [ ] `<TabBar>` — bottom tab navigation with calligraphic icons, gold active state
+- [x] `<TamaguiProvider>` wrapper — wires up Tamagui config, theme selection, font loading
+- [x] `<ScreenLayout>` — standard screen wrapper with padding, scroll, safe area
+- [x] `<Card>` — surface card with shadow and rounded corners
+- [x] `<SectionDivider>` — ornamental divider with cross/fleuron symbol
+- [x] `<DropCap>` — decorative first letter for readings/psalms (gold, 3-4 lines tall)
+- [x] `<GreenWall>` — contribution heatmap component (accepts date->value map, renders grid)
+- [x] `<PrayerText>` — styled text block for prayers (generous line height, serif font)
+- [x] `<RubricLabel>` — small gold label for section titles in office (e.g., "HYMN", "PSALMODY")
+- [x] `<ProgressBar>` — reading progress indicator
+- [x] `<TabBar>` — bottom tab navigation with calligraphic icons, gold active state
 
 ## Phase 5: Plan of Life Feature
 
