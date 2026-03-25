@@ -40,14 +40,14 @@ Implementation tasks for Ember MVP, ordered by dependency. Each phase builds on 
 - [x] Seed 8 MVP practices on first launch (`src/db/seed.ts`)
 - [x] TanStack Query provider already in root layout (Phase 0), DB init + migration wired into `_layout.tsx`
 
-## Phase 3: State & Data Layer
+## Phase 3: State & Data Layer ✅
 
-- [ ] `usePracticeStore` (Zustand + immer) — client state for practice toggles
-- [ ] `useOfficeStore` (Zustand + immer) — daily office completion state
-- [ ] `usePreferencesStore` (Zustand + immer) — translation, theme, psalter cycle (bridges AsyncStorage)
-- [ ] TanStack Query hooks for practice logs (query by date range for green wall, streak calc)
-- [ ] TanStack Query hooks for reading progress (current position, advance chapter, mark books read)
-- [ ] TanStack Query hooks for daily office (completion status per hour per day)
+- [x] `usePracticeStore` (Zustand + immer) — client state for practice date selection
+- [x] `useOfficeStore` (Zustand + immer) — daily office date selection state
+- [x] `usePreferencesStore` (Zustand + immer) — translation, psalter cycle (bridges AsyncStorage)
+- [x] TanStack Query hooks for practice logs (query by date range for green wall, streak calc)
+- [x] TanStack Query hooks for reading progress (current position, advance chapter, mark books read)
+- [x] TanStack Query hooks for daily office (completion status per hour per day)
 
 ## Phase 4: Design System Components
 

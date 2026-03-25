@@ -20,7 +20,8 @@ import { TamaguiProvider } from 'tamagui'
 
 import { config } from '@/config/tamagui.config'
 import { useDbMigrations } from '@/db/client'
-import { seedPractices } from '@/db/seed'
+import { seedPractices, seedReadingProgress } from '@/db/seed'
+import { usePreferencesStore } from '@/stores/preferencesStore'
 import { useThemeStore } from '@/stores/themeStore'
 
 SplashScreen.preventAutoHideAsync()
@@ -42,25 +43,30 @@ export default function RootLayout() {
 	const { success: dbReady } = useDbMigrations()
 
 	const systemScheme = useColorScheme()
-	const { preference, hydrated, hydrate } = useThemeStore()
+	const { preference, hydrated: themeHydrated, hydrate: hydrateTheme } = useThemeStore()
+	const { hydrated: prefsHydrated, hydrate: hydratePrefs } = usePreferencesStore()
 
 	useEffect(() => {
-		hydrate()
-	}, [hydrate])
+		hydrateTheme()
+		hydratePrefs()
+	}, [hydrateTheme, hydratePrefs])
 
 	useEffect(() => {
 		if (dbReady) {
 			seedPractices()
+			seedReadingProgress()
 		}
 	}, [dbReady])
 
+	const ready = fontsLoaded && themeHydrated && prefsHydrated && dbReady
+
 	useEffect(() => {
-		if (fontsLoaded && hydrated && dbReady) {
+		if (ready) {
 			SplashScreen.hideAsync()
 		}
-	}, [fontsLoaded, hydrated, dbReady])
+	}, [ready])
 
-	if (!fontsLoaded || !hydrated || !dbReady) return undefined
+	if (!ready) return undefined
 
 	const resolvedTheme = preference === 'system' ? (systemScheme ?? 'light') : preference
 
