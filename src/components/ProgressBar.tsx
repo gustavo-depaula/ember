@@ -1,6 +1,11 @@
 import { useCallback, useEffect, useState } from 'react'
-import { Easing, type LayoutChangeEvent } from 'react-native'
-import Animated, { useAnimatedStyle, useSharedValue, withTiming } from 'react-native-reanimated'
+import type { LayoutChangeEvent } from 'react-native'
+import Animated, {
+	Easing,
+	useAnimatedStyle,
+	useSharedValue,
+	withTiming,
+} from 'react-native-reanimated'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
 export function ProgressBar({ value, label }: { value: number; label?: string }) {
