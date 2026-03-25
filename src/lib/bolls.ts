@@ -40,7 +40,14 @@ export const catholicTranslations = ['NABRE', 'RSV'] as const
 
 // All available translations we support
 export const availableTranslations = [
-	{ code: 'DRB', name: 'Douay-Rheims Bible', source: 'bundled' },
-	{ code: 'NABRE', name: 'New American Bible Revised Edition', source: 'api' },
-	{ code: 'RSV', name: 'Revised Standard Version', source: 'api' },
+	{ code: 'DRB', name: 'Douay-Rheims Bible', source: 'bundled', numbering: 'lxx' },
+	{ code: 'NABRE', name: 'New American Bible Revised Edition', source: 'api', numbering: 'mt' },
+	{ code: 'RSV', name: 'Revised Standard Version', source: 'api', numbering: 'mt' },
 ] as const
+
+export type PsalmNumbering = 'mt' | 'lxx'
+
+export function getPsalmNumbering(translationCode: string): PsalmNumbering {
+	const t = availableTranslations.find((t) => t.code === translationCode)
+	return t?.numbering ?? 'mt'
+}

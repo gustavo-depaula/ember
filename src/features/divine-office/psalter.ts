@@ -1,6 +1,6 @@
 import { getDate, getDay } from 'date-fns'
-
 import psalterData from '@/assets/psalter/30-day.json'
+import type { PsalmNumbering } from '@/lib/bolls'
 
 export type PsalmRef =
 	| { psalm: number; verseRange?: undefined }
@@ -16,9 +16,13 @@ export function parsePsalmRef(raw: number | string): PsalmRef {
 	return { psalm, verseRange: [start, end] }
 }
 
-export function getPsalmsForDay(date: Date): { morning: PsalmRef[]; evening: PsalmRef[] } {
+export function getPsalmsForDay(
+	date: Date,
+	numbering: PsalmNumbering,
+): { morning: PsalmRef[]; evening: PsalmRef[] } {
 	const dayOfMonth = Math.min(getDate(date), 30)
-	const entry = psalterData.cycle[dayOfMonth - 1]
+	const { cycle } = psalterData[numbering]
+	const entry = cycle[dayOfMonth - 1]
 	return {
 		morning: entry.morning.map(parsePsalmRef),
 		evening: entry.evening.map(parsePsalmRef),
@@ -35,9 +39,9 @@ const dayNames = [
 	'saturday',
 ] as const
 
-export function getComplinePsalms(date: Date): PsalmRef[] {
+export function getComplinePsalms(date: Date, numbering: PsalmNumbering): PsalmRef[] {
 	const dayName = dayNames[getDay(date)]
-	const psalms = psalterData.compline[dayName]
+	const psalms = psalterData[numbering].compline[dayName]
 	return psalms.map((p) => ({ psalm: p }))
 }
 

@@ -8,6 +8,7 @@ import {
 	getReadingProgressByType,
 	updateReadingProgress,
 } from '@/db/repositories'
+import { getPsalmNumbering } from '@/lib/bolls'
 import { getChapter, type Verse } from '@/lib/content'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
@@ -292,6 +293,7 @@ function findPsalmRefs(sections: PrayerSection[]): PsalmRef[] | undefined {
 
 export function usePrayerContent(hour: OfficeHour, date: string) {
 	const translation = usePreferencesStore((s) => s.translation)
+	const numbering = getPsalmNumbering(translation)
 
 	const { data: otProgress } = useReadingProgress('ot')
 	const { data: ntProgress } = useReadingProgress('nt')
@@ -304,8 +306,8 @@ export function usePrayerContent(hour: OfficeHour, date: string) {
 
 	const sections = useMemo(() => {
 		const parsedDate = new Date(date)
-		return buildPrayerSections(hour, parsedDate, progress)
-	}, [hour, date, progress])
+		return buildPrayerSections(hour, parsedDate, progress, numbering)
+	}, [hour, date, progress, numbering])
 
 	const readingRef = useMemo(() => findReadingRef(sections), [sections])
 	const psalmRefs = useMemo(() => findPsalmRefs(sections) ?? [], [sections])

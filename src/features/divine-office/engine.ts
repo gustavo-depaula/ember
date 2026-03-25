@@ -10,6 +10,7 @@ import nuncDimittis from '@/assets/prayers/nunc-dimittis.json'
 import openingVerse from '@/assets/prayers/opening-verse.json'
 import ourFather from '@/assets/prayers/our-father.json'
 import type { ReadingProgress } from '@/db/schema'
+import type { PsalmNumbering } from '@/lib/bolls'
 import { getDrbBooks } from '@/lib/content'
 
 import { getComplinePsalms, getPsalmsForDay, type PsalmRef } from './psalter'
@@ -189,8 +190,9 @@ function buildMorningEvening(
 	hour: 'morning' | 'evening',
 	date: Date,
 	progress: ReadingProgress | null | undefined,
+	numbering: PsalmNumbering,
 ): PrayerSection[] {
-	const psalmsForDay = getPsalmsForDay(date)
+	const psalmsForDay = getPsalmsForDay(date, numbering)
 	const psalms = hour === 'morning' ? psalmsForDay.morning : psalmsForDay.evening
 	const hymn = getHymnForHour(hour)
 	const readingType = hour === 'morning' ? 'ot' : 'nt'
@@ -236,8 +238,12 @@ function buildMorningEvening(
 	return sections
 }
 
-function buildCompline(date: Date, progress: ReadingProgress | null | undefined): PrayerSection[] {
-	const psalms = getComplinePsalms(date)
+function buildCompline(
+	date: Date,
+	progress: ReadingProgress | null | undefined,
+	numbering: PsalmNumbering,
+): PrayerSection[] {
+	const psalms = getComplinePsalms(date, numbering)
 	const hymn = getHymnForHour('compline')
 	const antiphon = getMarianAntiphon(date)
 
@@ -297,8 +303,9 @@ export function buildPrayerSections(
 		nt?: ReadingProgress | null
 		catechism?: ReadingProgress | null
 	},
+	numbering: PsalmNumbering,
 ): PrayerSection[] {
-	if (hour === 'compline') return buildCompline(date, progress.catechism)
+	if (hour === 'compline') return buildCompline(date, progress.catechism, numbering)
 	const readingProgress = hour === 'morning' ? progress.ot : progress.nt
-	return buildMorningEvening(hour, date, readingProgress)
+	return buildMorningEvening(hour, date, readingProgress, numbering)
 }
