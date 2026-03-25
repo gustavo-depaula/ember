@@ -32,13 +32,13 @@ Implementation tasks for Ember MVP, ordered by dependency. Each phase builds on 
 - [x] Build content provider (`src/lib/content.ts`) — getBooks, getChapter with bundled DRB path + API fallback
 - [x] Download scripts: `scripts/download-drb.ts`, `scripts/download-ccc.ts`
 
-## Phase 2: Database Layer (Drizzle ORM)
+## Phase 2: Database Layer (Drizzle ORM) ✅
 
-- [ ] Set up Drizzle with expo-sqlite driver (`db/client.ts`)
-- [ ] Define schema in `db/schema.ts` (practices, practice_logs, reading_progress, daily_office, office_preferences, cached_translations)
-- [ ] Generate initial migration with `drizzle-kit generate`
-- [ ] Seed 8 MVP practices on first launch
-- [ ] Set up TanStack Query provider in root layout
+- [x] Set up Drizzle with expo-sqlite driver (`src/db/client.ts`) with migration runner
+- [x] Define schema in `src/db/schema.ts` — 6 tables (practices, practice_logs, reading_progress, daily_office, office_preferences, cached_translations)
+- [x] Generate initial migration with `drizzle-kit generate` (output in `drizzle/`)
+- [x] Seed 8 MVP practices on first launch (`src/db/seed.ts`)
+- [x] TanStack Query provider already in root layout (Phase 0), DB init + migration wired into `_layout.tsx`
 
 ## Phase 3: State & Data Layer
 
