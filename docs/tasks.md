@@ -96,13 +96,13 @@ Implementation tasks for Ember MVP, ordered by dependency. Each phase builds on 
 - [x] Theme toggle (light / dark / system)
 - [x] Attribution/credits screen (Bible, CCC, Divinum Officium sources)
 
-## Phase 8: Home Screen
+## Phase 8: Home Screen ✅
 
-- [ ] `/` (Home) screen — today's date with greeting
-- [ ] Today's practices checklist (same component as plan screen, compact)
-- [ ] Next office hour card — shows which hour is next (based on time of day), with tap to open
-- [ ] Office completion status for today (icons showing which hours are done)
-- [ ] Quick reading progress summary
+- [x] `/` (Home) screen — today's date with greeting
+- [x] Today's practices checklist (same component as plan screen, compact)
+- [x] Next office hour card — shows which hour is next (based on time of day), with tap to open
+- [x] Office completion status for today (icons showing which hours are done)
+- [x] Quick reading progress summary
 
 ## Phase 9: Polish
 

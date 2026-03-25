@@ -94,6 +94,10 @@ export function getLongestPracticeStreak(dates: string[]): number {
 	return longest
 }
 
+export function toCompletedSet(logs: Array<{ completed: number; practiceId: string }>) {
+	return new Set(logs.filter((l) => l.completed).map((l) => l.practiceId))
+}
+
 // Maps completion ratio to 0-4 intensity for green wall rendering
 export function toGreenWallData(
 	logs: Array<{ date: string; completed: number }>,

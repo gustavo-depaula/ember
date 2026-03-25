@@ -1,4 +1,5 @@
 export { getPracticeIcon } from '@/db/seed'
+export { PracticeChecklist } from './components'
 export {
 	usePracticeLogRange,
 	usePracticeLogsForDate,
@@ -13,5 +14,6 @@ export {
 	getLongestPracticeStreak,
 	getLongestStreak,
 	getPracticeStreak,
+	toCompletedSet,
 	toGreenWallData,
 } from './utils'
