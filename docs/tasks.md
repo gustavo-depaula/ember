@@ -73,19 +73,19 @@ Implementation tasks for Ember MVP, ordered by dependency. Each phase builds on 
 - [x] Practice stats — current streak, longest streak, total days, completion rate
 - [x] Day tap interaction — tap a cell to see tooltip of what was done/missed that day
 
-## Phase 6: Divine Office Feature
+## Phase 6: Divine Office Feature ✅
 
-- [ ] Lectio continua engine — calculate today's OT reading, NT reading, and CCC portion based on progress
-- [ ] Psalter engine — given day of month, return morning and evening psalm ranges from 30-day cycle
-- [ ] Compline psalm rotation — return correct psalm(s) based on day of week
-- [ ] Marian antiphon selector — return correct antiphon based on liturgical season/date
-- [ ] Hymn selector — return appropriate hymn for hour and season
-- [ ] `/office/` screen — hub with 3 cards (Morning, Evening, Compline) showing status and today's references
-- [ ] `/office/morning` screen — full scrollable prayer flow (opening verse -> hymn -> psalmody -> OT reading -> Benedictus -> intercessions -> Our Father -> closing)
-- [ ] `/office/evening` screen — same flow with evening psalms, NT reading, Magnificat
-- [ ] `/office/compline` screen — same flow with Compline psalms, CCC reading, Nunc Dimittis, Marian antiphon
-- [ ] "Mark as Complete" button — records completion in SQLite, advances reading progress to next portion
-- [ ] Prayer flow styling — drop caps, ornamental dividers, rubric labels, generous spacing
+- [x] Lectio continua engine — calculate today's OT reading, NT reading, and CCC portion based on progress
+- [x] Psalter engine — given day of month, return morning and evening psalm ranges from 30-day cycle
+- [x] Compline psalm rotation — return correct psalm(s) based on day of week
+- [x] Marian antiphon selector — return correct antiphon based on liturgical season/date
+- [x] Hymn selector — return appropriate hymn for hour and season
+- [x] `/office/` screen — hub with 3 cards (Morning, Evening, Compline) showing status and today's references
+- [x] `/office/morning` screen — full scrollable prayer flow (opening verse -> hymn -> psalmody -> OT reading -> Benedictus -> Our Father -> closing)
+- [x] `/office/evening` screen — same flow with evening psalms, NT reading, Magnificat
+- [x] `/office/compline` screen — same flow with Compline psalms, CCC reading, Nunc Dimittis, Marian antiphon
+- [x] "Mark as Complete" button — records completion in SQLite, advances reading progress to next portion
+- [x] Prayer flow styling — drop caps, ornamental dividers, rubric labels, generous spacing
 
 ## Phase 7: Progress & Settings
 

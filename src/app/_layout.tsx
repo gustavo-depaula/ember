@@ -15,7 +15,7 @@ import { useFonts } from 'expo-font'
 import { Stack } from 'expo-router'
 import * as SplashScreen from 'expo-splash-screen'
 import { useEffect, useState } from 'react'
-import { useColorScheme } from 'react-native'
+import { LogBox, useColorScheme } from 'react-native'
 import { TamaguiProvider } from 'tamagui'
 
 import { config } from '@/config/tamagui.config'
@@ -25,6 +25,9 @@ import { usePreferencesStore } from '@/stores/preferencesStore'
 import { useThemeStore } from '@/stores/themeStore'
 
 SplashScreen.preventAutoHideAsync()
+
+// RN 0.83 deprecation warning from Tamagui internals crashes LogBox with "cyclic object value"
+LogBox.ignoreLogs(['props.pointerEvents is deprecated'])
 
 const queryClient = new QueryClient()
 

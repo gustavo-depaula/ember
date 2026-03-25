@@ -108,15 +108,20 @@ function getDrbChapter(bookSlug: string, chapter: number): Verse[] {
 		.sort((a, b) => a.verse - b.verse)
 }
 
+let drbBooksCache: Book[] | undefined
+
 export function getDrbBooks(): Book[] {
-	return (
-		drbIndex as Array<{ slug: string; name: string; testament: string; chapters: number }>
-	).map((b) => ({
-		id: b.slug,
-		name: b.name,
-		chapters: b.chapters,
-		testament: b.testament as 'ot' | 'nt',
-	}))
+	if (!drbBooksCache) {
+		drbBooksCache = (
+			drbIndex as Array<{ slug: string; name: string; testament: string; chapters: number }>
+		).map((b) => ({
+			id: b.slug,
+			name: b.name,
+			chapters: b.chapters,
+			testament: b.testament as 'ot' | 'nt',
+		}))
+	}
+	return drbBooksCache
 }
 
 // Bolls.life book list cache (in-memory, per session)
