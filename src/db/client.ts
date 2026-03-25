@@ -1,27 +1,21 @@
-import { drizzle } from 'drizzle-orm/expo-sqlite'
-import { migrate } from 'drizzle-orm/expo-sqlite/migrator'
-import { openDatabaseAsync, openDatabaseSync } from 'expo-sqlite'
+import type { SQLiteDatabase } from 'expo-sqlite'
+import { openDatabaseAsync } from 'expo-sqlite'
 import { useEffect, useReducer } from 'react'
 
-import migrations from '../../drizzle/migrations'
+import initialMigration from './migrations/0001_initial.sql'
 
-let _db: ReturnType<typeof drizzle> | undefined
+let _db: SQLiteDatabase | undefined
 
-// Lazy proxy — defers openDatabaseSync until first property access (after init)
-export const db = new Proxy({} as ReturnType<typeof drizzle>, {
-	get(_, prop) {
-		if (!_db) throw new Error('Database not initialized — call useDbMigrations first')
-		return Reflect.get(_db, prop)
-	},
-})
+export function getDb(): SQLiteDatabase {
+	if (!_db) throw new Error('Database not initialized — call useDbInit first')
+	return _db
+}
 
-type MigrationState = { success: boolean; error: unknown }
+type DbState = { success: boolean; error: unknown }
 
-// On web, openDatabaseSync fails because the wa-sqlite WASM worker hasn't loaded yet.
-// We first open async (which awaits the worker), then open sync for drizzle.
-export function useDbMigrations() {
+export function useDbInit() {
 	const [state, dispatch] = useReducer(
-		(_prev: MigrationState, action: { type: 'done' } | { type: 'error'; error: unknown }) => {
+		(_prev: DbState, action: { type: 'done' } | { type: 'error'; error: unknown }) => {
 			if (action.type === 'done') return { success: true, error: undefined }
 			return { success: false, error: action.error }
 		},
@@ -33,14 +27,8 @@ export function useDbMigrations() {
 
 		async function init() {
 			try {
-				// Async open warms up the wa-sqlite worker (loads WASM, initializes VFS).
-				// After this resolves, sync operations won't timeout.
-				await openDatabaseAsync('ember.db')
-
-				const expo = openDatabaseSync('ember.db')
-				_db = drizzle(expo)
-				await migrate(_db, migrations)
-
+				_db = await openDatabaseAsync('ember.db')
+				await _db.execAsync(initialMigration)
 				if (!cancelled) dispatch({ type: 'done' })
 			} catch (err) {
 				if (!cancelled) dispatch({ type: 'error', error: err })

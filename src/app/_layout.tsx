@@ -14,12 +14,12 @@ import { QueryClient, QueryClientProvider } from '@tanstack/react-query'
 import { useFonts } from 'expo-font'
 import { Stack } from 'expo-router'
 import * as SplashScreen from 'expo-splash-screen'
-import { useEffect } from 'react'
+import { useEffect, useState } from 'react'
 import { useColorScheme } from 'react-native'
 import { TamaguiProvider } from 'tamagui'
 
 import { config } from '@/config/tamagui.config'
-import { useDbMigrations } from '@/db/client'
+import { useDbInit } from '@/db/client'
 import { seedPractices, seedReadingProgress } from '@/db/seed'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 import { useThemeStore } from '@/stores/themeStore'
@@ -40,7 +40,7 @@ export default function RootLayout() {
 		SourceSerif4_600SemiBold,
 	})
 
-	const { success: dbReady } = useDbMigrations()
+	const { success: dbReady } = useDbInit()
 
 	const systemScheme = useColorScheme()
 	const { preference, hydrated: themeHydrated, hydrate: hydrateTheme } = useThemeStore()
@@ -51,14 +51,15 @@ export default function RootLayout() {
 		hydratePrefs()
 	}, [hydrateTheme, hydratePrefs])
 
+	const [seeded, setSeeded] = useState(false)
+
 	useEffect(() => {
 		if (dbReady) {
-			seedPractices()
-			seedReadingProgress()
+			Promise.all([seedPractices(), seedReadingProgress()]).then(() => setSeeded(true))
 		}
 	}, [dbReady])
 
-	const ready = fontsLoaded && themeHydrated && prefsHydrated && dbReady
+	const ready = fontsLoaded && themeHydrated && prefsHydrated && dbReady && seeded
 
 	useEffect(() => {
 		if (ready) {

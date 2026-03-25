@@ -1,8 +1,12 @@
 import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
-import { eq } from 'drizzle-orm'
 
-import { db } from '@/db/client'
-import { dailyOffice, readingProgress } from '@/db/schema'
+import {
+	completeOfficeHour,
+	getAllReadingProgress,
+	getDailyOfficeForDate,
+	getReadingProgressByType,
+	updateReadingProgress,
+} from '@/db/repositories'
 
 import { getNextCccParagraph, getNextReading } from './utils'
 
@@ -13,7 +17,7 @@ export function useDailyOfficeStatus(date: string) {
 	return useQuery({
 		queryKey: ['dailyOffice', date],
 		queryFn: async () => {
-			const rows = await db.select().from(dailyOffice).where(eq(dailyOffice.date, date))
+			const rows = await getDailyOfficeForDate(date)
 
 			const status: Record<OfficeHour, boolean> = {
 				morning: false,
@@ -36,20 +40,8 @@ export function useCompleteOfficeHour() {
 	const queryClient = useQueryClient()
 
 	return useMutation({
-		mutationFn: async ({ date, hour }: { date: string; hour: OfficeHour }) => {
-			await db
-				.insert(dailyOffice)
-				.values({
-					date,
-					hour,
-					completed: 1,
-					completedAt: Date.now(),
-				})
-				.onConflictDoUpdate({
-					target: [dailyOffice.date, dailyOffice.hour],
-					set: { completed: 1, completedAt: Date.now() },
-				})
-		},
+		mutationFn: ({ date, hour }: { date: string; hour: OfficeHour }) =>
+			completeOfficeHour(date, hour),
 		onSuccess: () => {
 			queryClient.invalidateQueries({ queryKey: ['dailyOffice'] })
 		},
@@ -59,19 +51,14 @@ export function useCompleteOfficeHour() {
 export function useReadingProgress(type: ReadingType) {
 	return useQuery({
 		queryKey: ['readingProgress', type],
-		queryFn: () =>
-			db
-				.select()
-				.from(readingProgress)
-				.where(eq(readingProgress.type, type))
-				.then((rows) => rows[0]),
+		queryFn: () => getReadingProgressByType(type),
 	})
 }
 
 export function useAllReadingProgress() {
 	return useQuery({
 		queryKey: ['readingProgress'],
-		queryFn: () => db.select().from(readingProgress),
+		queryFn: getAllReadingProgress,
 	})
 }
 
@@ -80,38 +67,28 @@ export function useAdvanceReading() {
 
 	return useMutation({
 		mutationFn: async ({ type }: { type: ReadingType }) => {
-			const [current] = await db
-				.select()
-				.from(readingProgress)
-				.where(eq(readingProgress.type, type))
-
+			const current = await getReadingProgressByType(type)
 			if (!current) return
 
 			if (type === 'catechism') {
-				const nextParagraph = getNextCccParagraph(current.currentChapter)
-				await db
-					.update(readingProgress)
-					.set({ currentChapter: nextParagraph })
-					.where(eq(readingProgress.type, type))
+				const nextParagraph = getNextCccParagraph(current.current_chapter)
+				await updateReadingProgress(type, { currentChapter: nextParagraph })
 				return
 			}
 
-			const next = getNextReading(current.currentBook, current.currentChapter, type)
+			const next = getNextReading(current.current_book, current.current_chapter, type)
 
-			const completedBooks: string[] = JSON.parse(current.completedBooks)
-			if (next.bookComplete && !completedBooks.includes(current.currentBook)) {
-				completedBooks.push(current.currentBook)
+			const completedBooks: string[] = JSON.parse(current.completed_books)
+			if (next.bookComplete && !completedBooks.includes(current.current_book)) {
+				completedBooks.push(current.current_book)
 			}
 
-			await db
-				.update(readingProgress)
-				.set({
-					currentBook: next.book,
-					currentChapter: next.chapter,
-					currentVerse: 1,
-					completedBooks: JSON.stringify(completedBooks),
-				})
-				.where(eq(readingProgress.type, type))
+			await updateReadingProgress(type, {
+				currentBook: next.book,
+				currentChapter: next.chapter,
+				currentVerse: 1,
+				completedBooks: JSON.stringify(completedBooks),
+			})
 		},
 		onSuccess: () => {
 			queryClient.invalidateQueries({ queryKey: ['readingProgress'] })
@@ -124,19 +101,14 @@ export function useMarkBooksRead() {
 
 	return useMutation({
 		mutationFn: async ({ type, bookIds }: { type: 'ot' | 'nt'; bookIds: string[] }) => {
-			const [current] = await db
-				.select()
-				.from(readingProgress)
-				.where(eq(readingProgress.type, type))
-
+			const current = await getReadingProgressByType(type)
 			if (!current) return
 
-			const completedBooks: string[] = JSON.parse(current.completedBooks)
+			const completedBooks: string[] = JSON.parse(current.completed_books)
 			const merged = Array.from(new Set([...completedBooks, ...bookIds]))
 
-			// If the current book was marked as read, advance to the next unread book
-			let currentBook = current.currentBook
-			let currentChapter = current.currentChapter
+			let currentBook = current.current_book
+			let currentChapter = current.current_chapter
 
 			if (bookIds.includes(currentBook)) {
 				const next = getNextReading(currentBook, Number.MAX_SAFE_INTEGER, type)
@@ -144,14 +116,11 @@ export function useMarkBooksRead() {
 				currentChapter = 1
 			}
 
-			await db
-				.update(readingProgress)
-				.set({
-					currentBook,
-					currentChapter,
-					completedBooks: JSON.stringify(merged),
-				})
-				.where(eq(readingProgress.type, type))
+			await updateReadingProgress(type, {
+				currentBook,
+				currentChapter,
+				completedBooks: JSON.stringify(merged),
+			})
 		},
 		onSuccess: () => {
 			queryClient.invalidateQueries({ queryKey: ['readingProgress'] })

@@ -1,3 +1,4 @@
+export { getPracticeIcon } from '@/db/seed'
 export {
 	usePracticeLogRange,
 	usePracticeLogsForDate,
@@ -9,6 +10,7 @@ export type { DayCompletion } from './utils'
 export {
 	getCompletionRate,
 	getCurrentStreak,
+	getLongestPracticeStreak,
 	getLongestStreak,
 	getPracticeStreak,
 	toGreenWallData,
