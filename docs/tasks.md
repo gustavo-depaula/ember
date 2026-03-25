@@ -21,15 +21,16 @@ Implementation tasks for Ember MVP, ordered by dependency. Each phase builds on 
 - [x] Configure Metro with .sql extension for Drizzle migrations
 - [x] Package manager: pnpm
 
-## Phase 1: Content Pipeline
+## Phase 1: Content Pipeline ✅
 
-- [ ] Download and bundle Douay-Rheims JSON from `xxruyle/Bible-DouayRheims` into `assets/bible/drb/`
-- [ ] Download and bundle CCC JSON from `nossbigg/catechism-ccc-json` into `assets/catechism/`
-- [ ] Parse hymn texts from `divinumofficium/divinum-officium` into structured JSON (`assets/hymns/`)
-- [ ] Create `assets/psalter/30-day.json` — the DWDO psalter cycle mapping (day -> morning/evening psalm ranges)
-- [ ] Create `assets/prayers/` — fixed prayer texts (Our Father, canticles, Marian antiphons, opening/closing verses)
-- [ ] Build Bolls.life API client (fetch books list, fetch chapter text, with SQLite caching layer)
-- [ ] Build content provider that reads bundled DRB or fetches from API based on selected translation
+- [x] Download and bundle Douay-Rheims Bible (73 books) from `xxruyle/Bible-DouayRheims` into `src/assets/bible/drb/` with index manifest
+- [x] Download and flatten CCC (2,865 paragraphs with section breadcrumbs) from `nossbigg/catechism-ccc-json` into `src/assets/catechism/ccc.json`
+- [x] Bundle MVP hymn texts (Te Lucis, Iam Lucis, O Lux Beata) into `src/assets/hymns/`
+- [x] Create `src/assets/psalter/30-day.json` — DWDO psalter cycle (30 days + compline weekly rotation)
+- [x] Create `src/assets/prayers/` — 9 prayer files (Opening Verse, Our Father, Hail Mary, Glory Be, Benedictus, Magnificat, Nunc Dimittis, Sign of Cross, Marian Antiphons)
+- [x] Build Bolls.life API client (`src/lib/bolls.ts`) — fetchBooks, fetchChapter (NABRE, RSV confirmed)
+- [x] Build content provider (`src/lib/content.ts`) — getBooks, getChapter with bundled DRB path + API fallback
+- [x] Download scripts: `scripts/download-drb.ts`, `scripts/download-ccc.ts`
 
 ## Phase 2: Database Layer (Drizzle ORM)
 
