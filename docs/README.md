@@ -16,6 +16,7 @@ Built with Expo for web, iOS, and Android. Local storage only — no accounts, n
 ## Technical Docs
 
 - **[Architecture](ARCHITECTURE.md)** — Tech stack, data models, screen map, storage strategy
+- **[Conventions](CONVENTIONS.md)** — Engineering style guide (code style, naming, patterns, formatting)
 - **[Design System](design/design-system.md)** — Colors, typography, layout, illuminated manuscript aesthetic
 - **[Content Sources](content/content-sources.md)** — Bible text, Catechism, hymns — APIs, licensing, bundling strategy
 

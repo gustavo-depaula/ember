@@ -6,10 +6,13 @@
 |-------|--------|-----|
 | Framework | Expo (SDK 52+) | Single codebase for web + iOS + Android |
 | Navigation | Expo Router | File-based routing, deep linking, web-friendly |
-| Storage | expo-sqlite | Structured data: practice logs, reading progress, office completion |
+| Storage | expo-sqlite via Drizzle ORM | Type-safe queries, auto-migrations, functional API |
 | KV Storage | AsyncStorage | Simple preferences: theme, translation choice, onboarding state |
-| State | Zustand | Lightweight, no boilerplate, works well with React Native |
-| Styling | Nativewind (Tailwind for RN) | Utility-first, fast iteration, consistent cross-platform |
+| State | Zustand + immer | Lightweight state with draft mutations for immutable updates |
+| Async/Data | TanStack Query | Caching, loading states, error handling — even for SQLite reads |
+| Styling/Components | Tamagui | Design system framework with compiler, theming, cross-platform primitives |
+| Animations | react-native-reanimated + Moti | Reanimated for performance, Moti for declarative API |
+| Formatting/Linting | Biome | Single Rust-based tool replacing Prettier + ESLint |
 | Fonts | expo-font | Custom serif typefaces (Cormorant Garamond, Source Serif Pro) |
 | Dates | date-fns | Lightweight, tree-shakeable, no Moment.js bloat |
 | Bible text | Bundled JSON + Bolls.life API | Douay-Rheims offline, RSV2CE/NABRE online with caching |
@@ -123,3 +126,68 @@ User selects translation in settings
 ```
 
 Bolls.life API is free, no auth required. Cache aggressively — once a chapter is fetched, store it locally in SQLite so it works offline on subsequent reads.
+
+---
+
+## Folder Structure
+
+```
+src/
+  app/                  (Expo Router routes)
+    (tabs)/
+      index.tsx         (Home)
+      office/
+        index.tsx       (Office hub)
+        morning.tsx
+        evening.tsx
+        compline.tsx
+      plan/
+        index.tsx       (Plan of Life)
+        [practiceId].tsx
+      settings.tsx
+    _layout.tsx
+  features/
+    plan-of-life/
+      hooks.ts
+      utils.ts
+      index.ts
+    divine-office/
+      hooks.ts
+      engine.ts
+      psalter.ts
+      index.ts
+  components/           (shared UI components)
+    GreenWall.tsx
+    DropCap.tsx
+    SectionDivider.tsx
+    PrayerText.tsx
+    RubricLabel.tsx
+    ProgressBar.tsx
+    Card.tsx
+    index.ts
+  stores/               (zustand + immer stores)
+    practiceStore.ts
+    officeStore.ts
+    readingStore.ts
+    preferencesStore.ts
+  db/                   (drizzle schema + migrations)
+    schema.ts
+    migrations/
+    client.ts
+  lib/                  (API clients, helpers)
+    bolls.ts
+    content.ts
+  config/               (tamagui config, tokens, themes)
+    tamagui.config.ts
+    tokens.ts
+    themes.ts
+    fonts.ts
+  assets/
+    bible/drb/
+    catechism/
+    psalter/
+    hymns/
+    prayers/
+```
+
+See [CONVENTIONS.md](CONVENTIONS.md) for code style, naming, and patterns.
