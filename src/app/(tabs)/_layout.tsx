@@ -1,20 +1,28 @@
 import { Tabs } from 'expo-router'
 import { BookOpen, Grid3X3, Home, Settings } from 'lucide-react-native'
-import { useTheme } from 'tamagui'
+import { View } from 'tamagui'
+
+import { appFrameInsets, frameColor } from '@/components/AppFrame'
+
+function TabBarBackground() {
+	return <View flex={1} backgroundColor={frameColor} />
+}
 
 export default function TabLayout() {
-	const theme = useTheme()
-
 	return (
 		<Tabs
 			screenOptions={{
 				headerShown: false,
-				tabBarActiveTintColor: theme.accent.val,
-				tabBarInactiveTintColor: theme.colorSecondary.val,
+				tabBarActiveTintColor: '#F0D080',
+				tabBarInactiveTintColor: '#D4A0A0',
+				tabBarBackground: () => <TabBarBackground />,
 				tabBarStyle: {
-					backgroundColor: theme.background.val,
-					borderTopColor: theme.accentSubtle.val,
-					borderTopWidth: 0.5,
+					backgroundColor: 'transparent',
+					borderTopWidth: 0,
+					elevation: 0,
+					position: 'absolute',
+					paddingLeft: appFrameInsets.left,
+					paddingRight: appFrameInsets.right,
 				},
 			}}
 		>

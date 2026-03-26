@@ -28,7 +28,7 @@ function buildWeekGrid(data: WallEntry[], weeks: number): WallEntry[][] {
 	return columns
 }
 
-const cell = { size: 12, gap: 2, radius: 2 }
+const cell = { size: 12, gap: 2, radius: 6 }
 
 function Cell({
 	color,
@@ -43,9 +43,9 @@ function Cell({
 }) {
 	const square = (
 		<MotiView
-			from={{ opacity: 0, scale: 0.5 }}
-			animate={{ opacity: 1, scale: 1 }}
-			transition={{ type: 'timing', duration: 300, delay }}
+			from={{ opacity: 0 }}
+			animate={{ opacity: 1 }}
+			transition={{ type: 'timing', duration: 150, delay }}
 		>
 			<YStack
 				width={cell.size}
@@ -96,7 +96,7 @@ export function GreenWall({
 							key={entry.date}
 							color={colors[entry.value] ?? colors[0]}
 							date={entry.date}
-							delay={(wi * 7 + di) * 15}
+							delay={(wi * 7 + di) * 4}
 							onPress={onDayPress ? () => onDayPress(entry.date) : undefined}
 						/>
 					))}

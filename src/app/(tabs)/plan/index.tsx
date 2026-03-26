@@ -75,10 +75,12 @@ export default function PlanScreen() {
 					</Text>
 				</YStack>
 
-				<GreenWall
-					data={wallData}
-					onDayPress={(date) => setSelectedDay((prev) => (prev === date ? undefined : date))}
-				/>
+				<YStack alignItems="center">
+					<GreenWall
+						data={wallData}
+						onDayPress={(date) => setSelectedDay((prev) => (prev === date ? undefined : date))}
+					/>
+				</YStack>
 
 				{stats.streak === 0 && stats.rate === 0 && (
 					<Text fontFamily="$body" fontSize="$2" color="$colorSecondary" textAlign="center">

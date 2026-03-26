@@ -1,27 +1,46 @@
 import { memo } from 'react'
-import { Dimensions } from 'react-native'
-import Svg, { Line } from 'react-native-svg'
-import { useTheme, View, XStack } from 'tamagui'
+import { Image, StyleSheet } from 'react-native'
+import { View, XStack } from 'tamagui'
 
-import { FloralCorner } from './ornaments'
+const topLeftBorder = require('../../assets/textures/whole_top_and_corner_left.png')
 
-const cornerSize = 56
+const corners = {
+	topRight: require('../../assets/textures/corner_top_right.png'),
+	bottomLeft: require('../../assets/textures/corner_bottom_left.png'),
+	bottomRight: require('../../assets/textures/corner_bottom_right.png'),
+}
 
 export const PageBorder = memo(function PageBorder() {
-	const theme = useTheme()
-	const gold = theme.accent.val
-	const { width: screenWidth } = Dimensions.get('window')
-	const borderWidth = Math.min(screenWidth, 640)
-
 	return (
-		<XStack justifyContent="space-between" alignItems="flex-start">
-			<FloralCorner position="topLeft" size={cornerSize} complexity="full" />
-			<View flex={1} paddingTop={4}>
-				<Svg width="100%" height={3} viewBox={`0 0 ${borderWidth} 3`} preserveAspectRatio="none">
-					<Line x1="0" y1="1" x2={borderWidth} y2="1" stroke={gold} strokeWidth={1} opacity={0.3} />
-				</Svg>
+		<View position="absolute" top={0} left={0} right={0} zIndex={1} pointerEvents="none">
+			<Image source={topLeftBorder} style={styles.topLeftBorder} resizeMode="contain" />
+			<View position="absolute" top={0} right={0}>
+				<Image source={corners.topRight} style={styles.topCorner} resizeMode="contain" />
 			</View>
-			<FloralCorner position="topRight" size={cornerSize} complexity="full" />
+		</View>
+	)
+})
+
+export const PageFooter = memo(function PageFooter() {
+	return (
+		<XStack justifyContent="space-between" alignItems="flex-end">
+			<Image source={corners.bottomLeft} style={styles.bottomCorner} resizeMode="contain" />
+			<Image source={corners.bottomRight} style={styles.bottomCorner} resizeMode="contain" />
 		</XStack>
 	)
+})
+
+const styles = StyleSheet.create({
+	topLeftBorder: {
+		width: '55%',
+		height: 140,
+	},
+	topCorner: {
+		width: 120,
+		height: 72,
+	},
+	bottomCorner: {
+		width: 120,
+		height: 72,
+	},
 })

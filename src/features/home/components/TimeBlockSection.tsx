@@ -1,7 +1,7 @@
 import { Check } from 'lucide-react-native'
 import { AnimatePresence, MotiView } from 'moti'
 import { Pressable } from 'react-native'
-import { Text, useTheme, XStack, YStack } from 'tamagui'
+import { Text, useTheme, View, XStack, YStack } from 'tamagui'
 
 import { getPracticeIcon } from '@/db/seed'
 import type { BlockState } from '@/features/plan-of-life/timeBlocks'
@@ -69,14 +69,17 @@ export function TimeBlockSection({
 	return (
 		<YStack gap="$sm">
 			<Pressable onPress={onToggleCollapse}>
-				<XStack justifyContent="space-between" alignItems="center" paddingHorizontal="$xs">
-					<Text fontFamily="$heading" fontSize="$3" color="$color">
-						{label}
-					</Text>
-					<Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
-						{completed}/{total}
-					</Text>
-				</XStack>
+				<YStack gap="$xs" paddingHorizontal="$xs">
+					<XStack justifyContent="space-between" alignItems="center">
+						<Text fontFamily="$heading" fontSize="$3" color="$color" letterSpacing={1}>
+							{label}
+						</Text>
+						<Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
+							{completed}/{total}
+						</Text>
+					</XStack>
+					<View height={1} backgroundColor="$accentSubtle" opacity={0.5} />
+				</YStack>
 			</Pressable>
 			<AnimatePresence>
 				{practices.map((practice, index) => {
