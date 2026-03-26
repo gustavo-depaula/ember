@@ -15,7 +15,7 @@ import { useEffect, useState } from 'react'
 import { LogBox, useColorScheme } from 'react-native'
 import { TamaguiProvider } from 'tamagui'
 
-import { AppFrame } from '@/components/AppFrame'
+import { RibbonBookmarks } from '@/components/RibbonBookmarks'
 import { config } from '@/config/tamagui.config'
 import { useDbInit } from '@/db/client'
 import { seedPractices, seedReadingProgress } from '@/db/seed'
@@ -76,8 +76,8 @@ export default function RootLayout() {
 		<QueryClientProvider client={queryClient}>
 			<TamaguiProvider config={config} defaultTheme={resolvedTheme}>
 				<StatusBar hidden />
-				<Stack screenOptions={{ headerShown: false }} />
-				<AppFrame />
+				<Stack screenOptions={{ headerShown: false, animation: 'fade' }} />
+				<RibbonBookmarks />
 			</TamaguiProvider>
 		</QueryClientProvider>
 	)

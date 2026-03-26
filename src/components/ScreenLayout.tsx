@@ -1,8 +1,6 @@
-import { useBottomTabBarHeight } from '@react-navigation/bottom-tabs'
 import type { ReactNode } from 'react'
+import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { ScrollView, YStack } from 'tamagui'
-
-import { appFrameInsets } from './AppFrame'
 
 const scrollContentStyle = { flexGrow: 1 }
 
@@ -15,22 +13,21 @@ export function ScreenLayout({
 	scroll?: boolean
 	padded?: boolean
 }) {
-	const tabBarHeight = useBottomTabBarHeight()
+	const insets = useSafeAreaInsets()
 
 	const inner = (
 		<YStack
 			flex={1}
 			backgroundColor="$background"
-			paddingTop={appFrameInsets.top}
-			paddingBottom={tabBarHeight + appFrameInsets.bottom}
+			paddingTop={insets.top}
+			paddingBottom={insets.bottom}
 		>
 			<YStack
 				flex={1}
 				width="100%"
 				maxWidth={640}
 				alignSelf="center"
-				paddingLeft={appFrameInsets.left + (padded ? 8 : 4)}
-				paddingRight={appFrameInsets.right + (padded ? 8 : 4)}
+				paddingHorizontal={padded ? '$lg' : '$md'}
 			>
 				{children}
 			</YStack>

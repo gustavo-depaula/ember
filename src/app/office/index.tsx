@@ -4,7 +4,7 @@ import { useMemo } from 'react'
 import { Pressable } from 'react-native'
 import { Text, XStack, YStack } from 'tamagui'
 
-import { HeaderFlourish, ManuscriptFrame, ScreenLayout, WatercolorIcon } from '@/components'
+import { BackToHome, HeaderFlourish, ManuscriptFrame, ScreenLayout, WatercolorIcon } from '@/components'
 import type { ReadingProgress } from '@/db/schema'
 import { useAllReadingProgress, useDailyOfficeStatus } from '@/features/divine-office'
 import { type OfficeHour, readingTypeForHour } from '@/features/divine-office/engine'
@@ -86,6 +86,7 @@ export default function OfficeScreen() {
 	return (
 		<ScreenLayout>
 			<YStack gap="$lg" paddingVertical="$lg">
+				<BackToHome />
 				<YStack gap="$xs" alignItems="center">
 					<HeaderFlourish />
 					<Text fontFamily="$display" fontSize={32} lineHeight={38} color="$color">
