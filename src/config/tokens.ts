@@ -27,6 +27,24 @@ export const tokens = createTokens({
 		cloisterGreen: '#2D6A4F',
 		cloisterGreenLight: '#5AAA7E',
 		goldMuted: '#6B5D3A',
+		goldBright: '#D4B44C',
+
+		// Ornament palette (Book of Hours)
+		floralRed: '#B83A3A',
+		floralRedLight: '#D4706F',
+		floralBlue: '#4A6FA0',
+		floralBlueLight: '#7BA0C4',
+		floralOrange: '#D4883A',
+		floralOrangeLight: '#E8B87A',
+		vineGreen: '#3A7A4A',
+		vineGreenLight: '#6AAE6A',
+		vineGreenDark: '#2A5A3A',
+
+		// Dark mode ornament palette (muted jewel tones)
+		floralRedDark: '#8A3030',
+		floralBlueDark: '#3A5570',
+		floralOrangeDark: '#A06A30',
+		vineGreenDarkMode: '#2A5A3A',
 
 		// Green wall — light
 		wallEmptyLight: '#E8E4D9',

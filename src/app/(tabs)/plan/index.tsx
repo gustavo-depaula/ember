@@ -3,7 +3,7 @@ import { useRouter } from 'expo-router'
 import { useMemo, useState } from 'react'
 import { Text, XStack, YStack } from 'tamagui'
 
-import { Card, GreenWall, ScreenLayout } from '@/components'
+import { GreenWall, HeaderFlourish, ManuscriptFrame, ScreenLayout } from '@/components'
 import {
 	type DayCompletion,
 	getCompletionRate,
@@ -68,9 +68,12 @@ export default function PlanScreen() {
 	return (
 		<ScreenLayout>
 			<YStack gap="$lg" paddingVertical="$lg">
-				<Text fontFamily="$heading" fontSize="$5" color="$color">
-					Plan of Life
-				</Text>
+				<YStack alignItems="center" gap="$xs">
+					<HeaderFlourish />
+					<Text fontFamily="$display" fontSize={28} lineHeight={34} color="$color">
+						Plan of Life
+					</Text>
+				</YStack>
 
 				<GreenWall
 					data={wallData}
@@ -84,49 +87,67 @@ export default function PlanScreen() {
 				)}
 
 				{selectedDay && (
-					<Card gap="$sm">
-						<Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
-							{selectedDay}
-						</Text>
-						{practices.map((p) => (
-							<XStack key={p.id} gap="$sm" alignItems="center">
-								<Text fontSize={16}>{getPracticeIcon(p.icon)}</Text>
-								<Text
-									flex={1}
-									fontFamily="$body"
-									fontSize="$2"
-									color={selectedDayCompleted.has(p.id) ? '$color' : '$colorSecondary'}
-								>
-									{p.name}
-								</Text>
-								<Text
-									fontSize={12}
-									color={selectedDayCompleted.has(p.id) ? '$accent' : '$colorSecondary'}
-								>
-									{selectedDayCompleted.has(p.id) ? '✓' : '–'}
-								</Text>
-							</XStack>
-						))}
-					</Card>
+					<ManuscriptFrame ornate={false}>
+						<YStack gap="$sm">
+							<Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
+								{selectedDay}
+							</Text>
+							{practices.map((p) => (
+								<XStack key={p.id} gap="$sm" alignItems="center">
+									<Text fontSize={16}>{getPracticeIcon(p.icon)}</Text>
+									<Text
+										flex={1}
+										fontFamily="$body"
+										fontSize="$2"
+										color={selectedDayCompleted.has(p.id) ? '$color' : '$colorSecondary'}
+									>
+										{p.name}
+									</Text>
+									<Text
+										fontSize={12}
+										color={selectedDayCompleted.has(p.id) ? '$accent' : '$colorSecondary'}
+									>
+										{selectedDayCompleted.has(p.id) ? '✓' : '–'}
+									</Text>
+								</XStack>
+							))}
+						</YStack>
+					</ManuscriptFrame>
 				)}
 
 				<XStack gap="$md">
-					<Card flex={1} alignItems="center" gap="$xs">
+					<YStack
+						flex={1}
+						alignItems="center"
+						gap="$xs"
+						borderWidth={0.5}
+						borderColor="$accentSubtle"
+						borderRadius="$md"
+						padding="$md"
+					>
 						<Text fontFamily="$heading" fontSize="$5" color="$accent">
 							{stats.streak}
 						</Text>
 						<Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
 							Day Streak
 						</Text>
-					</Card>
-					<Card flex={1} alignItems="center" gap="$xs">
+					</YStack>
+					<YStack
+						flex={1}
+						alignItems="center"
+						gap="$xs"
+						borderWidth={0.5}
+						borderColor="$accentSubtle"
+						borderRadius="$md"
+						padding="$md"
+					>
 						<Text fontFamily="$heading" fontSize="$5" color="$accent">
 							{Math.round(stats.rate * 100)}%
 						</Text>
 						<Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
 							Completion
 						</Text>
-					</Card>
+					</YStack>
 				</XStack>
 
 				<Text fontFamily="$heading" fontSize="$4" color="$color">

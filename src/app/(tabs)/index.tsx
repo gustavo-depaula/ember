@@ -3,7 +3,13 @@ import { useRouter } from 'expo-router'
 import { useCallback, useMemo, useState } from 'react'
 import { Text, XStack, YStack } from 'tamagui'
 
-import { GreenWall, ScreenLayout } from '@/components'
+import {
+	GreenWall,
+	HeaderFlourish,
+	ManuscriptFrame,
+	OrnamentalRule,
+	ScreenLayout,
+} from '@/components'
 import { useDailyOfficeStatus } from '@/features/divine-office'
 import { getNextAction, HeroCTA, TimeBlockSection } from '@/features/home'
 import {
@@ -81,20 +87,28 @@ export default function HomeScreen() {
 	return (
 		<ScreenLayout>
 			<YStack gap="$lg" paddingVertical="$lg">
-				<XStack justifyContent="space-between" alignItems="baseline">
-					<Text fontFamily="$heading" fontSize="$5" color="$color">
-						{greeting}
-					</Text>
-					<Text fontFamily="$script" fontSize="$2" color="$colorSecondary">
-						{format(now, 'EEE, MMMM d')}
-					</Text>
-				</XStack>
+				<YStack alignItems="center" gap="$xs">
+					<HeaderFlourish />
+					<XStack
+						justifyContent="space-between"
+						alignItems="baseline"
+						width="100%"
+						paddingHorizontal="$xs"
+					>
+						<Text fontFamily="$heading" fontSize="$5" color="$color">
+							{greeting}
+						</Text>
+						<Text fontFamily="$script" fontSize="$2" color="$colorSecondary">
+							{format(now, 'EEE, MMMM d')}
+						</Text>
+					</XStack>
+				</YStack>
 
 				<HeroCTA action={nextAction} onPress={handleHeroCTAPress} />
 
 				{practices.length > 0 && (
 					<YStack gap="$md">
-						{blockOrder.map((block) => {
+						{blockOrder.map((block, i) => {
 							const def = timeBlocks[block]
 							const blockPractices = def.practiceIds
 								.map((id) => practiceMap.get(id))
@@ -104,28 +118,35 @@ export default function HomeScreen() {
 							const state = overrides[block] ?? autoState
 
 							return (
-								<TimeBlockSection
-									key={block}
-									label={def.label}
-									practices={blockPractices}
-									completedIds={completedIds}
-									state={state}
-									completed={completed}
-									total={total}
-									onToggle={(id, done) =>
-										toggle.mutate({ practiceId: id, date: today, completed: done })
-									}
-									onToggleCollapse={() => toggleBlockCollapse(block)}
-								/>
+								<YStack key={block}>
+									{i > 0 && <OrnamentalRule symbol={'\u2726'} />}
+									<TimeBlockSection
+										label={def.label}
+										practices={blockPractices}
+										completedIds={completedIds}
+										state={state}
+										completed={completed}
+										total={total}
+										onToggle={(id, done) =>
+											toggle.mutate({ practiceId: id, date: today, completed: done })
+										}
+										onToggleCollapse={() => toggleBlockCollapse(block)}
+									/>
+								</YStack>
 							)
 						})}
 					</YStack>
 				)}
 
 				{wallData.length > 0 && (
-					<YStack alignItems="center" paddingTop="$sm">
-						<GreenWall data={wallData} weeks={10} />
-					</YStack>
+					<ManuscriptFrame ornate={false}>
+						<YStack alignItems="center" gap="$sm">
+							<Text fontFamily="$display" fontSize={18} lineHeight={22} color="$accent">
+								Fidelity
+							</Text>
+							<GreenWall data={wallData} weeks={10} />
+						</YStack>
+					</ManuscriptFrame>
 				)}
 			</YStack>
 		</ScreenLayout>

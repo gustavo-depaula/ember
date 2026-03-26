@@ -4,7 +4,7 @@ import { useMemo } from 'react'
 import { Pressable } from 'react-native'
 import { Text, XStack, YStack } from 'tamagui'
 
-import { ProgressBar, ScreenLayout, SectionDivider } from '@/components'
+import { HeaderFlourish, ProgressBar, ScreenLayout, SectionDivider } from '@/components'
 import type { ReadingProgress } from '@/db/schema'
 import { useAllReadingProgress } from '@/features/divine-office'
 import { getEstimatedCompletion, getProgressPercentage } from '@/features/divine-office/utils'
@@ -76,9 +76,12 @@ export default function SettingsScreen() {
 	return (
 		<ScreenLayout>
 			<YStack gap="$lg" paddingVertical="$lg">
-				<Text fontFamily="$heading" fontSize="$5" color="$color">
-					Settings
-				</Text>
+				<YStack alignItems="center" gap="$xs">
+					<HeaderFlourish />
+					<Text fontFamily="$display" fontSize={28} lineHeight={34} color="$color">
+						Settings
+					</Text>
+				</YStack>
 
 				<YStack gap="$md">
 					<Text fontFamily="$heading" fontSize="$3" color="$color">

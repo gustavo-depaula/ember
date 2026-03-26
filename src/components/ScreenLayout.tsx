@@ -1,7 +1,11 @@
 import type { ReactNode } from 'react'
+import { ImageBackground, StyleSheet } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
-import { ScrollView, YStack } from 'tamagui'
+import { ScrollView, useThemeName, YStack } from 'tamagui'
 
+import { PageBorder } from './PageBorder'
+
+const parchmentTexture = require('../../assets/textures/parchment.png')
 const scrollContentStyle = { flexGrow: 1 }
 
 export function ScreenLayout({
@@ -14,6 +18,8 @@ export function ScreenLayout({
 	padded?: boolean
 }) {
 	const insets = useSafeAreaInsets()
+	const themeName = useThemeName()
+	const isDark = themeName.startsWith('dark')
 
 	const inner = (
 		<YStack
@@ -23,18 +29,42 @@ export function ScreenLayout({
 			paddingBottom={insets.bottom}
 			alignItems="center"
 		>
-			<YStack flex={1} width="100%" maxWidth={640} paddingHorizontal={padded ? '$md' : undefined}>
-				{children}
-			</YStack>
+			<ImageBackground
+				source={parchmentTexture}
+				resizeMode="repeat"
+				style={styles.texture}
+				imageStyle={{ opacity: isDark ? 0.06 : 0.45 }}
+			>
+				<YStack
+					flex={1}
+					width="100%"
+					maxWidth={640}
+					alignSelf="center"
+				>
+					<PageBorder />
+					<YStack
+						flex={1}
+						paddingHorizontal={padded ? '$lg' : '$md'}
+					>
+						{children}
+					</YStack>
+				</YStack>
+			</ImageBackground>
 		</YStack>
 	)
 
 	if (!scroll) return inner
 
-	// backgroundColor on ScrollView covers the overscroll/bounce area
 	return (
 		<ScrollView flex={1} backgroundColor="$background" contentContainerStyle={scrollContentStyle}>
 			{inner}
 		</ScrollView>
 	)
 }
+
+const styles = StyleSheet.create({
+	texture: {
+		flex: 1,
+		width: '100%',
+	},
+})
