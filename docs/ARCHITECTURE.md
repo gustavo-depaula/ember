@@ -4,7 +4,7 @@
 
 | Layer | Choice | Why |
 |-------|--------|-----|
-| Framework | Expo (SDK 52+) | Single codebase for web + iOS + Android |
+| Framework | Expo (SDK 55) | Single codebase for web + iOS + Android |
 | Navigation | Expo Router | File-based routing, deep linking, web-friendly |
 | Storage | expo-sqlite (async API) | Direct SQL queries, no ORM overhead, works reliably on web |
 | KV Storage | AsyncStorage | Simple preferences: theme, translation choice, onboarding state |
@@ -13,9 +13,11 @@
 | Styling/Components | Tamagui | Design system framework with compiler, theming, cross-platform primitives |
 | Animations | react-native-reanimated + Moti | Reanimated for performance, Moti for declarative API |
 | Formatting/Linting | Biome | Single Rust-based tool replacing Prettier + ESLint |
-| Fonts | expo-font | Custom serif typefaces (Cormorant Garamond, Source Serif Pro) |
+| Images | expo-image | Optimized cross-platform image component for texture/ornament assets |
+| Icons | lucide-react-native | Simple line icons for UI |
+| Fonts | expo-font | Custom typefaces (UnifrakturMaguntia, Cinzel, EB Garamond, Pinyon Script) via @expo-google-fonts + bundled TTF |
 | Dates | date-fns | Lightweight, tree-shakeable, no Moment.js bloat |
-| Bible text | Bundled JSON + Bolls.life API | Douay-Rheims offline, RSV2CE/NABRE online with caching |
+| Bible text | Bundled JSON + Bolls.life API | Douay-Rheims offline, NABRE/RSV online with caching |
 | Catechism | Bundled JSON | From `nossbigg/catechism-ccc-json` |
 | Liturgical texts | Bundled JSON | Parsed from `divinumofficium/divinum-officium` (MIT) |
 
@@ -24,18 +26,17 @@
 ## Screen Map
 
 ```
-/                       -> Home (today's overview: practices checklist + next office hour)
+/                       -> Home (greeting, time-block practice checklist, green wall, navigation medallions)
 /office/                -> Office hub (morning, evening, compline cards with status)
-/office/morning         -> Morning Prayer (scrollable prayer flow)
-/office/evening         -> Evening Prayer
-/office/compline        -> Compline
-/plan/                  -> Plan of Life (green wall overview + practice list)
-/plan/[practiceId]      -> Individual practice detail + its green wall
-/progress/              -> Bible/Catechism reading progress dashboard
-/settings/              -> Settings (translation, psalter, mark-read books, theme)
+/office/[hour]          -> Prayer Flow (dynamic route for morning/evening/compline)
+/plan/                  -> Plan of Life (green wall overview + stats + practice checklist)
+/plan/[practiceId]      -> Individual practice detail with its own green wall + stats
+/settings/              -> Settings (reading progress, translation picker, theme toggle)
+/settings/books         -> Mark books as already read (checklist of 73 books)
+/settings/position      -> Change reading position (query param: type=ot|nt|catechism)
 ```
 
-**Tab navigation (bottom bar):** Home | Office | Plan of Life | Settings
+**Stack navigation** with home-as-hub: NavigationMedallion buttons on home screen, BackToHome on sub-screens
 
 ---
 
@@ -65,25 +66,25 @@ interface PracticeLog {
 
 ```typescript
 interface ReadingProgress {
-  type: 'ot' | 'nt' | 'catechism' | 'psalter'
+  type: 'ot' | 'nt' | 'catechism'
   currentBook: string
   currentChapter: number
   currentVerse: number
-  completedBooks: string[]
+  completedBooks: string       // JSON array string
+  completedChapters: string    // JSON object string (added in migration 0002)
   startDate: string
 }
 
-interface OfficePreferences {
-  psalterCycle: '30-day' | 'custom'
-  translation: string   // 'DRB' (bundled), 'RSV2CE', 'NABRE', etc.
-  completedReadings: { book: string; chapters: number[] }[]
+interface OfficePreference {
+  key: string                  // generic KV store
+  value: string
 }
 
 interface DailyOffice {
-  date: string
-  morning: { completed: boolean; completedAt?: number }
-  evening: { completed: boolean; completedAt?: number }
-  compline: { completed: boolean; completedAt?: number }
+  date: string                 // YYYY-MM-DD
+  hour: string                 // 'morning' | 'evening' | 'compline'
+  completed: number            // 0 or 1
+  completedAt?: number         // timestamp
 }
 ```
 
@@ -94,21 +95,23 @@ interface DailyOffice {
 ### expo-sqlite (structured data)
 - `practices` table — fixed set for MVP, extensible for custom practices later
 - `practice_logs` table — one row per practice per day, indexed by date
-- `reading_progress` table — tracks position in OT, NT, CCC, and psalter
+- `reading_progress` table — tracks position in OT, NT, and CCC (includes `completed_chapters` for per-chapter tracking)
 - `daily_office` table — completion status per hour per day
 - `office_preferences` table — translation, psalter cycle, completed readings
 
-### AsyncStorage (simple KV)
-- `theme` — 'light' | 'dark' | 'system'
-- `onboarding_complete` — boolean
-- `cached_translations` — cached API responses from Bolls.life
+### AsyncStorage (simple KV, via Zustand persist)
+- `theme` — 'light' | 'dark' | 'system' (themeStore)
+- `translation` — preferred Bible translation (preferencesStore)
+- `psalterCycle` — '30-day' (preferencesStore)
 
 ### Bundled Assets (read-only)
-- `assets/bible/drb/` — Douay-Rheims JSON files (one per book, 73 files)
-- `assets/catechism/ccc.json` — Full CCC structured by paragraphs
-- `assets/psalter/30-day.json` — 30-day psalter cycle mapping
-- `assets/hymns/` — Hymn texts parsed from Divinum Officium
-- `assets/prayers/` — Fixed prayer texts (Our Father, canticles, Marian antiphons, etc.)
+- `src/assets/bible/drb/` — Douay-Rheims JSON files (one per book, 73 files)
+- `src/assets/catechism/ccc.json` — Full CCC structured by paragraphs
+- `src/assets/psalter/30-day.json` — 30-day psalter cycle mapping
+- `src/assets/hymns/` — Hymn texts parsed from Divinum Officium
+- `src/assets/prayers/` — Fixed prayer texts (Our Father, canticles, Marian antiphons, etc.)
+- `assets/textures/` — Image-based ornament PNGs (corner pieces, horizontal markers, frame textures)
+- `assets/fonts/` — UnifrakturMaguntia bundled TTF
 
 ---
 
@@ -119,7 +122,7 @@ User selects translation in settings
   |
   ├── DRB (Douay-Rheims) -> Read from bundled JSON (always available offline)
   |
-  └── RSV2CE / NABRE / etc. -> Fetch from Bolls.life API
+  └── NABRE / RSV -> Fetch from Bolls.life API
                                   |
                                   ├── Online -> Fetch, cache in SQLite, display
                                   └── Offline -> Show cached version, or fallback to DRB with notice
@@ -133,51 +136,91 @@ Bolls.life API is free, no auth required. Cache aggressively — once a chapter 
 
 ```
 src/
-  app/                  (Expo Router routes)
-    (tabs)/
-      index.tsx         (Home)
-      office/
-        index.tsx       (Office hub)
-        morning.tsx
-        evening.tsx
-        compline.tsx
-      plan/
-        index.tsx       (Plan of Life)
-        [practiceId].tsx
-      settings.tsx
-    _layout.tsx
+  app/                    (Expo Router routes — Stack navigation)
+    _layout.tsx           (Root layout: fonts, DB init, TamaguiProvider, QueryClient)
+    index.tsx             (Home screen)
+    office/
+      _layout.tsx
+      index.tsx           (Office hub)
+      [hour].tsx          (Dynamic prayer flow: morning/evening/compline)
+    plan/
+      _layout.tsx
+      index.tsx           (Plan of Life)
+      [practiceId].tsx    (Practice detail)
+    settings/
+      _layout.tsx
+      index.tsx           (Settings hub)
+      books.tsx           (Mark books as read)
+      position.tsx        (Change reading position)
   features/
     plan-of-life/
+      components/
+        PracticeChecklist.tsx
+        index.ts
       hooks.ts
       utils.ts
+      timeBlocks.ts       (morning/daytime/evening block logic)
       index.ts
     divine-office/
-      hooks.ts
+      components/
+        PrayerFlow.tsx
+        index.ts
       engine.ts
+      hooks.ts
       psalter.ts
+      utils.ts
       index.ts
-  components/           (shared UI components)
-    GreenWall.tsx
-    DropCap.tsx
-    SectionDivider.tsx
-    PrayerText.tsx
-    RubricLabel.tsx
-    ProgressBar.tsx
+    home/
+      components/
+        HeroCTA.tsx
+        NavigationMedallion.tsx
+        TimeBlockSection.tsx
+        index.ts
+      getNextAction.ts
+      index.ts
+  components/             (shared UI components)
+    AppFrame.tsx
+    BackToHome.tsx
     Card.tsx
+    DropCap.tsx
+    GreenWall.tsx
+    IlluminatedInitial.tsx
+    ManuscriptFrame.tsx
+    Ornament.tsx          (OrnamentalRule, HeaderFlourish, CornerFlourish, VineBar, PageBreakOrnament)
+    PageBorder.tsx
+    PrayerText.tsx
+    ProgressBar.tsx
+    RibbonBookmarks.tsx
+    RubricLabel.tsx
+    ScreenLayout.tsx
+    SectionDivider.tsx
+    ornaments/            (SVG-based decorative elements)
+      FloralCorner.tsx
+      FloralVineBorder.tsx
+      WatercolorIcon.tsx
+      svgHelpers.ts
+      index.ts
     index.ts
-  stores/               (zustand + immer stores)
+  stores/                 (zustand + immer stores)
     practiceStore.ts
     officeStore.ts
-    readingStore.ts
     preferencesStore.ts
-  db/                   (sqlite schema, types, client)
-    schema.ts           (TypeScript types for DB rows)
-    client.ts           (async DB init, migrations, getDb())
+    themeStore.ts
+  db/                     (sqlite schema, types, client)
+    schema.ts             (TypeScript types for DB rows)
+    client.ts             (async DB init, migration runner, getDb())
     seed.ts
-  lib/                  (API clients, helpers)
+    migrations/
+      0001_initial.sql
+      0002_completed_chapters.sql
+    repositories/         (data access layer)
+      office.ts
+      practices.ts
+      index.ts
+  lib/                    (API clients, helpers)
     bolls.ts
     content.ts
-  config/               (tamagui config, tokens, themes)
+  config/                 (tamagui config, tokens, themes)
     tamagui.config.ts
     tokens.ts
     themes.ts

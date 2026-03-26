@@ -9,11 +9,11 @@ Implementation tasks for Ember MVP, ordered by dependency. Each phase builds on 
 - [x] Initialize Expo project (SDK 55, TypeScript, Expo Router)
 - [x] Install core dependencies (zustand, immer, tamagui, @tamagui/core, @tamagui/config, react-native-reanimated, moti, expo-sqlite, @tanstack/react-query, expo-font, date-fns, @react-native-async-storage/async-storage, lucide-react-native, react-native-svg, react-native-web, react-dom)
 - [x] Install dev dependencies (@biomejs/biome)
-- [x] Configure Biome 2.x (no semicolons, single quotes, tabs)
+- [x] Configure Biome 2.x (single quotes, spaces)
 - [x] Configure path aliases (@/) in tsconfig with strict mode
 - [x] Configure Tamagui (createTamagui config with Ember tokens, themes, fonts)
-- [x] Load custom fonts (Cormorant Garamond, Source Serif 4) via expo-font
-- [x] Set up Expo Router file structure with tab layout (Home, Office, Plan, Settings)
+- [x] Load custom fonts (UnifrakturMaguntia, Cinzel, EB Garamond, Pinyon Script) via expo-font
+- [x] Set up Expo Router file structure with Stack layout and home-as-hub navigation
 - [x] Implement dark/light/system theme switching via Tamagui themes with AsyncStorage persistence (themeStore.ts)
 - [x] Define Ember design tokens in Tamagui config (colors, typography, spacing, radii)
 - [x] Define Tamagui themes (light, dark, liturgical season sub-themes)
@@ -59,7 +59,12 @@ Implementation tasks for Ember MVP, ordered by dependency. Each phase builds on 
 - [x] `<PrayerText>` — styled text block for prayers (generous line height, serif font)
 - [x] `<RubricLabel>` — small gold label for section titles in office (e.g., "HYMN", "PSALMODY")
 - [x] `<ProgressBar>` — reading progress indicator
-- [x] `<TabBar>` — bottom tab navigation with calligraphic icons, gold active state
+- [x] `<AppFrame>` — top-level decorative frame with corner textures
+- [x] `<BackToHome>` — navigation component for returning to home screen
+- [x] `<ManuscriptFrame>` — book-like decorative frame for prayer content
+- [x] `<RibbonBookmarks>` — decorative ribbon bookmarks
+- [x] `<Ornament>` — ornamental dividers (OrnamentalRule, HeaderFlourish, CornerFlourish, VineBar, PageBreakOrnament)
+- [x] SVG ornaments (FloralCorner, FloralVineBorder, WatercolorIcon)
 
 ## Phase 5: Plan of Life Feature ✅
 
@@ -81,17 +86,15 @@ Implementation tasks for Ember MVP, ordered by dependency. Each phase builds on 
 - [x] Marian antiphon selector — return correct antiphon based on liturgical season/date
 - [x] Hymn selector — return appropriate hymn for hour and season
 - [x] `/office/` screen — hub with 3 cards (Morning, Evening, Compline) showing status and today's references
-- [x] `/office/morning` screen — full scrollable prayer flow (opening verse -> hymn -> psalmody -> OT reading -> Benedictus -> Our Father -> closing)
-- [x] `/office/evening` screen — same flow with evening psalms, NT reading, Magnificat
-- [x] `/office/compline` screen — same flow with Compline psalms, CCC reading, Nunc Dimittis, Marian antiphon
+- [x] `/office/[hour]` screen — dynamic prayer flow route for morning/evening/compline (opening verse -> hymn -> psalmody -> reading -> canticle -> closing)
 - [x] "Mark as Complete" button — records completion in SQLite, advances reading progress to next portion
 - [x] Prayer flow styling — drop caps, ornamental dividers, rubric labels, generous spacing
 
 ## Phase 7: Progress & Settings ✅
 
-- [x] `/progress/` screen — three progress bars (OT %, NT %, CCC %) with estimated completion dates
-- [x] Completed books list and current position display
-- [x] `/settings/` screen — translation picker (DRB bundled + Bolls.life online options)
+- [x] `/settings/` screen — reading progress (OT %, NT %, CCC % with estimated completion), translation picker (DRB bundled + Bolls.life online options)
+- [x] `/settings/books` screen — mark books as already read
+- [x] `/settings/position` screen — change reading position
 - [x] Mark books as already read — checklist of all 73 Bible books, updates reading progress starting point
 - [x] Theme toggle (light / dark / system)
 - [x] Attribution/credits screen (Bible, CCC, Divinum Officium sources)

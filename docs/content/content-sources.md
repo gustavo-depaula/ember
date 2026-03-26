@@ -5,10 +5,9 @@
 | Content | Source | License | Format | Offline? |
 |---------|--------|---------|--------|----------|
 | Bible (Douay-Rheims) | `xxruyle/Bible-DouayRheims` (GitHub) | MIT / Public Domain | JSON | Yes (bundled) |
-| Bible (RSV2CE, NABRE, etc.) | Bolls.life API | Free, no auth | REST API | Cached after first fetch |
+| Bible (NABRE, RSV) | Bolls.life API | Free, no auth | REST API | Cached after first fetch |
 | Catechism (CCC) | `nossbigg/catechism-ccc-json` (GitHub) | Scraped from Vatican | JSON | Yes (bundled) |
 | Psalter & Hymns | `divinumofficium/divinum-officium` (GitHub) | MIT | Custom text -> JSON | Yes (bundled) |
-| Clementine Vulgate | Bolls.life API or Divinum Officium | Public Domain | API / text | Both |
 
 ---
 
@@ -35,10 +34,8 @@
 
 | Code | Translation | Books |
 |------|------------|-------|
-| RSV2CE | RSV Second Catholic Edition | 73 |
 | NABRE | New American Bible Revised Edition | 73 |
-| NRSVCE | New RSV Catholic Edition | 73 |
-| VULG | Clementine Vulgate (Latin) | 73 |
+| RSV | Revised Standard Version | 73 |
 
 **Note:** The Bolls.life DRB (Douay-Rheims) only has 66 books — it is **missing all 7 deuterocanonical books**. Do not use it for Catholic purposes. Use the bundled version from xxruyle instead.
 

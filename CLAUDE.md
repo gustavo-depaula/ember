@@ -32,13 +32,13 @@ All specs live in `docs/` — read them before making changes:
 
 ## Tech Stack
 
-- Expo SDK 52+ with Expo Router (file-based routing)
+- Expo SDK 55+ with Expo Router (file-based routing)
 - Tamagui (design system, theming, components)
 - Zustand + immer (client state)
 - TanStack Query (async/DB reads)
 - expo-sqlite (database, async API)
 - react-native-reanimated + Moti (animations)
-- Biome (formatting + linting — no semicolons, single quotes)
+- Biome (formatting + linting — single quotes)
 - TypeScript strict mode
 
 ## Commands
@@ -53,6 +53,7 @@ pnpm biome check --write .  # format + lint
 
 - Zustand stores use immer middleware (mutate drafts)
 - TanStack Query for all DB/async reads (even local SQLite)
-- DB types defined in `src/db/schema.ts`, migrations in `src/db/client.ts`
+- DB types defined in `src/db/schema.ts`, migrations in `src/db/migrations/*.sql`, applied via `src/db/client.ts`
+- DB queries encapsulated in `src/db/repositories/` (office.ts, practices.ts)
 - Bible text: bundled Douay-Rheims JSON for offline, Bolls.life API for other translations (cached in SQLite)
 - 30-day DWDO psalter cycle (see `docs/features/divine-office.md` for the full table)

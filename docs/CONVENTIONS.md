@@ -129,8 +129,10 @@ import { usePracticeStore } from '@/stores/practiceStore'
 
 ## Formatting (Biome)
 
-- No semicolons
+- Semicolons as needed (Biome `asNeeded` setting)
 - Single quotes
+- Indent style: spaces (2-space)
+- Line width: 100
 - TypeScript strict mode
 - Biome handles both formatting and linting (replaces Prettier + ESLint)
 

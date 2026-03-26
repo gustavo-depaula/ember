@@ -58,7 +58,7 @@ All custom components (DropCap, SectionDivider, GreenWall, etc.) are built with 
 - **Muted blue** — psalm references, Bible references, CCC paragraph numbers
 - **Cloister green** — "Completed" state, "Done" badges, GreenWall full intensity
 - **Gold** — DropCap, RubricLabel, SectionDivider, active tab, primary buttons, HeroCTA border
-- **Subtle gold** — ornamental rules, card top borders, tab bar separator
+- **Subtle gold** — ornamental rules, card top borders, ornamental separators
 
 ### Green Wall (Contribution Heatmap)
 | Intensity | Light Mode | Dark Mode |
@@ -122,20 +122,48 @@ All custom components (DropCap, SectionDivider, GreenWall, etc.) are built with 
 - Only on prayer flow screens, not on lists or settings
 
 ### Ornamental Rules (`OrnamentalRule` component)
-- SVG-based decorative divider for PrayerFlow sections
-- Thin line with diamond endpoints and centered cross symbol
-- Colors: `$accentSubtle` for lines, `$accent` for symbol
+- Image-based decorative divider for PrayerFlow sections
+- Uses `horizontal_marker.png` texture from `assets/textures/`
 - Replaces plain `SectionDivider` in prayer context
 
 ### Header Flourish (`HeaderFlourish` component)
-- Small SVG ornamental curve (48px wide) above major headings
+- Image-based ornamental divider (260px wide) above major headings
+- Uses `horizontal_marker_3.png` texture
 - Used above "Morning Prayer", "Evening Prayer", "Divine Office" titles
-- Color: `$accentSubtle`
 
 ### Corner Flourish (`CornerFlourish` component)
-- 24x24 SVG vine/scroll stroke with 4 rotation orientations
+- 36x36 SVG vine/scroll stroke with 4 rotation orientations
+- Vine curves and leaf accents using theme colors (gold, vineGreen, vineGreenDark)
 - Available for decorative framing (PrayerFlow header area)
-- Color: `$accentSubtle`
+
+### VineBar (`VineBar` component)
+- Vertical vine SVG ornament with leaves and berries
+- Used as sidebar decoration in manuscript frames
+
+### PageBreakOrnament (`PageBreakOrnament` component)
+- Image-based chalice ornament (`horizontal_marker_chalice.png`)
+- Used as major section break in prayer flows
+
+### ManuscriptFrame (`ManuscriptFrame` component)
+- Framing component with optional `ornate` prop for full decorative borders
+- Uses corner texture images from `assets/textures/`
+
+### PageBorder (`PageBorder` component)
+- Full-page decorative border using image-based assets
+
+### RibbonBookmarks (`RibbonBookmarks` component)
+- Decorative ribbon bookmarks in the app layout
+
+### FloralCorner (`FloralCorner` component)
+- SVG-based floral corner with multi-color ornament (gold, red, blue, green)
+- Rich illuminated manuscript style
+
+### FloralVineBorder (`FloralVineBorder` component)
+- SVG vine border decoration with leaves and berries
+
+### WatercolorIcon (`WatercolorIcon` component)
+- Stylized icons (sunrise, book, rosary, moon, quill, cross) rendered as multi-layer SVG
+- Watercolor effect with theme-aware colors
 
 ### Section Divider (`SectionDivider` component)
 - Simple horizontal lines with centered fleuron (`✦`)
@@ -146,11 +174,11 @@ All custom components (DropCap, SectionDivider, GreenWall, etc.) are built with 
 
 | Area | Level | Elements |
 |------|-------|----------|
-| PrayerFlow | Rich | OrnamentalRule, HeaderFlourish, CornerFlourish, DropCap |
-| Office index | Moderate | HeaderFlourish, gold top-border on cards |
-| Home screen | Light | SectionDivider, subtle gold accent on HeroCTA |
-| Plan of Life | Minimal | Clean utilitarian tracking |
-| Settings | None | Pure utility |
+| PrayerFlow | Rich | OrnamentalRule, HeaderFlourish, PageBreakOrnament, CornerFlourish, DropCap, ManuscriptFrame |
+| Office index | Moderate | HeaderFlourish, ManuscriptFrame, gold top-border on cards |
+| Home screen | Moderate | AppFrame, NavigationMedallion, WatercolorIcon, SectionDivider, RibbonBookmarks |
+| Plan of Life | Light | AppFrame, SectionDivider, GreenWall |
+| Settings | Minimal | AppFrame, BackToHome |
 
 ---
 
@@ -171,11 +199,10 @@ All custom components (DropCap, SectionDivider, GreenWall, etc.) are built with 
 - `ornate` variant adds full 1px `$accentSubtle` border
 
 ### Navigation
-- **Bottom tab bar** with 4 tabs: Home, Office, Plan of Life, Settings
-- Simple line icons (lucide-react-native)
-- Active tab: gold accent color
-- Inactive tab: secondary text color
-- Tab bar separator: 0.5px `$accentSubtle` (gold hairline)
+- **Stack navigation** with home-as-hub pattern (no bottom tab bar)
+- Home screen uses `NavigationMedallion` circular buttons to navigate to Office and Plan of Life
+- Sub-screens use `BackToHome` component for return navigation
+- Simple line icons from lucide-react-native throughout UI
 
 ### Animations (Reanimated + Moti)
 - Smooth, gentle transitions (200-300ms)
@@ -192,7 +219,7 @@ All custom components (DropCap, SectionDivider, GreenWall, etc.) are built with 
 - **Style:** Simple line icons with a slight calligraphic quality (thin, elegant strokes)
 - **Active state:** Gold accent fill or stroke
 - **Inactive state:** Secondary text color
-- **Size:** 24px for tab bar, 20px for inline, 32px for feature cards
+- **Size:** 24px for navigation, 20px for inline, 32px for feature cards
 
 ---
 
