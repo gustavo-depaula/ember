@@ -9,12 +9,11 @@ export function DropCap({ text }: { text: string }) {
 	return (
 		<XStack gap="$sm">
 			<Text
-				fontFamily="$heading"
-				fontWeight="700"
-				fontSize={48}
-				lineHeight={48}
+				fontFamily="$display"
+				fontSize={56}
+				lineHeight={56}
 				color="$accent"
-				width={40}
+				width={48}
 				textAlign="center"
 			>
 				{firstLetter}

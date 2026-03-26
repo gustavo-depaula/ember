@@ -1,7 +1,38 @@
 import { createFont } from 'tamagui'
 
+export const displayFont = createFont({
+	family: 'UnifrakturMaguntia',
+	size: {
+		1: 14,
+		2: 17,
+		3: 22,
+		4: 28,
+		5: 36,
+		6: 48,
+		7: 56,
+		true: 36,
+	},
+	lineHeight: {
+		1: 18,
+		2: 22,
+		3: 28,
+		4: 34,
+		5: 42,
+		6: 56,
+		7: 64,
+		true: 42,
+	},
+	weight: {
+		4: '400',
+		true: '400',
+	},
+	face: {
+		400: { normal: 'UnifrakturMaguntia' },
+	},
+})
+
 export const headingFont = createFont({
-	family: 'CormorantGaramond_600SemiBold',
+	family: 'Cinzel_400Regular',
 	size: {
 		1: 12,
 		2: 14,
@@ -9,6 +40,7 @@ export const headingFont = createFont({
 		4: 22,
 		5: 28,
 		6: 32,
+		7: 36,
 		true: 22,
 	},
 	lineHeight: {
@@ -18,23 +50,21 @@ export const headingFont = createFont({
 		4: 29,
 		5: 34,
 		6: 38,
+		7: 42,
 		true: 29,
 	},
 	weight: {
-		4: '600',
-		true: '600',
+		4: '400',
+		true: '400',
 	},
 	face: {
-		600: {
-			normal: 'CormorantGaramond_600SemiBold',
-			italic: 'CormorantGaramond_600SemiBold_Italic',
-		},
-		700: { normal: 'CormorantGaramond_700Bold', italic: 'CormorantGaramond_700Bold_Italic' },
+		400: { normal: 'Cinzel_400Regular' },
+		700: { normal: 'Cinzel_700Bold' },
 	},
 })
 
 export const bodyFont = createFont({
-	family: 'SourceSerif4_400Regular',
+	family: 'EBGaramond_400Regular',
 	size: {
 		1: 12,
 		2: 14,
@@ -47,7 +77,7 @@ export const bodyFont = createFont({
 		1: 16,
 		2: 20,
 		3: 27,
-		4: 34,
+		4: 36,
 		5: 29,
 		true: 27,
 	},
@@ -58,8 +88,35 @@ export const bodyFont = createFont({
 		true: '400',
 	},
 	face: {
-		400: { normal: 'SourceSerif4_400Regular', italic: 'SourceSerif4_400Regular_Italic' },
-		500: { normal: 'SourceSerif4_500Medium' },
-		600: { normal: 'SourceSerif4_600SemiBold' },
+		400: { normal: 'EBGaramond_400Regular', italic: 'EBGaramond_400Regular_Italic' },
+		500: { normal: 'EBGaramond_500Medium' },
+		600: { normal: 'EBGaramond_600SemiBold' },
+	},
+})
+
+export const scriptFont = createFont({
+	family: 'PinyonScript_400Regular',
+	size: {
+		1: 14,
+		2: 16,
+		3: 19,
+		4: 22,
+		5: 28,
+		true: 19,
+	},
+	lineHeight: {
+		1: 20,
+		2: 24,
+		3: 28,
+		4: 32,
+		5: 38,
+		true: 28,
+	},
+	weight: {
+		4: '400',
+		true: '400',
+	},
+	face: {
+		400: { normal: 'PinyonScript_400Regular' },
 	},
 })

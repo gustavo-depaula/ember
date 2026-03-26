@@ -2,11 +2,10 @@ import { styled, Text } from 'tamagui'
 
 export const RubricLabel = styled(Text, {
 	name: 'RubricLabel',
-	fontFamily: '$body',
+	fontFamily: '$heading',
 	fontSize: '$1',
 	lineHeight: '$1',
-	fontWeight: '500',
 	color: '$accent',
 	textTransform: 'uppercase',
-	letterSpacing: 2,
+	letterSpacing: 2.5,
 })

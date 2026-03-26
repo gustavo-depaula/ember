@@ -4,7 +4,7 @@ import { useMemo } from 'react'
 import { Pressable } from 'react-native'
 import { Text, XStack, YStack } from 'tamagui'
 
-import { ScreenLayout } from '@/components'
+import { HeaderFlourish, ScreenLayout } from '@/components'
 import type { ReadingProgress } from '@/db/schema'
 import { useAllReadingProgress, useDailyOfficeStatus } from '@/features/divine-office'
 import { type OfficeHour, readingTypeForHour } from '@/features/divine-office/engine'
@@ -83,11 +83,12 @@ export default function OfficeScreen() {
 	return (
 		<ScreenLayout>
 			<YStack gap="$lg" paddingVertical="$lg">
-				<YStack gap="$xs">
-					<Text fontFamily="$heading" fontSize="$5" color="$color">
+				<YStack gap="$xs" alignItems="center">
+					<HeaderFlourish />
+					<Text fontFamily="$display" fontSize={32} lineHeight={38} color="$color">
 						Divine Office
 					</Text>
-					<Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
+					<Text fontFamily="$script" fontSize="$3" color="$colorSecondary">
 						{format(todayDate, 'EEEE, MMMM d')}
 					</Text>
 				</YStack>
@@ -101,21 +102,23 @@ export default function OfficeScreen() {
 						<Pressable key={hour} onPress={() => router.push(route as never)}>
 							<YStack
 								backgroundColor="$backgroundSurface"
-								borderRadius="$lg"
+								borderRadius="$md"
+								borderTopWidth={1}
+								borderTopColor="$accentSubtle"
 								padding="$md"
 								gap="$sm"
 							>
 								<XStack alignItems="center" justifyContent="space-between">
 									<YStack>
-										<Text fontFamily="$heading" fontSize="$3" color="$color">
+										<Text fontFamily="$heading" fontSize="$3" color="$colorBurgundy">
 											{label}
 										</Text>
-										<Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
+										<Text fontFamily="$script" fontSize="$2" color="$colorSecondary">
 											{sublabel}
 										</Text>
 									</YStack>
 									{completed ? (
-										<Text fontFamily="$body" fontSize="$2" color="$accent">
+										<Text fontFamily="$body" fontSize="$2" color="$colorGreen">
 											Done
 										</Text>
 									) : undefined}
@@ -127,7 +130,7 @@ export default function OfficeScreen() {
 									</Text>
 								) : undefined}
 								{psalmLabel ? (
-									<Text fontFamily="$body" fontSize="$1" color="$colorSecondary" numberOfLines={1}>
+									<Text fontFamily="$body" fontSize="$1" color="$colorMutedBlue" numberOfLines={1}>
 										{psalmLabel}
 									</Text>
 								) : undefined}

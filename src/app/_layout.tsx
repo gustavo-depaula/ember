@@ -1,15 +1,11 @@
+import { Cinzel_400Regular, Cinzel_700Bold } from '@expo-google-fonts/cinzel'
 import {
-	CormorantGaramond_600SemiBold,
-	CormorantGaramond_600SemiBold_Italic,
-	CormorantGaramond_700Bold,
-	CormorantGaramond_700Bold_Italic,
-} from '@expo-google-fonts/cormorant-garamond'
-import {
-	SourceSerif4_400Regular,
-	SourceSerif4_400Regular_Italic,
-	SourceSerif4_500Medium,
-	SourceSerif4_600SemiBold,
-} from '@expo-google-fonts/source-serif-4'
+	EBGaramond_400Regular,
+	EBGaramond_400Regular_Italic,
+	EBGaramond_500Medium,
+	EBGaramond_600SemiBold,
+} from '@expo-google-fonts/eb-garamond'
+import { PinyonScript_400Regular } from '@expo-google-fonts/pinyon-script'
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query'
 import { useFonts } from 'expo-font'
 import { Stack } from 'expo-router'
@@ -33,14 +29,14 @@ const queryClient = new QueryClient()
 
 export default function RootLayout() {
 	const [fontsLoaded] = useFonts({
-		CormorantGaramond_600SemiBold,
-		CormorantGaramond_600SemiBold_Italic,
-		CormorantGaramond_700Bold,
-		CormorantGaramond_700Bold_Italic,
-		SourceSerif4_400Regular,
-		SourceSerif4_400Regular_Italic,
-		SourceSerif4_500Medium,
-		SourceSerif4_600SemiBold,
+		Cinzel_400Regular,
+		Cinzel_700Bold,
+		EBGaramond_400Regular,
+		EBGaramond_400Regular_Italic,
+		EBGaramond_500Medium,
+		EBGaramond_600SemiBold,
+		PinyonScript_400Regular,
+		UnifrakturMaguntia: require('../../assets/fonts/UnifrakturMaguntia-Book.ttf'),
 	})
 
 	const { success: dbReady } = useDbInit()

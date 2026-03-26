@@ -1,6 +1,6 @@
 import { createTamagui } from 'tamagui'
 
-import { bodyFont, headingFont } from './fonts'
+import { bodyFont, displayFont, headingFont, scriptFont } from './fonts'
 import { darkTheme, lightTheme, liturgicalSubThemes } from './themes'
 import { tokens } from './tokens'
 
@@ -23,8 +23,10 @@ export const config = createTamagui({
 		dark_martyr: { ...darkTheme, ...liturgicalSubThemes.martyr },
 	},
 	fonts: {
+		display: displayFont,
 		heading: headingFont,
 		body: bodyFont,
+		script: scriptFont,
 	},
 	media: {
 		sm: { maxWidth: 640 },

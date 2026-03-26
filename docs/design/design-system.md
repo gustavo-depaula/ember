@@ -1,8 +1,10 @@
 # Design System
 
-## Aesthetic: Modern Minimal Sacred + Illuminated Manuscript Tendencies
+## Aesthetic: Digital Book of Hours
 
-The app should feel like a **digital sacred space** — calm, beautiful, and reverent. Think of a well-lit monastery library: spacious, quiet, intentional. The illuminated manuscript touches add warmth and tradition without making it feel dated.
+The app should feel like a **digital Book of Hours** — reverent, calm, warm, readable, structured around prayer. Visually inspired by illuminated manuscripts, but not visually heavy. The interface should feel light, sacred, quiet, and intentional.
+
+**Guiding principle:** ornament supports prayer; it must never compete with usability.
 
 ---
 
@@ -22,7 +24,7 @@ All custom components (DropCap, SectionDivider, GreenWall, etc.) are built with 
 
 ## Color Palette
 
-### Light Mode
+### Light Mode (parchment)
 | Role | Color | Hex |
 |------|-------|-----|
 | Background | Warm cream / parchment | `#FAF6F0` |
@@ -31,22 +33,37 @@ All custom components (DropCap, SectionDivider, GreenWall, etc.) are built with 
 | Text (secondary) | Muted brown | `#6B5D4F` |
 | Accent (gold) | Amber gold | `#C9A84C` |
 | Accent (gold hover) | Deeper gold | `#A8872E` |
+| Accent (subtle) | Light gold | `#D4C088` |
 | Dividers / borders | Light warm gray | `#E5DDD2` |
+| Burgundy | Section titles | `#6B1D2A` |
+| Muted blue | References, citations | `#3D5A80` |
+| Cloister green | Completion states | `#2D6A4F` |
 
-### Dark Mode
+### Dark Mode (warm espresso/leather — not cold navy)
 | Role | Color | Hex |
 |------|-------|-----|
-| Background | Deep navy / charcoal | `#1A1A2E` |
-| Surface (cards) | Slightly lighter navy | `#232340` |
+| Background | Deep espresso / aged leather | `#1C1710` |
+| Surface (cards) | Dark parchment | `#2A2318` |
 | Text (primary) | Soft cream | `#F0E6D3` |
 | Text (secondary) | Muted cream | `#A89F91` |
 | Accent (gold) | Amber gold | `#C9A84C` |
-| Dividers / borders | Dark warm gray | `#3A3555` |
+| Accent (subtle) | Muted gold | `#6B5D3A` |
+| Dividers / borders | Warm olive-brown | `#3D3528` |
+| Burgundy | Section titles (lightened) | `#C4707E` |
+| Muted blue | References (lightened) | `#7BA0C4` |
+| Cloister green | Completion (brightened) | `#5AAA7E` |
+
+### Secondary Accent Usage
+- **Burgundy** — hour titles in PrayerFlow, canticle/hymn titles, HeroCTA office label
+- **Muted blue** — psalm references, Bible references, CCC paragraph numbers
+- **Cloister green** — "Completed" state, "Done" badges, GreenWall full intensity
+- **Gold** — DropCap, RubricLabel, SectionDivider, active tab, primary buttons, HeroCTA border
+- **Subtle gold** — ornamental rules, card top borders, tab bar separator
 
 ### Green Wall (Contribution Heatmap)
 | Intensity | Light Mode | Dark Mode |
 |-----------|------------|-----------|
-| Empty (0%) | `#E8E4D9` | `#2A2A3E` |
+| Empty (0%) | `#E8E4D9` | `#2A2419` |
 | Low (1-25%) | `#C5D5C0` | `#2D4A3A` |
 | Medium (26-50%) | `#8FB88A` | `#2D6A4F` |
 | High (51-75%) | `#5A9A55` | `#3D8B5E` |
@@ -55,7 +72,7 @@ All custom components (DropCap, SectionDivider, GreenWall, etc.) are built with 
 ### Liturgical Season Accents
 | Season | Color | Usage |
 |--------|-------|-------|
-| Advent | Deep purple | `#5B2C6F` — accent bar, hymn headers |
+| Advent | Deep purple | `#5B2C6F` — accent override |
 | Christmas | White/gold | `#F5F0E0` / `#C9A84C` |
 | Lent | Penitential purple | `#7D3C98` |
 | Easter | White/gold | `#F5F0E0` / `#C9A84C` |
@@ -64,53 +81,76 @@ All custom components (DropCap, SectionDivider, GreenWall, etc.) are built with 
 
 ---
 
-## Typography
+## Typography (4-tier font system)
 
 ### Font Families
 
-| Use | Font | Fallback | Weight |
-|-----|------|----------|--------|
-| Headings | Cormorant Garamond | Georgia, serif | 600 (SemiBold) |
-| Body text | Source Serif Pro | Georgia, serif | 400 (Regular) |
-| Prayers & psalms | Source Serif Pro | Georgia, serif | 400, italic for rubrics |
-| UI labels / nav | Source Serif Pro | system-ui | 500 (Medium) |
+| Tier | Font | Tamagui Key | Role | Weight |
+|------|------|-------------|------|--------|
+| Display | UnifrakturMaguntia | `$display` | Decorative moments, drop caps, major titles | 400 |
+| Heading | Cinzel | `$heading` | Section headers, rubric labels, tab labels | 400, 700 |
+| Body | EB Garamond | `$body` | Prayer text, readings, UI text | 400, 400i, 500, 600 |
+| Script | Pinyon Script | `$script` | Sublabels, date lines, blessings | 400 |
+
+### Where Each Font Appears
+- **UnifrakturMaguntia**: DropCap first letter, PrayerFlow hour title ("Morning Prayer"), HeroCTA office label, "Day complete" text
+- **Cinzel**: RubricLabel ("PSALMODY", "HYMN"), time block labels, tab labels, office hour card titles, "Begin" text
+- **EB Garamond**: PrayerText, psalm content, Bible readings, catechism text, practice names, settings, all body copy
+- **Pinyon Script**: date display on home screen, "Lauds"/"Vespers"/"Compline" sublabels, "Your next practice", "Rest well. See you tomorrow."
 
 ### Scale
 
 | Element | Size | Line Height |
 |---------|------|-------------|
-| Screen title | 28px | 1.2 |
-| Section heading | 22px | 1.3 |
-| Body text | 17px | 1.6 |
-| Prayer text | 19px | 1.8 (extra generous for prayerful reading) |
-| Caption / metadata | 14px | 1.4 |
-| Small label | 12px | 1.3 |
+| Display title (PrayerFlow) | 36px | 42px |
+| Screen title | 28px | 34px |
+| Section heading | 22px | 29px |
+| Body text | 17px | 27px |
+| Prayer text | 19px | 36px (extra generous for prayerful reading) |
+| Caption / metadata | 14px | 20px |
+| Small label | 12px | 16px |
 
 ---
 
-## Illuminated Manuscript Touches
+## Illuminated Manuscript Ornament
 
-These should be **subtle, not overwhelming** — hints of the tradition, not a theme park.
+**Principle:** ornament is concentrated in the prayer experience (PrayerFlow), moderate on the Office index, light on the Home screen, and absent on utility screens (Plan, Settings).
 
-### Drop Caps
-- First letter of each Scripture reading and psalm is rendered as a **decorative drop cap**
-- 3-4 lines tall, gold color (`#C9A84C`), Cormorant Garamond Bold
-- Only on the prayer flow screens (office hours), not on lists or settings
+### Drop Caps (`DropCap` component)
+- First letter of each Scripture reading, psalm, and canticle
+- UnifrakturMaguntia (blackletter), 56px, gold color (`#C9A84C`)
+- Only on prayer flow screens, not on lists or settings
 
-### Ornamental Dividers
-- Thin horizontal line between sections of the office
-- Centered small cross or fleuron symbol on the line
-- Color: gold accent on light mode, muted gold on dark mode
-- Example: `——— + ———` or `——— ✦ ———`
+### Ornamental Rules (`OrnamentalRule` component)
+- SVG-based decorative divider for PrayerFlow sections
+- Thin line with diamond endpoints and centered cross symbol
+- Colors: `$accentSubtle` for lines, `$accent` for symbol
+- Replaces plain `SectionDivider` in prayer context
 
-### Section Headers
-- Subtle gold flourish accent (small decorative line) above major section titles in the office
-- Keep it minimal — a short horizontal line with a slight curve, not a full border
+### Header Flourish (`HeaderFlourish` component)
+- Small SVG ornamental curve (48px wide) above major headings
+- Used above "Morning Prayer", "Evening Prayer", "Divine Office" titles
+- Color: `$accentSubtle`
 
-### Background Texture (optional, subtle)
-- Very faint watermark-style cross or sacred geometry pattern
-- Barely visible — should not interfere with readability
-- Only on the prayer flow screens, not on lists/settings
+### Corner Flourish (`CornerFlourish` component)
+- 24x24 SVG vine/scroll stroke with 4 rotation orientations
+- Available for decorative framing (PrayerFlow header area)
+- Color: `$accentSubtle`
+
+### Section Divider (`SectionDivider` component)
+- Simple horizontal lines with centered fleuron (`✦`)
+- Used on non-prayer screens (home, plan of life)
+- Color: `$borderColor` lines, `$accent` symbol
+
+### Ornament Level by Screen
+
+| Area | Level | Elements |
+|------|-------|----------|
+| PrayerFlow | Rich | OrnamentalRule, HeaderFlourish, CornerFlourish, DropCap |
+| Office index | Moderate | HeaderFlourish, gold top-border on cards |
+| Home screen | Light | SectionDivider, subtle gold accent on HeroCTA |
+| Plan of Life | Minimal | Clean utilitarian tracking |
+| Settings | None | Pure utility |
 
 ---
 
@@ -124,16 +164,18 @@ These should be **subtle, not overwhelming** — hints of the tradition, not a t
 
 ### Cards
 - Soft shadow: `0 2px 8px rgba(0,0,0,0.06)` (light), `0 2px 8px rgba(0,0,0,0.3)` (dark)
-- Rounded corners: 12px
+- Rounded corners: 8px (bookish, not bubbly)
 - Internal padding: 16px
+- Subtle gold top border: 1px `$accentSubtle`
 - Background: surface color (slightly offset from page background)
+- `ornate` variant adds full 1px `$accentSubtle` border
 
 ### Navigation
 - **Bottom tab bar** with 4 tabs: Home, Office, Plan of Life, Settings
-- Simple line icons with calligraphic quality
+- Simple line icons (lucide-react-native)
 - Active tab: gold accent color
 - Inactive tab: secondary text color
-- No labels on small screens; icon + label on larger screens
+- Tab bar separator: 0.5px `$accentSubtle` (gold hairline)
 
 ### Animations (Reanimated + Moti)
 - Smooth, gentle transitions (200-300ms)
@@ -152,20 +194,6 @@ These should be **subtle, not overwhelming** — hints of the tradition, not a t
 - **Inactive state:** Secondary text color
 - **Size:** 24px for tab bar, 20px for inline, 32px for feature cards
 
-### Key Icons Needed
-| Element | Icon Concept |
-|---------|-------------|
-| Home | Simple house / chapel silhouette |
-| Office | Open book |
-| Plan of Life | Grid / calendar |
-| Settings | Gear |
-| Morning Prayer | Sun rising |
-| Evening Prayer | Moon / sunset |
-| Compline | Stars / night |
-| Completed | Checkmark in circle |
-| Streak | Flame |
-| Progress | Ascending bar chart |
-
 ---
 
 ## Prayer Flow Layout (Office Screens)
@@ -174,47 +202,43 @@ The prayer experience should feel like reading from a beautiful breviary:
 
 ```
 ┌─────────────────────────────┐
-│     MORNING PRAYER          │  <- section title, Cormorant Garamond
-│     Wednesday, March 25     │  <- date, secondary text
+│         ~flourish~          │  <- HeaderFlourish SVG
+│     Morning Prayer          │  <- UnifrakturMaguntia, burgundy
+│     Wednesday, March 25     │  <- Pinyon Script, secondary
 │                             │
-│  ——————— ✦ ———————          │  <- ornamental divider
+│  ——◆—— ✠ ——◆——             │  <- OrnamentalRule (SVG + cross)
 │                             │
-│  OPENING VERSE              │  <- rubric label (small, gold)
+│  OPENING VERSE              │  <- Cinzel, gold, uppercase
 │                             │
 │  O God, come to my          │
-│  assistance. O Lord, make   │  <- prayer text, generous line height
+│  assistance. O Lord, make   │  <- EB Garamond, generous line height
 │  haste to help me.          │
 │                             │
-│  ——————— ✦ ———————          │
+│  ——◆—— ✠ ——◆——             │
 │                             │
-│  HYMN                       │  <- rubric label
+│  HYMN                       │  <- Cinzel rubric label
 │                             │
 │  [Full hymn text here]      │
 │                             │
-│  ——————— ✦ ———————          │
+│  ——◆—— ✠ ——◆——             │
 │                             │
-│  PSALMODY                   │  <- rubric label
-│  Psalms 1-5                 │  <- psalm reference
+│  PSALMODY                   │  <- Cinzel rubric label
+│  Psalms 1-5                 │  <- EB Garamond, muted blue
 │                             │
-│  B lessed is the man who    │  <- drop cap on first letter
+│  B lessed is the man who    │  <- UnifrakturMaguntia drop cap
 │    walks not in the         │
-│    counsel of the wicked... │
+│    counsel of the wicked... │  <- EB Garamond body
 │                             │
-│  [... continues ...]        │
+│  ——◆—— ✠ ——◆——             │
 │                             │
-│  ——————— ✦ ———————          │
+│  READING                    │  <- Cinzel rubric label
+│  Genesis 1:1-31             │  <- EB Garamond, muted blue
 │                             │
-│  READING                    │  <- rubric label
-│  Genesis 1:1-31             │  <- reference
-│                             │
-│  I n the beginning God      │  <- drop cap
-│    created the heavens and  │
-│    the earth...             │
-│                             │
-│  [... continues ...]        │
+│  I n the beginning God      │  <- UnifrakturMaguntia drop cap
+│    created the heavens...   │  <- EB Garamond body
 │                             │
 │  ┌─────────────────────┐    │
-│  │   Mark as Complete   │   │  <- primary button, gold accent
+│  │   Mark as Complete   │   │  <- Cinzel, gold bg, subtle border
 │  └─────────────────────┘    │
 │                             │
 └─────────────────────────────┘

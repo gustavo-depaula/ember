@@ -1,6 +1,7 @@
 export { Card } from './Card'
 export { DropCap } from './DropCap'
 export { GreenWall, type WallEntry } from './GreenWall'
+export { CornerFlourish, HeaderFlourish, OrnamentalRule } from './Ornament'
 export { PrayerText } from './PrayerText'
 export { ProgressBar } from './ProgressBar'
 export { RubricLabel } from './RubricLabel'
