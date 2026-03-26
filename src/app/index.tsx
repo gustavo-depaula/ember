@@ -123,7 +123,7 @@ export default function HomeScreen() {
                   state={state}
                   completed={completed}
                   total={total}
-                  showRule={i > 0}
+                  showRule={i < blockOrder.length - 1 && state === 'expanded'}
                   onToggle={(id, done) =>
                     toggle.mutate({ practiceId: id, date: today, completed: done })
                   }
