@@ -3,7 +3,7 @@ import { useRouter } from 'expo-router'
 import { useMemo, useState } from 'react'
 import { Text, XStack, YStack } from 'tamagui'
 
-import { GreenWall, HeaderFlourish, ManuscriptFrame, ScreenLayout } from '@/components'
+import { BackToHome, GreenWall, HeaderFlourish, ManuscriptFrame, ScreenLayout } from '@/components'
 import {
 	type DayCompletion,
 	getCompletionRate,
@@ -68,6 +68,7 @@ export default function PlanScreen() {
 	return (
 		<ScreenLayout>
 			<YStack gap="$lg" paddingVertical="$lg">
+				<BackToHome />
 				<YStack alignItems="center" gap="$xs">
 					<HeaderFlourish />
 					<Text fontFamily="$display" fontSize={28} lineHeight={34} color="$color">

@@ -1,3 +1,4 @@
+export { BackToHome } from './BackToHome'
 export { Card } from './Card'
 export { DropCap } from './DropCap'
 export { GreenWall, type WallEntry } from './GreenWall'
