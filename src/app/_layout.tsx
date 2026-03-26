@@ -1,9 +1,9 @@
 import { Cinzel_400Regular, Cinzel_700Bold } from '@expo-google-fonts/cinzel'
 import {
-	EBGaramond_400Regular,
-	EBGaramond_400Regular_Italic,
-	EBGaramond_500Medium,
-	EBGaramond_600SemiBold,
+  EBGaramond_400Regular,
+  EBGaramond_400Regular_Italic,
+  EBGaramond_500Medium,
+  EBGaramond_600SemiBold,
 } from '@expo-google-fonts/eb-garamond'
 import { PinyonScript_400Regular } from '@expo-google-fonts/pinyon-script'
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query'
@@ -30,55 +30,55 @@ LogBox.ignoreLogs(['props.pointerEvents is deprecated'])
 const queryClient = new QueryClient()
 
 export default function RootLayout() {
-	const [fontsLoaded] = useFonts({
-		Cinzel_400Regular,
-		Cinzel_700Bold,
-		EBGaramond_400Regular,
-		EBGaramond_400Regular_Italic,
-		EBGaramond_500Medium,
-		EBGaramond_600SemiBold,
-		PinyonScript_400Regular,
-		UnifrakturMaguntia: require('../../assets/fonts/UnifrakturMaguntia-Book.ttf'),
-	})
+  const [fontsLoaded] = useFonts({
+    Cinzel_400Regular,
+    Cinzel_700Bold,
+    EBGaramond_400Regular,
+    EBGaramond_400Regular_Italic,
+    EBGaramond_500Medium,
+    EBGaramond_600SemiBold,
+    PinyonScript_400Regular,
+    UnifrakturMaguntia: require('../../assets/fonts/UnifrakturMaguntia-Book.ttf'),
+  })
 
-	const { success: dbReady } = useDbInit()
+  const { success: dbReady } = useDbInit()
 
-	const systemScheme = useColorScheme()
-	const { preference, hydrated: themeHydrated, hydrate: hydrateTheme } = useThemeStore()
-	const { hydrated: prefsHydrated, hydrate: hydratePrefs } = usePreferencesStore()
+  const systemScheme = useColorScheme()
+  const { preference, hydrated: themeHydrated, hydrate: hydrateTheme } = useThemeStore()
+  const { hydrated: prefsHydrated, hydrate: hydratePrefs } = usePreferencesStore()
 
-	useEffect(() => {
-		hydrateTheme()
-		hydratePrefs()
-	}, [hydrateTheme, hydratePrefs])
+  useEffect(() => {
+    hydrateTheme()
+    hydratePrefs()
+  }, [hydrateTheme, hydratePrefs])
 
-	const [seeded, setSeeded] = useState(false)
+  const [seeded, setSeeded] = useState(false)
 
-	useEffect(() => {
-		if (dbReady) {
-			Promise.all([seedPractices(), seedReadingProgress()]).then(() => setSeeded(true))
-		}
-	}, [dbReady])
+  useEffect(() => {
+    if (dbReady) {
+      Promise.all([seedPractices(), seedReadingProgress()]).then(() => setSeeded(true))
+    }
+  }, [dbReady])
 
-	const ready = fontsLoaded && themeHydrated && prefsHydrated && dbReady && seeded
+  const ready = fontsLoaded && themeHydrated && prefsHydrated && dbReady && seeded
 
-	useEffect(() => {
-		if (ready) {
-			SplashScreen.hideAsync()
-		}
-	}, [ready])
+  useEffect(() => {
+    if (ready) {
+      SplashScreen.hideAsync()
+    }
+  }, [ready])
 
-	if (!ready) return undefined
+  if (!ready) return undefined
 
-	const resolvedTheme = preference === 'system' ? (systemScheme ?? 'light') : preference
+  const resolvedTheme = preference === 'system' ? (systemScheme ?? 'light') : preference
 
-	return (
-		<QueryClientProvider client={queryClient}>
-			<TamaguiProvider config={config} defaultTheme={resolvedTheme}>
-				<StatusBar hidden />
-				<Stack screenOptions={{ headerShown: false, animation: 'none' }} />
-				<RibbonBookmarks />
-			</TamaguiProvider>
-		</QueryClientProvider>
-	)
+  return (
+    <QueryClientProvider client={queryClient}>
+      <TamaguiProvider config={config} defaultTheme={resolvedTheme}>
+        <StatusBar hidden />
+        <Stack screenOptions={{ headerShown: false, animation: 'none' }} />
+        <RibbonBookmarks />
+      </TamaguiProvider>
+    </QueryClientProvider>
+  )
 }
