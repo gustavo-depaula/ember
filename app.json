@@ -13,7 +13,8 @@
       "backgroundColor": "#1A1A2E"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.dpgu.ember"
     },
     "android": {
       "adaptiveIcon": {
