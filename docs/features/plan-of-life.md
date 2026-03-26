@@ -25,6 +25,25 @@ Each practice is a **daily binary toggle** — done or not done for that day.
 
 ---
 
+## Time Blocks
+
+Practices are organized into three time-of-day blocks on the home screen:
+
+| Block | Time Range | Practices |
+|-------|-----------|-----------|
+| Morning | 5:00-11:59 | Morning Offering, Mental Prayer, Holy Mass |
+| Daytime | 12:00-16:59 | Spiritual Reading, Angelus, Rosary |
+| Evening | 17:00-4:59 | Examination of Conscience, Night Prayer |
+
+Each block has display states based on time of day and completion:
+- **Expanded** — shows full practice list with toggles (current or incomplete past block)
+- **Collapsed** — shows label + completion count (past block, all done)
+- **Preview** — shows label + practice names in compact form (future blocks)
+
+Implementation: `src/features/plan-of-life/timeBlocks.ts`
+
+---
+
 ## Future: Preset + Fully Customizable
 
 - Ship with a robust set of pre-loaded practices covering daily, weekly, and seasonal devotions
@@ -49,7 +68,7 @@ Each practice is a **daily binary toggle** — done or not done for that day.
   - 3-4/8: medium green
   - 5-6/8: deep green
   - 7-8/8: deep emerald (`#2D6A4F`)
-- Scrollable horizontally to see history (weeks/months)
+- Fixed-width grid with configurable `weeks` prop (20 on plan screen, 10 on home screen)
 - 7 rows (Mon-Sun), columns = weeks (same layout as GitHub)
 
 ### Individual Practice Walls
@@ -69,13 +88,12 @@ Each practice is a **daily binary toggle** — done or not done for that day.
 - Overview green wall at the top
 - Below: list of all 8 practices with today's completion status (checkbox)
 - Tap a practice to go to its detail view
-- Summary stats: current streak, completion rate this week/month
+- Summary stats: current streak, completion rate
 
 ### `/plan/[practiceId]` — Practice Detail
 - Practice name and icon
 - Individual green wall for this practice
 - Stats: current streak, longest streak, total days completed, completion rate
-- Calendar view alternative (month grid with dots)
 
 ---
 

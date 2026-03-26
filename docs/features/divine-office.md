@@ -15,9 +15,7 @@ A simplified Divine Office with three hours — Morning, Evening, and Compline �
 3. **Psalmody** — Psalms assigned for this day's morning (from 30-day cycle)
 4. **Scripture Reading** — Old Testament lectio continua portion
 5. **Benedictus** — Canticle of Zechariah (Luke 1:68-79)
-6. **Intercessions** — Brief petitions
-7. **Our Father**
-8. **Closing prayer**
+6. **Our Father**
 
 ### Evening Prayer (Vespers)
 
@@ -26,20 +24,17 @@ A simplified Divine Office with three hours — Morning, Evening, and Compline �
 3. **Psalmody** — Psalms assigned for this day's evening (from 30-day cycle)
 4. **Scripture Reading** — New Testament lectio continua portion
 5. **Magnificat** — Canticle of Mary (Luke 1:46-55)
-6. **Intercessions**
-7. **Our Father**
-8. **Closing prayer**
+6. **Our Father**
 
 ### Night Prayer (Compline)
 
 1. **Opening verse**
-2. **Examination of Conscience** — Brief prompt for reflection
-3. **Hymn**
-4. **Psalmody** — Traditional Compline psalms (Ps 4, 91, 134), rotating weekly
-5. **Scripture Reading** — Catechism of the Catholic Church portion
-6. **Nunc Dimittis** — Canticle of Simeon (Luke 2:29-32)
-7. **Closing prayer**
-8. **Marian Antiphon** — Seasonal:
+2. **Hymn**
+3. **Psalmody** — Traditional Compline psalms (Ps 4, 91, 134), rotating weekly
+4. **Scripture Reading** — Catechism of the Catholic Church portion
+5. **Nunc Dimittis** — Canticle of Simeon (Luke 2:29-32)
+6. **Glory Be** — Closing prayer
+7. **Marian Antiphon** — Seasonal:
    - Advent to Feb 1: *Alma Redemptoris Mater*
    - Feb 2 to Wednesday of Holy Week: *Ave Regina Caelorum*
    - Easter to Pentecost: *Regina Caeli*
@@ -75,7 +70,7 @@ On first launch (or anytime in Settings):
 - Percentage of OT complete
 - Percentage of NT complete
 - Percentage of CCC complete
-- Visual progress bars on the `/progress/` dashboard
+- Visual progress bars on the `/settings/` screen
 - Estimated completion date based on current pace
 
 ---
@@ -135,7 +130,7 @@ The day of the psalter cycle is determined by `day_of_month` (1-30). Months with
 ## Bible Translation
 
 - **Default (offline):** Douay-Rheims — public domain, bundled as JSON
-- **Online options (via Bolls.life API):** RSV2CE, NABRE, NRSVCE, Clementine Vulgate
+- **Online options (via Bolls.life API):** NABRE, RSV
 - User selects preferred translation in Settings
 - Online translations are cached locally in SQLite after first fetch
 - Falls back to Douay-Rheims when offline and no cache available
@@ -149,23 +144,25 @@ The day of the psalter cycle is determined by `day_of_month` (1-30). Months with
 - Each shows: hour name, status (completed / not yet / in progress), time completed
 - Today's psalms and reading references previewed on each card
 
-### `/office/morning`, `/office/evening`, `/office/compline` — Prayer Flow
-- Full scrollable prayer experience
+### `/office/[hour]` — Prayer Flow (dynamic route)
+- Full scrollable prayer experience for morning, evening, or compline
 - Each section (hymn, psalmody, reading, canticle, etc.) is a distinct visual block
 - Decorative drop cap on first letter of readings
 - "Mark as Complete" button at the bottom
-- Progress indicator showing position within the prayer
+- Advances reading progress on completion
 
-### `/progress/` — Reading Progress Dashboard
-- Three progress bars: OT, NT, CCC
-- Percentage complete + estimated completion date
-- List of completed books
-- Current position in each reading track
-
-### `/settings/` — Relevant Settings
-- Translation picker
-- Mark books as already read (checklist of all 73 books)
+### `/settings/` — Settings Hub
+- Reading progress display (OT %, NT %, CCC % with estimated completion dates)
+- Translation picker (DRB bundled + NABRE/RSV online)
 - Theme toggle (light/dark/system)
+
+### `/settings/books` — Mark Books as Read
+- Checklist of all 73 Bible books
+- Updates reading progress starting point
+
+### `/settings/position` — Change Reading Position
+- Set current position in OT, NT, or CCC reading track
+- Accessed via query param `type=ot|nt|catechism`
 
 ---
 
@@ -173,18 +170,18 @@ The day of the psalter cycle is determined by `day_of_month` (1-30). Months with
 
 ```typescript
 interface ReadingProgress {
-  type: 'ot' | 'nt' | 'catechism' | 'psalter'
+  type: 'ot' | 'nt' | 'catechism'
   currentBook: string
   currentChapter: number
   currentVerse: number
-  completedBooks: string[]
-  startDate: string       // YYYY-MM-DD
+  completedBooks: string       // JSON array string
+  completedChapters: string    // JSON object string (migration 0002)
+  startDate: string            // YYYY-MM-DD
 }
 
-interface OfficePreferences {
-  psalterCycle: '30-day' | 'custom'
-  translation: string     // 'DRB', 'RSV2CE', 'NABRE', etc.
-  completedReadings: { book: string; chapters: number[] }[]
+interface OfficePreference {
+  key: string                  // generic KV store
+  value: string
 }
 
 interface DailyOffice {
@@ -199,11 +196,12 @@ interface DailyOffice {
 
 ```sql
 CREATE TABLE reading_progress (
-  type TEXT PRIMARY KEY,    -- 'ot', 'nt', 'catechism', 'psalter'
+  type TEXT PRIMARY KEY,    -- 'ot', 'nt', 'catechism'
   current_book TEXT NOT NULL,
   current_chapter INTEGER NOT NULL,
   current_verse INTEGER NOT NULL DEFAULT 1,
-  completed_books TEXT NOT NULL DEFAULT '[]',  -- JSON array
+  completed_books TEXT NOT NULL DEFAULT '[]',        -- JSON array
+  completed_chapters TEXT NOT NULL DEFAULT '{}',     -- JSON object (migration 0002)
   start_date TEXT NOT NULL
 );
 
