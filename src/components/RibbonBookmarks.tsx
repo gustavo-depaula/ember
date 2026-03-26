@@ -53,14 +53,7 @@ export const RibbonBookmarks = memo(function RibbonBookmarks() {
 	}
 
 	return (
-		<View
-			position="absolute"
-			top={0}
-			right={0}
-			bottom={0}
-			zIndex={5000}
-			pointerEvents="box-none"
-		>
+		<View position="absolute" top={0} right={0} bottom={0} zIndex={5000} pointerEvents="box-none">
 			{ribbons.map((ribbon, i) => {
 				const active = isActive(ribbon.path)
 				return (
@@ -69,7 +62,7 @@ export const RibbonBookmarks = memo(function RibbonBookmarks() {
 						color={ribbon.color}
 						active={active}
 						y={startY + i * (ribbonHeight + ribbonGap)}
-						onPress={active ? undefined : () => router.push(ribbon.path as never)}
+						onPress={active ? undefined : () => router.replace(ribbon.path as never)}
 					/>
 				)
 			})}
