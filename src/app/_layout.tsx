@@ -76,7 +76,7 @@ export default function RootLayout() {
 		<QueryClientProvider client={queryClient}>
 			<TamaguiProvider config={config} defaultTheme={resolvedTheme}>
 				<StatusBar hidden />
-				<Stack screenOptions={{ headerShown: false, animation: 'fade' }} />
+				<Stack screenOptions={{ headerShown: false, animation: 'none' }} />
 				<RibbonBookmarks />
 			</TamaguiProvider>
 		</QueryClientProvider>
