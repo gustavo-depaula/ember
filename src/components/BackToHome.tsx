@@ -4,17 +4,17 @@ import { Pressable } from 'react-native'
 import { Text, useTheme, XStack } from 'tamagui'
 
 export function BackToHome() {
-	const router = useRouter()
-	const theme = useTheme()
+  const router = useRouter()
+  const theme = useTheme()
 
-	return (
-		<Pressable onPress={() => router.push('/')}>
-			<XStack alignItems="center" gap={2} paddingVertical="$xs">
-				<ChevronLeft size={14} color={theme.accent.val} />
-				<Text fontFamily="$script" fontSize="$2" color="$accent">
-					Home
-				</Text>
-			</XStack>
-		</Pressable>
-	)
+  return (
+    <Pressable onPress={() => router.replace('/')}>
+      <XStack alignItems="center" gap={2} paddingVertical="$xs">
+        <ChevronLeft size={14} color={theme.accent.val} />
+        <Text fontFamily="$script" fontSize="$2" color="$accent">
+          Home
+        </Text>
+      </XStack>
+    </Pressable>
+  )
 }

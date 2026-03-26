@@ -5,11 +5,11 @@ export { GreenWall, type WallEntry } from './GreenWall'
 export { IlluminatedInitial } from './IlluminatedInitial'
 export { ManuscriptFrame } from './ManuscriptFrame'
 export {
-	CornerFlourish,
-	HeaderFlourish,
-	OrnamentalRule,
-	PageBreakOrnament,
-	VineBar,
+  CornerFlourish,
+  HeaderFlourish,
+  OrnamentalRule,
+  PageBreakOrnament,
+  VineBar,
 } from './Ornament'
 export { FloralCorner, FloralVineBorder, WatercolorIcon } from './ornaments'
 export { PageBorder } from './PageBorder'

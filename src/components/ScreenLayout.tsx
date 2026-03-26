@@ -5,40 +5,40 @@ import { ScrollView, YStack } from 'tamagui'
 const scrollContentStyle = { flexGrow: 1 }
 
 export function ScreenLayout({
-	children,
-	scroll = true,
-	padded = true,
+  children,
+  scroll = true,
+  padded = true,
 }: {
-	children: ReactNode
-	scroll?: boolean
-	padded?: boolean
+  children: ReactNode
+  scroll?: boolean
+  padded?: boolean
 }) {
-	const insets = useSafeAreaInsets()
+  const insets = useSafeAreaInsets()
 
-	const inner = (
-		<YStack
-			flex={1}
-			backgroundColor="$background"
-			paddingTop={insets.top}
-			paddingBottom={insets.bottom}
-		>
-			<YStack
-				flex={1}
-				width="100%"
-				maxWidth={640}
-				alignSelf="center"
-				paddingHorizontal={padded ? '$lg' : '$md'}
-			>
-				{children}
-			</YStack>
-		</YStack>
-	)
+  const inner = (
+    <YStack
+      flex={1}
+      backgroundColor="$background"
+      paddingTop={insets.top}
+      paddingBottom={insets.bottom}
+    >
+      <YStack
+        flex={1}
+        width="100%"
+        maxWidth={640}
+        alignSelf="center"
+        paddingHorizontal={padded ? '$lg' : '$md'}
+      >
+        {children}
+      </YStack>
+    </YStack>
+  )
 
-	if (!scroll) return inner
+  if (!scroll) return inner
 
-	return (
-		<ScrollView flex={1} backgroundColor="$background" contentContainerStyle={scrollContentStyle}>
-			{inner}
-		</ScrollView>
-	)
+  return (
+    <ScrollView flex={1} backgroundColor="$background" contentContainerStyle={scrollContentStyle}>
+      {inner}
+    </ScrollView>
+  )
 }

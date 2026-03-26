@@ -4,9 +4,14 @@ import { useCallback, useMemo, useState } from 'react'
 import { Pressable } from 'react-native'
 import { Text, XStack, YStack } from 'tamagui'
 
-import { GreenWall, ManuscriptFrame, OrnamentalRule, ScreenLayout } from '@/components'
-import { useDailyOfficeStatus } from '@/features/divine-office'
-import { getNextAction, HeroCTA, NavigationMedallion, TimeBlockSection } from '@/features/home'
+import {
+  GreenWall,
+  HeaderFlourish,
+  ManuscriptFrame,
+  OrnamentalRule,
+  ScreenLayout,
+} from '@/components'
+import { NavigationMedallion, TimeBlockSection } from '@/features/home'
 import {
   toCompletedSet,
   toGreenWallData,
@@ -42,8 +47,6 @@ export default function HomeScreen() {
   const { data: practices = [] } = usePractices()
   const { data: todayLogs = [] } = usePracticeLogsForDate(today)
   const toggle = useTogglePractice()
-  const { data: officeStatus } = useDailyOfficeStatus(today)
-
   const wallStart = format(subWeeks(now, 9), 'yyyy-MM-dd')
   const { data: wallLogs = [] } = usePracticeLogRange(wallStart, today)
 
@@ -51,11 +54,6 @@ export default function HomeScreen() {
   const wallData = useMemo(
     () => toGreenWallData(wallLogs, practices.length),
     [wallLogs, practices.length],
-  )
-
-  const nextAction = useMemo(
-    () => getNextAction(hour, officeStatus, completedIds, practices),
-    [hour, officeStatus, completedIds, practices],
   )
 
   // manual overrides for collapse/expand
@@ -73,25 +71,18 @@ export default function HomeScreen() {
 
   const practiceMap = useMemo(() => new Map(practices.map((p) => [p.id, p])), [practices])
 
-  function handleHeroCTAPress() {
-    if (nextAction.type === 'office') {
-      router.push(nextAction.route as never)
-    }
-  }
-
   return (
     <ScreenLayout>
       <YStack gap="$lg" paddingVertical="$lg">
-        <XStack justifyContent="space-between" alignItems="baseline" paddingHorizontal="$xs">
+        <YStack gap="$xs" alignItems="center">
+          <HeaderFlourish />
           <Text fontFamily="$heading" fontSize="$5" color="$color">
             {greeting}
           </Text>
           <Text fontFamily="$script" fontSize="$2" color="$colorSecondary">
             {format(now, 'EEE, MMMM d')}
           </Text>
-        </XStack>
-
-        <HeroCTA action={nextAction} onPress={handleHeroCTAPress} />
+        </YStack>
 
         <XStack gap="$md">
           <YStack flex={1}>
@@ -124,21 +115,20 @@ export default function HomeScreen() {
               const state = overrides[block] ?? autoState
 
               return (
-                <YStack key={block}>
-                  {i > 0 && <OrnamentalRule />}
-                  <TimeBlockSection
-                    label={def.label}
-                    practices={blockPractices}
-                    completedIds={completedIds}
-                    state={state}
-                    completed={completed}
-                    total={total}
-                    onToggle={(id, done) =>
-                      toggle.mutate({ practiceId: id, date: today, completed: done })
-                    }
-                    onToggleCollapse={() => toggleBlockCollapse(block)}
-                  />
-                </YStack>
+                <TimeBlockSection
+                  key={block}
+                  label={def.label}
+                  practices={blockPractices}
+                  completedIds={completedIds}
+                  state={state}
+                  completed={completed}
+                  total={total}
+                  showRule={i > 0}
+                  onToggle={(id, done) =>
+                    toggle.mutate({ practiceId: id, date: today, completed: done })
+                  }
+                  onToggleCollapse={() => toggleBlockCollapse(block)}
+                />
               )
             })}
           </YStack>
@@ -157,12 +147,7 @@ export default function HomeScreen() {
 
         <OrnamentalRule />
         <Pressable onPress={() => router.push('/settings')}>
-          <Text
-            fontFamily="$script"
-            fontSize="$2"
-            color="$accent"
-            textAlign="center"
-          >
+          <Text fontFamily="$script" fontSize="$2" color="$accent" textAlign="center">
             Preferences & Reading Progress
           </Text>
         </Pressable>

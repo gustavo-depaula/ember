@@ -18,126 +18,126 @@ import { getComplinePsalms, getPsalmsForDay, type PsalmRef } from './psalter'
 export type OfficeHour = 'morning' | 'evening' | 'compline'
 
 export type ReadingReference =
-	| { type: 'bible'; book: string; bookName: string; chapter: number }
-	| { type: 'catechism'; startParagraph: number; count: number }
+  | { type: 'bible'; book: string; bookName: string; chapter: number }
+  | { type: 'catechism'; startParagraph: number; count: number }
 
 export type PrayerSection =
-	| { type: 'rubric'; label: string }
-	| { type: 'prayer'; title: string; text: string }
-	| { type: 'hymn'; title: string; latin: string; english: string }
-	| { type: 'psalmody'; psalms: PsalmRef[] }
-	| { type: 'reading'; reference: ReadingReference }
-	| { type: 'canticle'; title: string; subtitle: string; source: string; text: string }
-	| { type: 'divider' }
-	| { type: 'complete' }
+  | { type: 'rubric'; label: string }
+  | { type: 'prayer'; title: string; text: string }
+  | { type: 'hymn'; title: string; latin: string; english: string }
+  | { type: 'psalmody'; psalms: PsalmRef[] }
+  | { type: 'reading'; reference: ReadingReference }
+  | { type: 'canticle'; title: string; subtitle: string; source: string; text: string }
+  | { type: 'divider' }
+  | { type: 'complete' }
 
 type Antiphon = {
-	id: string
-	season: string
-	title: string
-	latin: string
-	english: string
+  id: string
+  season: string
+  title: string
+  latin: string
+  english: string
 }
 
 type CccParagraph = {
-	number: number
-	text: string
-	section: string
+  number: number
+  text: string
+  section: string
 }
 
 export const cccDailyCount = 8
 
 export const readingTypeForHour: Record<OfficeHour, 'ot' | 'nt' | 'catechism'> = {
-	morning: 'ot',
-	evening: 'nt',
-	compline: 'catechism',
+  morning: 'ot',
+  evening: 'nt',
+  compline: 'catechism',
 }
 
 // --- Liturgical season ---
 
 export function computeEaster(year: number): Date {
-	const a = year % 19
-	const b = Math.floor(year / 100)
-	const c = year % 100
-	const d = Math.floor(b / 4)
-	const e = b % 4
-	const f = Math.floor((b + 8) / 25)
-	const g = Math.floor((b - f + 1) / 3)
-	const h = (19 * a + b - d - g + 15) % 30
-	const i = Math.floor(c / 4)
-	const k = c % 4
-	const l = (32 + 2 * e + 2 * i - h - k) % 7
-	const m = Math.floor((a + 11 * h + 22 * l) / 451)
-	const month = Math.floor((h + l - 7 * m + 114) / 31)
-	const day = ((h + l - 7 * m + 114) % 31) + 1
-	return new Date(year, month - 1, day)
+  const a = year % 19
+  const b = Math.floor(year / 100)
+  const c = year % 100
+  const d = Math.floor(b / 4)
+  const e = b % 4
+  const f = Math.floor((b + 8) / 25)
+  const g = Math.floor((b - f + 1) / 3)
+  const h = (19 * a + b - d - g + 15) % 30
+  const i = Math.floor(c / 4)
+  const k = c % 4
+  const l = (32 + 2 * e + 2 * i - h - k) % 7
+  const m = Math.floor((a + 11 * h + 22 * l) / 451)
+  const month = Math.floor((h + l - 7 * m + 114) / 31)
+  const day = ((h + l - 7 * m + 114) % 31) + 1
+  return new Date(year, month - 1, day)
 }
 
 function getFirstSundayOfAdvent(year: number): Date {
-	// First Sunday of Advent: the Sunday on or after November 27
-	const nov27 = new Date(year, 10, 27)
-	const dayOfWeek = nov27.getDay()
-	const daysUntilSunday = dayOfWeek === 0 ? 0 : 7 - dayOfWeek
-	return addDays(nov27, daysUntilSunday)
+  // First Sunday of Advent: the Sunday on or after November 27
+  const nov27 = new Date(year, 10, 27)
+  const dayOfWeek = nov27.getDay()
+  const daysUntilSunday = dayOfWeek === 0 ? 0 : 7 - dayOfWeek
+  return addDays(nov27, daysUntilSunday)
 }
 
 function dateOnOrBefore(date: Date, boundary: Date): boolean {
-	return isBefore(date, boundary) || isEqual(startOfDay(date), startOfDay(boundary))
+  return isBefore(date, boundary) || isEqual(startOfDay(date), startOfDay(boundary))
 }
 
 function dateOnOrAfter(date: Date, boundary: Date): boolean {
-	return isAfter(date, boundary) || isEqual(startOfDay(date), startOfDay(boundary))
+  return isAfter(date, boundary) || isEqual(startOfDay(date), startOfDay(boundary))
 }
 
 export function getLiturgicalSeason(date: Date): 'advent' | 'christmas' | 'easter' | 'ordinary' {
-	const year = date.getFullYear()
-	const d = startOfDay(date)
+  const year = date.getFullYear()
+  const d = startOfDay(date)
 
-	const feb1 = new Date(year, 1, 1)
-	const feb2 = new Date(year, 1, 2)
-	const easter = computeEaster(year)
-	const holyWednesday = addDays(easter, -4)
-	const pentecost = addDays(easter, 49)
-	const adventStart = getFirstSundayOfAdvent(year)
+  const feb1 = new Date(year, 1, 1)
+  const feb2 = new Date(year, 1, 2)
+  const easter = computeEaster(year)
+  const holyWednesday = addDays(easter, -4)
+  const pentecost = addDays(easter, 49)
+  const adventStart = getFirstSundayOfAdvent(year)
 
-	// Advent of current year through Feb 1 of next year
-	if (dateOnOrAfter(d, adventStart)) return 'advent'
+  // Advent of current year through Feb 1 of next year
+  if (dateOnOrAfter(d, adventStart)) return 'advent'
 
-	// Jan 1 through Feb 1 — still in previous year's advent/Alma Redemptoris season
-	if (dateOnOrBefore(d, feb1)) return 'advent'
+  // Jan 1 through Feb 1 — still in previous year's advent/Alma Redemptoris season
+  if (dateOnOrBefore(d, feb1)) return 'advent'
 
-	// Feb 2 through Holy Wednesday
-	if (dateOnOrAfter(d, feb2) && dateOnOrBefore(d, holyWednesday)) return 'christmas'
+  // Feb 2 through Holy Wednesday
+  if (dateOnOrAfter(d, feb2) && dateOnOrBefore(d, holyWednesday)) return 'christmas'
 
-	// Easter through Pentecost
-	if (dateOnOrAfter(d, easter) && dateOnOrBefore(d, pentecost)) return 'easter'
+  // Easter through Pentecost
+  if (dateOnOrAfter(d, easter) && dateOnOrBefore(d, pentecost)) return 'easter'
 
-	// Everything else
-	return 'ordinary'
+  // Everything else
+  return 'ordinary'
 }
 
 // --- Content selectors ---
 
 export function getMarianAntiphon(date: Date): Antiphon {
-	const season = getLiturgicalSeason(date)
-	const antiphon = antiphonData.antiphons.find((a: { season: string }) => a.season === season)
-	// Fallback to Salve Regina
-	return antiphon ?? antiphonData.antiphons[3]
+  const season = getLiturgicalSeason(date)
+  const antiphon = antiphonData.antiphons.find((a: { season: string }) => a.season === season)
+  // Fallback to Salve Regina
+  return antiphon ?? antiphonData.antiphons[3]
 }
 
 const hymnsByHour = {
-	morning: morningHymns.hymns,
-	evening: eveningHymns.hymns,
-	compline: complineHymns.hymns,
+  morning: morningHymns.hymns,
+  evening: eveningHymns.hymns,
+  compline: complineHymns.hymns,
 }
 
 export function getHymnForHour(hour: OfficeHour): {
-	title: string
-	latin: string
-	english: string
+  title: string
+  latin: string
+  english: string
 } {
-	const hymns = hymnsByHour[hour]
-	return hymns[0]
+  const hymns = hymnsByHour[hour]
+  return hymns[0]
 }
 
 // --- CCC ---
@@ -145,167 +145,167 @@ export function getHymnForHour(hour: OfficeHour): {
 let cccData: CccParagraph[] | undefined
 
 function loadCcc(): CccParagraph[] {
-	if (!cccData) {
-		cccData = require('@/assets/catechism/ccc.json')
-	}
-	return cccData as CccParagraph[]
+  if (!cccData) {
+    cccData = require('@/assets/catechism/ccc.json')
+  }
+  return cccData as CccParagraph[]
 }
 
 export function getCccParagraphs(
-	startParagraph: number,
-	count: number,
+  startParagraph: number,
+  count: number,
 ): Array<{ number: number; text: string; section: string }> {
-	const ccc = loadCcc()
-	const startIndex = Math.max(0, startParagraph - 1)
-	return ccc.slice(startIndex, startIndex + count)
+  const ccc = loadCcc()
+  const startIndex = Math.max(0, startParagraph - 1)
+  return ccc.slice(startIndex, startIndex + count)
 }
 
 // --- Reading references ---
 
 export function getTodaysReading(
-	type: 'ot' | 'nt' | 'catechism',
-	progress: ReadingProgress,
+  type: 'ot' | 'nt' | 'catechism',
+  progress: ReadingProgress,
 ): ReadingReference {
-	if (type === 'catechism') {
-		return {
-			type: 'catechism',
-			startParagraph: progress.current_chapter,
-			count: cccDailyCount,
-		}
-	}
+  if (type === 'catechism') {
+    return {
+      type: 'catechism',
+      startParagraph: progress.current_chapter,
+      count: cccDailyCount,
+    }
+  }
 
-	const books = getDrbBooks()
-	const book = books.find((b) => b.id === progress.current_book)
-	return {
-		type: 'bible',
-		book: progress.current_book,
-		bookName: book?.name ?? progress.current_book,
-		chapter: progress.current_chapter,
-	}
+  const books = getDrbBooks()
+  const book = books.find((b) => b.id === progress.current_book)
+  return {
+    type: 'bible',
+    book: progress.current_book,
+    bookName: book?.name ?? progress.current_book,
+    chapter: progress.current_chapter,
+  }
 }
 
 // --- Section builder ---
 
 function buildMorningEvening(
-	hour: 'morning' | 'evening',
-	date: Date,
-	progress: ReadingProgress | null | undefined,
-	numbering: PsalmNumbering,
+  hour: 'morning' | 'evening',
+  date: Date,
+  progress: ReadingProgress | null | undefined,
+  numbering: PsalmNumbering,
 ): PrayerSection[] {
-	const psalmsForDay = getPsalmsForDay(date, numbering)
-	const psalms = hour === 'morning' ? psalmsForDay.morning : psalmsForDay.evening
-	const hymn = getHymnForHour(hour)
-	const readingType = hour === 'morning' ? 'ot' : 'nt'
-	const canticle = hour === 'morning' ? benedictus : magnificat
+  const psalmsForDay = getPsalmsForDay(date, numbering)
+  const psalms = hour === 'morning' ? psalmsForDay.morning : psalmsForDay.evening
+  const hymn = getHymnForHour(hour)
+  const readingType = hour === 'morning' ? 'ot' : 'nt'
+  const canticle = hour === 'morning' ? benedictus : magnificat
 
-	const sections: PrayerSection[] = [
-		{ type: 'rubric', label: 'Opening Verse' },
-		{ type: 'prayer', title: openingVerse.title, text: openingVerse.english },
-		{ type: 'divider' },
-		{ type: 'rubric', label: 'Hymn' },
-		{ type: 'hymn', title: hymn.title, latin: hymn.latin, english: hymn.english },
-		{ type: 'divider' },
-		{ type: 'rubric', label: 'Psalmody' },
-		{ type: 'psalmody', psalms },
-		{ type: 'divider' },
-	]
+  const sections: PrayerSection[] = [
+    { type: 'rubric', label: 'Opening Verse' },
+    { type: 'prayer', title: openingVerse.title, text: openingVerse.english },
+    { type: 'divider' },
+    { type: 'rubric', label: 'Hymn' },
+    { type: 'hymn', title: hymn.title, latin: hymn.latin, english: hymn.english },
+    { type: 'divider' },
+    { type: 'rubric', label: 'Psalmody' },
+    { type: 'psalmody', psalms },
+    { type: 'divider' },
+  ]
 
-	if (progress) {
-		const reference = getTodaysReading(readingType, progress)
-		sections.push(
-			{ type: 'rubric', label: 'Scripture Reading' },
-			{ type: 'reading', reference },
-			{ type: 'divider' },
-		)
-	}
+  if (progress) {
+    const reference = getTodaysReading(readingType, progress)
+    sections.push(
+      { type: 'rubric', label: 'Scripture Reading' },
+      { type: 'reading', reference },
+      { type: 'divider' },
+    )
+  }
 
-	sections.push(
-		{ type: 'rubric', label: 'Canticle' },
-		{
-			type: 'canticle',
-			title: canticle.title,
-			subtitle: canticle.subtitle,
-			source: canticle.source,
-			text: canticle.english,
-		},
-		{ type: 'divider' },
-		{ type: 'rubric', label: 'Our Father' },
-		{ type: 'prayer', title: ourFather.title, text: ourFather.english },
-		{ type: 'divider' },
-		{ type: 'complete' },
-	)
+  sections.push(
+    { type: 'rubric', label: 'Canticle' },
+    {
+      type: 'canticle',
+      title: canticle.title,
+      subtitle: canticle.subtitle,
+      source: canticle.source,
+      text: canticle.english,
+    },
+    { type: 'divider' },
+    { type: 'rubric', label: 'Our Father' },
+    { type: 'prayer', title: ourFather.title, text: ourFather.english },
+    { type: 'divider' },
+    { type: 'complete' },
+  )
 
-	return sections
+  return sections
 }
 
 function buildCompline(
-	date: Date,
-	progress: ReadingProgress | null | undefined,
-	numbering: PsalmNumbering,
+  date: Date,
+  progress: ReadingProgress | null | undefined,
+  numbering: PsalmNumbering,
 ): PrayerSection[] {
-	const psalms = getComplinePsalms(date, numbering)
-	const hymn = getHymnForHour('compline')
-	const antiphon = getMarianAntiphon(date)
+  const psalms = getComplinePsalms(date, numbering)
+  const hymn = getHymnForHour('compline')
+  const antiphon = getMarianAntiphon(date)
 
-	const sections: PrayerSection[] = [
-		{ type: 'rubric', label: 'Opening Verse' },
-		{ type: 'prayer', title: openingVerse.title, text: openingVerse.english },
-		{ type: 'divider' },
-		{ type: 'rubric', label: 'Hymn' },
-		{ type: 'hymn', title: hymn.title, latin: hymn.latin, english: hymn.english },
-		{ type: 'divider' },
-		{ type: 'rubric', label: 'Psalmody' },
-		{ type: 'psalmody', psalms },
-		{ type: 'divider' },
-	]
+  const sections: PrayerSection[] = [
+    { type: 'rubric', label: 'Opening Verse' },
+    { type: 'prayer', title: openingVerse.title, text: openingVerse.english },
+    { type: 'divider' },
+    { type: 'rubric', label: 'Hymn' },
+    { type: 'hymn', title: hymn.title, latin: hymn.latin, english: hymn.english },
+    { type: 'divider' },
+    { type: 'rubric', label: 'Psalmody' },
+    { type: 'psalmody', psalms },
+    { type: 'divider' },
+  ]
 
-	if (progress) {
-		const reference = getTodaysReading('catechism', progress)
-		sections.push(
-			{ type: 'rubric', label: 'Reading' },
-			{ type: 'reading', reference },
-			{ type: 'divider' },
-		)
-	}
+  if (progress) {
+    const reference = getTodaysReading('catechism', progress)
+    sections.push(
+      { type: 'rubric', label: 'Reading' },
+      { type: 'reading', reference },
+      { type: 'divider' },
+    )
+  }
 
-	sections.push(
-		{ type: 'rubric', label: 'Canticle' },
-		{
-			type: 'canticle',
-			title: nuncDimittis.title,
-			subtitle: nuncDimittis.subtitle,
-			source: nuncDimittis.source,
-			text: nuncDimittis.english,
-		},
-		{ type: 'divider' },
-		{ type: 'rubric', label: 'Closing Prayer' },
-		{ type: 'prayer', title: gloryBe.title, text: gloryBe.english },
-		{ type: 'divider' },
-		{ type: 'rubric', label: 'Marian Antiphon' },
-		{
-			type: 'hymn',
-			title: antiphon.title,
-			latin: antiphon.latin,
-			english: antiphon.english,
-		},
-		{ type: 'divider' },
-		{ type: 'complete' },
-	)
+  sections.push(
+    { type: 'rubric', label: 'Canticle' },
+    {
+      type: 'canticle',
+      title: nuncDimittis.title,
+      subtitle: nuncDimittis.subtitle,
+      source: nuncDimittis.source,
+      text: nuncDimittis.english,
+    },
+    { type: 'divider' },
+    { type: 'rubric', label: 'Closing Prayer' },
+    { type: 'prayer', title: gloryBe.title, text: gloryBe.english },
+    { type: 'divider' },
+    { type: 'rubric', label: 'Marian Antiphon' },
+    {
+      type: 'hymn',
+      title: antiphon.title,
+      latin: antiphon.latin,
+      english: antiphon.english,
+    },
+    { type: 'divider' },
+    { type: 'complete' },
+  )
 
-	return sections
+  return sections
 }
 
 export function buildPrayerSections(
-	hour: OfficeHour,
-	date: Date,
-	progress: {
-		ot?: ReadingProgress | null
-		nt?: ReadingProgress | null
-		catechism?: ReadingProgress | null
-	},
-	numbering: PsalmNumbering,
+  hour: OfficeHour,
+  date: Date,
+  progress: {
+    ot?: ReadingProgress | null
+    nt?: ReadingProgress | null
+    catechism?: ReadingProgress | null
+  },
+  numbering: PsalmNumbering,
 ): PrayerSection[] {
-	if (hour === 'compline') return buildCompline(date, progress.catechism, numbering)
-	const readingProgress = hour === 'morning' ? progress.ot : progress.nt
-	return buildMorningEvening(hour, date, readingProgress, numbering)
+  if (hour === 'compline') return buildCompline(date, progress.catechism, numbering)
+  const readingProgress = hour === 'morning' ? progress.ot : progress.nt
+  return buildMorningEvening(hour, date, readingProgress, numbering)
 }
