@@ -70,7 +70,6 @@ export function TimeBlockSection({
 
   return (
     <YStack gap="$sm">
-      {showRule && <OrnamentalRule />}
       <Pressable onPress={onToggleCollapse}>
         <YStack gap="$xs" paddingHorizontal="$xs">
           <XStack justifyContent="space-between" alignItems="center">
@@ -117,6 +116,7 @@ export function TimeBlockSection({
           </XStack>
         )
       })}
+      {showRule && <OrnamentalRule />}
     </YStack>
   )
 }
