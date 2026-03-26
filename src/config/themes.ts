@@ -15,6 +15,12 @@ export const lightTheme = {
 	wallMedium: '#8FB88A',
 	wallHigh: '#5A9A55',
 	wallFull: '#2D6A4F',
+	floralRed: '#B83A3A',
+	floralBlue: '#4A6FA0',
+	floralOrange: '#D4883A',
+	vineGreen: '#3A7A4A',
+	vineGreenDark: '#2A5A3A',
+	goldBright: '#D4B44C',
 }
 
 export const darkTheme = {
@@ -34,6 +40,12 @@ export const darkTheme = {
 	wallMedium: '#2D6A4F',
 	wallHigh: '#3D8B5E',
 	wallFull: '#4FAA6E',
+	floralRed: '#8A3030',
+	floralBlue: '#3A5570',
+	floralOrange: '#A06A30',
+	vineGreen: '#2A5A3A',
+	vineGreenDark: '#1E4A2E',
+	goldBright: '#C9A84C',
 }
 
 export const liturgicalSubThemes = {

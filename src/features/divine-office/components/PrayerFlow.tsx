@@ -9,10 +9,14 @@ import { Spinner, Text, useTheme, XStack, YStack } from 'tamagui'
 import {
 	DropCap,
 	HeaderFlourish,
+	IlluminatedInitial,
+	ManuscriptFrame,
 	OrnamentalRule,
+	PageBreakOrnament,
 	PrayerText,
 	RubricLabel,
 	ScreenLayout,
+	VineBar,
 } from '@/components'
 import type { Verse } from '@/lib/content'
 import { cccDailyCount, type OfficeHour, type PrayerSection, readingTypeForHour } from '../engine'
@@ -79,29 +83,35 @@ export function PrayerFlow({ hour, date }: { hour: OfficeHour; date: string }) {
 					</XStack>
 				</Pressable>
 
-				<YStack alignItems="center" gap="$xs" paddingVertical="$md">
-					<HeaderFlourish />
-					<Text fontFamily="$display" fontSize={36} lineHeight={42} color="$colorBurgundy">
-						{hourLabels[hour]}
-					</Text>
-					<Text fontFamily="$script" fontSize="$3" color="$colorSecondary">
-						{formattedDate}
-					</Text>
-				</YStack>
+				<ManuscriptFrame>
+					<YStack alignItems="center" gap="$xs" paddingVertical="$md">
+						<HeaderFlourish />
+						<Text fontFamily="$display" fontSize={36} lineHeight={42} color="$colorBurgundy">
+							{hourLabels[hour]}
+						</Text>
+						<Text fontFamily="$script" fontSize="$3" color="$colorSecondary">
+							{formattedDate}
+						</Text>
+					</YStack>
 
-				{sections.map((section, index) => (
-					<SectionBlock
-						key={`${section.type}-${index}`}
-						section={section}
-						psalmData={psalmData}
-						readingData={readingData?.verses}
-						readingFallback={readingData?.fallback}
-						cccData={cccData}
-						isCompleted={isCompleted}
-						isSubmitting={completeHour.isPending}
-						onComplete={handleComplete}
-					/>
-				))}
+					{sections.map((section, index) => (
+						<SectionBlock
+							key={`${section.type}-${index}`}
+							section={section}
+							psalmData={psalmData}
+							readingData={readingData?.verses}
+							readingFallback={readingData?.fallback}
+							cccData={cccData}
+							isCompleted={isCompleted}
+							isSubmitting={completeHour.isPending}
+							onComplete={handleComplete}
+							isFirstReading={
+								section.type === 'reading' &&
+								index === sections.findIndex((s) => s.type === 'reading')
+							}
+						/>
+					))}
+				</ManuscriptFrame>
 			</YStack>
 		</ScreenLayout>
 	)
@@ -116,6 +126,7 @@ function SectionBlock({
 	isCompleted,
 	isSubmitting,
 	onComplete,
+	isFirstReading = false,
 }: {
 	section: PrayerSection
 	psalmData: PsalmData[]
@@ -125,6 +136,7 @@ function SectionBlock({
 	isCompleted: boolean
 	isSubmitting: boolean
 	onComplete: () => void
+	isFirstReading?: boolean
 }) {
 	switch (section.type) {
 		case 'rubric':
@@ -140,6 +152,23 @@ function SectionBlock({
 			return <PsalmodyBlock psalmData={psalmData} />
 
 		case 'reading':
+			if (isFirstReading) {
+				return (
+					<>
+						<PageBreakOrnament />
+						{section.reference.type === 'bible' ? (
+							<BibleReadingBlock
+								reference={section.reference}
+								verses={readingData}
+								fallback={readingFallback}
+								illuminated
+							/>
+						) : (
+							<CccReadingBlock reference={section.reference} paragraphs={cccData} />
+						)}
+					</>
+				)
+			}
 			if (section.reference.type === 'bible') {
 				return (
 					<BibleReadingBlock
@@ -190,30 +219,38 @@ function PrayerTextBlock({ text }: { text: string }) {
 }
 
 function HymnBlock({ title, english, latin }: { title: string; english: string; latin: string }) {
+	const englishLines = english.split('\n')
+	const latinLines = latin.split('\n')
+	const totalLines = englishLines.length + latinLines.length
+	const estimatedHeight = totalLines * 24 + 40
+
 	return (
-		<YStack gap="$md">
-			<Text fontFamily="$heading" fontSize="$3" color="$colorBurgundy" letterSpacing={0.5}>
-				{title}
-			</Text>
-			<YStack gap="$xs">
-				{english.split('\n').map((line, i) => (
-					<PrayerText key={`en-${i}-${line.slice(0, 20)}`}>{line}</PrayerText>
-				))}
+		<XStack gap="$sm">
+			<VineBar height={estimatedHeight} />
+			<YStack gap="$md" flex={1}>
+				<Text fontFamily="$heading" fontSize="$3" color="$colorBurgundy" letterSpacing={0.5}>
+					{title}
+				</Text>
+				<YStack gap="$xs">
+					{englishLines.map((line, i) => (
+						<PrayerText key={`en-${i}-${line.slice(0, 20)}`}>{line}</PrayerText>
+					))}
+				</YStack>
+				<YStack gap="$xs" opacity={0.6}>
+					{latinLines.map((line, i) => (
+						<Text
+							key={`la-${i}-${line.slice(0, 20)}`}
+							fontFamily="$body"
+							fontSize="$2"
+							fontStyle="italic"
+							color="$colorSecondary"
+						>
+							{line}
+						</Text>
+					))}
+				</YStack>
 			</YStack>
-			<YStack gap="$xs" opacity={0.6}>
-				{latin.split('\n').map((line, i) => (
-					<Text
-						key={`la-${i}-${line.slice(0, 20)}`}
-						fontFamily="$body"
-						fontSize="$2"
-						fontStyle="italic"
-						color="$colorSecondary"
-					>
-						{line}
-					</Text>
-				))}
-			</YStack>
-		</YStack>
+		</XStack>
 	)
 }
 
@@ -245,10 +282,12 @@ function BibleReadingBlock({
 	reference,
 	verses,
 	fallback,
+	illuminated = false,
 }: {
 	reference: { type: 'bible'; book: string; bookName: string; chapter: number }
 	verses: Verse[] | undefined
 	fallback?: boolean
+	illuminated?: boolean
 }) {
 	if (!verses) return undefined
 
@@ -266,7 +305,11 @@ function BibleReadingBlock({
 			</Text>
 			{verses.length > 0 && (
 				<>
-					<DropCap text={verses[0].text} />
+					{illuminated ? (
+						<IlluminatedInitial text={verses[0].text} />
+					) : (
+						<DropCap text={verses[0].text} />
+					)}
 					{verses.slice(1).map((v) => (
 						<PrayerText key={v.verse}>{v.text}</PrayerText>
 					))}

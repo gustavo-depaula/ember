@@ -2,6 +2,7 @@ import { MotiView } from 'moti'
 import { Pressable } from 'react-native'
 import { Text, YStack } from 'tamagui'
 
+import { ManuscriptFrame, WatercolorIcon } from '@/components'
 import { getPracticeIcon } from '@/db/seed'
 import type { NextAction } from '../getNextAction'
 
@@ -13,27 +14,29 @@ export function HeroCTA({ action, onPress }: { action: NextAction; onPress: () =
 			transition={{ type: 'timing', duration: 250 }}
 		>
 			<Pressable onPress={onPress}>
-				<YStack
-					backgroundColor="$backgroundSurface"
-					borderRadius="$md"
-					borderWidth={1}
-					borderColor="$accent"
-					padding="$lg"
-					alignItems="center"
-					gap="$sm"
-				>
-					{action.type === 'office' && <OfficeContent action={action} />}
-					{action.type === 'practice' && <PracticeContent action={action} />}
-					{action.type === 'allDone' && <AllDoneContent action={action} />}
-				</YStack>
+				<ManuscriptFrame light>
+					<YStack alignItems="center" gap="$sm" paddingVertical="$sm">
+						{action.type === 'office' && <OfficeContent action={action} />}
+						{action.type === 'practice' && <PracticeContent action={action} />}
+						{action.type === 'allDone' && <AllDoneContent action={action} />}
+					</YStack>
+				</ManuscriptFrame>
 			</Pressable>
 		</MotiView>
 	)
 }
 
+function getOfficeIcon(label: string): 'sunrise' | 'moon' | 'book' {
+	if (label.toLowerCase().includes('morning')) return 'sunrise'
+	if (label.toLowerCase().includes('night') || label.toLowerCase().includes('compline'))
+		return 'moon'
+	return 'book'
+}
+
 function OfficeContent({ action }: { action: Extract<NextAction, { type: 'office' }> }) {
 	return (
 		<>
+			<WatercolorIcon name={getOfficeIcon(action.label)} size={48} />
 			<Text fontFamily="$display" fontSize={32} lineHeight={38} color="$colorBurgundy">
 				{action.label}
 			</Text>
@@ -64,6 +67,7 @@ function PracticeContent({ action }: { action: Extract<NextAction, { type: 'prac
 function AllDoneContent({ action }: { action: Extract<NextAction, { type: 'allDone' }> }) {
 	return (
 		<>
+			<WatercolorIcon name="cross" size={48} />
 			<Text fontFamily="$display" fontSize={28} lineHeight={34} color="$accent">
 				Day complete
 			</Text>
