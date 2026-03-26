@@ -9,14 +9,24 @@ export const tokens = createTokens({
 		brownMuted: '#6B5D4F',
 		gold: '#C9A84C',
 		goldDeep: '#A8872E',
+		goldSubtle: '#D4C088',
 		borderLight: '#E5DDD2',
 
 		// Dark mode
-		navy: '#1A1A2E',
-		navySurface: '#232340',
+		espresso: '#1C1710',
+		espressoSurface: '#2A2318',
 		creamSoft: '#F0E6D3',
 		creamMuted: '#A89F91',
-		borderDark: '#3A3555',
+		borderDark: '#3D3528',
+
+		// Secondary accents
+		burgundy: '#6B1D2A',
+		burgundyLight: '#C4707E',
+		mutedBlue: '#3D5A80',
+		mutedBlueLight: '#7BA0C4',
+		cloisterGreen: '#2D6A4F',
+		cloisterGreenLight: '#5AAA7E',
+		goldMuted: '#6B5D3A',
 
 		// Green wall — light
 		wallEmptyLight: '#E8E4D9',
@@ -26,7 +36,7 @@ export const tokens = createTokens({
 		wallFullLight: '#2D6A4F',
 
 		// Green wall — dark
-		wallEmptyDark: '#2A2A3E',
+		wallEmptyDark: '#2A2419',
 		wallLowDark: '#2D4A3A',
 		wallMediumDark: '#2D6A4F',
 		wallHighDark: '#3D8B5E',

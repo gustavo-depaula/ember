@@ -6,7 +6,14 @@ import { AnimatePresence, MotiView } from 'moti'
 import { Pressable } from 'react-native'
 import { Spinner, Text, useTheme, XStack, YStack } from 'tamagui'
 
-import { DropCap, PrayerText, RubricLabel, ScreenLayout, SectionDivider } from '@/components'
+import {
+	DropCap,
+	HeaderFlourish,
+	OrnamentalRule,
+	PrayerText,
+	RubricLabel,
+	ScreenLayout,
+} from '@/components'
 import type { Verse } from '@/lib/content'
 import { cccDailyCount, type OfficeHour, type PrayerSection, readingTypeForHour } from '../engine'
 import {
@@ -73,10 +80,11 @@ export function PrayerFlow({ hour, date }: { hour: OfficeHour; date: string }) {
 				</Pressable>
 
 				<YStack alignItems="center" gap="$xs" paddingVertical="$md">
-					<Text fontFamily="$heading" fontSize="$5" color="$color">
+					<HeaderFlourish />
+					<Text fontFamily="$display" fontSize={36} lineHeight={42} color="$colorBurgundy">
 						{hourLabels[hour]}
 					</Text>
-					<Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
+					<Text fontFamily="$script" fontSize="$3" color="$colorSecondary">
 						{formattedDate}
 					</Text>
 				</YStack>
@@ -154,7 +162,7 @@ function SectionBlock({
 			)
 
 		case 'divider':
-			return <SectionDivider />
+			return <OrnamentalRule />
 
 		case 'complete':
 			return (
@@ -184,7 +192,7 @@ function PrayerTextBlock({ text }: { text: string }) {
 function HymnBlock({ title, english, latin }: { title: string; english: string; latin: string }) {
 	return (
 		<YStack gap="$md">
-			<Text fontFamily="$heading" fontSize="$3" color="$color">
+			<Text fontFamily="$heading" fontSize="$3" color="$colorBurgundy" letterSpacing={0.5}>
 				{title}
 			</Text>
 			<YStack gap="$xs">
@@ -216,7 +224,7 @@ function PsalmodyBlock({ psalmData }: { psalmData: PsalmData[] }) {
 		<YStack gap="$lg">
 			{psalmData.map((psalm, i) => (
 				<YStack key={`${psalm.ref.psalm}-${i}`} gap="$sm">
-					<Text fontFamily="$body" fontSize="$1" color="$colorSecondary" fontWeight="500">
+					<Text fontFamily="$body" fontSize="$1" color="$colorMutedBlue" fontWeight="500">
 						{formatPsalmRef(psalm.ref)}
 					</Text>
 					{psalm.verses.length > 0 && (
@@ -253,7 +261,7 @@ function BibleReadingBlock({
 					</Text>
 				</XStack>
 			)}
-			<Text fontFamily="$body" fontSize="$2" color="$colorSecondary" fontWeight="500">
+			<Text fontFamily="$body" fontSize="$2" color="$colorMutedBlue" fontWeight="500">
 				{reference.bookName} {reference.chapter}
 			</Text>
 			{verses.length > 0 && (
@@ -281,12 +289,18 @@ function CccReadingBlock({
 
 	return (
 		<YStack gap="$sm">
-			<Text fontFamily="$body" fontSize="$2" color="$colorSecondary" fontWeight="500">
+			<Text fontFamily="$body" fontSize="$2" color="$colorMutedBlue" fontWeight="500">
 				Catechism of the Catholic Church, {reference.startParagraph}-{endParagraph}
 			</Text>
 			{paragraphs.map((p) => (
 				<XStack key={p.number} gap="$sm" alignItems="flex-start">
-					<Text fontFamily="$body" fontSize="$1" color="$accent" fontWeight="600" width={36}>
+					<Text
+						fontFamily="$body"
+						fontSize="$1"
+						color="$colorMutedBlue"
+						fontWeight="600"
+						width={36}
+					>
 						{p.number}
 					</Text>
 					<PrayerText flex={1}>{p.text}</PrayerText>
@@ -310,10 +324,10 @@ function CanticleBlock({
 	const lines = text.split('\n')
 	return (
 		<YStack gap="$sm">
-			<Text fontFamily="$heading" fontSize="$3" color="$color">
+			<Text fontFamily="$heading" fontSize="$3" color="$colorBurgundy" letterSpacing={0.5}>
 				{title}
 			</Text>
-			<Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
+			<Text fontFamily="$body" fontSize="$1" color="$colorMutedBlue">
 				{subtitle} ({source})
 			</Text>
 			<DropCap text={lines[0]} />
@@ -343,7 +357,7 @@ function CompleteButton({
 					transition={{ type: 'spring', damping: 15, stiffness: 200 }}
 				>
 					<YStack alignItems="center" paddingVertical="$lg">
-						<Text fontFamily="$body" fontSize="$3" color="$accent">
+						<Text fontFamily="$body" fontSize="$3" color="$colorGreen">
 							Completed
 						</Text>
 					</YStack>
@@ -353,7 +367,9 @@ function CompleteButton({
 					<Pressable onPress={onComplete} disabled={isSubmitting}>
 						<YStack
 							backgroundColor="$accent"
-							borderRadius="$lg"
+							borderRadius="$md"
+							borderWidth={1}
+							borderColor="$accentSubtle"
 							paddingVertical="$md"
 							alignItems="center"
 							opacity={isSubmitting ? 0.6 : 1}
