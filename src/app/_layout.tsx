@@ -10,10 +10,12 @@ import { QueryClient, QueryClientProvider } from '@tanstack/react-query'
 import { useFonts } from 'expo-font'
 import { Stack } from 'expo-router'
 import * as SplashScreen from 'expo-splash-screen'
+import { StatusBar } from 'expo-status-bar'
 import { useEffect, useState } from 'react'
 import { LogBox, useColorScheme } from 'react-native'
 import { TamaguiProvider } from 'tamagui'
 
+import { AppFrame } from '@/components/AppFrame'
 import { config } from '@/config/tamagui.config'
 import { useDbInit } from '@/db/client'
 import { seedPractices, seedReadingProgress } from '@/db/seed'
@@ -73,7 +75,9 @@ export default function RootLayout() {
 	return (
 		<QueryClientProvider client={queryClient}>
 			<TamaguiProvider config={config} defaultTheme={resolvedTheme}>
+				<StatusBar hidden />
 				<Stack screenOptions={{ headerShown: false }} />
+				<AppFrame />
 			</TamaguiProvider>
 		</QueryClientProvider>
 	)

@@ -3,13 +3,7 @@ import { useRouter } from 'expo-router'
 import { useCallback, useMemo, useState } from 'react'
 import { Text, XStack, YStack } from 'tamagui'
 
-import {
-	GreenWall,
-	HeaderFlourish,
-	ManuscriptFrame,
-	OrnamentalRule,
-	ScreenLayout,
-} from '@/components'
+import { GreenWall, ManuscriptFrame, OrnamentalRule, ScreenLayout } from '@/components'
 import { useDailyOfficeStatus } from '@/features/divine-office'
 import { getNextAction, HeroCTA, TimeBlockSection } from '@/features/home'
 import {
@@ -87,22 +81,14 @@ export default function HomeScreen() {
 	return (
 		<ScreenLayout>
 			<YStack gap="$lg" paddingVertical="$lg">
-				<YStack alignItems="center" gap="$xs">
-					<HeaderFlourish />
-					<XStack
-						justifyContent="space-between"
-						alignItems="baseline"
-						width="100%"
-						paddingHorizontal="$xs"
-					>
-						<Text fontFamily="$heading" fontSize="$5" color="$color">
-							{greeting}
-						</Text>
-						<Text fontFamily="$script" fontSize="$2" color="$colorSecondary">
-							{format(now, 'EEE, MMMM d')}
-						</Text>
-					</XStack>
-				</YStack>
+				<XStack justifyContent="space-between" alignItems="baseline" paddingHorizontal="$xs">
+					<Text fontFamily="$heading" fontSize="$5" color="$color">
+						{greeting}
+					</Text>
+					<Text fontFamily="$script" fontSize="$2" color="$colorSecondary">
+						{format(now, 'EEE, MMMM d')}
+					</Text>
+				</XStack>
 
 				<HeroCTA action={nextAction} onPress={handleHeroCTAPress} />
 
@@ -119,7 +105,7 @@ export default function HomeScreen() {
 
 							return (
 								<YStack key={block}>
-									{i > 0 && <OrnamentalRule symbol={'\u2726'} />}
+									{i > 0 && <OrnamentalRule />}
 									<TimeBlockSection
 										label={def.label}
 										practices={blockPractices}

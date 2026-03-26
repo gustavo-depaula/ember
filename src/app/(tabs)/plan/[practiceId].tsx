@@ -70,7 +70,9 @@ export default function PracticeDetailScreen() {
 					</Text>
 				</XStack>
 
-				<GreenWall data={wallData} />
+				<YStack alignItems="center">
+					<GreenWall data={wallData} />
+				</YStack>
 
 				<XStack gap="$md" flexWrap="wrap">
 					<Card flex={1} minWidth="40%" alignItems="center" gap="$xs">
