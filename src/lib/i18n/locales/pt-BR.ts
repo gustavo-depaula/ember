@@ -60,7 +60,7 @@ export default {
     longestStreak: 'Maior Sequ\u00eancia',
     totalDays: 'Total de Dias',
     completionRate: 'Taxa de Conclus\u00e3o',
-    customize: 'Personalizar Pr\u00e1ticas',
+    customize: 'Customizar Plano de Vida',
     addCustom: 'Adicionar Pr\u00e1tica',
     disabled: 'Desativada',
     noPractices: 'Nenhuma pr\u00e1tica {{tier}}',

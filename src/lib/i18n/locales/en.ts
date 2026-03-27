@@ -59,7 +59,7 @@ export default {
     longestStreak: 'Longest Streak',
     totalDays: 'Total Days',
     completionRate: 'Completion Rate',
-    customize: 'Customize Practices',
+    customize: 'Customize Plan of Life',
     addCustom: 'Add Custom Practice',
     disabled: 'Disabled',
     noPractices: 'No {{tier}} practices',
