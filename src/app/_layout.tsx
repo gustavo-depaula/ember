@@ -16,7 +16,7 @@ import { LogBox, useColorScheme } from 'react-native'
 import { GestureHandlerRootView } from 'react-native-gesture-handler'
 import { TamaguiProvider } from 'tamagui'
 
-import { RibbonBookmarks } from '@/components/RibbonBookmarks'
+import { TasselPull } from '@/components/TasselPull'
 import { config } from '@/config/tamagui.config'
 import { useDbInit } from '@/db/client'
 import { seedPractices, seedReadingProgress } from '@/db/seed'
