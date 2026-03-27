@@ -1,5 +1,6 @@
 import { AlignJustify, AlignLeft, Type, X } from 'lucide-react-native'
 import { useState } from 'react'
+import { useTranslation } from 'react-i18next'
 import { Modal, Pressable } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { ScrollView, Text, useTheme, View, XStack, YStack } from 'tamagui'
@@ -66,6 +67,7 @@ function ButtonGroup({ children, label }: { children: React.ReactNode; label: st
 }
 
 export function ReadingConfigBadge({ onPress }: { onPress: () => void }) {
+  const { t } = useTranslation()
   const theme = useTheme()
 
   return (
@@ -84,7 +86,7 @@ export function ReadingConfigBadge({ onPress }: { onPress: () => void }) {
           <Type size={16} color={theme.accent.val} />
         </View>
         <Text fontFamily="$heading" fontSize="$2" color="$color">
-          Reading
+          {t('readingConfig.reading')}
         </Text>
       </XStack>
     </Pressable>
@@ -92,6 +94,7 @@ export function ReadingConfigBadge({ onPress }: { onPress: () => void }) {
 }
 
 export function ReadingConfig() {
+  const { t } = useTranslation()
   const theme = useTheme()
   const rc = useReadingConfigStore()
   const readingStyle = useReadingStyle()
@@ -109,15 +112,13 @@ export function ReadingConfig() {
         overflow="hidden"
       >
         <Text color="$color" {...readingStyle}>
-          Hail Mary, full of grace, the Lord is with thee. Blessed art thou amongst women, and
-          blessed is the fruit of thy womb, Jesus. Holy Mary, Mother of God, pray for us sinners,
-          now and at the hour of our death. Amen.
+          {t('readingConfig.preview')}
         </Text>
       </YStack>
 
       {/* Row 1: Size + Spacing */}
       <XStack justifyContent="center" gap="$lg">
-        <ButtonGroup label="Size">
+        <ButtonGroup label={t('readingConfig.size')}>
           <ToolbarButton
             onPress={() => rc.setFontSizeStep(rc.fontSizeStep - 1)}
             disabled={rc.fontSizeStep <= 1}
@@ -140,7 +141,7 @@ export function ReadingConfig() {
           </ToolbarButton>
         </ButtonGroup>
 
-        <ButtonGroup label="Spacing">
+        <ButtonGroup label={t('readingConfig.spacing')}>
           <ToolbarButton
             onPress={() => rc.setLineHeightStep(rc.lineHeightStep - 1)}
             disabled={rc.lineHeightStep <= rc.fontSizeStep}
@@ -166,7 +167,7 @@ export function ReadingConfig() {
 
       {/* Row 2: Align + Margins */}
       <XStack justifyContent="center" gap="$lg">
-        <ButtonGroup label="Align">
+        <ButtonGroup label={t('readingConfig.align')}>
           <ToolbarButton onPress={() => rc.setTextAlign('left')} selected={rc.textAlign === 'left'}>
             {() => (
               <AlignLeft
@@ -188,7 +189,7 @@ export function ReadingConfig() {
           </ToolbarButton>
         </ButtonGroup>
 
-        <ButtonGroup label="Margins">
+        <ButtonGroup label={t('readingConfig.margins')}>
           <ToolbarButton onPress={() => rc.setMargin('narrow')} selected={rc.margin === 'narrow'}>
             {() => (
               <Text
@@ -274,6 +275,7 @@ export function ReadingConfigModal({
   visible: boolean
   onClose: () => void
 }) {
+  const { t } = useTranslation()
   const insets = useSafeAreaInsets()
   const theme = useTheme()
 
@@ -298,7 +300,7 @@ export function ReadingConfigModal({
             <X size={24} color={theme.color.val} />
           </Pressable>
           <Text fontFamily="$heading" fontSize="$4" color="$color">
-            Reading
+            {t('readingConfig.reading')}
           </Text>
           <View width={24} />
         </XStack>

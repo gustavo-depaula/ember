@@ -1,4 +1,5 @@
 import { useCallback, useMemo, useState } from 'react'
+import { useTranslation } from 'react-i18next'
 import { Pressable, StyleSheet, useWindowDimensions } from 'react-native'
 
 import { Gesture, GestureDetector } from 'react-native-gesture-handler'
@@ -27,6 +28,7 @@ import { TocTree } from './TocTree'
 const springConfig = { damping: 24, stiffness: 200, mass: 0.8 }
 
 export function CatechismReader() {
+  const { t } = useTranslation()
   const { width: screenWidth } = useWindowDimensions()
   const tocDrawerWidth = Math.min(screenWidth * 0.7, 340)
   const sectionDrawerWidth = Math.min(screenWidth * 0.55, 280)
@@ -137,7 +139,7 @@ export function CatechismReader() {
       return (
         <YStack flex={1} justifyContent="center" alignItems="center">
           <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
-            Loading...
+            {t('common.loading')}
           </Text>
         </YStack>
       )
@@ -169,7 +171,7 @@ export function CatechismReader() {
             <YStack flex={1} paddingTop={insets.top + 12}>
               <YStack paddingHorizontal="$md" paddingBottom="$md" gap="$sm">
                 <Text fontFamily="$heading" fontSize="$2" color="$colorSecondary">
-                  Table of Contents
+                  {t('catechism.toc')}
                 </Text>
                 <ReadingConfigBadge onPress={() => setReadingConfigVisible(true)} />
               </YStack>

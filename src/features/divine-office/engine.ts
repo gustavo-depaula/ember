@@ -12,6 +12,7 @@ import ourFather from '@/assets/prayers/our-father.json'
 import type { ReadingProgress } from '@/db/schema'
 import type { PsalmNumbering } from '@/lib/bolls'
 import { getDrbBooks } from '@/lib/content'
+import i18n from '@/lib/i18n'
 
 import { getComplinePsalms, getPsalmsForDay, type PsalmRef } from './psalter'
 
@@ -37,6 +38,12 @@ type Antiphon = {
   title: string
   latin: string
   english: string
+  portuguese?: string
+}
+
+function localizedText(obj: { english: string; portuguese?: string }): string {
+  if (i18n.language === 'pt-BR' && obj.portuguese) return obj.portuguese
+  return obj.english
 }
 
 export const cccDailyCount = 8
@@ -173,13 +180,13 @@ function buildMorningEvening(
   const canticle = hour === 'morning' ? benedictus : magnificat
 
   const sections: PrayerSection[] = [
-    { type: 'rubric', label: 'Opening Verse' },
-    { type: 'prayer', title: openingVerse.title, text: openingVerse.english },
+    { type: 'rubric', label: i18n.t('rubric.openingVerse') },
+    { type: 'prayer', title: openingVerse.title, text: localizedText(openingVerse) },
     { type: 'divider' },
-    { type: 'rubric', label: 'Hymn' },
-    { type: 'hymn', title: hymn.title, latin: hymn.latin, english: hymn.english },
+    { type: 'rubric', label: i18n.t('rubric.hymn') },
+    { type: 'hymn', title: hymn.title, latin: hymn.latin, english: localizedText(hymn) },
     { type: 'divider' },
-    { type: 'rubric', label: 'Psalmody' },
+    { type: 'rubric', label: i18n.t('rubric.psalmody') },
     { type: 'psalmody', psalms },
     { type: 'divider' },
   ]
@@ -187,24 +194,24 @@ function buildMorningEvening(
   if (progress) {
     const reference = getTodaysReading(readingType, progress)
     sections.push(
-      { type: 'rubric', label: 'Scripture Reading' },
+      { type: 'rubric', label: i18n.t('rubric.scriptureReading') },
       { type: 'reading', reference },
       { type: 'divider' },
     )
   }
 
   sections.push(
-    { type: 'rubric', label: 'Canticle' },
+    { type: 'rubric', label: i18n.t('rubric.canticle') },
     {
       type: 'canticle',
       title: canticle.title,
       subtitle: canticle.subtitle,
       source: canticle.source,
-      text: canticle.english,
+      text: localizedText(canticle),
     },
     { type: 'divider' },
-    { type: 'rubric', label: 'Our Father' },
-    { type: 'prayer', title: ourFather.title, text: ourFather.english },
+    { type: 'rubric', label: i18n.t('rubric.ourFather') },
+    { type: 'prayer', title: ourFather.title, text: localizedText(ourFather) },
     { type: 'divider' },
     { type: 'complete' },
   )
@@ -222,13 +229,13 @@ function buildCompline(
   const antiphon = getMarianAntiphon(date)
 
   const sections: PrayerSection[] = [
-    { type: 'rubric', label: 'Opening Verse' },
-    { type: 'prayer', title: openingVerse.title, text: openingVerse.english },
+    { type: 'rubric', label: i18n.t('rubric.openingVerse') },
+    { type: 'prayer', title: openingVerse.title, text: localizedText(openingVerse) },
     { type: 'divider' },
-    { type: 'rubric', label: 'Hymn' },
-    { type: 'hymn', title: hymn.title, latin: hymn.latin, english: hymn.english },
+    { type: 'rubric', label: i18n.t('rubric.hymn') },
+    { type: 'hymn', title: hymn.title, latin: hymn.latin, english: localizedText(hymn) },
     { type: 'divider' },
-    { type: 'rubric', label: 'Psalmody' },
+    { type: 'rubric', label: i18n.t('rubric.psalmody') },
     { type: 'psalmody', psalms },
     { type: 'divider' },
   ]
@@ -236,31 +243,31 @@ function buildCompline(
   if (progress) {
     const reference = getTodaysReading('catechism', progress)
     sections.push(
-      { type: 'rubric', label: 'Reading' },
+      { type: 'rubric', label: i18n.t('rubric.reading') },
       { type: 'reading', reference },
       { type: 'divider' },
     )
   }
 
   sections.push(
-    { type: 'rubric', label: 'Canticle' },
+    { type: 'rubric', label: i18n.t('rubric.canticle') },
     {
       type: 'canticle',
       title: nuncDimittis.title,
       subtitle: nuncDimittis.subtitle,
       source: nuncDimittis.source,
-      text: nuncDimittis.english,
+      text: localizedText(nuncDimittis),
     },
     { type: 'divider' },
-    { type: 'rubric', label: 'Closing Prayer' },
-    { type: 'prayer', title: gloryBe.title, text: gloryBe.english },
+    { type: 'rubric', label: i18n.t('rubric.closingPrayer') },
+    { type: 'prayer', title: gloryBe.title, text: localizedText(gloryBe) },
     { type: 'divider' },
-    { type: 'rubric', label: 'Marian Antiphon' },
+    { type: 'rubric', label: i18n.t('rubric.marianAntiphon') },
     {
       type: 'hymn',
       title: antiphon.title,
       latin: antiphon.latin,
-      english: antiphon.english,
+      english: localizedText(antiphon),
     },
     { type: 'divider' },
     { type: 'complete' },

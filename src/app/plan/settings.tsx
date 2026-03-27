@@ -1,14 +1,16 @@
 import { useRouter } from 'expo-router'
 import { ChevronLeft, Plus } from 'lucide-react-native'
 import { useMemo, useState } from 'react'
+import { useTranslation } from 'react-i18next'
 import { Modal, Pressable } from 'react-native'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
 import { ScreenLayout } from '@/components'
-import { dayLabels } from '@/config/constants'
+import { dayKeys } from '@/config/constants'
 import type { Frequency, Practice, Tier, TimeBlock } from '@/db/schema'
 import { getPracticeIcon } from '@/db/seed'
 import {
+  getPracticeName,
   useAllPractices,
   useCreatePractice,
   useDeletePractice,
@@ -26,10 +28,11 @@ function slugify(name: string): string {
 }
 
 function FrequencyLabel({ practice }: { practice: Practice }) {
+  const { t } = useTranslation()
   if (practice.frequency === 'daily') return null
 
   const days = parseFrequencyDays(practice)
-  const label = days.map((d) => dayLabels[d]).join(', ')
+  const label = days.map((d) => t(`day.${dayKeys[d]}`)).join(', ')
 
   return (
     <Text fontFamily="$body" fontSize={11} color="$colorSecondary">
@@ -39,6 +42,7 @@ function FrequencyLabel({ practice }: { practice: Practice }) {
 }
 
 export default function PlanSettingsScreen() {
+  const { t } = useTranslation()
   const router = useRouter()
   const theme = useTheme()
   const { data: practices = [] } = useAllPractices()
@@ -57,11 +61,7 @@ export default function PlanSettingsScreen() {
     return groups
   }, [practices])
 
-  const tierSections: { tier: Tier; label: string }[] = [
-    { tier: 'essential', label: 'Essential' },
-    { tier: 'ideal', label: 'Ideal' },
-    { tier: 'extra', label: 'Extra' },
-  ]
+  const tierSections: Tier[] = ['essential', 'ideal', 'extra']
 
   function handleEdit(practice: Practice) {
     setEditingPractice(practice)
@@ -131,19 +131,19 @@ export default function PlanSettingsScreen() {
             <ChevronLeft size={24} color={theme.color.val} />
           </Pressable>
           <Text flex={1} fontFamily="$heading" fontSize="$5" color="$color">
-            Customize Practices
+            {t('plan.customize')}
           </Text>
           <Pressable onPress={handleAdd} hitSlop={8}>
             <Plus size={24} color={theme.accent.val} />
           </Pressable>
         </XStack>
 
-        {tierSections.map(({ tier, label }) => (
+        {tierSections.map((tier) => (
           <YStack key={tier} gap="$sm">
             <XStack alignItems="center" gap="$sm" paddingHorizontal="$xs">
               <TierBadge tier={tier} />
               <Text fontFamily="$heading" fontSize="$3" color="$color">
-                {label}
+                {t(`tier.${tier}`)}
               </Text>
               <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
                 ({grouped[tier].length})
@@ -163,13 +163,13 @@ export default function PlanSettingsScreen() {
                   <Text fontSize={20}>{getPracticeIcon(practice.icon)}</Text>
                   <YStack flex={1} gap={2}>
                     <Text fontFamily="$body" fontSize="$3" color="$color">
-                      {practice.name}
+                      {getPracticeName(practice, t)}
                     </Text>
                     <FrequencyLabel practice={practice} />
                   </YStack>
                   {!practice.enabled && (
                     <Text fontFamily="$body" fontSize={11} color="$colorSecondary">
-                      Disabled
+                      {t('plan.disabled')}
                     </Text>
                   )}
                   <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
@@ -186,7 +186,7 @@ export default function PlanSettingsScreen() {
                 color="$colorSecondary"
                 paddingHorizontal="$xs"
               >
-                No {label.toLowerCase()} practices
+                {t('plan.noPractices', { tier: t(`tier.${tier}`).toLowerCase() })}
               </Text>
             )}
           </YStack>
@@ -205,7 +205,7 @@ export default function PlanSettingsScreen() {
           >
             <Plus size={18} color={theme.accent.val} />
             <Text fontFamily="$body" fontSize="$3" color="$accent">
-              Add Custom Practice
+              {t('plan.addCustom')}
             </Text>
           </XStack>
         </Pressable>

@@ -1,8 +1,10 @@
+import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
 import { Text, XStack, YStack } from 'tamagui'
 
-import { dayLabels } from '@/config/constants'
 import type { Frequency } from '@/db/schema'
+
+const dayKeys = ['sun', 'mon', 'tue', 'wed', 'thu', 'fri', 'sat'] as const
 
 export function FrequencyPicker({
   frequency,
@@ -15,16 +17,17 @@ export function FrequencyPicker({
   onChangeFrequency: (f: Frequency) => void
   onChangeDays: (days: number[]) => void
 }) {
-  const frequencies: { value: Frequency; label: string }[] = [
-    { value: 'daily', label: 'Daily' },
-    { value: 'weekly', label: 'Weekly' },
-    { value: 'custom', label: 'Specific Days' },
+  const { t } = useTranslation()
+  const frequencies: { value: Frequency; key: string }[] = [
+    { value: 'daily', key: 'frequency.daily' },
+    { value: 'weekly', key: 'frequency.weekly' },
+    { value: 'custom', key: 'frequency.custom' },
   ]
 
   return (
     <YStack gap="$sm">
       <Text fontFamily="$heading" fontSize="$2" color="$color">
-        Frequency
+        {t('frequency.label')}
       </Text>
       <XStack gap="$xs" flexWrap="wrap">
         {frequencies.map((f) => (
@@ -42,7 +45,7 @@ export function FrequencyPicker({
                 fontSize="$2"
                 color={frequency === f.value ? 'white' : '$color'}
               >
-                {f.label}
+                {t(f.key)}
               </Text>
             </YStack>
           </Pressable>
@@ -51,11 +54,11 @@ export function FrequencyPicker({
 
       {(frequency === 'weekly' || frequency === 'custom') && (
         <XStack gap="$xs" flexWrap="wrap">
-          {dayLabels.map((label, i) => {
+          {dayKeys.map((key, i) => {
             const selected = frequencyDays.includes(i)
             return (
               <Pressable
-                key={label}
+                key={key}
                 onPress={() => {
                   const next = selected
                     ? frequencyDays.filter((d) => d !== i)
@@ -78,7 +81,7 @@ export function FrequencyPicker({
                     fontSize={12}
                     color={selected ? 'white' : '$colorSecondary'}
                   >
-                    {label}
+                    {t(`day.${key}`)}
                   </Text>
                 </YStack>
               </Pressable>

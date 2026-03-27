@@ -1,9 +1,10 @@
 import DateTimePicker from '@react-native-community/datetimepicker'
 import { useMemo, useState } from 'react'
-import { Platform, Pressable, ScrollView, Switch } from 'react-native'
+import { useTranslation } from 'react-i18next'
+import { KeyboardAvoidingView, Platform, Pressable, ScrollView, Switch } from 'react-native'
 import { Input, Text, XStack, YStack } from 'tamagui'
 
-import { tierConfig, timeBlockLabels } from '@/config/constants'
+import { tierConfig } from '@/config/constants'
 import type { Frequency, Practice, Tier, TimeBlock } from '@/db/schema'
 import { parseFrequencyDays } from '@/features/plan-of-life/utils'
 
@@ -23,13 +24,14 @@ type PracticeFormData = {
   enabled: boolean
 }
 
-const tierEntries = Object.entries(tierConfig) as [Tier, { label: string; color: string }][]
+const tierEntries = Object.entries(tierConfig) as [Tier, { color: string }][]
 
 function TierSelector({ value, onChange }: { value: Tier; onChange: (tier: Tier) => void }) {
+  const { t } = useTranslation()
   return (
     <YStack gap="$xs">
       <Text fontFamily="$heading" fontSize="$2" color="$color">
-        Tier
+        {t('editor.tier')}
       </Text>
       <XStack gap="$xs">
         {tierEntries.map(([tier, config]) => (
@@ -44,7 +46,7 @@ function TierSelector({ value, onChange }: { value: Tier; onChange: (tier: Tier)
               opacity={value === tier ? 1 : 0.7}
             >
               <Text fontFamily="$body" fontSize="$2" color={value === tier ? 'white' : '$color'}>
-                {config.label}
+                {t(`tier.${tier}`)}
               </Text>
             </YStack>
           </Pressable>
@@ -54,6 +56,8 @@ function TierSelector({ value, onChange }: { value: Tier; onChange: (tier: Tier)
   )
 }
 
+const timeBlocks: TimeBlock[] = ['morning', 'daytime', 'evening', 'flexible']
+
 function TimeBlockSelector({
   value,
   onChange,
@@ -61,15 +65,15 @@ function TimeBlockSelector({
   value: TimeBlock
   onChange: (block: TimeBlock) => void
 }) {
-  const blocks = Object.entries(timeBlockLabels) as [TimeBlock, string][]
+  const { t } = useTranslation()
 
   return (
     <YStack gap="$xs">
       <Text fontFamily="$heading" fontSize="$2" color="$color">
-        Time of Day
+        {t('editor.timeOfDay')}
       </Text>
       <XStack gap="$xs" flexWrap="wrap">
-        {blocks.map(([block, label]) => (
+        {timeBlocks.map((block) => (
           <Pressable key={block} onPress={() => onChange(block)}>
             <YStack
               paddingHorizontal="$md"
@@ -80,7 +84,7 @@ function TimeBlockSelector({
               backgroundColor={value === block ? '$accent' : 'transparent'}
             >
               <Text fontFamily="$body" fontSize="$2" color={value === block ? 'white' : '$color'}>
-                {label}
+                {t(`timeBlock.${block}`)}
               </Text>
             </YStack>
           </Pressable>
@@ -101,6 +105,7 @@ export function PracticeEditSheet({
   onDelete?: () => void
   onClose: () => void
 }) {
+  const { t } = useTranslation()
   const isBuiltin = practice ? practice.is_builtin === 1 : false
   const isNew = !practice
 
@@ -129,130 +134,142 @@ export function PracticeEditSheet({
   }, [form.notifyTime])
 
   return (
-    <YStack
-      backgroundColor="$background"
-      borderTopLeftRadius="$lg"
-      borderTopRightRadius="$lg"
-      padding="$lg"
-      gap="$lg"
-      maxHeight="85%"
+    <KeyboardAvoidingView
+      behavior={Platform.OS === 'ios' ? 'padding' : 'height'}
+      style={{ maxHeight: '85%' }}
     >
-      <XStack justifyContent="space-between" alignItems="center">
-        <Text fontFamily="$heading" fontSize="$4" color="$color">
-          {isNew ? 'New Practice' : 'Edit Practice'}
-        </Text>
-        <Pressable onPress={onClose}>
-          <Text fontFamily="$body" fontSize="$3" color="$colorSecondary">
-            Cancel
+      <YStack
+        backgroundColor="$background"
+        borderTopLeftRadius="$lg"
+        borderTopRightRadius="$lg"
+        padding="$lg"
+        gap="$lg"
+      >
+        <XStack justifyContent="space-between" alignItems="center">
+          <Text fontFamily="$heading" fontSize="$4" color="$color">
+            {isNew ? t('editor.newPractice') : t('editor.editPractice')}
           </Text>
-        </Pressable>
-      </XStack>
-
-      <ScrollView showsVerticalScrollIndicator={false}>
-        <YStack gap="$lg">
-          <YStack gap="$xs">
-            <Text fontFamily="$heading" fontSize="$2" color="$color">
-              Name
+          <Pressable onPress={onClose}>
+            <Text fontFamily="$body" fontSize="$3" color="$colorSecondary">
+              {t('editor.cancel')}
             </Text>
-            <Input
-              value={form.name}
-              onChangeText={(text) => update('name', text)}
-              placeholder="Practice name"
-              fontFamily="$body"
-              fontSize="$3"
-              height={48}
-              borderColor="$borderColor"
-              readOnly={isBuiltin}
-              opacity={isBuiltin ? 0.7 : 1}
-            />
-          </YStack>
-
-          <YStack gap="$xs">
-            <Text fontFamily="$heading" fontSize="$2" color="$color">
-              Icon
-            </Text>
-            <IconPicker selected={form.icon} onSelect={(icon) => update('icon', icon)} />
-          </YStack>
-
-          <TierSelector value={form.tier} onChange={(tier) => update('tier', tier)} />
-          <TimeBlockSelector value={form.timeBlock} onChange={(b) => update('timeBlock', b)} />
-          <FrequencyPicker
-            frequency={form.frequency}
-            frequencyDays={form.frequencyDays}
-            onChangeFrequency={(f) => update('frequency', f)}
-            onChangeDays={(days) => update('frequencyDays', days)}
-          />
-
-          <YStack gap="$xs">
-            <Text fontFamily="$heading" fontSize="$2" color="$color">
-              Description
-            </Text>
-            <Input
-              value={form.description}
-              onChangeText={(text) => update('description', text)}
-              placeholder="Optional description"
-              fontFamily="$body"
-              fontSize="$2"
-              height={48}
-              borderColor="$borderColor"
-            />
-          </YStack>
-
-          <XStack justifyContent="space-between" alignItems="center">
-            <Text fontFamily="$heading" fontSize="$2" color="$color">
-              Notifications
-            </Text>
-            <Switch value={form.notifyEnabled} onValueChange={(v) => update('notifyEnabled', v)} />
-          </XStack>
-
-          {form.notifyEnabled && (
-            <XStack alignItems="center" gap="$md">
-              <Text fontFamily="$body" fontSize="$2" color="$colorSecondary" flex={1}>
-                Reminder time
-              </Text>
-              <DateTimePicker
-                value={notifyDate}
-                mode="time"
-                display={Platform.OS === 'ios' ? 'compact' : 'default'}
-                onValueChange={(_, date) => {
-                  const hh = String(date.getHours()).padStart(2, '0')
-                  const mm = String(date.getMinutes()).padStart(2, '0')
-                  update('notifyTime', `${hh}:${mm}`)
-                }}
-              />
-            </XStack>
-          )}
-
-          <XStack justifyContent="space-between" alignItems="center">
-            <Text fontFamily="$heading" fontSize="$2" color="$color">
-              Enabled
-            </Text>
-            <Switch value={form.enabled} onValueChange={(v) => update('enabled', v)} />
-          </XStack>
-
-          <Pressable onPress={() => onSave(form)}>
-            <YStack backgroundColor="$accent" borderRadius="$md" padding="$md" alignItems="center">
-              <Text fontFamily="$heading" fontSize="$3" color="white">
-                {isNew ? 'Create Practice' : 'Save Changes'}
-              </Text>
-            </YStack>
           </Pressable>
+        </XStack>
 
-          {onDelete && !isBuiltin && (
-            <Pressable onPress={onDelete}>
-              <Text
+        <ScrollView showsVerticalScrollIndicator={false} keyboardShouldPersistTaps="handled" automaticallyAdjustKeyboardInsets>
+          <YStack gap="$lg">
+            <YStack gap="$xs">
+              <Text fontFamily="$heading" fontSize="$2" color="$color">
+                {t('editor.name')}
+              </Text>
+              <Input
+                value={form.name}
+                onChangeText={(text) => update('name', text)}
+                placeholder={t('editor.namePlaceholder')}
+                fontFamily="$body"
+                fontSize="$3"
+                height={48}
+                borderColor="$borderColor"
+                readOnly={isBuiltin}
+                opacity={isBuiltin ? 0.7 : 1}
+              />
+            </YStack>
+
+            <YStack gap="$xs">
+              <Text fontFamily="$heading" fontSize="$2" color="$color">
+                {t('editor.icon')}
+              </Text>
+              <IconPicker selected={form.icon} onSelect={(icon) => update('icon', icon)} />
+            </YStack>
+
+            <TierSelector value={form.tier} onChange={(tier) => update('tier', tier)} />
+            <TimeBlockSelector value={form.timeBlock} onChange={(b) => update('timeBlock', b)} />
+            <FrequencyPicker
+              frequency={form.frequency}
+              frequencyDays={form.frequencyDays}
+              onChangeFrequency={(f) => update('frequency', f)}
+              onChangeDays={(days) => update('frequencyDays', days)}
+            />
+
+            <YStack gap="$xs">
+              <Text fontFamily="$heading" fontSize="$2" color="$color">
+                {t('editor.description')}
+              </Text>
+              <Input
+                value={form.description}
+                onChangeText={(text) => update('description', text)}
+                placeholder={t('editor.descriptionPlaceholder')}
                 fontFamily="$body"
                 fontSize="$2"
-                color="$colorBurgundy"
-                textAlign="center"
-                paddingVertical="$sm"
-              >
-                Delete Practice
+                height={48}
+                borderColor="$borderColor"
+              />
+            </YStack>
+
+            <XStack justifyContent="space-between" alignItems="center">
+              <Text fontFamily="$heading" fontSize="$2" color="$color">
+                {t('editor.notifications')}
               </Text>
+              <Switch
+                value={form.notifyEnabled}
+                onValueChange={(v) => update('notifyEnabled', v)}
+              />
+            </XStack>
+
+            {form.notifyEnabled && (
+              <XStack alignItems="center" gap="$md">
+                <Text fontFamily="$body" fontSize="$2" color="$colorSecondary" flex={1}>
+                  {t('editor.reminderTime')}
+                </Text>
+                <DateTimePicker
+                  value={notifyDate}
+                  mode="time"
+                  display={Platform.OS === 'ios' ? 'compact' : 'default'}
+                  onValueChange={(_, date) => {
+                    const hh = String(date.getHours()).padStart(2, '0')
+                    const mm = String(date.getMinutes()).padStart(2, '0')
+                    update('notifyTime', `${hh}:${mm}`)
+                  }}
+                />
+              </XStack>
+            )}
+
+            <XStack justifyContent="space-between" alignItems="center">
+              <Text fontFamily="$heading" fontSize="$2" color="$color">
+                {t('editor.enabled')}
+              </Text>
+              <Switch value={form.enabled} onValueChange={(v) => update('enabled', v)} />
+            </XStack>
+
+            <Pressable onPress={() => onSave(form)}>
+              <YStack
+                backgroundColor="$accent"
+                borderRadius="$md"
+                padding="$md"
+                alignItems="center"
+              >
+                <Text fontFamily="$heading" fontSize="$3" color="white">
+                  {isNew ? t('editor.createPractice') : t('editor.saveChanges')}
+                </Text>
+              </YStack>
             </Pressable>
-          )}
-        </YStack>
-      </ScrollView>
-    </YStack>
+
+            {onDelete && !isBuiltin && (
+              <Pressable onPress={onDelete}>
+                <Text
+                  fontFamily="$body"
+                  fontSize="$2"
+                  color="$colorBurgundy"
+                  textAlign="center"
+                  paddingVertical="$sm"
+                >
+                  {t('editor.deletePractice')}
+                </Text>
+              </Pressable>
+            )}
+          </YStack>
+        </ScrollView>
+      </YStack>
+    </KeyboardAvoidingView>
   )
 }

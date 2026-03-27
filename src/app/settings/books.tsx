@@ -1,6 +1,7 @@
 import { useRouter } from 'expo-router'
 import { ChevronLeft } from 'lucide-react-native'
 import { useMemo, useState } from 'react'
+import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
@@ -45,6 +46,7 @@ function countTotalChapters(books: Book[]): number {
 }
 
 export default function BooksScreen() {
+  const { t } = useTranslation()
   const router = useRouter()
   const theme = useTheme()
   const toggleChapter = useToggleChapterRead()
@@ -63,20 +65,20 @@ export default function BooksScreen() {
           <XStack alignItems="center" gap="$sm">
             <ChevronLeft size={20} color={theme.accent.val} />
             <Text fontFamily="$body" fontSize="$2" color="$accent">
-              Settings
+              {t('books.back')}
             </Text>
           </XStack>
         </Pressable>
 
         <Text fontFamily="$heading" fontSize="$5" color="$color">
-          Mark as Read
+          {t('books.title')}
         </Text>
         <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
-          Tap a book to expand, then toggle individual chapters.
+          {t('books.instructions')}
         </Text>
 
         <TestamentSection
-          label="Old Testament"
+          label={t('readingLabel.ot')}
           books={otBooks}
           chapters={otChapters}
           testament="ot"
@@ -87,7 +89,7 @@ export default function BooksScreen() {
         />
 
         <TestamentSection
-          label="New Testament"
+          label={t('readingLabel.nt')}
           books={ntBooks}
           chapters={ntChapters}
           testament="nt"
@@ -123,10 +125,12 @@ function TestamentSection({
   const read = countReadChapters(chapters, books)
   const total = countTotalChapters(books)
 
+  const { t } = useTranslation()
+
   return (
     <YStack gap="$sm">
       <Text fontFamily="$heading" fontSize="$3" color="$color">
-        {label} ({read} of {total} chapters)
+        {label} ({t('books.chaptersOf', { read, total })})
       </Text>
       {books.map((book) => {
         const bookChapters = chapters[book.id] ?? []
@@ -150,7 +154,7 @@ function TestamentSection({
                     {book.name}
                   </Text>
                   <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
-                    {bookChapters.length} of {book.chapters} chapters
+                    {t('books.chaptersOf', { read: bookChapters.length, total: book.chapters })}
                   </Text>
                 </YStack>
                 <Text fontFamily="$body" fontSize="$2" color="$accent">
@@ -172,7 +176,7 @@ function TestamentSection({
                     }
                   >
                     <Text fontFamily="$body" fontSize="$1" color="$accent">
-                      {allRead ? 'Unmark all' : 'Mark all'}
+                      {allRead ? t('books.unmarkAll') : t('books.markAll')}
                     </Text>
                   </Pressable>
                 </XStack>

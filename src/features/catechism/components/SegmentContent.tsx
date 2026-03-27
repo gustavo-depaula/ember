@@ -1,3 +1,4 @@
+import { useTranslation } from 'react-i18next'
 import { Text, YStack } from 'tamagui'
 
 import { OrnamentalRule } from '@/components'
@@ -40,6 +41,7 @@ export function SegmentContent({
   segment: CccSegment
   paragraphs: CccParagraph[]
 }) {
+  const { t } = useTranslation()
   const readingStyle = useReadingStyle()
   const readingMargin = useReadingMargin()
 
@@ -75,7 +77,7 @@ export function SegmentContent({
           textAlign="center"
           fontStyle={isInBrief ? 'italic' : 'normal'}
         >
-          {isInBrief ? 'In Brief' : segment.section}
+          {isInBrief ? t('catechism.inBrief') : segment.section}
         </Text>
         <OrnamentalRule />
       </YStack>

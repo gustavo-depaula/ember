@@ -2,6 +2,7 @@ import { differenceInCalendarDays } from 'date-fns'
 import { useLocalSearchParams, useRouter } from 'expo-router'
 import { ChevronLeft } from 'lucide-react-native'
 import { useMemo } from 'react'
+import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
@@ -9,11 +10,13 @@ import { Card, GreenWall, ScreenLayout } from '@/components'
 import {
   getLongestPracticeStreak,
   getPracticeIcon,
+  getPracticeName,
   usePracticeStats,
   usePractices,
 } from '@/features/plan-of-life'
 
 export default function PracticeDetailScreen() {
+  const { t } = useTranslation()
   const { practiceId } = useLocalSearchParams<{ practiceId: string }>()
   const router = useRouter()
   const theme = useTheme()
@@ -50,7 +53,7 @@ export default function PracticeDetailScreen() {
       <ScreenLayout>
         <YStack flex={1} alignItems="center" justifyContent="center">
           <Text fontFamily="$body" fontSize="$3" color="$colorSecondary">
-            Practice not found
+            {t('plan.practiceNotFound')}
           </Text>
         </YStack>
       </ScreenLayout>
@@ -66,7 +69,7 @@ export default function PracticeDetailScreen() {
           </Pressable>
           <Text fontSize={24}>{getPracticeIcon(practice.icon)}</Text>
           <Text flex={1} fontFamily="$heading" fontSize="$5" color="$color">
-            {practice.name}
+            {getPracticeName(practice, t)}
           </Text>
         </XStack>
 
@@ -80,7 +83,7 @@ export default function PracticeDetailScreen() {
               {stats.streak}
             </Text>
             <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
-              Current Streak
+              {t('plan.currentStreak')}
             </Text>
           </Card>
           <Card flex={1} minWidth="40%" alignItems="center" gap="$xs">
@@ -88,7 +91,7 @@ export default function PracticeDetailScreen() {
               {stats.longest}
             </Text>
             <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
-              Longest Streak
+              {t('plan.longestStreak')}
             </Text>
           </Card>
           <Card flex={1} minWidth="40%" alignItems="center" gap="$xs">
@@ -96,7 +99,7 @@ export default function PracticeDetailScreen() {
               {stats.total}
             </Text>
             <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
-              Total Days
+              {t('plan.totalDays')}
             </Text>
           </Card>
           <Card flex={1} minWidth="40%" alignItems="center" gap="$xs">
@@ -104,7 +107,7 @@ export default function PracticeDetailScreen() {
               {Math.round(stats.rate * 100)}%
             </Text>
             <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
-              Completion Rate
+              {t('plan.completionRate')}
             </Text>
           </Card>
         </XStack>

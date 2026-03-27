@@ -1,6 +1,7 @@
 import { useLocalSearchParams, useRouter } from 'expo-router'
 import { ChevronLeft } from 'lucide-react-native'
 import { useState } from 'react'
+import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
@@ -69,6 +70,7 @@ export default function PositionScreen() {
 }
 
 function BiblePicker({ testament }: { testament: 'ot' | 'nt' }) {
+  const { t } = useTranslation()
   const router = useRouter()
   const theme = useTheme()
   const setPosition = useSetReadingPosition()
@@ -95,7 +97,7 @@ function BiblePicker({ testament }: { testament: 'ot' | 'nt' }) {
           <XStack alignItems="center" gap="$sm">
             <ChevronLeft size={20} color={theme.accent.val} />
             <Text fontFamily="$body" fontSize="$2" color="$accent">
-              {selectedBook ? selectedBook.name : 'Settings'}
+              {selectedBook ? selectedBook.name : t('position.settings')}
             </Text>
           </XStack>
         </Pressable>
@@ -103,11 +105,11 @@ function BiblePicker({ testament }: { testament: 'ot' | 'nt' }) {
         <Text fontFamily="$heading" fontSize="$5" color="$color">
           {(() => {
             if (selectedBook) return selectedBook.name
-            return testament === 'ot' ? 'Old Testament' : 'New Testament'
+            return testament === 'ot' ? t('readingLabel.ot') : t('readingLabel.nt')
           })()}
         </Text>
         <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
-          {selectedBook ? 'Select a chapter' : 'Select a book'}
+          {selectedBook ? t('position.selectChapter') : t('position.selectBook')}
         </Text>
 
         {selectedBook ? (
@@ -121,7 +123,7 @@ function BiblePicker({ testament }: { testament: 'ot' | 'nt' }) {
                   paddingHorizontal="$md"
                 >
                   <Text fontFamily="$body" fontSize="$2" color="$color">
-                    Chapter {ch}
+                    {t('position.chapter', { n: ch })}
                   </Text>
                 </XStack>
               </Pressable>
@@ -143,7 +145,7 @@ function BiblePicker({ testament }: { testament: 'ot' | 'nt' }) {
                     {book.name}
                   </Text>
                   <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
-                    {book.chapters} ch.
+                    {t('position.chapterAbbr', { n: book.chapters })}
                   </Text>
                 </XStack>
               </Pressable>
@@ -156,6 +158,7 @@ function BiblePicker({ testament }: { testament: 'ot' | 'nt' }) {
 }
 
 function CccPicker() {
+  const { t } = useTranslation()
   const router = useRouter()
   const theme = useTheme()
   const setPosition = useSetReadingPosition()
@@ -180,16 +183,16 @@ function CccPicker() {
           <XStack alignItems="center" gap="$sm">
             <ChevronLeft size={20} color={theme.accent.val} />
             <Text fontFamily="$body" fontSize="$2" color="$accent">
-              {selectedPart ? selectedPart.name : 'Settings'}
+              {selectedPart ? selectedPart.name : t('position.settings')}
             </Text>
           </XStack>
         </Pressable>
 
         <Text fontFamily="$heading" fontSize="$5" color="$color">
-          {selectedPart ? selectedPart.name : 'Catechism'}
+          {selectedPart ? selectedPart.name : t('readingLabel.catechism')}
         </Text>
         <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
-          {selectedPart ? 'Select a section' : 'Select a part'}
+          {selectedPart ? t('position.selectSection') : t('position.selectPart')}
         </Text>
 
         {selectedPart ? (

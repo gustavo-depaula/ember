@@ -2,6 +2,7 @@ import { format, subWeeks } from 'date-fns'
 import { useRouter } from 'expo-router'
 import { Settings } from 'lucide-react-native'
 import { useMemo, useState } from 'react'
+import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
@@ -13,6 +14,7 @@ import {
   getCompletionRate,
   getCurrentStreak,
   getPracticeIcon,
+  getPracticeName,
   PracticeChecklist,
   toCompletedSet,
   usePracticeLogRange,
@@ -22,6 +24,7 @@ import {
 } from '@/features/plan-of-life'
 
 export default function PlanScreen() {
+  const { t } = useTranslation()
   const router = useRouter()
   const theme = useTheme()
   const [selectedDay, setSelectedDay] = useState<string>()
@@ -75,7 +78,7 @@ export default function PlanScreen() {
         <YStack alignItems="center" gap="$xs">
           <HeaderFlourish />
           <Text fontFamily="$display" fontSize={28} lineHeight={34} color="$color">
-            Plan of Life
+            {t('plan.title')}
           </Text>
         </YStack>
 
@@ -89,7 +92,7 @@ export default function PlanScreen() {
 
         {stats.streak === 0 && stats.rate === 0 && (
           <Text fontFamily="$body" fontSize="$2" color="$colorSecondary" textAlign="center">
-            Complete your daily practices to fill the wall
+            {t('plan.emptyWall')}
           </Text>
         )}
 
@@ -108,7 +111,7 @@ export default function PlanScreen() {
                     fontSize="$2"
                     color={selectedDayCompleted.has(p.id) ? '$color' : '$colorSecondary'}
                   >
-                    {p.name}
+                    {getPracticeName(p, t)}
                   </Text>
                   <Text
                     fontSize={12}
@@ -136,7 +139,7 @@ export default function PlanScreen() {
               {stats.streak}
             </Text>
             <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
-              Day Streak
+              {t('plan.dayStreak')}
             </Text>
           </YStack>
           <YStack
@@ -152,17 +155,17 @@ export default function PlanScreen() {
               {Math.round(stats.rate * 100)}%
             </Text>
             <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
-              Completion
+              {t('plan.completion')}
             </Text>
           </YStack>
         </XStack>
 
         <Text fontFamily="$heading" fontSize="$4" color="$color">
-          Today
+          {t('plan.today')}
         </Text>
 
         <PracticeChecklist
-          practices={todayPractices}
+          practices={todayPractices.map((p) => ({ ...p, name: getPracticeName(p, t) }))}
           completedIds={completedToday}
           onToggle={(id, completed) => toggle.mutate({ practiceId: id, date: today, completed })}
           onRowPress={(id) => router.push(`/plan/${id}`)}
