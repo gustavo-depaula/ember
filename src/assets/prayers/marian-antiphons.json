@@ -6,7 +6,8 @@
 			"dateRange": "First Sunday of Advent to February 1",
 			"title": "Alma Redemptoris Mater",
 			"latin": "Alma Redemptóris Mater, quæ pérvia cæli\nporta manes, et stella maris, succúrre cadénti,\nsúrgere qui curat, pópulo: tu quæ genuísti,\nnatúra miránte, tuum sanctum Genitórem,\nVirgo prius ac postérius, Gabriélis ab ore\nsumens illud Ave, peccatórum miserére.",
-			"english": "Loving Mother of the Redeemer,\ngate of heaven, star of the sea,\nassist your people who have fallen\nyet strive to rise again.\nTo the wonderment of nature you bore your Creator,\nyet remained a virgin after as before.\nYou who received Gabriel's joyful greeting,\nhave pity on us poor sinners."
+			"english": "Loving Mother of the Redeemer,\ngate of heaven, star of the sea,\nassist your people who have fallen\nyet strive to rise again.\nTo the wonderment of nature you bore your Creator,\nyet remained a virgin after as before.\nYou who received Gabriel's joyful greeting,\nhave pity on us poor sinners.",
+			"portuguese": "Santa Mãe do Redentor, porta do céu sempre aberta, estrela do mar, socorrei o vosso povo que cai e procura levantar-se. Vós que gerastes, para admiração da natureza, o vosso santo Criador, Virgem antes e depois do parto, que recebestes da boca de Gabriel a saudação angélica, tende piedade de nós, pecadores."
 		},
 		{
 			"id": "ave-regina",
@@ -14,7 +15,8 @@
 			"dateRange": "February 2 to Wednesday of Holy Week",
 			"title": "Ave Regina Cælorum",
 			"latin": "Ave, Regína cælórum,\nave, Dómina angelórum,\nsalve, radix, salve, porta,\nex qua mundo lux est orta.\nGaude, Virgo gloriósa,\nsuper omnes speciósa;\nvale, o valde decóra,\net pro nobis Christum exóra.",
-			"english": "Hail, O Queen of Heaven.\nHail, O Lady of Angels.\nHail! thou root, hail! thou gate\nfrom whom unto the world a light has arisen.\nRejoice, O glorious Virgin,\nlovely beyond all others.\nFarewell, most beautiful maiden,\nand pray for us to Christ."
+			"english": "Hail, O Queen of Heaven.\nHail, O Lady of Angels.\nHail! thou root, hail! thou gate\nfrom whom unto the world a light has arisen.\nRejoice, O glorious Virgin,\nlovely beyond all others.\nFarewell, most beautiful maiden,\nand pray for us to Christ.",
+			"portuguese": "Ave, Rainha dos céus! Ave, Senhora dos anjos! Salve, raiz! Salve, porta, de onde veio a Luz para o mundo! Alegrai-vos, Virgem gloriosa, formosa entre todas! Adeus, ó cheia de graça, rogai a Cristo por nós."
 		},
 		{
 			"id": "regina-caeli",
@@ -22,7 +24,8 @@
 			"dateRange": "Easter Sunday to Pentecost",
 			"title": "Regina Cæli",
 			"latin": "Regína cæli, lætáre, allelúia,\nquia quem meruísti portáre, allelúia,\nresurréxit sicut dixit, allelúia;\nora pro nobis Deum, allelúia.",
-			"english": "Queen of Heaven, rejoice, alleluia,\nfor he whom you did merit to bear, alleluia,\nhas risen as he said, alleluia.\nPray for us to God, alleluia."
+			"english": "Queen of Heaven, rejoice, alleluia,\nfor he whom you did merit to bear, alleluia,\nhas risen as he said, alleluia.\nPray for us to God, alleluia.",
+			"portuguese": "Rainha do céu, alegrai-vos, aleluia! Porque aquele que merecestes trazer no vosso seio, aleluia! Ressuscitou como disse, aleluia! Rogai a Deus por nós, aleluia!"
 		},
 		{
 			"id": "salve-regina",
@@ -30,7 +33,8 @@
 			"dateRange": "Trinity Sunday to the Saturday before the First Sunday of Advent",
 			"title": "Salve Regina",
 			"latin": "Salve, Regína, Mater misericórdiæ,\nvita, dulcédo, et spes nostra, salve.\nAd te clamámus, éxsules fílii Evæ.\nAd te suspirámus, geméntes et flentes\nin hac lacrimárum valle.\nEia ergo, advocáta nostra,\nillos tuos misericórdes óculos ad nos convérte.\nEt Iesum, benedíctum fructum ventris tui,\nnobis post hoc exsílium osténde.\nO clemens, o pia, o dulcis Virgo María.",
-			"english": "Hail, holy Queen, Mother of mercy,\nour life, our sweetness and our hope.\nTo thee do we cry, poor banished children of Eve.\nTo thee do we send up our sighs,\nmourning and weeping in this valley of tears.\nTurn then, most gracious advocate,\nthine eyes of mercy toward us.\nAnd after this our exile,\nshow unto us the blessed fruit of thy womb, Jesus.\nO clement, O loving, O sweet Virgin Mary."
+			"english": "Hail, holy Queen, Mother of mercy,\nour life, our sweetness and our hope.\nTo thee do we cry, poor banished children of Eve.\nTo thee do we send up our sighs,\nmourning and weeping in this valley of tears.\nTurn then, most gracious advocate,\nthine eyes of mercy toward us.\nAnd after this our exile,\nshow unto us the blessed fruit of thy womb, Jesus.\nO clement, O loving, O sweet Virgin Mary.",
+			"portuguese": "Salve, Rainha, Mãe de misericórdia, vida, doçura e esperança nossa, salve! A vós bradamos, os degredados filhos de Eva. A vós suspiramos, gemendo e chorando neste vale de lágrimas. Eia, pois, advogada nossa, esses vossos olhos misericordiosos a nós volvei. E depois deste desterro, mostrai-nos Jesus, bendito fruto do vosso ventre. Ó clemente, ó piedosa, ó doce sempre Virgem Maria."
 		}
 	]
 }

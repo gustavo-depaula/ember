@@ -1,4 +1,5 @@
 import { useCallback, useMemo, useState } from 'react'
+import { useTranslation } from 'react-i18next'
 import { Pressable, StyleSheet, useWindowDimensions } from 'react-native'
 import { Gesture, GestureDetector } from 'react-native-gesture-handler'
 import Animated, {
@@ -27,6 +28,7 @@ import { TranslationModal } from './TranslationModal'
 const springConfig = { damping: 24, stiffness: 200, mass: 0.8 }
 
 export function BibleReader() {
+  const { t } = useTranslation()
   const { width: screenWidth } = useWindowDimensions()
   const bookDrawerWidth = Math.min(screenWidth * 0.7, 340)
   const chapterDrawerWidth = Math.min(screenWidth * 0.22, 80)
@@ -134,7 +136,7 @@ export function BibleReader() {
       return (
         <YStack flex={1} justifyContent="center" alignItems="center">
           <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
-            Loading...
+            {t('common.loading')}
           </Text>
         </YStack>
       )

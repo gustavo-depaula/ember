@@ -1,5 +1,6 @@
 import { Check, X } from 'lucide-react-native'
 import { useMemo } from 'react'
+import { useTranslation } from 'react-i18next'
 import { Modal, Pressable } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { ScrollView, Text, useTheme, View, XStack, YStack } from 'tamagui'
@@ -91,6 +92,7 @@ function buildLanguageGroups(apiData: BollsLanguageEntry[]): Array<{
 }
 
 export function TranslationModal({ visible, onClose }: { visible: boolean; onClose: () => void }) {
+  const { t } = useTranslation()
   const insets = useSafeAreaInsets()
   const theme = useTheme()
   const translation = usePreferencesStore((s) => s.translation)
@@ -128,13 +130,13 @@ export function TranslationModal({ visible, onClose }: { visible: boolean; onClo
             <X size={24} color={theme.color.val} />
           </Pressable>
           <Text fontFamily="$heading" fontSize="$4" color="$color">
-            Translations
+            {t('translations.title')}
           </Text>
           <View width={24} />
         </XStack>
 
         <ScrollView flex={1}>
-          <SectionHeader title="Suggested Bibles" />
+          <SectionHeader title={t('translations.suggested')} />
           {suggestedTranslations.map((t) => (
             <TranslationRow
               key={t.code}
@@ -149,7 +151,7 @@ export function TranslationModal({ visible, onClose }: { visible: boolean; onClo
 
           {languageGroups.length > 0 ? (
             <>
-              <SectionHeader title="All Translations" />
+              <SectionHeader title={t('translations.all')} />
               {languageGroups.map((group) => (
                 <YStack key={group.language}>
                   <YStack paddingHorizontal="$lg" paddingTop="$md" paddingBottom="$xs">

@@ -5,16 +5,33 @@ import {
   getCurrentTimeBlock,
   groupByTimeBlock,
 } from '@/features/plan-of-life/timeBlocks'
+import i18n from '@/lib/i18n'
 
 export type NextAction =
   | { type: 'office'; hour: OfficeHour; label: string; sublabel: string; route: string }
   | { type: 'practice'; practice: Practice }
   | { type: 'allDone'; practiceCount: number; officeCount: number }
 
-const hourMeta: Record<OfficeHour, { label: string; sublabel: string; route: string }> = {
-  morning: { label: 'Morning Prayer', sublabel: 'Lauds', route: '/office/morning' },
-  evening: { label: 'Evening Prayer', sublabel: 'Vespers', route: '/office/evening' },
-  compline: { label: 'Night Prayer', sublabel: 'Compline', route: '/office/compline' },
+function getHourMeta(hour: OfficeHour): { label: string; sublabel: string; route: string } {
+  const map: Record<OfficeHour, { labelKey: string; sublabelKey: string; route: string }> = {
+    morning: {
+      labelKey: 'office.morningPrayer',
+      sublabelKey: 'office.lauds',
+      route: '/office/morning',
+    },
+    evening: {
+      labelKey: 'office.eveningPrayer',
+      sublabelKey: 'office.vespers',
+      route: '/office/evening',
+    },
+    compline: {
+      labelKey: 'office.nightPrayer',
+      sublabelKey: 'office.compline',
+      route: '/office/compline',
+    },
+  }
+  const m = map[hour]
+  return { label: i18n.t(m.labelKey), sublabel: i18n.t(m.sublabelKey), route: m.route }
 }
 
 const officeByTime: Record<string, OfficeHour> = {
@@ -38,7 +55,7 @@ export function getNextAction(
     const block = blockOrder[i]
     const officeHour = officeByTime[block]
     if (officeHour && officeStatus && !officeStatus[officeHour]) {
-      const meta = hourMeta[officeHour]
+      const meta = getHourMeta(officeHour)
       return { type: 'office', hour: officeHour, ...meta }
     }
   }

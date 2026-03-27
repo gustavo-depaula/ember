@@ -1,3 +1,4 @@
+import { useTranslation } from 'react-i18next'
 import { Text, YStack } from 'tamagui'
 
 import { OrnamentalRule } from '@/components'
@@ -15,6 +16,7 @@ export function ChapterContent({
   verses: Verse[]
   fallback?: boolean
 }) {
+  const { t } = useTranslation()
   const readingStyle = useReadingStyle()
   const readingMargin = useReadingMargin()
 
@@ -31,7 +33,7 @@ export function ChapterContent({
 
       {fallback ? (
         <Text fontFamily="$body" fontSize="$1" color="$colorSecondary" textAlign="center">
-          Showing Douay-Rheims (offline)
+          {t('bible.showingFallback')}
         </Text>
       ) : undefined}
 

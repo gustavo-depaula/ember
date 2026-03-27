@@ -1,4 +1,3 @@
-import { timeBlockLabels } from '@/config/constants'
 import type { Practice, TimeBlock } from '@/db/schema'
 
 export type { TimeBlock }
@@ -13,10 +12,7 @@ export const blockOrder: TimeBlock[] = ['morning', 'daytime', 'evening', 'flexib
 
 export function groupByTimeBlock(practices: Practice[]): Record<TimeBlock, BlockDefinition> {
   const groups = Object.fromEntries(
-    blockOrder.map((block) => [
-      block,
-      { label: timeBlockLabels[block], practices: [] as Practice[] },
-    ]),
+    blockOrder.map((block) => [block, { label: block, practices: [] as Practice[] }]),
   ) as Record<TimeBlock, BlockDefinition>
 
   for (const p of practices) {

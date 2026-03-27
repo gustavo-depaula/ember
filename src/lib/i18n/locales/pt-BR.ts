@@ -1,0 +1,211 @@
+export default {
+  home: {
+    greetingMorning: 'Bom dia',
+    greetingAfternoon: 'Boa tarde',
+    greetingEvening: 'Boa noite',
+    divineOffice: 'Of\u00edcio Divino',
+    divineOfficeSub: 'Laudes, V\u00e9speras e Completas',
+    planOfLife: 'Plano de Vida',
+    planOfLifeSub: 'Pr\u00e1ticas e progresso',
+    sacredScripture: 'Sagrada Escritura',
+    sacredScriptureSub: 'Ler a B\u00edblia',
+    catechism: 'Catecismo',
+    catechismSub: 'Ler o CIC',
+    fidelity: 'Fidelidade',
+    begin: 'Come\u00e7ar',
+    nextPractice: 'Sua pr\u00f3xima pr\u00e1tica',
+    dayComplete: 'Dia completo',
+    practicesAndOffices: '{{practices}} pr\u00e1ticas \u00b7 {{offices}} of\u00edcios',
+    restWell: 'Descanse bem. At\u00e9 amanh\u00e3.',
+  },
+
+  office: {
+    title: 'Of\u00edcio Divino',
+    morningPrayer: 'Ora\u00e7\u00e3o da Manh\u00e3',
+    lauds: 'Laudes',
+    eveningPrayer: 'Ora\u00e7\u00e3o da Tarde',
+    vespers: 'V\u00e9speras',
+    nightPrayer: 'Ora\u00e7\u00e3o da Noite',
+    compline: 'Completas',
+    back: 'Of\u00edcio',
+    completed: 'Conclu\u00eddo',
+    markComplete: 'Marcar como Conclu\u00eddo',
+    completing: 'Concluindo...',
+    fallbackNotice:
+      'Mostrando Douay-Rheims (offline) \u2014 tradu\u00e7\u00e3o selecionada indispon\u00edvel',
+    cccLabel: 'Catecismo da Igreja Cat\u00f3lica, {{start}}-{{end}}',
+  },
+
+  rubric: {
+    openingVerse: 'Vers\u00edculo de Abertura',
+    hymn: 'Hino',
+    psalmody: 'Salmodia',
+    scriptureReading: 'Leitura B\u00edblica',
+    reading: 'Leitura',
+    canticle: 'C\u00e2ntico',
+    ourFather: 'Pai Nosso',
+    closingPrayer: 'Ora\u00e7\u00e3o Final',
+    marianAntiphon: 'Ant\u00edfona Mariana',
+  },
+
+  plan: {
+    title: 'Plano de Vida',
+    emptyWall: 'Complete suas pr\u00e1ticas di\u00e1rias para preencher o mural',
+    dayStreak: 'Sequ\u00eancia de Dias',
+    completion: 'Conclus\u00e3o',
+    today: 'Hoje',
+    practiceNotFound: 'Pr\u00e1tica n\u00e3o encontrada',
+    currentStreak: 'Sequ\u00eancia Atual',
+    longestStreak: 'Maior Sequ\u00eancia',
+    totalDays: 'Total de Dias',
+    completionRate: 'Taxa de Conclus\u00e3o',
+    customize: 'Personalizar Pr\u00e1ticas',
+    addCustom: 'Adicionar Pr\u00e1tica',
+    disabled: 'Desativada',
+    noPractices: 'Nenhuma pr\u00e1tica {{tier}}',
+  },
+
+  editor: {
+    newPractice: 'Nova Pr\u00e1tica',
+    editPractice: 'Editar Pr\u00e1tica',
+    cancel: 'Cancelar',
+    name: 'Nome',
+    namePlaceholder: 'Nome da pr\u00e1tica',
+    icon: '\u00cdcone',
+    tier: 'N\u00edvel',
+    timeOfDay: 'Hora do Dia',
+    description: 'Descri\u00e7\u00e3o',
+    descriptionPlaceholder: 'Descri\u00e7\u00e3o opcional',
+    notifications: 'Notifica\u00e7\u00f5es',
+    reminderTime: 'Hora do lembrete',
+    enabled: 'Ativada',
+    createPractice: 'Criar Pr\u00e1tica',
+    saveChanges: 'Salvar Altera\u00e7\u00f5es',
+    deletePractice: 'Excluir Pr\u00e1tica',
+  },
+
+  frequency: {
+    label: 'Frequ\u00eancia',
+    daily: 'Di\u00e1rio',
+    weekly: 'Semanal',
+    custom: 'Dias Espec\u00edficos',
+  },
+
+  timeBlock: {
+    morning: 'Manh\u00e3',
+    daytime: 'Diurno',
+    evening: 'Noite',
+    flexible: 'Flex\u00edvel',
+  },
+
+  tier: {
+    essential: 'Essencial',
+    ideal: 'Ideal',
+    extra: 'Extra',
+  },
+
+  day: {
+    sun: 'Dom',
+    mon: 'Seg',
+    tue: 'Ter',
+    wed: 'Qua',
+    thu: 'Qui',
+    fri: 'Sex',
+    sat: 'S\u00e1b',
+  },
+
+  settings: {
+    title: 'Configura\u00e7\u00f5es',
+    readingProgress: 'Progresso de Leitura',
+    bibleTranslation: 'Tradu\u00e7\u00e3o da B\u00edblia',
+    change: 'Alterar',
+    markBooks: 'Marcar Livros como J\u00e1 Lidos',
+    updatePosition: 'Atualize sua posi\u00e7\u00e3o inicial',
+    theme: 'Tema',
+    themeLight: 'Claro',
+    themeDark: 'Escuro',
+    themeSystem: 'Sistema',
+    reading: 'Leitura',
+    attribution: 'Atribui\u00e7\u00e3o',
+    attrBible: 'Texto b\u00edblico: B\u00edblia Douay-Rheims (dom\u00ednio p\u00fablico)',
+    attrCatechism: 'Catecismo da Igreja Cat\u00f3lica (USCCB)',
+    attrBolls: 'Tradu\u00e7\u00f5es online via API Bolls.life',
+    estCompletion: 'Conclus\u00e3o est.: {{date}}',
+    booksOf: '{{completed}} de {{total}} livros',
+    language: 'Idioma',
+  },
+
+  readingLabel: {
+    ot: 'Antigo Testamento',
+    nt: 'Novo Testamento',
+    catechism: 'Catecismo',
+  },
+
+  books: {
+    back: 'Configura\u00e7\u00f5es',
+    title: 'Marcar como Lido',
+    instructions: 'Toque em um livro para expandir e alterar cap\u00edtulos individuais.',
+    chaptersOf: '{{read}} de {{total}} cap\u00edtulos',
+    markAll: 'Marcar tudo',
+    unmarkAll: 'Desmarcar tudo',
+  },
+
+  position: {
+    settings: 'Configura\u00e7\u00f5es',
+    selectBook: 'Selecione um livro',
+    selectChapter: 'Selecione um cap\u00edtulo',
+    selectPart: 'Selecione uma parte',
+    selectSection: 'Selecione uma se\u00e7\u00e3o',
+    chapter: 'Cap\u00edtulo {{n}}',
+    chapterAbbr: '{{n}} cap.',
+  },
+
+  bible: {
+    showingFallback: 'Mostrando Douay-Rheims (offline)',
+  },
+
+  catechism: {
+    toc: '\u00cdndice',
+    inBrief: 'Em Resumo',
+  },
+
+  translations: {
+    title: 'Tradu\u00e7\u00f5es',
+    suggested: 'B\u00edblias Sugeridas',
+    all: 'Todas as Tradu\u00e7\u00f5es',
+  },
+
+  readingConfig: {
+    reading: 'Leitura',
+    size: 'Tamanho',
+    spacing: 'Espa\u00e7amento',
+    align: 'Alinhar',
+    margins: 'Margens',
+    preview:
+      'Ave Maria, cheia de gra\u00e7a, o Senhor \u00e9 convosco. Bendita sois v\u00f3s entre as mulheres, e bendito \u00e9 o fruto do vosso ventre, Jesus. Santa Maria, M\u00e3e de Deus, rogai por n\u00f3s, pecadores, agora e na hora da nossa morte. Am\u00e9m.',
+  },
+
+  common: {
+    loading: 'Carregando...',
+    back: 'Voltar',
+  },
+
+  practice: {
+    'morning-offering': 'Oferecimento da Manh\u00e3',
+    'mental-prayer': 'Ora\u00e7\u00e3o Mental',
+    'holy-mass': 'Santa Missa',
+    rosary: 'Ros\u00e1rio',
+    'examination-conscience': 'Exame de Consci\u00eancia',
+    'night-prayer': 'Ora\u00e7\u00e3o da Noite',
+    angelus: 'Angelus',
+    'spiritual-reading': 'Leitura Espiritual',
+    confession: 'Confiss\u00e3o',
+    'blessed-sacrament': 'Visita ao Sant\u00edssimo',
+    'divine-mercy': 'Ter\u00e7o da Miseric\u00f3rdia',
+    'stations-cross': 'Via Sacra',
+    'lectio-divina': 'Lectio Divina',
+    'guardian-angel': 'Ora\u00e7\u00e3o ao Anjo da Guarda',
+    memorare: 'Lembrai-vos',
+    'three-oclock': 'Ora\u00e7\u00e3o das Tr\u00eas Horas',
+  },
+} as const

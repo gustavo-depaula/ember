@@ -1,9 +1,11 @@
+import { useTranslation } from 'react-i18next'
 import { Text, YStack } from 'tamagui'
 
 import { tierConfig } from '@/config/constants'
 import type { Tier } from '@/db/schema'
 
 export function TierBadge({ tier }: { tier: Tier }) {
+  const { t } = useTranslation()
   const config = tierConfig[tier]
 
   return (
@@ -15,7 +17,7 @@ export function TierBadge({ tier }: { tier: Tier }) {
       opacity={0.85}
     >
       <Text fontFamily="$body" fontSize={10} color="white" textTransform="uppercase">
-        {config.label}
+        {t(`tier.${tier}`)}
       </Text>
     </YStack>
   )

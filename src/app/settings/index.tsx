@@ -1,6 +1,6 @@
-import { format } from 'date-fns'
 import { useRouter } from 'expo-router'
 import { useMemo, useState } from 'react'
+import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
 import { Text, XStack, YStack } from 'tamagui'
 
@@ -14,14 +14,16 @@ import { getEstimatedCompletion, getProgressPercentage } from '@/features/divine
 import { readingScale, useReadingMargin, useReadingStyle } from '@/hooks/useReadingStyle'
 import { getTranslationLanguage, suggestedTranslations } from '@/lib/bolls'
 import { getDrbBooks } from '@/lib/content'
+import { supportedLanguages } from '@/lib/i18n'
+import { formatLocalized } from '@/lib/i18n/dateLocale'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 import { useReadingConfigStore } from '@/stores/readingConfigStore'
 import { useThemeStore } from '@/stores/themeStore'
 
 const themeOptions = [
-  { value: 'light' as const, label: 'Light' },
-  { value: 'dark' as const, label: 'Dark' },
-  { value: 'system' as const, label: 'System' },
+  { value: 'light' as const, labelKey: 'settings.themeLight' },
+  { value: 'dark' as const, labelKey: 'settings.themeDark' },
+  { value: 'system' as const, labelKey: 'settings.themeSystem' },
 ]
 
 function Stepper({
@@ -123,10 +125,10 @@ function PillSelector<T extends string>({
   )
 }
 
-const readingLabels: Record<string, string> = {
-  ot: 'Old Testament',
-  nt: 'New Testament',
-  catechism: 'Catechism',
+const readingLabelKeys: Record<string, string> = {
+  ot: 'readingLabel.ot',
+  nt: 'readingLabel.nt',
+  catechism: 'readingLabel.catechism',
 }
 
 function getPositionLabel(progress: ReadingProgress): string {
@@ -138,17 +140,22 @@ function getPositionLabel(progress: ReadingProgress): string {
   return `${book?.name ?? progress.current_book} ${progress.current_chapter}`
 }
 
-function getBookCount(progress: ReadingProgress): string | undefined {
+function getBookCountData(
+  progress: ReadingProgress,
+): { completed: number; total: number } | undefined {
   if (progress.type === 'catechism') return undefined
   const testament = progress.type as 'ot' | 'nt'
   const books = getDrbBooks().filter((b) => b.testament === testament)
   const completed: string[] = JSON.parse(progress.completed_books)
-  return `${completed.length} of ${books.length} books`
+  return { completed: completed.length, total: books.length }
 }
 
 export default function SettingsScreen() {
+  const { t } = useTranslation()
   const router = useRouter()
   const translation = usePreferencesStore((s) => s.translation)
+  const language = usePreferencesStore((s) => s.language)
+  const setLanguage = usePreferencesStore((s) => s.setLanguage)
   const [translationModalVisible, setTranslationModalVisible] = useState(false)
   const themePreference = useThemeStore((s) => s.preference)
   const setTheme = useThemeStore((s) => s.setTheme)
@@ -171,11 +178,11 @@ export default function SettingsScreen() {
         }
         return {
           type: p.type,
-          label: readingLabels[p.type] ?? p.type,
+          labelKey: readingLabelKeys[p.type] ?? p.type,
           percentage: getProgressPercentage(row),
           position: getPositionLabel(p),
-          bookCount: getBookCount(p),
-          estimated: format(getEstimatedCompletion(row), 'MMM yyyy'),
+          bookCountData: getBookCountData(p),
+          estimated: formatLocalized(getEstimatedCompletion(row), 'MMM yyyy'),
         }
       }),
     [allProgress],
@@ -187,13 +194,13 @@ export default function SettingsScreen() {
         <YStack alignItems="center" gap="$xs">
           <HeaderFlourish />
           <Text fontFamily="$display" fontSize={28} lineHeight={34} color="$color">
-            Settings
+            {t('settings.title')}
           </Text>
         </YStack>
 
         <YStack gap="$md">
           <Text fontFamily="$heading" fontSize="$3" color="$color">
-            Reading Progress
+            {t('settings.readingProgress')}
           </Text>
           {progressItems.map((item) => (
             <YStack
@@ -205,7 +212,7 @@ export default function SettingsScreen() {
             >
               <XStack justifyContent="space-between" alignItems="center">
                 <Text fontFamily="$heading" fontSize="$2" color="$color">
-                  {item.label}
+                  {t(item.labelKey)}
                 </Text>
                 <Text fontFamily="$body" fontSize="$1" color="$accent">
                   {Math.round(item.percentage * 100)}%
@@ -220,17 +227,20 @@ export default function SettingsScreen() {
                   onPress={() => router.push(`/settings/position?type=${item.type}` as never)}
                 >
                   <Text fontFamily="$body" fontSize="$1" color="$accent">
-                    Change
+                    {t('settings.change')}
                   </Text>
                 </Pressable>
               </XStack>
-              {item.bookCount ? (
+              {item.bookCountData ? (
                 <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
-                  {item.bookCount}
+                  {t('settings.booksOf', {
+                    completed: item.bookCountData.completed,
+                    total: item.bookCountData.total,
+                  })}
                 </Text>
               ) : undefined}
               <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
-                Est. completion: {item.estimated}
+                {t('settings.estCompletion', { date: item.estimated })}
               </Text>
             </YStack>
           ))}
@@ -240,7 +250,7 @@ export default function SettingsScreen() {
 
         <YStack gap="$md">
           <Text fontFamily="$heading" fontSize="$3" color="$color">
-            Bible Translation
+            {t('settings.bibleTranslation')}
           </Text>
           <Pressable onPress={() => setTranslationModalVisible(true)}>
             <XStack
@@ -252,14 +262,14 @@ export default function SettingsScreen() {
             >
               <YStack>
                 <Text fontFamily="$body" fontSize="$2" color="$color">
-                  {suggestedTranslations.find((t) => t.code === translation)?.name ?? translation}
+                  {suggestedTranslations.find((tr) => tr.code === translation)?.name ?? translation}
                 </Text>
                 <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
                   {getTranslationLanguage(translation)} · {translation}
                 </Text>
               </YStack>
               <Text fontFamily="$body" fontSize="$2" color="$accent">
-                Change
+                {t('settings.change')}
               </Text>
             </XStack>
           </Pressable>
@@ -274,17 +284,26 @@ export default function SettingsScreen() {
         <SectionDivider />
 
         <PillSelector
-          label="Theme"
-          options={themeOptions}
+          label={t('settings.theme')}
+          options={themeOptions.map((o) => ({ value: o.value, label: t(o.labelKey) }))}
           value={themePreference}
           onChange={setTheme}
         />
 
         <SectionDivider />
 
+        <PillSelector
+          label={t('settings.language')}
+          options={supportedLanguages.map((l) => ({ value: l.code, label: l.label }))}
+          value={language}
+          onChange={setLanguage}
+        />
+
+        <SectionDivider />
+
         <YStack gap="$md">
           <Text fontFamily="$heading" fontSize="$3" color="$color">
-            Reading
+            {t('settings.reading')}
           </Text>
 
           <ReadingConfig />
@@ -302,10 +321,10 @@ export default function SettingsScreen() {
           >
             <YStack>
               <Text fontFamily="$body" fontSize="$2" color="$color">
-                Mark Books as Already Read
+                {t('settings.markBooks')}
               </Text>
               <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
-                Update your starting position
+                {t('settings.updatePosition')}
               </Text>
             </YStack>
             <Text fontFamily="$body" fontSize="$2" color="$accent">
@@ -318,16 +337,16 @@ export default function SettingsScreen() {
 
         <YStack gap="$sm">
           <Text fontFamily="$heading" fontSize="$3" color="$color">
-            Attribution
+            {t('settings.attribution')}
           </Text>
           <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
-            Bible text: Douay-Rheims Bible (public domain)
+            {t('settings.attrBible')}
           </Text>
           <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
-            Catechism of the Catholic Church (USCCB)
+            {t('settings.attrCatechism')}
           </Text>
           <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
-            Online translations via Bolls.life API
+            {t('settings.attrBolls')}
           </Text>
         </YStack>
       </YStack>
