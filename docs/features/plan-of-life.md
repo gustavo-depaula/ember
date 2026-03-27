@@ -29,6 +29,7 @@ Practices are organized into three tiers — **Essential**, **Ideal**, and **Ext
 | Rosary | Daily | Daytime |
 | Examination of Conscience | Daily | Evening |
 | Night Prayer | Daily | Evening |
+| Jesus Prayer *(Eastern)* | Daily | Flexible | Disabled |
 
 ### Ideal
 | Practice | Frequency | Time Block | Default |
@@ -37,6 +38,8 @@ Practices are organized into three tiers — **Essential**, **Ideal**, and **Ext
 | Spiritual Reading | Daily | Flexible | Enabled |
 | Confession | Weekly (Saturday) | Flexible | Disabled |
 | Visit to Blessed Sacrament | Daily | Flexible | Disabled |
+| Akathist Hymn *(Eastern)* | Weekly (Saturday) | Flexible | Disabled |
+| Trisagion Prayers *(Eastern)* | Daily | Morning | Disabled |
 
 ### Extra (disabled by default)
 | Practice | Frequency | Time Block |
@@ -47,6 +50,8 @@ Practices are organized into three tiers — **Essential**, **Ideal**, and **Ext
 | Guardian Angel Prayer | Daily | Morning |
 | Memorare | Daily | Flexible |
 | Three O'Clock Prayer | Daily | Daytime |
+| Paraklesis *(Eastern)* | Daily | Flexible |
+| Prostrations *(Eastern)* | Daily | Morning |
 
 ---
 
