@@ -1,6 +1,6 @@
 import { format, parseISO, subDays, subWeeks } from 'date-fns'
 import { useRouter } from 'expo-router'
-import { Settings } from 'lucide-react-native'
+import { SlidersHorizontal } from 'lucide-react-native'
 import { useCallback, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
@@ -91,18 +91,9 @@ export default function PlanScreen() {
       <YStack gap="$lg" paddingVertical="$lg">
         <YStack alignItems="center" gap="$xs">
           <HeaderFlourish />
-          <XStack alignItems="center" justifyContent="center" width="100%" position="relative">
-            <Text fontFamily="$display" fontSize={28} lineHeight={34} color="$color">
-              {t('plan.title')}
-            </Text>
-            <AnimatedPressable
-              onPress={() => router.push('/plan/settings')}
-              hitSlop={12}
-              style={{ position: 'absolute', right: 0 }}
-            >
-              <Settings size={22} color={theme.colorSecondary.val} />
-            </AnimatedPressable>
-          </XStack>
+          <Text fontFamily="$display" fontSize={28} lineHeight={34} color="$color">
+            {t('plan.title')}
+          </Text>
         </YStack>
 
         <YStack alignItems="center">
@@ -149,6 +140,26 @@ export default function PlanScreen() {
             </Text>
           </YStack>
         </XStack>
+
+        <AnimatedPressable onPress={() => router.push('/plan/settings')}>
+          <XStack
+            alignItems="center"
+            justifyContent="center"
+            gap="$sm"
+            paddingVertical="$sm"
+            paddingHorizontal="$md"
+            borderWidth={0.5}
+            borderColor="$accentSubtle"
+            borderRadius="$md"
+            borderStyle="dashed"
+            alignSelf="center"
+          >
+            <SlidersHorizontal size={16} color={theme.accent.val} />
+            <Text fontFamily="$heading" fontSize="$2" color="$accent">
+              {t('plan.customize')}
+            </Text>
+          </XStack>
+        </AnimatedPressable>
 
         <YStack gap="$xs">
           <SectionDivider />
