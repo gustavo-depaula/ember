@@ -1,5 +1,6 @@
 import { usePathname, useRouter } from 'expo-router'
 import { memo, useCallback, useState } from 'react'
+import { useTranslation } from 'react-i18next'
 import { Pressable, StyleSheet } from 'react-native'
 import Animated, {
   interpolate,
@@ -13,12 +14,12 @@ import { Text, useTheme, View, XStack } from 'tamagui'
 import { mediumTap } from '@/lib/haptics'
 
 const sections = [
-  { path: '/', label: 'Home', color: '#C9A84C' },
-  { path: '/office', label: 'Divine Office', color: '#6B1D2A' },
-  { path: '/plan', label: 'Plan of Life', color: '#2D6A4F' },
-  { path: '/bible', label: 'Sacred Scripture', color: '#1B3A5C' },
-  { path: '/catechism', label: 'Catechism', color: '#7B2D3B' },
-  { path: '/settings', label: 'Settings', color: '#6B5D4F' },
+  { path: '/', labelKey: 'nav.home', color: '#C9A84C' },
+  { path: '/office', labelKey: 'nav.divineOffice', color: '#6B1D2A' },
+  { path: '/plan', labelKey: 'nav.planOfLife', color: '#2D6A4F' },
+  { path: '/bible', labelKey: 'nav.sacredScripture', color: '#1B3A5C' },
+  { path: '/catechism', labelKey: 'nav.catechism', color: '#7B2D3B' },
+  { path: '/settings', labelKey: 'nav.settings', color: '#6B5D4F' },
 ]
 
 const springConfig = { damping: 24, stiffness: 200, mass: 0.8 }
@@ -102,6 +103,7 @@ function RibbonItem({
 }
 
 export const TasselPull = memo(function TasselPull() {
+  const { t } = useTranslation()
   const pathname = usePathname()
   const router = useRouter()
   const theme = useTheme()
@@ -158,11 +160,13 @@ export const TasselPull = memo(function TasselPull() {
       zIndex={5000}
       pointerEvents="box-none"
     >
-      {panelOpen && (
-        <Pressable style={StyleSheet.absoluteFill} onPress={close}>
-          <Animated.View style={[styles.backdrop, backdropStyle]} />
-        </Pressable>
-      )}
+      <Pressable
+        style={StyleSheet.absoluteFill}
+        onPress={close}
+        pointerEvents={panelOpen ? 'auto' : 'none'}
+      >
+        <Animated.View style={[styles.backdrop, backdropStyle]} />
+      </Pressable>
 
       <Animated.View style={[styles.panel, panelStyle]}>
         <View height={topInset} backgroundColor={bg} />
@@ -170,7 +174,7 @@ export const TasselPull = memo(function TasselPull() {
           <RibbonItem
             key={section.path}
             color={section.color}
-            label={section.label}
+            label={t(section.labelKey)}
             active={isActive(section.path)}
             isLast={i === sections.length - 1}
             onPress={() => handleRibbonPress(section.path)}

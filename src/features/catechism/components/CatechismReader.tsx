@@ -127,7 +127,7 @@ export function CatechismReader() {
     opacity: interpolate(slideX.value, [-sectionDrawerWidth, 0, tocDrawerWidth], [0.4, 1, 0.4]),
   }))
 
-  const sectionName = currentSegment?.section ?? 'Catechism'
+  const sectionName = currentSegment?.section ?? t('readingLabel.catechism')
   const paragraphRange = currentSegment
     ? currentSegment.startParagraph === currentSegment.endParagraph
       ? String(currentSegment.startParagraph)
