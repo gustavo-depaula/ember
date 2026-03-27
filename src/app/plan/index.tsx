@@ -1,7 +1,7 @@
 import { format, parseISO, subDays, subWeeks } from 'date-fns'
 import { useRouter } from 'expo-router'
 import { Settings } from 'lucide-react-native'
-import { useMemo, useState } from 'react'
+import { useCallback, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
@@ -39,6 +39,8 @@ export default function PlanScreen() {
   const today = useMemo(() => format(new Date(), 'yyyy-MM-dd'), [])
   const [selectedDate, setSelectedDate] = useState(today)
   const rangeStart = useMemo(() => format(subWeeks(new Date(), 20), 'yyyy-MM-dd'), [])
+  const [todayTrigger, setTodayTrigger] = useState(0)
+  const goToToday = useCallback(() => setTodayTrigger((n) => n + 1), [])
 
   const { data: practices = [] } = usePractices()
   const { data: rangeLogs = [] } = usePracticeLogRange(rangeStart, today)
@@ -148,9 +150,21 @@ export default function PlanScreen() {
           </YStack>
         </XStack>
 
-        <SectionDivider />
-
-        <DayCarousel onSelectDate={setSelectedDate} today={today} />
+        <YStack gap="$xs">
+          <SectionDivider />
+          <AnimatedPressable onPress={goToToday} disabled={isToday}>
+            <Text
+              fontFamily="$heading"
+              fontSize="$3"
+              color="$accent"
+              textAlign="center"
+              opacity={isToday ? 0 : 1}
+            >
+              {t('plan.today')} ›
+            </Text>
+          </AnimatedPressable>
+        </YStack>
+        <DayCarousel onSelectDate={setSelectedDate} today={today} todayTrigger={todayTrigger} />
 
         <Text fontFamily="$heading" fontSize="$4" color="$color" textAlign="center">
           {dateLabel}
