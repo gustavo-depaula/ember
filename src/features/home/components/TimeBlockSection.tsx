@@ -1,8 +1,8 @@
 import { Check } from 'lucide-react-native'
 import { Pressable } from 'react-native'
-import { Text, useTheme, View, XStack, YStack } from 'tamagui'
+import { Text, useTheme, XStack, YStack } from 'tamagui'
 
-import { AnimatedCheckbox, OrnamentalRule } from '@/components'
+import { AnimatedCheckbox } from '@/components'
 import { getPracticeIcon } from '@/db/seed'
 import type { BlockState } from '@/features/plan-of-life/timeBlocks'
 import { lightTap } from '@/lib/haptics'
@@ -18,7 +18,6 @@ export function TimeBlockSection({
   total,
   onToggle,
   onToggleCollapse,
-  showRule = false,
 }: {
   label: string
   practices: Practice[]
@@ -28,7 +27,6 @@ export function TimeBlockSection({
   total: number
   onToggle: (practiceId: string, completed: boolean) => void
   onToggleCollapse: () => void
-  showRule?: boolean
 }) {
   const theme = useTheme()
   const allDone = completed === total
@@ -81,7 +79,6 @@ export function TimeBlockSection({
               {completed}/{total}
             </Text>
           </XStack>
-          <View height={1} backgroundColor="$accentSubtle" opacity={0.5} />
         </YStack>
       </Pressable>
       {practices.map((practice) => {
@@ -110,7 +107,6 @@ export function TimeBlockSection({
           </XStack>
         )
       })}
-      {showRule && <OrnamentalRule />}
     </YStack>
   )
 }
