@@ -53,6 +53,7 @@ export default {
     dayStreak: 'Day Streak',
     completion: 'Completion',
     today: 'Today',
+    preview: 'Preview',
     practiceNotFound: 'Practice not found',
     currentStreak: 'Current Streak',
     longestStreak: 'Longest Streak',

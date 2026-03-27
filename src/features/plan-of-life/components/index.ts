@@ -1,3 +1,4 @@
+export { DayCarousel } from './DayCarousel'
 export { FrequencyPicker } from './FrequencyPicker'
 export { IconPicker } from './IconPicker'
 export { PracticeChecklist } from './PracticeChecklist'
