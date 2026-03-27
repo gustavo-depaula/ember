@@ -13,12 +13,14 @@ import * as SplashScreen from 'expo-splash-screen'
 import { StatusBar } from 'expo-status-bar'
 import { useEffect, useState } from 'react'
 import { LogBox, useColorScheme } from 'react-native'
+import { GestureHandlerRootView } from 'react-native-gesture-handler'
 import { TamaguiProvider } from 'tamagui'
 
 import { RibbonBookmarks } from '@/components/RibbonBookmarks'
 import { config } from '@/config/tamagui.config'
 import { useDbInit } from '@/db/client'
 import { seedPractices, seedReadingProgress } from '@/db/seed'
+import { useBibleStore } from '@/stores/bibleStore'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 import { useThemeStore } from '@/stores/themeStore'
 
@@ -46,11 +48,13 @@ export default function RootLayout() {
   const systemScheme = useColorScheme()
   const { preference, hydrated: themeHydrated, hydrate: hydrateTheme } = useThemeStore()
   const { hydrated: prefsHydrated, hydrate: hydratePrefs } = usePreferencesStore()
+  const { hydrated: bibleHydrated, hydrate: hydrateBible } = useBibleStore()
 
   useEffect(() => {
     hydrateTheme()
     hydratePrefs()
-  }, [hydrateTheme, hydratePrefs])
+    hydrateBible()
+  }, [hydrateTheme, hydratePrefs, hydrateBible])
 
   const [seeded, setSeeded] = useState(false)
 
@@ -60,7 +64,7 @@ export default function RootLayout() {
     }
   }, [dbReady])
 
-  const ready = fontsLoaded && themeHydrated && prefsHydrated && dbReady && seeded
+  const ready = fontsLoaded && themeHydrated && prefsHydrated && bibleHydrated && dbReady && seeded
 
   useEffect(() => {
     if (ready) {
@@ -73,12 +77,14 @@ export default function RootLayout() {
   const resolvedTheme = preference === 'system' ? (systemScheme ?? 'light') : preference
 
   return (
-    <QueryClientProvider client={queryClient}>
-      <TamaguiProvider config={config} defaultTheme={resolvedTheme}>
-        <StatusBar hidden />
-        <Stack screenOptions={{ headerShown: false, animation: 'none' }} />
-        <RibbonBookmarks />
-      </TamaguiProvider>
-    </QueryClientProvider>
+    <GestureHandlerRootView style={{ flex: 1 }}>
+      <QueryClientProvider client={queryClient}>
+        <TamaguiProvider config={config} defaultTheme={resolvedTheme}>
+          <StatusBar hidden />
+          <Stack screenOptions={{ headerShown: false, animation: 'none' }} />
+          <RibbonBookmarks />
+        </TamaguiProvider>
+      </QueryClientProvider>
+    </GestureHandlerRootView>
   )
 }

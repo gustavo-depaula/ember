@@ -1,0 +1,1 @@
+export { BibleReader } from './BibleReader'
