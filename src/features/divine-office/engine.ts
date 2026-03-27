@@ -39,12 +39,6 @@ type Antiphon = {
   english: string
 }
 
-type CccParagraph = {
-  number: number
-  text: string
-  section: string
-}
-
 export const cccDailyCount = 8
 
 export const readingTypeForHour: Record<OfficeHour, 'ot' | 'nt' | 'catechism'> = {
@@ -138,26 +132,6 @@ export function getHymnForHour(hour: OfficeHour): {
 } {
   const hymns = hymnsByHour[hour]
   return hymns[0]
-}
-
-// --- CCC ---
-
-let cccData: CccParagraph[] | undefined
-
-function loadCcc(): CccParagraph[] {
-  if (!cccData) {
-    cccData = require('@/assets/catechism/ccc.json')
-  }
-  return cccData as CccParagraph[]
-}
-
-export function getCccParagraphs(
-  startParagraph: number,
-  count: number,
-): Array<{ number: number; text: string; section: string }> {
-  const ccc = loadCcc()
-  const startIndex = Math.max(0, startParagraph - 1)
-  return ccc.slice(startIndex, startIndex + count)
 }
 
 // --- Reading references ---

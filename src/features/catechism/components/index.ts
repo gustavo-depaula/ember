@@ -1,0 +1,1 @@
+export { CatechismReader } from './CatechismReader'

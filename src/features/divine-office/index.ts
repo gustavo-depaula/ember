@@ -1,10 +1,9 @@
+export { type CccParagraph, getCccParagraphs } from '@/lib/catechism'
 export { PrayerFlow } from './components'
-
 export {
   buildPrayerSections,
   cccDailyCount,
   computeEaster,
-  getCccParagraphs,
   getHymnForHour,
   getLiturgicalSeason,
   getMarianAntiphon,
