@@ -313,7 +313,7 @@ function BibleReadingBlock({
         </XStack>
       )}
       <Text fontFamily="$body" fontSize="$2" color="$colorMutedBlue" fontWeight="500">
-        {reference.bookName} {reference.chapter}
+        {t(`bookName.${reference.book}`, { defaultValue: reference.bookName })} {reference.chapter}
       </Text>
       {verses.length > 0 && (
         <>
