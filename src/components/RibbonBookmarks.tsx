@@ -7,6 +7,7 @@ const ribbons = [
   { path: '/', label: 'Home', color: '#C9A84C' },
   { path: '/office', label: 'Office', color: '#6B1D2A' },
   { path: '/plan', label: 'Plan', color: '#2D6A4F' },
+  { path: '/bible', label: 'Bible', color: '#1B3A5C' },
 ] as const
 
 const ribbonWidth = 10

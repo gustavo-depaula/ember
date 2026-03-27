@@ -103,6 +103,13 @@ export default function HomeScreen() {
           </YStack>
         </XStack>
 
+        <NavigationMedallion
+          icon="cross"
+          title="Sacred Scripture"
+          subtitle="Read the Bible"
+          onPress={() => router.push('/bible')}
+        />
+
         {practices.length > 0 && (
           <YStack gap="$md">
             {blockOrder.map((block, i) => {
