@@ -1,12 +1,18 @@
 import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
 
 import {
+  createPractice,
+  deletePractice,
+  getAllPractices,
   getEnabledPractices,
   getPracticeCompletedDates,
   getPracticeLogRange,
   getPracticeLogsForDate,
+  reorderPractices,
   togglePractice,
+  updatePractice,
 } from '@/db/repositories'
+import { rescheduleAllReminders } from '@/lib/notifications'
 
 import { getPracticeStreak } from './utils'
 
@@ -14,6 +20,13 @@ export function usePractices() {
   return useQuery({
     queryKey: ['practices'],
     queryFn: getEnabledPractices,
+  })
+}
+
+export function useAllPractices() {
+  return useQuery({
+    queryKey: ['practices', 'all'],
+    queryFn: getAllPractices,
   })
 }
 
@@ -61,6 +74,55 @@ export function usePracticeStats(practiceId: string) {
       const totalDays = completedDates.length
 
       return { currentStreak, totalDays, completedDates }
+    },
+  })
+}
+
+export function useCreatePractice() {
+  const queryClient = useQueryClient()
+
+  return useMutation({
+    mutationFn: createPractice,
+    onSuccess: () => {
+      queryClient.invalidateQueries({ queryKey: ['practices'] })
+      rescheduleAllReminders()
+    },
+  })
+}
+
+export function useUpdatePractice() {
+  const queryClient = useQueryClient()
+
+  return useMutation({
+    mutationFn: ({ id, data }: { id: string; data: Parameters<typeof updatePractice>[1] }) =>
+      updatePractice(id, data),
+    onSuccess: () => {
+      queryClient.invalidateQueries({ queryKey: ['practices'] })
+      rescheduleAllReminders()
+    },
+  })
+}
+
+export function useDeletePractice() {
+  const queryClient = useQueryClient()
+
+  return useMutation({
+    mutationFn: deletePractice,
+    onSuccess: () => {
+      queryClient.invalidateQueries({ queryKey: ['practices'] })
+      queryClient.invalidateQueries({ queryKey: ['practiceLogs'] })
+      rescheduleAllReminders()
+    },
+  })
+}
+
+export function useReorderPractices() {
+  const queryClient = useQueryClient()
+
+  return useMutation({
+    mutationFn: reorderPractices,
+    onSuccess: () => {
+      queryClient.invalidateQueries({ queryKey: ['practices'] })
     },
   })
 }

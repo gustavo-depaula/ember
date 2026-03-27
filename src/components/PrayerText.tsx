@@ -1,9 +1,9 @@
-import { styled, Text } from 'tamagui'
+import type { ComponentProps } from 'react'
+import { Text } from 'tamagui'
 
-export const PrayerText = styled(Text, {
-  name: 'PrayerText',
-  fontFamily: '$body',
-  fontSize: '$4',
-  lineHeight: '$4',
-  color: '$color',
-})
+import { useReadingStyle } from '@/hooks/useReadingStyle'
+
+export function PrayerText(props: ComponentProps<typeof Text>) {
+  const style = useReadingStyle()
+  return <Text color="$color" {...style} {...props} />
+}

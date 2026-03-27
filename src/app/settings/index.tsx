@@ -1,16 +1,20 @@
 import { format } from 'date-fns'
 import { useRouter } from 'expo-router'
-import { useMemo } from 'react'
+import { useMemo, useState } from 'react'
 import { Pressable } from 'react-native'
 import { Text, XStack, YStack } from 'tamagui'
 
-import { BackToHome, HeaderFlourish, ProgressBar, ScreenLayout, SectionDivider } from '@/components'
+import { HeaderFlourish, ProgressBar, ScreenLayout, SectionDivider } from '@/components'
+import { readingFonts } from '@/config/readingFonts'
 import type { ReadingProgress } from '@/db/schema'
+import { TranslationModal } from '@/features/bible/components/TranslationModal'
 import { useAllReadingProgress } from '@/features/divine-office'
 import { getEstimatedCompletion, getProgressPercentage } from '@/features/divine-office/utils'
-import { availableTranslations } from '@/lib/bolls'
+import { readingScale, useReadingMargin, useReadingStyle } from '@/hooks/useReadingStyle'
+import { getTranslationLanguage, suggestedTranslations } from '@/lib/bolls'
 import { getDrbBooks } from '@/lib/content'
 import { usePreferencesStore } from '@/stores/preferencesStore'
+import { useReadingConfigStore } from '@/stores/readingConfigStore'
 import { useThemeStore } from '@/stores/themeStore'
 
 const themeOptions = [
@@ -18,6 +22,105 @@ const themeOptions = [
   { value: 'dark' as const, label: 'Dark' },
   { value: 'system' as const, label: 'System' },
 ]
+
+function Stepper({
+  label,
+  displayValue,
+  onDecrement,
+  onIncrement,
+  decrementDisabled,
+  incrementDisabled,
+}: {
+  label: string
+  displayValue: string
+  onDecrement: () => void
+  onIncrement: () => void
+  decrementDisabled: boolean
+  incrementDisabled: boolean
+}) {
+  return (
+    <XStack justifyContent="space-between" alignItems="center">
+      <Text fontFamily="$body" fontSize="$2" color="$color">
+        {label}
+      </Text>
+      <XStack alignItems="center" gap="$sm">
+        <Pressable onPress={onDecrement} disabled={decrementDisabled}>
+          <YStack
+            backgroundColor="$backgroundSurface"
+            borderRadius="$md"
+            width={36}
+            height={36}
+            alignItems="center"
+            justifyContent="center"
+            opacity={decrementDisabled ? 0.3 : 1}
+          >
+            <Text fontFamily="$body" fontSize="$3" color="$color">
+              -
+            </Text>
+          </YStack>
+        </Pressable>
+        <Text fontFamily="$body" fontSize="$2" color="$accent" width={32} textAlign="center">
+          {displayValue}
+        </Text>
+        <Pressable onPress={onIncrement} disabled={incrementDisabled}>
+          <YStack
+            backgroundColor="$backgroundSurface"
+            borderRadius="$md"
+            width={36}
+            height={36}
+            alignItems="center"
+            justifyContent="center"
+            opacity={incrementDisabled ? 0.3 : 1}
+          >
+            <Text fontFamily="$body" fontSize="$3" color="$color">
+              +
+            </Text>
+          </YStack>
+        </Pressable>
+      </XStack>
+    </XStack>
+  )
+}
+
+function PillSelector<T extends string>({
+  label,
+  options,
+  value,
+  onChange,
+}: {
+  label: string
+  options: Array<{ value: T; label: string }>
+  value: T
+  onChange: (value: T) => void
+}) {
+  return (
+    <YStack gap="$xs">
+      <Text fontFamily="$body" fontSize="$2" color="$color">
+        {label}
+      </Text>
+      <XStack gap="$sm">
+        {options.map((opt) => {
+          const selected = value === opt.value
+          return (
+            <Pressable key={opt.value} onPress={() => onChange(opt.value)}>
+              <YStack
+                backgroundColor={selected ? '$accent' : '$backgroundSurface'}
+                borderRadius="$lg"
+                paddingVertical="$sm"
+                paddingHorizontal="$md"
+                alignItems="center"
+              >
+                <Text fontFamily="$body" fontSize="$2" color={selected ? '$background' : '$color'}>
+                  {opt.label}
+                </Text>
+              </YStack>
+            </Pressable>
+          )
+        })}
+      </XStack>
+    </YStack>
+  )
+}
 
 const readingLabels: Record<string, string> = {
   ot: 'Old Testament',
@@ -45,9 +148,13 @@ function getBookCount(progress: ReadingProgress): string | undefined {
 export default function SettingsScreen() {
   const router = useRouter()
   const translation = usePreferencesStore((s) => s.translation)
-  const setTranslation = usePreferencesStore((s) => s.setTranslation)
+  const [translationModalVisible, setTranslationModalVisible] = useState(false)
   const themePreference = useThemeStore((s) => s.preference)
   const setTheme = useThemeStore((s) => s.setTheme)
+
+  const rc = useReadingConfigStore()
+  const readingStyle = useReadingStyle()
+  const readingMargin = useReadingMargin()
 
   const { data: allProgress = [] } = useAllReadingProgress()
 
@@ -76,7 +183,6 @@ export default function SettingsScreen() {
   return (
     <ScreenLayout>
       <YStack gap="$lg" paddingVertical="$lg">
-        <BackToHome />
         <YStack alignItems="center" gap="$xs">
           <HeaderFlourish />
           <Text fontFamily="$display" fontSize={28} lineHeight={34} color="$color">
@@ -135,70 +241,142 @@ export default function SettingsScreen() {
           <Text fontFamily="$heading" fontSize="$3" color="$color">
             Bible Translation
           </Text>
-          {availableTranslations.map((t) => {
-            const selected = translation === t.code
-            return (
-              <Pressable key={t.code} onPress={() => setTranslation(t.code)}>
-                <XStack
-                  backgroundColor={selected ? '$accent' : '$backgroundSurface'}
-                  borderRadius="$lg"
-                  padding="$md"
-                  alignItems="center"
-                  justifyContent="space-between"
-                >
-                  <YStack>
-                    <Text
-                      fontFamily="$body"
-                      fontSize="$2"
-                      color={selected ? '$background' : '$color'}
-                    >
-                      {t.name}
-                    </Text>
-                    <Text
-                      fontFamily="$body"
-                      fontSize="$1"
-                      color={selected ? '$background' : '$colorSecondary'}
-                      opacity={selected ? 0.8 : 1}
-                    >
-                      {t.source === 'bundled' ? 'Bundled (offline)' : 'Online'}
-                    </Text>
-                  </YStack>
-                </XStack>
-              </Pressable>
-            )
-          })}
+          <Pressable onPress={() => setTranslationModalVisible(true)}>
+            <XStack
+              backgroundColor="$backgroundSurface"
+              borderRadius="$lg"
+              padding="$md"
+              alignItems="center"
+              justifyContent="space-between"
+            >
+              <YStack>
+                <Text fontFamily="$body" fontSize="$2" color="$color">
+                  {suggestedTranslations.find((t) => t.code === translation)?.name ?? translation}
+                </Text>
+                <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
+                  {getTranslationLanguage(translation)} · {translation}
+                </Text>
+              </YStack>
+              <Text fontFamily="$body" fontSize="$2" color="$accent">
+                Change
+              </Text>
+            </XStack>
+          </Pressable>
+          {translationModalVisible ? (
+            <TranslationModal
+              visible={translationModalVisible}
+              onClose={() => setTranslationModalVisible(false)}
+            />
+          ) : undefined}
         </YStack>
+
+        <SectionDivider />
+
+        <PillSelector
+          label="Theme"
+          options={themeOptions}
+          value={themePreference}
+          onChange={setTheme}
+        />
 
         <SectionDivider />
 
         <YStack gap="$md">
           <Text fontFamily="$heading" fontSize="$3" color="$color">
-            Theme
+            Reading
           </Text>
-          <XStack gap="$sm">
-            {themeOptions.map((opt) => {
-              const selected = themePreference === opt.value
+
+          <YStack gap="$xs">
+            <Text fontFamily="$body" fontSize="$2" color="$color">
+              Font
+            </Text>
+            {readingFonts.map((f) => {
+              const selected = rc.fontFamily === f.id
               return (
-                <Pressable key={opt.value} onPress={() => setTheme(opt.value)}>
-                  <YStack
+                <Pressable key={f.id} onPress={() => rc.setFontFamily(f.id)}>
+                  <XStack
                     backgroundColor={selected ? '$accent' : '$backgroundSurface'}
                     borderRadius="$lg"
-                    paddingVertical="$sm"
+                    padding="$sm"
                     paddingHorizontal="$md"
                     alignItems="center"
+                    justifyContent="space-between"
                   >
-                    <Text
-                      fontFamily="$body"
-                      fontSize="$2"
-                      color={selected ? '$background' : '$color'}
-                    >
-                      {opt.label}
-                    </Text>
-                  </YStack>
+                    <YStack>
+                      <Text
+                        fontFamily={f.family as '$body'}
+                        fontSize="$3"
+                        color={selected ? '$background' : '$color'}
+                      >
+                        {f.label}
+                      </Text>
+                      <Text
+                        fontFamily="$body"
+                        fontSize="$1"
+                        color={selected ? '$background' : '$colorSecondary'}
+                        opacity={selected ? 0.8 : 1}
+                      >
+                        {f.description}
+                      </Text>
+                    </YStack>
+                  </XStack>
                 </Pressable>
               )
             })}
-          </XStack>
+          </YStack>
+
+          <YStack gap="$sm">
+            <Stepper
+              label="Font Size"
+              displayValue={String(readingScale.fontSize[rc.fontSizeStep - 1])}
+              onDecrement={() => rc.setFontSizeStep(rc.fontSizeStep - 1)}
+              onIncrement={() => rc.setFontSizeStep(rc.fontSizeStep + 1)}
+              decrementDisabled={rc.fontSizeStep <= 1}
+              incrementDisabled={rc.fontSizeStep >= 5}
+            />
+            <Stepper
+              label="Line Spacing"
+              displayValue={String(readingScale.lineHeight[rc.lineHeightStep - 1])}
+              onDecrement={() => rc.setLineHeightStep(rc.lineHeightStep - 1)}
+              onIncrement={() => rc.setLineHeightStep(rc.lineHeightStep + 1)}
+              decrementDisabled={rc.lineHeightStep <= rc.fontSizeStep}
+              incrementDisabled={rc.lineHeightStep >= 5}
+            />
+          </YStack>
+
+          <PillSelector
+            label="Text Alignment"
+            options={[
+              { value: 'left' as const, label: 'Left' },
+              { value: 'justify' as const, label: 'Justify' },
+            ]}
+            value={rc.textAlign}
+            onChange={rc.setTextAlign}
+          />
+
+          <PillSelector
+            label="Margins"
+            options={[
+              { value: 'narrow' as const, label: 'Narrow' },
+              { value: 'normal' as const, label: 'Normal' },
+              { value: 'wide' as const, label: 'Wide' },
+            ]}
+            value={rc.margin}
+            onChange={rc.setMargin}
+          />
+
+          <YStack
+            backgroundColor="$backgroundSurface"
+            borderRadius="$lg"
+            padding="$md"
+            paddingHorizontal={readingMargin}
+          >
+            <Text color="$color" {...readingStyle}>
+              Hail Mary, full of grace, the Lord is with thee. Blessed art thou amongst women, and
+              blessed is the fruit of thy womb, Jesus. Holy Mary, Mother of God, pray for us
+              sinners, now and at the hour of our death. Amen.
+            </Text>
+          </YStack>
         </YStack>
 
         <SectionDivider />

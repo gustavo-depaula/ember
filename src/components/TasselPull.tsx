@@ -17,6 +17,7 @@ const sections = [
   { path: '/plan', label: 'Plan of Life', color: '#2D6A4F' },
   { path: '/bible', label: 'Sacred Scripture', color: '#1B3A5C' },
   { path: '/catechism', label: 'Catechism', color: '#7B2D3B' },
+  { path: '/settings', label: 'Settings', color: '#6B5D4F' },
 ]
 
 const springConfig = { damping: 24, stiffness: 200, mass: 0.8 }

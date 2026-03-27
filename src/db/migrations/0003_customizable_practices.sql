@@ -1,0 +1,7 @@
+ALTER TABLE practices ADD COLUMN tier TEXT NOT NULL DEFAULT 'essential';
+ALTER TABLE practices ADD COLUMN time_block TEXT NOT NULL DEFAULT 'flexible';
+ALTER TABLE practices ADD COLUMN frequency_days TEXT NOT NULL DEFAULT '[]';
+ALTER TABLE practices ADD COLUMN notify_enabled INTEGER NOT NULL DEFAULT 0;
+ALTER TABLE practices ADD COLUMN notify_time TEXT;
+ALTER TABLE practices ADD COLUMN is_builtin INTEGER NOT NULL DEFAULT 0;
+ALTER TABLE practices ADD COLUMN description TEXT NOT NULL DEFAULT '';

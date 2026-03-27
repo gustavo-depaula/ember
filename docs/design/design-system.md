@@ -60,7 +60,23 @@ All custom components (DropCap, SectionDivider, GreenWall, etc.) are built with 
 - **Gold** — DropCap, RubricLabel, SectionDivider, active tab, primary buttons, HeroCTA border
 - **Subtle gold** — ornamental rules, card top borders, ornamental separators
 
-### Green Wall (Contribution Heatmap)
+### Fidelity Wall (Multi-Hue Contribution Heatmap)
+
+The fidelity wall uses 4 color families based on practice tier completion:
+
+| Level | Tier | Light Mode | Dark Mode |
+|-------|------|------------|-----------|
+| Empty | None | `#E8E4D9` | `#2A2419` |
+| Extra (partial) | Extra only | `#E8D9A0` | `#4A3D1A` |
+| Extra (full) | Extra done | `#C9A84C` | `#C9A84C` |
+| Ideal (partial) | Ideal done, essentials missed | `#A8C4D9` | `#2A3D4A` |
+| Ideal (full) | All ideal done | `#3D5A80` | `#7BA0C4` |
+| Essential (partial) | Some essentials | `#8FB88A` | `#2D6A4F` |
+| Essential (full) | All essentials | `#2D6A4F` | `#4FAA6E` |
+| Perfect | All tiers complete | `#6B1D2A` | `#C4707E` |
+
+Individual practice detail views use a legacy single-color green wall:
+
 | Intensity | Light Mode | Dark Mode |
 |-----------|------------|-----------|
 | Empty (0%) | `#E8E4D9` | `#2A2419` |
@@ -95,7 +111,8 @@ All custom components (DropCap, SectionDivider, GreenWall, etc.) are built with 
 ### Where Each Font Appears
 - **UnifrakturMaguntia**: DropCap first letter, PrayerFlow hour title ("Morning Prayer"), HeroCTA office label, "Day complete" text
 - **Cinzel**: RubricLabel ("PSALMODY", "HYMN"), time block labels, tab labels, office hour card titles, "Begin" text
-- **EB Garamond**: PrayerText, psalm content, Bible readings, catechism text, practice names, settings, all body copy
+- **Reading font** (user-configurable, default EB Garamond): PrayerText, psalm content, Bible readings, catechism text — all reading body copy. See `docs/features/reading-config.md` for the curated font list
+- **EB Garamond**: UI text, practice names, settings, non-reading body copy
 - **Pinyon Script**: date display on home screen, "Lauds"/"Vespers"/"Compline" sublabels, "Your next practice", "Rest well. See you tomorrow."
 
 ### Scale

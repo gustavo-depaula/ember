@@ -1,16 +1,219 @@
 import { format } from 'date-fns'
 
 import { getDb } from './client'
+import type { Frequency, Tier, TimeBlock } from './schema'
 
-const mvpPractices = [
-  { id: 'morning-offering', name: 'Morning Offering', icon: 'sunrise', sortOrder: 1 },
-  { id: 'mental-prayer', name: 'Mental Prayer', icon: 'prayer', sortOrder: 2 },
-  { id: 'holy-mass', name: 'Holy Mass', icon: 'mass', sortOrder: 3 },
-  { id: 'spiritual-reading', name: 'Spiritual Reading', icon: 'reading', sortOrder: 4 },
-  { id: 'angelus', name: 'Angelus', icon: 'bell', sortOrder: 5 },
-  { id: 'rosary', name: 'Rosary', icon: 'rosary', sortOrder: 6 },
-  { id: 'examination-conscience', name: 'Examination of Conscience', icon: 'candle', sortOrder: 7 },
-  { id: 'night-prayer', name: 'Night Prayer', icon: 'moon', sortOrder: 8 },
+type PracticeSeed = {
+  id: string
+  name: string
+  icon: string
+  sortOrder: number
+  tier: Tier
+  timeBlock: TimeBlock
+  frequency: Frequency
+  frequencyDays: number[]
+  enabled: boolean
+  description: string
+}
+
+const builtinPractices: PracticeSeed[] = [
+  // Essential — enabled by default
+  {
+    id: 'morning-offering',
+    name: 'Morning Offering',
+    icon: 'sunrise',
+    sortOrder: 1,
+    tier: 'essential',
+    timeBlock: 'morning',
+    frequency: 'daily',
+    frequencyDays: [],
+    enabled: true,
+    description: "Offering the day's work and sufferings to God",
+  },
+  {
+    id: 'mental-prayer',
+    name: 'Mental Prayer',
+    icon: 'prayer',
+    sortOrder: 2,
+    tier: 'essential',
+    timeBlock: 'morning',
+    frequency: 'daily',
+    frequencyDays: [],
+    enabled: true,
+    description: '15-30 min of silent prayer or meditation on Scripture',
+  },
+  {
+    id: 'holy-mass',
+    name: 'Holy Mass',
+    icon: 'mass',
+    sortOrder: 3,
+    tier: 'essential',
+    timeBlock: 'morning',
+    frequency: 'weekly',
+    frequencyDays: [0], // Sunday
+    enabled: true,
+    description: 'Attendance at Mass',
+  },
+  {
+    id: 'rosary',
+    name: 'Rosary',
+    icon: 'rosary',
+    sortOrder: 4,
+    tier: 'essential',
+    timeBlock: 'daytime',
+    frequency: 'daily',
+    frequencyDays: [],
+    enabled: true,
+    description: 'Five decades of the Rosary',
+  },
+  {
+    id: 'examination-conscience',
+    name: 'Examination of Conscience',
+    icon: 'candle',
+    sortOrder: 5,
+    tier: 'essential',
+    timeBlock: 'evening',
+    frequency: 'daily',
+    frequencyDays: [],
+    enabled: true,
+    description: "Brief review of the day's actions and failings",
+  },
+  {
+    id: 'night-prayer',
+    name: 'Night Prayer',
+    icon: 'moon',
+    sortOrder: 6,
+    tier: 'essential',
+    timeBlock: 'evening',
+    frequency: 'daily',
+    frequencyDays: [],
+    enabled: true,
+    description: 'Brief prayer before sleep',
+  },
+
+  // Ideal — enabled by default
+  {
+    id: 'angelus',
+    name: 'Angelus',
+    icon: 'bell',
+    sortOrder: 7,
+    tier: 'ideal',
+    timeBlock: 'daytime',
+    frequency: 'daily',
+    frequencyDays: [],
+    enabled: true,
+    description: 'Traditional prayer recited at noon',
+  },
+  {
+    id: 'spiritual-reading',
+    name: 'Spiritual Reading',
+    icon: 'reading',
+    sortOrder: 8,
+    tier: 'ideal',
+    timeBlock: 'flexible',
+    frequency: 'daily',
+    frequencyDays: [],
+    enabled: true,
+    description: 'Reading from spiritual classics, saints, theology',
+  },
+  {
+    id: 'confession',
+    name: 'Confession',
+    icon: 'confession',
+    sortOrder: 9,
+    tier: 'ideal',
+    timeBlock: 'flexible',
+    frequency: 'weekly',
+    frequencyDays: [6], // Saturday
+    enabled: false,
+    description: 'Sacrament of Reconciliation',
+  },
+  {
+    id: 'blessed-sacrament',
+    name: 'Visit to Blessed Sacrament',
+    icon: 'monstrance',
+    sortOrder: 10,
+    tier: 'ideal',
+    timeBlock: 'flexible',
+    frequency: 'daily',
+    frequencyDays: [],
+    enabled: false,
+    description: 'Time spent before the Blessed Sacrament',
+  },
+
+  // Extra — disabled by default
+  {
+    id: 'divine-mercy',
+    name: 'Divine Mercy Chaplet',
+    icon: 'mercy',
+    sortOrder: 11,
+    tier: 'extra',
+    timeBlock: 'daytime',
+    frequency: 'daily',
+    frequencyDays: [],
+    enabled: false,
+    description: 'Chaplet of Divine Mercy at 3 PM',
+  },
+  {
+    id: 'stations-cross',
+    name: 'Stations of the Cross',
+    icon: 'cross',
+    sortOrder: 12,
+    tier: 'extra',
+    timeBlock: 'flexible',
+    frequency: 'weekly',
+    frequencyDays: [5], // Friday
+    enabled: false,
+    description: 'Meditations on the Passion of Christ',
+  },
+  {
+    id: 'lectio-divina',
+    name: 'Lectio Divina',
+    icon: 'scroll',
+    sortOrder: 13,
+    tier: 'extra',
+    timeBlock: 'flexible',
+    frequency: 'daily',
+    frequencyDays: [],
+    enabled: false,
+    description: 'Prayerful reading and meditation on Scripture',
+  },
+  {
+    id: 'guardian-angel',
+    name: 'Guardian Angel Prayer',
+    icon: 'angel',
+    sortOrder: 14,
+    tier: 'extra',
+    timeBlock: 'morning',
+    frequency: 'daily',
+    frequencyDays: [],
+    enabled: false,
+    description: 'Prayer to your Guardian Angel',
+  },
+  {
+    id: 'memorare',
+    name: 'Memorare',
+    icon: 'mary',
+    sortOrder: 15,
+    tier: 'extra',
+    timeBlock: 'flexible',
+    frequency: 'daily',
+    frequencyDays: [],
+    enabled: false,
+    description: 'Traditional prayer to the Blessed Virgin Mary',
+  },
+  {
+    id: 'three-oclock',
+    name: "Three O'Clock Prayer",
+    icon: 'clock',
+    sortOrder: 16,
+    tier: 'extra',
+    timeBlock: 'daytime',
+    frequency: 'daily',
+    frequencyDays: [],
+    enabled: false,
+    description: 'Brief prayer at the Hour of Mercy',
+  },
 ]
 
 const practiceIcons: Record<string, string> = {
@@ -22,25 +225,84 @@ const practiceIcons: Record<string, string> = {
   rosary: '\u{1F4FF}',
   candle: '\u{1F56F}',
   moon: '\u{1F319}',
+  confession: '\u{1F54A}',
+  monstrance: '\u2728',
+  mercy: '\u{1F9E1}',
+  cross: '\u271D',
+  scroll: '\u{1F4DC}',
+  angel: '\u{1F47C}',
+  mary: '\u{1F490}',
+  clock: '\u{1F552}',
 }
 
 export function getPracticeIcon(key: string): string {
   return practiceIcons[key] ?? key
 }
 
+export const availableIconKeys = Object.keys(practiceIcons)
+
 export async function seedPractices() {
   const db = getDb()
   const result = await db.getFirstAsync<{ total: number }>(
     'SELECT count(*) as total FROM practices',
   )
-  if (result && result.total > 0) return
-
-  for (const p of mvpPractices) {
-    await db.runAsync(
-      'INSERT INTO practices (id, name, icon, frequency, enabled, sort_order) VALUES (?, ?, ?, ?, ?, ?)',
-      [p.id, p.name, p.icon, 'daily', 1, p.sortOrder],
-    )
+  if (result && result.total > 0) {
+    // Update existing practices with new columns (idempotent)
+    await backfillBuiltinPractices()
+    return
   }
+
+  await db.withTransactionAsync(async () => {
+    for (const p of builtinPractices) {
+      await db.runAsync(
+        `INSERT INTO practices (id, name, icon, frequency, enabled, sort_order, tier, time_block, frequency_days, is_builtin, description)
+         VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, 1, ?)`,
+        [
+          p.id,
+          p.name,
+          p.icon,
+          p.frequency,
+          p.enabled ? 1 : 0,
+          p.sortOrder,
+          p.tier,
+          p.timeBlock,
+          JSON.stringify(p.frequencyDays),
+          p.description,
+        ],
+      )
+    }
+  })
+}
+
+async function backfillBuiltinPractices() {
+  const db = getDb()
+
+  await db.withTransactionAsync(async () => {
+    for (const p of builtinPractices) {
+      await db.runAsync(
+        `INSERT INTO practices (id, name, icon, frequency, enabled, sort_order, tier, time_block, frequency_days, is_builtin, description)
+         VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, 1, ?)
+         ON CONFLICT (id) DO UPDATE SET
+           tier = excluded.tier,
+           time_block = excluded.time_block,
+           frequency_days = excluded.frequency_days,
+           is_builtin = 1,
+           description = CASE WHEN description = '' THEN excluded.description ELSE description END`,
+        [
+          p.id,
+          p.name,
+          p.icon,
+          p.frequency,
+          p.enabled ? 1 : 0,
+          p.sortOrder,
+          p.tier,
+          p.timeBlock,
+          JSON.stringify(p.frequencyDays),
+          p.description,
+        ],
+      )
+    }
+  })
 }
 
 export async function seedReadingProgress() {

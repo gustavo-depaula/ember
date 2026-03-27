@@ -1,37 +1,29 @@
 import { format, subWeeks } from 'date-fns'
 import { useRouter } from 'expo-router'
+import { Settings } from 'lucide-react-native'
 import { useMemo, useState } from 'react'
-import { Text, XStack, YStack } from 'tamagui'
+import { Pressable } from 'react-native'
+import { Text, useTheme, XStack, YStack } from 'tamagui'
 
-import { BackToHome, GreenWall, HeaderFlourish, ManuscriptFrame, ScreenLayout } from '@/components'
+import { GreenWall, HeaderFlourish, ManuscriptFrame, ScreenLayout } from '@/components'
 import {
+  buildTieredWallData,
   type DayCompletion,
+  filterPracticesForDate,
   getCompletionRate,
   getCurrentStreak,
   getPracticeIcon,
   PracticeChecklist,
   toCompletedSet,
-  toGreenWallData,
   usePracticeLogRange,
   usePracticeLogsForDate,
   usePractices,
   useTogglePractice,
 } from '@/features/plan-of-life'
 
-const defaultPracticeCount = 8
-
-function aggregateByDate(
-  logs: Array<{ date: string; practice_id: string }>,
-): Array<{ date: string; completed: number }> {
-  const counts = new Map<string, number>()
-  for (const log of logs) {
-    counts.set(log.date, (counts.get(log.date) ?? 0) + 1)
-  }
-  return Array.from(counts, ([date, completed]) => ({ date, completed }))
-}
-
 export default function PlanScreen() {
   const router = useRouter()
+  const theme = useTheme()
   const [selectedDay, setSelectedDay] = useState<string>()
 
   const today = useMemo(() => format(new Date(), 'yyyy-MM-dd'), [])
@@ -42,33 +34,44 @@ export default function PlanScreen() {
   const { data: todayLogs = [] } = usePracticeLogsForDate(today)
   const toggle = useTogglePractice()
 
+  const todayPractices = useMemo(() => filterPracticesForDate(practices, today), [practices, today])
   const completedToday = useMemo(() => toCompletedSet(todayLogs), [todayLogs])
 
   const { wallData, stats } = useMemo(() => {
-    const aggregated = aggregateByDate(rangeLogs)
-    const total = practices.length || defaultPracticeCount
-    const dailyCompletions: DayCompletion[] = aggregated.map((d) => ({
-      date: d.date,
-      completed: d.completed,
-      total,
+    const wd = buildTieredWallData(rangeLogs, practices)
+
+    const countsByDate = new Map<string, number>()
+    for (const log of rangeLogs) {
+      countsByDate.set(log.date, (countsByDate.get(log.date) ?? 0) + 1)
+    }
+    const totalPractices = practices.length || 1
+    const dailyCompletions: DayCompletion[] = Array.from(countsByDate, ([date, completed]) => ({
+      date,
+      completed,
+      total: totalPractices,
     }))
+
     return {
-      wallData: toGreenWallData(aggregated, total),
+      wallData: wd,
       stats: {
         streak: getCurrentStreak(dailyCompletions),
         rate: getCompletionRate(dailyCompletions),
       },
     }
-  }, [rangeLogs, practices.length])
+  }, [rangeLogs, practices])
 
   const { data: selectedDayLogs = [] } = usePracticeLogsForDate(selectedDay)
-
   const selectedDayCompleted = useMemo(() => toCompletedSet(selectedDayLogs), [selectedDayLogs])
 
   return (
     <ScreenLayout>
       <YStack gap="$lg" paddingVertical="$lg">
-        <BackToHome />
+        <XStack justifyContent="flex-end" alignItems="center">
+          <Pressable onPress={() => router.push('/plan/settings')} hitSlop={8}>
+            <Settings size={22} color={theme.colorSecondary.val} />
+          </Pressable>
+        </XStack>
+
         <YStack alignItems="center" gap="$xs">
           <HeaderFlourish />
           <Text fontFamily="$display" fontSize={28} lineHeight={34} color="$color">
@@ -79,6 +82,7 @@ export default function PlanScreen() {
         <YStack alignItems="center">
           <GreenWall
             data={wallData}
+            tiered
             onDayPress={(date) => setSelectedDay((prev) => (prev === date ? undefined : date))}
           />
         </YStack>
@@ -158,7 +162,7 @@ export default function PlanScreen() {
         </Text>
 
         <PracticeChecklist
-          practices={practices}
+          practices={todayPractices}
           completedIds={completedToday}
           onToggle={(id, completed) => toggle.mutate({ practiceId: id, date: today, completed })}
           onRowPress={(id) => router.push(`/plan/${id}`)}

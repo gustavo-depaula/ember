@@ -1,5 +1,6 @@
 import { useCallback, useMemo, useState } from 'react'
 import { Pressable, StyleSheet, useWindowDimensions } from 'react-native'
+
 import { Gesture, GestureDetector } from 'react-native-gesture-handler'
 import Animated, {
   clamp,
@@ -12,7 +13,7 @@ import Animated, {
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { Text, View, YStack } from 'tamagui'
 
-import { ScreenLayout } from '@/components'
+import { ReadingConfigBadge, ReadingConfigModal, ScreenLayout } from '@/components'
 import { useCatechismStore } from '@/stores/catechismStore'
 
 import { useSegment, useSegments } from '../hooks'
@@ -37,6 +38,7 @@ export function CatechismReader() {
   const slideX = useSharedValue(0)
   const startX = useSharedValue(0)
   const [panelOpen, setPanelOpen] = useState(false)
+  const [readingConfigVisible, setReadingConfigVisible] = useState(false)
 
   const { data: segments = [] } = useSegments()
   const currentSegment = useMemo(
@@ -154,15 +156,22 @@ export function CatechismReader() {
 
   return (
     <View flex={1} backgroundColor="$background" overflow="hidden">
+      {readingConfigVisible ? (
+        <ReadingConfigModal
+          visible={readingConfigVisible}
+          onClose={() => setReadingConfigVisible(false)}
+        />
+      ) : undefined}
       <GestureDetector gesture={pan}>
         <Animated.View style={[styles.strip, { width: stripWidth }, stripStyle]}>
           {/* TOC drawer */}
           <View style={[styles.tocPanel, { width: tocDrawerWidth }]}>
             <YStack flex={1} paddingTop={insets.top + 12}>
-              <YStack paddingHorizontal="$md" paddingBottom="$md">
+              <YStack paddingHorizontal="$md" paddingBottom="$md" gap="$sm">
                 <Text fontFamily="$heading" fontSize="$2" color="$colorSecondary">
                   Table of Contents
                 </Text>
+                <ReadingConfigBadge onPress={() => setReadingConfigVisible(true)} />
               </YStack>
               {segments.length > 0 && (
                 <TocTree

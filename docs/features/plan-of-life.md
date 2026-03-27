@@ -2,38 +2,87 @@
 
 ## Overview
 
-A tracker for daily Catholic spiritual practices, with a GitHub-style green contribution wall showing consistency over time. The Plan of Life is a traditional Catholic concept — a structured daily schedule of prayer and devotion.
+A tracker for daily Catholic spiritual practices, with a multi-hue fidelity wall showing consistency and depth of practice over time. The Plan of Life is a traditional Catholic concept — a structured daily schedule of prayer and devotion.
+
+Practices are organized into three tiers — **Essential**, **Ideal**, and **Extra** — which drive the fidelity wall colors and help users prioritize their spiritual growth.
 
 ---
 
-## MVP: Fixed Practices
+## Practice Tiers
 
-The MVP ships with a curated, non-editable list of 8 common Catholic practices:
+| Tier | Purpose | Wall Color | Examples |
+|------|---------|------------|----------|
+| **Essential** | Core daily commitments | Green | Morning Offering, Mental Prayer, Rosary, Night Prayer |
+| **Ideal** | Recommended devotions | Blue/Teal | Angelus, Spiritual Reading, Confession |
+| **Extra** | Additional enrichment | Gold/Amber | Divine Mercy Chaplet, Lectio Divina, Memorare |
 
-| # | Practice | Time of Day | Description |
-|---|----------|-------------|-------------|
-| 1 | Morning Offering | Morning | Offering the day's work and sufferings to God |
-| 2 | Mental Prayer / Meditation | Morning | 15-30 min of silent prayer or meditation on Scripture |
-| 3 | Holy Mass | Morning/Midday | Attendance at Mass (daily if possible) |
-| 4 | Spiritual Reading | Flexible | Reading from spiritual classics, saints, theology |
-| 5 | Angelus | Noon | Traditional prayer recited at noon |
-| 6 | Rosary | Flexible | Five decades of the Rosary |
-| 7 | Examination of Conscience | Evening | Brief review of the day's actions and failings |
-| 8 | Night Prayer | Night | Brief prayer before sleep |
+---
 
-Each practice is a **daily binary toggle** — done or not done for that day.
+## Built-in Practices
+
+### Essential (enabled by default)
+| Practice | Frequency | Time Block |
+|----------|-----------|------------|
+| Morning Offering | Daily | Morning |
+| Mental Prayer | Daily | Morning |
+| Holy Mass | Weekly (Sunday) | Morning |
+| Rosary | Daily | Daytime |
+| Examination of Conscience | Daily | Evening |
+| Night Prayer | Daily | Evening |
+
+### Ideal
+| Practice | Frequency | Time Block | Default |
+|----------|-----------|------------|---------|
+| Angelus | Daily | Daytime | Enabled |
+| Spiritual Reading | Daily | Flexible | Enabled |
+| Confession | Weekly (Saturday) | Flexible | Disabled |
+| Visit to Blessed Sacrament | Daily | Flexible | Disabled |
+
+### Extra (disabled by default)
+| Practice | Frequency | Time Block |
+|----------|-----------|------------|
+| Divine Mercy Chaplet | Daily | Daytime |
+| Stations of the Cross | Weekly (Friday) | Flexible |
+| Lectio Divina | Daily | Flexible |
+| Guardian Angel Prayer | Daily | Morning |
+| Memorare | Daily | Flexible |
+| Three O'Clock Prayer | Daily | Daytime |
+
+---
+
+## Custom Practices
+
+Users can:
+- **Add** custom practices with name, icon, tier, time block, and frequency
+- **Edit** any practice's tier, time block, frequency, icon, and notification settings
+- **Enable/disable** practices (built-in practices can be disabled but not deleted)
+- **Delete** custom practices
+- Set **frequency**: daily, weekly (specific days), or custom day selection
+
+---
+
+## Frequency System
+
+Each practice has a frequency that determines when it appears in the checklist:
+
+- **Daily** — appears every day
+- **Weekly** — appears on selected days of the week (e.g., Sunday for Mass, Saturday for Confession)
+- **Custom** — appears on any combination of specific days
+
+Practices only show in the daily checklist on their applicable days. Streaks and completion rates respect the frequency — skipping a Sunday-only practice on Monday doesn't break a streak.
 
 ---
 
 ## Time Blocks
 
-Practices are organized into three time-of-day blocks on the home screen:
+Practices are organized into four time-of-day blocks on the home screen:
 
-| Block | Time Range | Practices |
-|-------|-----------|-----------|
-| Morning | 5:00-11:59 | Morning Offering, Mental Prayer, Holy Mass |
-| Daytime | 12:00-16:59 | Spiritual Reading, Angelus, Rosary |
-| Evening | 17:00-4:59 | Examination of Conscience, Night Prayer |
+| Block | Time Range | Display Logic |
+|-------|-----------|---------------|
+| Morning | 5:00–11:59 | Expanded when current or incomplete |
+| Daytime | 12:00–16:59 | Expanded when current or incomplete |
+| Evening | 17:00–4:59 | Expanded when current or incomplete |
+| Flexible | Any time | Always expanded unless all done |
 
 Each block has display states based on time of day and completion:
 - **Expanded** — shows full practice list with toggles (current or incomplete past block)
@@ -44,76 +93,111 @@ Implementation: `src/features/plan-of-life/timeBlocks.ts`
 
 ---
 
-## Future: Preset + Fully Customizable
+## Multi-Hue Fidelity Wall
 
-- Ship with a robust set of pre-loaded practices covering daily, weekly, and seasonal devotions
-- Users can create custom practices with:
-  - Custom name
-  - Icon selection
-  - Frequency: daily, weekly, specific days of the week
-  - Time-of-day slot (morning, midday, evening, night, flexible)
-- Users can reorder, hide, or archive practices
-- Weekly practices (e.g., Confession on Saturdays) show on the appropriate days
+### Color System
+
+The wall uses 4 color families (8 levels) based on which tier of practices was completed:
+
+| Value | Color Family | Meaning |
+|-------|-------------|---------|
+| 0 | Warm gray | Nothing done |
+| 1–2 | **Gold/Amber** | Only extra practices done (partial/full) |
+| 3–4 | **Blue/Teal** | Ideal practices done, essentials incomplete (partial/full) |
+| 5–6 | **Green** | All essentials done (partial/all essentials) |
+| 7 | **Burgundy/Deep Rose** | ALL applicable practices done — full fidelity |
+
+### Color Tokens
+
+Light theme:
+```
+wallEmpty:       #E8E4D9
+wallExtra1:      #E8D9A0    (gold partial)
+wallExtra2:      #C9A84C    (gold full)
+wallIdeal1:      #A8C4D9    (blue partial)
+wallIdeal2:      #3D5A80    (blue full)
+wallEssential1:  #8FB88A    (green partial)
+wallEssential2:  #2D6A4F    (green full)
+wallPerfect:     #6B1D2A    (burgundy)
+```
+
+### Individual Practice Walls
+
+The practice detail screen uses a simple binary green wall (done/not done) for each individual practice, using the legacy 5-level green palette.
+
+### Interaction
+
+- Tap a day cell to see which practices were completed/missed
+- Streak counter: current streak and longest streak per practice
 
 ---
 
-## Green Contribution Wall
+## Notifications
 
-### Overview Wall
-- Shows **all practices combined** on one heatmap
-- Each cell = 1 day
-- Color intensity = how many of the 8 practices were completed that day
-  - 0/8: empty/lightest (`#E8E4D9`)
-  - 1-2/8: light sage
-  - 3-4/8: medium green
-  - 5-6/8: deep green
-  - 7-8/8: deep emerald (`#2D6A4F`)
-- Fixed-width grid with configurable `weeks` prop (20 on plan screen, 10 on home screen)
-- 7 rows (Mon-Sun), columns = weeks (same layout as GitHub)
+Per-practice local notifications using `expo-notifications`:
 
-### Individual Practice Walls
-- Toggle to see each practice's own wall
-- Binary: completed (green) or not (empty)
-- Same layout and scrolling behavior
+- Each practice can have notifications enabled with a configurable reminder time (HH:MM)
+- Notifications are scheduled as daily recurring reminders
+- When practice settings change, notifications are rescheduled
+- On app launch, all notifications are synced with current practice settings
+- Android uses a dedicated "Practice Reminders" notification channel
 
-### Interaction
-- Tap a day cell to see a tooltip/modal: which practices were completed, which were missed
-- Streak counter: current streak and longest streak per practice
+Implementation: `src/lib/notifications.ts`
 
 ---
 
 ## Screens
 
 ### `/plan/` — Plan of Life Hub
-- Overview green wall at the top
-- Below: list of all 8 practices with today's completion status (checkbox)
-- Tap a practice to go to its detail view
+- Multi-hue fidelity wall at top (20 weeks)
+- Settings gear icon to configure practices
+- Day cell tap reveals completed/missed practices modal
 - Summary stats: current streak, completion rate
+- Today's practice checklist (frequency-filtered)
+- Tap practice row → detail view
 
 ### `/plan/[practiceId]` — Practice Detail
-- Practice name and icon
-- Individual green wall for this practice
-- Stats: current streak, longest streak, total days completed, completion rate
+- Practice name, icon, tier badge
+- Individual binary green wall
+- Stats: current streak, longest streak, total days, completion rate
+
+### `/plan/settings` — Customize Practices
+- All practices grouped by tier (essential/ideal/extra)
+- Tap practice → edit modal with full configuration
+- Add custom practice button
+- Edit: tier, time block, frequency, icon, notifications, enabled/disabled
+- Built-in practices can't be renamed or deleted
 
 ---
 
 ## Data Model
 
 ```typescript
+type Tier = 'essential' | 'ideal' | 'extra'
+type TimeBlock = 'morning' | 'daytime' | 'evening' | 'flexible'
+type Frequency = 'daily' | 'weekly' | 'custom'
+
 interface Practice {
   id: string
   name: string
-  icon: string           // icon identifier
-  frequency: 'daily' | 'weekly' | 'custom'
+  icon: string
+  frequency: Frequency
   enabled: boolean
-  order: number          // display order
+  sort_order: number
+  tier: Tier
+  time_block: TimeBlock
+  frequency_days: string       // JSON array of day numbers (0=Sun..6=Sat)
+  notify_enabled: boolean
+  notify_time?: string         // HH:MM
+  is_builtin: boolean
+  description: string
 }
 
 interface PracticeLog {
-  date: string           // YYYY-MM-DD
+  date: string                 // YYYY-MM-DD
   practiceId: string
   completed: boolean
-  completedAt?: number   // Unix timestamp
+  completedAt?: number         // Unix timestamp
 }
 ```
 
@@ -126,7 +210,14 @@ CREATE TABLE practices (
   icon TEXT NOT NULL,
   frequency TEXT NOT NULL DEFAULT 'daily',
   enabled INTEGER NOT NULL DEFAULT 1,
-  sort_order INTEGER NOT NULL
+  sort_order INTEGER NOT NULL,
+  tier TEXT NOT NULL DEFAULT 'essential',
+  time_block TEXT NOT NULL DEFAULT 'flexible',
+  frequency_days TEXT NOT NULL DEFAULT '[]',
+  notify_enabled INTEGER NOT NULL DEFAULT 0,
+  notify_time TEXT,
+  is_builtin INTEGER NOT NULL DEFAULT 0,
+  description TEXT NOT NULL DEFAULT ''
 );
 
 CREATE TABLE practice_logs (

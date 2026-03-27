@@ -1,6 +1,7 @@
 import { useQuery, useQueryClient } from '@tanstack/react-query'
 import { useEffect, useRef } from 'react'
 
+import { type BollsLanguageEntry, fetchAllTranslations } from '@/lib/bolls'
 import { type Book, getBooks, getChapter } from '@/lib/content'
 
 import { findAdjacentChapter } from './bookNav'
@@ -48,4 +49,12 @@ export function usePrefetchAdjacentChapters(
       })
     }
   }, [translation, bookId, chapter, queryClient])
+}
+
+export function useAllTranslations() {
+  return useQuery<BollsLanguageEntry[]>({
+    queryKey: ['bolls', 'translations'],
+    queryFn: fetchAllTranslations,
+    staleTime: Number.POSITIVE_INFINITY,
+  })
 }

@@ -20,11 +20,21 @@ The Bible reader is a **single screen** (`/bible/`) with two overlay drawers. Th
 ### Book Drawer (slides from left)
 
 - Covers ~60% of the screen width, reader content dimmed behind
-- Header row: translation pill (e.g. "DRB") showing current translation
-- Scrollable list of all 73 books
+- Header row: translation badge — rounded square with language code (e.g. `[EN] DRB`), tapping opens translation selector modal
+- Scrollable list of all books (73 for Catholic translations, 66 for Protestant)
 - Current book is highlighted (bold / accent color)
 - Books listed in canonical order — no category grouping needed since the list is scannable
 - Tapping a book selects it, closes the drawer, and loads chapter 1 of that book
+
+### Translation Selector (modal overlay)
+
+- Full-screen modal that slides up over the reader (`presentationStyle: pageSheet`)
+- **Header:** "Translations" title with close (X) button
+- **Suggested Bibles section:** Curated list of ~8 Catholic-friendly translations with descriptions, language badges, and checkmark for selected
+- **All Translations section:** Full Bolls.life catalog grouped by language, fetched from API (cached indefinitely via TanStack Query)
+- Each row shows: language badge (2-letter code in rounded square), translation code (bold), full name, optional description
+- Selecting a translation updates the global preference, closes the modal, and reloads content
+- Also accessible from the Settings page
 
 ### Chapter Drawer (slides from right)
 
@@ -76,7 +86,8 @@ src/features/bible/
     ChapterContent.tsx       — verse rendering with DropCap + superscript numbers
     ReaderHeader.tsx         — book name (left) + chapter number (right) bar
     ChapterNav.tsx           — prev/next chapter footer buttons
-    TranslationPill.tsx      — small translation selector in book drawer
+    TranslationPill.tsx      — translation badge (rounded square with language code) in book drawer
+    TranslationModal.tsx     — full-screen translation selector modal (suggested + all translations)
 ```
 
 ---
@@ -119,7 +130,7 @@ Reuses existing infrastructure — no new tables or migrations:
 - **Chapter text:** `getChapter(translation, bookId, chapter)` from `src/lib/content.ts`
 - **Online caching:** `cached_translations` SQLite table (already exists)
 - **Office progress:** `useAllReadingProgress()` + `useToggleChapterRead()` from divine-office hooks (read-only, optional write)
-- **Translation list:** `availableTranslations` from `src/lib/bolls.ts`
+- **Translation list:** `suggestedTranslations` (curated) + `fetchAllTranslations()` (full API catalog) from `src/lib/bolls.ts`
 
 ### TanStack Query keys
 
@@ -179,4 +190,4 @@ Add a fourth ribbon to `RibbonBookmarks`:
 - **Swipe gestures** — horizontal swipe for prev/next chapter
 - **Verse sharing** — copy/share individual verses
 - **Cross-references** — link related passages
-- **Font size control** — adjustable text size in the reader
+- ~~**Font size control**~~ — implemented as shared reading config (see `reading-config.md`)

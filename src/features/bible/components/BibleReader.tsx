@@ -12,7 +12,7 @@ import Animated, {
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { ScrollView, Text, View, YStack } from 'tamagui'
 
-import { ScreenLayout } from '@/components'
+import { ReadingConfigBadge, ReadingConfigModal, ScreenLayout } from '@/components'
 import type { Book } from '@/lib/content'
 import { useBibleStore } from '@/stores/bibleStore'
 import { usePreferencesStore } from '@/stores/preferencesStore'
@@ -21,7 +21,8 @@ import { useBooks, useChapter, usePrefetchAdjacentChapters } from '../hooks'
 import { ChapterContent } from './ChapterContent'
 import { ChapterNav } from './ChapterNav'
 import { ReaderHeader } from './ReaderHeader'
-import { TranslationPill } from './TranslationPill'
+import { TranslationBadge } from './TranslationBadge'
+import { TranslationModal } from './TranslationModal'
 
 const springConfig = { damping: 24, stiffness: 200, mass: 0.8 }
 
@@ -38,6 +39,8 @@ export function BibleReader() {
   const slideX = useSharedValue(0)
   const startX = useSharedValue(0)
   const [panelOpen, setPanelOpen] = useState(false)
+  const [translationModalVisible, setTranslationModalVisible] = useState(false)
+  const [readingConfigVisible, setReadingConfigVisible] = useState(false)
 
   const { data: books = [] } = useBooks(translation)
   const { data: chapterData, isLoading } = useChapter(translation, bookId, chapter)
@@ -152,13 +155,26 @@ export function BibleReader() {
 
   return (
     <View flex={1} backgroundColor="$background" overflow="hidden">
+      {translationModalVisible ? (
+        <TranslationModal
+          visible={translationModalVisible}
+          onClose={() => setTranslationModalVisible(false)}
+        />
+      ) : undefined}
+      {readingConfigVisible ? (
+        <ReadingConfigModal
+          visible={readingConfigVisible}
+          onClose={() => setReadingConfigVisible(false)}
+        />
+      ) : undefined}
       <GestureDetector gesture={pan}>
         <Animated.View style={[styles.strip, { width: stripWidth }, stripStyle]}>
           {/* Book list */}
           <View style={[styles.bookPanel, { width: bookDrawerWidth }]}>
             <YStack flex={1} paddingTop={insets.top + 12}>
-              <YStack paddingHorizontal="$md" paddingBottom="$md">
-                <TranslationPill />
+              <YStack paddingHorizontal="$md" paddingBottom="$md" gap="$sm">
+                <TranslationBadge onPress={() => setTranslationModalVisible(true)} />
+                <ReadingConfigBadge onPress={() => setReadingConfigVisible(true)} />
               </YStack>
               <BookList
                 books={books}

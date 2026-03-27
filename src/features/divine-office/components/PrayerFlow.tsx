@@ -17,6 +17,7 @@ import {
   ScreenLayout,
   VineBar,
 } from '@/components'
+import { useReadingMargin } from '@/hooks/useReadingStyle'
 import type { Verse } from '@/lib/content'
 import { cccDailyCount, type OfficeHour, type PrayerSection, readingTypeForHour } from '../engine'
 import {
@@ -38,6 +39,7 @@ export function PrayerFlow({ hour, date }: { hour: OfficeHour; date: string }) {
   const router = useRouter()
   const theme = useTheme()
 
+  const readingMargin = useReadingMargin()
   const { sections, psalmData, readingData, cccData, isLoading } = usePrayerContent(hour, date)
   const completeHour = useCompleteOfficeHour()
   const advanceReading = useAdvanceReading()
@@ -83,7 +85,12 @@ export function PrayerFlow({ hour, date }: { hour: OfficeHour; date: string }) {
         </Pressable>
 
         <ManuscriptFrame>
-          <YStack alignItems="center" gap="$xs" paddingVertical="$md">
+          <YStack
+            alignItems="center"
+            gap="$xs"
+            paddingVertical="$md"
+            paddingHorizontal={readingMargin}
+          >
             <HeaderFlourish />
             <Text fontFamily="$display" fontSize={36} lineHeight={42} color="$colorBurgundy">
               {hourLabels[hour]}

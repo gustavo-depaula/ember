@@ -103,6 +103,7 @@ interface DailyOffice {
 - `theme` — 'light' | 'dark' | 'system' (themeStore)
 - `translation` — preferred Bible translation (preferencesStore)
 - `psalterCycle` — '30-day' (preferencesStore)
+- `reading-font-family`, `reading-font-size`, `reading-line-height`, `reading-margin`, `reading-text-align` — shared reading config (readingConfigStore)
 
 ### Bundled Assets (read-only)
 - `src/assets/bible/drb/` — Douay-Rheims JSON files (one per book, 73 files)
@@ -205,6 +206,7 @@ src/
     practiceStore.ts
     officeStore.ts
     preferencesStore.ts
+    readingConfigStore.ts
     themeStore.ts
   db/                     (sqlite schema, types, client)
     schema.ts             (TypeScript types for DB rows)

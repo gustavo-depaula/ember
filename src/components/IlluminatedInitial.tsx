@@ -1,6 +1,7 @@
 import Svg, { Circle, Line, Path, Rect } from 'react-native-svg'
 import { Text, useTheme, View, XStack, YStack } from 'tamagui'
 
+import { useReadingStyle } from '@/hooks/useReadingStyle'
 import { leafPath } from './ornaments/svgHelpers'
 
 export function IlluminatedInitial({ text }: { text: string }) {
@@ -11,6 +12,7 @@ export function IlluminatedInitial({ text }: { text: string }) {
   const greenDark = theme.vineGreenDark.val
   const red = theme.floralRed.val
   const blue = theme.floralBlue.val
+  const readingStyle = useReadingStyle()
 
   if (text.length === 0) return undefined
 
@@ -101,14 +103,7 @@ export function IlluminatedInitial({ text }: { text: string }) {
           <Circle cx="7" cy="22" r="1" fill={subtle} />
         </Svg>
       </YStack>
-      <Text
-        flex={1}
-        fontFamily="$body"
-        fontSize="$4"
-        lineHeight="$4"
-        color="$color"
-        paddingTop="$sm"
-      >
+      <Text flex={1} color="$color" paddingTop="$sm" {...readingStyle}>
         {rest}
       </Text>
     </XStack>

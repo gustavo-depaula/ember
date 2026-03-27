@@ -27,14 +27,14 @@ function buildWeekGrid(data: WallEntry[], weeks: number): WallEntry[][] {
   return columns
 }
 
-const cell = { size: 12, gap: 2, radius: 6 }
+const cellConfig = { size: 12, gap: 2, radius: 6 }
 
 function Cell({ color, date, onPress }: { color: string; date: string; onPress?: () => void }) {
   const square = (
     <YStack
-      width={cell.size}
-      height={cell.size}
-      borderRadius={cell.radius}
+      width={cellConfig.size}
+      height={cellConfig.size}
+      borderRadius={cellConfig.radius}
       backgroundColor={color}
     />
   )
@@ -50,30 +50,47 @@ function Cell({ color, date, onPress }: { color: string; date: string; onPress?:
   return square
 }
 
-export function GreenWall({
-  data,
-  onDayPress,
-  weeks = 20,
-}: {
-  data: WallEntry[]
-  onDayPress?: (date: string) => void
-  weeks?: number
-}) {
-  const grid = useMemo(() => buildWeekGrid(data, weeks), [data, weeks])
+function useWallColors(tiered: boolean) {
   const theme = useTheme()
-
-  const colors = [
+  if (tiered) {
+    return [
+      theme.wallEmpty.val,
+      theme.wallExtra1.val,
+      theme.wallExtra2.val,
+      theme.wallIdeal1.val,
+      theme.wallIdeal2.val,
+      theme.wallEssential1.val,
+      theme.wallEssential2.val,
+      theme.wallPerfect.val,
+    ]
+  }
+  return [
     theme.wallEmpty.val,
     theme.wallLow.val,
     theme.wallMedium.val,
     theme.wallHigh.val,
     theme.wallFull.val,
   ]
+}
+
+export function GreenWall({
+  data,
+  onDayPress,
+  weeks = 20,
+  tiered = false,
+}: {
+  data: WallEntry[]
+  onDayPress?: (date: string) => void
+  weeks?: number
+  tiered?: boolean
+}) {
+  const grid = useMemo(() => buildWeekGrid(data, weeks), [data, weeks])
+  const colors = useWallColors(tiered)
 
   return (
-    <XStack gap={cell.gap} justifyContent="flex-end">
+    <XStack gap={cellConfig.gap} justifyContent="flex-end">
       {grid.map((week, wi) => (
-        <YStack key={week[0]?.date ?? wi} gap={cell.gap}>
+        <YStack key={week[0]?.date ?? wi} gap={cellConfig.gap}>
           {week.map((entry) => (
             <Cell
               key={entry.date}
