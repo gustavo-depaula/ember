@@ -4,6 +4,16 @@ import { Platform } from 'react-native'
 import { getEnabledPractices } from '@/db/repositories'
 import type { Practice } from '@/db/schema'
 
+Notifications.setNotificationHandler({
+  handleNotification: async () => ({
+    shouldShowAlert: true,
+    shouldShowBanner: true,
+    shouldShowList: true,
+    shouldPlaySound: true,
+    shouldSetBadge: false,
+  }),
+})
+
 export async function requestNotificationPermission(): Promise<boolean> {
   const { status: existing } = await Notifications.getPermissionsAsync()
   if (existing === 'granted') return true
@@ -16,7 +26,7 @@ export async function setupNotifications() {
   if (Platform.OS === 'android') {
     await Notifications.setNotificationChannelAsync('practice-reminders', {
       name: 'Practice Reminders',
-      importance: Notifications.AndroidImportance.DEFAULT,
+      importance: Notifications.AndroidImportance.HIGH,
     })
   }
 }
@@ -37,6 +47,7 @@ async function scheduleReminder(practice: Practice): Promise<string | undefined>
       type: Notifications.SchedulableTriggerInputTypes.DAILY,
       hour: hours,
       minute: minutes,
+      ...(Platform.OS === 'android' && { channelId: 'practice-reminders' }),
     },
   })
 }

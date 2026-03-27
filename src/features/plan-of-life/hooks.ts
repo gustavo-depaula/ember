@@ -85,7 +85,7 @@ export function useCreatePractice() {
     mutationFn: createPractice,
     onSuccess: () => {
       queryClient.invalidateQueries({ queryKey: ['practices'] })
-      rescheduleAllReminders()
+      rescheduleAllReminders().catch(console.warn)
     },
   })
 }
@@ -98,7 +98,7 @@ export function useUpdatePractice() {
       updatePractice(id, data),
     onSuccess: () => {
       queryClient.invalidateQueries({ queryKey: ['practices'] })
-      rescheduleAllReminders()
+      rescheduleAllReminders().catch(console.warn)
     },
   })
 }
@@ -111,7 +111,7 @@ export function useDeletePractice() {
     onSuccess: () => {
       queryClient.invalidateQueries({ queryKey: ['practices'] })
       queryClient.invalidateQueries({ queryKey: ['practiceLogs'] })
-      rescheduleAllReminders()
+      rescheduleAllReminders().catch(console.warn)
     },
   })
 }
