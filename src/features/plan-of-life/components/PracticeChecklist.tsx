@@ -10,11 +10,13 @@ export function PracticeChecklist({
   completedIds,
   onToggle,
   onRowPress,
+  readOnly,
 }: {
   practices: Array<{ id: string; name: string; icon: string }>
   completedIds: Set<string>
   onToggle: (practiceId: string, completed: boolean) => void
   onRowPress?: (practiceId: string) => void
+  readOnly?: boolean
 }) {
   return (
     <YStack gap="$sm">
@@ -36,13 +38,19 @@ export function PracticeChecklist({
               <Text flex={1} fontFamily="$body" fontSize="$3" color="$color">
                 {practice.name}
               </Text>
-              <AnimatedCheckbox
-                checked={done}
-                onToggle={() => {
-                  lightTap()
-                  onToggle(practice.id, !done)
-                }}
-              />
+              {readOnly ? (
+                <Text fontSize={14} fontFamily="$body" color={done ? '$accent' : '$colorSecondary'}>
+                  {done ? '✓' : '–'}
+                </Text>
+              ) : (
+                <AnimatedCheckbox
+                  checked={done}
+                  onToggle={() => {
+                    lightTap()
+                    onToggle(practice.id, !done)
+                  }}
+                />
+              )}
             </XStack>
           </Pressable>
         )

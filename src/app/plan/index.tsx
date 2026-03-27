@@ -1,19 +1,24 @@
-import { format, subWeeks } from 'date-fns'
+import { format, parseISO, subDays, subWeeks } from 'date-fns'
 import { useRouter } from 'expo-router'
 import { Settings } from 'lucide-react-native'
 import { useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { Pressable } from 'react-native'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
-import { GreenWall, HeaderFlourish, ManuscriptFrame, ScreenLayout } from '@/components'
+import {
+  AnimatedPressable,
+  GreenWall,
+  HeaderFlourish,
+  ScreenLayout,
+  SectionDivider,
+} from '@/components'
 import {
   buildTieredWallData,
+  DayCarousel,
   type DayCompletion,
   filterPracticesForDate,
   getCompletionRate,
   getCurrentStreak,
-  getPracticeIcon,
   getPracticeName,
   PracticeChecklist,
   toCompletedSet,
@@ -22,23 +27,39 @@ import {
   usePractices,
   useTogglePractice,
 } from '@/features/plan-of-life'
+import { formatLocalized } from '@/lib/i18n/dateLocale'
+
+const editableWindowDays = 3
 
 export default function PlanScreen() {
   const { t } = useTranslation()
   const router = useRouter()
   const theme = useTheme()
-  const [selectedDay, setSelectedDay] = useState<string>()
 
   const today = useMemo(() => format(new Date(), 'yyyy-MM-dd'), [])
+  const [selectedDate, setSelectedDate] = useState(today)
   const rangeStart = useMemo(() => format(subWeeks(new Date(), 20), 'yyyy-MM-dd'), [])
 
   const { data: practices = [] } = usePractices()
   const { data: rangeLogs = [] } = usePracticeLogRange(rangeStart, today)
-  const { data: todayLogs = [] } = usePracticeLogsForDate(today)
+  const { data: selectedDateLogs = [] } = usePracticeLogsForDate(selectedDate)
   const toggle = useTogglePractice()
 
-  const todayPractices = useMemo(() => filterPracticesForDate(practices, today), [practices, today])
-  const completedToday = useMemo(() => toCompletedSet(todayLogs), [todayLogs])
+  const selectedPractices = useMemo(
+    () => filterPracticesForDate(practices, selectedDate),
+    [practices, selectedDate],
+  )
+  const selectedCompleted = useMemo(() => toCompletedSet(selectedDateLogs), [selectedDateLogs])
+
+  const isFuture = selectedDate > today
+  const editableCutoff = useMemo(
+    () => format(subDays(new Date(), editableWindowDays), 'yyyy-MM-dd'),
+    [],
+  )
+  const isEditable = !isFuture && selectedDate > editableCutoff
+
+  const isToday = selectedDate === today
+  const dateLabel = isToday ? t('plan.today') : formatLocalized(parseISO(selectedDate), 'EEE d MMM')
 
   const { wallData, stats } = useMemo(() => {
     const wd = buildTieredWallData(rangeLogs, practices)
@@ -63,66 +84,33 @@ export default function PlanScreen() {
     }
   }, [rangeLogs, practices])
 
-  const { data: selectedDayLogs = [] } = usePracticeLogsForDate(selectedDay)
-  const selectedDayCompleted = useMemo(() => toCompletedSet(selectedDayLogs), [selectedDayLogs])
-
   return (
     <ScreenLayout>
       <YStack gap="$lg" paddingVertical="$lg">
-        <XStack justifyContent="flex-end" alignItems="center">
-          <Pressable onPress={() => router.push('/plan/settings')} hitSlop={8}>
-            <Settings size={22} color={theme.colorSecondary.val} />
-          </Pressable>
-        </XStack>
-
         <YStack alignItems="center" gap="$xs">
           <HeaderFlourish />
-          <Text fontFamily="$display" fontSize={28} lineHeight={34} color="$color">
-            {t('plan.title')}
-          </Text>
+          <XStack alignItems="center" justifyContent="center" width="100%" position="relative">
+            <Text fontFamily="$display" fontSize={28} lineHeight={34} color="$color">
+              {t('plan.title')}
+            </Text>
+            <AnimatedPressable
+              onPress={() => router.push('/plan/settings')}
+              hitSlop={12}
+              style={{ position: 'absolute', right: 0 }}
+            >
+              <Settings size={22} color={theme.colorSecondary.val} />
+            </AnimatedPressable>
+          </XStack>
         </YStack>
 
         <YStack alignItems="center">
-          <GreenWall
-            data={wallData}
-            tiered
-            onDayPress={(date) => setSelectedDay((prev) => (prev === date ? undefined : date))}
-          />
+          <GreenWall data={wallData} tiered />
         </YStack>
 
         {stats.streak === 0 && stats.rate === 0 && (
           <Text fontFamily="$body" fontSize="$2" color="$colorSecondary" textAlign="center">
             {t('plan.emptyWall')}
           </Text>
-        )}
-
-        {selectedDay && (
-          <ManuscriptFrame ornate={false}>
-            <YStack gap="$sm">
-              <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
-                {selectedDay}
-              </Text>
-              {practices.map((p) => (
-                <XStack key={p.id} gap="$sm" alignItems="center">
-                  <Text fontSize={16}>{getPracticeIcon(p.icon)}</Text>
-                  <Text
-                    flex={1}
-                    fontFamily="$body"
-                    fontSize="$2"
-                    color={selectedDayCompleted.has(p.id) ? '$color' : '$colorSecondary'}
-                  >
-                    {getPracticeName(p, t)}
-                  </Text>
-                  <Text
-                    fontSize={12}
-                    color={selectedDayCompleted.has(p.id) ? '$accent' : '$colorSecondary'}
-                  >
-                    {selectedDayCompleted.has(p.id) ? '✓' : '–'}
-                  </Text>
-                </XStack>
-              ))}
-            </YStack>
-          </ManuscriptFrame>
         )}
 
         <XStack gap="$md">
@@ -160,15 +148,23 @@ export default function PlanScreen() {
           </YStack>
         </XStack>
 
-        <Text fontFamily="$heading" fontSize="$4" color="$color">
-          {t('plan.today')}
+        <SectionDivider />
+
+        <DayCarousel onSelectDate={setSelectedDate} today={today} />
+
+        <Text fontFamily="$heading" fontSize="$4" color="$color" textAlign="center">
+          {dateLabel}
+          {isFuture ? ` · ${t('plan.preview')}` : ''}
         </Text>
 
         <PracticeChecklist
-          practices={todayPractices.map((p) => ({ ...p, name: getPracticeName(p, t) }))}
-          completedIds={completedToday}
-          onToggle={(id, completed) => toggle.mutate({ practiceId: id, date: today, completed })}
+          practices={selectedPractices.map((p) => ({ ...p, name: getPracticeName(p, t) }))}
+          completedIds={selectedCompleted}
+          onToggle={(id, completed) =>
+            toggle.mutate({ practiceId: id, date: selectedDate, completed })
+          }
           onRowPress={(id) => router.push(`/plan/${id}`)}
+          readOnly={!isEditable}
         />
       </YStack>
     </ScreenLayout>

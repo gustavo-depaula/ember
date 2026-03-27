@@ -54,6 +54,7 @@ export default {
     dayStreak: 'Sequ\u00eancia de Dias',
     completion: 'Conclus\u00e3o',
     today: 'Hoje',
+    preview: 'Prévia',
     practiceNotFound: 'Pr\u00e1tica n\u00e3o encontrada',
     currentStreak: 'Sequ\u00eancia Atual',
     longestStreak: 'Maior Sequ\u00eancia',

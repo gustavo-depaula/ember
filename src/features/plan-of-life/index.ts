@@ -1,5 +1,5 @@
 export { getPracticeIcon } from '@/db/seed'
-export { PracticeChecklist } from './components'
+export { DayCarousel, PracticeChecklist } from './components'
 export { getPracticeName } from './getPracticeName'
 export {
   useAllPractices,
