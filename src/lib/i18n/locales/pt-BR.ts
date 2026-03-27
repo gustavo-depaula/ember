@@ -213,7 +213,99 @@ export default {
     planOfLife: 'Plano de Vida',
     sacredScripture: 'Sagrada Escritura',
     catechism: 'Catecismo',
+    saints: 'Santos',
     settings: 'Configura\u00e7\u00f5es',
+  },
+
+  saints: {
+    title: 'Santos',
+    doubleTapToFlip: 'Toque duplo para virar',
+    therese: {
+      name: 'Santa Teresinha do Menino Jesus',
+      feastDay: '1 de outubro',
+      patronOf: 'Padroeira das missões',
+      prayerExcerpt: 'Minha vocação é o amor! No coração da Igreja, serei o amor.',
+    },
+    joseph: {
+      name: 'São José',
+      feastDay: '19 de março',
+      patronOf: 'Padroeiro da Igreja Universal',
+      prayerExcerpt: 'Ide a José. Fazei tudo o que ele vos disser.',
+    },
+    michaelArchangel: {
+      name: 'São Miguel Arcanjo',
+      feastDay: '29 de setembro',
+      patronOf: 'Padroeiro dos soldados e da Igreja',
+      prayerExcerpt:
+        'São Miguel Arcanjo, defendei-nos no combate. Sede nosso refúgio contra as maldades e ciladas do demônio.',
+    },
+    gabrielArchangel: {
+      name: 'São Gabriel Arcanjo',
+      feastDay: '29 de setembro',
+      patronOf: 'Padroeiro dos mensageiros e comunicações',
+      prayerExcerpt: 'Ave, cheia de graça, o Senhor é convosco.',
+    },
+    peter: {
+      name: 'São Pedro',
+      feastDay: '29 de junho',
+      patronOf: 'Padroeiro dos pescadores e do papado',
+      prayerExcerpt: 'Senhor, tu sabes tudo; tu sabes que eu te amo.',
+    },
+    johnEvangelist: {
+      name: 'São João Evangelista',
+      feastDay: '27 de dezembro',
+      patronOf: 'Padroeiro dos autores e teólogos',
+      prayerExcerpt: 'Deus é amor, e quem permanece no amor permanece em Deus, e Deus nele.',
+    },
+    johnOfTheCross: {
+      name: 'São João da Cruz',
+      feastDay: '14 de dezembro',
+      patronOf: 'Padroeiro dos místicos e contemplativos',
+      prayerExcerpt: 'No entardecer da vida, seremos julgados pelo amor.',
+    },
+    teresa: {
+      name: 'Santa Teresa de Ávila',
+      feastDay: '15 de outubro',
+      patronOf: 'Padroeira dos que sofrem de dor de cabeça',
+      prayerExcerpt: 'Nada te perturbe. Nada te espante. Tudo passa. Deus não muda.',
+    },
+    philomena: {
+      name: 'Santa Filomena',
+      feastDay: '11 de agosto',
+      patronOf: 'Padroeira da juventude e das causas desesperadas',
+      prayerExcerpt: 'Ó virgem fiel e gloriosa mártir, Santa Filomena, intercedei por nós.',
+    },
+    gianna: {
+      name: 'Santa Gianna Beretta Molla',
+      feastDay: '28 de abril',
+      patronOf: 'Padroeira das mães e médicos',
+      prayerExcerpt:
+        'O amor é o sentimento mais belo que o Senhor colocou na alma dos homens e mulheres.',
+    },
+    luke: {
+      name: 'São Lucas Evangelista',
+      feastDay: '18 de outubro',
+      patronOf: 'Padroeiro dos artistas e médicos',
+      prayerExcerpt: 'O Todo-Poderoso fez grandes coisas por mim, e santo é o seu nome.',
+    },
+    fatima: {
+      name: 'Nossa Senhora de Fátima',
+      feastDay: '13 de maio',
+      patronOf: 'Padroeira de Portugal',
+      prayerExcerpt: 'Rezai o Terço todos os dias para alcançar a paz no mundo.',
+    },
+    mosesTheBlack: {
+      name: 'São Moisés, o Negro',
+      feastDay: '28 de agosto',
+      patronOf: 'Padroeiro da não violência',
+      prayerExcerpt: 'Senta-te na tua cela e a tua cela te ensinará tudo.',
+    },
+    holyInnocents: {
+      name: 'Os Santos Inocentes',
+      feastDay: '28 de dezembro',
+      patronOf: 'Padroeiros dos enjeitados e bebês',
+      prayerExcerpt: 'Da boca dos pequeninos e crianças de peito tiraste o perfeito louvor.',
+    },
   },
 
   common: {
