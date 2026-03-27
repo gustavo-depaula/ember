@@ -156,7 +156,11 @@ export function PracticeEditSheet({
           </Pressable>
         </XStack>
 
-        <ScrollView showsVerticalScrollIndicator={false} keyboardShouldPersistTaps="handled" automaticallyAdjustKeyboardInsets>
+        <ScrollView
+          showsVerticalScrollIndicator={false}
+          keyboardShouldPersistTaps="handled"
+          automaticallyAdjustKeyboardInsets
+        >
           <YStack gap="$lg">
             <YStack gap="$xs">
               <Text fontFamily="$heading" fontSize="$2" color="$color">

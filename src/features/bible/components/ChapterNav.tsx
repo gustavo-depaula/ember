@@ -1,4 +1,5 @@
 import { ChevronLeft, ChevronRight } from 'lucide-react-native'
+import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
 import { Text, useTheme, XStack } from 'tamagui'
 
@@ -17,6 +18,7 @@ export function ChapterNav({
   books: Book[]
   onNavigate: (bookId: string, chapter: number) => void
 }) {
+  const { t } = useTranslation()
   const theme = useTheme()
   const prev = findAdjacentChapter(bookId, chapter, books, 'prev')
   const next = findAdjacentChapter(bookId, chapter, books, 'next')
@@ -28,7 +30,9 @@ export function ChapterNav({
           <XStack alignItems="center" gap="$xs">
             <ChevronLeft size={16} color={theme.accent.val} />
             <Text fontFamily="$body" fontSize="$2" color="$accent">
-              {prev.bookId !== bookId ? getBookName(prev.bookId, books) : `Ch. ${prev.chapter}`}
+              {prev.bookId !== bookId
+                ? getBookName(prev.bookId, books)
+                : t('bible.chapterAbbr', { n: prev.chapter })}
             </Text>
           </XStack>
         </Pressable>
@@ -40,7 +44,9 @@ export function ChapterNav({
         <Pressable onPress={() => onNavigate(next.bookId, next.chapter)}>
           <XStack alignItems="center" gap="$xs">
             <Text fontFamily="$body" fontSize="$2" color="$accent">
-              {next.bookId !== bookId ? getBookName(next.bookId, books) : `Ch. ${next.chapter}`}
+              {next.bookId !== bookId
+                ? getBookName(next.bookId, books)
+                : t('bible.chapterAbbr', { n: next.chapter })}
             </Text>
             <ChevronRight size={16} color={theme.accent.val} />
           </XStack>

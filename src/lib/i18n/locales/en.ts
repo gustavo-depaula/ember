@@ -161,11 +161,31 @@ export default {
 
   bible: {
     showingFallback: 'Showing Douay-Rheims (offline)',
+    chapterAbbr: 'Ch. {{n}}',
   },
 
   catechism: {
     toc: 'Table of Contents',
     inBrief: 'In Brief',
+    prologue: 'Prologue',
+    prologueS1: 'I. The life of man \u2014 to know and love God',
+    prologueS2: 'II. Handing on the Faith: Catechesis',
+    prologueS3: 'III. The Aim and Intended Readership',
+    prologueS4: 'IV. Structure of this Catechism',
+    prologueS5: 'V. Practical Directions for Using this Catechism',
+    prologueS6: 'VI. Necessary Adaptations',
+    partOne: 'Part One: The Profession of Faith',
+    partOneS1: 'Section One: "I Believe" \u2014 "We Believe"',
+    partOneS2: 'Section Two: The Creeds',
+    partTwo: 'Part Two: The Celebration of the Christian Mystery',
+    partTwoS1: 'Section One: The Sacramental Economy',
+    partTwoS2: 'Section Two: The Seven Sacraments',
+    partThree: 'Part Three: Life in Christ',
+    partThreeS1: "Section One: Man's Vocation \u2014 Life in the Spirit",
+    partThreeS2: 'Section Two: The Ten Commandments',
+    partFour: 'Part Four: Christian Prayer',
+    partFourS1: 'Section One: Prayer in the Christian Life',
+    partFourS2: "Section Two: The Lord's Prayer",
   },
 
   translations: {
@@ -182,6 +202,15 @@ export default {
     margins: 'Margins',
     preview:
       'Hail Mary, full of grace, the Lord is with thee. Blessed art thou amongst women, and blessed is the fruit of thy womb, Jesus. Holy Mary, Mother of God, pray for us sinners, now and at the hour of our death. Amen.',
+  },
+
+  nav: {
+    home: 'Home',
+    divineOffice: 'Divine Office',
+    planOfLife: 'Plan of Life',
+    sacredScripture: 'Sacred Scripture',
+    catechism: 'Catechism',
+    settings: 'Settings',
   },
 
   common: {

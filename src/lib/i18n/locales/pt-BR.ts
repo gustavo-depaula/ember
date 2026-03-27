@@ -162,11 +162,32 @@ export default {
 
   bible: {
     showingFallback: 'Mostrando Douay-Rheims (offline)',
+    chapterAbbr: 'Cap. {{n}}',
   },
 
   catechism: {
     toc: '\u00cdndice',
     inBrief: 'Em Resumo',
+    prologue: 'Pr\u00f3logo',
+    prologueS1: 'I. A vida do homem \u2014 conhecer e amar a Deus',
+    prologueS2: 'II. Transmitir a F\u00e9: a Catequese',
+    prologueS3: 'III. Finalidade e Destinat\u00e1rios',
+    prologueS4: 'IV. Estrutura deste Catecismo',
+    prologueS5: 'V. Indica\u00e7\u00f5es Pr\u00e1ticas para a Utiliza\u00e7\u00e3o',
+    prologueS6: 'VI. Adapta\u00e7\u00f5es Necess\u00e1rias',
+    partOne: 'Primeira Parte: A Profiss\u00e3o de F\u00e9',
+    partOneS1: 'Se\u00e7\u00e3o Primeira: \u201cEu Creio\u201d \u2014 \u201cN\u00f3s Cremos\u201d',
+    partOneS2: 'Se\u00e7\u00e3o Segunda: Os Credos',
+    partTwo: 'Segunda Parte: A Celebra\u00e7\u00e3o do Mist\u00e9rio Crist\u00e3o',
+    partTwoS1: 'Se\u00e7\u00e3o Primeira: A Economia Sacramental',
+    partTwoS2: 'Se\u00e7\u00e3o Segunda: Os Sete Sacramentos',
+    partThree: 'Terceira Parte: A Vida em Cristo',
+    partThreeS1:
+      'Se\u00e7\u00e3o Primeira: A Voca\u00e7\u00e3o do Homem \u2014 A Vida no Esp\u00edrito',
+    partThreeS2: 'Se\u00e7\u00e3o Segunda: Os Dez Mandamentos',
+    partFour: 'Quarta Parte: A Ora\u00e7\u00e3o Crist\u00e3',
+    partFourS1: 'Se\u00e7\u00e3o Primeira: A Ora\u00e7\u00e3o na Vida Crist\u00e3',
+    partFourS2: 'Se\u00e7\u00e3o Segunda: A Ora\u00e7\u00e3o do Senhor',
   },
 
   translations: {
@@ -183,6 +204,15 @@ export default {
     margins: 'Margens',
     preview:
       'Ave Maria, cheia de gra\u00e7a, o Senhor \u00e9 convosco. Bendita sois v\u00f3s entre as mulheres, e bendito \u00e9 o fruto do vosso ventre, Jesus. Santa Maria, M\u00e3e de Deus, rogai por n\u00f3s, pecadores, agora e na hora da nossa morte. Am\u00e9m.',
+  },
+
+  nav: {
+    home: 'In\u00edcio',
+    divineOffice: 'Of\u00edcio Divino',
+    planOfLife: 'Plano de Vida',
+    sacredScripture: 'Sagrada Escritura',
+    catechism: 'Catecismo',
+    settings: 'Configura\u00e7\u00f5es',
   },
 
   common: {
