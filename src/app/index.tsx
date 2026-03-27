@@ -103,12 +103,24 @@ export default function HomeScreen() {
           </YStack>
         </XStack>
 
-        <NavigationMedallion
-          icon="cross"
-          title="Sacred Scripture"
-          subtitle="Read the Bible"
-          onPress={() => router.push('/bible')}
-        />
+        <XStack gap="$md">
+          <YStack flex={1}>
+            <NavigationMedallion
+              icon="cross"
+              title="Sacred Scripture"
+              subtitle="Read the Bible"
+              onPress={() => router.push('/bible')}
+            />
+          </YStack>
+          <YStack flex={1}>
+            <NavigationMedallion
+              icon="book"
+              title="Catechism"
+              subtitle="Read the CCC"
+              onPress={() => router.push('/catechism')}
+            />
+          </YStack>
+        </XStack>
 
         {practices.length > 0 && (
           <YStack gap="$md">

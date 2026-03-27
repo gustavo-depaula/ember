@@ -21,6 +21,7 @@ import { config } from '@/config/tamagui.config'
 import { useDbInit } from '@/db/client'
 import { seedPractices, seedReadingProgress } from '@/db/seed'
 import { useBibleStore } from '@/stores/bibleStore'
+import { useCatechismStore } from '@/stores/catechismStore'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 import { useThemeStore } from '@/stores/themeStore'
 
@@ -49,12 +50,14 @@ export default function RootLayout() {
   const { preference, hydrated: themeHydrated, hydrate: hydrateTheme } = useThemeStore()
   const { hydrated: prefsHydrated, hydrate: hydratePrefs } = usePreferencesStore()
   const { hydrated: bibleHydrated, hydrate: hydrateBible } = useBibleStore()
+  const { hydrated: catechismHydrated, hydrate: hydrateCatechism } = useCatechismStore()
 
   useEffect(() => {
     hydrateTheme()
     hydratePrefs()
     hydrateBible()
-  }, [hydrateTheme, hydratePrefs, hydrateBible])
+    hydrateCatechism()
+  }, [hydrateTheme, hydratePrefs, hydrateBible, hydrateCatechism])
 
   const [seeded, setSeeded] = useState(false)
 
@@ -64,7 +67,14 @@ export default function RootLayout() {
     }
   }, [dbReady])
 
-  const ready = fontsLoaded && themeHydrated && prefsHydrated && bibleHydrated && dbReady && seeded
+  const ready =
+    fontsLoaded &&
+    themeHydrated &&
+    prefsHydrated &&
+    bibleHydrated &&
+    catechismHydrated &&
+    dbReady &&
+    seeded
 
   useEffect(() => {
     if (ready) {
@@ -82,7 +92,7 @@ export default function RootLayout() {
         <TamaguiProvider config={config} defaultTheme={resolvedTheme}>
           <StatusBar hidden />
           <Stack screenOptions={{ headerShown: false, animation: 'none' }} />
-          <RibbonBookmarks />
+          <TasselPull />
         </TamaguiProvider>
       </QueryClientProvider>
     </GestureHandlerRootView>

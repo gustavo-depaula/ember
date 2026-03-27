@@ -76,10 +76,10 @@ export const bodyFont = createFont({
   lineHeight: {
     1: 16,
     2: 20,
-    3: 27,
-    4: 36,
+    3: 22,
+    4: 24,
     5: 29,
-    true: 27,
+    true: 22,
   },
   weight: {
     3: '400',

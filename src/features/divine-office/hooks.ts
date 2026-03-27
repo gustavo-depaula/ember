@@ -9,12 +9,12 @@ import {
   updateReadingProgress,
 } from '@/db/repositories'
 import { getPsalmNumbering } from '@/lib/bolls'
+import { getCccParagraphs } from '@/lib/catechism'
 import { getChapter, type Verse } from '@/lib/content'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
 import {
   buildPrayerSections,
-  getCccParagraphs,
   type OfficeHour,
   type PrayerSection,
   type ReadingReference,
