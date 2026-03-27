@@ -1,18 +1,10 @@
 import { format, subWeeks } from 'date-fns'
-import { useRouter } from 'expo-router'
 import { useCallback, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { Text, XStack, YStack } from 'tamagui'
+import { Text, YStack } from 'tamagui'
 
-import {
-  FadeInView,
-  GreenWall,
-  HeaderFlourish,
-  ManuscriptFrame,
-  OrnamentalRule,
-  ScreenLayout,
-} from '@/components'
-import { NavigationMedallion, TimeBlockSection } from '@/features/home'
+import { FadeInView, GreenWall, HeaderFlourish, PageBreakOrnament, ScreenLayout } from '@/components'
+import { AppShortcuts, TimeBlockSection } from '@/features/home'
 import {
   type BlockState,
   buildTieredWallData,
@@ -40,7 +32,6 @@ function getGreeting(hour: number): string {
 
 export default function HomeScreen() {
   const { t } = useTranslation()
-  const router = useRouter()
   const now = new Date()
   const today = format(now, 'yyyy-MM-dd')
   const hour = now.getHours()
@@ -57,7 +48,6 @@ export default function HomeScreen() {
   const completedIds = useMemo(() => toCompletedSet(todayLogs), [todayLogs])
   const wallData = useMemo(() => buildTieredWallData(wallLogs, practices), [wallLogs, practices])
 
-  // manual overrides for collapse/expand
   const [overrides, setOverrides] = useState<Partial<Record<TimeBlock, BlockState>>>({})
 
   const toggleBlockCollapse = useCallback((block: TimeBlock) => {
@@ -75,62 +65,35 @@ export default function HomeScreen() {
   return (
     <ScreenLayout>
       <YStack gap="$lg" paddingVertical="$lg">
+        {/* Header */}
         <YStack gap="$xs" alignItems="center">
           <HeaderFlourish />
           <Text fontFamily="$heading" fontSize="$5" color="$color">
             {greeting}
           </Text>
-          <Text fontFamily="$script" fontSize="$2" color="$colorSecondary">
+          <Text fontFamily="$script" fontSize="$4" color="$colorSecondary">
             {formatLocalized(now, 'EEE, MMMM d')}
           </Text>
         </YStack>
 
-        <XStack gap="$md">
-          <YStack flex={1}>
-            <FadeInView index={0}>
-              <NavigationMedallion
-                icon="book"
-                title={t('home.divineOffice')}
-                subtitle={t('home.divineOfficeSub')}
-                onPress={() => router.push('/office')}
-              />
-            </FadeInView>
-          </YStack>
-          <YStack flex={1}>
-            <FadeInView index={1}>
-              <NavigationMedallion
-                icon="quill"
-                title={t('home.planOfLife')}
-                subtitle={t('home.planOfLifeSub')}
-                onPress={() => router.push('/plan')}
-              />
-            </FadeInView>
-          </YStack>
-        </XStack>
+        {/* 1. Fidelity Wall */}
+        {wallData.length > 0 && (
+          <FadeInView>
+            <YStack alignItems="center" gap="$sm">
+              <Text fontFamily="$display" fontSize={28} lineHeight={34} color="$accent">
+                {t('home.fidelity')}
+              </Text>
+              <GreenWall data={wallData} weeks={10} tiered />
+            </YStack>
+          </FadeInView>
+        )}
 
-        <XStack gap="$md">
-          <YStack flex={1}>
-            <FadeInView index={2}>
-              <NavigationMedallion
-                icon="cross"
-                title={t('home.sacredScripture')}
-                subtitle={t('home.sacredScriptureSub')}
-                onPress={() => router.push('/bible')}
-              />
-            </FadeInView>
-          </YStack>
-          <YStack flex={1}>
-            <FadeInView index={3}>
-              <NavigationMedallion
-                icon="book"
-                title={t('home.catechism')}
-                subtitle={t('home.catechismSub')}
-                onPress={() => router.push('/catechism')}
-              />
-            </FadeInView>
-          </YStack>
-        </XStack>
+        {/* 2. App Shortcuts */}
+        <FadeInView index={1}>
+          <AppShortcuts />
+        </FadeInView>
 
+        {/* 4. Today's Plan of Life */}
         {todayPractices.length > 0 && (
           <YStack gap="$md">
             {activeBlocks.map(({ block, def }, i) => {
@@ -148,7 +111,6 @@ export default function HomeScreen() {
                   state={state}
                   completed={completed}
                   total={total}
-                  showRule={i < activeBlocks.length - 1 && state === 'expanded'}
                   onToggle={(id, done) =>
                     toggle.mutate({ practiceId: id, date: today, completed: done })
                   }
@@ -159,20 +121,7 @@ export default function HomeScreen() {
           </YStack>
         )}
 
-        {wallData.length > 0 && (
-          <FadeInView>
-            <ManuscriptFrame ornate={false}>
-              <YStack alignItems="center" gap="$sm">
-                <Text fontFamily="$display" fontSize={18} lineHeight={22} color="$accent">
-                  {t('home.fidelity')}
-                </Text>
-                <GreenWall data={wallData} weeks={10} tiered />
-              </YStack>
-            </ManuscriptFrame>
-          </FadeInView>
-        )}
-
-        <OrnamentalRule />
+        <PageBreakOrnament />
       </YStack>
     </ScreenLayout>
   )
