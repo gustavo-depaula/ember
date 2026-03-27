@@ -11,6 +11,8 @@ export default {
     sacredScriptureSub: 'Read the Bible',
     catechism: 'Catechism',
     catechismSub: 'Read the CCC',
+    holyMass: 'Holy Mass',
+    holyMassSub: 'Ordo Missæ',
     fidelity: 'Fidelity',
     begin: 'Begin',
     nextPractice: 'Your next practice',
@@ -205,12 +207,21 @@ export default {
       'Hail Mary, full of grace, the Lord is with thee. Blessed art thou amongst women, and blessed is the fruit of thy womb, Jesus. Holy Mary, Mother of God, pray for us sinners, now and at the hour of our death. Amen.',
   },
 
+  mass: {
+    title: 'Holy Mass',
+    subtitle: 'Ordo Missæ',
+    ordinaryForm: 'Ordinary Form',
+    extraordinaryForm: 'Extraordinary Form',
+    proper: 'Proper of the day',
+  },
+
   nav: {
     home: 'Home',
     divineOffice: 'Divine Office',
     planOfLife: 'Plan of Life',
     sacredScripture: 'Sacred Scripture',
     catechism: 'Catechism',
+    holyMass: 'Holy Mass',
     saints: 'Saints',
     settings: 'Settings',
   },

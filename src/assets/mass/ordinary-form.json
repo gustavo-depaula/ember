@@ -1,0 +1,769 @@
+{
+	"id": "ordinary-form",
+	"title": "The Order of Mass",
+	"subtitle": "Roman Missal, Third Edition",
+	"sections": [
+		{ "type": "heading", "id": "of-introductory-rites", "text": "Introductory Rites" },
+		{
+			"type": "prayer",
+			"id": "of-sign-of-cross",
+			"speaker": "priest",
+			"latin": "In nómine Patris, et Fílii, et Spíritus Sancti.",
+			"english": "In the name of the Father, and of the Son, and of the Holy Spirit."
+		},
+		{
+			"type": "prayer",
+			"id": "of-sign-of-cross-r",
+			"speaker": "people",
+			"latin": "Amen.",
+			"english": "Amen."
+		},
+		{
+			"type": "options",
+			"id": "of-greeting",
+			"label": "Greeting",
+			"options": [
+				{
+					"id": "of-greeting-a",
+					"label": "Form A",
+					"sections": [
+						{
+							"type": "prayer",
+							"id": "of-greeting-a-v",
+							"speaker": "priest",
+							"latin": "Grátia Dómini nostri Jesu Christi, et cáritas Dei, et communicátio Sancti Spíritus sit cum ómnibus vobis.",
+							"english": "The grace of our Lord Jesus Christ, and the love of God, and the communion of the Holy Spirit be with you all."
+						},
+						{
+							"type": "prayer",
+							"id": "of-greeting-a-r",
+							"speaker": "people",
+							"latin": "Et cum spíritu tuo.",
+							"english": "And with your spirit."
+						}
+					]
+				},
+				{
+					"id": "of-greeting-b",
+					"label": "Form B",
+					"sections": [
+						{
+							"type": "prayer",
+							"id": "of-greeting-b-v",
+							"speaker": "priest",
+							"latin": "Grátia vobis et pax a Deo Patre nostro et Dómino Jesu Christo.",
+							"english": "Grace to you and peace from God our Father and the Lord Jesus Christ."
+						},
+						{
+							"type": "prayer",
+							"id": "of-greeting-b-r",
+							"speaker": "people",
+							"latin": "Et cum spíritu tuo.",
+							"english": "And with your spirit."
+						}
+					]
+				},
+				{
+					"id": "of-greeting-c",
+					"label": "Form C",
+					"sections": [
+						{
+							"type": "prayer",
+							"id": "of-greeting-c-v",
+							"speaker": "priest",
+							"latin": "Dóminus vobíscum.",
+							"english": "The Lord be with you."
+						},
+						{
+							"type": "prayer",
+							"id": "of-greeting-c-r",
+							"speaker": "people",
+							"latin": "Et cum spíritu tuo.",
+							"english": "And with your spirit."
+						}
+					]
+				}
+			]
+		},
+		{
+			"type": "options",
+			"id": "of-penitential-act",
+			"label": "Penitential Act",
+			"options": [
+				{
+					"id": "of-penit-a",
+					"label": "Form A: Confiteor",
+					"sections": [
+						{
+							"type": "prayer",
+							"id": "of-confiteor",
+							"speaker": "all",
+							"latin": "Confíteor Deo omnipoténti et vobis, fratres, quia peccávi nimis cogitatióne, verbo, ópere et omissióne: mea culpa, mea culpa, mea máxima culpa. Ideo precor beátam Maríam semper Vírginem, omnes Ángelos et Sanctos, et vos, fratres, oráre pro me ad Dóminum Deum nostrum.",
+							"english": "I confess to almighty God and to you, my brothers and sisters, that I have greatly sinned, in my thoughts and in my words, in what I have done and in what I have failed to do, through my fault, through my fault, through my most grievous fault; therefore I ask blessed Mary ever-Virgin, all the Angels and Saints, and you, my brothers and sisters, to pray for me to the Lord our God."
+						},
+						{
+							"type": "prayer",
+							"id": "of-absolution",
+							"speaker": "priest",
+							"latin": "Misereátur nostri omnípotens Deus et, dimíssis peccátis nostris, perdúcat nos ad vitam ætérnam.",
+							"english": "May almighty God have mercy on us, forgive us our sins, and bring us to everlasting life."
+						},
+						{
+							"type": "prayer",
+							"id": "of-absolution-r",
+							"speaker": "people",
+							"latin": "Amen.",
+							"english": "Amen."
+						}
+					]
+				},
+				{
+					"id": "of-penit-b",
+					"label": "Form B",
+					"sections": [
+						{
+							"type": "prayer",
+							"id": "of-penit-b-v1",
+							"speaker": "priest",
+							"latin": "Miserére nostri, Dómine.",
+							"english": "Have mercy on us, O Lord."
+						},
+						{
+							"type": "prayer",
+							"id": "of-penit-b-r1",
+							"speaker": "people",
+							"latin": "Quia peccávimus tibi.",
+							"english": "For we have sinned against you."
+						},
+						{
+							"type": "prayer",
+							"id": "of-penit-b-v2",
+							"speaker": "priest",
+							"latin": "Osténde nobis, Dómine, misericórdiam tuam.",
+							"english": "Show us, O Lord, your mercy."
+						},
+						{
+							"type": "prayer",
+							"id": "of-penit-b-r2",
+							"speaker": "people",
+							"latin": "Et salutáre tuum da nobis.",
+							"english": "And grant us your salvation."
+						},
+						{
+							"type": "prayer",
+							"id": "of-penit-b-abs",
+							"speaker": "priest",
+							"latin": "Misereátur nostri omnípotens Deus et, dimíssis peccátis nostris, perdúcat nos ad vitam ætérnam.",
+							"english": "May almighty God have mercy on us, forgive us our sins, and bring us to everlasting life."
+						},
+						{
+							"type": "prayer",
+							"id": "of-penit-b-abs-r",
+							"speaker": "people",
+							"latin": "Amen.",
+							"english": "Amen."
+						}
+					]
+				},
+				{
+					"id": "of-penit-c",
+					"label": "Form C: Tropes",
+					"sections": [
+						{
+							"type": "prayer",
+							"id": "of-trope-1v",
+							"speaker": "priest",
+							"latin": "Qui missus es sanáre contrítos corde: Kýrie, eléison.",
+							"english": "You were sent to heal the contrite of heart: Lord, have mercy."
+						},
+						{ "type": "prayer", "id": "of-trope-1r", "speaker": "people", "latin": "Kýrie, eléison.", "english": "Lord, have mercy." },
+						{
+							"type": "prayer",
+							"id": "of-trope-2v",
+							"speaker": "priest",
+							"latin": "Qui ad déxteram Patris sedes, ad interpellándum pro nobis: Christe, eléison.",
+							"english": "You are seated at the right hand of the Father to intercede for us: Christ, have mercy."
+						},
+						{ "type": "prayer", "id": "of-trope-2r", "speaker": "people", "latin": "Christe, eléison.", "english": "Christ, have mercy." },
+						{
+							"type": "prayer",
+							"id": "of-trope-3v",
+							"speaker": "priest",
+							"latin": "Qui íterum ventúrus es judicáre vivos et mórtuos: Kýrie, eléison.",
+							"english": "You will come again to judge the living and the dead: Lord, have mercy."
+						},
+						{ "type": "prayer", "id": "of-trope-3r", "speaker": "people", "latin": "Kýrie, eléison.", "english": "Lord, have mercy." },
+						{
+							"type": "prayer",
+							"id": "of-trope-abs",
+							"speaker": "priest",
+							"latin": "Misereátur nostri omnípotens Deus et, dimíssis peccátis nostris, perdúcat nos ad vitam ætérnam.",
+							"english": "May almighty God have mercy on us, forgive us our sins, and bring us to everlasting life."
+						},
+						{ "type": "prayer", "id": "of-trope-abs-r", "speaker": "people", "latin": "Amen.", "english": "Amen." }
+					]
+				}
+			]
+		},
+		{ "type": "subheading", "id": "of-kyrie-section", "text": "Kyrie" },
+		{ "type": "rubric", "text": "Unless included in the Penitential Act:" },
+		{
+			"type": "prayer",
+			"id": "of-kyrie-v1",
+			"speaker": "priest",
+			"latin": "Kýrie, eléison.",
+			"english": "Lord, have mercy."
+		},
+		{ "type": "prayer", "id": "of-kyrie-r1", "speaker": "people", "latin": "Kýrie, eléison.", "english": "Lord, have mercy." },
+		{ "type": "prayer", "id": "of-christe-v", "speaker": "priest", "latin": "Christe, eléison.", "english": "Christ, have mercy." },
+		{ "type": "prayer", "id": "of-christe-r", "speaker": "people", "latin": "Christe, eléison.", "english": "Christ, have mercy." },
+		{ "type": "prayer", "id": "of-kyrie-v2", "speaker": "priest", "latin": "Kýrie, eléison.", "english": "Lord, have mercy." },
+		{ "type": "prayer", "id": "of-kyrie-r2", "speaker": "people", "latin": "Kýrie, eléison.", "english": "Lord, have mercy." },
+		{ "type": "subheading", "id": "of-gloria-section", "text": "Gloria" },
+		{
+			"type": "prayer",
+			"id": "of-gloria",
+			"speaker": "all",
+			"latin": "Glória in excélsis Deo et in terra pax homínibus bonæ voluntátis.\nLaudámus te, benedícimus te, adorámus te, glorificámus te, grátias ágimus tibi propter magnam glóriam tuam, Dómine Deus, Rex cæléstis, Deus Pater omnípotens.\nDómine Fili Unigénite, Jesu Christe, Dómine Deus, Agnus Dei, Fílius Patris, qui tollis peccáta mundi, miserére nobis; qui tollis peccáta mundi, súscipe deprecatiónem nostram. Qui sedes ad déxteram Patris, miserére nobis.\nQuóniam tu solus Sanctus, tu solus Dóminus, tu solus Altíssimus, Jesu Christe, cum Sancto Spíritu: in glória Dei Patris. Amen.",
+			"english": "Glory to God in the highest, and on earth peace to people of good will.\nWe praise you, we bless you, we adore you, we glorify you, we give you thanks for your great glory, Lord God, heavenly King, O God, almighty Father.\nLord Jesus Christ, Only Begotten Son, Lord God, Lamb of God, Son of the Father, you take away the sins of the world, have mercy on us; you take away the sins of the world, receive our prayer; you are seated at the right hand of the Father, have mercy on us.\nFor you alone are the Holy One, you alone are the Lord, you alone are the Most High, Jesus Christ, with the Holy Spirit, in the glory of God the Father. Amen."
+		},
+		{ "type": "proper", "id": "of-collect", "slot": "collect", "description": "Collect of the day" },
+		{ "type": "divider" },
+		{ "type": "heading", "id": "of-liturgy-word", "text": "Liturgy of the Word" },
+		{ "type": "proper", "id": "of-first-reading", "slot": "first-reading", "description": "First Reading" },
+		{
+			"type": "prayer",
+			"id": "of-reading-end",
+			"speaker": "priest",
+			"latin": "Verbum Dómini.",
+			"english": "The word of the Lord."
+		},
+		{
+			"type": "prayer",
+			"id": "of-reading-end-r",
+			"speaker": "people",
+			"latin": "Deo grátias.",
+			"english": "Thanks be to God."
+		},
+		{ "type": "proper", "id": "of-responsorial-psalm", "slot": "responsorial-psalm", "description": "Responsorial Psalm" },
+		{ "type": "proper", "id": "of-second-reading", "slot": "second-reading", "description": "Second Reading (Sundays and Solemnities)" },
+		{ "type": "subheading", "id": "of-gospel-section", "text": "Gospel" },
+		{
+			"type": "prayer",
+			"id": "of-gospel-accl",
+			"speaker": "people",
+			"latin": "Allelúia.",
+			"english": "Alleluia."
+		},
+		{ "type": "proper", "id": "of-gospel-verse", "slot": "gospel-verse", "description": "Gospel Acclamation verse" },
+		{
+			"type": "prayer",
+			"id": "of-dominus-vobiscum-gospel",
+			"speaker": "priest",
+			"latin": "Dóminus vobíscum.",
+			"english": "The Lord be with you."
+		},
+		{
+			"type": "prayer",
+			"id": "of-dominus-vobiscum-gospel-r",
+			"speaker": "people",
+			"latin": "Et cum spíritu tuo.",
+			"english": "And with your spirit."
+		},
+		{
+			"type": "prayer",
+			"id": "of-lectio-evangelii",
+			"speaker": "priest",
+			"latin": "Léctio sancti Evangélii secúndum N.",
+			"english": "A reading from the holy Gospel according to N."
+		},
+		{
+			"type": "prayer",
+			"id": "of-lectio-evangelii-r",
+			"speaker": "people",
+			"latin": "Glória tibi, Dómine.",
+			"english": "Glory to you, O Lord."
+		},
+		{ "type": "proper", "id": "of-gospel", "slot": "gospel", "description": "Gospel of the day" },
+		{
+			"type": "prayer",
+			"id": "of-verbum-domini-gospel",
+			"speaker": "priest",
+			"latin": "Verbum Dómini.",
+			"english": "The Gospel of the Lord."
+		},
+		{
+			"type": "prayer",
+			"id": "of-verbum-domini-gospel-r",
+			"speaker": "people",
+			"latin": "Laus tibi, Christe.",
+			"english": "Praise to you, Lord Jesus Christ."
+		},
+		{ "type": "proper", "id": "of-homily", "slot": "homily", "description": "Homily" },
+		{ "type": "subheading", "id": "of-creed-section", "text": "Profession of Faith" },
+		{
+			"type": "options",
+			"id": "of-creed",
+			"label": "Creed",
+			"options": [
+				{
+					"id": "of-nicene",
+					"label": "Nicene Creed",
+					"sections": [
+						{
+							"type": "prayer",
+							"id": "of-nicene-creed",
+							"speaker": "all",
+							"latin": "Credo in unum Deum, Patrem omnipoténtem, factórem cæli et terræ, visibílium ómnium et invisibílium.\nEt in unum Dóminum Jesum Christum, Fílium Dei Unigénitum, et ex Patre natum ante ómnia sǽcula. Deum de Deo, lumen de lúmine, Deum verum de Deo vero, génitum, non factum, consubstantiálem Patri: per quem ómnia facta sunt. Qui propter nos hómines et propter nostram salútem descéndit de cælis. Et incarnátus est de Spíritu Sancto ex María Vírgine, et homo factus est. Crucifíxus étiam pro nobis sub Póntio Piláto; passus et sepúltus est, et resurréxit tértia die, secúndum Scriptúras, et ascéndit in cælum, sedet ad déxteram Patris. Et íterum ventúrus est cum glória, judicáre vivos et mórtuos, cujus regni non erit finis.\nEt in Spíritum Sanctum, Dóminum et vivificántem: qui ex Patre Filióque procédit. Qui cum Patre et Fílio simul adorátur et conglorificátur: qui locútus est per prophétas. Et unam, sanctam, cathólicam et apostólicam Ecclésiam. Confíteor unum baptísma in remissiónem peccatórum. Et exspécto resurrectiónem mortuórum, et vitam ventúri sǽculi. Amen.",
+							"english": "I believe in one God, the Father almighty, maker of heaven and earth, of all things visible and invisible.\nI believe in one Lord Jesus Christ, the Only Begotten Son of God, born of the Father before all ages. God from God, Light from Light, true God from true God, begotten, not made, consubstantial with the Father; through him all things were made. For us men and for our salvation he came down from heaven, and by the Holy Spirit was incarnate of the Virgin Mary, and became man. For our sake he was crucified under Pontius Pilate, he suffered death and was buried, and rose again on the third day in accordance with the Scriptures. He ascended into heaven and is seated at the right hand of the Father. He will come again in glory to judge the living and the dead and his kingdom will have no end.\nI believe in the Holy Spirit, the Lord, the giver of life, who proceeds from the Father and the Son, who with the Father and the Son is adored and glorified, who has spoken through the prophets. I believe in one, holy, catholic and apostolic Church. I confess one Baptism for the forgiveness of sins and I look forward to the resurrection of the dead and the life of the world to come. Amen."
+						}
+					]
+				},
+				{
+					"id": "of-apostles",
+					"label": "Apostles' Creed",
+					"sections": [
+						{
+							"type": "prayer",
+							"id": "of-apostles-creed",
+							"speaker": "all",
+							"latin": "Credo in Deum Patrem omnipoténtem, Creatórem cæli et terræ, et in Jesum Christum, Fílium Ejus únicum, Dóminum nostrum, qui concéptus est de Spíritu Sancto, natus ex María Vírgine, passus sub Póntio Piláto, crucifíxus, mórtuus, et sepúltus, descéndit ad ínferos, tértia die resurréxit a mórtuis, ascéndit ad cælos, sedet ad déxteram Dei Patris omnipoténtis, inde ventúrus est judicáre vivos et mórtuos. Credo in Spíritum Sanctum, sanctam Ecclésiam cathólicam, sanctórum communiónem, remissiónem peccatórum, carnis resurrectiónem, vitam ætérnam. Amen.",
+							"english": "I believe in God, the Father almighty, Creator of heaven and earth, and in Jesus Christ, his only Son, our Lord, who was conceived by the Holy Spirit, born of the Virgin Mary, suffered under Pontius Pilate, was crucified, died and was buried; he descended into hell; on the third day he rose again from the dead; he ascended into heaven, and is seated at the right hand of God the Father almighty; from there he will come to judge the living and the dead. I believe in the Holy Spirit, the holy catholic Church, the communion of saints, the forgiveness of sins, the resurrection of the body, and life everlasting. Amen."
+						}
+					]
+				}
+			]
+		},
+		{ "type": "proper", "id": "of-universal-prayer", "slot": "universal-prayer", "description": "Prayer of the Faithful" },
+		{ "type": "divider" },
+		{ "type": "heading", "id": "of-liturgy-eucharist", "text": "Liturgy of the Eucharist" },
+		{ "type": "subheading", "id": "of-preparation-gifts", "text": "Preparation of the Gifts" },
+		{
+			"type": "prayer",
+			"id": "of-blessed-bread",
+			"speaker": "priest",
+			"latin": "Benedíctus es, Dómine, Deus univérsi, quia de tua largitáte accépimus panem, quem tibi offérimus, fructum terræ et óperis mánuum hóminum: ex quo nobis fiet panis vitæ.",
+			"english": "Blessed are you, Lord God of all creation, for through your goodness we have received the bread we offer you: fruit of the earth and work of human hands, it will become for us the bread of life."
+		},
+		{
+			"type": "prayer",
+			"id": "of-blessed-bread-r",
+			"speaker": "people",
+			"latin": "Benedíctus Deus in sǽcula.",
+			"english": "Blessed be God for ever."
+		},
+		{
+			"type": "prayer",
+			"id": "of-per-mysterium",
+			"speaker": "priest",
+			"latin": "Per hujus aquæ et vini mystérium ejus efficiámur divinitátis consórtes, qui humanitátis nostræ fíeri dignátus est párticeps.",
+			"english": "By the mystery of this water and wine may we come to share in the divinity of Christ who humbled himself to share in our humanity."
+		},
+		{
+			"type": "prayer",
+			"id": "of-blessed-wine",
+			"speaker": "priest",
+			"latin": "Benedíctus es, Dómine, Deus univérsi, quia de tua largitáte accépimus vinum, quod tibi offérimus, fructum vitis et óperis mánuum hóminum: ex quo nobis fiet potus spiritális.",
+			"english": "Blessed are you, Lord God of all creation, for through your goodness we have received the wine we offer you: fruit of the vine and work of human hands, it will become our spiritual drink."
+		},
+		{
+			"type": "prayer",
+			"id": "of-blessed-wine-r",
+			"speaker": "people",
+			"latin": "Benedíctus Deus in sǽcula.",
+			"english": "Blessed be God for ever."
+		},
+		{
+			"type": "prayer",
+			"id": "of-in-spiritu",
+			"speaker": "priest",
+			"latin": "In spíritu humilitátis et in ánimo contríto suscipiámur a te, Dómine; et sic fiat sacrifícium nostrum in conspéctu tuo hódie, ut pláceat tibi, Dómine Deus.",
+			"english": "With humble spirit and contrite heart may we be accepted by you, O Lord, and may our sacrifice in your sight this day be pleasing to you, Lord God."
+		},
+		{
+			"type": "prayer",
+			"id": "of-lavabo",
+			"speaker": "priest",
+			"latin": "Lava me, Dómine, ab iniquitáte mea, et a peccáto meo munda me.",
+			"english": "Wash me, O Lord, from my iniquity and cleanse me from my sin."
+		},
+		{
+			"type": "prayer",
+			"id": "of-orate-fratres",
+			"speaker": "priest",
+			"latin": "Oráte, fratres: ut meum ac vestrum sacrifícium acceptábile fiat apud Deum Patrem omnipoténtem.",
+			"english": "Pray, brethren, that my sacrifice and yours may be acceptable to God, the almighty Father."
+		},
+		{
+			"type": "prayer",
+			"id": "of-suscipiat",
+			"speaker": "people",
+			"latin": "Suscípiat Dóminus sacrifícium de mánibus tuis ad laudem et glóriam nóminis sui, ad utilitátem quoque nostram totiúsque Ecclésiæ suæ sanctæ.",
+			"english": "May the Lord accept the sacrifice at your hands for the praise and glory of his name, for our good and the good of all his holy Church."
+		},
+		{ "type": "proper", "id": "of-prayer-offerings", "slot": "prayer-over-offerings", "description": "Prayer over the Offerings" },
+		{ "type": "subheading", "id": "of-preface-section", "text": "Preface Dialogue" },
+		{
+			"type": "prayer",
+			"id": "of-dominus-vobiscum-preface",
+			"speaker": "priest",
+			"latin": "Dóminus vobíscum.",
+			"english": "The Lord be with you."
+		},
+		{ "type": "prayer", "id": "of-et-cum-preface", "speaker": "people", "latin": "Et cum spíritu tuo.", "english": "And with your spirit." },
+		{
+			"type": "prayer",
+			"id": "of-sursum-corda",
+			"speaker": "priest",
+			"latin": "Sursum corda.",
+			"english": "Lift up your hearts."
+		},
+		{ "type": "prayer", "id": "of-habemus", "speaker": "people", "latin": "Habémus ad Dóminum.", "english": "We lift them up to the Lord." },
+		{
+			"type": "prayer",
+			"id": "of-gratias-agamus",
+			"speaker": "priest",
+			"latin": "Grátias agámus Dómino Deo nostro.",
+			"english": "Let us give thanks to the Lord our God."
+		},
+		{ "type": "prayer", "id": "of-dignum", "speaker": "people", "latin": "Dignum et justum est.", "english": "It is right and just." },
+		{ "type": "proper", "id": "of-preface-text", "slot": "preface", "description": "Preface of the day" },
+		{
+			"type": "prayer",
+			"id": "of-sanctus",
+			"speaker": "all",
+			"latin": "Sanctus, Sanctus, Sanctus Dóminus Deus Sábaoth.\nPleni sunt cæli et terra glória tua.\nHosánna in excélsis.\nBenedíctus qui venit in nómine Dómini.\nHosánna in excélsis.",
+			"english": "Holy, Holy, Holy Lord God of hosts.\nHeaven and earth are full of your glory.\nHosanna in the highest.\nBlessed is he who comes in the name of the Lord.\nHosanna in the highest."
+		},
+		{ "type": "divider" },
+		{
+			"type": "options",
+			"id": "of-eucharistic-prayer",
+			"label": "Eucharistic Prayer",
+			"options": [
+				{
+					"id": "of-ep2",
+					"label": "EP II",
+					"sections": [
+						{ "type": "rubric", "text": "Eucharistic Prayer II has its own Preface, but may also be used with other Prefaces." },
+						{
+							"type": "prayer",
+							"id": "of-ep2-vere-sanctus",
+							"speaker": "priest",
+							"latin": "Vere Sanctus es, Dómine, fons omnis sanctitátis.",
+							"english": "You are indeed Holy, O Lord, the fount of all holiness."
+						},
+						{
+							"type": "prayer",
+							"id": "of-ep2-epiclesis",
+							"speaker": "priest",
+							"latin": "Hæc ergo dona, quǽsumus, Spíritus tui rore sanctífica, ut nobis Corpus et Sanguis fiant Dómini nostri Jesu Christi.",
+							"english": "Make holy, therefore, these gifts, we pray, by sending down your Spirit upon them like the dewfall, so that they may become for us the Body and Blood of our Lord Jesus Christ."
+						},
+						{
+							"type": "prayer",
+							"id": "of-ep2-institution-bread",
+							"speaker": "priest",
+							"latin": "Qui cum Passióni voluntárie traderétur, accépit panem et, grátias agens, fregit, dedítque discípulis suis, dicens:\nACCÍPITE ET MANDUCÁTE EX HOC OMNES:\nHOC EST ENIM CORPUS MEUM,\nQUOD PRO VOBIS TRADÉTUR.",
+							"english": "At the time he was betrayed and entered willingly into his Passion, he took bread and, giving thanks, broke it, and gave it to his disciples, saying:\nTAKE THIS, ALL OF YOU, AND EAT OF IT,\nFOR THIS IS MY BODY,\nWHICH WILL BE GIVEN UP FOR YOU."
+						},
+						{
+							"type": "prayer",
+							"id": "of-ep2-institution-cup",
+							"speaker": "priest",
+							"latin": "Símili modo, postquam cenátum est, accípiens et cálicem, íterum grátias agens, dedit discípulis suis, dicens:\nACCÍPITE ET BÍBITE EX EO OMNES:\nHIC EST ENIM CALIX SÁNGUINIS MEI\nNOVI ET ÆTÉRNI TESTAMÉNTI,\nQUI PRO VOBIS ET PRO MULTIS EFFUNDÉTUR\nIN REMISSIÓNEM PECCATÓRUM.\nHOC FÁCITE IN MEAM COMMEMORATIÓNEM.",
+							"english": "In a similar way, when supper was ended, he took the chalice and, once more giving thanks, he gave it to his disciples, saying:\nTAKE THIS, ALL OF YOU, AND DRINK FROM IT,\nFOR THIS IS THE CHALICE OF MY BLOOD,\nTHE BLOOD OF THE NEW AND ETERNAL COVENANT,\nWHICH WILL BE POURED OUT FOR YOU AND FOR MANY\nFOR THE FORGIVENESS OF SINS.\nDO THIS IN REMEMBRANCE OF ME."
+						},
+						{
+							"type": "prayer",
+							"id": "of-ep2-mysterium",
+							"speaker": "priest",
+							"latin": "Mystérium fídei.",
+							"english": "The mystery of faith."
+						},
+						{
+							"type": "options",
+							"id": "of-memorial-accl",
+							"label": "Memorial Acclamation",
+							"options": [
+								{
+									"id": "of-memorial-a",
+									"label": "A",
+									"sections": [{
+										"type": "prayer",
+										"id": "of-memorial-a-text",
+										"speaker": "people",
+										"latin": "Mortem tuam annuntiámus, Dómine, et tuam resurrectiónem confitémur, donec vénias.",
+										"english": "We proclaim your Death, O Lord, and profess your Resurrection until you come again."
+									}]
+								},
+								{
+									"id": "of-memorial-b",
+									"label": "B",
+									"sections": [{
+										"type": "prayer",
+										"id": "of-memorial-b-text",
+										"speaker": "people",
+										"latin": "Quotiescúmque manducámus panem hunc et cálicem bíbimus, mortem tuam annuntiámus, Dómine, donec vénias.",
+										"english": "When we eat this Bread and drink this Cup, we proclaim your Death, O Lord, until you come again."
+									}]
+								},
+								{
+									"id": "of-memorial-c",
+									"label": "C",
+									"sections": [{
+										"type": "prayer",
+										"id": "of-memorial-c-text",
+										"speaker": "people",
+										"latin": "Salvátor mundi, salva nos, qui per crucem et resurrectiónem tuam liberásti nos.",
+										"english": "Save us, Saviour of the world, for by your Cross and Resurrection you have set us free."
+									}]
+								}
+							]
+						},
+						{
+							"type": "prayer",
+							"id": "of-ep2-anamnesis",
+							"speaker": "priest",
+							"latin": "Mémores ígitur mortis et resurrectiónis ejus, tibi, Dómine, panem vitæ et cálicem salútis offérimus, grátias agéntes quia nos dignos habuísti astáre coram te et tibi ministráre.",
+							"english": "Therefore, as we celebrate the memorial of his Death and Resurrection, we offer you, Lord, the Bread of life and the Chalice of salvation, giving thanks that you have held us worthy to be in your presence and minister to you."
+						},
+						{
+							"type": "prayer",
+							"id": "of-ep2-epiclesis-2",
+							"speaker": "priest",
+							"latin": "Et súpplices deprecámur ut Córporis et Sánguinis Christi partícipes a Spíritu Sancto congregémur in unum.",
+							"english": "Humbly we pray that, partaking of the Body and Blood of Christ, we may be gathered into one by the Holy Spirit."
+						},
+						{
+							"type": "prayer",
+							"id": "of-ep2-intercessions",
+							"speaker": "priest",
+							"latin": "Recordáre, Dómine, Ecclésiæ tuæ toto orbe diffúsæ, ut eam in caritáte perfícias una cum Papa nostro N. et Epíscopo nostro N. et univérso clero.\nMeménto étiam fratrum nostrórum, qui in spe resurrectiónis dormiérunt, omniúmque in tua miseratióne defunctórum, et eos in lumen vultus tui admítte.\nOmnium nostrum, quǽsumus, miserére, ut cum beáta Dei Genitrícce Vírgine María, beátis Apóstolis et ómnibus Sanctis, qui tibi a sǽculo placuérunt, ætérnæ vitæ mereámur esse consórtes, et te laudémus et glorificémus per Fílium tuum Jesum Christum.",
+							"english": "Remember, Lord, your Church, spread throughout the world, and bring her to the fullness of charity, together with N. our Pope and N. our Bishop and all the clergy.\nRemember also our brothers and sisters who have fallen asleep in the hope of the resurrection, and all who have died in your mercy: welcome them into the light of your face.\nHave mercy on us all, we pray, that with the Blessed Virgin Mary, Mother of God, with the blessed Apostles, and all the Saints who have pleased you throughout the ages, we may merit to be coheirs to eternal life, and may praise and glorify you through your Son, Jesus Christ."
+						},
+						{
+							"type": "prayer",
+							"id": "of-ep2-doxology",
+							"speaker": "priest",
+							"latin": "Per ipsum, et cum ipso, et in ipso, est tibi Deo Patri omnipoténti, in unitáte Spíritus Sancti, omnis honor et glória per ómnia sǽcula sæculórum.",
+							"english": "Through him, and with him, and in him, O God, almighty Father, in the unity of the Holy Spirit, all glory and honor is yours, for ever and ever."
+						},
+						{ "type": "prayer", "id": "of-ep2-amen", "speaker": "people", "latin": "Amen.", "english": "Amen." }
+					]
+				},
+				{
+					"id": "of-ep3",
+					"label": "EP III",
+					"sections": [
+						{
+							"type": "prayer",
+							"id": "of-ep3-vere-sanctus",
+							"speaker": "priest",
+							"latin": "Vere Sanctus es, Dómine, et mérito te laudat omnis a te cóndita creatúra, quia per Fílium tuum, Dóminum nostrum Jesum Christum, Spíritus Sancti operánte virtúte, vivíficas et sanctíficas univérsa, et pópulum tibi congregáre non désinis, ut a solis ortu usque ad occásum oblátio munda offerátur nómini tuo.",
+							"english": "You are indeed Holy, O Lord, and all you have created rightly gives you praise, for through your Son our Lord Jesus Christ, by the power and working of the Holy Spirit, you give life to all things and make them holy, and you never cease to gather a people to yourself, so that from the rising of the sun to its setting a pure sacrifice may be offered to your name."
+						},
+						{
+							"type": "prayer",
+							"id": "of-ep3-epiclesis",
+							"speaker": "priest",
+							"latin": "Súpplices ergo te, Dómine, deprecámur, ut hæc múnera, quæ tibi sacránda detúlimus, eódem Spíritu sanctificáre dignéris, ut Corpus et Sanguis fiant Fílii tui Dómini nostri Jesu Christi, cujus mandáto hæc mystéria celebrámus.",
+							"english": "Therefore, O Lord, we humbly implore you: by the same Spirit graciously make holy these gifts we have brought to you for consecration, that they may become the Body and Blood of your Son our Lord Jesus Christ, at whose command we celebrate these mysteries."
+						},
+						{
+							"type": "prayer",
+							"id": "of-ep3-institution-bread",
+							"speaker": "priest",
+							"latin": "Ipse enim in qua nocte tradebátur accépit panem et tibi grátias agens benedíxit, fregit, dedítque discípulis suis, dicens:\nACCÍPITE ET MANDUCÁTE EX HOC OMNES:\nHOC EST ENIM CORPUS MEUM,\nQUOD PRO VOBIS TRADÉTUR.",
+							"english": "For on the night he was betrayed he himself took bread, and, giving you thanks, he said the blessing, broke the bread and gave it to his disciples, saying:\nTAKE THIS, ALL OF YOU, AND EAT OF IT,\nFOR THIS IS MY BODY,\nWHICH WILL BE GIVEN UP FOR YOU."
+						},
+						{
+							"type": "prayer",
+							"id": "of-ep3-institution-cup",
+							"speaker": "priest",
+							"latin": "Símili modo, postquam cenátum est, accípiens cálicem, et tibi grátias agens benedíxit, dedítque discípulis suis, dicens:\nACCÍPITE ET BÍBITE EX EO OMNES:\nHIC EST ENIM CALIX SÁNGUINIS MEI\nNOVI ET ÆTÉRNI TESTAMÉNTI,\nQUI PRO VOBIS ET PRO MULTIS EFFUNDÉTUR\nIN REMISSIÓNEM PECCATÓRUM.\nHOC FÁCITE IN MEAM COMMEMORATIÓNEM.",
+							"english": "In a similar way, when supper was ended, he took the chalice, and, giving you thanks, he said the blessing, and gave the chalice to his disciples, saying:\nTAKE THIS, ALL OF YOU, AND DRINK FROM IT,\nFOR THIS IS THE CHALICE OF MY BLOOD,\nTHE BLOOD OF THE NEW AND ETERNAL COVENANT,\nWHICH WILL BE POURED OUT FOR YOU AND FOR MANY\nFOR THE FORGIVENESS OF SINS.\nDO THIS IN REMEMBRANCE OF ME."
+						},
+						{
+							"type": "prayer",
+							"id": "of-ep3-mysterium",
+							"speaker": "priest",
+							"latin": "Mystérium fídei.",
+							"english": "The mystery of faith."
+						},
+						{ "type": "rubric", "text": "Memorial Acclamation (as above)" },
+						{
+							"type": "prayer",
+							"id": "of-ep3-anamnesis",
+							"speaker": "priest",
+							"latin": "Mémores ígitur, Dómine, ejúsdem Fílii tui salutíferæ passiónis necnon et ab ínferis resurrectiónis, sed et in cælos gloriósæ ascensiónis, offérimus tibi, grátias referéntes, hoc sacrifícium vivum et sanctum.",
+							"english": "Therefore, O Lord, as we celebrate the memorial of the saving Passion of your Son, his wondrous Resurrection and Ascension into heaven, and as we look forward to his second coming, we offer you in thanksgiving this holy and living sacrifice."
+						},
+						{
+							"type": "prayer",
+							"id": "of-ep3-epiclesis-2",
+							"speaker": "priest",
+							"latin": "Réspice, quǽsumus, in oblatiónem Ecclésiæ tuæ et, agnóscens Hóstiam, cujus voluísti immolatióne placári, concéde, ut qui Córpore et Sánguine Fílii tui refícimur, Spíritu ejus Sancto repléti, unum corpus et unus spíritus inveniámur in Christo.",
+							"english": "Look, we pray, upon the oblation of your Church, and, recognizing the sacrificial Victim by whose death you willed to reconcile us to yourself, grant that we, who are nourished by the Body and Blood of your Son and filled with his Holy Spirit, may become one body, one spirit in Christ."
+						},
+						{
+							"type": "prayer",
+							"id": "of-ep3-intercessions",
+							"speaker": "priest",
+							"latin": "Ipse nos tibi perfíciat munus ætérnum, ut cum eléctis tuis hereditátem cónsequi valeámus, in primis cum beatíssima Vírgine, Dei Genitrícce, María, cum beátis Apóstolis tuis et gloriósis Martýribus et ómnibus Sanctis, quorum intercessióne perpétuo apud te confídimus adjuvári.\nHæc Hóstia nostræ reconciliatiónis profíciat, quǽsumus, Dómine, ad totíus mundi pacem atque salútem. Ecclésiam tuam, peregrinántem in terra, in fide et caritáte firmáre dignéris cum fámulo tuo Papa nostro N. et Epíscopo nostro N., cum episcopáli órdine et univérso clero et omni pópulo acquisitiónis tuæ.\nMeménto étiam fratrum nostrórum, qui in spe resurrectiónis dormiérunt, omniúmque in tua miseratióne defunctórum, et eos in lumen vultus tui admítte. Omnium nostrum, quǽsumus, miserére, ut cum beáta Dei Genetrícce Vírgine María, beátis Apóstolis et ómnibus Sanctis, qui tibi a sǽculo placuérunt, ætérnæ vitæ mereámur esse consórtes, et te laudémus et glorificémus per Fílium tuum Jesum Christum.",
+							"english": "May he make of us an eternal offering to you, so that we may obtain an inheritance with your elect, especially with the most Blessed Virgin Mary, Mother of God, with your blessed Apostles and glorious Martyrs and with all the Saints, on whose constant intercession in your presence we rely for unfailing help.\nMay this Sacrifice of our reconciliation, we pray, O Lord, advance the peace and salvation of all the world. Be pleased to confirm in faith and charity your pilgrim Church on earth, with your servant N. our Pope and N. our Bishop, the Order of Bishops, all the clergy, and the entire people you have gained for your own.\nRemember also our brothers and sisters who have fallen asleep in the hope of the resurrection, and all who have died in your mercy: welcome them into the light of your face. Have mercy on us all, we pray, that with the Blessed Virgin Mary, Mother of God, with the blessed Apostles, and all the Saints who have pleased you throughout the ages, we may merit to be coheirs to eternal life, and may praise and glorify you through your Son, Jesus Christ."
+						},
+						{
+							"type": "prayer",
+							"id": "of-ep3-doxology",
+							"speaker": "priest",
+							"latin": "Per ipsum, et cum ipso, et in ipso, est tibi Deo Patri omnipoténti, in unitáte Spíritus Sancti, omnis honor et glória per ómnia sǽcula sæculórum.",
+							"english": "Through him, and with him, and in him, O God, almighty Father, in the unity of the Holy Spirit, all glory and honor is yours, for ever and ever."
+						},
+						{ "type": "prayer", "id": "of-ep3-amen", "speaker": "people", "latin": "Amen.", "english": "Amen." }
+					]
+				},
+				{
+					"id": "of-ep1",
+					"label": "EP I (Roman Canon)",
+					"sections": [
+						{ "type": "rubric", "text": "The Roman Canon — the most ancient Eucharistic Prayer of the Roman Rite. Same text as in the Extraordinary Form." },
+						{ "type": "proper", "id": "of-ep1-full", "slot": "ep1", "description": "See Extraordinary Form for the full text of the Roman Canon (Te igitur through Per ipsum)." }
+					]
+				},
+				{
+					"id": "of-ep4",
+					"label": "EP IV",
+					"sections": [
+						{ "type": "rubric", "text": "Eucharistic Prayer IV has a fixed Preface and provides a broad summary of salvation history. It may not be used with another Preface." },
+						{ "type": "proper", "id": "of-ep4-full", "slot": "ep4", "description": "Eucharistic Prayer IV (with its own Preface)" }
+					]
+				}
+			]
+		},
+		{ "type": "divider" },
+		{ "type": "heading", "id": "of-communion-rite", "text": "Communion Rite" },
+		{ "type": "subheading", "id": "of-pater-noster-section", "text": "The Lord's Prayer" },
+		{
+			"type": "prayer",
+			"id": "of-pater-noster",
+			"speaker": "all",
+			"latin": "Pater noster, qui es in cælis:\nsanctificétur nomen tuum;\nadvéniat regnum tuum;\nfiat volúntas tua, sicut in cælo, et in terra.\nPanem nostrum cotidiánum da nobis hódie;\net dimítte nobis débita nostra,\nsicut et nos dimíttimus debitóribus nostris;\net ne nos indúcas in tentatiónem;\nsed líbera nos a malo.",
+			"english": "Our Father, who art in heaven,\nhallowed be thy name;\nthy kingdom come,\nthy will be done on earth as it is in heaven.\nGive us this day our daily bread,\nand forgive us our trespasses,\nas we forgive those who trespass against us;\nand lead us not into temptation,\nbut deliver us from evil."
+		},
+		{
+			"type": "prayer",
+			"id": "of-embolism",
+			"speaker": "priest",
+			"latin": "Líbera nos, quǽsumus, Dómine, ab ómnibus malis, da propítius pacem in diébus nostris, ut, ope misericórdiæ tuæ adjúti, et a peccáto simus semper líberi et ab omni perturbatióne secúri: exspectántes beátam spem et advéntum Salvatóris nostri Jesu Christi.",
+			"english": "Deliver us, Lord, we pray, from every evil, graciously grant peace in our days, that, by the help of your mercy, we may be always free from sin and safe from all distress, as we await the blessed hope and the coming of our Saviour, Jesus Christ."
+		},
+		{
+			"type": "prayer",
+			"id": "of-doxology",
+			"speaker": "people",
+			"latin": "Quia tuum est regnum, et potéstas, et glória in sǽcula.",
+			"english": "For the kingdom, the power and the glory are yours now and for ever."
+		},
+		{ "type": "subheading", "id": "of-peace-section", "text": "Sign of Peace" },
+		{
+			"type": "prayer",
+			"id": "of-peace-prayer",
+			"speaker": "priest",
+			"latin": "Dómine Jesu Christe, qui dixísti Apóstolis tuis: Pacem relínquo vobis, pacem meam do vobis: ne respícias peccáta nostra, sed fidem Ecclésiæ tuæ; eámque secúndum voluntátem tuam pacificáre et coadunáre dignéris. Qui vivis et regnas in sǽcula sæculórum.",
+			"english": "Lord Jesus Christ, who said to your Apostles: Peace I leave you, my peace I give you, look not on our sins, but on the faith of your Church, and graciously grant her peace and unity in accordance with your will. Who live and reign for ever and ever."
+		},
+		{ "type": "prayer", "id": "of-peace-amen", "speaker": "people", "latin": "Amen.", "english": "Amen." },
+		{
+			"type": "prayer",
+			"id": "of-pax-domini",
+			"speaker": "priest",
+			"latin": "Pax Dómini sit semper vobíscum.",
+			"english": "The peace of the Lord be with you always."
+		},
+		{ "type": "prayer", "id": "of-pax-r", "speaker": "people", "latin": "Et cum spíritu tuo.", "english": "And with your spirit." },
+		{ "type": "rubric", "text": "The Deacon, or the Priest, may add: Let us offer each other the sign of peace." },
+		{ "type": "subheading", "id": "of-agnus-section", "text": "Agnus Dei" },
+		{
+			"type": "prayer",
+			"id": "of-agnus-dei",
+			"speaker": "all",
+			"latin": "Agnus Dei, qui tollis peccáta mundi: miserére nobis.\nAgnus Dei, qui tollis peccáta mundi: miserére nobis.\nAgnus Dei, qui tollis peccáta mundi: dona nobis pacem.",
+			"english": "Lamb of God, you take away the sins of the world, have mercy on us.\nLamb of God, you take away the sins of the world, have mercy on us.\nLamb of God, you take away the sins of the world, grant us peace."
+		},
+		{ "type": "subheading", "id": "of-communion-section", "text": "Communion" },
+		{
+			"type": "prayer",
+			"id": "of-ecce-agnus",
+			"speaker": "priest",
+			"latin": "Ecce Agnus Dei, ecce qui tollit peccáta mundi. Beáti qui ad cenam Agni vocáti sunt.",
+			"english": "Behold the Lamb of God, behold him who takes away the sins of the world. Blessed are those called to the supper of the Lamb."
+		},
+		{
+			"type": "prayer",
+			"id": "of-domine-non-sum-dignus",
+			"speaker": "all",
+			"latin": "Dómine, non sum dignus, ut intres sub tectum meum: sed tantum dic verbo, et sanábitur ánima mea.",
+			"english": "Lord, I am not worthy that you should enter under my roof, but only say the word and my soul shall be healed."
+		},
+		{ "type": "proper", "id": "of-communion-antiphon", "slot": "communion", "description": "Communion Antiphon" },
+		{ "type": "proper", "id": "of-prayer-after-communion", "slot": "prayer-after-communion", "description": "Prayer after Communion" },
+		{ "type": "divider" },
+		{ "type": "heading", "id": "of-concluding-rites", "text": "Concluding Rites" },
+		{
+			"type": "prayer",
+			"id": "of-dominus-vobiscum-end",
+			"speaker": "priest",
+			"latin": "Dóminus vobíscum.",
+			"english": "The Lord be with you."
+		},
+		{ "type": "prayer", "id": "of-et-cum-end", "speaker": "people", "latin": "Et cum spíritu tuo.", "english": "And with your spirit." },
+		{
+			"type": "prayer",
+			"id": "of-blessing",
+			"speaker": "priest",
+			"latin": "Benedícat vos omnípotens Deus, Pater, et Fílius, ✠ et Spíritus Sanctus.",
+			"english": "May almighty God bless you, the Father, and the Son, ✠ and the Holy Spirit."
+		},
+		{ "type": "prayer", "id": "of-blessing-r", "speaker": "people", "latin": "Amen.", "english": "Amen." },
+		{
+			"type": "options",
+			"id": "of-dismissal",
+			"label": "Dismissal",
+			"options": [
+				{
+					"id": "of-dismiss-a",
+					"label": "Form A",
+					"sections": [
+						{ "type": "prayer", "id": "of-dismiss-a-v", "speaker": "priest", "latin": "Ite, ad Evangélium Dómini annuntiándum.", "english": "Go and announce the Gospel of the Lord." },
+						{ "type": "prayer", "id": "of-dismiss-a-r", "speaker": "people", "latin": "Deo grátias.", "english": "Thanks be to God." }
+					]
+				},
+				{
+					"id": "of-dismiss-b",
+					"label": "Form B",
+					"sections": [
+						{ "type": "prayer", "id": "of-dismiss-b-v", "speaker": "priest", "latin": "Ite in pace, glorificándo vita vestra Dóminum.", "english": "Go in peace, glorifying the Lord by your life." },
+						{ "type": "prayer", "id": "of-dismiss-b-r", "speaker": "people", "latin": "Deo grátias.", "english": "Thanks be to God." }
+					]
+				},
+				{
+					"id": "of-dismiss-c",
+					"label": "Form C",
+					"sections": [
+						{ "type": "prayer", "id": "of-dismiss-c-v", "speaker": "priest", "latin": "Ite in pace.", "english": "Go in peace." },
+						{ "type": "prayer", "id": "of-dismiss-c-r", "speaker": "people", "latin": "Deo grátias.", "english": "Thanks be to God." }
+					]
+				},
+				{
+					"id": "of-dismiss-d",
+					"label": "Form D",
+					"sections": [
+						{ "type": "prayer", "id": "of-dismiss-d-v", "speaker": "priest", "latin": "Ite, missa est.", "english": "Go forth, the Mass is ended." },
+						{ "type": "prayer", "id": "of-dismiss-d-r", "speaker": "people", "latin": "Deo grátias.", "english": "Thanks be to God." }
+					]
+				}
+			]
+		}
+	]
+}

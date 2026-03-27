@@ -107,6 +107,21 @@ Implementation tasks for Ember MVP, ordered by dependency. Each phase builds on 
 - [x] Office completion status for today (icons showing which hours are done)
 - [x] Quick reading progress summary
 
+## Phase 9a: Ordo Missae ✅
+
+- [x] Bundle Extraordinary Form (TLM 1962) ordinary prayers as JSON in `src/assets/mass/`
+- [x] Bundle Ordinary Form (Novus Ordo, 2011 translation) ordinary prayers as JSON
+- [x] Content model with heading, prayer, rubric, proper (slot), options types
+- [x] `src/features/mass/` — content loader, MassScreen, MassSection components
+- [x] `/mass` route with form toggle (OF/EF), persisted via preferencesStore
+- [x] Bilingual rendering (English primary, Latin italic secondary)
+- [x] People's responses styled distinctly (bold, `R.` indicator)
+- [x] Proper slots as dashed-border placeholders for future lectionary integration
+- [x] Options selector for Eucharistic Prayers, Penitential Act forms, etc.
+- [x] Home screen NavigationMedallion entry ("Holy Mass" / "Santa Missa")
+- [x] i18n keys for en + pt-BR
+- [x] Feature doc at `docs/features/mass.md`
+
 ## Phase 9: Polish
 
 - [ ] Animations (Moti) — fade transitions between screens, subtle checkbox toggle animation, green wall cell fade-in with staggered delay
