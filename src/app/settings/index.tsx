@@ -5,6 +5,7 @@ import { Pressable } from 'react-native'
 import { Text, XStack, YStack } from 'tamagui'
 
 import { HeaderFlourish, ProgressBar, ScreenLayout, SectionDivider } from '@/components'
+import { ReadingConfig } from '@/components/ReadingConfigModal'
 import { readingFonts } from '@/config/readingFonts'
 import type { ReadingProgress } from '@/db/schema'
 import { TranslationModal } from '@/features/bible/components/TranslationModal'
@@ -286,97 +287,7 @@ export default function SettingsScreen() {
             Reading
           </Text>
 
-          <YStack gap="$xs">
-            <Text fontFamily="$body" fontSize="$2" color="$color">
-              Font
-            </Text>
-            {readingFonts.map((f) => {
-              const selected = rc.fontFamily === f.id
-              return (
-                <Pressable key={f.id} onPress={() => rc.setFontFamily(f.id)}>
-                  <XStack
-                    backgroundColor={selected ? '$accent' : '$backgroundSurface'}
-                    borderRadius="$lg"
-                    padding="$sm"
-                    paddingHorizontal="$md"
-                    alignItems="center"
-                    justifyContent="space-between"
-                  >
-                    <YStack>
-                      <Text
-                        fontFamily={f.family as '$body'}
-                        fontSize="$3"
-                        color={selected ? '$background' : '$color'}
-                      >
-                        {f.label}
-                      </Text>
-                      <Text
-                        fontFamily="$body"
-                        fontSize="$1"
-                        color={selected ? '$background' : '$colorSecondary'}
-                        opacity={selected ? 0.8 : 1}
-                      >
-                        {f.description}
-                      </Text>
-                    </YStack>
-                  </XStack>
-                </Pressable>
-              )
-            })}
-          </YStack>
-
-          <YStack gap="$sm">
-            <Stepper
-              label="Font Size"
-              displayValue={String(readingScale.fontSize[rc.fontSizeStep - 1])}
-              onDecrement={() => rc.setFontSizeStep(rc.fontSizeStep - 1)}
-              onIncrement={() => rc.setFontSizeStep(rc.fontSizeStep + 1)}
-              decrementDisabled={rc.fontSizeStep <= 1}
-              incrementDisabled={rc.fontSizeStep >= 5}
-            />
-            <Stepper
-              label="Line Spacing"
-              displayValue={String(readingScale.lineHeight[rc.lineHeightStep - 1])}
-              onDecrement={() => rc.setLineHeightStep(rc.lineHeightStep - 1)}
-              onIncrement={() => rc.setLineHeightStep(rc.lineHeightStep + 1)}
-              decrementDisabled={rc.lineHeightStep <= rc.fontSizeStep}
-              incrementDisabled={rc.lineHeightStep >= 5}
-            />
-          </YStack>
-
-          <PillSelector
-            label="Text Alignment"
-            options={[
-              { value: 'left' as const, label: 'Left' },
-              { value: 'justify' as const, label: 'Justify' },
-            ]}
-            value={rc.textAlign}
-            onChange={rc.setTextAlign}
-          />
-
-          <PillSelector
-            label="Margins"
-            options={[
-              { value: 'narrow' as const, label: 'Narrow' },
-              { value: 'normal' as const, label: 'Normal' },
-              { value: 'wide' as const, label: 'Wide' },
-            ]}
-            value={rc.margin}
-            onChange={rc.setMargin}
-          />
-
-          <YStack
-            backgroundColor="$backgroundSurface"
-            borderRadius="$lg"
-            padding="$md"
-            paddingHorizontal={readingMargin}
-          >
-            <Text color="$color" {...readingStyle}>
-              Hail Mary, full of grace, the Lord is with thee. Blessed art thou amongst women, and
-              blessed is the fruit of thy womb, Jesus. Holy Mary, Mother of God, pray for us
-              sinners, now and at the hour of our death. Amen.
-            </Text>
-          </YStack>
+          <ReadingConfig />
         </YStack>
 
         <SectionDivider />
