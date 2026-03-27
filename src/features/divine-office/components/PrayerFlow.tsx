@@ -1,11 +1,12 @@
 // biome-ignore-all lint/suspicious/noArrayIndexKey: static prayer text lines never reorder
-import { format } from 'date-fns'
 import { useRouter } from 'expo-router'
 import { ChevronLeft } from 'lucide-react-native'
+import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
 import { Spinner, Text, useTheme, XStack, YStack } from 'tamagui'
 
 import {
+  AnimatedPressable,
   DropCap,
   HeaderFlourish,
   IlluminatedInitial,
@@ -19,6 +20,8 @@ import {
 } from '@/components'
 import { useReadingMargin } from '@/hooks/useReadingStyle'
 import type { Verse } from '@/lib/content'
+import { successBuzz } from '@/lib/haptics'
+import { formatLocalized } from '@/lib/i18n/dateLocale'
 import { cccDailyCount, type OfficeHour, type PrayerSection, readingTypeForHour } from '../engine'
 import {
   type PsalmData,
@@ -29,13 +32,14 @@ import {
 } from '../hooks'
 import { formatPsalmRef } from '../psalter'
 
-const hourLabels: Record<OfficeHour, string> = {
-  morning: 'Morning Prayer',
-  evening: 'Evening Prayer',
-  compline: 'Night Prayer',
+const hourLabelKeys: Record<OfficeHour, string> = {
+  morning: 'office.morningPrayer',
+  evening: 'office.eveningPrayer',
+  compline: 'office.nightPrayer',
 }
 
 export function PrayerFlow({ hour, date }: { hour: OfficeHour; date: string }) {
+  const { t } = useTranslation()
   const router = useRouter()
   const theme = useTheme()
 
@@ -46,7 +50,7 @@ export function PrayerFlow({ hour, date }: { hour: OfficeHour; date: string }) {
   const { data: status } = useDailyOfficeStatus(date)
 
   const isCompleted = status?.[hour] ?? false
-  const formattedDate = format(new Date(date), 'EEEE, MMMM d, yyyy')
+  const formattedDate = formatLocalized(new Date(date), 'EEEE, MMMM d, yyyy')
 
   if (isLoading) {
     return (
@@ -65,6 +69,7 @@ export function PrayerFlow({ hour, date }: { hour: OfficeHour; date: string }) {
       { date, hour },
       {
         onSuccess: () => {
+          successBuzz()
           advanceReading.mutate({ type: readingType, count })
           router.back()
         },
@@ -79,7 +84,7 @@ export function PrayerFlow({ hour, date }: { hour: OfficeHour; date: string }) {
           <XStack alignItems="center" gap="$sm">
             <ChevronLeft size={20} color={theme.accent.val} />
             <Text fontFamily="$body" fontSize="$2" color="$accent">
-              Office
+              {t('office.back')}
             </Text>
           </XStack>
         </Pressable>
@@ -93,7 +98,7 @@ export function PrayerFlow({ hour, date }: { hour: OfficeHour; date: string }) {
           >
             <HeaderFlourish />
             <Text fontFamily="$display" fontSize={36} lineHeight={42} color="$colorBurgundy">
-              {hourLabels[hour]}
+              {t(hourLabelKeys[hour])}
             </Text>
             <Text fontFamily="$script" fontSize="$3" color="$colorSecondary">
               {formattedDate}
@@ -295,6 +300,7 @@ function BibleReadingBlock({
   fallback?: boolean
   illuminated?: boolean
 }) {
+  const { t } = useTranslation()
   if (!verses) return undefined
 
   return (
@@ -302,7 +308,7 @@ function BibleReadingBlock({
       {fallback && (
         <XStack backgroundColor="$backgroundSurface" borderRadius="$md" padding="$sm">
           <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
-            Showing Douay-Rheims (offline) — selected translation unavailable
+            {t('office.fallbackNotice')}
           </Text>
         </XStack>
       )}
@@ -332,6 +338,7 @@ function CccReadingBlock({
   reference: { type: 'catechism'; startParagraph: number; count: number }
   paragraphs: Array<{ number: number; text: string; section: string }> | undefined
 }) {
+  const { t } = useTranslation()
   if (!paragraphs || paragraphs.length === 0) return undefined
 
   const endParagraph = reference.startParagraph + reference.count - 1
@@ -339,7 +346,7 @@ function CccReadingBlock({
   return (
     <YStack gap="$sm">
       <Text fontFamily="$body" fontSize="$2" color="$colorMutedBlue" fontWeight="500">
-        Catechism of the Catholic Church, {reference.startParagraph}-{endParagraph}
+        {t('office.cccLabel', { start: reference.startParagraph, end: endParagraph })}
       </Text>
       {paragraphs.map((p) => (
         <XStack key={p.number} gap="$sm" alignItems="flex-start">
@@ -396,18 +403,19 @@ function CompleteButton({
   isSubmitting: boolean
   onComplete: () => void
 }) {
+  const { t } = useTranslation()
   if (isCompleted) {
     return (
       <YStack alignItems="center" paddingVertical="$lg">
         <Text fontFamily="$body" fontSize="$3" color="$colorGreen">
-          Completed
+          {t('office.completed')}
         </Text>
       </YStack>
     )
   }
 
   return (
-    <Pressable onPress={onComplete} disabled={isSubmitting}>
+    <AnimatedPressable onPress={onComplete} disabled={isSubmitting}>
       <YStack
         backgroundColor="$accent"
         borderRadius="$md"
@@ -418,9 +426,9 @@ function CompleteButton({
         opacity={isSubmitting ? 0.6 : 1}
       >
         <Text fontFamily="$heading" fontSize="$3" color="$background">
-          {isSubmitting ? 'Completing...' : 'Mark as Complete'}
+          {isSubmitting ? t('office.completing') : t('office.markComplete')}
         </Text>
       </YStack>
-    </Pressable>
+    </AnimatedPressable>
   )
 }

@@ -1,3 +1,5 @@
+import '@/lib/i18n'
+
 import { Cinzel_400Regular, Cinzel_700Bold } from '@expo-google-fonts/cinzel'
 import { CormorantGaramond_400Regular } from '@expo-google-fonts/cormorant-garamond'
 import { CrimsonPro_400Regular } from '@expo-google-fonts/crimson-pro'
@@ -111,7 +113,9 @@ export default function RootLayout() {
       <QueryClientProvider client={queryClient}>
         <TamaguiProvider config={config} defaultTheme={resolvedTheme}>
           <StatusBar hidden />
-          <Stack screenOptions={{ headerShown: false, animation: 'none' }} />
+          <Stack
+            screenOptions={{ headerShown: false, animation: 'fade', animationDuration: 200 }}
+          />
           <TasselPull />
         </TamaguiProvider>
       </QueryClientProvider>

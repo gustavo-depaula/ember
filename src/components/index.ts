@@ -1,5 +1,8 @@
+export { AnimatedCheckbox } from './AnimatedCheckbox'
+export { AnimatedPressable } from './AnimatedPressable'
 export { Card } from './Card'
 export { DropCap } from './DropCap'
+export { FadeInView } from './FadeInView'
 export { GreenWall, type WallEntry } from './GreenWall'
 export { IlluminatedInitial } from './IlluminatedInitial'
 export { ManuscriptFrame } from './ManuscriptFrame'

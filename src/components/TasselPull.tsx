@@ -10,6 +10,7 @@ import Animated, {
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import Svg, { Path } from 'react-native-svg'
 import { Text, useTheme, View, XStack } from 'tamagui'
+import { mediumTap } from '@/lib/haptics'
 
 const sections = [
   { path: '/', label: 'Home', color: '#C9A84C' },
@@ -121,6 +122,7 @@ export const TasselPull = memo(function TasselPull() {
   const currentColor = sections.find((s) => isActive(s.path))?.color ?? sections[0].color
 
   const open = useCallback(() => {
+    mediumTap()
     panelY.value = withSpring(0, springConfig)
     setPanelOpen(true)
   }, [panelY])

@@ -2,9 +2,10 @@ import { Check } from 'lucide-react-native'
 import { Pressable } from 'react-native'
 import { Text, useTheme, View, XStack, YStack } from 'tamagui'
 
-import { OrnamentalRule } from '@/components'
+import { AnimatedCheckbox, OrnamentalRule } from '@/components'
 import { getPracticeIcon } from '@/db/seed'
 import type { BlockState } from '@/features/plan-of-life/timeBlocks'
+import { lightTap } from '@/lib/haptics'
 
 type Practice = { id: string; name: string; icon: string }
 
@@ -99,20 +100,13 @@ export function TimeBlockSection({
             <Text flex={1} fontFamily="$body" fontSize="$3" color="$color">
               {practice.name}
             </Text>
-            <Pressable onPress={() => onToggle(practice.id, !done)} hitSlop={8}>
-              <YStack
-                width={28}
-                height={28}
-                borderRadius={14}
-                borderWidth={2}
-                borderColor={done ? '$accent' : '$borderColor'}
-                backgroundColor={done ? '$accent' : 'transparent'}
-                alignItems="center"
-                justifyContent="center"
-              >
-                {done && <Check size={16} color={theme.background.val} />}
-              </YStack>
-            </Pressable>
+            <AnimatedCheckbox
+              checked={done}
+              onToggle={() => {
+                lightTap()
+                onToggle(practice.id, !done)
+              }}
+            />
           </XStack>
         )
       })}
