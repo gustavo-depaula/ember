@@ -6,7 +6,7 @@ import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
-import { Card, GreenWall, ScreenLayout } from '@/components'
+import { GreenWall, ScreenLayout, SectionDivider } from '@/components'
 import {
   getLongestPracticeStreak,
   getPracticeIcon,
@@ -77,39 +77,27 @@ export default function PracticeDetailScreen() {
           <GreenWall data={wallData} />
         </YStack>
 
-        <XStack gap="$md" flexWrap="wrap">
-          <Card flex={1} minWidth="40%" alignItems="center" gap="$xs">
-            <Text fontFamily="$heading" fontSize="$5" color="$accent">
-              {stats.streak}
-            </Text>
-            <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
-              {t('plan.currentStreak')}
-            </Text>
-          </Card>
-          <Card flex={1} minWidth="40%" alignItems="center" gap="$xs">
-            <Text fontFamily="$heading" fontSize="$5" color="$accent">
-              {stats.longest}
-            </Text>
-            <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
-              {t('plan.longestStreak')}
-            </Text>
-          </Card>
-          <Card flex={1} minWidth="40%" alignItems="center" gap="$xs">
-            <Text fontFamily="$heading" fontSize="$5" color="$accent">
-              {stats.total}
-            </Text>
-            <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
-              {t('plan.totalDays')}
-            </Text>
-          </Card>
-          <Card flex={1} minWidth="40%" alignItems="center" gap="$xs">
-            <Text fontFamily="$heading" fontSize="$5" color="$accent">
-              {Math.round(stats.rate * 100)}%
-            </Text>
-            <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
-              {t('plan.completionRate')}
-            </Text>
-          </Card>
+        <SectionDivider />
+
+        <XStack justifyContent="space-around" paddingVertical="$sm">
+          {[
+            { value: stats.streak, label: t('plan.currentStreak') },
+            { value: stats.longest, label: t('plan.longestStreak') },
+            { value: stats.total, label: t('plan.totalDays') },
+            {
+              value: `${Math.round(stats.rate * 100)}%`,
+              label: t('plan.completionRate'),
+            },
+          ].map((item) => (
+            <YStack key={item.label} alignItems="center" gap="$xs">
+              <Text fontFamily="$heading" fontSize="$5" color="$accent">
+                {item.value}
+              </Text>
+              <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
+                {item.label}
+              </Text>
+            </YStack>
+          ))}
         </XStack>
       </YStack>
     </ScreenLayout>
