@@ -1,4 +1,10 @@
+import type { TFunction } from 'i18next'
+
 import type { Book } from '@/lib/content'
+
+export function localizedBookName(bookId: string, t: TFunction): string {
+  return t(`bookName.${bookId}`, { defaultValue: bookId })
+}
 
 export function findAdjacentChapter(
   bookId: string,
@@ -24,6 +30,6 @@ export function findAdjacentChapter(
   return undefined
 }
 
-export function getBookName(bookId: string, books: Book[]): string {
-  return books.find((b) => b.id === bookId)?.name ?? bookId
+export function getBookName(bookId: string, t: TFunction): string {
+  return localizedBookName(bookId, t)
 }

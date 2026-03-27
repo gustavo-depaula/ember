@@ -131,13 +131,15 @@ const readingLabelKeys: Record<string, string> = {
   catechism: 'readingLabel.catechism',
 }
 
-function getPositionLabel(progress: ReadingProgress): string {
+function getPositionLabel(
+  progress: ReadingProgress,
+  t: (key: string, opts?: Record<string, unknown>) => string,
+): string {
   if (progress.type === 'catechism') {
     return `CCC §${progress.current_chapter}`
   }
-  const books = getDrbBooks()
-  const book = books.find((b) => b.id === progress.current_book)
-  return `${book?.name ?? progress.current_book} ${progress.current_chapter}`
+  const bookName = t(`bookName.${progress.current_book}`, { defaultValue: progress.current_book })
+  return `${bookName} ${progress.current_chapter}`
 }
 
 function getBookCountData(
@@ -180,12 +182,12 @@ export default function SettingsScreen() {
           type: p.type,
           labelKey: readingLabelKeys[p.type] ?? p.type,
           percentage: getProgressPercentage(row),
-          position: getPositionLabel(p),
+          position: getPositionLabel(p, t),
           bookCountData: getBookCountData(p),
           estimated: formatLocalized(getEstimatedCompletion(row), 'MMM yyyy'),
         }
       }),
-    [allProgress],
+    [allProgress, t],
   )
 
   return (
