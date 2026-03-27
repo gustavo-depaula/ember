@@ -1,6 +1,6 @@
 import { addDays, format, parseISO } from 'date-fns'
-import { useMemo, useState } from 'react'
-import { type LayoutChangeEvent, StyleSheet, View } from 'react-native'
+import { useEffect, useMemo, useState } from 'react'
+import { type LayoutChangeEvent, Pressable, StyleSheet, View } from 'react-native'
 import { Gesture, GestureDetector } from 'react-native-gesture-handler'
 import type { SharedValue } from 'react-native-reanimated'
 import Animated, {
@@ -32,9 +32,11 @@ const todayIndex = pastDays
 export function DayCarousel({
   onSelectDate,
   today,
+  todayTrigger,
 }: {
   onSelectDate: (date: string) => void
   today: string
+  todayTrigger?: number
 }) {
   const theme = useTheme()
   const [containerWidth, setContainerWidth] = useState(0)
@@ -61,6 +63,15 @@ export function DayCarousel({
 
   const offsetX = useSharedValue(-todayIndex * itemSize)
   const startX = useSharedValue(0)
+
+  function scrollToIndex(index: number) {
+    offsetX.value = withSpring(clamp(-index * itemSize, minOffset, maxOffset), snappySpring)
+  }
+
+  // biome-ignore lint/correctness/useExhaustiveDependencies: trigger-based effect
+  useEffect(() => {
+    if (todayTrigger) scrollToIndex(todayIndex)
+  }, [todayTrigger])
 
   // biome-ignore lint/correctness/useExhaustiveDependencies: shared values are stable refs
   const pan = useMemo(
@@ -129,6 +140,7 @@ export function DayCarousel({
                 bgColor={bgColor}
                 secondaryColor={secondaryColor}
                 today={today}
+                onTap={() => scrollToIndex(index)}
               />
             ))}
           </Animated.View>
@@ -147,6 +159,7 @@ function DayPill({
   bgColor,
   secondaryColor,
   today,
+  onTap,
 }: {
   index: number
   dateObj: Date
@@ -156,6 +169,7 @@ function DayPill({
   bgColor: string
   secondaryColor: string
   today: string
+  onTap: () => void
 }) {
   const isFuture = dateStr > today
   const isToday = dateStr === today
@@ -186,17 +200,18 @@ function DayPill({
   }))
 
   return (
-    <Animated.View
-      style={[
-        styles.pill,
-        { left: index * itemSize },
-        animatedStyle,
-        isToday && { borderWidth: 1.5, borderColor: `${accentColor}40` },
-      ]}
-    >
-      <Animated.Text style={[styles.dayLabel, labelStyle]}>{dayLabel}</Animated.Text>
-      <Animated.Text style={[styles.dayNumber, textStyle]}>{dayNumber}</Animated.Text>
-    </Animated.View>
+    <Pressable onPress={onTap} style={{ position: 'absolute', left: index * itemSize }}>
+      <Animated.View
+        style={[
+          styles.pill,
+          animatedStyle,
+          isToday && { borderWidth: 1.5, borderColor: `${accentColor}40` },
+        ]}
+      >
+        <Animated.Text style={[styles.dayLabel, labelStyle]}>{dayLabel}</Animated.Text>
+        <Animated.Text style={[styles.dayNumber, textStyle]}>{dayNumber}</Animated.Text>
+      </Animated.View>
+    </Pressable>
   )
 }
 
@@ -209,13 +224,11 @@ const styles = StyleSheet.create({
     position: 'relative',
   },
   pill: {
-    position: 'absolute',
     width: pillWidth,
     height: 60,
     borderRadius: pillWidth / 2,
     alignItems: 'center',
     justifyContent: 'center',
-    top: 2,
   },
   dayLabel: {
     fontFamily: 'Cinzel_400Regular',
