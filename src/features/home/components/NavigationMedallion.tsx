@@ -1,8 +1,8 @@
 import { Image } from 'expo-image'
-import { Pressable, StyleSheet } from 'react-native'
+import { StyleSheet } from 'react-native'
 import { Text, View, YStack } from 'tamagui'
 
-import { WatercolorIcon } from '@/components'
+import { AnimatedPressable, WatercolorIcon } from '@/components'
 
 const topLeft = require('../../../../assets/textures/corner_top_left.png')
 const bottomRight = require('../../../../assets/textures/corner_bottom_right.png')
@@ -23,7 +23,7 @@ export function NavigationMedallion({
   onPress: () => void
 }) {
   return (
-    <Pressable onPress={onPress}>
+    <AnimatedPressable onPress={onPress}>
       <YStack padding={12} position="relative" overflow="visible">
         <View position="absolute" top={0} left={0}>
           <Image source={topLeft} style={styles.topLeft} contentFit="contain" />
@@ -44,7 +44,7 @@ export function NavigationMedallion({
           </YStack>
         </YStack>
       </YStack>
-    </Pressable>
+    </AnimatedPressable>
   )
 }
 

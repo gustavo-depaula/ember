@@ -1,9 +1,11 @@
 import { format, subWeeks } from 'date-fns'
 import { useRouter } from 'expo-router'
 import { useCallback, useMemo, useState } from 'react'
+import { useTranslation } from 'react-i18next'
 import { Text, XStack, YStack } from 'tamagui'
 
 import {
+  FadeInView,
   GreenWall,
   HeaderFlourish,
   ManuscriptFrame,
@@ -19,6 +21,7 @@ import {
   getBlockCompletion,
   getBlockState,
   getCurrentTimeBlock,
+  getPracticeName,
   type TimeBlock,
   toCompletedSet,
   usePracticeLogRange,
@@ -26,14 +29,17 @@ import {
   usePractices,
   useTogglePractice,
 } from '@/features/plan-of-life'
+import i18n from '@/lib/i18n'
+import { formatLocalized } from '@/lib/i18n/dateLocale'
 
 function getGreeting(hour: number): string {
-  if (hour >= 5 && hour < 12) return 'Good morning'
-  if (hour >= 12 && hour < 17) return 'Good afternoon'
-  return 'Good evening'
+  if (hour >= 5 && hour < 12) return i18n.t('home.greetingMorning')
+  if (hour >= 12 && hour < 17) return i18n.t('home.greetingAfternoon')
+  return i18n.t('home.greetingEvening')
 }
 
 export default function HomeScreen() {
+  const { t } = useTranslation()
   const router = useRouter()
   const now = new Date()
   const today = format(now, 'yyyy-MM-dd')
@@ -75,45 +81,53 @@ export default function HomeScreen() {
             {greeting}
           </Text>
           <Text fontFamily="$script" fontSize="$2" color="$colorSecondary">
-            {format(now, 'EEE, MMMM d')}
+            {formatLocalized(now, 'EEE, MMMM d')}
           </Text>
         </YStack>
 
         <XStack gap="$md">
           <YStack flex={1}>
-            <NavigationMedallion
-              icon="book"
-              title="Divine Office"
-              subtitle="Lauds, Vespers & Compline"
-              onPress={() => router.push('/office')}
-            />
+            <FadeInView index={0}>
+              <NavigationMedallion
+                icon="book"
+                title={t('home.divineOffice')}
+                subtitle={t('home.divineOfficeSub')}
+                onPress={() => router.push('/office')}
+              />
+            </FadeInView>
           </YStack>
           <YStack flex={1}>
-            <NavigationMedallion
-              icon="quill"
-              title="Plan of Life"
-              subtitle="Practices & progress"
-              onPress={() => router.push('/plan')}
-            />
+            <FadeInView index={1}>
+              <NavigationMedallion
+                icon="quill"
+                title={t('home.planOfLife')}
+                subtitle={t('home.planOfLifeSub')}
+                onPress={() => router.push('/plan')}
+              />
+            </FadeInView>
           </YStack>
         </XStack>
 
         <XStack gap="$md">
           <YStack flex={1}>
-            <NavigationMedallion
-              icon="cross"
-              title="Sacred Scripture"
-              subtitle="Read the Bible"
-              onPress={() => router.push('/bible')}
-            />
+            <FadeInView index={2}>
+              <NavigationMedallion
+                icon="cross"
+                title={t('home.sacredScripture')}
+                subtitle={t('home.sacredScriptureSub')}
+                onPress={() => router.push('/bible')}
+              />
+            </FadeInView>
           </YStack>
           <YStack flex={1}>
-            <NavigationMedallion
-              icon="book"
-              title="Catechism"
-              subtitle="Read the CCC"
-              onPress={() => router.push('/catechism')}
-            />
+            <FadeInView index={3}>
+              <NavigationMedallion
+                icon="book"
+                title={t('home.catechism')}
+                subtitle={t('home.catechismSub')}
+                onPress={() => router.push('/catechism')}
+              />
+            </FadeInView>
           </YStack>
         </XStack>
 
@@ -128,8 +142,8 @@ export default function HomeScreen() {
               return (
                 <TimeBlockSection
                   key={block}
-                  label={def.label}
-                  practices={def.practices}
+                  label={t(`timeBlock.${block}`)}
+                  practices={def.practices.map((p) => ({ ...p, name: getPracticeName(p, t) }))}
                   completedIds={completedIds}
                   state={state}
                   completed={completed}
@@ -146,14 +160,16 @@ export default function HomeScreen() {
         )}
 
         {wallData.length > 0 && (
-          <ManuscriptFrame ornate={false}>
-            <YStack alignItems="center" gap="$sm">
-              <Text fontFamily="$display" fontSize={18} lineHeight={22} color="$accent">
-                Fidelity
-              </Text>
-              <GreenWall data={wallData} weeks={10} tiered />
-            </YStack>
-          </ManuscriptFrame>
+          <FadeInView>
+            <ManuscriptFrame ornate={false}>
+              <YStack alignItems="center" gap="$sm">
+                <Text fontFamily="$display" fontSize={18} lineHeight={22} color="$accent">
+                  {t('home.fidelity')}
+                </Text>
+                <GreenWall data={wallData} weeks={10} tiered />
+              </YStack>
+            </ManuscriptFrame>
+          </FadeInView>
         )}
 
         <OrnamentalRule />

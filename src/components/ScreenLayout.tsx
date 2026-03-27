@@ -1,4 +1,6 @@
 import type { ReactNode } from 'react'
+import { useEffect } from 'react'
+import Animated, { useAnimatedStyle, useSharedValue, withTiming } from 'react-native-reanimated'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { ScrollView, YStack } from 'tamagui'
 
@@ -14,6 +16,13 @@ export function ScreenLayout({
   padded?: boolean
 }) {
   const insets = useSafeAreaInsets()
+  const opacity = useSharedValue(0)
+
+  useEffect(() => {
+    opacity.value = withTiming(1, { duration: 250 })
+  }, [opacity])
+
+  const fadeStyle = useAnimatedStyle(() => ({ opacity: opacity.value }))
 
   const inner = (
     <YStack
@@ -22,15 +31,17 @@ export function ScreenLayout({
       paddingTop={insets.top}
       paddingBottom={insets.bottom}
     >
-      <YStack
-        flex={1}
-        width="100%"
-        maxWidth={640}
-        alignSelf="center"
-        paddingHorizontal={padded ? '$lg' : '$md'}
-      >
-        {children}
-      </YStack>
+      <Animated.View style={[{ flex: 1 }, fadeStyle]}>
+        <YStack
+          flex={1}
+          width="100%"
+          maxWidth={640}
+          alignSelf="center"
+          paddingHorizontal={padded ? '$lg' : '$md'}
+        >
+          {children}
+        </YStack>
+      </Animated.View>
     </YStack>
   )
 

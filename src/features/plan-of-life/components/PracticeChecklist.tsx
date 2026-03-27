@@ -1,8 +1,9 @@
-import { Check } from 'lucide-react-native'
 import { Pressable } from 'react-native'
-import { Text, useTheme, XStack, YStack } from 'tamagui'
+import { Text, XStack, YStack } from 'tamagui'
 
+import { AnimatedCheckbox } from '@/components'
 import { getPracticeIcon } from '@/db/seed'
+import { lightTap } from '@/lib/haptics'
 
 export function PracticeChecklist({
   practices,
@@ -15,8 +16,6 @@ export function PracticeChecklist({
   onToggle: (practiceId: string, completed: boolean) => void
   onRowPress?: (practiceId: string) => void
 }) {
-  const theme = useTheme()
-
   return (
     <YStack gap="$sm">
       {practices.map((practice) => {
@@ -37,26 +36,13 @@ export function PracticeChecklist({
               <Text flex={1} fontFamily="$body" fontSize="$3" color="$color">
                 {practice.name}
               </Text>
-              <Pressable
-                onPress={(e) => {
-                  e.stopPropagation()
+              <AnimatedCheckbox
+                checked={done}
+                onToggle={() => {
+                  lightTap()
                   onToggle(practice.id, !done)
                 }}
-                hitSlop={8}
-              >
-                <YStack
-                  width={28}
-                  height={28}
-                  borderRadius={14}
-                  borderWidth={2}
-                  borderColor={done ? '$accent' : '$borderColor'}
-                  backgroundColor={done ? '$accent' : 'transparent'}
-                  alignItems="center"
-                  justifyContent="center"
-                >
-                  {done && <Check size={16} color={theme.background.val} />}
-                </YStack>
-              </Pressable>
+              />
             </XStack>
           </Pressable>
         )
