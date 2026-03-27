@@ -49,7 +49,7 @@ export function BibleReader() {
   usePrefetchAdjacentChapters(translation, bookId, chapter, books)
 
   const currentBook = books.find((b) => b.id === bookId)
-  const bookName = currentBook?.name ?? bookId
+  const bookName = t(`bookName.${bookId}`, { defaultValue: currentBook?.name ?? bookId })
   const totalChapters = currentBook?.chapters ?? 1
 
   const handleNavigate = useCallback(
@@ -235,6 +235,8 @@ function BookList({
   currentBookId: string
   onSelectBook: (bookId: string) => void
 }) {
+  const { t } = useTranslation()
+
   return (
     <ScrollView flex={1}>
       <YStack paddingBottom="$xl">
@@ -255,7 +257,7 @@ function BookList({
                   fontWeight={isCurrent ? '600' : '400'}
                   color={isCurrent ? '$color' : '$colorSecondary'}
                 >
-                  {book.name}
+                  {t(`bookName.${book.id}`, { defaultValue: book.name })}
                 </Text>
               </YStack>
             </Pressable>
@@ -286,15 +288,10 @@ function ChapterList({
               onPress={() => onSelectChapter(ch)}
               style={({ pressed }) => ({
                 backgroundColor: pressed ? 'rgba(128,128,128,0.15)' : 'transparent',
+                width: '100%',
               })}
             >
-              <YStack
-                paddingVertical={8}
-                paddingHorizontal="$md"
-                minHeight={44}
-                justifyContent="center"
-                alignItems="center"
-              >
+              <YStack minHeight={44} justifyContent="center" alignItems="center">
                 <Text
                   fontFamily="$heading"
                   fontSize="$5"

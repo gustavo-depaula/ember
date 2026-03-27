@@ -97,14 +97,17 @@ function BiblePicker({ testament }: { testament: 'ot' | 'nt' }) {
           <XStack alignItems="center" gap="$sm">
             <ChevronLeft size={20} color={theme.accent.val} />
             <Text fontFamily="$body" fontSize="$2" color="$accent">
-              {selectedBook ? selectedBook.name : t('position.settings')}
+              {selectedBook
+                ? t(`bookName.${selectedBook.id}`, { defaultValue: selectedBook.name })
+                : t('position.settings')}
             </Text>
           </XStack>
         </Pressable>
 
         <Text fontFamily="$heading" fontSize="$5" color="$color">
           {(() => {
-            if (selectedBook) return selectedBook.name
+            if (selectedBook)
+              return t(`bookName.${selectedBook.id}`, { defaultValue: selectedBook.name })
             return testament === 'ot' ? t('readingLabel.ot') : t('readingLabel.nt')
           })()}
         </Text>
@@ -142,7 +145,7 @@ function BiblePicker({ testament }: { testament: 'ot' | 'nt' }) {
                   justifyContent="space-between"
                 >
                   <Text fontFamily="$body" fontSize="$2" color="$color">
-                    {book.name}
+                    {t(`bookName.${book.id}`, { defaultValue: book.name })}
                   </Text>
                   <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
                     {t('position.chapterAbbr', { n: book.chapters })}

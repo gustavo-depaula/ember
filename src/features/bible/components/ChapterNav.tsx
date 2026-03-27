@@ -31,7 +31,7 @@ export function ChapterNav({
             <ChevronLeft size={16} color={theme.accent.val} />
             <Text fontFamily="$body" fontSize="$2" color="$accent">
               {prev.bookId !== bookId
-                ? getBookName(prev.bookId, books)
+                ? getBookName(prev.bookId, t)
                 : t('bible.chapterAbbr', { n: prev.chapter })}
             </Text>
           </XStack>
@@ -45,7 +45,7 @@ export function ChapterNav({
           <XStack alignItems="center" gap="$xs">
             <Text fontFamily="$body" fontSize="$2" color="$accent">
               {next.bookId !== bookId
-                ? getBookName(next.bookId, books)
+                ? getBookName(next.bookId, t)
                 : t('bible.chapterAbbr', { n: next.chapter })}
             </Text>
             <ChevronRight size={16} color={theme.accent.val} />

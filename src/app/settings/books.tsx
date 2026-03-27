@@ -151,7 +151,7 @@ function TestamentSection({
               >
                 <YStack flex={1}>
                   <Text fontFamily="$body" fontSize="$2" color="$color">
-                    {book.name}
+                    {t(`bookName.${book.id}`, { defaultValue: book.name })}
                   </Text>
                   <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
                     {t('books.chaptersOf', { read: bookChapters.length, total: book.chapters })}
