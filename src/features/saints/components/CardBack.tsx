@@ -127,7 +127,6 @@ export function CardBack({
       borderWidth={2}
       borderColor="$accent"
       backgroundColor="$background"
-      style={{ transform: [{ rotateY: '180deg' }] }}
     >
       {/* Corner textures */}
       <View position="absolute" top={-8} left={-8} zIndex={2}>

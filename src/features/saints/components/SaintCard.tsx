@@ -1,6 +1,6 @@
-import { useWindowDimensions } from 'react-native'
+import { StyleSheet, useWindowDimensions } from 'react-native'
 import { GestureDetector } from 'react-native-gesture-handler'
-import Animated, { useAnimatedStyle, useDerivedValue } from 'react-native-reanimated'
+import Animated, { useAnimatedStyle } from 'react-native-reanimated'
 import { View } from 'tamagui'
 import type { Saint } from '../data/saints'
 import { CardBack } from './CardBack'
@@ -19,11 +19,10 @@ export function SaintCard({ saint }: { saint: Saint }) {
     cardHeight,
   })
 
-  const frontOpacity = useDerivedValue(() => (flipRotation.value < 90 ? 1 : 0))
-
-  const backOpacity = useDerivedValue(() => (flipRotation.value >= 90 ? 1 : 0))
-
-  const cardStyle = useAnimatedStyle(() => ({
+  // Each face gets its own full transform chain — no nested 3D transforms.
+  // This prevents iOS from rasterizing text at low resolution.
+  const frontStyle = useAnimatedStyle(() => ({
+    opacity: flipRotation.value < 90 ? 1 : 0,
     transform: [
       { perspective: 800 },
       { rotateX: `${rotateX.value}deg` },
@@ -31,24 +30,23 @@ export function SaintCard({ saint }: { saint: Saint }) {
     ],
   }))
 
-  const frontFaceStyle = useAnimatedStyle(() => ({
-    opacity: frontOpacity.value,
-  }))
-
-  const backFaceStyle = useAnimatedStyle(() => ({
-    opacity: backOpacity.value,
+  const backStyle = useAnimatedStyle(() => ({
+    opacity: flipRotation.value >= 90 ? 1 : 0,
+    transform: [
+      { perspective: 800 },
+      { rotateX: `${rotateX.value}deg` },
+      { rotateY: `${flipRotation.value + rotateY.value + 180}deg` },
+    ],
   }))
 
   return (
     <View alignItems="center" justifyContent="center">
       <GestureDetector gesture={gesture}>
-        <Animated.View style={[{ width: cardWidth, height: cardHeight }, cardStyle]}>
-          <Animated.View
-            style={[{ position: 'absolute', top: 0, left: 0 }, backFaceStyle]}
-          >
+        <Animated.View style={{ width: cardWidth, height: cardHeight }}>
+          <Animated.View style={[styles.face, backStyle]}>
             <CardBack saint={saint} cardWidth={cardWidth} cardHeight={cardHeight} />
           </Animated.View>
-          <Animated.View style={[{ position: 'absolute', top: 0, left: 0 }, frontFaceStyle]}>
+          <Animated.View style={[styles.face, frontStyle]}>
             <CardFront
               saint={saint}
               cardWidth={cardWidth}
@@ -63,3 +61,13 @@ export function SaintCard({ saint }: { saint: Saint }) {
     </View>
   )
 }
+
+const styles = StyleSheet.create({
+  face: {
+    position: 'absolute',
+    top: 0,
+    left: 0,
+    right: 0,
+    bottom: 0,
+  },
+})
