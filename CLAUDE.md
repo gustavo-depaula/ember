@@ -16,6 +16,8 @@ All specs live in `docs/` — read them before making changes:
 - `docs/content/content-sources.md` — Bible APIs, CCC, hymn sources, licensing
 - `docs/tasks.md` — implementation phases and task checklist
 
+**After completing any feature or significant change, update the relevant docs in `docs/` to reflect the new state.** Keep specs, architecture, and task lists in sync with the code.
+
 ## Code Style (Quick Reference)
 
 - Functional style — no classes, pure functions, composition
