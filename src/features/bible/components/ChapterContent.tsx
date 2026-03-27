@@ -1,6 +1,7 @@
 import { Text, YStack } from 'tamagui'
 
 import { OrnamentalRule } from '@/components'
+import { useReadingMargin, useReadingStyle } from '@/hooks/useReadingStyle'
 import type { Verse } from '@/lib/content'
 
 export function ChapterContent({
@@ -14,10 +15,13 @@ export function ChapterContent({
   verses: Verse[]
   fallback?: boolean
 }) {
+  const readingStyle = useReadingStyle()
+  const readingMargin = useReadingMargin()
+
   if (verses.length === 0) return undefined
 
   return (
-    <YStack gap="$xs" paddingVertical="$lg">
+    <YStack gap="$xs" paddingVertical="$lg" paddingHorizontal={readingMargin}>
       <YStack alignItems="center" gap="$sm" paddingBottom="$md">
         <Text fontFamily="$heading" fontSize={32} color="$colorSecondary">
           {bookName} {chapter}
@@ -32,15 +36,12 @@ export function ChapterContent({
       ) : undefined}
 
       {verses.map((v) => (
-        <Text
-          key={v.verse}
-          fontFamily="$body"
-          fontSize="$4"
-          lineHeight="$4"
-          color="$color"
-          textAlign="justify"
-        >
-          <Text fontSize={10} color="$accent" fontFamily="$heading">
+        <Text key={v.verse} color="$color" {...readingStyle}>
+          <Text
+            fontSize={Math.round(readingStyle.fontSize * 0.5)}
+            color="$accent"
+            fontFamily="$heading"
+          >
             {v.verse}
           </Text>
           {'  '}

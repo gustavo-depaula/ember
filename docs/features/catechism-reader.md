@@ -273,6 +273,6 @@ useCatechismStore().hydrate()
 - **Full-text search** — FTS5 index over CCC paragraphs
 - **Cross-references** — link CCC paragraphs to cited Scripture passages
 - **Bookmarks** — save favorite paragraphs to revisit
-- **Font size control** — adjustable text size in the reader
+- ~~**Font size control**~~ — implemented as shared reading config (see `reading-config.md`)
 - **Sync with Office** — option to jump to the current Compline reading position
 - **Paragraph sharing** — copy/share individual CCC paragraphs

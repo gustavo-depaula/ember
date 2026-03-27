@@ -4,6 +4,7 @@ import { useEffect, useReducer } from 'react'
 
 import initialMigration from './migrations/0001_initial.sql'
 import completedChaptersMigration from './migrations/0002_completed_chapters.sql'
+import customizablePracticesMigration from './migrations/0003_customizable_practices.sql'
 
 let _db: SQLiteDatabase | undefined
 
@@ -35,6 +36,12 @@ export function useDbInit() {
           await _db.execAsync(completedChaptersMigration)
         } catch {
           // Column already exists — ignore
+        }
+        // Migration 0003: add tier, time_block, notifications, etc. to practices
+        try {
+          await _db.execAsync(customizablePracticesMigration)
+        } catch {
+          // Columns already exist — ignore
         }
         if (!cancelled) dispatch({ type: 'done' })
       } catch (err) {

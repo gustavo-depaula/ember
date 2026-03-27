@@ -1,27 +1,40 @@
-export type TimeBlock = 'morning' | 'daytime' | 'evening'
+import { timeBlockLabels } from '@/config/constants'
+import type { Practice, TimeBlock } from '@/db/schema'
+
+export type { TimeBlock }
 export type BlockState = 'collapsed' | 'expanded' | 'preview'
 
 type BlockDefinition = {
   label: string
-  practiceIds: string[]
+  practices: Practice[]
 }
 
-export const timeBlocks: Record<TimeBlock, BlockDefinition> = {
-  morning: {
-    label: 'Morning',
-    practiceIds: ['morning-offering', 'mental-prayer', 'holy-mass'],
-  },
-  daytime: {
-    label: 'Daytime',
-    practiceIds: ['spiritual-reading', 'angelus', 'rosary'],
-  },
-  evening: {
-    label: 'Evening',
-    practiceIds: ['examination-conscience', 'night-prayer'],
-  },
+export const blockOrder: TimeBlock[] = ['morning', 'daytime', 'evening', 'flexible']
+
+export function groupByTimeBlock(practices: Practice[]): Record<TimeBlock, BlockDefinition> {
+  const groups = Object.fromEntries(
+    blockOrder.map((block) => [
+      block,
+      { label: timeBlockLabels[block], practices: [] as Practice[] },
+    ]),
+  ) as Record<TimeBlock, BlockDefinition>
+
+  for (const p of practices) {
+    const block = p.time_block in groups ? p.time_block : 'flexible'
+    groups[block].practices.push(p)
+  }
+
+  return groups
 }
 
-export const blockOrder: TimeBlock[] = ['morning', 'daytime', 'evening']
+export function getActiveBlocks(
+  practices: Practice[],
+): { block: TimeBlock; def: BlockDefinition }[] {
+  const groups = groupByTimeBlock(practices)
+  return blockOrder
+    .filter((block) => groups[block].practices.length > 0)
+    .map((block) => ({ block, def: groups[block] }))
+}
 
 export function getCurrentTimeBlock(hour: number): TimeBlock {
   if (hour >= 5 && hour < 12) return 'morning'
@@ -33,11 +46,14 @@ export function getBlockState(
   block: TimeBlock,
   currentBlock: TimeBlock,
   completedIds: Set<string>,
+  blockPracticeIds: string[],
 ): BlockState {
   const blockIndex = blockOrder.indexOf(block)
   const currentIndex = blockOrder.indexOf(currentBlock)
-  const { practiceIds } = timeBlocks[block]
-  const allDone = practiceIds.every((id) => completedIds.has(id))
+  const allDone = blockPracticeIds.every((id) => completedIds.has(id))
+
+  // Flexible block always expanded unless all done
+  if (block === 'flexible') return allDone ? 'collapsed' : 'expanded'
 
   if (blockIndex < currentIndex) return allDone ? 'collapsed' : 'expanded'
   if (blockIndex === currentIndex) return 'expanded'
@@ -45,10 +61,9 @@ export function getBlockState(
 }
 
 export function getBlockCompletion(
-  block: TimeBlock,
+  blockPracticeIds: string[],
   completedIds: Set<string>,
 ): { completed: number; total: number } {
-  const { practiceIds } = timeBlocks[block]
-  const completed = practiceIds.filter((id) => completedIds.has(id)).length
-  return { completed, total: practiceIds.length }
+  const completed = blockPracticeIds.filter((id) => completedIds.has(id)).length
+  return { completed, total: blockPracticeIds.length }
 }

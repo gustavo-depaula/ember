@@ -30,14 +30,22 @@
 - **Cost:** Free
 - **Rate limits:** Not documented; appears generous for reasonable use
 
-**Available Catholic translations (all 73 books):**
+**Suggested Catholic translations (curated, shown first in the picker):**
 
-| Code | Translation | Books |
-|------|------------|-------|
-| NABRE | New American Bible Revised Edition | 73 |
-| RSV | Revised Standard Version | 73 |
+| Code | Translation | Books | Language |
+|------|------------|-------|----------|
+| DRB | Douay-Rheims Bible | 73 | English (bundled offline) |
+| NABRE | New American Bible Revised Edition | 73 | English |
+| RSV | Revised Standard Version | 73 | English |
+| NRSVCE | New Revised Standard Version Catholic Edition | 73 | English |
+| RSV2CE | Revised Standard Version 2nd Catholic Edition | 73 | English |
+| NJB1985 | New Jerusalem Bible | 73 | English |
+| CNBB | Bíblia CNBB | 73 | Portuguese |
+| VULG | Vulgata Latina | 73 | Latin |
 
-**Note:** The Bolls.life DRB (Douay-Rheims) only has 66 books — it is **missing all 7 deuterocanonical books**. Do not use it for Catholic purposes. Use the bundled version from xxruyle instead.
+The full Bolls.life catalog (30+ languages, 100+ translations) is also available via an "All Translations" section in the picker, fetched from `GET /static/bolls/app/views/languages.json`.
+
+**Note:** The Bolls.life DRB (Douay-Rheims) only has 66 books — it is **missing all 7 deuterocanonical books**. Do not use it for Catholic purposes. Use the bundled version from xxruyle instead. Non-Catholic translations (66 books) work fine but fall back to DRB when the user navigates to deuterocanonical books.
 
 **Endpoints:**
 

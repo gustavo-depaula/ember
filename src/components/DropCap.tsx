@@ -2,6 +2,8 @@ import { useState } from 'react'
 import { type LayoutChangeEvent, Platform } from 'react-native'
 import { Text, View, XStack, YStack } from 'tamagui'
 
+import { useReadingFontSizePx, useReadingStyle } from '@/hooks/useReadingStyle'
+
 const capSize = 52
 const capWidth = 44
 const underlineWidth = 28
@@ -32,8 +34,9 @@ function CapLetter({ letter }: { letter: string }) {
 }
 
 function WebDropCap({ firstLetter, rest }: { firstLetter: string; rest: string }) {
+  const readingStyle = useReadingStyle()
   return (
-    <Text fontFamily="$body" fontSize="$4" lineHeight="$4" color="$color" textAlign="justify">
+    <Text color="$color" {...readingStyle}>
       <View style={{ float: 'left', marginRight: 6, marginBottom: -4 } as never}>
         <CapLetter letter={firstLetter} />
       </View>
@@ -44,13 +47,15 @@ function WebDropCap({ firstLetter, rest }: { firstLetter: string; rest: string }
 
 function NativeDropCap({ firstLetter, rest }: { firstLetter: string; rest: string }) {
   const [capHeight, setCapHeight] = useState(capSize + 4)
+  const readingStyle = useReadingStyle()
+  const fontSizePx = useReadingFontSizePx()
 
   function onCapLayout(e: LayoutChangeEvent) {
     setCapHeight(e.nativeEvent.layout.height)
   }
 
-  // Estimate ~40 chars per line beside the cap, 2-3 lines tall
-  const charsNextToCap = 90
+  // Scale char estimate proportionally to font size (baseline: 90 chars at 19px)
+  const charsNextToCap = Math.floor(90 * (19 / fontSizePx))
   const beside = rest.slice(0, charsNextToCap)
   const below = rest.slice(charsNextToCap)
 
@@ -60,21 +65,12 @@ function NativeDropCap({ firstLetter, rest }: { firstLetter: string; rest: strin
         <YStack marginRight={6} onLayout={onCapLayout}>
           <CapLetter letter={firstLetter} />
         </YStack>
-        <Text
-          flex={1}
-          fontFamily="$body"
-          fontSize="$4"
-          lineHeight="$4"
-          color="$color"
-          textAlign="justify"
-          maxHeight={capHeight}
-          overflow="hidden"
-        >
+        <Text flex={1} color="$color" {...readingStyle} maxHeight={capHeight} overflow="hidden">
           {beside}
         </Text>
       </XStack>
       {below ? (
-        <Text fontFamily="$body" fontSize="$4" lineHeight="$4" color="$color" textAlign="justify">
+        <Text color="$color" {...readingStyle}>
           {below}
         </Text>
       ) : undefined}

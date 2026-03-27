@@ -1,5 +1,7 @@
 import { differenceInCalendarDays, format, subDays } from 'date-fns'
 
+import type { Practice, Tier } from '@/db/schema'
+
 export type DayCompletion = {
   date: string
   completed: number
@@ -98,7 +100,7 @@ export function toCompletedSet(logs: Array<{ completed: number; practice_id: str
   return new Set(logs.filter((l) => l.completed).map((l) => l.practice_id))
 }
 
-// Maps completion ratio to 0-4 intensity for green wall rendering
+// Legacy single-color wall data (kept for individual practice walls)
 export function toGreenWallData(
   logs: Array<{ date: string; completed: number }>,
   totalPractices: number,
@@ -116,4 +118,88 @@ export function toGreenWallData(
     })()
     return { date: l.date, value }
   })
+}
+
+// Multi-hue wall data based on tier completion
+// Values: 0=empty, 1=extra-partial, 2=extra-full, 3=ideal-partial, 4=ideal-full,
+//         5=essential-partial, 6=essential-full, 7=perfect
+export type TieredLog = {
+  date: string
+  practice_id: string
+  tier: Tier
+}
+
+export function toTieredWallData(
+  logs: TieredLog[],
+  practicesByTier: { essential: number; ideal: number; extra: number },
+): Array<{ date: string; value: number }> {
+  const byDate = new Map<string, { essential: number; ideal: number; extra: number }>()
+
+  for (const log of logs) {
+    const entry = byDate.get(log.date) ?? { essential: 0, ideal: 0, extra: 0 }
+    entry[log.tier]++
+    byDate.set(log.date, entry)
+  }
+
+  return Array.from(byDate, ([date, counts]) => {
+    const essentialsDone =
+      practicesByTier.essential > 0 ? counts.essential / practicesByTier.essential : 1
+    const idealsDone = practicesByTier.ideal > 0 ? counts.ideal / practicesByTier.ideal : 1
+    const extrasDone = practicesByTier.extra > 0 ? counts.extra / practicesByTier.extra : 1
+
+    const allDone = essentialsDone >= 1 && idealsDone >= 1 && extrasDone >= 1
+
+    if (allDone) return { date, value: 7 } // perfect
+    if (essentialsDone >= 1) return { date, value: 6 } // essential-full
+    if (essentialsDone > 0) return { date, value: 5 } // essential-partial
+    if (idealsDone >= 1) return { date, value: 4 } // ideal-full
+    if (idealsDone > 0) return { date, value: 3 } // ideal-partial
+    if (extrasDone >= 1) return { date, value: 2 } // extra-full
+    if (extrasDone > 0) return { date, value: 1 } // extra-partial
+    return { date, value: 0 }
+  })
+}
+
+export function parseFrequencyDays(practice: Practice): number[] {
+  return JSON.parse(practice.frequency_days || '[]')
+}
+
+export function isPracticeApplicableOnDate(practice: Practice, date: string): boolean {
+  if (practice.frequency === 'daily') return true
+
+  const frequencyDays = parseFrequencyDays(practice)
+  if (frequencyDays.length === 0) return true
+
+  const dayOfWeek = new Date(date).getDay()
+  return frequencyDays.includes(dayOfWeek)
+}
+
+export function filterPracticesForDate(practices: Practice[], date: string): Practice[] {
+  return practices.filter((p) => isPracticeApplicableOnDate(p, date))
+}
+
+export function countByTier(practices: Practice[]): {
+  essential: number
+  ideal: number
+  extra: number
+} {
+  const counts = { essential: 0, ideal: 0, extra: 0 }
+  for (const p of practices) {
+    if (p.tier in counts) counts[p.tier]++
+  }
+  return counts
+}
+
+export function buildTieredWallData(
+  logs: Array<{ date: string; practice_id: string }>,
+  practices: Practice[],
+): Array<{ date: string; value: number }> {
+  const practiceMap = new Map(practices.map((p) => [p.id, p]))
+  const tierCounts = countByTier(practices)
+  const tieredLogs: TieredLog[] = logs.map((log) => ({
+    date: log.date,
+    practice_id: log.practice_id,
+    tier: practiceMap.get(log.practice_id)?.tier ?? 'essential',
+  }))
+  return toTieredWallData(tieredLogs, tierCounts)
 }

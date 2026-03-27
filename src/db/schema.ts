@@ -1,10 +1,21 @@
+export type Tier = 'essential' | 'ideal' | 'extra'
+export type TimeBlock = 'morning' | 'daytime' | 'evening' | 'flexible'
+export type Frequency = 'daily' | 'weekly' | 'custom'
+
 export type Practice = {
   id: string
   name: string
   icon: string
-  frequency: string
+  frequency: Frequency
   enabled: number
   sort_order: number
+  tier: Tier
+  time_block: TimeBlock
+  frequency_days: string // JSON array of day numbers (0=Sun..6=Sat)
+  notify_enabled: number
+  notify_time: string | null
+  is_builtin: number
+  description: string
 }
 
 export type PracticeLog = {
