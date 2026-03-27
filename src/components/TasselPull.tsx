@@ -19,6 +19,7 @@ const sections = [
   { path: '/plan', labelKey: 'nav.planOfLife', color: '#2D6A4F' },
   { path: '/bible', labelKey: 'nav.sacredScripture', color: '#1B3A5C' },
   { path: '/catechism', labelKey: 'nav.catechism', color: '#7B2D3B' },
+  { path: '/saints', labelKey: 'nav.saints', color: '#C9A84C' },
   { path: '/settings', labelKey: 'nav.settings', color: '#6B5D4F' },
 ]
 

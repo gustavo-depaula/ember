@@ -211,7 +211,101 @@ export default {
     planOfLife: 'Plan of Life',
     sacredScripture: 'Sacred Scripture',
     catechism: 'Catechism',
+    saints: 'Saints',
     settings: 'Settings',
+  },
+
+  saints: {
+    title: 'Saints',
+    doubleTapToFlip: 'Double-tap to flip',
+    therese: {
+      name: 'St. Thérèse of Lisieux',
+      feastDay: 'October 1',
+      patronOf: 'Patron of missionaries',
+      prayerExcerpt: 'My vocation is love! In the heart of the Church, I shall be love.',
+    },
+    joseph: {
+      name: 'St. Joseph',
+      feastDay: 'March 19',
+      patronOf: 'Patron of the Universal Church',
+      prayerExcerpt: 'Go to Joseph. Whatever he tells you, do.',
+    },
+    michaelArchangel: {
+      name: 'St. Michael the Archangel',
+      feastDay: 'September 29',
+      patronOf: 'Patron of soldiers and the Church',
+      prayerExcerpt:
+        'St. Michael the Archangel, defend us in battle. Be our protection against the wickedness and snares of the devil.',
+    },
+    gabrielArchangel: {
+      name: 'St. Gabriel the Archangel',
+      feastDay: 'September 29',
+      patronOf: 'Patron of messengers and communications',
+      prayerExcerpt: 'Hail, full of grace, the Lord is with thee.',
+    },
+    peter: {
+      name: 'St. Peter',
+      feastDay: 'June 29',
+      patronOf: 'Patron of fishermen and the papacy',
+      prayerExcerpt: 'Lord, you know all things; you know that I love you.',
+    },
+    johnEvangelist: {
+      name: 'St. John the Evangelist',
+      feastDay: 'December 27',
+      patronOf: 'Patron of authors and theologians',
+      prayerExcerpt:
+        'God is love, and whoever abides in love abides in God, and God abides in him.',
+    },
+    johnOfTheCross: {
+      name: 'St. John of the Cross',
+      feastDay: 'December 14',
+      patronOf: 'Patron of mystics and contemplatives',
+      prayerExcerpt: 'In the evening of life, we will be judged on love alone.',
+    },
+    teresa: {
+      name: 'St. Teresa of Ávila',
+      feastDay: 'October 15',
+      patronOf: 'Patron of headache sufferers',
+      prayerExcerpt:
+        'Let nothing disturb you. Let nothing frighten you. All things are passing. God never changes.',
+    },
+    philomena: {
+      name: 'St. Philomena',
+      feastDay: 'August 11',
+      patronOf: 'Patron of youth and desperate causes',
+      prayerExcerpt: 'O faithful virgin and glorious martyr, St. Philomena, intercede for us.',
+    },
+    gianna: {
+      name: 'St. Gianna Beretta Molla',
+      feastDay: 'April 28',
+      patronOf: 'Patron of mothers and physicians',
+      prayerExcerpt:
+        'Love is the most beautiful sentiment the Lord has put into the soul of men and women.',
+    },
+    luke: {
+      name: 'St. Luke the Evangelist',
+      feastDay: 'October 18',
+      patronOf: 'Patron of artists and physicians',
+      prayerExcerpt: 'The Mighty One has done great things for me, and holy is his name.',
+    },
+    fatima: {
+      name: 'Our Lady of Fátima',
+      feastDay: 'May 13',
+      patronOf: 'Patroness of Portugal',
+      prayerExcerpt: 'Pray the Rosary every day to obtain peace for the world.',
+    },
+    mosesTheBlack: {
+      name: 'St. Moses the Black',
+      feastDay: 'August 28',
+      patronOf: 'Patron of nonviolence',
+      prayerExcerpt: 'Sit in your cell and your cell will teach you everything.',
+    },
+    holyInnocents: {
+      name: 'The Holy Innocents',
+      feastDay: 'December 28',
+      patronOf: 'Patrons of foundlings and babies',
+      prayerExcerpt: 'Out of the mouth of babes and infants you have established strength.',
+    },
   },
 
   common: {
