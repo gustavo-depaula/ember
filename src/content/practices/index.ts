@@ -74,8 +74,10 @@ export function getManifest(id: string): PracticeManifest | undefined {
   return manifests[id]
 }
 
+const allManifests = Object.values(manifests)
+
 export function getAllManifests(): PracticeManifest[] {
-  return Object.values(manifests)
+  return allManifests
 }
 
 export function loadFlow(manifestId: string): FlowDefinition | undefined {
@@ -113,21 +115,15 @@ export function getManifestIconKey(manifestId: string): string {
 
 export function getManifestCategories(): string[] {
   const cats = new Set<string>()
-  for (const m of Object.values(manifests)) {
+  for (const m of allManifests) {
     for (const c of m.categories) cats.add(c)
   }
   return Array.from(cats).sort()
 }
 
-export function getManifestsByCategory(category?: string): PracticeManifest[] {
-  const all = Object.values(manifests)
-  if (!category) return all
-  return all.filter((m) => m.categories.includes(category))
-}
-
 export function searchManifests(query: string): PracticeManifest[] {
   const q = query.toLowerCase()
-  return Object.values(manifests).filter((m) => {
+  return allManifests.filter((m) => {
     if (localizeContent(m.name).toLowerCase().includes(q)) return true
     if (m.tags?.some((t) => t.toLowerCase().includes(q))) return true
     if (m.description && localizeContent(m.description).toLowerCase().includes(q)) return true

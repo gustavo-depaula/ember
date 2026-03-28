@@ -1,5 +1,5 @@
 {
-  "title": "Holy God",
+  "title": { "en": "Holy God", "pt-BR": "Santo Deus", "la": "Sanctus Deus" },
   "english": "Holy God, Holy Mighty One, Holy Immortal One, have mercy on us and on the whole world.",
   "portuguese": "Deus Santo, Deus Forte, Deus Imortal, tende misericórdia de nós e do mundo inteiro."
 }

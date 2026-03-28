@@ -1,4 +1,5 @@
 import { format, subWeeks } from 'date-fns'
+import { useRouter } from 'expo-router'
 import { useCallback, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Text, YStack } from 'tamagui'
@@ -10,6 +11,7 @@ import {
   PageBreakOrnament,
   ScreenLayout,
 } from '@/components'
+import { getManifest } from '@/content/practices'
 import { AppShortcuts, TimeBlockSection } from '@/features/home'
 import {
   type BlockState,
@@ -44,9 +46,22 @@ export default function HomeScreen() {
   const greeting = getGreeting(hour)
   const currentBlock = getCurrentTimeBlock(hour)
 
+  const router = useRouter()
   const { data: practices = [] } = usePractices()
   const { data: todayLogs = [] } = usePracticeLogsForDate(today)
   const toggle = useTogglePractice()
+
+  const handlePressPractice = useCallback(
+    (id: string) => {
+      const manifest = getManifest(id)
+      if (manifest?.hours?.length) {
+        router.push(`/plan/${id}` as any)
+      } else {
+        router.push(`/pray/${id}` as any)
+      }
+    },
+    [router],
+  )
   const wallStart = format(subWeeks(now, 9), 'yyyy-MM-dd')
   const { data: wallLogs = [] } = usePracticeLogRange(wallStart, today)
 
@@ -102,7 +117,7 @@ export default function HomeScreen() {
         {/* 3. Today's Plan of Life */}
         {todayPractices.length > 0 && (
           <YStack gap="$md">
-            {activeBlocks.map(({ block, def }, i) => {
+            {activeBlocks.map(({ block, def }) => {
               const blockPracticeIds = def.practices.map((p) => p.id)
               const { completed, total } = getBlockCompletion(blockPracticeIds, completedIds)
               const autoState = getBlockState(block, currentBlock, completedIds, blockPracticeIds)
@@ -121,6 +136,7 @@ export default function HomeScreen() {
                     toggle.mutate({ practiceId: id, date: today, completed: done })
                   }
                   onToggleCollapse={() => toggleBlockCollapse(block)}
+                  onPressPractice={handlePressPractice}
                 />
               )
             })}

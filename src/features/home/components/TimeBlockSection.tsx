@@ -18,6 +18,7 @@ export function TimeBlockSection({
   total,
   onToggle,
   onToggleCollapse,
+  onPressPractice,
 }: {
   label: string
   practices: Practice[]
@@ -27,6 +28,7 @@ export function TimeBlockSection({
   total: number
   onToggle: (practiceId: string, completed: boolean) => void
   onToggleCollapse: () => void
+  onPressPractice?: (practiceId: string) => void
 }) {
   const theme = useTheme()
   const allDone = completed === total
@@ -84,27 +86,28 @@ export function TimeBlockSection({
       {practices.map((practice) => {
         const done = completedIds.has(practice.id)
         return (
-          <XStack
-            key={practice.id}
-            backgroundColor="$backgroundSurface"
-            borderRadius="$lg"
-            padding="$md"
-            alignItems="center"
-            gap="$md"
-            opacity={done ? 0.6 : 1}
-          >
-            <Text fontSize={20}>{getPracticeIcon(practice.icon)}</Text>
-            <Text flex={1} fontFamily="$body" fontSize="$3" color="$color">
-              {practice.name}
-            </Text>
-            <AnimatedCheckbox
-              checked={done}
-              onToggle={() => {
-                lightTap()
-                onToggle(practice.id, !done)
-              }}
-            />
-          </XStack>
+          <Pressable key={practice.id} onPress={() => onPressPractice?.(practice.id)}>
+            <XStack
+              backgroundColor="$backgroundSurface"
+              borderRadius="$lg"
+              padding="$md"
+              alignItems="center"
+              gap="$md"
+              opacity={done ? 0.6 : 1}
+            >
+              <Text fontSize={20}>{getPracticeIcon(practice.icon)}</Text>
+              <Text flex={1} fontFamily="$body" fontSize="$3" color="$color">
+                {practice.name}
+              </Text>
+              <AnimatedCheckbox
+                checked={done}
+                onToggle={() => {
+                  lightTap()
+                  onToggle(practice.id, !done)
+                }}
+              />
+            </XStack>
+          </Pressable>
         )
       })}
     </YStack>

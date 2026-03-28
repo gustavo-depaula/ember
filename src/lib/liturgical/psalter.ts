@@ -29,7 +29,7 @@ export function getPsalmsForDay(
   }
 }
 
-const dayNames = [
+export const dayNames = [
   'sunday',
   'monday',
   'tuesday',

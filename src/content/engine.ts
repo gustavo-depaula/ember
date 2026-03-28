@@ -21,7 +21,6 @@ import {
   getMarianAntiphon,
   getPsalmsForDay,
   getTodaysReading,
-  type OfficeHour,
 } from '@/lib/liturgical'
 import type {
   FlowDefinition,
@@ -32,7 +31,8 @@ import type {
   VariantEntry,
 } from './types'
 
-type PrayerAsset = { title: string; english: string; latin?: string; portuguese?: string }
+type LocalizedTitle = { en: string; 'pt-BR'?: string; la?: string }
+type PrayerAsset = { title: LocalizedTitle; english: string; latin?: string; portuguese?: string }
 type CanticleAsset = {
   title: string
   subtitle?: string
@@ -123,15 +123,8 @@ function getOrdinal(index: number): string {
   return ordinals[index] ?? String(index + 1)
 }
 
-const dayNames = [
-  'sunday',
-  'monday',
-  'tuesday',
-  'wednesday',
-  'thursday',
-  'friday',
-  'saturday',
-] as const
+// Re-use the canonical day-name array from the psalter module
+import { dayNames } from '@/lib/liturgical/psalter'
 
 function substituteTemplateVars(text: string, vars: Record<string, string | undefined>): string {
   return text.replace(/\{\{(\w+)\}\}/g, (match, key) => vars[key] ?? match)
@@ -157,7 +150,10 @@ function substituteInFlowSection(
   return deepSubstitute(section, vars) as FlowSection
 }
 
-function resolveVariantData(variant: Variant, date: Date): VariantEntry[] | undefined {
+function resolveVariantData(
+  variant: Variant,
+  date: Date,
+): { entries: VariantEntry[]; setKey: string } | undefined {
   let setKey: string | undefined
   switch (variant.selector) {
     case 'day-of-week':
@@ -168,7 +164,12 @@ function resolveVariantData(variant: Variant, date: Date): VariantEntry[] | unde
       setKey = Object.keys(variant.data)[0]
       break
   }
-  return setKey ? variant.data[setKey] : undefined
+  if (!setKey || !variant.data[setKey]) return undefined
+  return { entries: variant.data[setKey], setKey }
+}
+
+function localizePrayerTitle(title: LocalizedTitle): string {
+  return localizeContent(title)
 }
 
 function resolvePrayerRef(ref: string): RenderedSection {
@@ -176,7 +177,7 @@ function resolvePrayerRef(ref: string): RenderedSection {
   if (!asset) {
     return { type: 'prayer', title: ref, text: `[Unknown prayer ref: ${ref}]` }
   }
-  return { type: 'prayer', title: asset.title, text: localizeAsset(asset) }
+  return { type: 'prayer', title: localizePrayerTitle(asset.title), text: localizeAsset(asset) }
 }
 
 function resolveCanticleRef(ref: string): RenderedSection {
@@ -210,18 +211,37 @@ function resolveRepeat(
   const { count, variable, sections: templateSections } = section
 
   let entries: VariantEntry[] | undefined
+  const preamble: RenderedSection[] = []
   if (variable) {
     if (!context.variant) {
       return [{ type: 'rubric', label: '[No variant loaded for repeat variable]' }]
     }
-    entries = resolveVariantData(context.variant, context.date)
-    if (!entries) {
+    const resolved = resolveVariantData(context.variant, context.date)
+    if (!resolved) {
       return [{ type: 'rubric', label: `[No data for variant key: ${variable.key}]` }]
+    }
+    entries = resolved.entries
+    const setName = context.variant.setNames?.[resolved.setKey]
+    if (setName) {
+      preamble.push({ type: 'heading', text: localizeContent(setName) })
     }
   }
 
   const iterCount = entries ? Math.min(count, entries.length) : count
-  return Array.from({ length: iterCount }, (_, i) => {
+
+  // Collapse repeated single-prayer refs into one section with a count
+  if (
+    !variable &&
+    templateSections.length === 1 &&
+    templateSections[0].type === 'prayer' &&
+    'ref' in templateSections[0]
+  ) {
+    const resolved = resolvePrayerRef(templateSections[0].ref)
+    if (resolved.type === 'prayer') return [{ ...resolved, count: iterCount }]
+    return [resolved]
+  }
+
+  const sections = Array.from({ length: iterCount }, (_, i) => {
     const entry = entries?.[i]
     const resolved: Record<string, string | undefined> = {}
     if (entry) {
@@ -239,6 +259,8 @@ function resolveRepeat(
       return resolveSection(substituted, context)
     })
   }).flat()
+
+  return [...preamble, ...sections]
 }
 
 function resolveSection(section: FlowSection, context: FlowContext): RenderedSection[] {
@@ -331,7 +353,7 @@ function resolveSection(section: FlowSection, context: FlowContext): RenderedSec
 
     case 'seasonal': {
       if (section.set === 'hymns') {
-        const hymn = getHymnForHour(section.hour as OfficeHour)
+        const hymn = getHymnForHour(section.hour)
         return [
           { type: 'hymn', title: hymn.title, latin: hymn.latin, english: localizeAsset(hymn) },
         ]

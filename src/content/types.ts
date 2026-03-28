@@ -1,7 +1,6 @@
-// Practice Content Architecture — Type Definitions
 // See docs/features/practice-content.md for the full spec
 
-import type { PsalmRef, ReadingReference } from '@/lib/liturgical'
+import type { OfficeHour, PsalmRef, ReadingReference } from '@/lib/liturgical'
 
 export type LocalizedText = { en: string; 'pt-BR'?: string }
 export type LocalizedBilingualText = { en: string; latin?: string; 'pt-BR'?: string }
@@ -63,9 +62,9 @@ export type FlowSection =
       variable?: { source: 'variant'; key: string }
       sections: FlowSection[]
     }
-  | { type: 'psalter'; hour: string; cycle: string }
+  | { type: 'psalter'; hour: OfficeHour; cycle: string }
   | { type: 'lectio'; testament: 'ot' | 'nt' | 'catechism' }
-  | { type: 'seasonal'; set: string; hour: string }
+  | { type: 'seasonal'; set: 'hymns' | 'marian-antiphon'; hour: OfficeHour }
 
 // --- Rendered Sections (engine output, consumed by renderer) ---
 
@@ -74,7 +73,7 @@ export type RenderedSection =
   | { type: 'divider' }
   | { type: 'heading'; text: string }
   | { type: 'image'; src: string; caption?: string }
-  | { type: 'prayer'; title: string; text: string }
+  | { type: 'prayer'; title: string; text: string; count?: number }
   | { type: 'hymn'; title: string; latin: string; english: string }
   | { type: 'canticle'; title: string; subtitle: string; source: string; text: string }
   | { type: 'meditation'; text: string }
@@ -89,6 +88,7 @@ export type Variant = {
   name: LocalizedText
   selector: 'day-of-week' | 'liturgical-season' | 'manual'
   schedule?: Record<string, string>
+  setNames?: Record<string, LocalizedText>
   data: Record<string, VariantEntry[]>
 }
 

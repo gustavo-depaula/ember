@@ -11,6 +11,12 @@
     "friday": "sorrowful",
     "saturday": "joyful"
   },
+  "setNames": {
+    "joyful": { "en": "The Joyful Mysteries", "pt-BR": "Mistérios Gozosos" },
+    "sorrowful": { "en": "The Sorrowful Mysteries", "pt-BR": "Mistérios Dolorosos" },
+    "glorious": { "en": "The Glorious Mysteries", "pt-BR": "Mistérios Gloriosos" },
+    "luminous": { "en": "The Luminous Mysteries", "pt-BR": "Mistérios Luminosos" }
+  },
   "data": {
     "joyful": [
       {
