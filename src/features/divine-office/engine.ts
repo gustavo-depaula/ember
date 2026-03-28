@@ -6,7 +6,7 @@ import openingVerse from '@/assets/prayers/opening-verse.json'
 import ourFather from '@/assets/prayers/our-father.json'
 import type { ReadingProgress } from '@/db/schema'
 import type { PsalmNumbering } from '@/lib/bolls'
-import i18n, { localizeAsset } from '@/lib/i18n'
+import i18n, { localizeAsset, localizeContent } from '@/lib/i18n'
 import {
   cccDailyCount,
   getComplinePsalms,
@@ -14,6 +14,7 @@ import {
   getMarianAntiphon,
   getPsalmsForDay,
   getTodaysReading,
+  type OfficeHour,
   type ReadingReference,
   readingTypeForHour,
 } from '@/lib/liturgical'
@@ -27,11 +28,10 @@ export {
   getLiturgicalSeason,
   getMarianAntiphon,
   getTodaysReading,
+  type OfficeHour,
 } from '@/lib/liturgical'
 export type { ReadingReference }
 export { cccDailyCount, readingTypeForHour }
-
-export type OfficeHour = 'morning' | 'evening' | 'compline'
 
 export type PrayerSection =
   | { type: 'rubric'; label: string }
@@ -59,7 +59,11 @@ function buildMorningEvening(
 
   const sections: PrayerSection[] = [
     { type: 'rubric', label: i18n.t('rubric.openingVerse') },
-    { type: 'prayer', title: openingVerse.title, text: localizeAsset(openingVerse) },
+    {
+      type: 'prayer',
+      title: localizeContent(openingVerse.title),
+      text: localizeAsset(openingVerse),
+    },
     { type: 'divider' },
     { type: 'rubric', label: i18n.t('rubric.hymn') },
     { type: 'hymn', title: hymn.title, latin: hymn.latin, english: localizeAsset(hymn) },
@@ -89,7 +93,7 @@ function buildMorningEvening(
     },
     { type: 'divider' },
     { type: 'rubric', label: i18n.t('rubric.ourFather') },
-    { type: 'prayer', title: ourFather.title, text: localizeAsset(ourFather) },
+    { type: 'prayer', title: localizeContent(ourFather.title), text: localizeAsset(ourFather) },
     { type: 'divider' },
     { type: 'complete' },
   )
@@ -108,7 +112,11 @@ function buildCompline(
 
   const sections: PrayerSection[] = [
     { type: 'rubric', label: i18n.t('rubric.openingVerse') },
-    { type: 'prayer', title: openingVerse.title, text: localizeAsset(openingVerse) },
+    {
+      type: 'prayer',
+      title: localizeContent(openingVerse.title),
+      text: localizeAsset(openingVerse),
+    },
     { type: 'divider' },
     { type: 'rubric', label: i18n.t('rubric.hymn') },
     { type: 'hymn', title: hymn.title, latin: hymn.latin, english: localizeAsset(hymn) },
@@ -138,7 +146,7 @@ function buildCompline(
     },
     { type: 'divider' },
     { type: 'rubric', label: i18n.t('rubric.closingPrayer') },
-    { type: 'prayer', title: gloryBe.title, text: localizeAsset(gloryBe) },
+    { type: 'prayer', title: localizeContent(gloryBe.title), text: localizeAsset(gloryBe) },
     { type: 'divider' },
     { type: 'rubric', label: i18n.t('rubric.marianAntiphon') },
     {

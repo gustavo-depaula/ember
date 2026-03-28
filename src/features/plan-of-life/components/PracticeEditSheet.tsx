@@ -14,7 +14,7 @@ import { localizeContent } from '@/lib/i18n'
 import { FrequencyPicker } from './FrequencyPicker'
 import { IconPicker } from './IconPicker'
 
-type PracticeFormData = {
+export type PracticeFormData = {
   name: string
   icon: string
   tier: Tier

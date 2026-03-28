@@ -17,10 +17,17 @@ export {
 } from './Ornament'
 export { FloralCorner, FloralVineBorder, WatercolorIcon } from './ornaments'
 export { PageBorder } from './PageBorder'
+export { HourButtons, PrayButton } from './PrayActionButtons'
 export { PrayerText } from './PrayerText'
 export { ProgressBar } from './ProgressBar'
 export { type PsalmData, PsalmodyBlock } from './PsalmodyBlock'
-export { CanticleBlock, HymnBlock, PrayerTextBlock, ResponseBlock } from './prayer'
+export {
+  CanticleBlock,
+  CollapsiblePrayer,
+  HymnBlock,
+  PrayerTextBlock,
+  ResponseBlock,
+} from './prayer'
 export { ReadingConfigBadge, ReadingConfigModal } from './ReadingConfigModal'
 export { RubricLabel } from './RubricLabel'
 export { ScreenLayout } from './ScreenLayout'

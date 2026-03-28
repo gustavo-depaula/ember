@@ -11,7 +11,7 @@ export function VariantSelector({
   onSelectVariant,
 }: {
   manifest: PracticeManifest
-  selectedVariantId: string | null
+  selectedVariantId: string | undefined
   onSelectVariant?: (variantId: string) => void
 }) {
   const { t } = useTranslation()

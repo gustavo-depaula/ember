@@ -10,7 +10,7 @@ import {
 } from '@/db/repositories'
 import { getPsalmNumbering } from '@/lib/bolls'
 import { getCccParagraphs } from '@/lib/catechism'
-import { getChapter, type Verse } from '@/lib/content'
+import { getChapter } from '@/lib/content'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
 import {
@@ -230,7 +230,9 @@ export function useSetReadingPosition() {
 
 // --- Content-loading hooks ---
 
-export type PsalmData = { ref: PsalmRef; verses: Verse[] }
+import type { PsalmData } from '@/components/PsalmodyBlock'
+
+export type { PsalmData }
 
 export function usePsalmsForHour(psalms: PsalmRef[], translation: string) {
   const results = useQueries({
@@ -295,14 +297,16 @@ export function usePrayerContent(hour: OfficeHour, date: string) {
   const translation = usePreferencesStore((s) => s.translation)
   const numbering = getPsalmNumbering(translation)
 
-  const { data: otProgress } = useReadingProgress('ot')
-  const { data: ntProgress } = useReadingProgress('nt')
-  const { data: catechismProgress } = useReadingProgress('catechism')
+  const { data: allProgress } = useAllReadingProgress()
 
-  const progress = useMemo(
-    () => ({ ot: otProgress, nt: ntProgress, catechism: catechismProgress }),
-    [otProgress, ntProgress, catechismProgress],
-  )
+  const progress = useMemo(() => {
+    if (!allProgress) return { ot: undefined, nt: undefined, catechism: undefined }
+    return {
+      ot: allProgress.find((p) => p.type === 'ot'),
+      nt: allProgress.find((p) => p.type === 'nt'),
+      catechism: allProgress.find((p) => p.type === 'catechism'),
+    }
+  }, [allProgress])
 
   const sections = useMemo(() => {
     const parsedDate = new Date(date)

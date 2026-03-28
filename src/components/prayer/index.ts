@@ -1,4 +1,5 @@
 export { CanticleBlock } from './CanticleBlock'
+export { CollapsiblePrayer } from './CollapsiblePrayer'
 export { HymnBlock } from './HymnBlock'
 export { PrayerTextBlock } from './PrayerTextBlock'
 export { ResponseBlock } from './ResponseBlock'

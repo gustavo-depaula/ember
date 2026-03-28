@@ -6,7 +6,7 @@ import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
-import { AnimatedPressable, GreenWall, ScreenLayout, SectionDivider } from '@/components'
+import { GreenWall, HourButtons, PrayButton, ScreenLayout, SectionDivider } from '@/components'
 import { getManifest } from '@/content/practices'
 import {
   getLongestPracticeStreak,
@@ -17,7 +17,6 @@ import {
   useUpdatePractice,
 } from '@/features/plan-of-life'
 import { PracticeTeachingContent, VariantSelector } from '@/features/practices/components'
-import { localizeContent } from '@/lib/i18n'
 
 export default function PracticeDetailScreen() {
   const { t } = useTranslation()
@@ -81,48 +80,10 @@ export default function PracticeDetailScreen() {
           </Text>
         </XStack>
 
-        {hasFlow && (
-          <AnimatedPressable onPress={() => router.push(`/pray/${practiceId}` as any)}>
-            <YStack
-              backgroundColor="$accent"
-              borderRadius="$md"
-              borderWidth={1}
-              borderColor="$accentSubtle"
-              paddingVertical="$sm"
-              alignItems="center"
-            >
-              <Text fontFamily="$heading" fontSize="$3" color="$background">
-                {t('practice.pray')}
-              </Text>
-            </YStack>
-          </AnimatedPressable>
+        {hasFlow && practiceId && <PrayButton practiceId={practiceId} />}
+        {hasHours && practiceId && manifest?.hours && (
+          <HourButtons practiceId={practiceId} hours={manifest.hours} />
         )}
-
-        {hasHours &&
-          manifest!.hours!.map((hour) => (
-            <AnimatedPressable
-              key={hour.id}
-              onPress={() => router.push(`/pray/${practiceId}?hour=${hour.id}` as any)}
-            >
-              <XStack
-                backgroundColor="$accent"
-                borderRadius="$md"
-                borderWidth={1}
-                borderColor="$accentSubtle"
-                paddingVertical="$sm"
-                paddingHorizontal="$md"
-                justifyContent="space-between"
-                alignItems="center"
-              >
-                <Text fontFamily="$heading" fontSize="$2" color="$background">
-                  {localizeContent(hour.name)}
-                </Text>
-                <Text fontFamily="$body" fontSize="$1" color="$background" opacity={0.8}>
-                  {t(`timeBlock.${hour.timeBlock}`)}
-                </Text>
-              </XStack>
-            </AnimatedPressable>
-          ))}
 
         <YStack alignItems="center">
           <GreenWall data={wallData} />
@@ -156,7 +117,7 @@ export default function PracticeDetailScreen() {
             <SectionDivider />
             <VariantSelector
               manifest={manifest}
-              selectedVariantId={practice.selected_variant}
+              selectedVariantId={practice.selected_variant ?? undefined}
               onSelectVariant={(variantId) =>
                 updatePractice.mutate({
                   id: practice.id,

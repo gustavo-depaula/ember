@@ -5,12 +5,20 @@ import { useTranslation } from 'react-i18next'
 import { Modal, Pressable } from 'react-native'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
-import { AnimatedPressable, ScreenLayout, SectionDivider } from '@/components'
+import {
+  AnimatedPressable,
+  HourButtons,
+  PrayButton,
+  ScreenLayout,
+  SectionDivider,
+} from '@/components'
 import { getManifest, getManifestIconKey } from '@/content/practices'
-import type { Frequency, Tier, TimeBlock } from '@/db/schema'
 import { getPracticeIcon } from '@/db/seed'
 import { useAllPractices, useCreatePractice, useUpdatePractice } from '@/features/plan-of-life'
-import { PracticeEditSheet } from '@/features/plan-of-life/components/PracticeEditSheet'
+import {
+  PracticeEditSheet,
+  type PracticeFormData,
+} from '@/features/plan-of-life/components/PracticeEditSheet'
 import { PracticeTeachingContent, VariantSelector } from '@/features/practices/components'
 import { localizeContent } from '@/lib/i18n'
 
@@ -54,18 +62,7 @@ export default function CatalogDetailScreen() {
     }
   }
 
-  function handleSave(data: {
-    name: string
-    icon: string
-    tier: Tier
-    timeBlock: TimeBlock
-    frequency: Frequency
-    frequencyDays: number[]
-    notifyEnabled: boolean
-    notifyTime: string
-    description: string
-    enabled: boolean
-  }) {
+  function handleSave(data: PracticeFormData) {
     if (practiceInDb) {
       updatePractice.mutate({
         id: practiceInDb.id,
@@ -122,52 +119,14 @@ export default function CatalogDetailScreen() {
           </YStack>
         </XStack>
 
-        {manifest.flow && (
-          <AnimatedPressable onPress={() => router.push(`/pray/${manifest.id}` as any)}>
-            <YStack
-              backgroundColor="$accent"
-              borderRadius="$md"
-              borderWidth={1}
-              borderColor="$accentSubtle"
-              paddingVertical="$sm"
-              alignItems="center"
-            >
-              <Text fontFamily="$heading" fontSize="$3" color="$background">
-                {t('practice.pray')}
-              </Text>
-            </YStack>
-          </AnimatedPressable>
-        )}
+        {manifest.flow && <PrayButton practiceId={manifest.id} />}
 
         {manifest.hours && manifest.hours.length > 0 && (
           <YStack gap="$sm">
             <Text fontFamily="$heading" fontSize="$3" color="$color">
               {t('catalog.hours')}
             </Text>
-            {manifest.hours.map((hour) => (
-              <AnimatedPressable
-                key={hour.id}
-                onPress={() => router.push(`/pray/${manifest.id}?hour=${hour.id}` as any)}
-              >
-                <XStack
-                  backgroundColor="$accent"
-                  borderRadius="$md"
-                  borderWidth={1}
-                  borderColor="$accentSubtle"
-                  paddingVertical="$sm"
-                  paddingHorizontal="$md"
-                  justifyContent="space-between"
-                  alignItems="center"
-                >
-                  <Text fontFamily="$heading" fontSize="$2" color="$background">
-                    {localizeContent(hour.name)}
-                  </Text>
-                  <Text fontFamily="$body" fontSize="$1" color="$background" opacity={0.8}>
-                    {t(`timeBlock.${hour.timeBlock}`)}
-                  </Text>
-                </XStack>
-              </AnimatedPressable>
-            ))}
+            <HourButtons practiceId={manifest.id} hours={manifest.hours} />
           </YStack>
         )}
 
@@ -217,7 +176,7 @@ export default function CatalogDetailScreen() {
             <SectionDivider />
             <VariantSelector
               manifest={manifest}
-              selectedVariantId={practiceInDb?.selected_variant ?? null}
+              selectedVariantId={practiceInDb?.selected_variant ?? undefined}
             />
           </>
         )}

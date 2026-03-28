@@ -12,6 +12,7 @@ import {
   BibleReadingBlock,
   CanticleBlock,
   CccReadingBlock,
+  CollapsiblePrayer,
   HeaderFlourish,
   HymnBlock,
   ManuscriptFrame,
@@ -193,16 +194,18 @@ export function PracticeFlow({ practiceId, hourId }: { practiceId: string; hourI
             </Text>
           </YStack>
 
-          {sections.map((section, index) => (
-            <PracticeSectionBlock
-              key={`${section.type}-${index}`}
-              section={section}
-              psalmData={psalmResult.data}
-              readingData={bibleResult.data?.verses}
-              readingFallback={bibleResult.data?.fallback}
-              cccData={cccResult.data}
-            />
-          ))}
+          <YStack gap="$md">
+            {sections.map((section, index) => (
+              <PracticeSectionBlock
+                key={`${section.type}-${index}`}
+                section={section}
+                psalmData={psalmResult.data}
+                readingData={bibleResult.data?.verses}
+                readingFallback={bibleResult.data?.fallback}
+                cccData={cccResult.data}
+              />
+            ))}
+          </YStack>
 
           <YStack paddingVertical="$lg" paddingHorizontal={readingMargin}>
             <AnimatedPressable onPress={handleComplete} disabled={togglePractice.isPending}>
@@ -247,6 +250,9 @@ function PracticeSectionBlock({
       return <RubricLabel>{section.label}</RubricLabel>
 
     case 'prayer':
+      if (section.title) {
+        return <CollapsiblePrayer title={section.title} text={section.text} count={section.count} />
+      }
       return <PrayerTextBlock text={section.text} />
 
     case 'hymn':
@@ -274,13 +280,7 @@ function PracticeSectionBlock({
 
     case 'meditation':
       return (
-        <Text
-          fontFamily="$body"
-          fontSize="$2"
-          fontStyle="italic"
-          color="$colorSecondary"
-          lineHeight={28}
-        >
+        <Text fontFamily="$body" fontSize="$3" fontStyle="italic" color="$color" lineHeight={30}>
           {section.text}
         </Text>
       )

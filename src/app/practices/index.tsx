@@ -17,6 +17,33 @@ import { getPracticeIcon } from '@/db/seed'
 import { useAllPractices } from '@/features/plan-of-life'
 import { localizeContent } from '@/lib/i18n'
 
+function CategoryChip({
+  label,
+  isActive,
+  onPress,
+}: {
+  label: string
+  isActive: boolean
+  onPress: () => void
+}) {
+  return (
+    <Pressable onPress={onPress}>
+      <YStack
+        paddingHorizontal="$md"
+        paddingVertical="$xs"
+        borderRadius="$md"
+        backgroundColor={isActive ? '$accent' : '$backgroundSurface'}
+        borderWidth={1}
+        borderColor={isActive ? '$accent' : '$borderColor'}
+      >
+        <Text fontFamily="$body" fontSize="$2" color={isActive ? 'white' : '$color'}>
+          {label}
+        </Text>
+      </YStack>
+    </Pressable>
+  )
+}
+
 function CategoryChips({
   categories,
   active,
@@ -34,39 +61,19 @@ function CategoryChips({
       showsHorizontalScrollIndicator={false}
       contentContainerStyle={{ gap: 8 }}
     >
-      <Pressable onPress={() => onSelect(undefined)}>
-        <YStack
-          paddingHorizontal="$md"
-          paddingVertical="$xs"
-          borderRadius="$md"
-          backgroundColor={!active ? '$accent' : '$backgroundSurface'}
-          borderWidth={1}
-          borderColor={!active ? '$accent' : '$borderColor'}
-        >
-          <Text fontFamily="$body" fontSize="$2" color={!active ? 'white' : '$color'}>
-            {t('catalog.all')}
-          </Text>
-        </YStack>
-      </Pressable>
-      {categories.map((cat) => {
-        const isActive = active === cat
-        return (
-          <Pressable key={cat} onPress={() => onSelect(cat)}>
-            <YStack
-              paddingHorizontal="$md"
-              paddingVertical="$xs"
-              borderRadius="$md"
-              backgroundColor={isActive ? '$accent' : '$backgroundSurface'}
-              borderWidth={1}
-              borderColor={isActive ? '$accent' : '$borderColor'}
-            >
-              <Text fontFamily="$body" fontSize="$2" color={isActive ? 'white' : '$color'}>
-                {t(`category.${cat}`, { defaultValue: cat })}
-              </Text>
-            </YStack>
-          </Pressable>
-        )
-      })}
+      <CategoryChip
+        label={t('catalog.all')}
+        isActive={!active}
+        onPress={() => onSelect(undefined)}
+      />
+      {categories.map((cat) => (
+        <CategoryChip
+          key={cat}
+          label={t(`category.${cat}`, { defaultValue: cat })}
+          isActive={active === cat}
+          onPress={() => onSelect(cat)}
+        />
+      ))}
     </ScrollView>
   )
 }
