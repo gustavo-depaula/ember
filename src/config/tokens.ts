@@ -12,22 +12,22 @@ export const tokens = createTokens({
     goldSubtle: '#D4C088',
     borderLight: '#E5DDD2',
 
-    // Dark mode
-    espresso: '#1C1710',
-    espressoSurface: '#2A2318',
-    creamSoft: '#F0E6D3',
-    creamMuted: '#A89F91',
-    borderDark: '#3D3528',
+    // Dark mode (Tenebrae — gothic cathedral)
+    espresso: '#0E0D0C',
+    espressoSurface: '#1A1816',
+    creamSoft: '#EDE4D8',
+    creamMuted: '#918880',
+    borderDark: '#2A2622',
 
     // Secondary accents
     burgundy: '#6B1D2A',
-    burgundyLight: '#C4707E',
+    burgundyLight: '#C75B6B',
     mutedBlue: '#3D5A80',
-    mutedBlueLight: '#7BA0C4',
+    mutedBlueLight: '#7A9EC8',
     cloisterGreen: '#2D6A4F',
-    cloisterGreenLight: '#5AAA7E',
-    goldMuted: '#6B5D3A',
-    goldBright: '#D4B44C',
+    cloisterGreenLight: '#52A878',
+    goldMuted: '#5C4D2A',
+    goldBright: '#D4A63A',
 
     // Ornament palette (Book of Hours)
     floralRed: '#B83A3A',
@@ -40,11 +40,11 @@ export const tokens = createTokens({
     vineGreenLight: '#6AAE6A',
     vineGreenDark: '#2A5A3A',
 
-    // Dark mode ornament palette (muted jewel tones)
-    floralRedDark: '#8A3030',
-    floralBlueDark: '#3A5570',
-    floralOrangeDark: '#A06A30',
-    vineGreenDarkMode: '#2A5A3A',
+    // Dark mode ornament palette (stained-glass jewel tones)
+    floralRedDark: '#9A2E2E',
+    floralBlueDark: '#3B5E8A',
+    floralOrangeDark: '#B87830',
+    vineGreenDarkMode: '#2D6840',
 
     // Green wall — light
     wallEmptyLight: '#E8E4D9',
@@ -54,11 +54,11 @@ export const tokens = createTokens({
     wallFullLight: '#2D6A4F',
 
     // Green wall — dark
-    wallEmptyDark: '#2A2419',
-    wallLowDark: '#2D4A3A',
-    wallMediumDark: '#2D6A4F',
-    wallHighDark: '#3D8B5E',
-    wallFullDark: '#4FAA6E',
+    wallEmptyDark: '#1A1816',
+    wallLowDark: '#1E3A2E',
+    wallMediumDark: '#286848',
+    wallHighDark: '#388A58',
+    wallFullDark: '#48A868',
 
     // Liturgical
     advent: '#5B2C6F',
