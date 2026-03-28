@@ -5,8 +5,11 @@ import { KeyboardAvoidingView, Platform, Pressable, ScrollView, Switch } from 'r
 import { Input, Text, XStack, YStack } from 'tamagui'
 
 import { tierConfig } from '@/config/constants'
+import { getManifestIconKey } from '@/content/practices'
+import type { PracticeManifest } from '@/content/types'
 import type { Frequency, Practice, Tier, TimeBlock } from '@/db/schema'
 import { parseFrequencyDays } from '@/features/plan-of-life/utils'
+import { localizeContent } from '@/lib/i18n'
 
 import { FrequencyPicker } from './FrequencyPicker'
 import { IconPicker } from './IconPicker'
@@ -96,29 +99,37 @@ function TimeBlockSelector({
 
 export function PracticeEditSheet({
   practice,
+  manifest,
+  mode = 'edit',
   onSave,
   onDelete,
   onClose,
 }: {
   practice?: Practice
+  manifest?: PracticeManifest
+  mode?: 'edit' | 'add'
   onSave: (data: PracticeFormData) => void
   onDelete?: () => void
   onClose: () => void
 }) {
   const { t } = useTranslation()
-  const isBuiltin = practice ? practice.is_builtin === 1 : false
+  const isAddMode = mode === 'add'
+  const isBuiltin = isAddMode || (practice ? practice.is_builtin === 1 : false)
   const isNew = !practice
 
+  const manifestName = manifest ? localizeContent(manifest.name) : ''
+  const manifestDesc = manifest?.description ? localizeContent(manifest.description) : ''
+
   const [form, setForm] = useState<PracticeFormData>({
-    name: practice?.name ?? '',
-    icon: practice?.icon ?? 'prayer',
-    tier: practice?.tier ?? 'essential',
+    name: practice?.name ?? manifestName ?? '',
+    icon: practice?.icon ?? (manifest ? getManifestIconKey(manifest.id) : 'prayer'),
+    tier: practice?.tier ?? 'ideal',
     timeBlock: practice?.time_block ?? 'flexible',
     frequency: practice?.frequency ?? 'daily',
     frequencyDays: practice ? parseFrequencyDays(practice) : [],
     notifyEnabled: practice?.notify_enabled === 1,
     notifyTime: practice?.notify_time ?? '08:00',
-    description: practice?.description ?? '',
+    description: practice?.description ?? manifestDesc ?? '',
     enabled: practice ? practice.enabled === 1 : true,
   })
 
@@ -147,7 +158,11 @@ export function PracticeEditSheet({
       >
         <XStack justifyContent="space-between" alignItems="center">
           <Text fontFamily="$heading" fontSize="$4" color="$color">
-            {isNew ? t('editor.newPractice') : t('editor.editPractice')}
+            {isAddMode
+              ? manifestName || t('catalog.addToPlan')
+              : isNew
+                ? t('editor.newPractice')
+                : t('editor.editPractice')}
           </Text>
           <Pressable onPress={onClose}>
             <Text fontFamily="$body" fontSize="$3" color="$colorSecondary">
@@ -238,12 +253,14 @@ export function PracticeEditSheet({
               </XStack>
             )}
 
-            <XStack justifyContent="space-between" alignItems="center">
-              <Text fontFamily="$heading" fontSize="$2" color="$color">
-                {t('editor.enabled')}
-              </Text>
-              <Switch value={form.enabled} onValueChange={(v) => update('enabled', v)} />
-            </XStack>
+            {!isAddMode && (
+              <XStack justifyContent="space-between" alignItems="center">
+                <Text fontFamily="$heading" fontSize="$2" color="$color">
+                  {t('editor.enabled')}
+                </Text>
+                <Switch value={form.enabled} onValueChange={(v) => update('enabled', v)} />
+              </XStack>
+            )}
 
             <Pressable onPress={() => onSave(form)}>
               <YStack
@@ -253,7 +270,11 @@ export function PracticeEditSheet({
                 alignItems="center"
               >
                 <Text fontFamily="$heading" fontSize="$3" color="white">
-                  {isNew ? t('editor.createPractice') : t('editor.saveChanges')}
+                  {isAddMode
+                    ? t('catalog.addToPlan')
+                    : isNew
+                      ? t('editor.createPractice')
+                      : t('editor.saveChanges')}
                 </Text>
               </YStack>
             </Pressable>

@@ -14,7 +14,9 @@ import {
   getPracticeName,
   usePracticeStats,
   usePractices,
+  useUpdatePractice,
 } from '@/features/plan-of-life'
+import { PracticeTeachingContent, VariantSelector } from '@/features/practices/components'
 
 export default function PracticeDetailScreen() {
   const { t } = useTranslation()
@@ -26,6 +28,7 @@ export default function PracticeDetailScreen() {
   const practice = practices.find((p) => p.id === practiceId)
   const manifest = practiceId ? getManifest(practiceId) : undefined
   const hasFlow = manifest?.flow !== undefined
+  const updatePractice = useUpdatePractice()
 
   const { data: practiceStats } = usePracticeStats(practiceId ?? '')
 
@@ -119,6 +122,29 @@ export default function PracticeDetailScreen() {
             </YStack>
           ))}
         </XStack>
+
+        {manifest?.variants && manifest.variants.length > 0 && (
+          <>
+            <SectionDivider />
+            <VariantSelector
+              manifest={manifest}
+              selectedVariantId={practice.selected_variant}
+              onSelectVariant={(variantId) =>
+                updatePractice.mutate({
+                  id: practice.id,
+                  data: { selectedVariant: variantId },
+                })
+              }
+            />
+          </>
+        )}
+
+        {manifest && (
+          <>
+            <SectionDivider />
+            <PracticeTeachingContent manifest={manifest} />
+          </>
+        )}
       </YStack>
     </ScreenLayout>
   )
