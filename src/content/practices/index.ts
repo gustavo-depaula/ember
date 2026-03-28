@@ -1,3 +1,4 @@
+import { localizeContent } from '@/lib/i18n'
 import type { FlowDefinition, PracticeManifest, Variant } from '../types'
 import angelusFlow from './angelus/flow.json'
 import angelusManifest from './angelus/manifest.json'
@@ -72,4 +73,41 @@ export function getDefaultVariant(manifestId: string): Variant | undefined {
   if (!manifest?.variants?.length) return undefined
   const firstVariantId = manifest.variants[0].id
   return variants[manifestId]?.[firstVariantId]
+}
+
+export function getManifestIconKey(manifestId: string): string {
+  const map: Record<string, string> = {
+    'stations-cross': 'cross',
+    'divine-mercy': 'mercy',
+    'guardian-angel': 'angel',
+    memorare: 'mary',
+    'morning-offering': 'sunrise',
+    angelus: 'bell',
+    rosary: 'rosary',
+  }
+  return map[manifestId] ?? 'prayer'
+}
+
+export function getManifestCategories(): string[] {
+  const cats = new Set<string>()
+  for (const m of Object.values(manifests)) {
+    for (const c of m.categories) cats.add(c)
+  }
+  return Array.from(cats).sort()
+}
+
+export function getManifestsByCategory(category?: string): PracticeManifest[] {
+  const all = Object.values(manifests)
+  if (!category) return all
+  return all.filter((m) => m.categories.includes(category))
+}
+
+export function searchManifests(query: string): PracticeManifest[] {
+  const q = query.toLowerCase()
+  return Object.values(manifests).filter((m) => {
+    if (localizeContent(m.name).toLowerCase().includes(q)) return true
+    if (m.tags?.some((t) => t.toLowerCase().includes(q))) return true
+    if (m.description && localizeContent(m.description).toLowerCase().includes(q)) return true
+    return false
+  })
 }

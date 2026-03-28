@@ -88,6 +88,7 @@ const updateFieldMap: Record<string, string> = {
   notifyEnabled: 'notify_enabled',
   notifyTime: 'notify_time',
   description: 'description',
+  selectedVariant: 'selected_variant',
 }
 
 export async function updatePractice(
@@ -103,6 +104,7 @@ export async function updatePractice(
     notifyEnabled: number
     notifyTime: string | null
     description: string
+    selectedVariant: string | null
   }>,
 ): Promise<void> {
   const sets: string[] = []

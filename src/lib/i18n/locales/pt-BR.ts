@@ -319,6 +319,33 @@ export default {
     },
   },
 
+  catalog: {
+    title: 'Pr\u00e1ticas',
+    search: 'Buscar pr\u00e1ticas...',
+    all: 'Todas',
+    addToPlan: 'Adicionar ao Plano',
+    alreadyInPlan: 'No seu Plano',
+    estimatedTime: '{{minutes}} min',
+    about: 'Sobre',
+    history: 'Hist\u00f3ria',
+    howToPray: 'Como Rezar',
+    variant: 'Estilo de Medita\u00e7\u00e3o',
+    browseCatalog: 'Explorar Cat\u00e1logo de Pr\u00e1ticas',
+    noResults: 'Nenhuma pr\u00e1tica encontrada',
+  },
+
+  category: {
+    daily: 'Di\u00e1rio',
+    marian: 'Mariano',
+    meditation: 'Medita\u00e7\u00e3o',
+    chaplet: 'Ter\u00e7o',
+    angelic: 'Ang\u00e9lico',
+    lenten: 'Quaresmal',
+    passion: 'Paix\u00e3o',
+    offering: 'Oferecimento',
+    incarnation: 'Encarna\u00e7\u00e3o',
+  },
+
   common: {
     loading: 'Carregando...',
     back: 'Voltar',

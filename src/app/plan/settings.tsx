@@ -209,6 +209,24 @@ export default function PlanSettingsScreen() {
             </Text>
           </XStack>
         </Pressable>
+
+        <Pressable onPress={() => router.push('/practices' as any)}>
+          <XStack
+            backgroundColor="$backgroundSurface"
+            borderRadius="$lg"
+            padding="$md"
+            alignItems="center"
+            justifyContent="center"
+            gap="$sm"
+          >
+            <Text fontFamily="$body" fontSize="$3" color="$accent">
+              {t('catalog.browseCatalog')}
+            </Text>
+            <Text fontFamily="$body" fontSize="$2" color="$accent">
+              ›
+            </Text>
+          </XStack>
+        </Pressable>
       </YStack>
 
       <Modal

@@ -319,6 +319,33 @@ export default {
     },
   },
 
+  catalog: {
+    title: 'Practices',
+    search: 'Search practices...',
+    all: 'All',
+    addToPlan: 'Add to Plan',
+    alreadyInPlan: 'In your Plan',
+    estimatedTime: '{{minutes}} min',
+    about: 'About',
+    history: 'History',
+    howToPray: 'How to Pray',
+    variant: 'Meditation Style',
+    browseCatalog: 'Browse Practice Catalog',
+    noResults: 'No practices found',
+  },
+
+  category: {
+    daily: 'Daily',
+    marian: 'Marian',
+    meditation: 'Meditation',
+    chaplet: 'Chaplet',
+    angelic: 'Angelic',
+    lenten: 'Lenten',
+    passion: 'Passion',
+    offering: 'Offering',
+    incarnation: 'Incarnation',
+  },
+
   common: {
     loading: 'Loading...',
     back: 'Back',
