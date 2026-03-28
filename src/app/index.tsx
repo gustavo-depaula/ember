@@ -93,7 +93,7 @@ export default function HomeScreen() {
           <AppShortcuts />
         </FadeInView>
 
-        {/* 4. Today's Plan of Life */}
+        {/* 3. Today's Plan of Life */}
         {todayPractices.length > 0 && (
           <YStack gap="$md">
             {activeBlocks.map(({ block, def }, i) => {

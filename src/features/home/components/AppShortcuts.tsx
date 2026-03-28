@@ -9,6 +9,7 @@ type IconName = 'sunrise' | 'book' | 'rosary' | 'moon' | 'quill' | 'cross'
 
 const shortcuts = [
   { icon: 'book' as IconName, labelKey: 'home.divineOffice', route: '/office' },
+  { icon: 'cross' as IconName, labelKey: 'home.holyMass', route: '/mass' },
   { icon: 'cross' as IconName, labelKey: 'home.sacredScripture', route: '/bible' },
   { icon: 'book' as IconName, labelKey: 'home.catechism', route: '/catechism' },
   { icon: 'quill' as IconName, labelKey: 'home.planOfLife', route: '/plan' },

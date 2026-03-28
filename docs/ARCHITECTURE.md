@@ -31,6 +31,7 @@
 /office/[hour]          -> Prayer Flow (dynamic route for morning/evening/compline)
 /plan/                  -> Plan of Life (green wall overview + stats + practice checklist)
 /plan/[practiceId]      -> Individual practice detail with its own green wall + stats
+/mass                   -> Ordo Missae (static reference, OF/EF toggle, bilingual prayers)
 /settings/              -> Settings (reading progress, translation picker, theme toggle)
 /settings/books         -> Mark books as already read (checklist of 73 books)
 /settings/position      -> Change reading position (query param: type=ot|nt|catechism)
