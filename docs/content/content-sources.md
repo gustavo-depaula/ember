@@ -8,6 +8,9 @@
 | Bible (NABRE, RSV) | Bolls.life API | Free, no auth | REST API | Cached after first fetch |
 | Catechism (CCC) | `nossbigg/catechism-ccc-json` (GitHub) | Scraped from Vatican | JSON | Yes (bundled) |
 | Psalter & Hymns | `divinumofficium/divinum-officium` (GitHub) | MIT | Custom text -> JSON | Yes (bundled) |
+| EF Mass Propers | Missale Meum API (`missalemeum.com`) | Open source | REST JSON | Cached after fetch |
+| OF Daily Readings | Evangelizo (`feed.evangelizo.org`) | Free | HTTP | Cached after fetch |
+| Liturgical Calendar | Catholic Readings API (GitHub Pages) | MIT | REST JSON | Cached after fetch |
 
 ---
 
@@ -139,6 +142,41 @@ These are well-known prayers that don't need an external source — just bundle 
 
 ---
 
+## Daily Mass Readings & Propers
+
+See `docs/features/daily-readings.md` for full research on data sources for daily Mass readings, collects, antiphons, and propers. Summary:
+
+### Missale Meum API (EF Complete Propers)
+
+- **Base URL:** `https://www.missalemeum.com/{lang}/api/v5/proper/{YYYY-MM-DD}`
+- **Docs:** https://www.missalemeum.com/docs
+- **Auth:** None
+- **Cost:** Free, open source
+- **Content:** Complete daily Mass propers for the 1962 Missal — Introit, Collect, Epistle, Gradual, Gospel, Offertory, Secret, Preface, Communion Antiphon, Postcommunion. Bilingual Latin/English.
+- **Source data:** Divinum Officium
+
+### Catholic Readings API (OF Calendar + References)
+
+- **Readings:** `https://cpbjr.github.io/catholic-readings-api/readings/{YYYY}/{MM-DD}.json`
+- **Calendar:** `https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/{YYYY}/{MM-DD}.json`
+- **Auth:** None (GitHub Pages)
+- **Cost:** Free, MIT license
+- **Content:** Scripture references (not full text) + liturgical day metadata (season, celebration, feast type, saint info)
+
+### Evangelizo.org (OF Full Reading Text)
+
+- **URL:** `https://feed.evangelizo.org/v2/reader.php?date={YYYYMMDD}&lang={LANG}&type=all`
+- **Auth:** None
+- **Cost:** Free
+- **Content:** Full text of daily Mass readings (First Reading, Psalm, Second Reading, Gospel) + saint commentary
+- **Languages:** AM (English), PT, FR, ES, and more
+
+### OF Propers Gap
+
+No free API provides Ordinary Form collects, antiphons, or variable prayers in structured format. These are copyrighted by ICEL. Universalis (universalis.com) claims to offer them via JSONP but documentation is incomplete.
+
+---
+
 ## Attribution Requirements
 
 The app should include an attribution/credits screen listing:
@@ -147,4 +185,7 @@ The app should include an attribution/credits screen listing:
 2. "Online translations provided by Bolls.life."
 3. "Catechism of the Catholic Church, copyright Libreria Editrice Vaticana."
 4. "Liturgical texts from Divinum Officium (MIT License)."
-5. Links to the GitHub repositories used.
+5. "Traditional Mass propers from Missale Meum (missalemeum.com), powered by Divinum Officium."
+6. "Liturgical calendar data from Catholic Readings API (MIT License)."
+7. "Daily readings provided by Evangelizo.org."
+8. Links to the GitHub repositories used.
