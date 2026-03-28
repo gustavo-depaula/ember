@@ -332,6 +332,7 @@ export default {
     variant: 'Meditation Style',
     browseCatalog: 'Browse Practice Catalog',
     noResults: 'No practices found',
+    hours: 'Hours',
   },
 
   category: {
@@ -449,6 +450,7 @@ export default {
     trisagion: 'Trisagion Prayers',
     paraklesis: 'Paraklesis',
     prostrations: 'Prostrations',
+    'little-office-bvm': 'Little Office of the BVM',
     pray: 'Pray',
     noContent: 'No prayer content available for this practice yet.',
   },

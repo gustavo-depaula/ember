@@ -49,23 +49,24 @@ export const useReadingConfigStore = create<ReadingConfigState>()(
 
     setFontSizeStep: (step) => {
       const clamped = clamp(step)
+      const minLineHeight = Math.max(minStep, clamped - 1)
       let bumpedLineHeight = false
       set((state) => {
         state.fontSizeStep = clamped
-        if (state.lineHeightStep < clamped) {
-          state.lineHeightStep = clamped
+        if (state.lineHeightStep < minLineHeight) {
+          state.lineHeightStep = minLineHeight
           bumpedLineHeight = true
         }
       })
       AsyncStorage.setItem('reading-font-size', String(clamped))
       if (bumpedLineHeight) {
-        AsyncStorage.setItem('reading-line-height', String(clamped))
+        AsyncStorage.setItem('reading-line-height', String(minLineHeight))
       }
     },
 
     setLineHeightStep: (step) => {
       const current = useReadingConfigStore.getState().fontSizeStep
-      const persisted = clamp(Math.max(step, current))
+      const persisted = clamp(Math.max(step, current - 1))
       set((state) => {
         state.lineHeightStep = persisted
       })
@@ -112,8 +113,9 @@ export const useReadingConfigStore = create<ReadingConfigState>()(
         if (textAlign === 'justify' || textAlign === 'left') {
           state.textAlign = textAlign
         }
-        if (state.lineHeightStep < state.fontSizeStep) {
-          state.lineHeightStep = state.fontSizeStep
+        const minLineHeight = Math.max(minStep, state.fontSizeStep - 1)
+        if (state.lineHeightStep < minLineHeight) {
+          state.lineHeightStep = minLineHeight
         }
         state.hydrated = true
       })

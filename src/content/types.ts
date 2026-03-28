@@ -1,6 +1,8 @@
 // Practice Content Architecture — Type Definitions
 // See docs/features/practice-content.md for the full spec
 
+import type { PsalmRef, ReadingReference } from '@/lib/liturgical'
+
 export type LocalizedText = { en: string; 'pt-BR'?: string }
 export type LocalizedBilingualText = { en: string; latin?: string; 'pt-BR'?: string }
 
@@ -77,6 +79,8 @@ export type RenderedSection =
   | { type: 'canticle'; title: string; subtitle: string; source: string; text: string }
   | { type: 'meditation'; text: string }
   | { type: 'response'; verses: { v: string; r: string }[] }
+  | { type: 'psalmody'; psalms: PsalmRef[] }
+  | { type: 'reading'; reference: ReadingReference }
 
 // --- Variant ---
 

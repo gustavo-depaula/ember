@@ -6,6 +6,15 @@ import divineMercyFlow from './divine-mercy/flow.json'
 import divineMercyManifest from './divine-mercy/manifest.json'
 import guardianAngelFlow from './guardian-angel/flow.json'
 import guardianAngelManifest from './guardian-angel/manifest.json'
+import littleOfficeCompline from './little-office-bvm/flows/compline.json'
+import littleOfficeLauds from './little-office-bvm/flows/lauds.json'
+import littleOfficeMatins from './little-office-bvm/flows/matins.json'
+import littleOfficeNone from './little-office-bvm/flows/none.json'
+import littleOfficePrime from './little-office-bvm/flows/prime.json'
+import littleOfficeSext from './little-office-bvm/flows/sext.json'
+import littleOfficeTerce from './little-office-bvm/flows/terce.json'
+import littleOfficeVespers from './little-office-bvm/flows/vespers.json'
+import littleOfficeManifest from './little-office-bvm/manifest.json'
 import memorareFlow from './memorare/flow.json'
 import memorareManifest from './memorare/manifest.json'
 import morningOfferingFlow from './morning-offering/flow.json'
@@ -28,6 +37,7 @@ const manifests: Record<string, PracticeManifest> = {
   rosary: rosaryManifest as PracticeManifest,
   'divine-mercy': divineMercyManifest as PracticeManifest,
   'stations-cross': stationsCrossManifest as PracticeManifest,
+  'little-office-bvm': littleOfficeManifest as PracticeManifest,
 }
 
 const flows: Record<string, FlowDefinition> = {
@@ -38,6 +48,14 @@ const flows: Record<string, FlowDefinition> = {
   rosary: rosaryFlow as FlowDefinition,
   'divine-mercy': divineMercyFlow as FlowDefinition,
   'stations-cross': stationsCrossFlow as FlowDefinition,
+  'little-office-bvm/matins': littleOfficeMatins as FlowDefinition,
+  'little-office-bvm/lauds': littleOfficeLauds as FlowDefinition,
+  'little-office-bvm/prime': littleOfficePrime as FlowDefinition,
+  'little-office-bvm/terce': littleOfficeTerce as FlowDefinition,
+  'little-office-bvm/sext': littleOfficeSext as FlowDefinition,
+  'little-office-bvm/none': littleOfficeNone as FlowDefinition,
+  'little-office-bvm/vespers': littleOfficeVespers as FlowDefinition,
+  'little-office-bvm/compline': littleOfficeCompline as FlowDefinition,
 }
 
 const variants: Record<string, Record<string, Variant>> = {
@@ -64,6 +82,10 @@ export function loadFlow(manifestId: string): FlowDefinition | undefined {
   return flows[manifestId]
 }
 
+export function loadHourFlow(manifestId: string, hourId: string): FlowDefinition | undefined {
+  return flows[`${manifestId}/${hourId}`]
+}
+
 export function loadVariant(manifestId: string, variantId: string): Variant | undefined {
   return variants[manifestId]?.[variantId]
 }
@@ -84,6 +106,7 @@ export function getManifestIconKey(manifestId: string): string {
     'morning-offering': 'sunrise',
     angelus: 'bell',
     rosary: 'rosary',
+    'little-office-bvm': 'mary',
   }
   return map[manifestId] ?? 'prayer'
 }

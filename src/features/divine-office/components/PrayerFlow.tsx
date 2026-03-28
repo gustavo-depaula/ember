@@ -7,16 +7,17 @@ import { Spinner, Text, useTheme, XStack, YStack } from 'tamagui'
 
 import {
   AnimatedPressable,
+  BibleReadingBlock,
   CanticleBlock,
-  DropCap,
+  CccReadingBlock,
   HeaderFlourish,
   HymnBlock,
-  IlluminatedInitial,
   ManuscriptFrame,
   OrnamentalRule,
   PageBreakOrnament,
-  PrayerText,
   PrayerTextBlock,
+  type PsalmData,
+  PsalmodyBlock,
   RubricLabel,
   ScreenLayout,
 } from '@/components'
@@ -26,13 +27,11 @@ import { successBuzz } from '@/lib/haptics'
 import { formatLocalized } from '@/lib/i18n/dateLocale'
 import { cccDailyCount, type OfficeHour, type PrayerSection, readingTypeForHour } from '../engine'
 import {
-  type PsalmData,
   useAdvanceReading,
   useCompleteOfficeHour,
   useDailyOfficeStatus,
   usePrayerContent,
 } from '../hooks'
-import { formatPsalmRef } from '../psalter'
 
 const hourLabelKeys: Record<OfficeHour, string> = {
   morning: 'office.morningPrayer',
@@ -218,107 +217,6 @@ function SectionBlock({
     default:
       return undefined
   }
-}
-
-function PsalmodyBlock({ psalmData }: { psalmData: PsalmData[] }) {
-  if (psalmData.length === 0) return undefined
-
-  return (
-    <YStack gap="$lg">
-      {psalmData.map((psalm, i) => (
-        <YStack key={`${psalm.ref.psalm}-${i}`} gap="$sm">
-          <Text fontFamily="$body" fontSize="$1" color="$colorMutedBlue" fontWeight="500">
-            {formatPsalmRef(psalm.ref)}
-          </Text>
-          {psalm.verses.length > 0 && (
-            <>
-              <DropCap text={psalm.verses[0].text} />
-              {psalm.verses.slice(1).map((v) => (
-                <PrayerText key={v.verse}>{v.text}</PrayerText>
-              ))}
-            </>
-          )}
-        </YStack>
-      ))}
-    </YStack>
-  )
-}
-
-function BibleReadingBlock({
-  reference,
-  verses,
-  fallback,
-  illuminated = false,
-}: {
-  reference: { type: 'bible'; book: string; bookName: string; chapter: number }
-  verses: Verse[] | undefined
-  fallback?: boolean
-  illuminated?: boolean
-}) {
-  const { t } = useTranslation()
-  if (!verses) return undefined
-
-  return (
-    <YStack gap="$sm">
-      {fallback && (
-        <XStack backgroundColor="$backgroundSurface" borderRadius="$md" padding="$sm">
-          <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
-            {t('office.fallbackNotice')}
-          </Text>
-        </XStack>
-      )}
-      <Text fontFamily="$body" fontSize="$2" color="$colorMutedBlue" fontWeight="500">
-        {t(`bookName.${reference.book}`, { defaultValue: reference.bookName })} {reference.chapter}
-      </Text>
-      {verses.length > 0 && (
-        <>
-          {illuminated ? (
-            <IlluminatedInitial text={verses[0].text} />
-          ) : (
-            <DropCap text={verses[0].text} />
-          )}
-          {verses.slice(1).map((v) => (
-            <PrayerText key={v.verse}>{v.text}</PrayerText>
-          ))}
-        </>
-      )}
-    </YStack>
-  )
-}
-
-function CccReadingBlock({
-  reference,
-  paragraphs,
-}: {
-  reference: { type: 'catechism'; startParagraph: number; count: number }
-  paragraphs: Array<{ number: number; text: string; section: string }> | undefined
-}) {
-  const { t } = useTranslation()
-  if (!paragraphs || paragraphs.length === 0) return undefined
-
-  const endParagraph = reference.startParagraph + reference.count - 1
-
-  return (
-    <YStack gap="$sm">
-      <Text fontFamily="$body" fontSize="$2" color="$colorMutedBlue" fontWeight="500">
-        {t('office.cccLabel', { start: reference.startParagraph, end: endParagraph })}
-      </Text>
-      {paragraphs.map((p) => (
-        <XStack key={p.number} gap="$sm" alignItems="flex-start">
-          <Text
-            fontFamily="$body"
-            fontSize="$1"
-            color="$colorMutedBlue"
-            fontWeight="600"
-            width={36}
-          >
-            {p.number}
-          </Text>
-          <PrayerText flex={1}>{p.text}</PrayerText>
-        </XStack>
-      ))}
-    </YStack>
-  )
 }
 
 function CompleteButton({
