@@ -1,7 +1,6 @@
 import AsyncStorage from '@react-native-async-storage/async-storage'
 import { create } from 'zustand'
 import { immer } from 'zustand/middleware/immer'
-import type { MassForm } from '@/features/mass/content'
 import { defaultTranslationForLanguage } from '@/lib/bolls'
 import i18n from '@/lib/i18n'
 
@@ -11,12 +10,12 @@ type PreferencesState = {
   translation: string
   psalterCycle: PsalterCycle
   language: string
-  massForm: MassForm
+  formPreferences: Record<string, string>
   hydrated: boolean
   setTranslation: (translation: string) => void
   setPsalterCycle: (cycle: PsalterCycle) => void
   setLanguage: (language: string) => void
-  setMassForm: (form: MassForm) => void
+  setFormPreference: (practiceId: string, formId: string) => void
   hydrate: () => Promise<void>
 }
 
@@ -25,7 +24,7 @@ export const usePreferencesStore = create<PreferencesState>()(
     translation: 'RSV2CE',
     psalterCycle: '30-day',
     language: 'en',
-    massForm: 'ordinary' as MassForm,
+    formPreferences: {},
     hydrated: false,
 
     setTranslation: (translation) => {
@@ -53,25 +52,38 @@ export const usePreferencesStore = create<PreferencesState>()(
       i18n.changeLanguage(language)
     },
 
-    setMassForm: (form) => {
+    setFormPreference: (practiceId, formId) => {
       set((state) => {
-        state.massForm = form
+        state.formPreferences[practiceId] = formId
       })
-      AsyncStorage.setItem('mass-form', form)
+      AsyncStorage.setItem(
+        'form-preferences',
+        JSON.stringify({ ...usePreferencesStore.getState().formPreferences, [practiceId]: formId }),
+      )
     },
 
     hydrate: async () => {
-      const [translation, psalterCycle, language, massForm] = await Promise.all([
-        AsyncStorage.getItem('translation'),
-        AsyncStorage.getItem('psalter-cycle'),
-        AsyncStorage.getItem('language'),
-        AsyncStorage.getItem('mass-form'),
-      ])
+      const [translation, psalterCycle, language, formPrefsJson, legacyMassForm] =
+        await Promise.all([
+          AsyncStorage.getItem('translation'),
+          AsyncStorage.getItem('psalter-cycle'),
+          AsyncStorage.getItem('language'),
+          AsyncStorage.getItem('form-preferences'),
+          AsyncStorage.getItem('mass-form'),
+        ])
       set((state) => {
         if (translation) state.translation = translation
         if (psalterCycle === '30-day') state.psalterCycle = psalterCycle
         if (language) state.language = language
-        if (massForm === 'ordinary' || massForm === 'extraordinary') state.massForm = massForm
+        if (formPrefsJson) {
+          try {
+            state.formPreferences = JSON.parse(formPrefsJson)
+          } catch {}
+        }
+        // Migrate legacy mass-form preference
+        if (legacyMassForm && !state.formPreferences.mass) {
+          state.formPreferences.mass = legacyMassForm
+        }
         state.hydrated = true
       })
       if (language) {

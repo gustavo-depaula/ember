@@ -15,6 +15,9 @@ import littleOfficeSext from './little-office-bvm/flows/sext.json'
 import littleOfficeTerce from './little-office-bvm/flows/terce.json'
 import littleOfficeVespers from './little-office-bvm/flows/vespers.json'
 import littleOfficeManifest from './little-office-bvm/manifest.json'
+import massExtraordinary from './mass/flows/extraordinary.json'
+import massOrdinary from './mass/flows/ordinary.json'
+import massManifest from './mass/manifest.json'
 import memorareFlow from './memorare/flow.json'
 import memorareManifest from './memorare/manifest.json'
 import morningOfferingFlow from './morning-offering/flow.json'
@@ -38,6 +41,7 @@ const manifests: Record<string, PracticeManifest> = {
   'divine-mercy': divineMercyManifest as PracticeManifest,
   'stations-cross': stationsCrossManifest as PracticeManifest,
   'little-office-bvm': littleOfficeManifest as PracticeManifest,
+  mass: massManifest as PracticeManifest,
 }
 
 const flows: Record<string, FlowDefinition> = {
@@ -56,6 +60,8 @@ const flows: Record<string, FlowDefinition> = {
   'little-office-bvm/none': littleOfficeNone as FlowDefinition,
   'little-office-bvm/vespers': littleOfficeVespers as FlowDefinition,
   'little-office-bvm/compline': littleOfficeCompline as FlowDefinition,
+  'mass/ordinary': massOrdinary as FlowDefinition,
+  'mass/extraordinary': massExtraordinary as FlowDefinition,
 }
 
 const variants: Record<string, Record<string, Variant>> = {
@@ -88,6 +94,10 @@ export function loadHourFlow(manifestId: string, hourId: string): FlowDefinition
   return flows[`${manifestId}/${hourId}`]
 }
 
+export function loadFormFlow(manifestId: string, formId: string): FlowDefinition | undefined {
+  return flows[`${manifestId}/${formId}`]
+}
+
 export function loadVariant(manifestId: string, variantId: string): Variant | undefined {
   return variants[manifestId]?.[variantId]
 }
@@ -109,6 +119,7 @@ export function getManifestIconKey(manifestId: string): string {
     angelus: 'bell',
     rosary: 'rosary',
     'little-office-bvm': 'mary',
+    mass: 'cross',
   }
   return map[manifestId] ?? 'prayer'
 }

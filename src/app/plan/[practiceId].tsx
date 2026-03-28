@@ -26,8 +26,9 @@ export default function PracticeDetailScreen() {
 
   const { data: practices = [] } = usePractices()
   const practice = practices.find((p) => p.id === practiceId)
-  const manifest = practiceId ? getManifest(practiceId) : undefined
-  const hasFlow = manifest?.flow !== undefined
+  const manifestId = practice?.manifest_id ?? practiceId
+  const manifest = manifestId ? getManifest(manifestId) : undefined
+  const hasFlow = manifest?.flow !== undefined || (manifest?.forms?.length ?? 0) > 0
   const hasHours = manifest?.hours !== undefined && manifest.hours.length > 0
   const updatePractice = useUpdatePractice()
 
@@ -80,9 +81,9 @@ export default function PracticeDetailScreen() {
           </Text>
         </XStack>
 
-        {hasFlow && practiceId && <PrayButton practiceId={practiceId} />}
-        {hasHours && practiceId && manifest?.hours && (
-          <HourButtons practiceId={practiceId} hours={manifest.hours} />
+        {hasFlow && manifestId && <PrayButton practiceId={manifestId} />}
+        {hasHours && manifestId && manifest?.hours && (
+          <HourButtons practiceId={manifestId} hours={manifest.hours} />
         )}
 
         <YStack alignItems="center">

@@ -119,7 +119,7 @@ export default function CatalogDetailScreen() {
           </YStack>
         </XStack>
 
-        {manifest.flow && <PrayButton practiceId={manifest.id} />}
+        {(manifest.flow || manifest.forms?.length) && <PrayButton practiceId={manifest.id} />}
 
         {manifest.hours && manifest.hours.length > 0 && (
           <YStack gap="$sm">

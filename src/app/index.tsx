@@ -53,14 +53,20 @@ export default function HomeScreen() {
 
   const handlePressPractice = useCallback(
     (id: string) => {
-      const manifest = getManifest(id)
-      if (manifest?.hours?.length) {
+      const practice = practices.find((p) => p.id === id)
+      const manifestId = practice?.manifest_id ?? id
+      const manifest = getManifest(manifestId)
+      if (!manifest) {
+        router.push(`/plan/${id}` as any)
+        return
+      }
+      if (manifest.hours?.length && !manifest.forms?.length) {
         router.push(`/plan/${id}` as any)
       } else {
-        router.push(`/pray/${id}` as any)
+        router.push(`/pray/${manifestId}` as any)
       }
     },
-    [router],
+    [router, practices],
   )
   const wallStart = format(subWeeks(now, 9), 'yyyy-MM-dd')
   const { data: wallLogs = [] } = usePracticeLogRange(wallStart, today)

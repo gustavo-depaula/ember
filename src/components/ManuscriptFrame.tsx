@@ -10,42 +10,43 @@ const corners = {
   bottomRight: require('../../assets/textures/corner_bottom_right.png'),
 }
 
-const cornerSize = 48
+const cornerSize = 120
 
 export function ManuscriptFrame({
   children,
   light = false,
-  ornate = false,
 }: {
   children: ReactNode
   light?: boolean
-  ornate?: boolean
 }) {
-  const showCorners = !light
-  const outerBorder = light ? 0.5 : ornate ? 1.5 : 1
-  const innerBorder = light ? 0 : 0.5
-  const innerPadding = light ? 0 : 4
+  const { showCorners, outerBorder, innerBorder, innerPadding } = (() => {
+    if (light) {
+      return { showCorners: false, outerBorder: 0.5, innerBorder: 0, innerPadding: 0 }
+    }
+
+    return { showCorners: true, outerBorder: 0.5, innerBorder: 0.25, innerPadding: 4 }
+  })()
 
   return (
     <YStack
       borderWidth={outerBorder}
-      borderColor={ornate ? '$accent' : '$accentSubtle'}
+      borderColor={'$accent'}
       padding={innerPadding}
       position="relative"
       overflow="visible"
     >
       {showCorners && (
         <>
-          <View position="absolute" top={-16} left={-16}>
+          <View position="absolute" top={-8} left={-24}>
             <Image source={corners.topLeft} style={styles.corner} contentFit="contain" />
           </View>
-          <View position="absolute" top={-16} right={-16}>
+          <View position="absolute" top={-8} right={-16}>
             <Image source={corners.topRight} style={styles.corner} contentFit="contain" />
           </View>
-          <View position="absolute" bottom={-16} left={-16}>
+          <View position="absolute" bottom={-12} left={-12}>
             <Image source={corners.bottomLeft} style={styles.corner} contentFit="contain" />
           </View>
-          <View position="absolute" bottom={-16} right={-16}>
+          <View position="absolute" bottom={-12} right={-10}>
             <Image source={corners.bottomRight} style={styles.corner} contentFit="contain" />
           </View>
         </>
@@ -53,8 +54,8 @@ export function ManuscriptFrame({
 
       <YStack
         borderWidth={innerBorder}
-        borderColor={ornate ? '$accentSubtle' : '$accent'}
-        padding="$lg"
+        borderColor={'$accentSubtle'}
+        padding="$md"
         style={innerBorder > 0 ? styles.inner : undefined}
       >
         {children}

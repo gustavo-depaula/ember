@@ -26,6 +26,11 @@ export type PracticeManifest = {
     flow: string
     timeBlock: string
   }[]
+  forms?: {
+    id: string
+    name: LocalizedText
+    flow: string
+  }[]
   variants?: {
     id: string
     name: LocalizedText
@@ -46,7 +51,7 @@ export type FlowSection =
   | { type: 'heading'; text: LocalizedText }
   | { type: 'image'; src: string; caption?: LocalizedText }
   | { type: 'prayer'; ref: string }
-  | { type: 'prayer'; inline: LocalizedBilingualText }
+  | { type: 'prayer'; speaker?: 'priest' | 'people' | 'all'; inline: LocalizedBilingualText }
   | { type: 'hymn'; ref: string }
   | { type: 'hymn'; inline: LocalizedBilingualText }
   | { type: 'canticle'; ref: string }
@@ -56,6 +61,13 @@ export type FlowSection =
     }
   | { type: 'meditation'; text: LocalizedText }
   | { type: 'response'; verses: { v: LocalizedText; r: LocalizedText }[] }
+  | { type: 'subheading'; text: LocalizedText }
+  | { type: 'proper'; slot: string; description: LocalizedText }
+  | {
+      type: 'options'
+      label: LocalizedText
+      options: { id: string; label: LocalizedText; sections: FlowSection[] }[]
+    }
   | {
       type: 'repeat'
       count: number
@@ -73,11 +85,25 @@ export type RenderedSection =
   | { type: 'divider' }
   | { type: 'heading'; text: string }
   | { type: 'image'; src: string; caption?: string }
-  | { type: 'prayer'; title: string; text: string; count?: number }
+  | {
+      type: 'prayer'
+      title: string
+      text: string
+      count?: number
+      speaker?: 'priest' | 'people' | 'all'
+      latin?: string
+    }
   | { type: 'hymn'; title: string; latin: string; english: string }
   | { type: 'canticle'; title: string; subtitle: string; source: string; text: string }
   | { type: 'meditation'; text: string }
   | { type: 'response'; verses: { v: string; r: string }[] }
+  | { type: 'subheading'; text: string }
+  | { type: 'proper'; slot: string; description: string }
+  | {
+      type: 'options'
+      label: string
+      options: { id: string; label: string; sections: RenderedSection[] }[]
+    }
   | { type: 'psalmody'; psalms: PsalmRef[] }
   | { type: 'reading'; reference: ReadingReference }
 

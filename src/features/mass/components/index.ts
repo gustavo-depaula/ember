@@ -1,1 +1,0 @@
-export { MassScreen } from './MassScreen'
