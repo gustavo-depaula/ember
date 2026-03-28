@@ -1,7 +1,7 @@
 import { usePathname, useRouter } from 'expo-router'
-import { memo, useCallback, useState } from 'react'
+import { memo, useCallback, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { Pressable, StyleSheet } from 'react-native'
+import { Pressable, StyleSheet, useColorScheme } from 'react-native'
 import Animated, {
   interpolate,
   useAnimatedStyle,
@@ -13,15 +13,15 @@ import Svg, { Path } from 'react-native-svg'
 import { Text, useTheme, View, XStack } from 'tamagui'
 import { mediumTap } from '@/lib/haptics'
 
-const sections = [
-  { path: '/', labelKey: 'nav.home', color: '#C9A84C' },
-  { path: '/office', labelKey: 'nav.divineOffice', color: '#6B1D2A' },
-  { path: '/mass', labelKey: 'nav.holyMass', color: '#8B6914' },
-  { path: '/plan', labelKey: 'nav.planOfLife', color: '#2D6A4F' },
-  { path: '/bible', labelKey: 'nav.sacredScripture', color: '#1B3A5C' },
-  { path: '/catechism', labelKey: 'nav.catechism', color: '#7B2D3B' },
-  { path: '/saints', labelKey: 'nav.saints', color: '#C9A84C' },
-  { path: '/settings', labelKey: 'nav.settings', color: '#6B5D4F' },
+const sectionsDef = [
+  { path: '/', labelKey: 'nav.home', light: '#C9A84C', dark: '#D4A63A' },
+  { path: '/office', labelKey: 'nav.divineOffice', light: '#6B1D2A', dark: '#C75B6B' },
+  { path: '/mass', labelKey: 'nav.holyMass', light: '#8B6914', dark: '#D4A63A' },
+  { path: '/plan', labelKey: 'nav.planOfLife', light: '#2D6A4F', dark: '#52A878' },
+  { path: '/bible', labelKey: 'nav.sacredScripture', light: '#1B3A5C', dark: '#7A9EC8' },
+  { path: '/catechism', labelKey: 'nav.catechism', light: '#7B2D3B', dark: '#C75B6B' },
+  { path: '/saints', labelKey: 'nav.saints', light: '#C9A84C', dark: '#D4A63A' },
+  { path: '/settings', labelKey: 'nav.settings', light: '#6B5D4F', dark: '#918880' },
 ]
 
 const springConfig = { damping: 24, stiffness: 200, mass: 0.8 }
@@ -108,6 +108,12 @@ export const TasselPull = memo(function TasselPull() {
   const { t } = useTranslation()
   const pathname = usePathname()
   const router = useRouter()
+  const colorScheme = useColorScheme()
+  const isDark = colorScheme === 'dark'
+  const sections = useMemo(
+    () => sectionsDef.map((s) => ({ ...s, color: isDark ? s.dark : s.light })),
+    [isDark],
+  )
   const theme = useTheme()
   const insets = useSafeAreaInsets()
   const topInset = Math.max(insets.top, 0)

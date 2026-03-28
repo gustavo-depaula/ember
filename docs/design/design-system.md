@@ -39,19 +39,23 @@ All custom components (DropCap, SectionDivider, GreenWall, etc.) are built with 
 | Muted blue | References, citations | `#3D5A80` |
 | Cloister green | Completion states | `#2D6A4F` |
 
-### Dark Mode (warm espresso/leather — not cold navy)
+### Dark Mode — "Tenebrae" (gothic cathedral / Caravaggio chiaroscuro)
+
+Inspired by Gothic architecture stained glass (Sainte-Chapelle), memento mori, catacombs, and Caravaggio's dramatic lighting. Deep stone darkness with jewel-tone accents glowing like stained glass, gold catching candlelight.
+
 | Role | Color | Hex |
 |------|-------|-----|
-| Background | Deep espresso / aged leather | `#1C1710` |
-| Surface (cards) | Dark parchment | `#2A2318` |
-| Text (primary) | Soft cream | `#F0E6D3` |
-| Text (secondary) | Muted cream | `#A89F91` |
-| Accent (gold) | Amber gold | `#C9A84C` |
-| Accent (subtle) | Muted gold | `#6B5D3A` |
-| Dividers / borders | Warm olive-brown | `#3D3528` |
-| Burgundy | Section titles (lightened) | `#C4707E` |
-| Muted blue | References (lightened) | `#7BA0C4` |
-| Cloister green | Completion (brightened) | `#5AAA7E` |
+| Background | Cathedral void (near-black stone) | `#0E0D0C` |
+| Surface (cards) | Shadowed stone | `#1A1816` |
+| Text (primary) | Bone white (aged vellum) | `#EDE4D8` |
+| Text (secondary) | Catacomb dust | `#918880` |
+| Accent (gold) | Reliquary gold | `#D4A63A` |
+| Accent (hover) | Burnished gold | `#B8902A` |
+| Accent (subtle) | Ember gold | `#5C4D2A` |
+| Dividers / borders | Shadow line (stone mortar) | `#2A2622` |
+| Burgundy | Garnet (stained glass) | `#C75B6B` |
+| Muted blue | Sapphire (stained glass) | `#7A9EC8` |
+| Cloister green | Verdigris (aged bronze) | `#52A878` |
 
 ### Secondary Accent Usage
 - **Burgundy** — hour titles in PrayerFlow, canticle/hymn titles, HeroCTA office label
@@ -66,34 +70,37 @@ The fidelity wall uses 4 color families based on practice tier completion:
 
 | Level | Tier | Light Mode | Dark Mode |
 |-------|------|------------|-----------|
-| Empty | None | `#E8E4D9` | `#2A2419` |
-| Extra (partial) | Extra only | `#E8D9A0` | `#4A3D1A` |
-| Extra (full) | Extra done | `#C9A84C` | `#C9A84C` |
-| Ideal (partial) | Ideal done, essentials missed | `#A8C4D9` | `#2A3D4A` |
-| Ideal (full) | All ideal done | `#3D5A80` | `#7BA0C4` |
-| Essential (partial) | Some essentials | `#8FB88A` | `#2D6A4F` |
-| Essential (full) | All essentials | `#2D6A4F` | `#4FAA6E` |
-| Perfect | All tiers complete | `#6B1D2A` | `#C4707E` |
+| Empty | None | `#E8E4D9` | `#1A1816` |
+| Extra (partial) | Extra only | `#E8D9A0` | `#3A3018` |
+| Extra (full) | Extra done | `#C9A84C` | `#D4A63A` |
+| Ideal (partial) | Ideal done, essentials missed | `#A8C4D9` | `#1E3448` |
+| Ideal (full) | All ideal done | `#3D5A80` | `#7A9EC8` |
+| Essential (partial) | Some essentials | `#8FB88A` | `#286848` |
+| Essential (full) | All essentials | `#2D6A4F` | `#48A868` |
+| Perfect | All tiers complete | `#6B1D2A` | `#C75B6B` |
 
 Individual practice detail views use a legacy single-color green wall:
 
 | Intensity | Light Mode | Dark Mode |
 |-----------|------------|-----------|
-| Empty (0%) | `#E8E4D9` | `#2A2419` |
-| Low (1-25%) | `#C5D5C0` | `#2D4A3A` |
-| Medium (26-50%) | `#8FB88A` | `#2D6A4F` |
-| High (51-75%) | `#5A9A55` | `#3D8B5E` |
-| Full (76-100%) | `#2D6A4F` | `#4FAA6E` |
+| Empty (0%) | `#E8E4D9` | `#1A1816` |
+| Low (1-25%) | `#C5D5C0` | `#1E3A2E` |
+| Medium (26-50%) | `#8FB88A` | `#286848` |
+| High (51-75%) | `#5A9A55` | `#388A58` |
+| Full (76-100%) | `#2D6A4F` | `#48A868` |
 
 ### Liturgical Season Accents
-| Season | Color | Usage |
-|--------|-------|-------|
-| Advent | Deep purple | `#5B2C6F` — accent override |
-| Christmas | White/gold | `#F5F0E0` / `#C9A84C` |
-| Lent | Penitential purple | `#7D3C98` |
-| Easter | White/gold | `#F5F0E0` / `#C9A84C` |
-| Ordinary Time | Green | `#2D6A4F` |
-| Martyrs/feasts | Red | `#922B21` |
+
+Light and dark modes use separate liturgical accent values — dark mode accents are brighter to remain visible against the near-black background.
+
+| Season | Light | Dark | Usage |
+|--------|-------|------|-------|
+| Advent | `#5B2C6F` | `#7B3E9A` (amethyst) | accent override |
+| Christmas | `#C9A84C` | `#D4A63A` (reliquary gold) | accent override |
+| Lent | `#7D3C98` | `#9B50B8` (violet glass) | accent override |
+| Easter | `#C9A84C` | `#D4A63A` (reliquary gold) | accent override |
+| Ordinary Time | `#2D6A4F` | `#3A8A5A` (bright cloister) | accent override |
+| Martyrs/feasts | `#922B21` | `#B83828` (blood red) | accent override |
 
 ---
 

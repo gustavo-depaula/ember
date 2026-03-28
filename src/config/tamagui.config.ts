@@ -1,7 +1,7 @@
 import { createTamagui } from 'tamagui'
 
 import { bodyFont, displayFont, headingFont, scriptFont } from './fonts'
-import { darkTheme, lightTheme, liturgicalSubThemes } from './themes'
+import { darkTheme, lightTheme, liturgicalSubThemes, liturgicalSubThemesDark } from './themes'
 import { tokens } from './tokens'
 
 export const config = createTamagui({
@@ -10,17 +10,17 @@ export const config = createTamagui({
     light: lightTheme,
     dark: darkTheme,
     light_advent: { ...lightTheme, ...liturgicalSubThemes.advent },
-    dark_advent: { ...darkTheme, ...liturgicalSubThemes.advent },
+    dark_advent: { ...darkTheme, ...liturgicalSubThemesDark.advent },
     light_lent: { ...lightTheme, ...liturgicalSubThemes.lent },
-    dark_lent: { ...darkTheme, ...liturgicalSubThemes.lent },
+    dark_lent: { ...darkTheme, ...liturgicalSubThemesDark.lent },
     light_christmas: { ...lightTheme, ...liturgicalSubThemes.christmas },
-    dark_christmas: { ...darkTheme, ...liturgicalSubThemes.christmas },
+    dark_christmas: { ...darkTheme, ...liturgicalSubThemesDark.christmas },
     light_easter: { ...lightTheme, ...liturgicalSubThemes.easter },
-    dark_easter: { ...darkTheme, ...liturgicalSubThemes.easter },
+    dark_easter: { ...darkTheme, ...liturgicalSubThemesDark.easter },
     light_ordinary: { ...lightTheme, ...liturgicalSubThemes.ordinary },
-    dark_ordinary: { ...darkTheme, ...liturgicalSubThemes.ordinary },
+    dark_ordinary: { ...darkTheme, ...liturgicalSubThemesDark.ordinary },
     light_martyr: { ...lightTheme, ...liturgicalSubThemes.martyr },
-    dark_martyr: { ...darkTheme, ...liturgicalSubThemes.martyr },
+    dark_martyr: { ...darkTheme, ...liturgicalSubThemesDark.martyr },
   },
   fonts: {
     display: displayFont,
