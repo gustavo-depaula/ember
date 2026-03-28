@@ -1,0 +1,44 @@
+{
+  "sections": [
+    { "type": "rubric", "text": { "en": "Opening Prayer", "pt-BR": "Oração Inicial" } },
+    { "type": "prayer", "ref": "sign-of-cross" },
+    {
+      "type": "prayer",
+      "inline": {
+        "en": "My Lord Jesus Christ, You have made this journey to die for me with love beyond measure. I wish to accompany You on this journey with all my heart. Grant that I may walk this way with devotion and love, and that through the merits of Your Passion, I may arrive at the glory of heaven.\nAmen.",
+        "pt-BR": "Meu Senhor Jesus Cristo, Vós fizestes esta jornada para morrer por mim com amor sem medida. Desejo acompanhar-Vos nesta jornada de todo o meu coração. Concedei que eu percorra este caminho com devoção e amor, e que pelos méritos da Vossa Paixão, eu chegue à glória do céu.\nAmém."
+      }
+    },
+    { "type": "divider" },
+    {
+      "type": "repeat",
+      "count": 14,
+      "variable": { "source": "variant", "key": "stations" },
+      "sections": [
+        { "type": "heading", "text": { "en": "Station {{ordinal}}: {{name}}", "pt-BR": "{{ordinal}} Estação: {{name}}" } },
+        {
+          "type": "response",
+          "verses": [
+            {
+              "v": { "en": "We adore You, O Christ, and we praise You,", "pt-BR": "Nós Vos adoramos, ó Cristo, e Vos bendizemos," },
+              "r": { "en": "Because by Your holy Cross You have redeemed the world.", "pt-BR": "Porque pela Vossa santa Cruz remistes o mundo." }
+            }
+          ]
+        },
+        { "type": "meditation", "text": { "en": "{{meditation}}", "pt-BR": "{{meditation}}" } },
+        { "type": "prayer", "ref": "our-father" },
+        { "type": "prayer", "ref": "hail-mary" },
+        { "type": "prayer", "ref": "glory-be" },
+        { "type": "divider" }
+      ]
+    },
+    { "type": "rubric", "text": { "en": "Closing Prayer", "pt-BR": "Oração Final" } },
+    {
+      "type": "prayer",
+      "inline": {
+        "en": "Lord Jesus Christ, Your Passion and Death is the sacrifice that unites earth and heaven and reconciles all people to You. May we who have faithfully reflected on these mysteries follow in Your footsteps and so come to share Your glory in heaven, where You live and reign with the Father and the Holy Spirit, one God, for ever and ever.\nAmen.",
+        "pt-BR": "Senhor Jesus Cristo, Vossa Paixão e Morte é o sacrifício que une a terra e o céu e reconcilia todos os povos convosco. Que nós, que fielmente meditamos estes mistérios, sigamos Vossos passos e assim cheguemos a partilhar Vossa glória no céu, onde viveis e reinais com o Pai e o Espírito Santo, um só Deus, pelos séculos dos séculos.\nAmém."
+      }
+    }
+  ]
+}
