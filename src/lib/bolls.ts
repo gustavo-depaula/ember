@@ -141,6 +141,12 @@ export const suggestedTranslations: Translation[] = [
   },
 ]
 
+// Default Bible translation per app language
+export const defaultTranslationForLanguage: Record<string, string> = {
+  en: 'RSV2CE',
+  'pt-BR': 'CNBB',
+}
+
 export async function fetchAllTranslations(): Promise<BollsLanguageEntry[]> {
   const res = await fetch(`${baseUrl}/static/bolls/app/views/languages.json`)
   if (!res.ok) {
