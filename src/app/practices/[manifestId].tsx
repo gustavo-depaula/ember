@@ -123,7 +123,7 @@ export default function CatalogDetailScreen() {
         </XStack>
 
         {manifest.flow && (
-          <AnimatedPressable onPress={() => router.push(`/pray/${manifest.id}`)}>
+          <AnimatedPressable onPress={() => router.push(`/pray/${manifest.id}` as any)}>
             <YStack
               backgroundColor="$accent"
               borderRadius="$md"
@@ -137,6 +137,38 @@ export default function CatalogDetailScreen() {
               </Text>
             </YStack>
           </AnimatedPressable>
+        )}
+
+        {manifest.hours && manifest.hours.length > 0 && (
+          <YStack gap="$sm">
+            <Text fontFamily="$heading" fontSize="$3" color="$color">
+              {t('catalog.hours')}
+            </Text>
+            {manifest.hours.map((hour) => (
+              <AnimatedPressable
+                key={hour.id}
+                onPress={() => router.push(`/pray/${manifest.id}?hour=${hour.id}` as any)}
+              >
+                <XStack
+                  backgroundColor="$accent"
+                  borderRadius="$md"
+                  borderWidth={1}
+                  borderColor="$accentSubtle"
+                  paddingVertical="$sm"
+                  paddingHorizontal="$md"
+                  justifyContent="space-between"
+                  alignItems="center"
+                >
+                  <Text fontFamily="$heading" fontSize="$2" color="$background">
+                    {localizeContent(hour.name)}
+                  </Text>
+                  <Text fontFamily="$body" fontSize="$1" color="$background" opacity={0.8}>
+                    {t(`timeBlock.${hour.timeBlock}`)}
+                  </Text>
+                </XStack>
+              </AnimatedPressable>
+            ))}
+          </YStack>
         )}
 
         {isInPlan ? (

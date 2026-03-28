@@ -17,6 +17,7 @@ import {
   useUpdatePractice,
 } from '@/features/plan-of-life'
 import { PracticeTeachingContent, VariantSelector } from '@/features/practices/components'
+import { localizeContent } from '@/lib/i18n'
 
 export default function PracticeDetailScreen() {
   const { t } = useTranslation()
@@ -28,6 +29,7 @@ export default function PracticeDetailScreen() {
   const practice = practices.find((p) => p.id === practiceId)
   const manifest = practiceId ? getManifest(practiceId) : undefined
   const hasFlow = manifest?.flow !== undefined
+  const hasHours = manifest?.hours !== undefined && manifest.hours.length > 0
   const updatePractice = useUpdatePractice()
 
   const { data: practiceStats } = usePracticeStats(practiceId ?? '')
@@ -80,7 +82,7 @@ export default function PracticeDetailScreen() {
         </XStack>
 
         {hasFlow && (
-          <AnimatedPressable onPress={() => router.push(`/pray/${practiceId}`)}>
+          <AnimatedPressable onPress={() => router.push(`/pray/${practiceId}` as any)}>
             <YStack
               backgroundColor="$accent"
               borderRadius="$md"
@@ -95,6 +97,32 @@ export default function PracticeDetailScreen() {
             </YStack>
           </AnimatedPressable>
         )}
+
+        {hasHours &&
+          manifest!.hours!.map((hour) => (
+            <AnimatedPressable
+              key={hour.id}
+              onPress={() => router.push(`/pray/${practiceId}?hour=${hour.id}` as any)}
+            >
+              <XStack
+                backgroundColor="$accent"
+                borderRadius="$md"
+                borderWidth={1}
+                borderColor="$accentSubtle"
+                paddingVertical="$sm"
+                paddingHorizontal="$md"
+                justifyContent="space-between"
+                alignItems="center"
+              >
+                <Text fontFamily="$heading" fontSize="$2" color="$background">
+                  {localizeContent(hour.name)}
+                </Text>
+                <Text fontFamily="$body" fontSize="$1" color="$background" opacity={0.8}>
+                  {t(`timeBlock.${hour.timeBlock}`)}
+                </Text>
+              </XStack>
+            </AnimatedPressable>
+          ))}
 
         <YStack alignItems="center">
           <GreenWall data={wallData} />

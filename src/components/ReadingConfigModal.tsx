@@ -144,7 +144,7 @@ export function ReadingConfig() {
         <ButtonGroup label={t('readingConfig.spacing')}>
           <ToolbarButton
             onPress={() => rc.setLineHeightStep(rc.lineHeightStep - 1)}
-            disabled={rc.lineHeightStep <= rc.fontSizeStep}
+            disabled={rc.lineHeightStep <= Math.max(1, rc.fontSizeStep - 1)}
           >
             {() => (
               <Text fontFamily="$body" fontSize={20} color="$color">

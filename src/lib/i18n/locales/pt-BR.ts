@@ -332,6 +332,7 @@ export default {
     variant: 'Estilo de Medita\u00e7\u00e3o',
     browseCatalog: 'Explorar Cat\u00e1logo de Pr\u00e1ticas',
     noResults: 'Nenhuma pr\u00e1tica encontrada',
+    hours: 'Horas',
   },
 
   category: {
@@ -449,6 +450,7 @@ export default {
     trisagion: 'Triss\u00e1gio',
     paraklesis: 'Par\u00e1clesis',
     prostrations: 'Prostrações',
+    'little-office-bvm': 'Pequeno Ofício de Nossa Senhora',
     pray: 'Rezar',
     noContent: 'Conteúdo de oração ainda não disponível para esta prática.',
   },

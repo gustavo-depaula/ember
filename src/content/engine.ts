@@ -12,7 +12,17 @@ import nuncDimittis from '@/assets/prayers/nunc-dimittis.json'
 import openingVerse from '@/assets/prayers/opening-verse.json'
 import ourFather from '@/assets/prayers/our-father.json'
 import signOfCross from '@/assets/prayers/sign-of-cross.json'
+import type { ReadingProgress } from '@/db/schema'
+import type { PsalmNumbering } from '@/lib/bolls'
 import i18n, { localizeAsset, localizeContent } from '@/lib/i18n'
+import {
+  getComplinePsalms,
+  getHymnForHour,
+  getMarianAntiphon,
+  getPsalmsForDay,
+  getTodaysReading,
+  type OfficeHour,
+} from '@/lib/liturgical'
 import type {
   FlowDefinition,
   FlowSection,
@@ -54,6 +64,12 @@ const canticleRefs: Record<string, CanticleAsset> = {
 export type FlowContext = {
   date: Date
   variant?: Variant
+  numbering?: PsalmNumbering
+  readingProgress?: {
+    ot?: ReadingProgress | null
+    nt?: ReadingProgress | null
+    catechism?: ReadingProgress | null
+  }
 }
 
 const ordinalsEn = [
@@ -297,11 +313,42 @@ function resolveSection(section: FlowSection, context: FlowContext): RenderedSec
     case 'repeat':
       return resolveRepeat(section, context)
 
-    case 'psalter':
-    case 'lectio':
-    case 'seasonal':
-      // Phase 3+: these section types are not yet supported
-      return [{ type: 'rubric', label: `[${section.type}: not yet implemented]` }]
+    case 'psalter': {
+      const numbering = context.numbering ?? 'mt'
+      if (section.hour === 'compline') {
+        return [{ type: 'psalmody', psalms: getComplinePsalms(context.date, numbering) }]
+      }
+      const forDay = getPsalmsForDay(context.date, numbering)
+      const psalms = section.hour === 'morning' ? forDay.morning : forDay.evening
+      return [{ type: 'psalmody', psalms }]
+    }
+
+    case 'lectio': {
+      const progress = context.readingProgress?.[section.testament]
+      if (!progress) return [{ type: 'rubric', label: '[Reading progress not available]' }]
+      return [{ type: 'reading', reference: getTodaysReading(section.testament, progress) }]
+    }
+
+    case 'seasonal': {
+      if (section.set === 'hymns') {
+        const hymn = getHymnForHour(section.hour as OfficeHour)
+        return [
+          { type: 'hymn', title: hymn.title, latin: hymn.latin, english: localizeAsset(hymn) },
+        ]
+      }
+      if (section.set === 'marian-antiphon') {
+        const antiphon = getMarianAntiphon(context.date)
+        return [
+          {
+            type: 'hymn',
+            title: antiphon.title,
+            latin: antiphon.latin,
+            english: localizeAsset(antiphon),
+          },
+        ]
+      }
+      return []
+    }
 
     default:
       return []

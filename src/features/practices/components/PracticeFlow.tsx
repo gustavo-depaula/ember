@@ -5,29 +5,63 @@ import { ChevronLeft } from 'lucide-react-native'
 import { useMemo } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
-import { Text, useTheme, XStack, YStack } from 'tamagui'
+import { Spinner, Text, useTheme, XStack, YStack } from 'tamagui'
 
 import {
   AnimatedPressable,
+  BibleReadingBlock,
   CanticleBlock,
+  CccReadingBlock,
   HeaderFlourish,
   HymnBlock,
   ManuscriptFrame,
   OrnamentalRule,
   PrayerTextBlock,
+  type PsalmData,
+  PsalmodyBlock,
   ResponseBlock,
   RubricLabel,
   ScreenLayout,
 } from '@/components'
 import { type FlowContext, resolveFlow } from '@/content/engine'
-import { getDefaultVariant, getManifest, loadFlow, loadVariant } from '@/content/practices'
+import {
+  getDefaultVariant,
+  getManifest,
+  loadFlow,
+  loadHourFlow,
+  loadVariant,
+} from '@/content/practices'
 import type { RenderedSection } from '@/content/types'
+import {
+  useAllReadingProgress,
+  useBibleReading,
+  useCccReading,
+  usePsalmsForHour,
+} from '@/features/divine-office'
 import { usePractices, useTogglePractice } from '@/features/plan-of-life'
 import { useReadingMargin } from '@/hooks/useReadingStyle'
+import { getPsalmNumbering } from '@/lib/bolls'
+import type { Verse } from '@/lib/content'
 import { successBuzz } from '@/lib/haptics'
 import { formatLocalized } from '@/lib/i18n/dateLocale'
+import type { PsalmRef, ReadingReference } from '@/lib/liturgical'
+import { usePreferencesStore } from '@/stores/preferencesStore'
 
-export function PracticeFlow({ practiceId }: { practiceId: string }) {
+function findPsalmRefs(sections: RenderedSection[]): PsalmRef[] {
+  for (const s of sections) {
+    if (s.type === 'psalmody') return s.psalms
+  }
+  return []
+}
+
+function findReadingRef(sections: RenderedSection[]): ReadingReference | undefined {
+  for (const s of sections) {
+    if (s.type === 'reading') return s.reference
+  }
+  return undefined
+}
+
+export function PracticeFlow({ practiceId, hourId }: { practiceId: string; hourId?: string }) {
   const { t } = useTranslation()
   const router = useRouter()
   const theme = useTheme()
@@ -35,7 +69,11 @@ export function PracticeFlow({ practiceId }: { practiceId: string }) {
   const togglePractice = useTogglePractice()
 
   const manifest = getManifest(practiceId)
-  const flow = manifest ? loadFlow(practiceId) : undefined
+  const flow = useMemo(() => {
+    if (!manifest) return undefined
+    if (hourId && manifest.hours) return loadHourFlow(practiceId, hourId)
+    return loadFlow(practiceId)
+  }, [manifest, practiceId, hourId])
 
   const { data: practices = [] } = usePractices()
   const selectedVariantId = practices.find((p) => p.id === practiceId)?.selected_variant
@@ -48,11 +86,39 @@ export function PracticeFlow({ practiceId }: { practiceId: string }) {
 
   const now = useMemo(() => new Date(), [])
 
+  // Dynamic context for psalter/lectio/seasonal sections
+  const translation = usePreferencesStore((s) => s.translation)
+  const numbering = getPsalmNumbering(translation)
+  const { data: allProgress } = useAllReadingProgress()
+
+  const readingProgress = useMemo(() => {
+    if (!allProgress) return undefined
+    return {
+      ot: allProgress.find((p) => p.type === 'ot') ?? null,
+      nt: allProgress.find((p) => p.type === 'nt') ?? null,
+      catechism: allProgress.find((p) => p.type === 'catechism') ?? null,
+    }
+  }, [allProgress])
+
   const sections = useMemo(() => {
     if (!flow) return []
-    const context: FlowContext = { date: now, variant }
+    const context: FlowContext = { date: now, variant, numbering, readingProgress }
     return resolveFlow(flow, context)
-  }, [flow, now, variant])
+  }, [flow, now, variant, numbering, readingProgress])
+
+  // Load dynamic content (psalms, Bible readings, CCC)
+  const psalmRefs = useMemo(() => findPsalmRefs(sections), [sections])
+  const readingRef = useMemo(() => findReadingRef(sections), [sections])
+  const bibleRef = readingRef?.type === 'bible' ? readingRef : undefined
+  const cccRef = readingRef?.type === 'catechism' ? readingRef : undefined
+
+  const psalmResult = usePsalmsForHour(psalmRefs, translation)
+  const bibleResult = useBibleReading(bibleRef?.book, bibleRef?.chapter, translation)
+  const cccResult = useCccReading(cccRef?.startParagraph, cccRef?.count)
+
+  const hasDynamicContent = psalmRefs.length > 0 || readingRef !== undefined
+  const isDynamicLoading =
+    hasDynamicContent && (psalmResult.isLoading || bibleResult.isLoading || cccResult.isLoading)
 
   const practiceName = t(`practice.${practiceId}`, {
     defaultValue: manifest?.name.en ?? practiceId,
@@ -71,6 +137,16 @@ export function PracticeFlow({ practiceId }: { practiceId: string }) {
               {t('common.back')}
             </Text>
           </Pressable>
+        </YStack>
+      </ScreenLayout>
+    )
+  }
+
+  if (isDynamicLoading) {
+    return (
+      <ScreenLayout>
+        <YStack flex={1} alignItems="center" justifyContent="center">
+          <Spinner size="large" color="$accent" />
         </YStack>
       </ScreenLayout>
     )
@@ -118,7 +194,14 @@ export function PracticeFlow({ practiceId }: { practiceId: string }) {
           </YStack>
 
           {sections.map((section, index) => (
-            <PracticeSectionBlock key={`${section.type}-${index}`} section={section} />
+            <PracticeSectionBlock
+              key={`${section.type}-${index}`}
+              section={section}
+              psalmData={psalmResult.data}
+              readingData={bibleResult.data?.verses}
+              readingFallback={bibleResult.data?.fallback}
+              cccData={cccResult.data}
+            />
           ))}
 
           <YStack paddingVertical="$lg" paddingHorizontal={readingMargin}>
@@ -146,7 +229,19 @@ export function PracticeFlow({ practiceId }: { practiceId: string }) {
   )
 }
 
-function PracticeSectionBlock({ section }: { section: RenderedSection }) {
+function PracticeSectionBlock({
+  section,
+  psalmData,
+  readingData,
+  readingFallback,
+  cccData,
+}: {
+  section: RenderedSection
+  psalmData: PsalmData[]
+  readingData?: Verse[]
+  readingFallback?: boolean
+  cccData?: Array<{ number: number; text: string; section: string }>
+}) {
   switch (section.type) {
     case 'rubric':
       return <RubricLabel>{section.label}</RubricLabel>
@@ -192,6 +287,21 @@ function PracticeSectionBlock({ section }: { section: RenderedSection }) {
 
     case 'divider':
       return <OrnamentalRule />
+
+    case 'psalmody':
+      return <PsalmodyBlock psalmData={psalmData} />
+
+    case 'reading':
+      if (section.reference.type === 'bible') {
+        return (
+          <BibleReadingBlock
+            reference={section.reference}
+            verses={readingData}
+            fallback={readingFallback}
+          />
+        )
+      }
+      return <CccReadingBlock reference={section.reference} paragraphs={cccData} />
 
     case 'image':
       return null
