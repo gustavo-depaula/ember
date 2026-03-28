@@ -16,6 +16,7 @@ import { mediumTap } from '@/lib/haptics'
 const sections = [
   { path: '/', labelKey: 'nav.home', color: '#C9A84C' },
   { path: '/office', labelKey: 'nav.divineOffice', color: '#6B1D2A' },
+  { path: '/mass', labelKey: 'nav.holyMass', color: '#8B6914' },
   { path: '/plan', labelKey: 'nav.planOfLife', color: '#2D6A4F' },
   { path: '/bible', labelKey: 'nav.sacredScripture', color: '#1B3A5C' },
   { path: '/catechism', labelKey: 'nav.catechism', color: '#7B2D3B' },

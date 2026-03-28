@@ -3,6 +3,7 @@ import { create } from 'zustand'
 import { immer } from 'zustand/middleware/immer'
 
 import { defaultTranslationForLanguage } from '@/lib/bolls'
+import type { MassForm } from '@/features/mass/content'
 import i18n from '@/lib/i18n'
 
 type PsalterCycle = '30-day'
@@ -11,10 +12,12 @@ type PreferencesState = {
   translation: string
   psalterCycle: PsalterCycle
   language: string
+  massForm: MassForm
   hydrated: boolean
   setTranslation: (translation: string) => void
   setPsalterCycle: (cycle: PsalterCycle) => void
   setLanguage: (language: string) => void
+  setMassForm: (form: MassForm) => void
   hydrate: () => Promise<void>
 }
 
@@ -23,6 +26,7 @@ export const usePreferencesStore = create<PreferencesState>()(
     translation: 'RSV2CE',
     psalterCycle: '30-day',
     language: 'en',
+    massForm: 'ordinary' as MassForm,
     hydrated: false,
 
     setTranslation: (translation) => {
@@ -50,16 +54,25 @@ export const usePreferencesStore = create<PreferencesState>()(
       i18n.changeLanguage(language)
     },
 
+    setMassForm: (form) => {
+      set((state) => {
+        state.massForm = form
+      })
+      AsyncStorage.setItem('mass-form', form)
+    },
+
     hydrate: async () => {
-      const [translation, psalterCycle, language] = await Promise.all([
+      const [translation, psalterCycle, language, massForm] = await Promise.all([
         AsyncStorage.getItem('translation'),
         AsyncStorage.getItem('psalter-cycle'),
         AsyncStorage.getItem('language'),
+        AsyncStorage.getItem('mass-form'),
       ])
       set((state) => {
         if (translation) state.translation = translation
         if (psalterCycle === '30-day') state.psalterCycle = psalterCycle
         if (language) state.language = language
+        if (massForm === 'ordinary' || massForm === 'extraordinary') state.massForm = massForm
         state.hydrated = true
       })
       if (language) {

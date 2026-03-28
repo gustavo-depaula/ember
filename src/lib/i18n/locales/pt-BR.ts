@@ -11,6 +11,8 @@ export default {
     sacredScriptureSub: 'Ler a B\u00edblia',
     catechism: 'Catecismo',
     catechismSub: 'Ler o CIC',
+    holyMass: 'Santa Missa',
+    holyMassSub: 'Ordo Missæ',
     fidelity: 'Fidelidade',
     begin: 'Come\u00e7ar',
     nextPractice: 'Sua pr\u00f3xima pr\u00e1tica',
@@ -207,12 +209,21 @@ export default {
       'Ave Maria, cheia de gra\u00e7a, o Senhor \u00e9 convosco. Bendita sois v\u00f3s entre as mulheres, e bendito \u00e9 o fruto do vosso ventre, Jesus. Santa Maria, M\u00e3e de Deus, rogai por n\u00f3s, pecadores, agora e na hora da nossa morte. Am\u00e9m.',
   },
 
+  mass: {
+    title: 'Santa Missa',
+    subtitle: 'Ordo Miss\u00e6',
+    ordinaryForm: 'Forma Ordin\u00e1ria',
+    extraordinaryForm: 'Forma Extraordin\u00e1ria',
+    proper: 'Pr\u00f3prio do dia',
+  },
+
   nav: {
     home: 'In\u00edcio',
     divineOffice: 'Of\u00edcio Divino',
     planOfLife: 'Plano de Vida',
     sacredScripture: 'Sagrada Escritura',
     catechism: 'Catecismo',
+    holyMass: 'Santa Missa',
     saints: 'Santos',
     settings: 'Configura\u00e7\u00f5es',
   },
