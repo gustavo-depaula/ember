@@ -6,7 +6,8 @@ import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
-import { GreenWall, ScreenLayout, SectionDivider } from '@/components'
+import { AnimatedPressable, GreenWall, ScreenLayout, SectionDivider } from '@/components'
+import { getManifest } from '@/content/practices'
 import {
   getLongestPracticeStreak,
   getPracticeIcon,
@@ -23,6 +24,8 @@ export default function PracticeDetailScreen() {
 
   const { data: practices = [] } = usePractices()
   const practice = practices.find((p) => p.id === practiceId)
+  const manifest = practiceId ? getManifest(practiceId) : undefined
+  const hasFlow = manifest?.flow !== undefined
 
   const { data: practiceStats } = usePracticeStats(practiceId ?? '')
 
@@ -72,6 +75,23 @@ export default function PracticeDetailScreen() {
             {getPracticeName(practice, t)}
           </Text>
         </XStack>
+
+        {hasFlow && (
+          <AnimatedPressable onPress={() => router.push(`/pray/${practiceId}`)}>
+            <YStack
+              backgroundColor="$accent"
+              borderRadius="$md"
+              borderWidth={1}
+              borderColor="$accentSubtle"
+              paddingVertical="$sm"
+              alignItems="center"
+            >
+              <Text fontFamily="$heading" fontSize="$3" color="$background">
+                {t('practice.pray')}
+              </Text>
+            </YStack>
+          </AnimatedPressable>
+        )}
 
         <YStack alignItems="center">
           <GreenWall data={wallData} />

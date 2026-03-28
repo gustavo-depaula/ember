@@ -1,0 +1,22 @@
+{
+  "id": "guardian-angel",
+  "name": { "en": "Guardian Angel Prayer", "pt-BR": "Oração ao Anjo da Guarda" },
+  "categories": ["daily", "angelic"],
+  "estimatedMinutes": 1,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "flow": "flow.json",
+  "description": {
+    "en": "A short prayer invoking your Guardian Angel's protection and guidance throughout the day. The Church teaches that each person is entrusted to a guardian angel from birth.",
+    "pt-BR": "Uma breve oração invocando a proteção e orientação do seu Anjo da Guarda ao longo do dia. A Igreja ensina que cada pessoa é confiada a um anjo da guarda desde o nascimento."
+  },
+  "history": {
+    "en": "Devotion to guardian angels has roots in Scripture (Matthew 18:10, Psalm 91:11) and was affirmed by the early Church Fathers. St. Basil the Great (4th century) wrote that 'each of the faithful has an angel standing beside him as a tutor and pastor.' The feast of the Guardian Angels (October 2) was extended to the universal Church by Pope Clement X in 1670. The prayer itself dates to the medieval period and has been taught to Catholic children for centuries.",
+    "pt-BR": "A devoção aos anjos da guarda tem raízes na Escritura (Mateus 18,10; Salmo 91,11) e foi afirmada pelos primeiros Padres da Igreja. São Basílio Magno (séc. IV) escreveu que 'cada um dos fiéis tem um anjo ao seu lado como tutor e pastor.' A festa dos Anjos da Guarda (2 de outubro) foi estendida à Igreja universal pelo Papa Clemente X em 1670."
+  },
+  "howToPray": {
+    "en": "Pray this simple prayer in the morning, addressing your guardian angel directly. Some saints recommend also greeting your angel throughout the day and asking for help in specific situations.",
+    "pt-BR": "Reze esta simples oração pela manhã, dirigindo-se diretamente ao seu anjo da guarda. Alguns santos recomendam também saudar seu anjo ao longo do dia e pedir ajuda em situações específicas."
+  },
+  "tags": ["morning", "angel", "protection", "guardian"]
+}

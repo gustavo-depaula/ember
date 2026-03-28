@@ -422,5 +422,7 @@ export default {
     trisagion: 'Trisagion Prayers',
     paraklesis: 'Paraklesis',
     prostrations: 'Prostrations',
+    pray: 'Pray',
+    noContent: 'No prayer content available for this practice yet.',
   },
 } as const

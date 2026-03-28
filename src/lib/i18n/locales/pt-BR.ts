@@ -421,6 +421,8 @@ export default {
     akathist: 'Hino Acatisto',
     trisagion: 'Triss\u00e1gio',
     paraklesis: 'Par\u00e1clesis',
-    prostrations: 'Prostra\u00e7\u00f5es',
+    prostrations: 'Prostrações',
+    pray: 'Rezar',
+    noContent: 'Conteúdo de oração ainda não disponível para esta prática.',
   },
 } as const
