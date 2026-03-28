@@ -43,6 +43,10 @@ All specs live in `docs/` — read them before making changes:
 - Biome (formatting + linting — single quotes)
 - TypeScript strict mode
 
+## Git
+
+- Never add `Co-Authored-By` lines to commit messages
+
 ## Commands
 
 ```bash
