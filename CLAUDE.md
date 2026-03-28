@@ -2,21 +2,40 @@
 
 ## Project Overview
 
-Catholic prayer app built with Expo (web + iOS + Android). Plan of Life tracker with green contribution walls + Custom Divine Office with lectio continua through Bible and Catechism in a year. Local storage only, no backend.
+> A beautiful companion for the Catholic life of prayer — helping souls grow in holiness, one day at a time.
 
-## Documentation
+Multilingual Catholic prayer app (English + Brazilian Portuguese) built with Expo (web + iOS + Android). Local storage only, no backend. Three pillars:
 
-All specs live in `docs/` — read them before making changes:
-- `docs/README.md` — project overview + MVP scope
+1. **Fidelity** (Plan of Life) — help users build, keep, and grow their rule of life
+2. **Devotion** (Engagement) — saints cards, patron saint companion, liturgical milestones — meaningful collectibles that teach, not trophies
+3. **Wisdom** (Content & Tradition) — formation guides, Catholic library, prayer history, study tools
+
+See `docs/README.md` for the full mission, roadmap, and what's built.
+
+## Documentation — Docs-First Workflow
+
+**This project follows strict docs-first development.** All specs live in `docs/`.
+
+### Before starting any feature:
+1. Read `docs/README.md` for project direction and pillars
+2. Read `docs/journal.md` for accumulated learnings (API quirks, licensing, UX gotchas, technical decisions)
+3. Read the relevant feature spec in `docs/features/`. **If no spec exists, write one first and get it reviewed before writing any code.**
+4. Read `docs/CONVENTIONS.md` for code style
+
+### After completing work:
+1. Update the relevant docs in `docs/` to reflect changes
+2. Add entries to `docs/journal.md` for anything non-obvious you discovered
+3. Keep specs, architecture, and task lists in sync with the code
+
+### Docs index:
+- `docs/README.md` — mission, pillars, roadmap, current state
 - `docs/ARCHITECTURE.md` — tech stack, data models, folder structure, storage strategy
 - `docs/CONVENTIONS.md` — code style guide (READ THIS FIRST)
-- `docs/features/plan-of-life.md` — Plan of Life feature spec
-- `docs/features/divine-office.md` — Divine Office feature spec
 - `docs/design/design-system.md` — colors, typography, layout, Tamagui config
 - `docs/content/content-sources.md` — Bible APIs, CCC, hymn sources, licensing
 - `docs/tasks.md` — implementation phases and task checklist
-
-**After completing any feature or significant change, update the relevant docs in `docs/` to reflect the new state.** Keep specs, architecture, and task lists in sync with the code.
+- `docs/journal.md` — dev journal (accumulated learnings)
+- `docs/features/*.md` — feature specs (plan-of-life, divine-office, bible-reader, catechism-reader, mass, daily-readings, reading-config, i18n)
 
 ## Code Style (Quick Reference)
 
