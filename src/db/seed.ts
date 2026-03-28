@@ -56,7 +56,7 @@ const builtinPractices: PracticeSeed[] = [
     frequencyDays: [0], // Sunday
     enabled: true,
     description: 'Attendance at Mass',
-    manifestId: null,
+    manifestId: 'mass',
   },
   {
     id: 'rosary',

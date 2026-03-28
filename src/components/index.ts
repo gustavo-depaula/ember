@@ -25,7 +25,10 @@ export {
   CanticleBlock,
   CollapsiblePrayer,
   HymnBlock,
+  LiturgicalPrayerBlock,
+  OptionsBlock,
   PrayerTextBlock,
+  ProperSlot,
   ResponseBlock,
 } from './prayer'
 export { ReadingConfigBadge, ReadingConfigModal } from './ReadingConfigModal'

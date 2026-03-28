@@ -200,8 +200,17 @@ function resolveCanticleRef(ref: string): RenderedSection {
   }
 }
 
-function resolveInlinePrayer(inline: LocalizedBilingualText): RenderedSection {
-  return { type: 'prayer', title: '', text: localizeContent(inline) }
+function resolveInlinePrayer(
+  inline: LocalizedBilingualText,
+  speaker?: 'priest' | 'people' | 'all',
+): RenderedSection {
+  return {
+    type: 'prayer',
+    title: '',
+    text: localizeContent(inline),
+    ...(speaker && { speaker }),
+    ...(inline.latin && { latin: inline.latin }),
+  }
 }
 
 function resolveRepeat(
@@ -285,7 +294,7 @@ function resolveSection(section: FlowSection, context: FlowContext): RenderedSec
 
     case 'prayer':
       if ('ref' in section) return [resolvePrayerRef(section.ref)]
-      if ('inline' in section) return [resolveInlinePrayer(section.inline)]
+      if ('inline' in section) return [resolveInlinePrayer(section.inline, section.speaker)]
       return []
 
     case 'hymn':
@@ -371,6 +380,27 @@ function resolveSection(section: FlowSection, context: FlowContext): RenderedSec
       }
       return []
     }
+
+    case 'subheading':
+      return [{ type: 'subheading', text: localizeContent(section.text) }]
+
+    case 'proper':
+      return [
+        { type: 'proper', slot: section.slot, description: localizeContent(section.description) },
+      ]
+
+    case 'options':
+      return [
+        {
+          type: 'options',
+          label: localizeContent(section.label),
+          options: section.options.map((opt) => ({
+            id: opt.id,
+            label: localizeContent(opt.label),
+            sections: opt.sections.flatMap((s) => resolveSection(s, context)),
+          })),
+        },
+      ]
 
     default:
       return []

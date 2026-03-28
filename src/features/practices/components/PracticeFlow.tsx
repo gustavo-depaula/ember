@@ -5,7 +5,7 @@ import { ChevronLeft } from 'lucide-react-native'
 import { useMemo } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
-import { Spinner, Text, useTheme, XStack, YStack } from 'tamagui'
+import { Spinner, Text, useTheme, View, XStack, YStack } from 'tamagui'
 
 import {
   AnimatedPressable,
@@ -13,11 +13,12 @@ import {
   CanticleBlock,
   CccReadingBlock,
   CollapsiblePrayer,
-  HeaderFlourish,
   HymnBlock,
+  LiturgicalPrayerBlock,
   ManuscriptFrame,
-  OrnamentalRule,
+  OptionsBlock,
   PrayerTextBlock,
+  ProperSlot,
   type PsalmData,
   PsalmodyBlock,
   ResponseBlock,
@@ -29,6 +30,7 @@ import {
   getDefaultVariant,
   getManifest,
   loadFlow,
+  loadFormFlow,
   loadHourFlow,
   loadVariant,
 } from '@/content/practices'
@@ -44,6 +46,7 @@ import { useReadingMargin } from '@/hooks/useReadingStyle'
 import { getPsalmNumbering } from '@/lib/bolls'
 import type { Verse } from '@/lib/content'
 import { successBuzz } from '@/lib/haptics'
+import { localizeContent } from '@/lib/i18n'
 import { formatLocalized } from '@/lib/i18n/dateLocale'
 import type { PsalmRef, ReadingReference } from '@/lib/liturgical'
 import { usePreferencesStore } from '@/stores/preferencesStore'
@@ -70,11 +73,18 @@ export function PracticeFlow({ practiceId, hourId }: { practiceId: string; hourI
   const togglePractice = useTogglePractice()
 
   const manifest = getManifest(practiceId)
+  const formPreferences = usePreferencesStore((s) => s.formPreferences)
+  const setFormPreference = usePreferencesStore((s) => s.setFormPreference)
+  const selectedFormId = manifest?.forms?.length
+    ? (formPreferences[practiceId] ?? manifest.forms[0].id)
+    : undefined
+
   const flow = useMemo(() => {
     if (!manifest) return undefined
     if (hourId && manifest.hours) return loadHourFlow(practiceId, hourId)
+    if (selectedFormId && manifest.forms) return loadFormFlow(practiceId, selectedFormId)
     return loadFlow(practiceId)
-  }, [manifest, practiceId, hourId])
+  }, [manifest, practiceId, hourId, selectedFormId])
 
   const { data: practices = [] } = usePractices()
   const selectedVariantId = practices.find((p) => p.id === practiceId)?.selected_variant
@@ -185,7 +195,9 @@ export function PracticeFlow({ practiceId, hourId }: { practiceId: string; hourI
             paddingVertical="$md"
             paddingHorizontal={readingMargin}
           >
-            <HeaderFlourish />
+            <Text fontFamily="$display" fontSize="$5" color="$accent">
+              ✠
+            </Text>
             <Text fontFamily="$display" fontSize={36} lineHeight={42} color="$colorBurgundy">
               {practiceName}
             </Text>
@@ -193,6 +205,17 @@ export function PracticeFlow({ practiceId, hourId }: { practiceId: string; hourI
               {formattedDate}
             </Text>
           </YStack>
+
+          {manifest?.forms && selectedFormId && (
+            <FormToggle
+              forms={manifest.forms.map((f) => ({
+                id: f.id,
+                label: localizeContent(f.name),
+              }))}
+              selected={selectedFormId}
+              onChange={(formId) => setFormPreference(practiceId, formId)}
+            />
+          )}
 
           <YStack gap="$md">
             {sections.map((section, index) => (
@@ -207,7 +230,11 @@ export function PracticeFlow({ practiceId, hourId }: { practiceId: string; hourI
             ))}
           </YStack>
 
-          <YStack paddingVertical="$lg" paddingHorizontal={readingMargin}>
+          <YStack paddingBottom="$lg" />
+        </ManuscriptFrame>
+
+        {manifest?.completion !== 'manual' && (
+          <YStack paddingHorizontal={readingMargin}>
             <AnimatedPressable onPress={handleComplete} disabled={togglePractice.isPending}>
               <YStack
                 backgroundColor="$accent"
@@ -226,7 +253,7 @@ export function PracticeFlow({ practiceId, hourId }: { practiceId: string; hourI
               </YStack>
             </AnimatedPressable>
           </YStack>
-        </ManuscriptFrame>
+        )}
       </YStack>
     </ScreenLayout>
   )
@@ -250,6 +277,15 @@ function PracticeSectionBlock({
       return <RubricLabel>{section.label}</RubricLabel>
 
     case 'prayer':
+      if (section.speaker) {
+        return (
+          <LiturgicalPrayerBlock
+            speaker={section.speaker}
+            text={section.text}
+            latin={section.latin ?? ''}
+          />
+        )
+      }
       if (section.title) {
         return <CollapsiblePrayer title={section.title} text={section.text} count={section.count} />
       }
@@ -286,7 +322,11 @@ function PracticeSectionBlock({
       )
 
     case 'divider':
-      return <OrnamentalRule />
+      return (
+        <YStack alignItems="center" paddingVertical="$sm">
+          <View width="40%" height={0.5} backgroundColor="$accentSubtle" />
+        </YStack>
+      )
 
     case 'psalmody':
       return <PsalmodyBlock psalmData={psalmData} />
@@ -303,10 +343,79 @@ function PracticeSectionBlock({
       }
       return <CccReadingBlock reference={section.reference} paragraphs={cccData} />
 
+    case 'subheading':
+      return (
+        <Text
+          fontFamily="$heading"
+          fontSize="$3"
+          color="$colorBurgundy"
+          letterSpacing={0.5}
+          paddingTop="$sm"
+        >
+          {section.text}
+        </Text>
+      )
+
+    case 'proper':
+      return <ProperSlot description={section.description} />
+
+    case 'options':
+      return (
+        <OptionsBlock
+          label={section.label}
+          options={section.options}
+          renderSection={(s, i) => (
+            <PracticeSectionBlock
+              key={`${s.type}-${i}`}
+              section={s}
+              psalmData={psalmData}
+              readingData={readingData}
+              readingFallback={readingFallback}
+              cccData={cccData}
+            />
+          )}
+        />
+      )
+
     case 'image':
       return null
 
     default:
       return null
   }
+}
+
+function FormToggle({
+  forms,
+  selected,
+  onChange,
+}: {
+  forms: { id: string; label: string }[]
+  selected: string
+  onChange: (formId: string) => void
+}) {
+  return (
+    <XStack gap="$xs" justifyContent="center" paddingVertical="$md" paddingHorizontal="$md">
+      {forms.map((form) => (
+        <AnimatedPressable key={form.id} onPress={() => onChange(form.id)}>
+          <YStack
+            paddingHorizontal="$md"
+            paddingVertical="$sm"
+            borderRadius="$md"
+            borderWidth={1}
+            borderColor={form.id === selected ? '$accent' : '$borderColor'}
+            backgroundColor={form.id === selected ? '$accent' : 'transparent'}
+          >
+            <Text
+              fontFamily="$heading"
+              fontSize="$1"
+              color={form.id === selected ? '$background' : '$colorSecondary'}
+            >
+              {form.label}
+            </Text>
+          </YStack>
+        </AnimatedPressable>
+      ))}
+    </XStack>
+  )
 }

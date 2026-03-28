@@ -1,5 +1,8 @@
 export { CanticleBlock } from './CanticleBlock'
 export { CollapsiblePrayer } from './CollapsiblePrayer'
 export { HymnBlock } from './HymnBlock'
+export { LiturgicalPrayerBlock } from './LiturgicalPrayerBlock'
+export { OptionsBlock } from './OptionsBlock'
 export { PrayerTextBlock } from './PrayerTextBlock'
+export { ProperSlot } from './ProperSlot'
 export { ResponseBlock } from './ResponseBlock'

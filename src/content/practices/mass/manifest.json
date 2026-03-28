@@ -1,0 +1,33 @@
+{
+  "id": "mass",
+  "name": { "en": "Holy Mass", "pt-BR": "Santa Missa" },
+  "categories": ["liturgy"],
+  "estimatedMinutes": 60,
+  "description": {
+    "en": "The Order of Mass — follow along with the fixed/ordinary parts of the Catholic Mass in both Latin and English.",
+    "pt-BR": "A Ordem da Missa — acompanhe as partes fixas/ordinárias da Missa Católica em latim e inglês."
+  },
+  "history": {
+    "en": "The Mass is the central act of worship in the Catholic Church, making present the sacrifice of Christ on Calvary. The Roman Rite has developed over two millennia, from the early house liturgies described by St. Justin Martyr to the codified Missale Romanum of Pope St. Pius V (1570) and its subsequent revisions. The Ordinary Form follows the Roman Missal promulgated by Pope St. Paul VI (1970, third typical edition 2002), while the Extraordinary Form preserves the 1962 Missale Romanum.",
+    "pt-BR": "A Missa é o ato central de culto na Igreja Católica, tornando presente o sacrifício de Cristo no Calvário. O Rito Romano desenvolveu-se ao longo de dois milênios, desde as primeiras liturgias domésticas descritas por São Justino Mártir até o Missale Romanum codificado pelo Papa São Pio V (1570) e suas revisões subsequentes. A Forma Ordinária segue o Missal Romano promulgado pelo Papa São Paulo VI (1970, terceira edição típica 2002), enquanto a Forma Extraordinária preserva o Missale Romanum de 1962."
+  },
+  "howToPray": {
+    "en": "This is a reference for the fixed (ordinary) parts of the Mass. Use it to follow along during Mass, especially to learn the responses. Variable parts — readings, propers, and the homily — are shown as placeholders. The prayers are displayed in English with the Latin original below each text.",
+    "pt-BR": "Esta é uma referência para as partes fixas (ordinárias) da Missa. Use-a para acompanhar durante a Missa, especialmente para aprender as respostas. As partes variáveis — leituras, próprios e a homilia — são mostradas como marcadores. As orações são exibidas em inglês com o original em latim abaixo de cada texto."
+  },
+  "flowMode": "scroll",
+  "completion": "manual",
+  "forms": [
+    {
+      "id": "ordinary",
+      "name": { "en": "Ordinary Form", "pt-BR": "Forma Ordinária" },
+      "flow": "flows/ordinary.json"
+    },
+    {
+      "id": "extraordinary",
+      "name": { "en": "Extraordinary Form", "pt-BR": "Forma Extraordinária" },
+      "flow": "flows/extraordinary.json"
+    }
+  ],
+  "tags": ["mass", "liturgy", "eucharist", "missal"]
+}
