@@ -1,0 +1,40 @@
+{
+  "sections": [
+    { "type": "rubric", "text": { "en": "Opening Prayers", "pt-BR": "Orações Iniciais" } },
+    { "type": "prayer", "ref": "sign-of-cross" },
+    { "type": "prayer", "ref": "apostles-creed" },
+    { "type": "prayer", "ref": "our-father" },
+    {
+      "type": "repeat",
+      "count": 3,
+      "sections": [
+        { "type": "prayer", "ref": "hail-mary" }
+      ]
+    },
+    { "type": "prayer", "ref": "glory-be" },
+    { "type": "divider" },
+    {
+      "type": "repeat",
+      "count": 5,
+      "variable": { "source": "variant", "key": "mysteries" },
+      "sections": [
+        { "type": "heading", "text": { "en": "{{ordinal}} Mystery: {{name}}", "pt-BR": "{{ordinal}} Mistério: {{name}}" } },
+        { "type": "meditation", "text": { "en": "{{meditation}}", "pt-BR": "{{meditation}}" } },
+        { "type": "prayer", "ref": "our-father" },
+        {
+          "type": "repeat",
+          "count": 10,
+          "sections": [
+            { "type": "prayer", "ref": "hail-mary" }
+          ]
+        },
+        { "type": "prayer", "ref": "glory-be" },
+        { "type": "prayer", "ref": "fatima-prayer" },
+        { "type": "divider" }
+      ]
+    },
+    { "type": "rubric", "text": { "en": "Closing Prayers", "pt-BR": "Orações Finais" } },
+    { "type": "prayer", "ref": "hail-holy-queen" },
+    { "type": "prayer", "ref": "sign-of-cross" }
+  ]
+}

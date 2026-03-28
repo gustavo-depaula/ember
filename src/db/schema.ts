@@ -16,6 +16,8 @@ export type Practice = {
   notify_time: string | null
   is_builtin: number
   description: string
+  manifest_id: string | null
+  selected_variant: string | null
 }
 
 export type PracticeLog = {

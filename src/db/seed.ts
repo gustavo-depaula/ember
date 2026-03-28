@@ -14,6 +14,7 @@ type PracticeSeed = {
   frequencyDays: number[]
   enabled: boolean
   description: string
+  manifestId: string | null
 }
 
 const builtinPractices: PracticeSeed[] = [
@@ -29,6 +30,7 @@ const builtinPractices: PracticeSeed[] = [
     frequencyDays: [],
     enabled: true,
     description: "Offering the day's work and sufferings to God",
+    manifestId: 'morning-offering',
   },
   {
     id: 'mental-prayer',
@@ -41,6 +43,7 @@ const builtinPractices: PracticeSeed[] = [
     frequencyDays: [],
     enabled: true,
     description: '15-30 min of silent prayer or meditation on Scripture',
+    manifestId: null,
   },
   {
     id: 'holy-mass',
@@ -53,6 +56,7 @@ const builtinPractices: PracticeSeed[] = [
     frequencyDays: [0], // Sunday
     enabled: true,
     description: 'Attendance at Mass',
+    manifestId: null,
   },
   {
     id: 'rosary',
@@ -65,6 +69,7 @@ const builtinPractices: PracticeSeed[] = [
     frequencyDays: [],
     enabled: true,
     description: 'Five decades of the Rosary',
+    manifestId: 'rosary',
   },
   {
     id: 'examination-conscience',
@@ -77,6 +82,7 @@ const builtinPractices: PracticeSeed[] = [
     frequencyDays: [],
     enabled: true,
     description: "Brief review of the day's actions and failings",
+    manifestId: null,
   },
   {
     id: 'night-prayer',
@@ -89,6 +95,7 @@ const builtinPractices: PracticeSeed[] = [
     frequencyDays: [],
     enabled: true,
     description: 'Brief prayer before sleep',
+    manifestId: null,
   },
 
   // Ideal — enabled by default
@@ -103,6 +110,7 @@ const builtinPractices: PracticeSeed[] = [
     frequencyDays: [],
     enabled: true,
     description: 'Traditional prayer recited at noon',
+    manifestId: 'angelus',
   },
   {
     id: 'spiritual-reading',
@@ -115,6 +123,7 @@ const builtinPractices: PracticeSeed[] = [
     frequencyDays: [],
     enabled: true,
     description: 'Reading from spiritual classics, saints, theology',
+    manifestId: null,
   },
   {
     id: 'confession',
@@ -127,6 +136,7 @@ const builtinPractices: PracticeSeed[] = [
     frequencyDays: [6], // Saturday
     enabled: false,
     description: 'Sacrament of Reconciliation',
+    manifestId: null,
   },
   {
     id: 'blessed-sacrament',
@@ -139,6 +149,7 @@ const builtinPractices: PracticeSeed[] = [
     frequencyDays: [],
     enabled: false,
     description: 'Time spent before the Blessed Sacrament',
+    manifestId: null,
   },
 
   // Extra — disabled by default
@@ -153,6 +164,7 @@ const builtinPractices: PracticeSeed[] = [
     frequencyDays: [],
     enabled: false,
     description: 'Chaplet of Divine Mercy at 3 PM',
+    manifestId: 'divine-mercy',
   },
   {
     id: 'stations-cross',
@@ -165,6 +177,7 @@ const builtinPractices: PracticeSeed[] = [
     frequencyDays: [5], // Friday
     enabled: false,
     description: 'Meditations on the Passion of Christ',
+    manifestId: 'stations-cross',
   },
   {
     id: 'lectio-divina',
@@ -177,6 +190,7 @@ const builtinPractices: PracticeSeed[] = [
     frequencyDays: [],
     enabled: false,
     description: 'Prayerful reading and meditation on Scripture',
+    manifestId: null,
   },
   {
     id: 'guardian-angel',
@@ -189,6 +203,7 @@ const builtinPractices: PracticeSeed[] = [
     frequencyDays: [],
     enabled: false,
     description: 'Prayer to your Guardian Angel',
+    manifestId: 'guardian-angel',
   },
   {
     id: 'memorare',
@@ -201,6 +216,7 @@ const builtinPractices: PracticeSeed[] = [
     frequencyDays: [],
     enabled: false,
     description: 'Traditional prayer to the Blessed Virgin Mary',
+    manifestId: 'memorare',
   },
   {
     id: 'three-oclock',
@@ -213,6 +229,7 @@ const builtinPractices: PracticeSeed[] = [
     frequencyDays: [],
     enabled: false,
     description: 'Brief prayer at the Hour of Mercy',
+    manifestId: null,
   },
 
   // Eastern Catholic practices — disabled by default
@@ -227,6 +244,7 @@ const builtinPractices: PracticeSeed[] = [
     frequencyDays: [],
     enabled: false,
     description: 'Lord Jesus Christ, Son of God, have mercy on me, a sinner',
+    manifestId: null,
   },
   {
     id: 'akathist',
@@ -239,6 +257,7 @@ const builtinPractices: PracticeSeed[] = [
     frequencyDays: [6], // Saturday
     enabled: false,
     description: 'Standing hymn of praise to Christ or the Theotokos',
+    manifestId: null,
   },
   {
     id: 'trisagion',
@@ -251,6 +270,7 @@ const builtinPractices: PracticeSeed[] = [
     frequencyDays: [],
     enabled: false,
     description: 'Holy God, Holy Mighty, Holy Immortal, have mercy on us',
+    manifestId: null,
   },
   {
     id: 'paraklesis',
@@ -263,6 +283,7 @@ const builtinPractices: PracticeSeed[] = [
     frequencyDays: [],
     enabled: false,
     description: 'Supplicatory canon to the Theotokos',
+    manifestId: null,
   },
   {
     id: 'prostrations',
@@ -275,6 +296,7 @@ const builtinPractices: PracticeSeed[] = [
     frequencyDays: [],
     enabled: false,
     description: 'Prayer with metanias (bows)',
+    manifestId: null,
   },
 ]
 
@@ -317,8 +339,8 @@ export async function seedPractices() {
   await db.withTransactionAsync(async () => {
     for (const p of builtinPractices) {
       await db.runAsync(
-        `INSERT INTO practices (id, name, icon, frequency, enabled, sort_order, tier, time_block, frequency_days, is_builtin, description)
-         VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, 1, ?)`,
+        `INSERT INTO practices (id, name, icon, frequency, enabled, sort_order, tier, time_block, frequency_days, is_builtin, description, manifest_id)
+         VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, 1, ?, ?)`,
         [
           p.id,
           p.name,
@@ -330,6 +352,7 @@ export async function seedPractices() {
           p.timeBlock,
           JSON.stringify(p.frequencyDays),
           p.description,
+          p.manifestId,
         ],
       )
     }
@@ -342,14 +365,15 @@ async function backfillBuiltinPractices() {
   await db.withTransactionAsync(async () => {
     for (const p of builtinPractices) {
       await db.runAsync(
-        `INSERT INTO practices (id, name, icon, frequency, enabled, sort_order, tier, time_block, frequency_days, is_builtin, description)
-         VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, 1, ?)
+        `INSERT INTO practices (id, name, icon, frequency, enabled, sort_order, tier, time_block, frequency_days, is_builtin, description, manifest_id)
+         VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, 1, ?, ?)
          ON CONFLICT (id) DO UPDATE SET
            tier = excluded.tier,
            time_block = excluded.time_block,
            frequency_days = excluded.frequency_days,
            is_builtin = 1,
-           description = CASE WHEN description = '' THEN excluded.description ELSE description END`,
+           description = CASE WHEN description = '' THEN excluded.description ELSE description END,
+           manifest_id = excluded.manifest_id`,
         [
           p.id,
           p.name,
@@ -361,6 +385,7 @@ async function backfillBuiltinPractices() {
           p.timeBlock,
           JSON.stringify(p.frequencyDays),
           p.description,
+          p.manifestId,
         ],
       )
     }

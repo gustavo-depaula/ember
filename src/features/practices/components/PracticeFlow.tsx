@@ -20,9 +20,9 @@ import {
   ScreenLayout,
 } from '@/components'
 import { type FlowContext, resolveFlow } from '@/content/engine'
-import { getManifest, loadFlow } from '@/content/practices'
+import { getDefaultVariant, getManifest, loadFlow, loadVariant } from '@/content/practices'
 import type { RenderedSection } from '@/content/types'
-import { useTogglePractice } from '@/features/plan-of-life'
+import { usePractices, useTogglePractice } from '@/features/plan-of-life'
 import { useReadingMargin } from '@/hooks/useReadingStyle'
 import { successBuzz } from '@/lib/haptics'
 import { formatLocalized } from '@/lib/i18n/dateLocale'
@@ -37,15 +37,26 @@ export function PracticeFlow({ practiceId }: { practiceId: string }) {
   const manifest = getManifest(practiceId)
   const flow = manifest ? loadFlow(practiceId) : undefined
 
+  const { data: practices = [] } = usePractices()
+  const selectedVariantId = practices.find((p) => p.id === practiceId)?.selected_variant
+
+  const variant = useMemo(() => {
+    if (!manifest?.variants?.length) return undefined
+    if (selectedVariantId) return loadVariant(practiceId, selectedVariantId)
+    return getDefaultVariant(practiceId)
+  }, [practiceId, manifest, selectedVariantId])
+
   const now = useMemo(() => new Date(), [])
 
   const sections = useMemo(() => {
     if (!flow) return []
-    const context: FlowContext = { date: now }
+    const context: FlowContext = { date: now, variant }
     return resolveFlow(flow, context)
-  }, [flow, now])
+  }, [flow, now, variant])
 
-  const practiceName = t(`practice.${practiceId}`, { defaultValue: manifest?.name.en ?? practiceId })
+  const practiceName = t(`practice.${practiceId}`, {
+    defaultValue: manifest?.name.en ?? practiceId,
+  })
   const formattedDate = formatLocalized(now, 'EEEE, MMMM d, yyyy')
 
   if (!manifest || !flow) {

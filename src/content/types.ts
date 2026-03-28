@@ -58,7 +58,7 @@ export type FlowSection =
   | {
       type: 'repeat'
       count: number
-      variable?: { source: string; key: string }
+      variable?: { source: 'variant'; key: string }
       sections: FlowSection[]
     }
   | { type: 'psalter'; hour: string; cycle: string }
@@ -88,4 +88,4 @@ export type Variant = {
   data: Record<string, VariantEntry[]>
 }
 
-export type VariantEntry = Record<string, string | undefined>
+export type VariantEntry = Record<string, string | LocalizedText | undefined>
