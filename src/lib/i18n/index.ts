@@ -21,3 +21,13 @@ i18n.use(initReactI18next).init({
 })
 
 export default i18n
+
+export function localizeAsset(obj: { english: string; portuguese?: string }): string {
+  if (i18n.language === 'pt-BR' && obj.portuguese) return obj.portuguese
+  return obj.english
+}
+
+export function localizeContent(text: { en: string; 'pt-BR'?: string }): string {
+  if (i18n.language === 'pt-BR' && text['pt-BR']) return text['pt-BR']
+  return text.en
+}

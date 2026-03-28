@@ -7,16 +7,18 @@ import { Spinner, Text, useTheme, XStack, YStack } from 'tamagui'
 
 import {
   AnimatedPressable,
+  CanticleBlock,
   DropCap,
   HeaderFlourish,
+  HymnBlock,
   IlluminatedInitial,
   ManuscriptFrame,
   OrnamentalRule,
   PageBreakOrnament,
   PrayerText,
+  PrayerTextBlock,
   RubricLabel,
   ScreenLayout,
-  VineBar,
 } from '@/components'
 import { useReadingMargin } from '@/hooks/useReadingStyle'
 import type { Verse } from '@/lib/content'
@@ -218,53 +220,6 @@ function SectionBlock({
   }
 }
 
-function PrayerTextBlock({ text }: { text: string }) {
-  const lines = text.split('\n')
-  return (
-    <YStack gap="$xs">
-      {lines.map((line, i) => (
-        <PrayerText key={`${i}-${line.slice(0, 20)}`}>{line}</PrayerText>
-      ))}
-    </YStack>
-  )
-}
-
-function HymnBlock({ title, english, latin }: { title: string; english: string; latin: string }) {
-  const englishLines = english.split('\n')
-  const latinLines = latin.split('\n')
-  const totalLines = englishLines.length + latinLines.length
-  const estimatedHeight = totalLines * 24 + 40
-
-  return (
-    <XStack gap="$sm">
-      <VineBar height={estimatedHeight} />
-      <YStack gap="$md" flex={1}>
-        <Text fontFamily="$heading" fontSize="$3" color="$colorBurgundy" letterSpacing={0.5}>
-          {title}
-        </Text>
-        <YStack gap="$xs">
-          {englishLines.map((line, i) => (
-            <PrayerText key={`en-${i}-${line.slice(0, 20)}`}>{line}</PrayerText>
-          ))}
-        </YStack>
-        <YStack gap="$xs" opacity={0.6}>
-          {latinLines.map((line, i) => (
-            <Text
-              key={`la-${i}-${line.slice(0, 20)}`}
-              fontFamily="$body"
-              fontSize="$2"
-              fontStyle="italic"
-              color="$colorSecondary"
-            >
-              {line}
-            </Text>
-          ))}
-        </YStack>
-      </YStack>
-    </XStack>
-  )
-}
-
 function PsalmodyBlock({ psalmData }: { psalmData: PsalmData[] }) {
   if (psalmData.length === 0) return undefined
 
@@ -361,34 +316,6 @@ function CccReadingBlock({
           </Text>
           <PrayerText flex={1}>{p.text}</PrayerText>
         </XStack>
-      ))}
-    </YStack>
-  )
-}
-
-function CanticleBlock({
-  title,
-  subtitle,
-  source,
-  text,
-}: {
-  title: string
-  subtitle: string
-  source: string
-  text: string
-}) {
-  const lines = text.split('\n')
-  return (
-    <YStack gap="$sm">
-      <Text fontFamily="$heading" fontSize="$3" color="$colorBurgundy" letterSpacing={0.5}>
-        {title}
-      </Text>
-      <Text fontFamily="$body" fontSize="$1" color="$colorMutedBlue">
-        {subtitle} ({source})
-      </Text>
-      <DropCap text={lines[0]} />
-      {lines.slice(1).map((line, i) => (
-        <PrayerText key={`${i}-${line.slice(0, 20)}`}>{line}</PrayerText>
       ))}
     </YStack>
   )

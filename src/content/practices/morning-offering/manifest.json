@@ -1,0 +1,22 @@
+{
+  "id": "morning-offering",
+  "name": { "en": "Morning Offering", "pt-BR": "Oferecimento do Dia" },
+  "categories": ["daily"],
+  "estimatedMinutes": 1,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "flow": "flow.json",
+  "description": {
+    "en": "A prayer offering the day's activities, joys, and sufferings to God through the Immaculate Heart of Mary, uniting them with the Holy Sacrifice of the Mass throughout the world.",
+    "pt-BR": "Uma oração oferecendo as atividades, alegrias e sofrimentos do dia a Deus pelo Coração Imaculado de Maria, unindo-os ao Santo Sacrifício da Missa em todo o mundo."
+  },
+  "history": {
+    "en": "The Morning Offering tradition grew from the Apostleship of Prayer, founded in 1844 by Fr. François-Xavier Gautrelet, S.J., at the Jesuit seminary in Vals, France. He encouraged seminarians to offer each day's work for the intentions of the Sacred Heart. The practice quickly spread worldwide and was endorsed by multiple popes. The prayer transforms ordinary daily actions into acts of worship by uniting them with Christ's sacrifice.",
+    "pt-BR": "A tradição do Oferecimento do Dia cresceu a partir do Apostolado da Oração, fundado em 1844 pelo Pe. François-Xavier Gautrelet, S.J., no seminário jesuíta de Vals, França. Ele incentivava os seminaristas a oferecer o trabalho de cada dia pelas intenções do Sagrado Coração. A prática se espalhou rapidamente pelo mundo e foi endossada por vários papas."
+  },
+  "howToPray": {
+    "en": "Upon waking, make the Sign of the Cross and slowly pray the offering, consciously dedicating your day. Pause to consider what lies ahead — your work, encounters, and potential difficulties — and offer them all to God. Some find it helpful to pray this before getting out of bed, as it sets the tone for the entire day.",
+    "pt-BR": "Ao acordar, faça o Sinal da Cruz e reze lentamente o oferecimento, dedicando conscientemente o seu dia. Pause para considerar o que está por vir — seu trabalho, encontros e possíveis dificuldades — e ofereça tudo a Deus."
+  },
+  "tags": ["morning", "offering", "daily", "sacred-heart", "jesuit"]
+}

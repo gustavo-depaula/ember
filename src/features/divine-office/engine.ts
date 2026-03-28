@@ -12,7 +12,7 @@ import ourFather from '@/assets/prayers/our-father.json'
 import type { ReadingProgress } from '@/db/schema'
 import type { PsalmNumbering } from '@/lib/bolls'
 import { getDrbBooks } from '@/lib/content'
-import i18n from '@/lib/i18n'
+import i18n, { localizeAsset } from '@/lib/i18n'
 
 import { getComplinePsalms, getPsalmsForDay, type PsalmRef } from './psalter'
 
@@ -41,10 +41,7 @@ type Antiphon = {
   portuguese?: string
 }
 
-function localizedText(obj: { english: string; portuguese?: string }): string {
-  if (i18n.language === 'pt-BR' && obj.portuguese) return obj.portuguese
-  return obj.english
-}
+const localizedText = localizeAsset
 
 export const cccDailyCount = 8
 
