@@ -50,7 +50,7 @@ Accessible from home screen via `NavigationMedallion` (cross icon, "Holy Mass" /
 
 ## Future Enhancements
 
-- Fill proper slots with daily readings from a lectionary API
+- **Fill proper slots with daily readings** — see `docs/features/daily-readings.md` for full research. EF is fully solvable via Missale Meum API; OF readings available via Evangelizo but OF collects/antiphons have a data gap (ICEL copyright).
 - Multiple preface options
 - "Highlight my responses" toggle (filter by `speaker: 'people'`)
 - Audio/chant mode for Latin texts
