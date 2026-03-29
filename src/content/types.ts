@@ -66,7 +66,7 @@ export type FlowSection =
   | {
       type: 'options'
       label: LocalizedText
-      options: { id: string; label: LocalizedText; sections: FlowSection[] }[]
+      options: { id: string; label: LocalizedText; lang?: string; sections: FlowSection[] }[]
     }
   | {
       type: 'repeat'
@@ -106,6 +106,7 @@ export type RenderedSection =
     }
   | { type: 'psalmody'; psalms: PsalmRef[] }
   | { type: 'reading'; reference: ReadingReference }
+  | { type: 'set-selector'; options: { key: string; label: string }[]; selectedKey: string }
 
 // --- Variant ---
 
