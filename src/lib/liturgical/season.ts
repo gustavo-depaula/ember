@@ -1,6 +1,54 @@
 import { addDays, isAfter, isBefore, isEqual, startOfDay } from 'date-fns'
 
-export type LiturgicalSeason = 'advent' | 'christmas' | 'easter' | 'ordinary'
+export type LiturgicalSeason =
+  | 'advent'
+  | 'christmas'
+  | 'epiphany'
+  | 'septuagesima'
+  | 'lent'
+  | 'easter'
+  | 'ordinary'
+  | 'post-pentecost'
+
+export type LiturgicalCalendarForm = 'of' | 'ef'
+
+export type LiturgicalColor = 'violet' | 'white' | 'green' | 'rose' | 'red'
+
+const seasonToColor: Record<LiturgicalSeason, LiturgicalColor> = {
+  advent: 'violet',
+  christmas: 'white',
+  epiphany: 'green',
+  septuagesima: 'violet',
+  lent: 'violet',
+  easter: 'white',
+  ordinary: 'green',
+  'post-pentecost': 'green',
+}
+
+export function getLiturgicalColor(season: LiturgicalSeason): LiturgicalColor {
+  return seasonToColor[season]
+}
+
+export function normalizeDate(date: Date): Date {
+  return startOfDay(date)
+}
+
+export function dateInRange(d: Date, start: Date, end: Date): boolean {
+  const day = normalizeDate(d)
+  const s = normalizeDate(start)
+  const e = normalizeDate(end)
+  return (isAfter(day, s) || isEqual(day, s)) && (isBefore(day, e) || isEqual(day, e))
+}
+
+export function dateBefore(d: Date, boundary: Date): boolean {
+  return isBefore(normalizeDate(d), normalizeDate(boundary))
+}
+
+export function dateOnOrAfter(d: Date, boundary: Date): boolean {
+  const day = normalizeDate(d)
+  const b = normalizeDate(boundary)
+  return isAfter(day, b) || isEqual(day, b)
+}
 
 export function computeEaster(year: number): Date {
   const a = year % 19
@@ -27,37 +75,71 @@ export function getFirstSundayOfAdvent(year: number): Date {
   return addDays(nov27, daysUntilSunday)
 }
 
-function dateOnOrBefore(date: Date, boundary: Date): boolean {
-  return isBefore(date, boundary) || isEqual(startOfDay(date), startOfDay(boundary))
+export function getAshWednesday(year: number): Date {
+  return addDays(computeEaster(year), -46)
 }
 
-function dateOnOrAfter(date: Date, boundary: Date): boolean {
-  return isAfter(date, boundary) || isEqual(startOfDay(date), startOfDay(boundary))
+export function getBaptismOfTheLord(year: number): Date {
+  const jan6 = new Date(year, 0, 6)
+  const dayOfWeek = jan6.getDay()
+  // If Epiphany is Sunday, Baptism is the following Sunday
+  if (dayOfWeek === 0) return new Date(year, 0, 13)
+  return addDays(jan6, 7 - dayOfWeek)
 }
 
-export function getLiturgicalSeason(date: Date): LiturgicalSeason {
+export function getSeptuagesimaSunday(year: number): Date {
+  return addDays(computeEaster(year), -63)
+}
+
+function getOfSeason(date: Date): LiturgicalSeason {
   const year = date.getFullYear()
-  const d = startOfDay(date)
+  const d = normalizeDate(date)
 
-  const feb1 = new Date(year, 1, 1)
-  const feb2 = new Date(year, 1, 2)
-  const easter = computeEaster(year)
-  const holyWednesday = addDays(easter, -4)
-  const pentecost = addDays(easter, 49)
   const adventStart = getFirstSundayOfAdvent(year)
+  const dec25 = new Date(year, 11, 25)
+  const easter = computeEaster(year)
+  const ashWed = addDays(easter, -46)
+  const pentecost = addDays(easter, 49)
 
-  // Advent of current year through Feb 1 of next year
+  if (dateOnOrAfter(d, dec25)) return 'christmas'
   if (dateOnOrAfter(d, adventStart)) return 'advent'
 
-  // Jan 1 through Feb 1 — still in previous year's advent/Alma Redemptoris season
-  if (dateOnOrBefore(d, feb1)) return 'advent'
+  const baptism = getBaptismOfTheLord(year)
+  if (dateBefore(d, addDays(baptism, 1))) return 'christmas'
+  if (dateBefore(d, ashWed)) return 'ordinary'
+  if (dateBefore(d, easter)) return 'lent'
+  if (dateInRange(d, easter, pentecost)) return 'easter'
 
-  // Feb 2 through Holy Wednesday
-  if (dateOnOrAfter(d, feb2) && dateOnOrBefore(d, holyWednesday)) return 'christmas'
-
-  // Easter through Pentecost
-  if (dateOnOrAfter(d, easter) && dateOnOrBefore(d, pentecost)) return 'easter'
-
-  // Everything else
   return 'ordinary'
+}
+
+function getEfSeason(date: Date): LiturgicalSeason {
+  const year = date.getFullYear()
+  const d = normalizeDate(date)
+
+  const adventStart = getFirstSundayOfAdvent(year)
+  const dec25 = new Date(year, 11, 25)
+  const easter = computeEaster(year)
+  const ashWed = addDays(easter, -46)
+  const septuagesima = addDays(easter, -63)
+  const pentecostSaturday = addDays(easter, 55)
+
+  if (dateOnOrAfter(d, dec25)) return 'christmas'
+  if (dateOnOrAfter(d, adventStart)) return 'advent'
+
+  const jan13 = new Date(year, 0, 13)
+  if (dateInRange(d, new Date(year, 0, 1), jan13)) return 'christmas'
+  if (dateBefore(d, septuagesima)) return 'epiphany'
+  if (dateBefore(d, ashWed)) return 'septuagesima'
+  if (dateBefore(d, easter)) return 'lent'
+  if (dateInRange(d, easter, pentecostSaturday)) return 'easter'
+
+  return 'post-pentecost'
+}
+
+export function getLiturgicalSeason(
+  date: Date,
+  form: LiturgicalCalendarForm = 'of',
+): LiturgicalSeason {
+  return form === 'ef' ? getEfSeason(date) : getOfSeason(date)
 }

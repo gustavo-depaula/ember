@@ -93,14 +93,17 @@ Individual practice detail views use a legacy single-color green wall:
 
 Light and dark modes use separate liturgical accent values — dark mode accents are brighter to remain visible against the near-black background.
 
-| Season | Light | Dark | Usage |
-|--------|-------|------|-------|
-| Advent | `#5B2C6F` | `#7B3E9A` (amethyst) | accent override |
-| Christmas | `#C9A84C` | `#D4A63A` (reliquary gold) | accent override |
-| Lent | `#7D3C98` | `#9B50B8` (violet glass) | accent override |
-| Easter | `#C9A84C` | `#D4A63A` (reliquary gold) | accent override |
-| Ordinary Time | `#2D6A4F` | `#3A8A5A` (bright cloister) | accent override |
-| Martyrs/feasts | `#922B21` | `#B83828` (blood red) | accent override |
+| Season | Light | Dark | Usage | Forms |
+|--------|-------|------|-------|-------|
+| Advent | `#5B2C6F` | `#7B3E9A` (amethyst) | accent override | both |
+| Christmas | `#C9A84C` | `#D4A63A` (reliquary gold) | accent override | both |
+| Epiphany | `#2D6A4F` | `#3A8A5A` (bright cloister) | accent override | EF only |
+| Septuagesima | `#5B2C6F` | `#7B3E9A` (amethyst) | accent override | EF only |
+| Lent | `#7D3C98` | `#9B50B8` (violet glass) | accent override | both |
+| Easter | `#C9A84C` | `#D4A63A` (reliquary gold) | accent override | both |
+| Ordinary Time | `#2D6A4F` | `#3A8A5A` (bright cloister) | accent override | OF only |
+| Post-Pentecost | `#2D6A4F` | `#3A8A5A` (bright cloister) | accent override | EF only |
+| Martyrs/feasts | `#922B21` | `#B83828` (blood red) | accent override | both |
 
 ---
 

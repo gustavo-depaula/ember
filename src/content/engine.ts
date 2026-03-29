@@ -18,9 +18,11 @@ import i18n, { localizeAsset, localizeContent } from '@/lib/i18n'
 import {
   getComplinePsalms,
   getHymnForHour,
+  getLiturgicalSeason,
   getMarianAntiphon,
   getPsalmsForDay,
   getTodaysReading,
+  type LiturgicalCalendarForm,
 } from '@/lib/liturgical'
 import type {
   FlowDefinition,
@@ -65,6 +67,7 @@ export type FlowContext = {
   date: Date
   variant?: Variant
   numbering?: PsalmNumbering
+  liturgicalCalendar?: LiturgicalCalendarForm
   readingProgress?: {
     ot?: ReadingProgress | null
     nt?: ReadingProgress | null
@@ -153,19 +156,22 @@ function substituteInFlowSection(
 
 function resolveVariantData(
   variant: Variant,
-  date: Date,
-  setKeyOverride?: string,
+  context: FlowContext,
 ): { entries: VariantEntry[]; setKey: string } | undefined {
   let setKey: string | undefined
-  if (setKeyOverride && variant.data[setKeyOverride]) {
-    setKey = setKeyOverride
+  if (context.setKeyOverride && variant.data[context.setKeyOverride]) {
+    setKey = context.setKeyOverride
   } else {
     switch (variant.selector) {
       case 'day-of-week':
-        setKey = variant.schedule?.[dayNames[date.getDay()]]
+        setKey = variant.schedule?.[dayNames[context.date.getDay()]]
         break
+      case 'liturgical-season': {
+        const season = getLiturgicalSeason(context.date, context.liturgicalCalendar)
+        setKey = variant.data[season] ? season : Object.keys(variant.data)[0]
+        break
+      }
       case 'manual':
-      case 'liturgical-season':
         setKey = Object.keys(variant.data)[0]
         break
     }
@@ -231,7 +237,7 @@ function resolveRepeat(
     if (!context.variant) {
       return [{ type: 'rubric', label: '[No variant loaded for repeat variable]' }]
     }
-    const resolved = resolveVariantData(context.variant, context.date, context.setKeyOverride)
+    const resolved = resolveVariantData(context.variant, context)
     if (!resolved) {
       return [{ type: 'rubric', label: `[No data for variant key: ${variable.key}]` }]
     }

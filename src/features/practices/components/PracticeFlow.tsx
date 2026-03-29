@@ -100,6 +100,7 @@ export function PracticeFlow({ practiceId, hourId }: { practiceId: string; hourI
 
   // Dynamic context for psalter/lectio/seasonal sections
   const translation = usePreferencesStore((s) => s.translation)
+  const liturgicalCalendar = usePreferencesStore((s) => s.liturgicalCalendar)
   const numbering = getPsalmNumbering(translation)
   const { data: allProgress } = useAllReadingProgress()
 
@@ -118,11 +119,12 @@ export function PracticeFlow({ practiceId, hourId }: { practiceId: string; hourI
       date: now,
       variant,
       numbering,
+      liturgicalCalendar,
       readingProgress,
       setKeyOverride: selectedSetKey,
     }
     return resolveFlow(flow, context)
-  }, [flow, now, variant, numbering, readingProgress, selectedSetKey])
+  }, [flow, now, variant, numbering, liturgicalCalendar, readingProgress, selectedSetKey])
 
   // Load dynamic content (psalms, Bible readings, CCC)
   const psalmRefs = useMemo(() => findPsalmRefs(sections), [sections])

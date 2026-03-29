@@ -3,6 +3,7 @@ import { create } from 'zustand'
 import { immer } from 'zustand/middleware/immer'
 import { defaultTranslationForLanguage } from '@/lib/bolls'
 import i18n from '@/lib/i18n'
+import type { LiturgicalCalendarForm } from '@/lib/liturgical/season'
 
 type PsalterCycle = '30-day'
 
@@ -10,11 +11,13 @@ type PreferencesState = {
   translation: string
   psalterCycle: PsalterCycle
   language: string
+  liturgicalCalendar: LiturgicalCalendarForm
   formPreferences: Record<string, string>
   hydrated: boolean
   setTranslation: (translation: string) => void
   setPsalterCycle: (cycle: PsalterCycle) => void
   setLanguage: (language: string) => void
+  setLiturgicalCalendar: (form: LiturgicalCalendarForm) => void
   setFormPreference: (practiceId: string, formId: string) => void
   hydrate: () => Promise<void>
 }
@@ -24,6 +27,7 @@ export const usePreferencesStore = create<PreferencesState>()(
     translation: 'RSV2CE',
     psalterCycle: '30-day',
     language: 'en',
+    liturgicalCalendar: 'of',
     formPreferences: {},
     hydrated: false,
 
@@ -52,6 +56,13 @@ export const usePreferencesStore = create<PreferencesState>()(
       i18n.changeLanguage(language)
     },
 
+    setLiturgicalCalendar: (form) => {
+      set((state) => {
+        state.liturgicalCalendar = form
+      })
+      AsyncStorage.setItem('liturgical-calendar', form)
+    },
+
     setFormPreference: (practiceId, formId) => {
       set((state) => {
         state.formPreferences[practiceId] = formId
@@ -63,18 +74,27 @@ export const usePreferencesStore = create<PreferencesState>()(
     },
 
     hydrate: async () => {
-      const [translation, psalterCycle, language, formPrefsJson, legacyMassForm] =
-        await Promise.all([
-          AsyncStorage.getItem('translation'),
-          AsyncStorage.getItem('psalter-cycle'),
-          AsyncStorage.getItem('language'),
-          AsyncStorage.getItem('form-preferences'),
-          AsyncStorage.getItem('mass-form'),
-        ])
+      const [
+        translation,
+        psalterCycle,
+        language,
+        liturgicalCalendar,
+        formPrefsJson,
+        legacyMassForm,
+      ] = await Promise.all([
+        AsyncStorage.getItem('translation'),
+        AsyncStorage.getItem('psalter-cycle'),
+        AsyncStorage.getItem('language'),
+        AsyncStorage.getItem('liturgical-calendar'),
+        AsyncStorage.getItem('form-preferences'),
+        AsyncStorage.getItem('mass-form'),
+      ])
       set((state) => {
         if (translation) state.translation = translation
         if (psalterCycle === '30-day') state.psalterCycle = psalterCycle
         if (language) state.language = language
+        if (liturgicalCalendar === 'of' || liturgicalCalendar === 'ef')
+          state.liturgicalCalendar = liturgicalCalendar
         if (formPrefsJson) {
           try {
             state.formPreferences = JSON.parse(formPrefsJson)
