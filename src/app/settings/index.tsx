@@ -158,6 +158,8 @@ export default function SettingsScreen() {
   const translation = usePreferencesStore((s) => s.translation)
   const language = usePreferencesStore((s) => s.language)
   const setLanguage = usePreferencesStore((s) => s.setLanguage)
+  const liturgicalCalendar = usePreferencesStore((s) => s.liturgicalCalendar)
+  const setLiturgicalCalendar = usePreferencesStore((s) => s.setLiturgicalCalendar)
   const [translationModalVisible, setTranslationModalVisible] = useState(false)
   const themePreference = useThemeStore((s) => s.preference)
   const setTheme = useThemeStore((s) => s.setTheme)
@@ -299,6 +301,18 @@ export default function SettingsScreen() {
           options={supportedLanguages.map((l) => ({ value: l.code, label: l.label }))}
           value={language}
           onChange={setLanguage}
+        />
+
+        <SectionDivider />
+
+        <PillSelector
+          label={t('settings.liturgicalCalendar')}
+          options={[
+            { value: 'of' as const, label: t('settings.calendarOF') },
+            { value: 'ef' as const, label: t('settings.calendarEF') },
+          ]}
+          value={liturgicalCalendar}
+          onChange={setLiturgicalCalendar}
         />
 
         <SectionDivider />

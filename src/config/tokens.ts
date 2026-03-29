@@ -63,9 +63,12 @@ export const tokens = createTokens({
     // Liturgical
     advent: '#5B2C6F',
     christmas: '#F5F0E0',
+    epiphany: '#2D6A4F',
+    septuagesima: '#5B2C6F',
     lent: '#7D3C98',
     easter: '#F5F0E0',
     ordinary: '#2D6A4F',
+    'post-pentecost': '#2D6A4F',
     martyr: '#922B21',
 
     white: '#FFFFFF',

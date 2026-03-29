@@ -229,7 +229,7 @@ type Variant = {
   id: string
   name: LocalizedText
   selector: 'day-of-week' | 'liturgical-season' | 'manual'  // how to pick the active set
-  schedule?: Record<string, string>  // maps selector value → set key (for day-of-week/season)
+  schedule?: Record<string, string>  // maps selector value → set key (day-of-week only)
   data: Record<string, VariantEntry[]>  // set key → array of entries (one per repeat iteration)
 }
 
@@ -280,6 +280,8 @@ type VariantEntry = {
 5. The repeat section with `variable.key: "mysteries"` iterates 5 times
 6. Each iteration, `{{name}}` and `{{meditation}}` resolve to the entry's fields
 
+**`liturgical-season` selector:** The engine calls `getLiturgicalSeason(date, form)` using the user's liturgical calendar preference (OF or EF) and uses the returned season string (e.g. `"lent"`, `"easter"`) as the data key. If the season key doesn't exist in `data`, falls back to the first available key. No `schedule` field needed — the season is computed from the date. Data keys should use the `LiturgicalSeason` values: `advent`, `christmas`, `epiphany`, `septuagesima`, `lent`, `easter`, `ordinary`, `post-pentecost`.
+
 ---
 
 ## Resolution Engine
@@ -293,6 +295,7 @@ type FlowContext = {
   date: Date
   variant?: string                    // user's selected variant ID
   variantData?: Variant               // loaded variant file
+  liturgicalCalendar?: 'of' | 'ef'   // for liturgical-season selector
   readingProgress?: ReadingProgress   // for lectio sections
   psalterNumbering?: 'mt' | 'lxx'    // for psalter sections
 }

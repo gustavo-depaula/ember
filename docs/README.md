@@ -45,6 +45,7 @@ Ember has a complete MVP (Phases 0–9a). See [tasks.md](tasks.md) for full impl
 | **Bible Reader** | Bundled Douay-Rheims (73 books) + online translations via Bolls.life API | [bible-reader.md](features/bible-reader.md) |
 | **Catechism Reader** | Full CCC (2,865 paragraphs), 5-level collapsible TOC, segment navigation | [catechism-reader.md](features/catechism-reader.md) |
 | **Ordo Missae** | Complete Mass ordinary (OF + EF), bilingual Latin/English, proper slot placeholders | [mass.md](features/mass.md) |
+| **Liturgical Seasons** | OF + EF season calculation, user calendar preference, Marian antiphon rotation | [liturgical-seasons.md](features/liturgical-seasons.md) |
 | **Saints Feed** | Daily saints and commemorations | — |
 
 ### Platform & UX

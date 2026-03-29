@@ -66,18 +66,24 @@ export const darkTheme = {
 
 export const liturgicalSubThemes = {
   advent: { accent: '#5B2C6F' },
-  lent: { accent: '#7D3C98' },
   christmas: { accent: '#C9A84C' },
+  epiphany: { accent: '#2D6A4F' },
+  septuagesima: { accent: '#5B2C6F' },
+  lent: { accent: '#7D3C98' },
   easter: { accent: '#C9A84C' },
   ordinary: { accent: '#2D6A4F' },
+  'post-pentecost': { accent: '#2D6A4F' },
   martyr: { accent: '#922B21' },
 }
 
 export const liturgicalSubThemesDark = {
   advent: { accent: '#7B3E9A' },
-  lent: { accent: '#9B50B8' },
   christmas: { accent: '#D4A63A' },
+  epiphany: { accent: '#3A8A5A' },
+  septuagesima: { accent: '#7B3E9A' },
+  lent: { accent: '#9B50B8' },
   easter: { accent: '#D4A63A' },
   ordinary: { accent: '#3A8A5A' },
+  'post-pentecost': { accent: '#3A8A5A' },
   martyr: { accent: '#B83828' },
 }
