@@ -90,7 +90,6 @@ The Catechism reader is a **single screen** (`/catechism/`) with two overlay dra
 - Breadcrumb trail at top in muted color (e.g. "Part One > Section One > Chapter One")
 - Section name as centered heading with `OrnamentalRule` below
 - Paragraphs with bold CCC numbers in superscript muted color, same style as verse numbers in Bible reader
-- `DropCap` on the first paragraph of each segment
 - `OrnamentalRule` at bottom
 - Previous/Next segment navigation at footer
 

@@ -1,6 +1,5 @@
 // biome-ignore-all lint/suspicious/noArrayIndexKey: static prayer text lines never reorder
 import { Text, YStack } from 'tamagui'
-import { DropCap } from '../DropCap'
 import { PrayerText } from '../PrayerText'
 
 export function CanticleBlock({
@@ -26,8 +25,7 @@ export function CanticleBlock({
           {subtitle && source ? ` (${source})` : source}
         </Text>
       )}
-      {lines.length > 0 && <DropCap text={lines[0]} />}
-      {lines.slice(1).map((line, i) => (
+      {lines.map((line, i) => (
         <PrayerText key={`${i}-${line.slice(0, 20)}`}>{line}</PrayerText>
       ))}
     </YStack>

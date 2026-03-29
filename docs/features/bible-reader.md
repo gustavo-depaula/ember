@@ -49,7 +49,6 @@ The Bible reader is a **single screen** (`/bible/`) with two overlay drawers. Th
 - `ScreenLayout` with generous padding
 - "Book Name Chapter#" centered heading with ornamental rule below
 - Verses rendered as paragraphs with superscript verse numbers in muted color
-- `DropCap` on the first verse of each chapter
 - `OrnamentalRule` at bottom
 - Previous/Next chapter navigation at footer — transitions across book boundaries
 - "Mark as read" subtle text button (uses existing `useToggleChapterRead` from divine-office hooks)
@@ -83,7 +82,7 @@ src/features/bible/
     BibleReader.tsx          — main screen: header + reader + drawers
     BookDrawer.tsx           — left sliding drawer with book list
     ChapterDrawer.tsx        — right sliding drawer with chapter numbers
-    ChapterContent.tsx       — verse rendering with DropCap + superscript numbers
+    ChapterContent.tsx       — verse rendering with superscript numbers
     ReaderHeader.tsx         — book name (left) + chapter number (right) bar
     ChapterNav.tsx           — prev/next chapter footer buttons
     TranslationPill.tsx      — translation badge (rounded square with language code) in book drawer

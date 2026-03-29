@@ -55,7 +55,7 @@ Hydrated at app startup in `src/app/_layout.tsx` alongside other stores.
 Exports a reading-specific scale (`readingScale`) with font sizes and line heights tuned for extended reading (larger than the body font token scale). Three hooks for consuming reading config:
 
 - `useReadingStyle()` — returns `{ fontFamily, fontSize, lineHeight, textAlign }` spreadable onto `Text` components. Font size and line height are raw pixel numbers from `readingScale`
-- `useReadingFontSizePx()` — returns the current font size in pixels (used by `DropCap` for character estimation)
+- `useReadingFontSizePx()` — returns the current font size in pixels
 - `useReadingMargin()` — returns the margin space token for container `paddingHorizontal`
 
 ### Component: `src/components/PrayerText.tsx`
@@ -71,7 +71,6 @@ Components that read from the reading config:
 | Component | What it uses |
 |-----------|-------------|
 | `PrayerText` | `useReadingStyle()` — font family, font size, line height, alignment |
-| `DropCap` | `useReadingStyle()` + `useReadingFontSizePx()` for char estimation |
 | `IlluminatedInitial` | `useReadingStyle()` on the rest-of-text block |
 | `ChapterContent` (Bible) | `useReadingStyle()` + `useReadingMargin()` |
 | `SegmentContent` (Catechism) | `useReadingStyle()` + `useReadingMargin()` |

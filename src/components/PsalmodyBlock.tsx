@@ -3,7 +3,6 @@ import { Text, YStack } from 'tamagui'
 import type { Verse } from '@/lib/content'
 import type { PsalmRef } from '@/lib/liturgical'
 import { formatPsalmRef } from '@/lib/liturgical'
-import { DropCap } from './DropCap'
 import { PrayerText } from './PrayerText'
 
 export type PsalmData = { ref: PsalmRef; verses: Verse[] }
@@ -20,7 +19,7 @@ export function PsalmodyBlock({ psalmData }: { psalmData: PsalmData[] }) {
           </Text>
           {psalm.verses.length > 0 && (
             <>
-              <DropCap text={psalm.verses[0].text} />
+              <PrayerText>{psalm.verses[0].text}</PrayerText>
               {psalm.verses.slice(1).map((v) => (
                 <PrayerText key={v.verse}>{v.text}</PrayerText>
               ))}

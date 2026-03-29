@@ -54,7 +54,6 @@ Implementation tasks for Ember MVP, ordered by dependency. Each phase builds on 
 - [x] `<ScreenLayout>` — standard screen wrapper with padding, scroll, safe area
 - [x] `<Card>` — surface card with shadow and rounded corners
 - [x] `<SectionDivider>` — ornamental divider with cross/fleuron symbol
-- [x] `<DropCap>` — decorative first letter for readings/psalms (gold, 3-4 lines tall)
 - [x] `<GreenWall>` — contribution heatmap component (accepts date->value map, renders grid)
 - [x] `<PrayerText>` — styled text block for prayers (generous line height, serif font)
 - [x] `<RubricLabel>` — small gold label for section titles in office (e.g., "HYMN", "PSALMODY")
@@ -88,7 +87,7 @@ Implementation tasks for Ember MVP, ordered by dependency. Each phase builds on 
 - [x] `/office/` screen — hub with 3 cards (Morning, Evening, Compline) showing status and today's references
 - [x] `/office/[hour]` screen — dynamic prayer flow route for morning/evening/compline (opening verse -> hymn -> psalmody -> reading -> canticle -> closing)
 - [x] "Mark as Complete" button — records completion in SQLite, advances reading progress to next portion
-- [x] Prayer flow styling — drop caps, ornamental dividers, rubric labels, generous spacing
+- [x] Prayer flow styling — ornamental dividers, rubric labels, generous spacing
 
 ## Phase 7: Progress & Settings ✅
 
