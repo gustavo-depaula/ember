@@ -2,13 +2,14 @@
 import { Image } from 'expo-image'
 import { StyleSheet } from 'react-native'
 import Svg, { Circle, G, Line, Path } from 'react-native-svg'
-import { useTheme, YStack } from 'tamagui'
+import { useTheme, useThemeName, YStack } from 'tamagui'
 
 import { leafPath } from './ornaments/svgHelpers'
 
 const markerImage = require('../../assets/textures/horizontal_marker.png')
 const chaliceImage = require('../../assets/textures/horizontal_marker_chalice.png')
-const flourishImage = require('../../assets/textures/horizontal_marker_3.png')
+const flourishLight = require('../../assets/textures/header_flourish_light.png')
+const flourishDark = require('../../assets/textures/header_flourish_dark.png')
 
 export function OrnamentalRule() {
   return (
@@ -19,9 +20,16 @@ export function OrnamentalRule() {
 }
 
 export function HeaderFlourish() {
+  const themeName = useThemeName()
+  const isDark = themeName === 'dark'
+
   return (
     <YStack alignItems="center" paddingBottom="$sm">
-      <Image source={flourishImage} style={styles.flourish} contentFit="contain" />
+      <Image
+        source={isDark ? flourishDark : flourishLight}
+        style={styles.flourish}
+        contentFit="contain"
+      />
     </YStack>
   )
 }
@@ -124,7 +132,7 @@ const styles = StyleSheet.create({
     height: 40,
   },
   flourish: {
-    width: 260,
-    height: 44,
+    width: 300,
+    height: 74,
   },
 })
