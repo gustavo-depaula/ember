@@ -70,6 +70,7 @@ export type FlowContext = {
     nt?: ReadingProgress | null
     catechism?: ReadingProgress | null
   }
+  setKeyOverride?: string
 }
 
 const ordinalsEn = [
@@ -153,16 +154,21 @@ function substituteInFlowSection(
 function resolveVariantData(
   variant: Variant,
   date: Date,
+  setKeyOverride?: string,
 ): { entries: VariantEntry[]; setKey: string } | undefined {
   let setKey: string | undefined
-  switch (variant.selector) {
-    case 'day-of-week':
-      setKey = variant.schedule?.[dayNames[date.getDay()]]
-      break
-    case 'manual':
-    case 'liturgical-season':
-      setKey = Object.keys(variant.data)[0]
-      break
+  if (setKeyOverride && variant.data[setKeyOverride]) {
+    setKey = setKeyOverride
+  } else {
+    switch (variant.selector) {
+      case 'day-of-week':
+        setKey = variant.schedule?.[dayNames[date.getDay()]]
+        break
+      case 'manual':
+      case 'liturgical-season':
+        setKey = Object.keys(variant.data)[0]
+        break
+    }
   }
   if (!setKey || !variant.data[setKey]) return undefined
   return { entries: variant.data[setKey], setKey }
@@ -225,14 +231,26 @@ function resolveRepeat(
     if (!context.variant) {
       return [{ type: 'rubric', label: '[No variant loaded for repeat variable]' }]
     }
-    const resolved = resolveVariantData(context.variant, context.date)
+    const resolved = resolveVariantData(context.variant, context.date, context.setKeyOverride)
     if (!resolved) {
       return [{ type: 'rubric', label: `[No data for variant key: ${variable.key}]` }]
     }
     entries = resolved.entries
-    const setName = context.variant.setNames?.[resolved.setKey]
-    if (setName) {
-      preamble.push({ type: 'heading', text: localizeContent(setName) })
+    const setNames = context.variant.setNames
+    if (setNames && Object.keys(setNames).length > 1) {
+      preamble.push({
+        type: 'set-selector',
+        options: Object.entries(setNames).map(([key, name]) => ({
+          key,
+          label: localizeContent(name),
+        })),
+        selectedKey: resolved.setKey,
+      })
+    } else {
+      const setName = setNames?.[resolved.setKey]
+      if (setName) {
+        preamble.push({ type: 'heading', text: localizeContent(setName) })
+      }
     }
   }
 
@@ -389,18 +407,23 @@ function resolveSection(section: FlowSection, context: FlowContext): RenderedSec
         { type: 'proper', slot: section.slot, description: localizeContent(section.description) },
       ]
 
-    case 'options':
+    case 'options': {
+      const filtered = section.options.filter(
+        (opt) => !opt.lang || opt.lang === i18n.language,
+      )
+      if (filtered.length === 0) return []
       return [
         {
           type: 'options',
           label: localizeContent(section.label),
-          options: section.options.map((opt) => ({
+          options: filtered.map((opt) => ({
             id: opt.id,
             label: localizeContent(opt.label),
             sections: opt.sections.flatMap((s) => resolveSection(s, context)),
           })),
         },
       ]
+    }
 
     default:
       return []

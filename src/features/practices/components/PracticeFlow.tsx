@@ -2,7 +2,7 @@
 import { format } from 'date-fns'
 import { useRouter } from 'expo-router'
 import { ChevronLeft } from 'lucide-react-native'
-import { useMemo } from 'react'
+import { useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
 import { Spinner, Text, useTheme, View, XStack, YStack } from 'tamagui'
@@ -96,6 +96,7 @@ export function PracticeFlow({ practiceId, hourId }: { practiceId: string; hourI
   }, [practiceId, manifest, selectedVariantId])
 
   const now = useMemo(() => new Date(), [])
+  const [selectedSetKey, setSelectedSetKey] = useState<string | undefined>(undefined)
 
   // Dynamic context for psalter/lectio/seasonal sections
   const translation = usePreferencesStore((s) => s.translation)
@@ -113,9 +114,15 @@ export function PracticeFlow({ practiceId, hourId }: { practiceId: string; hourI
 
   const sections = useMemo(() => {
     if (!flow) return []
-    const context: FlowContext = { date: now, variant, numbering, readingProgress }
+    const context: FlowContext = {
+      date: now,
+      variant,
+      numbering,
+      readingProgress,
+      setKeyOverride: selectedSetKey,
+    }
     return resolveFlow(flow, context)
-  }, [flow, now, variant, numbering, readingProgress])
+  }, [flow, now, variant, numbering, readingProgress, selectedSetKey])
 
   // Load dynamic content (psalms, Bible readings, CCC)
   const psalmRefs = useMemo(() => findPsalmRefs(sections), [sections])
@@ -207,8 +214,8 @@ export function PracticeFlow({ practiceId, hourId }: { practiceId: string; hourI
           </YStack>
 
           {manifest?.forms && selectedFormId && (
-            <FormToggle
-              forms={manifest.forms.map((f) => ({
+            <PillToggle
+              options={manifest.forms.map((f) => ({
                 id: f.id,
                 label: localizeContent(f.name),
               }))}
@@ -218,16 +225,28 @@ export function PracticeFlow({ practiceId, hourId }: { practiceId: string; hourI
           )}
 
           <YStack gap="$md">
-            {sections.map((section, index) => (
-              <PracticeSectionBlock
-                key={`${section.type}-${index}`}
-                section={section}
-                psalmData={psalmResult.data}
-                readingData={bibleResult.data?.verses}
-                readingFallback={bibleResult.data?.fallback}
-                cccData={cccResult.data}
-              />
-            ))}
+            {sections.map((section, index) => {
+              if (section.type === 'set-selector') {
+                return (
+                  <PillToggle
+                    key={`set-selector-${index}`}
+                    options={section.options.map((o) => ({ id: o.key, label: o.label }))}
+                    selected={section.selectedKey}
+                    onChange={setSelectedSetKey}
+                  />
+                )
+              }
+              return (
+                <PracticeSectionBlock
+                  key={`${section.type}-${index}`}
+                  section={section}
+                  psalmData={psalmResult.data}
+                  readingData={bibleResult.data?.verses}
+                  readingFallback={bibleResult.data?.fallback}
+                  cccData={cccResult.data}
+                />
+              )
+            })}
           </YStack>
 
           <YStack paddingBottom="$lg" />
@@ -385,33 +404,39 @@ function PracticeSectionBlock({
   }
 }
 
-function FormToggle({
-  forms,
+function PillToggle({
+  options,
   selected,
   onChange,
 }: {
-  forms: { id: string; label: string }[]
+  options: { id: string; label: string }[]
   selected: string
-  onChange: (formId: string) => void
+  onChange: (id: string) => void
 }) {
   return (
-    <XStack gap="$xs" justifyContent="center" paddingVertical="$md" paddingHorizontal="$md">
-      {forms.map((form) => (
-        <AnimatedPressable key={form.id} onPress={() => onChange(form.id)}>
+    <XStack
+      gap="$xs"
+      justifyContent="center"
+      paddingVertical="$md"
+      paddingHorizontal="$md"
+      flexWrap="wrap"
+    >
+      {options.map((option) => (
+        <AnimatedPressable key={option.id} onPress={() => onChange(option.id)}>
           <YStack
             paddingHorizontal="$md"
             paddingVertical="$sm"
             borderRadius="$md"
             borderWidth={1}
-            borderColor={form.id === selected ? '$accent' : '$borderColor'}
-            backgroundColor={form.id === selected ? '$accent' : 'transparent'}
+            borderColor={option.id === selected ? '$accent' : '$borderColor'}
+            backgroundColor={option.id === selected ? '$accent' : 'transparent'}
           >
             <Text
               fontFamily="$heading"
               fontSize="$1"
-              color={form.id === selected ? '$background' : '$colorSecondary'}
+              color={option.id === selected ? '$background' : '$colorSecondary'}
             >
-              {form.label}
+              {option.label}
             </Text>
           </YStack>
         </AnimatedPressable>
