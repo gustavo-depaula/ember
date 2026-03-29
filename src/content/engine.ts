@@ -408,9 +408,7 @@ function resolveSection(section: FlowSection, context: FlowContext): RenderedSec
       ]
 
     case 'options': {
-      const filtered = section.options.filter(
-        (opt) => !opt.lang || opt.lang === i18n.language,
-      )
+      const filtered = section.options.filter((opt) => !opt.lang || opt.lang === i18n.language)
       if (filtered.length === 0) return []
       return [
         {
