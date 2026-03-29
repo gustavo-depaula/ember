@@ -9,7 +9,7 @@ import Animated, {
   withSpring,
 } from 'react-native-reanimated'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
-import Svg, { Path } from 'react-native-svg'
+import Svg, { Path, Text as SvgText } from 'react-native-svg'
 import { Text, useTheme, View, XStack } from 'tamagui'
 import { mediumTap } from '@/lib/haptics'
 
@@ -51,6 +51,20 @@ function TasselTab({
           d={`M0 0 L${w} 0 L${w} ${height} L${w / 2} ${height - notchTail} L0 ${height} Z`}
           fill={color}
         />
+        {['M', 'E', 'N', 'U'].map((letter, i) => (
+          <SvgText
+            key={letter}
+            x={w / 2}
+            y={height - notchTail - 38 + i * 10}
+            textAnchor="middle"
+            fill="#fff"
+            fontSize={9}
+            fontFamily="Cinzel_400Regular"
+            letterSpacing={1}
+          >
+            {letter}
+          </SvgText>
+        ))}
       </Svg>
     </Pressable>
   )
