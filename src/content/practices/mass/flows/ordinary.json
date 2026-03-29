@@ -702,13 +702,15 @@
 		{
 			"type": "options",
 			"label": {
-				"en": "Eucharistic Prayer"
+				"en": "Eucharistic Prayer",
+				"pt-BR": "Oração Eucarística"
 			},
 			"options": [
 				{
 					"id": "of-ep2",
 					"label": {
-						"en": "EP II"
+						"en": "EP II",
+						"pt-BR": "OE II"
 					},
 					"sections": [
 						{
@@ -856,9 +858,198 @@
 					]
 				},
 				{
+					"id": "of-ep1",
+					"label": {
+						"en": "EP I (Roman Canon)",
+						"pt-BR": "OE I (Cânon Romano)"
+					},
+					"sections": [
+						{
+							"type": "rubric",
+							"text": {
+								"en": "The Roman Canon — the most ancient Eucharistic Prayer of the Roman Rite.",
+								"pt-BR": "O Cânon Romano — a mais antiga Oração Eucarística do Rito Romano."
+							}
+						},
+						{
+							"type": "prayer",
+							"speaker": "priest",
+							"inline": {
+								"en": "To you, therefore, most merciful Father, we make humble prayer and petition through Jesus Christ, your Son, our Lord: that you accept and bless ✠ these gifts, these offerings, these holy and unblemished sacrifices, which we offer you firstly for your holy catholic Church. Be pleased to grant her peace, to guard, unite and govern her throughout the whole world, together with your servant N. our Pope and N. our Bishop, and all those who, holding to the truth, hand on the catholic and apostolic faith.",
+								"latin": "Te ígitur, clementíssime Pater, per Jesum Christum Fílium tuum, Dóminum nostrum, súpplices rogámus ac pétimus, uti accépta hábeas, et benedícas hæc ✠ dona, hæc ✠ múnera, hæc ✠ sancta sacrifícia illibáta: in primis quæ tibi offérimus pro Ecclésia tua sancta cathólica; quam pacificáre, custodíre, adunáre, et régere dignéris toto orbe terrárum: una cum fámulo tuo Papa nostro N., et Antístite nostro N., et ómnibus orthodóxis, atque cathólicæ et apostólicæ fídei cultóribus.",
+								"pt-BR": "Pai de misericórdia, a quem sobem os nossos louvores, nós vos pedimos humildemente por Jesus Cristo, vosso Filho e Senhor nosso, que aceiteis e abençoeis ✠ estes dons, estas ofertas, este santo sacrifício sem mancha que, em primeiro lugar, vos oferecemos pela vossa santa Igreja católica: concedei-lhe paz e proteção, uni-a e governai-a por todo o mundo, com o vosso servo o Papa N., o nosso Bispo N. e todos os que guardam a fé católica e apostólica."
+							}
+						},
+						{
+							"type": "subheading",
+							"text": {
+								"en": "Memento of the Living",
+								"pt-BR": "Memento dos Vivos"
+							}
+						},
+						{
+							"type": "prayer",
+							"speaker": "priest",
+							"inline": {
+								"en": "Remember, Lord, your servants N. and N. and all gathered here, whose faith and devotion are known to you. For them, we offer you this sacrifice of praise or they offer it for themselves and all who are dear to them: for the redemption of their souls, in hope of health and well-being, and paying their homage to you, the eternal God, living and true.",
+								"latin": "Meménto, Dómine, famulórum famularúmque tuárum N. et N., et ómnium circumstántium, quorum tibi fides cógnita est et nota devótio: pro quibus tibi offérimus, vel qui tibi ófferunt hoc sacrifícium laudis, pro se suísque ómnibus, pro redemptióne animárum suárum, pro spe salútis et incolumitátis suæ: tibíque reddunt vota sua ætérno Deo, vivo et vero.",
+								"pt-BR": "Lembrai-vos, ó Pai, dos vossos filhos e filhas N. e N. e de todos os circunstantes, cuja fé e devoção vos são conhecidas. Por eles vos oferecemos, e eles também vos oferecem este sacrifício de louvor por si e por todos os seus, pela redenção de suas almas, pela esperança da salvação e incolumidade que almejam: e vos dirigem os seus votos, a vós, Deus eterno, vivo e verdadeiro."
+							}
+						},
+						{
+							"type": "prayer",
+							"speaker": "priest",
+							"inline": {
+								"en": "In communion with the whole Church, we venerate the memory, first of all, of the glorious ever-Virgin Mary, Mother of our God and Lord, Jesus Christ, and of blessed Joseph, her Spouse, and of your blessed Apostles and Martyrs, Peter and Paul, Andrew, James, John, Thomas, James, Philip, Bartholomew, Matthew, Simon and Jude; Linus, Cletus, Clement, Sixtus, Cornelius, Cyprian, Lawrence, Chrysogonus, John and Paul, Cosmas and Damian and all your Saints; we ask that through their merits and prayers, in all things we may be defended by your protecting help. Through Christ our Lord. Amen.",
+								"latin": "Communicántes, et memóriam venerántes, in primis gloriósæ semper Vírginis Maríæ, Genitrícis Dei et Dómini nostri Jesu Christi: sed et beáti Joseph, ejúsdem Vírginis Sponsi, et beatórum Apostolórum ac Mártyrum tuórum, Petri et Pauli, Andréæ, Jacóbi, Joánnis, Thomæ, Jacóbi, Philíppi, Bartholomǽi, Matthǽi, Simónis et Thaddǽi, Lini, Cleti, Cleméntis, Xysti, Cornélii, Cypriáni, Lauréntii, Chrysógoni, Joánnis et Pauli, Cosmæ et Damiáni, et ómnium Sanctórum tuórum; quorum méritis precibúsque concédas, ut in ómnibus protectiónis tuæ muniámur auxílio. Per eúndem Christum Dóminum nostrum. Amen.",
+								"pt-BR": "Em comunhão com toda a Igreja, veneramos a memória, em primeiro lugar, da gloriosa sempre Virgem Maria, Mãe de nosso Deus e Senhor Jesus Cristo; e também de São José, esposo da Virgem, dos vossos santos Apóstolos e Mártires: Pedro e Paulo, André, Tiago, João, Tomé, Tiago, Filipe, Bartolomeu, Mateus, Simão e Tadeu; Lino, Cleto, Clemente, Sisto, Cornélio, Cipriano, Lourenço, Crisógono, João e Paulo, Cosme e Damião, e de todos os vossos Santos; por seus méritos e preces, concedei que em tudo sejamos assistidos pelo vosso auxílio e proteção. Por Cristo, Senhor nosso. Amém."
+							}
+						},
+						{
+							"type": "prayer",
+							"speaker": "priest",
+							"inline": {
+								"en": "Therefore, Lord, we pray: graciously accept this oblation of our service, that of your whole family; order our days in your peace, and command that we be delivered from eternal damnation and counted among the flock of those you have chosen. Through Christ our Lord. Amen.",
+								"latin": "Hanc ígitur oblatiónem servitútis nostræ, sed et cunctæ famíliæ tuæ, quǽsumus, Dómine, ut placátus accípias: diésque nostros in tua pace dispónas, atque ab ætérna damnatióne nos éripi, et in electórum tuórum júbeas grege numerári. Per Christum Dóminum nostrum. Amen.",
+								"pt-BR": "Recebei, ó Pai, com bondade, a oferenda dos vossos servos e de toda a vossa família; ordenai os nossos dias na vossa paz, livrai-nos da condenação eterna e acolhei-nos entre os vossos eleitos. Por Cristo, Senhor nosso. Amém."
+							}
+						},
+						{
+							"type": "prayer",
+							"speaker": "priest",
+							"inline": {
+								"en": "Be pleased, O God, we pray you, to bless, acknowledge, and approve this offering in every respect; make it spiritual and acceptable, so that it may become for us the Body and Blood of your most beloved Son, our Lord Jesus Christ.",
+								"latin": "Quam oblatiónem tu, Deus, in ómnibus, quǽsumus, benedíctam ✠, adscríptam ✠, ratam ✠, rationábilem, acceptabilémque fácere dignéris: ut nobis Corpus ✠ et Sanguis ✠ fiat dilectíssimi Fílii tui Dómini nostri Jesu Christi.",
+								"pt-BR": "Dignai-vos, ó Deus, abençoar e aceitar esta oferenda para que se torne o Corpo e o Sangue de Jesus Cristo, vosso Filho e Senhor nosso."
+							}
+						},
+						{
+							"type": "subheading",
+							"text": {
+								"en": "Consecration",
+								"pt-BR": "Consagração"
+							}
+						},
+						{
+							"type": "prayer",
+							"speaker": "priest",
+							"inline": {
+								"en": "On the day before he was to suffer, he took bread in his holy and venerable hands, and with eyes raised to heaven to you, O God, his almighty Father, giving you thanks, he said the blessing, broke the bread and gave it to his disciples, saying:\nTAKE THIS, ALL OF YOU, AND EAT OF IT,\nFOR THIS IS MY BODY,\nWHICH WILL BE GIVEN UP FOR YOU.",
+								"latin": "Qui prídie quam paterétur, accépit panem in sanctas ac venerábiles manus suas, et elevátis óculis in cælum, ad te Deum Patrem suum omnipoténtem, tibi grátias agens, benedíxit, fregit, dedítque discípulis suis, dicens:\nACCÍPITE ET MANDUCÁTE EX HOC OMNES:\nHOC EST ENIM CORPUS MEUM,\nQUOD PRO VOBIS TRADÉTUR.",
+								"pt-BR": "Na véspera de sua Paixão, ele tomou o pão em suas santas e veneráveis mãos e, erguendo os olhos ao céu, a vós, ó Deus, Pai todo-poderoso, dando-vos graças, abençoou-o, partiu-o e deu-o a seus discípulos, dizendo:\nTOMAI, TODOS, E COMEI:\nISTO É O MEU CORPO,\nQUE SERÁ ENTREGUE POR VÓS."
+							}
+						},
+						{
+							"type": "prayer",
+							"speaker": "priest",
+							"inline": {
+								"en": "In a similar way, when supper was ended, he took this precious chalice in his holy and venerable hands, and once more giving you thanks, he said the blessing and gave the chalice to his disciples, saying:\nTAKE THIS, ALL OF YOU, AND DRINK FROM IT,\nFOR THIS IS THE CHALICE OF MY BLOOD,\nTHE BLOOD OF THE NEW AND ETERNAL COVENANT,\nWHICH WILL BE POURED OUT FOR YOU AND FOR MANY\nFOR THE FORGIVENESS OF SINS.\nDO THIS IN REMEMBRANCE OF ME.",
+								"latin": "Símili modo postquam cenátum est, accípiens et hunc præclárum Cálicem in sanctas ac venerábiles manus suas: item tibi grátias agens, benedíxit, dedítque discípulis suis, dicens:\nACCÍPITE ET BÍBITE EX EO OMNES:\nHIC EST ENIM CALIX SÁNGUINIS MEI\nNOVI ET ÆTÉRNI TESTAMÉNTI,\nQUI PRO VOBIS ET PRO MULTIS EFFUNDÉTUR\nIN REMISSIÓNEM PECCATÓRUM.\nHOC FÁCITE IN MEAM COMMEMORATIÓNEM.",
+								"pt-BR": "De modo semelhante, ao fim da ceia, tomou este precioso cálice em suas santas e veneráveis mãos e, dando-vos graças novamente, abençoou-o e deu-o a seus discípulos, dizendo:\nTOMAI, TODOS, E BEBEI:\nESTE É O CÁLICE DO MEU SANGUE,\nO SANGUE DA NOVA E ETERNA ALIANÇA,\nQUE SERÁ DERRAMADO POR VÓS\nE POR MUITOS\nPARA REMISSÃO DOS PECADOS.\nFAZEI ISTO EM MEMÓRIA DE MIM."
+							}
+						},
+						{
+							"type": "prayer",
+							"speaker": "priest",
+							"inline": {
+								"en": "The mystery of faith.",
+								"latin": "Mystérium fídei.",
+								"pt-BR": "Eis o mistério da fé."
+							}
+						},
+						{
+							"type": "rubric",
+							"text": {
+								"en": "Memorial Acclamation (as above)",
+								"pt-BR": "Aclamação memorial (como acima)"
+							}
+						},
+						{
+							"type": "prayer",
+							"speaker": "priest",
+							"inline": {
+								"en": "Therefore, O Lord, as we celebrate the memorial of the blessed Passion, the Resurrection from the dead, and the glorious Ascension into heaven of Christ, your Son, our Lord, we, your servants and your holy people, offer to your glorious majesty from the gifts that you have given us, this pure victim, this holy victim, this spotless victim, the holy Bread of eternal life and the Chalice of everlasting salvation.",
+								"latin": "Unde et mémores, Dómine, nos servi tui, sed et plebs tua sancta, ejúsdem Christi Fílii tui Dómini nostri tam beátæ passiónis, nec non et ab ínferis resurrectiónis, sed et in cælos gloriósæ ascensiónis: offérimus præcláræ majestáti tuæ de tuis donis ac datis, hóstiam puram, hóstiam sanctam, hóstiam immaculátam, Panem sanctum vitæ ætérnæ, et Cálicem salútis perpétuæ.",
+								"pt-BR": "Celebrando, pois, a memória da bem-aventurada Paixão do vosso Filho, nosso Senhor Jesus Cristo, da sua Ressurreição dentre os mortos e da sua gloriosa Ascensão aos céus, nós, vossos servos, e também vosso povo santo, oferecemos à vossa majestade, dos vossos próprios dons que nos destes, a hóstia pura, a hóstia santa, a hóstia imaculada: o Pão santo da vida eterna e o Cálice da salvação perpétua."
+							}
+						},
+						{
+							"type": "prayer",
+							"speaker": "priest",
+							"inline": {
+								"en": "Be pleased to look upon these offerings with a serene and kindly countenance, and to accept them, as once you were pleased to accept the gifts of your servant Abel the just, the sacrifice of Abraham, our father in faith, and the offering of your high priest Melchizedek, a holy sacrifice, a spotless victim.",
+								"latin": "Supra quæ propítio ac seréno vultu respícere dignéris: et accépta habére, sícuti accépta habére dignátus es múnera púeri tui justi Abel, et sacrifícium Patriárchæ nostri Ábrahæ: et quod tibi óbtulit summus sacérdos tuus Melchísedech, sanctum sacrifícium, immaculátam hóstiam.",
+								"pt-BR": "Olhai para esta oferenda com bondade e aceitai-a, como aceitastes a oferenda do vosso servo Abel, o sacrifício de Abraão, nosso pai na fé, e a oblação pura do vosso sumo sacerdote Melquisedeque."
+							}
+						},
+						{
+							"type": "prayer",
+							"speaker": "priest",
+							"inline": {
+								"en": "In humble prayer we ask you, almighty God: command that these gifts be borne by the hands of your holy Angel to your altar on high in the sight of your divine majesty, so that all of us, who through this participation at the altar receive the most holy Body and Blood of your Son, may be filled with every grace and heavenly blessing. Through Christ our Lord. Amen.",
+								"latin": "Súpplices te rogámus, omnípotens Deus: jube hæc perférri per manus sancti Ángeli tui in sublíme altáre tuum, in conspéctu divínæ majestátis tuæ: ut quotquot ex hac altáris participatióne, sacrosánctum Fílii tui Corpus et Sánguinem sumpsérimus, omni benedictióne cælésti et grátia repleámur. Per eúndem Christum Dóminum nostrum. Amen.",
+								"pt-BR": "Nós vos suplicamos, ó Deus todo-poderoso: mandai que esta oferenda seja levada à vossa presença, ao vosso altar do céu, pelas mãos do vosso santo Anjo, para que todos nós que, participando deste altar, recebermos o santíssimo Corpo e Sangue do vosso Filho, sejamos repletos de toda a graça e bênção do céu. Por Cristo, Senhor nosso. Amém."
+							}
+						},
+						{
+							"type": "subheading",
+							"text": {
+								"en": "Memento of the Dead",
+								"pt-BR": "Memento dos Defuntos"
+							}
+						},
+						{
+							"type": "prayer",
+							"speaker": "priest",
+							"inline": {
+								"en": "Remember also, Lord, your servants N. and N., who have gone before us with the sign of faith and rest in the sleep of peace. Grant them, O Lord, we pray, and all who sleep in Christ, a place of refreshment, light and peace. Through Christ our Lord. Amen.",
+								"latin": "Meménto étiam, Dómine, famulórum famularúmque tuárum N. et N., qui nos præcessérunt cum signo fídei, et dórmiunt in somno pacis. Ipsis, Dómine, et ómnibus in Christo quiescéntibus, locum refrigérii, lucis et pacis, ut indúlgeas, deprecámur. Per eúndem Christum Dóminum nostrum. Amen.",
+								"pt-BR": "Lembrai-vos também, ó Pai, dos vossos filhos e filhas N. e N., que partiram desta vida, marcados com o sinal da fé. A eles, e a todos os que adormeceram no Cristo, concedei, ó Pai, a felicidade, a luz e a paz. Por Cristo, Senhor nosso. Amém."
+							}
+						},
+						{
+							"type": "prayer",
+							"speaker": "priest",
+							"inline": {
+								"en": "To us, also, your servants, who, though sinners, hope in your abundant mercies, graciously grant some share and fellowship with your holy Apostles and Martyrs: with John the Baptist, Stephen, Matthias, Barnabas, Ignatius, Alexander, Marcellinus, Peter, Felicity, Perpetua, Agatha, Lucy, Agnes, Cecilia, Anastasia and all your Saints; admit us, we beseech you, into their company, not weighing our merits, but granting us your pardon, through Christ our Lord.",
+								"latin": "Nobis quoque peccatóribus fámulis tuis, de multitúdine miseratiónum tuárum sperántibus, partem áliquam et societátem donáre dignéris, cum tuis sanctis Apóstolis et Martýribus: cum Joánne, Stéphano, Matthía, Bárnaba, Ignátio, Alexándro, Marcellíno, Petro, Felicitáte, Perpétua, Ágatha, Lúcia, Agnéte, Cæcília, Anastásia, et ómnibus Sanctis tuis: intra quorum nos consórtium, non æstimátor mériti, sed véniæ, quǽsumus, largítor admítte. Per Christum Dóminum nostrum.",
+								"pt-BR": "A nós também, vossos servos pecadores, que esperamos na vossa infinita misericórdia, concedei alguma parte na comunidade dos vossos Santos Apóstolos e Mártires: João Batista, Estêvão, Matias, Barnabé, Inácio, Alexandre, Marcelino, Pedro, Felicidade, Perpétua, Ágata, Luzia, Inês, Cecília, Anastácia, e todos os vossos Santos. Admiti-nos, nós vos pedimos, na sua companhia, não por nossos méritos, mas pela vossa bondade. Por Cristo, Senhor nosso."
+							}
+						},
+						{
+							"type": "prayer",
+							"speaker": "priest",
+							"inline": {
+								"en": "Through whom you continue to make all these good things, O Lord; you sanctify them, fill them with life, bless them, and bestow them upon us.",
+								"latin": "Per quem hæc ómnia, Dómine, semper bona creas, sanctíficas, vivíficas, benedícis, et præstas nobis.",
+								"pt-BR": "Por Cristo, Senhor nosso, não cessais de criar e santificar estes dons, enchê-los de vida, abençoá-los e distribuí-los."
+							}
+						},
+						{
+							"type": "prayer",
+							"speaker": "priest",
+							"inline": {
+								"en": "Through him, and with him, and in him, O God, almighty Father, in the unity of the Holy Spirit, all glory and honor is yours, for ever and ever.",
+								"latin": "Per ipsum, et cum ipso, et in ipso, est tibi Deo Patri omnipoténti, in unitáte Spíritus Sancti, omnis honor et glória per ómnia sǽcula sæculórum.",
+								"pt-BR": "Por Cristo, com Cristo, em Cristo, a vós, Deus Pai todo-poderoso, na unidade do Espírito Santo, toda a honra e toda a glória, agora e para sempre."
+							}
+						},
+						{
+							"type": "prayer",
+							"speaker": "people",
+							"inline": {
+								"en": "Amen.",
+								"latin": "Amen.",
+								"pt-BR": "Amém."
+							}
+						}
+					]
+				},
+				{
 					"id": "of-ep3",
 					"label": {
-						"en": "EP III"
+						"en": "EP III",
+						"pt-BR": "OE III"
 					},
 					"sections": [
 						{
@@ -950,44 +1141,520 @@
 					]
 				},
 				{
-					"id": "of-ep1",
+					"id": "of-ep4",
 					"label": {
-						"en": "EP I (Roman Canon)"
+						"en": "EP IV",
+						"pt-BR": "OE IV"
 					},
 					"sections": [
 						{
 							"type": "rubric",
 							"text": {
-								"en": "The Roman Canon — the most ancient Eucharistic Prayer of the Roman Rite. Same text as in the Extraordinary Form."
+								"en": "Eucharistic Prayer IV has a fixed Preface and provides a broad summary of salvation history. It may not be used with another Preface.",
+								"pt-BR": "A Oração Eucarística IV tem Prefácio próprio e apresenta uma ampla síntese da história da salvação. Não pode ser usada com outro Prefácio."
 							}
 						},
 						{
-							"type": "proper",
-							"slot": "ep1",
-							"description": {
-								"en": "See Extraordinary Form for the full text of the Roman Canon (Te igitur through Per ipsum)."
+							"type": "subheading",
+							"text": {
+								"en": "Preface",
+								"pt-BR": "Prefácio"
+							}
+						},
+						{
+							"type": "prayer",
+							"speaker": "priest",
+							"inline": {
+								"en": "It is truly right to give you thanks, truly just to give you glory, Father most holy, for you are the one God living and true, existing before all ages and abiding for all eternity, dwelling in unapproachable light; yet you, who alone are good, the source of life, have made all that is, so that you might fill your creatures with blessings and bring joy to many of them by the glory of your light.",
+								"latin": "Vere tibi grátias ágere, tibi glóriam reférre nos ópera est, Pater sancte, quia unus es Deus vivus et verus, qui es ante sǽcula et pérmanens in ætérnum, inaccessíbilem lucem ínhabitas; sed et qui unus bonus atque fons vitæ cuncta fecísti, ut creatúras tuas benedictónibus adimpléres multásque lætificáres tui lúminis claritáte.",
+								"pt-BR": "Na verdade, é nosso dever dar-vos graças, é nossa salvação dar-vos glória, ó Pai santo, porque sois o único Deus vivo e verdadeiro, que existis antes de todos os séculos e permaneceis para sempre, habitando numa luz inacessível. Mas sois vós, e somente vós, que sois bom e fonte da vida, e fizestes todas as coisas para enchê-las de bênçãos e alegrar a muitas delas com a claridade da vossa luz."
+							}
+						},
+						{
+							"type": "prayer",
+							"speaker": "priest",
+							"inline": {
+								"en": "And so, before you stand countless hosts of Angels, who serve you day and night and, gazing upon the glory of your face, glorify you without ceasing. With them we, too, confess your name in exultation, giving voice to every creature under heaven, as we acclaim:",
+								"latin": "Et ídeo coram te innúmeræ astant turbæ Angelórum, qui die ac nocte sérvient tibi et, vultus tui glóriam contemplántes, te incessánter gloríficant. Cum quibus et nos et per nos omnis quæ sub cælo est creatúra nomen tuum in exsultatióne confitémur, canéntes:",
+								"pt-BR": "E por isso, diante de vós estão os inumeráveis Anjos que vos servem dia e noite e, contemplando a glória do vosso rosto, vos glorificam sem cessar. Com eles, também nós, e por nosso intermédio todas as criaturas que existem sob o céu, proclamamos o vosso nome em exultação, cantando:"
+							}
+						},
+						{
+							"type": "rubric",
+							"text": {
+								"en": "Holy, Holy, Holy (as above)",
+								"pt-BR": "Santo, Santo, Santo (como acima)"
+							}
+						},
+						{
+							"type": "prayer",
+							"speaker": "priest",
+							"inline": {
+								"en": "We give you praise, Father most holy, for you are great and you have fashioned all your works in wisdom and in love. You formed man in your own image and entrusted the whole world to his care, so that in serving you alone, the Creator, he might have dominion over all creatures. And when through disobedience he had lost your friendship, you did not abandon him to the domain of death. For you came in mercy to the aid of all, so that those who seek might find you. Time and again you offered them covenants and through the prophets taught them to look forward to salvation.",
+								"latin": "Confitémur tibi, Pater sancte, quia magnus es et ómnia ópera tua in sapiéntia et caritáte fecísti. Hóminem ad tuam imáginem condidísti, eíque commisísti mundi curam univérsi, ut, tibi soli Creatóri sérviens, creatúris ómnibus imperáret. Et cum amicítiam tuam, non obœdiens, amisísset, non eum dereliquísti in mortis império. Omnibus enim misericórditer subvenísti, ut te quæréntes invenírent. Sed et fœ́dera plúries homínibus obtulísti eósque per prophétas erudísti in exspectatióne salútis.",
+								"pt-BR": "Nós vos louvamos, Pai santo, porque sois grande e porque fizestes todas as coisas com sabedoria e amor. Criastes o homem à vossa imagem e lhe confiastes o cuidado do universo inteiro, para que, servindo só a vós, seu Criador, dominasse todas as criaturas. E quando, por sua desobediência, perdeu a vossa amizade, não o abandonastes ao poder da morte. A todos vós socorrestes com misericórdia, para que os que vos procurassem pudessem encontrar-vos. E muitas vezes oferecestes aos homens a vossa aliança e pelos profetas os ensinastes a esperar a salvação."
+							}
+						},
+						{
+							"type": "prayer",
+							"speaker": "priest",
+							"inline": {
+								"en": "And you so loved the world, Father most holy, that in the fullness of time you sent your Only Begotten Son to be our Saviour. Made incarnate by the Holy Spirit and born of the Virgin Mary, he shared our human nature in all things but sin. To the poor he proclaimed the good news of salvation, to prisoners, freedom, and to the sorrowful of heart, joy. To accomplish your plan, he gave himself up to death, and, rising from the dead, he destroyed death and restored life.",
+								"latin": "Et sic, Pater sancte, mundum dilexísti, ut, compléta plenitúdine témporum, Unigénitum tuum nobis mítteres Salvatórem. Qui, incarnátus de Spíritu Sancto et natus ex María Vírgine, in nostra condiciónis forma est convérsátus per ómnia absque peccáto; salútem evangelizávit paupéribus, redemptiónem captívis, mæstis corde lætítiam. Ut tuam vero dispensatiónem impléret, in mortem trádidit semetípsum et, resúrgens a mórtuis, mortem destrúxit vitámque renovávit.",
+								"pt-BR": "E de tal modo amastes o mundo, Pai santo, que, na plenitude dos tempos, enviastes o vosso Filho Unigênito como nosso Salvador. Encarnado pelo Espírito Santo e nascido da Virgem Maria, viveu em tudo a nossa condição humana, menos o pecado; anunciou aos pobres a salvação, aos cativos a liberdade, aos aflitos a alegria. Para cumprir os vossos desígnios, entregou-se à morte e, ressuscitando, destruiu a morte e restaurou a vida."
+							}
+						},
+						{
+							"type": "prayer",
+							"speaker": "priest",
+							"inline": {
+								"en": "And that we might live no longer for ourselves but for him who died and rose again for us, he sent the Holy Spirit from you, Father, as the first fruits for those who believe, so that, bringing to perfection his work in the world, he might sanctify creation to the full.",
+								"latin": "Et ut non ámplius nobismetípsis viverémus, sed sibi qui pro nobis mórtuus est atque surréxit, a te, Pater, misit Spíritum Sanctum primítias credéntibus, qui, opus suum in mundo perfíciens, omnem sanctificatiónem compléret.",
+								"pt-BR": "E para que não vivêssemos mais para nós mesmos, mas para ele, que por nós morreu e ressuscitou, enviou de junto de vós, ó Pai, o Espírito Santo como primícia para os que creem, a fim de realizar a sua obra no mundo e levar a plenitude toda a santificação."
+							}
+						},
+						{
+							"type": "prayer",
+							"speaker": "priest",
+							"inline": {
+								"en": "Therefore, O Lord, we pray: may this same Holy Spirit graciously sanctify these offerings, that they may become the Body ✠ and Blood of our Lord Jesus Christ for the celebration of this great mystery, which he himself left us as an eternal covenant.",
+								"latin": "Quǽsumus ígitur, Dómine, ut idem Spíritus Sanctus hæc múnera sanctificáre dignétur, ut Corpus et ✠ Sanguis fiant Dómini nostri Jesu Christi ad hoc magnum mystérium celebrándum, quod ipse nobis relíquit in fœ́dus ætérnum.",
+								"pt-BR": "Nós vos suplicamos, ó Pai, que o Espírito Santo santifique estas oferendas, para que se tornem o Corpo e ✠ o Sangue de nosso Senhor Jesus Cristo, para a celebração deste grande mistério que ele mesmo nos deixou em sinal da aliança eterna."
+							}
+						},
+						{
+							"type": "prayer",
+							"speaker": "priest",
+							"inline": {
+								"en": "For when the hour had come for him to be glorified by you, Father most holy, having loved his own who were in the world, he loved them to the end: and while they were at supper, he took bread, blessed and broke it, and gave it to his disciples, saying:\nTAKE THIS, ALL OF YOU, AND EAT OF IT,\nFOR THIS IS MY BODY,\nWHICH WILL BE GIVEN UP FOR YOU.",
+								"latin": "Ipse enim, cum hora venísset ut glorificarétur a te, Pater sancte, ac dilexísset suos qui erant in mundo, in finem diléxit eos: et cenántibus illis, accépit panem, benedíxit ac fregit, dedítque discípulis suis, dicens:\nACCÍPITE ET MANDUCÁTE EX HOC OMNES:\nHOC EST ENIM CORPUS MEUM,\nQUOD PRO VOBIS TRADÉTUR.",
+								"pt-BR": "Porque, tendo chegado a hora de ser glorificado por vós, Pai santo, como tinha amado os seus que estavam no mundo, amou-os até o fim; e enquanto ceavam, tomou o pão, abençoou-o e partiu-o, e deu-o aos seus discípulos, dizendo:\nTOMAI, TODOS, E COMEI:\nISTO É O MEU CORPO,\nQUE SERÁ ENTREGUE POR VÓS."
+							}
+						},
+						{
+							"type": "prayer",
+							"speaker": "priest",
+							"inline": {
+								"en": "In a similar way, taking the chalice filled with the fruit of the vine, he gave thanks, and gave the chalice to his disciples, saying:\nTAKE THIS, ALL OF YOU, AND DRINK FROM IT,\nFOR THIS IS THE CHALICE OF MY BLOOD,\nTHE BLOOD OF THE NEW AND ETERNAL COVENANT,\nWHICH WILL BE POURED OUT FOR YOU AND FOR MANY\nFOR THE FORGIVENESS OF SINS.\nDO THIS IN REMEMBRANCE OF ME.",
+								"latin": "Símili modo accípiens cálicem, ex genímine vitis replétum, grátias egit, dedítque discípulis suis, dicens:\nACCÍPITE ET BÍBITE EX EO OMNES:\nHIC EST ENIM CALIX SÁNGUINIS MEI\nNOVI ET ÆTÉRNI TESTAMÉNTI,\nQUI PRO VOBIS ET PRO MULTIS EFFUNDÉTUR\nIN REMISSIÓNEM PECCATÓRUM.\nHOC FÁCITE IN MEAM COMMEMORATIÓNEM.",
+								"pt-BR": "De modo semelhante, tomou o cálice cheio do fruto da videira, deu graças e passou-o aos seus discípulos, dizendo:\nTOMAI, TODOS, E BEBEI:\nESTE É O CÁLICE DO MEU SANGUE,\nO SANGUE DA NOVA E ETERNA ALIANÇA,\nQUE SERÁ DERRAMADO POR VÓS\nE POR MUITOS\nPARA REMISSÃO DOS PECADOS.\nFAZEI ISTO EM MEMÓRIA DE MIM."
+							}
+						},
+						{
+							"type": "prayer",
+							"speaker": "priest",
+							"inline": {
+								"en": "The mystery of faith.",
+								"latin": "Mystérium fídei.",
+								"pt-BR": "Eis o mistério da fé."
+							}
+						},
+						{
+							"type": "rubric",
+							"text": {
+								"en": "Memorial Acclamation (as above)",
+								"pt-BR": "Aclamação memorial (como acima)"
+							}
+						},
+						{
+							"type": "prayer",
+							"speaker": "priest",
+							"inline": {
+								"en": "Therefore, O Lord, as we now celebrate the memorial of our redemption, we remember Christ's Death and his descent to the realm of the dead, we proclaim his Resurrection and his Ascension to your right hand, and, as we await his coming in glory, we offer you his Body and Blood, the sacrifice acceptable to you which brings salvation to the whole world.",
+								"latin": "Unde et nos, Dómine, redemptiónis nostræ memoriále nunc celebrántes, mortem Christi ejúsque descénsum ad ínferos recólimus, ejus resurrectiónem et ascensiónem ad tuam déxteram profitémur, et, exspectántes ipsíus advéntum in glória, offérimus tibi ejus Corpus et Sánguinem, sacrifícium tibi acceptábile et toti mundo salutáre.",
+								"pt-BR": "Celebrando agora, ó Pai, o memorial da nossa redenção, recordamos a morte de Cristo e a sua descida à mansão dos mortos, proclamamos a sua Ressurreição e Ascensão à vossa direita, e, esperando a sua vinda gloriosa, vos oferecemos o seu Corpo e o seu Sangue, sacrifício do vosso agrado e salvação do mundo inteiro."
+							}
+						},
+						{
+							"type": "prayer",
+							"speaker": "priest",
+							"inline": {
+								"en": "Look, O Lord, upon the Sacrifice which you yourself have provided for your Church, and grant in your loving kindness to all who partake of this one Bread and one Chalice that, gathered into one body by the Holy Spirit, they may truly become a living sacrifice in Christ to the praise of your glory.",
+								"latin": "Réspice, Dómine, in Hóstiam quam Ecclésiæ tuæ ipse parásti, et concéde benígnus ómnibus qui ex hoc uno pane participábunt et cálice, ut, in unum corpus a Sancto Spíritu congregáti, in Christo hóstia viva perficiántur, ad laudem glóriæ tuæ.",
+								"pt-BR": "Olhai, ó Pai, para a vítima imolada que vós mesmos oferecestes à vossa Igreja, e concedei aos que vão participar deste pão e deste cálice que, reunidos pelo Espírito Santo num só corpo, se tornem em Cristo uma oferenda viva para o louvor da vossa glória."
+							}
+						},
+						{
+							"type": "prayer",
+							"speaker": "priest",
+							"inline": {
+								"en": "Therefore, Lord, remember now all for whom we offer this sacrifice: especially your servant N. our Pope, N. our Bishop, and the whole Order of Bishops, all the clergy, those who take part in this offering, those gathered here before you, your entire people, and all who seek you with a sincere heart.\nRemember also those who have died in the peace of your Christ and all the dead, whose faith you alone have known.\nTo all of us, your children, grant, O merciful Father, that we may enter into a heavenly inheritance with the Blessed Virgin Mary, Mother of God, with blessed Joseph, her Spouse, and with your Apostles and Saints in your kingdom. There, with the whole of creation, freed from the corruption of sin and death, may we glorify you through Christ our Lord, through whom you bestow on the world all that is good.",
+								"latin": "Nunc ergo, Dómine, ómnium recordáre, pro quibus tibi hanc oblatiónem offérimus: in primis fámuli tui, Papæ nostri N., Epíscopi nostri N., et Episcopórum órdinis univérsi, sed et totíus cleri, et offeréntium, et circumstántium, et cuncti pópuli tui, et ómnium, qui te quærunt corde sincéro.\nMeménto étiam illórum, qui obiérunt in pace Christi tui, et ómnium defunctórum, quorum fidem tu solus cognovísti.\nNobis ómnibus, fíliis tuis, clemens Pater, concéde, ut cæléstem hereditátem cónsequi valeámus cum beáta Vírgine, Dei Genitrícce, María, cum beáto Joseph, ejus Sponso, et cum Apóstolis et Sanctis tuis in regno tuo, ubi cum univérsa creatúra, ab omni corruptióne peccáti et mortis liberáta, te glorificémus per Christum Dóminum nostrum, per quem mundo bona cuncta largíris.",
+								"pt-BR": "Lembrai-vos agora, ó Pai, de todos por quem vos oferecemos este sacrifício: do vosso servo o Papa N., do nosso Bispo N. e de toda a ordem episcopal, de todo o clero, dos que oferecem e participam desta oferenda, de todo o vosso povo e de todos os que vos procuram de coração sincero.\nLembrai-vos também dos que morreram na paz do vosso Cristo e de todos os mortos, cuja fé somente vós conhecestes.\nA todos nós, vossos filhos, concedei, ó Pai de bondade, a herança eterna do vosso Reino, com a Virgem Maria, Mãe de Deus, com São José, seu esposo, e com os vossos Apóstolos e Santos, onde, com todas as criaturas, libertas da corrupção do pecado e da morte, vos glorifiquemos por Cristo, Senhor nosso, pelo qual distribuís ao mundo todos os bens."
+							}
+						},
+						{
+							"type": "prayer",
+							"speaker": "priest",
+							"inline": {
+								"en": "Through him, and with him, and in him, O God, almighty Father, in the unity of the Holy Spirit, all glory and honor is yours, for ever and ever.",
+								"latin": "Per ipsum, et cum ipso, et in ipso, est tibi Deo Patri omnipoténti, in unitáte Spíritus Sancti, omnis honor et glória per ómnia sǽcula sæculórum.",
+								"pt-BR": "Por Cristo, com Cristo, em Cristo, a vós, Deus Pai todo-poderoso, na unidade do Espírito Santo, toda a honra e toda a glória, agora e para sempre."
+							}
+						},
+						{
+							"type": "prayer",
+							"speaker": "people",
+							"inline": {
+								"en": "Amen.",
+								"latin": "Amen.",
+								"pt-BR": "Amém."
 							}
 						}
 					]
 				},
 				{
-					"id": "of-ep4",
+					"id": "of-ep5",
 					"label": {
-						"en": "EP IV"
+						"pt-BR": "OE V"
 					},
+					"lang": "pt-BR",
 					"sections": [
 						{
 							"type": "rubric",
 							"text": {
-								"en": "Eucharistic Prayer IV has a fixed Preface and provides a broad summary of salvation history. It may not be used with another Preface."
+								"pt-BR": "A Oração Eucarística V, para diversas circunstâncias, foi aprovada pela CNBB para uso no Brasil. Possui quatro variantes."
 							}
 						},
 						{
-							"type": "proper",
-							"slot": "ep4",
-							"description": {
-								"en": "Eucharistic Prayer IV (with its own Preface)"
-							}
+							"type": "options",
+							"label": {
+								"pt-BR": "Variante"
+							},
+							"options": [
+								{
+									"id": "of-ep5a",
+									"label": {
+										"pt-BR": "A — A Igreja a caminho da unidade"
+									},
+									"sections": [
+										{
+											"type": "prayer",
+											"speaker": "priest",
+											"inline": {
+												"pt-BR": "Na verdade, é nosso dever dar-vos graças e proclamar as vossas maravilhas, ó Deus, pois com sabedoria e amor fizestes o ser humano à vossa imagem, confiando-lhe o universo inteiro, para que, servindo só a vós, seu Criador, exercesse o governo sobre toda criatura. E quando, pela desobediência, perdeu a vossa amizade, não o abandonastes ao poder da morte, mas a todos socorrestes com misericórdia, para que os que vos procuram vos possam encontrar. E muitas vezes lhes oferecestes a aliança e, pelos profetas, os ensinastes a esperar a salvação. Ó Pai santo, de tal modo amastes o mundo que, chegada a plenitude dos tempos, enviastes o vosso Filho Unigênito como nosso Salvador. Ele se fez homem pelo Espírito Santo e nasceu da Virgem Maria, partilhou em tudo a nossa vida, menos o pecado, anunciou a salvação aos pobres, a libertação aos oprimidos e aos aflitos a alegria.\nPara cumprir os vossos desígnios, ele se entregou à morte e, ressuscitando, destruiu a morte e restaurou a vida. E, para que não vivamos mais para nós mesmos, mas para ele que por nós morreu e ressuscitou, enviou de vós, ó Pai, o Espírito Santo como primícia para os que creem, a fim de santificar todas as coisas, levando à plenitude a sua obra no mundo."
+											}
+										},
+										{
+											"type": "rubric",
+											"text": {
+												"pt-BR": "Santo, Santo, Santo (como acima)"
+											}
+										},
+										{
+											"type": "prayer",
+											"speaker": "priest",
+											"inline": {
+												"pt-BR": "Senhor, vós sois santo, fonte de toda santidade. Concedei, pois, que pelo poder do Espírito Santo, estes dons de pão e vinho se tornem o Corpo e ✠ o Sangue de Jesus Cristo, vosso Filho e Senhor nosso, que nos mandou celebrar este mistério.\nPois ele, na noite em que ia ser entregue, tomou o pão e, dando-vos graças, abençoou-o, partiu-o e deu-o aos seus discípulos, dizendo:\nTOMAI, TODOS, E COMEI:\nISTO É O MEU CORPO,\nQUE SERÁ ENTREGUE POR VÓS."
+											}
+										},
+										{
+											"type": "prayer",
+											"speaker": "priest",
+											"inline": {
+												"pt-BR": "De modo semelhante, ao fim da ceia, tomou o cálice e, dando-vos graças novamente, abençoou-o e passou-o aos seus discípulos, dizendo:\nTOMAI, TODOS, E BEBEI:\nESTE É O CÁLICE DO MEU SANGUE,\nO SANGUE DA NOVA E ETERNA ALIANÇA,\nQUE SERÁ DERRAMADO POR VÓS\nE POR MUITOS\nPARA REMISSÃO DOS PECADOS.\nFAZEI ISTO EM MEMÓRIA DE MIM."
+											}
+										},
+										{
+											"type": "prayer",
+											"speaker": "priest",
+											"inline": {
+												"pt-BR": "Eis o mistério da fé."
+											}
+										},
+										{
+											"type": "rubric",
+											"text": {
+												"pt-BR": "Aclamação memorial (como acima)"
+											}
+										},
+										{
+											"type": "prayer",
+											"speaker": "priest",
+											"inline": {
+												"pt-BR": "Celebrando, pois, o memorial do vosso Filho, que é a nossa Páscoa e a nossa paz, e relembrando a sua morte na Cruz, a sua Ressurreição dentre os mortos e a sua Ascensão à vossa direita, enquanto esperamos a sua vinda gloriosa, vos oferecemos, em ação de graças, este sacrifício vivo e santo."
+											}
+										},
+										{
+											"type": "prayer",
+											"speaker": "priest",
+											"inline": {
+												"pt-BR": "Olhai, ó Pai, para a oferenda da vossa Igreja e, reconhecendo a Vítima imolada pela qual quisestes reconciliar-nos convosco, concedei que, alimentados pelo Corpo e pelo Sangue do vosso Filho e repletos do Espírito Santo, nos tornemos em Cristo um só corpo e um só espírito.\nQue ele faça de nós uma oferenda eterna para vós, a fim de que alcancemos a herança da vida eterna com os vossos eleitos: a Virgem Maria, Mãe de Deus, São José, seu esposo, os vossos Apóstolos e Mártires, e todos os Santos, por cuja intercessão esperamos alcançar sempre o vosso auxílio."
+											}
+										},
+										{
+											"type": "prayer",
+											"speaker": "priest",
+											"inline": {
+												"pt-BR": "Nós vos pedimos, ó Pai, que este sacrifício da nossa reconciliação traga a paz e a salvação ao mundo inteiro. Confirmai na fé e na caridade a vossa Igreja peregrina na terra: o vosso servo o Papa N., o nosso Bispo N., a ordem episcopal reunida, todo o clero e o povo que adquiristes para vós.\nAtendei aos pedidos desta família que aqui reunistes diante de vós. Pai de misericórdia, reuni a vós todos os vossos filhos e filhas dispersos pelo mundo.\nAcolhei no vosso Reino os nossos irmãos e irmãs que adormeceram no Senhor e todos os que deste mundo partiram na vossa amizade. Nós esperamos ter parte com eles e, todos juntos, contemplar a vossa glória, por Cristo, Senhor nosso, pelo qual distribuís ao mundo todos os bens."
+											}
+										},
+										{
+											"type": "prayer",
+											"speaker": "priest",
+											"inline": {
+												"pt-BR": "Por Cristo, com Cristo, em Cristo, a vós, Deus Pai todo-poderoso, na unidade do Espírito Santo, toda a honra e toda a glória, agora e para sempre."
+											}
+										},
+										{
+											"type": "prayer",
+											"speaker": "people",
+											"inline": {
+												"pt-BR": "Amém."
+											}
+										}
+									]
+								},
+								{
+									"id": "of-ep5b",
+									"label": {
+										"pt-BR": "B — Deus conduz a Igreja no caminho da salvação"
+									},
+									"sections": [
+										{
+											"type": "prayer",
+											"speaker": "priest",
+											"inline": {
+												"pt-BR": "Na verdade, é nosso dever dar-vos graças e proclamar as vossas maravilhas, ó Deus, pois, apesar da nossa infidelidade, vós sois fiel. Pelo amor infinito que tendes por nós, enviastes o vosso Filho que, na plenitude dos tempos, se fez homem entre os homens, partilhou as nossas alegrias e sofrimentos e, pregado na cruz, chamou a si todos os povos e todas as nações, fazendo-se fonte de vida para o mundo inteiro.\nO Espírito, que é vosso dom, congrega a Igreja na unidade e na verdade e, por caminhos admiráveis, concede a cada um dos seus membros a graça de servir ao Evangelho, a fim de que todo o Corpo de Cristo cresça na esperança de um mundo novo.\nPor isso, com os Anjos e os Santos, cantamos e proclamamos a vossa glória:"
+											}
+										},
+										{
+											"type": "rubric",
+											"text": {
+												"pt-BR": "Santo, Santo, Santo (como acima)"
+											}
+										},
+										{
+											"type": "prayer",
+											"speaker": "priest",
+											"inline": {
+												"pt-BR": "Senhor, vós sois santo, fonte de toda santidade. Concedei, pois, que pelo poder do Espírito Santo, estes dons de pão e vinho se tornem o Corpo e ✠ o Sangue de Jesus Cristo, vosso Filho e Senhor nosso, que nos mandou celebrar este mistério.\nPois ele, na noite em que ia ser entregue, tomou o pão e, dando-vos graças, abençoou-o, partiu-o e deu-o aos seus discípulos, dizendo:\nTOMAI, TODOS, E COMEI:\nISTO É O MEU CORPO,\nQUE SERÁ ENTREGUE POR VÓS."
+											}
+										},
+										{
+											"type": "prayer",
+											"speaker": "priest",
+											"inline": {
+												"pt-BR": "De modo semelhante, ao fim da ceia, tomou o cálice e, dando-vos graças novamente, abençoou-o e passou-o aos seus discípulos, dizendo:\nTOMAI, TODOS, E BEBEI:\nESTE É O CÁLICE DO MEU SANGUE,\nO SANGUE DA NOVA E ETERNA ALIANÇA,\nQUE SERÁ DERRAMADO POR VÓS\nE POR MUITOS\nPARA REMISSÃO DOS PECADOS.\nFAZEI ISTO EM MEMÓRIA DE MIM."
+											}
+										},
+										{
+											"type": "prayer",
+											"speaker": "priest",
+											"inline": {
+												"pt-BR": "Eis o mistério da fé."
+											}
+										},
+										{
+											"type": "rubric",
+											"text": {
+												"pt-BR": "Aclamação memorial (como acima)"
+											}
+										},
+										{
+											"type": "prayer",
+											"speaker": "priest",
+											"inline": {
+												"pt-BR": "Celebrando, pois, o memorial do vosso Filho, que é a nossa Páscoa e a nossa paz, e relembrando a sua morte na Cruz, a sua Ressurreição dentre os mortos e a sua Ascensão à vossa direita, enquanto esperamos a sua vinda gloriosa, vos oferecemos, em ação de graças, este sacrifício vivo e santo."
+											}
+										},
+										{
+											"type": "prayer",
+											"speaker": "priest",
+											"inline": {
+												"pt-BR": "Olhai, ó Pai, para a oferenda da vossa Igreja e, reconhecendo a Vítima imolada pela qual quisestes reconciliar-nos convosco, concedei que, alimentados pelo Corpo e pelo Sangue do vosso Filho e repletos do Espírito Santo, nos tornemos em Cristo um só corpo e um só espírito.\nQue ele faça de nós uma oferenda eterna para vós, a fim de que alcancemos a herança da vida eterna com os vossos eleitos: a Virgem Maria, Mãe de Deus, São José, seu esposo, os vossos Apóstolos e Mártires, e todos os Santos, por cuja intercessão esperamos alcançar sempre o vosso auxílio."
+											}
+										},
+										{
+											"type": "prayer",
+											"speaker": "priest",
+											"inline": {
+												"pt-BR": "Nós vos pedimos, ó Pai, que este sacrifício da nossa reconciliação traga a paz e a salvação ao mundo inteiro. Confirmai na fé e na caridade a vossa Igreja peregrina na terra: o vosso servo o Papa N., o nosso Bispo N., a ordem episcopal reunida, todo o clero e o povo que adquiristes para vós.\nFortificai a vossa Igreja no caminho da fé e concedei ao mundo a verdadeira paz.\nAcolhei no vosso Reino os nossos irmãos e irmãs que adormeceram no Senhor e todos os que deste mundo partiram na vossa amizade. Nós esperamos ter parte com eles e, todos juntos, contemplar a vossa glória, por Cristo, Senhor nosso, pelo qual distribuís ao mundo todos os bens."
+											}
+										},
+										{
+											"type": "prayer",
+											"speaker": "priest",
+											"inline": {
+												"pt-BR": "Por Cristo, com Cristo, em Cristo, a vós, Deus Pai todo-poderoso, na unidade do Espírito Santo, toda a honra e toda a glória, agora e para sempre."
+											}
+										},
+										{
+											"type": "prayer",
+											"speaker": "people",
+											"inline": {
+												"pt-BR": "Amém."
+											}
+										}
+									]
+								},
+								{
+									"id": "of-ep5c",
+									"label": {
+										"pt-BR": "C — Jesus, caminho para o Pai"
+									},
+									"sections": [
+										{
+											"type": "prayer",
+											"speaker": "priest",
+											"inline": {
+												"pt-BR": "Na verdade, é nosso dever dar-vos graças e proclamar as vossas maravilhas, Pai santo e clemente, porque nos destes Jesus Cristo, vosso Filho, como caminho que conduz à verdade da vida. Ele se manifesta aos pobres e aos simples, concede caminhar na tribulação, sofre e morre conosco, e tão intimamente nos conhece, que pode revelar-nos o sentido de tudo o que acontece.\nEle nos abre os olhos e o coração para compreender que somos irmãos e irmãs e reconhecer-vos como Pai, pois quereis que todos se salvem e ninguém se perca.\nPor isso, com todas as criaturas, vos louvamos e vos exaltamos com os Anjos e Santos, cantando:"
+											}
+										},
+										{
+											"type": "rubric",
+											"text": {
+												"pt-BR": "Santo, Santo, Santo (como acima)"
+											}
+										},
+										{
+											"type": "prayer",
+											"speaker": "priest",
+											"inline": {
+												"pt-BR": "Senhor, vós sois santo, fonte de toda santidade. Concedei, pois, que pelo poder do Espírito Santo, estes dons de pão e vinho se tornem o Corpo e ✠ o Sangue de Jesus Cristo, vosso Filho e Senhor nosso, que nos mandou celebrar este mistério.\nPois ele, na noite em que ia ser entregue, tomou o pão e, dando-vos graças, abençoou-o, partiu-o e deu-o aos seus discípulos, dizendo:\nTOMAI, TODOS, E COMEI:\nISTO É O MEU CORPO,\nQUE SERÁ ENTREGUE POR VÓS."
+											}
+										},
+										{
+											"type": "prayer",
+											"speaker": "priest",
+											"inline": {
+												"pt-BR": "De modo semelhante, ao fim da ceia, tomou o cálice e, dando-vos graças novamente, abençoou-o e passou-o aos seus discípulos, dizendo:\nTOMAI, TODOS, E BEBEI:\nESTE É O CÁLICE DO MEU SANGUE,\nO SANGUE DA NOVA E ETERNA ALIANÇA,\nQUE SERÁ DERRAMADO POR VÓS\nE POR MUITOS\nPARA REMISSÃO DOS PECADOS.\nFAZEI ISTO EM MEMÓRIA DE MIM."
+											}
+										},
+										{
+											"type": "prayer",
+											"speaker": "priest",
+											"inline": {
+												"pt-BR": "Eis o mistério da fé."
+											}
+										},
+										{
+											"type": "rubric",
+											"text": {
+												"pt-BR": "Aclamação memorial (como acima)"
+											}
+										},
+										{
+											"type": "prayer",
+											"speaker": "priest",
+											"inline": {
+												"pt-BR": "Celebrando, pois, o memorial do vosso Filho, que é a nossa Páscoa e a nossa paz, e relembrando a sua morte na Cruz, a sua Ressurreição dentre os mortos e a sua Ascensão à vossa direita, enquanto esperamos a sua vinda gloriosa, vos oferecemos, em ação de graças, este sacrifício vivo e santo."
+											}
+										},
+										{
+											"type": "prayer",
+											"speaker": "priest",
+											"inline": {
+												"pt-BR": "Olhai, ó Pai, para a oferenda da vossa Igreja e, reconhecendo a Vítima imolada pela qual quisestes reconciliar-nos convosco, concedei que, alimentados pelo Corpo e pelo Sangue do vosso Filho e repletos do Espírito Santo, nos tornemos em Cristo um só corpo e um só espírito.\nQue ele faça de nós uma oferenda eterna para vós, a fim de que alcancemos a herança da vida eterna com os vossos eleitos: a Virgem Maria, Mãe de Deus, São José, seu esposo, os vossos Apóstolos e Mártires, e todos os Santos, por cuja intercessão esperamos alcançar sempre o vosso auxílio."
+											}
+										},
+										{
+											"type": "prayer",
+											"speaker": "priest",
+											"inline": {
+												"pt-BR": "Nós vos pedimos, ó Pai, que este sacrifício da nossa reconciliação traga a paz e a salvação ao mundo inteiro. Confirmai na fé e na caridade a vossa Igreja peregrina na terra: o vosso servo o Papa N., o nosso Bispo N., a ordem episcopal reunida, todo o clero e o povo que adquiristes para vós.\nFortalecei este vosso povo que está aqui reunido e dai-lhe um coração aberto para cumprir a vossa vontade.\nAcolhei no vosso Reino os nossos irmãos e irmãs que adormeceram no Senhor e todos os que deste mundo partiram na vossa amizade. Nós esperamos ter parte com eles e, todos juntos, contemplar a vossa glória, por Cristo, Senhor nosso, pelo qual distribuís ao mundo todos os bens."
+											}
+										},
+										{
+											"type": "prayer",
+											"speaker": "priest",
+											"inline": {
+												"pt-BR": "Por Cristo, com Cristo, em Cristo, a vós, Deus Pai todo-poderoso, na unidade do Espírito Santo, toda a honra e toda a glória, agora e para sempre."
+											}
+										},
+										{
+											"type": "prayer",
+											"speaker": "people",
+											"inline": {
+												"pt-BR": "Amém."
+											}
+										}
+									]
+								},
+								{
+									"id": "of-ep5d",
+									"label": {
+										"pt-BR": "D — Jesus passou fazendo o bem"
+									},
+									"sections": [
+										{
+											"type": "prayer",
+											"speaker": "priest",
+											"inline": {
+												"pt-BR": "Na verdade, é nosso dever dar-vos graças e proclamar as vossas maravilhas, Deus fiel, porque nos destes Jesus Cristo, o santo e o justo, que, cheio de compaixão pelos pequenos e pelos pobres, pelos doentes e pelos pecadores, jamais ficou indiferente ao sofrimento humano. A sua vida e a sua palavra são para nós o sinal da vossa solicitude por todas as criaturas. Ele se pôs ao lado dos fracos e dos indefesos, cativou-nos pela sua bondade e deu sentido à nossa vida.\nPor ele, os Anjos celebram a vossa grandeza, e os que esperam na vossa presença vos adoram com alegria; juntos com eles, e em nome de todas as criaturas, cantamos e proclamamos a vossa glória:"
+											}
+										},
+										{
+											"type": "rubric",
+											"text": {
+												"pt-BR": "Santo, Santo, Santo (como acima)"
+											}
+										},
+										{
+											"type": "prayer",
+											"speaker": "priest",
+											"inline": {
+												"pt-BR": "Senhor, vós sois santo, fonte de toda santidade. Concedei, pois, que pelo poder do Espírito Santo, estes dons de pão e vinho se tornem o Corpo e ✠ o Sangue de Jesus Cristo, vosso Filho e Senhor nosso, que nos mandou celebrar este mistério.\nPois ele, na noite em que ia ser entregue, tomou o pão e, dando-vos graças, abençoou-o, partiu-o e deu-o aos seus discípulos, dizendo:\nTOMAI, TODOS, E COMEI:\nISTO É O MEU CORPO,\nQUE SERÁ ENTREGUE POR VÓS."
+											}
+										},
+										{
+											"type": "prayer",
+											"speaker": "priest",
+											"inline": {
+												"pt-BR": "De modo semelhante, ao fim da ceia, tomou o cálice e, dando-vos graças novamente, abençoou-o e passou-o aos seus discípulos, dizendo:\nTOMAI, TODOS, E BEBEI:\nESTE É O CÁLICE DO MEU SANGUE,\nO SANGUE DA NOVA E ETERNA ALIANÇA,\nQUE SERÁ DERRAMADO POR VÓS\nE POR MUITOS\nPARA REMISSÃO DOS PECADOS.\nFAZEI ISTO EM MEMÓRIA DE MIM."
+											}
+										},
+										{
+											"type": "prayer",
+											"speaker": "priest",
+											"inline": {
+												"pt-BR": "Eis o mistério da fé."
+											}
+										},
+										{
+											"type": "rubric",
+											"text": {
+												"pt-BR": "Aclamação memorial (como acima)"
+											}
+										},
+										{
+											"type": "prayer",
+											"speaker": "priest",
+											"inline": {
+												"pt-BR": "Celebrando, pois, o memorial do vosso Filho, que é a nossa Páscoa e a nossa paz, e relembrando a sua morte na Cruz, a sua Ressurreição dentre os mortos e a sua Ascensão à vossa direita, enquanto esperamos a sua vinda gloriosa, vos oferecemos, em ação de graças, este sacrifício vivo e santo."
+											}
+										},
+										{
+											"type": "prayer",
+											"speaker": "priest",
+											"inline": {
+												"pt-BR": "Olhai, ó Pai, para a oferenda da vossa Igreja e, reconhecendo a Vítima imolada pela qual quisestes reconciliar-nos convosco, concedei que, alimentados pelo Corpo e pelo Sangue do vosso Filho e repletos do Espírito Santo, nos tornemos em Cristo um só corpo e um só espírito.\nQue ele faça de nós uma oferenda eterna para vós, a fim de que alcancemos a herança da vida eterna com os vossos eleitos: a Virgem Maria, Mãe de Deus, São José, seu esposo, os vossos Apóstolos e Mártires, e todos os Santos, por cuja intercessão esperamos alcançar sempre o vosso auxílio."
+											}
+										},
+										{
+											"type": "prayer",
+											"speaker": "priest",
+											"inline": {
+												"pt-BR": "Nós vos pedimos, ó Pai, que este sacrifício da nossa reconciliação traga a paz e a salvação ao mundo inteiro. Confirmai na fé e na caridade a vossa Igreja peregrina na terra: o vosso servo o Papa N., o nosso Bispo N., a ordem episcopal reunida, todo o clero e o povo que adquiristes para vós.\nAbri os nossos olhos para as necessidades de todos os irmãos e irmãs. Inspirai-nos palavras e ações para consolar os que sofrem e padecem. Fazei de nós servos humildes e generosos uns dos outros e de quantos precisam de nós.\nAcolhei no vosso Reino os nossos irmãos e irmãs que adormeceram no Senhor e todos os que deste mundo partiram na vossa amizade. Nós esperamos ter parte com eles e, todos juntos, contemplar a vossa glória, por Cristo, Senhor nosso, pelo qual distribuís ao mundo todos os bens."
+											}
+										},
+										{
+											"type": "prayer",
+											"speaker": "priest",
+											"inline": {
+												"pt-BR": "Por Cristo, com Cristo, em Cristo, a vós, Deus Pai todo-poderoso, na unidade do Espírito Santo, toda a honra e toda a glória, agora e para sempre."
+											}
+										},
+										{
+											"type": "prayer",
+											"speaker": "people",
+											"inline": {
+												"pt-BR": "Amém."
+											}
+										}
+									]
+								}
+							]
 						}
 					]
 				}
