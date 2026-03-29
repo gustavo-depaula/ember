@@ -184,7 +184,6 @@ src/
     AppFrame.tsx
     BackToHome.tsx
     Card.tsx
-    DropCap.tsx
     GreenWall.tsx
     IlluminatedInitial.tsx
     ManuscriptFrame.tsx

@@ -1,7 +1,6 @@
 // biome-ignore-all lint/suspicious/noArrayIndexKey: static prayer text lines never reorder
 import { Text, YStack } from 'tamagui'
 
-import { DropCap } from '../DropCap'
 import { PrayerText } from '../PrayerText'
 
 export function LiturgicalPrayerBlock({
@@ -30,22 +29,11 @@ export function LiturgicalPrayerBlock({
           R.
         </Text>
       )}
-      {lines.length > 0 && lines[0].length > 80 && !isPeople ? (
-        <>
-          <DropCap text={lines[0]} />
-          {lines.slice(1).map((line, i) => (
-            <PrayerText key={`en-${i}`} fontWeight={isPeople ? '600' : undefined}>
-              {line}
-            </PrayerText>
-          ))}
-        </>
-      ) : (
-        lines.map((line, i) => (
-          <PrayerText key={`en-${i}`} fontWeight={isPeople ? '600' : undefined}>
-            {line}
-          </PrayerText>
-        ))
-      )}
+      {lines.map((line, i) => (
+        <PrayerText key={`en-${i}`} fontWeight={isPeople ? '600' : undefined}>
+          {line}
+        </PrayerText>
+      ))}
       {latin !== '' && (
         <YStack gap="$xs" opacity={0.6} paddingTop="$xs">
           {latinLines.map((line, i) => (

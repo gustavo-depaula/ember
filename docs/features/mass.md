@@ -39,7 +39,7 @@ Mass content lives in `src/assets/mass/` as JSON files:
 ## UI
 
 - Single scrollable screen at `/mass`
-- Reuses existing components: `ManuscriptFrame`, `PrayerText`, `DropCap`, `RubricLabel`, `OrnamentalRule`, `PageBreakOrnament`
+- Reuses existing components: `ManuscriptFrame`, `PrayerText`, `RubricLabel`, `OrnamentalRule`, `PageBreakOrnament`
 - People's responses styled with bold weight and `R.` indicator
 - Proper slots shown as dashed-border placeholders
 - Options rendered with horizontal pill selector

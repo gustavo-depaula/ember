@@ -3,7 +3,6 @@ import { Text, XStack, YStack } from 'tamagui'
 
 import type { Verse } from '@/lib/content'
 
-import { DropCap } from './DropCap'
 import { IlluminatedInitial } from './IlluminatedInitial'
 import { PrayerText } from './PrayerText'
 
@@ -38,7 +37,7 @@ export function BibleReadingBlock({
           {illuminated ? (
             <IlluminatedInitial text={verses[0].text} />
           ) : (
-            <DropCap text={verses[0].text} />
+            <PrayerText>{verses[0].text}</PrayerText>
           )}
           {verses.slice(1).map((v) => (
             <PrayerText key={v.verse}>{v.text}</PrayerText>

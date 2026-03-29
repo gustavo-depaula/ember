@@ -147,7 +147,6 @@ The day of the psalter cycle is determined by `day_of_month` (1-30). Months with
 ### `/office/[hour]` — Prayer Flow (dynamic route)
 - Full scrollable prayer experience for morning, evening, or compline
 - Each section (hymn, psalmody, reading, canticle, etc.) is a distinct visual block
-- Decorative drop cap on first letter of readings
 - "Mark as Complete" button at the bottom
 - Advances reading progress on completion
 

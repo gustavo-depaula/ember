@@ -18,7 +18,7 @@ Key Tamagui concepts used:
 - **Fonts** — font family + weight + size + line-height definitions, loaded via expo-font
 - **styled()** — creates themed components that resolve `$tokens` at build time via the compiler
 
-All custom components (DropCap, SectionDivider, GreenWall, etc.) are built with Tamagui's `styled()` and reference theme tokens, so they automatically adapt to light/dark/liturgical themes.
+All custom components (SectionDivider, GreenWall, etc.) are built with Tamagui's `styled()` and reference theme tokens, so they automatically adapt to light/dark/liturgical themes.
 
 ---
 
@@ -61,7 +61,7 @@ Inspired by Gothic architecture stained glass (Sainte-Chapelle), memento mori, c
 - **Burgundy** — hour titles in PrayerFlow, canticle/hymn titles, HeroCTA office label
 - **Muted blue** — psalm references, Bible references, CCC paragraph numbers
 - **Cloister green** — "Completed" state, "Done" badges, GreenWall full intensity
-- **Gold** — DropCap, RubricLabel, SectionDivider, active tab, primary buttons, HeroCTA border
+- **Gold** — RubricLabel, SectionDivider, active tab, primary buttons, HeroCTA border
 - **Subtle gold** — ornamental rules, card top borders, ornamental separators
 
 ### Fidelity Wall (Multi-Hue Contribution Heatmap)
@@ -110,13 +110,13 @@ Light and dark modes use separate liturgical accent values — dark mode accents
 
 | Tier | Font | Tamagui Key | Role | Weight |
 |------|------|-------------|------|--------|
-| Display | UnifrakturMaguntia | `$display` | Decorative moments, drop caps, major titles | 400 |
+| Display | UnifrakturMaguntia | `$display` | Decorative moments, major titles | 400 |
 | Heading | Cinzel | `$heading` | Section headers, rubric labels, tab labels | 400, 700 |
 | Body | EB Garamond | `$body` | Prayer text, readings, UI text | 400, 400i, 500, 600 |
 | Script | Pinyon Script | `$script` | Sublabels, date lines, blessings | 400 |
 
 ### Where Each Font Appears
-- **UnifrakturMaguntia**: DropCap first letter, PrayerFlow hour title ("Morning Prayer"), HeroCTA office label, "Day complete" text
+- **UnifrakturMaguntia**: PrayerFlow hour title ("Morning Prayer"), HeroCTA office label, "Day complete" text
 - **Cinzel**: RubricLabel ("PSALMODY", "HYMN"), time block labels, tab labels, office hour card titles, "Begin" text
 - **Reading font** (user-configurable, default EB Garamond): PrayerText, psalm content, Bible readings, catechism text — all reading body copy. See `docs/features/reading-config.md` for the curated font list
 - **EB Garamond**: UI text, practice names, settings, non-reading body copy
@@ -139,11 +139,6 @@ Light and dark modes use separate liturgical accent values — dark mode accents
 ## Illuminated Manuscript Ornament
 
 **Principle:** ornament is concentrated in the prayer experience (PrayerFlow), moderate on the Office index, light on the Home screen, and absent on utility screens (Plan, Settings).
-
-### Drop Caps (`DropCap` component)
-- First letter of each Scripture reading, psalm, and canticle
-- UnifrakturMaguntia (blackletter), 56px, gold color (`#C9A84C`)
-- Only on prayer flow screens, not on lists or settings
 
 ### Ornamental Rules (`OrnamentalRule` component)
 - Image-based decorative divider for PrayerFlow sections
@@ -198,7 +193,7 @@ Light and dark modes use separate liturgical accent values — dark mode accents
 
 | Area | Level | Elements |
 |------|-------|----------|
-| PrayerFlow | Rich | OrnamentalRule, HeaderFlourish, PageBreakOrnament, CornerFlourish, DropCap, ManuscriptFrame |
+| PrayerFlow | Rich | OrnamentalRule, HeaderFlourish, PageBreakOrnament, CornerFlourish, ManuscriptFrame |
 | Office index | Moderate | HeaderFlourish, ManuscriptFrame, gold top-border on cards |
 | Home screen | Moderate | AppFrame, NavigationMedallion, WatercolorIcon, SectionDivider, RibbonBookmarks |
 | Plan of Life | Light | AppFrame, SectionDivider, GreenWall |
@@ -276,7 +271,7 @@ The prayer experience should feel like reading from a beautiful breviary:
 │  PSALMODY                   │  <- Cinzel rubric label
 │  Psalms 1-5                 │  <- EB Garamond, muted blue
 │                             │
-│  B lessed is the man who    │  <- UnifrakturMaguntia drop cap
+│  Blessed is the man who     │
 │    walks not in the         │
 │    counsel of the wicked... │  <- EB Garamond body
 │                             │
@@ -285,7 +280,7 @@ The prayer experience should feel like reading from a beautiful breviary:
 │  READING                    │  <- Cinzel rubric label
 │  Genesis 1:1-31             │  <- EB Garamond, muted blue
 │                             │
-│  I n the beginning God      │  <- UnifrakturMaguntia drop cap
+│  In the beginning God       │
 │    created the heavens...   │  <- EB Garamond body
 │                             │
 │  ┌─────────────────────┐    │

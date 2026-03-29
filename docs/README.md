@@ -54,7 +54,7 @@ Ember has a complete MVP (Phases 0–9a). See [tasks.md](tasks.md) for full impl
 - Dark/light/system themes
 - Internationalization: English + Brazilian Portuguese
 - Reading config: 7 serif fonts, adjustable size/spacing/margins/alignment
-- Illuminated manuscript aesthetic (drop caps, ornamental dividers, gold accents)
+- Illuminated manuscript aesthetic (ornamental dividers, gold accents)
 
 ---
 
