@@ -28,7 +28,7 @@
 ```
 /                       -> Home (greeting, time-block practice checklist, green wall, navigation medallions)
 /office/                -> Office hub (morning, evening, compline cards with status)
-/office/[hour]          -> Prayer Flow (dynamic route for morning/evening/compline)
+/pray/divine-office?hour=... -> Prayer Flow (shared practice player with office theme)
 /plan/                  -> Plan of Life (green wall overview + stats + practice checklist)
 /plan/[practiceId]      -> Individual practice detail with its own green wall + stats
 /mass                   -> Ordo Missae (static reference, OF/EF toggle, bilingual prayers)
@@ -55,37 +55,30 @@ interface Practice {
   order: number
 }
 
-interface PracticeLog {
-  date: string        // YYYY-MM-DD
+// Event log — each completion is a separate row (supports multiple per day)
+interface PracticeCompletion {
+  id: number
   practiceId: string
-  completed: boolean
-  completedAt?: number // timestamp
+  detail?: string      // office hour, mystery set, etc.
+  date: string         // YYYY-MM-DD
+  completedAt: number  // timestamp
 }
 ```
 
-### Divine Office
+### Reading Tracks
 
 ```typescript
-interface ReadingProgress {
+// Named reading tracks — shareable between practices
+interface ReadingTrack {
+  id: string                   // 'default-ot', 'default-nt', 'default-catechism'
   type: 'ot' | 'nt' | 'catechism'
+  label: string | null         // user-facing name (null for defaults)
   currentBook: string
   currentChapter: number
   currentVerse: number
   completedBooks: string       // JSON array string
-  completedChapters: string    // JSON object string (added in migration 0002)
+  completedChapters: string    // JSON object string
   startDate: string
-}
-
-interface OfficePreference {
-  key: string                  // generic KV store
-  value: string
-}
-
-interface DailyOffice {
-  date: string                 // YYYY-MM-DD
-  hour: string                 // 'morning' | 'evening' | 'compline'
-  completed: number            // 0 or 1
-  completedAt?: number         // timestamp
 }
 ```
 
@@ -94,11 +87,10 @@ interface DailyOffice {
 ## Storage Strategy
 
 ### expo-sqlite (structured data)
-- `practices` table — fixed set for MVP, extensible for custom practices later
-- `practice_logs` table — one row per practice per day, indexed by date
-- `reading_progress` table — tracks position in OT, NT, and CCC (includes `completed_chapters` for per-chapter tracking)
-- `daily_office` table — completion status per hour per day
-- `office_preferences` table — translation, psalter cycle, completed readings
+- `practices` table — built-in + custom practices, with `manifest_id` linking to content system
+- `practice_completions` table — event log, one row per completion (supports multiple per day, per-hour tracking via `detail` column)
+- `reading_tracks` table — named reading cursors (default-ot, default-nt, default-catechism), shareable between practices
+- `cached_translations` table — offline cache for online Bible translations
 
 ### AsyncStorage (simple KV, via Zustand persist)
 - `theme` — 'light' | 'dark' | 'system' (themeStore)
@@ -164,13 +156,9 @@ src/
       timeBlocks.ts       (morning/daytime/evening block logic)
       index.ts
     divine-office/
-      components/
-        PrayerFlow.tsx
-        index.ts
-      engine.ts
-      hooks.ts
-      psalter.ts
-      utils.ts
+      hooks.ts          (reading progress, psalm/bible/ccc loading hooks)
+      psalter.ts         (re-exports from lib/liturgical)
+      utils.ts           (progress calculations)
       index.ts
     home/
       components/
@@ -219,9 +207,27 @@ src/
       office.ts
       practices.ts
       index.ts
+  content/                  (practice content system)
+    engine.ts               (flow resolution engine)
+    types.ts                (manifest, flow section, rendered section types)
+    practices/              (one folder per practice)
+      divine-office/
+        manifest.json
+        flows/morning.json, evening.json, compline.json
+      little-office-bvm/
+        manifest.json
+        flows/matins.json ... compline.json
+      rosary/
+        manifest.json
+        flow.json
+        variants/traditional.json, scriptural.json
+      ...                   (morning-offering, angelus, etc.)
+      index.ts              (registry, loaders, search)
   lib/                    (API clients, helpers)
     bolls.ts
     content.ts
+    liturgical/             (shared liturgical computation)
+      psalter.ts, hymns.ts, antiphons.ts, season.ts, readings.ts, index.ts
   config/                 (tamagui config, tokens, themes)
     tamagui.config.ts
     tokens.ts

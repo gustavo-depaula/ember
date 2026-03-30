@@ -90,6 +90,14 @@ type PracticeManifest = {
   flowMode: 'scroll' | 'step'   // preferred rendering UX
   completion: 'flow-end' | 'manual'
 
+  // Completion side-effects
+  completionEffects?: {
+    advanceReadings?: boolean    // auto-advance reading tracks for any lectio sections in the flow
+  }
+
+  // Rendering theme
+  theme?: 'office'               // ornamental office-style (HeaderFlourish, OrnamentalRule, illuminated drop caps)
+
   // Single flow (most practices)
   flow?: string                  // relative path to flow file
 
@@ -202,6 +210,8 @@ These resolve at runtime using existing engine logic:
 type PsalterSection = { type: 'psalter'; hour: string; cycle: string }
 
 // Lectio continua reading from current progress
+// The `testament` field is carried through to the rendered `reading` section
+// so the completion handler knows which reading track to advance
 type LectioSection = { type: 'lectio'; testament: 'ot' | 'nt' | 'catechism' }
 
 // Content that varies by liturgical season (hymns, Marian antiphons)
@@ -436,9 +446,9 @@ See the Variant Schema section above for the full example. Key points:
 - `variants/*.json` files provide interchangeable meditation content
 - The engine merges structure + variant data at runtime based on day of week + user's variant preference
 
-### Divine Office Lauds (ceiling complexity)
+### Divine Office Morning Prayer (real practice at `src/content/practices/divine-office/`)
 
-**flows/lauds.json:**
+**flows/morning.json:**
 ```json
 {
   "sections": [
@@ -488,8 +498,8 @@ See the Variant Schema section above for the full example. Key points:
 - Add-to-plan flow with personalization (icon, tier, time block, frequency)
 - Seasonal/thematic pack system
 
-### Phase 4: Multi-hour + dynamic sources
+### Phase 4: Multi-hour + dynamic sources ✅
 - Implement multi-hour practice support (Little Office of BVM)
 - Implement dynamic section types (psalter, lectio, seasonal)
-- Extract reusable logic from Divine Office engine
-- Evaluate migrating Divine Office to the content format
+- Extract reusable liturgical library from Divine Office engine to `src/lib/liturgical/`
+- Migrate Divine Office to the content format with `completionEffects` and `theme` support
