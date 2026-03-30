@@ -13,6 +13,14 @@ export type CycleData = {
   entries: Record<string, unknown[]>
 }
 
+// --- Lectio Tracks (practice-owned reading plans) ---
+
+export type LectioTrackDef = {
+  source: 'bible' | 'catechism'
+  label: LocalizedText
+  entries: string[]
+}
+
 // --- Manifest ---
 
 export type PracticeManifest = {
@@ -32,6 +40,7 @@ export type PracticeManifest = {
   }
   theme?: 'office'
   data?: Record<string, string>
+  tracks?: Record<string, string>
   flow?: string
   hours?: {
     id: string
@@ -89,7 +98,7 @@ export type FlowSection =
     }
   | { type: 'cycle'; data: string; key?: string; as: string }
   | { type: 'psalmody'; psalms: (number | string)[] }
-  | { type: 'lectio'; testament: 'ot' | 'nt' | 'catechism' }
+  | { type: 'lectio'; track: string }
 
 // --- Rendered Sections (engine output, consumed by renderer) ---
 
@@ -118,7 +127,7 @@ export type RenderedSection =
       options: { id: string; label: string; sections: RenderedSection[] }[]
     }
   | { type: 'psalmody'; psalms: PsalmRef[] }
-  | { type: 'reading'; reference: ReadingReference; testament?: 'ot' | 'nt' | 'catechism' }
+  | { type: 'reading'; reference: ReadingReference; trackId?: string }
   | { type: 'set-selector'; options: { key: string; label: string }[]; selectedKey: string }
 
 // --- Variant ---

@@ -8,6 +8,7 @@ import customizablePracticesMigration from './migrations/0003_customizable_pract
 import contentColumnsMigration from './migrations/0004_practice_content_columns.sql'
 import readingTracksMigration from './migrations/0005_reading_tracks.sql'
 import practiceCompletionsMigration from './migrations/0006_practice_completions.sql'
+import practiceReadingTracksMigration from './migrations/0007_practice_reading_tracks.sql'
 
 let _db: SQLiteDatabase | undefined
 
@@ -56,6 +57,8 @@ export function useDbInit() {
         await _db.execAsync(readingTracksMigration)
         // Migration 0006: practice_completions event log
         await _db.execAsync(practiceCompletionsMigration)
+        // Migration 0007: practice-owned reading tracks
+        await _db.execAsync(practiceReadingTracksMigration)
         if (!cancelled) dispatch({ type: 'done' })
       } catch (err) {
         if (!cancelled) dispatch({ type: 'error', error: err })

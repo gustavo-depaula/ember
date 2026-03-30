@@ -1,12 +1,13 @@
 // biome-ignore-all lint/suspicious/noArrayIndexKey: static prayer sections never reorder
+
+import { useQueryClient } from '@tanstack/react-query'
 import { format } from 'date-fns'
 import { useRouter } from 'expo-router'
 import { ChevronLeft } from 'lucide-react-native'
-import { useMemo, useState } from 'react'
+import { useEffect, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
 import { Spinner, Text, useTheme, View, XStack, YStack } from 'tamagui'
-
 import {
   AnimatedPressable,
   BibleReadingBlock,
@@ -36,15 +37,17 @@ import {
   loadFormFlow,
   loadHourFlow,
   loadPracticeData,
+  loadPracticeTracks,
   loadVariant,
 } from '@/content/practices'
 import type { RenderedSection } from '@/content/types'
 import {
-  useAdvanceReading,
-  useAllReadingProgress,
+  ensurePracticeTracks,
+  useAdvanceTrack,
   useBibleReading,
   useCccReading,
   usePsalmsForHour,
+  useTracksForPractice,
 } from '@/features/divine-office'
 import { useLogCompletion, usePractices } from '@/features/plan-of-life'
 import { useReadingMargin } from '@/hooks/useReadingStyle'
@@ -54,7 +57,6 @@ import { successBuzz } from '@/lib/haptics'
 import { localizeContent } from '@/lib/i18n'
 import { formatLocalized } from '@/lib/i18n/dateLocale'
 import type { PsalmRef, ReadingReference } from '@/lib/liturgical'
-import { cccDailyCount } from '@/lib/liturgical'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
 function findPsalmRefs(sections: RenderedSection[]): PsalmRef[] {
@@ -64,21 +66,19 @@ function findPsalmRefs(sections: RenderedSection[]): PsalmRef[] {
   return []
 }
 
-function findReadingRef(
-  sections: RenderedSection[],
-): { reference: ReadingReference; testament?: 'ot' | 'nt' | 'catechism' } | undefined {
+function findReadingRef(sections: RenderedSection[]): { reference: ReadingReference } | undefined {
   for (const s of sections) {
-    if (s.type === 'reading') return { reference: s.reference, testament: s.testament }
+    if (s.type === 'reading') return { reference: s.reference }
   }
   return undefined
 }
 
-function findReadingTestaments(sections: RenderedSection[]): ('ot' | 'nt' | 'catechism')[] {
-  const testaments = new Set<'ot' | 'nt' | 'catechism'>()
+function findTrackIds(sections: RenderedSection[]): string[] {
+  const ids = new Set<string>()
   for (const s of sections) {
-    if (s.type === 'reading' && s.testament) testaments.add(s.testament)
+    if (s.type === 'reading' && s.trackId) ids.add(s.trackId)
   }
-  return Array.from(testaments)
+  return Array.from(ids)
 }
 
 export function PracticeFlow({ practiceId, hourId }: { practiceId: string; hourId?: string }) {
@@ -86,8 +86,9 @@ export function PracticeFlow({ practiceId, hourId }: { practiceId: string; hourI
   const router = useRouter()
   const theme = useTheme()
   const readingMargin = useReadingMargin()
+  const queryClient = useQueryClient()
   const logCompletionMutation = useLogCompletion()
-  const advanceReading = useAdvanceReading()
+  const advanceTrack = useAdvanceTrack()
 
   const manifest = getManifest(practiceId)
   const formPreferences = usePreferencesStore((s) => s.formPreferences)
@@ -115,21 +116,26 @@ export function PracticeFlow({ practiceId, hourId }: { practiceId: string; hourI
   const now = useMemo(() => new Date(), [])
   const [selectedSetKey, setSelectedSetKey] = useState<string | undefined>(undefined)
 
-  // Dynamic context for cycle/lectio/seasonal sections
+  // Dynamic context for cycle/lectio sections
   const translation = usePreferencesStore((s) => s.translation)
   const liturgicalCalendar = usePreferencesStore((s) => s.liturgicalCalendar)
   const numbering = getPsalmNumbering(translation)
-  const { data: allProgress } = useAllReadingProgress()
   const cycleData = useMemo(() => loadPracticeData(practiceId), [practiceId])
+  const trackDefs = useMemo(() => loadPracticeTracks(practiceId), [practiceId])
+  const { data: trackRows } = useTracksForPractice(trackDefs ? practiceId : undefined)
 
-  const readingProgress = useMemo(() => {
-    if (!allProgress) return undefined
-    return {
-      ot: allProgress.find((p) => p.type === 'ot') ?? null,
-      nt: allProgress.find((p) => p.type === 'nt') ?? null,
-      catechism: allProgress.find((p) => p.type === 'catechism') ?? null,
+  useEffect(() => {
+    if (trackDefs) {
+      ensurePracticeTracks(practiceId, Object.keys(trackDefs)).then(() =>
+        queryClient.invalidateQueries({ queryKey: ['practiceTracks', practiceId] }),
+      )
     }
-  }, [allProgress])
+  }, [practiceId, trackDefs, queryClient])
+
+  const trackState = useMemo(() => {
+    if (!trackRows) return undefined
+    return Object.fromEntries(trackRows.map((r) => [r.track, r]))
+  }, [trackRows])
 
   const sections = useMemo(() => {
     if (!flow) return []
@@ -138,7 +144,8 @@ export function PracticeFlow({ practiceId, hourId }: { practiceId: string; hourI
       variant,
       numbering,
       liturgicalCalendar,
-      readingProgress,
+      trackDefs,
+      trackState,
       cycleData,
       setKeyOverride: selectedSetKey,
     }
@@ -149,7 +156,8 @@ export function PracticeFlow({ practiceId, hourId }: { practiceId: string; hourI
     variant,
     numbering,
     liturgicalCalendar,
-    readingProgress,
+    trackDefs,
+    trackState,
     cycleData,
     selectedSetKey,
   ])
@@ -210,13 +218,16 @@ export function PracticeFlow({ practiceId, hourId }: { practiceId: string; hourI
       {
         onSuccess: async () => {
           successBuzz()
-          if (manifest?.completionEffects?.advanceReadings) {
-            const testaments = findReadingTestaments(sections)
+          if (manifest?.completionEffects?.advanceReadings && trackDefs) {
+            const trackIds = findTrackIds(sections)
             await Promise.all(
-              testaments.map((testament) => {
-                const count = testament === 'catechism' ? cccDailyCount : 1
-                return advanceReading.mutateAsync({ type: testament, count })
-              }),
+              trackIds.map((id) =>
+                advanceTrack.mutateAsync({
+                  practiceId,
+                  trackName: id,
+                  entryCount: trackDefs[id].entries.length,
+                }),
+              ),
             )
           }
           router.back()
@@ -271,34 +282,34 @@ export function PracticeFlow({ practiceId, hourId }: { practiceId: string; hourI
           )}
 
           <YStack gap="$md">
-            {sections.map((section, index) => {
-              if (section.type === 'set-selector') {
+            {(() => {
+              const firstReadingIdx =
+                manifest.theme === 'office' ? sections.findIndex((s) => s.type === 'reading') : -1
+              return sections.map((section, index) => {
+                if (section.type === 'set-selector') {
+                  return (
+                    <PillToggle
+                      key={`set-selector-${index}`}
+                      options={section.options.map((o) => ({ id: o.key, label: o.label }))}
+                      selected={section.selectedKey}
+                      onChange={setSelectedSetKey}
+                    />
+                  )
+                }
                 return (
-                  <PillToggle
-                    key={`set-selector-${index}`}
-                    options={section.options.map((o) => ({ id: o.key, label: o.label }))}
-                    selected={section.selectedKey}
-                    onChange={setSelectedSetKey}
+                  <PracticeSectionBlock
+                    key={`${section.type}-${index}`}
+                    section={section}
+                    psalmData={psalmResult.data}
+                    readingData={bibleResult.data?.verses}
+                    readingFallback={bibleResult.data?.fallback}
+                    cccData={cccResult.data}
+                    officeTheme={manifest.theme === 'office'}
+                    isFirstReading={index === firstReadingIdx}
                   />
                 )
-              }
-              return (
-                <PracticeSectionBlock
-                  key={`${section.type}-${index}`}
-                  section={section}
-                  psalmData={psalmResult.data}
-                  readingData={bibleResult.data?.verses}
-                  readingFallback={bibleResult.data?.fallback}
-                  cccData={cccResult.data}
-                  officeTheme={manifest.theme === 'office'}
-                  isFirstReading={
-                    manifest.theme === 'office' &&
-                    section.type === 'reading' &&
-                    index === sections.findIndex((s) => s.type === 'reading')
-                  }
-                />
-              )
-            })}
+              })
+            })()}
           </YStack>
 
           <YStack paddingBottom="$lg" />

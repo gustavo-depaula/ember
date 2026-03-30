@@ -10,7 +10,7 @@
     { "type": "cycle", "data": "compline-psalms", "as": "psalmody" },
     { "type": "divider" },
     { "type": "rubric", "text": { "en": "Reading", "pt-BR": "Leitura" } },
-    { "type": "lectio", "testament": "catechism" },
+    { "type": "lectio", "track": "ccc-readings" },
     { "type": "divider" },
     { "type": "rubric", "text": { "en": "Canticle", "pt-BR": "Cântico" } },
     { "type": "canticle", "ref": "nunc-dimittis" },

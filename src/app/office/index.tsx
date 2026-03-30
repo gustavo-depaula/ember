@@ -11,20 +11,24 @@ import {
   ScreenLayout,
   WatercolorIcon,
 } from '@/components'
-
+import { loadPracticeTracks } from '@/content/practices'
 import complinePsalmsData from '@/content/practices/divine-office/data/compline-psalms.json'
 import psalter30DayData from '@/content/practices/divine-office/data/psalter-30-day.json'
 import type { CycleData } from '@/content/types'
-import type { ReadingTrack } from '@/db/schema'
-import { useAllReadingProgress } from '@/features/divine-office'
+import { useTracksForPractice } from '@/features/divine-office'
 import { formatPsalmRefs, parsePsalmRef } from '@/features/divine-office/psalter'
 import { useCompletionsForPractice } from '@/features/plan-of-life'
 import { getPsalmNumbering } from '@/lib/bolls'
-import { getDrbBooks } from '@/lib/content'
 import { formatLocalized } from '@/lib/i18n/dateLocale'
+import { formatTrackEntry } from '@/lib/lectio'
 import type { OfficeHour } from '@/lib/liturgical'
-import { readingTypeForHour } from '@/lib/liturgical'
 import { usePreferencesStore } from '@/stores/preferencesStore'
+
+const hourToTrack: Record<OfficeHour, string> = {
+  morning: 'ot-readings',
+  evening: 'nt-readings',
+  compline: 'ccc-readings',
+}
 
 const hourConfig = [
   {
@@ -50,20 +54,6 @@ const hourConfig = [
   },
 ]
 
-function getReadingLabel(hour: OfficeHour, progressMap: Map<string, ReadingTrack>): string {
-  const type = readingTypeForHour[hour]
-  const progress = progressMap.get(type)
-  if (!progress) return ''
-
-  if (type === 'catechism') {
-    return `CCC ${progress.current_chapter}-${progress.current_chapter + 7}`
-  }
-
-  const books = getDrbBooks()
-  const book = books.find((b) => b.id === progress.current_book)
-  return `${book?.name ?? progress.current_book} ${progress.current_chapter}`
-}
-
 export default function OfficeScreen() {
   const { t } = useTranslation()
   const router = useRouter()
@@ -74,14 +64,10 @@ export default function OfficeScreen() {
   const numbering = getPsalmNumbering(translation)
 
   const { data: completions = [] } = useCompletionsForPractice('divine-office', today)
-  const { data: allProgress = [] } = useAllReadingProgress()
+  const trackDefs = useMemo(() => loadPracticeTracks('divine-office'), [])
+  const { data: trackRows = [] } = useTracksForPractice('divine-office')
 
   const completedHours = useMemo(() => new Set(completions.map((c) => c.detail)), [completions])
-
-  const progressMap = useMemo(
-    () => new Map(allProgress.map((p): [string, ReadingTrack] => [p.type, p])),
-    [allProgress],
-  )
 
   const psalmsForDay = useMemo(() => {
     const cycle = psalter30DayData as unknown as CycleData
@@ -127,7 +113,15 @@ export default function OfficeScreen() {
 
         {hourConfig.map(({ hour, labelKey, sublabelKey, route, icon }, i) => {
           const completed = completedHours.has(hour)
-          const readingLabel = getReadingLabel(hour, progressMap)
+          const readingLabel = (() => {
+            const trackName = hourToTrack[hour]
+            const def = trackDefs?.[trackName]
+            const state = trackRows.find((r) => r.track === trackName)
+            if (!def || !state) return ''
+            const entry = def.entries[state.current_index % def.entries.length]
+            const resolveBookName = (slug: string) => t(`bookName.${slug}`, { defaultValue: slug })
+            return formatTrackEntry(def.source, entry, resolveBookName)
+          })()
           const psalmLabel = getPsalmLabel(hour)
 
           return (

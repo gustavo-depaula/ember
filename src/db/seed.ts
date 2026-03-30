@@ -426,6 +426,12 @@ const defaultReadings = [
   { type: 'catechism', book: 'ccc', chapter: 1 },
 ] as const
 
+const defaultPracticeTracks = [
+  { track: 'ot-readings', practiceId: 'divine-office' },
+  { track: 'nt-readings', practiceId: 'divine-office' },
+  { track: 'ccc-readings', practiceId: 'divine-office' },
+] as const
+
 export async function seedReadingProgress() {
   const db = getDb()
   const today = format(new Date(), 'yyyy-MM-dd')
@@ -443,7 +449,7 @@ export async function seedReadingProgress() {
     }
   }
 
-  // Seed reading_tracks (migration copies existing data; this covers fresh installs)
+  // Seed legacy reading_tracks (migration copies existing data; this covers fresh installs)
   const tracksResult = await db.getFirstAsync<{ total: number }>(
     'SELECT count(*) as total FROM reading_tracks',
   )
@@ -454,5 +460,13 @@ export async function seedReadingProgress() {
         [`default-${row.type}`, row.type, row.book, row.chapter, today],
       )
     }
+  }
+
+  // Seed practice reading tracks (new system)
+  for (const row of defaultPracticeTracks) {
+    await db.runAsync(
+      'INSERT OR IGNORE INTO practice_reading_tracks (id, practice_id, track, current_index, start_date) VALUES (?, ?, ?, 0, ?)',
+      [`${row.practiceId}/${row.track}`, row.practiceId, row.track, today],
+    )
   }
 }

@@ -10,7 +10,7 @@
     { "type": "cycle", "data": "psalter-30-day", "key": "morning", "as": "psalmody" },
     { "type": "divider" },
     { "type": "rubric", "text": { "en": "Scripture Reading", "pt-BR": "Leitura Bíblica" } },
-    { "type": "lectio", "testament": "ot" },
+    { "type": "lectio", "track": "ot-readings" },
     { "type": "divider" },
     { "type": "rubric", "text": { "en": "Canticle", "pt-BR": "Cântico" } },
     { "type": "canticle", "ref": "benedictus" },
