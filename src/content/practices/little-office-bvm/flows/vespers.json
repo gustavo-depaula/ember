@@ -10,7 +10,7 @@
     { "type": "psalmody", "psalms": [110, 111, 112, 113, 147] },
     { "type": "divider" },
     { "type": "rubric", "text": { "en": "Scripture Reading", "pt-BR": "Leitura B\u00edblica" } },
-    { "type": "lectio", "testament": "nt" },
+    { "type": "rubric", "text": { "en": "Short Reading", "pt-BR": "Leitura Breve" } },
     { "type": "divider" },
     { "type": "rubric", "text": { "en": "Canticle", "pt-BR": "C\u00e2ntico" } },
     { "type": "canticle", "ref": "magnificat" },

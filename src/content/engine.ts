@@ -14,19 +14,16 @@ import openingVerse from '@/assets/prayers/opening-verse.json'
 import ourFather from '@/assets/prayers/our-father.json'
 import signOfCross from '@/assets/prayers/sign-of-cross.json'
 
-import type { ReadingProgress } from '@/db/schema'
+import type { PracticeReadingTrack } from '@/db/schema'
 import type { PsalmNumbering } from '@/lib/bolls'
 import i18n, { localizeAsset, localizeContent } from '@/lib/i18n'
-import {
-  getLiturgicalSeason,
-  getTodaysReading,
-  type LiturgicalCalendarForm,
-  parsePsalmRef,
-} from '@/lib/liturgical'
+import { parseTrackEntry } from '@/lib/lectio'
+import { getLiturgicalSeason, type LiturgicalCalendarForm, parsePsalmRef } from '@/lib/liturgical'
 import type {
   CycleData,
   FlowDefinition,
   FlowSection,
+  LectioTrackDef,
   LocalizedBilingualText,
   RenderedSection,
   Variant,
@@ -68,11 +65,8 @@ export type FlowContext = {
   variant?: Variant
   numbering?: PsalmNumbering
   liturgicalCalendar?: LiturgicalCalendarForm
-  readingProgress?: {
-    ot?: ReadingProgress | null
-    nt?: ReadingProgress | null
-    catechism?: ReadingProgress | null
-  }
+  trackDefs?: Record<string, LectioTrackDef>
+  trackState?: Record<string, PracticeReadingTrack>
   cycleData?: Record<string, CycleData>
   setKeyOverride?: string
 }
@@ -419,15 +413,17 @@ function resolveSection(section: FlowSection, context: FlowContext): RenderedSec
       return [{ type: 'psalmody', psalms: section.psalms.map(parsePsalmRef) }]
 
     case 'lectio': {
-      const progress = context.readingProgress?.[section.testament]
-      if (!progress) return [{ type: 'rubric', label: '[Reading progress not available]' }]
-      return [
-        {
-          type: 'reading',
-          reference: getTodaysReading(section.testament, progress),
-          testament: section.testament,
-        },
-      ]
+      const def = context.trackDefs?.[section.track]
+      const state = context.trackState?.[section.track]
+      if (!def || !state) return [{ type: 'rubric', label: '[Reading track not loaded]' }]
+      const entry = def.entries[state.current_index % def.entries.length]
+      const resolveBookName = (slug: string) => i18n.t(`bookName.${slug}`, { defaultValue: slug })
+      const refs = parseTrackEntry(def.source, entry, resolveBookName)
+      return refs.map((ref) => ({
+        type: 'reading' as const,
+        reference: ref,
+        trackId: section.track,
+      }))
     }
 
     case 'subheading':

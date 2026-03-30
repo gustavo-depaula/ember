@@ -69,6 +69,14 @@ export type OfficePreference = {
   value: string
 }
 
+export type PracticeReadingTrack = {
+  id: string
+  practice_id: string
+  track: string
+  current_index: number
+  start_date: string
+}
+
 export type CachedTranslation = {
   translation: string
   book: string

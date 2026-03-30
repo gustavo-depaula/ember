@@ -1,7 +1,7 @@
-import type { SQLiteBindValue } from 'expo-sqlite'
+import { format } from 'date-fns'
 
 import { getDb } from '../client'
-import type { DailyOffice, ReadingTrack } from '../schema'
+import type { DailyOffice, PracticeReadingTrack, ReadingTrack } from '../schema'
 
 // --- Daily office (legacy, used during migration) ---
 
@@ -19,79 +19,81 @@ export async function completeOfficeHour(date: string, hour: string): Promise<vo
   )
 }
 
-// --- Reading tracks ---
+// --- Practice reading tracks ---
 
-export function getReadingTrack(trackId: string): Promise<ReadingTrack | null> {
-  return getDb().getFirstAsync<ReadingTrack>('SELECT * FROM reading_tracks WHERE id = ?', [trackId])
+function trackId(practiceId: string, trackName: string): string {
+  return `${practiceId}/${trackName}`
 }
 
-export function getAllReadingTracks(): Promise<ReadingTrack[]> {
-  return getDb().getAllAsync<ReadingTrack>('SELECT * FROM reading_tracks')
+export function getTracksForPractice(practiceId: string): Promise<PracticeReadingTrack[]> {
+  return getDb().getAllAsync<PracticeReadingTrack>(
+    'SELECT * FROM practice_reading_tracks WHERE practice_id = ?',
+    [practiceId],
+  )
 }
 
-export function getDefaultReadingTracks(): Promise<ReadingTrack[]> {
-  return getDb().getAllAsync<ReadingTrack>("SELECT * FROM reading_tracks WHERE id LIKE 'default-%'")
+export function getPracticeTrack(
+  practiceId: string,
+  trackName: string,
+): Promise<PracticeReadingTrack | null> {
+  return getDb().getFirstAsync<PracticeReadingTrack>(
+    'SELECT * FROM practice_reading_tracks WHERE id = ?',
+    [trackId(practiceId, trackName)],
+  )
 }
 
-export async function updateReadingTrack(
-  trackId: string,
-  updates: {
-    currentBook?: string
-    currentChapter?: number
-    currentVerse?: number
-    completedBooks?: string
-    completedChapters?: string
-  },
+export async function ensurePracticeTracks(
+  practiceId: string,
+  trackNames: string[],
+  findLegacyIndex?: (trackName: string) => number,
 ): Promise<void> {
-  const sets: string[] = []
-  const params: SQLiteBindValue[] = []
-
-  if (updates.currentBook !== undefined) {
-    sets.push('current_book = ?')
-    params.push(updates.currentBook)
+  const db = getDb()
+  const today = format(new Date(), 'yyyy-MM-dd')
+  const ids = trackNames.map((name) => trackId(practiceId, name))
+  const existing = await db.getAllAsync<{ id: string }>(
+    `SELECT id FROM practice_reading_tracks WHERE id IN (${ids.map(() => '?').join(',')})`,
+    ids,
+  )
+  const existingIds = new Set(existing.map((r) => r.id))
+  for (const trackName of trackNames) {
+    const id = trackId(practiceId, trackName)
+    if (existingIds.has(id)) continue
+    const startIndex = findLegacyIndex?.(trackName) ?? 0
+    await db.runAsync(
+      'INSERT OR IGNORE INTO practice_reading_tracks (id, practice_id, track, current_index, start_date) VALUES (?, ?, ?, ?, ?)',
+      [id, practiceId, trackName, startIndex, today],
+    )
   }
-  if (updates.currentChapter !== undefined) {
-    sets.push('current_chapter = ?')
-    params.push(updates.currentChapter)
-  }
-  if (updates.currentVerse !== undefined) {
-    sets.push('current_verse = ?')
-    params.push(updates.currentVerse)
-  }
-  if (updates.completedBooks !== undefined) {
-    sets.push('completed_books = ?')
-    params.push(updates.completedBooks)
-  }
-  if (updates.completedChapters !== undefined) {
-    sets.push('completed_chapters = ?')
-    params.push(updates.completedChapters)
-  }
-
-  if (sets.length === 0) return
-
-  params.push(trackId)
-  await getDb().runAsync(`UPDATE reading_tracks SET ${sets.join(', ')} WHERE id = ?`, params)
 }
 
-// --- Backward-compatible wrappers (reading_progress → reading_tracks) ---
-
-export function getReadingProgressByType(type: string): Promise<ReadingTrack | null> {
-  return getReadingTrack(`default-${type}`)
-}
-
-export function getAllReadingProgress(): Promise<ReadingTrack[]> {
-  return getDefaultReadingTracks()
-}
-
-export async function updateReadingProgress(
-  type: string,
-  updates: {
-    currentBook?: string
-    currentChapter?: number
-    currentVerse?: number
-    completedBooks?: string
-    completedChapters?: string
-  },
+export async function advancePracticeTrack(
+  practiceId: string,
+  trackName: string,
+  entryCount: number,
 ): Promise<void> {
-  return updateReadingTrack(`default-${type}`, updates)
+  if (entryCount <= 0) return
+  await getDb().runAsync(
+    `UPDATE practice_reading_tracks SET current_index = (current_index + 1) % ? WHERE id = ?`,
+    [entryCount, trackId(practiceId, trackName)],
+  )
+}
+
+export async function setPracticeTrackIndex(
+  practiceId: string,
+  trackName: string,
+  index: number,
+): Promise<void> {
+  await getDb().runAsync('UPDATE practice_reading_tracks SET current_index = ? WHERE id = ?', [
+    index,
+    trackId(practiceId, trackName),
+  ])
+}
+
+// --- Legacy reading tracks (kept for data migration) ---
+
+export function getLegacyReadingTrack(type: string): Promise<ReadingTrack | null> {
+  return getDb().getFirstAsync<ReadingTrack>(
+    'SELECT * FROM reading_tracks WHERE id = ? OR id = ?',
+    [`default-${type}`, type],
+  )
 }

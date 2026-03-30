@@ -10,7 +10,7 @@
     { "type": "psalmody", "psalms": [129, 130, 131] },
     { "type": "divider" },
     { "type": "rubric", "text": { "en": "Reading", "pt-BR": "Leitura" } },
-    { "type": "lectio", "testament": "catechism" },
+    { "type": "rubric", "text": { "en": "Short Reading", "pt-BR": "Leitura Breve" } },
     { "type": "divider" },
     { "type": "rubric", "text": { "en": "Canticle", "pt-BR": "C\u00e2ntico" } },
     { "type": "canticle", "ref": "nunc-dimittis" },

@@ -7,7 +7,8 @@ import { Pressable } from 'react-native'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
 import { GreenWall, HourButtons, PrayButton, ScreenLayout, SectionDivider } from '@/components'
-import { getManifest } from '@/content/practices'
+import { getManifest, loadPracticeTracks } from '@/content/practices'
+import { useTracksForPractice } from '@/features/divine-office'
 import {
   getLongestPracticeStreak,
   getPracticeIcon,
@@ -16,7 +17,11 @@ import {
   usePractices,
   useUpdatePractice,
 } from '@/features/plan-of-life'
-import { PracticeTeachingContent, VariantSelector } from '@/features/practices/components'
+import {
+  PracticeTeachingContent,
+  TrackPicker,
+  VariantSelector,
+} from '@/features/practices/components'
 
 export default function PracticeDetailScreen() {
   const { t } = useTranslation()
@@ -33,6 +38,11 @@ export default function PracticeDetailScreen() {
   const updatePractice = useUpdatePractice()
 
   const { data: practiceStats } = usePracticeStats(practiceId ?? '')
+  const trackDefs = useMemo(
+    () => (manifestId ? loadPracticeTracks(manifestId) : undefined),
+    [manifestId],
+  )
+  const { data: trackRows = [] } = useTracksForPractice(trackDefs ? manifestId : undefined)
 
   const wallData = useMemo(() => {
     if (!practiceStats?.completedDates) return []
@@ -126,6 +136,29 @@ export default function PracticeDetailScreen() {
                 })
               }
             />
+          </>
+        )}
+
+        {trackDefs && trackRows.length > 0 && (
+          <>
+            <SectionDivider />
+            <YStack gap="$md">
+              <Text fontFamily="$heading" fontSize="$3" color="$color">
+                {t('plan.readingTracks', { defaultValue: 'Reading Tracks' })}
+              </Text>
+              {Object.entries(trackDefs).map(([trackName, def]) => {
+                const state = trackRows.find((r) => r.track === trackName)
+                if (!state) return null
+                return (
+                  <TrackPicker
+                    key={trackName}
+                    practiceId={manifestId!}
+                    trackDef={def}
+                    trackState={state}
+                  />
+                )
+              })}
+            </YStack>
           </>
         )}
 

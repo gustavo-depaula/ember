@@ -1,11 +1,14 @@
 import { localizeContent } from '@/lib/i18n'
-import type { CycleData, FlowDefinition, PracticeManifest, Variant } from '../types'
+import type { CycleData, FlowDefinition, LectioTrackDef, PracticeManifest, Variant } from '../types'
 import angelusFlow from './angelus/flow.json'
 import angelusManifest from './angelus/manifest.json'
 import divineMercyFlow from './divine-mercy/flow.json'
 import divineMercyManifest from './divine-mercy/manifest.json'
+import cccReadings from './divine-office/data/ccc-readings.json'
 import complinePsalms from './divine-office/data/compline-psalms.json'
+import ntReadings from './divine-office/data/nt-readings.json'
 import officeHymns from './divine-office/data/office-hymns.json'
+import otReadings from './divine-office/data/ot-readings.json'
 import psalter30Day from './divine-office/data/psalter-30-day.json'
 import divineOfficeCompline from './divine-office/flows/compline.json'
 import divineOfficeEvening from './divine-office/flows/evening.json'
@@ -100,6 +103,18 @@ const practiceData: Record<string, Record<string, CycleData>> = {
 
 export function loadPracticeData(practiceId: string): Record<string, CycleData> | undefined {
   return practiceData[practiceId]
+}
+
+const practiceTracks: Record<string, Record<string, LectioTrackDef>> = {
+  'divine-office': {
+    'ot-readings': otReadings as unknown as LectioTrackDef,
+    'nt-readings': ntReadings as unknown as LectioTrackDef,
+    'ccc-readings': cccReadings as unknown as LectioTrackDef,
+  },
+}
+
+export function loadPracticeTracks(practiceId: string): Record<string, LectioTrackDef> | undefined {
+  return practiceTracks[practiceId]
 }
 
 export function getManifest(id: string): PracticeManifest | undefined {

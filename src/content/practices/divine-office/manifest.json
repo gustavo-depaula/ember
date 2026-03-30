@@ -22,6 +22,11 @@
     "psalter-30-day": "data/psalter-30-day.json",
     "compline-psalms": "data/compline-psalms.json"
   },
+  "tracks": {
+    "ot-readings": "data/ot-readings.json",
+    "nt-readings": "data/nt-readings.json",
+    "ccc-readings": "data/ccc-readings.json"
+  },
   "flowMode": "scroll",
   "completion": "flow-end",
   "completionEffects": {

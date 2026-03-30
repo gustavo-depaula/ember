@@ -10,7 +10,7 @@
     { "type": "psalmody", "psalms": [93, 100, 63] },
     { "type": "divider" },
     { "type": "rubric", "text": { "en": "Scripture Reading", "pt-BR": "Leitura B\u00edblica" } },
-    { "type": "lectio", "testament": "ot" },
+    { "type": "rubric", "text": { "en": "Short Reading", "pt-BR": "Leitura Breve" } },
     { "type": "divider" },
     { "type": "rubric", "text": { "en": "Canticle", "pt-BR": "C\u00e2ntico" } },
     { "type": "canticle", "ref": "benedictus" },

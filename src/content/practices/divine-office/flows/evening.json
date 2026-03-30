@@ -10,7 +10,7 @@
     { "type": "cycle", "data": "psalter-30-day", "key": "evening", "as": "psalmody" },
     { "type": "divider" },
     { "type": "rubric", "text": { "en": "Scripture Reading", "pt-BR": "Leitura Bíblica" } },
-    { "type": "lectio", "testament": "nt" },
+    { "type": "lectio", "track": "nt-readings" },
     { "type": "divider" },
     { "type": "rubric", "text": { "en": "Canticle", "pt-BR": "Cântico" } },
     { "type": "canticle", "ref": "magnificat" },
