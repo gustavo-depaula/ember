@@ -15,11 +15,7 @@ export default {
     holyMassSub: 'Ordo Missæ',
     fidelity: 'Fidelidade',
     ruleOfLife: 'Seu Plano de Vida',
-    saintOfDay: 'Santo do Dia',
-    saintStub: {
-      name: 'São José de Arimateia',
-      patronOf: 'Padroeiro dos agentes funerários',
-    },
+    celebrationOfDay: 'Celebração de Hoje',
     daysUntil: '{{count}} dias até {{feast}}',
     tomorrow: '{{feast}} é amanhã',
     today: '{{feast}}',
@@ -259,6 +255,14 @@ export default {
     liturgicalCalendar: 'Calendário Litúrgico',
     calendarOF: 'Forma Ordinária',
     calendarEF: 'Forma Extraordinária',
+    jurisdiction: 'Região do Calendário',
+    jurisdictionUniversal: 'Universal',
+    jurisdictionBR: 'Brasil',
+    jurisdictionUS: 'Estados Unidos',
+    timeTravel: 'Viagem no Tempo',
+    timeTravelDescription: 'Visualize o app como ele apareceria em uma data específica.',
+    timeTravelPick: 'Escolher data',
+    timeTravelClear: 'Limpar',
   },
 
   readingLabel: {
@@ -576,5 +580,24 @@ export default {
     'little-office-bvm': 'Pequeno Ofício de Nossa Senhora',
     pray: 'Rezar',
     noContent: 'Conteúdo de oração ainda não disponível para esta prática.',
+  },
+
+  calendar: {
+    title: 'Calendário Litúrgico',
+    rank: {
+      solemnity: 'Solenidade',
+      feast: 'Festa',
+      memorial: 'Memória',
+      optional_memorial: 'Memória Facultativa',
+      I_class: 'I Classe',
+      II_class: 'II Classe',
+      III_class: 'III Classe',
+      IV_class: 'IV Classe',
+      commemoration: 'Comemoração',
+      vigil: 'Vigília',
+    },
+    holyDay: 'Dia de Preceito',
+    noSelection: 'Selecione um dia para ver as celebrações',
+    noCelebrations: 'Sem celebrações',
   },
 } as const

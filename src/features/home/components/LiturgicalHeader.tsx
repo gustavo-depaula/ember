@@ -37,7 +37,7 @@ export function LiturgicalHeader({
       </Text>
 
       <Text fontFamily="$script" fontSize="$4" color="$colorSecondary">
-        {formatLocalized(date, 'MMMM d')}
+        {formatLocalized(date, 'MMMM d').replace(/^\w/, (c) => c.toUpperCase())}
       </Text>
 
       <Text fontFamily="$body" fontSize="$1" color="$accent" letterSpacing={2}>

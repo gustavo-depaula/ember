@@ -1,6 +1,8 @@
+import DateTimePicker from '@react-native-community/datetimepicker'
+import { format, parseISO } from 'date-fns'
 import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { Pressable } from 'react-native'
+import { Platform, Pressable } from 'react-native'
 import { Text, XStack, YStack } from 'tamagui'
 
 import { HeaderFlourish, ScreenLayout, SectionDivider } from '@/components'
@@ -64,6 +66,11 @@ export default function SettingsScreen() {
   const setLanguage = usePreferencesStore((s) => s.setLanguage)
   const liturgicalCalendar = usePreferencesStore((s) => s.liturgicalCalendar)
   const setLiturgicalCalendar = usePreferencesStore((s) => s.setLiturgicalCalendar)
+  const jurisdiction = usePreferencesStore((s) => s.jurisdiction)
+  const setJurisdiction = usePreferencesStore((s) => s.setJurisdiction)
+  const timeTravelDate = usePreferencesStore((s) => s.timeTravelDate)
+  const setTimeTravelDate = usePreferencesStore((s) => s.setTimeTravelDate)
+  const [showDatePicker, setShowDatePicker] = useState(false)
   const [translationModalVisible, setTranslationModalVisible] = useState(false)
   const themePreference = useThemeStore((s) => s.preference)
   const setTheme = useThemeStore((s) => s.setTheme)
@@ -141,6 +148,17 @@ export default function SettingsScreen() {
           onChange={setLiturgicalCalendar}
         />
 
+        <PillSelector
+          label={t('settings.jurisdiction')}
+          options={[
+            { value: '' as const, label: t('settings.jurisdictionUniversal') },
+            { value: 'BR' as const, label: t('settings.jurisdictionBR') },
+            { value: 'US' as const, label: t('settings.jurisdictionUS') },
+          ]}
+          value={jurisdiction ?? ''}
+          onChange={(v) => setJurisdiction(v || undefined)}
+        />
+
         <SectionDivider />
 
         <YStack gap="$md">
@@ -149,6 +167,67 @@ export default function SettingsScreen() {
           </Text>
 
           <ReadingConfig />
+        </YStack>
+
+        <SectionDivider />
+
+        <YStack gap="$sm">
+          <Text fontFamily="$heading" fontSize="$3" color="$color">
+            {t('settings.timeTravel')}
+          </Text>
+          <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
+            {t('settings.timeTravelDescription')}
+          </Text>
+          <XStack gap="$sm" alignItems="center">
+            {timeTravelDate ? (
+              <>
+                <YStack
+                  flex={1}
+                  backgroundColor="$backgroundSurface"
+                  borderRadius="$lg"
+                  padding="$sm"
+                >
+                  <Text fontFamily="$body" fontSize="$2" color="$accent">
+                    {format(parseISO(timeTravelDate), 'MMMM d, yyyy')}
+                  </Text>
+                </YStack>
+                <Pressable onPress={() => setShowDatePicker(true)}>
+                  <Text fontFamily="$body" fontSize="$2" color="$accent">
+                    {t('settings.change')}
+                  </Text>
+                </Pressable>
+                <Pressable onPress={() => setTimeTravelDate(undefined)}>
+                  <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
+                    {t('settings.timeTravelClear')}
+                  </Text>
+                </Pressable>
+              </>
+            ) : (
+              <Pressable onPress={() => setShowDatePicker(true)}>
+                <YStack
+                  backgroundColor="$backgroundSurface"
+                  borderRadius="$lg"
+                  paddingVertical="$sm"
+                  paddingHorizontal="$md"
+                >
+                  <Text fontFamily="$body" fontSize="$2" color="$accent">
+                    {t('settings.timeTravelPick')}
+                  </Text>
+                </YStack>
+              </Pressable>
+            )}
+          </XStack>
+          {showDatePicker && (
+            <DateTimePicker
+              value={timeTravelDate ? parseISO(timeTravelDate) : new Date()}
+              mode="date"
+              display={Platform.OS === 'ios' ? 'inline' : 'default'}
+              onValueChange={(_, date) => {
+                setShowDatePicker(Platform.OS === 'ios')
+                if (date) setTimeTravelDate(format(date, 'yyyy-MM-dd'))
+              }}
+            />
+          )}
         </YStack>
 
         <SectionDivider />
