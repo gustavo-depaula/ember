@@ -12,7 +12,7 @@ export function PracticeChecklist({
   onRowPress,
   readOnly,
 }: {
-  practices: Array<{ id: string; name: string; icon: string }>
+  practices: Array<{ practice_id: string; name: string; icon: string }>
   completedIds: Set<string>
   onToggle: (practiceId: string, completed: boolean) => void
   onRowPress?: (practiceId: string) => void
@@ -21,11 +21,11 @@ export function PracticeChecklist({
   return (
     <YStack gap="$sm">
       {practices.map((practice) => {
-        const done = completedIds.has(practice.id)
+        const done = completedIds.has(practice.practice_id)
         return (
           <Pressable
-            key={practice.id}
-            onPress={onRowPress ? () => onRowPress(practice.id) : undefined}
+            key={practice.practice_id}
+            onPress={onRowPress ? () => onRowPress(practice.practice_id) : undefined}
           >
             <XStack
               backgroundColor="$backgroundSurface"
@@ -47,7 +47,7 @@ export function PracticeChecklist({
                   checked={done}
                   onToggle={() => {
                     lightTap()
-                    onToggle(practice.id, !done)
+                    onToggle(practice.practice_id, !done)
                   }}
                 />
               )}

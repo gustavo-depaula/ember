@@ -1,69 +1,57 @@
 import { useMutation, useQueries, useQuery, useQueryClient } from '@tanstack/react-query'
 
-import {
-  advancePracticeTrack,
-  ensurePracticeTracks,
-  getTracksForPractice,
-  setPracticeTrackIndex,
-} from '@/db/repositories'
+import { advanceIndex, ensureCursor, getCursorsWithPrefix, setIndex } from '@/db/repositories'
 import { getCccParagraphs } from '@/lib/catechism'
 import { getChapter } from '@/lib/content'
 
 import type { PsalmRef } from './psalter'
 
-// --- Practice reading track hooks ---
+// --- Cursor hooks (replaces practice reading tracks) ---
 
-export function useTracksForPractice(practiceId: string | undefined) {
+export function useCursorsForPractice(practiceId: string | undefined) {
   return useQuery({
-    queryKey: ['practiceTracks', practiceId],
-    queryFn: () => getTracksForPractice(practiceId!),
+    queryKey: ['cursors', practiceId],
+    queryFn: () => getCursorsWithPrefix(`${practiceId}/`),
     enabled: !!practiceId,
   })
 }
 
-export function useAdvanceTrack() {
+export function useAdvanceCursor() {
   const queryClient = useQueryClient()
 
   return useMutation({
-    mutationFn: async ({
-      practiceId,
-      trackName,
-      entryCount,
-    }: {
-      practiceId: string
-      trackName: string
-      entryCount: number
-    }) => {
-      await advancePracticeTrack(practiceId, trackName, entryCount)
+    mutationFn: async ({ cursorId, entryCount }: { cursorId: string; entryCount: number }) => {
+      await advanceIndex(cursorId, entryCount)
     },
-    onSuccess: (_data, { practiceId }) => {
-      queryClient.invalidateQueries({ queryKey: ['practiceTracks', practiceId] })
+    onSuccess: (_data, { cursorId }) => {
+      const prefix = cursorId.split('/').slice(0, -1).join('/')
+      queryClient.invalidateQueries({ queryKey: ['cursors', prefix] })
     },
   })
 }
 
-export function useSetTrackIndex() {
+export function useSetCursorIndex() {
   const queryClient = useQueryClient()
 
   return useMutation({
-    mutationFn: async ({
-      practiceId,
-      trackName,
-      index,
-    }: {
-      practiceId: string
-      trackName: string
-      index: number
-    }) => {
-      await setPracticeTrackIndex(practiceId, trackName, index)
+    mutationFn: async ({ cursorId, index }: { cursorId: string; index: number }) => {
+      await setIndex(cursorId, index)
     },
-    onSuccess: (_data, { practiceId }) => {
-      queryClient.invalidateQueries({ queryKey: ['practiceTracks', practiceId] })
+    onSuccess: (_data, { cursorId }) => {
+      const prefix = cursorId.split('/').slice(0, -1).join('/')
+      queryClient.invalidateQueries({ queryKey: ['cursors', prefix] })
     },
   })
 }
 
-export { ensurePracticeTracks }
+export async function ensurePracticeCursors(
+  practiceId: string,
+  trackNames: string[],
+): Promise<void> {
+  for (const trackName of trackNames) {
+    await ensureCursor(`${practiceId}/${trackName}`, '{"index":0}')
+  }
+}
 
 // --- Content-loading hooks ---
 

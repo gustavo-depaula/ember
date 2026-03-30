@@ -70,5 +70,12 @@
       "timeBlock": "evening"
     }
   ],
-  "tags": ["marian", "office", "bvm", "breviary"]
+  "tags": ["marian", "office", "bvm", "breviary"],
+  "defaults": {
+    "enabled": false,
+    "sortOrder": 18,
+    "tier": "extra",
+    "timeBlock": "flexible",
+    "schedule": { "type": "daily" }
+  }
 }

@@ -5,16 +5,14 @@ import {
   deletePractice,
   getAllPractices,
   getCompletionDates,
+  getCompletionRange,
   getCompletionsForDate,
   getCompletionsForPractice,
   getEnabledPractices,
-  getPracticeCompletedDates,
-  getPracticeLogRange,
-  getPracticeLogsForDate,
   logCompletion,
   removeCompletion,
   reorderPractices,
-  togglePractice,
+  toggleCompletion,
   updatePractice,
 } from '@/db/repositories'
 import { rescheduleAllReminders } from '@/lib/notifications'
@@ -35,18 +33,57 @@ export function useAllPractices() {
   })
 }
 
-export function usePracticeLogsForDate(date: string | undefined) {
+export function useCompletionsForDate(date: string | undefined) {
   return useQuery({
-    queryKey: ['practiceLogs', date],
-    queryFn: () => getPracticeLogsForDate(date as string),
+    queryKey: ['completions', date],
+    queryFn: () => getCompletionsForDate(date as string),
     enabled: !!date,
   })
 }
 
-export function usePracticeLogRange(startDate: string, endDate: string) {
+export function useCompletionsForPractice(practiceId: string, date: string) {
   return useQuery({
-    queryKey: ['practiceLogs', 'range', startDate, endDate],
-    queryFn: () => getPracticeLogRange(startDate, endDate),
+    queryKey: ['completions', practiceId, date],
+    queryFn: () => getCompletionsForPractice(practiceId, date),
+  })
+}
+
+export function useCompletionRange(startDate: string, endDate: string) {
+  return useQuery({
+    queryKey: ['completions', 'range', startDate, endDate],
+    queryFn: () => getCompletionRange(startDate, endDate),
+  })
+}
+
+export function useLogCompletion() {
+  const queryClient = useQueryClient()
+
+  return useMutation({
+    mutationFn: ({
+      practiceId,
+      date,
+      subId,
+    }: {
+      practiceId: string
+      date: string
+      subId?: string
+    }) => logCompletion(practiceId, date, subId),
+    onSuccess: () => {
+      queryClient.invalidateQueries({ queryKey: ['completions'] })
+      queryClient.invalidateQueries({ queryKey: ['practiceStats'] })
+    },
+  })
+}
+
+export function useRemoveCompletion() {
+  const queryClient = useQueryClient()
+
+  return useMutation({
+    mutationFn: (id: number) => removeCompletion(id),
+    onSuccess: () => {
+      queryClient.invalidateQueries({ queryKey: ['completions'] })
+      queryClient.invalidateQueries({ queryKey: ['practiceStats'] })
+    },
   })
 }
 
@@ -62,26 +99,30 @@ export function useTogglePractice() {
       practiceId: string
       date: string
       completed: boolean
-    }) => togglePractice(practiceId, date, completed),
+    }) => toggleCompletion(practiceId, date, completed),
     onSuccess: () => {
-      queryClient.invalidateQueries({ queryKey: ['practiceLogs'] })
+      queryClient.invalidateQueries({ queryKey: ['completions'] })
       queryClient.invalidateQueries({ queryKey: ['practiceStats'] })
     },
   })
 }
 
-export function usePracticeStats(practiceId: string) {
+export function usePracticeCompletionStats(practiceId: string) {
   return useQuery({
     queryKey: ['practiceStats', practiceId],
     queryFn: async () => {
-      const completedDates = await getPracticeCompletedDates(practiceId)
+      const completedDates = await getCompletionDates(practiceId)
       const currentStreak = getPracticeStreak(completedDates)
       const totalDays = completedDates.length
-
       return { currentStreak, totalDays, completedDates }
     },
   })
 }
+
+// Backward-compat aliases
+export const usePracticeLogsForDate = useCompletionsForDate
+export const usePracticeLogRange = useCompletionRange
+export const usePracticeStats = usePracticeCompletionStats
 
 export function useCreatePractice() {
   const queryClient = useQueryClient()
@@ -115,7 +156,7 @@ export function useDeletePractice() {
     mutationFn: deletePractice,
     onSuccess: () => {
       queryClient.invalidateQueries({ queryKey: ['practices'] })
-      queryClient.invalidateQueries({ queryKey: ['practiceLogs'] })
+      queryClient.invalidateQueries({ queryKey: ['completions'] })
       rescheduleAllReminders().catch(console.warn)
     },
   })
@@ -128,69 +169,6 @@ export function useReorderPractices() {
     mutationFn: reorderPractices,
     onSuccess: () => {
       queryClient.invalidateQueries({ queryKey: ['practices'] })
-    },
-  })
-}
-
-// --- Practice completions (event log) ---
-
-export function useLogCompletion() {
-  const queryClient = useQueryClient()
-
-  return useMutation({
-    mutationFn: ({
-      practiceId,
-      date,
-      detail,
-    }: {
-      practiceId: string
-      date: string
-      detail?: string
-    }) => logCompletion(practiceId, date, detail),
-    onSuccess: () => {
-      queryClient.invalidateQueries({ queryKey: ['completions'] })
-      queryClient.invalidateQueries({ queryKey: ['practiceLogs'] })
-      queryClient.invalidateQueries({ queryKey: ['practiceStats'] })
-    },
-  })
-}
-
-export function useRemoveCompletion() {
-  const queryClient = useQueryClient()
-
-  return useMutation({
-    mutationFn: (id: number) => removeCompletion(id),
-    onSuccess: () => {
-      queryClient.invalidateQueries({ queryKey: ['completions'] })
-      queryClient.invalidateQueries({ queryKey: ['practiceLogs'] })
-      queryClient.invalidateQueries({ queryKey: ['practiceStats'] })
-    },
-  })
-}
-
-export function useCompletionsForDate(date: string | undefined) {
-  return useQuery({
-    queryKey: ['completions', date],
-    queryFn: () => getCompletionsForDate(date as string),
-    enabled: !!date,
-  })
-}
-
-export function useCompletionsForPractice(practiceId: string, date: string) {
-  return useQuery({
-    queryKey: ['completions', practiceId, date],
-    queryFn: () => getCompletionsForPractice(practiceId, date),
-  })
-}
-
-export function usePracticeCompletionStats(practiceId: string) {
-  return useQuery({
-    queryKey: ['practiceStats', 'completions', practiceId],
-    queryFn: async () => {
-      const completedDates = await getCompletionDates(practiceId)
-      const currentStreak = getPracticeStreak(completedDates)
-      const totalDays = completedDates.length
-      return { currentStreak, totalDays, completedDates }
     },
   })
 }

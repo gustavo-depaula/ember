@@ -27,13 +27,12 @@ import { TamaguiProvider, Theme } from 'tamagui'
 import { TasselPull } from '@/components/TasselPull'
 import { config } from '@/config/tamagui.config'
 import { useDbInit } from '@/db/client'
-import { seedPractices, seedReadingProgress } from '@/db/seed'
+import { seedCursors, seedPractices } from '@/db/seed'
 import { useLiturgicalTheme } from '@/hooks/useLiturgicalTheme'
 import { rescheduleAllReminders, setupNotifications } from '@/lib/notifications'
 import { useBibleStore } from '@/stores/bibleStore'
 import { useCatechismStore } from '@/stores/catechismStore'
 import { usePreferencesStore } from '@/stores/preferencesStore'
-import { useReadingConfigStore } from '@/stores/readingConfigStore'
 import { useThemeStore } from '@/stores/themeStore'
 
 SplashScreen.preventAutoHideAsync()
@@ -68,21 +67,21 @@ export default function RootLayout() {
   const { hydrated: prefsHydrated, hydrate: hydratePrefs } = usePreferencesStore()
   const { hydrated: bibleHydrated, hydrate: hydrateBible } = useBibleStore()
   const { hydrated: catechismHydrated, hydrate: hydrateCatechism } = useCatechismStore()
-  const { hydrated: readingConfigHydrated, hydrate: hydrateReadingConfig } = useReadingConfigStore()
 
   useEffect(() => {
+    if (!dbReady) return
+    // Hydrate all stores after DB is ready (they read from preferences table now)
     hydrateTheme()
     hydratePrefs()
     hydrateBible()
     hydrateCatechism()
-    hydrateReadingConfig()
-  }, [hydrateTheme, hydratePrefs, hydrateBible, hydrateCatechism, hydrateReadingConfig])
+  }, [dbReady, hydrateTheme, hydratePrefs, hydrateBible, hydrateCatechism])
 
   const [seeded, setSeeded] = useState(false)
 
   useEffect(() => {
     if (dbReady) {
-      Promise.all([seedPractices(), seedReadingProgress()]).then(() => {
+      Promise.all([seedPractices(), seedCursors()]).then(() => {
         setSeeded(true)
         setupNotifications().then(() => rescheduleAllReminders())
       })
@@ -95,7 +94,6 @@ export default function RootLayout() {
     prefsHydrated &&
     bibleHydrated &&
     catechismHydrated &&
-    readingConfigHydrated &&
     dbReady &&
     seeded
 

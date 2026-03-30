@@ -18,5 +18,12 @@
     "en": "Upon waking, make the Sign of the Cross and slowly pray the offering, consciously dedicating your day. Pause to consider what lies ahead — your work, encounters, and potential difficulties — and offer them all to God. Some find it helpful to pray this before getting out of bed, as it sets the tone for the entire day.",
     "pt-BR": "Ao acordar, faça o Sinal da Cruz e reze lentamente o oferecimento, dedicando conscientemente o seu dia. Pause para considerar o que está por vir — seu trabalho, encontros e possíveis dificuldades — e ofereça tudo a Deus."
   },
-  "tags": ["morning", "offering", "daily", "sacred-heart", "jesuit"]
+  "tags": ["morning", "offering", "daily", "sacred-heart", "jesuit"],
+  "defaults": {
+    "enabled": true,
+    "sortOrder": 1,
+    "tier": "essential",
+    "timeBlock": "morning",
+    "schedule": { "type": "daily" }
+  }
 }

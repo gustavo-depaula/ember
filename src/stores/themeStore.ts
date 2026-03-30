@@ -1,6 +1,7 @@
-import AsyncStorage from '@react-native-async-storage/async-storage'
 import { create } from 'zustand'
 import { immer } from 'zustand/middleware/immer'
+
+import { getPreference, setPreference } from '@/db/repositories/preferences'
 
 type ThemePreference = 'light' | 'dark' | 'system'
 
@@ -20,11 +21,11 @@ export const useThemeStore = create<ThemeState>()(
       set((state) => {
         state.preference = theme
       })
-      AsyncStorage.setItem('theme', theme)
+      setPreference('theme', theme)
     },
 
     hydrate: async () => {
-      const stored = await AsyncStorage.getItem('theme')
+      const stored = await getPreference('theme')
       set((state) => {
         if (stored === 'light' || stored === 'dark' || stored === 'system') {
           state.preference = stored

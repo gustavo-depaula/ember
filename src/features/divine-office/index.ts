@@ -1,11 +1,16 @@
 export { type CccParagraph, getCccParagraphs } from '@/lib/catechism'
+// Backward-compat aliases
 export {
-  ensurePracticeTracks,
-  useAdvanceTrack,
+  ensurePracticeCursors,
+  ensurePracticeCursors as ensurePracticeTracks,
+  useAdvanceCursor,
+  useAdvanceCursor as useAdvanceTrack,
   useBibleReading,
   useCccReading,
+  useCursorsForPractice,
+  useCursorsForPractice as useTracksForPractice,
   usePsalmsForHour,
-  useSetTrackIndex,
-  useTracksForPractice,
+  useSetCursorIndex,
+  useSetCursorIndex as useSetTrackIndex,
 } from './hooks'
 export { formatPsalmRef, formatPsalmRefs, type PsalmRef, parsePsalmRef } from './psalter'

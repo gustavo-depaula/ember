@@ -27,11 +27,12 @@ import {
   getBlockCompletion,
   getBlockState,
   getCurrentTimeBlock,
+  getPracticeIconKey,
   getPracticeName,
   type TimeBlock,
   toCompletedSet,
-  usePracticeLogRange,
-  usePracticeLogsForDate,
+  useCompletionRange,
+  useCompletionsForDate,
   usePractices,
   useTogglePractice,
 } from '@/features/plan-of-life'
@@ -48,14 +49,12 @@ export default function HomeScreen() {
   const { season, themeName } = useLiturgicalTheme()
   const router = useRouter()
   const { data: practices = [] } = usePractices()
-  const { data: todayLogs = [] } = usePracticeLogsForDate(today)
+  const { data: todayCompletions = [] } = useCompletionsForDate(today)
   const toggle = useTogglePractice()
 
   const handlePressPractice = useCallback(
     (id: string) => {
-      const practice = practices.find((p) => p.id === id)
-      const manifestId = practice?.manifest_id ?? id
-      const manifest = getManifest(manifestId)
+      const manifest = getManifest(id)
       if (!manifest) {
         router.push(`/plan/${id}` as any)
         return
@@ -63,16 +62,16 @@ export default function HomeScreen() {
       if (manifest.hours?.length && !manifest.forms?.length) {
         router.push(`/plan/${id}` as any)
       } else {
-        router.push(`/pray/${manifestId}` as any)
+        router.push(`/pray/${id}` as any)
       }
     },
-    [router, practices],
+    [router],
   )
   const wallStart = format(subWeeks(now, 9), 'yyyy-MM-dd')
-  const { data: wallLogs = [] } = usePracticeLogRange(wallStart, today)
+  const { data: wallLogs = [] } = useCompletionRange(wallStart, today)
 
   const todayPractices = useMemo(() => filterPracticesForDate(practices, today), [practices, today])
-  const completedIds = useMemo(() => toCompletedSet(todayLogs), [todayLogs])
+  const completedIds = useMemo(() => toCompletedSet(todayCompletions), [todayCompletions])
   const wallData = useMemo(() => buildTieredWallData(wallLogs, practices), [wallLogs, practices])
 
   const [overrides, setOverrides] = useState<Partial<Record<TimeBlock, BlockState>>>({})
@@ -89,7 +88,7 @@ export default function HomeScreen() {
 
   const activeBlocks = useMemo(() => getActiveBlocks(todayPractices), [todayPractices])
   const totalPractices = todayPractices.length
-  const completedCount = todayPractices.filter((p) => completedIds.has(p.id)).length
+  const completedCount = todayPractices.filter((p) => completedIds.has(p.practice_id)).length
 
   return (
     <ScreenLayout>
@@ -121,7 +120,7 @@ export default function HomeScreen() {
             </FadeInView>
 
             {activeBlocks.map(({ block, def }, index) => {
-              const blockPracticeIds = def.practices.map((p) => p.id)
+              const blockPracticeIds = def.practices.map((p) => p.practice_id)
               const { completed, total } = getBlockCompletion(blockPracticeIds, completedIds)
               const autoState = getBlockState(block, currentBlock, completedIds, blockPracticeIds)
               const state = overrides[block] ?? autoState
@@ -130,7 +129,11 @@ export default function HomeScreen() {
                 <FadeInView key={block} index={index + 2}>
                   <TimeBlockSection
                     label={t(`timeBlock.${block}`)}
-                    practices={def.practices.map((p) => ({ ...p, name: getPracticeName(p, t) }))}
+                    practices={def.practices.map((p) => ({
+                      ...p,
+                      name: getPracticeName(p, t),
+                      icon: getPracticeIconKey(p),
+                    }))}
                     completedIds={completedIds}
                     state={state}
                     completed={completed}

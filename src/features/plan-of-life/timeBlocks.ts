@@ -1,18 +1,18 @@
-import type { Practice, TimeBlock } from '@/db/schema'
+import type { TimeBlock, UserPractice } from '@/db/schema'
 
 export type { TimeBlock }
 export type BlockState = 'collapsed' | 'expanded' | 'preview'
 
 type BlockDefinition = {
   label: string
-  practices: Practice[]
+  practices: UserPractice[]
 }
 
 export const blockOrder: TimeBlock[] = ['morning', 'daytime', 'evening', 'flexible']
 
-export function groupByTimeBlock(practices: Practice[]): Record<TimeBlock, BlockDefinition> {
+export function groupByTimeBlock(practices: UserPractice[]): Record<TimeBlock, BlockDefinition> {
   const groups = Object.fromEntries(
-    blockOrder.map((block) => [block, { label: block, practices: [] as Practice[] }]),
+    blockOrder.map((block) => [block, { label: block, practices: [] as UserPractice[] }]),
   ) as Record<TimeBlock, BlockDefinition>
 
   for (const p of practices) {
@@ -24,7 +24,7 @@ export function groupByTimeBlock(practices: Practice[]): Record<TimeBlock, Block
 }
 
 export function getActiveBlocks(
-  practices: Practice[],
+  practices: UserPractice[],
 ): { block: TimeBlock; def: BlockDefinition }[] {
   const groups = groupByTimeBlock(practices)
   return blockOrder

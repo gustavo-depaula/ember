@@ -8,12 +8,13 @@ import { Text, useTheme, XStack, YStack } from 'tamagui'
 
 import { GreenWall, HourButtons, PrayButton, ScreenLayout, SectionDivider } from '@/components'
 import { getManifest, loadPracticeTracks } from '@/content/practices'
-import { useTracksForPractice } from '@/features/divine-office'
+import { useCursorsForPractice } from '@/features/divine-office'
 import {
   getLongestPracticeStreak,
   getPracticeIcon,
+  getPracticeIconKey,
   getPracticeName,
-  usePracticeStats,
+  usePracticeCompletionStats,
   usePractices,
   useUpdatePractice,
 } from '@/features/plan-of-life'
@@ -30,19 +31,18 @@ export default function PracticeDetailScreen() {
   const theme = useTheme()
 
   const { data: practices = [] } = usePractices()
-  const practice = practices.find((p) => p.id === practiceId)
-  const manifestId = practice?.manifest_id ?? practiceId
-  const manifest = manifestId ? getManifest(manifestId) : undefined
+  const practice = practices.find((p) => p.practice_id === practiceId)
+  const manifest = practiceId ? getManifest(practiceId) : undefined
   const hasFlow = manifest?.flow !== undefined || (manifest?.forms?.length ?? 0) > 0
   const hasHours = manifest?.hours !== undefined && manifest.hours.length > 0
   const updatePractice = useUpdatePractice()
 
-  const { data: practiceStats } = usePracticeStats(practiceId ?? '')
+  const { data: practiceStats } = usePracticeCompletionStats(practiceId ?? '')
   const trackDefs = useMemo(
-    () => (manifestId ? loadPracticeTracks(manifestId) : undefined),
-    [manifestId],
+    () => (practiceId ? loadPracticeTracks(practiceId) : undefined),
+    [practiceId],
   )
-  const { data: trackRows = [] } = useTracksForPractice(trackDefs ? manifestId : undefined)
+  const { data: cursorRows = [] } = useCursorsForPractice(trackDefs ? practiceId : undefined)
 
   const wallData = useMemo(() => {
     if (!practiceStats?.completedDates) return []
@@ -78,6 +78,8 @@ export default function PracticeDetailScreen() {
     )
   }
 
+  const iconKey = getPracticeIconKey(practice)
+
   return (
     <ScreenLayout>
       <YStack gap="$lg" paddingVertical="$lg">
@@ -85,15 +87,15 @@ export default function PracticeDetailScreen() {
           <Pressable onPress={() => router.back()} hitSlop={8}>
             <ChevronLeft size={24} color={theme.color.val} />
           </Pressable>
-          <Text fontSize={24}>{getPracticeIcon(practice.icon)}</Text>
+          <Text fontSize={24}>{getPracticeIcon(iconKey)}</Text>
           <Text flex={1} fontFamily="$heading" fontSize="$5" color="$color">
             {getPracticeName(practice, t)}
           </Text>
         </XStack>
 
-        {hasFlow && manifestId && <PrayButton practiceId={manifestId} />}
-        {hasHours && manifestId && manifest?.hours && (
-          <HourButtons practiceId={manifestId} hours={manifest.hours} />
+        {hasFlow && practiceId && <PrayButton practiceId={practiceId} />}
+        {hasHours && practiceId && manifest?.hours && (
+          <HourButtons practiceId={practiceId} hours={manifest.hours} />
         )}
 
         <YStack alignItems="center">
@@ -128,18 +130,18 @@ export default function PracticeDetailScreen() {
             <SectionDivider />
             <VariantSelector
               manifest={manifest}
-              selectedVariantId={practice.selected_variant ?? undefined}
+              selectedVariantId={practice.variant ?? undefined}
               onSelectVariant={(variantId) =>
                 updatePractice.mutate({
-                  id: practice.id,
-                  data: { selectedVariant: variantId },
+                  id: practice.practice_id,
+                  data: { variant: variantId },
                 })
               }
             />
           </>
         )}
 
-        {trackDefs && trackRows.length > 0 && (
+        {trackDefs && cursorRows.length > 0 && (
           <>
             <SectionDivider />
             <YStack gap="$md">
@@ -147,14 +149,15 @@ export default function PracticeDetailScreen() {
                 {t('plan.readingTracks', { defaultValue: 'Reading Tracks' })}
               </Text>
               {Object.entries(trackDefs).map(([trackName, def]) => {
-                const state = trackRows.find((r) => r.track === trackName)
-                if (!state) return null
+                const cursor = cursorRows.find((r) => r.id === `${practiceId}/${trackName}`)
+                if (!cursor) return null
+                const position = JSON.parse(cursor.position)
                 return (
                   <TrackPicker
                     key={trackName}
-                    practiceId={manifestId!}
+                    practiceId={practiceId!}
                     trackDef={def}
-                    trackState={state}
+                    trackState={{ track: trackName, current_index: position.index ?? 0 }}
                   />
                 )
               })}

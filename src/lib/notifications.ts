@@ -2,7 +2,8 @@ import * as Notifications from 'expo-notifications'
 import { Platform } from 'react-native'
 
 import { getEnabledPractices } from '@/db/repositories'
-import type { Practice } from '@/db/schema'
+import type { UserPractice } from '@/db/schema'
+import { parseSchedule, type Schedule } from '@/features/plan-of-life/schedule'
 
 Notifications.setNotificationHandler({
   handleNotification: async () => ({
@@ -31,35 +32,66 @@ export async function setupNotifications() {
   }
 }
 
-async function scheduleReminder(practice: Practice): Promise<string | undefined> {
-  if (!practice.notify_time) return undefined
-
-  const [hours, minutes] = practice.notify_time.split(':').map(Number)
-  if (Number.isNaN(hours) || Number.isNaN(minutes)) return undefined
-
-  return Notifications.scheduleNotificationAsync({
-    content: {
-      title: 'Practice Reminder',
-      body: practice.name,
-      data: { practiceId: practice.id },
-    },
-    trigger: {
-      type: Notifications.SchedulableTriggerInputTypes.DAILY,
-      hour: hours,
-      minute: minutes,
-      ...(Platform.OS === 'android' && { channelId: 'practice-reminders' }),
-    },
-  })
+function getScheduledDays(schedule: Schedule): number[] | undefined {
+  if (schedule.type === 'daily') return undefined // all days
+  if (schedule.type === 'days-of-week') return schedule.days
+  if (schedule.type === 'times-per') return undefined // any day
+  return undefined
 }
 
-export async function schedulePracticeReminder(practice: Practice): Promise<string | undefined> {
-  if (!practice.notify_enabled || !practice.notify_time) return undefined
+async function scheduleRemindersForPractice(practice: UserPractice): Promise<string[]> {
+  const schedule = parseSchedule(practice.schedule)
+  if (!schedule.notify?.length) return []
 
-  const hasPermission = await requestNotificationPermission()
-  if (!hasPermission) return undefined
+  const scheduledDays = getScheduledDays(schedule)
+  const ids: string[] = []
 
-  await cancelPracticeReminder(practice.id)
-  return scheduleReminder(practice)
+  for (const notification of schedule.notify) {
+    const [hours, minutes] = notification.at.split(':').map(Number)
+    if (Number.isNaN(hours) || Number.isNaN(minutes)) continue
+
+    // Determine which days this notification fires on
+    const notifyDays = notification.days ?? scheduledDays
+
+    if (notifyDays) {
+      // Schedule per-day triggers (weekday-based)
+      for (const day of notifyDays) {
+        const id = await Notifications.scheduleNotificationAsync({
+          content: {
+            title: 'Practice Reminder',
+            body: practice.custom_name ?? practice.practice_id,
+            data: { practiceId: practice.practice_id },
+          },
+          trigger: {
+            type: Notifications.SchedulableTriggerInputTypes.WEEKLY,
+            weekday: day === 0 ? 1 : day + 1, // expo uses 1=Sun..7=Sat
+            hour: hours,
+            minute: minutes,
+            ...(Platform.OS === 'android' && { channelId: 'practice-reminders' }),
+          },
+        })
+        ids.push(id)
+      }
+    } else {
+      // Daily trigger
+      const id = await Notifications.scheduleNotificationAsync({
+        content: {
+          title: 'Practice Reminder',
+          body: practice.custom_name ?? practice.practice_id,
+          data: { practiceId: practice.practice_id },
+        },
+        trigger: {
+          type: Notifications.SchedulableTriggerInputTypes.DAILY,
+          hour: hours,
+          minute: minutes,
+          ...(Platform.OS === 'android' && { channelId: 'practice-reminders' }),
+        },
+      })
+      ids.push(id)
+    }
+  }
+
+  return ids
 }
 
 export async function cancelPracticeReminder(practiceId: string): Promise<void> {
@@ -73,7 +105,10 @@ export async function cancelPracticeReminder(practiceId: string): Promise<void> 
 
 export async function rescheduleAllReminders(): Promise<void> {
   const practices = await getEnabledPractices()
-  const notifiable = practices.filter((p) => p.notify_enabled && p.notify_time)
+  const notifiable = practices.filter((p) => {
+    const schedule = parseSchedule(p.schedule)
+    return schedule.notify && schedule.notify.length > 0
+  })
 
   if (notifiable.length === 0) return
 
@@ -81,5 +116,5 @@ export async function rescheduleAllReminders(): Promise<void> {
   if (!hasPermission) return
 
   await Notifications.cancelAllScheduledNotificationsAsync()
-  await Promise.all(notifiable.map(scheduleReminder))
+  await Promise.all(notifiable.map(scheduleRemindersForPractice))
 }

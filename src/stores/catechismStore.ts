@@ -1,6 +1,7 @@
-import AsyncStorage from '@react-native-async-storage/async-storage'
 import { create } from 'zustand'
 import { immer } from 'zustand/middleware/immer'
+
+import { getPreference, setPreference } from '@/db/repositories/preferences'
 
 type CatechismState = {
   paragraph: number
@@ -18,11 +19,11 @@ export const useCatechismStore = create<CatechismState>()(
       set((state) => {
         state.paragraph = paragraph
       })
-      AsyncStorage.setItem('catechism-paragraph', String(paragraph))
+      setPreference('catechism-paragraph', String(paragraph))
     },
 
     hydrate: async () => {
-      const paragraph = await AsyncStorage.getItem('catechism-paragraph')
+      const paragraph = await getPreference('catechism-paragraph')
       set((state) => {
         if (paragraph) state.paragraph = Number.parseInt(paragraph, 10)
         state.hydrated = true
