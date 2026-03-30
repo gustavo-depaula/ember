@@ -27,6 +27,8 @@ export const config = createTamagui({
     'dark_post-pentecost': { ...darkTheme, ...liturgicalSubThemesDark['post-pentecost'] },
     light_martyr: { ...lightTheme, ...liturgicalSubThemes.martyr },
     dark_martyr: { ...darkTheme, ...liturgicalSubThemesDark.martyr },
+    light_rose: { ...lightTheme, ...liturgicalSubThemes.rose },
+    dark_rose: { ...darkTheme, ...liturgicalSubThemesDark.rose },
   },
   fonts: {
     display: displayFont,

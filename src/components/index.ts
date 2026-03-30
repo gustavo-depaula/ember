@@ -14,7 +14,7 @@ export {
   PageBreakOrnament,
   VineBar,
 } from './Ornament'
-export { FloralCorner, FloralVineBorder, WatercolorIcon } from './ornaments'
+export { FloralCorner, FloralVineBorder, SeasonalIcon, WatercolorIcon } from './ornaments'
 export { PageBorder } from './PageBorder'
 export { HourButtons, PrayButton } from './PrayActionButtons'
 export { PrayerText } from './PrayerText'

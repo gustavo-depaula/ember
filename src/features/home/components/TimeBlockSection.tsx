@@ -94,6 +94,8 @@ export function TimeBlockSection({
               alignItems="center"
               gap="$md"
               opacity={done ? 0.6 : 1}
+              borderLeftWidth={3}
+              borderLeftColor="$accent"
             >
               <Text fontSize={20}>{getPracticeIcon(practice.icon)}</Text>
               <Text flex={1} fontFamily="$body" fontSize="$3" color="$color">

@@ -22,12 +22,13 @@ import { StatusBar } from 'expo-status-bar'
 import { useEffect, useState } from 'react'
 import { LogBox, useColorScheme } from 'react-native'
 import { GestureHandlerRootView } from 'react-native-gesture-handler'
-import { TamaguiProvider } from 'tamagui'
+import { TamaguiProvider, Theme } from 'tamagui'
 
 import { TasselPull } from '@/components/TasselPull'
 import { config } from '@/config/tamagui.config'
 import { useDbInit } from '@/db/client'
 import { seedPractices, seedReadingProgress } from '@/db/seed'
+import { useLiturgicalTheme } from '@/hooks/useLiturgicalTheme'
 import { rescheduleAllReminders, setupNotifications } from '@/lib/notifications'
 import { useBibleStore } from '@/stores/bibleStore'
 import { useCatechismStore } from '@/stores/catechismStore'
@@ -104,19 +105,23 @@ export default function RootLayout() {
     }
   }, [ready])
 
-  if (!ready) return undefined
-
   const resolvedTheme = preference === 'system' ? (systemScheme ?? 'light') : preference
+  const { themeName } = useLiturgicalTheme()
+
+  if (!ready) return undefined
 
   return (
     <GestureHandlerRootView style={{ flex: 1 }}>
       <QueryClientProvider client={queryClient}>
         <TamaguiProvider config={config} defaultTheme={resolvedTheme}>
-          <StatusBar hidden />
-          <Stack
-            screenOptions={{ headerShown: false, animation: 'fade', animationDuration: 200 }}
-          />
-          <TasselPull />
+          {/* biome-ignore lint/suspicious/noExplicitAny: Tamagui sub-theme names are dynamically composed */}
+          <Theme name={themeName as any}>
+            <StatusBar hidden />
+            <Stack
+              screenOptions={{ headerShown: false, animation: 'fade', animationDuration: 200 }}
+            />
+            <TasselPull />
+          </Theme>
         </TamaguiProvider>
       </QueryClientProvider>
     </GestureHandlerRootView>
