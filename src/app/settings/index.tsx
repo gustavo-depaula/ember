@@ -178,6 +178,7 @@ export default function SettingsScreen() {
           currentBook: p.current_book,
           currentChapter: p.current_chapter,
           completedBooks: p.completed_books,
+          completedChapters: p.completed_chapters,
           startDate: p.start_date,
         }
         return {

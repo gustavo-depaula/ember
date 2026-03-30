@@ -27,8 +27,28 @@ export type PracticeLog = {
   completed_at: number | null
 }
 
+export type PracticeCompletion = {
+  id: number
+  practice_id: string
+  detail: string | null
+  date: string
+  completed_at: number
+}
+
 export type ReadingProgress = {
   type: string
+  current_book: string
+  current_chapter: number
+  current_verse: number
+  completed_books: string
+  completed_chapters: string
+  start_date: string
+}
+
+export type ReadingTrack = {
+  id: string
+  type: string
+  label: string | null
   current_book: string
   current_chapter: number
   current_verse: number

@@ -233,10 +233,24 @@ const builtinPractices: PracticeSeed[] = [
   },
 
   {
+    id: 'divine-office',
+    name: 'Divine Office',
+    icon: 'prayer',
+    sortOrder: 17,
+    tier: 'essential',
+    timeBlock: 'flexible',
+    frequency: 'daily',
+    frequencyDays: [],
+    enabled: false,
+    description: 'Three daily hours with lectio continua through the Bible and Catechism',
+    manifestId: 'divine-office',
+  },
+
+  {
     id: 'little-office-bvm',
     name: 'Little Office of the BVM',
     icon: 'mary',
-    sortOrder: 17,
+    sortOrder: 18,
     tier: 'extra',
     timeBlock: 'flexible',
     frequency: 'daily',
@@ -251,7 +265,7 @@ const builtinPractices: PracticeSeed[] = [
     id: 'jesus-prayer',
     name: 'Jesus Prayer',
     icon: 'rosary',
-    sortOrder: 18,
+    sortOrder: 19,
     tier: 'essential',
     timeBlock: 'flexible',
     frequency: 'daily',
@@ -264,7 +278,7 @@ const builtinPractices: PracticeSeed[] = [
     id: 'akathist',
     name: 'Akathist Hymn',
     icon: 'scroll',
-    sortOrder: 19,
+    sortOrder: 20,
     tier: 'ideal',
     timeBlock: 'flexible',
     frequency: 'weekly',
@@ -277,7 +291,7 @@ const builtinPractices: PracticeSeed[] = [
     id: 'trisagion',
     name: 'Trisagion Prayers',
     icon: 'candle',
-    sortOrder: 20,
+    sortOrder: 21,
     tier: 'ideal',
     timeBlock: 'morning',
     frequency: 'daily',
@@ -290,7 +304,7 @@ const builtinPractices: PracticeSeed[] = [
     id: 'paraklesis',
     name: 'Paraklesis',
     icon: 'mary',
-    sortOrder: 21,
+    sortOrder: 22,
     tier: 'extra',
     timeBlock: 'flexible',
     frequency: 'daily',
@@ -303,7 +317,7 @@ const builtinPractices: PracticeSeed[] = [
     id: 'prostrations',
     name: 'Prostrations',
     icon: 'prayer',
-    sortOrder: 22,
+    sortOrder: 23,
     tier: 'extra',
     timeBlock: 'morning',
     frequency: 'daily',
@@ -406,23 +420,39 @@ async function backfillBuiltinPractices() {
   })
 }
 
+const defaultReadings = [
+  { type: 'ot', book: 'genesis', chapter: 1 },
+  { type: 'nt', book: 'matthew', chapter: 1 },
+  { type: 'catechism', book: 'ccc', chapter: 1 },
+] as const
+
 export async function seedReadingProgress() {
   const db = getDb()
-  const result = await db.getFirstAsync<{ total: number }>(
-    'SELECT count(*) as total FROM reading_progress',
-  )
-  if (result && result.total > 0) return
-
   const today = format(new Date(), 'yyyy-MM-dd')
 
-  for (const row of [
-    { type: 'ot', book: 'genesis', chapter: 1 },
-    { type: 'nt', book: 'matthew', chapter: 1 },
-    { type: 'catechism', book: 'ccc', chapter: 1 },
-  ]) {
-    await db.runAsync(
-      'INSERT INTO reading_progress (type, current_book, current_chapter, start_date) VALUES (?, ?, ?, ?)',
-      [row.type, row.book, row.chapter, today],
-    )
+  // Seed legacy reading_progress (still needed during transition)
+  const legacyResult = await db.getFirstAsync<{ total: number }>(
+    'SELECT count(*) as total FROM reading_progress',
+  )
+  if (!legacyResult?.total) {
+    for (const row of defaultReadings) {
+      await db.runAsync(
+        'INSERT INTO reading_progress (type, current_book, current_chapter, start_date) VALUES (?, ?, ?, ?)',
+        [row.type, row.book, row.chapter, today],
+      )
+    }
+  }
+
+  // Seed reading_tracks (migration copies existing data; this covers fresh installs)
+  const tracksResult = await db.getFirstAsync<{ total: number }>(
+    'SELECT count(*) as total FROM reading_tracks',
+  )
+  if (!tracksResult?.total) {
+    for (const row of defaultReadings) {
+      await db.runAsync(
+        'INSERT INTO reading_tracks (id, type, current_book, current_chapter, start_date) VALUES (?, ?, ?, ?, ?)',
+        [`default-${row.type}`, row.type, row.book, row.chapter, today],
+      )
+    }
   }
 }

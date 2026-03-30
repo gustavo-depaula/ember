@@ -1,9 +1,8 @@
-import { format } from 'date-fns'
+import { format, getDate, getDay } from 'date-fns'
 import { useRouter } from 'expo-router'
 import { useMemo } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Text, XStack, YStack } from 'tamagui'
-
 import {
   AnimatedPressable,
   FadeInView,
@@ -12,17 +11,19 @@ import {
   ScreenLayout,
   WatercolorIcon,
 } from '@/components'
-import type { ReadingProgress } from '@/db/schema'
-import { useAllReadingProgress, useDailyOfficeStatus } from '@/features/divine-office'
-import { type OfficeHour, readingTypeForHour } from '@/features/divine-office/engine'
-import {
-  formatPsalmRefs,
-  getComplinePsalms,
-  getPsalmsForDay,
-} from '@/features/divine-office/psalter'
+
+import complinePsalmsData from '@/content/practices/divine-office/data/compline-psalms.json'
+import psalter30DayData from '@/content/practices/divine-office/data/psalter-30-day.json'
+import type { CycleData } from '@/content/types'
+import type { ReadingTrack } from '@/db/schema'
+import { useAllReadingProgress } from '@/features/divine-office'
+import { formatPsalmRefs, parsePsalmRef } from '@/features/divine-office/psalter'
+import { useCompletionsForPractice } from '@/features/plan-of-life'
 import { getPsalmNumbering } from '@/lib/bolls'
 import { getDrbBooks } from '@/lib/content'
 import { formatLocalized } from '@/lib/i18n/dateLocale'
+import type { OfficeHour } from '@/lib/liturgical'
+import { readingTypeForHour } from '@/lib/liturgical'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
 const hourConfig = [
@@ -30,26 +31,26 @@ const hourConfig = [
     hour: 'morning' as const,
     labelKey: 'office.morningPrayer',
     sublabelKey: 'office.lauds',
-    route: '/office/morning',
+    route: '/pray/divine-office?hour=morning',
     icon: 'sunrise' as const,
   },
   {
     hour: 'evening' as const,
     labelKey: 'office.eveningPrayer',
     sublabelKey: 'office.vespers',
-    route: '/office/evening',
+    route: '/pray/divine-office?hour=evening',
     icon: 'book' as const,
   },
   {
     hour: 'compline' as const,
     labelKey: 'office.nightPrayer',
     sublabelKey: 'office.compline',
-    route: '/office/compline',
+    route: '/pray/divine-office?hour=compline',
     icon: 'moon' as const,
   },
 ]
 
-function getReadingLabel(hour: OfficeHour, progressMap: Map<string, ReadingProgress>): string {
+function getReadingLabel(hour: OfficeHour, progressMap: Map<string, ReadingTrack>): string {
   const type = readingTypeForHour[hour]
   const progress = progressMap.get(type)
   if (!progress) return ''
@@ -72,19 +73,38 @@ export default function OfficeScreen() {
   const translation = usePreferencesStore((s) => s.translation)
   const numbering = getPsalmNumbering(translation)
 
-  const { data: status } = useDailyOfficeStatus(today)
+  const { data: completions = [] } = useCompletionsForPractice('divine-office', today)
   const { data: allProgress = [] } = useAllReadingProgress()
 
+  const completedHours = useMemo(() => new Set(completions.map((c) => c.detail)), [completions])
+
   const progressMap = useMemo(
-    () => new Map(allProgress.map((p): [string, ReadingProgress] => [p.type, p])),
+    () => new Map(allProgress.map((p): [string, ReadingTrack] => [p.type, p])),
     [allProgress],
   )
 
-  const psalmsForDay = useMemo(() => getPsalmsForDay(todayDate, numbering), [todayDate, numbering])
-  const complinePsalms = useMemo(
-    () => getComplinePsalms(todayDate, numbering),
-    [todayDate, numbering],
-  )
+  const psalmsForDay = useMemo(() => {
+    const cycle = psalter30DayData as unknown as CycleData
+    const entries = (cycle.entries[numbering] ?? Object.values(cycle.entries)[0]) as Array<
+      Record<string, (number | string)[]>
+    >
+    const index = (getDate(todayDate) - 1) % entries.length
+    const entry = entries[index]
+    return {
+      morning: (entry.morning as (number | string)[]).map(parsePsalmRef),
+      evening: (entry.evening as (number | string)[]).map(parsePsalmRef),
+    }
+  }, [todayDate, numbering])
+
+  const complinePsalms = useMemo(() => {
+    const cycle = complinePsalmsData as unknown as CycleData
+    const entries = (cycle.entries[numbering] ?? Object.values(cycle.entries)[0]) as (
+      | number
+      | string
+    )[][]
+    const index = getDay(todayDate)
+    return entries[index].map(parsePsalmRef)
+  }, [todayDate, numbering])
 
   function getPsalmLabel(hour: OfficeHour): string {
     if (hour === 'morning') return formatPsalmRefs(psalmsForDay.morning)
@@ -106,14 +126,14 @@ export default function OfficeScreen() {
         </YStack>
 
         {hourConfig.map(({ hour, labelKey, sublabelKey, route, icon }, i) => {
-          const completed = status?.[hour] ?? false
+          const completed = completedHours.has(hour)
           const readingLabel = getReadingLabel(hour, progressMap)
           const psalmLabel = getPsalmLabel(hour)
 
           return (
             <FadeInView key={hour} index={i}>
               <AnimatedPressable onPress={() => router.push(route as never)}>
-                <ManuscriptFrame ornate={false}>
+                <ManuscriptFrame light>
                   <XStack gap="$md" alignItems="center">
                     <WatercolorIcon name={icon} size={44} />
                     <YStack gap="$xs" flex={1}>
@@ -128,7 +148,7 @@ export default function OfficeScreen() {
                         </YStack>
                         {completed ? (
                           <Text fontFamily="$heading" fontSize="$1" color="$colorGreen">
-                            \u2720
+                            {'\u2720'}
                           </Text>
                         ) : undefined}
                       </XStack>

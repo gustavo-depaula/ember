@@ -3,12 +3,17 @@ export { DayCarousel, PracticeChecklist } from './components'
 export { getPracticeName } from './getPracticeName'
 export {
   useAllPractices,
+  useCompletionsForDate,
+  useCompletionsForPractice,
   useCreatePractice,
   useDeletePractice,
+  useLogCompletion,
+  usePracticeCompletionStats,
   usePracticeLogRange,
   usePracticeLogsForDate,
   usePracticeStats,
   usePractices,
+  useRemoveCompletion,
   useReorderPractices,
   useTogglePractice,
   useUpdatePractice,
