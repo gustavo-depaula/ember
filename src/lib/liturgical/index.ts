@@ -1,6 +1,25 @@
 export { getLiturgicalDayName } from './dayName'
 export type OfficeHour = 'morning' | 'evening' | 'compline'
+export { buildYearCalendar, getCelebrationsForDate } from './calendar-builder'
+export { getAllEntries } from './calendar-data'
+// Calendar
+export type {
+  CalendarOptions,
+  DayCalendar,
+  DayOfWeek,
+  LiturgicalAnchor,
+  LiturgicalCategory,
+  LiturgicalDate,
+  LiturgicalEntry,
+  LocalizedText,
+  RankEF,
+  RankOF,
+  ResolvedCelebration,
+} from './calendar-types'
+export { applySundaySuppression, compareRank, sortByPrecedence } from './precedence'
 export { formatPsalmRef, formatPsalmRefs, type PsalmRef, parsePsalmRef } from './psalter'
+export { rankColors } from './rank-colors'
+export { computeAnchors, resolveDate } from './resolve-date'
 export {
   computeEaster,
   dateBefore,

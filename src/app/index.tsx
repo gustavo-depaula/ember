@@ -13,7 +13,12 @@ import {
 } from '@/components'
 import { getSeasonalSymbol } from '@/components/SectionDivider'
 import { getManifest } from '@/content/practices'
-import { LiturgicalHeader, SaintOfDay, SeasonalContext, TimeBlockSection } from '@/features/home'
+import {
+  CelebrationOfDay,
+  LiturgicalHeader,
+  SeasonalContext,
+  TimeBlockSection,
+} from '@/features/home'
 import {
   type BlockState,
   buildTieredWallData,
@@ -31,12 +36,13 @@ import {
   useTogglePractice,
 } from '@/features/plan-of-life'
 import { useLiturgicalTheme } from '@/hooks/useLiturgicalTheme'
+import { useToday } from '@/hooks/useToday'
 
 export default function HomeScreen() {
   const { t } = useTranslation()
-  const now = new Date()
+  const now = useToday()
   const today = format(now, 'yyyy-MM-dd')
-  const hour = now.getHours()
+  const hour = new Date().getHours()
   const currentBlock = getCurrentTimeBlock(hour)
 
   const { season, themeName } = useLiturgicalTheme()
@@ -95,7 +101,7 @@ export default function HomeScreen() {
         </FadeInView>
 
         <FadeInView>
-          <SaintOfDay />
+          <CelebrationOfDay />
         </FadeInView>
 
         <SectionDivider symbol={getSeasonalSymbol(themeName)} />

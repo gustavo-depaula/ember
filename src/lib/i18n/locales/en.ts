@@ -15,11 +15,7 @@ export default {
     holyMassSub: 'Ordo Missæ',
     fidelity: 'Fidelity',
     ruleOfLife: 'Your Rule of Life',
-    saintOfDay: 'Saint of the Day',
-    saintStub: {
-      name: 'St. Joseph of Arimathea',
-      patronOf: 'Patron of funeral directors',
-    },
+    celebrationOfDay: 'Today\u2019s Celebration',
     daysUntil: '{{count}} days until {{feast}}',
     tomorrow: '{{feast}} is tomorrow',
     today: '{{feast}}',
@@ -258,6 +254,14 @@ export default {
     liturgicalCalendar: 'Liturgical Calendar',
     calendarOF: 'Ordinary Form',
     calendarEF: 'Extraordinary Form',
+    jurisdiction: 'Calendar Region',
+    jurisdictionUniversal: 'Universal',
+    jurisdictionBR: 'Brazil',
+    jurisdictionUS: 'United States',
+    timeTravel: 'Time Travel',
+    timeTravelDescription: 'Preview the app as it would appear on a specific date.',
+    timeTravelPick: 'Pick a date',
+    timeTravelClear: 'Clear',
   },
 
   readingLabel: {
@@ -576,5 +580,24 @@ export default {
     'little-office-bvm': 'Little Office of the BVM',
     pray: 'Pray',
     noContent: 'No prayer content available for this practice yet.',
+  },
+
+  calendar: {
+    title: 'Liturgical Calendar',
+    rank: {
+      solemnity: 'Solemnity',
+      feast: 'Feast',
+      memorial: 'Memorial',
+      optional_memorial: 'Optional Memorial',
+      I_class: 'I Class',
+      II_class: 'II Class',
+      III_class: 'III Class',
+      IV_class: 'IV Class',
+      commemoration: 'Commemoration',
+      vigil: 'Vigil',
+    },
+    holyDay: 'Holy Day of Obligation',
+    noSelection: 'Select a day to see celebrations',
+    noCelebrations: 'No celebrations',
   },
 } as const

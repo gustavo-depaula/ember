@@ -127,9 +127,46 @@ Rose sub-themes (`light_rose`, `dark_rose`) are registered in the Tamagui config
 
 Liturgical sub-themes now override `accentSubtle` and (for Lent/Easter) wall color tokens in addition to `accent`.
 
+## Liturgical Calendar (Sanctoral Cycle)
+
+A 347-entry liturgical calendar covers both OF and EF forms, including jurisdiction overrides (Brazil, US).
+
+### Data Pipeline
+
+- Source: `liturgical-entries.jsonl` (JSONL, one `LiturgicalEntry` per line)
+- Conversion: `npx tsx scripts/convert-liturgical-jsonl.ts` → `src/lib/liturgical/calendar-data.ts`
+- Types: `src/lib/liturgical/calendar-types.ts`
+
+### Architecture
+
+| Module | Path | Purpose |
+|--------|------|---------|
+| Types | `src/lib/liturgical/calendar-types.ts` | `LiturgicalDate` union (5 types), ranks, entries, resolved output |
+| Data | `src/lib/liturgical/calendar-data.ts` | Auto-generated array of 347 entries |
+| Resolver | `src/lib/liturgical/resolve-date.ts` | `resolveDate()` — resolves any `LiturgicalDate` to a concrete `Date` for a year. `computeAnchors()` builds anchor lookup table reusing existing Easter/Advent functions |
+| Precedence | `src/lib/liturgical/precedence.ts` | OF/EF rank comparison, Sunday suppression (Advent/Lent/Easter Sundays suppress memorials/feasts) |
+| Builder | `src/lib/liturgical/calendar-builder.ts` | `buildYearCalendar()` — resolves all entries for a year, groups by date, applies jurisdiction overrides and precedence |
+| Hooks | `src/features/calendar/hooks.ts` | TanStack Query hooks: `useYearCalendar`, `useTodayCelebration`, `useMonthCelebrations`, `useUpcomingCelebration` |
+
+### Date Resolution Types
+
+1. **Fixed** — month + day (e.g., Dec 25)
+2. **Easter-relative** — offset from Easter (e.g., -46 = Ash Wednesday)
+3. **Anchor-relative** — relative to liturgical anchor (e.g., Sacred Heart = Friday after 2nd Sunday after Pentecost)
+4. **Nth weekday of month** — e.g., last Sunday of October
+5. **Relative to fixed** — e.g., Sunday after Jan 6
+
+### UI Integration
+
+- **Home screen**: `CelebrationOfDay` component replaces `SaintOfDay` stub. Shows today's principal celebration with rank badge, description, and holy day indicator. Taps through to calendar screen.
+- **SeasonalContext**: Feast countdown now data-driven (scans year calendar for upcoming solemnities/feasts within 14 days).
+- **Calendar screen** (`/calendar`): Month-view grid with colored dots per celebration rank. Day selection shows full detail panel with all celebrations, rank badges, descriptions.
+
+### Jurisdiction Support
+
+User preference in settings: Universal (default), Brazil, US. Stored in `preferencesStore.jurisdiction`. Affects which proper celebrations appear and rank/date overrides.
+
 ## Not Yet Implemented
 
-- Saints' days / sanctoral cycle
 - Holy Week / Easter Triduum as distinct sub-periods
-- Ember Days, Rogation Days
 - Seasonal hymn selection (hymns module returns static content)

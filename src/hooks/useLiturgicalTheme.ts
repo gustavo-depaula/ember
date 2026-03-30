@@ -9,6 +9,7 @@ import {
   normalizeDate,
 } from '@/lib/liturgical'
 import { usePreferencesStore } from '@/stores/preferencesStore'
+import { useToday } from './useToday'
 
 export type LiturgicalThemeName = LiturgicalSeason | 'rose'
 
@@ -17,10 +18,9 @@ export function useLiturgicalTheme(): {
   themeName: LiturgicalThemeName
 } {
   const form = usePreferencesStore((s) => s.liturgicalCalendar) as LiturgicalCalendarForm
-  const now = new Date()
-  const season = getLiturgicalSeason(now, form)
+  const d = useToday()
+  const season = getLiturgicalSeason(d, form)
 
-  const d = normalizeDate(now)
   const year = d.getFullYear()
   const easter = computeEaster(year)
   const advent1 = getFirstSundayOfAdvent(year)
