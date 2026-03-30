@@ -21,7 +21,7 @@ export function OrnamentalRule() {
 
 export function HeaderFlourish() {
   const themeName = useThemeName()
-  const isDark = themeName === 'dark'
+  const isDark = themeName.startsWith('dark')
 
   return (
     <YStack alignItems="center" paddingBottom="$sm">

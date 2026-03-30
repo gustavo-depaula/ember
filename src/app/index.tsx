@@ -11,8 +11,9 @@ import {
   ScreenLayout,
   SectionDivider,
 } from '@/components'
+import { getSeasonalSymbol } from '@/components/SectionDivider'
 import { getManifest } from '@/content/practices'
-import { LiturgicalHeader, SaintOfDay, TimeBlockSection } from '@/features/home'
+import { LiturgicalHeader, SaintOfDay, SeasonalContext, TimeBlockSection } from '@/features/home'
 import {
   type BlockState,
   buildTieredWallData,
@@ -29,6 +30,7 @@ import {
   usePractices,
   useTogglePractice,
 } from '@/features/plan-of-life'
+import { useLiturgicalTheme } from '@/hooks/useLiturgicalTheme'
 
 export default function HomeScreen() {
   const { t } = useTranslation()
@@ -37,6 +39,7 @@ export default function HomeScreen() {
   const hour = now.getHours()
   const currentBlock = getCurrentTimeBlock(hour)
 
+  const { season, themeName } = useLiturgicalTheme()
   const router = useRouter()
   const { data: practices = [] } = usePractices()
   const { data: todayLogs = [] } = usePracticeLogsForDate(today)
@@ -85,18 +88,18 @@ export default function HomeScreen() {
   return (
     <ScreenLayout>
       <YStack gap="$lg" paddingVertical="$lg">
-        {/* 1. Liturgical Header */}
-        <LiturgicalHeader date={now} />
+        <LiturgicalHeader date={now} season={season} themeName={themeName} />
 
-        {/* 2. Saint of the Day */}
+        <FadeInView>
+          <SeasonalContext date={now} season={season} />
+        </FadeInView>
+
         <FadeInView>
           <SaintOfDay />
         </FadeInView>
 
-        {/* 3. Divider */}
-        <SectionDivider symbol="✞" />
+        <SectionDivider symbol={getSeasonalSymbol(themeName)} />
 
-        {/* 4. Practices — Your Rule of Life */}
         {todayPractices.length > 0 && (
           <YStack gap="$md">
             <FadeInView index={1}>
@@ -138,7 +141,6 @@ export default function HomeScreen() {
           </YStack>
         )}
 
-        {/* 5. Fidelity Wall (compact, at bottom) */}
         {wallData.length > 0 && (
           <>
             <SectionDivider />
@@ -159,7 +161,6 @@ export default function HomeScreen() {
           </>
         )}
 
-        {/* 6. Page Footer */}
         <PageBreakOrnament />
       </YStack>
     </ScreenLayout>

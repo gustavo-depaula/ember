@@ -100,11 +100,36 @@ Two internal pure functions (`getOfSeason`, `getEfSeason`) handle each calendar'
 - **Tamagui themes** (`src/config/tamagui.config.ts`) — sub-themes for each season (light/dark)
 - **Settings** (`src/app/settings/index.tsx`) — pill selector for OF/EF calendar
 
+## Seasonal Theme Auto-Switching
+
+The app automatically applies the liturgical season's sub-theme via `<Theme name={season}>` in `_layout.tsx`. This shifts the `$accent` color (and other overridden tokens) app-wide based on the current date.
+
+### Hook: `src/hooks/useLiturgicalTheme.ts`
+
+`useLiturgicalThemeName()` returns the Tamagui sub-theme name for the current date:
+- Detects Gaudete Sunday (3rd Sunday of Advent) and Laetare Sunday (4th Sunday of Lent) → returns `'rose'`
+- Otherwise delegates to `getLiturgicalSeason()`
+
+### Rose Vestment Days
+
+Rose sub-themes (`light_rose`, `dark_rose`) are registered in the Tamagui config with accent `#C27083` (light) / `#D98A9A` (dark).
+
+### Seasonal Visual Elements
+
+- **SeasonalIcon** (`src/components/ornaments/SeasonalIcon.tsx`) — SVG motifs per season: wreath (Advent), star (Christmas), cross+thorns (Lent), lily (Easter), simple cross (Ordinary)
+- **Liturgical color bar** — thin bar in vestment color shown in the LiturgicalHeader
+- **Seasonal divider symbols** — `✦` for festive seasons, `✞` for penitential/ordinary
+- **Practice card accent bars** — left border colored with `$accent`
+- **Fidelity Wall color shift** — Lent/Easter override wall color tokens (violet/gold scales)
+- **SeasonalContext** (`src/features/home/components/SeasonalContext.tsx`) — seasonal description text + feast countdown (shows within 14 days of major feasts)
+
+### Expanded Sub-Themes
+
+Liturgical sub-themes now override `accentSubtle` and (for Lent/Easter) wall color tokens in addition to `accent`.
+
 ## Not Yet Implemented
 
 - Saints' days / sanctoral cycle
-- Rose vestment days (Gaudete, Laetare)
 - Holy Week / Easter Triduum as distinct sub-periods
 - Ember Days, Rogation Days
 - Seasonal hymn selection (hymns module returns static content)
-- Seasonal theme auto-switching (sub-themes exist but aren't auto-applied based on date)

@@ -1,5 +1,6 @@
 export { AppShortcuts } from './AppShortcuts'
 export { LiturgicalHeader } from './LiturgicalHeader'
+export { SeasonalContext } from './SeasonalContext'
 export { NavigationMedallion } from './NavigationMedallion'
 export { SaintOfDay } from './SaintOfDay'
 export { TimeBlockSection } from './TimeBlockSection'
