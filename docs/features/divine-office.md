@@ -137,18 +137,29 @@ The day of the psalter cycle is determined by `day_of_month` (1-30). Months with
 
 ---
 
+## Content Architecture
+
+The Divine Office is a practice manifest at `src/content/practices/divine-office/` with 3 flow files. It uses the shared practice content format with two manifest-level features:
+
+- `completionEffects: { advanceReadings: true }` — auto-advances reading tracks when an hour is completed
+- `theme: "office"` — triggers ornamental rendering (HeaderFlourish, OrnamentalRule, PageBreakOrnament, illuminated drop caps)
+
+Flow files use dynamic section types (`psalter`, `lectio`, `seasonal`) resolved at runtime by the content engine via `src/lib/liturgical/`.
+
+---
+
 ## Screens
 
 ### `/office/` — Office Hub
 - Three cards: Morning, Evening, Compline
-- Each shows: hour name, status (completed / not yet / in progress), time completed
-- Today's psalms and reading references previewed on each card
+- Each shows: hour name, status (completed / not yet), today's psalms and reading references
+- Tapping a card navigates to `/pray/divine-office?hour=morning|evening|compline`
 
-### `/office/[hour]` — Prayer Flow (dynamic route)
-- Full scrollable prayer experience for morning, evening, or compline
+### `/pray/divine-office?hour=...` — Prayer Flow (shared practice player)
+- Full scrollable prayer experience rendered by `PracticeFlow` with office theme
 - Each section (hymn, psalmody, reading, canticle, etc.) is a distinct visual block
 - "Mark as Complete" button at the bottom
-- Advances reading progress on completion
+- Advances reading track progress on completion
 
 ### `/settings/` — Settings Hub
 - Reading progress display (OT %, NT %, CCC % with estimated completion dates)
@@ -168,53 +179,36 @@ The day of the psalter cycle is determined by `day_of_month` (1-30). Months with
 ## Data Model
 
 ```typescript
-interface ReadingProgress {
+// Named reading tracks — shareable between practices
+interface ReadingTrack {
+  id: string                 // e.g., 'default-ot', 'default-nt', 'default-catechism'
   type: 'ot' | 'nt' | 'catechism'
+  label: string | null       // user-facing name (null for defaults)
   currentBook: string
   currentChapter: number
   currentVerse: number
-  completedBooks: string       // JSON array string
-  completedChapters: string    // JSON object string (migration 0002)
-  startDate: string            // YYYY-MM-DD
-}
-
-interface OfficePreference {
-  key: string                  // generic KV store
-  value: string
-}
-
-interface DailyOffice {
-  date: string            // YYYY-MM-DD
-  morning: { completed: boolean; completedAt?: number }
-  evening: { completed: boolean; completedAt?: number }
-  compline: { completed: boolean; completedAt?: number }
+  completedBooks: string     // JSON array string
+  completedChapters: string  // JSON object string
+  startDate: string          // YYYY-MM-DD
 }
 ```
+
+Completion tracking uses the shared `practice_completions` table (see plan-of-life.md). Each office hour completion is logged with `detail` = hour ID (`"morning"`, `"evening"`, `"compline"`).
 
 ### SQLite Schema
 
 ```sql
-CREATE TABLE reading_progress (
-  type TEXT PRIMARY KEY,    -- 'ot', 'nt', 'catechism'
+-- Named reading tracks (replaces reading_progress)
+CREATE TABLE reading_tracks (
+  id TEXT PRIMARY KEY,       -- 'default-ot', 'default-nt', 'default-catechism'
+  type TEXT NOT NULL,        -- 'ot', 'nt', 'catechism'
+  label TEXT,                -- user-facing name (null for defaults)
   current_book TEXT NOT NULL,
   current_chapter INTEGER NOT NULL,
   current_verse INTEGER NOT NULL DEFAULT 1,
-  completed_books TEXT NOT NULL DEFAULT '[]',        -- JSON array
-  completed_chapters TEXT NOT NULL DEFAULT '{}',     -- JSON object (migration 0002)
+  completed_books TEXT NOT NULL DEFAULT '[]',
+  completed_chapters TEXT NOT NULL DEFAULT '{}',
   start_date TEXT NOT NULL
-);
-
-CREATE TABLE office_preferences (
-  key TEXT PRIMARY KEY,
-  value TEXT NOT NULL       -- JSON value
-);
-
-CREATE TABLE daily_office (
-  date TEXT NOT NULL,
-  hour TEXT NOT NULL,       -- 'morning', 'evening', 'compline'
-  completed INTEGER NOT NULL DEFAULT 0,
-  completed_at INTEGER,
-  PRIMARY KEY (date, hour)
 );
 
 CREATE TABLE cached_translations (
@@ -225,6 +219,4 @@ CREATE TABLE cached_translations (
   cached_at INTEGER NOT NULL,
   PRIMARY KEY (translation, book, chapter)
 );
-
-CREATE INDEX idx_daily_office_date ON daily_office(date);
 ```

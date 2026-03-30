@@ -196,15 +196,26 @@ interface Practice {
   notify_time?: string         // HH:MM
   is_builtin: boolean
   description: string
+  manifest_id: string | null   // links to practice content manifest
+  selected_variant: string | null
 }
 
-interface PracticeLog {
-  date: string                 // YYYY-MM-DD
+// Event log — each completion is a separate row (supports multiple per day)
+interface PracticeCompletion {
+  id: number                   // autoincrement
   practiceId: string
-  completed: boolean
-  completedAt?: number         // Unix timestamp
+  detail?: string              // sub-unit context: office hour, rosary mystery set, form, etc.
+  date: string                 // YYYY-MM-DD
+  completedAt: number          // Unix timestamp ms
 }
 ```
+
+The `detail` column captures what sub-unit was completed:
+- Divine Office: `"morning"`, `"evening"`, `"compline"`
+- Rosary: `"joyful"`, `"sorrowful"`, `"glorious"`, `"luminous"`
+- Simple practices: `null`
+
+Multiple completions per practice per day are supported (e.g., 2 rosaries in one day).
 
 ### SQLite Schema
 
@@ -222,18 +233,21 @@ CREATE TABLE practices (
   notify_enabled INTEGER NOT NULL DEFAULT 0,
   notify_time TEXT,
   is_builtin INTEGER NOT NULL DEFAULT 0,
-  description TEXT NOT NULL DEFAULT ''
+  description TEXT NOT NULL DEFAULT '',
+  manifest_id TEXT,
+  selected_variant TEXT
 );
 
-CREATE TABLE practice_logs (
-  date TEXT NOT NULL,
+CREATE TABLE practice_completions (
+  id INTEGER PRIMARY KEY AUTOINCREMENT,
   practice_id TEXT NOT NULL,
-  completed INTEGER NOT NULL DEFAULT 0,
-  completed_at INTEGER,
-  PRIMARY KEY (date, practice_id),
+  detail TEXT,                 -- office hour, mystery set, form, etc.
+  date TEXT NOT NULL,
+  completed_at INTEGER NOT NULL,
   FOREIGN KEY (practice_id) REFERENCES practices(id)
 );
 
-CREATE INDEX idx_practice_logs_date ON practice_logs(date);
-CREATE INDEX idx_practice_logs_practice ON practice_logs(practice_id);
+CREATE INDEX idx_completions_date ON practice_completions (date);
+CREATE INDEX idx_completions_practice ON practice_completions (practice_id);
+CREATE INDEX idx_completions_practice_date ON practice_completions (practice_id, date);
 ```
