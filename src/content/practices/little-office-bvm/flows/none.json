@@ -4,10 +4,10 @@
     { "type": "prayer", "ref": "opening-verse" },
     { "type": "divider" },
     { "type": "rubric", "text": { "en": "Hymn", "pt-BR": "Hino" } },
-    { "type": "seasonal", "set": "hymns", "hour": "evening" },
+    { "type": "cycle", "data": "office-hymns", "key": "evening", "as": "hymn" },
     { "type": "divider" },
     { "type": "rubric", "text": { "en": "Psalmody", "pt-BR": "Salm\u00f3dia" } },
-    { "type": "psalter", "hour": "evening", "cycle": "30-day" },
+    { "type": "psalmody", "psalms": [126, 127, 128] },
     { "type": "divider" },
     { "type": "rubric", "text": { "en": "Our Father", "pt-BR": "Pai Nosso" } },
     { "type": "prayer", "ref": "our-father" }

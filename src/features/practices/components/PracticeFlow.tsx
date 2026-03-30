@@ -13,10 +13,13 @@ import {
   CanticleBlock,
   CccReadingBlock,
   CollapsiblePrayer,
+  HeaderFlourish,
   HymnBlock,
   LiturgicalPrayerBlock,
   ManuscriptFrame,
   OptionsBlock,
+  OrnamentalRule,
+  PageBreakOrnament,
   PrayerTextBlock,
   ProperSlot,
   type PsalmData,
@@ -32,16 +35,18 @@ import {
   loadFlow,
   loadFormFlow,
   loadHourFlow,
+  loadPracticeData,
   loadVariant,
 } from '@/content/practices'
 import type { RenderedSection } from '@/content/types'
 import {
+  useAdvanceReading,
   useAllReadingProgress,
   useBibleReading,
   useCccReading,
   usePsalmsForHour,
 } from '@/features/divine-office'
-import { usePractices, useTogglePractice } from '@/features/plan-of-life'
+import { useLogCompletion, usePractices } from '@/features/plan-of-life'
 import { useReadingMargin } from '@/hooks/useReadingStyle'
 import { getPsalmNumbering } from '@/lib/bolls'
 import type { Verse } from '@/lib/content'
@@ -49,6 +54,7 @@ import { successBuzz } from '@/lib/haptics'
 import { localizeContent } from '@/lib/i18n'
 import { formatLocalized } from '@/lib/i18n/dateLocale'
 import type { PsalmRef, ReadingReference } from '@/lib/liturgical'
+import { cccDailyCount } from '@/lib/liturgical'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
 function findPsalmRefs(sections: RenderedSection[]): PsalmRef[] {
@@ -58,11 +64,21 @@ function findPsalmRefs(sections: RenderedSection[]): PsalmRef[] {
   return []
 }
 
-function findReadingRef(sections: RenderedSection[]): ReadingReference | undefined {
+function findReadingRef(
+  sections: RenderedSection[],
+): { reference: ReadingReference; testament?: 'ot' | 'nt' | 'catechism' } | undefined {
   for (const s of sections) {
-    if (s.type === 'reading') return s.reference
+    if (s.type === 'reading') return { reference: s.reference, testament: s.testament }
   }
   return undefined
+}
+
+function findReadingTestaments(sections: RenderedSection[]): ('ot' | 'nt' | 'catechism')[] {
+  const testaments = new Set<'ot' | 'nt' | 'catechism'>()
+  for (const s of sections) {
+    if (s.type === 'reading' && s.testament) testaments.add(s.testament)
+  }
+  return Array.from(testaments)
 }
 
 export function PracticeFlow({ practiceId, hourId }: { practiceId: string; hourId?: string }) {
@@ -70,7 +86,8 @@ export function PracticeFlow({ practiceId, hourId }: { practiceId: string; hourI
   const router = useRouter()
   const theme = useTheme()
   const readingMargin = useReadingMargin()
-  const togglePractice = useTogglePractice()
+  const logCompletionMutation = useLogCompletion()
+  const advanceReading = useAdvanceReading()
 
   const manifest = getManifest(practiceId)
   const formPreferences = usePreferencesStore((s) => s.formPreferences)
@@ -98,11 +115,12 @@ export function PracticeFlow({ practiceId, hourId }: { practiceId: string; hourI
   const now = useMemo(() => new Date(), [])
   const [selectedSetKey, setSelectedSetKey] = useState<string | undefined>(undefined)
 
-  // Dynamic context for psalter/lectio/seasonal sections
+  // Dynamic context for cycle/lectio/seasonal sections
   const translation = usePreferencesStore((s) => s.translation)
   const liturgicalCalendar = usePreferencesStore((s) => s.liturgicalCalendar)
   const numbering = getPsalmNumbering(translation)
   const { data: allProgress } = useAllReadingProgress()
+  const cycleData = useMemo(() => loadPracticeData(practiceId), [practiceId])
 
   const readingProgress = useMemo(() => {
     if (!allProgress) return undefined
@@ -121,14 +139,25 @@ export function PracticeFlow({ practiceId, hourId }: { practiceId: string; hourI
       numbering,
       liturgicalCalendar,
       readingProgress,
+      cycleData,
       setKeyOverride: selectedSetKey,
     }
     return resolveFlow(flow, context)
-  }, [flow, now, variant, numbering, liturgicalCalendar, readingProgress, selectedSetKey])
+  }, [
+    flow,
+    now,
+    variant,
+    numbering,
+    liturgicalCalendar,
+    readingProgress,
+    cycleData,
+    selectedSetKey,
+  ])
 
   // Load dynamic content (psalms, Bible readings, CCC)
   const psalmRefs = useMemo(() => findPsalmRefs(sections), [sections])
-  const readingRef = useMemo(() => findReadingRef(sections), [sections])
+  const readingInfo = useMemo(() => findReadingRef(sections), [sections])
+  const readingRef = readingInfo?.reference
   const bibleRef = readingRef?.type === 'bible' ? readingRef : undefined
   const cccRef = readingRef?.type === 'catechism' ? readingRef : undefined
 
@@ -174,11 +203,22 @@ export function PracticeFlow({ practiceId, hourId }: { practiceId: string; hourI
 
   function handleComplete() {
     const today = format(new Date(), 'yyyy-MM-dd')
-    togglePractice.mutate(
-      { practiceId, date: today, completed: true },
+    const detail = hourId ?? undefined
+
+    logCompletionMutation.mutate(
+      { practiceId, date: today, detail },
       {
-        onSuccess: () => {
+        onSuccess: async () => {
           successBuzz()
+          if (manifest?.completionEffects?.advanceReadings) {
+            const testaments = findReadingTestaments(sections)
+            await Promise.all(
+              testaments.map((testament) => {
+                const count = testament === 'catechism' ? cccDailyCount : 1
+                return advanceReading.mutateAsync({ type: testament, count })
+              }),
+            )
+          }
           router.back()
         },
       },
@@ -204,9 +244,13 @@ export function PracticeFlow({ practiceId, hourId }: { practiceId: string; hourI
             paddingVertical="$md"
             paddingHorizontal={readingMargin}
           >
-            <Text fontFamily="$display" fontSize="$5" color="$accent">
-              ✠
-            </Text>
+            {manifest.theme === 'office' ? (
+              <HeaderFlourish />
+            ) : (
+              <Text fontFamily="$display" fontSize="$5" color="$accent">
+                ✠
+              </Text>
+            )}
             <Text fontFamily="$display" fontSize={36} lineHeight={42} color="$colorBurgundy">
               {practiceName}
             </Text>
@@ -246,6 +290,12 @@ export function PracticeFlow({ practiceId, hourId }: { practiceId: string; hourI
                   readingData={bibleResult.data?.verses}
                   readingFallback={bibleResult.data?.fallback}
                   cccData={cccResult.data}
+                  officeTheme={manifest.theme === 'office'}
+                  isFirstReading={
+                    manifest.theme === 'office' &&
+                    section.type === 'reading' &&
+                    index === sections.findIndex((s) => s.type === 'reading')
+                  }
                 />
               )
             })}
@@ -256,7 +306,7 @@ export function PracticeFlow({ practiceId, hourId }: { practiceId: string; hourI
 
         {manifest?.completion !== 'manual' && (
           <YStack paddingHorizontal={readingMargin}>
-            <AnimatedPressable onPress={handleComplete} disabled={togglePractice.isPending}>
+            <AnimatedPressable onPress={handleComplete} disabled={logCompletionMutation.isPending}>
               <YStack
                 backgroundColor="$accent"
                 borderRadius="$md"
@@ -264,10 +314,10 @@ export function PracticeFlow({ practiceId, hourId }: { practiceId: string; hourI
                 borderColor="$accentSubtle"
                 paddingVertical="$md"
                 alignItems="center"
-                opacity={togglePractice.isPending ? 0.6 : 1}
+                opacity={logCompletionMutation.isPending ? 0.6 : 1}
               >
                 <Text fontFamily="$heading" fontSize="$3" color="$background">
-                  {togglePractice.isPending
+                  {logCompletionMutation.isPending
                     ? t('office.completing', { defaultValue: 'Completing...' })
                     : t('office.markComplete', { defaultValue: 'Mark Complete' })}
                 </Text>
@@ -286,12 +336,16 @@ function PracticeSectionBlock({
   readingData,
   readingFallback,
   cccData,
+  officeTheme = false,
+  isFirstReading = false,
 }: {
   section: RenderedSection
   psalmData: PsalmData[]
   readingData?: Verse[]
   readingFallback?: boolean
   cccData?: Array<{ number: number; text: string; section: string }>
+  officeTheme?: boolean
+  isFirstReading?: boolean
 }) {
   switch (section.type) {
     case 'rubric':
@@ -343,6 +397,7 @@ function PracticeSectionBlock({
       )
 
     case 'divider':
+      if (officeTheme) return <OrnamentalRule />
       return (
         <YStack alignItems="center" paddingVertical="$sm">
           <View width="40%" height={0.5} backgroundColor="$accentSubtle" />
@@ -352,17 +407,29 @@ function PracticeSectionBlock({
     case 'psalmody':
       return <PsalmodyBlock psalmData={psalmData} />
 
-    case 'reading':
-      if (section.reference.type === 'bible') {
-        return (
+    case 'reading': {
+      const illuminated = officeTheme && isFirstReading
+      const block =
+        section.reference.type === 'bible' ? (
           <BibleReadingBlock
             reference={section.reference}
             verses={readingData}
             fallback={readingFallback}
+            illuminated={illuminated}
           />
+        ) : (
+          <CccReadingBlock reference={section.reference} paragraphs={cccData} />
+        )
+      if (illuminated) {
+        return (
+          <>
+            <PageBreakOrnament />
+            {block}
+          </>
         )
       }
-      return <CccReadingBlock reference={section.reference} paragraphs={cccData} />
+      return block
+    }
 
     case 'subheading':
       return (
@@ -393,6 +460,7 @@ function PracticeSectionBlock({
               readingData={readingData}
               readingFallback={readingFallback}
               cccData={cccData}
+              officeTheme={officeTheme}
             />
           )}
         />

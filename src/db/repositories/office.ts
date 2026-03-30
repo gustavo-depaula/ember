@@ -1,7 +1,9 @@
 import type { SQLiteBindValue } from 'expo-sqlite'
 
 import { getDb } from '../client'
-import type { DailyOffice, ReadingProgress } from '../schema'
+import type { DailyOffice, ReadingTrack } from '../schema'
+
+// --- Daily office (legacy, used during migration) ---
 
 export function getDailyOfficeForDate(date: string): Promise<DailyOffice[]> {
   return getDb().getAllAsync<DailyOffice>('SELECT * FROM daily_office WHERE date = ?', [date])
@@ -17,18 +19,22 @@ export async function completeOfficeHour(date: string, hour: string): Promise<vo
   )
 }
 
-export function getReadingProgressByType(type: string): Promise<ReadingProgress | null> {
-  return getDb().getFirstAsync<ReadingProgress>('SELECT * FROM reading_progress WHERE type = ?', [
-    type,
-  ])
+// --- Reading tracks ---
+
+export function getReadingTrack(trackId: string): Promise<ReadingTrack | null> {
+  return getDb().getFirstAsync<ReadingTrack>('SELECT * FROM reading_tracks WHERE id = ?', [trackId])
 }
 
-export function getAllReadingProgress(): Promise<ReadingProgress[]> {
-  return getDb().getAllAsync<ReadingProgress>('SELECT * FROM reading_progress')
+export function getAllReadingTracks(): Promise<ReadingTrack[]> {
+  return getDb().getAllAsync<ReadingTrack>('SELECT * FROM reading_tracks')
 }
 
-export async function updateReadingProgress(
-  type: string,
+export function getDefaultReadingTracks(): Promise<ReadingTrack[]> {
+  return getDb().getAllAsync<ReadingTrack>("SELECT * FROM reading_tracks WHERE id LIKE 'default-%'")
+}
+
+export async function updateReadingTrack(
+  trackId: string,
   updates: {
     currentBook?: string
     currentChapter?: number
@@ -63,6 +69,29 @@ export async function updateReadingProgress(
 
   if (sets.length === 0) return
 
-  params.push(type)
-  await getDb().runAsync(`UPDATE reading_progress SET ${sets.join(', ')} WHERE type = ?`, params)
+  params.push(trackId)
+  await getDb().runAsync(`UPDATE reading_tracks SET ${sets.join(', ')} WHERE id = ?`, params)
+}
+
+// --- Backward-compatible wrappers (reading_progress → reading_tracks) ---
+
+export function getReadingProgressByType(type: string): Promise<ReadingTrack | null> {
+  return getReadingTrack(`default-${type}`)
+}
+
+export function getAllReadingProgress(): Promise<ReadingTrack[]> {
+  return getDefaultReadingTracks()
+}
+
+export async function updateReadingProgress(
+  type: string,
+  updates: {
+    currentBook?: string
+    currentChapter?: number
+    currentVerse?: number
+    completedBooks?: string
+    completedChapters?: string
+  },
+): Promise<void> {
+  return updateReadingTrack(`default-${type}`, updates)
 }

@@ -7,6 +7,7 @@ type ProgressRow = {
   currentBook: string
   currentChapter: number
   completedBooks: string
+  completedChapters?: string
   startDate: string
 }
 
@@ -22,14 +23,22 @@ function getTestamentChapterCount(testament: 'ot' | 'nt'): number {
 function getCompletedChapterCount(progress: ProgressRow, testament: 'ot' | 'nt'): number {
   const books = getDrbBooks().filter((b) => b.testament === testament)
   const completedBooks: string[] = JSON.parse(progress.completedBooks)
+  const manualChapters: Record<string, number[]> = progress.completedChapters
+    ? JSON.parse(progress.completedChapters)
+    : {}
 
   let count = 0
   for (const book of books) {
     if (completedBooks.includes(book.id)) {
       count += book.chapters
     } else if (book.id === progress.currentBook) {
-      count += progress.currentChapter - 1
+      // Count whichever is greater: sequential position or manually marked chapters
+      const manual = manualChapters[book.id]?.length ?? 0
+      count += Math.max(progress.currentChapter - 1, manual)
       break
+    } else {
+      // Books before current: count manually marked chapters
+      count += manualChapters[book.id]?.length ?? 0
     }
   }
   return count

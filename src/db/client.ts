@@ -6,6 +6,8 @@ import initialMigration from './migrations/0001_initial.sql'
 import completedChaptersMigration from './migrations/0002_completed_chapters.sql'
 import customizablePracticesMigration from './migrations/0003_customizable_practices.sql'
 import contentColumnsMigration from './migrations/0004_practice_content_columns.sql'
+import readingTracksMigration from './migrations/0005_reading_tracks.sql'
+import practiceCompletionsMigration from './migrations/0006_practice_completions.sql'
 
 let _db: SQLiteDatabase | undefined
 
@@ -50,6 +52,10 @@ export function useDbInit() {
         } catch {
           // Columns already exist — ignore
         }
+        // Migration 0005: reading_tracks table (named reading cursors)
+        await _db.execAsync(readingTracksMigration)
+        // Migration 0006: practice_completions event log
+        await _db.execAsync(practiceCompletionsMigration)
         if (!cancelled) dispatch({ type: 'done' })
       } catch (err) {
         if (!cancelled) dispatch({ type: 'error', error: err })

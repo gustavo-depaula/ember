@@ -1,9 +1,16 @@
 import { localizeContent } from '@/lib/i18n'
-import type { FlowDefinition, PracticeManifest, Variant } from '../types'
+import type { CycleData, FlowDefinition, PracticeManifest, Variant } from '../types'
 import angelusFlow from './angelus/flow.json'
 import angelusManifest from './angelus/manifest.json'
 import divineMercyFlow from './divine-mercy/flow.json'
 import divineMercyManifest from './divine-mercy/manifest.json'
+import complinePsalms from './divine-office/data/compline-psalms.json'
+import officeHymns from './divine-office/data/office-hymns.json'
+import psalter30Day from './divine-office/data/psalter-30-day.json'
+import divineOfficeCompline from './divine-office/flows/compline.json'
+import divineOfficeEvening from './divine-office/flows/evening.json'
+import divineOfficeMorning from './divine-office/flows/morning.json'
+import divineOfficeManifest from './divine-office/manifest.json'
 import guardianAngelFlow from './guardian-angel/flow.json'
 import guardianAngelManifest from './guardian-angel/manifest.json'
 import littleOfficeCompline from './little-office-bvm/flows/compline.json'
@@ -40,6 +47,7 @@ const manifests: Record<string, PracticeManifest> = {
   rosary: rosaryManifest as PracticeManifest,
   'divine-mercy': divineMercyManifest as PracticeManifest,
   'stations-cross': stationsCrossManifest as PracticeManifest,
+  'divine-office': divineOfficeManifest as PracticeManifest,
   'little-office-bvm': littleOfficeManifest as PracticeManifest,
   mass: massManifest as PracticeManifest,
 }
@@ -52,6 +60,9 @@ const flows: Record<string, FlowDefinition> = {
   rosary: rosaryFlow as FlowDefinition,
   'divine-mercy': divineMercyFlow as FlowDefinition,
   'stations-cross': stationsCrossFlow as FlowDefinition,
+  'divine-office/morning': divineOfficeMorning as FlowDefinition,
+  'divine-office/evening': divineOfficeEvening as FlowDefinition,
+  'divine-office/compline': divineOfficeCompline as FlowDefinition,
   'little-office-bvm/matins': littleOfficeMatins as FlowDefinition,
   'little-office-bvm/lauds': littleOfficeLauds as FlowDefinition,
   'little-office-bvm/prime': littleOfficePrime as FlowDefinition,
@@ -74,6 +85,21 @@ const variants: Record<string, Record<string, Variant>> = {
     scriptural: stationsScriptural as Variant,
     jpii: stationsJpii as Variant,
   },
+}
+
+const practiceData: Record<string, Record<string, CycleData>> = {
+  'divine-office': {
+    'psalter-30-day': psalter30Day as unknown as CycleData,
+    'compline-psalms': complinePsalms as unknown as CycleData,
+    'office-hymns': officeHymns as unknown as CycleData,
+  },
+  'little-office-bvm': {
+    'office-hymns': officeHymns as unknown as CycleData,
+  },
+}
+
+export function loadPracticeData(practiceId: string): Record<string, CycleData> | undefined {
+  return practiceData[practiceId]
 }
 
 export function getManifest(id: string): PracticeManifest | undefined {
@@ -118,6 +144,7 @@ export function getManifestIconKey(manifestId: string): string {
     'morning-offering': 'sunrise',
     angelus: 'bell',
     rosary: 'rosary',
+    'divine-office': 'prayer',
     'little-office-bvm': 'mary',
     mass: 'cross',
   }

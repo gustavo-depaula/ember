@@ -1,3 +1,4 @@
+import { getDate, getDay } from 'date-fns'
 import apostlesCreed from '@/assets/prayers/apostles-creed.json'
 import benedictus from '@/assets/prayers/benedictus.json'
 import divineMercyResponse from '@/assets/prayers/divine-mercy-response.json'
@@ -12,19 +13,18 @@ import nuncDimittis from '@/assets/prayers/nunc-dimittis.json'
 import openingVerse from '@/assets/prayers/opening-verse.json'
 import ourFather from '@/assets/prayers/our-father.json'
 import signOfCross from '@/assets/prayers/sign-of-cross.json'
+
 import type { ReadingProgress } from '@/db/schema'
 import type { PsalmNumbering } from '@/lib/bolls'
 import i18n, { localizeAsset, localizeContent } from '@/lib/i18n'
 import {
-  getComplinePsalms,
-  getHymnForHour,
   getLiturgicalSeason,
-  getMarianAntiphon,
-  getPsalmsForDay,
   getTodaysReading,
   type LiturgicalCalendarForm,
+  parsePsalmRef,
 } from '@/lib/liturgical'
 import type {
+  CycleData,
   FlowDefinition,
   FlowSection,
   LocalizedBilingualText,
@@ -73,6 +73,7 @@ export type FlowContext = {
     nt?: ReadingProgress | null
     catechism?: ReadingProgress | null
   }
+  cycleData?: Record<string, CycleData>
   setKeyOverride?: string
 }
 
@@ -296,6 +297,31 @@ function resolveRepeat(
   return [...preamble, ...sections]
 }
 
+function getCycleIndex(indexBy: string, date: Date, length: number): number {
+  if (indexBy === 'day-of-month') return (getDate(date) - 1) % length
+  if (indexBy === 'day-of-week') return getDay(date)
+  if (indexBy === 'fixed') return 0
+  return 0
+}
+
+function mapCycleOutput(as: string, raw: unknown): RenderedSection[] {
+  if (as === 'psalmody') {
+    return [{ type: 'psalmody', psalms: (raw as (number | string)[]).map(parsePsalmRef) }]
+  }
+  if (as === 'hymn') {
+    const data = raw as { title: string; latin?: string; text: { en: string; 'pt-BR'?: string } }
+    return [
+      {
+        type: 'hymn',
+        title: data.title,
+        latin: data.latin ?? '',
+        english: localizeContent(data.text),
+      },
+    ]
+  }
+  return []
+}
+
 function resolveSection(section: FlowSection, context: FlowContext): RenderedSection[] {
   switch (section.type) {
     case 'rubric':
@@ -368,41 +394,40 @@ function resolveSection(section: FlowSection, context: FlowContext): RenderedSec
     case 'repeat':
       return resolveRepeat(section, context)
 
-    case 'psalter': {
-      const numbering = context.numbering ?? 'mt'
-      if (section.hour === 'compline') {
-        return [{ type: 'psalmody', psalms: getComplinePsalms(context.date, numbering) }]
-      }
-      const forDay = getPsalmsForDay(context.date, numbering)
-      const psalms = section.hour === 'morning' ? forDay.morning : forDay.evening
-      return [{ type: 'psalmody', psalms }]
+    case 'cycle': {
+      const cycleData = context.cycleData?.[section.data]
+      if (!cycleData) return []
+
+      const variantValue = cycleData.variantKey
+        ? String((context as Record<string, unknown>)[cycleData.variantKey] ?? '')
+        : undefined
+      const entries = (
+        variantValue
+          ? (cycleData.entries[variantValue] ?? Object.values(cycleData.entries)[0])
+          : Object.values(cycleData.entries)[0]
+      ) as unknown[]
+      if (!entries?.length) return []
+
+      const index = getCycleIndex(cycleData.indexBy, context.date, entries.length)
+      const entry = entries[index]
+      const raw = section.key ? (entry as Record<string, unknown>)[section.key] : entry
+
+      return mapCycleOutput(section.as, raw)
     }
+
+    case 'psalmody':
+      return [{ type: 'psalmody', psalms: section.psalms.map(parsePsalmRef) }]
 
     case 'lectio': {
       const progress = context.readingProgress?.[section.testament]
       if (!progress) return [{ type: 'rubric', label: '[Reading progress not available]' }]
-      return [{ type: 'reading', reference: getTodaysReading(section.testament, progress) }]
-    }
-
-    case 'seasonal': {
-      if (section.set === 'hymns') {
-        const hymn = getHymnForHour(section.hour)
-        return [
-          { type: 'hymn', title: hymn.title, latin: hymn.latin, english: localizeAsset(hymn) },
-        ]
-      }
-      if (section.set === 'marian-antiphon') {
-        const antiphon = getMarianAntiphon(context.date)
-        return [
-          {
-            type: 'hymn',
-            title: antiphon.title,
-            latin: antiphon.latin,
-            english: localizeAsset(antiphon),
-          },
-        ]
-      }
-      return []
+      return [
+        {
+          type: 'reading',
+          reference: getTodaysReading(section.testament, progress),
+          testament: section.testament,
+        },
+      ]
     }
 
     case 'subheading':

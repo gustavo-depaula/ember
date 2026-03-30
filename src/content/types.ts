@@ -1,9 +1,17 @@
 // See docs/features/practice-content.md for the full spec
 
-import type { OfficeHour, PsalmRef, ReadingReference } from '@/lib/liturgical'
+import type { PsalmRef, ReadingReference } from '@/lib/liturgical'
 
 export type LocalizedText = { en: string; 'pt-BR'?: string }
 export type LocalizedBilingualText = { en: string; latin?: string; 'pt-BR'?: string }
+
+// --- Cycle Data (practice-owned static data files) ---
+
+export type CycleData = {
+  indexBy: 'day-of-month' | 'day-of-week' | 'fixed'
+  variantKey?: string
+  entries: Record<string, unknown[]>
+}
 
 // --- Manifest ---
 
@@ -19,6 +27,11 @@ export type PracticeManifest = {
   howToPray: LocalizedText
   flowMode: 'scroll' | 'step'
   completion: 'flow-end' | 'manual'
+  completionEffects?: {
+    advanceReadings?: boolean
+  }
+  theme?: 'office'
+  data?: Record<string, string>
   flow?: string
   hours?: {
     id: string
@@ -74,9 +87,9 @@ export type FlowSection =
       variable?: { source: 'variant'; key: string }
       sections: FlowSection[]
     }
-  | { type: 'psalter'; hour: OfficeHour; cycle: string }
+  | { type: 'cycle'; data: string; key?: string; as: string }
+  | { type: 'psalmody'; psalms: (number | string)[] }
   | { type: 'lectio'; testament: 'ot' | 'nt' | 'catechism' }
-  | { type: 'seasonal'; set: 'hymns' | 'marian-antiphon'; hour: OfficeHour }
 
 // --- Rendered Sections (engine output, consumed by renderer) ---
 
@@ -105,7 +118,7 @@ export type RenderedSection =
       options: { id: string; label: string; sections: RenderedSection[] }[]
     }
   | { type: 'psalmody'; psalms: PsalmRef[] }
-  | { type: 'reading'; reference: ReadingReference }
+  | { type: 'reading'; reference: ReadingReference; testament?: 'ot' | 'nt' | 'catechism' }
   | { type: 'set-selector'; options: { key: string; label: string }[]; selectedKey: string }
 
 // --- Variant ---

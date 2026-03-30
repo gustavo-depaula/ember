@@ -1,5 +1,12 @@
 import { getDb } from '../client'
-import type { Frequency, Practice, PracticeLog, Tier, TimeBlock } from '../schema'
+import type {
+  Frequency,
+  Practice,
+  PracticeCompletion,
+  PracticeLog,
+  Tier,
+  TimeBlock,
+} from '../schema'
 
 export function getEnabledPractices(): Promise<Practice[]> {
   return getDb().getAllAsync<Practice>(
@@ -143,4 +150,68 @@ export async function reorderPractices(orderedIds: string[]): Promise<void> {
       await db.runAsync('UPDATE practices SET sort_order = ? WHERE id = ?', [i + 1, orderedIds[i]])
     }
   })
+}
+
+// --- Practice completions (event log) ---
+
+export async function logCompletion(
+  practiceId: string,
+  date: string,
+  detail?: string,
+): Promise<void> {
+  const ts = Date.now()
+  await getDb().runAsync(
+    'INSERT INTO practice_completions (practice_id, detail, date, completed_at) VALUES (?, ?, ?, ?)',
+    [practiceId, detail ?? null, date, ts],
+  )
+}
+
+export async function removeCompletion(id: number): Promise<void> {
+  await getDb().runAsync('DELETE FROM practice_completions WHERE id = ?', [id])
+}
+
+export function getCompletionsForDate(date: string): Promise<PracticeCompletion[]> {
+  return getDb().getAllAsync<PracticeCompletion>(
+    'SELECT * FROM practice_completions WHERE date = ?',
+    [date],
+  )
+}
+
+export function getCompletionsForPractice(
+  practiceId: string,
+  date: string,
+): Promise<PracticeCompletion[]> {
+  return getDb().getAllAsync<PracticeCompletion>(
+    'SELECT * FROM practice_completions WHERE practice_id = ? AND date = ?',
+    [practiceId, date],
+  )
+}
+
+export async function getCompletionDates(practiceId: string): Promise<string[]> {
+  const rows = await getDb().getAllAsync<{ date: string }>(
+    'SELECT DISTINCT date FROM practice_completions WHERE practice_id = ?',
+    [practiceId],
+  )
+  return rows.map((r) => r.date)
+}
+
+export function getCompletionRange(
+  startDate: string,
+  endDate: string,
+): Promise<PracticeCompletion[]> {
+  return getDb().getAllAsync<PracticeCompletion>(
+    'SELECT * FROM practice_completions WHERE date BETWEEN ? AND ?',
+    [startDate, endDate],
+  )
+}
+
+export async function isPracticeCompletedOnDate(
+  practiceId: string,
+  date: string,
+): Promise<boolean> {
+  const row = await getDb().getFirstAsync<{ exists: number }>(
+    'SELECT EXISTS(SELECT 1 FROM practice_completions WHERE practice_id = ? AND date = ?) as exists',
+    [practiceId, date],
+  )
+  return row?.exists === 1
 }

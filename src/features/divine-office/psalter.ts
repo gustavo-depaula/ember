@@ -1,8 +1,1 @@
-export {
-  formatPsalmRef,
-  formatPsalmRefs,
-  getComplinePsalms,
-  getPsalmsForDay,
-  type PsalmRef,
-  parsePsalmRef,
-} from '@/lib/liturgical'
+export { formatPsalmRef, formatPsalmRefs, type PsalmRef, parsePsalmRef } from '@/lib/liturgical'
