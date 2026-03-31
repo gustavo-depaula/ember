@@ -71,6 +71,21 @@ Shared prayer texts remain in `src/assets/prayers/` (Our Father, Hail Mary, Glor
 ```typescript
 type LocalizedText = { en: string; 'pt-BR'?: string }
 
+type FlowEntry = {
+  id: string
+  name: LocalizedText
+  file: string                   // relative path to flow file
+  timeBlock?: string             // optional UI hint for time grouping
+}
+
+type SlotDefault = {
+  flowId: string                 // which flow this slot schedules
+  schedule: Schedule             // daily, days-of-week, day-of-month, etc.
+  tier?: 'essential' | 'ideal' | 'extra'
+  time?: string                  // suggested time string (e.g. "07:00")
+  enabled?: boolean
+}
+
 type PracticeManifest = {
   id: string
   name: LocalizedText
@@ -98,16 +113,11 @@ type PracticeManifest = {
   // Rendering theme
   theme?: 'office'               // ornamental office-style (HeaderFlourish, OrnamentalRule, illuminated drop caps)
 
-  // Single flow (most practices)
-  flow?: string                  // relative path to flow file
-
-  // Multi-hour (Little Office, Divine Office)
-  hours?: {
-    id: string                   // "lauds" | "vespers" | "compline" | custom
-    name: LocalizedText
-    flow: string                 // relative path to flow file
-    timeBlock: TimeBlock
-  }[]
+  // Flows — unified list of schedulable prayer sequences
+  // Replaces the old separate flow/hours/forms fields.
+  // Simple practices have one entry with id "default".
+  // Multi-sequence practices (Divine Office, Rosary) list each sequence.
+  flows: FlowEntry[]
 
   // Variants (different meditation sets for the same prayer structure)
   variants?: {
@@ -120,16 +130,21 @@ type PracticeManifest = {
   // Catalog metadata
   pack?: string                  // undefined = base catalog, "lent-2026" = seasonal pack
   tags: string[]                 // for search/filtering
+
+  // Seeding defaults — used when adding this practice to a user's plan
+  defaults?: {
+    sortOrder: number
+    slots: SlotDefault[]         // one entry per schedulable flow
+  }
 }
 ```
 
 **Not in the manifest** (user personalization, stored in DB):
 - `custom_icon` — user chooses emoji
-- `tier` — user assigns essential/ideal/extra
-- `time_block` — user assigns morning/daytime/evening/flexible
-- `schedule` — JSON blob: daily, days-of-week, day-of-month, etc. (with optional notify array)
 - `sort_order` — user reorders
 - `variant` — user selects variant (e.g. prayer form)
+
+`tier`, `time_block`, and `schedule` are seeded from `defaults.slots[]` when the practice is first added to the plan, but stored in and editable from the DB record. The manifest only provides suggested starting values.
 
 ---
 
@@ -237,8 +252,6 @@ Variants provide interchangeable content for the same prayer structure. The user
 type Variant = {
   id: string
   name: LocalizedText
-  selector: 'day-of-week' | 'liturgical-season' | 'manual'  // how to pick the active set
-  schedule?: Record<string, string>  // maps selector value → set key (day-of-week only)
   data: Record<string, VariantEntry[]>  // set key → array of entries (one per repeat iteration)
 }
 
@@ -251,21 +264,13 @@ type VariantEntry = {
 }
 ```
 
+The data keys match flow IDs (e.g. `"joyful"`, `"sorrowful"`) — this is how the engine knows which set to use for a given flow. Scheduling which flow to pray on which day is defined in `defaults.slots[]` in the manifest, not in the variant.
+
 **Example: Rosary traditional variant**
 ```json
 {
   "id": "traditional",
   "name": { "en": "Traditional Meditations" },
-  "selector": "day-of-week",
-  "schedule": {
-    "sunday": "glorious",
-    "monday": "joyful",
-    "tuesday": "sorrowful",
-    "wednesday": "glorious",
-    "thursday": "luminous",
-    "friday": "sorrowful",
-    "saturday": "joyful"
-  },
   "data": {
     "joyful": [
       { "name": "The Annunciation", "meditation": "The angel Gabriel was sent to Mary..." },
@@ -283,13 +288,11 @@ type VariantEntry = {
 
 **How it works at runtime:**
 1. User has `selected_variant: "traditional"` in their DB record
-2. Engine loads `variants/traditional.json`
-3. Selector is `day-of-week` → today is Monday → `schedule.monday` = `"joyful"`
-4. Engine gets `data.joyful` → array of 5 entries
+2. Engine receives the active `flowId` (e.g. `"joyful"`) as `setKeyOverride` in the context
+3. Engine loads `variants/traditional.json`, looks up `data[setKeyOverride]`
+4. If the key isn't found, falls back to the first available key in `data`
 5. The repeat section with `variable.key: "mysteries"` iterates 5 times
 6. Each iteration, `{{name}}` and `{{meditation}}` resolve to the entry's fields
-
-**`liturgical-season` selector:** The engine calls `getLiturgicalSeason(date, form)` using the user's liturgical calendar preference (OF or EF) and uses the returned season string (e.g. `"lent"`, `"easter"`) as the data key. If the season key doesn't exist in `data`, falls back to the first available key. No `schedule` field needed — the season is computed from the date. Data keys should use the `LiturgicalSeason` values: `advent`, `christmas`, `epiphany`, `septuagesima`, `lent`, `easter`, `ordinary`, `post-pentecost`.
 
 ---
 
@@ -304,7 +307,8 @@ type FlowContext = {
   date: Date
   variant?: string                    // user's selected variant ID
   variantData?: Variant               // loaded variant file
-  liturgicalCalendar?: 'of' | 'ef'   // for liturgical-season selector
+  setKeyOverride?: string             // active flow ID; used to pick the right data set from the variant
+  liturgicalCalendar?: 'of' | 'ef'   // for seasonal sections
   readingProgress?: ReadingProgress   // for lectio sections
   psalterNumbering?: 'mt' | 'lxx'    // for psalter sections
 }
@@ -381,7 +385,7 @@ ALTER TABLE practices ADD COLUMN selected_variant TEXT;     -- user's preferred 
   "estimatedMinutes": 1,
   "flowMode": "scroll",
   "completion": "flow-end",
-  "flow": "flow.json",
+  "flows": [{ "id": "default", "name": { "en": "Morning Offering" }, "file": "flow.json" }],
   "description": { "en": "A prayer offering the day's activities to God through the Immaculate Heart of Mary." },
   "history": { "en": "The Morning Offering tradition grew from the Apostleship of Prayer, founded in 1844..." },
   "howToPray": { "en": "Upon waking, make the Sign of the Cross and slowly pray the offering, consciously dedicating your day." },
@@ -438,12 +442,38 @@ ALTER TABLE practices ADD COLUMN selected_variant TEXT;     -- user's preferred 
 }
 ```
 
-### Rosary (structured with variants)
+### Rosary (structured with variants and multiple flows)
 
-See the Variant Schema section above for the full example. Key points:
-- `flow.json` defines the prayer skeleton (fixed structure)
-- `variants/*.json` files provide interchangeable meditation content
-- The engine merges structure + variant data at runtime based on day of week + user's variant preference
+The Rosary has four flows — one per mystery set — each sharing the same `flow.json` skeleton. Scheduling which mysteries to pray each day is defined in `defaults.slots[]`:
+
+```json
+{
+  "id": "rosary",
+  "flows": [
+    { "id": "joyful",    "name": { "en": "Joyful Mysteries" },    "file": "flow.json" },
+    { "id": "sorrowful", "name": { "en": "Sorrowful Mysteries" }, "file": "flow.json" },
+    { "id": "glorious",  "name": { "en": "Glorious Mysteries" },  "file": "flow.json" },
+    { "id": "luminous",  "name": { "en": "Luminous Mysteries" },  "file": "flow.json" }
+  ],
+  "variants": [
+    { "id": "traditional", "name": { "en": "Traditional Meditations" }, "file": "variants/traditional.json" }
+  ],
+  "defaults": {
+    "sortOrder": 4,
+    "slots": [
+      { "flowId": "joyful",    "schedule": { "type": "days-of-week", "days": [1, 6] }, "tier": "essential" },
+      { "flowId": "sorrowful", "schedule": { "type": "days-of-week", "days": [2, 5] }, "tier": "essential" },
+      { "flowId": "glorious",  "schedule": { "type": "days-of-week", "days": [0, 3] }, "tier": "essential" },
+      { "flowId": "luminous",  "schedule": { "type": "days-of-week", "days": [4]    }, "tier": "essential" }
+    ]
+  }
+}
+```
+
+Key points:
+- `flow.json` defines the prayer skeleton (fixed structure with a repeat section for the mysteries)
+- `variants/*.json` files provide interchangeable meditation content keyed by flow ID (e.g. `data.joyful`, `data.sorrowful`)
+- Day-of-week scheduling lives in `defaults.slots[]`, not in the variant — variants are pure content
 
 ### Divine Office Morning Prayer (real practice at `src/content/practices/divine-office/`)
 
