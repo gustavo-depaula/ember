@@ -23,32 +23,35 @@ Practices are organized into three tiers — **Essential**, **Ideal**, and **Ext
 Built-in practice metadata comes from `src/content/practices/*/manifest.json`. Each manifest includes a `defaults` section that defines initial tier, time block, schedule, enabled state, and sort order. Adding a new built-in practice = adding a manifest folder. No code changes needed.
 
 ### Essential (enabled by default)
-| Practice | Schedule | Time Block |
-|----------|----------|------------|
-| Morning Offering | Daily | Morning |
-| Mental Prayer | Daily | Morning |
-| Holy Mass | Days-of-week [Sun] | Morning |
-| Rosary | Daily | Daytime |
-| Examination of Conscience | Daily | Evening |
-| Night Prayer | Daily | Evening |
+| Practice | Manifest ID | Schedule | Time Block |
+|----------|------------|----------|------------|
+| Morning Offering | `morning-offering` | Daily | Morning |
+| Mental Prayer | `mental-prayer` | Daily | Morning |
+| Holy Mass | `mass` | Days-of-week [Sun] | Morning |
+| Rosary | `rosary` | Daily | Daytime |
+| Examination of Conscience | `examination-of-conscience` | Daily | Evening |
+| Night Prayer | `night-prayer` | Daily | Evening |
 
 ### Ideal
-| Practice | Schedule | Time Block | Default |
-|----------|----------|------------|---------|
-| Angelus | Daily | Daytime | Enabled |
-| Spiritual Reading | Daily | Flexible | Enabled |
-| Confession | Times-per 1x/month | Flexible | Disabled |
-| Visit to Blessed Sacrament | Daily | Flexible | Disabled |
+| Practice | Manifest ID | Schedule | Time Block | Default |
+|----------|------------|----------|------------|---------|
+| Angelus | `angelus` | Daily | Daytime | Enabled |
+| Preces (Opus Dei) | `preces-opus-dei` | Daily | Morning | Enabled |
+| Spiritual Reading | `spiritual-reading` | Daily | Flexible | Enabled |
+| Confession | `confession` | Times-per 1x/month | Flexible | Disabled |
+| Visit to Blessed Sacrament | `visit-blessed-sacrament` | Daily | Flexible | Disabled |
 
 ### Extra (disabled by default)
-| Practice | Schedule | Time Block |
-|----------|----------|------------|
-| Divine Mercy Chaplet | Daily | Daytime |
-| Stations of the Cross | Days-of-week [Fri] | Flexible |
-| Lectio Divina | Daily | Flexible |
-| Guardian Angel Prayer | Daily | Morning |
-| Memorare | Daily | Flexible |
-| Three O'Clock Prayer | Daily | Daytime |
+| Practice | Manifest ID | Schedule | Time Block |
+|----------|------------|----------|------------|
+| Divine Mercy Chaplet | `divine-mercy` | Daily | Daytime |
+| Stations of the Cross | `stations-cross` | Days-of-week [Fri] | Flexible |
+| Lectio Divina | `lectio-divina` | Daily | Flexible |
+| Guardian Angel Prayer | `guardian-angel` | Daily | Morning |
+| Memorare | `memorare` | Daily | Flexible |
+| Three O'Clock Prayer | `three-oclock-prayer` | Daily @ 15:00 | Daytime |
+| Divine Office | `divine-office` | Daily | Morning/Evening |
+| Little Office of the BVM | `little-office-bvm` | Daily | Flexible |
 
 ---
 

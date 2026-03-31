@@ -1,0 +1,32 @@
+{
+  "id": "simple",
+  "name": { "en": "Simple Method", "pt-BR": "Método Simples" },
+  "data": {
+    "default": [
+      {
+        "name": { "en": "Be Still", "pt-BR": "Aquiete-se" },
+        "meditation": { "en": "Find a quiet place. Sit comfortably upright. Take three slow, deep breaths. Let the noise and the business of your day fall away. You are stepping out of time and into God's presence.", "pt-BR": "Encontre um lugar tranquilo. Sente-se confortavelmente ereto. Respire fundo três vezes, devagar. Deixe o barulho e as preocupações do dia irem embora. Você está saindo do tempo e entrando na presença de Deus." }
+      },
+      {
+        "name": { "en": "An Act of Faith", "pt-BR": "Um Ato de Fé" },
+        "meditation": { "en": "Say simply, or feel quietly: 'Lord, I believe You are here. You know me and You love me.' You do not need to feel anything for this to be true. Faith is not a feeling — it is the soul's assent to what God has revealed.", "pt-BR": "Diga simplesmente, ou sinta quietamente: 'Senhor, creio que estás aqui. Conheces-me e amas-me.' Não é necessário sentir nada para que isso seja verdade. A fé não é um sentimento — é o assentimento da alma ao que Deus revelou." }
+      },
+      {
+        "name": { "en": "A Word or Image", "pt-BR": "Uma Palavra ou Imagem" },
+        "meditation": { "en": "Take a short phrase — a line from Scripture, a phrase from a familiar prayer, or simply the name 'Jesus'. Hold it gently in your mind, as you would hold a stone in still water. Let it rest there. You are not analyzing it; you are receiving it.", "pt-BR": "Tome uma breve frase — uma linha das Escrituras, uma frase de uma oração conhecida ou simplesmente o nome 'Jesus'. Segure-a gentilmente em sua mente, como seguraria uma pedra em água parada. Deixe-a repousar aí. Você não está analisando; está recebendo." }
+      },
+      {
+        "name": { "en": "Listen", "pt-BR": "Escute" },
+        "meditation": { "en": "Rest quietly. You are not trying to produce thoughts or feelings. If your mind wanders — and it will — return gently to your word, without self-criticism. God can speak in the silence, in the deep stillness, in the quiet movements of the heart. Trust the time.", "pt-BR": "Repouse quietamente. Você não está tentando produzir pensamentos ou sentimentos. Se sua mente divagar — e vai divagar — retorne gentilmente à sua palavra, sem autocrítica. Deus pode falar no silêncio, na quietude profunda, nos movimentos sutis do coração. Confie no tempo." }
+      },
+      {
+        "name": { "en": "Speak", "pt-BR": "Fale" },
+        "meditation": { "en": "Now speak to God simply and from the heart. Tell Him about your day, your joys and worries, your gratitude, your desires. He is your Father; you are His beloved child. No formal language is needed. No performance. Just truth.", "pt-BR": "Agora fale com Deus simplesmente e do coração. Conte-lhe sobre seu dia, suas alegrias e preocupações, sua gratidão, seus desejos. Ele é seu Pai; você é Seu amado filho. Nenhuma linguagem formal é necessária. Nenhuma performance. Apenas verdade." }
+      },
+      {
+        "name": { "en": "Close", "pt-BR": "Encerre" },
+        "meditation": { "en": "Give thanks for this time together — however it felt. Dry or consoling, distracted or peaceful: you were with God, and that is never wasted. Make one simple, brief resolution to carry into your day. Then seal it with an Our Father or a Hail Mary.", "pt-BR": "Dê graças por este tempo juntos — como quer que tenha sido. Árido ou consolador, distraído ou sereno: você estava com Deus, e isso nunca é desperdiçado. Faça uma resolução simples e breve para levar ao longo do dia. Depois, sele-a com um Pai Nosso ou uma Ave Maria." }
+      }
+    ]
+  }
+}

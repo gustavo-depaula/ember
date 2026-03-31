@@ -1,0 +1,28 @@
+{
+  "id": "ignatian-examen",
+  "name": { "en": "Ignatian Examen", "pt-BR": "Exame Inaciano" },
+  "data": {
+    "default": [
+      {
+        "name": { "en": "Gratitude", "pt-BR": "Gratidão" },
+        "meditation": { "en": "Look back over the day with grateful eyes. Do not begin with failures; begin with gifts. What moments of beauty, kindness, or grace can you identify? Name three things for which you are genuinely thankful. Offer thanks to God for each one.", "pt-BR": "Olhe para trás no dia com olhos gratos. Não comece com os fracassos; comece com os dons. Quais momentos de beleza, bondade ou graça você consegue identificar? Nomeie três coisas pelas quais você é genuinamente grato. Ofereça graças a Deus por cada uma delas." }
+      },
+      {
+        "name": { "en": "Petition for Light", "pt-BR": "Petição de Luz" },
+        "meditation": { "en": "Humbly ask the Holy Spirit to give you clarity about yourself. You are not judging yourself alone — God is gently illuminating your soul with His mercy. Pray: 'Come, Holy Spirit. Show me my heart as You see it.'", "pt-BR": "Humildemente peça ao Espírito Santo que lhe dê clareza sobre si mesmo. Você não está se julgando sozinho — Deus está iluminando gentilmente sua alma com Sua misericórdia. Ore: 'Vinde, Espírito Santo. Mostrai-me meu coração como Vós o vedes.'" }
+      },
+      {
+        "name": { "en": "Review of the Day", "pt-BR": "Revisão do Dia" },
+        "meditation": { "en": "Walk through the day gently, from morning to now. Notice where you sensed God's presence and responded to His grace. Notice where you resisted, where you were unkind, impatient, selfish, or dishonest. Pay attention to your feelings throughout — they are often the key to understanding your heart.", "pt-BR": "Percorra o dia gentilmente, da manhã até agora. Observe onde você sentiu a presença de Deus e respondeu à Sua graça. Observe onde você resistiu, onde foi indelicado, impaciente, egoísta ou desonesto. Preste atenção aos seus sentimentos ao longo do dia — eles frequentemente são a chave para entender seu coração." }
+      },
+      {
+        "name": { "en": "Sorrow", "pt-BR": "Arrependimento" },
+        "meditation": { "en": "Name honestly the moments where you fell short — in thought, word, deed, or omission. Do not wallow in guilt or minimize the truth. Bring these moments to God with sorrow, not despair. His mercy is greater than any failure. Say simply: 'Lord, I am sorry. Forgive me.'", "pt-BR": "Nomeie honestamente os momentos em que você falhou — em pensamento, palavra, obra ou omissão. Não se afunde na culpa nem minimize a verdade. Traga esses momentos a Deus com arrependimento, não com desespero. Sua misericórdia é maior do que qualquer fracasso. Diga simplesmente: 'Senhor, me arrependo. Perdoai-me.'" }
+      },
+      {
+        "name": { "en": "Hope & Resolution", "pt-BR": "Esperança e Resolução" },
+        "meditation": { "en": "With confidence in God's grace — not in your own willpower — look forward to tomorrow. Choose one area where you will act differently, and ask God for the grace to do it. Close with an Act of Contrition and place tomorrow in His hands.", "pt-BR": "Com confiança na graça de Deus — não em sua própria força de vontade — olhe adiante para o amanhã. Escolha uma área em que agirá diferente e peça a Deus a graça para fazê-lo. Encerre com um Ato de Contrição e coloque o amanhã em Suas mãos." }
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "confession",
+  "name": { "en": "Confession", "pt-BR": "Confissão" },
+  "categories": ["sacramental"],
+  "estimatedMinutes": 10,
+  "description": {
+    "en": "The Sacrament of Penance and Reconciliation, in which the faithful confess their sins to a priest and receive absolution. Confession restores the state of grace, heals the soul, and renews the baptismal covenant. This practice includes preparation and thanksgiving, helping you approach the sacrament with intentionality and gratitude.",
+    "pt-BR": "O Sacramento da Penitência e da Reconciliação, no qual os fiéis confessam seus pecados a um sacerdote e recebem a absolvição. A Confissão restaura o estado de graça, cura a alma e renova a aliança batismal. Esta prática inclui preparação e ação de graças, ajudando-o a se aproximar do sacramento com intencionalidade e gratidão."
+  },
+  "history": {
+    "en": "The Sacrament of Confession traces its institution to Christ Himself: 'Receive the Holy Spirit. Whose sins you forgive are forgiven them, and whose sins you retain are retained' (John 20:22-23). The early Church practiced public penance for grave sins; private confession evolved through the Irish monastic tradition. The Fourth Lateran Council (1215) codified the obligation to confess at least once a year. The Council of Trent (1551) defined the sacrament against Protestant denials, affirming that absolution is a judicial act of the priest acting in persona Christi.",
+    "pt-BR": "O Sacramento da Confissão remonta à sua instituição pelo próprio Cristo: 'Recebei o Espírito Santo. A quem perdoardes os pecados, eles lhes serão perdoados; a quem os retiverdes, serão retidos' (Jo 20,22-23). A Igreja primitiva praticava penitência pública para pecados graves; a confissão privada evoluiu pela tradição monástica irlandesa. O IV Concílio de Latrão (1215) codificou a obrigação de confessar ao menos uma vez por ano."
+  },
+  "howToPray": {
+    "en": "Use the 'Prepare' flow before going to confession — it leads you through a brief examination of conscience and an Act of Contrition. After receiving the sacrament and performing your penance, use the 'Thanksgiving' flow to close the grace-filled event with gratitude.",
+    "pt-BR": "Use o fluxo 'Preparação' antes de ir à confissão — ele o guia por um breve exame de consciência e um Ato de Contrição. Após receber o sacramento e cumprir a penitência, use o fluxo 'Ação de Graças' para encerrar o evento de graça com gratidão."
+  },
+  "flowMode": "scroll",
+  "completion": "manual",
+  "flows": [
+    { "id": "prepare", "name": { "en": "Preparation", "pt-BR": "Preparação" }, "file": "flows/prepare.json", "timeBlock": "flexible" },
+    { "id": "thanksgiving", "name": { "en": "Thanksgiving", "pt-BR": "Ação de Graças" }, "file": "flows/thanksgiving.json", "timeBlock": "flexible" }
+  ],
+  "tags": ["sacrament", "penance", "reconciliation", "monthly", "absolution"],
+  "defaults": {
+    "sortOrder": 10,
+    "slots": [
+      { "flowId": "prepare", "schedule": { "type": "times-per", "count": 1, "period": "month" }, "tier": "ideal", "enabled": false },
+      { "flowId": "thanksgiving", "schedule": { "type": "times-per", "count": 1, "period": "month" }, "tier": "ideal", "enabled": false }
+    ]
+  }
+}

@@ -1,6 +1,9 @@
 import { getDate, getDay } from 'date-fns'
+import actOfContrition from '@/assets/prayers/act-of-contrition.json'
+import animaChristi from '@/assets/prayers/anima-christi.json'
 import apostlesCreed from '@/assets/prayers/apostles-creed.json'
 import benedictus from '@/assets/prayers/benedictus.json'
+import comeHolySpirit from '@/assets/prayers/come-holy-spirit.json'
 import divineMercyResponse from '@/assets/prayers/divine-mercy-response.json'
 import eternalFather from '@/assets/prayers/eternal-father.json'
 import fatimaPrayer from '@/assets/prayers/fatima-prayer.json'
@@ -51,6 +54,9 @@ const prayerRefs: Record<string, PrayerAsset> = {
   'eternal-father': eternalFather,
   'divine-mercy-response': divineMercyResponse,
   'holy-god': holyGod,
+  'act-of-contrition': actOfContrition,
+  'anima-christi': animaChristi,
+  'come-holy-spirit': comeHolySpirit,
 }
 
 const canticleRefs: Record<string, CanticleAsset> = {

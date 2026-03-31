@@ -1,0 +1,30 @@
+{
+  "id": "spiritual-reading",
+  "name": { "en": "Spiritual Reading", "pt-BR": "Leitura Espiritual" },
+  "categories": ["daily", "formation"],
+  "estimatedMinutes": 15,
+  "description": {
+    "en": "A daily time set aside for reading spiritual books: the lives of the saints, spiritual classics, Scripture, the writings of the Fathers, or documents of the Church's Magisterium. Spiritual reading forms the mind in the things of God and nourishes prayer with living material.",
+    "pt-BR": "Um tempo diário reservado para leitura de livros espirituais: vidas dos santos, clássicos espirituais, Escrituras, escritos dos Padres ou documentos do Magistério da Igreja. A leitura espiritual forma a mente nas coisas de Deus e alimenta a oração com material vivo."
+  },
+  "history": {
+    "en": "The practice of spiritual reading is as old as Christian monasticism. St. Benedict prescribed it in his Rule as lectio divina. The Fathers of the Church — Origen, Jerome, Ambrose, Augustine — formed their theology through continuous reading of Scripture and earlier Christian writers. In the modern period, St. Josemaría Escrivá placed spiritual reading among the essential norms of piety, calling it 'daily nourishment for your soul.' The Council of Trent and later councils have recommended it to all the faithful.",
+    "pt-BR": "A prática da leitura espiritual é tão antiga quanto o monasticismo cristão. São Bento a prescreveu em sua Regra como lectio divina. Os Padres da Igreja formaram sua teologia pela leitura contínua das Escrituras e de escritores cristãos anteriores. No período moderno, São Josemaría Escrivá colocou a leitura espiritual entre as normas essenciais de piedade, chamando-a de 'alimento diário de sua alma.'"
+  },
+  "howToPray": {
+    "en": "Choose a book and keep it close — on your nightstand, in your bag, on your desk. Read a little each day rather than a lot at once. Read slowly, pausing where you are moved. When a passage strikes you, stop and let it become prayer. Good books for beginners: the Gospels, the Imitation of Christ, Story of a Soul by St. Thérèse, Introduction to the Devout Life by St. Francis de Sales.",
+    "pt-BR": "Escolha um livro e mantenha-o à mão — na mesinha de cabeceira, na bolsa, na mesa de trabalho. Leia um pouco a cada dia em vez de muito de uma vez. Leia devagar, parando onde for movido. Quando uma passagem o tocar, pare e deixe-a se tornar oração. Bons livros para iniciantes: os Evangelhos, a Imitação de Cristo, História de uma Alma de Santa Teresinha, Introdução à Vida Devota de São Francisco de Sales."
+  },
+  "flowMode": "scroll",
+  "completion": "manual",
+  "flows": [
+    { "id": "default", "name": { "en": "Spiritual Reading", "pt-BR": "Leitura Espiritual" }, "file": "flow.json" }
+  ],
+  "tags": ["reading", "formation", "lectio", "daily", "books", "saints"],
+  "defaults": {
+    "sortOrder": 9,
+    "slots": [
+      { "flowId": "default", "schedule": { "type": "daily" }, "tier": "ideal" }
+    ]
+  }
+}

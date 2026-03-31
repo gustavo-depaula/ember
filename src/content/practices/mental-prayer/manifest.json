@@ -1,0 +1,59 @@
+{
+  "id": "mental-prayer",
+  "name": { "en": "Mental Prayer", "pt-BR": "Oração Mental" },
+  "categories": ["daily", "contemplative"],
+  "estimatedMinutes": 15,
+  "description": {
+    "en": "Mental prayer is a personal, interior conversation with God — distinct from vocal prayer in that it engages the whole soul: memory, intellect, and will. It is the heart of the spiritual life, the furnace from which all apostolic activity draws its fire.",
+    "pt-BR": "A oração mental é uma conversa pessoal e interior com Deus — distinta da oração vocal por envolver toda a alma: memória, intelecto e vontade. É o coração da vida espiritual, a fornalha de onde toda atividade apostólica extrai seu fogo."
+  },
+  "history": {
+    "en": "The practice of mental prayer has been central to Catholic spirituality since the desert fathers of the 4th century. St. Teresa of Ávila defined it as 'an intimate sharing between friends; it means taking time frequently to be alone with Him who we know loves us.' St. Ignatius of Loyola systematized it in the Spiritual Exercises. St. Alphonsus Liguori called mental prayer 'the great means of salvation' and taught that whoever prays is certainly saved.",
+    "pt-BR": "A prática da oração mental é central na espiritualidade católica desde os Padres do Deserto no século IV. Santa Teresa de Ávila a definiu como 'um trato de amizade, estando muitas vezes a sós com quem sabemos que nos ama.' Santo Inácio de Loyola a sistematizou nos Exercícios Espirituais. Santo Afonso Liguori chamou-a de 'o grande meio de salvação.'"
+  },
+  "howToPray": {
+    "en": "Choose a quiet time and a subject for your meditation: a mystery of Christ's life, a virtue, or a truth of faith. The method (Ignatian, Carmelite, or Simple) can be changed in your practice settings. Start with 15 minutes; grow gradually to 30 or more. The goal is not to have many thoughts, but to love much.",
+    "pt-BR": "Escolha um momento tranquilo e um tema: um mistério da vida de Cristo, uma virtude ou uma verdade da fé. O método (Inaciano, Carmelita ou Simples) pode ser alterado nas configurações. Comece com 15 minutos; cresça gradualmente para 30 ou mais. O objetivo não é ter muitos pensamentos, mas amar muito."
+  },
+  "flowMode": "step",
+  "completion": "flow-end",
+  "flows": [
+    { "id": "default", "name": { "en": "Mental Prayer", "pt-BR": "Oração Mental" }, "file": "flow.json" }
+  ],
+  "variants": [
+    {
+      "id": "ignatian",
+      "name": { "en": "Ignatian Method", "pt-BR": "Método Inaciano" },
+      "description": {
+        "en": "St. Ignatius of Loyola's meditation from the Spiritual Exercises: composition of place, application of the three faculties, and a personal colloquy",
+        "pt-BR": "A meditação de Santo Inácio de Loyola nos Exercícios Espirituais: composição de lugar, aplicação das três faculdades e colóquio pessoal"
+      },
+      "file": "variants/ignatian.json"
+    },
+    {
+      "id": "carmelite",
+      "name": { "en": "Carmelite Method", "pt-BR": "Método Carmelita" },
+      "description": {
+        "en": "St. Teresa of Ávila's method of recollection: gathering the senses inward to encounter God present within the soul, dwelling in loving simplicity",
+        "pt-BR": "O método de recolhimento de Santa Teresa de Ávila: recolher os sentidos para dentro, a fim de encontrar Deus presente na alma, permanecendo em amorosa simplicidade"
+      },
+      "file": "variants/carmelite.json"
+    },
+    {
+      "id": "simple",
+      "name": { "en": "Simple Method", "pt-BR": "Método Simples" },
+      "description": {
+        "en": "A gentle approach for beginners and those who prefer simplicity: silence, a word from Scripture or prayer, attentive listening, and a brief colloquy",
+        "pt-BR": "Uma abordagem gentil para iniciantes e para quem prefere a simplicidade: silêncio, uma palavra das Escrituras ou da oração, escuta atenta e um breve colóquio"
+      },
+      "file": "variants/simple.json"
+    }
+  ],
+  "tags": ["prayer", "meditation", "contemplation", "mental", "ignatian", "carmelite", "daily", "morning"],
+  "defaults": {
+    "sortOrder": 2,
+    "slots": [
+      { "flowId": "default", "schedule": { "type": "daily" }, "time": "07:30", "tier": "essential" }
+    ]
+  }
+}
