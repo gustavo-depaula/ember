@@ -95,15 +95,19 @@ function resolveBookSlug(abbr: string): string {
   return bookAbbreviations[abbr] ?? abbr
 }
 
-function parseBiblePassage(passage: string, resolve: BookNameResolver): ReadingReference {
+type BibleReference = Extract<ReadingReference, { type: 'bible' }>
+
+function parseBiblePassage(passage: string, resolve: BookNameResolver): BibleReference {
   const trimmed = passage.trim()
-  const match = trimmed.match(/^([\w-]+)\s+(\d+)$/)
+  const match = trimmed.match(/^([\w-]+)\s+(\d+)(?::(\d+)(?:-(\d+))?)?$/)
   if (!match) {
     return { type: 'bible', book: trimmed, bookName: trimmed, chapter: 1 }
   }
   const slug = resolveBookSlug(match[1])
   const chapter = Number(match[2])
-  return { type: 'bible', book: slug, bookName: resolve(slug), chapter }
+  const startVerse = match[3] ? Number(match[3]) : undefined
+  const endVerse = match[4] ? Number(match[4]) : undefined
+  return { type: 'bible', book: slug, bookName: resolve(slug), chapter, startVerse, endVerse }
 }
 
 export function parseTrackEntry(
@@ -118,6 +122,12 @@ export function parseTrackEntry(
   return entry.split(';').map((p) => parseBiblePassage(p, bookName))
 }
 
+export function formatVerseRange(startVerse?: number, endVerse?: number): string {
+  if (startVerse === undefined) return ''
+  if (endVerse !== undefined) return `:${startVerse}-${endVerse}`
+  return `:${startVerse}`
+}
+
 export function formatTrackEntry(
   source: 'bible' | 'catechism',
   entry: string,
@@ -129,12 +139,9 @@ export function formatTrackEntry(
   }
   return entry
     .split(';')
-    .map((passage) => {
-      const trimmed = passage.trim()
-      const match = trimmed.match(/^([\w-]+)\s+(\d+)$/)
-      if (!match) return trimmed
-      const slug = resolveBookSlug(match[1])
-      return `${bookName(slug)} ${match[2]}`
+    .map((p) => {
+      const ref = parseBiblePassage(p.trim(), bookName)
+      return `${ref.bookName} ${ref.chapter}${formatVerseRange(ref.startVerse, ref.endVerse)}`
     })
     .join('; ')
 }

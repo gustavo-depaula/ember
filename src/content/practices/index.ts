@@ -55,6 +55,9 @@ import morningOfferingFlow from './morning-offering/flow.json'
 import morningOfferingManifest from './morning-offering/manifest.json'
 import nightPrayerFlow from './night-prayer/flow.json'
 import nightPrayerManifest from './night-prayer/manifest.json'
+import novenaSacredHeartDays from './novena-sacred-heart/data/days.json'
+import novenaSacredHeartFlow from './novena-sacred-heart/flow.json'
+import novenaSacredHeartManifest from './novena-sacred-heart/manifest.json'
 import precesOpusDeiFlow from './preces-opus-dei/flow.json'
 import precesOpusDeiManifest from './preces-opus-dei/manifest.json'
 import rosaryFlow from './rosary/flow.json'
@@ -97,6 +100,7 @@ const manifests: Record<string, PracticeManifest> = {
   'lectio-divina': lectioDivinaManifest as PracticeManifest,
   mass: massManifest as PracticeManifest,
   'bible-catechism-in-year': bibleInYearManifest as PracticeManifest,
+  'novena-sacred-heart': novenaSacredHeartManifest as PracticeManifest,
 }
 
 const flows: Record<string, FlowDefinition> = {
@@ -135,6 +139,7 @@ const flows: Record<string, FlowDefinition> = {
   'mass/ordinary': massOrdinary as FlowDefinition,
   'mass/extraordinary': massExtraordinary as FlowDefinition,
   'bible-catechism-in-year/default': bibleInYearFlow as FlowDefinition,
+  'novena-sacred-heart/default': novenaSacredHeartFlow as FlowDefinition,
 }
 
 const variants: Record<string, Record<string, Variant>> = {
@@ -169,6 +174,9 @@ const practiceData: Record<string, Record<string, CycleData>> = {
   },
   'little-office-bvm': {
     'office-hymns': officeHymns as unknown as CycleData,
+  },
+  'novena-sacred-heart': {
+    'novena-days': novenaSacredHeartDays as unknown as CycleData,
   },
 }
 
@@ -246,6 +254,7 @@ export function getManifestIconKey(manifestId: string): string {
     'visit-blessed-sacrament': 'eucharist',
     'lectio-divina': 'book',
     'bible-catechism-in-year': 'book',
+    'novena-sacred-heart': 'sacred-heart',
   }
   return map[manifestId] ?? 'prayer'
 }
