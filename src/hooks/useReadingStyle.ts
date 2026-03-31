@@ -1,7 +1,7 @@
 import { Platform } from 'react-native'
 
 import { getFontFamily } from '@/config/readingFonts'
-import { useReadingConfigStore } from '@/stores/readingConfigStore'
+import { usePreferencesStore } from '@/stores/preferencesStore'
 
 // Reading-specific scale — larger than body font tokens for comfortable extended reading
 export const readingScale = {
@@ -15,10 +15,10 @@ const marginMap = { narrow: '$sm', normal: '$md', wide: '$lg' } as const
 const webJustifyStyle = { textJustify: 'inter-word' } as Record<string, string>
 
 export function useReadingStyle() {
-  const fontFamilyId = useReadingConfigStore((s) => s.fontFamily)
-  const fontSizeStep = useReadingConfigStore((s) => s.fontSizeStep)
-  const lineHeightStep = useReadingConfigStore((s) => s.lineHeightStep)
-  const textAlign = useReadingConfigStore((s) => s.textAlign)
+  const fontFamilyId = usePreferencesStore((s) => s.fontFamily)
+  const fontSizeStep = usePreferencesStore((s) => s.fontSizeStep)
+  const lineHeightStep = usePreferencesStore((s) => s.lineHeightStep)
+  const textAlign = usePreferencesStore((s) => s.textAlign)
 
   return {
     // Raw font family name — valid at runtime but not a Tamagui token
@@ -31,11 +31,11 @@ export function useReadingStyle() {
 }
 
 export function useReadingFontSizePx() {
-  const step = useReadingConfigStore((s) => s.fontSizeStep)
+  const step = usePreferencesStore((s) => s.fontSizeStep)
   return readingScale.fontSize[step - 1]
 }
 
 export function useReadingMargin() {
-  const margin = useReadingConfigStore((s) => s.margin)
+  const margin = usePreferencesStore((s) => s.margin)
   return marginMap[margin]
 }

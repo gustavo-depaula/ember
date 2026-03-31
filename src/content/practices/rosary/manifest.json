@@ -32,5 +32,12 @@
       "file": "variants/scriptural.json"
     }
   ],
-  "tags": ["marian", "rosary", "meditation", "daily"]
+  "tags": ["marian", "rosary", "meditation", "daily"],
+  "defaults": {
+    "enabled": true,
+    "sortOrder": 4,
+    "tier": "essential",
+    "timeBlock": "daytime",
+    "schedule": { "type": "daily" }
+  }
 }

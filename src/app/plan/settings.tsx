@@ -7,18 +7,21 @@ import { Text, useTheme, XStack, YStack } from 'tamagui'
 
 import { ScreenLayout } from '@/components'
 import { dayKeys } from '@/config/constants'
-import type { Frequency, Practice, Tier, TimeBlock } from '@/db/schema'
+import { getManifest } from '@/content/practices'
+import type { Tier, UserPractice } from '@/db/schema'
 import { getPracticeIcon } from '@/db/seed'
 import {
+  getPracticeIconKey,
   getPracticeName,
   useAllPractices,
   useCreatePractice,
   useDeletePractice,
   useUpdatePractice,
 } from '@/features/plan-of-life'
+import type { PracticeFormData } from '@/features/plan-of-life/components/PracticeEditSheet'
 import { PracticeEditSheet } from '@/features/plan-of-life/components/PracticeEditSheet'
 import { TierBadge } from '@/features/plan-of-life/components/TierBadge'
-import { parseFrequencyDays } from '@/features/plan-of-life/utils'
+import { parseSchedule } from '@/features/plan-of-life/schedule'
 
 function slugify(name: string): string {
   return name
@@ -27,18 +30,30 @@ function slugify(name: string): string {
     .replace(/^-|-$/g, '')
 }
 
-function FrequencyLabel({ practice }: { practice: Practice }) {
+function ScheduleLabel({ practice }: { practice: UserPractice }) {
   const { t } = useTranslation()
-  if (practice.frequency === 'daily') return null
+  const schedule = parseSchedule(practice.schedule)
 
-  const days = parseFrequencyDays(practice)
-  const label = days.map((d) => t(`day.${dayKeys[d]}`)).join(', ')
+  if (schedule.type === 'daily') return null
 
-  return (
-    <Text fontFamily="$body" fontSize={11} color="$colorSecondary">
-      {label || practice.frequency}
-    </Text>
-  )
+  if (schedule.type === 'days-of-week') {
+    const label = schedule.days.map((d) => t(`day.${dayKeys[d]}`)).join(', ')
+    return (
+      <Text fontFamily="$body" fontSize={11} color="$colorSecondary">
+        {label}
+      </Text>
+    )
+  }
+
+  if (schedule.type === 'times-per') {
+    return (
+      <Text fontFamily="$body" fontSize={11} color="$colorSecondary">
+        {schedule.count}x/{schedule.period}
+      </Text>
+    )
+  }
+
+  return null
 }
 
 export default function PlanSettingsScreen() {
@@ -50,11 +65,11 @@ export default function PlanSettingsScreen() {
   const createPractice = useCreatePractice()
   const deletePractice = useDeletePractice()
 
-  const [editingPractice, setEditingPractice] = useState<Practice | undefined>()
+  const [editingPractice, setEditingPractice] = useState<UserPractice | undefined>()
   const [showEditor, setShowEditor] = useState(false)
 
   const grouped = useMemo(() => {
-    const groups: Record<Tier, Practice[]> = { essential: [], ideal: [], extra: [] }
+    const groups: Record<Tier, UserPractice[]> = { essential: [], ideal: [], extra: [] }
     for (const p of practices) {
       if (p.tier in groups) groups[p.tier].push(p)
     }
@@ -63,7 +78,7 @@ export default function PlanSettingsScreen() {
 
   const tierSections: Tier[] = ['essential', 'ideal', 'extra']
 
-  function handleEdit(practice: Practice) {
+  function handleEdit(practice: UserPractice) {
     setEditingPractice(practice)
     setShowEditor(true)
   }
@@ -73,44 +88,34 @@ export default function PlanSettingsScreen() {
     setShowEditor(true)
   }
 
-  function handleSave(data: {
-    name: string
-    icon: string
-    tier: Tier
-    timeBlock: TimeBlock
-    frequency: Frequency
-    frequencyDays: number[]
-    notifyEnabled: boolean
-    notifyTime: string
-    description: string
-    enabled: boolean
-  }) {
+  function handleSave(data: PracticeFormData) {
     if (editingPractice) {
+      const isBuiltin = !!getManifest(editingPractice.practice_id)
       updatePractice.mutate({
-        id: editingPractice.id,
+        id: editingPractice.practice_id,
         data: {
-          name: editingPractice.is_builtin === 1 ? undefined : data.name,
-          icon: data.icon,
           tier: data.tier,
           timeBlock: data.timeBlock,
-          frequency: data.frequency,
-          frequencyDays: data.frequencyDays,
-          notifyEnabled: data.notifyEnabled ? 1 : 0,
-          notifyTime: data.notifyEnabled ? data.notifyTime : null,
-          description: data.description,
+          schedule: JSON.stringify(data.schedule),
           enabled: data.enabled ? 1 : 0,
+          ...(isBuiltin
+            ? {}
+            : {
+                customName: data.name,
+                customIcon: data.icon,
+                customDesc: data.description,
+              }),
         },
       })
     } else {
       createPractice.mutate({
         id: slugify(data.name),
-        name: data.name,
-        icon: data.icon,
-        frequency: data.frequency,
+        customName: data.name,
+        customIcon: data.icon,
         tier: data.tier,
         timeBlock: data.timeBlock,
-        frequencyDays: data.frequencyDays,
-        description: data.description,
+        schedule: JSON.stringify(data.schedule),
+        customDesc: data.description,
       })
     }
     setShowEditor(false)
@@ -118,7 +123,7 @@ export default function PlanSettingsScreen() {
 
   function handleDelete() {
     if (editingPractice) {
-      deletePractice.mutate(editingPractice.id)
+      deletePractice.mutate(editingPractice.practice_id)
     }
     setShowEditor(false)
   }
@@ -151,7 +156,7 @@ export default function PlanSettingsScreen() {
             </XStack>
 
             {grouped[tier].map((practice) => (
-              <Pressable key={practice.id} onPress={() => handleEdit(practice)}>
+              <Pressable key={practice.practice_id} onPress={() => handleEdit(practice)}>
                 <XStack
                   backgroundColor="$backgroundSurface"
                   borderRadius="$lg"
@@ -160,12 +165,12 @@ export default function PlanSettingsScreen() {
                   gap="$md"
                   opacity={practice.enabled ? 1 : 0.5}
                 >
-                  <Text fontSize={20}>{getPracticeIcon(practice.icon)}</Text>
+                  <Text fontSize={20}>{getPracticeIcon(getPracticeIconKey(practice))}</Text>
                   <YStack flex={1} gap={2}>
                     <Text fontFamily="$body" fontSize="$3" color="$color">
                       {getPracticeName(practice, t)}
                     </Text>
-                    <FrequencyLabel practice={practice} />
+                    <ScheduleLabel practice={practice} />
                   </YStack>
                   {!practice.enabled && (
                     <Text fontFamily="$body" fontSize={11} color="$colorSecondary">
@@ -251,7 +256,9 @@ export default function PlanSettingsScreen() {
             practice={editingPractice}
             onSave={handleSave}
             onDelete={
-              editingPractice && editingPractice.is_builtin === 0 ? handleDelete : undefined
+              editingPractice && !getManifest(editingPractice.practice_id)
+                ? handleDelete
+                : undefined
             }
             onClose={() => setShowEditor(false)}
           />

@@ -42,9 +42,9 @@ Margin presets map to Tamagui space tokens: Narrow = `$sm` (8px), Normal = `$md`
 
 Defines the curated font list with IDs, labels, descriptions, and raw font family names. Exports `readingFonts` array and `getFontFamily(id)` helper.
 
-### Store: `src/stores/readingConfigStore.ts`
+### Store: `src/stores/preferencesStore.ts`
 
-Zustand + immer store with AsyncStorage persistence, following the same pattern as `themeStore` and `preferencesStore`. AsyncStorage keys: `reading-font-family`, `reading-font-size`, `reading-line-height`, `reading-margin`, `reading-text-align`.
+Reading config is part of the consolidated `preferencesStore`, persisted in the SQLite `preferences` table. Keys: `reading-font-family`, `reading-font-size`, `reading-line-height`, `reading-margin`, `reading-text-align`.
 
 The `setFontSizeStep` setter auto-bumps `lineHeightStep` when it would fall below the new font size step, ensuring readability.
 

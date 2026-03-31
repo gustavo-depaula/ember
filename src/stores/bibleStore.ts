@@ -1,6 +1,7 @@
-import AsyncStorage from '@react-native-async-storage/async-storage'
 import { create } from 'zustand'
 import { immer } from 'zustand/middleware/immer'
+
+import { getPreference, setPreference } from '@/db/repositories/preferences'
 
 type BibleState = {
   bookId: string
@@ -21,14 +22,14 @@ export const useBibleStore = create<BibleState>()(
         state.bookId = bookId
         state.chapter = chapter
       })
-      AsyncStorage.setItem('bible-book', bookId)
-      AsyncStorage.setItem('bible-chapter', String(chapter))
+      setPreference('bible-book', bookId)
+      setPreference('bible-chapter', String(chapter))
     },
 
     hydrate: async () => {
       const [bookId, chapter] = await Promise.all([
-        AsyncStorage.getItem('bible-book'),
-        AsyncStorage.getItem('bible-chapter'),
+        getPreference('bible-book'),
+        getPreference('bible-chapter'),
       ])
       set((state) => {
         if (bookId) state.bookId = bookId

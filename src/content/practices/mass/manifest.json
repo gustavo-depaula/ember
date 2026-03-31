@@ -29,5 +29,12 @@
       "flow": "flows/extraordinary.json"
     }
   ],
-  "tags": ["mass", "liturgy", "eucharist", "missal"]
+  "tags": ["mass", "liturgy", "eucharist", "missal"],
+  "defaults": {
+    "enabled": true,
+    "sortOrder": 3,
+    "tier": "essential",
+    "timeBlock": "morning",
+    "schedule": { "type": "days-of-week", "days": [0] }
+  }
 }

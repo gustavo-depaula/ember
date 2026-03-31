@@ -1,13 +1,11 @@
 export {
-  advancePracticeTrack,
-  completeOfficeHour,
-  ensurePracticeTracks,
-  getDailyOfficeForDate,
-  getLegacyReadingTrack,
-  getPracticeTrack,
-  getTracksForPractice,
-  setPracticeTrackIndex,
-} from './office'
+  advanceIndex,
+  ensureCursor,
+  getCursor,
+  getCursorsWithPrefix,
+  setCursor,
+  setIndex,
+} from './cursors'
 export {
   createPractice,
   deletePractice,
@@ -17,13 +15,16 @@ export {
   getCompletionsForDate,
   getCompletionsForPractice,
   getEnabledPractices,
-  getPracticeCompletedDates,
-  getPracticeLogRange,
-  getPracticeLogsForDate,
   isPracticeCompletedOnDate,
   logCompletion,
   removeCompletion,
   reorderPractices,
-  togglePractice,
+  toggleCompletion,
   updatePractice,
 } from './practices'
+export {
+  getAllPreferences,
+  getPreference,
+  removePreference,
+  setPreference,
+} from './preferences'

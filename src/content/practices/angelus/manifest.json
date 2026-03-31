@@ -18,5 +18,12 @@
     "en": "The Angelus follows a versicle-response pattern. A leader (or you, praying alone) says each versicle (V.), and the response (R.) follows. After each of the three versicle pairs, pray one Hail Mary. Conclude with the closing prayer. Traditionally prayed standing, with a bow at 'And the Word was made flesh.'",
     "pt-BR": "O Angelus segue um padrão de versículo-resposta. Um líder (ou você, rezando sozinho) diz cada versículo (V.), e a resposta (R.) segue. Após cada um dos três pares de versículos, reze uma Ave-Maria. Conclua com a oração final."
   },
-  "tags": ["marian", "angelus", "incarnation", "noon", "bell"]
+  "tags": ["marian", "angelus", "incarnation", "noon", "bell"],
+  "defaults": {
+    "enabled": true,
+    "sortOrder": 7,
+    "tier": "ideal",
+    "timeBlock": "daytime",
+    "schedule": { "type": "daily" }
+  }
 }

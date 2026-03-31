@@ -5,24 +5,22 @@ import { KeyboardAvoidingView, Platform, Pressable, ScrollView, Switch } from 'r
 import { Input, Text, XStack, YStack } from 'tamagui'
 
 import { tierConfig } from '@/config/constants'
-import { getManifestIconKey } from '@/content/practices'
+import { getManifest, getManifestIconKey } from '@/content/practices'
 import type { PracticeManifest } from '@/content/types'
-import type { Frequency, Practice, Tier, TimeBlock } from '@/db/schema'
-import { parseFrequencyDays } from '@/features/plan-of-life/utils'
+import type { Tier, TimeBlock, UserPractice } from '@/db/schema'
 import { localizeContent } from '@/lib/i18n'
 
-import { FrequencyPicker } from './FrequencyPicker'
+import type { Notification, Schedule } from '../schedule'
+import { parseSchedule } from '../schedule'
 import { IconPicker } from './IconPicker'
+import { SchedulePicker } from './SchedulePicker'
 
 export type PracticeFormData = {
   name: string
   icon: string
   tier: Tier
   timeBlock: TimeBlock
-  frequency: Frequency
-  frequencyDays: number[]
-  notifyEnabled: boolean
-  notifyTime: string
+  schedule: Schedule
   description: string
   enabled: boolean
 }
@@ -97,6 +95,14 @@ function TimeBlockSelector({
   )
 }
 
+function getNotifyTime(schedule: Schedule): string {
+  return schedule.notify?.[0]?.at ?? '08:00'
+}
+
+function hasNotify(schedule: Schedule): boolean {
+  return (schedule.notify?.length ?? 0) > 0
+}
+
 export function PracticeEditSheet({
   practice,
   manifest,
@@ -105,7 +111,7 @@ export function PracticeEditSheet({
   onDelete,
   onClose,
 }: {
-  practice?: Practice
+  practice?: UserPractice
   manifest?: PracticeManifest
   mode?: 'edit' | 'add'
   onSave: (data: PracticeFormData) => void
@@ -114,22 +120,27 @@ export function PracticeEditSheet({
 }) {
   const { t } = useTranslation()
   const isAddMode = mode === 'add'
-  const isBuiltin = isAddMode || (practice ? practice.is_builtin === 1 : false)
-  const isNew = !practice
 
-  const manifestName = manifest ? localizeContent(manifest.name) : ''
-  const manifestDesc = manifest?.description ? localizeContent(manifest.description) : ''
+  // Determine if builtin by checking manifest existence
+  const practiceManifest = manifest ?? (practice ? getManifest(practice.practice_id) : undefined)
+  const isBuiltin = !!practiceManifest
+
+  const manifestName = practiceManifest ? localizeContent(practiceManifest.name) : ''
+  const manifestDesc = practiceManifest?.description
+    ? localizeContent(practiceManifest.description)
+    : ''
+
+  const currentSchedule = practice ? parseSchedule(practice.schedule) : { type: 'daily' as const }
 
   const [form, setForm] = useState<PracticeFormData>({
-    name: practice?.name ?? manifestName ?? '',
-    icon: practice?.icon ?? (manifest ? getManifestIconKey(manifest.id) : 'prayer'),
+    name: practice?.custom_name ?? manifestName ?? '',
+    icon:
+      practice?.custom_icon ??
+      (practiceManifest ? getManifestIconKey(practiceManifest.id) : 'prayer'),
     tier: practice?.tier ?? 'ideal',
     timeBlock: practice?.time_block ?? 'flexible',
-    frequency: practice?.frequency ?? 'daily',
-    frequencyDays: practice ? parseFrequencyDays(practice) : [],
-    notifyEnabled: practice?.notify_enabled === 1,
-    notifyTime: practice?.notify_time ?? '08:00',
-    description: practice?.description ?? manifestDesc ?? '',
+    schedule: currentSchedule,
+    description: practice?.custom_desc ?? manifestDesc ?? '',
     enabled: practice ? practice.enabled === 1 : true,
   })
 
@@ -137,12 +148,30 @@ export function PracticeEditSheet({
     setForm((prev) => ({ ...prev, [key]: value }))
   }
 
+  const notifyEnabled = hasNotify(form.schedule)
+  const notifyTime = getNotifyTime(form.schedule)
+
   const notifyDate = useMemo(() => {
-    const [h, m] = form.notifyTime.split(':').map(Number)
+    const [h, m] = notifyTime.split(':').map(Number)
     const d = new Date()
     d.setHours(h || 0, m || 0, 0, 0)
     return d
-  }, [form.notifyTime])
+  }, [notifyTime])
+
+  function toggleNotify(enabled: boolean) {
+    if (enabled) {
+      const notify: Notification[] = [{ at: notifyTime }]
+      update('schedule', { ...form.schedule, notify })
+    } else {
+      const { notify: _, ...rest } = form.schedule as Schedule & { notify?: Notification[] }
+      update('schedule', rest as Schedule)
+    }
+  }
+
+  function updateNotifyTime(time: string) {
+    const notify: Notification[] = [{ at: time }]
+    update('schedule', { ...form.schedule, notify })
+  }
 
   return (
     <KeyboardAvoidingView
@@ -160,7 +189,7 @@ export function PracticeEditSheet({
           <Text fontFamily="$heading" fontSize="$4" color="$color">
             {isAddMode
               ? manifestName || t('catalog.addToPlan')
-              : isNew
+              : !practice
                 ? t('editor.newPractice')
                 : t('editor.editPractice')}
           </Text>
@@ -177,65 +206,64 @@ export function PracticeEditSheet({
           automaticallyAdjustKeyboardInsets
         >
           <YStack gap="$lg">
-            <YStack gap="$xs">
-              <Text fontFamily="$heading" fontSize="$2" color="$color">
-                {t('editor.name')}
-              </Text>
-              <Input
-                value={form.name}
-                onChangeText={(text) => update('name', text)}
-                placeholder={t('editor.namePlaceholder')}
-                fontFamily="$body"
-                fontSize="$3"
-                height={48}
-                borderColor="$borderColor"
-                readOnly={isBuiltin}
-                opacity={isBuiltin ? 0.7 : 1}
-              />
-            </YStack>
+            {!isBuiltin && (
+              <>
+                <YStack gap="$xs">
+                  <Text fontFamily="$heading" fontSize="$2" color="$color">
+                    {t('editor.name')}
+                  </Text>
+                  <Input
+                    value={form.name}
+                    onChangeText={(text) => update('name', text)}
+                    placeholder={t('editor.namePlaceholder')}
+                    fontFamily="$body"
+                    fontSize="$3"
+                    height={48}
+                    borderColor="$borderColor"
+                  />
+                </YStack>
 
-            <YStack gap="$xs">
-              <Text fontFamily="$heading" fontSize="$2" color="$color">
-                {t('editor.icon')}
-              </Text>
-              <IconPicker selected={form.icon} onSelect={(icon) => update('icon', icon)} />
-            </YStack>
+                <YStack gap="$xs">
+                  <Text fontFamily="$heading" fontSize="$2" color="$color">
+                    {t('editor.icon')}
+                  </Text>
+                  <IconPicker selected={form.icon} onSelect={(icon) => update('icon', icon)} />
+                </YStack>
+              </>
+            )}
 
             <TierSelector value={form.tier} onChange={(tier) => update('tier', tier)} />
             <TimeBlockSelector value={form.timeBlock} onChange={(b) => update('timeBlock', b)} />
-            <FrequencyPicker
-              frequency={form.frequency}
-              frequencyDays={form.frequencyDays}
-              onChangeFrequency={(f) => update('frequency', f)}
-              onChangeDays={(days) => update('frequencyDays', days)}
+            <SchedulePicker
+              schedule={form.schedule}
+              onChangeSchedule={(s) => update('schedule', s)}
             />
 
-            <YStack gap="$xs">
-              <Text fontFamily="$heading" fontSize="$2" color="$color">
-                {t('editor.description')}
-              </Text>
-              <Input
-                value={form.description}
-                onChangeText={(text) => update('description', text)}
-                placeholder={t('editor.descriptionPlaceholder')}
-                fontFamily="$body"
-                fontSize="$2"
-                height={48}
-                borderColor="$borderColor"
-              />
-            </YStack>
+            {!isBuiltin && (
+              <YStack gap="$xs">
+                <Text fontFamily="$heading" fontSize="$2" color="$color">
+                  {t('editor.description')}
+                </Text>
+                <Input
+                  value={form.description}
+                  onChangeText={(text) => update('description', text)}
+                  placeholder={t('editor.descriptionPlaceholder')}
+                  fontFamily="$body"
+                  fontSize="$2"
+                  height={48}
+                  borderColor="$borderColor"
+                />
+              </YStack>
+            )}
 
             <XStack justifyContent="space-between" alignItems="center">
               <Text fontFamily="$heading" fontSize="$2" color="$color">
                 {t('editor.notifications')}
               </Text>
-              <Switch
-                value={form.notifyEnabled}
-                onValueChange={(v) => update('notifyEnabled', v)}
-              />
+              <Switch value={notifyEnabled} onValueChange={toggleNotify} />
             </XStack>
 
-            {form.notifyEnabled && (
+            {notifyEnabled && (
               <XStack alignItems="center" gap="$md">
                 <Text fontFamily="$body" fontSize="$2" color="$colorSecondary" flex={1}>
                   {t('editor.reminderTime')}
@@ -247,7 +275,7 @@ export function PracticeEditSheet({
                   onValueChange={(_, date) => {
                     const hh = String(date.getHours()).padStart(2, '0')
                     const mm = String(date.getMinutes()).padStart(2, '0')
-                    update('notifyTime', `${hh}:${mm}`)
+                    updateNotifyTime(`${hh}:${mm}`)
                   }}
                 />
               </XStack>
@@ -272,7 +300,7 @@ export function PracticeEditSheet({
                 <Text fontFamily="$heading" fontSize="$3" color="white">
                   {isAddMode
                     ? t('catalog.addToPlan')
-                    : isNew
+                    : !practice
                       ? t('editor.createPractice')
                       : t('editor.saveChanges')}
                 </Text>

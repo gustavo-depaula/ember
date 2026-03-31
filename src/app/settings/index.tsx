@@ -11,7 +11,6 @@ import { TranslationModal } from '@/features/bible/components/TranslationModal'
 import { getTranslationLanguage, suggestedTranslations } from '@/lib/bolls'
 import { supportedLanguages } from '@/lib/i18n'
 import { usePreferencesStore } from '@/stores/preferencesStore'
-import { useThemeStore } from '@/stores/themeStore'
 
 const themeOptions = [
   { value: 'light' as const, labelKey: 'settings.themeLight' },
@@ -72,8 +71,8 @@ export default function SettingsScreen() {
   const setTimeTravelDate = usePreferencesStore((s) => s.setTimeTravelDate)
   const [showDatePicker, setShowDatePicker] = useState(false)
   const [translationModalVisible, setTranslationModalVisible] = useState(false)
-  const themePreference = useThemeStore((s) => s.preference)
-  const setTheme = useThemeStore((s) => s.setTheme)
+  const themePreference = usePreferencesStore((s) => s.theme)
+  const setTheme = usePreferencesStore((s) => s.setTheme)
 
   return (
     <ScreenLayout>

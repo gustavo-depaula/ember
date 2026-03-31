@@ -93,7 +93,7 @@ src/features/bible/
 
 ## State
 
-### `bibleStore` (Zustand + AsyncStorage)
+### `bibleStore` (Zustand + SQLite preferences)
 
 ```typescript
 type BibleStoreState = {
@@ -105,7 +105,7 @@ type BibleStoreState = {
 }
 ```
 
-Persists current position to AsyncStorage. Restored on next visit — acts as both "last read" and current position. Separate from Office `reading_progress` table.
+Persists current position to SQLite `preferences` table (`bible-book`, `bible-chapter` keys). Restored on next visit — acts as both "last read" and current position.
 
 Translation preference is shared via `preferencesStore.translation` (already exists).
 

@@ -19,8 +19,7 @@ import { Text, useTheme, YStack } from 'tamagui'
 
 import { snappySpring } from '@/config/animation'
 import type { LectioTrackDef } from '@/content/types'
-import type { PracticeReadingTrack } from '@/db/schema'
-import { useSetTrackIndex } from '@/features/divine-office'
+import { useSetCursorIndex } from '@/features/divine-office'
 import { lightTap } from '@/lib/haptics'
 import { localizeContent } from '@/lib/i18n'
 import { formatTrackEntry } from '@/lib/lectio'
@@ -37,11 +36,11 @@ export function TrackPicker({
 }: {
   practiceId: string
   trackDef: LectioTrackDef
-  trackState: PracticeReadingTrack
+  trackState: { track: string; current_index: number }
 }) {
   const { t } = useTranslation()
   const theme = useTheme()
-  const setTrackIndex = useSetTrackIndex()
+  const setCursorIndex = useSetCursorIndex()
   const total = trackDef.entries.length
   const initial = trackState.current_index % total
 
@@ -79,7 +78,10 @@ export function TrackPicker({
     setVisibleCenter(index)
     if (index !== lastPersisted.current) {
       lastPersisted.current = index
-      setTrackIndex.mutate({ practiceId, trackName: trackState.track, index })
+      setCursorIndex.mutate({
+        cursorId: `${practiceId}/${trackState.track}`,
+        index,
+      })
     }
   }
 

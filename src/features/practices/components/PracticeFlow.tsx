@@ -42,12 +42,12 @@ import {
 } from '@/content/practices'
 import type { RenderedSection } from '@/content/types'
 import {
-  ensurePracticeTracks,
-  useAdvanceTrack,
+  ensurePracticeCursors,
+  useAdvanceCursor,
   useBibleReading,
   useCccReading,
+  useCursorsForPractice,
   usePsalmsForHour,
-  useTracksForPractice,
 } from '@/features/divine-office'
 import { useLogCompletion, usePractices } from '@/features/plan-of-life'
 import { useReadingMargin } from '@/hooks/useReadingStyle'
@@ -88,7 +88,7 @@ export function PracticeFlow({ practiceId, hourId }: { practiceId: string; hourI
   const readingMargin = useReadingMargin()
   const queryClient = useQueryClient()
   const logCompletionMutation = useLogCompletion()
-  const advanceTrack = useAdvanceTrack()
+  const advanceCursor = useAdvanceCursor()
 
   const manifest = getManifest(practiceId)
   const formPreferences = usePreferencesStore((s) => s.formPreferences)
@@ -105,7 +105,7 @@ export function PracticeFlow({ practiceId, hourId }: { practiceId: string; hourI
   }, [manifest, practiceId, hourId, selectedFormId])
 
   const { data: practices = [] } = usePractices()
-  const selectedVariantId = practices.find((p) => p.id === practiceId)?.selected_variant
+  const selectedVariantId = practices.find((p) => p.practice_id === practiceId)?.variant
 
   const variant = useMemo(() => {
     if (!manifest?.variants?.length) return undefined
@@ -122,20 +122,30 @@ export function PracticeFlow({ practiceId, hourId }: { practiceId: string; hourI
   const numbering = getPsalmNumbering(translation)
   const cycleData = useMemo(() => loadPracticeData(practiceId), [practiceId])
   const trackDefs = useMemo(() => loadPracticeTracks(practiceId), [practiceId])
-  const { data: trackRows } = useTracksForPractice(trackDefs ? practiceId : undefined)
+  const { data: cursorRows } = useCursorsForPractice(trackDefs ? practiceId : undefined)
 
   useEffect(() => {
     if (trackDefs) {
-      ensurePracticeTracks(practiceId, Object.keys(trackDefs)).then(() =>
-        queryClient.invalidateQueries({ queryKey: ['practiceTracks', practiceId] }),
+      ensurePracticeCursors(practiceId, Object.keys(trackDefs)).then(() =>
+        queryClient.invalidateQueries({ queryKey: ['cursors', practiceId] }),
       )
     }
   }, [practiceId, trackDefs, queryClient])
 
+  // Transform cursors to trackState format expected by engine
   const trackState = useMemo(() => {
-    if (!trackRows) return undefined
-    return Object.fromEntries(trackRows.map((r) => [r.track, r]))
-  }, [trackRows])
+    if (!cursorRows) return undefined
+    const state: Record<string, { current_index: number }> = {}
+    for (const cursor of cursorRows) {
+      // cursor.id is like "practiceId/trackName"
+      const trackName = cursor.id.split('/').pop()
+      if (trackName) {
+        const position = JSON.parse(cursor.position)
+        state[trackName] = { current_index: position.index ?? 0 }
+      }
+    }
+    return state
+  }, [cursorRows])
 
   const sections = useMemo(() => {
     if (!flow) return []
@@ -211,10 +221,10 @@ export function PracticeFlow({ practiceId, hourId }: { practiceId: string; hourI
 
   function handleComplete() {
     const today = format(new Date(), 'yyyy-MM-dd')
-    const detail = hourId ?? undefined
+    const subId = hourId ?? undefined
 
     logCompletionMutation.mutate(
-      { practiceId, date: today, detail },
+      { practiceId, date: today, subId },
       {
         onSuccess: async () => {
           successBuzz()
@@ -222,9 +232,8 @@ export function PracticeFlow({ practiceId, hourId }: { practiceId: string; hourI
             const trackIds = findTrackIds(sections)
             await Promise.all(
               trackIds.map((id) =>
-                advanceTrack.mutateAsync({
-                  practiceId,
-                  trackName: id,
+                advanceCursor.mutateAsync({
+                  cursorId: `${practiceId}/${id}`,
                   entryCount: trackDefs[id].entries.length,
                 }),
               ),

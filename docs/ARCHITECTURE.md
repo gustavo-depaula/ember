@@ -7,7 +7,6 @@
 | Framework | Expo (SDK 55) | Single codebase for web + iOS + Android |
 | Navigation | Expo Router | File-based routing, deep linking, web-friendly |
 | Storage | expo-sqlite (async API) | Direct SQL queries, no ORM overhead, works reliably on web |
-| KV Storage | AsyncStorage | Simple preferences: theme, translation choice, onboarding state |
 | State | Zustand + immer | Lightweight state with draft mutations for immutable updates |
 | Async/Data | TanStack Query | Caching, loading states, error handling — even for SQLite reads |
 | Styling/Components | Tamagui | Design system framework with compiler, theming, cross-platform primitives |
@@ -27,76 +26,111 @@
 
 ```
 /                       -> Home (greeting, time-block practice checklist, green wall, navigation medallions)
-/office/                -> Office hub (morning, evening, compline cards with status)
-/pray/divine-office?hour=... -> Prayer Flow (shared practice player with office theme)
 /plan/                  -> Plan of Life (green wall overview + stats + practice checklist)
 /plan/[practiceId]      -> Individual practice detail with its own green wall + stats
+/plan/settings          -> Customize practices (add/edit/delete, tier grouping)
+/pray/[practiceId]      -> Prayer Flow (shared practice player)
+/pray/[practiceId]?hour=... -> Prayer Flow for specific hour (office)
+/practices/             -> Practice catalog (browse all available practices)
+/practices/[manifestId] -> Practice catalog detail
+/bible/                 -> Bible reader
+/catechism/             -> Catechism reader
 /mass                   -> Ordo Missae (static reference, OF/EF toggle, bilingual prayers)
-/settings/              -> Settings (reading progress, translation picker, theme toggle)
-/settings/books         -> Mark books as already read (checklist of 73 books)
-/settings/position      -> Change reading position (query param: type=ot|nt|catechism)
+/calendar               -> Liturgical calendar
+/settings/              -> Settings (reading config, translation picker, theme toggle)
 ```
 
 **Stack navigation** with home-as-hub: NavigationMedallion buttons on home screen, BackToHome on sub-screens
 
 ---
 
-## Data Models
+## Data Model (V2 — 4-table schema)
 
-### Practice (Plan of Life)
+All data in SQLite. No AsyncStorage.
 
-```typescript
-interface Practice {
-  id: string
-  name: string
-  icon: string
-  frequency: 'daily' | 'weekly' | 'custom'
-  enabled: boolean
-  order: number
-}
+### `user_practices` — user's plan-of-life configuration
 
-// Event log — each completion is a separate row (supports multiple per day)
-interface PracticeCompletion {
-  id: number
-  practiceId: string
-  detail?: string      // office hour, mystery set, etc.
-  date: string         // YYYY-MM-DD
-  completedAt: number  // timestamp
-}
+```sql
+CREATE TABLE user_practices (
+  practice_id  TEXT PRIMARY KEY,
+  enabled      INTEGER NOT NULL DEFAULT 0,
+  sort_order   INTEGER NOT NULL,
+  tier         TEXT NOT NULL DEFAULT 'essential',   -- essential | ideal | extra
+  time_block   TEXT NOT NULL DEFAULT 'flexible',    -- morning | daytime | evening | flexible
+  schedule     TEXT NOT NULL DEFAULT '{"type":"daily"}',  -- JSON Schedule
+  variant      TEXT,
+  custom_name  TEXT,    -- only for user-created practices
+  custom_icon  TEXT,
+  custom_desc  TEXT
+);
 ```
 
-### Reading Tracks
+Content metadata (name, icon, description) comes from `src/content/practices/*/manifest.json` at runtime. Only user-created practices use the `custom_*` columns.
+
+### `completions` — event log
+
+```sql
+CREATE TABLE completions (
+  id           INTEGER PRIMARY KEY AUTOINCREMENT,
+  practice_id  TEXT NOT NULL,
+  sub_id       TEXT,           -- 'morning'/'evening'/'compline' for multi-hour; null for simple
+  date         TEXT NOT NULL,
+  completed_at INTEGER NOT NULL
+);
+```
+
+### `cursors` — reading position bookmarks
+
+```sql
+CREATE TABLE cursors (
+  id         TEXT PRIMARY KEY,     -- 'divine-office/ot-readings', 'bible/position', etc.
+  position   TEXT NOT NULL,        -- JSON: shape defined by consumer
+  started_at TEXT NOT NULL
+);
+```
+
+### `preferences` — all user settings (KV store)
+
+```sql
+CREATE TABLE preferences (
+  key   TEXT PRIMARY KEY,
+  value TEXT NOT NULL
+);
+```
+
+### `cached_translations` — Bible translation cache (unchanged)
+
+### Schedule Model
+
+Single JSON field in `user_practices.schedule`. Discriminated union:
 
 ```typescript
-// Named reading tracks — shareable between practices
-interface ReadingTrack {
-  id: string                   // 'default-ot', 'default-nt', 'default-catechism'
-  type: 'ot' | 'nt' | 'catechism'
-  label: string | null         // user-facing name (null for defaults)
-  currentBook: string
-  currentChapter: number
-  currentVerse: number
-  completedBooks: string       // JSON array string
-  completedChapters: string    // JSON object string
-  startDate: string
+type Schedule = ScheduleRule & {
+  seasons?: LiturgicalSeason[]
+  notify?: Notification[]
 }
+
+type ScheduleRule =
+  | { type: 'daily' }
+  | { type: 'days-of-week', days: number[] }
+  | { type: 'day-of-month', days: number[] }
+  | { type: 'nth-weekday', n: number, day: number }
+  | { type: 'times-per', count: number, period: 'week' | 'month' }
+  | { type: 'fixed-program', totalDays: number, startDate: string }
 ```
+
+See `docs/features/data-model-v2.md` for the complete spec.
 
 ---
 
 ## Storage Strategy
 
-### expo-sqlite (structured data)
-- `practices` table — built-in + custom practices, with `manifest_id` linking to content system
-- `practice_completions` table — event log, one row per completion (supports multiple per day, per-hour tracking via `detail` column)
-- `reading_tracks` table — named reading cursors (default-ot, default-nt, default-catechism), shareable between practices
-- `cached_translations` table — offline cache for online Bible translations
-
-### AsyncStorage (simple KV, via Zustand persist)
-- `theme` — 'light' | 'dark' | 'system' (themeStore)
-- `translation` — preferred Bible translation (preferencesStore)
-- `psalterCycle` — '30-day' (preferencesStore)
-- `reading-font-family`, `reading-font-size`, `reading-line-height`, `reading-margin`, `reading-text-align` — shared reading config (readingConfigStore)
+### expo-sqlite (all persistent data)
+- `user_practices` — plan-of-life configuration
+- `completions` — practice completion event log
+- `cursors` — reading positions (Divine Office tracks, Bible position, Catechism position)
+- `preferences` — all user settings (theme, translation, font config, etc.)
+- `cached_translations` — offline cache for online Bible translations
 
 ### Bundled Assets (read-only)
 - `src/assets/bible/drb/` — Douay-Rheims JSON files (one per book, 73 files)
@@ -104,7 +138,7 @@ interface ReadingTrack {
 - `src/assets/psalter/30-day.json` — 30-day psalter cycle mapping
 - `src/assets/hymns/` — Hymn texts parsed from Divinum Officium
 - `src/assets/prayers/` — Fixed prayer texts (Our Father, canticles, Marian antiphons, etc.)
-- `assets/textures/` — Image-based ornament PNGs (corner pieces, horizontal markers, frame textures)
+- `assets/textures/` — Image-based ornament PNGs
 - `assets/fonts/` — UnifrakturMaguntia bundled TTF
 
 ---
@@ -126,6 +160,20 @@ Bolls.life API is free, no auth required. Cache aggressively — once a chapter 
 
 ---
 
+## Stores
+
+### `preferencesStore` — all user preferences
+Hydrated from `preferences` SQLite table. Includes: translation, language, liturgicalCalendar, theme, fontFamily, fontSize, lineHeight, margin, textAlign, formPreferences.
+
+### `navigationStore` — ephemeral UI state
+Not persisted. Contains: selectedDate (shared across screens).
+
+### Thin wrappers
+- `bibleStore` — reads/writes `bible-book`/`bible-chapter` preferences
+- `catechismStore` — reads/writes `catechism-paragraph` preference
+
+---
+
 ## Folder Structure
 
 ```
@@ -133,112 +181,110 @@ src/
   app/                    (Expo Router routes — Stack navigation)
     _layout.tsx           (Root layout: fonts, DB init, TamaguiProvider, QueryClient)
     index.tsx             (Home screen)
-    office/
-      _layout.tsx
-      index.tsx           (Office hub)
-      [hour].tsx          (Dynamic prayer flow: morning/evening/compline)
     plan/
       _layout.tsx
       index.tsx           (Plan of Life)
       [practiceId].tsx    (Practice detail)
+      settings.tsx        (Customize practices)
+    pray/
+      [practiceId].tsx    (Prayer flow player)
+    practices/
+      index.tsx           (Practice catalog)
+      [manifestId].tsx    (Catalog detail)
+    bible/
+      _layout.tsx
+      index.tsx           (Bible reader)
+    catechism/
+      _layout.tsx
+      index.tsx           (Catechism reader)
     settings/
       _layout.tsx
       index.tsx           (Settings hub)
-      books.tsx           (Mark books as read)
-      position.tsx        (Change reading position)
   features/
     plan-of-life/
       components/
         PracticeChecklist.tsx
+        PracticeEditSheet.tsx
+        SchedulePicker.tsx
+        TierBadge.tsx
+        DayCarousel.tsx
         index.ts
       hooks.ts
       utils.ts
-      timeBlocks.ts       (morning/daytime/evening block logic)
+      schedule.ts           (Schedule types, isApplicableOn, isFaithful)
+      timeBlocks.ts         (morning/daytime/evening block logic)
+      getPracticeName.ts
       index.ts
     divine-office/
-      hooks.ts          (reading progress, psalm/bible/ccc loading hooks)
-      psalter.ts         (re-exports from lib/liturgical)
-      utils.ts           (progress calculations)
+      hooks.ts              (cursor management, psalm/bible/ccc loading)
+      psalter.ts
       index.ts
+    practices/
+      components/
+        PracticeFlow.tsx    (shared prayer flow player)
+        TrackPicker.tsx     (reading track position picker)
+        VariantSelector.tsx
+        PracticeTeachingContent.tsx
+        index.ts
     home/
       components/
-        HeroCTA.tsx
-        NavigationMedallion.tsx
+        LiturgicalHeader.tsx
+        SeasonalContext.tsx
+        CelebrationOfDay.tsx
         TimeBlockSection.tsx
+        AppShortcuts.tsx
         index.ts
-      getNextAction.ts
       index.ts
   components/             (shared UI components)
-    AppFrame.tsx
-    BackToHome.tsx
-    Card.tsx
+    AnimatedCheckbox.tsx
     GreenWall.tsx
-    IlluminatedInitial.tsx
     ManuscriptFrame.tsx
-    Ornament.tsx          (OrnamentalRule, HeaderFlourish, CornerFlourish, VineBar, PageBreakOrnament)
-    PageBorder.tsx
-    PrayerText.tsx
-    ProgressBar.tsx
-    RibbonBookmarks.tsx
-    RubricLabel.tsx
     ScreenLayout.tsx
     SectionDivider.tsx
-    ornaments/            (SVG-based decorative elements)
-      FloralCorner.tsx
-      FloralVineBorder.tsx
-      WatercolorIcon.tsx
-      svgHelpers.ts
-      index.ts
+    ReadingConfigModal.tsx
+    ...
     index.ts
-  stores/                 (zustand + immer stores)
-    practiceStore.ts
-    officeStore.ts
-    preferencesStore.ts
-    readingConfigStore.ts
-    themeStore.ts
-  db/                     (sqlite schema, types, client)
-    schema.ts             (TypeScript types for DB rows)
-    client.ts             (async DB init, migration runner, getDb())
-    seed.ts
+  stores/
+    preferencesStore.ts     (consolidated: all preferences from SQLite, including theme)
+    navigationStore.ts      (ephemeral UI state)
+    bibleStore.ts           (thin wrapper: bible reading position)
+    catechismStore.ts       (thin wrapper: catechism reading position)
+  db/
+    schema.ts               (TypeScript types: UserPractice, Completion, Cursor, Preference)
+    client.ts               (async DB init, migration runner, getDb())
+    seed.ts                 (manifest-driven practice seeding)
     migrations/
       0001_initial.sql
-      0002_completed_chapters.sql
-    repositories/         (data access layer)
-      office.ts
-      practices.ts
+    repositories/
+      practices.ts          (user_practices + completions queries)
+      cursors.ts            (cursor CRUD + index advancement)
+      preferences.ts        (KV store for preferences table)
       index.ts
   content/                  (practice content system)
     engine.ts               (flow resolution engine)
     types.ts                (manifest, flow section, rendered section types)
     practices/              (one folder per practice)
       divine-office/
-        manifest.json
+        manifest.json       (includes defaults section)
         flows/morning.json, evening.json, compline.json
-      little-office-bvm/
-        manifest.json
-        flows/matins.json ... compline.json
       rosary/
         manifest.json
         flow.json
         variants/traditional.json, scriptural.json
-      ...                   (morning-offering, angelus, etc.)
+      ...
       index.ts              (registry, loaders, search)
-  lib/                    (API clients, helpers)
+  lib/
     bolls.ts
     content.ts
-    liturgical/             (shared liturgical computation)
+    notifications.ts        (schedule-aware reminder scheduling)
+    liturgical/
       psalter.ts, hymns.ts, antiphons.ts, season.ts, readings.ts, index.ts
-  config/                 (tamagui config, tokens, themes)
+    i18n/
+  config/
     tamagui.config.ts
     tokens.ts
     themes.ts
     fonts.ts
-  assets/
-    bible/drb/
-    catechism/
-    psalter/
-    hymns/
-    prayers/
 ```
 
 See [CONVENTIONS.md](CONVENTIONS.md) for code style, naming, and patterns.

@@ -7,7 +7,7 @@ import { ScrollView, Text, useTheme, View, XStack, YStack } from 'tamagui'
 
 import { readingFonts } from '@/config/readingFonts'
 import { useReadingMargin, useReadingStyle } from '@/hooks/useReadingStyle'
-import { useReadingConfigStore } from '@/stores/readingConfigStore'
+import { usePreferencesStore } from '@/stores/preferencesStore'
 
 const previewHeight = 180
 
@@ -96,7 +96,7 @@ export function ReadingConfigBadge({ onPress }: { onPress: () => void }) {
 export function ReadingConfig() {
   const { t } = useTranslation()
   const theme = useTheme()
-  const rc = useReadingConfigStore()
+  const rc = usePreferencesStore()
   const readingStyle = useReadingStyle()
   const readingMargin = useReadingMargin()
 
