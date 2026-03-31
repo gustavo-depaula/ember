@@ -8,6 +8,13 @@
 			}
 		},
 		{
+			"type": "rubric",
+			"text": {
+				"en": "The priest and ministers approach the altar. When they have reached it, they make a profound bow. The priest kisses the altar.",
+				"pt-BR": "O sacerdote e os ministros aproximam-se do altar. Ao chegarem, fazem uma reverência profunda. O sacerdote beija o altar."
+			}
+		},
+		{
 			"type": "prayer",
 			"speaker": "priest",
 			"inline": {
@@ -473,6 +480,13 @@
 			}
 		},
 		{
+			"type": "rubric",
+			"text": {
+				"en": "The priest bows before the altar and says quietly: Cleanse my heart and my lips, almighty God, that I may worthily proclaim your holy Gospel.",
+				"pt-BR": "O sacerdote inclina-se diante do altar e diz em voz baixa: Purificai o meu coração e os meus lábios, Deus todo-poderoso, para que eu possa anunciar dignamente o vosso santo Evangelho."
+			}
+		},
+		{
 			"type": "prayer",
 			"speaker": "priest",
 			"inline": {
@@ -488,6 +502,13 @@
 				"en": "And with your spirit.",
 				"latin": "Et cum spíritu tuo.",
 				"pt-BR": "Ele está no meio de nós."
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en": "The priest makes the Sign of the Cross on the book, and then on his forehead, lips, and heart.",
+				"pt-BR": "O sacerdote faz o sinal da cruz no livro e depois na testa, nos lábios e no peito."
 			}
 		},
 		{
@@ -620,6 +641,13 @@
 			}
 		},
 		{
+			"type": "rubric",
+			"text": {
+				"en": "The priest receives the paten with the bread and, holding it slightly raised above the altar, says quietly:",
+				"pt-BR": "O sacerdote recebe a patena com o pão e, segurando-a ligeiramente elevada sobre o altar, diz em voz baixa:"
+			}
+		},
+		{
 			"type": "prayer",
 			"speaker": "priest",
 			"inline": {
@@ -635,6 +663,13 @@
 				"en": "Blessed be God for ever.",
 				"latin": "Benedíctus Deus in sǽcula.",
 				"pt-BR": "Bendito seja Deus para sempre."
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en": "The priest pours wine and a little water into the chalice, saying quietly:",
+				"pt-BR": "O sacerdote derrama vinho e um pouco de água no cálice, dizendo em voz baixa:"
 			}
 		},
 		{
@@ -665,12 +700,26 @@
 			}
 		},
 		{
+			"type": "rubric",
+			"text": {
+				"en": "The priest bows profoundly and says quietly:",
+				"pt-BR": "O sacerdote inclina-se profundamente e diz em voz baixa:"
+			}
+		},
+		{
 			"type": "prayer",
 			"speaker": "priest",
 			"inline": {
 				"en": "With humble spirit and contrite heart may we be accepted by you, O Lord, and may our sacrifice in your sight this day be pleasing to you, Lord God.",
 				"latin": "In spíritu humilitátis et in ánimo contríto suscipiámur a te, Dómine; et sic fiat sacrifícium nostrum in conspéctu tuo hódie, ut pláceat tibi, Dómine Deus.",
 				"pt-BR": "De coração contrito e humilde, sejamos, Senhor, acolhidos por vós; e seja o nosso sacrifício de tal modo oferecido que vos agrade, Senhor, nosso Deus."
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en": "The priest washes his hands, saying quietly:",
+				"pt-BR": "O sacerdote lava as mãos, dizendo em voz baixa:"
 			}
 		},
 		{
@@ -838,12 +887,26 @@
 							}
 						},
 						{
+							"type": "rubric",
+							"text": {
+								"en": "He shows the host to the people, places it on the paten, and genuflects in adoration.",
+								"pt-BR": "Ele mostra a hóstia ao povo, coloca-a na patena e genuflexiona em adoração."
+							}
+						},
+						{
 							"type": "prayer",
 							"speaker": "priest",
 							"inline": {
 								"en": "In a similar way, when supper was ended, he took the chalice and, once more giving thanks, he gave it to his disciples, saying:\nTAKE THIS, ALL OF YOU, AND DRINK FROM IT,\nFOR THIS IS THE CHALICE OF MY BLOOD,\nTHE BLOOD OF THE NEW AND ETERNAL COVENANT,\nWHICH WILL BE POURED OUT FOR YOU AND FOR MANY\nFOR THE FORGIVENESS OF SINS.\nDO THIS IN REMEMBRANCE OF ME.",
 								"latin": "Símili modo, postquam cenátum est, accípiens et cálicem, íterum grátias agens, dedit discípulis suis, dicens:\nACCÍPITE ET BÍBITE EX EO OMNES:\nHIC EST ENIM CALIX SÁNGUINIS MEI\nNOVI ET ÆTÉRNI TESTAMÉNTI,\nQUI PRO VOBIS ET PRO MULTIS EFFUNDÉTUR\nIN REMISSIÓNEM PECCATÓRUM.\nHOC FÁCITE IN MEAM COMMEMORATIÓNEM.",
 								"pt-BR": "De modo semelhante, ao fim da ceia, tomou o cálice e, dando-vos graças novamente, deu-o aos seus discípulos, dizendo:\nTOMAI, TODOS, E BEBEI:\nESTE É O CÁLICE DO MEU SANGUE,\nO SANGUE DA NOVA E ETERNA ALIANÇA,\nQUE SERÁ DERRAMADO POR VÓS\nE POR MUITOS\nPARA REMISSÃO DOS PECADOS.\nFAZEI ISTO EM MEMÓRIA DE MIM."
+							}
+						},
+						{
+							"type": "rubric",
+							"text": {
+								"en": "He shows the chalice to the people, places it on the corporal, and genuflects in adoration.",
+								"pt-BR": "Ele mostra o cálice ao povo, coloca-o no corporal e genuflexiona em adoração."
 							}
 						},
 						{
@@ -1048,12 +1111,26 @@
 							}
 						},
 						{
+							"type": "rubric",
+							"text": {
+								"en": "He shows the host to the people, places it on the paten, and genuflects in adoration.",
+								"pt-BR": "Ele mostra a hóstia ao povo, coloca-a na patena e genuflexiona em adoração."
+							}
+						},
+						{
 							"type": "prayer",
 							"speaker": "priest",
 							"inline": {
 								"en": "In a similar way, when supper was ended, he took this precious chalice in his holy and venerable hands, and once more giving you thanks, he said the blessing and gave the chalice to his disciples, saying:\nTAKE THIS, ALL OF YOU, AND DRINK FROM IT,\nFOR THIS IS THE CHALICE OF MY BLOOD,\nTHE BLOOD OF THE NEW AND ETERNAL COVENANT,\nWHICH WILL BE POURED OUT FOR YOU AND FOR MANY\nFOR THE FORGIVENESS OF SINS.\nDO THIS IN REMEMBRANCE OF ME.",
 								"latin": "Símili modo postquam cenátum est, accípiens et hunc præclárum Cálicem in sanctas ac venerábiles manus suas: item tibi grátias agens, benedíxit, dedítque discípulis suis, dicens:\nACCÍPITE ET BÍBITE EX EO OMNES:\nHIC EST ENIM CALIX SÁNGUINIS MEI\nNOVI ET ÆTÉRNI TESTAMÉNTI,\nQUI PRO VOBIS ET PRO MULTIS EFFUNDÉTUR\nIN REMISSIÓNEM PECCATÓRUM.\nHOC FÁCITE IN MEAM COMMEMORATIÓNEM.",
 								"pt-BR": "De modo semelhante, ao fim da ceia, tomou este precioso cálice em suas santas e veneráveis mãos e, dando-vos graças novamente, abençoou-o e deu-o a seus discípulos, dizendo:\nTOMAI, TODOS, E BEBEI:\nESTE É O CÁLICE DO MEU SANGUE,\nO SANGUE DA NOVA E ETERNA ALIANÇA,\nQUE SERÁ DERRAMADO POR VÓS\nE POR MUITOS\nPARA REMISSÃO DOS PECADOS.\nFAZEI ISTO EM MEMÓRIA DE MIM."
+							}
+						},
+						{
+							"type": "rubric",
+							"text": {
+								"en": "He shows the chalice to the people, places it on the corporal, and genuflects in adoration.",
+								"pt-BR": "Ele mostra o cálice ao povo, coloca-o no corporal e genuflexiona em adoração."
 							}
 						},
 						{
@@ -1188,12 +1265,26 @@
 							}
 						},
 						{
+							"type": "rubric",
+							"text": {
+								"en": "He shows the host to the people, places it on the paten, and genuflects in adoration.",
+								"pt-BR": "Ele mostra a hóstia ao povo, coloca-a na patena e genuflexiona em adoração."
+							}
+						},
+						{
 							"type": "prayer",
 							"speaker": "priest",
 							"inline": {
 								"en": "In a similar way, when supper was ended, he took the chalice, and, giving you thanks, he said the blessing, and gave the chalice to his disciples, saying:\nTAKE THIS, ALL OF YOU, AND DRINK FROM IT,\nFOR THIS IS THE CHALICE OF MY BLOOD,\nTHE BLOOD OF THE NEW AND ETERNAL COVENANT,\nWHICH WILL BE POURED OUT FOR YOU AND FOR MANY\nFOR THE FORGIVENESS OF SINS.\nDO THIS IN REMEMBRANCE OF ME.",
 								"latin": "Símili modo, postquam cenátum est, accípiens cálicem, et tibi grátias agens benedíxit, dedítque discípulis suis, dicens:\nACCÍPITE ET BÍBITE EX EO OMNES:\nHIC EST ENIM CALIX SÁNGUINIS MEI\nNOVI ET ÆTÉRNI TESTAMÉNTI,\nQUI PRO VOBIS ET PRO MULTIS EFFUNDÉTUR\nIN REMISSIÓNEM PECCATÓRUM.\nHOC FÁCITE IN MEAM COMMEMORATIÓNEM.",
 								"pt-BR": "De modo semelhante, ao fim da ceia, tomou o cálice e, dando-vos graças novamente, abençoou-o e deu-o aos seus discípulos, dizendo:\nTOMAI, TODOS, E BEBEI:\nESTE É O CÁLICE DO MEU SANGUE,\nO SANGUE DA NOVA E ETERNA ALIANÇA,\nQUE SERÁ DERRAMADO POR VÓS\nE POR MUITOS\nPARA REMISSÃO DOS PECADOS.\nFAZEI ISTO EM MEMÓRIA DE MIM."
+							}
+						},
+						{
+							"type": "rubric",
+							"text": {
+								"en": "He shows the chalice to the people, places it on the corporal, and genuflects in adoration.",
+								"pt-BR": "Ele mostra o cálice ao povo, coloca-o no corporal e genuflexiona em adoração."
 							}
 						},
 						{
@@ -1351,12 +1442,26 @@
 							}
 						},
 						{
+							"type": "rubric",
+							"text": {
+								"en": "He shows the host to the people, places it on the paten, and genuflects in adoration.",
+								"pt-BR": "Ele mostra a hóstia ao povo, coloca-a na patena e genuflexiona em adoração."
+							}
+						},
+						{
 							"type": "prayer",
 							"speaker": "priest",
 							"inline": {
 								"en": "In a similar way, taking the chalice filled with the fruit of the vine, he gave thanks, and gave the chalice to his disciples, saying:\nTAKE THIS, ALL OF YOU, AND DRINK FROM IT,\nFOR THIS IS THE CHALICE OF MY BLOOD,\nTHE BLOOD OF THE NEW AND ETERNAL COVENANT,\nWHICH WILL BE POURED OUT FOR YOU AND FOR MANY\nFOR THE FORGIVENESS OF SINS.\nDO THIS IN REMEMBRANCE OF ME.",
 								"latin": "Símili modo accípiens cálicem, ex genímine vitis replétum, grátias egit, dedítque discípulis suis, dicens:\nACCÍPITE ET BÍBITE EX EO OMNES:\nHIC EST ENIM CALIX SÁNGUINIS MEI\nNOVI ET ÆTÉRNI TESTAMÉNTI,\nQUI PRO VOBIS ET PRO MULTIS EFFUNDÉTUR\nIN REMISSIÓNEM PECCATÓRUM.\nHOC FÁCITE IN MEAM COMMEMORATIÓNEM.",
 								"pt-BR": "De modo semelhante, tomou o cálice cheio do fruto da videira, deu graças e passou-o aos seus discípulos, dizendo:\nTOMAI, TODOS, E BEBEI:\nESTE É O CÁLICE DO MEU SANGUE,\nO SANGUE DA NOVA E ETERNA ALIANÇA,\nQUE SERÁ DERRAMADO POR VÓS\nE POR MUITOS\nPARA REMISSÃO DOS PECADOS.\nFAZEI ISTO EM MEMÓRIA DE MIM."
+							}
+						},
+						{
+							"type": "rubric",
+							"text": {
+								"en": "He shows the chalice to the people, places it on the corporal, and genuflects in adoration.",
+								"pt-BR": "Ele mostra o cálice ao povo, coloca-o no corporal e genuflexiona em adoração."
 							}
 						},
 						{
@@ -1897,6 +2002,13 @@
 			}
 		},
 		{
+			"type": "rubric",
+			"text": {
+				"en": "The priest genuflects. Holding the host elevated slightly over the paten or over the chalice, he says:",
+				"pt-BR": "O sacerdote genuflexiona. Segurando a hóstia ligeiramente elevada sobre a patena ou sobre o cálice, diz:"
+			}
+		},
+		{
 			"type": "prayer",
 			"speaker": "priest",
 			"inline": {
@@ -1956,6 +2068,13 @@
 				"en": "And with your spirit.",
 				"latin": "Et cum spíritu tuo.",
 				"pt-BR": "Ele está no meio de nós."
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en": "The priest makes the Sign of the Cross over the people while saying:",
+				"pt-BR": "O sacerdote faz o sinal da cruz sobre o povo enquanto diz:"
 			}
 		},
 		{
