@@ -29,9 +29,6 @@
   },
   "flowMode": "scroll",
   "completion": "flow-end",
-  "completionEffects": {
-    "advanceReadings": true
-  },
   "theme": "office",
   "flows": [
     { "id": "morning", "name": { "en": "Morning Prayer", "pt-BR": "Oração da Manhã" }, "file": "flows/morning.json", "timeBlock": "morning" },
