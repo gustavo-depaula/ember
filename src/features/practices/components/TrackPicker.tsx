@@ -180,7 +180,6 @@ export function TrackPicker({
 
       <Text fontFamily="$body" fontSize="$1" color="$colorSecondary" textAlign="center">
         {t('track.position', {
-          defaultValue: '{{current}} of {{total}}',
           current: (trackState.current_index % total) + 1,
           total,
         })}

@@ -18,6 +18,12 @@ i18n.use(initReactI18next).init({
   fallbackLng: 'en',
   interpolation: { escapeValue: false },
   compatibilityJSON: 'v4',
+  saveMissing: __DEV__,
+  missingKeyHandler: __DEV__
+    ? (_lngs, _ns, key) => {
+        console.warn(`[i18n] Missing translation key: "${key}"`)
+      }
+    : undefined,
 })
 
 export default i18n

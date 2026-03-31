@@ -177,6 +177,7 @@ export default {
     longestStreak: 'Longest Streak',
     totalDays: 'Total Days',
     completionRate: 'Completion Rate',
+    readingTracks: 'Reading Tracks',
     customize: 'Customize Plan of Life',
     addCustom: 'Add Custom Practice',
     disabled: 'Disabled',
@@ -200,6 +201,12 @@ export default {
     createPractice: 'Create Practice',
     saveChanges: 'Save Changes',
     deletePractice: 'Delete Practice',
+    setTime: 'Set time',
+    removeSlot: 'Remove',
+    removeSlotConfirm: 'Remove this slot?',
+    slots: 'Slots',
+    settings: 'Settings',
+    addSlot: 'Add slot',
   },
 
   frequency: {
@@ -207,6 +214,11 @@ export default {
     daily: 'Daily',
     weekly: 'Weekly',
     custom: 'Specific Days',
+    monthly: 'Monthly',
+    timesPer: '{{count}} times per...',
+    per: 'times per',
+    week: 'week',
+    month: 'month',
   },
 
   timeBlock: {
@@ -332,6 +344,10 @@ export default {
     margins: 'Margins',
     preview:
       'Hail Mary, full of grace, the Lord is with thee. Blessed art thou amongst women, and blessed is the fruit of thy womb, Jesus. Holy Mary, Mother of God, pray for us sinners, now and at the hour of our death. Amen.',
+  },
+
+  track: {
+    position: '{{current}} of {{total}}',
   },
 
   mass: {
@@ -477,6 +493,9 @@ export default {
   common: {
     loading: 'Loading...',
     back: 'Back',
+    clear: 'Clear',
+    cancel: 'Cancel',
+    remove: 'Remove',
   },
 
   bookName: {

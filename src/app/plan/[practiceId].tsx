@@ -140,7 +140,7 @@ export default function PracticeDetailScreen() {
             <SectionDivider />
             <YStack gap="$md">
               <Text fontFamily="$heading" fontSize="$3" color="$color">
-                {t('plan.readingTracks', { defaultValue: 'Reading Tracks' })}
+                {t('plan.readingTracks')}
               </Text>
               {Object.entries(trackDefs).map(([trackName, def]) => {
                 const cursor = cursorRows.find((r) => r.id === `${practiceId}/${trackName}`)

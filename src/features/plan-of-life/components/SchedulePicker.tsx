@@ -28,8 +28,8 @@ export function SchedulePicker({
   const modes: { value: ScheduleMode; label: string }[] = [
     { value: 'daily', label: t('frequency.daily') },
     { value: 'days-of-week', label: t('frequency.weekly') },
-    { value: 'times-per', label: t('frequency.timesPer', { defaultValue: 'X times per...' }) },
-    { value: 'day-of-month', label: t('frequency.monthly', { defaultValue: 'Monthly' }) },
+    { value: 'times-per', label: t('frequency.timesPer', { count: 'X' }) },
+    { value: 'day-of-month', label: t('frequency.monthly') },
   ]
 
   function setMode(newMode: ScheduleMode) {
@@ -197,7 +197,7 @@ function TimesPerPicker({
           </YStack>
         </Pressable>
         <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
-          {t('frequency.per', { defaultValue: 'times per' })}
+          {t('frequency.per')}
         </Text>
         {(['week', 'month'] as const).map((p) => (
           <Pressable key={p} onPress={() => onChangePeriod(p)}>
@@ -210,7 +210,7 @@ function TimesPerPicker({
               backgroundColor={period === p ? '$accent' : 'transparent'}
             >
               <Text fontFamily="$body" fontSize="$2" color={period === p ? 'white' : '$color'}>
-                {t(`frequency.${p}`, { defaultValue: p })}
+                {t(`frequency.${p}`)}
               </Text>
             </YStack>
           </Pressable>

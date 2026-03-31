@@ -178,6 +178,7 @@ export default {
     longestStreak: 'Maior Sequ\u00eancia',
     totalDays: 'Total de Dias',
     completionRate: 'Taxa de Conclus\u00e3o',
+    readingTracks: 'Trilhas de Leitura',
     customize: 'Customizar Plano de Vida',
     addCustom: 'Adicionar Pr\u00e1tica',
     disabled: 'Desativada',
@@ -201,6 +202,12 @@ export default {
     createPractice: 'Criar Pr\u00e1tica',
     saveChanges: 'Salvar Altera\u00e7\u00f5es',
     deletePractice: 'Excluir Pr\u00e1tica',
+    setTime: 'Definir hor\u00e1rio',
+    removeSlot: 'Remover',
+    removeSlotConfirm: 'Remover este hor\u00e1rio?',
+    slots: 'Hor\u00e1rios',
+    settings: 'Configura\u00e7\u00f5es',
+    addSlot: 'Adicionar hor\u00e1rio',
   },
 
   frequency: {
@@ -208,6 +215,11 @@ export default {
     daily: 'Di\u00e1rio',
     weekly: 'Semanal',
     custom: 'Dias Espec\u00edficos',
+    monthly: 'Mensal',
+    timesPer: '{{count}} vezes por...',
+    per: 'vezes por',
+    week: 'semana',
+    month: 'm\u00eas',
   },
 
   timeBlock: {
@@ -334,6 +346,10 @@ export default {
     margins: 'Margens',
     preview:
       'Ave Maria, cheia de gra\u00e7a, o Senhor \u00e9 convosco. Bendita sois v\u00f3s entre as mulheres, e bendito \u00e9 o fruto do vosso ventre, Jesus. Santa Maria, M\u00e3e de Deus, rogai por n\u00f3s, pecadores, agora e na hora da nossa morte. Am\u00e9m.',
+  },
+
+  track: {
+    position: '{{current}} de {{total}}',
   },
 
   mass: {
@@ -477,6 +493,9 @@ export default {
   common: {
     loading: 'Carregando...',
     back: 'Voltar',
+    clear: 'Limpar',
+    cancel: 'Cancelar',
+    remove: 'Remover',
   },
 
   bookName: {
