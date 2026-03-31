@@ -1,0 +1,30 @@
+{
+  "id": "lectio-divina",
+  "name": { "en": "Lectio Divina", "pt-BR": "Lectio Divina" },
+  "categories": ["daily", "contemplative", "formation"],
+  "estimatedMinutes": 20,
+  "description": {
+    "en": "An ancient monastic practice of prayerful Scripture reading in four movements: reading (lectio), meditation (meditatio), prayer (oratio), and contemplation (contemplatio). Lectio Divina is not Bible study; it is an encounter — a listening to the living Word of God addressed personally to the soul.",
+    "pt-BR": "Uma prática monástica antiga de leitura orante das Escrituras em quatro movimentos: leitura (lectio), meditação (meditatio), oração (oratio) e contemplação (contemplatio). A Lectio Divina não é estudo bíblico; é um encontro — uma escuta da Palavra viva de Deus dirigida pessoalmente à alma."
+  },
+  "history": {
+    "en": "Lectio Divina has been practiced in Christian monasteries since at least the 4th century, described by Origen and Ambrose. Guigo II, a Carthusian monk of the 12th century, gave the practice its classic four-step formulation in his Scala Claustralium (The Ladder of Monks). The practice was revived in the late 20th century, championed by Vatican II's constitution Dei Verbum, Pope John Paul II in Novo Millennio Ineunte (2001), and Pope Benedict XVI at the 2008 Synod on the Word of God.",
+    "pt-BR": "A Lectio Divina é praticada em monastérios cristãos desde pelo menos o século IV, descrita por Orígenes e Ambrósio. Guigo II, um monge cartusiano do século XII, deu à prática sua formulação clássica de quatro etapas na Scala Claustralium (A Escada dos Monges). A prática foi revivida no final do século XX, defendida pela constituição Dei Verbum do Vaticano II, pelo Papa João Paulo II no Novo Millennio Ineunte (2001) e pelo Papa Bento XVI no Sínodo sobre a Palavra de Deus de 2008."
+  },
+  "howToPray": {
+    "en": "Open your Bible to the chosen passage. Read the guidance for each movement carefully. There is no fixed length for any movement — allow the Spirit to lead you. The contemplatio may last a moment or many minutes. If you find yourself passing into prayer during the reading, follow — this is the purpose of Lectio. A single verse, prayed well, is worth more than a chapter read hurriedly.",
+    "pt-BR": "Abra sua Bíblia na passagem escolhida. Leia atentamente a orientação para cada movimento. Não há duração fixa para nenhum movimento — deixe o Espírito guiá-lo. A contemplatio pode durar um momento ou muitos minutos. Se você se pegar passando para a oração durante a leitura, siga — este é o propósito da Lectio. Um único versículo, bem rezado, vale mais do que um capítulo lido apressadamente."
+  },
+  "flowMode": "step",
+  "completion": "flow-end",
+  "flows": [
+    { "id": "default", "name": { "en": "Lectio Divina", "pt-BR": "Lectio Divina" }, "file": "flow.json" }
+  ],
+  "tags": ["scripture", "lectio", "contemplation", "monastic", "reading", "daily"],
+  "defaults": {
+    "sortOrder": 19,
+    "slots": [
+      { "flowId": "default", "schedule": { "type": "daily" }, "tier": "extra", "enabled": false }
+    ]
+  }
+}

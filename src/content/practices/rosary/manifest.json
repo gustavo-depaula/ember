@@ -35,6 +35,12 @@
       "name": { "en": "Scriptural Meditations", "pt-BR": "Meditações Bíblicas" },
       "description": { "en": "Scripture-based meditations for each mystery", "pt-BR": "Meditações baseadas nas Escrituras para cada mistério" },
       "file": "variants/scriptural.json"
+    },
+    {
+      "id": "montfort",
+      "name": { "en": "Montfort Meditations", "pt-BR": "Meditações de Montfort" },
+      "description": { "en": "Rich meditations from St. Louis de Montfort's The Secret of the Rosary, each mystery paired with a virtue and grace to seek", "pt-BR": "Meditações ricas de O Segredo do Rosário de São Luís Maria de Montfort, cada mistério ligado a uma virtude e graça a pedir" },
+      "file": "variants/montfort.json"
     }
   ],
   "tags": ["marian", "rosary", "meditation", "daily"],

@@ -1,0 +1,42 @@
+{
+  "sections": [
+    { "type": "rubric", "text": { "en": "Prayer Before Reading", "pt-BR": "Oração Antes da Leitura" } },
+    { "type": "prayer", "ref": "come-holy-spirit" },
+    { "type": "divider" },
+    { "type": "rubric", "text": { "en": "Choose Your Text", "pt-BR": "Escolha Seu Texto" } },
+    {
+      "type": "meditation",
+      "text": {
+        "en": "Open your chosen book: the lives of the saints, a spiritual classic, Scripture, the writings of the Fathers, or a document of the Church's Magisterium. This is sacred time — treat it as such.",
+        "pt-BR": "Abra o livro escolhido: vidas dos santos, um clássico espiritual, as Escrituras, escritos dos Padres ou um documento do Magistério da Igreja. Este é um tempo sagrado — trate-o como tal."
+      }
+    },
+    { "type": "divider" },
+    { "type": "rubric", "text": { "en": "Read Slowly", "pt-BR": "Leia Devagar" } },
+    {
+      "type": "meditation",
+      "text": {
+        "en": "Read not to accumulate information but to encounter God. Read slowly, without hurry. When a word or passage strikes you — when something illumines, consoles, challenges, or moves you — pause there. This is the moment.",
+        "pt-BR": "Leia não para acumular informações, mas para encontrar Deus. Leia devagar, sem pressa. Quando uma palavra ou passagem o tocar — quando algo iluminar, consolar, desafiar ou mover você — pare aí. Este é o momento."
+      }
+    },
+    { "type": "divider" },
+    { "type": "rubric", "text": { "en": "Reflect & Pray", "pt-BR": "Reflita e Ore" } },
+    {
+      "type": "meditation",
+      "text": {
+        "en": "Why does this passage move you? What is God saying to you through it? Let it enter your heart, not just your mind. Now speak to God about what you have read — with gratitude, petition, repentance, or wonder. Offer the response of your heart.",
+        "pt-BR": "Por que esta passagem o move? O que Deus lhe está dizendo através dela? Deixe entrar no coração, não apenas na mente. Agora fale com Deus sobre o que leu — com gratidão, petição, arrependimento ou admiração. Ofereça a resposta do seu coração."
+      }
+    },
+    { "type": "divider" },
+    { "type": "rubric", "text": { "en": "Carry Something Away", "pt-BR": "Leve Algo Consigo" } },
+    {
+      "type": "meditation",
+      "text": {
+        "en": "Before you close your book, identify one phrase or truth to carry through your day — what St. Francis de Sales called a 'spiritual bouquet.' Return to it in quiet moments. Let it season your work, your conversations, your prayer.",
+        "pt-BR": "Antes de fechar o livro, identifique uma frase ou verdade para levar ao longo do dia — o que São Francisco de Sales chamava de 'buquê espiritual.' Volte a ela nos momentos tranquilos. Deixe que tempere seu trabalho, suas conversas, sua oração."
+      }
+    }
+  ]
+}

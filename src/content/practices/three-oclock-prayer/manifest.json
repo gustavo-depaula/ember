@@ -1,0 +1,30 @@
+{
+  "id": "three-oclock-prayer",
+  "name": { "en": "Three O'Clock Prayer", "pt-BR": "Oração das Três da Tarde" },
+  "categories": ["daily", "chaplet"],
+  "estimatedMinutes": 2,
+  "description": {
+    "en": "A brief prayer at the Hour of Mercy — three o'clock in the afternoon, the hour at which Jesus breathed His last on the Cross. Our Lord told St. Faustina Kowalska that this is the hour of grace for the whole world, and asked that all souls turn to His Passion at this moment.",
+    "pt-BR": "Uma breve oração na Hora da Misericórdia — às três da tarde, a hora em que Jesus expirou na Cruz. Nosso Senhor disse a Santa Faustina Kowalska que esta é a hora da graça para o mundo inteiro, e pediu que todas as almas se voltassem para Sua Paixão neste momento."
+  },
+  "history": {
+    "en": "Jesus appeared to St. Faustina Kowalska in the 1930s and dictated to her the revelations of Divine Mercy. He specifically asked for a prayer at three in the afternoon: 'At three o'clock, implore My mercy, especially for sinners; and, if only for a brief moment, immerse yourself in My Passion, particularly in My abandonment at the moment of agony.' He promised that whoever prays at this hour, asking anything through His Passion, will receive great mercy.",
+    "pt-BR": "Jesus apareceu a Santa Faustina Kowalska nos anos 1930 e ditou-lhe as revelações da Divina Misericórdia. Ele pediu especificamente uma oração às três da tarde: 'Às três horas, implora Minha misericórdia especialmente para os pecadores; e, se ao menos por um breve momento, mergulha em Minha Paixão, em particular no Meu abandono no momento da agonia.' Prometeu que quem reza nesta hora, pedindo qualquer coisa por Sua Paixão, receberá grande misericórdia."
+  },
+  "howToPray": {
+    "en": "Pause at three o'clock. If possible, stand before a crucifix or an image of the Divine Mercy. You need only a moment — but give it fully. Make the Sign of the Cross and immerse yourself briefly in the mystery of Christ's death for souls. Pray the brief prayers below with faith.",
+    "pt-BR": "Pare às três da tarde. Se possível, fique diante de um crucifixo ou de uma imagem da Divina Misericórdia. Basta um momento — mas oferecê-lo por inteiro. Faça o Sinal da Cruz e mergulhe brevemente no mistério da morte de Cristo pelas almas. Reze as breves orações abaixo com fé."
+  },
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "flows": [
+    { "id": "default", "name": { "en": "Three O'Clock Prayer", "pt-BR": "Oração das Três da Tarde" }, "file": "flow.json" }
+  ],
+  "tags": ["mercy", "divine-mercy", "faustina", "daily", "passion", "afternoon"],
+  "defaults": {
+    "sortOrder": 16,
+    "slots": [
+      { "flowId": "default", "schedule": { "type": "daily" }, "time": "15:00", "tier": "extra", "enabled": false }
+    ]
+  }
+}

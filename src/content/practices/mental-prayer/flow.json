@@ -1,0 +1,16 @@
+{
+  "sections": [
+    { "type": "prayer", "ref": "sign-of-cross" },
+    { "type": "divider" },
+    {
+      "type": "repeat",
+      "count": 6,
+      "variable": { "source": "variant", "key": "steps" },
+      "sections": [
+        { "type": "heading", "text": { "en": "{{name}}", "pt-BR": "{{name}}" } },
+        { "type": "meditation", "text": { "en": "{{meditation}}", "pt-BR": "{{meditation}}" } },
+        { "type": "divider" }
+      ]
+    }
+  ]
+}

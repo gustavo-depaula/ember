@@ -1,0 +1,62 @@
+{
+  "sections": [
+    { "type": "rubric", "text": { "en": "Lectio — Read", "pt-BR": "Lectio — Ler" } },
+    {
+      "type": "meditation",
+      "text": {
+        "en": "Open your chosen Scripture passage — a Gospel pericope, a psalm, a passage from the Epistles, or the readings of the day. Read it through once, slowly, with reverence. You are not studying; you are listening for a word addressed to you.",
+        "pt-BR": "Abra a passagem escolhida das Escrituras — uma perícope do Evangelho, um salmo, uma passagem das Epístolas ou as leituras do dia. Leia-a uma vez, devagar, com reverência. Você não está estudando; está ouvindo uma palavra dirigida a você."
+      }
+    },
+    {
+      "type": "meditation",
+      "text": {
+        "en": "Read it again. This time, let the words pass through you more slowly still. Notice if any word or phrase seems to 'shimmer' — to stand out, to resonate, to disturb, or to console. Mark it. Receive it.",
+        "pt-BR": "Leia novamente. Desta vez, deixe as palavras passarem por você mais devagar ainda. Observe se alguma palavra ou frase parece 'ressoar' — destacar-se, repercutir, perturbar ou consolar. Marque-a. Receba-a."
+      }
+    },
+    { "type": "divider" },
+    { "type": "rubric", "text": { "en": "Meditatio — Meditate", "pt-BR": "Meditatio — Meditar" } },
+    {
+      "type": "meditation",
+      "text": {
+        "en": "Return to the word or phrase that struck you. Turn it over in your heart as the tongue turns over food to savor it — the ancient image of rumination. Let it descend from your mind into your soul. Do not be in a hurry. This is not analysis; it is encounter.",
+        "pt-BR": "Volte à palavra ou frase que o tocou. Revire-a no coração como a língua vira o alimento para saboreá-lo — a antiga imagem da ruminação. Deixe-a descer da mente para a alma. Não tenha pressa. Não é análise; é encontro."
+      }
+    },
+    {
+      "type": "meditation",
+      "text": {
+        "en": "Ask: What is God saying to me through this word? What in my life does it illuminate, challenge, or console? What does it call me to?",
+        "pt-BR": "Pergunte: O que Deus me diz através desta palavra? O que em minha vida ela ilumina, desafia ou consola? Para que ela me chama?"
+      }
+    },
+    { "type": "divider" },
+    { "type": "rubric", "text": { "en": "Oratio — Pray", "pt-BR": "Oratio — Orar" } },
+    {
+      "type": "meditation",
+      "text": {
+        "en": "Let the word become your prayer. Speak to God from the heart — in your own words, with gratitude, petition, repentance, or wonder. Allow the Scripture that has entered you to shape your address to God. This is prayer born from listening.",
+        "pt-BR": "Deixe a palavra tornar-se sua oração. Fale com Deus do coração — com suas próprias palavras, com gratidão, petição, arrependimento ou admiração. Permita que a Escritura que entrou em você molde seu diálogo com Deus. Esta é a oração nascida da escuta."
+      }
+    },
+    { "type": "divider" },
+    { "type": "rubric", "text": { "en": "Contemplatio — Rest", "pt-BR": "Contemplatio — Repousar" } },
+    {
+      "type": "meditation",
+      "text": {
+        "en": "Now lay down the words — your reading and your prayer. Rest in God's presence. You are not doing anything; you are being with God. Simply remain. This is the summit of Lectio Divina: to be received into the love that the Word has opened.",
+        "pt-BR": "Agora ponha de lado as palavras — sua leitura e sua oração. Repousa na presença de Deus. Você não está fazendo nada; está sendo com Deus. Simplesmente permaneça. Este é o cume da Lectio Divina: ser acolhido no amor que a Palavra abriu."
+      }
+    },
+    {
+      "type": "meditation",
+      "text": {
+        "en": "Stay here as long as grace sustains you. When the time is right, return gently. Give thanks. Carry a single word or phrase with you — your 'spiritual bouquet' — into the rest of the day.",
+        "pt-BR": "Fique aqui enquanto a graça o sustentar. Quando o momento for certo, retorne gentilmente. Dê graças. Carregue uma única palavra ou frase consigo — seu 'buquê espiritual' — pelo resto do dia."
+      }
+    },
+    { "type": "divider" },
+    { "type": "prayer", "ref": "sign-of-cross" }
+  ]
+}

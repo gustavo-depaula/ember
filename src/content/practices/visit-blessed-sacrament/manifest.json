@@ -1,0 +1,32 @@
+{
+  "id": "visit-blessed-sacrament",
+  "name": { "en": "Visit to the Blessed Sacrament", "pt-BR": "Visita ao Santíssimo Sacramento" },
+  "categories": ["eucharistic", "contemplative"],
+  "estimatedMinutes": 15,
+  "description": {
+    "en": "A visit to a Catholic church to pray before the Blessed Sacrament, where Jesus is truly present in the tabernacle. These visits are acts of adoration, gratitude, reparation, and petition. St. Alphonsus Liguori called the visit to the Blessed Sacrament 'the most necessary and most fruitful' of all devotions.",
+    "pt-BR": "Uma visita a uma igreja católica para orar diante do Santíssimo Sacramento, onde Jesus está verdadeiramente presente no sacrário. Essas visitas são atos de adoração, gratidão, reparação e petição. Santo Afonso Liguori chamou a visita ao Santíssimo Sacramento de 'a mais necessária e mais frutífera' de todas as devoções."
+  },
+  "history": {
+    "en": "Perpetual adoration of the Blessed Sacrament grew from the practice of reserving the Eucharist for the sick, which led naturally to visits and vigils before the tabernacle. The 40-Hours Devotion (Quarant'Ore) became widespread in 16th-century Italy. Religious congregations like the Blessed Sacrament Fathers (founded by St. Peter Julian Eymard, 1856) were established specifically for Eucharistic adoration. St. Alphonsus Liguori, St. John Vianney, St. Peter Eymard, and Blessed Teresa of Calcutta were all renowned for their hours before the Blessed Sacrament.",
+    "pt-BR": "A adoração perpétua do Santíssimo Sacramento cresceu da prática de reservar a Eucaristia para os enfermos, o que levou naturalmente a visitas e vigílias diante do sacrário. A Devoção das 40 Horas (Quarant'Ore) tornou-se generalizada na Itália do século XVI. Congregações religiosas como os Padres do Santíssimo Sacramento (fundados por São Pedro Julião Eymard, 1856) foram estabelecidas especificamente para a adoração eucarística."
+  },
+  "howToPray": {
+    "en": "For a short visit (5–15 min): Genuflect on entering, greet Our Lord, pray the Anima Christi, make an Act of Spiritual Communion, and speak from the heart. For a Holy Hour (60 min): structure your time with Scripture, meditation, a litany, an act of reparation, and closing prayers. Either way, begin by becoming aware that you are in the real presence of Christ.",
+    "pt-BR": "Para uma visita curta (5–15 min): Genuflita ao entrar, saude Nosso Senhor, reze a Alma de Cristo, faça um Ato de Comunhão Espiritual e fale do coração. Para uma Hora Santa (60 min): estruture o tempo com Escritura, meditação, uma litania, um ato de reparação e orações finais. De qualquer forma, comece tomando consciência de que está na presença real de Cristo."
+  },
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "flows": [
+    { "id": "short-visit", "name": { "en": "Short Visit", "pt-BR": "Visita Breve" }, "file": "flows/short-visit.json", "timeBlock": "flexible" },
+    { "id": "holy-hour", "name": { "en": "Holy Hour", "pt-BR": "Hora Santa" }, "file": "flows/holy-hour.json", "timeBlock": "flexible" }
+  ],
+  "tags": ["eucharist", "adoration", "tabernacle", "sacrament", "blessed-sacrament", "holy-hour"],
+  "defaults": {
+    "sortOrder": 13,
+    "slots": [
+      { "flowId": "short-visit", "schedule": { "type": "daily" }, "tier": "ideal", "enabled": false },
+      { "flowId": "holy-hour", "schedule": { "type": "days-of-week", "days": [4] }, "tier": "extra", "enabled": false }
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "sections": [
+    { "type": "rubric", "text": { "en": "Opening — The Invitation of Christ", "pt-BR": "Abertura — O Convite de Cristo" } },
+    { "type": "prayer", "ref": "sign-of-cross" },
+    {
+      "type": "prayer",
+      "inline": {
+        "en": "Lord Jesus Christ, who said to Your apostles in Gethsemane:\n'Could you not watch one hour with me?' —\nhere I am. I come to watch this hour with You.\nI adore You. I believe in You. I hope in You. I love You.\nReceive whatever I am able to offer.",
+        "pt-BR": "Senhor Jesus Cristo, que dissestes a Vossos apóstolos no Getsêmani:\n'Não podestes vigiar uma hora comigo?' —\naqui estou. Venho vigiar esta hora convosco.\nAdoro-Vos. Creio em Vós. Espero em Vós. Amo-Vos.\nRecebei o que sou capaz de oferecer."
+      }
+    },
+    { "type": "divider" },
+    { "type": "rubric", "text": { "en": "Adoration — Anima Christi", "pt-BR": "Adoração — Alma de Cristo" } },
+    { "type": "prayer", "ref": "anima-christi" },
+    { "type": "divider" },
+    { "type": "rubric", "text": { "en": "Scripture", "pt-BR": "Escritura" } },
+    {
+      "type": "meditation",
+      "text": {
+        "en": "Open your Bible or a daily missal and read the passage slowly, as if God is speaking directly to you. Pause where the Word touches your heart.",
+        "pt-BR": "Abra sua Bíblia ou um missal diário e leia a passagem devagar, como se Deus falasse diretamente a você. Pause onde a Palavra tocar seu coração."
+      }
+    },
+    { "type": "divider" },
+    { "type": "rubric", "text": { "en": "Silent Meditation", "pt-BR": "Meditação Silenciosa" } },
+    {
+      "type": "meditation",
+      "text": {
+        "en": "Sit in silence. Consider who is before you. The God who spoke the world into being is here, hidden under the form of bread, waiting for your love. What do you wish to say to Him? What do you need? What do you want to thank Him for? What burden are you carrying that you need to lay at His feet?",
+        "pt-BR": "Sente-se em silêncio. Considere quem está diante de você. O Deus que falou e o mundo veio a ser está aqui, escondido sob a forma de pão, esperando por seu amor. O que você quer dizer a Ele? O que você precisa? Do que quer agradecer? Que fardo você carrega e precisa depositar a Seus pés?"
+      }
+    },
+    { "type": "divider" },
+    { "type": "rubric", "text": { "en": "Act of Reparation", "pt-BR": "Ato de Reparação" } },
+    {
+      "type": "prayer",
+      "inline": {
+        "en": "O most Sacred Heart of Jesus, for Whom the fervor of love and the anguish of our ingratitude render so continuous an agony, we offer Thee this hour of our love in reparation for all the coldness, neglect, and irreverence that Thou dost receive in this most holy sacrament. Grant that henceforth we may love Thee with ever greater fidelity, and that this time before Thee may draw us deeper into union with Thy heart. Amen.",
+        "pt-BR": "Ó Sagradíssimo Coração de Jesus, para Quem o fervor do amor e a angústia de nossa ingratidão proporcionam tão contínua agonia, oferecemos esta hora de nosso amor em reparação pela frieza, negligência e irreverência que recebeis neste santíssimo sacramento. Concedei que doravante possamos amar-Vos com cada vez maior fidelidade, e que este tempo diante de Vós nos atraia para uma união mais profunda com Vosso Coração. Amém."
+      }
+    },
+    { "type": "divider" },
+    { "type": "rubric", "text": { "en": "Spiritual Communion & Closing", "pt-BR": "Comunhão Espiritual e Encerramento" } },
+    {
+      "type": "prayer",
+      "inline": {
+        "en": "My Jesus, I believe that You are present in the Most Holy Sacrament.\nI love You above all things, and I desire to receive You into my soul.\nSince I cannot at this moment receive You sacramentally,\ncome at least spiritually into my heart.\nI embrace You as if You were already there\nand unite myself wholly to You.\nNever permit me to be separated from You. Amen.",
+        "pt-BR": "Meu Jesus, creio que estais presente no Santíssimo Sacramento.\nAmo-Vos sobre todas as coisas e desejo receber-Vos em minha alma.\nComo não posso agora receber-Vos sacramentalmente,\nvinde ao menos espiritualmente ao meu coração.\nAbraço-Vos como se já estivésseis aqui\ne uno-me totalmente a Vós.\nNunca permitais que me separe de Vós. Amém."
+      }
+    },
+    { "type": "prayer", "ref": "sign-of-cross" }
+  ]
+}
