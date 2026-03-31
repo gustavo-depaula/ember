@@ -52,6 +52,7 @@ import { useReadingMargin } from '@/hooks/useReadingStyle'
 import { getPsalmNumbering } from '@/lib/bolls'
 import type { Verse } from '@/lib/content'
 import { successBuzz } from '@/lib/haptics'
+import { localizeContent } from '@/lib/i18n'
 import { formatLocalized } from '@/lib/i18n/dateLocale'
 import type { PsalmRef, ReadingReference } from '@/lib/liturgical'
 import { usePreferencesStore } from '@/stores/preferencesStore'
@@ -175,9 +176,7 @@ export function PracticeFlow({
   const isDynamicLoading =
     hasDynamicContent && (psalmResult.isLoading || bibleResult.isLoading || cccResult.isLoading)
 
-  const practiceName = t(`practice.${practiceId}`, {
-    defaultValue: manifest?.name.en ?? practiceId,
-  })
+  const practiceName = manifest ? localizeContent(manifest.name) : practiceId
   const formattedDate = formatLocalized(now, 'EEEE, MMMM d, yyyy')
 
   if (!manifest || !flow) {

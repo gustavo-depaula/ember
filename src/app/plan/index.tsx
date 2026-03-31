@@ -1,6 +1,5 @@
 import { format, subWeeks } from 'date-fns'
 import { useRouter } from 'expo-router'
-import { SlidersHorizontal } from 'lucide-react-native'
 import { useMemo } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
@@ -176,7 +175,7 @@ export default function PlanScreen() {
           </YStack>
         </XStack>
 
-        <AnimatedPressable onPress={() => router.push('/plan/settings')}>
+        <AnimatedPressable onPress={() => router.push('/practices' as any)}>
           <XStack
             alignItems="center"
             justifyContent="center"
@@ -189,9 +188,8 @@ export default function PlanScreen() {
             borderStyle="dashed"
             alignSelf="center"
           >
-            <SlidersHorizontal size={16} color={theme.accent.val} />
             <Text fontFamily="$heading" fontSize="$2" color="$accent">
-              {t('plan.customize')}
+              {t('catalog.browseCatalog')}
             </Text>
           </XStack>
         </AnimatedPressable>

@@ -476,6 +476,7 @@ export default {
     variant: 'Meditation Style',
     browseCatalog: 'Browse Practice Catalog',
     noResults: 'No practices found',
+    customDescription: 'Create your own practice with a custom schedule',
     hours: 'Hours',
   },
 
