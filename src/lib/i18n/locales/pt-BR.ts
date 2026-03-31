@@ -594,6 +594,7 @@ export default {
     'lectio-divina': 'Lectio Divina',
     'guardian-angel': 'Ora\u00e7\u00e3o ao Anjo da Guarda',
     memorare: 'Lembrai-vos',
+    'preces-opus-dei': 'Preces (Opus Dei)',
     'three-oclock': 'Ora\u00e7\u00e3o das Tr\u00eas Horas',
     'jesus-prayer': 'Ora\u00e7\u00e3o de Jesus',
     akathist: 'Hino Acatisto',

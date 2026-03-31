@@ -32,6 +32,8 @@ import memorareFlow from './memorare/flow.json'
 import memorareManifest from './memorare/manifest.json'
 import morningOfferingFlow from './morning-offering/flow.json'
 import morningOfferingManifest from './morning-offering/manifest.json'
+import precesOpusDeiFlow from './preces-opus-dei/flow.json'
+import precesOpusDeiManifest from './preces-opus-dei/manifest.json'
 import rosaryFlow from './rosary/flow.json'
 import rosaryManifest from './rosary/manifest.json'
 import rosaryScriptural from './rosary/variants/scriptural.json'
@@ -47,6 +49,7 @@ const manifests: Record<string, PracticeManifest> = {
   angelus: angelusManifest as PracticeManifest,
   'guardian-angel': guardianAngelManifest as PracticeManifest,
   memorare: memorareManifest as PracticeManifest,
+  'preces-opus-dei': precesOpusDeiManifest as PracticeManifest,
   rosary: rosaryManifest as PracticeManifest,
   'divine-mercy': divineMercyManifest as PracticeManifest,
   'stations-cross': stationsCrossManifest as PracticeManifest,
@@ -60,6 +63,7 @@ const flows: Record<string, FlowDefinition> = {
   'angelus/default': angelusFlow as FlowDefinition,
   'guardian-angel/default': guardianAngelFlow as FlowDefinition,
   'memorare/default': memorareFlow as FlowDefinition,
+  'preces-opus-dei/default': precesOpusDeiFlow as FlowDefinition,
   'rosary/joyful': rosaryFlow as FlowDefinition,
   'rosary/sorrowful': rosaryFlow as FlowDefinition,
   'rosary/glorious': rosaryFlow as FlowDefinition,
@@ -156,6 +160,7 @@ export function getManifestIconKey(manifestId: string): string {
     'divine-mercy': 'mercy',
     'guardian-angel': 'angel',
     memorare: 'mary',
+    'preces-opus-dei': 'prayer',
     'morning-offering': 'sunrise',
     angelus: 'bell',
     rosary: 'rosary',
