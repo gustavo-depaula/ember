@@ -490,6 +490,7 @@ export default {
     passion: 'Paix\u00e3o',
     offering: 'Oferecimento',
     incarnation: 'Encarna\u00e7\u00e3o',
+    liturgy: 'Liturgia',
   },
 
   common: {
@@ -580,6 +581,7 @@ export default {
     'morning-offering': 'Oferecimento da Manh\u00e3',
     'mental-prayer': 'Ora\u00e7\u00e3o Mental',
     'holy-mass': 'Santa Missa',
+    mass: 'Santa Missa',
     rosary: 'Ros\u00e1rio',
     'examination-conscience': 'Exame de Consci\u00eancia',
     'night-prayer': 'Ora\u00e7\u00e3o da Noite',
