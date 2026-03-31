@@ -38,5 +38,12 @@
       "file": "variants/jpii.json"
     }
   ],
-  "tags": ["passion", "lent", "meditation", "friday"]
+  "tags": ["passion", "lent", "meditation", "friday"],
+  "defaults": {
+    "enabled": false,
+    "sortOrder": 12,
+    "tier": "extra",
+    "timeBlock": "flexible",
+    "schedule": { "type": "days-of-week", "days": [5] }
+  }
 }

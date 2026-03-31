@@ -14,7 +14,6 @@ import openingVerse from '@/assets/prayers/opening-verse.json'
 import ourFather from '@/assets/prayers/our-father.json'
 import signOfCross from '@/assets/prayers/sign-of-cross.json'
 
-import type { PracticeReadingTrack } from '@/db/schema'
 import type { PsalmNumbering } from '@/lib/bolls'
 import i18n, { localizeAsset, localizeContent } from '@/lib/i18n'
 import { parseTrackEntry } from '@/lib/lectio'
@@ -66,7 +65,7 @@ export type FlowContext = {
   numbering?: PsalmNumbering
   liturgicalCalendar?: LiturgicalCalendarForm
   trackDefs?: Record<string, LectioTrackDef>
-  trackState?: Record<string, PracticeReadingTrack>
+  trackState?: Record<string, { current_index: number }>
   cycleData?: Record<string, CycleData>
   setKeyOverride?: string
 }

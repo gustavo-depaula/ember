@@ -18,5 +18,12 @@
     "en": "Pray this simple prayer in the morning, addressing your guardian angel directly. Some saints recommend also greeting your angel throughout the day and asking for help in specific situations.",
     "pt-BR": "Reze esta simples oração pela manhã, dirigindo-se diretamente ao seu anjo da guarda. Alguns santos recomendam também saudar seu anjo ao longo do dia e pedir ajuda em situações específicas."
   },
-  "tags": ["morning", "angel", "protection", "guardian"]
+  "tags": ["morning", "angel", "protection", "guardian"],
+  "defaults": {
+    "enabled": false,
+    "sortOrder": 14,
+    "tier": "extra",
+    "timeBlock": "morning",
+    "schedule": { "type": "daily" }
+  }
 }

@@ -16,14 +16,14 @@ import {
   buildTieredWallData,
   DayCarousel,
   type DayCompletion,
+  enrichPractice,
   filterPracticesForDate,
   getCompletionRate,
   getCurrentStreak,
-  getPracticeName,
   PracticeChecklist,
   toCompletedSet,
-  usePracticeLogRange,
-  usePracticeLogsForDate,
+  useCompletionRange,
+  useCompletionsForDate,
   usePractices,
   useTogglePractice,
 } from '@/features/plan-of-life'
@@ -43,15 +43,18 @@ export default function PlanScreen() {
   const goToToday = useCallback(() => setTodayTrigger((n) => n + 1), [])
 
   const { data: practices = [] } = usePractices()
-  const { data: rangeLogs = [] } = usePracticeLogRange(rangeStart, today)
-  const { data: selectedDateLogs = [] } = usePracticeLogsForDate(selectedDate)
+  const { data: rangeLogs = [] } = useCompletionRange(rangeStart, today)
+  const { data: selectedDateCompletions = [] } = useCompletionsForDate(selectedDate)
   const toggle = useTogglePractice()
 
   const selectedPractices = useMemo(
     () => filterPracticesForDate(practices, selectedDate),
     [practices, selectedDate],
   )
-  const selectedCompleted = useMemo(() => toCompletedSet(selectedDateLogs), [selectedDateLogs])
+  const selectedCompleted = useMemo(
+    () => toCompletedSet(selectedDateCompletions),
+    [selectedDateCompletions],
+  )
 
   const isFuture = selectedDate > today
   const editableCutoff = useMemo(
@@ -183,7 +186,7 @@ export default function PlanScreen() {
         </Text>
 
         <PracticeChecklist
-          practices={selectedPractices.map((p) => ({ ...p, name: getPracticeName(p, t) }))}
+          practices={selectedPractices.map((p) => enrichPractice(p, t))}
           completedIds={selectedCompleted}
           onToggle={(id, completed) =>
             toggle.mutate({ practiceId: id, date: selectedDate, completed })

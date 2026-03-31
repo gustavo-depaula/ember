@@ -91,7 +91,7 @@ Two internal pure functions (`getOfSeason`, `getEfSeason`) handle each calendar'
 
 ### User preference: `src/stores/preferencesStore.ts`
 
-`liturgicalCalendar: 'of' | 'ef'` — global setting, persisted in AsyncStorage under `liturgical-calendar`. Default: `'of'`.
+`liturgicalCalendar: 'of' | 'ef'` — global setting, persisted in SQLite `preferences` table under `liturgical-calendar`. Default: `'of'`.
 
 ### Consumers
 

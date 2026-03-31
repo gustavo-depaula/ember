@@ -147,7 +147,7 @@ export default function PracticeCatalogScreen() {
   const categories = useMemo(() => getManifestCategories(), [])
   const { data: allPractices = [] } = useAllPractices()
   const enabledManifestIds = useMemo(
-    () => new Set(allPractices.filter((p) => p.enabled).map((p) => p.manifest_id)),
+    () => new Set(allPractices.filter((p) => p.enabled).map((p) => p.practice_id)),
     [allPractices],
   )
 

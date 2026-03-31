@@ -53,5 +53,12 @@
       "timeBlock": "evening"
     }
   ],
-  "tags": ["office", "breviary", "liturgy-of-the-hours"]
+  "tags": ["office", "breviary", "liturgy-of-the-hours"],
+  "defaults": {
+    "enabled": false,
+    "sortOrder": 17,
+    "tier": "essential",
+    "timeBlock": "flexible",
+    "schedule": { "type": "daily" }
+  }
 }

@@ -7,7 +7,7 @@ import { getPracticeIcon } from '@/db/seed'
 import type { BlockState } from '@/features/plan-of-life/timeBlocks'
 import { lightTap } from '@/lib/haptics'
 
-type Practice = { id: string; name: string; icon: string }
+type Practice = { practice_id: string; name: string; icon: string }
 
 export function TimeBlockSection({
   label,
@@ -84,9 +84,12 @@ export function TimeBlockSection({
         </YStack>
       </Pressable>
       {practices.map((practice) => {
-        const done = completedIds.has(practice.id)
+        const done = completedIds.has(practice.practice_id)
         return (
-          <Pressable key={practice.id} onPress={() => onPressPractice?.(practice.id)}>
+          <Pressable
+            key={practice.practice_id}
+            onPress={() => onPressPractice?.(practice.practice_id)}
+          >
             <XStack
               backgroundColor="$backgroundSurface"
               borderRadius="$lg"
@@ -105,7 +108,7 @@ export function TimeBlockSection({
                 checked={done}
                 onToggle={() => {
                   lightTap()
-                  onToggle(practice.id, !done)
+                  onToggle(practice.practice_id, !done)
                 }}
               />
             </XStack>

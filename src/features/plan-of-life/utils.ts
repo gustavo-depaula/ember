@@ -1,6 +1,12 @@
 import { differenceInCalendarDays, format, subDays } from 'date-fns'
 
-import type { Practice, Tier } from '@/db/schema'
+import type { Completion, Tier, UserPractice } from '@/db/schema'
+
+import { isApplicableOn, parseSchedule } from './schedule'
+
+export function toCompletedSet(completions: Completion[]): Set<string> {
+  return new Set(completions.map((c) => c.practice_id))
+}
 
 export type DayCompletion = {
   date: string
@@ -96,10 +102,6 @@ export function getLongestPracticeStreak(dates: string[]): number {
   return longest
 }
 
-export function toCompletedSet(logs: Array<{ completed: number; practice_id: string }>) {
-  return new Set(logs.filter((l) => l.completed).map((l) => l.practice_id))
-}
-
 // Legacy single-color wall data (kept for individual practice walls)
 export function toGreenWallData(
   logs: Array<{ date: string; completed: number }>,
@@ -160,25 +162,16 @@ export function toTieredWallData(
   })
 }
 
-export function parseFrequencyDays(practice: Practice): number[] {
-  return JSON.parse(practice.frequency_days || '[]')
+export function isPracticeApplicableOnDate(practice: UserPractice, date: string): boolean {
+  const schedule = parseSchedule(practice.schedule)
+  return isApplicableOn(schedule, new Date(date))
 }
 
-export function isPracticeApplicableOnDate(practice: Practice, date: string): boolean {
-  if (practice.frequency === 'daily') return true
-
-  const frequencyDays = parseFrequencyDays(practice)
-  if (frequencyDays.length === 0) return true
-
-  const dayOfWeek = new Date(date).getDay()
-  return frequencyDays.includes(dayOfWeek)
-}
-
-export function filterPracticesForDate(practices: Practice[], date: string): Practice[] {
+export function filterPracticesForDate(practices: UserPractice[], date: string): UserPractice[] {
   return practices.filter((p) => isPracticeApplicableOnDate(p, date))
 }
 
-export function countByTier(practices: Practice[]): {
+export function countByTier(practices: UserPractice[]): {
   essential: number
   ideal: number
   extra: number
@@ -192,9 +185,9 @@ export function countByTier(practices: Practice[]): {
 
 export function buildTieredWallData(
   logs: Array<{ date: string; practice_id: string }>,
-  practices: Practice[],
+  practices: UserPractice[],
 ): Array<{ date: string; value: number }> {
-  const practiceMap = new Map(practices.map((p) => [p.id, p]))
+  const practiceMap = new Map(practices.map((p) => [p.practice_id, p]))
   const tierCounts = countByTier(practices)
   const tieredLogs: TieredLog[] = logs.map((log) => ({
     date: log.date,

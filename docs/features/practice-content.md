@@ -17,7 +17,7 @@ A resolution engine transforms the declarative flow definition + runtime context
 
 The manifest defines **what the practice IS** — its name, description, teaching content, and prayer structure. This is static content.
 
-The database stores **the user's relationship** with the practice — their chosen icon, tier, time block, frequency, variant preference, and notification settings. All of these are user personalization.
+The database stores **the user's relationship** with the practice — their chosen icon, tier, time block, schedule, variant preference, and notification settings. All of these are user personalization.
 
 ---
 
@@ -124,13 +124,12 @@ type PracticeManifest = {
 ```
 
 **Not in the manifest** (user personalization, stored in DB):
-- `icon` — user chooses emoji
+- `custom_icon` — user chooses emoji
 - `tier` — user assigns essential/ideal/extra
-- `timeBlock` — user assigns morning/daytime/evening/flexible
-- `frequency` — user sets daily/weekly/custom
-- `frequencyDays` — user picks days
-- `sortOrder` — user reorders
-- `notifyEnabled` / `notifyTime` — user configures
+- `time_block` — user assigns morning/daytime/evening/flexible
+- `schedule` — JSON blob: daily, days-of-week, day-of-month, etc. (with optional notify array)
+- `sort_order` — user reorders
+- `variant` — user selects variant (e.g. prayer form)
 
 ---
 
@@ -346,7 +345,7 @@ ALTER TABLE practices ADD COLUMN selected_variant TEXT;     -- user's preferred 
 - `manifest_id` points to a manifest ID for content-backed practices
 - `selected_variant` is the variant ID the user prefers (null = default/first)
 
-**Seed logic changes:** Instead of hardcoded practice objects in `seed.ts`, read manifests from `src/content/practices/*/manifest.json` and create DB records with sensible default tier/icon/timeBlock/frequency.
+**Seed logic changes:** Instead of hardcoded practice objects in `seed.ts`, read manifests from `src/content/practices/*/manifest.json` and create DB records with sensible default tier/timeBlock/schedule from manifest `defaults` section.
 
 ---
 
@@ -360,7 +359,7 @@ ALTER TABLE practices ADD COLUMN selected_variant TEXT;     -- user's preferred 
 ### From the catalog (discovering practices)
 - Browse by category, filter by tags
 - Tap → learn screen showing description, history, how-to-pray, images, estimated time
-- "Add to my Plan" → user picks icon, tier, time block, frequency → creates DB record
+- "Add to my Plan" → user picks tier, time block, schedule → creates DB record
 - Preview flow available before adding
 
 ### From plan overview (stats)
@@ -495,7 +494,7 @@ See the Variant Schema section above for the full example. Key points:
 ### Phase 3: Catalog + teaching UX
 - Build practice catalog browsing screen (by category, with search)
 - Implement learn/teaching view (description, history, how-to-pray, images)
-- Add-to-plan flow with personalization (icon, tier, time block, frequency)
+- Add-to-plan flow with personalization (tier, time block, schedule)
 - Seasonal/thematic pack system
 
 ### Phase 4: Multi-hour + dynamic sources ✅

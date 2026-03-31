@@ -1,17 +1,15 @@
 export { getPracticeIcon } from '@/db/seed'
 export { DayCarousel, PracticeChecklist } from './components'
-export { getPracticeName } from './getPracticeName'
+export { enrichPractice, getPracticeIconKey, getPracticeName } from './getPracticeName'
 export {
   useAllPractices,
+  useCompletionRange,
   useCompletionsForDate,
   useCompletionsForPractice,
   useCreatePractice,
   useDeletePractice,
   useLogCompletion,
   usePracticeCompletionStats,
-  usePracticeLogRange,
-  usePracticeLogsForDate,
-  usePracticeStats,
   usePractices,
   useRemoveCompletion,
   useReorderPractices,
@@ -39,7 +37,6 @@ export {
   getLongestStreak,
   getPracticeStreak,
   isPracticeApplicableOnDate,
-  parseFrequencyDays,
   toCompletedSet,
   toGreenWallData,
   toTieredWallData,

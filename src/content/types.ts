@@ -1,5 +1,6 @@
 // See docs/features/practice-content.md for the full spec
 
+import type { Schedule } from '@/features/plan-of-life/schedule'
 import type { PsalmRef, ReadingReference } from '@/lib/liturgical'
 
 export type LocalizedText = { en: string; 'pt-BR'?: string }
@@ -61,6 +62,13 @@ export type PracticeManifest = {
   }[]
   pack?: string
   tags: string[]
+  defaults?: {
+    enabled: boolean
+    sortOrder: number
+    tier: 'essential' | 'ideal' | 'extra'
+    timeBlock: 'morning' | 'daytime' | 'evening' | 'flexible'
+    schedule: Schedule
+  }
 }
 
 // --- Flow Definition (JSON input) ---

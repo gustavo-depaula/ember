@@ -20,61 +20,76 @@ Practices are organized into three tiers — **Essential**, **Ideal**, and **Ext
 
 ## Built-in Practices
 
+Built-in practice metadata comes from `src/content/practices/*/manifest.json`. Each manifest includes a `defaults` section that defines initial tier, time block, schedule, enabled state, and sort order. Adding a new built-in practice = adding a manifest folder. No code changes needed.
+
 ### Essential (enabled by default)
-| Practice | Frequency | Time Block |
-|----------|-----------|------------|
+| Practice | Schedule | Time Block |
+|----------|----------|------------|
 | Morning Offering | Daily | Morning |
 | Mental Prayer | Daily | Morning |
-| Holy Mass | Weekly (Sunday) | Morning |
+| Holy Mass | Days-of-week [Sun] | Morning |
 | Rosary | Daily | Daytime |
 | Examination of Conscience | Daily | Evening |
 | Night Prayer | Daily | Evening |
-| Jesus Prayer *(Eastern)* | Daily | Flexible | Disabled |
 
 ### Ideal
-| Practice | Frequency | Time Block | Default |
-|----------|-----------|------------|---------|
+| Practice | Schedule | Time Block | Default |
+|----------|----------|------------|---------|
 | Angelus | Daily | Daytime | Enabled |
 | Spiritual Reading | Daily | Flexible | Enabled |
-| Confession | Weekly (Saturday) | Flexible | Disabled |
+| Confession | Times-per 1x/month | Flexible | Disabled |
 | Visit to Blessed Sacrament | Daily | Flexible | Disabled |
-| Akathist Hymn *(Eastern)* | Weekly (Saturday) | Flexible | Disabled |
-| Trisagion Prayers *(Eastern)* | Daily | Morning | Disabled |
 
 ### Extra (disabled by default)
-| Practice | Frequency | Time Block |
-|----------|-----------|------------|
+| Practice | Schedule | Time Block |
+|----------|----------|------------|
 | Divine Mercy Chaplet | Daily | Daytime |
-| Stations of the Cross | Weekly (Friday) | Flexible |
+| Stations of the Cross | Days-of-week [Fri] | Flexible |
 | Lectio Divina | Daily | Flexible |
 | Guardian Angel Prayer | Daily | Morning |
 | Memorare | Daily | Flexible |
 | Three O'Clock Prayer | Daily | Daytime |
-| Paraklesis *(Eastern)* | Daily | Flexible |
-| Prostrations *(Eastern)* | Daily | Morning |
 
 ---
 
 ## Custom Practices
 
 Users can:
-- **Add** custom practices with name, icon, tier, time block, and frequency
-- **Edit** any practice's tier, time block, frequency, icon, and notification settings
+- **Add** custom practices with name, icon, tier, time block, and schedule
+- **Edit** any practice's tier, time block, schedule, icon, and notification settings
 - **Enable/disable** practices (built-in practices can be disabled but not deleted)
 - **Delete** custom practices
-- Set **frequency**: daily, weekly (specific days), or custom day selection
 
 ---
 
-## Frequency System
+## Schedule Model
 
-Each practice has a frequency that determines when it appears in the checklist:
+Each practice has a JSON `schedule` field (discriminated union). See `docs/features/data-model-v2.md` for the complete spec.
 
-- **Daily** — appears every day
-- **Weekly** — appears on selected days of the week (e.g., Sunday for Mass, Saturday for Confession)
-- **Custom** — appears on any combination of specific days
+### Schedule Types
 
-Practices only show in the daily checklist on their applicable days. Streaks and completion rates respect the frequency — skipping a Sunday-only practice on Monday doesn't break a streak.
+| Type | Description | Example |
+|------|-------------|---------|
+| `daily` | Every day | Morning Offering |
+| `days-of-week` | Specific days (0=Sun..6=Sat) | Mass on Sunday, Stations on Friday |
+| `day-of-month` | Specific calendar days | First of the month devotion |
+| `nth-weekday` | Nth occurrence of a weekday in month | First Friday devotion |
+| `times-per` | N times per week/month (user picks when) | Rosary 3x/week, Confession 1x/month |
+| `fixed-program` | Consecutive days from a start date | 54-day Rosary Novena |
+
+### Season Filters
+
+Any schedule can be gated on liturgical seasons via `seasons` field:
+- Stations of the Cross: `{ type: 'days-of-week', days: [5], seasons: ['lent'] }`
+- Regina Caeli: `{ type: 'daily', seasons: ['easter'] }`
+
+### Embedded Notifications
+
+Notifications live inside `schedule.notify[]`, enabling per-day notification times:
+- Morning Offering daily at 6:30 → `{ type: 'daily', notify: [{ at: '06:30' }] }`
+- Mass Sun 9am + Confession Sat 3pm → `{ type: 'days-of-week', days: [0,6], notify: [{ at: '09:00', days: [0] }, { at: '15:00', days: [6] }] }`
+
+Implementation: `src/features/plan-of-life/schedule.ts`
 
 ---
 
@@ -88,6 +103,8 @@ Practices are organized into four time-of-day blocks on the home screen:
 | Daytime | 12:00–16:59 | Expanded when current or incomplete |
 | Evening | 17:00–4:59 | Expanded when current or incomplete |
 | Flexible | Any time | Always expanded unless all done |
+
+Time block is a *display grouping* concern, not a scheduling concern. The schedule says *which days*; the time block says *where in the day's UI*.
 
 Each block has display states based on time of day and completion:
 - **Expanded** — shows full practice list with toggles (current or incomplete past block)
@@ -112,38 +129,21 @@ The wall uses 4 color families (8 levels) based on which tier of practices was c
 | 5–6 | **Green** | All essentials done (partial/all essentials) |
 | 7 | **Burgundy/Deep Rose** | ALL applicable practices done — full fidelity |
 
-### Color Tokens
-
-Light theme:
-```
-wallEmpty:       #E8E4D9
-wallExtra1:      #E8D9A0    (gold partial)
-wallExtra2:      #C9A84C    (gold full)
-wallIdeal1:      #A8C4D9    (blue partial)
-wallIdeal2:      #3D5A80    (blue full)
-wallEssential1:  #8FB88A    (green partial)
-wallEssential2:  #2D6A4F    (green full)
-wallPerfect:     #6B1D2A    (burgundy)
-```
-
 ### Individual Practice Walls
 
 The practice detail screen uses a simple binary green wall (done/not done) for each individual practice, using the legacy 5-level green palette.
-
-### Interaction
-
-- Tap a day cell to see which practices were completed/missed
-- Streak counter: current streak and longest streak per practice
 
 ---
 
 ## Notifications
 
-Per-practice local notifications using `expo-notifications`:
+Schedule-aware local notifications using `expo-notifications`:
 
-- Each practice can have notifications enabled with a configurable reminder time (HH:MM)
-- Notifications are scheduled as daily recurring reminders
-- When practice settings change, notifications are rescheduled
+- Notifications are embedded in `schedule.notify[]`
+- `daily` schedules → daily recurring reminders
+- `days-of-week` schedules → weekly recurring reminders per scheduled day
+- Per-day notification times: different times for different days (e.g., Mass Sun 9am, Confession Sat 3pm)
+- When practice settings change, all notifications are rescheduled
 - On app launch, all notifications are synced with current practice settings
 - Android uses a dedicated "Practice Reminders" notification channel
 
@@ -156,21 +156,25 @@ Implementation: `src/lib/notifications.ts`
 ### `/plan/` — Plan of Life Hub
 - Multi-hue fidelity wall at top (20 weeks)
 - Settings gear icon to configure practices
-- Day cell tap reveals completed/missed practices modal
 - Summary stats: current streak, completion rate
-- Today's practice checklist (frequency-filtered)
+- Day carousel with date selection
+- Practice checklist for selected date (schedule-filtered)
 - Tap practice row → detail view
 
 ### `/plan/[practiceId]` — Practice Detail
-- Practice name, icon, tier badge
+- Practice name, icon (from manifest or custom)
 - Individual binary green wall
 - Stats: current streak, longest streak, total days, completion rate
+- Variant selector (for practices with variants like Rosary mysteries)
+- Reading track pickers (for practices with lectio tracks)
+- Practice teaching content from manifest
 
 ### `/plan/settings` — Customize Practices
 - All practices grouped by tier (essential/ideal/extra)
 - Tap practice → edit modal with full configuration
 - Add custom practice button
-- Edit: tier, time block, frequency, icon, notifications, enabled/disabled
+- Browse catalog link
+- Edit: tier, time block, schedule, icon, notifications, enabled/disabled
 - Built-in practices can't be renamed or deleted
 
 ---
@@ -180,74 +184,34 @@ Implementation: `src/lib/notifications.ts`
 ```typescript
 type Tier = 'essential' | 'ideal' | 'extra'
 type TimeBlock = 'morning' | 'daytime' | 'evening' | 'flexible'
-type Frequency = 'daily' | 'weekly' | 'custom'
 
-interface Practice {
-  id: string
-  name: string
-  icon: string
-  frequency: Frequency
-  enabled: boolean
+type UserPractice = {
+  practice_id: string
+  enabled: number
   sort_order: number
   tier: Tier
   time_block: TimeBlock
-  frequency_days: string       // JSON array of day numbers (0=Sun..6=Sat)
-  notify_enabled: boolean
-  notify_time?: string         // HH:MM
-  is_builtin: boolean
-  description: string
-  manifest_id: string | null   // links to practice content manifest
-  selected_variant: string | null
+  schedule: string        // JSON Schedule
+  variant: string | null
+  custom_name: string | null
+  custom_icon: string | null
+  custom_desc: string | null
 }
 
-// Event log — each completion is a separate row (supports multiple per day)
-interface PracticeCompletion {
-  id: number                   // autoincrement
-  practiceId: string
-  detail?: string              // sub-unit context: office hour, rosary mystery set, form, etc.
-  date: string                 // YYYY-MM-DD
-  completedAt: number          // Unix timestamp ms
+type Completion = {
+  id: number
+  practice_id: string
+  sub_id: string | null   // office hour, mystery set, etc.
+  date: string            // YYYY-MM-DD
+  completed_at: number    // Unix timestamp ms
 }
 ```
 
-The `detail` column captures what sub-unit was completed:
+The `sub_id` column captures what sub-unit was completed:
 - Divine Office: `"morning"`, `"evening"`, `"compline"`
 - Rosary: `"joyful"`, `"sorrowful"`, `"glorious"`, `"luminous"`
 - Simple practices: `null`
 
 Multiple completions per practice per day are supported (e.g., 2 rosaries in one day).
 
-### SQLite Schema
-
-```sql
-CREATE TABLE practices (
-  id TEXT PRIMARY KEY,
-  name TEXT NOT NULL,
-  icon TEXT NOT NULL,
-  frequency TEXT NOT NULL DEFAULT 'daily',
-  enabled INTEGER NOT NULL DEFAULT 1,
-  sort_order INTEGER NOT NULL,
-  tier TEXT NOT NULL DEFAULT 'essential',
-  time_block TEXT NOT NULL DEFAULT 'flexible',
-  frequency_days TEXT NOT NULL DEFAULT '[]',
-  notify_enabled INTEGER NOT NULL DEFAULT 0,
-  notify_time TEXT,
-  is_builtin INTEGER NOT NULL DEFAULT 0,
-  description TEXT NOT NULL DEFAULT '',
-  manifest_id TEXT,
-  selected_variant TEXT
-);
-
-CREATE TABLE practice_completions (
-  id INTEGER PRIMARY KEY AUTOINCREMENT,
-  practice_id TEXT NOT NULL,
-  detail TEXT,                 -- office hour, mystery set, form, etc.
-  date TEXT NOT NULL,
-  completed_at INTEGER NOT NULL,
-  FOREIGN KEY (practice_id) REFERENCES practices(id)
-);
-
-CREATE INDEX idx_completions_date ON practice_completions (date);
-CREATE INDEX idx_completions_practice ON practice_completions (practice_id);
-CREATE INDEX idx_completions_practice_date ON practice_completions (practice_id, date);
-```
+See `docs/features/data-model-v2.md` for the complete schema with SQL definitions.

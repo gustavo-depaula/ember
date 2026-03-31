@@ -18,5 +18,12 @@
     "en": "Pray the Memorare with confident trust, especially in times of need. Many saints recommend praying it repeatedly — St. Thérèse of Lisieux once prayed nine Memorares in succession for a particular intention. It can be prayed at any time of day.",
     "pt-BR": "Reze o Lembrai-vos com confiança, especialmente em tempos de necessidade. Muitos santos recomendam rezá-lo repetidamente — Santa Teresinha do Menino Jesus uma vez rezou nove Lembrai-vos seguidos por uma intenção particular."
   },
-  "tags": ["marian", "petition", "trust", "bernard"]
+  "tags": ["marian", "petition", "trust", "bernard"],
+  "defaults": {
+    "enabled": false,
+    "sortOrder": 15,
+    "tier": "extra",
+    "timeBlock": "flexible",
+    "schedule": { "type": "daily" }
+  }
 }

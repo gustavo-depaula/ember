@@ -1,11 +1,11 @@
 export { type CccParagraph, getCccParagraphs } from '@/lib/catechism'
 export {
-  ensurePracticeTracks,
-  useAdvanceTrack,
+  ensurePracticeCursors,
+  useAdvanceCursor,
   useBibleReading,
   useCccReading,
+  useCursorsForPractice,
   usePsalmsForHour,
-  useSetTrackIndex,
-  useTracksForPractice,
+  useSetCursorIndex,
 } from './hooks'
 export { formatPsalmRef, formatPsalmRefs, type PsalmRef, parsePsalmRef } from './psalter'

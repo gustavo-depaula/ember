@@ -1,12 +1,33 @@
 import type { TFunction } from 'i18next'
 
-import type { Practice } from '@/db/schema'
+import { getManifest, getManifestIconKey } from '@/content/practices'
+import type { UserPractice } from '@/db/schema'
+import { localizeContent } from '@/lib/i18n'
 
-export function getPracticeName(practice: Practice, t: TFunction): string {
-  if (practice.is_builtin === 1) {
-    const key = `practice.${practice.id}`
+export function getPracticeIconKey(practice: UserPractice): string {
+  if (practice.custom_icon) return practice.custom_icon
+  const manifest = getManifest(practice.practice_id)
+  if (manifest) return getManifestIconKey(practice.practice_id)
+  return 'prayer'
+}
+
+export function getPracticeName(practice: UserPractice, t: TFunction): string {
+  // Check if there's a manifest for this practice
+  const manifest = getManifest(practice.practice_id)
+  if (manifest) {
+    const key = `practice.${practice.practice_id}`
     const translated = t(key)
-    return translated !== key ? translated : practice.name
+    if (translated !== key) return translated
+    return localizeContent(manifest.name)
   }
-  return practice.name
+
+  // Custom practice — use custom_name
+  return practice.custom_name ?? practice.practice_id
+}
+
+export function enrichPractice(
+  practice: UserPractice,
+  t: TFunction,
+): UserPractice & { name: string; icon: string } {
+  return { ...practice, name: getPracticeName(practice, t), icon: getPracticeIconKey(practice) }
 }

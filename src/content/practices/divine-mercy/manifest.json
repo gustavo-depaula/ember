@@ -18,5 +18,12 @@
   "flowMode": "scroll",
   "completion": "flow-end",
   "flow": "flow.json",
-  "tags": ["mercy", "chaplet", "daily"]
+  "tags": ["mercy", "chaplet", "daily"],
+  "defaults": {
+    "enabled": false,
+    "sortOrder": 11,
+    "tier": "extra",
+    "timeBlock": "daytime",
+    "schedule": { "type": "daily" }
+  }
 }
