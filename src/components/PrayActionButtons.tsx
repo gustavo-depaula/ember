@@ -29,24 +29,23 @@ export function PrayButton({ practiceId }: { practiceId: string }) {
   )
 }
 
-export function HourButtons({
+export function FlowButtons({
   practiceId,
-  hours,
+  flows,
 }: {
   practiceId: string
-  hours: PracticeManifest['hours']
+  flows: PracticeManifest['flows']
 }) {
-  const { t } = useTranslation()
   const router = useRouter()
 
-  if (!hours?.length) return null
+  if (!flows?.length) return null
 
   return (
     <>
-      {hours.map((hour) => (
+      {flows.map((flow) => (
         <AnimatedPressable
-          key={hour.id}
-          onPress={() => router.push(`/pray/${practiceId}?hour=${hour.id}` as any)}
+          key={flow.id}
+          onPress={() => router.push(`/pray/${practiceId}?flow=${flow.id}` as any)}
         >
           <XStack
             backgroundColor="$accent"
@@ -55,14 +54,11 @@ export function HourButtons({
             borderColor="$accentSubtle"
             paddingVertical="$sm"
             paddingHorizontal="$md"
-            justifyContent="space-between"
+            justifyContent="center"
             alignItems="center"
           >
             <Text fontFamily="$heading" fontSize="$2" color="$background">
-              {localizeContent(hour.name)}
-            </Text>
-            <Text fontFamily="$body" fontSize="$1" color="$background" opacity={0.8}>
-              {t(`timeBlock.${hour.timeBlock}`)}
+              {localizeContent(flow.name)}
             </Text>
           </XStack>
         </AnimatedPressable>

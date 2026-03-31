@@ -1,7 +1,6 @@
 {
   "id": "jpii",
   "name": { "en": "John Paul II's Way of the Cross", "pt-BR": "Via Sacra de João Paulo II" },
-  "selector": "manual",
   "data": {
     "stations": [
       {

@@ -5,7 +5,9 @@
   "estimatedMinutes": 1,
   "flowMode": "scroll",
   "completion": "flow-end",
-  "flow": "flow.json",
+  "flows": [
+    { "id": "default", "name": { "en": "Memorare", "pt-BR": "Lembrai-vos" }, "file": "flow.json" }
+  ],
   "description": {
     "en": "A beloved prayer of petition to the Blessed Virgin Mary, expressing confident trust in her intercession. Its name comes from its opening word in Latin: 'Remember.'",
     "pt-BR": "Uma querida oração de petição à Santíssima Virgem Maria, expressando confiança em sua intercessão. Seu nome vem de sua palavra inicial em latim: 'Lembrai-vos.'"
@@ -20,10 +22,9 @@
   },
   "tags": ["marian", "petition", "trust", "bernard"],
   "defaults": {
-    "enabled": false,
     "sortOrder": 15,
-    "tier": "extra",
-    "timeBlock": "flexible",
-    "schedule": { "type": "daily" }
+    "slots": [
+      { "flowId": "default", "schedule": { "type": "daily" }, "tier": "extra", "enabled": false }
+    ]
   }
 }

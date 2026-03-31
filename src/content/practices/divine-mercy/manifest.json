@@ -17,13 +17,14 @@
   },
   "flowMode": "scroll",
   "completion": "flow-end",
-  "flow": "flow.json",
+  "flows": [
+    { "id": "default", "name": { "en": "Divine Mercy Chaplet", "pt-BR": "Terço da Misericórdia Divina" }, "file": "flow.json" }
+  ],
   "tags": ["mercy", "chaplet", "daily"],
   "defaults": {
-    "enabled": false,
     "sortOrder": 11,
-    "tier": "extra",
-    "timeBlock": "daytime",
-    "schedule": { "type": "daily" }
+    "slots": [
+      { "flowId": "default", "schedule": { "type": "daily" }, "tier": "extra", "enabled": false }
+    ]
   }
 }

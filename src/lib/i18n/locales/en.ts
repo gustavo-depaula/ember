@@ -207,6 +207,7 @@ export default {
     slots: 'Slots',
     settings: 'Settings',
     addSlot: 'Add slot',
+    variant: 'Meditations',
   },
 
   frequency: {

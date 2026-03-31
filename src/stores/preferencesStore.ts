@@ -28,7 +28,6 @@ type PreferencesState = {
   liturgicalCalendar: LiturgicalCalendarForm
   jurisdiction: string | undefined
   timeTravelDate: string | undefined
-  formPreferences: Record<string, string>
 
   // Theme
   theme: ThemePreference
@@ -50,7 +49,6 @@ type PreferencesState = {
   setLiturgicalCalendar: (form: LiturgicalCalendarForm) => void
   setJurisdiction: (jurisdiction: string | undefined) => void
   setTimeTravelDate: (date: string | undefined) => void
-  setFormPreference: (practiceId: string, formId: string) => void
 
   // Theme setter
   setTheme: (theme: ThemePreference) => void
@@ -73,7 +71,6 @@ export const usePreferencesStore = create<PreferencesState>()(
     liturgicalCalendar: 'of',
     jurisdiction: undefined,
     timeTravelDate: undefined,
-    formPreferences: {},
     theme: 'system',
     fontFamily: 'eb-garamond',
     fontSizeStep: 3,
@@ -134,16 +131,6 @@ export const usePreferencesStore = create<PreferencesState>()(
       } else {
         removePreference('time-travel-date')
       }
-    },
-
-    setFormPreference: (practiceId, formId) => {
-      set((state) => {
-        state.formPreferences[practiceId] = formId
-      })
-      setPreference(
-        'form-preferences',
-        JSON.stringify({ ...usePreferencesStore.getState().formPreferences, [practiceId]: formId }),
-      )
     },
 
     setTheme: (theme) => {
@@ -211,12 +198,6 @@ export const usePreferencesStore = create<PreferencesState>()(
         if (cal === 'of' || cal === 'ef') state.liturgicalCalendar = cal
         if (prefs.jurisdiction) state.jurisdiction = prefs.jurisdiction
         if (prefs['time-travel-date']) state.timeTravelDate = prefs['time-travel-date']
-
-        if (prefs['form-preferences']) {
-          try {
-            state.formPreferences = JSON.parse(prefs['form-preferences'])
-          } catch {}
-        }
 
         const theme = prefs.theme
         if (theme === 'light' || theme === 'dark' || theme === 'system') state.theme = theme

@@ -19,6 +19,7 @@ import { tierConfig } from '@/config/constants'
 import { getManifest } from '@/content/practices'
 import type { Tier, UserPracticeSlot } from '@/db/schema'
 import { lightTap, mediumTap } from '@/lib/haptics'
+import { localizeContent } from '@/lib/i18n'
 import { enrichSlot } from '../getPracticeName'
 import { parseSchedule } from '../schedule'
 import { deriveTimeBlock } from '../timeBlocks'
@@ -302,18 +303,14 @@ function SlotRow({
                 <AnimatedPressable
                   onPress={() => {
                     mediumTap()
-                    Alert.alert(
-                      t('editor.removeSlot'),
-                      t('editor.removeSlotConfirm'),
-                      [
-                        { text: t('common.cancel'), style: 'cancel' },
-                        {
-                          text: t('common.remove'),
-                          style: 'destructive',
-                          onPress: onDelete,
-                        },
-                      ],
-                    )
+                    Alert.alert(t('editor.removeSlot'), t('editor.removeSlotConfirm'), [
+                      { text: t('common.cancel'), style: 'cancel' },
+                      {
+                        text: t('common.remove'),
+                        style: 'destructive',
+                        onPress: onDelete,
+                      },
+                    ])
                   }}
                 >
                   <XStack
@@ -358,15 +355,60 @@ export function SlotConfigurator({
   const { t } = useTranslation()
   const theme = useTheme()
   const manifest = getManifest(practiceId)
-  const manifestHourIds = new Set(manifest?.hours?.map((h) => h.id) ?? [])
+  const manifestFlowIds = new Set(manifest?.flows?.map((f) => f.id) ?? [])
 
   return (
     <YStack gap="$md">
+      {manifest?.variants && manifest.variants.length > 1 && (
+        <YStack gap="$sm" marginBottom="$lg">
+          <YStack gap="$xs">
+            <Text fontFamily="$heading" fontSize="$3" color="$color" letterSpacing={1}>
+              {t('editor.variant')}
+            </Text>
+            <YStack borderBottomWidth={1.5} borderColor="$accent" width={32} />
+          </YStack>
+          <XStack gap="$sm" flexWrap="wrap">
+            {manifest.variants.map((v) => {
+              const isActive = (slots[0]?.variant ?? manifest.variants![0].id) === v.id
+              return (
+                <AnimatedPressable
+                  key={v.id}
+                  onPress={() => {
+                    lightTap()
+                    for (const slot of slots) {
+                      onUpdateSlot(slot.id, { variant: v.id })
+                    }
+                  }}
+                  style={{ flex: 1 }}
+                >
+                  <YStack
+                    paddingVertical="$sm"
+                    paddingHorizontal="$md"
+                    borderRadius="$md"
+                    borderWidth={1}
+                    borderColor={isActive ? '$accent' : '$borderColor'}
+                    backgroundColor={isActive ? '$accent' : 'transparent'}
+                    alignItems="center"
+                  >
+                    <Text
+                      fontFamily="$body"
+                      fontSize="$3"
+                      color={isActive ? 'white' : '$color'}
+                      numberOfLines={1}
+                    >
+                      {localizeContent(v.name)}
+                    </Text>
+                  </YStack>
+                </AnimatedPressable>
+              )
+            })}
+          </XStack>
+        </YStack>
+      )}
+
       <YStack gap="$xs">
         <Text fontFamily="$heading" fontSize="$3" color="$color" letterSpacing={1}>
-          {slots.length > 1
-            ? t('editor.slots')
-            : t('editor.settings')}
+          {slots.length > 1 ? t('editor.slots') : t('editor.settings')}
         </Text>
         <YStack borderBottomWidth={1.5} borderColor="$accent" width={32} />
       </YStack>
@@ -377,7 +419,7 @@ export function SlotConfigurator({
           slot={slot}
           onUpdate={(data) => onUpdateSlot(slot.id, data)}
           onDelete={
-            !manifestHourIds.has(slot.slot_id) && slot.slot_id !== 'default'
+            !manifestFlowIds.has(slot.slot_id) && slot.slot_id !== 'default'
               ? () => onDeleteSlot(slot.id)
               : undefined
           }

@@ -1,5 +1,6 @@
 // See docs/features/practice-content.md for the full spec
 
+import type { Tier } from '@/db/schema'
 import type { Schedule } from '@/features/plan-of-life/schedule'
 import type { PsalmRef, ReadingReference } from '@/lib/liturgical'
 
@@ -24,6 +25,21 @@ export type LectioTrackDef = {
 
 // --- Manifest ---
 
+export type FlowEntry = {
+  id: string
+  name: LocalizedText
+  file: string
+  timeBlock?: string
+}
+
+export type SlotDefault = {
+  flowId: string
+  schedule: Schedule
+  tier?: Tier
+  time?: string
+  enabled?: boolean
+}
+
 export type PracticeManifest = {
   id: string
   name: LocalizedText
@@ -42,18 +58,7 @@ export type PracticeManifest = {
   theme?: 'office'
   data?: Record<string, string>
   tracks?: Record<string, string>
-  flow?: string
-  hours?: {
-    id: string
-    name: LocalizedText
-    flow: string
-    timeBlock: string
-  }[]
-  forms?: {
-    id: string
-    name: LocalizedText
-    flow: string
-  }[]
+  flows: FlowEntry[]
   variants?: {
     id: string
     name: LocalizedText
@@ -63,11 +68,8 @@ export type PracticeManifest = {
   pack?: string
   tags: string[]
   defaults?: {
-    enabled: boolean
     sortOrder: number
-    tier: 'essential' | 'ideal' | 'extra'
-    timeBlock: 'morning' | 'daytime' | 'evening' | 'flexible'
-    schedule: Schedule
+    slots: SlotDefault[]
   }
 }
 
@@ -136,16 +138,12 @@ export type RenderedSection =
     }
   | { type: 'psalmody'; psalms: PsalmRef[] }
   | { type: 'reading'; reference: ReadingReference; trackId?: string }
-  | { type: 'set-selector'; options: { key: string; label: string }[]; selectedKey: string }
 
 // --- Variant ---
 
 export type Variant = {
   id: string
   name: LocalizedText
-  selector: 'day-of-week' | 'liturgical-season' | 'manual'
-  schedule?: Record<string, string>
-  setNames?: Record<string, LocalizedText>
   data: Record<string, VariantEntry[]>
 }
 

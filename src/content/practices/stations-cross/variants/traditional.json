@@ -1,7 +1,6 @@
 {
   "id": "traditional",
   "name": { "en": "Traditional Meditations", "pt-BR": "Meditações Tradicionais" },
-  "selector": "manual",
   "data": {
     "stations": [
       {

@@ -5,7 +5,9 @@
   "estimatedMinutes": 1,
   "flowMode": "scroll",
   "completion": "flow-end",
-  "flow": "flow.json",
+  "flows": [
+    { "id": "default", "name": { "en": "Morning Offering", "pt-BR": "Oferecimento do Dia" }, "file": "flow.json" }
+  ],
   "description": {
     "en": "A prayer offering the day's activities, joys, and sufferings to God through the Immaculate Heart of Mary, uniting them with the Holy Sacrifice of the Mass throughout the world.",
     "pt-BR": "Uma oração oferecendo as atividades, alegrias e sofrimentos do dia a Deus pelo Coração Imaculado de Maria, unindo-os ao Santo Sacrifício da Missa em todo o mundo."
@@ -20,10 +22,9 @@
   },
   "tags": ["morning", "offering", "daily", "sacred-heart", "jesuit"],
   "defaults": {
-    "enabled": true,
     "sortOrder": 1,
-    "tier": "essential",
-    "timeBlock": "morning",
-    "schedule": { "type": "daily" }
+    "slots": [
+      { "flowId": "default", "schedule": { "type": "daily" }, "time": "07:00", "tier": "essential" }
+    ]
   }
 }

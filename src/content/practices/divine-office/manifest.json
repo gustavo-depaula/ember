@@ -33,32 +33,18 @@
     "advanceReadings": true
   },
   "theme": "office",
-  "hours": [
-    {
-      "id": "morning",
-      "name": { "en": "Morning Prayer", "pt-BR": "Oração da Manhã" },
-      "flow": "flows/morning.json",
-      "timeBlock": "morning"
-    },
-    {
-      "id": "evening",
-      "name": { "en": "Evening Prayer", "pt-BR": "Oração da Tarde" },
-      "flow": "flows/evening.json",
-      "timeBlock": "evening"
-    },
-    {
-      "id": "compline",
-      "name": { "en": "Night Prayer", "pt-BR": "Oração da Noite" },
-      "flow": "flows/compline.json",
-      "timeBlock": "evening"
-    }
+  "flows": [
+    { "id": "morning", "name": { "en": "Morning Prayer", "pt-BR": "Oração da Manhã" }, "file": "flows/morning.json", "timeBlock": "morning" },
+    { "id": "evening", "name": { "en": "Evening Prayer", "pt-BR": "Oração da Tarde" }, "file": "flows/evening.json", "timeBlock": "evening" },
+    { "id": "compline", "name": { "en": "Night Prayer", "pt-BR": "Oração da Noite" }, "file": "flows/compline.json", "timeBlock": "evening" }
   ],
   "tags": ["office", "breviary", "liturgy-of-the-hours"],
   "defaults": {
-    "enabled": false,
     "sortOrder": 17,
-    "tier": "essential",
-    "timeBlock": "flexible",
-    "schedule": { "type": "daily" }
+    "slots": [
+      { "flowId": "morning", "schedule": { "type": "daily" }, "time": "07:00", "tier": "essential", "enabled": false },
+      { "flowId": "evening", "schedule": { "type": "daily" }, "time": "20:00", "tier": "essential", "enabled": false },
+      { "flowId": "compline", "schedule": { "type": "daily" }, "time": "21:00", "tier": "ideal", "enabled": false }
+    ]
   }
 }

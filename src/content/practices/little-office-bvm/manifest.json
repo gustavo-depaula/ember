@@ -20,62 +20,28 @@
   },
   "flowMode": "scroll",
   "completion": "flow-end",
-  "hours": [
-    {
-      "id": "matins",
-      "name": { "en": "Matins", "pt-BR": "Matinas" },
-      "flow": "flows/matins.json",
-      "timeBlock": "morning"
-    },
-    {
-      "id": "lauds",
-      "name": { "en": "Lauds", "pt-BR": "Laudes" },
-      "flow": "flows/lauds.json",
-      "timeBlock": "morning"
-    },
-    {
-      "id": "prime",
-      "name": { "en": "Prime", "pt-BR": "Prima" },
-      "flow": "flows/prime.json",
-      "timeBlock": "morning"
-    },
-    {
-      "id": "terce",
-      "name": { "en": "Terce", "pt-BR": "Ter\u00e7a" },
-      "flow": "flows/terce.json",
-      "timeBlock": "daytime"
-    },
-    {
-      "id": "sext",
-      "name": { "en": "Sext", "pt-BR": "Sexta" },
-      "flow": "flows/sext.json",
-      "timeBlock": "daytime"
-    },
-    {
-      "id": "none",
-      "name": { "en": "None", "pt-BR": "Noa" },
-      "flow": "flows/none.json",
-      "timeBlock": "daytime"
-    },
-    {
-      "id": "vespers",
-      "name": { "en": "Vespers", "pt-BR": "V\u00e9speras" },
-      "flow": "flows/vespers.json",
-      "timeBlock": "evening"
-    },
-    {
-      "id": "compline",
-      "name": { "en": "Compline", "pt-BR": "Completas" },
-      "flow": "flows/compline.json",
-      "timeBlock": "evening"
-    }
+  "flows": [
+    { "id": "matins", "name": { "en": "Matins", "pt-BR": "Matinas" }, "file": "flows/matins.json", "timeBlock": "morning" },
+    { "id": "lauds", "name": { "en": "Lauds", "pt-BR": "Laudes" }, "file": "flows/lauds.json", "timeBlock": "morning" },
+    { "id": "prime", "name": { "en": "Prime", "pt-BR": "Prima" }, "file": "flows/prime.json", "timeBlock": "morning" },
+    { "id": "terce", "name": { "en": "Terce", "pt-BR": "Terça" }, "file": "flows/terce.json", "timeBlock": "daytime" },
+    { "id": "sext", "name": { "en": "Sext", "pt-BR": "Sexta" }, "file": "flows/sext.json", "timeBlock": "daytime" },
+    { "id": "none", "name": { "en": "None", "pt-BR": "Noa" }, "file": "flows/none.json", "timeBlock": "daytime" },
+    { "id": "vespers", "name": { "en": "Vespers", "pt-BR": "Vésperas" }, "file": "flows/vespers.json", "timeBlock": "evening" },
+    { "id": "compline", "name": { "en": "Compline", "pt-BR": "Completas" }, "file": "flows/compline.json", "timeBlock": "evening" }
   ],
   "tags": ["marian", "office", "bvm", "breviary"],
   "defaults": {
-    "enabled": false,
     "sortOrder": 18,
-    "tier": "extra",
-    "timeBlock": "flexible",
-    "schedule": { "type": "daily" }
+    "slots": [
+      { "flowId": "matins", "schedule": { "type": "daily" }, "tier": "extra", "enabled": false },
+      { "flowId": "lauds", "schedule": { "type": "daily" }, "tier": "extra", "enabled": false },
+      { "flowId": "prime", "schedule": { "type": "daily" }, "tier": "extra", "enabled": false },
+      { "flowId": "terce", "schedule": { "type": "daily" }, "tier": "extra", "enabled": false },
+      { "flowId": "sext", "schedule": { "type": "daily" }, "tier": "extra", "enabled": false },
+      { "flowId": "none", "schedule": { "type": "daily" }, "tier": "extra", "enabled": false },
+      { "flowId": "vespers", "schedule": { "type": "daily" }, "tier": "extra", "enabled": false },
+      { "flowId": "compline", "schedule": { "type": "daily" }, "tier": "extra", "enabled": false }
+    ]
   }
 }

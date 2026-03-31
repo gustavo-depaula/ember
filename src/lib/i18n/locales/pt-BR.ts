@@ -208,6 +208,7 @@ export default {
     slots: 'Hor\u00e1rios',
     settings: 'Configura\u00e7\u00f5es',
     addSlot: 'Adicionar hor\u00e1rio',
+    variant: 'Meditações',
   },
 
   frequency: {

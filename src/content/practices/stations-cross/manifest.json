@@ -17,7 +17,9 @@
   },
   "flowMode": "scroll",
   "completion": "flow-end",
-  "flow": "flow.json",
+  "flows": [
+    { "id": "default", "name": { "en": "Stations of the Cross", "pt-BR": "Via Sacra" }, "file": "flow.json" }
+  ],
   "variants": [
     {
       "id": "traditional",
@@ -40,10 +42,9 @@
   ],
   "tags": ["passion", "lent", "meditation", "friday"],
   "defaults": {
-    "enabled": false,
     "sortOrder": 12,
-    "tier": "extra",
-    "timeBlock": "flexible",
-    "schedule": { "type": "days-of-week", "days": [5] }
+    "slots": [
+      { "flowId": "default", "schedule": { "type": "days-of-week", "days": [5] }, "tier": "extra", "enabled": false }
+    ]
   }
 }

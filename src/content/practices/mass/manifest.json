@@ -17,24 +17,16 @@
   },
   "flowMode": "scroll",
   "completion": "manual",
-  "forms": [
-    {
-      "id": "ordinary",
-      "name": { "en": "Ordinary Form", "pt-BR": "Forma Ordinária" },
-      "flow": "flows/ordinary.json"
-    },
-    {
-      "id": "extraordinary",
-      "name": { "en": "Extraordinary Form", "pt-BR": "Forma Extraordinária" },
-      "flow": "flows/extraordinary.json"
-    }
+  "flows": [
+    { "id": "ordinary", "name": { "en": "Ordinary Form", "pt-BR": "Forma Ordinária" }, "file": "flows/ordinary.json" },
+    { "id": "extraordinary", "name": { "en": "Extraordinary Form", "pt-BR": "Forma Extraordinária" }, "file": "flows/extraordinary.json" }
   ],
   "tags": ["mass", "liturgy", "eucharist", "missal"],
   "defaults": {
-    "enabled": true,
     "sortOrder": 3,
-    "tier": "essential",
-    "timeBlock": "morning",
-    "schedule": { "type": "days-of-week", "days": [0] }
+    "slots": [
+      { "flowId": "ordinary", "schedule": { "type": "days-of-week", "days": [0] }, "tier": "essential" },
+      { "flowId": "extraordinary", "schedule": { "type": "days-of-week", "days": [0] }, "tier": "extra", "enabled": false }
+    ]
   }
 }
