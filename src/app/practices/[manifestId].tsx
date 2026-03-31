@@ -30,7 +30,7 @@ export default function CatalogDetailScreen() {
 
   const manifest = manifestId ? getManifest(manifestId) : undefined
   const { data: allPractices = [] } = useAllPractices()
-  const practiceInDb = allPractices.find((p) => p.manifest_id === manifestId)
+  const practiceInDb = allPractices.find((p) => p.practice_id === manifestId)
   const isInPlan = practiceInDb ? practiceInDb.enabled === 1 : false
 
   const createPractice = useCreatePractice()
@@ -54,7 +54,7 @@ export default function CatalogDetailScreen() {
   function handleAddToPlan() {
     if (practiceInDb && !practiceInDb.enabled) {
       updatePractice.mutate({
-        id: practiceInDb.id,
+        id: practiceInDb.practice_id,
         data: { enabled: 1 },
       })
     } else {
@@ -65,28 +65,23 @@ export default function CatalogDetailScreen() {
   function handleSave(data: PracticeFormData) {
     if (practiceInDb) {
       updatePractice.mutate({
-        id: practiceInDb.id,
+        id: practiceInDb.practice_id,
         data: {
-          icon: data.icon,
           tier: data.tier,
           timeBlock: data.timeBlock,
-          frequency: data.frequency,
-          frequencyDays: data.frequencyDays,
-          notifyEnabled: data.notifyEnabled ? 1 : 0,
-          notifyTime: data.notifyEnabled ? data.notifyTime : null,
+          schedule: JSON.stringify(data.schedule),
           enabled: 1,
         },
       })
     } else if (manifest) {
       createPractice.mutate({
         id: manifest.id,
-        name: localizeContent(manifest.name),
-        icon: data.icon,
-        frequency: data.frequency,
+        customName: '',
+        customIcon: '',
         tier: data.tier,
         timeBlock: data.timeBlock,
-        frequencyDays: data.frequencyDays,
-        description: data.description,
+        schedule: JSON.stringify(data.schedule),
+        customDesc: '',
       })
     }
     setShowEditor(false)
@@ -176,7 +171,7 @@ export default function CatalogDetailScreen() {
             <SectionDivider />
             <VariantSelector
               manifest={manifest}
-              selectedVariantId={practiceInDb?.selected_variant ?? undefined}
+              selectedVariantId={practiceInDb?.variant ?? undefined}
             />
           </>
         )}
