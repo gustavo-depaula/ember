@@ -52,9 +52,6 @@ export type PracticeManifest = {
   howToPray: LocalizedText
   flowMode: 'scroll' | 'step'
   completion: 'flow-end' | 'manual'
-  completionEffects?: {
-    advanceReadings?: boolean
-  }
   theme?: 'office'
   data?: Record<string, string>
   tracks?: Record<string, string>

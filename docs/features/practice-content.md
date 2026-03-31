@@ -105,11 +105,6 @@ type PracticeManifest = {
   flowMode: 'scroll' | 'step'   // preferred rendering UX
   completion: 'flow-end' | 'manual'
 
-  // Completion side-effects
-  completionEffects?: {
-    advanceReadings?: boolean    // auto-advance reading tracks for any lectio sections in the flow
-  }
-
   // Rendering theme
   theme?: 'office'               // ornamental office-style (HeaderFlourish, OrnamentalRule, illuminated drop caps)
 
@@ -531,4 +526,4 @@ Key points:
 - Implement multi-hour practice support (Little Office of BVM)
 - Implement dynamic section types (psalter, lectio, seasonal)
 - Extract reusable liturgical library from Divine Office engine to `src/lib/liturgical/`
-- Migrate Divine Office to the content format with `completionEffects` and `theme` support
+- Migrate Divine Office to the content format with `theme` support

@@ -139,9 +139,8 @@ The day of the psalter cycle is determined by `day_of_month` (1-30). Months with
 
 ## Content Architecture
 
-The Divine Office is a practice manifest at `src/content/practices/divine-office/` with 3 flow files. It uses the shared practice content format with two manifest-level features:
+The Divine Office is a practice manifest at `src/content/practices/divine-office/` with 3 flow files. It uses the shared practice content format with:
 
-- `completionEffects: { advanceReadings: true }` — auto-advances reading tracks when an hour is completed
 - `theme: "office"` — triggers ornamental rendering (HeaderFlourish, OrnamentalRule, PageBreakOrnament, illuminated drop caps)
 
 Flow files use dynamic section types (`psalter`, `lectio`, `seasonal`) resolved at runtime by the content engine via `src/lib/liturgical/`.

@@ -215,7 +215,7 @@ export function PracticeFlow({
       {
         onSuccess: async () => {
           successBuzz()
-          if (manifest?.completionEffects?.advanceReadings && trackDefs) {
+          if (trackDefs) {
             const trackIds = findTrackIds(sections)
             await Promise.all(
               trackIds.map((id) =>
