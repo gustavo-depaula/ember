@@ -187,9 +187,7 @@ export function PracticeFlow({ practiceId, hourId }: { practiceId: string; hourI
   const isDynamicLoading =
     hasDynamicContent && (psalmResult.isLoading || bibleResult.isLoading || cccResult.isLoading)
 
-  const practiceName = t(`practice.${practiceId}`, {
-    defaultValue: manifest?.name.en ?? practiceId,
-  })
+  const practiceName = t(`practice.${practiceId}`, { defaultValue: manifest?.name.en ?? practiceId })
   const formattedDate = formatLocalized(now, 'EEEE, MMMM d, yyyy')
 
   if (!manifest || !flow) {
@@ -338,8 +336,8 @@ export function PracticeFlow({ practiceId, hourId }: { practiceId: string; hourI
               >
                 <Text fontFamily="$heading" fontSize="$3" color="$background">
                   {logCompletionMutation.isPending
-                    ? t('office.completing', { defaultValue: 'Completing...' })
-                    : t('office.markComplete', { defaultValue: 'Mark Complete' })}
+                    ? t('office.completing')
+                    : t('office.markComplete')}
                 </Text>
               </YStack>
             </AnimatedPressable>

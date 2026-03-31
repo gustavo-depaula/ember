@@ -100,7 +100,7 @@ function TimeInput({
         >
           <Clock size={18} color={theme.accent.val} />
           <Text fontFamily="$body" fontSize="$3" color="$accent">
-            {t('editor.setTime', { defaultValue: 'Set time' })}
+            {t('editor.setTime')}
           </Text>
         </XStack>
       </AnimatedPressable>
@@ -173,7 +173,7 @@ function TimeInput({
         hitSlop={12}
       >
         <Text fontFamily="$body" fontSize="$3" color="$colorSecondary">
-          {t('common.clear', { defaultValue: 'Clear' })}
+          {t('common.clear')}
         </Text>
       </AnimatedPressable>
     </XStack>
@@ -257,7 +257,7 @@ function SlotRow({
                 <XStack alignItems="center" gap="$sm">
                   <Clock size={16} color={theme.color.val} />
                   <Text fontFamily="$heading" fontSize="$2" color="$color">
-                    {t('editor.timeOfDay', { defaultValue: 'Time' })}
+                    {t('editor.timeOfDay')}
                   </Text>
                 </XStack>
                 <TimeInput value={slot.time} onChange={(time) => onUpdate({ time })} />
@@ -303,12 +303,12 @@ function SlotRow({
                   onPress={() => {
                     mediumTap()
                     Alert.alert(
-                      t('editor.removeSlot', { defaultValue: 'Remove' }),
-                      t('editor.removeSlotConfirm', { defaultValue: 'Remove this slot?' }),
+                      t('editor.removeSlot'),
+                      t('editor.removeSlotConfirm'),
                       [
-                        { text: t('common.cancel', { defaultValue: 'Cancel' }), style: 'cancel' },
+                        { text: t('common.cancel'), style: 'cancel' },
                         {
-                          text: t('common.remove', { defaultValue: 'Remove' }),
+                          text: t('common.remove'),
                           style: 'destructive',
                           onPress: onDelete,
                         },
@@ -329,7 +329,7 @@ function SlotRow({
                   >
                     <Trash2 size={18} color={theme.colorBurgundy?.val ?? '#8B0000'} />
                     <Text fontFamily="$body" fontSize="$3" color="$colorBurgundy">
-                      {t('editor.removeSlot', { defaultValue: 'Remove' })}
+                      {t('editor.removeSlot')}
                     </Text>
                   </XStack>
                 </AnimatedPressable>
@@ -365,8 +365,8 @@ export function SlotConfigurator({
       <YStack gap="$xs">
         <Text fontFamily="$heading" fontSize="$3" color="$color" letterSpacing={1}>
           {slots.length > 1
-            ? t('editor.slots', { defaultValue: 'Slots' })
-            : t('editor.settings', { defaultValue: 'Settings' })}
+            ? t('editor.slots')
+            : t('editor.settings')}
         </Text>
         <YStack borderBottomWidth={1.5} borderColor="$accent" width={32} />
       </YStack>
@@ -404,7 +404,7 @@ export function SlotConfigurator({
         >
           <Plus size={18} color={theme.accent.val} />
           <Text fontFamily="$body" fontSize="$3" color="$accent">
-            {t('editor.addSlot', { defaultValue: 'Add slot' })}
+            {t('editor.addSlot')}
           </Text>
         </XStack>
       </AnimatedPressable>
