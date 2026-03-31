@@ -243,12 +243,7 @@ export default function PracticeCatalogScreen() {
               borderColor="$accent"
               borderStyle="dashed"
             >
-              <YStack
-                width={36}
-                height={36}
-                alignItems="center"
-                justifyContent="center"
-              >
+              <YStack width={36} height={36} alignItems="center" justifyContent="center">
                 <Plus size={24} color={theme.accent.val} />
               </YStack>
               <YStack flex={1} gap={2}>
