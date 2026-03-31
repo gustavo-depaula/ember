@@ -2,9 +2,9 @@ import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
 import { Text, XStack, YStack } from 'tamagui'
 
-import type { Schedule } from '../schedule'
+import { dayKeys } from '@/config/constants'
 
-const dayKeys = ['sun', 'mon', 'tue', 'wed', 'thu', 'fri', 'sat'] as const
+import type { Schedule } from '../schedule'
 
 type ScheduleMode = 'daily' | 'days-of-week' | 'times-per' | 'day-of-month' | 'nth-weekday'
 

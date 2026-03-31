@@ -24,3 +24,10 @@ export function getPracticeName(practice: UserPractice, t: TFunction): string {
   // Custom practice — use custom_name
   return practice.custom_name ?? practice.practice_id
 }
+
+export function enrichPractice(
+  practice: UserPractice,
+  t: TFunction,
+): UserPractice & { name: string; icon: string } {
+  return { ...practice, name: getPracticeName(practice, t), icon: getPracticeIconKey(practice) }
+}

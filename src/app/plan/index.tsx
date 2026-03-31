@@ -16,11 +16,10 @@ import {
   buildTieredWallData,
   DayCarousel,
   type DayCompletion,
+  enrichPractice,
   filterPracticesForDate,
   getCompletionRate,
   getCurrentStreak,
-  getPracticeIconKey,
-  getPracticeName,
   PracticeChecklist,
   toCompletedSet,
   useCompletionRange,
@@ -187,11 +186,7 @@ export default function PlanScreen() {
         </Text>
 
         <PracticeChecklist
-          practices={selectedPractices.map((p) => ({
-            ...p,
-            name: getPracticeName(p, t),
-            icon: getPracticeIconKey(p),
-          }))}
+          practices={selectedPractices.map((p) => enrichPractice(p, t))}
           completedIds={selectedCompleted}
           onToggle={(id, completed) =>
             toggle.mutate({ practiceId: id, date: selectedDate, completed })

@@ -22,13 +22,12 @@ import {
 import {
   type BlockState,
   buildTieredWallData,
+  enrichPractice,
   filterPracticesForDate,
   getActiveBlocks,
   getBlockCompletion,
   getBlockState,
   getCurrentTimeBlock,
-  getPracticeIconKey,
-  getPracticeName,
   type TimeBlock,
   toCompletedSet,
   useCompletionRange,
@@ -129,11 +128,7 @@ export default function HomeScreen() {
                 <FadeInView key={block} index={index + 2}>
                   <TimeBlockSection
                     label={t(`timeBlock.${block}`)}
-                    practices={def.practices.map((p) => ({
-                      ...p,
-                      name: getPracticeName(p, t),
-                      icon: getPracticeIconKey(p),
-                    }))}
+                    practices={def.practices.map((p) => enrichPractice(p, t))}
                     completedIds={completedIds}
                     state={state}
                     completed={completed}

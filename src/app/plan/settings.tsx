@@ -6,6 +6,7 @@ import { Modal, Pressable } from 'react-native'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
 import { ScreenLayout } from '@/components'
+import { dayKeys } from '@/config/constants'
 import { getManifest } from '@/content/practices'
 import type { Tier, UserPractice } from '@/db/schema'
 import { getPracticeIcon } from '@/db/seed'
@@ -36,7 +37,6 @@ function ScheduleLabel({ practice }: { practice: UserPractice }) {
   if (schedule.type === 'daily') return null
 
   if (schedule.type === 'days-of-week') {
-    const dayKeys = ['sun', 'mon', 'tue', 'wed', 'thu', 'fri', 'sat']
     const label = schedule.days.map((d) => t(`day.${dayKeys[d]}`)).join(', ')
     return (
       <Text fontFamily="$body" fontSize={11} color="$colorSecondary">
