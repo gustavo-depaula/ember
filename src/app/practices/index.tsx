@@ -1,8 +1,8 @@
 import { useRouter } from 'expo-router'
-import { ChevronLeft, Search } from 'lucide-react-native'
+import { ChevronLeft, Plus, Search } from 'lucide-react-native'
 import { useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { Pressable, ScrollView } from 'react-native'
+import { Modal, Pressable, ScrollView } from 'react-native'
 import { Input, Text, useTheme, XStack, YStack } from 'tamagui'
 
 import { ScreenLayout } from '@/components'
@@ -14,7 +14,9 @@ import {
 } from '@/content/practices'
 import type { PracticeManifest } from '@/content/types'
 import { getPracticeIcon } from '@/db/seed'
-import { useAllSlots } from '@/features/plan-of-life'
+import { useAllSlots, useCreatePractice } from '@/features/plan-of-life'
+import type { PracticeFormData } from '@/features/plan-of-life/components/PracticeEditSheet'
+import { PracticeEditSheet } from '@/features/plan-of-life/components/PracticeEditSheet'
 import { localizeContent } from '@/lib/i18n'
 
 function CategoryChip({
@@ -136,6 +138,13 @@ function PracticeCard({
   )
 }
 
+function slugify(name: string): string {
+  return name
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-|-$/g, '')
+}
+
 export default function PracticeCatalogScreen() {
   const { t } = useTranslation()
   const router = useRouter()
@@ -143,6 +152,23 @@ export default function PracticeCatalogScreen() {
 
   const [searchQuery, setSearchQuery] = useState('')
   const [activeCategory, setActiveCategory] = useState<string | undefined>()
+  const [showEditor, setShowEditor] = useState(false)
+  const createPractice = useCreatePractice()
+
+  function handleSave(data: PracticeFormData) {
+    createPractice.mutate({
+      id: slugify(data.name),
+      customName: data.name,
+      customIcon: data.icon,
+      customDesc: data.description,
+      slot: {
+        tier: data.tier,
+        time: undefined,
+        schedule: JSON.stringify(data.schedule),
+      },
+    })
+    setShowEditor(false)
+  }
 
   const categories = useMemo(() => getManifestCategories(), [])
   const { data: allSlots = [] } = useAllSlots()
@@ -207,6 +233,35 @@ export default function PracticeCatalogScreen() {
         />
 
         <YStack gap="$sm">
+          <Pressable onPress={() => setShowEditor(true)}>
+            <XStack
+              borderRadius="$lg"
+              padding="$md"
+              gap="$md"
+              alignItems="center"
+              borderWidth={1}
+              borderColor="$accent"
+              borderStyle="dashed"
+            >
+              <YStack
+                width={36}
+                height={36}
+                alignItems="center"
+                justifyContent="center"
+              >
+                <Plus size={24} color={theme.accent.val} />
+              </YStack>
+              <YStack flex={1} gap={2}>
+                <Text fontFamily="$heading" fontSize="$3" color="$accent">
+                  {t('plan.addCustom')}
+                </Text>
+                <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
+                  {t('catalog.customDescription')}
+                </Text>
+              </YStack>
+            </XStack>
+          </Pressable>
+
           {filteredManifests.map((manifest) => (
             <PracticeCard
               key={manifest.id}
@@ -229,6 +284,28 @@ export default function PracticeCatalogScreen() {
           )}
         </YStack>
       </YStack>
+
+      <Modal
+        visible={showEditor}
+        animationType="slide"
+        transparent
+        onRequestClose={() => setShowEditor(false)}
+      >
+        <YStack flex={1} justifyContent="flex-end">
+          <Pressable
+            style={{
+              position: 'absolute',
+              top: 0,
+              left: 0,
+              right: 0,
+              bottom: 0,
+              backgroundColor: 'rgba(0,0,0,0.4)',
+            }}
+            onPress={() => setShowEditor(false)}
+          />
+          <PracticeEditSheet onSave={handleSave} onClose={() => setShowEditor(false)} />
+        </YStack>
+      </Modal>
     </ScreenLayout>
   )
 }

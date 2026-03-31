@@ -476,6 +476,7 @@ export default {
     variant: 'Estilo de Medita\u00e7\u00e3o',
     browseCatalog: 'Explorar Cat\u00e1logo de Pr\u00e1ticas',
     noResults: 'Nenhuma pr\u00e1tica encontrada',
+    customDescription: 'Crie sua própria prática com um horário personalizado',
     hours: 'Horas',
   },
 
