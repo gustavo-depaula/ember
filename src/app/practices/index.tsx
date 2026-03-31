@@ -14,7 +14,7 @@ import {
 } from '@/content/practices'
 import type { PracticeManifest } from '@/content/types'
 import { getPracticeIcon } from '@/db/seed'
-import { useAllPractices } from '@/features/plan-of-life'
+import { useAllSlots } from '@/features/plan-of-life'
 import { localizeContent } from '@/lib/i18n'
 
 function CategoryChip({
@@ -145,10 +145,10 @@ export default function PracticeCatalogScreen() {
   const [activeCategory, setActiveCategory] = useState<string | undefined>()
 
   const categories = useMemo(() => getManifestCategories(), [])
-  const { data: allPractices = [] } = useAllPractices()
+  const { data: allSlots = [] } = useAllSlots()
   const enabledManifestIds = useMemo(
-    () => new Set(allPractices.filter((p) => p.enabled).map((p) => p.practice_id)),
-    [allPractices],
+    () => new Set(allSlots.filter((s) => s.enabled).map((s) => s.practice_id)),
+    [allSlots],
   )
 
   const filteredManifests = useMemo(() => {

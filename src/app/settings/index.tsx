@@ -2,11 +2,11 @@ import DateTimePicker from '@react-native-community/datetimepicker'
 import { format, parseISO } from 'date-fns'
 import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { Platform, Pressable } from 'react-native'
+import { Alert, Platform, Pressable } from 'react-native'
 import { Text, XStack, YStack } from 'tamagui'
-
 import { HeaderFlourish, ScreenLayout, SectionDivider } from '@/components'
 import { ReadingConfig } from '@/components/ReadingConfigModal'
+import { resetDatabase } from '@/db/client'
 import { TranslationModal } from '@/features/bible/components/TranslationModal'
 import { getTranslationLanguage, suggestedTranslations } from '@/lib/bolls'
 import { supportedLanguages } from '@/lib/i18n'
@@ -228,6 +228,34 @@ export default function SettingsScreen() {
             />
           )}
         </YStack>
+
+        <SectionDivider />
+
+        {__DEV__ && (
+          <Pressable
+            onPress={() =>
+              Alert.alert('Reset Database', 'Drop all data and re-seed?', [
+                { text: 'Cancel', style: 'cancel' },
+                {
+                  text: 'Reset',
+                  style: 'destructive',
+                  onPress: () => resetDatabase(),
+                },
+              ])
+            }
+          >
+            <YStack
+              backgroundColor="$backgroundSurface"
+              borderRadius="$lg"
+              padding="$md"
+              alignItems="center"
+            >
+              <Text fontFamily="$body" fontSize="$2" color="$colorBurgundy">
+                Reset Database (Dev)
+              </Text>
+            </YStack>
+          </Pressable>
+        )}
 
         <SectionDivider />
 

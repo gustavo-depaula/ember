@@ -1,6 +1,9 @@
 import { format } from 'date-fns'
+import type { SQLiteDatabase } from 'expo-sqlite'
 
 import { getAllManifests } from '@/content/practices'
+import { deriveTimeBlock } from '@/features/plan-of-life/timeBlocks'
+import { composeSlotKey } from '@/lib/slotKey'
 import { getDb } from './client'
 import type { Tier, TimeBlock } from './schema'
 
@@ -31,18 +34,30 @@ export function getPracticeIcon(key: string): string {
 
 export const availableIconKeys = Object.keys(practiceIcons)
 
-// --- Practices without manifests (simple toggle practices) ---
+// --- Default times by time block ---
+
+const defaultTimes: Record<TimeBlock, string | undefined> = {
+  morning: '07:00',
+  daytime: '12:00',
+  evening: '20:00',
+  flexible: undefined,
+}
+
+// --- Simple practices (no manifest) ---
 
 type SimplePracticeSeed = {
   id: string
   customName: string
   customIcon: string
-  sortOrder: number
-  tier: Tier
-  timeBlock: TimeBlock
-  schedule: string
-  enabled: boolean
   customDesc: string
+  slots: {
+    slotId: string
+    sortOrder: number
+    tier: Tier
+    time?: string
+    schedule: string
+    enabled: boolean
+  }[]
 }
 
 const simplePractices: SimplePracticeSeed[] = [
@@ -50,147 +65,286 @@ const simplePractices: SimplePracticeSeed[] = [
     id: 'mental-prayer',
     customName: 'Mental Prayer',
     customIcon: 'prayer',
-    sortOrder: 2,
-    tier: 'essential',
-    timeBlock: 'morning',
-    schedule: '{"type":"daily"}',
-    enabled: true,
     customDesc: '15-30 min of silent prayer or meditation on Scripture',
+    slots: [
+      {
+        slotId: 'default',
+        sortOrder: 2,
+        tier: 'essential',
+        time: '07:00',
+        schedule: '{"type":"daily"}',
+        enabled: true,
+      },
+    ],
   },
   {
     id: 'examination-conscience',
     customName: 'Examination of Conscience',
     customIcon: 'candle',
-    sortOrder: 5,
-    tier: 'essential',
-    timeBlock: 'evening',
-    schedule: '{"type":"daily"}',
-    enabled: true,
     customDesc: "Brief review of the day's actions and failings",
+    slots: [
+      {
+        slotId: 'default',
+        sortOrder: 5,
+        tier: 'essential',
+        time: '21:00',
+        schedule: '{"type":"daily"}',
+        enabled: true,
+      },
+    ],
   },
   {
     id: 'night-prayer',
     customName: 'Night Prayer',
     customIcon: 'moon',
-    sortOrder: 6,
-    tier: 'essential',
-    timeBlock: 'evening',
-    schedule: '{"type":"daily"}',
-    enabled: true,
     customDesc: 'Brief prayer before sleep',
+    slots: [
+      {
+        slotId: 'default',
+        sortOrder: 6,
+        tier: 'essential',
+        time: '21:30',
+        schedule: '{"type":"daily"}',
+        enabled: true,
+      },
+    ],
   },
   {
     id: 'spiritual-reading',
     customName: 'Spiritual Reading',
     customIcon: 'reading',
-    sortOrder: 8,
-    tier: 'ideal',
-    timeBlock: 'flexible',
-    schedule: '{"type":"daily"}',
-    enabled: true,
     customDesc: 'Reading from spiritual classics, saints, theology',
+    slots: [
+      {
+        slotId: 'default',
+        sortOrder: 8,
+        tier: 'ideal',
+        schedule: '{"type":"daily"}',
+        enabled: true,
+      },
+    ],
   },
   {
     id: 'confession',
     customName: 'Confession',
     customIcon: 'confession',
-    sortOrder: 9,
-    tier: 'ideal',
-    timeBlock: 'flexible',
-    schedule: '{"type":"days-of-week","days":[6]}',
-    enabled: false,
     customDesc: 'Sacrament of Reconciliation',
+    slots: [
+      {
+        slotId: 'default',
+        sortOrder: 9,
+        tier: 'ideal',
+        schedule: '{"type":"days-of-week","days":[6]}',
+        enabled: false,
+      },
+    ],
   },
   {
     id: 'blessed-sacrament',
     customName: 'Visit to Blessed Sacrament',
     customIcon: 'monstrance',
-    sortOrder: 10,
-    tier: 'ideal',
-    timeBlock: 'flexible',
-    schedule: '{"type":"daily"}',
-    enabled: false,
     customDesc: 'Time spent before the Blessed Sacrament',
+    slots: [
+      {
+        slotId: 'default',
+        sortOrder: 10,
+        tier: 'ideal',
+        schedule: '{"type":"daily"}',
+        enabled: false,
+      },
+    ],
   },
   {
     id: 'lectio-divina',
     customName: 'Lectio Divina',
     customIcon: 'scroll',
-    sortOrder: 13,
-    tier: 'extra',
-    timeBlock: 'flexible',
-    schedule: '{"type":"daily"}',
-    enabled: false,
     customDesc: 'Prayerful reading and meditation on Scripture',
+    slots: [
+      {
+        slotId: 'default',
+        sortOrder: 13,
+        tier: 'extra',
+        schedule: '{"type":"daily"}',
+        enabled: false,
+      },
+    ],
   },
   {
     id: 'three-oclock',
     customName: "Three O'Clock Prayer",
     customIcon: 'clock',
-    sortOrder: 16,
-    tier: 'extra',
-    timeBlock: 'daytime',
-    schedule: '{"type":"daily"}',
-    enabled: false,
     customDesc: 'Brief prayer at the Hour of Mercy',
+    slots: [
+      {
+        slotId: 'default',
+        sortOrder: 16,
+        tier: 'extra',
+        time: '15:00',
+        schedule: '{"type":"daily"}',
+        enabled: false,
+      },
+    ],
   },
   // Eastern Catholic practices
   {
     id: 'jesus-prayer',
     customName: 'Jesus Prayer',
     customIcon: 'rosary',
-    sortOrder: 19,
-    tier: 'essential',
-    timeBlock: 'flexible',
-    schedule: '{"type":"daily"}',
-    enabled: false,
     customDesc: 'Lord Jesus Christ, Son of God, have mercy on me, a sinner',
+    slots: [
+      {
+        slotId: 'default',
+        sortOrder: 19,
+        tier: 'essential',
+        schedule: '{"type":"daily"}',
+        enabled: false,
+      },
+    ],
   },
   {
     id: 'akathist',
     customName: 'Akathist Hymn',
     customIcon: 'scroll',
-    sortOrder: 20,
-    tier: 'ideal',
-    timeBlock: 'flexible',
-    schedule: '{"type":"days-of-week","days":[6]}',
-    enabled: false,
     customDesc: 'Standing hymn of praise to Christ or the Theotokos',
+    slots: [
+      {
+        slotId: 'default',
+        sortOrder: 20,
+        tier: 'ideal',
+        schedule: '{"type":"days-of-week","days":[6]}',
+        enabled: false,
+      },
+    ],
   },
   {
     id: 'trisagion',
     customName: 'Trisagion Prayers',
     customIcon: 'candle',
-    sortOrder: 21,
-    tier: 'ideal',
-    timeBlock: 'morning',
-    schedule: '{"type":"daily"}',
-    enabled: false,
     customDesc: 'Holy God, Holy Mighty, Holy Immortal, have mercy on us',
+    slots: [
+      {
+        slotId: 'default',
+        sortOrder: 21,
+        tier: 'ideal',
+        time: '07:00',
+        schedule: '{"type":"daily"}',
+        enabled: false,
+      },
+    ],
   },
   {
     id: 'paraklesis',
     customName: 'Paraklesis',
     customIcon: 'mary',
-    sortOrder: 22,
-    tier: 'extra',
-    timeBlock: 'flexible',
-    schedule: '{"type":"daily"}',
-    enabled: false,
     customDesc: 'Supplicatory canon to the Theotokos',
+    slots: [
+      {
+        slotId: 'default',
+        sortOrder: 22,
+        tier: 'extra',
+        schedule: '{"type":"daily"}',
+        enabled: false,
+      },
+    ],
   },
   {
     id: 'prostrations',
     customName: 'Prostrations',
     customIcon: 'prayer',
-    sortOrder: 23,
-    tier: 'extra',
-    timeBlock: 'morning',
-    schedule: '{"type":"daily"}',
-    enabled: false,
     customDesc: 'Prayer with metanias (bows)',
+    slots: [
+      {
+        slotId: 'default',
+        sortOrder: 23,
+        tier: 'extra',
+        time: '07:00',
+        schedule: '{"type":"daily"}',
+        enabled: false,
+      },
+    ],
   },
 ]
+
+// --- Shared seed helpers ---
+
+function insertSlot(
+  db: SQLiteDatabase,
+  verb: 'INSERT' | 'INSERT OR IGNORE',
+  practiceId: string,
+  slotId: string,
+  fields: {
+    enabled: number
+    sortOrder: number
+    tier: string
+    time: string | null
+    schedule: string
+  },
+) {
+  const timeBlock = deriveTimeBlock(fields.time)
+  return db.runAsync(
+    `${verb} INTO user_practice_slots (id, practice_id, slot_id, enabled, sort_order, tier, time, time_block, schedule)
+     VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)`,
+    [
+      composeSlotKey(practiceId, slotId),
+      practiceId,
+      slotId,
+      fields.enabled,
+      fields.sortOrder,
+      fields.tier,
+      fields.time,
+      timeBlock,
+      fields.schedule,
+    ],
+  )
+}
+
+async function seedAllPractices(db: SQLiteDatabase, verb: 'INSERT' | 'INSERT OR IGNORE') {
+  for (const manifest of getAllManifests()) {
+    if (!manifest.defaults) continue
+    const d = manifest.defaults
+
+    await db.runAsync(`${verb} INTO user_practices (practice_id) VALUES (?)`, [manifest.id])
+
+    if (manifest.hours?.length) {
+      for (const hour of manifest.hours) {
+        const time = defaultTimes[hour.timeBlock as TimeBlock] ?? null
+        await insertSlot(db, verb, manifest.id, hour.id, {
+          enabled: d.enabled ? 1 : 0,
+          sortOrder: d.sortOrder,
+          tier: d.tier,
+          time,
+          schedule: JSON.stringify(d.schedule),
+        })
+      }
+    } else {
+      const time = defaultTimes[d.timeBlock as TimeBlock] ?? null
+      await insertSlot(db, verb, manifest.id, 'default', {
+        enabled: d.enabled ? 1 : 0,
+        sortOrder: d.sortOrder,
+        tier: d.tier,
+        time,
+        schedule: JSON.stringify(d.schedule),
+      })
+    }
+  }
+
+  for (const p of simplePractices) {
+    await db.runAsync(
+      `${verb} INTO user_practices (practice_id, custom_name, custom_icon, custom_desc) VALUES (?, ?, ?, ?)`,
+      [p.id, p.customName, p.customIcon, p.customDesc],
+    )
+
+    for (const s of p.slots) {
+      await insertSlot(db, verb, p.id, s.slotId, {
+        enabled: s.enabled ? 1 : 0,
+        sortOrder: s.sortOrder,
+        tier: s.tier,
+        time: s.time ?? null,
+        schedule: s.schedule,
+      })
+    }
+  }
+}
 
 // --- Seeding ---
 
@@ -200,89 +354,11 @@ export async function seedPractices() {
     'SELECT count(*) as total FROM user_practices',
   )
   if (result && result.total > 0) {
-    await backfillNewPractices()
+    await seedAllPractices(db, 'INSERT OR IGNORE')
     return
   }
 
-  await db.withTransactionAsync(async () => {
-    // Seed manifest-based practices from their defaults
-    for (const manifest of getAllManifests()) {
-      if (!manifest.defaults) continue
-      const d = manifest.defaults
-      await db.runAsync(
-        `INSERT INTO user_practices (practice_id, enabled, sort_order, tier, time_block, schedule)
-         VALUES (?, ?, ?, ?, ?, ?)`,
-        [
-          manifest.id,
-          d.enabled ? 1 : 0,
-          d.sortOrder,
-          d.tier,
-          d.timeBlock,
-          JSON.stringify(d.schedule),
-        ],
-      )
-    }
-
-    // Seed simple practices (no manifest)
-    for (const p of simplePractices) {
-      await db.runAsync(
-        `INSERT INTO user_practices (practice_id, enabled, sort_order, tier, time_block, schedule, custom_name, custom_icon, custom_desc)
-         VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)`,
-        [
-          p.id,
-          p.enabled ? 1 : 0,
-          p.sortOrder,
-          p.tier,
-          p.timeBlock,
-          p.schedule,
-          p.customName,
-          p.customIcon,
-          p.customDesc,
-        ],
-      )
-    }
-  })
-}
-
-async function backfillNewPractices() {
-  const db = getDb()
-
-  // Backfill any new manifest-based practices
-  for (const manifest of getAllManifests()) {
-    if (!manifest.defaults) continue
-    const d = manifest.defaults
-    await db.runAsync(
-      `INSERT OR IGNORE INTO user_practices (practice_id, enabled, sort_order, tier, time_block, schedule)
-       VALUES (?, ?, ?, ?, ?, ?)`,
-      [
-        manifest.id,
-        d.enabled ? 1 : 0,
-        d.sortOrder,
-        d.tier,
-        d.timeBlock,
-        JSON.stringify(d.schedule),
-      ],
-    )
-  }
-
-  // Backfill any new simple practices
-  for (const p of simplePractices) {
-    await db.runAsync(
-      `INSERT OR IGNORE INTO user_practices (practice_id, enabled, sort_order, tier, time_block, schedule, custom_name, custom_icon, custom_desc)
-       VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)`,
-      [
-        p.id,
-        p.enabled ? 1 : 0,
-        p.sortOrder,
-        p.tier,
-        p.timeBlock,
-        p.schedule,
-        p.customName,
-        p.customIcon,
-        p.customDesc,
-      ],
-    )
-  }
+  await db.withTransactionAsync(() => seedAllPractices(db, 'INSERT'))
 }
 
 // --- Reading cursors ---

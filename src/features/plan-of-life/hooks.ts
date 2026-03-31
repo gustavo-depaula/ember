@@ -1,37 +1,65 @@
 import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
 
 import {
-  createPractice,
+  addSlot,
+  createPracticeWithSlot,
   deletePractice,
-  getAllPractices,
+  deleteSlot,
+  enableSlotsForPractice,
+  getAllSlots,
   getCompletionDates,
   getCompletionRange,
   getCompletionsForDate,
   getCompletionsForPractice,
-  getEnabledPractices,
+  getEnabledSlots,
+  getPractice,
+  getSlotsForPractice,
   logCompletion,
   removeCompletion,
-  reorderPractices,
+  reorderSlots,
   toggleCompletion,
   updatePractice,
+  updateSlot,
 } from '@/db/repositories'
 import { rescheduleAllReminders } from '@/lib/notifications'
 
 import { getPracticeStreak } from './utils'
 
-export function usePractices() {
+// --- Slot queries ---
+
+export function useSlots() {
   return useQuery({
-    queryKey: ['practices'],
-    queryFn: getEnabledPractices,
+    queryKey: ['slots'],
+    queryFn: getEnabledSlots,
   })
 }
 
-export function useAllPractices() {
+export function useAllSlots() {
   return useQuery({
-    queryKey: ['practices', 'all'],
-    queryFn: getAllPractices,
+    queryKey: ['slots', 'all'],
+    queryFn: getAllSlots,
   })
 }
+
+export function useSlotsForPractice(practiceId: string | undefined) {
+  return useQuery({
+    queryKey: ['slots', 'practice', practiceId],
+    queryFn: () => getSlotsForPractice(practiceId!),
+    enabled: !!practiceId,
+  })
+}
+
+// --- Practice queries ---
+
+export function usePractice(practiceId: string | undefined) {
+  return useQuery({
+    queryKey: ['practice', practiceId],
+    queryFn: () => getPractice(practiceId!),
+    enabled: !!practiceId,
+  })
+}
+
+// --- Completion queries ---
 
 export function useCompletionsForDate(date: string | undefined) {
   return useQuery({
@@ -54,6 +82,20 @@ export function useCompletionRange(startDate: string, endDate: string) {
     queryFn: () => getCompletionRange(startDate, endDate),
   })
 }
+
+export function usePracticeCompletionStats(practiceId: string) {
+  return useQuery({
+    queryKey: ['practiceStats', practiceId],
+    queryFn: async () => {
+      const completedDates = await getCompletionDates(practiceId)
+      const currentStreak = getPracticeStreak(completedDates)
+      const totalDays = completedDates.length
+      return { currentStreak, totalDays, completedDates }
+    },
+  })
+}
+
+// --- Completion mutations ---
 
 export function useLogCompletion() {
   const queryClient = useQueryClient()
@@ -87,19 +129,21 @@ export function useRemoveCompletion() {
   })
 }
 
-export function useTogglePractice() {
+export function useToggleSlot() {
   const queryClient = useQueryClient()
 
   return useMutation({
     mutationFn: ({
       practiceId,
+      slotId,
       date,
       completed,
     }: {
       practiceId: string
+      slotId: string
       date: string
       completed: boolean
-    }) => toggleCompletion(practiceId, date, completed),
+    }) => toggleCompletion(practiceId, date, completed, slotId === 'default' ? undefined : slotId),
     onSuccess: () => {
       queryClient.invalidateQueries({ queryKey: ['completions'] })
       queryClient.invalidateQueries({ queryKey: ['practiceStats'] })
@@ -107,25 +151,34 @@ export function useTogglePractice() {
   })
 }
 
-export function usePracticeCompletionStats(practiceId: string) {
-  return useQuery({
-    queryKey: ['practiceStats', practiceId],
-    queryFn: async () => {
-      const completedDates = await getCompletionDates(practiceId)
-      const currentStreak = getPracticeStreak(completedDates)
-      const totalDays = completedDates.length
-      return { currentStreak, totalDays, completedDates }
-    },
-  })
-}
+// --- Practice mutations ---
 
 export function useCreatePractice() {
   const queryClient = useQueryClient()
 
   return useMutation({
-    mutationFn: createPractice,
+    mutationFn: (data: {
+      id: string
+      customName?: string
+      customIcon?: string
+      customDesc?: string
+      slot?: Parameters<typeof addSlot>[1]
+    }) => createPracticeWithSlot(data, data.slot ?? {}),
     onSuccess: () => {
-      queryClient.invalidateQueries({ queryKey: ['practices'] })
+      queryClient.invalidateQueries({ queryKey: ['slots'] })
+      queryClient.invalidateQueries({ queryKey: ['practice'] })
+      rescheduleAllReminders().catch(console.warn)
+    },
+  })
+}
+
+export function useEnableSlotsForPractice() {
+  const queryClient = useQueryClient()
+
+  return useMutation({
+    mutationFn: enableSlotsForPractice,
+    onSuccess: () => {
+      queryClient.invalidateQueries({ queryKey: ['slots'] })
       rescheduleAllReminders().catch(console.warn)
     },
   })
@@ -138,8 +191,8 @@ export function useUpdatePractice() {
     mutationFn: ({ id, data }: { id: string; data: Parameters<typeof updatePractice>[1] }) =>
       updatePractice(id, data),
     onSuccess: () => {
-      queryClient.invalidateQueries({ queryKey: ['practices'] })
-      rescheduleAllReminders().catch(console.warn)
+      queryClient.invalidateQueries({ queryKey: ['slots'] })
+      queryClient.invalidateQueries({ queryKey: ['practice'] })
     },
   })
 }
@@ -150,20 +203,67 @@ export function useDeletePractice() {
   return useMutation({
     mutationFn: deletePractice,
     onSuccess: () => {
-      queryClient.invalidateQueries({ queryKey: ['practices'] })
+      queryClient.invalidateQueries({ queryKey: ['slots'] })
+      queryClient.invalidateQueries({ queryKey: ['practice'] })
       queryClient.invalidateQueries({ queryKey: ['completions'] })
       rescheduleAllReminders().catch(console.warn)
     },
   })
 }
 
-export function useReorderPractices() {
+// --- Slot mutations ---
+
+export function useAddSlot() {
   const queryClient = useQueryClient()
 
   return useMutation({
-    mutationFn: reorderPractices,
+    mutationFn: ({
+      practiceId,
+      data,
+    }: {
+      practiceId: string
+      data: Parameters<typeof addSlot>[1]
+    }) => addSlot(practiceId, data),
     onSuccess: () => {
-      queryClient.invalidateQueries({ queryKey: ['practices'] })
+      queryClient.invalidateQueries({ queryKey: ['slots'] })
+      rescheduleAllReminders().catch(console.warn)
+    },
+  })
+}
+
+export function useUpdateSlot() {
+  const queryClient = useQueryClient()
+
+  return useMutation({
+    mutationFn: ({ id, data }: { id: string; data: Parameters<typeof updateSlot>[1] }) =>
+      updateSlot(id, data),
+    onSuccess: () => {
+      queryClient.invalidateQueries({ queryKey: ['slots'] })
+      rescheduleAllReminders().catch(console.warn)
+    },
+  })
+}
+
+export function useDeleteSlot() {
+  const queryClient = useQueryClient()
+
+  return useMutation({
+    mutationFn: deleteSlot,
+    onSuccess: () => {
+      queryClient.invalidateQueries({ queryKey: ['slots'] })
+      queryClient.invalidateQueries({ queryKey: ['completions'] })
+      rescheduleAllReminders().catch(console.warn)
+    },
+  })
+}
+
+export function useReorderSlots() {
+  const queryClient = useQueryClient()
+
+  return useMutation({
+    mutationFn: reorderSlots,
+    onSuccess: () => {
+      queryClient.invalidateQueries({ queryKey: ['slots'] })
     },
   })
 }

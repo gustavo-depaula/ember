@@ -2,6 +2,7 @@ import { format, subWeeks } from 'date-fns'
 import { useRouter } from 'expo-router'
 import { useCallback, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
+import { Pressable } from 'react-native'
 import { Text, YStack } from 'tamagui'
 
 import {
@@ -22,8 +23,8 @@ import {
 import {
   type BlockState,
   buildTieredWallData,
-  enrichPractice,
-  filterPracticesForDate,
+  enrichSlot,
+  filterSlotsForDate,
   getActiveBlocks,
   getBlockCompletion,
   getBlockState,
@@ -32,8 +33,8 @@ import {
   toCompletedSet,
   useCompletionRange,
   useCompletionsForDate,
-  usePractices,
-  useTogglePractice,
+  useSlots,
+  useToggleSlot,
 } from '@/features/plan-of-life'
 import { useLiturgicalTheme } from '@/hooks/useLiturgicalTheme'
 import { useToday } from '@/hooks/useToday'
@@ -47,21 +48,21 @@ export default function HomeScreen() {
 
   const { season, themeName } = useLiturgicalTheme()
   const router = useRouter()
-  const { data: practices = [] } = usePractices()
+  const { data: slots = [] } = useSlots()
   const { data: todayCompletions = [] } = useCompletionsForDate(today)
-  const toggle = useTogglePractice()
+  const toggle = useToggleSlot()
 
-  const handlePressPractice = useCallback(
-    (id: string) => {
-      const manifest = getManifest(id)
+  const handlePressItem = useCallback(
+    (practiceId: string) => {
+      const manifest = getManifest(practiceId)
       if (!manifest) {
-        router.push(`/plan/${id}` as any)
+        router.push(`/plan/${practiceId}` as any)
         return
       }
       if (manifest.hours?.length && !manifest.forms?.length) {
-        router.push(`/plan/${id}` as any)
+        router.push(`/plan/${practiceId}` as any)
       } else {
-        router.push(`/pray/${id}` as any)
+        router.push(`/pray/${practiceId}` as any)
       }
     },
     [router],
@@ -69,9 +70,9 @@ export default function HomeScreen() {
   const wallStart = format(subWeeks(now, 9), 'yyyy-MM-dd')
   const { data: wallLogs = [] } = useCompletionRange(wallStart, today)
 
-  const todayPractices = useMemo(() => filterPracticesForDate(practices, today), [practices, today])
+  const todaySlots = useMemo(() => filterSlotsForDate(slots, today), [slots, today])
   const completedIds = useMemo(() => toCompletedSet(todayCompletions), [todayCompletions])
-  const wallData = useMemo(() => buildTieredWallData(wallLogs, practices), [wallLogs, practices])
+  const wallData = useMemo(() => buildTieredWallData(wallLogs, slots), [wallLogs, slots])
 
   const [overrides, setOverrides] = useState<Partial<Record<TimeBlock, BlockState>>>({})
 
@@ -85,9 +86,9 @@ export default function HomeScreen() {
     })
   }, [])
 
-  const activeBlocks = useMemo(() => getActiveBlocks(todayPractices), [todayPractices])
-  const totalPractices = todayPractices.length
-  const completedCount = todayPractices.filter((p) => completedIds.has(p.practice_id)).length
+  const activeBlocks = useMemo(() => getActiveBlocks(todaySlots), [todaySlots])
+  const totalSlots = todaySlots.length
+  const completedCount = todaySlots.filter((s) => completedIds.has(s.id)).length
 
   return (
     <ScreenLayout>
@@ -104,40 +105,47 @@ export default function HomeScreen() {
 
         <SectionDivider symbol={getSeasonalSymbol(themeName)} />
 
-        {todayPractices.length > 0 && (
+        {todaySlots.length > 0 && (
           <YStack gap="$md">
             <FadeInView index={1}>
-              <Text
-                fontFamily="$heading"
-                fontSize="$4"
-                color="$accent"
-                textAlign="center"
-                letterSpacing={1}
-              >
-                {t('home.ruleOfLife')}
-              </Text>
+              <Pressable onPress={() => router.push('/plan')}>
+                <Text
+                  fontFamily="$heading"
+                  fontSize="$4"
+                  color="$accent"
+                  textAlign="center"
+                  letterSpacing={1}
+                >
+                  {t('home.ruleOfLife')}
+                </Text>
+              </Pressable>
             </FadeInView>
 
             {activeBlocks.map(({ block, def }, index) => {
-              const blockPracticeIds = def.practices.map((p) => p.practice_id)
-              const { completed, total } = getBlockCompletion(blockPracticeIds, completedIds)
-              const autoState = getBlockState(block, currentBlock, completedIds, blockPracticeIds)
+              const blockSlotIds = def.slots.map((s) => s.id)
+              const { completed, total } = getBlockCompletion(blockSlotIds, completedIds)
+              const autoState = getBlockState(block, currentBlock, completedIds, blockSlotIds)
               const state = overrides[block] ?? autoState
 
               return (
                 <FadeInView key={block} index={index + 2}>
                   <TimeBlockSection
                     label={t(`timeBlock.${block}`)}
-                    practices={def.practices.map((p) => enrichPractice(p, t))}
+                    items={def.slots.map((s) => enrichSlot(s, t))}
                     completedIds={completedIds}
                     state={state}
                     completed={completed}
                     total={total}
-                    onToggle={(id, done) =>
-                      toggle.mutate({ practiceId: id, date: today, completed: done })
+                    onToggle={(item, done) =>
+                      toggle.mutate({
+                        practiceId: item.practice_id,
+                        slotId: item.slot_id,
+                        date: today,
+                        completed: done,
+                      })
                     }
                     onToggleCollapse={() => toggleBlockCollapse(block)}
-                    onPressPractice={handlePressPractice}
+                    onPressItem={handlePressItem}
                   />
                 </FadeInView>
               )
@@ -157,7 +165,7 @@ export default function HomeScreen() {
                 <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
                   {t('home.todayProgress', {
                     completed: completedCount,
-                    total: totalPractices,
+                    total: totalSlots,
                   })}
                 </Text>
               </YStack>

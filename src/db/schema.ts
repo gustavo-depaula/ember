@@ -3,15 +3,32 @@ export type TimeBlock = 'morning' | 'daytime' | 'evening' | 'flexible'
 
 export type UserPractice = {
   practice_id: string
-  enabled: number
-  sort_order: number
-  tier: Tier
-  time_block: TimeBlock
-  schedule: string // JSON Schedule
-  variant: string | null
   custom_name: string | null
   custom_icon: string | null
   custom_desc: string | null
+}
+
+export type UserPracticeSlot = {
+  id: string
+  practice_id: string
+  slot_id: string
+  enabled: number
+  sort_order: number
+  tier: Tier
+  time: string | null
+  time_block: TimeBlock
+  notify: string | null // JSON NotifyConfig
+  schedule: string // JSON Schedule
+  variant: string | null
+  // Joined from user_practices
+  custom_name: string | null
+  custom_icon: string | null
+  custom_desc: string | null
+}
+
+export type NotifyConfig = {
+  enabled: boolean
+  before?: number // minutes before, future use
 }
 
 export type Completion = {

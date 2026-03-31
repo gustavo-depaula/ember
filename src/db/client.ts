@@ -1,5 +1,5 @@
 import type { SQLiteDatabase } from 'expo-sqlite'
-import { openDatabaseAsync } from 'expo-sqlite'
+import { deleteDatabaseAsync, openDatabaseAsync } from 'expo-sqlite'
 import { useEffect, useReducer } from 'react'
 
 import initialMigration from './migrations/0001_initial.sql'
@@ -43,4 +43,14 @@ export function useDbInit() {
   }, [])
 
   return state
+}
+
+export async function resetDatabase() {
+  if (_db) {
+    await _db.closeAsync()
+    _db = undefined
+  }
+  await deleteDatabaseAsync('ember.db')
+  const { DevSettings } = require('react-native')
+  DevSettings.reload()
 }

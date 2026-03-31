@@ -49,7 +49,7 @@ import {
   useCursorsForPractice,
   usePsalmsForHour,
 } from '@/features/divine-office'
-import { useLogCompletion, usePractices } from '@/features/plan-of-life'
+import { useLogCompletion, useSlots } from '@/features/plan-of-life'
 import { useReadingMargin } from '@/hooks/useReadingStyle'
 import { getPsalmNumbering } from '@/lib/bolls'
 import type { Verse } from '@/lib/content'
@@ -104,8 +104,8 @@ export function PracticeFlow({ practiceId, hourId }: { practiceId: string; hourI
     return loadFlow(practiceId)
   }, [manifest, practiceId, hourId, selectedFormId])
 
-  const { data: practices = [] } = usePractices()
-  const selectedVariantId = practices.find((p) => p.practice_id === practiceId)?.variant
+  const { data: slots = [] } = useSlots()
+  const selectedVariantId = slots.find((s) => s.practice_id === practiceId)?.variant
 
   const variant = useMemo(() => {
     if (!manifest?.variants?.length) return undefined

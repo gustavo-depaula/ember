@@ -34,8 +34,7 @@ export function SchedulePicker({
 
   function setMode(newMode: ScheduleMode) {
     const seasons = schedule.seasons
-    const notify = schedule.notify
-    const base = { ...(seasons?.length ? { seasons } : {}), ...(notify?.length ? { notify } : {}) }
+    const base = { ...(seasons?.length ? { seasons } : {}) }
 
     switch (newMode) {
       case 'daily':

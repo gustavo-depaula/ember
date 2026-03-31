@@ -1,34 +1,34 @@
-import type { TimeBlock, UserPractice } from '@/db/schema'
+import type { TimeBlock, UserPracticeSlot } from '@/db/schema'
 
 export type { TimeBlock }
 export type BlockState = 'collapsed' | 'expanded' | 'preview'
 
 type BlockDefinition = {
   label: string
-  practices: UserPractice[]
+  slots: UserPracticeSlot[]
 }
 
 export const blockOrder: TimeBlock[] = ['morning', 'daytime', 'evening', 'flexible']
 
-export function groupByTimeBlock(practices: UserPractice[]): Record<TimeBlock, BlockDefinition> {
+export function groupByTimeBlock(slots: UserPracticeSlot[]): Record<TimeBlock, BlockDefinition> {
   const groups = Object.fromEntries(
-    blockOrder.map((block) => [block, { label: block, practices: [] as UserPractice[] }]),
+    blockOrder.map((block) => [block, { label: block, slots: [] as UserPracticeSlot[] }]),
   ) as Record<TimeBlock, BlockDefinition>
 
-  for (const p of practices) {
-    const block = p.time_block in groups ? p.time_block : 'flexible'
-    groups[block].practices.push(p)
+  for (const s of slots) {
+    const block = s.time_block in groups ? s.time_block : 'flexible'
+    groups[block].slots.push(s)
   }
 
   return groups
 }
 
 export function getActiveBlocks(
-  practices: UserPractice[],
+  slots: UserPracticeSlot[],
 ): { block: TimeBlock; def: BlockDefinition }[] {
-  const groups = groupByTimeBlock(practices)
+  const groups = groupByTimeBlock(slots)
   return blockOrder
-    .filter((block) => groups[block].practices.length > 0)
+    .filter((block) => groups[block].slots.length > 0)
     .map((block) => ({ block, def: groups[block] }))
 }
 
@@ -38,15 +38,21 @@ export function getCurrentTimeBlock(hour: number): TimeBlock {
   return 'evening'
 }
 
+export function deriveTimeBlock(time: string | null | undefined): TimeBlock {
+  if (!time) return 'flexible'
+  const hour = parseInt(time.split(':')[0], 10)
+  return getCurrentTimeBlock(hour)
+}
+
 export function getBlockState(
   block: TimeBlock,
   currentBlock: TimeBlock,
   completedIds: Set<string>,
-  blockPracticeIds: string[],
+  blockSlotIds: string[],
 ): BlockState {
   const blockIndex = blockOrder.indexOf(block)
   const currentIndex = blockOrder.indexOf(currentBlock)
-  const allDone = blockPracticeIds.every((id) => completedIds.has(id))
+  const allDone = blockSlotIds.every((id) => completedIds.has(id))
 
   // Flexible block always expanded unless all done
   if (block === 'flexible') return allDone ? 'collapsed' : 'expanded'
@@ -57,9 +63,9 @@ export function getBlockState(
 }
 
 export function getBlockCompletion(
-  blockPracticeIds: string[],
+  blockSlotIds: string[],
   completedIds: Set<string>,
 ): { completed: number; total: number } {
-  const completed = blockPracticeIds.filter((id) => completedIds.has(id)).length
-  return { completed, total: blockPracticeIds.length }
+  const completed = blockSlotIds.filter((id) => completedIds.has(id)).length
+  return { completed, total: blockSlotIds.length }
 }
