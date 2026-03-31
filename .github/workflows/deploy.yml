@@ -29,7 +29,7 @@ jobs:
 
       - run: pnpm install --frozen-lockfile
 
-      - run: pnpm expo export --platform web
+      - run: pnpm expo export --platform web --no-ssg
 
       - uses: actions/upload-pages-artifact@v3
         with:
