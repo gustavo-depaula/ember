@@ -15,13 +15,16 @@ export {
   getCompletionsForDate,
   getCompletionsForPractice,
   getEnabledPractices,
-  getLegacyPracticeLogRange,
-  getLegacyPracticeLogsForDate,
   isPracticeCompletedOnDate,
   logCompletion,
   removeCompletion,
   reorderPractices,
   toggleCompletion,
-  toggleLegacyPractice,
   updatePractice,
 } from './practices'
+export {
+  getAllPreferences,
+  getPreference,
+  removePreference,
+  setPreference,
+} from './preferences'

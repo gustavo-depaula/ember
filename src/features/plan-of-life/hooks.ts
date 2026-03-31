@@ -119,11 +119,6 @@ export function usePracticeCompletionStats(practiceId: string) {
   })
 }
 
-// Backward-compat aliases
-export const usePracticeLogsForDate = useCompletionsForDate
-export const usePracticeLogRange = useCompletionRange
-export const usePracticeStats = usePracticeCompletionStats
-
 export function useCreatePractice() {
   const queryClient = useQueryClient()
 

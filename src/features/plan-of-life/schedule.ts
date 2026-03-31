@@ -114,26 +114,3 @@ function isNthWeekdayOfMonth(date: Date, n: number, weekday: number): boolean {
 
   return false
 }
-
-// --- Migration helper ---
-
-export function migrateFrequencyToSchedule(
-  frequency: string,
-  frequencyDays: string,
-  notifyEnabled: number,
-  notifyTime: string | null,
-): Schedule {
-  const days: number[] = JSON.parse(frequencyDays || '[]')
-  const notify: Notification[] | undefined =
-    notifyEnabled && notifyTime ? [{ at: notifyTime }] : undefined
-
-  if (frequency === 'daily' || days.length === 0) {
-    return { type: 'daily', ...(notify ? { notify } : {}) }
-  }
-
-  return {
-    type: 'days-of-week',
-    days,
-    ...(notify ? { notify } : {}),
-  }
-}
