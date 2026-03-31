@@ -62,7 +62,11 @@ export default function RootLayout() {
   const { success: dbReady } = useDbInit()
 
   const systemScheme = useColorScheme()
-  const { theme: themePreference, hydrated: prefsHydrated, hydrate: hydratePrefs } = usePreferencesStore()
+  const {
+    theme: themePreference,
+    hydrated: prefsHydrated,
+    hydrate: hydratePrefs,
+  } = usePreferencesStore()
   const { hydrated: bibleHydrated, hydrate: hydrateBible } = useBibleStore()
   const { hydrated: catechismHydrated, hydrate: hydrateCatechism } = useCatechismStore()
 
@@ -85,7 +89,8 @@ export default function RootLayout() {
     }
   }, [dbReady])
 
-  const ready = fontsLoaded && prefsHydrated && bibleHydrated && catechismHydrated && dbReady && seeded
+  const ready =
+    fontsLoaded && prefsHydrated && bibleHydrated && catechismHydrated && dbReady && seeded
 
   useEffect(() => {
     if (ready) {

@@ -11,14 +11,8 @@ import type { LiturgicalSeason } from '@/lib/liturgical/season'
 
 // --- Types ---
 
-export type Notification = {
-  at: string // 'HH:MM'
-  days?: number[] // optional: only on these days (subset of schedule days)
-}
-
 export type Schedule = ScheduleRule & {
   seasons?: LiturgicalSeason[]
-  notify?: Notification[]
 }
 
 type ScheduleRule =

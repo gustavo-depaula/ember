@@ -6,22 +6,23 @@ import { Modal, Pressable } from 'react-native'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
 import { ScreenLayout } from '@/components'
-import { dayKeys } from '@/config/constants'
 import { getManifest } from '@/content/practices'
-import type { Tier, UserPractice } from '@/db/schema'
+import type { Tier, UserPracticeSlot } from '@/db/schema'
 import { getPracticeIcon } from '@/db/seed'
-import {
-  getPracticeIconKey,
-  getPracticeName,
-  useAllPractices,
-  useCreatePractice,
-  useDeletePractice,
-  useUpdatePractice,
-} from '@/features/plan-of-life'
+import { enrichSlot, useAllSlots, useCreatePractice } from '@/features/plan-of-life'
 import type { PracticeFormData } from '@/features/plan-of-life/components/PracticeEditSheet'
 import { PracticeEditSheet } from '@/features/plan-of-life/components/PracticeEditSheet'
 import { TierBadge } from '@/features/plan-of-life/components/TierBadge'
-import { parseSchedule } from '@/features/plan-of-life/schedule'
+import { localizeContent } from '@/lib/i18n'
+
+type PracticeGroup = {
+  practiceId: string
+  name: string
+  icon: string
+  tier: Tier
+  slots: UserPracticeSlot[]
+  enabled: boolean
+}
 
 function slugify(name: string): string {
   return name
@@ -30,101 +31,88 @@ function slugify(name: string): string {
     .replace(/^-|-$/g, '')
 }
 
-function ScheduleLabel({ practice }: { practice: UserPractice }) {
-  const { t } = useTranslation()
-  const schedule = parseSchedule(practice.schedule)
-
-  if (schedule.type === 'daily') return null
-
-  if (schedule.type === 'days-of-week') {
-    const label = schedule.days.map((d) => t(`day.${dayKeys[d]}`)).join(', ')
-    return (
-      <Text fontFamily="$body" fontSize={11} color="$colorSecondary">
-        {label}
-      </Text>
-    )
+function getPracticeDisplayName(
+  slots: UserPracticeSlot[],
+  t: ReturnType<typeof useTranslation>['t'],
+): string {
+  const first = slots[0]
+  if (!first) return ''
+  const manifest = getManifest(first.practice_id)
+  if (manifest) {
+    const key = `practice.${first.practice_id}`
+    const translated = t(key)
+    if (translated !== key) return translated
+    return localizeContent(manifest.name)
   }
+  return first.custom_name ?? first.practice_id
+}
 
-  if (schedule.type === 'times-per') {
-    return (
-      <Text fontFamily="$body" fontSize={11} color="$colorSecondary">
-        {schedule.count}x/{schedule.period}
-      </Text>
-    )
-  }
-
-  return null
+function SlotCount({ count }: { count: number }) {
+  if (count <= 1) return null
+  return (
+    <Text fontFamily="$body" fontSize={11} color="$colorSecondary">
+      {count} slots
+    </Text>
+  )
 }
 
 export default function PlanSettingsScreen() {
   const { t } = useTranslation()
   const router = useRouter()
   const theme = useTheme()
-  const { data: practices = [] } = useAllPractices()
-  const updatePractice = useUpdatePractice()
+  const { data: allSlots = [] } = useAllSlots()
   const createPractice = useCreatePractice()
-  const deletePractice = useDeletePractice()
 
-  const [editingPractice, setEditingPractice] = useState<UserPractice | undefined>()
   const [showEditor, setShowEditor] = useState(false)
 
+  // Group slots by practice, then by tier
   const grouped = useMemo(() => {
-    const groups: Record<Tier, UserPractice[]> = { essential: [], ideal: [], extra: [] }
+    const byPractice = new Map<string, UserPracticeSlot[]>()
+    for (const s of allSlots) {
+      const existing = byPractice.get(s.practice_id) ?? []
+      existing.push(s)
+      byPractice.set(s.practice_id, existing)
+    }
+
+    const practices: PracticeGroup[] = []
+    for (const [practiceId, slots] of byPractice) {
+      const first = slots[0]
+      const enriched = enrichSlot(first, t)
+      practices.push({
+        practiceId,
+        name: getPracticeDisplayName(slots, t),
+        icon: enriched.icon,
+        tier: first.tier,
+        slots,
+        enabled: slots.some((s) => s.enabled === 1),
+      })
+    }
+
+    const groups: Record<Tier, PracticeGroup[]> = { essential: [], ideal: [], extra: [] }
     for (const p of practices) {
       if (p.tier in groups) groups[p.tier].push(p)
     }
     return groups
-  }, [practices])
+  }, [allSlots, t])
 
   const tierSections: Tier[] = ['essential', 'ideal', 'extra']
 
-  function handleEdit(practice: UserPractice) {
-    setEditingPractice(practice)
-    setShowEditor(true)
-  }
-
   function handleAdd() {
-    setEditingPractice(undefined)
     setShowEditor(true)
   }
 
   function handleSave(data: PracticeFormData) {
-    if (editingPractice) {
-      const isBuiltin = !!getManifest(editingPractice.practice_id)
-      updatePractice.mutate({
-        id: editingPractice.practice_id,
-        data: {
-          tier: data.tier,
-          timeBlock: data.timeBlock,
-          schedule: JSON.stringify(data.schedule),
-          enabled: data.enabled ? 1 : 0,
-          ...(isBuiltin
-            ? {}
-            : {
-                customName: data.name,
-                customIcon: data.icon,
-                customDesc: data.description,
-              }),
-        },
-      })
-    } else {
-      createPractice.mutate({
-        id: slugify(data.name),
-        customName: data.name,
-        customIcon: data.icon,
+    createPractice.mutate({
+      id: slugify(data.name),
+      customName: data.name,
+      customIcon: data.icon,
+      customDesc: data.description,
+      slot: {
         tier: data.tier,
-        timeBlock: data.timeBlock,
+        time: undefined,
         schedule: JSON.stringify(data.schedule),
-        customDesc: data.description,
-      })
-    }
-    setShowEditor(false)
-  }
-
-  function handleDelete() {
-    if (editingPractice) {
-      deletePractice.mutate(editingPractice.practice_id)
-    }
+      },
+    })
     setShowEditor(false)
   }
 
@@ -155,24 +143,27 @@ export default function PlanSettingsScreen() {
               </Text>
             </XStack>
 
-            {grouped[tier].map((practice) => (
-              <Pressable key={practice.practice_id} onPress={() => handleEdit(practice)}>
+            {grouped[tier].map((group) => (
+              <Pressable
+                key={group.practiceId}
+                onPress={() => router.push(`/plan/${group.practiceId}` as any)}
+              >
                 <XStack
                   backgroundColor="$backgroundSurface"
                   borderRadius="$lg"
                   padding="$md"
                   alignItems="center"
                   gap="$md"
-                  opacity={practice.enabled ? 1 : 0.5}
+                  opacity={group.enabled ? 1 : 0.5}
                 >
-                  <Text fontSize={20}>{getPracticeIcon(getPracticeIconKey(practice))}</Text>
+                  <Text fontSize={20}>{getPracticeIcon(group.icon)}</Text>
                   <YStack flex={1} gap={2}>
                     <Text fontFamily="$body" fontSize="$3" color="$color">
-                      {getPracticeName(practice, t)}
+                      {group.name}
                     </Text>
-                    <ScheduleLabel practice={practice} />
+                    <SlotCount count={group.slots.length} />
                   </YStack>
-                  {!practice.enabled && (
+                  {!group.enabled && (
                     <Text fontFamily="$body" fontSize={11} color="$colorSecondary">
                       {t('plan.disabled')}
                     </Text>
@@ -252,16 +243,7 @@ export default function PlanSettingsScreen() {
             }}
             onPress={() => setShowEditor(false)}
           />
-          <PracticeEditSheet
-            practice={editingPractice}
-            onSave={handleSave}
-            onDelete={
-              editingPractice && !getManifest(editingPractice.practice_id)
-                ? handleDelete
-                : undefined
-            }
-            onClose={() => setShowEditor(false)}
-          />
+          <PracticeEditSheet onSave={handleSave} onClose={() => setShowEditor(false)} />
         </YStack>
       </Modal>
     </ScreenLayout>

@@ -1,19 +1,30 @@
 -- Ember database schema
 -- 4-table data model + translation cache
 
--- user_practices: user's plan-of-life configuration (content comes from manifests)
+-- user_practices: practice definitions (thin — mainly for custom practices)
 CREATE TABLE IF NOT EXISTS user_practices (
   practice_id  TEXT PRIMARY KEY NOT NULL,
-  enabled      INTEGER NOT NULL DEFAULT 0,
-  sort_order   INTEGER NOT NULL DEFAULT 0,
-  tier         TEXT NOT NULL DEFAULT 'essential',
-  time_block   TEXT NOT NULL DEFAULT 'flexible',
-  schedule     TEXT NOT NULL DEFAULT '{"type":"daily"}',
-  variant      TEXT,
   custom_name  TEXT,
   custom_icon  TEXT,
   custom_desc  TEXT
 );
+
+-- user_practice_slots: one row per checklistable item
+CREATE TABLE IF NOT EXISTS user_practice_slots (
+  id           TEXT PRIMARY KEY NOT NULL,
+  practice_id  TEXT NOT NULL REFERENCES user_practices(practice_id),
+  slot_id      TEXT NOT NULL,
+  enabled      INTEGER NOT NULL DEFAULT 1,
+  sort_order   INTEGER NOT NULL DEFAULT 0,
+  tier         TEXT NOT NULL DEFAULT 'essential',
+  time         TEXT,
+  time_block   TEXT NOT NULL DEFAULT 'flexible',
+  notify       TEXT,
+  schedule     TEXT NOT NULL DEFAULT '{"type":"daily"}',
+  variant      TEXT
+);
+CREATE INDEX IF NOT EXISTS idx_slots_practice ON user_practice_slots (practice_id);
+CREATE INDEX IF NOT EXISTS idx_slots_enabled ON user_practice_slots (enabled, sort_order);
 
 -- completions: event log of what the user did
 CREATE TABLE IF NOT EXISTS completions (

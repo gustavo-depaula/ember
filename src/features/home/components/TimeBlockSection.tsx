@@ -4,31 +4,30 @@ import { Text, useTheme, XStack, YStack } from 'tamagui'
 
 import { AnimatedCheckbox } from '@/components'
 import { getPracticeIcon } from '@/db/seed'
+import type { ChecklistItem } from '@/features/plan-of-life/components/PracticeChecklist'
 import type { BlockState } from '@/features/plan-of-life/timeBlocks'
 import { lightTap } from '@/lib/haptics'
 
-type Practice = { practice_id: string; name: string; icon: string }
-
 export function TimeBlockSection({
   label,
-  practices,
+  items,
   completedIds,
   state,
   completed,
   total,
   onToggle,
   onToggleCollapse,
-  onPressPractice,
+  onPressItem,
 }: {
   label: string
-  practices: Practice[]
+  items: ChecklistItem[]
   completedIds: Set<string>
   state: BlockState
   completed: number
   total: number
-  onToggle: (practiceId: string, completed: boolean) => void
+  onToggle: (item: ChecklistItem, completed: boolean) => void
   onToggleCollapse: () => void
-  onPressPractice?: (practiceId: string) => void
+  onPressItem?: (practiceId: string) => void
 }) {
   const theme = useTheme()
   const allDone = completed === total
@@ -62,7 +61,7 @@ export function TimeBlockSection({
             </Text>
           </XStack>
           <Text fontFamily="$body" fontSize="$1" color="$colorSecondary" opacity={0.6}>
-            {practices.map((p) => p.name).join(' · ')}
+            {items.map((i) => i.name).join(' · ')}
           </Text>
         </YStack>
       </Pressable>
@@ -83,13 +82,10 @@ export function TimeBlockSection({
           </XStack>
         </YStack>
       </Pressable>
-      {practices.map((practice) => {
-        const done = completedIds.has(practice.practice_id)
+      {items.map((item) => {
+        const done = completedIds.has(item.id)
         return (
-          <Pressable
-            key={practice.practice_id}
-            onPress={() => onPressPractice?.(practice.practice_id)}
-          >
+          <Pressable key={item.id} onPress={() => onPressItem?.(item.practice_id)}>
             <XStack
               backgroundColor="$backgroundSurface"
               borderRadius="$lg"
@@ -100,15 +96,15 @@ export function TimeBlockSection({
               borderLeftWidth={3}
               borderLeftColor="$accent"
             >
-              <Text fontSize={20}>{getPracticeIcon(practice.icon)}</Text>
+              <Text fontSize={20}>{getPracticeIcon(item.icon)}</Text>
               <Text flex={1} fontFamily="$body" fontSize="$3" color="$color">
-                {practice.name}
+                {item.name}
               </Text>
               <AnimatedCheckbox
                 checked={done}
                 onToggle={() => {
                   lightTap()
-                  onToggle(practice.practice_id, !done)
+                  onToggle(item, !done)
                 }}
               />
             </XStack>

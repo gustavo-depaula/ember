@@ -14,7 +14,12 @@ import {
 } from '@/components'
 import { getManifest, getManifestIconKey } from '@/content/practices'
 import { getPracticeIcon } from '@/db/seed'
-import { useAllPractices, useCreatePractice, useUpdatePractice } from '@/features/plan-of-life'
+import {
+  useCreatePractice,
+  useEnableSlotsForPractice,
+  useSlotsForPractice,
+  useUpdateSlot,
+} from '@/features/plan-of-life'
 import {
   PracticeEditSheet,
   type PracticeFormData,
@@ -29,12 +34,13 @@ export default function CatalogDetailScreen() {
   const theme = useTheme()
 
   const manifest = manifestId ? getManifest(manifestId) : undefined
-  const { data: allPractices = [] } = useAllPractices()
-  const practiceInDb = allPractices.find((p) => p.practice_id === manifestId)
-  const isInPlan = practiceInDb ? practiceInDb.enabled === 1 : false
+  const { data: slotsForManifest = [] } = useSlotsForPractice(manifestId)
+  const firstSlot = slotsForManifest[0]
+  const isInPlan = slotsForManifest.some((s) => s.enabled === 1)
 
   const createPractice = useCreatePractice()
-  const updatePractice = useUpdatePractice()
+  const updateSlot = useUpdateSlot()
+  const enableSlots = useEnableSlotsForPractice()
   const [showEditor, setShowEditor] = useState(false)
 
   if (!manifest) {
@@ -52,23 +58,19 @@ export default function CatalogDetailScreen() {
   const iconKey = getManifestIconKey(manifest.id)
 
   function handleAddToPlan() {
-    if (practiceInDb && !practiceInDb.enabled) {
-      updatePractice.mutate({
-        id: practiceInDb.practice_id,
-        data: { enabled: 1 },
-      })
+    if (firstSlot && !firstSlot.enabled) {
+      enableSlots.mutate(manifestId!)
     } else {
       setShowEditor(true)
     }
   }
 
   function handleSave(data: PracticeFormData) {
-    if (practiceInDb) {
-      updatePractice.mutate({
-        id: practiceInDb.practice_id,
+    if (firstSlot) {
+      updateSlot.mutate({
+        id: firstSlot.id,
         data: {
           tier: data.tier,
-          timeBlock: data.timeBlock,
           schedule: JSON.stringify(data.schedule),
           enabled: 1,
         },
@@ -76,12 +78,10 @@ export default function CatalogDetailScreen() {
     } else if (manifest) {
       createPractice.mutate({
         id: manifest.id,
-        customName: '',
-        customIcon: '',
-        tier: data.tier,
-        timeBlock: data.timeBlock,
-        schedule: JSON.stringify(data.schedule),
-        customDesc: '',
+        slot: {
+          tier: data.tier,
+          schedule: JSON.stringify(data.schedule),
+        },
       })
     }
     setShowEditor(false)
@@ -171,7 +171,7 @@ export default function CatalogDetailScreen() {
             <SectionDivider />
             <VariantSelector
               manifest={manifest}
-              selectedVariantId={practiceInDb?.variant ?? undefined}
+              selectedVariantId={firstSlot?.variant ?? undefined}
             />
           </>
         )}
@@ -196,9 +196,7 @@ export default function CatalogDetailScreen() {
             onPress={() => setShowEditor(false)}
           />
           <PracticeEditSheet
-            practice={practiceInDb ?? undefined}
             manifest={manifest}
-            mode="add"
             onSave={handleSave}
             onClose={() => setShowEditor(false)}
           />

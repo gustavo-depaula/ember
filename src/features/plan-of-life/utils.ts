@@ -1,11 +1,14 @@
 import { differenceInCalendarDays, format, subDays } from 'date-fns'
 
-import type { Completion, Tier, UserPractice } from '@/db/schema'
+import type { Completion, Tier, UserPracticeSlot } from '@/db/schema'
+import { composeSlotKey } from '@/lib/slotKey'
 
 import { isApplicableOn, parseSchedule } from './schedule'
 
 export function toCompletedSet(completions: Completion[]): Set<string> {
-  return new Set(completions.map((c) => c.practice_id))
+  return new Set(
+    completions.map((c) => (c.sub_id ? composeSlotKey(c.practice_id, c.sub_id) : c.practice_id)),
+  )
 }
 
 export type DayCompletion = {
@@ -162,37 +165,46 @@ export function toTieredWallData(
   })
 }
 
-export function isPracticeApplicableOnDate(practice: UserPractice, date: string): boolean {
-  const schedule = parseSchedule(practice.schedule)
+export function isSlotApplicableOnDate(slot: UserPracticeSlot, date: string): boolean {
+  const schedule = parseSchedule(slot.schedule)
   return isApplicableOn(schedule, new Date(date))
 }
 
-export function filterPracticesForDate(practices: UserPractice[], date: string): UserPractice[] {
-  return practices.filter((p) => isPracticeApplicableOnDate(p, date))
+export function filterSlotsForDate(slots: UserPracticeSlot[], date: string): UserPracticeSlot[] {
+  return slots.filter((s) => isSlotApplicableOnDate(s, date))
 }
 
-export function countByTier(practices: UserPractice[]): {
+export function countByTier(slots: UserPracticeSlot[]): {
   essential: number
   ideal: number
   extra: number
 } {
   const counts = { essential: 0, ideal: 0, extra: 0 }
-  for (const p of practices) {
-    if (p.tier in counts) counts[p.tier]++
+  for (const s of slots) {
+    if (s.tier in counts) counts[s.tier]++
   }
   return counts
 }
 
 export function buildTieredWallData(
-  logs: Array<{ date: string; practice_id: string }>,
-  practices: UserPractice[],
+  logs: Array<{ date: string; practice_id: string; sub_id: string | null }>,
+  slots: UserPracticeSlot[],
 ): Array<{ date: string; value: number }> {
-  const practiceMap = new Map(practices.map((p) => [p.practice_id, p]))
-  const tierCounts = countByTier(practices)
-  const tieredLogs: TieredLog[] = logs.map((log) => ({
-    date: log.date,
-    practice_id: log.practice_id,
-    tier: practiceMap.get(log.practice_id)?.tier ?? 'essential',
-  }))
+  const slotMap = new Map(slots.map((s) => [s.id, s]))
+  const tierCounts = countByTier(slots)
+
+  const tieredLogs: TieredLog[] = logs
+    .map((log) => {
+      const slotKey = log.sub_id ? composeSlotKey(log.practice_id, log.sub_id) : log.practice_id
+      const slot = slotMap.get(slotKey)
+      if (!slot) return undefined
+      return {
+        date: log.date,
+        practice_id: slotKey,
+        tier: slot.tier,
+      }
+    })
+    .filter((l): l is TieredLog => l !== undefined)
+
   return toTieredWallData(tieredLogs, tierCounts)
 }

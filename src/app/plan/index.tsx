@@ -1,8 +1,9 @@
-import { format, parseISO, subDays, subWeeks } from 'date-fns'
+import { format, subWeeks } from 'date-fns'
 import { useRouter } from 'expo-router'
 import { SlidersHorizontal } from 'lucide-react-native'
-import { useCallback, useMemo, useState } from 'react'
+import { useMemo } from 'react'
 import { useTranslation } from 'react-i18next'
+import { Pressable } from 'react-native'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
 import {
@@ -12,72 +13,68 @@ import {
   ScreenLayout,
   SectionDivider,
 } from '@/components'
+import { getManifest } from '@/content/practices'
+import type { Tier, UserPracticeSlot } from '@/db/schema'
+import { getPracticeIcon } from '@/db/seed'
 import {
   buildTieredWallData,
-  DayCarousel,
   type DayCompletion,
-  enrichPractice,
-  filterPracticesForDate,
   getCompletionRate,
   getCurrentStreak,
-  PracticeChecklist,
-  toCompletedSet,
+  getPracticeIconKey,
   useCompletionRange,
-  useCompletionsForDate,
-  usePractices,
-  useTogglePractice,
+  useSlots,
 } from '@/features/plan-of-life'
-import { formatLocalized } from '@/lib/i18n/dateLocale'
+import { TierBadge } from '@/features/plan-of-life/components/TierBadge'
+import { localizeContent } from '@/lib/i18n'
 
-const editableWindowDays = 3
+type PracticeGroup = {
+  practiceId: string
+  name: string
+  icon: string
+  tier: Tier
+  slotCount: number
+  enabled: boolean
+}
+
+function getPracticeDisplayName(
+  slots: UserPracticeSlot[],
+  t: ReturnType<typeof useTranslation>['t'],
+): string {
+  const first = slots[0]
+  if (!first) return ''
+  const manifest = getManifest(first.practice_id)
+  if (manifest) {
+    const key = `practice.${first.practice_id}`
+    const translated = t(key)
+    if (translated !== key) return translated
+    return localizeContent(manifest.name)
+  }
+  return first.custom_name ?? first.practice_id
+}
 
 export default function PlanScreen() {
   const { t } = useTranslation()
   const router = useRouter()
   const theme = useTheme()
 
-  const today = useMemo(() => format(new Date(), 'yyyy-MM-dd'), [])
-  const [selectedDate, setSelectedDate] = useState(today)
+  const { data: slots = [] } = useSlots()
   const rangeStart = useMemo(() => format(subWeeks(new Date(), 20), 'yyyy-MM-dd'), [])
-  const [todayTrigger, setTodayTrigger] = useState(0)
-  const goToToday = useCallback(() => setTodayTrigger((n) => n + 1), [])
-
-  const { data: practices = [] } = usePractices()
+  const today = useMemo(() => format(new Date(), 'yyyy-MM-dd'), [])
   const { data: rangeLogs = [] } = useCompletionRange(rangeStart, today)
-  const { data: selectedDateCompletions = [] } = useCompletionsForDate(selectedDate)
-  const toggle = useTogglePractice()
-
-  const selectedPractices = useMemo(
-    () => filterPracticesForDate(practices, selectedDate),
-    [practices, selectedDate],
-  )
-  const selectedCompleted = useMemo(
-    () => toCompletedSet(selectedDateCompletions),
-    [selectedDateCompletions],
-  )
-
-  const isFuture = selectedDate > today
-  const editableCutoff = useMemo(
-    () => format(subDays(new Date(), editableWindowDays), 'yyyy-MM-dd'),
-    [],
-  )
-  const isEditable = !isFuture && selectedDate > editableCutoff
-
-  const isToday = selectedDate === today
-  const dateLabel = isToday ? t('plan.today') : formatLocalized(parseISO(selectedDate), 'EEE d MMM')
 
   const { wallData, stats } = useMemo(() => {
-    const wd = buildTieredWallData(rangeLogs, practices)
+    const wd = buildTieredWallData(rangeLogs, slots)
 
     const countsByDate = new Map<string, number>()
     for (const log of rangeLogs) {
       countsByDate.set(log.date, (countsByDate.get(log.date) ?? 0) + 1)
     }
-    const totalPractices = practices.length || 1
+    const totalSlots = slots.length || 1
     const dailyCompletions: DayCompletion[] = Array.from(countsByDate, ([date, completed]) => ({
       date,
       completed,
-      total: totalPractices,
+      total: totalSlots,
     }))
 
     return {
@@ -87,7 +84,42 @@ export default function PlanScreen() {
         rate: getCompletionRate(dailyCompletions),
       },
     }
-  }, [rangeLogs, practices])
+  }, [rangeLogs, slots])
+
+  // Group slots into practices
+  const practiceGroups = useMemo(() => {
+    const byPractice = new Map<string, UserPracticeSlot[]>()
+    for (const s of slots) {
+      const existing = byPractice.get(s.practice_id) ?? []
+      existing.push(s)
+      byPractice.set(s.practice_id, existing)
+    }
+
+    const groups: PracticeGroup[] = []
+    for (const [practiceId, practiceSlots] of byPractice) {
+      const first = practiceSlots[0]
+      groups.push({
+        practiceId,
+        name: getPracticeDisplayName(practiceSlots, t),
+        icon: getPracticeIconKey(first),
+        tier: first.tier,
+        slotCount: practiceSlots.length,
+        enabled: practiceSlots.some((s) => s.enabled === 1),
+      })
+    }
+
+    return groups
+  }, [slots, t])
+
+  const grouped = useMemo(() => {
+    const groups: Record<Tier, PracticeGroup[]> = { essential: [], ideal: [], extra: [] }
+    for (const p of practiceGroups) {
+      if (p.tier in groups) groups[p.tier].push(p)
+    }
+    return groups
+  }, [practiceGroups])
+
+  const tierSections: Tier[] = ['essential', 'ideal', 'extra']
 
   return (
     <ScreenLayout>
@@ -164,36 +196,53 @@ export default function PlanScreen() {
           </XStack>
         </AnimatedPressable>
 
-        <YStack gap="$xs">
-          <SectionDivider />
-          <AnimatedPressable onPress={goToToday} disabled={isToday}>
-            <Text
-              fontFamily="$heading"
-              fontSize="$3"
-              color="$accent"
-              textAlign="center"
-              opacity={isToday ? 0 : 1}
-            >
-              {t('plan.today')} ›
-            </Text>
-          </AnimatedPressable>
-        </YStack>
-        <DayCarousel onSelectDate={setSelectedDate} today={today} todayTrigger={todayTrigger} />
+        <SectionDivider />
 
-        <Text fontFamily="$heading" fontSize="$4" color="$color" textAlign="center">
-          {dateLabel}
-          {isFuture ? ` · ${t('plan.preview')}` : ''}
-        </Text>
+        {tierSections.map((tier) => {
+          const practices = grouped[tier]
+          if (practices.length === 0) return null
 
-        <PracticeChecklist
-          practices={selectedPractices.map((p) => enrichPractice(p, t))}
-          completedIds={selectedCompleted}
-          onToggle={(id, completed) =>
-            toggle.mutate({ practiceId: id, date: selectedDate, completed })
-          }
-          onRowPress={(id) => router.push(`/plan/${id}`)}
-          readOnly={!isEditable}
-        />
+          return (
+            <YStack key={tier} gap="$sm">
+              <XStack alignItems="center" gap="$sm" paddingHorizontal="$xs">
+                <TierBadge tier={tier} />
+                <Text fontFamily="$heading" fontSize="$3" color="$color">
+                  {t(`tier.${tier}`)}
+                </Text>
+              </XStack>
+
+              {practices.map((group) => (
+                <Pressable
+                  key={group.practiceId}
+                  onPress={() => router.push(`/plan/${group.practiceId}`)}
+                >
+                  <XStack
+                    backgroundColor="$backgroundSurface"
+                    borderRadius="$lg"
+                    padding="$md"
+                    alignItems="center"
+                    gap="$md"
+                  >
+                    <Text fontSize={20}>{getPracticeIcon(group.icon)}</Text>
+                    <YStack flex={1} gap={2}>
+                      <Text fontFamily="$body" fontSize="$3" color="$color">
+                        {group.name}
+                      </Text>
+                      {group.slotCount > 1 && (
+                        <Text fontFamily="$body" fontSize={11} color="$colorSecondary">
+                          {group.slotCount} slots
+                        </Text>
+                      )}
+                    </YStack>
+                    <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
+                      ›
+                    </Text>
+                  </XStack>
+                </Pressable>
+              ))}
+            </YStack>
+          )
+        })}
       </YStack>
     </ScreenLayout>
   )

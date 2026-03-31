@@ -1,24 +1,31 @@
 export { getPracticeIcon } from '@/db/seed'
 export { DayCarousel, PracticeChecklist } from './components'
-export { enrichPractice, getPracticeIconKey, getPracticeName } from './getPracticeName'
+export { enrichSlot, getPracticeIconKey, getSlotName } from './getPracticeName'
 export {
-  useAllPractices,
+  useAddSlot,
+  useAllSlots,
   useCompletionRange,
   useCompletionsForDate,
   useCompletionsForPractice,
   useCreatePractice,
   useDeletePractice,
+  useDeleteSlot,
+  useEnableSlotsForPractice,
   useLogCompletion,
+  usePractice,
   usePracticeCompletionStats,
-  usePractices,
   useRemoveCompletion,
-  useReorderPractices,
-  useTogglePractice,
+  useReorderSlots,
+  useSlots,
+  useSlotsForPractice,
+  useToggleSlot,
   useUpdatePractice,
+  useUpdateSlot,
 } from './hooks'
 export {
   type BlockState,
   blockOrder,
+  deriveTimeBlock,
   getActiveBlocks,
   getBlockCompletion,
   getBlockState,
@@ -30,13 +37,13 @@ export type { DayCompletion, TieredLog } from './utils'
 export {
   buildTieredWallData,
   countByTier,
-  filterPracticesForDate,
+  filterSlotsForDate,
   getCompletionRate,
   getCurrentStreak,
   getLongestPracticeStreak,
   getLongestStreak,
   getPracticeStreak,
-  isPracticeApplicableOnDate,
+  isSlotApplicableOnDate,
   toCompletedSet,
   toGreenWallData,
   toTieredWallData,

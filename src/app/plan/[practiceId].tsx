@@ -6,23 +6,22 @@ import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
-import { GreenWall, HourButtons, PrayButton, ScreenLayout, SectionDivider } from '@/components'
+import { GreenWall, PrayButton, ScreenLayout, SectionDivider } from '@/components'
 import { getManifest, loadPracticeTracks } from '@/content/practices'
+import { getPracticeIcon } from '@/db/seed'
 import { useCursorsForPractice } from '@/features/divine-office'
 import {
+  enrichSlot,
   getLongestPracticeStreak,
-  getPracticeIcon,
   getPracticeIconKey,
-  getPracticeName,
+  useAddSlot,
+  useDeleteSlot,
   usePracticeCompletionStats,
-  usePractices,
-  useUpdatePractice,
+  useSlotsForPractice,
+  useUpdateSlot,
 } from '@/features/plan-of-life'
-import {
-  PracticeTeachingContent,
-  TrackPicker,
-  VariantSelector,
-} from '@/features/practices/components'
+import { SlotConfigurator } from '@/features/plan-of-life/components/SlotConfigurator'
+import { PracticeTeachingContent, TrackPicker } from '@/features/practices/components'
 
 export default function PracticeDetailScreen() {
   const { t } = useTranslation()
@@ -30,12 +29,14 @@ export default function PracticeDetailScreen() {
   const router = useRouter()
   const theme = useTheme()
 
-  const { data: practices = [] } = usePractices()
-  const practice = practices.find((p) => p.practice_id === practiceId)
+  const { data: slots = [] } = useSlotsForPractice(practiceId)
   const manifest = practiceId ? getManifest(practiceId) : undefined
   const hasFlow = manifest?.flow !== undefined || (manifest?.forms?.length ?? 0) > 0
-  const hasHours = manifest?.hours !== undefined && manifest.hours.length > 0
-  const updatePractice = useUpdatePractice()
+  const updateSlot = useUpdateSlot()
+  const addSlot = useAddSlot()
+  const deleteSlot = useDeleteSlot()
+
+  const firstSlot = slots[0]
 
   const { data: practiceStats } = usePracticeCompletionStats(practiceId ?? '')
   const trackDefs = useMemo(
@@ -66,7 +67,7 @@ export default function PracticeDetailScreen() {
     return { streak: currentStreak, longest, total: totalDays, rate }
   }, [practiceStats])
 
-  if (!practice) {
+  if (!firstSlot) {
     return (
       <ScreenLayout>
         <YStack flex={1} alignItems="center" justifyContent="center">
@@ -78,7 +79,7 @@ export default function PracticeDetailScreen() {
     )
   }
 
-  const iconKey = getPracticeIconKey(practice)
+  const iconKey = getPracticeIconKey(firstSlot)
 
   return (
     <ScreenLayout>
@@ -89,14 +90,11 @@ export default function PracticeDetailScreen() {
           </Pressable>
           <Text fontSize={24}>{getPracticeIcon(iconKey)}</Text>
           <Text flex={1} fontFamily="$heading" fontSize="$5" color="$color">
-            {getPracticeName(practice, t)}
+            {enrichSlot(firstSlot, t).name}
           </Text>
         </XStack>
 
         {hasFlow && practiceId && <PrayButton practiceId={practiceId} />}
-        {hasHours && practiceId && manifest?.hours && (
-          <HourButtons practiceId={practiceId} hours={manifest.hours} />
-        )}
 
         <YStack alignItems="center">
           <GreenWall data={wallData} />
@@ -125,21 +123,17 @@ export default function PracticeDetailScreen() {
           ))}
         </XStack>
 
-        {manifest?.variants && manifest.variants.length > 0 && (
-          <>
-            <SectionDivider />
-            <VariantSelector
-              manifest={manifest}
-              selectedVariantId={practice.variant ?? undefined}
-              onSelectVariant={(variantId) =>
-                updatePractice.mutate({
-                  id: practice.practice_id,
-                  data: { variant: variantId },
-                })
-              }
-            />
-          </>
-        )}
+        <SectionDivider />
+
+        <SlotConfigurator
+          slots={slots}
+          practiceId={practiceId!}
+          onUpdateSlot={(slotId, data) => updateSlot.mutate({ id: slotId, data })}
+          onAddSlot={() =>
+            addSlot.mutate({ practiceId: practiceId!, data: { tier: firstSlot.tier } })
+          }
+          onDeleteSlot={(slotId) => deleteSlot.mutate(slotId)}
+        />
 
         {trackDefs && cursorRows.length > 0 && (
           <>

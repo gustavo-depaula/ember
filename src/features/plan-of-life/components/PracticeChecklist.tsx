@@ -5,27 +5,35 @@ import { AnimatedCheckbox } from '@/components'
 import { getPracticeIcon } from '@/db/seed'
 import { lightTap } from '@/lib/haptics'
 
+export type ChecklistItem = {
+  id: string // slot composite ID: "rosary::default" or "divine-office::morning"
+  practice_id: string
+  slot_id: string
+  name: string
+  icon: string
+}
+
 export function PracticeChecklist({
-  practices,
+  items,
   completedIds,
   onToggle,
   onRowPress,
   readOnly,
 }: {
-  practices: Array<{ practice_id: string; name: string; icon: string }>
+  items: ChecklistItem[]
   completedIds: Set<string>
-  onToggle: (practiceId: string, completed: boolean) => void
+  onToggle: (item: ChecklistItem, completed: boolean) => void
   onRowPress?: (practiceId: string) => void
   readOnly?: boolean
 }) {
   return (
     <YStack gap="$sm">
-      {practices.map((practice) => {
-        const done = completedIds.has(practice.practice_id)
+      {items.map((item) => {
+        const done = completedIds.has(item.id)
         return (
           <Pressable
-            key={practice.practice_id}
-            onPress={onRowPress ? () => onRowPress(practice.practice_id) : undefined}
+            key={item.id}
+            onPress={onRowPress ? () => onRowPress(item.practice_id) : undefined}
           >
             <XStack
               backgroundColor="$backgroundSurface"
@@ -34,9 +42,9 @@ export function PracticeChecklist({
               alignItems="center"
               gap="$md"
             >
-              <Text fontSize={20}>{getPracticeIcon(practice.icon)}</Text>
+              <Text fontSize={20}>{getPracticeIcon(item.icon)}</Text>
               <Text flex={1} fontFamily="$body" fontSize="$3" color="$color">
-                {practice.name}
+                {item.name}
               </Text>
               {readOnly ? (
                 <Text fontSize={14} fontFamily="$body" color={done ? '$accent' : '$colorSecondary'}>
@@ -47,7 +55,7 @@ export function PracticeChecklist({
                   checked={done}
                   onToggle={() => {
                     lightTap()
-                    onToggle(practice.practice_id, !done)
+                    onToggle(item, !done)
                   }}
                 />
               )}
