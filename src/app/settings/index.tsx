@@ -1,4 +1,4 @@
-import DateTimePicker from '@react-native-community/datetimepicker'
+import { DateTimePicker } from '@/lib/nativePickers'
 import { format, parseISO } from 'date-fns'
 import { useState } from 'react'
 import { useTranslation } from 'react-i18next'

@@ -1,4 +1,4 @@
-import DateTimePicker from '@react-native-community/datetimepicker'
+import { DateTimePicker } from '@/lib/nativePickers'
 import { Bell, ChevronRight, Clock, Plus, Trash2 } from 'lucide-react-native'
 import { useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
