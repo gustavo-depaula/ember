@@ -3,7 +3,7 @@ import { useRouter } from 'expo-router'
 import { useMemo } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
-import { Text, useTheme, XStack, YStack } from 'tamagui'
+import { Text, XStack, YStack } from 'tamagui'
 
 import {
   AnimatedPressable,
@@ -55,7 +55,6 @@ function getPracticeDisplayName(
 export default function PlanScreen() {
   const { t } = useTranslation()
   const router = useRouter()
-  const theme = useTheme()
 
   const { data: slots = [] } = useSlots()
   const rangeStart = useMemo(() => format(subWeeks(new Date(), 20), 'yyyy-MM-dd'), [])
