@@ -15,17 +15,10 @@ export function getSlotName(slot: UserPracticeSlot, t: TFunction): string {
   const manifest = getManifest(slot.practice_id)
 
   if (manifest) {
-    // Multi-hour: use the hour name from manifest
-    if (slot.slot_id !== 'default' && manifest.hours?.length) {
-      const hour = manifest.hours.find((h) => h.id === slot.slot_id)
-      if (hour) return localizeContent(hour.name)
-    }
-
-    // User-added slot with variant: "Practice (Variant)"
-    if (slot.slot_id !== 'default' && slot.variant && manifest.variants?.length) {
-      const variant = manifest.variants.find((v) => v.id === slot.variant)
-      const practiceName = localizeManifestName(manifest, slot.practice_id, t)
-      if (variant) return `${practiceName} (${localizeContent(variant.name)})`
+    // Multi-flow: use the flow name from manifest
+    if (slot.slot_id !== 'default' && manifest.flows.length > 1) {
+      const flow = manifest.flows.find((f) => f.id === slot.slot_id)
+      if (flow) return localizeContent(flow.name)
     }
 
     // Default slot: use manifest name

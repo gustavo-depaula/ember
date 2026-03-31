@@ -4,7 +4,7 @@ import { useQueryClient } from '@tanstack/react-query'
 import { format } from 'date-fns'
 import { useRouter } from 'expo-router'
 import { ChevronLeft } from 'lucide-react-native'
-import { useEffect, useMemo, useState } from 'react'
+import { useEffect, useMemo } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
 import { Spinner, Text, useTheme, View, XStack, YStack } from 'tamagui'
@@ -33,9 +33,7 @@ import { type FlowContext, resolveFlow } from '@/content/engine'
 import {
   getDefaultVariant,
   getManifest,
-  loadFlow,
-  loadFormFlow,
-  loadHourFlow,
+  loadFlowForSlot,
   loadPracticeData,
   loadPracticeTracks,
   loadVariant,
@@ -54,7 +52,6 @@ import { useReadingMargin } from '@/hooks/useReadingStyle'
 import { getPsalmNumbering } from '@/lib/bolls'
 import type { Verse } from '@/lib/content'
 import { successBuzz } from '@/lib/haptics'
-import { localizeContent } from '@/lib/i18n'
 import { formatLocalized } from '@/lib/i18n/dateLocale'
 import type { PsalmRef, ReadingReference } from '@/lib/liturgical'
 import { usePreferencesStore } from '@/stores/preferencesStore'
@@ -81,7 +78,13 @@ function findTrackIds(sections: RenderedSection[]): string[] {
   return Array.from(ids)
 }
 
-export function PracticeFlow({ practiceId, hourId }: { practiceId: string; hourId?: string }) {
+export function PracticeFlow({
+  practiceId,
+  flowId: flowIdProp,
+}: {
+  practiceId: string
+  flowId?: string
+}) {
   const { t } = useTranslation()
   const router = useRouter()
   const theme = useTheme()
@@ -91,21 +94,17 @@ export function PracticeFlow({ practiceId, hourId }: { practiceId: string; hourI
   const advanceCursor = useAdvanceCursor()
 
   const manifest = getManifest(practiceId)
-  const formPreferences = usePreferencesStore((s) => s.formPreferences)
-  const setFormPreference = usePreferencesStore((s) => s.setFormPreference)
-  const selectedFormId = manifest?.forms?.length
-    ? (formPreferences[practiceId] ?? manifest.forms[0].id)
-    : undefined
+
+  const { data: slots = [] } = useSlots()
+  const currentSlot = slots.find((s) => s.practice_id === practiceId)
+  const flowId = flowIdProp ?? currentSlot?.slot_id ?? 'default'
 
   const flow = useMemo(() => {
     if (!manifest) return undefined
-    if (hourId && manifest.hours) return loadHourFlow(practiceId, hourId)
-    if (selectedFormId && manifest.forms) return loadFormFlow(practiceId, selectedFormId)
-    return loadFlow(practiceId)
-  }, [manifest, practiceId, hourId, selectedFormId])
+    return loadFlowForSlot(practiceId, flowId)
+  }, [manifest, practiceId, flowId])
 
-  const { data: slots = [] } = useSlots()
-  const selectedVariantId = slots.find((s) => s.practice_id === practiceId)?.variant
+  const selectedVariantId = currentSlot?.variant
 
   const variant = useMemo(() => {
     if (!manifest?.variants?.length) return undefined
@@ -114,7 +113,6 @@ export function PracticeFlow({ practiceId, hourId }: { practiceId: string; hourI
   }, [practiceId, manifest, selectedVariantId])
 
   const now = useMemo(() => new Date(), [])
-  const [selectedSetKey, setSelectedSetKey] = useState<string | undefined>(undefined)
 
   // Dynamic context for cycle/lectio sections
   const translation = usePreferencesStore((s) => s.translation)
@@ -157,20 +155,10 @@ export function PracticeFlow({ practiceId, hourId }: { practiceId: string; hourI
       trackDefs,
       trackState,
       cycleData,
-      setKeyOverride: selectedSetKey,
+      setKeyOverride: flowId,
     }
     return resolveFlow(flow, context)
-  }, [
-    flow,
-    now,
-    variant,
-    numbering,
-    liturgicalCalendar,
-    trackDefs,
-    trackState,
-    cycleData,
-    selectedSetKey,
-  ])
+  }, [flow, now, variant, numbering, liturgicalCalendar, trackDefs, trackState, cycleData, flowId])
 
   // Load dynamic content (psalms, Bible readings, CCC)
   const psalmRefs = useMemo(() => findPsalmRefs(sections), [sections])
@@ -187,7 +175,9 @@ export function PracticeFlow({ practiceId, hourId }: { practiceId: string; hourI
   const isDynamicLoading =
     hasDynamicContent && (psalmResult.isLoading || bibleResult.isLoading || cccResult.isLoading)
 
-  const practiceName = t(`practice.${practiceId}`, { defaultValue: manifest?.name.en ?? practiceId })
+  const practiceName = t(`practice.${practiceId}`, {
+    defaultValue: manifest?.name.en ?? practiceId,
+  })
   const formattedDate = formatLocalized(now, 'EEEE, MMMM d, yyyy')
 
   if (!manifest || !flow) {
@@ -219,7 +209,7 @@ export function PracticeFlow({ practiceId, hourId }: { practiceId: string; hourI
 
   function handleComplete() {
     const today = format(new Date(), 'yyyy-MM-dd')
-    const subId = hourId ?? undefined
+    const subId = flowIdProp
 
     logCompletionMutation.mutate(
       { practiceId, date: today, subId },
@@ -277,52 +267,29 @@ export function PracticeFlow({ practiceId, hourId }: { practiceId: string; hourI
             </Text>
           </YStack>
 
-          {manifest?.forms && selectedFormId && (
-            <PillToggle
-              options={manifest.forms.map((f) => ({
-                id: f.id,
-                label: localizeContent(f.name),
-              }))}
-              selected={selectedFormId}
-              onChange={(formId) => setFormPreference(practiceId, formId)}
-            />
-          )}
-
           <YStack gap="$md">
             {(() => {
               const firstReadingIdx =
                 manifest.theme === 'office' ? sections.findIndex((s) => s.type === 'reading') : -1
-              return sections.map((section, index) => {
-                if (section.type === 'set-selector') {
-                  return (
-                    <PillToggle
-                      key={`set-selector-${index}`}
-                      options={section.options.map((o) => ({ id: o.key, label: o.label }))}
-                      selected={section.selectedKey}
-                      onChange={setSelectedSetKey}
-                    />
-                  )
-                }
-                return (
-                  <PracticeSectionBlock
-                    key={`${section.type}-${index}`}
-                    section={section}
-                    psalmData={psalmResult.data}
-                    readingData={bibleResult.data?.verses}
-                    readingFallback={bibleResult.data?.fallback}
-                    cccData={cccResult.data}
-                    officeTheme={manifest.theme === 'office'}
-                    isFirstReading={index === firstReadingIdx}
-                  />
-                )
-              })
+              return sections.map((section, index) => (
+                <PracticeSectionBlock
+                  key={`${section.type}-${index}`}
+                  section={section}
+                  psalmData={psalmResult.data}
+                  readingData={bibleResult.data?.verses}
+                  readingFallback={bibleResult.data?.fallback}
+                  cccData={cccResult.data}
+                  officeTheme={manifest.theme === 'office'}
+                  isFirstReading={index === firstReadingIdx}
+                />
+              ))
             })()}
           </YStack>
 
           <YStack paddingBottom="$lg" />
         </ManuscriptFrame>
 
-        {manifest?.completion !== 'manual' && (
+        {manifest.completion !== 'manual' && (
           <YStack paddingHorizontal={readingMargin}>
             <AnimatedPressable onPress={handleComplete} disabled={logCompletionMutation.isPending}>
               <YStack
@@ -490,45 +457,4 @@ function PracticeSectionBlock({
     default:
       return null
   }
-}
-
-function PillToggle({
-  options,
-  selected,
-  onChange,
-}: {
-  options: { id: string; label: string }[]
-  selected: string
-  onChange: (id: string) => void
-}) {
-  return (
-    <XStack
-      gap="$xs"
-      justifyContent="center"
-      paddingVertical="$md"
-      paddingHorizontal="$md"
-      flexWrap="wrap"
-    >
-      {options.map((option) => (
-        <AnimatedPressable key={option.id} onPress={() => onChange(option.id)}>
-          <YStack
-            paddingHorizontal="$md"
-            paddingVertical="$sm"
-            borderRadius="$md"
-            borderWidth={1}
-            borderColor={option.id === selected ? '$accent' : '$borderColor'}
-            backgroundColor={option.id === selected ? '$accent' : 'transparent'}
-          >
-            <Text
-              fontFamily="$heading"
-              fontSize="$1"
-              color={option.id === selected ? '$background' : '$colorSecondary'}
-            >
-              {option.label}
-            </Text>
-          </YStack>
-        </AnimatedPressable>
-      ))}
-    </XStack>
-  )
 }

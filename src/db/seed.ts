@@ -305,25 +305,18 @@ async function seedAllPractices(db: SQLiteDatabase, verb: 'INSERT' | 'INSERT OR 
 
     await db.runAsync(`${verb} INTO user_practices (practice_id) VALUES (?)`, [manifest.id])
 
-    if (manifest.hours?.length) {
-      for (const hour of manifest.hours) {
-        const time = defaultTimes[hour.timeBlock as TimeBlock] ?? null
-        await insertSlot(db, verb, manifest.id, hour.id, {
-          enabled: d.enabled ? 1 : 0,
-          sortOrder: d.sortOrder,
-          tier: d.tier,
-          time,
-          schedule: JSON.stringify(d.schedule),
-        })
-      }
-    } else {
-      const time = defaultTimes[d.timeBlock as TimeBlock] ?? null
-      await insertSlot(db, verb, manifest.id, 'default', {
-        enabled: d.enabled ? 1 : 0,
+    for (const slotDef of d.slots) {
+      const flow = manifest.flows.find((f) => f.id === slotDef.flowId)
+      const time =
+        slotDef.time ??
+        (flow?.timeBlock ? defaultTimes[flow.timeBlock as TimeBlock] : undefined) ??
+        null
+      await insertSlot(db, verb, manifest.id, slotDef.flowId, {
+        enabled: slotDef.enabled !== false ? 1 : 0,
         sortOrder: d.sortOrder,
-        tier: d.tier,
+        tier: slotDef.tier ?? 'essential',
         time,
-        schedule: JSON.stringify(d.schedule),
+        schedule: JSON.stringify(slotDef.schedule),
       })
     }
   }

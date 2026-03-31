@@ -7,7 +7,7 @@ import { Text, useTheme, XStack, YStack } from 'tamagui'
 
 import {
   AnimatedPressable,
-  HourButtons,
+  FlowButtons,
   PrayButton,
   ScreenLayout,
   SectionDivider,
@@ -114,14 +114,11 @@ export default function CatalogDetailScreen() {
           </YStack>
         </XStack>
 
-        {(manifest.flow || manifest.forms?.length) && <PrayButton practiceId={manifest.id} />}
+        {manifest.flows.length === 1 && <PrayButton practiceId={manifest.id} />}
 
-        {manifest.hours && manifest.hours.length > 0 && (
+        {manifest.flows.length > 1 && (
           <YStack gap="$sm">
-            <Text fontFamily="$heading" fontSize="$3" color="$color">
-              {t('catalog.hours')}
-            </Text>
-            <HourButtons practiceId={manifest.id} hours={manifest.hours} />
+            <FlowButtons practiceId={manifest.id} flows={manifest.flows} />
           </YStack>
         )}
 

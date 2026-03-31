@@ -17,7 +17,7 @@ import signOfCross from '@/assets/prayers/sign-of-cross.json'
 import type { PsalmNumbering } from '@/lib/bolls'
 import i18n, { localizeAsset, localizeContent } from '@/lib/i18n'
 import { parseTrackEntry } from '@/lib/lectio'
-import { getLiturgicalSeason, type LiturgicalCalendarForm, parsePsalmRef } from '@/lib/liturgical'
+import { type LiturgicalCalendarForm, parsePsalmRef } from '@/lib/liturgical'
 import type {
   CycleData,
   FlowDefinition,
@@ -121,9 +121,6 @@ function getOrdinal(index: number): string {
   return ordinals[index] ?? String(index + 1)
 }
 
-// Re-use the canonical day-name array from the psalter module
-import { dayNames } from '@/lib/liturgical/psalter'
-
 function substituteTemplateVars(text: string, vars: Record<string, string | undefined>): string {
   return text.replace(/\{\{(\w+)\}\}/g, (match, key) => vars[key] ?? match)
 }
@@ -152,24 +149,11 @@ function resolveVariantData(
   variant: Variant,
   context: FlowContext,
 ): { entries: VariantEntry[]; setKey: string } | undefined {
-  let setKey: string | undefined
-  if (context.setKeyOverride && variant.data[context.setKeyOverride]) {
-    setKey = context.setKeyOverride
-  } else {
-    switch (variant.selector) {
-      case 'day-of-week':
-        setKey = variant.schedule?.[dayNames[context.date.getDay()]]
-        break
-      case 'liturgical-season': {
-        const season = getLiturgicalSeason(context.date, context.liturgicalCalendar)
-        setKey = variant.data[season] ? season : Object.keys(variant.data)[0]
-        break
-      }
-      case 'manual':
-        setKey = Object.keys(variant.data)[0]
-        break
-    }
-  }
+  // Use setKeyOverride (flow id) to pick the right data set, fall back to first available
+  const setKey =
+    context.setKeyOverride && variant.data[context.setKeyOverride]
+      ? context.setKeyOverride
+      : Object.keys(variant.data)[0]
   if (!setKey || !variant.data[setKey]) return undefined
   return { entries: variant.data[setKey], setKey }
 }
@@ -226,7 +210,6 @@ function resolveRepeat(
   const { count, variable, sections: templateSections } = section
 
   let entries: VariantEntry[] | undefined
-  const preamble: RenderedSection[] = []
   if (variable) {
     if (!context.variant) {
       return [{ type: 'rubric', label: '[No variant loaded for repeat variable]' }]
@@ -236,22 +219,6 @@ function resolveRepeat(
       return [{ type: 'rubric', label: `[No data for variant key: ${variable.key}]` }]
     }
     entries = resolved.entries
-    const setNames = context.variant.setNames
-    if (setNames && Object.keys(setNames).length > 1) {
-      preamble.push({
-        type: 'set-selector',
-        options: Object.entries(setNames).map(([key, name]) => ({
-          key,
-          label: localizeContent(name),
-        })),
-        selectedKey: resolved.setKey,
-      })
-    } else {
-      const setName = setNames?.[resolved.setKey]
-      if (setName) {
-        preamble.push({ type: 'heading', text: localizeContent(setName) })
-      }
-    }
   }
 
   const iterCount = entries ? Math.min(count, entries.length) : count
@@ -287,7 +254,7 @@ function resolveRepeat(
     })
   }).flat()
 
-  return [...preamble, ...sections]
+  return sections
 }
 
 function getCycleIndex(indexBy: string, date: Date, length: number): number {

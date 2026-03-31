@@ -17,7 +17,12 @@
   },
   "flowMode": "scroll",
   "completion": "flow-end",
-  "flow": "flow.json",
+  "flows": [
+    { "id": "joyful", "name": { "en": "Joyful Mysteries", "pt-BR": "Mistérios Gozosos" }, "file": "flow.json" },
+    { "id": "sorrowful", "name": { "en": "Sorrowful Mysteries", "pt-BR": "Mistérios Dolorosos" }, "file": "flow.json" },
+    { "id": "glorious", "name": { "en": "Glorious Mysteries", "pt-BR": "Mistérios Gloriosos" }, "file": "flow.json" },
+    { "id": "luminous", "name": { "en": "Luminous Mysteries", "pt-BR": "Mistérios Luminosos" }, "file": "flow.json" }
+  ],
   "variants": [
     {
       "id": "traditional",
@@ -34,10 +39,12 @@
   ],
   "tags": ["marian", "rosary", "meditation", "daily"],
   "defaults": {
-    "enabled": true,
     "sortOrder": 4,
-    "tier": "essential",
-    "timeBlock": "daytime",
-    "schedule": { "type": "daily" }
+    "slots": [
+      { "flowId": "joyful", "schedule": { "type": "days-of-week", "days": [1, 6] }, "tier": "essential" },
+      { "flowId": "sorrowful", "schedule": { "type": "days-of-week", "days": [2, 5] }, "tier": "essential" },
+      { "flowId": "glorious", "schedule": { "type": "days-of-week", "days": [0, 3] }, "tier": "essential" },
+      { "flowId": "luminous", "schedule": { "type": "days-of-week", "days": [4] }, "tier": "essential" }
+    ]
   }
 }

@@ -6,7 +6,7 @@ import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
-import { GreenWall, PrayButton, ScreenLayout, SectionDivider } from '@/components'
+import { FlowButtons, GreenWall, PrayButton, ScreenLayout, SectionDivider } from '@/components'
 import { getManifest, loadPracticeTracks } from '@/content/practices'
 import { getPracticeIcon } from '@/db/seed'
 import { useCursorsForPractice } from '@/features/divine-office'
@@ -31,7 +31,7 @@ export default function PracticeDetailScreen() {
 
   const { data: slots = [] } = useSlotsForPractice(practiceId)
   const manifest = practiceId ? getManifest(practiceId) : undefined
-  const hasFlow = manifest?.flow !== undefined || (manifest?.forms?.length ?? 0) > 0
+  const hasFlow = (manifest?.flows?.length ?? 0) > 0
   const updateSlot = useUpdateSlot()
   const addSlot = useAddSlot()
   const deleteSlot = useDeleteSlot()
@@ -94,7 +94,13 @@ export default function PracticeDetailScreen() {
           </Text>
         </XStack>
 
-        {hasFlow && practiceId && <PrayButton practiceId={practiceId} />}
+        {hasFlow && practiceId && (manifest?.flows?.length ?? 0) > 1 ? (
+          <YStack gap="$sm">
+            <FlowButtons practiceId={practiceId} flows={manifest!.flows} />
+          </YStack>
+        ) : hasFlow && practiceId ? (
+          <PrayButton practiceId={practiceId} />
+        ) : null}
 
         <YStack alignItems="center">
           <GreenWall data={wallData} />

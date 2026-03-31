@@ -16,7 +16,7 @@ export {
 } from './Ornament'
 export { FloralCorner, FloralVineBorder, SeasonalIcon, WatercolorIcon } from './ornaments'
 export { PageBorder } from './PageBorder'
-export { HourButtons, PrayButton } from './PrayActionButtons'
+export { FlowButtons, PrayButton } from './PrayActionButtons'
 export { PrayerText } from './PrayerText'
 export { ProgressBar } from './ProgressBar'
 export { type PsalmData, PsalmodyBlock } from './PsalmodyBlock'

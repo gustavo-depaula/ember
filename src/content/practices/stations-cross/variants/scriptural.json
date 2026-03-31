@@ -1,7 +1,6 @@
 {
   "id": "scriptural",
   "name": { "en": "Scriptural Meditations", "pt-BR": "Meditações Bíblicas" },
-  "selector": "manual",
   "data": {
     "stations": [
       {

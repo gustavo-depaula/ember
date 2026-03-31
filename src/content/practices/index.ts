@@ -56,13 +56,16 @@ const manifests: Record<string, PracticeManifest> = {
 }
 
 const flows: Record<string, FlowDefinition> = {
-  'morning-offering': morningOfferingFlow as FlowDefinition,
-  angelus: angelusFlow as FlowDefinition,
-  'guardian-angel': guardianAngelFlow as FlowDefinition,
-  memorare: memorareFlow as FlowDefinition,
-  rosary: rosaryFlow as FlowDefinition,
-  'divine-mercy': divineMercyFlow as FlowDefinition,
-  'stations-cross': stationsCrossFlow as FlowDefinition,
+  'morning-offering/default': morningOfferingFlow as FlowDefinition,
+  'angelus/default': angelusFlow as FlowDefinition,
+  'guardian-angel/default': guardianAngelFlow as FlowDefinition,
+  'memorare/default': memorareFlow as FlowDefinition,
+  'rosary/joyful': rosaryFlow as FlowDefinition,
+  'rosary/sorrowful': rosaryFlow as FlowDefinition,
+  'rosary/glorious': rosaryFlow as FlowDefinition,
+  'rosary/luminous': rosaryFlow as FlowDefinition,
+  'divine-mercy/default': divineMercyFlow as FlowDefinition,
+  'stations-cross/default': stationsCrossFlow as FlowDefinition,
   'divine-office/morning': divineOfficeMorning as FlowDefinition,
   'divine-office/evening': divineOfficeEvening as FlowDefinition,
   'divine-office/compline': divineOfficeCompline as FlowDefinition,
@@ -127,16 +130,13 @@ export function getAllManifests(): PracticeManifest[] {
   return allManifests
 }
 
-export function loadFlow(manifestId: string): FlowDefinition | undefined {
-  return flows[manifestId]
-}
-
-export function loadHourFlow(manifestId: string, hourId: string): FlowDefinition | undefined {
-  return flows[`${manifestId}/${hourId}`]
-}
-
-export function loadFormFlow(manifestId: string, formId: string): FlowDefinition | undefined {
-  return flows[`${manifestId}/${formId}`]
+export function loadFlowForSlot(practiceId: string, flowId: string): FlowDefinition | undefined {
+  const key = `${practiceId}/${flowId}`
+  if (flows[key]) return flows[key]
+  // Fallback for legacy slots with stale slot_ids (e.g., 'default' before flows migration)
+  const prefix = `${practiceId}/`
+  const fallbackKey = Object.keys(flows).find((k) => k.startsWith(prefix))
+  return fallbackKey ? flows[fallbackKey] : undefined
 }
 
 export function loadVariant(manifestId: string, variantId: string): Variant | undefined {

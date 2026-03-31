@@ -71,9 +71,9 @@ export function PracticeEditSheet({
   const [form, setForm] = useState<PracticeFormData>({
     name: manifestName ?? '',
     icon: manifest ? getManifestIconKey(manifest.id) : 'prayer',
-    tier: (manifest?.defaults?.tier as Tier) ?? 'ideal',
-    schedule: manifest?.defaults?.schedule
-      ? (manifest.defaults.schedule as Schedule)
+    tier: (manifest?.defaults?.slots?.[0]?.tier as Tier) ?? 'ideal',
+    schedule: manifest?.defaults?.slots?.[0]?.schedule
+      ? (manifest.defaults.slots[0].schedule as Schedule)
       : { type: 'daily' as const },
     description: manifestDesc ?? '',
   })
