@@ -149,6 +149,24 @@ export type ChapterResult = {
   fallback?: boolean
 }
 
+// Resolve a bookId to a Bolls numeric ID. bookId can be either a numeric string
+// (from the Bible reader) or a DRB slug (from lectio track entries).
+async function resolveBollsBookId(translation: string, bookId: string): Promise<number | undefined> {
+  const numeric = Number.parseInt(bookId, 10)
+  if (!Number.isNaN(numeric)) return numeric
+
+  // bookId is a DRB slug — find the matching Bolls book by name
+  let bollsBooks = bollsBookCache.get(translation)
+  if (!bollsBooks) {
+    bollsBooks = await fetchBooks(translation)
+    bollsBookCache.set(translation, bollsBooks)
+  }
+  const drbBook = getDrbBooks().find((b) => b.id === bookId)
+  if (!drbBook) return undefined
+  const match = bollsBooks.find((b) => b.name.toLowerCase() === drbBook.name.toLowerCase())
+  return match?.bookid
+}
+
 export async function getChapter(
   translation: string,
   bookId: string,
@@ -159,24 +177,17 @@ export async function getChapter(
   }
 
   try {
-    const verses = await fetchChapter(translation, Number.parseInt(bookId, 10), chapter)
+    const bollsId = await resolveBollsBookId(translation, bookId)
+    if (bollsId === undefined) throw new Error(`Unknown book: ${bookId}`)
+    const verses = await fetchChapter(translation, bollsId, chapter)
     return {
       verses: verses.map((v) => ({ verse: v.verse, text: v.text })),
     }
   } catch {
     // Fallback to DRB if online fetch fails
-    // Try to find the DRB equivalent book by matching position
-    const drbBooks = getDrbBooks()
-    const onlineBooks = bollsBookCache.get(translation)
-    const onlineBook = onlineBooks?.find((b) => String(b.bookid) === bookId)
-
-    if (onlineBook) {
-      const drbMatch = drbBooks.find((b) => b.name.toLowerCase() === onlineBook.name.toLowerCase())
-      if (drbMatch) {
-        return { verses: getDrbChapter(drbMatch.id, chapter), fallback: true }
-      }
+    if (drbModules[bookId]) {
+      return { verses: getDrbChapter(bookId, chapter), fallback: true }
     }
-
     throw new Error(`Failed to fetch ${translation}/${bookId}/${chapter} and no DRB fallback found`)
   }
 }

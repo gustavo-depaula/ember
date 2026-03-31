@@ -491,6 +491,26 @@ export default {
     offering: 'Oferecimento',
     incarnation: 'Encarna\u00e7\u00e3o',
     liturgy: 'Liturgia',
+    formation: 'Forma\u00e7\u00e3o',
+    program: 'Programas',
+    devotion: 'Devo\u00e7\u00e3o',
+  },
+
+  program: {
+    dayOf: 'Dia {{day}} de {{total}}',
+    begin: 'Iniciar Programa',
+    beginWith: 'Iniciar em {{date}}',
+    complete: 'Programa Completo',
+    completeMessage: 'Voc\u00ea completou a {{name}}!',
+    restart: 'Rezar Novamente',
+    done: 'Conclu\u00eddo',
+    currentDay: 'Dia Atual',
+    completed: 'Completo',
+    upcoming: 'Pr\u00f3ximo',
+    missed: 'Perdido',
+    durationDays: 'Programa de {{count}} dias',
+    durationMonths: 'Devo\u00e7\u00e3o de {{count}} meses',
+    occurrenceOf: '{{occurrence}} de {{total}}',
   },
 
   common: {

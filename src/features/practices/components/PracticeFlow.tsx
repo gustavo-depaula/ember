@@ -1,6 +1,6 @@
 // biome-ignore-all lint/suspicious/noArrayIndexKey: static prayer sections never reorder
 
-import { useQueryClient } from '@tanstack/react-query'
+import { useQueries, useQueryClient } from '@tanstack/react-query'
 import { format } from 'date-fns'
 import { useRouter } from 'expo-router'
 import { ChevronLeft } from 'lucide-react-native'
@@ -42,19 +42,18 @@ import type { RenderedSection } from '@/content/types'
 import {
   ensurePracticeCursors,
   useAdvanceCursor,
-  useBibleReading,
-  useCccReading,
   useCursorsForPractice,
   usePsalmsForHour,
 } from '@/features/divine-office'
 import { useLogCompletion, useSlots } from '@/features/plan-of-life'
 import { useReadingMargin } from '@/hooks/useReadingStyle'
 import { getPsalmNumbering } from '@/lib/bolls'
-import type { Verse } from '@/lib/content'
+import { getCccParagraphs } from '@/lib/catechism'
+import { getChapter, type Verse } from '@/lib/content'
 import { successBuzz } from '@/lib/haptics'
 import { localizeContent } from '@/lib/i18n'
 import { formatLocalized } from '@/lib/i18n/dateLocale'
-import type { PsalmRef, ReadingReference } from '@/lib/liturgical'
+import type { PsalmRef } from '@/lib/liturgical'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
 function findPsalmRefs(sections: RenderedSection[]): PsalmRef[] {
@@ -64,11 +63,31 @@ function findPsalmRefs(sections: RenderedSection[]): PsalmRef[] {
   return []
 }
 
-function findReadingRef(sections: RenderedSection[]): { reference: ReadingReference } | undefined {
+type BibleKey = { book: string; chapter: number }
+type CccKey = { start: number; count: number }
+
+const bibleKeyStr = (k: BibleKey) => `${k.book}/${k.chapter}`
+const cccKeyStr = (k: CccKey) => `${k.start}/${k.count}`
+
+function collectReadingKeys(sections: RenderedSection[]): {
+  bibleKeys: BibleKey[]
+  cccKeys: CccKey[]
+} {
+  const bibleSet = new Map<string, BibleKey>()
+  const cccSet = new Map<string, CccKey>()
   for (const s of sections) {
-    if (s.type === 'reading') return { reference: s.reference }
+    if (s.type !== 'reading') continue
+    if (s.reference.type === 'bible') {
+      const key = { book: s.reference.book, chapter: s.reference.chapter }
+      const k = bibleKeyStr(key)
+      if (!bibleSet.has(k)) bibleSet.set(k, key)
+    } else {
+      const key = { start: s.reference.startParagraph, count: s.reference.count }
+      const k = cccKeyStr(key)
+      if (!cccSet.has(k)) cccSet.set(k, key)
+    }
   }
-  return undefined
+  return { bibleKeys: Array.from(bibleSet.values()), cccKeys: Array.from(cccSet.values()) }
 }
 
 function findTrackIds(sections: RenderedSection[]): string[] {
@@ -82,9 +101,11 @@ function findTrackIds(sections: RenderedSection[]): string[] {
 export function PracticeFlow({
   practiceId,
   flowId: flowIdProp,
+  programDay,
 }: {
   practiceId: string
   flowId?: string
+  programDay?: number
 }) {
   const { t } = useTranslation()
   const router = useRouter()
@@ -157,24 +178,66 @@ export function PracticeFlow({
       trackState,
       cycleData,
       setKeyOverride: flowId,
+      programDay,
     }
     return resolveFlow(flow, context)
-  }, [flow, now, variant, numbering, liturgicalCalendar, trackDefs, trackState, cycleData, flowId])
+  }, [
+    flow,
+    now,
+    variant,
+    numbering,
+    liturgicalCalendar,
+    trackDefs,
+    trackState,
+    cycleData,
+    flowId,
+    programDay,
+  ])
 
   // Load dynamic content (psalms, Bible readings, CCC)
   const psalmRefs = useMemo(() => findPsalmRefs(sections), [sections])
-  const readingInfo = useMemo(() => findReadingRef(sections), [sections])
-  const readingRef = readingInfo?.reference
-  const bibleRef = readingRef?.type === 'bible' ? readingRef : undefined
-  const cccRef = readingRef?.type === 'catechism' ? readingRef : undefined
+  const { bibleKeys, cccKeys } = useMemo(() => collectReadingKeys(sections), [sections])
 
   const psalmResult = usePsalmsForHour(psalmRefs, translation)
-  const bibleResult = useBibleReading(bibleRef?.book, bibleRef?.chapter, translation)
-  const cccResult = useCccReading(cccRef?.startParagraph, cccRef?.count)
 
-  const hasDynamicContent = psalmRefs.length > 0 || readingRef !== undefined
+  const bibleQueries = useQueries({
+    queries: bibleKeys.map((k) => ({
+      queryKey: ['chapter', translation, k.book, k.chapter] as const,
+      queryFn: () => getChapter(translation, k.book, k.chapter),
+    })),
+  })
+
+  const cccQueries = useQueries({
+    queries: cccKeys.map((k) => ({
+      queryKey: ['ccc', k.start, k.count] as const,
+      queryFn: () => getCccParagraphs(k.start, k.count),
+    })),
+  })
+
+  const bibleMap = useMemo(() => {
+    const map = new Map<string, { verses: Verse[]; fallback?: boolean }>()
+    for (let i = 0; i < bibleKeys.length; i++) {
+      const data = bibleQueries[i]?.data
+      if (data) map.set(bibleKeyStr(bibleKeys[i]), data)
+    }
+    return map
+  }, [bibleKeys, bibleQueries])
+
+  const cccMap = useMemo(() => {
+    const map = new Map<string, Array<{ number: number; text: string; section: string }>>()
+    for (let i = 0; i < cccKeys.length; i++) {
+      const data = cccQueries[i]?.data
+      if (data) map.set(cccKeyStr(cccKeys[i]), data)
+    }
+    return map
+  }, [cccKeys, cccQueries])
+
+  const bibleLoading = bibleQueries.some((r) => r.isLoading)
+  const cccLoading = cccQueries.some((r) => r.isLoading)
+
+  const hasDynamicContent = psalmRefs.length > 0 || bibleKeys.length > 0 || cccKeys.length > 0
   const isDynamicLoading =
-    hasDynamicContent && (psalmResult.isLoading || bibleResult.isLoading || cccResult.isLoading)
+    hasDynamicContent && (psalmResult.isLoading || bibleLoading || cccLoading)
 
   const practiceName = manifest ? localizeContent(manifest.name) : practiceId
   const formattedDate = formatLocalized(now, 'EEEE, MMMM d, yyyy')
@@ -275,9 +338,8 @@ export function PracticeFlow({
                   key={`${section.type}-${index}`}
                   section={section}
                   psalmData={psalmResult.data}
-                  readingData={bibleResult.data?.verses}
-                  readingFallback={bibleResult.data?.fallback}
-                  cccData={cccResult.data}
+                  bibleMap={bibleMap}
+                  cccMap={cccMap}
                   officeTheme={manifest.theme === 'office'}
                   isFirstReading={index === firstReadingIdx}
                 />
@@ -317,17 +379,15 @@ export function PracticeFlow({
 function PracticeSectionBlock({
   section,
   psalmData,
-  readingData,
-  readingFallback,
-  cccData,
+  bibleMap,
+  cccMap,
   officeTheme = false,
   isFirstReading = false,
 }: {
   section: RenderedSection
   psalmData: PsalmData[]
-  readingData?: Verse[]
-  readingFallback?: boolean
-  cccData?: Array<{ number: number; text: string; section: string }>
+  bibleMap: Map<string, { verses: Verse[]; fallback?: boolean }>
+  cccMap: Map<string, Array<{ number: number; text: string; section: string }>>
   officeTheme?: boolean
   isFirstReading?: boolean
 }) {
@@ -393,16 +453,21 @@ function PracticeSectionBlock({
 
     case 'reading': {
       const illuminated = officeTheme && isFirstReading
+      const ref = section.reference
+      const bibleData = ref.type === 'bible' ? bibleMap.get(bibleKeyStr(ref)) : undefined
       const block =
-        section.reference.type === 'bible' ? (
+        ref.type === 'bible' ? (
           <BibleReadingBlock
-            reference={section.reference}
-            verses={readingData}
-            fallback={readingFallback}
+            reference={ref}
+            verses={bibleData?.verses}
+            fallback={bibleData?.fallback}
             illuminated={illuminated}
           />
         ) : (
-          <CccReadingBlock reference={section.reference} paragraphs={cccData} />
+          <CccReadingBlock
+            reference={ref}
+            paragraphs={cccMap.get(cccKeyStr({ start: ref.startParagraph, count: ref.count }))}
+          />
         )
       if (illuminated) {
         return (
@@ -441,9 +506,8 @@ function PracticeSectionBlock({
               key={`${s.type}-${i}`}
               section={s}
               psalmData={psalmData}
-              readingData={readingData}
-              readingFallback={readingFallback}
-              cccData={cccData}
+              bibleMap={bibleMap}
+              cccMap={cccMap}
               officeTheme={officeTheme}
             />
           )}

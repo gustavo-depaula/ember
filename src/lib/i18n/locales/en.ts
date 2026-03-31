@@ -491,6 +491,26 @@ export default {
     offering: 'Offering',
     incarnation: 'Incarnation',
     liturgy: 'Liturgy',
+    formation: 'Formation',
+    program: 'Programs',
+    devotion: 'Devotion',
+  },
+
+  program: {
+    dayOf: 'Day {{day}} of {{total}}',
+    begin: 'Begin Program',
+    beginWith: 'Begin on {{date}}',
+    complete: 'Program Complete',
+    completeMessage: 'You have completed the {{name}}!',
+    restart: 'Pray Again',
+    done: 'Done',
+    currentDay: 'Current Day',
+    completed: 'Completed',
+    upcoming: 'Upcoming',
+    missed: 'Missed',
+    durationDays: '{{count}}-day program',
+    durationMonths: '{{count}}-month devotion',
+    occurrenceOf: '{{occurrence}} of {{total}}',
   },
 
   common: {
