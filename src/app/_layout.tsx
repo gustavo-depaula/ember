@@ -33,7 +33,6 @@ import { rescheduleAllReminders, setupNotifications } from '@/lib/notifications'
 import { useBibleStore } from '@/stores/bibleStore'
 import { useCatechismStore } from '@/stores/catechismStore'
 import { usePreferencesStore } from '@/stores/preferencesStore'
-import { useThemeStore } from '@/stores/themeStore'
 
 SplashScreen.preventAutoHideAsync()
 
@@ -63,19 +62,17 @@ export default function RootLayout() {
   const { success: dbReady } = useDbInit()
 
   const systemScheme = useColorScheme()
-  const { preference, hydrated: themeHydrated, hydrate: hydrateTheme } = useThemeStore()
-  const { hydrated: prefsHydrated, hydrate: hydratePrefs } = usePreferencesStore()
+  const { theme: themePreference, hydrated: prefsHydrated, hydrate: hydratePrefs } = usePreferencesStore()
   const { hydrated: bibleHydrated, hydrate: hydrateBible } = useBibleStore()
   const { hydrated: catechismHydrated, hydrate: hydrateCatechism } = useCatechismStore()
 
   useEffect(() => {
     if (!dbReady) return
     // Hydrate all stores after DB is ready (they read from preferences table now)
-    hydrateTheme()
     hydratePrefs()
     hydrateBible()
     hydrateCatechism()
-  }, [dbReady, hydrateTheme, hydratePrefs, hydrateBible, hydrateCatechism])
+  }, [dbReady, hydratePrefs, hydrateBible, hydrateCatechism])
 
   const [seeded, setSeeded] = useState(false)
 
@@ -88,14 +85,7 @@ export default function RootLayout() {
     }
   }, [dbReady])
 
-  const ready =
-    fontsLoaded &&
-    themeHydrated &&
-    prefsHydrated &&
-    bibleHydrated &&
-    catechismHydrated &&
-    dbReady &&
-    seeded
+  const ready = fontsLoaded && prefsHydrated && bibleHydrated && catechismHydrated && dbReady && seeded
 
   useEffect(() => {
     if (ready) {
@@ -103,7 +93,7 @@ export default function RootLayout() {
     }
   }, [ready])
 
-  const resolvedTheme = preference === 'system' ? (systemScheme ?? 'light') : preference
+  const resolvedTheme = themePreference === 'system' ? (systemScheme ?? 'light') : themePreference
   const { themeName } = useLiturgicalTheme()
 
   if (!ready) return undefined

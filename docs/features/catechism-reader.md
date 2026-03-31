@@ -130,7 +130,7 @@ src/features/catechism/
 
 ## State
 
-### `catechismStore` (Zustand + AsyncStorage)
+### `catechismStore` (Zustand + SQLite preferences)
 
 ```typescript
 type CatechismState = {
@@ -141,7 +141,7 @@ type CatechismState = {
 }
 ```
 
-Persists the starting paragraph number of the current segment to AsyncStorage. Restored on next visit. On hydration, the segment containing that paragraph number is resolved from the precomputed segment index.
+Persists the starting paragraph number of the current segment to SQLite `preferences` table (`catechism-paragraph` key). Restored on next visit. On hydration, the segment containing that paragraph number is resolved from the precomputed segment index.
 
 ### Drawer State (local component state)
 

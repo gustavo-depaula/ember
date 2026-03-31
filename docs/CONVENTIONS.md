@@ -124,7 +124,7 @@ const psalter = {
 ```typescript
 import { GreenWall } from '@/components'
 import { getStreak } from '@/features/plan-of-life'
-import { usePracticeStore } from '@/stores/practiceStore'
+import { usePreferencesStore } from '@/stores/preferencesStore'
 ```
 
 ## Formatting (Biome)
@@ -141,14 +141,13 @@ import { usePracticeStore } from '@/stores/practiceStore'
 - **Zustand** with immer middleware for client state (mutate drafts):
 
 ```typescript
-export const usePracticeStore = create(
+export const usePreferencesStore = create(
   immer((set) => ({
-    logs: [] as PracticeLog[],
-    togglePractice: (id: string, date: string) =>
-      set((state) => {
-        const log = state.logs.find(l => l.practiceId === id && l.date === date)
-        if (log) log.completed = !log.completed
-      }),
+    language: 'en',
+    setLanguage: (language: string) => {
+      set((state) => { state.language = language })
+      setPreference('language', language)
+    },
   }))
 )
 ```
@@ -156,9 +155,9 @@ export const usePracticeStore = create(
 - **TanStack Query** for all async / DB reads:
 
 ```typescript
-const { data: logs, isLoading } = useQuery({
-  queryKey: ['practiceLogs', today],
-  queryFn: () => getDb().getAllAsync<PracticeLog>('SELECT * FROM practice_logs WHERE date = ?', [today]),
+const { data: completions, isLoading } = useQuery({
+  queryKey: ['completions', today],
+  queryFn: () => getCompletionsForDate(today),
 })
 ```
 

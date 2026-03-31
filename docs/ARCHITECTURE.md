@@ -168,11 +168,9 @@ Hydrated from `preferences` SQLite table. Includes: translation, language, litur
 ### `navigationStore` — ephemeral UI state
 Not persisted. Contains: selectedDate (shared across screens).
 
-### Thin wrappers (backward compat)
-- `themeStore` — reads/writes `theme` preference
+### Thin wrappers
 - `bibleStore` — reads/writes `bible-book`/`bible-chapter` preferences
 - `catechismStore` — reads/writes `catechism-paragraph` preference
-- `readingConfigStore` — re-export of `preferencesStore`
 
 ---
 
@@ -247,18 +245,16 @@ src/
     ...
     index.ts
   stores/
-    preferencesStore.ts     (consolidated: all preferences from SQLite)
+    preferencesStore.ts     (consolidated: all preferences from SQLite, including theme)
     navigationStore.ts      (ephemeral UI state)
-    bibleStore.ts           (thin wrapper)
-    catechismStore.ts       (thin wrapper)
-    themeStore.ts           (thin wrapper)
-    readingConfigStore.ts   (re-export)
+    bibleStore.ts           (thin wrapper: bible reading position)
+    catechismStore.ts       (thin wrapper: catechism reading position)
   db/
     schema.ts               (TypeScript types: UserPractice, Completion, Cursor, Preference)
     client.ts               (async DB init, migration runner, getDb())
     seed.ts                 (manifest-driven practice seeding)
     migrations/
-      0001_initial.sql ... 0008_data_model_v2.sql
+      0001_initial.sql
     repositories/
       practices.ts          (user_practices + completions queries)
       cursors.ts            (cursor CRUD + index advancement)

@@ -14,7 +14,7 @@ Implementation tasks for Ember MVP, ordered by dependency. Each phase builds on 
 - [x] Configure Tamagui (createTamagui config with Ember tokens, themes, fonts)
 - [x] Load custom fonts (UnifrakturMaguntia, Cinzel, EB Garamond, Pinyon Script) via expo-font
 - [x] Set up Expo Router file structure with Stack layout and home-as-hub navigation
-- [x] Implement dark/light/system theme switching via Tamagui themes with AsyncStorage persistence (themeStore.ts)
+- [x] Implement dark/light/system theme switching via Tamagui themes with SQLite persistence (preferencesStore.ts)
 - [x] Define Ember design tokens in Tamagui config (colors, typography, spacing, radii)
 - [x] Define Tamagui themes (light, dark, liturgical season sub-themes)
 - [x] Configure Reanimated + Tamagui babel plugins
@@ -35,18 +35,18 @@ Implementation tasks for Ember MVP, ordered by dependency. Each phase builds on 
 ## Phase 2: Database Layer (expo-sqlite) ✅
 
 - [x] Set up expo-sqlite async API (`src/db/client.ts`) with inline SQL migrations
-- [x] Define TypeScript row types in `src/db/schema.ts` — 6 tables (practices, practice_logs, reading_progress, daily_office, office_preferences, cached_translations)
+- [x] Define TypeScript row types in `src/db/schema.ts` — 5 tables (user_practices, completions, cursors, preferences, cached_translations)
 - [x] Seed 8 MVP practices on first launch (`src/db/seed.ts`)
 - [x] TanStack Query provider already in root layout (Phase 0), DB init + migration wired into `_layout.tsx`
 
 ## Phase 3: State & Data Layer ✅
 
-- [x] `usePracticeStore` (Zustand + immer) — client state for practice date selection
-- [x] `useOfficeStore` (Zustand + immer) — daily office date selection state
-- [x] `usePreferencesStore` (Zustand + immer) — translation, psalter cycle (bridges AsyncStorage)
-- [x] TanStack Query hooks for practice logs (query by date range for green wall, streak calc)
-- [x] TanStack Query hooks for reading progress (current position, advance chapter, mark books read)
-- [x] TanStack Query hooks for daily office (completion status per hour per day)
+- [x] `usePreferencesStore` (Zustand + immer) — all user preferences from SQLite preferences table
+- [x] `useNavigationStore` (Zustand + immer) — ephemeral UI state (selectedDate)
+- [x] `useBibleStore` / `useCatechismStore` — thin wrappers for reading positions
+- [x] TanStack Query hooks for completions (query by date range for green wall, streak calc)
+- [x] TanStack Query hooks for cursors (reading positions, track advancement)
+- [x] TanStack Query hooks for plan-of-life (practices CRUD, reordering, completion toggling)
 
 ## Phase 4: Design System Components ✅
 
