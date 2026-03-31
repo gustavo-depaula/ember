@@ -30,7 +30,8 @@
       "favicon": "./assets/favicon.png"
     },
     "experiments": {
-      "typedRoutes": true
+      "typedRoutes": true,
+      "baseUrl": "/ember"
     },
     "plugins": [
       "expo-router",
