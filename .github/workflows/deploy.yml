@@ -29,7 +29,18 @@ jobs:
 
       - run: pnpm install --frozen-lockfile
 
-      - run: pnpm expo export --platform web --no-ssg
+      - name: Warm up Metro bundler
+        run: |
+          timeout 120s pnpm expo start --web --port 8081 &
+          METRO_PID=$!
+          sleep 10
+          for i in 1 2 3 4 5; do
+            curl -s -o /dev/null http://localhost:8081 && break
+            sleep 15
+          done
+          kill $METRO_PID 2>/dev/null || true
+
+      - run: pnpm expo export --platform web
 
       - uses: actions/upload-pages-artifact@v3
         with:
