@@ -20,12 +20,15 @@ export function useReadingStyle() {
   const lineHeightStep = usePreferencesStore((s) => s.lineHeightStep)
   const textAlign = usePreferencesStore((s) => s.textAlign)
 
+  // iOS justify stretches letters within words — fall back to left alignment
+  const resolvedAlign = textAlign === 'justify' && Platform.OS === 'ios' ? 'left' : textAlign
+
   return {
     // Raw font family name — valid at runtime but not a Tamagui token
     fontFamily: getFontFamily(fontFamilyId) as '$body',
     fontSize: readingScale.fontSize[fontSizeStep - 1],
     lineHeight: readingScale.lineHeight[lineHeightStep - 1],
-    textAlign,
+    textAlign: resolvedAlign,
     ...(textAlign === 'justify' && Platform.OS === 'web' ? { style: webJustifyStyle } : {}),
   }
 }
