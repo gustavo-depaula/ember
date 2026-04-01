@@ -144,24 +144,41 @@ These are well-known prayers that don't need an external source — just bundle 
 
 ## Daily Mass Readings & Propers
 
-See `docs/features/daily-readings.md` for full research on data sources for daily Mass readings, collects, antiphons, and propers. Summary:
+*Research phase — not yet implemented in the app.*
+
+### What Changes Daily in the Mass
+
+**Readings:** First Reading, Responsorial Psalm, Second Reading (Sundays/Solemnities only), Gospel Acclamation, Gospel.
+
+**Propers:** Entrance Antiphon, Collect, Prayer over the Offerings, Preface, Communion Antiphon, Prayer after Communion.
+
+**Cycles:** Sundays use a 3-year rotation (A/B/C, determined by `year % 3`). Weekdays use a 2-year rotation (I/II, odd/even years, affecting First Reading only). Sanctoral cycle runs simultaneously — higher-ranked feasts override weekday readings.
 
 ### Missale Meum API (EF Complete Propers)
 
 - **Base URL:** `https://www.missalemeum.com/{lang}/api/v5/proper/{YYYY-MM-DD}`
-- **Docs:** https://www.missalemeum.com/docs
+- **Docs:** https://www.missalemeum.com/docs (Swagger) / https://www.missalemeum.com/redoc
 - **Auth:** None
 - **Cost:** Free, open source
 - **Content:** Complete daily Mass propers for the 1962 Missal — Introit, Collect, Epistle, Gradual, Gospel, Offertory, Secret, Preface, Communion Antiphon, Postcommunion. Bilingual Latin/English.
 - **Source data:** Divinum Officium
 
+**Response shape:** Array of proper objects. Each has `info` (id, title, colors, rank, date, commemorations) and `sections` (array of `{ id, label, body }` where `body` is `[english, latin]` pairs). Section IDs: `Introitus`, `Oratio`, `Lectio`, `Graduale`, `Tractus`, `Evangelium`, `Offertorium`, `Secreta`, `Prefatio`, `Communio`, `Postcommunio`, `Super populum`, and `Commemoratio` variants. Multiple propers returned when temporal and sanctoral celebrations overlap.
+
+**Other endpoints:** `GET /{lang}/api/v5/calendar/{year}` (liturgical calendar), `GET /{lang}/api/v5/ordo` (fixed texts), `GET /{lang}/api/v5/votive` (votive Mass list).
+
+**Verdict:** Perfect for EF. One API call per day gives everything.
+
 ### Catholic Readings API (OF Calendar + References)
 
 - **Readings:** `https://cpbjr.github.io/catholic-readings-api/readings/{YYYY}/{MM-DD}.json`
 - **Calendar:** `https://cpbjr.github.io/catholic-readings-api/liturgical-calendar/{YYYY}/{MM-DD}.json`
-- **Auth:** None (GitHub Pages)
+- **Auth:** None (GitHub Pages, CORS enabled)
 - **Cost:** Free, MIT license
+- **Coverage:** 2025-2026 data available
 - **Content:** Scripture references (not full text) + liturgical day metadata (season, celebration, feast type, saint info)
+
+**Quirks:** `psalm` field sometimes references non-psalm books (e.g., Jeremiah). Cross-chapter ranges use em-dash (—). `secondReading` absent on weekdays.
 
 ### Evangelizo.org (OF Full Reading Text)
 
@@ -170,10 +187,43 @@ See `docs/features/daily-readings.md` for full research on data sources for dail
 - **Cost:** Free
 - **Content:** Full text of daily Mass readings (First Reading, Psalm, Second Reading, Gospel) + saint commentary
 - **Languages:** AM (English), PT, FR, ES, and more
+- **Limitations:** Response may include HTML (needs stripping), date range ~30 days from current, no CORS (may need proxy for web)
+
+### Universalis (OF — Potentially Full Propers)
+
+Claims to provide full Mass readings AND propers (Collect, antiphons, etc.) via JSONP. Documentation vague and incomplete. Legacy JavaScript callback pattern. Worth investigating further but unreliable.
 
 ### OF Propers Gap
 
-No free API provides Ordinary Form collects, antiphons, or variable prayers in structured format. These are copyrighted by ICEL. Universalis (universalis.com) claims to offer them via JSONP but documentation is incomplete.
+No free API provides Ordinary Form collects, antiphons, or variable prayers in structured format. These are copyrighted by ICEL. Options: (1) accept the gap and show readings only; (2) investigate Universalis JSONP thoroughly; (3) look into ICEL licensing for non-commercial use; (4) use Latin texts from Divinum Officium with manual mapping.
+
+### Recommended Strategy
+
+| Form | Data | Source | Status |
+|------|------|--------|--------|
+| EF | All propers | Missale Meum API | Ready |
+| OF | Liturgical day info | Catholic Readings API | Ready |
+| OF | Reading text | Evangelizo.org | Needs format testing |
+| OF | USCCB link | Catholic Readings API | Ready |
+| OF | Collects, antiphons | **Gap — no free source** | Blocked by ICEL copyright |
+
+### Slot Mapping
+
+| Mass JSON slot | EF API section ID | OF source |
+|---------------|-------------------|-----------|
+| `introit` | `Introitus` | Gap |
+| `collect` | `Oratio` | Gap |
+| `first-reading` | `Lectio` | Evangelizo |
+| `responsorial-psalm` | `Graduale` | Evangelizo |
+| `second-reading` | (varies) | Evangelizo (Sundays) |
+| `gospel-acclamation` | `Tractus` (Lent) | Gap |
+| `gospel` | `Evangelium` | Evangelizo |
+| `offertory` | `Offertorium` | Gap |
+| `prayer-over-offerings` | `Secreta` | Gap |
+| `communion-antiphon` | `Communio` | Gap |
+| `prayer-after-communion` | `Postcommunio` | Gap |
+
+Cache API responses per date in SQLite (Mass propers never change). Consider pre-fetching upcoming week for offline reliability.
 
 ---
 

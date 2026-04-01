@@ -33,9 +33,8 @@ See `docs/README.md` for the full mission, roadmap, and what's built.
 - `docs/CONVENTIONS.md` — code style guide (READ THIS FIRST)
 - `docs/design/design-system.md` — colors, typography, layout, Tamagui config
 - `docs/content/content-sources.md` — Bible APIs, CCC, hymn sources, licensing
-- `docs/tasks.md` — implementation phases and task checklist
 - `docs/journal.md` — dev journal (accumulated learnings)
-- `docs/features/*.md` — feature specs (plan-of-life, divine-office, bible-reader, catechism-reader, mass, daily-readings, reading-config, i18n)
+- `docs/features/features-overview.md` — domain knowledge, design rationale, capabilities for all features
 
 ## Code Style (Quick Reference)
 
@@ -81,4 +80,4 @@ pnpm biome check --write .  # format + lint
 - DB types defined in `src/db/schema.ts`, migrations in `src/db/migrations/*.sql`, applied via `src/db/client.ts`
 - DB queries encapsulated in `src/db/repositories/` (office.ts, practices.ts)
 - Bible text: bundled Douay-Rheims JSON for offline, Bolls.life API for other translations (cached in SQLite)
-- 30-day DWDO psalter cycle (see `docs/features/divine-office.md` for the full table)
+- 30-day DWDO psalter cycle (see `docs/features/features-overview.md` for the full table)

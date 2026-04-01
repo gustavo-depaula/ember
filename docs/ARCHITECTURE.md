@@ -25,19 +25,19 @@
 ## Screen Map
 
 ```
-/                       -> Home (greeting, time-block practice checklist, green wall, navigation medallions)
-/plan/                  -> Plan of Life (green wall overview + stats + practice checklist)
-/plan/[practiceId]      -> Individual practice detail with its own green wall + stats
-/plan/settings          -> Customize practices (add/edit/delete, tier grouping)
-/pray/[practiceId]      -> Prayer Flow (shared practice player)
-/pray/[practiceId]?hour=... -> Prayer Flow for specific hour (office)
-/practices/             -> Practice catalog (browse all available practices)
-/practices/[manifestId] -> Practice catalog detail
-/bible/                 -> Bible reader
-/catechism/             -> Catechism reader
-/mass                   -> Ordo Missae (static reference, OF/EF toggle, bilingual prayers)
-/calendar               -> Liturgical calendar
-/settings/              -> Settings (reading config, translation picker, theme toggle)
+/                                    -> Home (greeting, time-block checklist, green wall, navigation medallions)
+/plan/                               -> Plan of Life (green wall overview + stats + practice checklist)
+/plan/[practiceId]                   -> Individual practice detail (green wall + stats)
+/pray/[practiceId]                   -> Prayer Flow (shared practice player)
+/pray/[practiceId]?hour=...          -> Prayer Flow for specific hour (office)
+/practices/                          -> Practice catalog (browse all available practices)
+/practices/[manifestId]              -> Practice catalog detail
+/practices/[manifestId]/program      -> Program detail (day navigation for novenas, etc.)
+/bible/                              -> Bible reader
+/catechism/                          -> Catechism reader
+/calendar/                           -> Liturgical calendar
+/saints/                             -> Saints feed (daily saints and commemorations)
+/settings/                           -> Settings (reading config, translation picker, theme toggle)
 ```
 
 **Stack navigation** with home-as-hub: NavigationMedallion buttons on home screen, BackToHome on sub-screens
@@ -46,80 +46,19 @@
 
 ## Data Model (V2 — 4-table schema)
 
-All data in SQLite. No AsyncStorage.
+All data in SQLite. No AsyncStorage. Manifests define content, the DB stores only user data.
 
-### `user_practices` — user's plan-of-life configuration
+| Table | Purpose |
+|-------|---------|
+| `user_practices` | Plan-of-life configuration (tier, time block, schedule as JSON, variant) |
+| `completions` | Event log with `sub_id` for multi-hour/multi-day detail |
+| `cursors` | Schemaless JSON reading positions (Divine Office tracks, Bible, programs) |
+| `preferences` | KV store for all user settings |
+| `cached_translations` | Offline cache for online Bible translations |
 
-```sql
-CREATE TABLE user_practices (
-  practice_id  TEXT PRIMARY KEY,
-  enabled      INTEGER NOT NULL DEFAULT 0,
-  sort_order   INTEGER NOT NULL,
-  tier         TEXT NOT NULL DEFAULT 'essential',   -- essential | ideal | extra
-  time_block   TEXT NOT NULL DEFAULT 'flexible',    -- morning | daytime | evening | flexible
-  schedule     TEXT NOT NULL DEFAULT '{"type":"daily"}',  -- JSON Schedule
-  variant      TEXT,
-  custom_name  TEXT,    -- only for user-created practices
-  custom_icon  TEXT,
-  custom_desc  TEXT
-);
-```
+Schedule is a discriminated union JSON field supporting 6 types: `daily`, `days-of-week`, `day-of-month`, `nth-weekday`, `times-per`, `fixed-program`. Any schedule can be season-gated.
 
-Content metadata (name, icon, description) comes from `src/content/practices/*/manifest.json` at runtime. Only user-created practices use the `custom_*` columns.
-
-### `completions` — event log
-
-```sql
-CREATE TABLE completions (
-  id           INTEGER PRIMARY KEY AUTOINCREMENT,
-  practice_id  TEXT NOT NULL,
-  sub_id       TEXT,           -- 'morning'/'evening'/'compline' for multi-hour; null for simple
-  date         TEXT NOT NULL,
-  completed_at INTEGER NOT NULL
-);
-```
-
-### `cursors` — reading position bookmarks
-
-```sql
-CREATE TABLE cursors (
-  id         TEXT PRIMARY KEY,     -- 'divine-office/ot-readings', 'bible/position', etc.
-  position   TEXT NOT NULL,        -- JSON: shape defined by consumer
-  started_at TEXT NOT NULL
-);
-```
-
-### `preferences` — all user settings (KV store)
-
-```sql
-CREATE TABLE preferences (
-  key   TEXT PRIMARY KEY,
-  value TEXT NOT NULL
-);
-```
-
-### `cached_translations` — Bible translation cache (unchanged)
-
-### Schedule Model
-
-Single JSON field in `user_practices.schedule`. Discriminated union:
-
-```typescript
-type Schedule = ScheduleRule & {
-  seasons?: LiturgicalSeason[]
-  notify?: Notification[]
-}
-
-type ScheduleRule =
-  | { type: 'daily' }
-  | { type: 'days-of-week', days: number[] }
-  | { type: 'day-of-month', days: number[] }
-  | { type: 'nth-weekday', n: number, day: number }
-  | { type: 'times-per', count: number, period: 'week' | 'month' }
-  | { type: 'fixed-program', totalDays: number, startDate: string }
-```
-
-See `docs/features/data-model-v2.md` for the complete spec.
+See [features-overview.md](features/features-overview.md#data-model-v2) for full schema, design rationale, and schedule types.
 
 ---
 
@@ -185,18 +124,27 @@ src/
       _layout.tsx
       index.tsx           (Plan of Life)
       [practiceId].tsx    (Practice detail)
-      settings.tsx        (Customize practices)
     pray/
+      _layout.tsx
       [practiceId].tsx    (Prayer flow player)
     practices/
+      _layout.tsx
       index.tsx           (Practice catalog)
-      [manifestId].tsx    (Catalog detail)
+      [manifestId]/
+        _layout.tsx
+        index.tsx         (Catalog detail)
+        program.tsx       (Program day navigation)
     bible/
       _layout.tsx
       index.tsx           (Bible reader)
     catechism/
       _layout.tsx
       index.tsx           (Catechism reader)
+    calendar/
+      index.tsx           (Liturgical calendar)
+    saints/
+      _layout.tsx
+      index.tsx           (Saints feed)
     settings/
       _layout.tsx
       index.tsx           (Settings hub)
