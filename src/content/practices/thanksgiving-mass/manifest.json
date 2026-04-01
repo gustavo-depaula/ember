@@ -1,0 +1,30 @@
+{
+  "id": "thanksgiving-mass",
+  "name": { "en": "Thanksgiving After Mass", "pt-BR": "Ação de Graças após a Missa" },
+  "categories": ["eucharist", "devotion", "mass"],
+  "estimatedMinutes": 10,
+  "description": {
+    "en": "Prayers of gratitude and adoration prayed after receiving Holy Communion. The moments after Mass are among the most precious of the spiritual life, when Christ is truly present within us.",
+    "pt-BR": "Orações de gratidão e adoração rezadas após receber a Sagrada Comunhão. Os momentos após a Missa estão entre os mais preciosos da vida espiritual, quando Cristo está verdadeiramente presente em nós."
+  },
+  "history": {
+    "en": "The Church has always encouraged prayers of thanksgiving after Holy Communion. The Anima Christi, the prayer to Jesus in the Tabernacle, and acts of love and adoration have been traditional post-communion prayers since the Middle Ages. Saints like St. Thomas Aquinas composed prayers that have been prayed for centuries.",
+    "pt-BR": "A Igreja sempre encorajou orações de ação de graças após a Sagrada Comunhão. A Anima Christi, a oração a Jesus no Tabernáculo e atos de amor e adoração têm sido orações pós-comunhão tradicionais desde a Idade Média. Santos como Santo Tomás de Aquino compuseram orações rezadas por séculos."
+  },
+  "howToPray": {
+    "en": "Pray these prayers immediately after Mass, remaining in your pew or kneeling in a quiet place. The first minutes after receiving Holy Communion are a uniquely privileged time for intimate conversation with Christ.",
+    "pt-BR": "Reze estas orações imediatamente após a Missa, permanecendo em seu banco ou ajoelhado em um lugar tranquilo. Os primeiros minutos após receber a Sagrada Comunhão são um tempo singularmente privilegiado para uma conversa íntima com Cristo."
+  },
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "flows": [
+    { "id": "default", "name": { "en": "Thanksgiving After Mass", "pt-BR": "Ação de Graças" }, "file": "flow.json" }
+  ],
+  "tags": ["eucharist", "communion", "thanksgiving", "post-mass"],
+  "defaults": {
+    "sortOrder": 31,
+    "slots": [
+      { "flowId": "default", "schedule": { "type": "daily" }, "tier": "extra", "enabled": false }
+    ]
+  }
+}

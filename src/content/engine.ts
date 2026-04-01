@@ -1,9 +1,14 @@
 import { getDate, getDay } from 'date-fns'
+import actOfCharity from '@/assets/prayers/act-of-charity.json'
 import actOfContrition from '@/assets/prayers/act-of-contrition.json'
+import actOfFaith from '@/assets/prayers/act-of-faith.json'
+import actOfHope from '@/assets/prayers/act-of-hope.json'
 import animaChristi from '@/assets/prayers/anima-christi.json'
 import apostlesCreed from '@/assets/prayers/apostles-creed.json'
 import benedictus from '@/assets/prayers/benedictus.json'
 import comeHolySpirit from '@/assets/prayers/come-holy-spirit.json'
+import graceAfterMeals from '@/assets/prayers/grace-after-meals.json'
+import graceBeforeMeals from '@/assets/prayers/grace-before-meals.json'
 import divineMercyResponse from '@/assets/prayers/divine-mercy-response.json'
 import eternalFather from '@/assets/prayers/eternal-father.json'
 import fatimaPrayer from '@/assets/prayers/fatima-prayer.json'
@@ -27,6 +32,7 @@ import type {
   FlowSection,
   LectioTrackDef,
   LocalizedBilingualText,
+  LocalizedText,
   RenderedSection,
   Variant,
   VariantEntry,
@@ -55,8 +61,13 @@ const prayerRefs: Record<string, PrayerAsset> = {
   'divine-mercy-response': divineMercyResponse,
   'holy-god': holyGod,
   'act-of-contrition': actOfContrition,
+  'act-of-faith': actOfFaith,
+  'act-of-hope': actOfHope,
+  'act-of-charity': actOfCharity,
   'anima-christi': animaChristi,
   'come-holy-spirit': comeHolySpirit,
+  'grace-before-meals': graceBeforeMeals,
+  'grace-after-meals': graceAfterMeals,
 }
 
 const canticleRefs: Record<string, CanticleAsset> = {
@@ -74,6 +85,7 @@ export type FlowContext = {
   trackState?: Record<string, { current_index: number }>
   cycleData?: Record<string, CycleData>
   setKeyOverride?: string
+  programDay?: number
 }
 
 const ordinalsEn = [
@@ -263,7 +275,8 @@ function resolveRepeat(
   return sections
 }
 
-function getCycleIndex(indexBy: string, date: Date, length: number): number {
+function getCycleIndex(indexBy: string, date: Date, length: number, context: FlowContext): number {
+  if (indexBy === 'program-day') return (context.programDay ?? 0) % length
   if (indexBy === 'day-of-month') return (getDate(date) - 1) % length
   if (indexBy === 'day-of-week') return getDay(date)
   if (indexBy === 'fixed') return 0
@@ -374,10 +387,22 @@ function resolveSection(section: FlowSection, context: FlowContext): RenderedSec
       ) as unknown[]
       if (!entries?.length) return []
 
-      const index = getCycleIndex(cycleData.indexBy, context.date, entries.length)
+      const index = getCycleIndex(cycleData.indexBy, context.date, entries.length, context)
       const entry = entries[index]
-      const raw = section.key ? (entry as Record<string, unknown>)[section.key] : entry
 
+      if (section.as === 'template' && section.sections) {
+        const entryObj = entry as Record<string, string | LocalizedText | undefined>
+        const vars: Record<string, string | undefined> = {}
+        for (const [k, v] of Object.entries(entryObj)) {
+          vars[k] = typeof v === 'object' && v !== null && 'en' in v ? localizeContent(v) : v
+        }
+        return section.sections.flatMap((s) => {
+          const substituted = substituteInFlowSection(s, vars)
+          return resolveSection(substituted, context)
+        })
+      }
+
+      const raw = section.key ? (entry as Record<string, unknown>)[section.key] : entry
       return mapCycleOutput(section.as, raw)
     }
 

@@ -1,0 +1,9 @@
+{
+  "sections": [
+    { "type": "prayer", "ref": "sign-of-cross" },
+    { "type": "divider" },
+    { "type": "prayer", "ref": "anima-christi" },
+    { "type": "divider" },
+    { "type": "prayer", "ref": "sign-of-cross" }
+  ]
+}

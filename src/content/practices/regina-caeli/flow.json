@@ -1,0 +1,34 @@
+{
+  "sections": [
+    { "type": "prayer", "ref": "sign-of-cross" },
+    { "type": "divider" },
+    {
+      "type": "prayer",
+      "inline": {
+        "en": "Queen of Heaven, rejoice, alleluia:\nFor He whom thou wast made worthy to bear, alleluia,\nIs risen, as He said, alleluia.\nPray for us to God, alleluia.",
+        "latin": "Regina Caeli, laetare, alleluia:\nQia quem meruisti portare, alleluia,\nResurrexit, sicut dixit, alleluia.\nOra pro nobis Deum, alleluia.",
+        "pt-BR": "Rainha do Céu, alegra-te, aleluia:\nPois aquele que mereceste trazer no teu seio, aleluia,\nRessuscitou como disse, aleluia.\nRoga por nós a Deus, aleluia."
+      }
+    },
+    { "type": "divider" },
+    {
+      "type": "response",
+      "verses": [
+        {
+          "v": { "en": "Rejoice and be glad, O Virgin Mary, alleluia.", "pt-BR": "Alegra-te e exulta, Virgem Maria, aleluia." },
+          "r": { "en": "For the Lord is truly risen, alleluia.", "pt-BR": "Porque o Senhor ressuscitou verdadeiramente, aleluia." }
+        }
+      ]
+    },
+    { "type": "divider" },
+    { "type": "rubric", "text": { "en": "Let us pray.", "pt-BR": "Oremos." } },
+    {
+      "type": "prayer",
+      "inline": {
+        "en": "O God, who gave joy to the world through the resurrection of Thy Son, our Lord Jesus Christ, grant, we beseech Thee, that through His Mother, the Virgin Mary, we may obtain the joys of everlasting life. Through the same Christ our Lord. Amen.",
+        "latin": "Deus, qui per resurrectionem Filii tui, Domini nostri Iesu Christi, mundum laetificare dignatus es: praesta, quaesumus; ut per eius Genetricem Virginem Mariam, perpetuae capiamus gaudia vitae. Per eundem Christum Dominum nostrum. Amen.",
+        "pt-BR": "Ó Deus, que pela ressurreição de Vosso Filho, Nosso Senhor Jesus Cristo, destes alegria ao mundo inteiro, concedei-nos, por intercessão de Sua Mãe, a Virgem Maria, alcançar a alegria da vida eterna. Pelo mesmo Cristo Nosso Senhor. Amém."
+      }
+    }
+  ]
+}

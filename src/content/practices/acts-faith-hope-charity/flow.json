@@ -1,0 +1,11 @@
+{
+  "sections": [
+    { "type": "prayer", "ref": "sign-of-cross" },
+    { "type": "divider" },
+    { "type": "prayer", "ref": "act-of-faith" },
+    { "type": "divider" },
+    { "type": "prayer", "ref": "act-of-hope" },
+    { "type": "divider" },
+    { "type": "prayer", "ref": "act-of-charity" }
+  ]
+}

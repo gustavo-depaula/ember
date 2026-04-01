@@ -1,0 +1,39 @@
+{
+  "sections": [
+    { "type": "prayer", "ref": "sign-of-cross" },
+    { "type": "divider" },
+    {
+      "type": "prayer",
+      "inline": {
+        "en": "In the Name of the Father, and of the Son, and of the Holy Ghost. Amen.\n\nMost glorious Prince of the Heavenly Armies, Saint Michael the Archangel; defend us in our battle against principalities and powers, against the rulers of this world of darkness, against the spirits of wickedness in the high places. Come to the assistance of men whom God has created to His likeness and whom He has redeemed at a great price from the tyranny of the devil.\n\nHoly Church venerates thee as her guardian and protector; to thee the Lord has entrusted the souls of the redeemed to be led into heaven. Pray, therefore, the God of Peace to put Satan under our feet, so completely subdued that he may no longer be able to hold men captive and harm the Church. Offer our prayers in the sight of the Most High, so that the mercies of the Lord may quickly come to our aid, that thou mayest seize the dragon, the ancient serpent, who is the devil and Satan, and that having bound him, thou mayest cast him into the bottomless pit, that he may no more seduce the nations.",
+        "pt-BR": "Em nome do Pai, do Filho e do Espírito Santo. Amém.\n\nGloriosíssimo Príncipe dos Exércitos Celestiais, São Miguel Arcanjo; defendei-nos em nosso combate contra principados e potestades, contra os príncipes das trevas deste século, contra os espíritos de maldade nos lugares celestiais. Vinde em auxílio dos homens que Deus criou à Sua semelhança e que remiu a grande preço da tirania do demônio.\n\nA Santa Igreja te venera como seu guardião e protetor; a ti o Senhor confiou as almas dos remidos para serem conduzidas ao paraíso. Rogai, portanto, ao Deus da Paz que ponha Satanás sob nossos pés, tão completamente subjugado que não possa mais reter os homens em seu cativeiro e prejudicar a Igreja. Apresentai ao Altíssimo as nossas preces para que as misericórdias do Senhor venham rapidamente em nosso auxílio; para que tu agarres o dragão, a antiga serpente, que é o diabo e Satanás, e o acorrentando, o precipites no abismo, para que não possa mais seduzir as nações."
+      }
+    },
+    { "type": "divider" },
+    {
+      "type": "response",
+      "verses": [
+        {
+          "v": { "en": "Behold the Cross of the Lord; flee ye hostile powers.", "pt-BR": "Eis a Cruz do Senhor; fugi, potências adversas." },
+          "r": { "en": "The Lion of the tribe of Judah, the Root of David, hath conquered.", "pt-BR": "Venceu o Leão da tribo de Judá, a Raiz de Davi." }
+        },
+        {
+          "v": { "en": "May Thy mercy, O Lord, be upon us.", "pt-BR": "Que a Vossa misericórdia, Senhor, esteja sobre nós." },
+          "r": { "en": "As we have hoped in Thee.", "pt-BR": "Assim como esperamos em Vós." }
+        },
+        {
+          "v": { "en": "O Lord, hear my prayer.", "pt-BR": "Senhor, escutai a minha oração." },
+          "r": { "en": "And let my cry come unto Thee.", "pt-BR": "E chegue a Vós o meu clamor." }
+        }
+      ]
+    },
+    { "type": "rubric", "text": { "en": "Let us pray.", "pt-BR": "Oremos." } },
+    {
+      "type": "prayer",
+      "inline": {
+        "en": "O God, the Father of our Lord Jesus Christ, we call upon Thy holy Name, and as supplicants we implore Thy clemency, that by the intercession of Mary, ever Virgin Immaculate and our Mother, and of the glorious Archangel Saint Michael, Thou wouldst deign to help us against Satan and all other unclean spirits, who wander about the world for the injury of the human race and the ruin of souls. Amen.",
+        "pt-BR": "Ó Deus, Pai de Nosso Senhor Jesus Cristo, invocamos o Vosso santo Nome e como suplicantes imploramos a Vossa clemência para que, pela intercessão de Maria, sempre Virgem Imaculada e Nossa Mãe, e do glorioso Arcanjo São Miguel, digneis ajudar-nos contra Satanás e todos os outros espíritos imundos que vagueiam pelo mundo para dano do gênero humano e perdição das almas. Amém."
+      }
+    }
+  ]
+}

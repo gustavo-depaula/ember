@@ -1,0 +1,52 @@
+{
+  "sections": [
+    { "type": "prayer", "ref": "sign-of-cross" },
+    {
+      "type": "heading",
+      "text": {
+        "en": "Novena to the Sacred Heart of Jesus",
+        "pt-BR": "Novena ao Sagrado Coração de Jesus"
+      }
+    },
+    {
+      "type": "cycle",
+      "data": "novena-days",
+      "as": "template",
+      "sections": [
+        {
+          "type": "subheading",
+          "text": { "en": "{{dayTitle}}" }
+        },
+        {
+          "type": "meditation",
+          "text": { "en": "{{meditation}}" }
+        },
+        { "type": "divider" },
+        {
+          "type": "rubric",
+          "text": { "en": "{{intention}}" }
+        }
+      ]
+    },
+    { "type": "divider" },
+    {
+      "type": "rubric",
+      "text": {
+        "en": "Pray one Our Father, one Hail Mary, and one Glory Be.",
+        "pt-BR": "Reze um Pai Nosso, uma Ave Maria e um Glória ao Pai."
+      }
+    },
+    { "type": "prayer", "ref": "our-father" },
+    { "type": "prayer", "ref": "hail-mary" },
+    { "type": "prayer", "ref": "glory-be" },
+    { "type": "divider" },
+    {
+      "type": "prayer",
+      "inline": {
+        "en": "O Sacred Heart of Jesus, I place all my trust in You. Most Sacred Heart of Jesus, have mercy on us. Sacred Heart of Jesus, I believe in Your love for me. Amen.",
+        "pt-BR": "Ó Sagrado Coração de Jesus, em Vós deposito toda a minha confiança. Sacratíssimo Coração de Jesus, tende piedade de nós. Sagrado Coração de Jesus, eu creio no Vosso amor por mim. Amém."
+      }
+    },
+    { "type": "prayer", "ref": "sign-of-cross" }
+  ]
+}

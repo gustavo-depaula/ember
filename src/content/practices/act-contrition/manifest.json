@@ -1,0 +1,50 @@
+{
+  "id": "act-contrition",
+  "name": { "en": "Act of Contrition", "pt-BR": "Ato de Contrição" },
+  "categories": ["daily", "devotion", "penance"],
+  "estimatedMinutes": 2,
+  "description": {
+    "en": "A prayer expressing sorrow for sin and firm purpose of amendment. The Act of Contrition may be prayed at any time, especially before sleep, before confession, or whenever one has offended God.",
+    "pt-BR": "Uma oração expressando arrependimento pelo pecado e propósito firme de emenda. O Ato de Contrição pode ser rezado a qualquer momento, especialmente antes de dormir, antes da confissão ou quando se ofendeu a Deus."
+  },
+  "history": {
+    "en": "Acts of contrition have been part of Catholic prayer since the earliest centuries. The traditional long form developed in the medieval period. An Act of Perfect Contrition — sorrow arising from love of God rather than fear of punishment — remits even mortal sin when sacramental confession is impossible, provided the intention to confess remains.",
+    "pt-BR": "Os atos de contrição fazem parte da oração católica desde os primeiros séculos. A forma longa tradicional se desenvolveu no período medieval. Um Ato de Contrição Perfeita — arrependimento nascido do amor de Deus em vez do medo da punição — remite até o pecado mortal quando a confissão sacramental é impossível, desde que permaneça a intenção de se confessar."
+  },
+  "howToPray": {
+    "en": "Choose the form that suits you. The traditional form is the most complete. The short form is ideal for quick recollection throughout the day. The perfect contrition form is especially valuable in emergencies when confession is not possible.",
+    "pt-BR": "Escolha a forma que lhe convém. A forma tradicional é a mais completa. A forma curta é ideal para uma rápida recordação ao longo do dia. A forma de contrição perfeita é especialmente valiosa em emergências quando a confissão não é possível."
+  },
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "flows": [
+    { "id": "default", "name": { "en": "Act of Contrition", "pt-BR": "Ato de Contrição" }, "file": "flow.json" }
+  ],
+  "variants": [
+    {
+      "id": "traditional",
+      "name": { "en": "Traditional", "pt-BR": "Tradicional" },
+      "description": { "en": "The classic long-form Act of Contrition", "pt-BR": "O Ato de Contrição clássico na forma longa" },
+      "file": "variants/traditional.json"
+    },
+    {
+      "id": "short",
+      "name": { "en": "Short Form", "pt-BR": "Forma Curta" },
+      "description": { "en": "A brief Act of Contrition for daily use", "pt-BR": "Um Ato de Contrição breve para uso diário" },
+      "file": "variants/short.json"
+    },
+    {
+      "id": "perfect",
+      "name": { "en": "Perfect Contrition", "pt-BR": "Contrição Perfeita" },
+      "description": { "en": "An act of perfect contrition, arising from love of God", "pt-BR": "Um ato de contrição perfeita, nascido do amor de Deus" },
+      "file": "variants/perfect.json"
+    }
+  ],
+  "tags": ["contrition", "penance", "forgiveness", "evening"],
+  "defaults": {
+    "sortOrder": 35,
+    "slots": [
+      { "flowId": "default", "schedule": { "type": "daily" }, "tier": "extra", "enabled": false }
+    ]
+  }
+}

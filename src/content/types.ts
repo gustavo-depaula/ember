@@ -10,7 +10,7 @@ export type LocalizedBilingualText = { en: string; latin?: string; 'pt-BR'?: str
 // --- Cycle Data (practice-owned static data files) ---
 
 export type CycleData = {
-  indexBy: 'day-of-month' | 'day-of-week' | 'fixed'
+  indexBy: 'day-of-month' | 'day-of-week' | 'fixed' | 'program-day'
   variantKey?: string
   entries: Record<string, unknown[]>
 }
@@ -40,6 +40,13 @@ export type SlotDefault = {
   enabled?: boolean
 }
 
+export type ProgramConfig = {
+  totalDays: number
+  perDayFlows?: string
+  progressPolicy: 'continue' | 'wait' | 'restart'
+  completionBehavior: 'auto-disable' | 'offer-restart' | 'keep'
+}
+
 export type PracticeManifest = {
   id: string
   name: LocalizedText
@@ -52,6 +59,7 @@ export type PracticeManifest = {
   howToPray: LocalizedText
   flowMode: 'scroll' | 'step'
   completion: 'flow-end' | 'manual'
+  program?: ProgramConfig
   theme?: 'office'
   data?: Record<string, string>
   tracks?: Record<string, string>
@@ -103,7 +111,7 @@ export type FlowSection =
       variable?: { source: 'variant'; key: string }
       sections: FlowSection[]
     }
-  | { type: 'cycle'; data: string; key?: string; as: string }
+  | { type: 'cycle'; data: string; key?: string; as: string; sections?: FlowSection[] }
   | { type: 'psalmody'; psalms: (number | string)[] }
   | { type: 'lectio'; track: string }
 

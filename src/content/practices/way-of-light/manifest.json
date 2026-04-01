@@ -1,0 +1,49 @@
+{
+  "id": "way-of-light",
+  "name": { "en": "Way of Light", "pt-BR": "Via Lucis" },
+  "categories": ["resurrection", "meditation", "easter"],
+  "estimatedMinutes": 30,
+  "description": {
+    "en": "The Way of Light (Via Lucis) meditates on the fourteen appearances and events from the Resurrection to Pentecost, walking with the Risen Christ from the empty tomb to the coming of the Holy Spirit. It is the joyful counterpart to the Way of the Cross, prayed during the Easter season.",
+    "pt-BR": "A Via Lucis medita sobre as quatorze aparições e eventos desde a Ressurreição até Pentecostes, caminhando com o Cristo Ressuscitado do túmulo vazio até a vinda do Espírito Santo. É a contrapartida alegre da Via Sacra, rezada durante o tempo pascal."
+  },
+  "history": {
+    "en": "The Way of Light was developed in the 20th century and received encouragement from Pope John Paul II, who prayed it in the Colosseum on Easter 1997. It mirrors the structure of the Stations of the Cross, but celebrates the Paschal Mystery in its fullness — not ending at Calvary, but at Pentecost.",
+    "pt-BR": "A Via Lucis foi desenvolvida no século XX e recebeu estímulo do Papa João Paulo II, que a rezou no Coliseu na Páscoa de 1997. Ela espelha a estrutura da Via Sacra, mas celebra o Mistério Pascal em sua plenitude — não terminando no Calvário, mas em Pentecostes."
+  },
+  "howToPray": {
+    "en": "At each station, announce the station, pray the versicle and response, read the meditation, then pray one Our Father, one Hail Mary, and one Glory Be. This devotion is especially fitting during the Easter season (from Easter Sunday to Pentecost).",
+    "pt-BR": "Em cada estação, anuncie a estação, reze o versículo e a resposta, leia a meditação, depois reze um Pai Nosso, uma Ave Maria e um Glória ao Pai. Esta devoção é especialmente adequada durante o tempo pascal (do Domingo de Páscoa a Pentecostes)."
+  },
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "flows": [
+    { "id": "default", "name": { "en": "Way of Light", "pt-BR": "Via Lucis" }, "file": "flow.json" }
+  ],
+  "variants": [
+    {
+      "id": "traditional",
+      "name": { "en": "Traditional Meditations", "pt-BR": "Meditações Tradicionais" },
+      "description": { "en": "Classic meditations on the Resurrection appearances", "pt-BR": "Meditações clássicas sobre as aparições da Ressurreição" },
+      "file": "variants/traditional.json"
+    },
+    {
+      "id": "scriptural",
+      "name": { "en": "Scriptural Meditations", "pt-BR": "Meditações Bíblicas" },
+      "description": { "en": "Scripture-based meditations for each station", "pt-BR": "Meditações baseadas nas Escrituras para cada estação" },
+      "file": "variants/scriptural.json"
+    }
+  ],
+  "tags": ["resurrection", "easter", "meditation", "pentecost", "via-lucis"],
+  "defaults": {
+    "sortOrder": 36,
+    "slots": [
+      {
+        "flowId": "default",
+        "schedule": { "type": "days-of-week", "days": [0], "seasons": ["easter"] },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

@@ -49,6 +49,7 @@ type PreferencesState = {
   setLiturgicalCalendar: (form: LiturgicalCalendarForm) => void
   setJurisdiction: (jurisdiction: string | undefined) => void
   setTimeTravelDate: (date: string | undefined) => void
+  setTimeTravelDateEphemeral: (date: string | undefined) => void
 
   // Theme setter
   setTheme: (theme: ThemePreference) => void
@@ -131,6 +132,12 @@ export const usePreferencesStore = create<PreferencesState>()(
       } else {
         removePreference('time-travel-date')
       }
+    },
+
+    setTimeTravelDateEphemeral: (date) => {
+      set((state) => {
+        state.timeTravelDate = date
+      })
     },
 
     setTheme: (theme) => {

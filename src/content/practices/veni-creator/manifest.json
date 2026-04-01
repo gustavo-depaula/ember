@@ -1,0 +1,30 @@
+{
+  "id": "veni-creator",
+  "name": { "en": "Veni Creator Spiritus", "pt-BR": "Veni Creator Spiritus" },
+  "categories": ["holy-spirit", "hymn", "devotion"],
+  "estimatedMinutes": 5,
+  "description": {
+    "en": "An ancient hymn invoking the Holy Spirit, sung by the Church at Pentecost, at the ordination of priests, and before any great undertaking. Its nine stanzas call upon the Spirit under seven traditional names.",
+    "pt-BR": "Um hino antigo invocando o Espírito Santo, cantado pela Igreja no Pentecostes, na ordenação de sacerdotes e antes de qualquer grande empreendimento. Suas nove estrofes invocam o Espírito sob sete nomes tradicionais."
+  },
+  "history": {
+    "en": "Attributed to Rabanus Maurus (9th century), the Veni Creator Spiritus has been used by the Church for over a thousand years. St. Thomas Aquinas, St. Teresa of Ávila, and countless scholars prayed it before study. It is prescribed in the Roman Rite for the feast of Pentecost and for ordinations.",
+    "pt-BR": "Atribuído a Rabano Mauro (século IX), o Veni Creator Spiritus tem sido usado pela Igreja por mais de mil anos. Santo Tomás de Aquino, Santa Teresa de Ávila e incontáveis estudiosos o rezavam antes do estudo. É prescrito no Rito Romano para a festa de Pentecostes e para ordenações."
+  },
+  "howToPray": {
+    "en": "Pray this hymn before any important work, study, or decision, opening your mind and heart to the guidance of the Holy Spirit. It may be sung or recited.",
+    "pt-BR": "Reze este hino antes de qualquer trabalho importante, estudo ou decisão, abrindo sua mente e coração à orientação do Espírito Santo. Pode ser cantado ou recitado."
+  },
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "flows": [
+    { "id": "default", "name": { "en": "Veni Creator Spiritus", "pt-BR": "Veni Creator Spiritus" }, "file": "flow.json" }
+  ],
+  "tags": ["holy-spirit", "pentecost", "hymn", "study", "ordination"],
+  "defaults": {
+    "sortOrder": 26,
+    "slots": [
+      { "flowId": "default", "schedule": { "type": "daily" }, "tier": "extra", "enabled": false }
+    ]
+  }
+}

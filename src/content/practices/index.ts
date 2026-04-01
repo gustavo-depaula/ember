@@ -1,7 +1,18 @@
 import { localizeContent } from '@/lib/i18n'
 import type { CycleData, FlowDefinition, LectioTrackDef, PracticeManifest, Variant } from '../types'
+import actConsecrationSacredHeartFlow from './act-consecration-sacred-heart/flow.json'
+import actConsecrationSacredHeartManifest from './act-consecration-sacred-heart/manifest.json'
+import actContritonFlow from './act-contrition/flow.json'
+import actContritonManifest from './act-contrition/manifest.json'
+import actContritonPerfect from './act-contrition/variants/perfect.json'
+import actContritonShort from './act-contrition/variants/short.json'
+import actContritonTraditional from './act-contrition/variants/traditional.json'
+import actsFaithHopeCharityFlow from './acts-faith-hope-charity/flow.json'
+import actsFaithHopeCharityManifest from './acts-faith-hope-charity/manifest.json'
 import angelusFlow from './angelus/flow.json'
 import angelusManifest from './angelus/manifest.json'
+import animaChristiFlow from './anima-christi/flow.json'
+import animaChristiManifest from './anima-christi/manifest.json'
 import bibleInYearCCC from './bible-catechism-in-year/data/ccc-reading.json'
 import bibleInYearNT from './bible-catechism-in-year/data/nt-reading.json'
 import bibleInYearOT from './bible-catechism-in-year/data/ot-reading.json'
@@ -28,10 +39,19 @@ import examinationManifest from './examination-of-conscience/manifest.json'
 import examinationBeatitudes from './examination-of-conscience/variants/beatitudes.json'
 import examinationIgantianExamen from './examination-of-conscience/variants/ignatian-examen.json'
 import examinationTenCommandments from './examination-of-conscience/variants/ten-commandments.json'
+import graceMealsAfter from './grace-meals/flows/after.json'
+import graceMealsBefore from './grace-meals/flows/before.json'
+import graceMealsManifest from './grace-meals/manifest.json'
 import guardianAngelFlow from './guardian-angel/flow.json'
 import guardianAngelManifest from './guardian-angel/manifest.json'
 import lectioDivinaFlow from './lectio-divina/flow.json'
 import lectioDivinaManifest from './lectio-divina/manifest.json'
+import litanyLorettoFlow from './litany-loreto/flow.json'
+import litanyLorettoManifest from './litany-loreto/manifest.json'
+import litanySacredHeartFlow from './litany-sacred-heart/flow.json'
+import litanySacredHeartManifest from './litany-sacred-heart/manifest.json'
+import litanySaintsFlow from './litany-saints/flow.json'
+import litanySaintsManifest from './litany-saints/manifest.json'
 import littleOfficeCompline from './little-office-bvm/flows/compline.json'
 import littleOfficeLauds from './little-office-bvm/flows/lauds.json'
 import littleOfficeMatins from './little-office-bvm/flows/matins.json'
@@ -51,20 +71,43 @@ import mentalPrayerManifest from './mental-prayer/manifest.json'
 import mentalPrayerCarmelite from './mental-prayer/variants/carmelite.json'
 import mentalPrayerIgantian from './mental-prayer/variants/ignatian.json'
 import mentalPrayerSimple from './mental-prayer/variants/simple.json'
+import miraculousMedalDays from './miraculous-medal-novena/data/days.json'
+import miraculousMedalFlow from './miraculous-medal-novena/flow.json'
+import miraculousMedalManifest from './miraculous-medal-novena/manifest.json'
 import morningOfferingFlow from './morning-offering/flow.json'
 import morningOfferingManifest from './morning-offering/manifest.json'
 import nightPrayerFlow from './night-prayer/flow.json'
 import nightPrayerManifest from './night-prayer/manifest.json'
+import novenaHolySpiritDays from './novena-holy-spirit/data/days.json'
+import novenaHolySpiritFlow from './novena-holy-spirit/flow.json'
+import novenaHolySpiritManifest from './novena-holy-spirit/manifest.json'
 import novenaSacredHeartDays from './novena-sacred-heart/data/days.json'
 import novenaSacredHeartFlow from './novena-sacred-heart/flow.json'
 import novenaSacredHeartManifest from './novena-sacred-heart/manifest.json'
+import prayerStJosephFlow from './prayer-st-joseph/flow.json'
+import prayerStJosephManifest from './prayer-st-joseph/manifest.json'
+import prayerStJosephBernardine from './prayer-st-joseph/variants/bernardine.json'
+import prayerStJosephTraditional from './prayer-st-joseph/variants/traditional.json'
+import prayerStMichaelLong from './prayer-st-michael/flows/long.json'
+import prayerStMichaelShort from './prayer-st-michael/flows/short.json'
+import prayerStMichaelManifest from './prayer-st-michael/manifest.json'
 import precesOpusDeiFlow from './preces-opus-dei/flow.json'
 import precesOpusDeiManifest from './preces-opus-dei/manifest.json'
+import reginaCaeliFlow from './regina-caeli/flow.json'
+import reginaCaeliManifest from './regina-caeli/manifest.json'
 import rosaryFlow from './rosary/flow.json'
 import rosaryManifest from './rosary/manifest.json'
 import rosaryMontfort from './rosary/variants/montfort.json'
 import rosaryScriptural from './rosary/variants/scriptural.json'
 import rosaryTraditional from './rosary/variants/traditional.json'
+import sevenSorrowsFlow from './seven-sorrows/flow.json'
+import sevenSorrowsManifest from './seven-sorrows/manifest.json'
+import sevenSorrowsScriptural from './seven-sorrows/variants/scriptural.json'
+import sevenSorrowsTraditional from './seven-sorrows/variants/traditional.json'
+import spiritualCommunionFlow from './spiritual-communion/flow.json'
+import spiritualCommunionManifest from './spiritual-communion/manifest.json'
+import spiritualCommunionAlphonsus from './spiritual-communion/variants/alphonsus.json'
+import spiritualCommunionTraditional from './spiritual-communion/variants/traditional.json'
 import spiritualReadingFlow from './spiritual-reading/flow.json'
 import spiritualReadingManifest from './spiritual-reading/manifest.json'
 import stationsCrossFlow from './stations-cross/flow.json'
@@ -73,11 +116,21 @@ import stationsFranciscan from './stations-cross/variants/franciscan.json'
 import stationsJpii from './stations-cross/variants/jpii.json'
 import stationsScriptural from './stations-cross/variants/scriptural.json'
 import stationsTraditional from './stations-cross/variants/traditional.json'
+import suscipeFlow from './suscipe/flow.json'
+import suscipeManifest from './suscipe/manifest.json'
+import thanksgivingMassFlow from './thanksgiving-mass/flow.json'
+import thanksgivingMassManifest from './thanksgiving-mass/manifest.json'
 import threeOclockFlow from './three-oclock-prayer/flow.json'
 import threeOclockManifest from './three-oclock-prayer/manifest.json'
+import veniCreatorFlow from './veni-creator/flow.json'
+import veniCreatorManifest from './veni-creator/manifest.json'
 import visitSacramentHolyHour from './visit-blessed-sacrament/flows/holy-hour.json'
 import visitSacramentShortVisit from './visit-blessed-sacrament/flows/short-visit.json'
 import visitSacramentManifest from './visit-blessed-sacrament/manifest.json'
+import wayOfLightFlow from './way-of-light/flow.json'
+import wayOfLightManifest from './way-of-light/manifest.json'
+import wayOfLightScriptural from './way-of-light/variants/scriptural.json'
+import wayOfLightTraditional from './way-of-light/variants/traditional.json'
 
 const manifests: Record<string, PracticeManifest> = {
   'morning-offering': morningOfferingManifest as PracticeManifest,
@@ -101,6 +154,25 @@ const manifests: Record<string, PracticeManifest> = {
   mass: massManifest as PracticeManifest,
   'bible-catechism-in-year': bibleInYearManifest as PracticeManifest,
   'novena-sacred-heart': novenaSacredHeartManifest as PracticeManifest,
+  'regina-caeli': reginaCaeliManifest as PracticeManifest,
+  'litany-loreto': litanyLorettoManifest as PracticeManifest,
+  'seven-sorrows': sevenSorrowsManifest as PracticeManifest,
+  'litany-sacred-heart': litanySacredHeartManifest as PracticeManifest,
+  'act-consecration-sacred-heart': actConsecrationSacredHeartManifest as PracticeManifest,
+  'veni-creator': veniCreatorManifest as PracticeManifest,
+  'prayer-st-michael': prayerStMichaelManifest as PracticeManifest,
+  'litany-saints': litanySaintsManifest as PracticeManifest,
+  'prayer-st-joseph': prayerStJosephManifest as PracticeManifest,
+  'spiritual-communion': spiritualCommunionManifest as PracticeManifest,
+  'thanksgiving-mass': thanksgivingMassManifest as PracticeManifest,
+  'grace-meals': graceMealsManifest as PracticeManifest,
+  'acts-faith-hope-charity': actsFaithHopeCharityManifest as PracticeManifest,
+  suscipe: suscipeManifest as PracticeManifest,
+  'act-contrition': actContritonManifest as PracticeManifest,
+  'way-of-light': wayOfLightManifest as PracticeManifest,
+  'anima-christi': animaChristiManifest as PracticeManifest,
+  'miraculous-medal-novena': miraculousMedalManifest as PracticeManifest,
+  'novena-holy-spirit': novenaHolySpiritManifest as PracticeManifest,
 }
 
 const flows: Record<string, FlowDefinition> = {
@@ -140,6 +212,27 @@ const flows: Record<string, FlowDefinition> = {
   'mass/extraordinary': massExtraordinary as FlowDefinition,
   'bible-catechism-in-year/default': bibleInYearFlow as FlowDefinition,
   'novena-sacred-heart/default': novenaSacredHeartFlow as FlowDefinition,
+  'regina-caeli/default': reginaCaeliFlow as FlowDefinition,
+  'litany-loreto/default': litanyLorettoFlow as FlowDefinition,
+  'seven-sorrows/default': sevenSorrowsFlow as FlowDefinition,
+  'litany-sacred-heart/default': litanySacredHeartFlow as FlowDefinition,
+  'act-consecration-sacred-heart/default': actConsecrationSacredHeartFlow as FlowDefinition,
+  'veni-creator/default': veniCreatorFlow as FlowDefinition,
+  'prayer-st-michael/short': prayerStMichaelShort as FlowDefinition,
+  'prayer-st-michael/long': prayerStMichaelLong as FlowDefinition,
+  'litany-saints/default': litanySaintsFlow as FlowDefinition,
+  'prayer-st-joseph/default': prayerStJosephFlow as FlowDefinition,
+  'spiritual-communion/default': spiritualCommunionFlow as FlowDefinition,
+  'thanksgiving-mass/default': thanksgivingMassFlow as FlowDefinition,
+  'grace-meals/before': graceMealsBefore as FlowDefinition,
+  'grace-meals/after': graceMealsAfter as FlowDefinition,
+  'acts-faith-hope-charity/default': actsFaithHopeCharityFlow as FlowDefinition,
+  'suscipe/default': suscipeFlow as FlowDefinition,
+  'act-contrition/default': actContritonFlow as FlowDefinition,
+  'way-of-light/default': wayOfLightFlow as FlowDefinition,
+  'anima-christi/default': animaChristiFlow as FlowDefinition,
+  'miraculous-medal-novena/default': miraculousMedalFlow as FlowDefinition,
+  'novena-holy-spirit/default': novenaHolySpiritFlow as FlowDefinition,
 }
 
 const variants: Record<string, Record<string, Variant>> = {
@@ -164,6 +257,27 @@ const variants: Record<string, Record<string, Variant>> = {
     'ten-commandments': examinationTenCommandments as Variant,
     beatitudes: examinationBeatitudes as Variant,
   },
+  'seven-sorrows': {
+    traditional: sevenSorrowsTraditional as Variant,
+    scriptural: sevenSorrowsScriptural as Variant,
+  },
+  'prayer-st-joseph': {
+    traditional: prayerStJosephTraditional as Variant,
+    bernardine: prayerStJosephBernardine as Variant,
+  },
+  'spiritual-communion': {
+    traditional: spiritualCommunionTraditional as Variant,
+    alphonsus: spiritualCommunionAlphonsus as Variant,
+  },
+  'act-contrition': {
+    traditional: actContritonTraditional as Variant,
+    short: actContritonShort as Variant,
+    perfect: actContritonPerfect as Variant,
+  },
+  'way-of-light': {
+    traditional: wayOfLightTraditional as Variant,
+    scriptural: wayOfLightScriptural as Variant,
+  },
 }
 
 const practiceData: Record<string, Record<string, CycleData>> = {
@@ -177,6 +291,12 @@ const practiceData: Record<string, Record<string, CycleData>> = {
   },
   'novena-sacred-heart': {
     'novena-days': novenaSacredHeartDays as unknown as CycleData,
+  },
+  'miraculous-medal-novena': {
+    'novena-days': miraculousMedalDays as unknown as CycleData,
+  },
+  'novena-holy-spirit': {
+    'novena-days': novenaHolySpiritDays as unknown as CycleData,
   },
 }
 
@@ -255,6 +375,25 @@ export function getManifestIconKey(manifestId: string): string {
     'lectio-divina': 'book',
     'bible-catechism-in-year': 'book',
     'novena-sacred-heart': 'sacred-heart',
+    'regina-caeli': 'mary',
+    'litany-loreto': 'mary',
+    'seven-sorrows': 'mary',
+    'litany-sacred-heart': 'sacred-heart',
+    'act-consecration-sacred-heart': 'sacred-heart',
+    'veni-creator': 'prayer',
+    'prayer-st-michael': 'angel',
+    'litany-saints': 'prayer',
+    'prayer-st-joseph': 'prayer',
+    'spiritual-communion': 'eucharist',
+    'thanksgiving-mass': 'eucharist',
+    'grace-meals': 'prayer',
+    'acts-faith-hope-charity': 'prayer',
+    suscipe: 'prayer',
+    'act-contrition': 'cross',
+    'way-of-light': 'cross',
+    'anima-christi': 'eucharist',
+    'miraculous-medal-novena': 'mary',
+    'novena-holy-spirit': 'prayer',
   }
   return map[manifestId] ?? 'prayer'
 }

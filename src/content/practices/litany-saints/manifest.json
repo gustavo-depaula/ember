@@ -1,0 +1,30 @@
+{
+  "id": "litany-saints",
+  "name": { "en": "Litany of All Saints", "pt-BR": "Ladainha de Todos os Santos" },
+  "categories": ["litany", "saints", "devotion"],
+  "estimatedMinutes": 10,
+  "description": {
+    "en": "The solemn Litany of the Saints, one of the most ancient prayers of the Church, calling upon God's mercy and the intercession of the angels, patriarchs, prophets, apostles, martyrs, confessors, and virgins.",
+    "pt-BR": "A solene Ladainha dos Santos, uma das orações mais antigas da Igreja, invocando a misericórdia de Deus e a intercessão dos anjos, patriarcas, profetas, apóstolos, mártires, confessores e virgens."
+  },
+  "history": {
+    "en": "The Litany of the Saints is among the oldest intercessory prayers of the Church, used in processions and on solemn occasions since the early centuries. It is sung at the Easter Vigil, at ordinations, and at religious professions. Pope Gregory the Great organized a great litanical procession in Rome in 590 to implore an end to the plague.",
+    "pt-BR": "A Ladainha dos Santos está entre as orações intercessórias mais antigas da Igreja, usada em procissões e ocasiões solenes desde os primeiros séculos. É cantada na Vigília Pascal, nas ordenações e nas profissões religiosas. O Papa Gregório Magno organizou uma grande procissão litânica em Roma em 590 para implorar o fim da peste."
+  },
+  "howToPray": {
+    "en": "Respond 'Pray for us' to each saint's name, and 'Deliver us, O Lord' or 'We beseech Thee, hear us' to the petitions. This prayer is especially fitting on the feast of All Saints (November 1) and in times of great need.",
+    "pt-BR": "Responda 'Rogai por nós' ao nome de cada santo, e 'Livrai-nos, Senhor' ou 'Ouvi-nos, Senhor' às petições. Esta oração é especialmente adequada na festa de Todos os Santos (1º de novembro) e em tempos de grande necessidade."
+  },
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "flows": [
+    { "id": "default", "name": { "en": "Litany of All Saints", "pt-BR": "Ladainha de Todos os Santos" }, "file": "flow.json" }
+  ],
+  "tags": ["litany", "saints", "all-saints", "intercession", "procession"],
+  "defaults": {
+    "sortOrder": 28,
+    "slots": [
+      { "flowId": "default", "schedule": { "type": "daily" }, "tier": "extra", "enabled": false }
+    ]
+  }
+}
