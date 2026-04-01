@@ -1,0 +1,31 @@
+{
+  "id": "prayer-st-michael",
+  "name": { "en": "Prayer to St. Michael", "pt-BR": "Oração a São Miguel Arcanjo" },
+  "categories": ["saints", "angels", "protection", "devotion"],
+  "estimatedMinutes": 3,
+  "description": {
+    "en": "Prayers invoking St. Michael the Archangel, the guardian of the Church and protector of souls. The short form is prayed after Low Mass; the long form is the prayer of exorcism composed by Pope Leo XIII after a vision.",
+    "pt-BR": "Orações invocando São Miguel Arcanjo, o guardião da Igreja e protetor das almas. A forma curta é rezada após a Missa rezada; a forma longa é a oração de exorcismo composta pelo Papa Leão XIII após uma visão."
+  },
+  "history": {
+    "en": "Pope Leo XIII composed the short prayer to St. Michael in 1886, ordering it recited after all Low Masses. According to tradition, he composed it after a vision of the coming trials of the Church. He later added the longer exorcism prayer in 1890. The short prayer was part of the Leonine Prayers until 1964.",
+    "pt-BR": "O Papa Leão XIII compôs a oração curta a São Miguel em 1886, ordenando que fosse recitada após todas as Missas rezadas. Segundo a tradição, ele a compôs após uma visão dos próximos provações da Igreja. Mais tarde, adicionou a oração de exorcismo mais longa em 1890. A oração curta fazia parte das Orações Leoninas até 1964."
+  },
+  "howToPray": {
+    "en": "The short form may be prayed daily, especially after Mass. The long form is used as a prayer of protection and spiritual combat.",
+    "pt-BR": "A forma curta pode ser rezada diariamente, especialmente após a Missa. A forma longa é usada como oração de proteção e combate espiritual."
+  },
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "flows": [
+    { "id": "short", "name": { "en": "Short Prayer", "pt-BR": "Oração Curta" }, "file": "flows/short.json" },
+    { "id": "long", "name": { "en": "Exorcism Prayer (Leo XIII)", "pt-BR": "Oração de Exorcismo (Leão XIII)" }, "file": "flows/long.json" }
+  ],
+  "tags": ["michael", "archangel", "protection", "spiritual-combat", "leo-xiii"],
+  "defaults": {
+    "sortOrder": 27,
+    "slots": [
+      { "flowId": "short", "schedule": { "type": "daily" }, "tier": "extra", "enabled": false }
+    ]
+  }
+}

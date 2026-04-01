@@ -1,0 +1,57 @@
+{
+  "id": "scriptural",
+  "name": { "en": "Scriptural Meditations", "pt-BR": "Meditações Bíblicas" },
+  "data": {
+    "sorrow": [
+      {
+        "name": { "en": "The Prophecy of Simeon", "pt-BR": "A Profecia de Simeão" },
+        "meditation": {
+          "en": "Simeon said to Mary: 'This child is destined to be the downfall and rise of many in Israel, a sign that will be opposed — and you yourself shall be pierced with a sword.' (Lk 2:34-35) From the very beginning, Mary's vocation as Mother was inseparable from sorrow. She received this word into her heart and kept it.",
+          "pt-BR": "Simeão disse a Maria: 'Este menino está destinado a ser causa de queda e de soerguimento para muitos em Israel, e será sinal de contradição — e a ti mesma uma espada traspassará a alma.' (Lc 2,34-35) Desde o início, a vocação de Maria como Mãe era inseparável da dor. Ela recebeu esta palavra em seu coração e a guardou."
+        }
+      },
+      {
+        "name": { "en": "The Flight into Egypt", "pt-BR": "A Fuga para o Egito" },
+        "meditation": {
+          "en": "The angel of the Lord appeared to Joseph in a dream: 'Get up, take the child and His mother, and flee to Egypt' (Mt 2:13). The Holy Family became refugees, exiles in a foreign land. In their poverty and flight, they mirror all who flee persecution, and Mary's trust in God shone in the darkness.",
+          "pt-BR": "O anjo do Senhor apareceu a José em sonho: 'Levanta-te, toma o menino e Sua mãe e foge para o Egito' (Mt 2,13). A Sagrada Família tornou-se refugiada, exilada em terra estrangeira. Em sua pobreza e fuga, espelham todos que fogem da perseguição, e a confiança de Maria em Deus brilhou na escuridão."
+        }
+      },
+      {
+        "name": { "en": "The Loss of Jesus in the Temple", "pt-BR": "A Perda de Jesus no Templo" },
+        "meditation": {
+          "en": "After three days of searching, Mary said to Jesus: 'Son, why have You done this to us? Your father and I have been looking for You with great anxiety.' (Lk 2:48) These three days prefigured the three days in the tomb. Mary's anguish at the loss of Jesus teaches us to seek Him always and with great love.",
+          "pt-BR": "Após três dias de busca, Maria disse a Jesus: 'Filho, por que fizeste isso conosco? Teu pai e eu te procurávamos angustiados.' (Lc 2,48) Esses três dias prefiguraram os três dias no túmulo. A angústia de Maria pela perda de Jesus nos ensina a buscá-Lo sempre e com grande amor."
+        }
+      },
+      {
+        "name": { "en": "Mary Meets Jesus Carrying His Cross", "pt-BR": "Maria Encontra Jesus Carregando a Cruz" },
+        "meditation": {
+          "en": "A large crowd of people followed Jesus, including many women who mourned and lamented Him. (Lk 23:27) Among them was His Mother. She had heard His words: 'When I am lifted up from the earth, I will draw all people to myself' (Jn 12:32). She drew close to the Cross, united to His redeeming sacrifice.",
+          "pt-BR": "Seguia Jesus uma grande multidão de povo e de mulheres que choravam e lamentavam por Ele. (Lc 23,27) Entre elas estava Sua Mãe. Ela ouvira Suas palavras: 'Quando for levantado da terra, atrairei todos a mim' (Jo 12,32). Ela se aproximou da Cruz, unida ao Seu sacrifício redentor."
+        }
+      },
+      {
+        "name": { "en": "The Crucifixion", "pt-BR": "A Crucificação" },
+        "meditation": {
+          "en": "Near the cross of Jesus stood His Mother. (Jn 19:25) She stood — not collapsed in despair, but upright in suffering love. When Jesus saw His mother and the disciple He loved standing there, He said to His mother, 'Woman, behold your son' (Jn 19:26). At Calvary, Mary became Mother of all the redeemed.",
+          "pt-BR": "Junto à cruz de Jesus estava Sua Mãe. (Jo 19,25) Ela estava de pé — não prostrada em desespero, mas erguida no amor sofredor. Quando Jesus viu Sua Mãe e o discípulo amado ali parados, disse-lhe: 'Mulher, eis o teu filho' (Jo 19,26). No Calvário, Maria tornou-se Mãe de todos os remidos."
+        }
+      },
+      {
+        "name": { "en": "Jesus Is Taken Down from the Cross", "pt-BR": "Jesus É Descido da Cruz" },
+        "meditation": {
+          "en": "Joseph of Arimathea came and asked Pilate for the body of Jesus. Pilate gave him permission; so he came and took down the body. (Jn 19:38) Mary received her Son's body in her arms. She who had wrapped Him in swaddling clothes at Bethlehem now held Him as He was wrapped for burial. Her love never wavered.",
+          "pt-BR": "José de Arimateia veio e pediu a Pilatos o corpo de Jesus. Pilatos deu-lhe permissão; então ele veio e tirou o corpo. (Jo 19,38) Maria recebeu o corpo do Filho em seus braços. Ela que O envolvera em cueiros em Belém agora O sustentava enquanto era preparado para o sepultamento. Seu amor nunca vacilou."
+        }
+      },
+      {
+        "name": { "en": "The Burial of Jesus", "pt-BR": "A Sepultação de Jesus" },
+        "meditation": {
+          "en": "They took the body of Jesus and bound it in linen cloths with the spices, as was the Jewish burial custom. Now in the place where He was crucified there was a garden, and in the garden a new tomb... There they laid Jesus. (Jn 19:40-42) Mary stood in the silence of Holy Saturday — holding faith when hope seemed gone. She believed in the Resurrection.",
+          "pt-BR": "Tomaram o corpo de Jesus e o envolveram em faixas de linho com aromas, como é costume entre os judeus para sepultar. Havia um jardim no lugar onde fora crucificado, e no jardim um túmulo novo... Ali puseram Jesus. (Jo 19,40-42) Maria ficou no silêncio do Sábado Santo — mantendo a fé quando a esperança parecia desaparecida. Ela acreditou na Ressurreição."
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "traditional",
+  "name": { "en": "Traditional", "pt-BR": "Tradicional" },
+  "data": {
+    "default": [
+      {
+        "prayer": {
+          "en": "O Lord Jesus Christ, I adore You and I love You with all my heart. I thank You for having given Yourself to us in the Eucharist. My soul longs for You as the deer longs for flowing streams.\n\nSince I cannot receive You sacramentally at this moment, I beg You to come to me spiritually. Be wholly mine, and let me be wholly Yours, now and forever. Amen.",
+          "pt-BR": "Ó Senhor Jesus Cristo, adoro-Vos e amo-Vos com todo o meu coração. Agradeço-Vos por haverdes Vos dado a nós na Eucaristia. Minha alma anseia por Vós como a corça anseia pela água dos rios.\n\nComo não posso receber-Vos sacramentalmente neste momento, peço-Vos que venhais a mim espiritualmente. Sede completamente meu e deixai-me ser completamente Vosso, agora e sempre. Amém."
+        }
+      }
+    ]
+  }
+}

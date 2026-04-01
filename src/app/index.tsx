@@ -23,6 +23,7 @@ import {
 import {
   type BlockState,
   buildTieredWallData,
+  DayCarousel,
   enrichSlot,
   filterSlotsForDate,
   getActiveBlocks,
@@ -36,20 +37,45 @@ import {
   useSlots,
   useToggleSlot,
 } from '@/features/plan-of-life'
-import { useLiturgicalTheme } from '@/hooks/useLiturgicalTheme'
 import { useToday } from '@/hooks/useToday'
+import {
+  computeEaster,
+  getFirstSundayOfAdvent,
+  getLiturgicalSeason,
+  type LiturgicalCalendarForm,
+  normalizeDate,
+} from '@/lib/liturgical'
+import { usePreferencesStore } from '@/stores/preferencesStore'
 
 export default function HomeScreen() {
   const { t } = useTranslation()
+  const realNow = normalizeDate(new Date())
+  const realToday = format(realNow, 'yyyy-MM-dd')
   const now = useToday()
-  const today = format(now, 'yyyy-MM-dd')
+  const selectedDate = format(now, 'yyyy-MM-dd')
   const hour = new Date().getHours()
   const currentBlock = getCurrentTimeBlock(hour)
 
-  const { season, themeName } = useLiturgicalTheme()
+  const liturgicalCalendar = usePreferencesStore(
+    (s) => s.liturgicalCalendar,
+  ) as LiturgicalCalendarForm
+  const setTimeTravelEphemeral = usePreferencesStore((s) => s.setTimeTravelDateEphemeral)
   const router = useRouter()
   const { data: slots = [] } = useSlots()
-  const { data: todayCompletions = [] } = useCompletionsForDate(today)
+
+  const { season, themeName } = useMemo(() => {
+    const s = getLiturgicalSeason(now, liturgicalCalendar)
+    const year = now.getFullYear()
+    const easter = computeEaster(year)
+    const advent1 = getFirstSundayOfAdvent(year)
+    const gaudete = new Date(advent1.getTime() + 14 * 86400000)
+    const laetare = new Date(easter.getTime() - 21 * 86400000)
+    const t = now.getTime()
+    const isRose = t === normalizeDate(gaudete).getTime() || t === normalizeDate(laetare).getTime()
+    return { season: s, themeName: isRose ? ('rose' as const) : s }
+  }, [now, liturgicalCalendar])
+
+  const { data: todayCompletions = [] } = useCompletionsForDate(selectedDate)
   const toggle = useToggleSlot()
 
   const handlePressItem = useCallback(
@@ -59,7 +85,9 @@ export default function HomeScreen() {
         router.push(`/plan/${practiceId}` as any)
         return
       }
-      if (manifest.flows.length > 1) {
+      if (manifest.program) {
+        router.push(`/practices/${practiceId}/program` as any)
+      } else if (manifest.flows.length > 1) {
         router.push(`/plan/${practiceId}` as any)
       } else {
         router.push(`/pray/${practiceId}` as any)
@@ -68,9 +96,9 @@ export default function HomeScreen() {
     [router],
   )
   const wallStart = format(subWeeks(now, 9), 'yyyy-MM-dd')
-  const { data: wallLogs = [] } = useCompletionRange(wallStart, today)
+  const { data: wallLogs = [] } = useCompletionRange(wallStart, selectedDate)
 
-  const todaySlots = useMemo(() => filterSlotsForDate(slots, today), [slots, today])
+  const todaySlots = useMemo(() => filterSlotsForDate(slots, selectedDate), [slots, selectedDate])
   const completedIds = useMemo(() => toCompletedSet(todayCompletions), [todayCompletions])
   const wallData = useMemo(() => buildTieredWallData(wallLogs, slots), [wallLogs, slots])
 
@@ -95,12 +123,17 @@ export default function HomeScreen() {
       <YStack gap="$lg" paddingVertical="$lg">
         <LiturgicalHeader date={now} season={season} themeName={themeName} />
 
+        <DayCarousel
+          today={realToday}
+          onSelectDate={(date) => setTimeTravelEphemeral(date === realToday ? undefined : date)}
+        />
+
         <FadeInView>
           <SeasonalContext date={now} season={season} />
         </FadeInView>
 
         <FadeInView>
-          <CelebrationOfDay />
+          <CelebrationOfDay date={now} />
         </FadeInView>
 
         <SectionDivider symbol={getSeasonalSymbol(themeName)} />
@@ -140,7 +173,7 @@ export default function HomeScreen() {
                       toggle.mutate({
                         practiceId: item.practice_id,
                         slotId: item.slot_id,
-                        date: today,
+                        date: selectedDate,
                         completed: done,
                       })
                     }

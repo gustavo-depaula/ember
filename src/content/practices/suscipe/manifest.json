@@ -1,0 +1,30 @@
+{
+  "id": "suscipe",
+  "name": { "en": "Suscipe", "pt-BR": "Suscipe" },
+  "categories": ["ignatian", "devotion", "daily"],
+  "estimatedMinutes": 2,
+  "description": {
+    "en": "The Suscipe is St. Ignatius of Loyola's prayer of total surrender — offering to God one's liberty, memory, understanding, and will. It is the summit of the Spiritual Exercises and one of the most profound acts of abandonment in Catholic tradition.",
+    "pt-BR": "O Suscipe é a oração de entrega total de Santo Inácio de Loyola — oferecendo a Deus a própria liberdade, memória, entendimento e vontade. É o ápice dos Exercícios Espirituais e um dos mais profundos atos de abandono na tradição católica."
+  },
+  "history": {
+    "en": "St. Ignatius of Loyola (1491–1556) composed the Suscipe as the final contemplation of his Spiritual Exercises — the 'Contemplation to Attain Love.' It represents the complete gift of self to God, the response to recognizing that all one has has been received from God.",
+    "pt-BR": "Santo Inácio de Loyola (1491-1556) compôs o Suscipe como a contemplação final de seus Exercícios Espirituais — a 'Contemplação para Alcançar o Amor.' Representa o dom completo de si mesmo a Deus, a resposta ao reconhecimento de que tudo que se tem foi recebido de Deus."
+  },
+  "howToPray": {
+    "en": "Pray this slowly, pausing on each gift you offer — liberty, memory, understanding, will. Let each line be a real act of surrender, not just words. It is especially powerful after a period of meditation.",
+    "pt-BR": "Reze devagar, pausando em cada dom que oferece — liberdade, memória, entendimento, vontade. Deixe cada linha ser um ato real de entrega, não apenas palavras. É especialmente poderoso após um período de meditação."
+  },
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "flows": [
+    { "id": "default", "name": { "en": "Suscipe", "pt-BR": "Suscipe" }, "file": "flow.json" }
+  ],
+  "tags": ["ignatius", "surrender", "contemplation", "spiritual-exercises"],
+  "defaults": {
+    "sortOrder": 34,
+    "slots": [
+      { "flowId": "default", "schedule": { "type": "daily" }, "tier": "extra", "enabled": false }
+    ]
+  }
+}

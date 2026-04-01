@@ -1,0 +1,32 @@
+{
+  "id": "grace-meals",
+  "name": { "en": "Grace Before & After Meals", "pt-BR": "Bênção das Refeições" },
+  "categories": ["daily", "devotion", "family"],
+  "estimatedMinutes": 1,
+  "description": {
+    "en": "The traditional Catholic grace before and after meals, sanctifying the table and giving thanks for God's gifts. These brief prayers transform the ordinary act of eating into an act of worship.",
+    "pt-BR": "A bênção tradicional católica antes e depois das refeições, santificando a mesa e dando graças pelos dons de Deus. Estas breves orações transformam o ato ordinário de comer em um ato de adoração."
+  },
+  "history": {
+    "en": "Blessing meals before eating is a Jewish practice continued by Christians from the earliest times. The practice is rooted in Christ's own act of blessing bread at the Last Supper and at Emmaus. The traditional Latin graces have been prayed in Catholic households for centuries.",
+    "pt-BR": "Abençoar as refeições antes de comer é uma prática judaica continuada pelos cristãos desde os primeiros tempos. A prática tem raízes no próprio ato de Cristo de abençoar o pão na Última Ceia e em Emaús. As bênçãos tradicionais latinas têm sido rezadas em lares católicos por séculos."
+  },
+  "howToPray": {
+    "en": "Pray the grace before meals standing or bowing before sitting at table. After eating, offer thanks with the grace after meals. These prayers may be said aloud together as a family.",
+    "pt-BR": "Reze a bênção antes das refeições de pé ou inclinado antes de se sentar à mesa. Após comer, ofereça graças com a oração de agradecimento após as refeições. Estas orações podem ser ditas em voz alta juntos como família."
+  },
+  "flowMode": "scroll",
+  "completion": "manual",
+  "flows": [
+    { "id": "before", "name": { "en": "Before Meals", "pt-BR": "Antes das Refeições" }, "file": "flows/before.json" },
+    { "id": "after", "name": { "en": "After Meals", "pt-BR": "Após as Refeições" }, "file": "flows/after.json" }
+  ],
+  "tags": ["grace", "meals", "family", "thanksgiving", "daily"],
+  "defaults": {
+    "sortOrder": 32,
+    "slots": [
+      { "flowId": "before", "schedule": { "type": "daily" }, "tier": "extra", "enabled": false },
+      { "flowId": "after", "schedule": { "type": "daily" }, "tier": "extra", "enabled": false }
+    ]
+  }
+}

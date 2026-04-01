@@ -1,10 +1,13 @@
 import { addDays, format, parseISO } from 'date-fns'
-import { useEffect, useMemo, useState } from 'react'
+import { useCallback, useMemo, useState } from 'react'
+import { useTranslation } from 'react-i18next'
 import { type LayoutChangeEvent, Pressable, StyleSheet, View } from 'react-native'
 import { Gesture, GestureDetector } from 'react-native-gesture-handler'
 import type { SharedValue } from 'react-native-reanimated'
 import Animated, {
   clamp,
+  FadeIn,
+  FadeOut,
   interpolate,
   interpolateColor,
   runOnJS,
@@ -32,14 +35,14 @@ const todayIndex = pastDays
 export function DayCarousel({
   onSelectDate,
   today,
-  todayTrigger,
 }: {
   onSelectDate: (date: string) => void
   today: string
-  todayTrigger?: number
 }) {
+  const { t } = useTranslation()
   const theme = useTheme()
   const [containerWidth, setContainerWidth] = useState(0)
+  const [awayDir, setAwayDir] = useState<'past' | 'future' | false>(false)
   const centerX = (containerWidth - pillWidth) / 2
 
   function onLayout(e: LayoutChangeEvent) {
@@ -68,10 +71,11 @@ export function DayCarousel({
     offsetX.value = withSpring(clamp(-index * itemSize, minOffset, maxOffset), snappySpring)
   }
 
-  // biome-ignore lint/correctness/useExhaustiveDependencies: trigger-based effect
-  useEffect(() => {
-    if (todayTrigger) scrollToIndex(todayIndex)
-  }, [todayTrigger])
+  // biome-ignore lint/correctness/useExhaustiveDependencies: scrollToIndex uses stable shared values
+  const goToToday = useCallback(() => {
+    scrollToIndex(todayIndex)
+    onSelectDate(today)
+  }, [today, onSelectDate])
 
   // biome-ignore lint/correctness/useExhaustiveDependencies: shared values are stable refs
   const pan = useMemo(
@@ -108,6 +112,7 @@ export function DayCarousel({
     (current, previous) => {
       if (previous === null || current === previous) return
       runOnJS(lightTap)()
+      runOnJS(setAwayDir)(current === todayIndex ? false : current < todayIndex ? 'future' : 'past')
       const date = days.dates[current]
       if (date) {
         runOnJS(onSelectDate)(date)
@@ -125,28 +130,41 @@ export function DayCarousel({
   }))
 
   return (
-    <GestureDetector gesture={pan}>
-      <View style={[styles.container, { height: 64 }]} onLayout={onLayout}>
-        {containerWidth > 0 ? (
-          <Animated.View style={[styles.strip, { width: totalDays * itemSize }, stripStyle]}>
-            {days.dateObjs.map((dateObj, index) => (
-              <DayPill
-                key={days.dates[index]}
-                index={index}
-                dateObj={dateObj}
-                dateStr={days.dates[index]}
-                offsetX={offsetX}
-                accentColor={accentColor}
-                bgColor={bgColor}
-                secondaryColor={secondaryColor}
-                today={today}
-                onTap={() => scrollToIndex(index)}
-              />
-            ))}
-          </Animated.View>
-        ) : null}
-      </View>
-    </GestureDetector>
+    <View>
+      <GestureDetector gesture={pan}>
+        <View style={[styles.container, { height: 64 }]} onLayout={onLayout}>
+          {containerWidth > 0 ? (
+            <Animated.View style={[styles.strip, { width: totalDays * itemSize }, stripStyle]}>
+              {days.dateObjs.map((dateObj, index) => (
+                <DayPill
+                  key={days.dates[index]}
+                  index={index}
+                  dateObj={dateObj}
+                  dateStr={days.dates[index]}
+                  offsetX={offsetX}
+                  accentColor={accentColor}
+                  bgColor={bgColor}
+                  secondaryColor={secondaryColor}
+                  today={today}
+                  onTap={() => scrollToIndex(index)}
+                />
+              ))}
+            </Animated.View>
+          ) : null}
+        </View>
+      </GestureDetector>
+      {awayDir && (
+        <Animated.View entering={FadeIn.duration(200)} exiting={FadeOut.duration(150)}>
+          <Pressable onPress={goToToday} style={styles.todayButton}>
+            <Animated.Text style={[styles.todayButtonText, { color: accentColor }]}>
+              {awayDir === 'past' ? '‹ ' : ''}
+              {t('plan.today')}
+              {awayDir === 'future' ? ' ›' : ''}
+            </Animated.Text>
+          </Pressable>
+        </Animated.View>
+      )}
+    </View>
   )
 }
 
@@ -238,5 +256,15 @@ const styles = StyleSheet.create({
   dayNumber: {
     fontFamily: 'EBGaramond_400Regular',
     fontSize: 20,
+  },
+  todayButton: {
+    alignSelf: 'center',
+    marginTop: 6,
+    paddingVertical: 2,
+  },
+  todayButtonText: {
+    fontFamily: 'Cinzel_400Regular',
+    fontSize: 14,
+    letterSpacing: 1,
   },
 })

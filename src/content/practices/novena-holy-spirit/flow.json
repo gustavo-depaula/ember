@@ -1,0 +1,51 @@
+{
+  "sections": [
+    { "type": "prayer", "ref": "sign-of-cross" },
+    {
+      "type": "heading",
+      "text": {
+        "en": "Novena to the Holy Spirit",
+        "pt-BR": "Novena ao Espírito Santo"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en": "Come, Holy Spirit, fill the hearts of Thy faithful and enkindle in them the fire of Thy love.",
+        "pt-BR": "Vinde, Espírito Santo, enchei os corações dos Vossos fiéis e acendei neles o fogo do Vosso amor."
+      }
+    },
+    {
+      "type": "cycle",
+      "data": "novena-days",
+      "as": "template",
+      "sections": [
+        {
+          "type": "subheading",
+          "text": { "en": "{{dayTitle}}" }
+        },
+        {
+          "type": "meditation",
+          "text": { "en": "{{meditation}}" }
+        },
+        { "type": "divider" },
+        {
+          "type": "rubric",
+          "text": { "en": "{{intention}}" }
+        }
+      ]
+    },
+    { "type": "divider" },
+    {
+      "type": "rubric",
+      "text": {
+        "en": "Pray one Our Father, one Hail Mary, and one Glory Be.",
+        "pt-BR": "Reze um Pai Nosso, uma Ave Maria e um Glória ao Pai."
+      }
+    },
+    { "type": "prayer", "ref": "our-father" },
+    { "type": "prayer", "ref": "hail-mary" },
+    { "type": "prayer", "ref": "glory-be" },
+    { "type": "prayer", "ref": "sign-of-cross" }
+  ]
+}

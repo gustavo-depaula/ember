@@ -1,0 +1,13 @@
+{
+  "sections": [
+    { "type": "prayer", "ref": "sign-of-cross" },
+    {
+      "type": "repeat",
+      "count": 1,
+      "variable": { "source": "variant", "key": "prayer" },
+      "sections": [
+        { "type": "prayer", "inline": { "en": "{{prayer}}", "pt-BR": "{{prayer}}" } }
+      ]
+    }
+  ]
+}

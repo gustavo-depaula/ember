@@ -1,0 +1,44 @@
+{
+  "id": "prayer-st-joseph",
+  "name": { "en": "Prayer to St. Joseph", "pt-BR": "Oração a São José" },
+  "categories": ["saints", "devotion", "family"],
+  "estimatedMinutes": 3,
+  "description": {
+    "en": "Prayers to St. Joseph, patron of the Universal Church, of workers, of fathers, and of a happy death. Two forms are offered: the traditional prayer to the Foster Father of Our Lord, and the prayer attributed to St. Bernardine of Siena.",
+    "pt-BR": "Orações a São José, padroeiro da Igreja Universal, dos trabalhadores, dos pais e de uma boa morte. Duas formas são oferecidas: a oração tradicional ao Pai Adotivo de Nosso Senhor e a oração atribuída a São Bernardino de Siena."
+  },
+  "history": {
+    "en": "Devotion to St. Joseph grew through the Middle Ages and was promoted especially by St. Teresa of Ávila, who credited him with healing her. Pope Pius IX declared him Patron of the Universal Church in 1870. Pope Francis added his name to all Eucharistic Prayers in 2013.",
+    "pt-BR": "A devoção a São José cresceu durante a Idade Média e foi promovida especialmente por Santa Teresa de Ávila, que lhe atribuiu sua cura. O Papa Pio IX o declarou Padroeiro da Igreja Universal em 1870. O Papa Francisco acrescentou seu nome a todas as Orações Eucarísticas em 2013."
+  },
+  "howToPray": {
+    "en": "Choose the form that speaks to your heart. The traditional form is particularly moving in times of difficulty; the Bernardine form is a profound act of trust in Joseph's intercession.",
+    "pt-BR": "Escolha a forma que fala ao seu coração. A forma tradicional é particularmente tocante em tempos de dificuldade; a forma bernardina é um profundo ato de confiança na intercessão de José."
+  },
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "flows": [
+    { "id": "default", "name": { "en": "Prayer to St. Joseph", "pt-BR": "Oração a São José" }, "file": "flow.json" }
+  ],
+  "variants": [
+    {
+      "id": "traditional",
+      "name": { "en": "Traditional", "pt-BR": "Tradicional" },
+      "description": { "en": "The traditional Catholic prayer to St. Joseph", "pt-BR": "A oração católica tradicional a São José" },
+      "file": "variants/traditional.json"
+    },
+    {
+      "id": "bernardine",
+      "name": { "en": "St. Bernardine", "pt-BR": "São Bernardino" },
+      "description": { "en": "The prayer attributed to St. Bernardine of Siena", "pt-BR": "A oração atribuída a São Bernardino de Siena" },
+      "file": "variants/bernardine.json"
+    }
+  ],
+  "tags": ["joseph", "patron", "family", "workers", "protection"],
+  "defaults": {
+    "sortOrder": 29,
+    "slots": [
+      { "flowId": "default", "schedule": { "type": "daily" }, "tier": "extra", "enabled": false }
+    ]
+  }
+}
