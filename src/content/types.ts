@@ -1,4 +1,4 @@
-// See docs/features/practice-content.md for the full spec
+// See docs/features/features-overview.md for the full spec
 
 import type { Tier } from '@/db/schema'
 import type { Schedule } from '@/features/plan-of-life/schedule'

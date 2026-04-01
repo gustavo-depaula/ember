@@ -32,10 +32,6 @@ Accumulated learnings, discoveries, and decisions from Ember development. Things
 
 - **Bible Gateway and API.Bible are not viable.** Bible Gateway discontinued its API and prohibits scraping. API.Bible has FUMS tracking requirements implying online-only usage, unclear Catholic translation availability.
 
-## UX & Design
-
-*(Add entries as we learn from testing and user feedback)*
-
 ## Technical
 
 - **The original `getLiturgicalSeason()` was an antiphon scheduler, not a season calculator.** Its boundaries mapped to the Marian antiphon switching dates (Advent→Feb 1, Feb 2→Holy Wednesday, etc.), which don't correspond to actual liturgical seasons. The antiphon schedule is a separate traditional system with its own date ranges — decoupled from seasons in the rewrite.

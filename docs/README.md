@@ -34,18 +34,18 @@ Broad spectrum — from curious seekers to devout daily communicants. The app me
 
 ## What's Built
 
-Ember has a complete MVP (Phases 0–9a). See [tasks.md](tasks.md) for full implementation history.
+Ember has a complete MVP (Phases 0–9a).
 
 ### Core Features
 
 | Feature | Description | Spec |
 |---------|-------------|------|
-| **Plan of Life** | 16 practices (essential/ideal/extra) + custom, fidelity wall, streaks, time blocks, notifications | [plan-of-life.md](features/plan-of-life.md) |
-| **Divine Office** | Morning/Evening/Compline, 30-day DWDO psalter, lectio continua (OT + NT + CCC in a year) | [divine-office.md](features/divine-office.md) |
-| **Bible Reader** | Bundled Douay-Rheims (73 books) + online translations via Bolls.life API | [bible-reader.md](features/bible-reader.md) |
-| **Catechism Reader** | Full CCC (2,865 paragraphs), 5-level collapsible TOC, segment navigation | [catechism-reader.md](features/catechism-reader.md) |
-| **Ordo Missae** | Complete Mass ordinary (OF + EF), bilingual Latin/English, proper slot placeholders | [mass.md](features/mass.md) |
-| **Liturgical Seasons** | OF + EF season calculation, user calendar preference, Marian antiphon rotation | [liturgical-seasons.md](features/liturgical-seasons.md) |
+| **Plan of Life** | 16 practices (essential/ideal/extra) + custom, fidelity wall, streaks, time blocks, notifications | [features-overview.md](features/features-overview.md#plan-of-life) |
+| **Divine Office** | Morning/Evening/Compline, 30-day DWDO psalter, lectio continua (OT + NT + CCC in a year) | [features-overview.md](features/features-overview.md#divine-office) |
+| **Bible Reader** | Bundled Douay-Rheims (73 books) + online translations via Bolls.life API | [features-overview.md](features/features-overview.md#other-features) |
+| **Catechism Reader** | Full CCC (2,865 paragraphs), 5-level collapsible TOC, segment navigation | [features-overview.md](features/features-overview.md#other-features) |
+| **Ordo Missae** | Complete Mass ordinary (OF + EF), bilingual Latin/English, proper slot placeholders | [features-overview.md](features/features-overview.md#other-features) |
+| **Liturgical Seasons** | OF + EF season calculation, user calendar preference, Marian antiphon rotation | [features-overview.md](features/features-overview.md#liturgical-seasons) |
 | **Saints Feed** | Daily saints and commemorations | — |
 
 ### Platform & UX
@@ -81,7 +81,7 @@ Ember has a complete MVP (Phases 0–9a). See [tasks.md](tasks.md) for full impl
 - **Catholic library** — saints' writings, spiritual classics, devotional texts
 - **Prayer history** — origin and tradition of each prayer and devotion
 - **Study Bible features** — commentary, cross-references, context
-- **Daily Mass readings** — EF ready via Missale Meum API; OF partially via Evangelizo (see [daily-readings.md](features/daily-readings.md))
+- **Daily Mass readings** — EF ready via Missale Meum API; OF partially via Evangelizo (see [content-sources.md](content/content-sources.md#daily-mass-readings--propers))
 
 ### Polish & Infrastructure
 
@@ -101,18 +101,6 @@ Ember has a complete MVP (Phases 0–9a). See [tasks.md](tasks.md) for full impl
 - [Architecture](ARCHITECTURE.md) — tech stack, data models, screen map, storage
 - [Conventions](CONVENTIONS.md) — code style guide
 - [Design System](design/design-system.md) — colors, typography, illuminated manuscript aesthetic
-- [Content Sources](content/content-sources.md) — Bible, CCC, hymns — APIs, licensing, bundling
-- [Tasks](tasks.md) — implementation phases and checklist
-- [Dev Journal](journal.md) — accumulated learnings (APIs, licensing, UX, technical)
-
-### Feature Specs
-
-- [Plan of Life](features/plan-of-life.md)
-- [Divine Office](features/divine-office.md)
-- [Bible Reader](features/bible-reader.md)
-- [Catechism Reader](features/catechism-reader.md)
-- [Mass (Ordo Missae)](features/mass.md)
-- [Daily Readings](features/daily-readings.md) — research phase
-- [Reading Config](features/reading-config.md)
-- [Internationalization](features/i18n.md)
-- [Programs](features/programs.md) — time-bounded practices (novenas, consecrations, First Fridays)
+- [Content Sources](content/content-sources.md) — Bible, CCC, hymns, daily readings — APIs, licensing, bundling
+- [Features Overview](features/features-overview.md) — domain knowledge, design rationale, and capabilities for all features
+- [Dev Journal](journal.md) — accumulated learnings (APIs, licensing, technical)

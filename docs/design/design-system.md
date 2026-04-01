@@ -121,7 +121,7 @@ Light and dark modes use separate liturgical accent values — dark mode accents
 ### Where Each Font Appears
 - **UnifrakturMaguntia**: PrayerFlow hour title ("Morning Prayer"), HeroCTA office label, "Day complete" text
 - **Cinzel**: RubricLabel ("PSALMODY", "HYMN"), time block labels, tab labels, office hour card titles, "Begin" text
-- **Reading font** (user-configurable, default EB Garamond): PrayerText, psalm content, Bible readings, catechism text — all reading body copy. See `docs/features/reading-config.md` for the curated font list
+- **Reading font** (user-configurable, default EB Garamond): PrayerText, psalm content, Bible readings, catechism text — all reading body copy. See `docs/features/features-overview.md` for reading config details
 - **EB Garamond**: UI text, practice names, settings, non-reading body copy
 - **Pinyon Script**: date display on home screen, "Lauds"/"Vespers"/"Compline" sublabels, "Your next practice", "Rest well. See you tomorrow."
 
