@@ -2,6 +2,7 @@ import Svg, { Circle, Line, Path, Rect } from 'react-native-svg'
 import { Text, useTheme, View, XStack, YStack } from 'tamagui'
 
 import { useReadingStyle } from '@/hooks/useReadingStyle'
+import { useHyphenate } from '@/lib/hyphenation'
 import { leafPath } from './ornaments/svgHelpers'
 
 export function IlluminatedInitial({ text }: { text: string }) {
@@ -13,11 +14,11 @@ export function IlluminatedInitial({ text }: { text: string }) {
   const red = theme.floralRed.val
   const blue = theme.floralBlue.val
   const readingStyle = useReadingStyle()
+  const rest = useHyphenate(text.slice(1))
 
   if (text.length === 0) return undefined
 
   const firstLetter = text[0]
-  const rest = text.slice(1)
 
   return (
     <XStack gap="$sm">

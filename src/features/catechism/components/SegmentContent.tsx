@@ -4,6 +4,12 @@ import { Text, YStack } from 'tamagui'
 import { OrnamentalRule } from '@/components'
 import { useReadingMargin, useReadingStyle } from '@/hooks/useReadingStyle'
 import type { CccParagraph } from '@/lib/catechism'
+import { useHyphenate } from '@/lib/hyphenation'
+
+function HyphenatedSpan({ text }: { text: string }) {
+  const hyphenated = useHyphenate(text)
+  return <>{hyphenated}</>
+}
 
 import type { CccSegment } from '../segments'
 
@@ -27,7 +33,7 @@ function InBriefContent({
             {p.number}
           </Text>
           {'  '}
-          {p.text}
+          <HyphenatedSpan text={p.text} />
         </Text>
       ))}
     </YStack>

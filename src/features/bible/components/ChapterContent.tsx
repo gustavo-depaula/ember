@@ -4,6 +4,12 @@ import { Text, YStack } from 'tamagui'
 import { OrnamentalRule } from '@/components'
 import { useReadingMargin, useReadingStyle } from '@/hooks/useReadingStyle'
 import type { Verse } from '@/lib/content'
+import { useHyphenate } from '@/lib/hyphenation'
+
+function HyphenatedSpan({ text }: { text: string }) {
+  const hyphenated = useHyphenate(text)
+  return <>{hyphenated}</>
+}
 
 export function ChapterContent({
   bookName,
@@ -50,7 +56,7 @@ export function ChapterContent({
             {v.verse}
           </Text>
           {'  '}
-          {v.text}
+          <HyphenatedSpan text={v.text} />
         </Text>
       ))}
 
