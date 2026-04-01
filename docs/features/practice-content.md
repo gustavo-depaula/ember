@@ -215,6 +215,18 @@ type RepeatSection = {
 These resolve at runtime using existing engine logic:
 
 ```typescript
+// Indexed data lookup — resolves content from a practice-owned data file
+// based on a date or program-day index.
+// indexBy modes: 'day-of-month', 'day-of-week', 'fixed', 'program-day'
+// Output modes:
+//   - Named type (as: 'psalmody', 'hymn') — maps data to a specific rendered section
+//   - Template (as: 'template') — substitutes {{vars}} from the looked-up entry
+//     into child sections, then resolves them. Used by programs (novenas, etc.)
+//     to inject day-specific meditations/intentions into a shared flow template.
+type CycleSection =
+  | { type: 'cycle'; data: string; key?: string; as: 'psalmody' | 'hymn' }
+  | { type: 'cycle'; data: string; as: 'template'; sections: Section[] }
+
 // Psalms from a cycle (e.g., 30-day DWDO psalter)
 type PsalterSection = { type: 'psalter'; hour: string; cycle: string }
 
@@ -234,7 +246,7 @@ type Section =
   | RubricSection | DividerSection | HeadingSection | ImageSection
   | PrayerSection | HymnSection | CanticleSection | MeditationSection | ResponseSection
   | RepeatSection
-  | PsalterSection | LectioSection | SeasonalSection
+  | CycleSection | PsalterSection | LectioSection | SeasonalSection
 ```
 
 ---
@@ -527,3 +539,10 @@ Key points:
 - Implement dynamic section types (psalter, lectio, seasonal)
 - Extract reusable liturgical library from Divine Office engine to `src/lib/liturgical/`
 - Migrate Divine Office to the content format with `theme` support
+
+### Phase 5: Programs (time-bounded practices)
+- Add `program-day` indexBy to cycle, `template` output mode with child sections
+- Add `ProgramConfig` to manifest, program cursor tracking
+- Program detail screen with day navigation
+- Catalog discovery, start flow, completion UX
+- See `docs/features/programs.md` for the full spec

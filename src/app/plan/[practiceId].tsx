@@ -6,7 +6,14 @@ import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
-import { FlowButtons, GreenWall, PrayButton, ScreenLayout, SectionDivider } from '@/components'
+import {
+  AnimatedPressable,
+  FlowButtons,
+  GreenWall,
+  PrayButton,
+  ScreenLayout,
+  SectionDivider,
+} from '@/components'
 import { getManifest, loadPracticeTracks } from '@/content/practices'
 import { getPracticeIcon } from '@/db/seed'
 import { useCursorsForPractice } from '@/features/divine-office'
@@ -17,6 +24,7 @@ import {
   useAddSlot,
   useDeleteSlot,
   usePracticeCompletionStats,
+  useProgramProgress,
   useSlotsForPractice,
   useUpdateSlot,
 } from '@/features/plan-of-life'
@@ -31,9 +39,11 @@ export default function PracticeDetailScreen() {
 
   const { data: slots = [] } = useSlotsForPractice(practiceId)
   const manifest = practiceId ? getManifest(practiceId) : undefined
+  const isProgram = !!manifest?.program
   const hasFlow = (manifest?.flows?.length ?? 0) > 0
   const updateSlot = useUpdateSlot()
   const addSlot = useAddSlot()
+  const { data: programProgress } = useProgramProgress(practiceId ?? '', manifest?.program)
   const deleteSlot = useDeleteSlot()
 
   const firstSlot = slots[0]
@@ -94,7 +104,25 @@ export default function PracticeDetailScreen() {
           </Text>
         </XStack>
 
-        {hasFlow && practiceId && (manifest?.flows?.length ?? 0) > 1 ? (
+        {isProgram && practiceId ? (
+          <AnimatedPressable onPress={() => router.push(`/practices/${practiceId}/program` as any)}>
+            <YStack
+              backgroundColor="$accent"
+              borderRadius="$md"
+              paddingVertical="$sm"
+              alignItems="center"
+            >
+              <Text fontFamily="$heading" fontSize="$3" color="white">
+                {programProgress
+                  ? t('program.dayOf', {
+                      day: programProgress.programDay + 1,
+                      total: programProgress.totalDays,
+                    })
+                  : t('program.begin')}
+              </Text>
+            </YStack>
+          </AnimatedPressable>
+        ) : hasFlow && practiceId && (manifest?.flows?.length ?? 0) > 1 ? (
           <YStack gap="$sm">
             <FlowButtons practiceId={practiceId} flows={manifest!.flows} />
           </YStack>

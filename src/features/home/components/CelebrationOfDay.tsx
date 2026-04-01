@@ -1,11 +1,13 @@
+import { format } from 'date-fns'
 import { useRouter } from 'expo-router'
+import { useMemo } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Text, XStack, YStack } from 'tamagui'
 
 import { AnimatedPressable } from '@/components'
-import { useTodayCelebration } from '@/features/calendar'
+import { useYearCalendar } from '@/features/calendar'
 import { localizeContent } from '@/lib/i18n'
-import type { ResolvedCelebration } from '@/lib/liturgical'
+import { getCelebrationsForDate, type ResolvedCelebration } from '@/lib/liturgical'
 
 function rankLabel(c: ResolvedCelebration, t: (key: string) => string): string {
   return t(`calendar.rank.${c.rank}`)
@@ -43,10 +45,16 @@ function CelebrationRow({
   )
 }
 
-export function CelebrationOfDay() {
+export function CelebrationOfDay({ date }: { date: Date }) {
   const { t } = useTranslation()
   const router = useRouter()
-  const dayCalendar = useTodayCelebration()
+  const dateKey = format(date, 'yyyy-MM-dd')
+  const { data: calendar } = useYearCalendar(date.getFullYear())
+  // biome-ignore lint/correctness/useExhaustiveDependencies: memoize by calendar day string
+  const dayCalendar = useMemo(
+    () => (calendar ? getCelebrationsForDate(calendar, date) : undefined),
+    [calendar, dateKey],
+  )
 
   if (!dayCalendar?.principal) return null
 

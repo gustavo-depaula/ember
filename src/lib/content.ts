@@ -151,7 +151,10 @@ export type ChapterResult = {
 
 // Resolve a bookId to a Bolls numeric ID. bookId can be either a numeric string
 // (from the Bible reader) or a DRB slug (from lectio track entries).
-async function resolveBollsBookId(translation: string, bookId: string): Promise<number | undefined> {
+async function resolveBollsBookId(
+  translation: string,
+  bookId: string,
+): Promise<number | undefined> {
   const numeric = Number.parseInt(bookId, 10)
   if (!Number.isNaN(numeric)) return numeric
 

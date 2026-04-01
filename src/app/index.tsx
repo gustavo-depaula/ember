@@ -85,9 +85,7 @@ export default function HomeScreen() {
         router.push(`/plan/${practiceId}` as any)
         return
       }
-      if (manifest.program) {
-        router.push(`/practices/${practiceId}/program` as any)
-      } else if (manifest.flows.length > 1) {
+      if (manifest.flows.length > 1) {
         router.push(`/plan/${practiceId}` as any)
       } else {
         router.push(`/pray/${practiceId}` as any)

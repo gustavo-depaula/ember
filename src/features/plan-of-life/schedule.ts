@@ -22,6 +22,7 @@ type ScheduleRule =
   | { type: 'nth-weekday'; n: number; day: number }
   | { type: 'times-per'; count: number; period: 'week' | 'month' }
   | { type: 'fixed-program'; totalDays: number; startDate: string }
+  | { type: 'periodic-series'; rule: ScheduleRule; totalOccurrences: number; startDate: string }
 
 // --- Parsing ---
 
@@ -58,6 +59,17 @@ export function isApplicableOn(schedule: Schedule, date: Date, season?: Liturgic
       const dayIndex = differenceInCalendarDays(date, start)
       return dayIndex >= 0 && dayIndex < schedule.totalDays
     }
+
+    case 'periodic-series': {
+      if (!schedule.startDate) return false
+      const seriesStart = parseISO(schedule.startDate)
+      if (date < seriesStart) return false
+      return isApplicableOn(
+        { ...schedule.rule, seasons: schedule.seasons } as Schedule,
+        date,
+        season,
+      )
+    }
   }
 }
 
@@ -85,6 +97,15 @@ export function getPeriodBounds(date: Date, period: 'week' | 'month'): { start: 
     start: startOfMonth(date),
     end: endOfMonth(date),
   }
+}
+
+// --- Program helpers ---
+
+export function getProgramDay(schedule: Schedule, date: Date): number | undefined {
+  if (schedule.type !== 'fixed-program' || !schedule.startDate) return undefined
+  const start = parseISO(schedule.startDate)
+  const day = differenceInCalendarDays(date, start)
+  return day >= 0 && day < schedule.totalDays ? day : undefined
 }
 
 // --- Nth weekday helper ---

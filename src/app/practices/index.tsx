@@ -118,10 +118,16 @@ function PracticeCard({
             </Text>
           )}
           <XStack gap="$sm" alignItems="center" marginTop={2}>
-            {manifest.estimatedMinutes && (
-              <Text fontFamily="$body" fontSize={11} color="$colorSecondary">
-                {t('catalog.estimatedTime', { minutes: manifest.estimatedMinutes })}
+            {manifest.program ? (
+              <Text fontFamily="$body" fontSize={11} color="$accent">
+                {t('program.durationDays', { count: manifest.program.totalDays })}
               </Text>
+            ) : (
+              manifest.estimatedMinutes > 0 && (
+                <Text fontFamily="$body" fontSize={11} color="$colorSecondary">
+                  {t('catalog.estimatedTime', { minutes: manifest.estimatedMinutes })}
+                </Text>
+              )
             )}
             {inPlan && (
               <Text fontFamily="$body" fontSize={11} color="$accent">

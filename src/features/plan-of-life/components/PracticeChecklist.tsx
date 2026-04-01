@@ -11,6 +11,7 @@ export type ChecklistItem = {
   slot_id: string
   name: string
   icon: string
+  subtitle?: string
 }
 
 export function PracticeChecklist({
@@ -43,9 +44,16 @@ export function PracticeChecklist({
               gap="$md"
             >
               <Text fontSize={20}>{getPracticeIcon(item.icon)}</Text>
-              <Text flex={1} fontFamily="$body" fontSize="$3" color="$color">
-                {item.name}
-              </Text>
+              <YStack flex={1} gap={1}>
+                <Text fontFamily="$body" fontSize="$3" color="$color">
+                  {item.name}
+                </Text>
+                {item.subtitle && (
+                  <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
+                    {item.subtitle}
+                  </Text>
+                )}
+              </YStack>
               {readOnly ? (
                 <Text fontSize={14} fontFamily="$body" color={done ? '$accent' : '$colorSecondary'}>
                   {done ? '✓' : '–'}
