@@ -1,5 +1,6 @@
 {
   "id": "morning-offering",
+  "icon": "sunrise",
   "name": { "en": "Morning Offering", "pt-BR": "Oferecimento do Dia" },
   "categories": ["daily"],
   "estimatedMinutes": 1,

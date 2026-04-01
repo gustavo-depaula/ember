@@ -1,5 +1,6 @@
 {
   "id": "acts-faith-hope-charity",
+  "icon": "prayer",
   "name": { "en": "Acts of Faith, Hope & Charity", "pt-BR": "Atos de Fé, Esperança e Caridade" },
   "categories": ["daily", "devotion"],
   "estimatedMinutes": 3,

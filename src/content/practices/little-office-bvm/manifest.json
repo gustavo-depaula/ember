@@ -1,5 +1,6 @@
 {
   "id": "little-office-bvm",
+  "icon": "mary",
   "name": {
     "en": "Little Office of the BVM",
     "pt-BR": "Pequeno Of\u00edcio de Nossa Senhora"
@@ -17,6 +18,9 @@
   "howToPray": {
     "en": "Choose the hour that corresponds to the current time of day. The eight canonical hours span the entire day: Matins (night/early morning), Lauds (dawn), Prime (early morning), Terce (mid-morning), Sext (midday), None (mid-afternoon), Vespers (evening), and Compline (night). Each hour follows the traditional structure: opening verse, hymn, psalmody, Scripture reading, canticle, and closing prayer. For a simpler practice, focus on Lauds (morning), Vespers (evening), and Compline (night).",
     "pt-BR": "Escolha a hora que corresponde ao momento atual do dia. As oito horas can\u00f4nicas abrangem o dia inteiro: Matinas (noite/madrugada), Laudes (aurora), Prima (in\u00edcio da manh\u00e3), Ter\u00e7a (meio da manh\u00e3), Sexta (meio-dia), Noa (meio da tarde), V\u00e9speras (tarde) e Completas (noite). Cada hora segue a estrutura tradicional: vers\u00edculo de abertura, hino, salm\u00f3dia, leitura b\u00edblica, c\u00e2ntico e ora\u00e7\u00e3o final. Para uma pr\u00e1tica mais simples, concentre-se em Laudes (manh\u00e3), V\u00e9speras (tarde) e Completas (noite)."
+  },
+  "data": {
+    "office-hymns": "../divine-office/data/office-hymns.json"
   },
   "flowMode": "scroll",
   "completion": "flow-end",

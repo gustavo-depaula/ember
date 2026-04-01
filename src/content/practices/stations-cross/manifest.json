@@ -1,5 +1,6 @@
 {
   "id": "stations-cross",
+  "icon": "cross",
   "name": { "en": "Stations of the Cross", "pt-BR": "Via Sacra" },
   "categories": ["lenten", "meditation", "passion"],
   "estimatedMinutes": 30,

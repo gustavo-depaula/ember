@@ -1,5 +1,6 @@
 {
   "id": "mental-prayer",
+  "icon": "prayer",
   "name": { "en": "Mental Prayer", "pt-BR": "Oração Mental" },
   "categories": ["daily", "contemplative"],
   "estimatedMinutes": 15,

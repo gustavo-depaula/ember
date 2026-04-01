@@ -1,5 +1,6 @@
 {
   "id": "visit-blessed-sacrament",
+  "icon": "eucharist",
   "name": { "en": "Visit to the Blessed Sacrament", "pt-BR": "Visita ao Santíssimo Sacramento" },
   "categories": ["eucharistic", "contemplative"],
   "estimatedMinutes": 15,

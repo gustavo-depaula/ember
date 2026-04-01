@@ -1,5 +1,6 @@
 {
   "id": "grace-meals",
+  "icon": "prayer",
   "name": { "en": "Grace Before & After Meals", "pt-BR": "Bênção das Refeições" },
   "categories": ["daily", "devotion", "family"],
   "estimatedMinutes": 1,

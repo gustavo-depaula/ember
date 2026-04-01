@@ -1,5 +1,6 @@
 {
   "id": "spiritual-reading",
+  "icon": "book",
   "name": { "en": "Spiritual Reading", "pt-BR": "Leitura Espiritual" },
   "categories": ["daily", "formation"],
   "estimatedMinutes": 15,

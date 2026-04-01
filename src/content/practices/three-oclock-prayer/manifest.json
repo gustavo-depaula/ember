@@ -1,5 +1,6 @@
 {
   "id": "three-oclock-prayer",
+  "icon": "mercy",
   "name": { "en": "Three O'Clock Prayer", "pt-BR": "Oração das Três da Tarde" },
   "categories": ["daily", "chaplet"],
   "estimatedMinutes": 2,

@@ -1,5 +1,6 @@
 {
   "id": "prayer-st-michael",
+  "icon": "angel",
   "name": { "en": "Prayer to St. Michael", "pt-BR": "Oração a São Miguel Arcanjo" },
   "categories": ["saints", "angels", "protection", "devotion"],
   "estimatedMinutes": 3,

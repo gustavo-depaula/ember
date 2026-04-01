@@ -1,5 +1,6 @@
 {
   "id": "divine-mercy",
+  "icon": "mercy",
   "name": { "en": "Divine Mercy Chaplet", "pt-BR": "Terço da Misericórdia Divina" },
   "categories": ["daily", "chaplet"],
   "estimatedMinutes": 10,

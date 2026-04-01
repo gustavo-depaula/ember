@@ -1,5 +1,6 @@
 {
   "id": "veni-creator",
+  "icon": "prayer",
   "name": { "en": "Veni Creator Spiritus", "pt-BR": "Veni Creator Spiritus" },
   "categories": ["holy-spirit", "hymn", "devotion"],
   "estimatedMinutes": 5,

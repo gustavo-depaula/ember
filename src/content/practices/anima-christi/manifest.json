@@ -1,5 +1,6 @@
 {
   "id": "anima-christi",
+  "icon": "eucharist",
   "name": { "en": "Anima Christi", "pt-BR": "Alma de Cristo" },
   "categories": ["eucharistic", "devotion", "daily"],
   "estimatedMinutes": 2,

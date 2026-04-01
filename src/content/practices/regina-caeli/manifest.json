@@ -1,5 +1,6 @@
 {
   "id": "regina-caeli",
+  "icon": "mary",
   "name": { "en": "Regina Caeli", "pt-BR": "Rainha do Céu" },
   "categories": ["marian", "seasonal", "liturgical"],
   "estimatedMinutes": 3,

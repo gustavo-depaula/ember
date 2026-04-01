@@ -1,5 +1,6 @@
 {
   "id": "guardian-angel",
+  "icon": "angel",
   "name": { "en": "Guardian Angel Prayer", "pt-BR": "Oração ao Anjo da Guarda" },
   "categories": ["daily", "angelic"],
   "estimatedMinutes": 1,

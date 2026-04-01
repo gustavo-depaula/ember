@@ -1,5 +1,6 @@
 {
   "id": "preces-opus-dei",
+  "icon": "prayer",
   "name": { "en": "Preces (Opus Dei)", "pt-BR": "Preces (Opus Dei)" },
   "categories": ["daily"],
   "estimatedMinutes": 5,

@@ -1,5 +1,6 @@
 {
   "id": "memorare",
+  "icon": "mary",
   "name": { "en": "Memorare", "pt-BR": "Lembrai-vos" },
   "categories": ["marian"],
   "estimatedMinutes": 1,
