@@ -115,3 +115,4 @@ Ember has a complete MVP (Phases 0–9a). See [tasks.md](tasks.md) for full impl
 - [Daily Readings](features/daily-readings.md) — research phase
 - [Reading Config](features/reading-config.md)
 - [Internationalization](features/i18n.md)
+- [Programs](features/programs.md) — time-bounded practices (novenas, consecrations, First Fridays)

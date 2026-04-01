@@ -13,10 +13,12 @@ import {
   SectionDivider,
 } from '@/components'
 import { getManifest, getManifestIconKey } from '@/content/practices'
+import { createProgramCursor } from '@/db/repositories'
 import { getPracticeIcon } from '@/db/seed'
 import {
   useCreatePractice,
   useEnableSlotsForPractice,
+  useProgramProgress,
   useSlotsForPractice,
   useUpdateSlot,
 } from '@/features/plan-of-life'
@@ -42,6 +44,7 @@ export default function CatalogDetailScreen() {
   const updateSlot = useUpdateSlot()
   const enableSlots = useEnableSlotsForPractice()
   const [showEditor, setShowEditor] = useState(false)
+  const { data: programProgress } = useProgramProgress(manifest?.id ?? '', manifest?.program)
 
   if (!manifest) {
     return (
@@ -56,6 +59,7 @@ export default function CatalogDetailScreen() {
   }
 
   const iconKey = getManifestIconKey(manifest.id)
+  const isProgram = !!manifest.program
 
   function handleAddToPlan() {
     if (firstSlot && !firstSlot.enabled) {
@@ -63,6 +67,35 @@ export default function CatalogDetailScreen() {
     } else {
       setShowEditor(true)
     }
+  }
+
+  function handleBeginProgram() {
+    if (!manifest?.program) return
+    const { program, id: practiceId } = manifest
+    const today = new Date().toISOString().split('T')[0]
+    const schedule =
+      program.progressPolicy === 'wait'
+        ? { type: 'daily' as const }
+        : {
+            type: 'fixed-program' as const,
+            totalDays: program.totalDays,
+            startDate: today,
+          }
+    createPractice.mutate(
+      {
+        id: practiceId,
+        slot: {
+          tier: 'extra' as const,
+          schedule: JSON.stringify(schedule),
+        },
+      },
+      {
+        onSuccess: async () => {
+          await createProgramCursor(practiceId)
+          router.push(`/practices/${practiceId}/program` as any)
+        },
+      },
+    )
   }
 
   function handleSave(data: PracticeFormData) {
@@ -100,10 +133,16 @@ export default function CatalogDetailScreen() {
               {localizeContent(manifest.name)}
             </Text>
             <XStack gap="$sm">
-              {manifest.estimatedMinutes && (
-                <Text fontFamily="$body" fontSize={11} color="$colorSecondary">
-                  {t('catalog.estimatedTime', { minutes: manifest.estimatedMinutes })}
+              {isProgram ? (
+                <Text fontFamily="$body" fontSize={11} color="$accent">
+                  {t('program.durationDays', { count: manifest.program?.totalDays })}
                 </Text>
+              ) : (
+                manifest.estimatedMinutes > 0 && (
+                  <Text fontFamily="$body" fontSize={11} color="$colorSecondary">
+                    {t('catalog.estimatedTime', { minutes: manifest.estimatedMinutes })}
+                  </Text>
+                )
               )}
               {manifest.categories.map((cat) => (
                 <Text key={cat} fontFamily="$body" fontSize={11} color="$colorSecondary">
@@ -114,15 +153,51 @@ export default function CatalogDetailScreen() {
           </YStack>
         </XStack>
 
-        {manifest.flows.length === 1 && <PrayButton practiceId={manifest.id} />}
+        {!isProgram && manifest.flows.length === 1 && <PrayButton practiceId={manifest.id} />}
 
-        {manifest.flows.length > 1 && (
+        {!isProgram && manifest.flows.length > 1 && (
           <YStack gap="$sm">
             <FlowButtons practiceId={manifest.id} flows={manifest.flows} />
           </YStack>
         )}
 
-        {isInPlan ? (
+        {isProgram ? (
+          isInPlan ? (
+            <AnimatedPressable
+              onPress={() => router.push(`/practices/${manifest.id}/program` as any)}
+            >
+              <YStack
+                backgroundColor="$accent"
+                borderRadius="$md"
+                paddingVertical="$sm"
+                alignItems="center"
+                gap={4}
+              >
+                <Text fontFamily="$heading" fontSize="$3" color="white">
+                  {programProgress
+                    ? t('program.dayOf', {
+                        day: programProgress.programDay + 1,
+                        total: programProgress.totalDays,
+                      })
+                    : t('catalog.alreadyInPlan')}
+                </Text>
+              </YStack>
+            </AnimatedPressable>
+          ) : (
+            <AnimatedPressable onPress={handleBeginProgram}>
+              <YStack
+                backgroundColor="$accent"
+                borderRadius="$md"
+                paddingVertical="$sm"
+                alignItems="center"
+              >
+                <Text fontFamily="$heading" fontSize="$3" color="white">
+                  {t('program.begin')}
+                </Text>
+              </YStack>
+            </AnimatedPressable>
+          )
+        ) : isInPlan ? (
           <Pressable onPress={() => router.push(`/plan/${manifest.id}`)}>
             <XStack
               backgroundColor="$backgroundSurface"

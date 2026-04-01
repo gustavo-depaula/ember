@@ -1,8 +1,15 @@
+export type { ProgramCursorPosition } from './cursors'
 export {
   advanceIndex,
+  advanceProgramDay,
+  completeProgramCursor,
+  createProgramCursor,
   ensureCursor,
   getCursor,
   getCursorsWithPrefix,
+  getProgramCursor,
+  parseProgramPosition,
+  restartProgram,
   setCursor,
   setIndex,
 } from './cursors'

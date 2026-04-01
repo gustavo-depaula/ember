@@ -1,5 +1,5 @@
 import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
-
+import type { ProgramConfig } from '@/content/types'
 import {
   addSlot,
   createPracticeWithSlot,
@@ -13,16 +13,20 @@ import {
   getCompletionsForPractice,
   getEnabledSlots,
   getPractice,
+  getProgramCursor,
   getSlotsForPractice,
   logCompletion,
+  parseProgramPosition,
   removeCompletion,
   reorderSlots,
   toggleCompletion,
   updatePractice,
   updateSlot,
 } from '@/db/repositories'
+import { getToday } from '@/hooks/useToday'
 import { rescheduleAllReminders } from '@/lib/notifications'
 
+import { getProgramDay, parseSchedule } from './schedule'
 import { getPracticeStreak } from './utils'
 
 // --- Slot queries ---
@@ -92,6 +96,41 @@ export function usePracticeCompletionStats(practiceId: string) {
       const totalDays = completedDates.length
       return { currentStreak, totalDays, completedDates }
     },
+  })
+}
+
+// --- Program progress ---
+
+export function useProgramProgress(practiceId: string, program: ProgramConfig | undefined) {
+  return useQuery({
+    queryKey: ['programProgress', practiceId],
+    queryFn: async () => {
+      if (!program) return undefined
+
+      const cursor = await getProgramCursor(practiceId)
+      const position = cursor ? parseProgramPosition(cursor) : { day: 0, status: 'active' as const }
+
+      // For 'continue' policy, derive programDay from the schedule's startDate
+      // For 'wait' policy, use the cursor (only advances on completion)
+      let programDay = position.day
+      if (program.progressPolicy === 'continue') {
+        const slots = await getSlotsForPractice(practiceId)
+        const slot = slots[0]
+        if (slot) {
+          const schedule = parseSchedule(slot.schedule)
+          const calendarDay = getProgramDay(schedule, getToday())
+          if (calendarDay !== undefined) programDay = calendarDay
+        }
+      }
+
+      return {
+        programDay,
+        totalDays: program.totalDays,
+        isComplete: position.status === 'completed',
+        policy: program.progressPolicy,
+      }
+    },
+    enabled: !!program,
   })
 }
 

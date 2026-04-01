@@ -44,3 +44,50 @@ export async function setIndex(id: string, index: number): Promise<void> {
     [index, id],
   )
 }
+
+// --- Program cursors ---
+
+export type ProgramCursorPosition = {
+  day: number
+  status: 'active' | 'completed'
+}
+
+function programCursorId(practiceId: string): string {
+  return `program/${practiceId}`
+}
+
+export function getProgramCursor(practiceId: string): Promise<Cursor | null> {
+  return getCursor(programCursorId(practiceId))
+}
+
+export function parseProgramPosition(cursor: Cursor): ProgramCursorPosition {
+  return JSON.parse(cursor.position) as ProgramCursorPosition
+}
+
+export async function createProgramCursor(practiceId: string): Promise<void> {
+  await setCursor(programCursorId(practiceId), JSON.stringify({ day: 0, status: 'active' }))
+}
+
+export async function advanceProgramDay(practiceId: string): Promise<void> {
+  const id = programCursorId(practiceId)
+  await getDb().runAsync(
+    "UPDATE cursors SET position = json_set(position, '$.day', json_extract(position, '$.day') + 1) WHERE id = ?",
+    [id],
+  )
+}
+
+export async function restartProgram(practiceId: string): Promise<void> {
+  const id = programCursorId(practiceId)
+  await getDb().runAsync(
+    "UPDATE cursors SET position = json_set(json_set(position, '$.day', 0), '$.status', 'active') WHERE id = ?",
+    [id],
+  )
+}
+
+export async function completeProgramCursor(practiceId: string): Promise<void> {
+  const id = programCursorId(practiceId)
+  await getDb().runAsync(
+    "UPDATE cursors SET position = json_set(position, '$.status', 'completed') WHERE id = ?",
+    [id],
+  )
+}

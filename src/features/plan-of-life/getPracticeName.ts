@@ -3,6 +3,7 @@ import type { TFunction } from 'i18next'
 import { getManifest, getManifestIconKey } from '@/content/practices'
 import type { UserPracticeSlot } from '@/db/schema'
 import { localizeContent } from '@/lib/i18n'
+import { getProgramDay, parseSchedule } from './schedule'
 
 export function getPracticeIconKey(slot: UserPracticeSlot): string {
   if (slot.custom_icon) return slot.custom_icon
@@ -43,10 +44,20 @@ function localizeManifestName(
 export function enrichSlot(
   slot: UserPracticeSlot,
   t: TFunction,
-): UserPracticeSlot & { name: string; icon: string } {
+  programDayOverride?: number,
+): UserPracticeSlot & { name: string; icon: string; subtitle?: string } {
+  const manifest = getManifest(slot.practice_id)
+  const subtitle = (() => {
+    if (!manifest?.program) return undefined
+    const day = programDayOverride ?? getProgramDay(parseSchedule(slot.schedule), new Date())
+    if (day === undefined) return undefined
+    return t('program.dayOf', { day: day + 1, total: manifest.program.totalDays })
+  })()
+
   return {
     ...slot,
     name: getSlotName(slot, t),
     icon: getPracticeIconKey(slot),
+    subtitle,
   }
 }

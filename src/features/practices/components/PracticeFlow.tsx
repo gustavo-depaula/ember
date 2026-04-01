@@ -39,13 +39,14 @@ import {
   loadVariant,
 } from '@/content/practices'
 import type { RenderedSection } from '@/content/types'
+import { advanceProgramDay, completeProgramCursor } from '@/db/repositories'
 import {
   ensurePracticeCursors,
   useAdvanceCursor,
   useCursorsForPractice,
   usePsalmsForHour,
 } from '@/features/divine-office'
-import { useLogCompletion, useSlots } from '@/features/plan-of-life'
+import { useLogCompletion, useProgramProgress, useSlots } from '@/features/plan-of-life'
 import { useReadingMargin } from '@/hooks/useReadingStyle'
 import { getPsalmNumbering } from '@/lib/bolls'
 import { getCccParagraphs } from '@/lib/catechism'
@@ -101,7 +102,7 @@ function findTrackIds(sections: RenderedSection[]): string[] {
 export function PracticeFlow({
   practiceId,
   flowId: flowIdProp,
-  programDay,
+  programDay: programDayProp,
 }: {
   practiceId: string
   flowId?: string
@@ -116,6 +117,8 @@ export function PracticeFlow({
   const advanceCursor = useAdvanceCursor()
 
   const manifest = getManifest(practiceId)
+  const { data: programProgress } = useProgramProgress(practiceId, manifest?.program)
+  const programDay = programDayProp ?? programProgress?.programDay
 
   const { data: slots = [] } = useSlots()
   const currentSlot = slots.find((s) => s.practice_id === practiceId)
@@ -288,6 +291,13 @@ export function PracticeFlow({
                 }),
               ),
             )
+          }
+          if (manifest?.program) {
+            await advanceProgramDay(practiceId)
+            if (programProgress && programProgress.programDay + 1 >= manifest.program.totalDays) {
+              await completeProgramCursor(practiceId)
+            }
+            queryClient.invalidateQueries({ queryKey: ['programProgress', practiceId] })
           }
           router.back()
         },

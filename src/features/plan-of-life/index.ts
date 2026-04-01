@@ -14,6 +14,7 @@ export {
   useLogCompletion,
   usePractice,
   usePracticeCompletionStats,
+  useProgramProgress,
   useRemoveCompletion,
   useReorderSlots,
   useSlots,
