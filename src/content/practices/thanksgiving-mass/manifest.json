@@ -1,5 +1,6 @@
 {
   "id": "thanksgiving-mass",
+  "icon": "eucharist",
   "name": { "en": "Thanksgiving After Mass", "pt-BR": "Ação de Graças após a Missa" },
   "categories": ["eucharist", "devotion", "mass"],
   "estimatedMinutes": 10,

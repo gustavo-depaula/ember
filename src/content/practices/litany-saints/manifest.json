@@ -1,5 +1,6 @@
 {
   "id": "litany-saints",
+  "icon": "prayer",
   "name": { "en": "Litany of All Saints", "pt-BR": "Ladainha de Todos os Santos" },
   "categories": ["litany", "saints", "devotion"],
   "estimatedMinutes": 10,

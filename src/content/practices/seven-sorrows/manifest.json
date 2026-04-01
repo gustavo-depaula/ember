@@ -1,5 +1,6 @@
 {
   "id": "seven-sorrows",
+  "icon": "mary",
   "name": { "en": "Chaplet of the Seven Sorrows", "pt-BR": "Coroa das Sete Dores" },
   "categories": ["marian", "chaplet", "meditation", "passion"],
   "estimatedMinutes": 25,

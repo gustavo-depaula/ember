@@ -1,5 +1,6 @@
 {
   "id": "lectio-divina",
+  "icon": "book",
   "name": { "en": "Lectio Divina", "pt-BR": "Lectio Divina" },
   "categories": ["daily", "contemplative", "formation"],
   "estimatedMinutes": 20,

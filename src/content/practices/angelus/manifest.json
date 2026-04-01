@@ -1,5 +1,6 @@
 {
   "id": "angelus",
+  "icon": "bell",
   "name": { "en": "Angelus", "pt-BR": "Angelus" },
   "categories": ["daily", "marian"],
   "estimatedMinutes": 3,

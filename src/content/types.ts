@@ -52,6 +52,7 @@ export type PracticeManifest = {
   name: LocalizedText
   categories: string[]
   estimatedMinutes: number
+  icon?: string
   image?: string
   thumbnail?: string
   description: LocalizedText

@@ -1,5 +1,6 @@
 {
   "id": "act-consecration-sacred-heart",
+  "icon": "sacred-heart",
   "name": { "en": "Act of Consecration to the Sacred Heart", "pt-BR": "Ato de Consagração ao Sagrado Coração de Jesus" },
   "categories": ["sacred-heart", "devotion", "consecration"],
   "estimatedMinutes": 5,

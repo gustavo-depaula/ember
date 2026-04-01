@@ -1,5 +1,6 @@
 {
   "id": "spiritual-communion",
+  "icon": "eucharist",
   "name": { "en": "Act of Spiritual Communion", "pt-BR": "Ato de Comunhão Espiritual" },
   "categories": ["eucharist", "devotion"],
   "estimatedMinutes": 2,

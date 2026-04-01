@@ -1,5 +1,6 @@
 {
   "id": "examination-of-conscience",
+  "icon": "prayer",
   "name": { "en": "Examination of Conscience", "pt-BR": "Exame de Consciência" },
   "categories": ["daily", "contemplative"],
   "estimatedMinutes": 5,

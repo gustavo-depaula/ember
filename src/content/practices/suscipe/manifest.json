@@ -1,5 +1,6 @@
 {
   "id": "suscipe",
+  "icon": "prayer",
   "name": { "en": "Suscipe", "pt-BR": "Suscipe" },
   "categories": ["ignatian", "devotion", "daily"],
   "estimatedMinutes": 2,

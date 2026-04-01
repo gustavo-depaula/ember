@@ -1,5 +1,6 @@
 {
   "id": "act-contrition",
+  "icon": "cross",
   "name": { "en": "Act of Contrition", "pt-BR": "Ato de Contrição" },
   "categories": ["daily", "devotion", "penance"],
   "estimatedMinutes": 2,

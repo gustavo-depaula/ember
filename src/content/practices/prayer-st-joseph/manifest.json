@@ -1,5 +1,6 @@
 {
   "id": "prayer-st-joseph",
+  "icon": "prayer",
   "name": { "en": "Prayer to St. Joseph", "pt-BR": "Oração a São José" },
   "categories": ["saints", "devotion", "family"],
   "estimatedMinutes": 3,

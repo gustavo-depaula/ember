@@ -1,5 +1,6 @@
 {
   "id": "mass",
+  "icon": "cross",
   "name": { "en": "Holy Mass", "pt-BR": "Santa Missa" },
   "categories": ["liturgy"],
   "estimatedMinutes": 60,

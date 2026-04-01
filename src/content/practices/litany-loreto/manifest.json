@@ -1,5 +1,6 @@
 {
   "id": "litany-loreto",
+  "icon": "mary",
   "name": { "en": "Litany of Our Lady of Loreto", "pt-BR": "Ladainha de Nossa Senhora" },
   "categories": ["marian", "litany"],
   "estimatedMinutes": 10,

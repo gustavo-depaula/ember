@@ -1,5 +1,6 @@
 {
   "id": "night-prayer",
+  "icon": "prayer",
   "name": { "en": "Night Prayer", "pt-BR": "Oração da Noite" },
   "categories": ["daily"],
   "estimatedMinutes": 5,

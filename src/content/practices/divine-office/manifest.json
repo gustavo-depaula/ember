@@ -1,5 +1,6 @@
 {
   "id": "divine-office",
+  "icon": "prayer",
   "name": {
     "en": "Divine Office",
     "pt-BR": "Ofício Divino"
@@ -20,7 +21,8 @@
   },
   "data": {
     "psalter-30-day": "data/psalter-30-day.json",
-    "compline-psalms": "data/compline-psalms.json"
+    "compline-psalms": "data/compline-psalms.json",
+    "office-hymns": "data/office-hymns.json"
   },
   "tracks": {
     "ot-readings": "data/ot-readings.json",

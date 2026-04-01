@@ -1,5 +1,6 @@
 {
   "id": "rosary",
+  "icon": "rosary",
   "name": { "en": "Holy Rosary", "pt-BR": "Santo Rosário" },
   "categories": ["daily", "marian", "meditation"],
   "estimatedMinutes": 20,

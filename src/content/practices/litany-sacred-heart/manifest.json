@@ -1,5 +1,6 @@
 {
   "id": "litany-sacred-heart",
+  "icon": "sacred-heart",
   "name": { "en": "Litany of the Sacred Heart", "pt-BR": "Ladainha do Sagrado Coração de Jesus" },
   "categories": ["litany", "sacred-heart", "devotion"],
   "estimatedMinutes": 10,

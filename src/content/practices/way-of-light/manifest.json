@@ -1,5 +1,6 @@
 {
   "id": "way-of-light",
+  "icon": "cross",
   "name": { "en": "Way of Light", "pt-BR": "Via Lucis" },
   "categories": ["resurrection", "meditation", "easter"],
   "estimatedMinutes": 30,

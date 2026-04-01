@@ -1,5 +1,6 @@
 {
   "id": "confession",
+  "icon": "cross",
   "name": { "en": "Confession", "pt-BR": "Confissão" },
   "categories": ["sacramental"],
   "estimatedMinutes": 10,
