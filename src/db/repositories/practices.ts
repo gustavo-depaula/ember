@@ -18,7 +18,7 @@ export async function createPractice(data: {
   customDesc?: string
 }): Promise<void> {
   await getDb().runAsync(
-    'INSERT INTO user_practices (practice_id, custom_name, custom_icon, custom_desc) VALUES (?, ?, ?, ?)',
+    'INSERT OR IGNORE INTO user_practices (practice_id, custom_name, custom_icon, custom_desc) VALUES (?, ?, ?, ?)',
     [data.id, data.customName ?? null, data.customIcon ?? null, data.customDesc ?? null],
   )
 }
@@ -65,7 +65,7 @@ export async function createPracticeWithSlot(
   let slotKey = ''
   await db.withTransactionAsync(async () => {
     await db.runAsync(
-      'INSERT INTO user_practices (practice_id, custom_name, custom_icon, custom_desc) VALUES (?, ?, ?, ?)',
+      'INSERT OR IGNORE INTO user_practices (practice_id, custom_name, custom_icon, custom_desc) VALUES (?, ?, ?, ?)',
       [
         practice.id,
         practice.customName ?? null,
