@@ -1,0 +1,35 @@
+{
+  "id": "prayers-st-thomas-aquinas",
+  "icon": "book",
+  "name": { "en": "Prayers of St. Thomas Aquinas", "pt-BR": "Orações de Santo Tomás de Aquino" },
+  "categories": ["saints", "devotion", "eucharistic"],
+  "estimatedMinutes": 3,
+  "description": {
+    "en": "A collection of prayers composed by St. Thomas Aquinas (1225–1274), the Angelic Doctor and patron saint of students and scholars. These include his beloved prayers before and after study, his Eucharistic prayers for Holy Communion, and the hymn Adoro Te Devote.",
+    "pt-BR": "Uma coleção de orações compostas por Santo Tomás de Aquino (1225–1274), o Doutor Angélico e padroeiro dos estudantes e estudiosos. Incluem suas queridas orações antes e depois do estudo, suas orações eucarísticas para a Sagrada Comunhão e o hino Adoro Te Devote."
+  },
+  "history": {
+    "en": "St. Thomas Aquinas, a Dominican friar and Doctor of the Church, is considered one of the greatest theologians in Christian history. His Summa Theologiae remains a cornerstone of Catholic philosophy. Beyond his intellectual works, Aquinas was a man of deep prayer — he composed several hymns for the Feast of Corpus Christi at the request of Pope Urban IV, including the Adoro Te Devote and Tantum Ergo. His prayers before and after study reflect his conviction that all knowledge begins and ends in God.",
+    "pt-BR": "Santo Tomás de Aquino, frade dominicano e Doutor da Igreja, é considerado um dos maiores teólogos da história cristã. Sua Suma Teológica continua sendo uma pedra angular da filosofia católica. Além de suas obras intelectuais, Aquino era um homem de profunda oração — compôs vários hinos para a Festa de Corpus Christi a pedido do Papa Urbano IV, incluindo o Adoro Te Devote e o Tantum Ergo. Suas orações antes e depois do estudo refletem sua convicção de que todo conhecimento começa e termina em Deus."
+  },
+  "howToPray": {
+    "en": "Choose the prayer that fits your moment: the study prayers before and after intellectual work, the communion prayers before and after receiving the Eucharist, or the Adoro Te Devote during Eucharistic adoration or as a devotional prayer at any time.",
+    "pt-BR": "Escolha a oração que se encaixa no seu momento: as orações de estudo antes e depois do trabalho intelectual, as orações de comunhão antes e depois de receber a Eucaristia, ou o Adoro Te Devote durante a adoração eucarística ou como oração devocional a qualquer momento."
+  },
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "flows": [
+    { "id": "before-study", "name": { "en": "Prayer Before Study", "pt-BR": "Oração Antes do Estudo" }, "file": "flows/before-study.json" },
+    { "id": "after-study", "name": { "en": "Prayer After Study", "pt-BR": "Oração Depois do Estudo" }, "file": "flows/after-study.json" },
+    { "id": "before-communion", "name": { "en": "Prayer Before Communion", "pt-BR": "Oração Antes da Comunhão" }, "file": "flows/before-communion.json" },
+    { "id": "after-communion", "name": { "en": "Prayer After Communion", "pt-BR": "Oração Depois da Comunhão" }, "file": "flows/after-communion.json" },
+    { "id": "adoro-te-devote", "name": { "en": "Adoro Te Devote", "pt-BR": "Adoro Te Devote" }, "file": "flows/adoro-te-devote.json" }
+  ],
+  "tags": ["aquinas", "thomas", "study", "eucharistic", "communion", "doctor-of-the-church", "dominican"],
+  "defaults": {
+    "sortOrder": 40,
+    "slots": [
+      { "flowId": "before-study", "schedule": { "type": "daily" }, "tier": "extra", "enabled": false }
+    ]
+  }
+}

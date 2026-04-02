@@ -1,0 +1,14 @@
+{
+  "sections": [
+    { "type": "prayer", "ref": "sign-of-cross" },
+    { "type": "divider" },
+    {
+      "type": "prayer",
+      "inline": {
+        "en": "Creator of all things, true Source of light and wisdom, lofty origin of all being, graciously let a ray of Your brilliance penetrate into the darkness of my understanding and take from me the double darkness in which I have been born, an obscurity of both sin and ignorance. Give me a sharp sense of understanding, a retentive memory, and the ability to grasp things correctly and fundamentally. Grant me the talent of being exact in my explanations, and the ability to express myself with thoroughness and charm. Point out the beginning, direct the progress, and help in the completion; through Christ our Lord. Amen.",
+        "latin": "Creator ineffabilis, qui de thesauris sapientiae tuae tres Angelorum hierarchias designasti et eas super caelum empyreum miro ordine collocasti atque universi partes elegantissime distribuisti: tu, inquam, qui verus fons luminis et sapientiae diceris ac supereminens principium, infundere digneris super intellectus mei tenebras tuae radium claritatis, duplices in quibus natus sum a me removens tenebras, peccatum scilicet et ignorantiam. Tu, qui linguas infantium facis disertas, linguam meam erudias atque in labiis meis gratiam tuae benedictionis infundas. Da mihi intelligendi acumen, retinendi capacitatem, addiscendi modum et facilitatem, interpretandi subtilitatem, loquendi gratiam copiosam. Ingressum instruas, progressum dirigas, egressum compleas; per Christum Dominum nostrum. Amen.",
+        "pt-BR": "Criador inefável, verdadeira Fonte de luz e sabedoria, origem sublime de todo ser, dignai-Vos derramar sobre as trevas da minha inteligência um raio da Vossa claridade, afastando de mim a dupla obscuridade em que nasci: o pecado e a ignorância. Vós, que tornais eloquentes as línguas das crianças, instruí a minha língua e derramai nos meus lábios a graça da Vossa bênção. Dai-me agudeza para entender, capacidade para reter, método e facilidade para aprender, sutileza para interpretar e graça copiosa para falar. Orientai o começo, dirigi o progresso e completai a conclusão; por Cristo nosso Senhor. Amém."
+      }
+    }
+  ]
+}
