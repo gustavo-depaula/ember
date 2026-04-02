@@ -61,7 +61,7 @@ Inspired by Gothic architecture stained glass (Sainte-Chapelle), memento mori, c
 - **Burgundy** — hour titles in PrayerFlow, canticle/hymn titles, HeroCTA office label
 - **Muted blue** — psalm references, Bible references, CCC paragraph numbers
 - **Cloister green** — "Completed" state, "Done" badges, GreenWall full intensity
-- **Gold** — RubricLabel, SectionDivider, active tab, primary buttons, HeroCTA border
+- **Gold** — RubricLabel (italic, Missal-style), SectionDivider, active tab, primary buttons, HeroCTA border
 - **Subtle gold** — ornamental rules, card top borders, ornamental separators
 
 ### Fidelity Wall (Multi-Hue Contribution Heatmap)
@@ -120,7 +120,7 @@ Light and dark modes use separate liturgical accent values — dark mode accents
 
 ### Where Each Font Appears
 - **UnifrakturMaguntia**: PrayerFlow hour title ("Morning Prayer"), HeroCTA office label, "Day complete" text
-- **Cinzel**: RubricLabel ("PSALMODY", "HYMN"), time block labels, tab labels, office hour card titles, "Begin" text
+- **Cinzel**: subheading labels ("Psalmody", "Hymn"), time block labels, tab labels, office hour card titles, "Begin" text
 - **Reading font** (user-configurable, default EB Garamond): PrayerText, psalm content, Bible readings, catechism text — all reading body copy. See `docs/features/features-overview.md` for reading config details
 - **EB Garamond**: UI text, practice names, settings, non-reading body copy
 - **Pinyon Script**: date display on home screen, "Lauds"/"Vespers"/"Compline" sublabels, "Your next practice", "Rest well. See you tomorrow."

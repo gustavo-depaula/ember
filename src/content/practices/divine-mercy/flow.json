@@ -1,6 +1,6 @@
 {
   "sections": [
-    { "type": "rubric", "text": { "en": "Opening Prayers", "pt-BR": "Orações Iniciais" } },
+    { "type": "subheading", "text": { "en": "Opening Prayers", "pt-BR": "Orações Iniciais" } },
     { "type": "prayer", "ref": "sign-of-cross" },
     { "type": "prayer", "ref": "our-father" },
     { "type": "prayer", "ref": "hail-mary" },

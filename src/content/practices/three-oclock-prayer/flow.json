@@ -1,6 +1,6 @@
 {
   "sections": [
-    { "type": "rubric", "text": { "en": "The Hour of Mercy", "pt-BR": "A Hora da Misericórdia" } },
+    { "type": "subheading", "text": { "en": "The Hour of Mercy", "pt-BR": "A Hora da Misericórdia" } },
     { "type": "prayer", "ref": "sign-of-cross" },
     {
       "type": "meditation",

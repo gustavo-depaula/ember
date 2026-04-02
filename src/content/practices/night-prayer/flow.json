@@ -1,9 +1,9 @@
 {
   "sections": [
-    { "type": "rubric", "text": { "en": "Beginning of Night Prayer", "pt-BR": "Início da Oração da Noite" } },
+    { "type": "subheading", "text": { "en": "Beginning of Night Prayer", "pt-BR": "Início da Oração da Noite" } },
     { "type": "prayer", "ref": "sign-of-cross" },
     { "type": "divider" },
-    { "type": "rubric", "text": { "en": "Brief Examination of Conscience", "pt-BR": "Breve Exame de Consciência" } },
+    { "type": "subheading", "text": { "en": "Brief Examination of Conscience", "pt-BR": "Breve Exame de Consciência" } },
     {
       "type": "meditation",
       "text": {
@@ -12,10 +12,10 @@
       }
     },
     { "type": "divider" },
-    { "type": "rubric", "text": { "en": "Act of Contrition", "pt-BR": "Ato de Contrição" } },
+    { "type": "subheading", "text": { "en": "Act of Contrition", "pt-BR": "Ato de Contrição" } },
     { "type": "prayer", "ref": "act-of-contrition" },
     { "type": "divider" },
-    { "type": "rubric", "text": { "en": "Guardian Angel Prayer", "pt-BR": "Oração ao Anjo da Guarda" } },
+    { "type": "subheading", "text": { "en": "Guardian Angel Prayer", "pt-BR": "Oração ao Anjo da Guarda" } },
     {
       "type": "prayer",
       "inline": {
@@ -24,7 +24,7 @@
       }
     },
     { "type": "divider" },
-    { "type": "rubric", "text": { "en": "Consecration of the Night", "pt-BR": "Consagração da Noite" } },
+    { "type": "subheading", "text": { "en": "Consecration of the Night", "pt-BR": "Consagração da Noite" } },
     {
       "type": "prayer",
       "inline": {

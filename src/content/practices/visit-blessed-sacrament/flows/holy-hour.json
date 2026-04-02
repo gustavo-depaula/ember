@@ -1,6 +1,6 @@
 {
   "sections": [
-    { "type": "rubric", "text": { "en": "Opening — The Invitation of Christ", "pt-BR": "Abertura — O Convite de Cristo" } },
+    { "type": "subheading", "text": { "en": "Opening — The Invitation of Christ", "pt-BR": "Abertura — O Convite de Cristo" } },
     { "type": "prayer", "ref": "sign-of-cross" },
     {
       "type": "prayer",
@@ -10,10 +10,10 @@
       }
     },
     { "type": "divider" },
-    { "type": "rubric", "text": { "en": "Adoration — Anima Christi", "pt-BR": "Adoração — Alma de Cristo" } },
+    { "type": "subheading", "text": { "en": "Adoration — Anima Christi", "pt-BR": "Adoração — Alma de Cristo" } },
     { "type": "prayer", "ref": "anima-christi" },
     { "type": "divider" },
-    { "type": "rubric", "text": { "en": "Scripture", "pt-BR": "Escritura" } },
+    { "type": "subheading", "text": { "en": "Scripture", "pt-BR": "Escritura" } },
     {
       "type": "meditation",
       "text": {
@@ -22,7 +22,7 @@
       }
     },
     { "type": "divider" },
-    { "type": "rubric", "text": { "en": "Silent Meditation", "pt-BR": "Meditação Silenciosa" } },
+    { "type": "subheading", "text": { "en": "Silent Meditation", "pt-BR": "Meditação Silenciosa" } },
     {
       "type": "meditation",
       "text": {
@@ -31,7 +31,7 @@
       }
     },
     { "type": "divider" },
-    { "type": "rubric", "text": { "en": "Act of Reparation", "pt-BR": "Ato de Reparação" } },
+    { "type": "subheading", "text": { "en": "Act of Reparation", "pt-BR": "Ato de Reparação" } },
     {
       "type": "prayer",
       "inline": {
@@ -40,7 +40,7 @@
       }
     },
     { "type": "divider" },
-    { "type": "rubric", "text": { "en": "Spiritual Communion & Closing", "pt-BR": "Comunhão Espiritual e Encerramento" } },
+    { "type": "subheading", "text": { "en": "Spiritual Communion & Closing", "pt-BR": "Comunhão Espiritual e Encerramento" } },
     {
       "type": "prayer",
       "inline": {

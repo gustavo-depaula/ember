@@ -1,12 +1,12 @@
 {
   "sections": [
-    { "type": "rubric", "text": { "en": "Preparation", "pt-BR": "Preparação" } },
+    { "type": "subheading", "text": { "en": "Preparation", "pt-BR": "Preparação" } },
     { "type": "prayer", "ref": "sign-of-cross" },
     { "type": "divider" },
-    { "type": "rubric", "text": { "en": "Petition for Light", "pt-BR": "Petição de Luz" } },
+    { "type": "subheading", "text": { "en": "Petition for Light", "pt-BR": "Petição de Luz" } },
     { "type": "prayer", "ref": "come-holy-spirit" },
     { "type": "divider" },
-    { "type": "rubric", "text": { "en": "Examination", "pt-BR": "Exame" } },
+    { "type": "subheading", "text": { "en": "Examination", "pt-BR": "Exame" } },
     {
       "type": "repeat",
       "count": 5,
@@ -17,7 +17,7 @@
         { "type": "divider" }
       ]
     },
-    { "type": "rubric", "text": { "en": "Act of Contrition", "pt-BR": "Ato de Contrição" } },
+    { "type": "subheading", "text": { "en": "Act of Contrition", "pt-BR": "Ato de Contrição" } },
     { "type": "prayer", "ref": "act-of-contrition" }
   ]
 }

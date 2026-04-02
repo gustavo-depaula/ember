@@ -1,6 +1,6 @@
 {
   "sections": [
-    { "type": "rubric", "text": { "en": "Entering the Presence", "pt-BR": "Entrando na Presença" } },
+    { "type": "subheading", "text": { "en": "Entering the Presence", "pt-BR": "Entrando na Presença" } },
     {
       "type": "meditation",
       "text": {
@@ -9,7 +9,7 @@
       }
     },
     { "type": "divider" },
-    { "type": "rubric", "text": { "en": "Adoration", "pt-BR": "Adoração" } },
+    { "type": "subheading", "text": { "en": "Adoration", "pt-BR": "Adoração" } },
     {
       "type": "prayer",
       "inline": {
@@ -21,7 +21,7 @@
     { "type": "divider" },
     { "type": "prayer", "ref": "anima-christi" },
     { "type": "divider" },
-    { "type": "rubric", "text": { "en": "Act of Spiritual Communion", "pt-BR": "Ato de Comunhão Espiritual" } },
+    { "type": "subheading", "text": { "en": "Act of Spiritual Communion", "pt-BR": "Ato de Comunhão Espiritual" } },
     {
       "type": "prayer",
       "inline": {
@@ -30,7 +30,7 @@
       }
     },
     { "type": "divider" },
-    { "type": "rubric", "text": { "en": "Personal Prayer", "pt-BR": "Oração Pessoal" } },
+    { "type": "subheading", "text": { "en": "Personal Prayer", "pt-BR": "Oração Pessoal" } },
     {
       "type": "meditation",
       "text": {

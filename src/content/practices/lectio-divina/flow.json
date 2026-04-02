@@ -1,6 +1,6 @@
 {
   "sections": [
-    { "type": "rubric", "text": { "en": "Lectio — Read", "pt-BR": "Lectio — Ler" } },
+    { "type": "subheading", "text": { "en": "Lectio — Read", "pt-BR": "Lectio — Ler" } },
     {
       "type": "meditation",
       "text": {
@@ -16,7 +16,7 @@
       }
     },
     { "type": "divider" },
-    { "type": "rubric", "text": { "en": "Meditatio — Meditate", "pt-BR": "Meditatio — Meditar" } },
+    { "type": "subheading", "text": { "en": "Meditatio — Meditate", "pt-BR": "Meditatio — Meditar" } },
     {
       "type": "meditation",
       "text": {
@@ -32,7 +32,7 @@
       }
     },
     { "type": "divider" },
-    { "type": "rubric", "text": { "en": "Oratio — Pray", "pt-BR": "Oratio — Orar" } },
+    { "type": "subheading", "text": { "en": "Oratio — Pray", "pt-BR": "Oratio — Orar" } },
     {
       "type": "meditation",
       "text": {
@@ -41,7 +41,7 @@
       }
     },
     { "type": "divider" },
-    { "type": "rubric", "text": { "en": "Contemplatio — Rest", "pt-BR": "Contemplatio — Repousar" } },
+    { "type": "subheading", "text": { "en": "Contemplatio — Rest", "pt-BR": "Contemplatio — Repousar" } },
     {
       "type": "meditation",
       "text": {

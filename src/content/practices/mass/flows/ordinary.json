@@ -8,6 +8,13 @@
 			}
 		},
 		{
+			"type": "rubric",
+			"text": {
+				"en": "All stand. The Priest and the faithful sign themselves with the Sign of the Cross.",
+				"pt-BR": "Todos de pé. O sacerdote e os fiéis fazem o Sinal da Cruz."
+			}
+		},
+		{
 			"type": "prayer",
 			"speaker": "priest",
 			"inline": {
@@ -23,6 +30,13 @@
 				"en": "Amen.",
 				"latin": "Amen.",
 				"pt-BR": "Amém."
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en": "Facing the people and extending his hands, the Priest greets the people.",
+				"pt-BR": "Voltado para o povo, abrindo os braços, o sacerdote saúda o povo."
 			}
 		},
 		{
@@ -114,6 +128,13 @@
 					]
 				}
 			]
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en": "The Penitential Act follows.",
+				"pt-BR": "Segue-se o ato penitencial."
+			}
 		},
 		{
 			"type": "options",
@@ -389,6 +410,13 @@
 			}
 		},
 		{
+			"type": "rubric",
+			"text": {
+				"en": "The Priest, with hands joined, says: Let us pray. All pray silently with the Priest for a brief time. Then the Priest, with hands extended, says the Collect.",
+				"pt-BR": "O sacerdote, de mãos juntas, diz: Oremos. Todos, juntamente com o sacerdote, oram em silêncio por alguns momentos. Depois o sacerdote, de braços abertos, diz a oração coleta."
+			}
+		},
+		{
 			"type": "proper",
 			"slot": "collect",
 			"description": {
@@ -404,6 +432,13 @@
 			"text": {
 				"en": "Liturgy of the Word",
 				"pt-BR": "Liturgia da Palavra"
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en": "All sit.",
+				"pt-BR": "Todos sentam-se."
 			}
 		},
 		{
@@ -449,6 +484,13 @@
 			}
 		},
 		{
+			"type": "rubric",
+			"text": {
+				"en": "All stand.",
+				"pt-BR": "Todos de pé."
+			}
+		},
+		{
 			"type": "subheading",
 			"text": {
 				"en": "Gospel",
@@ -488,6 +530,13 @@
 				"en": "And with your spirit.",
 				"latin": "Et cum spíritu tuo.",
 				"pt-BR": "Ele está no meio de nós."
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en": "The Priest opens the book and, with hands joined, says the greeting. Then he makes the Sign of the Cross with his thumb on the book and on his forehead, mouth, and breast, which everyone else does as well.",
+				"pt-BR": "O sacerdote abre o livro e, de mãos juntas, diz a saudação. Depois faz o Sinal da Cruz com o polegar sobre o livro, na fronte, na boca e no peito, e todos fazem o mesmo."
 			}
 		},
 		{
@@ -535,6 +584,13 @@
 			}
 		},
 		{
+			"type": "rubric",
+			"text": {
+				"en": "All sit. The Priest gives the Homily.",
+				"pt-BR": "Todos sentam-se. O sacerdote faz a homilia."
+			}
+		},
+		{
 			"type": "proper",
 			"slot": "homily",
 			"description": {
@@ -543,10 +599,24 @@
 			}
 		},
 		{
+			"type": "rubric",
+			"text": {
+				"en": "All stand. The Creed is sung or recited by the Priest together with the people.",
+				"pt-BR": "Todos de pé. O Credo é cantado ou recitado pelo sacerdote juntamente com o povo."
+			}
+		},
+		{
 			"type": "subheading",
 			"text": {
 				"en": "Profession of Faith",
 				"pt-BR": "Profissão de Fé"
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en": "At the words \"and by the Holy Spirit was incarnate of the Virgin Mary, and became man,\" all bow profoundly.",
+				"pt-BR": "Às palavras \"e se encarnou pelo Espírito Santo, no seio da Virgem Maria, e se fez homem,\" todos se inclinam profundamente."
 			}
 		},
 		{
@@ -613,10 +683,24 @@
 			}
 		},
 		{
+			"type": "rubric",
+			"text": {
+				"en": "All sit. The Offertory Chant begins.",
+				"pt-BR": "Todos sentam-se. Começa o canto do ofertório."
+			}
+		},
+		{
 			"type": "subheading",
 			"text": {
 				"en": "Preparation of the Gifts",
 				"pt-BR": "Preparação das Oferendas"
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en": "The Priest accepts the paten with the bread at the altar, holds it slightly raised above the altar with both hands, and says quietly:",
+				"pt-BR": "O sacerdote toma a patena com o pão, segura-a um pouco elevada sobre o altar com ambas as mãos e diz em silêncio:"
 			}
 		},
 		{
@@ -638,12 +722,26 @@
 			}
 		},
 		{
+			"type": "rubric",
+			"text": {
+				"en": "Standing at the side of the altar, the Priest pours wine and a little water into the chalice, saying quietly:",
+				"pt-BR": "O sacerdote, ao lado do altar, derrama vinho e um pouco de água no cálice, dizendo em silêncio:"
+			}
+		},
+		{
 			"type": "prayer",
 			"speaker": "priest",
 			"inline": {
 				"en": "By the mystery of this water and wine may we come to share in the divinity of Christ who humbled himself to share in our humanity.",
 				"latin": "Per hujus aquæ et vini mystérium ejus efficiámur divinitátis consórtes, qui humanitátis nostræ fíeri dignátus est párticeps.",
 				"pt-BR": "Pelo mistério desta água e deste vinho, possamos participar da divindade de Cristo, que se dignou assumir a nossa humanidade."
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en": "He returns to the middle of the altar and with both hands raises the chalice a little, and says quietly:",
+				"pt-BR": "Volta ao meio do altar e com ambas as mãos eleva um pouco o cálice, dizendo em silêncio:"
 			}
 		},
 		{
@@ -665,6 +763,13 @@
 			}
 		},
 		{
+			"type": "rubric",
+			"text": {
+				"en": "The Priest bows profoundly and says quietly:",
+				"pt-BR": "O sacerdote inclina-se profundamente e diz em silêncio:"
+			}
+		},
+		{
 			"type": "prayer",
 			"speaker": "priest",
 			"inline": {
@@ -674,12 +779,26 @@
 			}
 		},
 		{
+			"type": "rubric",
+			"text": {
+				"en": "Standing at the side of the altar, the Priest washes his hands, saying quietly:",
+				"pt-BR": "De pé, ao lado do altar, o sacerdote lava as mãos, dizendo em silêncio:"
+			}
+		},
+		{
 			"type": "prayer",
 			"speaker": "priest",
 			"inline": {
 				"en": "Wash me, O Lord, from my iniquity and cleanse me from my sin.",
 				"latin": "Lava me, Dómine, ab iniquitáte mea, et a peccáto meo munda me.",
 				"pt-BR": "Lavai-me, Senhor, das minhas faltas e purificai-me do meu pecado."
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en": "Standing at the middle of the altar, facing the people, the Priest extends and then joins his hands and says:",
+				"pt-BR": "De pé, ao meio do altar, voltado para o povo, o sacerdote abre e junta as mãos e diz:"
 			}
 		},
 		{
@@ -706,6 +825,13 @@
 			"description": {
 				"en": "Prayer over the Offerings",
 				"pt-BR": "Oração sobre as Oferendas"
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en": "All stand. The Priest extends his hands and begins the Preface dialogue.",
+				"pt-BR": "Todos de pé. O sacerdote abre os braços e começa o diálogo do Prefácio."
 			}
 		},
 		{
@@ -1874,6 +2000,13 @@
 			}
 		},
 		{
+			"type": "rubric",
+			"text": {
+				"en": "The Priest takes the host, breaks it over the paten, and places a small piece into the chalice, saying quietly the Haec commixtio.",
+				"pt-BR": "O sacerdote toma a hóstia, parte-a sobre a patena e coloca um pequeno fragmento no cálice, dizendo em silêncio a oração Haec commixtio."
+			}
+		},
+		{
 			"type": "subheading",
 			"text": {
 				"en": "Agnus Dei",
@@ -1897,6 +2030,13 @@
 			}
 		},
 		{
+			"type": "rubric",
+			"text": {
+				"en": "The Priest genuflects, takes a host, and, holding it slightly raised above the paten or above the chalice, facing the people, says:",
+				"pt-BR": "O sacerdote genuflecte, toma a hóstia e, segurando-a um pouco elevada sobre a patena ou o cálice, voltado para o povo, diz:"
+			}
+		},
+		{
 			"type": "prayer",
 			"speaker": "priest",
 			"inline": {
@@ -1915,11 +2055,25 @@
 			}
 		},
 		{
+			"type": "rubric",
+			"text": {
+				"en": "Standing facing the altar, the Priest says quietly the prayer before Communion and reverently consumes the Body of Christ. Then he takes the chalice and reverently partakes of the Blood of Christ.",
+				"pt-BR": "De pé, voltado para o altar, o sacerdote diz em silêncio a oração antes da comunhão e reverentemente recebe o Corpo de Cristo. Depois toma o cálice e reverentemente recebe o Sangue de Cristo."
+			}
+		},
+		{
 			"type": "proper",
 			"slot": "communion",
 			"description": {
 				"en": "Communion Antiphon",
 				"pt-BR": "Antífona da Comunhão"
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en": "All stand.",
+				"pt-BR": "Todos de pé."
 			}
 		},
 		{
@@ -1959,6 +2113,13 @@
 			}
 		},
 		{
+			"type": "rubric",
+			"text": {
+				"en": "The Priest, extending his hands, greets the people. Then, joining his hands and placing his left hand on his breast, he raises his right hand and blesses the people, making the Sign of the Cross over them.",
+				"pt-BR": "O sacerdote, abrindo os braços, saúda o povo. Depois, juntando as mãos e colocando a mão esquerda sobre o peito, levanta a mão direita e abençoa o povo, fazendo o Sinal da Cruz sobre eles."
+			}
+		},
+		{
 			"type": "prayer",
 			"speaker": "priest",
 			"inline": {
@@ -1974,6 +2135,13 @@
 				"en": "Amen.",
 				"latin": "Amen.",
 				"pt-BR": "Amém."
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en": "With hands joined, the Priest adds the Dismissal.",
+				"pt-BR": "De mãos juntas, o sacerdote acrescenta a despedida."
 			}
 		},
 		{

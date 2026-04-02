@@ -1,6 +1,6 @@
 {
   "sections": [
-    { "type": "rubric", "text": { "en": "Thanksgiving After Confession", "pt-BR": "Ação de Graças Após a Confissão" } },
+    { "type": "subheading", "text": { "en": "Thanksgiving After Confession", "pt-BR": "Ação de Graças Após a Confissão" } },
     {
       "type": "meditation",
       "text": {
