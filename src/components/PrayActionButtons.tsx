@@ -38,11 +38,12 @@ export function FlowButtons({
 }) {
   const router = useRouter()
 
-  if (!flows?.length) return null
+  const primaryFlows = flows?.filter((f) => !f.group)
+  if (!primaryFlows?.length) return null
 
   return (
     <>
-      {flows.map((flow) => (
+      {primaryFlows.map((flow) => (
         <AnimatedPressable
           key={flow.id}
           onPress={() => router.push(`/pray/${practiceId}?flow=${flow.id}` as any)}

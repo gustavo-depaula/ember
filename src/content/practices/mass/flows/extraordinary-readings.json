@@ -1,0 +1,33 @@
+{
+	"sections": [
+		{
+			"type": "heading",
+			"text": { "en": "Epistle", "pt-BR": "Epístola" }
+		},
+		{
+			"type": "proper",
+			"slot": "epistle",
+			"description": { "en": "Epistle of the day", "pt-BR": "Epístola do dia" }
+		},
+		{ "type": "divider" },
+		{
+			"type": "heading",
+			"text": { "en": "Gradual", "pt-BR": "Gradual" }
+		},
+		{
+			"type": "proper",
+			"slot": "gradual",
+			"description": { "en": "Gradual / Alleluia / Tract of the day", "pt-BR": "Gradual / Aleluia / Trato do dia" }
+		},
+		{ "type": "divider" },
+		{
+			"type": "heading",
+			"text": { "en": "Gospel", "pt-BR": "Evangelho" }
+		},
+		{
+			"type": "proper",
+			"slot": "gospel",
+			"description": { "en": "Gospel of the day", "pt-BR": "Evangelho do dia" }
+		}
+	]
+}

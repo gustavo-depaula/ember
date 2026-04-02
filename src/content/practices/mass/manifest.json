@@ -20,7 +20,11 @@
   "completion": "manual",
   "flows": [
     { "id": "ordinary", "name": { "en": "Ordinary Form", "pt-BR": "Forma Ordinária" }, "file": "flows/ordinary.json" },
-    { "id": "extraordinary", "name": { "en": "Extraordinary Form", "pt-BR": "Forma Extraordinária" }, "file": "flows/extraordinary.json" }
+    { "id": "ordinary-propers", "name": { "en": "Propers", "pt-BR": "Próprios" }, "file": "flows/ordinary-propers.json", "group": "ordinary" },
+    { "id": "ordinary-readings", "name": { "en": "Readings", "pt-BR": "Leituras" }, "file": "flows/ordinary-readings.json", "group": "ordinary" },
+    { "id": "extraordinary", "name": { "en": "Extraordinary Form", "pt-BR": "Forma Extraordinária" }, "file": "flows/extraordinary.json" },
+    { "id": "extraordinary-propers", "name": { "en": "Propers", "pt-BR": "Próprios" }, "file": "flows/extraordinary-propers.json", "group": "extraordinary" },
+    { "id": "extraordinary-readings", "name": { "en": "Readings", "pt-BR": "Leituras" }, "file": "flows/extraordinary-readings.json", "group": "extraordinary" }
   ],
   "tags": ["mass", "liturgy", "eucharist", "missal"],
   "defaults": {

@@ -4,7 +4,7 @@ import { useQueries, useQueryClient } from '@tanstack/react-query'
 import { format } from 'date-fns'
 import { useRouter } from 'expo-router'
 import { ChevronLeft } from 'lucide-react-native'
-import { useEffect, useMemo } from 'react'
+import { useEffect, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
 import { Spinner, Text, useTheme, View, XStack, YStack } from 'tamagui'
@@ -47,6 +47,7 @@ import {
   usePsalmsForHour,
 } from '@/features/divine-office'
 import { useLogCompletion, useProgramProgress, useSlots } from '@/features/plan-of-life'
+import { ViewModeSelector } from '@/features/practices/components/ViewModeSelector'
 import { useReadingMargin } from '@/hooks/useReadingStyle'
 import { getPsalmNumbering } from '@/lib/bolls'
 import { getCccParagraphs } from '@/lib/catechism'
@@ -124,10 +125,23 @@ export function PracticeFlow({
   const currentSlot = slots.find((s) => s.practice_id === practiceId)
   const flowId = flowIdProp ?? currentSlot?.slot_id ?? 'default'
 
+  const [activeFlowId, setActiveFlowId] = useState(flowId)
+  useEffect(() => setActiveFlowId(flowId), [flowId])
+
+  const viewModes = useMemo(() => {
+    if (!manifest) return []
+    const siblings = manifest.flows.filter((f) => f.group === flowId)
+    if (siblings.length === 0) return []
+    return [
+      { id: flowId, label: localizeContent({ en: 'Full', 'pt-BR': 'Completo' }) },
+      ...siblings.map((f) => ({ id: f.id, label: localizeContent(f.name) })),
+    ]
+  }, [manifest, flowId])
+
   const flow = useMemo(() => {
     if (!manifest) return undefined
-    return loadFlowForSlot(practiceId, flowId)
-  }, [manifest, practiceId, flowId])
+    return loadFlowForSlot(practiceId, activeFlowId)
+  }, [manifest, practiceId, activeFlowId])
 
   const selectedVariantId = currentSlot?.variant
 
@@ -180,7 +194,7 @@ export function PracticeFlow({
       trackDefs,
       trackState,
       cycleData,
-      setKeyOverride: flowId,
+      setKeyOverride: activeFlowId,
       programDay,
     }
     return resolveFlow(flow, context)
@@ -193,7 +207,7 @@ export function PracticeFlow({
     trackDefs,
     trackState,
     cycleData,
-    flowId,
+    activeFlowId,
     programDay,
   ])
 
@@ -338,6 +352,16 @@ export function PracticeFlow({
               {formattedDate}
             </Text>
           </YStack>
+
+          {viewModes.length > 0 && (
+            <YStack paddingHorizontal={readingMargin} paddingBottom="$md">
+              <ViewModeSelector
+                modes={viewModes}
+                activeId={activeFlowId}
+                onSelect={setActiveFlowId}
+              />
+            </YStack>
+          )}
 
           <YStack gap="$md">
             {(() => {
