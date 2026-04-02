@@ -1,0 +1,28 @@
+{
+  "sections": [
+    { "type": "prayer", "ref": "sign-of-cross" },
+    { "type": "divider" },
+    {
+      "type": "rubric",
+      "text": {
+        "en": "Having made the Sign of the Cross, kneel and pray:",
+        "pt-BR": "Tendo feito o sinal da cruz, ajoelha-te e reza:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en": "O my God, I adore You and I love You with all my heart. I give You thanks for having created me, made me a Christian, and preserved me this night. I offer You all my thoughts, all my words, and all my works. May everything be for Your love.\n\nHumbly I beseech You, in the name of Jesus and through the intercession of Mary: preserve me from all evil. Amen.",
+        "pt-BR": "Ó! meu Deus, eu vos adoro e vos amo de todo o meu coração. Eu vos dou graças por me haverdes criado, feito cristão e conservado nesta noite. Eu vos ofereço todos os meus pensamentos, todas as minhas palavras e obras. Seja tudo por vosso amor.\n\nHumildemente vos peço, em nome de Jesus e pela intercessão de Maria: preservai-me de todo o mal. Amém."
+      }
+    },
+    { "type": "divider" },
+    {
+      "type": "rubric",
+      "text": {
+        "en": "Then pray the Our Father, the Hail Mary, the Creed, the Acts of Faith, Hope, and Charity, and the Hail Holy Queen.",
+        "pt-BR": "Depois reza o Pai Nosso, a Ave Maria, o Creio em Deus Pai, os atos de fé, esperança, caridade e a Salve Rainha."
+      }
+    }
+  ]
+}

@@ -7,7 +7,8 @@
   "flowMode": "scroll",
   "completion": "flow-end",
   "flows": [
-    { "id": "default", "name": { "en": "Morning Offering", "pt-BR": "Oferecimento do Dia" }, "file": "flow.json" }
+    { "id": "apostleship", "name": { "en": "Apostleship of Prayer", "pt-BR": "Apostolado da Oração" }, "file": "flows/apostleship.json" },
+    { "id": "traditional", "name": { "en": "Traditional Morning Prayer", "pt-BR": "Oração da Manhã Tradicional" }, "file": "flows/traditional.json" }
   ],
   "description": {
     "en": "A prayer offering the day's activities, joys, and sufferings to God through the Immaculate Heart of Mary, uniting them with the Holy Sacrifice of the Mass throughout the world.",
@@ -25,7 +26,7 @@
   "defaults": {
     "sortOrder": 1,
     "slots": [
-      { "flowId": "default", "schedule": { "type": "daily" }, "time": "07:00", "tier": "essential" }
+      { "flowId": "apostleship", "schedule": { "type": "daily" }, "time": "07:00", "tier": "essential" }
     ]
   }
 }
