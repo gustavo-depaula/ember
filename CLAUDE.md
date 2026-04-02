@@ -61,6 +61,36 @@ See `docs/README.md` for the full mission, roadmap, and what's built.
 - Biome (formatting + linting — single quotes)
 - TypeScript strict mode
 
+## Issue Tracking
+
+Work is organized into **independent tracks** on GitHub — each track advances at its own pace.
+
+- **GitHub Project board**: https://github.com/users/gustavo-depaula/projects/2
+- **Milestones = Tracks**: each milestone represents one track. Filter issues by milestone to see a track's backlog.
+- **No custom labels** — milestones are the primary organization.
+
+### Tracks
+| Track | Description |
+|-------|-------------|
+| App Store | Store pipeline — icon, builds, metadata, review prep |
+| Onboarding | Guided setup + progressive disclosure |
+| Polish | Animations, empty/error states, i18n, icons, testing, accessibility |
+| Programs | Completion UX, missing policies, more program content |
+| Daily Readings | Daily Mass propers (OF/EF) integrated into Mass practice |
+| Devotion | Saints content, browsing, patron saint, later collectibility |
+| Practice Builder | User-created practices, novenas, offices — full authoring tool |
+| Responsive Layout | Desktop/tablet as first-class citizens |
+| Breviary | Real Liturgy of the Hours — distinct from the personalized office |
+| New Practices | Devotionary, more prayers, translation review, Rosary, Lectio Divina, etc. |
+| Sacred Art | Browsable gallery + contextual art throughout the app |
+| Content Platform / Salty | Catholic library, spiritual classics, Church Fathers, formation guides |
+
+### Workflow
+- Pick issues from any track — tracks are independent, not sequential
+- Use `gh issue list -m "Track Name"` to see a track's issues
+- When starting work on an issue, reference it in commits/PRs
+- Salty is the larger vision (Catholic heritage preservation); Ember is its first consumer app
+
 ## Git
 
 - Never add `Co-Authored-By` lines to commit messages
@@ -71,6 +101,8 @@ See `docs/README.md` for the full mission, roadmap, and what's built.
 pnpm expo start          # dev server
 pnpm expo start --web    # web dev
 pnpm biome check --write .  # format + lint
+pnpm test                # run tests
+pnpm test:watch          # test watch mode
 ```
 
 ## Key Patterns

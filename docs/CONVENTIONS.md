@@ -178,5 +178,8 @@ const { data: completions, isLoading } = useQuery({
 
 ## Testing
 
-- None for MVP
-- When added later: Vitest for pure logic (lectio continua engine, psalter engine, streak calculation)
+- Vitest for pure logic — colocated test files (`module.test.ts` next to source)
+- Explicit imports: `import { describe, expect, it } from 'vitest'` (no globals)
+- Config: `vitest.config.ts` at project root with `@/*` path alias
+- Run once: `pnpm test` — watch mode: `pnpm test:watch`
+- Focus on deterministic business logic (liturgical calculations, content engines, streak logic), not UI components
