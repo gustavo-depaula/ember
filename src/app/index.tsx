@@ -79,13 +79,15 @@ export default function HomeScreen() {
   const toggle = useToggleSlot()
 
   const handlePressItem = useCallback(
-    (practiceId: string) => {
+    (practiceId: string, slotId: string) => {
       const manifest = getManifest(practiceId)
       if (!manifest) {
         router.push(`/plan/${practiceId}` as any)
         return
       }
-      if (manifest.flows.length > 1) {
+      if (manifest.flows.length > 1 && slotId !== 'default') {
+        router.push(`/pray/${practiceId}?flow=${slotId}` as any)
+      } else if (manifest.flows.length > 1) {
         router.push(`/plan/${practiceId}` as any)
       } else {
         router.push(`/pray/${practiceId}` as any)
