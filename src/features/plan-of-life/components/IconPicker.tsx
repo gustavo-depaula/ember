@@ -1,7 +1,8 @@
 import { Pressable } from 'react-native'
-import { Text, XStack } from 'tamagui'
+import { XStack } from 'tamagui'
 
-import { availableIconKeys, getPracticeIcon } from '@/db/seed'
+import { PracticeIcon } from '@/components'
+import { practiceIconNames } from '@/components/ornaments/WatercolorIcon'
 
 export function IconPicker({
   selected,
@@ -12,7 +13,7 @@ export function IconPicker({
 }) {
   return (
     <XStack gap="$xs" flexWrap="wrap">
-      {availableIconKeys.map((icon) => (
+      {practiceIconNames.map((icon) => (
         <Pressable key={icon} onPress={() => onSelect(icon)}>
           <XStack
             width={44}
@@ -24,7 +25,7 @@ export function IconPicker({
             alignItems="center"
             justifyContent="center"
           >
-            <Text fontSize={22}>{getPracticeIcon(icon)}</Text>
+            <PracticeIcon name={icon} size={22} />
           </XStack>
         </Pressable>
       ))}

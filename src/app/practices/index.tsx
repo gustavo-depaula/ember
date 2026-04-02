@@ -6,6 +6,7 @@ import { Modal, Pressable, ScrollView } from 'react-native'
 import { Input, Text, useTheme, XStack, YStack } from 'tamagui'
 
 import { ScreenLayout } from '@/components'
+import { PracticeIcon } from '@/components/PracticeIcon'
 import {
   getAllManifests,
   getManifestCategories,
@@ -13,7 +14,6 @@ import {
   searchManifests,
 } from '@/content/practices'
 import type { PracticeManifest } from '@/content/types'
-import { getPracticeIcon } from '@/db/seed'
 import { useAllSlots, useCreatePractice } from '@/features/plan-of-life'
 import type { PracticeFormData } from '@/features/plan-of-life/components/PracticeEditSheet'
 import { PracticeEditSheet } from '@/features/plan-of-life/components/PracticeEditSheet'
@@ -107,7 +107,7 @@ function PracticeCard({
         borderWidth={1}
         borderColor="$borderColor"
       >
-        <Text fontSize={28}>{getPracticeIcon(iconKey)}</Text>
+        <PracticeIcon name={iconKey} size={28} />
         <YStack flex={1} gap={2}>
           <Text fontFamily="$heading" fontSize="$3" color="$color">
             {localizeContent(manifest.name)}

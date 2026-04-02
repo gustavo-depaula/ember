@@ -12,9 +12,9 @@ import {
   ScreenLayout,
   SectionDivider,
 } from '@/components'
+import { PracticeIcon } from '@/components/PracticeIcon'
 import { getManifest } from '@/content/practices'
 import type { Tier, UserPracticeSlot } from '@/db/schema'
-import { getPracticeIcon } from '@/db/seed'
 import {
   buildTieredWallData,
   type DayCompletion,
@@ -220,7 +220,7 @@ export default function PlanScreen() {
                     alignItems="center"
                     gap="$md"
                   >
-                    <Text fontSize={20}>{getPracticeIcon(group.icon)}</Text>
+                    <PracticeIcon name={group.icon} size={20} />
                     <YStack flex={1} gap={2}>
                       <Text fontFamily="$body" fontSize="$3" color="$color">
                         {group.name}
