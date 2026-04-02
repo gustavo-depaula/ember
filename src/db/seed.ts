@@ -7,33 +7,6 @@ import { composeSlotKey } from '@/lib/slotKey'
 import { getDb } from './client'
 import type { Tier, TimeBlock } from './schema'
 
-// --- Practice icons ---
-
-const practiceIcons: Record<string, string> = {
-  sunrise: '\u{1F305}',
-  prayer: '\u{1F64F}',
-  mass: '\u26EA',
-  reading: '\u{1F4D6}',
-  bell: '\u{1F514}',
-  rosary: '\u{1F4FF}',
-  candle: '\u{1F56F}',
-  moon: '\u{1F319}',
-  confession: '\u{1F54A}',
-  monstrance: '\u2728',
-  mercy: '\u{1F9E1}',
-  cross: '\u271D',
-  scroll: '\u{1F4DC}',
-  angel: '\u{1F47C}',
-  mary: '\u{1F490}',
-  clock: '\u{1F552}',
-}
-
-export function getPracticeIcon(key: string): string {
-  return practiceIcons[key] ?? key
-}
-
-export const availableIconKeys = Object.keys(practiceIcons)
-
 // --- Default times by time block ---
 
 const defaultTimes: Record<TimeBlock, string | undefined> = {

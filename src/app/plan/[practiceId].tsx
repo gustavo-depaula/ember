@@ -14,8 +14,8 @@ import {
   ScreenLayout,
   SectionDivider,
 } from '@/components'
+import { PracticeIcon } from '@/components/PracticeIcon'
 import { getManifest, loadPracticeTracks } from '@/content/practices'
-import { getPracticeIcon } from '@/db/seed'
 import { useCursorsForPractice } from '@/features/divine-office'
 import {
   enrichSlot,
@@ -98,7 +98,7 @@ export default function PracticeDetailScreen() {
           <Pressable onPress={() => router.back()} hitSlop={8}>
             <ChevronLeft size={24} color={theme.color.val} />
           </Pressable>
-          <Text fontSize={24}>{getPracticeIcon(iconKey)}</Text>
+          <PracticeIcon name={iconKey} size={24} />
           <Text flex={1} fontFamily="$heading" fontSize="$5" color="$color">
             {enrichSlot(firstSlot, t).name}
           </Text>

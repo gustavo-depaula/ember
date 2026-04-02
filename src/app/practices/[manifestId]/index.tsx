@@ -12,9 +12,9 @@ import {
   ScreenLayout,
   SectionDivider,
 } from '@/components'
+import { PracticeIcon } from '@/components/PracticeIcon'
 import { getManifest, getManifestIconKey } from '@/content/practices'
 import { createProgramCursor } from '@/db/repositories'
-import { getPracticeIcon } from '@/db/seed'
 import {
   useCreatePractice,
   useEnableSlotsForPractice,
@@ -127,7 +127,7 @@ export default function CatalogDetailScreen() {
           <Pressable onPress={() => router.back()} hitSlop={8}>
             <ChevronLeft size={24} color={theme.color.val} />
           </Pressable>
-          <Text fontSize={28}>{getPracticeIcon(iconKey)}</Text>
+          <PracticeIcon name={iconKey} size={28} />
           <YStack flex={1} gap={2}>
             <Text fontFamily="$heading" fontSize="$5" color="$color">
               {localizeContent(manifest.name)}

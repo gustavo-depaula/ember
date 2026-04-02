@@ -1,4 +1,3 @@
-export { getPracticeIcon } from '@/db/seed'
 export { DayCarousel, PracticeChecklist } from './components'
 export { enrichSlot, getPracticeIconKey, getSlotName } from './getPracticeName'
 export {

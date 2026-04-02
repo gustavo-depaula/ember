@@ -6,9 +6,9 @@ import { Pressable } from 'react-native'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
 import { AnimatedPressable, ScreenLayout } from '@/components'
+import { PracticeIcon } from '@/components/PracticeIcon'
 import { getManifest, getManifestIconKey, loadPracticeData } from '@/content/practices'
 import type { CycleData } from '@/content/types'
-import { getPracticeIcon } from '@/db/seed'
 import { useProgramProgress } from '@/features/plan-of-life'
 import { localizeContent } from '@/lib/i18n'
 
@@ -61,7 +61,7 @@ export default function ProgramDetailScreen() {
           <Pressable onPress={() => router.back()} hitSlop={8}>
             <ChevronLeft size={24} color={theme.color?.val} />
           </Pressable>
-          <Text fontSize={28}>{getPracticeIcon(iconKey)}</Text>
+          <PracticeIcon name={iconKey} size={28} />
           <YStack flex={1} gap={2}>
             <Text fontFamily="$heading" fontSize="$5" color="$color">
               {localizeContent(manifest.name)}

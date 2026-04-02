@@ -1,8 +1,7 @@
 import { Pressable } from 'react-native'
 import { Text, XStack, YStack } from 'tamagui'
 
-import { AnimatedCheckbox } from '@/components'
-import { getPracticeIcon } from '@/db/seed'
+import { AnimatedCheckbox, PracticeIcon } from '@/components'
 import { lightTap } from '@/lib/haptics'
 
 export type ChecklistItem = {
@@ -43,7 +42,7 @@ export function PracticeChecklist({
               alignItems="center"
               gap="$md"
             >
-              <Text fontSize={20}>{getPracticeIcon(item.icon)}</Text>
+              <PracticeIcon name={item.icon} size={20} />
               <YStack flex={1} gap={1}>
                 <Text fontFamily="$body" fontSize="$3" color="$color">
                   {item.name}

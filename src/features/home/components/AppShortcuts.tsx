@@ -4,15 +4,14 @@ import { ScrollView } from 'react-native'
 import { Text, YStack } from 'tamagui'
 
 import { AnimatedPressable, WatercolorIcon } from '@/components'
+import type { IconName } from '@/components/ornaments/WatercolorIcon'
 
-type IconName = 'sunrise' | 'book' | 'rosary' | 'moon' | 'quill' | 'cross'
-
-const shortcuts = [
-  { icon: 'cross' as IconName, labelKey: 'home.holyMass', route: '/pray/mass' },
-  { icon: 'rosary' as IconName, labelKey: 'catalog.title', route: '/practices' },
-  { icon: 'cross' as IconName, labelKey: 'home.sacredScripture', route: '/bible' },
-  { icon: 'book' as IconName, labelKey: 'home.catechism', route: '/catechism' },
-  { icon: 'quill' as IconName, labelKey: 'home.planOfLife', route: '/plan' },
+const shortcuts: { icon: IconName; labelKey: string; route: string }[] = [
+  { icon: 'cross', labelKey: 'home.holyMass', route: '/pray/mass' },
+  { icon: 'rosary', labelKey: 'catalog.title', route: '/practices' },
+  { icon: 'cross', labelKey: 'home.sacredScripture', route: '/bible' },
+  { icon: 'book', labelKey: 'home.catechism', route: '/catechism' },
+  { icon: 'quill', labelKey: 'home.planOfLife', route: '/plan' },
 ]
 
 export function AppShortcuts() {

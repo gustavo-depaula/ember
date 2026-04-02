@@ -2,8 +2,7 @@ import { Check } from 'lucide-react-native'
 import { Pressable } from 'react-native'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
-import { AnimatedCheckbox } from '@/components'
-import { getPracticeIcon } from '@/db/seed'
+import { AnimatedCheckbox, PracticeIcon } from '@/components'
 import type { ChecklistItem } from '@/features/plan-of-life/components/PracticeChecklist'
 import type { BlockState } from '@/features/plan-of-life/timeBlocks'
 import { lightTap } from '@/lib/haptics'
@@ -96,7 +95,7 @@ export function TimeBlockSection({
               borderLeftWidth={3}
               borderLeftColor="$accent"
             >
-              <Text fontSize={20}>{getPracticeIcon(item.icon)}</Text>
+              <PracticeIcon name={item.icon} size={20} />
               <Text flex={1} fontFamily="$body" fontSize="$3" color="$color">
                 {item.name}
               </Text>

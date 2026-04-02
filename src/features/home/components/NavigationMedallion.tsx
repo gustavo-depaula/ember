@@ -3,13 +3,12 @@ import { StyleSheet } from 'react-native'
 import { Text, View, YStack } from 'tamagui'
 
 import { AnimatedPressable, WatercolorIcon } from '@/components'
+import type { IconName } from '@/components/ornaments/WatercolorIcon'
 
 const topLeft = require('../../../../assets/textures/corner_top_left.png')
 const bottomRight = require('../../../../assets/textures/corner_bottom_right.png')
 
 const cornerSize = 72
-
-type IconName = 'sunrise' | 'book' | 'rosary' | 'moon' | 'quill' | 'cross'
 
 export function NavigationMedallion({
   icon,
