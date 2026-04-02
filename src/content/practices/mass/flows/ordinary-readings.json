@@ -1,0 +1,53 @@
+{
+	"sections": [
+		{
+			"type": "heading",
+			"text": { "en": "First Reading", "pt-BR": "Primeira Leitura" }
+		},
+		{
+			"type": "proper",
+			"slot": "first-reading",
+			"description": { "en": "First Reading", "pt-BR": "Primeira Leitura" }
+		},
+		{ "type": "divider" },
+		{
+			"type": "heading",
+			"text": { "en": "Responsorial Psalm", "pt-BR": "Salmo Responsorial" }
+		},
+		{
+			"type": "proper",
+			"slot": "responsorial-psalm",
+			"description": { "en": "Responsorial Psalm", "pt-BR": "Salmo Responsorial" }
+		},
+		{ "type": "divider" },
+		{
+			"type": "heading",
+			"text": { "en": "Second Reading", "pt-BR": "Segunda Leitura" }
+		},
+		{
+			"type": "proper",
+			"slot": "second-reading",
+			"description": { "en": "Second Reading (Sundays and Solemnities)", "pt-BR": "Segunda Leitura (Domingos e Solenidades)" }
+		},
+		{ "type": "divider" },
+		{
+			"type": "heading",
+			"text": { "en": "Gospel Acclamation", "pt-BR": "Aclamação ao Evangelho" }
+		},
+		{
+			"type": "proper",
+			"slot": "gospel-verse",
+			"description": { "en": "Gospel Acclamation verse", "pt-BR": "Versículo da Aclamação ao Evangelho" }
+		},
+		{ "type": "divider" },
+		{
+			"type": "heading",
+			"text": { "en": "Gospel", "pt-BR": "Evangelho" }
+		},
+		{
+			"type": "proper",
+			"slot": "gospel",
+			"description": { "en": "Gospel of the day", "pt-BR": "Evangelho do dia" }
+		}
+	]
+}

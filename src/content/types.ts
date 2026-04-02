@@ -30,6 +30,7 @@ export type FlowEntry = {
   name: LocalizedText
   file: string
   timeBlock?: string
+  group?: string
 }
 
 export type SlotDefault = {
