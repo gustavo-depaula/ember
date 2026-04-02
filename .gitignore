@@ -40,3 +40,6 @@ yarn-error.*
 /ios
 /android
 .tamagui/
+
+# Divinum Officium source (cloned for parser script)
+.divinum-officium/

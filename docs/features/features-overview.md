@@ -631,7 +631,7 @@ Practice recommendations by vocation/state of life, guided onboarding for beginn
 
 **Catechism Reader** — Three-panel sliding drawer adapted for the CCC's 5-level hierarchy (~368 segments, ~2,865 paragraphs). Segment is the natural reading unit (median 5 paragraphs). Future: cross-references, search. See `src/features/catechism/`.
 
-**Mass (Ordo Missae)** — Static ordinary prayers with OF/EF toggle, bilingual Latin/English. Proper slots (dashed-border placeholders) for future lectionary integration. Future: daily readings (EF ready via Missale Meum API; OF readings via Evangelizo; OF collects/antiphons blocked by ICEL copyright — see `content-sources.md`). See `src/features/mass/`.
+**Mass (Ordo Missae)** — Static ordinary prayers with OF/EF toggle, bilingual Latin/English. EF proper slots now filled with daily-changing texts (Introit, Collect, Epistle, Gradual/Tract, Gospel, Offertory, Secret, Preface, Communion, Postcommunion) parsed from Divinum Officium in Latin, English, and Portuguese. OF proper slots remain placeholders — readings via Evangelizo are planned; collects/antiphons blocked by ICEL copyright (see `content-sources.md`). See `src/lib/mass-propers/` for the resolution module and `scripts/parse-do-propers.ts` for the parser.
 
 **Reading Config** — Shared reading styles across all reading surfaces. 7 curated serif fonts, 5-step sizing scales, margins, alignment. See `src/features/reading-config/`.
 

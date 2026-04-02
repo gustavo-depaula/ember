@@ -227,6 +227,8 @@ src/
     notifications.ts        (schedule-aware reminder scheduling)
     liturgical/
       psalter.ts, hymns.ts, antiphons.ts, season.ts, readings.ts, index.ts
+    mass-propers/
+      do-file-id.ts, slot-map.ts, resolve.ts, propers-data.ts, types.ts, index.ts
     i18n/
   config/
     tamagui.config.ts
