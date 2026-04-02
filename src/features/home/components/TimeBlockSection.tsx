@@ -27,7 +27,7 @@ export function TimeBlockSection({
   total: number
   onToggle: (item: ChecklistItem, completed: boolean) => void
   onToggleCollapse: () => void
-  onPressItem?: (practiceId: string) => void
+  onPressItem?: (practiceId: string, slotId: string) => void
 }) {
   const theme = useTheme()
   const allDone = completed === total
@@ -85,7 +85,7 @@ export function TimeBlockSection({
       {items.map((item) => {
         const done = completedIds.has(item.id)
         return (
-          <Pressable key={item.id} onPress={() => onPressItem?.(item.practice_id)}>
+          <Pressable key={item.id} onPress={() => onPressItem?.(item.practice_id, item.slot_id)}>
             <XStack
               backgroundColor="$backgroundSurface"
               borderRadius="$lg"
