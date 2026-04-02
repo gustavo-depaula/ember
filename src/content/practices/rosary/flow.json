@@ -1,6 +1,6 @@
 {
   "sections": [
-    { "type": "rubric", "text": { "en": "Opening Prayers", "pt-BR": "Orações Iniciais" } },
+    { "type": "subheading", "text": { "en": "Opening Prayers", "pt-BR": "Orações Iniciais" } },
     { "type": "prayer", "ref": "sign-of-cross" },
     { "type": "prayer", "ref": "apostles-creed" },
     { "type": "prayer", "ref": "our-father" },
@@ -33,7 +33,7 @@
         { "type": "divider" }
       ]
     },
-    { "type": "rubric", "text": { "en": "Closing Prayers", "pt-BR": "Orações Finais" } },
+    { "type": "subheading", "text": { "en": "Closing Prayers", "pt-BR": "Orações Finais" } },
     { "type": "prayer", "ref": "hail-holy-queen" },
     { "type": "prayer", "ref": "sign-of-cross" }
   ]

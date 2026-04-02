@@ -1,9 +1,9 @@
 {
   "sections": [
-    { "type": "rubric", "text": { "en": "Preparation for Confession", "pt-BR": "Preparação para a Confissão" } },
+    { "type": "subheading", "text": { "en": "Preparation for Confession", "pt-BR": "Preparação para a Confissão" } },
     { "type": "prayer", "ref": "come-holy-spirit" },
     { "type": "divider" },
-    { "type": "rubric", "text": { "en": "Examination of Conscience", "pt-BR": "Exame de Consciência" } },
+    { "type": "subheading", "text": { "en": "Examination of Conscience", "pt-BR": "Exame de Consciência" } },
     {
       "type": "meditation",
       "text": {
@@ -45,7 +45,7 @@
       }
     },
     { "type": "divider" },
-    { "type": "rubric", "text": { "en": "Act of Contrition", "pt-BR": "Ato de Contrição" } },
+    { "type": "subheading", "text": { "en": "Act of Contrition", "pt-BR": "Ato de Contrição" } },
     { "type": "prayer", "ref": "act-of-contrition" }
   ]
 }

@@ -1,21 +1,21 @@
 {
   "sections": [
-    { "type": "rubric", "text": { "en": "Opening Verse", "pt-BR": "Vers\u00edculo de Abertura" } },
+    { "type": "subheading", "text": { "en": "Opening Verse", "pt-BR": "Vers\u00edculo de Abertura" } },
     { "type": "prayer", "ref": "opening-verse" },
     { "type": "divider" },
-    { "type": "rubric", "text": { "en": "Hymn", "pt-BR": "Hino" } },
+    { "type": "subheading", "text": { "en": "Hymn", "pt-BR": "Hino" } },
     { "type": "cycle", "data": "office-hymns", "key": "compline", "as": "hymn" },
     { "type": "divider" },
-    { "type": "rubric", "text": { "en": "Psalmody", "pt-BR": "Salm\u00f3dia" } },
+    { "type": "subheading", "text": { "en": "Psalmody", "pt-BR": "Salm\u00f3dia" } },
     { "type": "psalmody", "psalms": [129, 130, 131] },
     { "type": "divider" },
-    { "type": "rubric", "text": { "en": "Reading", "pt-BR": "Leitura" } },
-    { "type": "rubric", "text": { "en": "Short Reading", "pt-BR": "Leitura Breve" } },
+    { "type": "subheading", "text": { "en": "Reading", "pt-BR": "Leitura" } },
+    { "type": "subheading", "text": { "en": "Short Reading", "pt-BR": "Leitura Breve" } },
     { "type": "divider" },
-    { "type": "rubric", "text": { "en": "Canticle", "pt-BR": "C\u00e2ntico" } },
+    { "type": "subheading", "text": { "en": "Canticle", "pt-BR": "C\u00e2ntico" } },
     { "type": "canticle", "ref": "nunc-dimittis" },
     { "type": "divider" },
-    { "type": "rubric", "text": { "en": "Closing Prayer", "pt-BR": "Ora\u00e7\u00e3o Final" } },
+    { "type": "subheading", "text": { "en": "Closing Prayer", "pt-BR": "Ora\u00e7\u00e3o Final" } },
     { "type": "prayer", "ref": "glory-be" },
   ]
 }

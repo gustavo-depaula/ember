@@ -1,9 +1,9 @@
 {
   "sections": [
-    { "type": "rubric", "text": { "en": "Prayer Before Reading", "pt-BR": "Oração Antes da Leitura" } },
+    { "type": "subheading", "text": { "en": "Prayer Before Reading", "pt-BR": "Oração Antes da Leitura" } },
     { "type": "prayer", "ref": "come-holy-spirit" },
     { "type": "divider" },
-    { "type": "rubric", "text": { "en": "Choose Your Text", "pt-BR": "Escolha Seu Texto" } },
+    { "type": "subheading", "text": { "en": "Choose Your Text", "pt-BR": "Escolha Seu Texto" } },
     {
       "type": "meditation",
       "text": {
@@ -12,7 +12,7 @@
       }
     },
     { "type": "divider" },
-    { "type": "rubric", "text": { "en": "Read Slowly", "pt-BR": "Leia Devagar" } },
+    { "type": "subheading", "text": { "en": "Read Slowly", "pt-BR": "Leia Devagar" } },
     {
       "type": "meditation",
       "text": {
@@ -21,7 +21,7 @@
       }
     },
     { "type": "divider" },
-    { "type": "rubric", "text": { "en": "Reflect & Pray", "pt-BR": "Reflita e Ore" } },
+    { "type": "subheading", "text": { "en": "Reflect & Pray", "pt-BR": "Reflita e Ore" } },
     {
       "type": "meditation",
       "text": {
@@ -30,7 +30,7 @@
       }
     },
     { "type": "divider" },
-    { "type": "rubric", "text": { "en": "Carry Something Away", "pt-BR": "Leve Algo Consigo" } },
+    { "type": "subheading", "text": { "en": "Carry Something Away", "pt-BR": "Leve Algo Consigo" } },
     {
       "type": "meditation",
       "text": {

@@ -1,6 +1,6 @@
 {
   "sections": [
-    { "type": "rubric", "text": { "en": "Opening Prayer", "pt-BR": "Oração Inicial" } },
+    { "type": "subheading", "text": { "en": "Opening Prayer", "pt-BR": "Oração Inicial" } },
     { "type": "prayer", "ref": "sign-of-cross" },
     {
       "type": "prayer",
@@ -32,7 +32,7 @@
         { "type": "divider" }
       ]
     },
-    { "type": "rubric", "text": { "en": "Closing Prayer", "pt-BR": "Oração Final" } },
+    { "type": "subheading", "text": { "en": "Closing Prayer", "pt-BR": "Oração Final" } },
     {
       "type": "prayer",
       "inline": {

@@ -1,21 +1,21 @@
 {
   "sections": [
-    { "type": "rubric", "text": { "en": "Opening Verse", "pt-BR": "Versículo de Abertura" } },
+    { "type": "subheading", "text": { "en": "Opening Verse", "pt-BR": "Versículo de Abertura" } },
     { "type": "prayer", "ref": "opening-verse" },
     { "type": "divider" },
-    { "type": "rubric", "text": { "en": "Hymn", "pt-BR": "Hino" } },
+    { "type": "subheading", "text": { "en": "Hymn", "pt-BR": "Hino" } },
     { "type": "cycle", "data": "office-hymns", "key": "evening", "as": "hymn" },
     { "type": "divider" },
-    { "type": "rubric", "text": { "en": "Psalmody", "pt-BR": "Salmodia" } },
+    { "type": "subheading", "text": { "en": "Psalmody", "pt-BR": "Salmodia" } },
     { "type": "cycle", "data": "psalter-30-day", "key": "evening", "as": "psalmody" },
     { "type": "divider" },
-    { "type": "rubric", "text": { "en": "Scripture Reading", "pt-BR": "Leitura Bíblica" } },
+    { "type": "subheading", "text": { "en": "Scripture Reading", "pt-BR": "Leitura Bíblica" } },
     { "type": "lectio", "track": "nt-readings" },
     { "type": "divider" },
-    { "type": "rubric", "text": { "en": "Canticle", "pt-BR": "Cântico" } },
+    { "type": "subheading", "text": { "en": "Canticle", "pt-BR": "Cântico" } },
     { "type": "canticle", "ref": "magnificat" },
     { "type": "divider" },
-    { "type": "rubric", "text": { "en": "Our Father", "pt-BR": "Pai Nosso" } },
+    { "type": "subheading", "text": { "en": "Our Father", "pt-BR": "Pai Nosso" } },
     { "type": "prayer", "ref": "our-father" }
   ]
 }
