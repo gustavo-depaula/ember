@@ -207,6 +207,8 @@ export default {
     slots: 'Slots',
     settings: 'Settings',
     addSlot: 'Add slot',
+    selectPrayer: 'Select a prayer',
+    prayer: 'Prayer',
     variant: 'Meditations',
   },
 

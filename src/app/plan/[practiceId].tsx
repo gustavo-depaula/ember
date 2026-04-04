@@ -22,6 +22,7 @@ import {
   getLongestPracticeStreak,
   getPracticeIconKey,
   useAddSlot,
+  useChangeSlotFlow,
   useDeleteSlot,
   usePracticeCompletionStats,
   useProgramProgress,
@@ -44,6 +45,7 @@ export default function PracticeDetailScreen() {
   const updateSlot = useUpdateSlot()
   const addSlot = useAddSlot()
   const { data: programProgress } = useProgramProgress(practiceId ?? '', manifest?.program)
+  const changeSlotFlow = useChangeSlotFlow()
   const deleteSlot = useDeleteSlot()
 
   const firstSlot = slots[0]
@@ -163,10 +165,16 @@ export default function PracticeDetailScreen() {
           slots={slots}
           practiceId={practiceId!}
           onUpdateSlot={(slotId, data) => updateSlot.mutate({ id: slotId, data })}
-          onAddSlot={() =>
-            addSlot.mutate({ practiceId: practiceId!, data: { tier: firstSlot.tier } })
+          onAddSlot={(flowId) =>
+            addSlot.mutate({
+              practiceId: practiceId!,
+              data: { tier: firstSlot.tier, slotId: flowId },
+            })
           }
           onDeleteSlot={(slotId) => deleteSlot.mutate(slotId)}
+          onChangeSlotFlow={(slotId, flowId) =>
+            changeSlotFlow.mutate({ oldSlotKey: slotId, newFlowId: flowId })
+          }
         />
 
         {trackDefs && cursorRows.length > 0 && (
