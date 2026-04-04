@@ -15,9 +15,14 @@ type MarginPreset = 'narrow' | 'normal' | 'wide'
 const validFontIds = new Set(readingFonts.map((f) => f.id))
 const minStep = 1
 const maxStep = 5
+const maxLineHeightStep = 7
 
 function clamp(value: number) {
   return Math.max(minStep, Math.min(maxStep, value))
+}
+
+function clampLineHeight(value: number) {
+  return Math.max(minStep, Math.min(maxLineHeightStep, value))
 }
 
 type PreferencesState = {
@@ -75,7 +80,7 @@ export const usePreferencesStore = create<PreferencesState>()(
     theme: 'system',
     fontFamily: 'eb-garamond',
     fontSizeStep: 3,
-    lineHeightStep: 3,
+    lineHeightStep: 5,
     margin: 'normal',
     textAlign: 'justify',
     hydrated: false,
@@ -173,7 +178,7 @@ export const usePreferencesStore = create<PreferencesState>()(
 
     setLineHeightStep: (step) => {
       const current = usePreferencesStore.getState().fontSizeStep
-      const persisted = clamp(Math.max(step, current - 1))
+      const persisted = clampLineHeight(Math.max(step, current - 1))
       set((state) => {
         state.lineHeightStep = persisted
       })
@@ -221,7 +226,7 @@ export const usePreferencesStore = create<PreferencesState>()(
         const lineHeight = prefs['reading-line-height']
         if (lineHeight) {
           const parsed = Number(lineHeight)
-          if (parsed >= minStep && parsed <= maxStep) state.lineHeightStep = parsed
+          if (parsed >= minStep && parsed <= maxLineHeightStep) state.lineHeightStep = parsed
         }
         const margin = prefs['reading-margin']
         if (margin === 'narrow' || margin === 'normal' || margin === 'wide') state.margin = margin

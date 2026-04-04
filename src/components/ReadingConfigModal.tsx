@@ -154,7 +154,7 @@ export function ReadingConfig() {
           </ToolbarButton>
           <ToolbarButton
             onPress={() => rc.setLineHeightStep(rc.lineHeightStep + 1)}
-            disabled={rc.lineHeightStep >= 5}
+            disabled={rc.lineHeightStep >= 7}
           >
             {() => (
               <Text fontFamily="$body" fontSize={20} color="$color">

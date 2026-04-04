@@ -6,7 +6,7 @@ import { usePreferencesStore } from '@/stores/preferencesStore'
 // Reading-specific scale — larger than body font tokens for comfortable extended reading
 export const readingScale = {
   fontSize: [16, 19, 22, 26, 32] as const,
-  lineHeight: [24, 28, 34, 40, 48] as const,
+  lineHeight: [20, 22, 24, 28, 34, 40, 48] as const,
 }
 
 const marginMap = { narrow: '$sm', normal: '$md', wide: '$lg' } as const
