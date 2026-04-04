@@ -2,6 +2,7 @@ import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
 import type { ProgramConfig } from '@/content/types'
 import {
   addSlot,
+  changeSlotFlow,
   createPracticeWithSlot,
   deletePractice,
   deleteSlot,
@@ -278,6 +279,20 @@ export function useUpdateSlot() {
       updateSlot(id, data),
     onSuccess: () => {
       queryClient.invalidateQueries({ queryKey: ['slots'] })
+      rescheduleAllReminders().catch(console.warn)
+    },
+  })
+}
+
+export function useChangeSlotFlow() {
+  const queryClient = useQueryClient()
+
+  return useMutation({
+    mutationFn: ({ oldSlotKey, newFlowId }: { oldSlotKey: string; newFlowId: string }) =>
+      changeSlotFlow(oldSlotKey, newFlowId),
+    onSuccess: () => {
+      queryClient.invalidateQueries({ queryKey: ['slots'] })
+      queryClient.invalidateQueries({ queryKey: ['completions'] })
       rescheduleAllReminders().catch(console.warn)
     },
   })

@@ -123,8 +123,9 @@ export async function addSlot(
 ): Promise<string> {
   const db = getDb()
 
-  const slotId = data.slotId ?? (await nextSlotId(db, practiceId))
-  const id = composeSlotKey(practiceId, slotId)
+  const slotId = data.slotId ?? 'default'
+  const uniqueId = await nextSlotId(db, practiceId)
+  const id = composeSlotKey(practiceId, uniqueId)
 
   const maxOrder = await db.getFirstAsync<{ max_order: number | null }>(
     'SELECT MAX(sort_order) as max_order FROM user_practice_slots',
@@ -204,6 +205,33 @@ export async function updateSlot(
 
   values.push(slotId)
   await getDb().runAsync(`UPDATE user_practice_slots SET ${sets.join(', ')} WHERE id = ?`, values)
+}
+
+export async function changeSlotFlow(oldSlotKey: string, newFlowId: string): Promise<string> {
+  const db = getDb()
+  const { practiceId, slotId: oldFlowId } = parseSlotKey(oldSlotKey)
+  if (oldFlowId === newFlowId) return oldSlotKey
+
+  const newKey = composeSlotKey(practiceId, newFlowId)
+  const existing = await db.getFirstAsync<{ id: string }>(
+    'SELECT id FROM user_practice_slots WHERE id = ?',
+    [newKey],
+  )
+  if (existing) return oldSlotKey
+
+  await db.withTransactionAsync(async () => {
+    await db.runAsync('UPDATE user_practice_slots SET id = ?, slot_id = ? WHERE id = ?', [
+      newKey,
+      newFlowId,
+      oldSlotKey,
+    ])
+    await db.runAsync('UPDATE completions SET sub_id = ? WHERE practice_id = ? AND sub_id = ?', [
+      newFlowId,
+      practiceId,
+      oldFlowId,
+    ])
+  })
+  return newKey
 }
 
 export async function deleteSlot(slotId: string): Promise<void> {

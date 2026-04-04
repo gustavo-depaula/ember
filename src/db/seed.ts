@@ -35,22 +35,6 @@ type SimplePracticeSeed = {
 
 const simplePractices: SimplePracticeSeed[] = [
   {
-    id: 'mental-prayer',
-    customName: 'Mental Prayer',
-    customIcon: 'prayer',
-    customDesc: '15-30 min of silent prayer or meditation on Scripture',
-    slots: [
-      {
-        slotId: 'default',
-        sortOrder: 2,
-        tier: 'essential',
-        time: '07:00',
-        schedule: '{"type":"daily"}',
-        enabled: true,
-      },
-    ],
-  },
-  {
     id: 'examination-conscience',
     customName: 'Examination of Conscience',
     customIcon: 'candle',
@@ -67,52 +51,6 @@ const simplePractices: SimplePracticeSeed[] = [
     ],
   },
   {
-    id: 'night-prayer',
-    customName: 'Night Prayer',
-    customIcon: 'moon',
-    customDesc: 'Brief prayer before sleep',
-    slots: [
-      {
-        slotId: 'default',
-        sortOrder: 6,
-        tier: 'essential',
-        time: '21:30',
-        schedule: '{"type":"daily"}',
-        enabled: true,
-      },
-    ],
-  },
-  {
-    id: 'spiritual-reading',
-    customName: 'Spiritual Reading',
-    customIcon: 'reading',
-    customDesc: 'Reading from spiritual classics, saints, theology',
-    slots: [
-      {
-        slotId: 'default',
-        sortOrder: 8,
-        tier: 'ideal',
-        schedule: '{"type":"daily"}',
-        enabled: true,
-      },
-    ],
-  },
-  {
-    id: 'confession',
-    customName: 'Confession',
-    customIcon: 'confession',
-    customDesc: 'Sacrament of Reconciliation',
-    slots: [
-      {
-        slotId: 'default',
-        sortOrder: 9,
-        tier: 'ideal',
-        schedule: '{"type":"days-of-week","days":[6]}',
-        enabled: false,
-      },
-    ],
-  },
-  {
     id: 'blessed-sacrament',
     customName: 'Visit to Blessed Sacrament',
     customIcon: 'monstrance',
@@ -122,21 +60,6 @@ const simplePractices: SimplePracticeSeed[] = [
         slotId: 'default',
         sortOrder: 10,
         tier: 'ideal',
-        schedule: '{"type":"daily"}',
-        enabled: false,
-      },
-    ],
-  },
-  {
-    id: 'lectio-divina',
-    customName: 'Lectio Divina',
-    customIcon: 'scroll',
-    customDesc: 'Prayerful reading and meditation on Scripture',
-    slots: [
-      {
-        slotId: 'default',
-        sortOrder: 13,
-        tier: 'extra',
         schedule: '{"type":"daily"}',
         enabled: false,
       },

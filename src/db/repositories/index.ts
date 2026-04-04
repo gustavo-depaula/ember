@@ -15,6 +15,7 @@ export {
 } from './cursors'
 export {
   addSlot,
+  changeSlotFlow,
   createPractice,
   createPracticeWithSlot,
   deletePractice,

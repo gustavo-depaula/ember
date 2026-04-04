@@ -3,6 +3,7 @@ export { enrichSlot, getPracticeIconKey, getSlotName } from './getPracticeName'
 export {
   useAddSlot,
   useAllSlots,
+  useChangeSlotFlow,
   useCompletionRange,
   useCompletionsForDate,
   useCompletionsForPractice,
