@@ -7,7 +7,7 @@
   "flowMode": "scroll",
   "completion": "flow-end",
   "flows": [
-    { "id": "apostleship", "name": { "en": "Apostleship of Prayer", "pt-BR": "Apostolado da Oração" }, "file": "flows/apostleship.json" },
+    { "id": "apostleship", "name": { "en": "Daily Offering", "pt-BR": "Oferecimento Diário" }, "file": "flows/apostleship.json" },
     { "id": "traditional", "name": { "en": "Traditional Morning Prayer", "pt-BR": "Oração da Manhã Tradicional" }, "file": "flows/traditional.json" }
   ],
   "description": {
