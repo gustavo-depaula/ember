@@ -14,7 +14,10 @@
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.dpgu.ember"
+      "bundleIdentifier": "me.dpgu.ember",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
     },
     "android": {
       "adaptiveIcon": {
@@ -22,7 +25,8 @@
         "foregroundImage": "./assets/android-icon-foreground.png",
         "backgroundImage": "./assets/android-icon-background.png",
         "monochromeImage": "./assets/android-icon-monochrome.png"
-      }
+      },
+      "package": "me.dpgu.ember"
     },
     "web": {
       "bundler": "metro",
@@ -30,14 +34,19 @@
       "favicon": "./assets/favicon.png"
     },
     "experiments": {
-      "typedRoutes": true,
-      "baseUrl": "/ember"
+      "typedRoutes": true
     },
     "plugins": [
       "expo-router",
       "expo-sqlite",
       "expo-font",
       "expo-notifications"
-    ]
+    ],
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "4f282c90-7689-4b7e-b8c0-707279d09c5c"
+      }
+    }
   }
 }
