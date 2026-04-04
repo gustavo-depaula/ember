@@ -185,12 +185,16 @@ function TimeInput({
 function SlotRow({
   slot,
   flows,
+  expanded,
+  onToggleExpand,
   onUpdate,
   onChangeFlow,
   onDelete,
 }: {
   slot: UserPracticeSlot
   flows?: FlowEntry[]
+  expanded: boolean
+  onToggleExpand: () => void
   onUpdate: (data: Record<string, unknown>) => void
   onChangeFlow?: (flowId: string) => void
   onDelete?: () => void
@@ -198,7 +202,6 @@ function SlotRow({
   const { t } = useTranslation()
   const theme = useTheme()
   const enriched = enrichSlot(slot, t)
-  const [expanded, setExpanded] = useState(false)
   const schedule = parseSchedule(slot.schedule)
 
   const [localEnabled, setLocalEnabled] = useState(slot.enabled === 1)
@@ -214,7 +217,7 @@ function SlotRow({
   function handleToggleExpand() {
     lightTap()
     chevronRotation.value = withSpring(expanded ? 0 : 90, calmSpring)
-    setExpanded(!expanded)
+    onToggleExpand()
   }
 
   return (
@@ -409,6 +412,7 @@ export function SlotConfigurator({
   const theme = useTheme()
   const manifest = getManifest(practiceId)
   const manifestFlowIds = new Set(manifest?.flows?.map((f) => f.id) ?? [])
+  const [expandedIndex, setExpandedIndex] = useState<number | undefined>()
   const [showFlowPicker, setShowFlowPicker] = useState(false)
   const hasMultipleFlows = (manifest?.flows?.length ?? 0) > 1
 
@@ -480,11 +484,13 @@ export function SlotConfigurator({
         <YStack borderBottomWidth={1.5} borderColor="$accent" width={32} />
       </YStack>
 
-      {slots.map((slot) => (
+      {slots.map((slot, i) => (
         <SlotRow
-          key={slot.sort_order}
+          key={slot.id}
           slot={slot}
           flows={manifest?.flows}
+          expanded={expandedIndex === i}
+          onToggleExpand={() => setExpandedIndex(expandedIndex === i ? undefined : i)}
           onUpdate={(data) => onUpdateSlot(slot.id, data)}
           onChangeFlow={
             onChangeSlotFlow ? (flowId) => onChangeSlotFlow(slot.id, flowId) : undefined
