@@ -53,6 +53,7 @@ import { getPsalmNumbering } from '@/lib/bolls'
 import { getCccParagraphs } from '@/lib/catechism'
 import { getChapter, type Verse } from '@/lib/content'
 import { successBuzz } from '@/lib/haptics'
+import { parseSlotKey } from '@/lib/slotKey'
 import { localizeContent } from '@/lib/i18n'
 import { formatLocalized } from '@/lib/i18n/dateLocale'
 import type { PsalmRef } from '@/lib/liturgical'
@@ -288,7 +289,7 @@ export function PracticeFlow({
 
   function handleComplete() {
     const today = format(new Date(), 'yyyy-MM-dd')
-    const subId = flowIdProp
+    const subId = parseSlotKey(currentSlot?.id ?? `${practiceId}::${flowId}`).slotId
 
     logCompletionMutation.mutate(
       { practiceId, date: today, subId },

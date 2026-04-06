@@ -1,5 +1,6 @@
 import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
 import type { ProgramConfig } from '@/content/types'
+import type { Completion } from '@/db/schema'
 import {
   addSlot,
   changeSlotFlow,
@@ -148,7 +149,7 @@ export function useLogCompletion() {
     }: {
       practiceId: string
       date: string
-      subId?: string
+      subId: string
     }) => logCompletion(practiceId, date, subId),
     onSuccess: () => {
       queryClient.invalidateQueries({ queryKey: ['completions'] })
@@ -183,8 +184,29 @@ export function useToggleSlot() {
       slotId: string
       date: string
       completed: boolean
-    }) => toggleCompletion(practiceId, date, completed, slotId === 'default' ? undefined : slotId),
-    onSuccess: () => {
+    }) => toggleCompletion(practiceId, date, completed, slotId),
+    onMutate: async ({ practiceId, slotId, date, completed }) => {
+      await queryClient.cancelQueries({ queryKey: ['completions', date] })
+      const previous = queryClient.getQueryData<Completion[]>(['completions', date])
+
+      queryClient.setQueryData<Completion[]>(['completions', date], (old = []) => {
+        if (completed) {
+          return [
+            ...old,
+            { id: -Date.now(), practice_id: practiceId, sub_id: slotId, date, completed_at: Date.now() },
+          ]
+        }
+        return old.filter((c) => c.practice_id !== practiceId || c.sub_id !== slotId)
+      })
+
+      return { previous, date }
+    },
+    onError: (_err, _vars, context) => {
+      if (context?.previous) {
+        queryClient.setQueryData(['completions', context.date], context.previous)
+      }
+    },
+    onSettled: () => {
       queryClient.invalidateQueries({ queryKey: ['completions'] })
       queryClient.invalidateQueries({ queryKey: ['practiceStats'] })
     },

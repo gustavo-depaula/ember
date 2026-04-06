@@ -269,12 +269,12 @@ export async function reorderSlots(orderedIds: string[]): Promise<void> {
 export async function logCompletion(
   practiceId: string,
   date: string,
-  subId?: string,
+  subId: string,
 ): Promise<void> {
   const ts = Date.now()
   await getDb().runAsync(
     'INSERT INTO completions (practice_id, sub_id, date, completed_at) VALUES (?, ?, ?, ?)',
-    [practiceId, subId ?? null, date, ts],
+    [practiceId, subId, date, ts],
   )
 }
 
@@ -312,21 +312,15 @@ export async function toggleCompletion(
   practiceId: string,
   date: string,
   completed: boolean,
-  subId?: string,
+  subId: string,
 ): Promise<void> {
   const db = getDb()
   if (completed) {
     await logCompletion(practiceId, date, subId)
-  } else if (subId) {
-    await db.runAsync('DELETE FROM completions WHERE practice_id = ? AND date = ? AND sub_id = ?', [
-      practiceId,
-      date,
-      subId,
-    ])
   } else {
     await db.runAsync(
-      'DELETE FROM completions WHERE practice_id = ? AND date = ? AND sub_id IS NULL',
-      [practiceId, date],
+      'DELETE FROM completions WHERE practice_id = ? AND date = ? AND sub_id = ?',
+      [practiceId, date, subId],
     )
   }
 }
