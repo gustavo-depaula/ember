@@ -15,35 +15,35 @@ describe('normalizeEvangelizo', () => {
 
     it('extracts first reading with citation', () => {
       expect(propers['first-reading']).toBeDefined()
-      expect(propers['first-reading']!.citation).toBe('Acts of the Apostles 2,14.22-33.')
-      expect(propers['first-reading']!.text).toContain('Then Peter stood up')
+      expect(propers['first-reading']?.citation).toBe('Acts of the Apostles 2,14.22-33.')
+      expect(propers['first-reading']?.text).toContain('Then Peter stood up')
     })
 
     it('extracts psalm with citation', () => {
       expect(propers['responsorial-psalm']).toBeDefined()
-      expect(propers['responsorial-psalm']!.citation).toBe('Psalms 16(15),1-2a.5.7-8.9-10.11.')
+      expect(propers['responsorial-psalm']?.citation).toBe('Psalms 16(15),1-2a.5.7-8.9-10.11.')
     })
 
     it('preserves psalm strophe breaks as double newlines', () => {
-      const text = propers['responsorial-psalm']!.text
+      const text = propers['responsorial-psalm']?.text
       expect(text).toContain('my lot.\n\nI bless')
     })
 
     it('keeps verse lines within strophes as single newlines', () => {
-      const text = propers['responsorial-psalm']!.text
+      const text = propers['responsorial-psalm']?.text
       expect(text).toContain('take refuge;\nI say to the LORD')
     })
 
     it('does not double-space continuation lines (\\r\\n handling)', () => {
-      const text = propers['responsorial-psalm']!.text
+      const text = propers['responsorial-psalm']?.text
       expect(text).not.toContain('\n\nyou it is')
       expect(text).toContain('cup, \nyou it is')
     })
 
     it('extracts gospel with citation', () => {
       expect(propers.gospel).toBeDefined()
-      expect(propers.gospel!.citation).toContain('Saint Matthew 28,8-15.')
-      expect(propers.gospel!.text).toContain('Mary Magdalene')
+      expect(propers.gospel?.citation).toContain('Saint Matthew 28,8-15.')
+      expect(propers.gospel?.text).toContain('Mary Magdalene')
     })
 
     it('does not have a second reading on weekdays', () => {
@@ -51,11 +51,11 @@ describe('normalizeEvangelizo', () => {
     })
 
     it('strips day name from first reading citation', () => {
-      expect(propers['first-reading']!.citation).not.toContain('Monday')
+      expect(propers['first-reading']?.citation).not.toContain('Monday')
     })
 
     it('decodes HTML entities', () => {
-      expect(propers['first-reading']!.text).toContain('"You who are Jews')
+      expect(propers['first-reading']?.text).toContain('"You who are Jews')
     })
   })
 
@@ -70,8 +70,8 @@ describe('normalizeEvangelizo', () => {
     })
 
     it('maps second reading correctly', () => {
-      expect(propers['second-reading']!.citation).toBe('First Letter of Peter 1,3-9.')
-      expect(propers['second-reading']!.text).toContain('Blessed be the God')
+      expect(propers['second-reading']?.citation).toBe('First Letter of Peter 1,3-9.')
+      expect(propers['second-reading']?.text).toContain('Blessed be the God')
     })
   })
 })
