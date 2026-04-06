@@ -7,14 +7,21 @@ export function ResponseBlock({ verses }: { verses: { v: string; r: string }[] }
     <YStack gap="$sm">
       {verses.map((verse, i) => (
         <YStack key={`vr-${i}`} gap="$xs">
-          <XStack gap="$xs" alignItems="flex-start">
-            <Text fontFamily="$body" fontSize="$2" color="$colorBurgundy" width={24}>
+          <XStack gap="$xs" alignItems="flex-start" accessibilityLabel={`Versicle: ${verse.v}`}>
+            <Text fontFamily="$body" fontSize="$2" color="$colorBurgundy" width={24} aria-hidden>
               ℣.
             </Text>
             <PrayerText flex={1}>{verse.v}</PrayerText>
           </XStack>
-          <XStack gap="$xs" alignItems="flex-start">
-            <Text fontFamily="$body" fontSize="$2" color="$accent" fontWeight="600" width={24}>
+          <XStack gap="$xs" alignItems="flex-start" accessibilityLabel={`Response: ${verse.r}`}>
+            <Text
+              fontFamily="$body"
+              fontSize="$2"
+              color="$accent"
+              fontWeight="600"
+              width={24}
+              aria-hidden
+            >
               ℟.
             </Text>
             <PrayerText flex={1} fontWeight="600">

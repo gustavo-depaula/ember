@@ -20,7 +20,12 @@ export function CollapsiblePrayer({
 
   return (
     <YStack gap="$xs">
-      <Pressable onPress={() => setExpanded(!expanded)}>
+      <Pressable
+        onPress={() => setExpanded(!expanded)}
+        accessibilityRole="button"
+        accessibilityLabel={title}
+        accessibilityState={{ expanded }}
+      >
         <XStack alignItems="center" gap="$sm">
           <ChevronRight
             size={14}

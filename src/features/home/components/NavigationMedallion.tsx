@@ -22,7 +22,12 @@ export function NavigationMedallion({
   onPress: () => void
 }) {
   return (
-    <AnimatedPressable onPress={onPress}>
+    <AnimatedPressable
+      onPress={onPress}
+      accessibilityRole="link"
+      accessibilityLabel={title}
+      accessibilityHint={subtitle}
+    >
       <YStack padding={12} position="relative" overflow="visible">
         <View position="absolute" top={0} left={0}>
           <Image source={topLeft} style={styles.topLeft} contentFit="contain" />

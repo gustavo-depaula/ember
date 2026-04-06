@@ -33,7 +33,12 @@ export const FloralVineBorder = memo(function FloralVineBorder({
   const viewBox = `0 0 ${svgWidth} ${svgHeight}`
 
   return (
-    <Svg width={isVertical ? 20 : length} height={isVertical ? length : 20} viewBox={viewBox}>
+    <Svg
+      width={isVertical ? 20 : length}
+      height={isVertical ? length : 20}
+      viewBox={viewBox}
+      accessible={false}
+    >
       {isVertical ? (
         <>
           {/* Vertical sinusoidal stem */}

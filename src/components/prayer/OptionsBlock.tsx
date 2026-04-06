@@ -24,7 +24,13 @@ export function OptionsBlock({
 
       <XStack gap="$xs" flexWrap="wrap">
         {options.map((opt, i) => (
-          <AnimatedPressable key={opt.id} onPress={() => setSelected(i)}>
+          <AnimatedPressable
+            key={opt.id}
+            onPress={() => setSelected(i)}
+            accessibilityRole="tab"
+            accessibilityLabel={opt.label}
+            accessibilityState={{ selected: i === selected }}
+          >
             <YStack
               paddingHorizontal="$sm"
               paddingVertical="$xs"

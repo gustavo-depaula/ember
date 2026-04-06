@@ -176,6 +176,15 @@ const { data: completions, isLoading } = useQuery({
 - No JSDoc unless it's a truly public API
 - Code should speak for itself
 
+## Accessibility
+
+- All `Pressable` / `AnimatedPressable` elements must have `accessibilityRole` and `accessibilityLabel`
+- Stateful controls (checkboxes, toggles, collapsibles) must include `accessibilityState`
+- Use i18n keys from the `a11y` namespace for labels (both `en.ts` and `pt-BR.ts`)
+- Decorative elements (ornaments, flourishes, dividers) must be hidden from screen readers
+- Compact UI elements that could break at large font sizes need `maxFontSizeMultiplier`
+- See `docs/design/accessibility.md` for the full guide
+
 ## Testing
 
 - Vitest for pure logic — colocated test files (`module.test.ts` next to source)

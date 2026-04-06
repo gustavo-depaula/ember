@@ -112,7 +112,16 @@ export default function RootLayout() {
             <StatusBar hidden />
             <Stack
               screenOptions={{ headerShown: false, animation: 'fade', animationDuration: 200 }}
-            />
+            >
+              <Stack.Screen name="index" options={{ title: 'Home' }} />
+              <Stack.Screen name="plan" options={{ title: 'Plan of Life' }} />
+              <Stack.Screen name="bible" options={{ title: 'Sacred Scripture' }} />
+              <Stack.Screen name="catechism" options={{ title: 'Catechism' }} />
+              <Stack.Screen name="saints" options={{ title: 'Saints' }} />
+              <Stack.Screen name="settings" options={{ title: 'Settings' }} />
+              <Stack.Screen name="pray" options={{ title: 'Prayer' }} />
+              <Stack.Screen name="practices" options={{ title: 'Practices' }} />
+            </Stack>
             <TasselPull />
           </Theme>
         </TamaguiProvider>

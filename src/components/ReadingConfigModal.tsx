@@ -16,11 +16,13 @@ function ToolbarButton({
   selected,
   disabled,
   children,
+  accessibilityLabel,
 }: {
   onPress: () => void
   selected?: boolean
   disabled?: boolean
   children: (pressed: boolean) => React.ReactNode
+  accessibilityLabel: string
 }) {
   const [pressed, setPressed] = useState(false)
 
@@ -30,6 +32,9 @@ function ToolbarButton({
       disabled={disabled}
       onPressIn={() => setPressed(true)}
       onPressOut={() => setPressed(false)}
+      accessibilityRole="button"
+      accessibilityLabel={accessibilityLabel}
+      accessibilityState={{ selected, disabled }}
     >
       <YStack
         backgroundColor={selected ? '$accent' : pressed ? '$borderColor' : '$backgroundSurface'}
@@ -71,7 +76,11 @@ export function ReadingConfigBadge({ onPress }: { onPress: () => void }) {
   const theme = useTheme()
 
   return (
-    <Pressable onPress={onPress}>
+    <Pressable
+      onPress={onPress}
+      accessibilityRole="button"
+      accessibilityLabel={t('readingConfig.reading')}
+    >
       <XStack alignItems="center" gap="$sm">
         <View
           width={32}
@@ -122,6 +131,7 @@ export function ReadingConfig() {
           <ToolbarButton
             onPress={() => rc.setFontSizeStep(rc.fontSizeStep - 1)}
             disabled={rc.fontSizeStep <= 1}
+            accessibilityLabel={t('a11y.decreaseSize')}
           >
             {() => (
               <Text fontFamily="$body" fontSize={15} color="$color">
@@ -132,6 +142,7 @@ export function ReadingConfig() {
           <ToolbarButton
             onPress={() => rc.setFontSizeStep(rc.fontSizeStep + 1)}
             disabled={rc.fontSizeStep >= 5}
+            accessibilityLabel={t('a11y.increaseSize')}
           >
             {() => (
               <Text fontFamily="$body" fontSize={24} color="$color">
@@ -145,6 +156,7 @@ export function ReadingConfig() {
           <ToolbarButton
             onPress={() => rc.setLineHeightStep(rc.lineHeightStep - 1)}
             disabled={rc.lineHeightStep <= Math.max(1, rc.fontSizeStep - 1)}
+            accessibilityLabel={t('a11y.decreaseSpacing')}
           >
             {() => (
               <Text fontFamily="$body" fontSize={20} color="$color">
@@ -155,6 +167,7 @@ export function ReadingConfig() {
           <ToolbarButton
             onPress={() => rc.setLineHeightStep(rc.lineHeightStep + 1)}
             disabled={rc.lineHeightStep >= 7}
+            accessibilityLabel={t('a11y.increaseSpacing')}
           >
             {() => (
               <Text fontFamily="$body" fontSize={20} color="$color">
@@ -168,7 +181,11 @@ export function ReadingConfig() {
       {/* Row 2: Align + Margins */}
       <XStack justifyContent="center" gap="$lg">
         <ButtonGroup label={t('readingConfig.align')}>
-          <ToolbarButton onPress={() => rc.setTextAlign('left')} selected={rc.textAlign === 'left'}>
+          <ToolbarButton
+            onPress={() => rc.setTextAlign('left')}
+            selected={rc.textAlign === 'left'}
+            accessibilityLabel={t('a11y.alignLeft')}
+          >
             {() => (
               <AlignLeft
                 size={22}
@@ -179,6 +196,7 @@ export function ReadingConfig() {
           <ToolbarButton
             onPress={() => rc.setTextAlign('justify')}
             selected={rc.textAlign === 'justify'}
+            accessibilityLabel={t('a11y.alignJustify')}
           >
             {() => (
               <AlignJustify
@@ -190,7 +208,11 @@ export function ReadingConfig() {
         </ButtonGroup>
 
         <ButtonGroup label={t('readingConfig.margins')}>
-          <ToolbarButton onPress={() => rc.setMargin('narrow')} selected={rc.margin === 'narrow'}>
+          <ToolbarButton
+            onPress={() => rc.setMargin('narrow')}
+            selected={rc.margin === 'narrow'}
+            accessibilityLabel={t('a11y.narrowMargins')}
+          >
             {() => (
               <Text
                 fontFamily="$heading"
@@ -201,7 +223,11 @@ export function ReadingConfig() {
               </Text>
             )}
           </ToolbarButton>
-          <ToolbarButton onPress={() => rc.setMargin('normal')} selected={rc.margin === 'normal'}>
+          <ToolbarButton
+            onPress={() => rc.setMargin('normal')}
+            selected={rc.margin === 'normal'}
+            accessibilityLabel={t('a11y.normalMargins')}
+          >
             {() => (
               <Text
                 fontFamily="$heading"
@@ -213,7 +239,11 @@ export function ReadingConfig() {
               </Text>
             )}
           </ToolbarButton>
-          <ToolbarButton onPress={() => rc.setMargin('wide')} selected={rc.margin === 'wide'}>
+          <ToolbarButton
+            onPress={() => rc.setMargin('wide')}
+            selected={rc.margin === 'wide'}
+            accessibilityLabel={t('a11y.wideMargins')}
+          >
             {() => (
               <Text
                 fontFamily="$heading"
@@ -233,7 +263,17 @@ export function ReadingConfig() {
         {readingFonts.map((f) => {
           const selected = rc.fontFamily === f.id
           return (
-            <Pressable key={f.id} onPress={() => rc.setFontFamily(f.id)}>
+            <Pressable
+              key={f.id}
+              onPress={() => rc.setFontFamily(f.id)}
+              accessibilityRole="radio"
+              accessibilityLabel={
+                selected
+                  ? t('a11y.selectedFont', { name: f.label })
+                  : t('a11y.selectFont', { name: f.label })
+              }
+              accessibilityState={{ selected }}
+            >
               <XStack
                 backgroundColor={selected ? '$accent' : '$backgroundSurface'}
                 borderRadius="$lg"
@@ -296,7 +336,12 @@ export function ReadingConfigModal({
           borderBottomWidth={1}
           borderBottomColor="$borderColor"
         >
-          <Pressable onPress={onClose} hitSlop={12}>
+          <Pressable
+            onPress={onClose}
+            hitSlop={12}
+            accessibilityRole="button"
+            accessibilityLabel={t('a11y.closeModal')}
+          >
             <X size={24} color={theme.color.val} />
           </Pressable>
           <Text fontFamily="$heading" fontSize="$4" color="$color">

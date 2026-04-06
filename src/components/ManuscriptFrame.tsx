@@ -36,7 +36,11 @@ export function ManuscriptFrame({
       overflow="visible"
     >
       {showCorners && (
-        <>
+        <View
+          accessible={false}
+          importantForAccessibility="no-hide-descendants"
+          pointerEvents="none"
+        >
           <View position="absolute" top={-8} left={-24}>
             <Image source={corners.topLeft} style={styles.corner} contentFit="contain" />
           </View>
@@ -49,7 +53,7 @@ export function ManuscriptFrame({
           <View position="absolute" bottom={-12} right={-10}>
             <Image source={corners.bottomRight} style={styles.corner} contentFit="contain" />
           </View>
-        </>
+        </View>
       )}
 
       <YStack

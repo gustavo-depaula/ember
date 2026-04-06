@@ -53,10 +53,10 @@ import { getPsalmNumbering } from '@/lib/bolls'
 import { getCccParagraphs } from '@/lib/catechism'
 import { getChapter, type Verse } from '@/lib/content'
 import { successBuzz } from '@/lib/haptics'
-import { parseSlotKey } from '@/lib/slotKey'
 import { localizeContent } from '@/lib/i18n'
 import { formatLocalized } from '@/lib/i18n/dateLocale'
 import type { PsalmRef } from '@/lib/liturgical'
+import { parseSlotKey } from '@/lib/slotKey'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
 function findPsalmRefs(sections: RenderedSection[]): PsalmRef[] {

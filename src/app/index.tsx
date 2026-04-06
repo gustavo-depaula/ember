@@ -37,7 +37,6 @@ import {
   useSlots,
   useToggleSlot,
 } from '@/features/plan-of-life'
-import { parseSlotKey } from '@/lib/slotKey'
 import { useToday } from '@/hooks/useToday'
 import {
   computeEaster,
@@ -46,6 +45,7 @@ import {
   type LiturgicalCalendarForm,
   normalizeDate,
 } from '@/lib/liturgical'
+import { parseSlotKey } from '@/lib/slotKey'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
 export default function HomeScreen() {
@@ -142,7 +142,11 @@ export default function HomeScreen() {
         {todaySlots.length > 0 && (
           <YStack gap="$md">
             <FadeInView index={1}>
-              <Pressable onPress={() => router.push('/plan')}>
+              <Pressable
+                onPress={() => router.push('/plan')}
+                accessibilityRole="link"
+                accessibilityLabel={t('a11y.viewPlanOfLife')}
+              >
                 <Text
                   fontFamily="$heading"
                   fontSize="$4"

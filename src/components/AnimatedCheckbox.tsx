@@ -18,9 +18,11 @@ const size = 28
 export function AnimatedCheckbox({
   checked,
   onToggle,
+  accessibilityLabel,
 }: {
   checked: boolean
   onToggle: () => void
+  accessibilityLabel: string
 }) {
   const theme = useTheme()
   const progress = useSharedValue(checked ? 1 : 0)
@@ -58,7 +60,13 @@ export function AnimatedCheckbox({
   }))
 
   return (
-    <Pressable onPress={onToggle} hitSlop={8}>
+    <Pressable
+      onPress={onToggle}
+      hitSlop={8}
+      accessibilityRole="checkbox"
+      accessibilityState={{ checked }}
+      accessibilityLabel={accessibilityLabel}
+    >
       <Animated.View style={containerStyle}>
         <Animated.View style={checkStyle}>
           <Check size={16} color={bgColor} />

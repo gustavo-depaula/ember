@@ -38,7 +38,13 @@ function PillSelector<T extends string>({
         {options.map((opt) => {
           const selected = value === opt.value
           return (
-            <Pressable key={opt.value} onPress={() => onChange(opt.value)}>
+            <Pressable
+              key={opt.value}
+              onPress={() => onChange(opt.value)}
+              accessibilityRole="radio"
+              accessibilityLabel={opt.label}
+              accessibilityState={{ selected }}
+            >
               <YStack
                 backgroundColor={selected ? '$accent' : '$backgroundSurface'}
                 borderRadius="$lg"
@@ -88,7 +94,11 @@ export default function SettingsScreen() {
           <Text fontFamily="$heading" fontSize="$3" color="$color">
             {t('settings.bibleTranslation')}
           </Text>
-          <Pressable onPress={() => setTranslationModalVisible(true)}>
+          <Pressable
+            onPress={() => setTranslationModalVisible(true)}
+            accessibilityRole="button"
+            accessibilityLabel={`${t('settings.bibleTranslation')}: ${suggestedTranslations.find((tr) => tr.code === translation)?.name ?? translation}. ${t('settings.change')}`}
+          >
             <XStack
               backgroundColor="$backgroundSurface"
               borderRadius="$lg"
@@ -190,19 +200,31 @@ export default function SettingsScreen() {
                     {format(parseISO(timeTravelDate), 'MMMM d, yyyy')}
                   </Text>
                 </YStack>
-                <Pressable onPress={() => setShowDatePicker(true)}>
+                <Pressable
+                  onPress={() => setShowDatePicker(true)}
+                  accessibilityRole="button"
+                  accessibilityLabel={t('settings.change')}
+                >
                   <Text fontFamily="$body" fontSize="$2" color="$accent">
                     {t('settings.change')}
                   </Text>
                 </Pressable>
-                <Pressable onPress={() => setTimeTravelDate(undefined)}>
+                <Pressable
+                  onPress={() => setTimeTravelDate(undefined)}
+                  accessibilityRole="button"
+                  accessibilityLabel={t('settings.timeTravelClear')}
+                >
                   <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
                     {t('settings.timeTravelClear')}
                   </Text>
                 </Pressable>
               </>
             ) : (
-              <Pressable onPress={() => setShowDatePicker(true)}>
+              <Pressable
+                onPress={() => setShowDatePicker(true)}
+                accessibilityRole="button"
+                accessibilityLabel={t('settings.timeTravelPick')}
+              >
                 <YStack
                   backgroundColor="$backgroundSurface"
                   borderRadius="$lg"

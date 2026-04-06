@@ -155,8 +155,16 @@ export function DayCarousel({
       </GestureDetector>
       {awayDir && (
         <Animated.View entering={FadeIn.duration(200)} exiting={FadeOut.duration(150)}>
-          <Pressable onPress={goToToday} style={styles.todayButton}>
-            <Animated.Text style={[styles.todayButtonText, { color: accentColor }]}>
+          <Pressable
+            onPress={goToToday}
+            style={styles.todayButton}
+            accessibilityRole="button"
+            accessibilityLabel={t('a11y.goToToday')}
+          >
+            <Animated.Text
+              style={[styles.todayButtonText, { color: accentColor }]}
+              maxFontSizeMultiplier={1.5}
+            >
               {awayDir === 'past' ? '‹ ' : ''}
               {t('plan.today')}
               {awayDir === 'future' ? ' ›' : ''}
@@ -217,8 +225,15 @@ function DayPill({
     color: interpolateColor(distance.value, [0, 0.5], [bgColor, secondaryColor]),
   }))
 
+  const fullDateLabel = formatLocalized(dateObj, 'EEEE, MMMM d')
+
   return (
-    <Pressable onPress={onTap} style={{ position: 'absolute', left: index * itemSize }}>
+    <Pressable
+      onPress={onTap}
+      style={{ position: 'absolute', left: index * itemSize }}
+      accessibilityRole="button"
+      accessibilityLabel={fullDateLabel}
+    >
       <Animated.View
         style={[
           styles.pill,
@@ -226,8 +241,12 @@ function DayPill({
           isToday && { borderWidth: 1.5, borderColor: `${accentColor}40` },
         ]}
       >
-        <Animated.Text style={[styles.dayLabel, labelStyle]}>{dayLabel}</Animated.Text>
-        <Animated.Text style={[styles.dayNumber, textStyle]}>{dayNumber}</Animated.Text>
+        <Animated.Text style={[styles.dayLabel, labelStyle]} maxFontSizeMultiplier={1.2}>
+          {dayLabel}
+        </Animated.Text>
+        <Animated.Text style={[styles.dayNumber, textStyle]} maxFontSizeMultiplier={1.2}>
+          {dayNumber}
+        </Animated.Text>
       </Animated.View>
     </Pressable>
   )

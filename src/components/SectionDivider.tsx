@@ -21,7 +21,13 @@ export function getSeasonalSymbol(season?: LiturgicalSeason | 'rose'): string {
 
 export function SectionDivider({ symbol = '\u2726' }: { symbol?: string }) {
   return (
-    <XStack alignItems="center" gap="$md" paddingVertical="$lg">
+    <XStack
+      alignItems="center"
+      gap="$md"
+      paddingVertical="$lg"
+      accessible={false}
+      importantForAccessibility="no-hide-descendants"
+    >
       <View flex={1} borderBottomWidth={1} borderColor="$borderColor" />
       <Text fontFamily="$heading" fontSize="$3" color="$accent">
         {symbol}

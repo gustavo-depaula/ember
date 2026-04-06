@@ -12,7 +12,11 @@ export function PrayButton({ practiceId }: { practiceId: string }) {
   const router = useRouter()
 
   return (
-    <AnimatedPressable onPress={() => router.push(`/pray/${practiceId}` as any)}>
+    <AnimatedPressable
+      onPress={() => router.push(`/pray/${practiceId}` as any)}
+      accessibilityRole="button"
+      accessibilityLabel={t('practice.pray')}
+    >
       <YStack
         backgroundColor="$accent"
         borderRadius="$md"
@@ -47,6 +51,8 @@ export function FlowButtons({
         <AnimatedPressable
           key={flow.id}
           onPress={() => router.push(`/pray/${practiceId}?flow=${flow.id}` as any)}
+          accessibilityRole="button"
+          accessibilityLabel={localizeContent(flow.name)}
         >
           <XStack
             backgroundColor="$accent"
