@@ -144,8 +144,6 @@ These are well-known prayers that don't need an external source — just bundle 
 
 ## Daily Mass Readings & Propers
 
-*Research phase — not yet implemented in the app.*
-
 ### What Changes Daily in the Mass
 
 **Readings:** First Reading, Responsorial Psalm, Second Reading (Sundays/Solemnities only), Gospel Acclamation, Gospel.
@@ -189,23 +187,33 @@ These are well-known prayers that don't need an external source — just bundle 
 - **Languages:** AM (English), PT, FR, ES, and more
 - **Limitations:** Response may include HTML (needs stripping), date range ~30 days from current, no CORS (may need proxy for web)
 
-### Universalis (OF — Potentially Full Propers)
+### Liturgia Diária API (OF Complete Propers — Portuguese)
 
-Claims to provide full Mass readings AND propers (Collect, antiphons, etc.) via JSONP. Documentation vague and incomplete. Legacy JavaScript callback pattern. Worth investigating further but unreliable.
+- **URL:** `https://liturgia.up.railway.app/v2/?dia={DD}&mes={MM}&ano={YYYY}`
+- **Repository:** `github.com/Dancrf/liturgia-diaria`
+- **Auth:** None
+- **Cost:** Free
+- **Content:** Complete daily Mass propers — readings (full text), Collect, Prayer over the Offerings, Prayer after Communion, Entrance and Communion Antiphons
+- **Language:** PT-BR only
+- **Source data:** Likely scraped from liturgia.cnbb.org.br (CNBB)
+- **Status:** Integrated — `src/lib/mass-propers/of/liturgia-diaria.ts`
 
-### OF Propers Gap
+### Universalis (OF — Readings Only)
 
-No free API provides Ordinary Form collects, antiphons, or variable prayers in structured format. These are copyrighted by ICEL. Options: (1) accept the gap and show readings only; (2) investigate Universalis JSONP thoroughly; (3) look into ICEL licensing for non-commercial use; (4) use Latin texts from Divinum Officium with manual mapping.
+Investigated thoroughly (April 2026). Despite vague docs claiming full propers, the JSONP endpoint only returns scripture readings, not collects or antiphons. Dead end for propers.
 
-### Recommended Strategy
+### OF Propers — English Gap
+
+No free API provides English Ordinary Form collects, antiphons, or variable prayers. These are copyrighted by ICEL. For English, only readings are available (via Evangelizo). See `docs/content/of-propers-research.md` for full research.
+
+### Current Implementation
 
 | Form | Data | Source | Status |
 |------|------|--------|--------|
-| EF | All propers | Missale Meum API | Ready |
-| OF | Liturgical day info | Catholic Readings API | Ready |
-| OF | Reading text | Evangelizo.org | Needs format testing |
-| OF | USCCB link | Catholic Readings API | Ready |
-| OF | Collects, antiphons | **Gap — no free source** | Blocked by ICEL copyright |
+| EF | All propers | Divinum Officium (bundled) | Implemented |
+| OF | Complete propers (PT-BR) | Liturgia Diária API | Implemented |
+| OF | Readings only (EN) | Evangelizo.org | Implemented |
+| OF | Collects, antiphons (EN) | **No free source** | Blocked by ICEL |
 
 ### Slot Mapping
 

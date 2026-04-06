@@ -1,3 +1,4 @@
+export { clearCache, getCached, setCache } from './cache'
 export type { ProgramCursorPosition } from './cursors'
 export {
   advanceIndex,

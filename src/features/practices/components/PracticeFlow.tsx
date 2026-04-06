@@ -528,7 +528,9 @@ function PracticeSectionBlock({
       )
 
     case 'proper':
-      return <ProperSlot slot={section.slot} description={section.description} />
+      return (
+        <ProperSlot slot={section.slot} form={section.form} description={section.description} />
+      )
 
     case 'options':
       return (

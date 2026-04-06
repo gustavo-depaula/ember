@@ -425,7 +425,8 @@
 			"description": {
 				"en": "Introit of the day",
 				"pt-BR": "Intróito do dia"
-			}
+			},
+			"form": "ef"
 		},
 		{
 			"type": "divider"
@@ -569,7 +570,8 @@
 			"description": {
 				"en": "Collect of the day",
 				"pt-BR": "Oração Coleta do dia"
-			}
+			},
+			"form": "ef"
 		},
 		{
 			"type": "divider"
@@ -587,7 +589,8 @@
 			"description": {
 				"en": "Epistle of the day",
 				"pt-BR": "Epístola do dia"
-			}
+			},
+			"form": "ef"
 		},
 		{
 			"type": "proper",
@@ -595,7 +598,8 @@
 			"description": {
 				"en": "Gradual / Alleluia / Tract of the day",
 				"pt-BR": "Gradual / Aleluia / Trato do dia"
-			}
+			},
+			"form": "ef"
 		},
 		{
 			"type": "rubric",
@@ -669,7 +673,8 @@
 			"description": {
 				"en": "Gospel of the day",
 				"pt-BR": "Evangelho do dia"
-			}
+			},
+			"form": "ef"
 		},
 		{
 			"type": "prayer",
@@ -756,7 +761,8 @@
 			"description": {
 				"en": "Offertory verse of the day",
 				"pt-BR": "Versículo do Ofertório do dia"
-			}
+			},
+			"form": "ef"
 		},
 		{
 			"type": "heading",
@@ -945,7 +951,8 @@
 			"description": {
 				"en": "Secret of the day",
 				"pt-BR": "Secreta do dia"
-			}
+			},
+			"form": "ef"
 		},
 		{
 			"type": "divider"
@@ -1035,7 +1042,8 @@
 			"description": {
 				"en": "Preface of the day",
 				"pt-BR": "Prefácio do dia"
-			}
+			},
+			"form": "ef"
 		},
 		{
 			"type": "subheading",
@@ -1671,7 +1679,8 @@
 			"description": {
 				"en": "Communion antiphon of the day",
 				"pt-BR": "Antífona de Comunhão do dia"
-			}
+			},
+			"form": "ef"
 		},
 		{
 			"type": "rubric",
@@ -1704,7 +1713,8 @@
 			"description": {
 				"en": "Postcommunion prayer of the day",
 				"pt-BR": "Oração pós-Comunhão do dia"
-			}
+			},
+			"form": "ef"
 		},
 		{
 			"type": "divider"

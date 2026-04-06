@@ -1,16 +1,14 @@
 // biome-ignore-all lint/suspicious/noArrayIndexKey: static prayer text lines never reorder
 import { Text, YStack } from 'tamagui'
 
-import { useTodayCelebration } from '@/features/calendar/hooks'
-import { useToday } from '@/hooks/useToday'
-import { getProperForSlot } from '@/lib/mass-propers'
+import { useProperForSlot } from '@/lib/mass-propers'
 import { PrayerText } from '../PrayerText'
 
 const markerPattern =
   /(\bv\.|(?<!\w)V\.|(?<!\w)R\.|(?<!\w)r\.|\+\+|\+|(?<!\w)C\.|(?<!\w)S\.|(?<!\w)J\.)/
 
 type Segment = {
-  type: 'text' | 'versicle' | 'response' | 'cross' | 'christ' | 'narrator' | 'crowd'
+  type: 'text' | 'versicle' | 'response' | 'cross' | 'christ' | 'narrator' | 'crowd' | 'verse-num'
   value: string
 }
 
@@ -49,14 +47,38 @@ function parseSegments(line: string): Segment[] {
     }
   }
 
-  return segments
+  return splitVerseNumbers(segments)
+}
+
+// Inline verse numbers like "14Pedro" or "22"Homens" → separate verse-num segments
+const verseNumPattern = /(\d{1,3})(?=[A-ZÀ-Üa-zà-ü\u201C\u201D\u201E\u2018\u2019"'"'(])/g
+
+function splitVerseNumbers(segments: Segment[]): Segment[] {
+  const result: Segment[] = []
+  for (const seg of segments) {
+    if (seg.type !== 'text') {
+      result.push(seg)
+      continue
+    }
+    let lastIndex = 0
+    for (const match of seg.value.matchAll(verseNumPattern)) {
+      const before = seg.value.slice(lastIndex, match.index)
+      if (before) result.push({ type: 'text', value: before })
+      result.push({ type: 'verse-num', value: match[1] })
+      lastIndex = match.index + match[1].length
+    }
+    const after = seg.value.slice(lastIndex)
+    if (after) result.push({ type: 'text', value: after })
+  }
+  return result
 }
 
 function FormattedLine({ line, isLatin }: { line: string; isLatin?: boolean }) {
   const segments = parseSegments(line)
-  const hasMarkers = segments.some((s) => s.type !== 'text')
+  const hasMarkers = segments.some((s) => s.type !== 'text' && s.type !== 'verse-num')
+  const hasVerseNums = segments.some((s) => s.type === 'verse-num')
 
-  if (!hasMarkers) {
+  if (!hasMarkers && !hasVerseNums) {
     return isLatin ? (
       <Text fontFamily="$body" fontSize="$2" fontStyle="italic" color="$colorSecondary">
         {line}
@@ -96,6 +118,12 @@ function FormattedLine({ line, isLatin }: { line: string; isLatin?: boolean }) {
                 {seg.value}
               </Text>
             )
+          case 'verse-num':
+            return (
+              <Text key={i} fontSize={10} color="$colorSecondary" opacity={0.7}>
+                {`\u2009${seg.value}\u2009`}
+              </Text>
+            )
           default:
             return <Text key={i}>{seg.value}</Text>
         }
@@ -104,10 +132,32 @@ function FormattedLine({ line, isLatin }: { line: string; isLatin?: boolean }) {
   )
 }
 
-export function ProperSlot({ slot, description }: { slot: string; description: string }) {
-  const today = useToday()
-  const dayCalendar = useTodayCelebration()
-  const proper = getProperForSlot(today, slot, dayCalendar)
+export function ProperSlot({
+  slot,
+  form,
+  description,
+}: {
+  slot: string
+  form: 'of' | 'ef'
+  description: string
+}) {
+  const { data: proper, isLoading } = useProperForSlot(slot, form)
+
+  if (isLoading) {
+    return (
+      <YStack
+        backgroundColor="$backgroundSurface"
+        borderRadius="$md"
+        padding="$md"
+        gap="$xs"
+        opacity={0.5}
+      >
+        <YStack backgroundColor="$borderColor" borderRadius="$sm" height={14} width="40%" />
+        <YStack backgroundColor="$borderColor" borderRadius="$sm" height={14} width="90%" />
+        <YStack backgroundColor="$borderColor" borderRadius="$sm" height={14} width="75%" />
+      </YStack>
+    )
+  }
 
   if (!proper) {
     return (
