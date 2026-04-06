@@ -3,6 +3,25 @@
 		{
 			"type": "heading",
 			"text": {
+				"en": "Entrance Antiphon",
+				"pt-BR": "Antífona de Entrada"
+			}
+		},
+		{
+			"type": "proper",
+			"slot": "entrance-antiphon",
+			"description": {
+				"en": "Entrance Antiphon",
+				"pt-BR": "Antífona de Entrada"
+			},
+			"form": "of"
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "heading",
+			"text": {
 				"en": "Introductory Rites",
 				"pt-BR": "Ritos Iniciais"
 			}
@@ -422,7 +441,8 @@
 			"description": {
 				"en": "Collect of the day",
 				"pt-BR": "Oração do dia"
-			}
+			},
+			"form": "of"
 		},
 		{
 			"type": "divider"
@@ -447,7 +467,8 @@
 			"description": {
 				"en": "First Reading",
 				"pt-BR": "Primeira Leitura"
-			}
+			},
+			"form": "of"
 		},
 		{
 			"type": "prayer",
@@ -473,7 +494,8 @@
 			"description": {
 				"en": "Responsorial Psalm",
 				"pt-BR": "Salmo Responsorial"
-			}
+			},
+			"form": "of"
 		},
 		{
 			"type": "proper",
@@ -481,7 +503,8 @@
 			"description": {
 				"en": "Second Reading (Sundays and Solemnities)",
 				"pt-BR": "Segunda Leitura (Domingos e Solenidades)"
-			}
+			},
+			"form": "of"
 		},
 		{
 			"type": "rubric",
@@ -512,7 +535,8 @@
 			"description": {
 				"en": "Gospel Acclamation verse",
 				"pt-BR": "Versículo da Aclamação ao Evangelho"
-			}
+			},
+			"form": "of"
 		},
 		{
 			"type": "prayer",
@@ -563,7 +587,8 @@
 			"description": {
 				"en": "Gospel of the day",
 				"pt-BR": "Evangelho do dia"
-			}
+			},
+			"form": "of"
 		},
 		{
 			"type": "prayer",
@@ -596,7 +621,8 @@
 			"description": {
 				"en": "Homily",
 				"pt-BR": "Homilia"
-			}
+			},
+			"form": "of"
 		},
 		{
 			"type": "rubric",
@@ -670,7 +696,8 @@
 			"description": {
 				"en": "Prayer of the Faithful",
 				"pt-BR": "Oração dos Fiéis"
-			}
+			},
+			"form": "of"
 		},
 		{
 			"type": "divider"
@@ -825,7 +852,8 @@
 			"description": {
 				"en": "Prayer over the Offerings",
 				"pt-BR": "Oração sobre as Oferendas"
-			}
+			},
+			"form": "of"
 		},
 		{
 			"type": "rubric",
@@ -901,7 +929,8 @@
 			"description": {
 				"en": "Preface of the day",
 				"pt-BR": "Prefácio do dia"
-			}
+			},
+			"form": "of"
 		},
 		{
 			"type": "prayer",
@@ -2067,7 +2096,8 @@
 			"description": {
 				"en": "Communion Antiphon",
 				"pt-BR": "Antífona da Comunhão"
-			}
+			},
+			"form": "of"
 		},
 		{
 			"type": "rubric",
@@ -2082,7 +2112,8 @@
 			"description": {
 				"en": "Prayer after Communion",
 				"pt-BR": "Oração depois da Comunhão"
-			}
+			},
+			"form": "of"
 		},
 		{
 			"type": "divider"

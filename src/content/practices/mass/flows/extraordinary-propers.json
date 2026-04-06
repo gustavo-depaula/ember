@@ -2,102 +2,190 @@
 	"sections": [
 		{
 			"type": "heading",
-			"text": { "en": "Introit", "pt-BR": "Intróito" }
+			"text": {
+				"en": "Introit",
+				"pt-BR": "Intróito"
+			}
 		},
 		{
 			"type": "proper",
 			"slot": "introit",
-			"description": { "en": "Introit of the day", "pt-BR": "Intróito do dia" }
+			"description": {
+				"en": "Introit of the day",
+				"pt-BR": "Intróito do dia"
+			},
+			"form": "ef"
 		},
-		{ "type": "divider" },
+		{
+			"type": "divider"
+		},
 		{
 			"type": "heading",
-			"text": { "en": "Collect", "pt-BR": "Oração Coleta" }
+			"text": {
+				"en": "Collect",
+				"pt-BR": "Oração Coleta"
+			}
 		},
 		{
 			"type": "proper",
 			"slot": "collect",
-			"description": { "en": "Collect of the day", "pt-BR": "Oração Coleta do dia" }
+			"description": {
+				"en": "Collect of the day",
+				"pt-BR": "Oração Coleta do dia"
+			},
+			"form": "ef"
 		},
-		{ "type": "divider" },
+		{
+			"type": "divider"
+		},
 		{
 			"type": "heading",
-			"text": { "en": "Epistle", "pt-BR": "Epístola" }
+			"text": {
+				"en": "Epistle",
+				"pt-BR": "Epístola"
+			}
 		},
 		{
 			"type": "proper",
 			"slot": "epistle",
-			"description": { "en": "Epistle of the day", "pt-BR": "Epístola do dia" }
+			"description": {
+				"en": "Epistle of the day",
+				"pt-BR": "Epístola do dia"
+			},
+			"form": "ef"
 		},
-		{ "type": "divider" },
+		{
+			"type": "divider"
+		},
 		{
 			"type": "heading",
-			"text": { "en": "Gradual", "pt-BR": "Gradual" }
+			"text": {
+				"en": "Gradual",
+				"pt-BR": "Gradual"
+			}
 		},
 		{
 			"type": "proper",
 			"slot": "gradual",
-			"description": { "en": "Gradual / Alleluia / Tract of the day", "pt-BR": "Gradual / Aleluia / Trato do dia" }
+			"description": {
+				"en": "Gradual / Alleluia / Tract of the day",
+				"pt-BR": "Gradual / Aleluia / Trato do dia"
+			},
+			"form": "ef"
 		},
-		{ "type": "divider" },
+		{
+			"type": "divider"
+		},
 		{
 			"type": "heading",
-			"text": { "en": "Gospel", "pt-BR": "Evangelho" }
+			"text": {
+				"en": "Gospel",
+				"pt-BR": "Evangelho"
+			}
 		},
 		{
 			"type": "proper",
 			"slot": "gospel",
-			"description": { "en": "Gospel of the day", "pt-BR": "Evangelho do dia" }
+			"description": {
+				"en": "Gospel of the day",
+				"pt-BR": "Evangelho do dia"
+			},
+			"form": "ef"
 		},
-		{ "type": "divider" },
+		{
+			"type": "divider"
+		},
 		{
 			"type": "heading",
-			"text": { "en": "Offertory", "pt-BR": "Ofertório" }
+			"text": {
+				"en": "Offertory",
+				"pt-BR": "Ofertório"
+			}
 		},
 		{
 			"type": "proper",
 			"slot": "offertory",
-			"description": { "en": "Offertory verse of the day", "pt-BR": "Versículo do Ofertório do dia" }
+			"description": {
+				"en": "Offertory verse of the day",
+				"pt-BR": "Versículo do Ofertório do dia"
+			},
+			"form": "ef"
 		},
-		{ "type": "divider" },
+		{
+			"type": "divider"
+		},
 		{
 			"type": "heading",
-			"text": { "en": "Secret", "pt-BR": "Secreta" }
+			"text": {
+				"en": "Secret",
+				"pt-BR": "Secreta"
+			}
 		},
 		{
 			"type": "proper",
 			"slot": "secret",
-			"description": { "en": "Secret of the day", "pt-BR": "Secreta do dia" }
+			"description": {
+				"en": "Secret of the day",
+				"pt-BR": "Secreta do dia"
+			},
+			"form": "ef"
 		},
-		{ "type": "divider" },
+		{
+			"type": "divider"
+		},
 		{
 			"type": "heading",
-			"text": { "en": "Preface", "pt-BR": "Prefácio" }
+			"text": {
+				"en": "Preface",
+				"pt-BR": "Prefácio"
+			}
 		},
 		{
 			"type": "proper",
 			"slot": "preface",
-			"description": { "en": "Preface of the day", "pt-BR": "Prefácio do dia" }
+			"description": {
+				"en": "Preface of the day",
+				"pt-BR": "Prefácio do dia"
+			},
+			"form": "ef"
 		},
-		{ "type": "divider" },
+		{
+			"type": "divider"
+		},
 		{
 			"type": "heading",
-			"text": { "en": "Communion", "pt-BR": "Comunhão" }
+			"text": {
+				"en": "Communion",
+				"pt-BR": "Comunhão"
+			}
 		},
 		{
 			"type": "proper",
 			"slot": "communion",
-			"description": { "en": "Communion antiphon of the day", "pt-BR": "Antífona de Comunhão do dia" }
+			"description": {
+				"en": "Communion antiphon of the day",
+				"pt-BR": "Antífona de Comunhão do dia"
+			},
+			"form": "ef"
 		},
-		{ "type": "divider" },
+		{
+			"type": "divider"
+		},
 		{
 			"type": "heading",
-			"text": { "en": "Postcommunion", "pt-BR": "Pós-Comunhão" }
+			"text": {
+				"en": "Postcommunion",
+				"pt-BR": "Pós-Comunhão"
+			}
 		},
 		{
 			"type": "proper",
 			"slot": "postcommunion",
-			"description": { "en": "Postcommunion prayer of the day", "pt-BR": "Oração pós-Comunhão do dia" }
+			"description": {
+				"en": "Postcommunion prayer of the day",
+				"pt-BR": "Oração pós-Comunhão do dia"
+			},
+			"form": "ef"
 		}
 	]
 }

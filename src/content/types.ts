@@ -101,7 +101,7 @@ export type FlowSection =
   | { type: 'meditation'; text: LocalizedText }
   | { type: 'response'; verses: { v: LocalizedText; r: LocalizedText }[] }
   | { type: 'subheading'; text: LocalizedText }
-  | { type: 'proper'; slot: string; description: LocalizedText }
+  | { type: 'proper'; slot: string; form: 'of' | 'ef'; description: LocalizedText }
   | {
       type: 'options'
       label: LocalizedText
@@ -137,7 +137,7 @@ export type RenderedSection =
   | { type: 'meditation'; text: string }
   | { type: 'response'; verses: { v: string; r: string }[] }
   | { type: 'subheading'; text: string }
-  | { type: 'proper'; slot: string; description: string }
+  | { type: 'proper'; slot: string; form: 'of' | 'ef'; description: string }
   | {
       type: 'options'
       label: string

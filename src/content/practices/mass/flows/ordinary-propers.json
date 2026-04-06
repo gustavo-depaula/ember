@@ -2,102 +2,209 @@
 	"sections": [
 		{
 			"type": "heading",
-			"text": { "en": "Collect", "pt-BR": "Oração do Dia" }
+			"text": {
+				"en": "Entrance Antiphon",
+				"pt-BR": "Antífona de Entrada"
+			}
+		},
+		{
+			"type": "proper",
+			"slot": "entrance-antiphon",
+			"description": {
+				"en": "Entrance Antiphon",
+				"pt-BR": "Antífona de Entrada"
+			},
+			"form": "of"
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en": "Collect",
+				"pt-BR": "Oração do Dia"
+			}
 		},
 		{
 			"type": "proper",
 			"slot": "collect",
-			"description": { "en": "Collect of the day", "pt-BR": "Oração do dia" }
+			"description": {
+				"en": "Collect of the day",
+				"pt-BR": "Oração do dia"
+			},
+			"form": "of"
 		},
-		{ "type": "divider" },
+		{
+			"type": "divider"
+		},
 		{
 			"type": "heading",
-			"text": { "en": "First Reading", "pt-BR": "Primeira Leitura" }
+			"text": {
+				"en": "First Reading",
+				"pt-BR": "Primeira Leitura"
+			}
 		},
 		{
 			"type": "proper",
 			"slot": "first-reading",
-			"description": { "en": "First Reading", "pt-BR": "Primeira Leitura" }
+			"description": {
+				"en": "First Reading",
+				"pt-BR": "Primeira Leitura"
+			},
+			"form": "of"
 		},
-		{ "type": "divider" },
+		{
+			"type": "divider"
+		},
 		{
 			"type": "heading",
-			"text": { "en": "Responsorial Psalm", "pt-BR": "Salmo Responsorial" }
+			"text": {
+				"en": "Responsorial Psalm",
+				"pt-BR": "Salmo Responsorial"
+			}
 		},
 		{
 			"type": "proper",
 			"slot": "responsorial-psalm",
-			"description": { "en": "Responsorial Psalm", "pt-BR": "Salmo Responsorial" }
+			"description": {
+				"en": "Responsorial Psalm",
+				"pt-BR": "Salmo Responsorial"
+			},
+			"form": "of"
 		},
-		{ "type": "divider" },
+		{
+			"type": "divider"
+		},
 		{
 			"type": "heading",
-			"text": { "en": "Second Reading", "pt-BR": "Segunda Leitura" }
+			"text": {
+				"en": "Second Reading",
+				"pt-BR": "Segunda Leitura"
+			}
 		},
 		{
 			"type": "proper",
 			"slot": "second-reading",
-			"description": { "en": "Second Reading (Sundays and Solemnities)", "pt-BR": "Segunda Leitura (Domingos e Solenidades)" }
+			"description": {
+				"en": "Second Reading (Sundays and Solemnities)",
+				"pt-BR": "Segunda Leitura (Domingos e Solenidades)"
+			},
+			"form": "of"
 		},
-		{ "type": "divider" },
+		{
+			"type": "divider"
+		},
 		{
 			"type": "heading",
-			"text": { "en": "Gospel Acclamation", "pt-BR": "Aclamação ao Evangelho" }
+			"text": {
+				"en": "Gospel Acclamation",
+				"pt-BR": "Aclamação ao Evangelho"
+			}
 		},
 		{
 			"type": "proper",
 			"slot": "gospel-verse",
-			"description": { "en": "Gospel Acclamation verse", "pt-BR": "Versículo da Aclamação ao Evangelho" }
+			"description": {
+				"en": "Gospel Acclamation verse",
+				"pt-BR": "Versículo da Aclamação ao Evangelho"
+			},
+			"form": "of"
 		},
-		{ "type": "divider" },
+		{
+			"type": "divider"
+		},
 		{
 			"type": "heading",
-			"text": { "en": "Gospel", "pt-BR": "Evangelho" }
+			"text": {
+				"en": "Gospel",
+				"pt-BR": "Evangelho"
+			}
 		},
 		{
 			"type": "proper",
 			"slot": "gospel",
-			"description": { "en": "Gospel of the day", "pt-BR": "Evangelho do dia" }
+			"description": {
+				"en": "Gospel of the day",
+				"pt-BR": "Evangelho do dia"
+			},
+			"form": "of"
 		},
-		{ "type": "divider" },
+		{
+			"type": "divider"
+		},
 		{
 			"type": "heading",
-			"text": { "en": "Prayer over the Offerings", "pt-BR": "Oração sobre as Oferendas" }
+			"text": {
+				"en": "Prayer over the Offerings",
+				"pt-BR": "Oração sobre as Oferendas"
+			}
 		},
 		{
 			"type": "proper",
 			"slot": "prayer-over-offerings",
-			"description": { "en": "Prayer over the Offerings", "pt-BR": "Oração sobre as Oferendas" }
+			"description": {
+				"en": "Prayer over the Offerings",
+				"pt-BR": "Oração sobre as Oferendas"
+			},
+			"form": "of"
 		},
-		{ "type": "divider" },
+		{
+			"type": "divider"
+		},
 		{
 			"type": "heading",
-			"text": { "en": "Preface", "pt-BR": "Prefácio" }
+			"text": {
+				"en": "Preface",
+				"pt-BR": "Prefácio"
+			}
 		},
 		{
 			"type": "proper",
 			"slot": "preface",
-			"description": { "en": "Preface of the day", "pt-BR": "Prefácio do dia" }
+			"description": {
+				"en": "Preface of the day",
+				"pt-BR": "Prefácio do dia"
+			},
+			"form": "of"
 		},
-		{ "type": "divider" },
+		{
+			"type": "divider"
+		},
 		{
 			"type": "heading",
-			"text": { "en": "Communion Antiphon", "pt-BR": "Antífona da Comunhão" }
+			"text": {
+				"en": "Communion Antiphon",
+				"pt-BR": "Antífona da Comunhão"
+			}
 		},
 		{
 			"type": "proper",
 			"slot": "communion",
-			"description": { "en": "Communion Antiphon", "pt-BR": "Antífona da Comunhão" }
+			"description": {
+				"en": "Communion Antiphon",
+				"pt-BR": "Antífona da Comunhão"
+			},
+			"form": "of"
 		},
-		{ "type": "divider" },
+		{
+			"type": "divider"
+		},
 		{
 			"type": "heading",
-			"text": { "en": "Prayer after Communion", "pt-BR": "Oração depois da Comunhão" }
+			"text": {
+				"en": "Prayer after Communion",
+				"pt-BR": "Oração depois da Comunhão"
+			}
 		},
 		{
 			"type": "proper",
 			"slot": "prayer-after-communion",
-			"description": { "en": "Prayer after Communion", "pt-BR": "Oração depois da Comunhão" }
+			"description": {
+				"en": "Prayer after Communion",
+				"pt-BR": "Oração depois da Comunhão"
+			},
+			"form": "of"
 		}
 	]
 }

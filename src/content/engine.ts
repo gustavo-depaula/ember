@@ -428,7 +428,12 @@ function resolveSection(section: FlowSection, context: FlowContext): RenderedSec
 
     case 'proper':
       return [
-        { type: 'proper', slot: section.slot, description: localizeContent(section.description) },
+        {
+          type: 'proper',
+          slot: section.slot,
+          form: section.form,
+          description: localizeContent(section.description),
+        },
       ]
 
     case 'options': {
