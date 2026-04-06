@@ -1,3 +1,4 @@
+import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
 import { Text, XStack, YStack } from 'tamagui'
 
@@ -26,6 +27,8 @@ export function PracticeChecklist({
   onRowPress?: (practiceId: string) => void
   readOnly?: boolean
 }) {
+  const { t } = useTranslation()
+
   return (
     <YStack gap="$sm">
       {items.map((item) => {
@@ -34,6 +37,8 @@ export function PracticeChecklist({
           <Pressable
             key={item.id}
             onPress={onRowPress ? () => onRowPress(item.practice_id) : undefined}
+            accessibilityRole="button"
+            accessibilityLabel={t('a11y.viewPractice', { name: item.name })}
           >
             <XStack
               backgroundColor="$backgroundSurface"
@@ -64,6 +69,11 @@ export function PracticeChecklist({
                     lightTap()
                     onToggle(item, !done)
                   }}
+                  accessibilityLabel={
+                    done
+                      ? t('a11y.untogglePractice', { name: item.name })
+                      : t('a11y.togglePractice', { name: item.name })
+                  }
                 />
               )}
             </XStack>

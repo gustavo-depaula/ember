@@ -1,4 +1,5 @@
 import { Check } from 'lucide-react-native'
+import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
@@ -28,12 +29,20 @@ export function TimeBlockSection({
   onToggleCollapse: () => void
   onPressItem?: (practiceId: string, slotId: string) => void
 }) {
+  const { t } = useTranslation()
   const theme = useTheme()
   const allDone = completed === total
+  const completionLabel = t('a11y.completedOf', { completed, total })
 
   if (state === 'collapsed') {
     return (
-      <Pressable onPress={onToggleCollapse}>
+      <Pressable
+        onPress={onToggleCollapse}
+        accessibilityRole="button"
+        accessibilityLabel={`${label}, ${completionLabel}`}
+        accessibilityHint={t('a11y.expandBlock', { name: label })}
+        accessibilityState={{ expanded: false }}
+      >
         <XStack paddingVertical="$sm" paddingHorizontal="$xs" alignItems="center" gap="$sm">
           <Text fontFamily="$heading" fontSize="$2" color="$colorSecondary">
             {label}
@@ -49,7 +58,13 @@ export function TimeBlockSection({
 
   if (state === 'preview') {
     return (
-      <Pressable onPress={onToggleCollapse}>
+      <Pressable
+        onPress={onToggleCollapse}
+        accessibilityRole="button"
+        accessibilityLabel={`${label}, ${completionLabel}`}
+        accessibilityHint={t('a11y.expandBlock', { name: label })}
+        accessibilityState={{ expanded: false }}
+      >
         <YStack paddingVertical="$sm" paddingHorizontal="$xs" gap="$xs">
           <XStack alignItems="center" gap="$sm">
             <Text fontFamily="$heading" fontSize="$2" color="$colorSecondary">
@@ -69,7 +84,13 @@ export function TimeBlockSection({
 
   return (
     <YStack gap="$sm">
-      <Pressable onPress={onToggleCollapse}>
+      <Pressable
+        onPress={onToggleCollapse}
+        accessibilityRole="button"
+        accessibilityLabel={`${label}, ${completionLabel}`}
+        accessibilityHint={t('a11y.collapseBlock', { name: label })}
+        accessibilityState={{ expanded: true }}
+      >
         <YStack gap="$xs" paddingHorizontal="$xs">
           <XStack justifyContent="space-between" alignItems="center">
             <Text fontFamily="$heading" fontSize="$3" color="$color" letterSpacing={1}>
@@ -84,7 +105,12 @@ export function TimeBlockSection({
       {items.map((item) => {
         const done = completedIds.has(item.id)
         return (
-          <Pressable key={item.id} onPress={() => onPressItem?.(item.practice_id, item.slot_id)}>
+          <Pressable
+            key={item.id}
+            onPress={() => onPressItem?.(item.practice_id, item.slot_id)}
+            accessibilityRole="button"
+            accessibilityLabel={t('a11y.viewPractice', { name: item.name })}
+          >
             <XStack
               backgroundColor="$backgroundSurface"
               borderRadius="$lg"
@@ -105,6 +131,11 @@ export function TimeBlockSection({
                   lightTap()
                   onToggle(item, !done)
                 }}
+                accessibilityLabel={
+                  done
+                    ? t('a11y.untogglePractice', { name: item.name })
+                    : t('a11y.togglePractice', { name: item.name })
+                }
               />
             </XStack>
           </Pressable>

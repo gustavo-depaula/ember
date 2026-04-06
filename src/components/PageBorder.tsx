@@ -13,7 +13,16 @@ const corners = {
 
 export const PageBorder = memo(function PageBorder() {
   return (
-    <View position="absolute" top={0} left={0} right={0} zIndex={1} pointerEvents="none">
+    <View
+      position="absolute"
+      top={0}
+      left={0}
+      right={0}
+      zIndex={1}
+      pointerEvents="none"
+      accessible={false}
+      importantForAccessibility="no-hide-descendants"
+    >
       <Image source={topLeftBorder} style={styles.topLeftBorder} contentFit="contain" />
       <View position="absolute" top={0} right={0}>
         <Image source={corners.topRight} style={styles.topCorner} contentFit="contain" />
@@ -24,7 +33,12 @@ export const PageBorder = memo(function PageBorder() {
 
 export const PageFooter = memo(function PageFooter() {
   return (
-    <XStack justifyContent="space-between" alignItems="flex-end">
+    <XStack
+      justifyContent="space-between"
+      alignItems="flex-end"
+      accessible={false}
+      importantForAccessibility="no-hide-descendants"
+    >
       <Image source={corners.bottomLeft} style={styles.bottomCorner} contentFit="contain" />
       <Image source={corners.bottomRight} style={styles.bottomCorner} contentFit="contain" />
     </XStack>

@@ -6,9 +6,7 @@ import { composeSlotKey } from '@/lib/slotKey'
 import { isApplicableOn, parseSchedule } from './schedule'
 
 export function toCompletedSet(completions: Completion[]): Set<string> {
-  return new Set(
-    completions.map((c) => composeSlotKey(c.practice_id, c.sub_id!)),
-  )
+  return new Set(completions.map((c) => composeSlotKey(c.practice_id, c.sub_id!)))
 }
 
 export type DayCompletion = {

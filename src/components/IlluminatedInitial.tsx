@@ -20,8 +20,13 @@ export function IlluminatedInitial({ text }: { text: string }) {
   const rest = text.slice(1)
 
   return (
-    <XStack gap="$sm">
-      <YStack alignItems="center" justifyContent="flex-start">
+    <XStack gap="$sm" accessibilityLabel={text}>
+      <YStack
+        alignItems="center"
+        justifyContent="flex-start"
+        accessible={false}
+        importantForAccessibility="no-hide-descendants"
+      >
         {/* Gold bordered frame around the initial */}
         <View position="relative" width={64} height={72}>
           <Svg

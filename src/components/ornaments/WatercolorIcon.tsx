@@ -1115,7 +1115,7 @@ export const WatercolorIcon = memo(function WatercolorIcon({
   const renderIcon = icons[name]
 
   return (
-    <Svg width={size} height={size} viewBox="0 0 40 40">
+    <Svg width={size} height={size} viewBox="0 0 40 40" accessible={false}>
       {renderIcon()}
     </Svg>
   )

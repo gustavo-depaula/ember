@@ -32,10 +32,14 @@ function TasselTab({
   color,
   height,
   onPress,
+  isOpen,
+  label,
 }: {
   color: string
   height: number
   onPress: () => void
+  isOpen: boolean
+  label: string
 }) {
   const svgHeight = height + notchTail
   const w = tasselWidth
@@ -44,6 +48,9 @@ function TasselTab({
       onPress={onPress}
       hitSlop={{ left: 30, top: 0, bottom: 20, right: 10 }}
       style={styles.tasselPressable}
+      accessibilityRole="button"
+      accessibilityLabel={label}
+      accessibilityState={{ expanded: isOpen }}
     >
       <Svg width={w} height={svgHeight} viewBox={`0 0 ${w} ${svgHeight}`}>
         <Path
@@ -87,7 +94,13 @@ function RibbonItem({
   textColor: string
 }) {
   return (
-    <Pressable onPress={onPress} disabled={active}>
+    <Pressable
+      onPress={onPress}
+      disabled={active}
+      accessibilityRole="link"
+      accessibilityLabel={label}
+      accessibilityState={{ selected: active }}
+    >
       <XStack
         height={ribbonHeight}
         backgroundColor={bg}
@@ -185,6 +198,8 @@ export const TasselPull = memo(function TasselPull() {
         style={StyleSheet.absoluteFill}
         onPress={close}
         pointerEvents={panelOpen ? 'auto' : 'none'}
+        accessibilityRole="button"
+        accessibilityLabel={t('a11y.closeMenu')}
       >
         <Animated.View style={[styles.backdrop, backdropStyle]} />
       </Pressable>
@@ -205,7 +220,13 @@ export const TasselPull = memo(function TasselPull() {
         ))}
       </Animated.View>
 
-      <TasselTab color={currentColor} height={topInset + 10} onPress={panelOpen ? close : open} />
+      <TasselTab
+        color={currentColor}
+        height={topInset + 10}
+        onPress={panelOpen ? close : open}
+        isOpen={panelOpen}
+        label={panelOpen ? t('a11y.closeMenu') : t('a11y.openMenu')}
+      />
     </View>
   )
 })

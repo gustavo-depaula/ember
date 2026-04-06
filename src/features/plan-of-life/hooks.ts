@@ -1,6 +1,5 @@
 import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
 import type { ProgramConfig } from '@/content/types'
-import type { Completion } from '@/db/schema'
 import {
   addSlot,
   changeSlotFlow,
@@ -25,6 +24,7 @@ import {
   updatePractice,
   updateSlot,
 } from '@/db/repositories'
+import type { Completion } from '@/db/schema'
 import { getToday } from '@/hooks/useToday'
 import { rescheduleAllReminders } from '@/lib/notifications'
 
@@ -193,7 +193,13 @@ export function useToggleSlot() {
         if (completed) {
           return [
             ...old,
-            { id: -Date.now(), practice_id: practiceId, sub_id: slotId, date, completed_at: Date.now() },
+            {
+              id: -Date.now(),
+              practice_id: practiceId,
+              sub_id: slotId,
+              date,
+              completed_at: Date.now(),
+            },
           ]
         }
         return old.filter((c) => c.practice_id !== practiceId || c.sub_id !== slotId)

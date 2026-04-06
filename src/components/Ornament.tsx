@@ -13,8 +13,14 @@ const flourishDark = require('../../assets/textures/header_flourish_dark.png')
 
 export function OrnamentalRule() {
   return (
-    <YStack alignItems="center" paddingVertical="$md">
-      <Image source={markerImage} style={styles.marker} contentFit="contain" />
+    <YStack alignItems="center" paddingVertical="$md" accessible={false}>
+      <Image
+        source={markerImage}
+        style={styles.marker}
+        contentFit="contain"
+        accessibilityElementsHidden
+        importantForAccessibility="no-hide-descendants"
+      />
     </YStack>
   )
 }
@@ -24,11 +30,13 @@ export function HeaderFlourish() {
   const isDark = themeName.startsWith('dark')
 
   return (
-    <YStack alignItems="center" paddingBottom="$sm">
+    <YStack alignItems="center" paddingBottom="$sm" accessible={false}>
       <Image
         source={isDark ? flourishDark : flourishLight}
         style={styles.flourish}
         contentFit="contain"
+        accessibilityElementsHidden
+        importantForAccessibility="no-hide-descendants"
       />
     </YStack>
   )
@@ -52,7 +60,7 @@ export function CornerFlourish({
   }[position]
 
   return (
-    <Svg width={36} height={36} viewBox="0 0 36 36">
+    <Svg width={36} height={36} viewBox="0 0 36 36" accessible={false}>
       <G transform={`rotate(${degrees}, 18, 18)`}>
         <Path d="M3 33 C3 18, 8 6, 33 3" stroke={color} strokeWidth={1.2} fill="none" />
         <Path d="M3 33 C10 30, 16 22, 19 10" stroke={color} strokeWidth={0.8} fill="none" />
@@ -91,7 +99,7 @@ export function VineBar({ height = 100 }: { height?: number }) {
   const red = theme.floralRed.val
 
   return (
-    <Svg width={14} height={height} viewBox={`0 0 14 ${height}`}>
+    <Svg width={14} height={height} viewBox={`0 0 14 ${height}`} accessible={false}>
       <Line x1="7" y1="0" x2="7" y2={height} stroke={c} strokeWidth={0.75} />
       {Array.from({ length: Math.floor(height / 24) }, (_, i) => {
         const y = 12 + i * 24
@@ -116,8 +124,14 @@ export function VineBar({ height = 100 }: { height?: number }) {
 
 export function PageBreakOrnament() {
   return (
-    <YStack alignItems="center" paddingVertical="$md">
-      <Image source={chaliceImage} style={styles.chalice} contentFit="contain" />
+    <YStack alignItems="center" paddingVertical="$md" accessible={false}>
+      <Image
+        source={chaliceImage}
+        style={styles.chalice}
+        contentFit="contain"
+        accessibilityElementsHidden
+        importantForAccessibility="no-hide-descendants"
+      />
     </YStack>
   )
 }

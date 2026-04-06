@@ -318,10 +318,11 @@ export async function toggleCompletion(
   if (completed) {
     await logCompletion(practiceId, date, subId)
   } else {
-    await db.runAsync(
-      'DELETE FROM completions WHERE practice_id = ? AND date = ? AND sub_id = ?',
-      [practiceId, date, subId],
-    )
+    await db.runAsync('DELETE FROM completions WHERE practice_id = ? AND date = ? AND sub_id = ?', [
+      practiceId,
+      date,
+      subId,
+    ])
   }
 }
 
