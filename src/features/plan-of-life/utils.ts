@@ -7,7 +7,7 @@ import { isApplicableOn, parseSchedule } from './schedule'
 
 export function toCompletedSet(completions: Completion[]): Set<string> {
   return new Set(
-    completions.map((c) => (c.sub_id ? composeSlotKey(c.practice_id, c.sub_id) : c.practice_id)),
+    completions.map((c) => composeSlotKey(c.practice_id, c.sub_id!)),
   )
 }
 
@@ -195,7 +195,7 @@ export function buildTieredWallData(
 
   const tieredLogs: TieredLog[] = logs
     .map((log) => {
-      const slotKey = log.sub_id ? composeSlotKey(log.practice_id, log.sub_id) : log.practice_id
+      const slotKey = composeSlotKey(log.practice_id, log.sub_id!)
       const slot = slotMap.get(slotKey)
       if (!slot) return undefined
       return {

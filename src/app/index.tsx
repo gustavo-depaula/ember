@@ -37,6 +37,7 @@ import {
   useSlots,
   useToggleSlot,
 } from '@/features/plan-of-life'
+import { parseSlotKey } from '@/lib/slotKey'
 import { useToday } from '@/hooks/useToday'
 import {
   computeEaster,
@@ -172,7 +173,7 @@ export default function HomeScreen() {
                     onToggle={(item, done) =>
                       toggle.mutate({
                         practiceId: item.practice_id,
-                        slotId: item.slot_id,
+                        slotId: parseSlotKey(item.id).slotId,
                         date: selectedDate,
                         completed: done,
                       })
