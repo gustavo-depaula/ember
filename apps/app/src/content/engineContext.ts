@@ -21,14 +21,18 @@ import nuncDimittis from '@/assets/prayers/nunc-dimittis.json'
 import openingVerse from '@/assets/prayers/opening-verse.json'
 import ourFather from '@/assets/prayers/our-father.json'
 import signOfCross from '@/assets/prayers/sign-of-cross.json'
-import i18n, { localizeContent } from '@/lib/i18n'
+import i18n, { localizeBilingual, localizeContent } from '@/lib/i18n'
 import { parseTrackEntry } from '@/lib/lectio'
 import { parsePsalmRef } from '@/lib/liturgical'
+import { usePreferencesStore } from '@/stores/preferencesStore'
 
 export function createEngineContext(): EngineContext {
+  const { contentLanguage, secondaryLanguage } = usePreferencesStore.getState()
   return {
     language: i18n.language,
-    localizeContent,
+    contentLanguage,
+    localize: (text) => localizeBilingual(text, contentLanguage, secondaryLanguage),
+    localizeUI: localizeContent,
     t: (k, o) => i18n.t(k, o) as string,
     parsePsalmRef,
     parseTrackEntry,

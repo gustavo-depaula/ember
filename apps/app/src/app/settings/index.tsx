@@ -1,3 +1,4 @@
+import type { ContentLanguage } from '@ember/content-engine'
 import DateTimePicker from '@react-native-community/datetimepicker'
 import { format, parseISO } from 'date-fns'
 import { useState } from 'react'
@@ -69,6 +70,12 @@ export default function SettingsScreen() {
   const translation = usePreferencesStore((s) => s.translation)
   const language = usePreferencesStore((s) => s.language)
   const setLanguage = usePreferencesStore((s) => s.setLanguage)
+  const contentLanguage = usePreferencesStore((s) => s.contentLanguage)
+  const setContentLanguage = usePreferencesStore((s) => s.setContentLanguage)
+  const secondaryLanguage = usePreferencesStore((s) => s.secondaryLanguage)
+  const setSecondaryLanguage = usePreferencesStore((s) => s.setSecondaryLanguage)
+  const displayMode = usePreferencesStore((s) => s.displayMode)
+  const setDisplayMode = usePreferencesStore((s) => s.setDisplayMode)
   const liturgicalCalendar = usePreferencesStore((s) => s.liturgicalCalendar)
   const setLiturgicalCalendar = usePreferencesStore((s) => s.setLiturgicalCalendar)
   const jurisdiction = usePreferencesStore((s) => s.jurisdiction)
@@ -79,6 +86,22 @@ export default function SettingsScreen() {
   const [translationModalVisible, setTranslationModalVisible] = useState(false)
   const themePreference = usePreferencesStore((s) => s.theme)
   const setTheme = usePreferencesStore((s) => s.setTheme)
+
+  const contentLanguageOptions = [
+    { value: 'en-US' as const, label: 'English' },
+    { value: 'pt-BR' as const, label: 'Português' },
+    { value: 'la' as const, label: t('settings.latin') },
+  ]
+
+  const secondaryOptions = [
+    { value: '' as const, label: t('settings.none') },
+    ...contentLanguageOptions.filter((o) => o.value !== contentLanguage),
+  ]
+
+  const displayModeOptions = [
+    { value: 'side-by-side' as const, label: t('settings.sideBySide') },
+    { value: 'tap-to-switch' as const, label: t('settings.tapToSwitch') },
+  ]
 
   return (
     <ScreenLayout>
@@ -144,6 +167,29 @@ export default function SettingsScreen() {
           value={language}
           onChange={setLanguage}
         />
+
+        <PillSelector
+          label={t('settings.contentLanguage')}
+          options={contentLanguageOptions}
+          value={contentLanguage}
+          onChange={setContentLanguage}
+        />
+
+        <PillSelector
+          label={t('settings.secondaryLanguage')}
+          options={secondaryOptions}
+          value={secondaryLanguage ?? ''}
+          onChange={(v) => setSecondaryLanguage((v || undefined) as ContentLanguage | undefined)}
+        />
+
+        {secondaryLanguage && (
+          <PillSelector
+            label={t('settings.displayMode')}
+            options={displayModeOptions}
+            value={displayMode}
+            onChange={setDisplayMode}
+          />
+        )}
 
         <SectionDivider />
 

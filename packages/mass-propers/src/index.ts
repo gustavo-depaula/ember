@@ -3,6 +3,7 @@ export {
   chooseProperSource,
   getProperDay,
   getProperForSlot,
+  getRawProperForSlot,
   type LocalizeContent,
   type PropersDataSource,
   type RawProperFile,

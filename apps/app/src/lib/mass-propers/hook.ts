@@ -1,18 +1,26 @@
-import { getProperForSlot, type ProperSection } from '@ember/mass-propers'
+import type { BilingualText } from '@ember/content-engine'
+import { getRawProperForSlot, type ProperSection } from '@ember/mass-propers'
 import { useQuery } from '@tanstack/react-query'
 import { format } from 'date-fns'
 import { useTodayCelebration } from '@/features/calendar/hooks'
 import { useToday } from '@/hooks/useToday'
-import { localizeContent } from '@/lib/i18n'
+import { localizeBilingual } from '@/lib/i18n'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 import { fetchOfPropers } from './of/resolve'
 import * as propersData from './propers-data'
 
+type BilingualProperSection = {
+  text: BilingualText
+  citation?: string
+}
+
 export function useProperForSlot(
   slot: string,
   form: 'of' | 'ef',
-): { data: ProperSection | undefined; isLoading: boolean } {
+): { data: BilingualProperSection | undefined; isLoading: boolean } {
   const language = usePreferencesStore((s) => s.language)
+  const contentLanguage = usePreferencesStore((s) => s.contentLanguage)
+  const secondaryLanguage = usePreferencesStore((s) => s.secondaryLanguage)
   const today = useToday()
   const dayCalendar = useTodayCelebration()
   const dateKey = format(today, 'yyyy-MM-dd')
@@ -26,14 +34,30 @@ export function useProperForSlot(
   })
 
   if (form === 'ef') {
+    const raw = getRawProperForSlot(today, slot, dayCalendar, propersData)
+    if (!raw) return { data: undefined, isLoading: false }
+
     return {
-      data: getProperForSlot(today, slot, dayCalendar, propersData, localizeContent),
+      data: {
+        text: localizeBilingual(
+          { 'en-US': raw['en-US'] ?? '', 'pt-BR': raw['pt-BR'], la: raw.la },
+          contentLanguage,
+          secondaryLanguage,
+        ),
+        citation: raw.citation,
+      },
       isLoading: false,
     }
   }
 
+  const ofSection = ofQuery.data?.[slot] as ProperSection | undefined
+  if (!ofSection) return { data: undefined, isLoading: ofQuery.isLoading }
+
   return {
-    data: ofQuery.data?.[slot],
+    data: {
+      text: { primary: ofSection.text, ...(ofSection.latin ? { secondary: ofSection.latin } : {}) },
+      citation: ofSection.citation,
+    },
     isLoading: ofQuery.isLoading,
   }
 }

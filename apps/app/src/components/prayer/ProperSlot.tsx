@@ -1,8 +1,10 @@
 // biome-ignore-all lint/suspicious/noArrayIndexKey: static prayer text lines never reorder
-import { Text, YStack } from 'tamagui'
 
+import type { BilingualText } from '@ember/content-engine'
+import { Text, YStack } from 'tamagui'
 import { useProperForSlot } from '@/lib/mass-propers'
 import { PrayerText } from '../PrayerText'
+import { BilingualBlock } from './BilingualBlock'
 
 const markerPattern =
   /(\bv\.|(?<!\w)V\.|(?<!\w)R\.|(?<!\w)r\.|\+\+|\+|(?<!\w)C\.|(?<!\w)S\.|(?<!\w)J\.)/
@@ -73,39 +75,22 @@ function splitVerseNumbers(segments: Segment[]): Segment[] {
   return result
 }
 
-function FormattedLine({ line, isLatin }: { line: string; isLatin?: boolean }) {
+function FormattedLine({ line }: { line: string }) {
   const segments = parseSegments(line)
   const hasMarkers = segments.some((s) => s.type !== 'text' && s.type !== 'verse-num')
   const hasVerseNums = segments.some((s) => s.type === 'verse-num')
 
   if (!hasMarkers && !hasVerseNums) {
-    return isLatin ? (
-      <Text fontFamily="$body" fontSize="$2" fontStyle="italic" color="$colorSecondary">
-        {line}
-      </Text>
-    ) : (
-      <PrayerText>{line}</PrayerText>
-    )
+    return <PrayerText>{line}</PrayerText>
   }
 
-  const Wrapper = isLatin ? Text : PrayerText
-
   return (
-    <Wrapper
-      {...(isLatin
-        ? { fontFamily: '$body', fontSize: '$2', fontStyle: 'italic', color: '$colorSecondary' }
-        : {})}
-    >
+    <PrayerText>
       {segments.map((seg, i) => {
         switch (seg.type) {
           case 'versicle':
           case 'response':
           case 'cross':
-            return (
-              <Text key={i} color="$accent" fontWeight="bold">
-                {seg.value}
-              </Text>
-            )
           case 'christ':
             return (
               <Text key={i} color="$accent" fontWeight="bold">
@@ -128,7 +113,7 @@ function FormattedLine({ line, isLatin }: { line: string; isLatin?: boolean }) {
             return <Text key={i}>{seg.value}</Text>
         }
       })}
-    </Wrapper>
+    </PrayerText>
   )
 }
 
@@ -139,7 +124,7 @@ export function ProperSlot({
 }: {
   slot: string
   form: 'of' | 'ef'
-  description: string
+  description: BilingualText
 }) {
   const { data: proper, isLoading } = useProperForSlot(slot, form)
 
@@ -171,14 +156,11 @@ export function ProperSlot({
         alignItems="center"
       >
         <Text fontFamily="$body" fontSize="$2" fontStyle="italic" color="$colorSecondary">
-          {description}
+          {description.primary}
         </Text>
       </YStack>
     )
   }
-
-  const lines = proper.text.split('\n')
-  const latinLines = proper.latin?.split('\n') ?? []
 
   return (
     <YStack gap="$sm">
@@ -193,18 +175,16 @@ export function ProperSlot({
           {proper.citation}
         </Text>
       )}
-      <YStack gap="$xs">
-        {lines.map((line, i) => (
-          <FormattedLine key={`t-${i}`} line={line} />
-        ))}
-      </YStack>
-      {latinLines.length > 0 && (
-        <YStack gap="$xs" opacity={0.6} paddingTop="$xs">
-          {latinLines.map((line, i) => (
-            <FormattedLine key={`l-${i}`} line={line} isLatin />
-          ))}
-        </YStack>
-      )}
+      <BilingualBlock
+        content={proper.text}
+        renderText={(t) => (
+          <YStack gap="$xs">
+            {t.split('\n').map((line, i) => (
+              <FormattedLine key={`${i}`} line={line} />
+            ))}
+          </YStack>
+        )}
+      />
     </YStack>
   )
 }

@@ -1,3 +1,4 @@
+export { BilingualBlock } from './BilingualBlock'
 export { CanticleBlock } from './CanticleBlock'
 export { CollapsiblePrayer } from './CollapsiblePrayer'
 export { HymnBlock } from './HymnBlock'

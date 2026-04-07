@@ -158,6 +158,8 @@ export function PracticeFlow({
   // Dynamic context for cycle/lectio sections
   const translation = usePreferencesStore((s) => s.translation)
   const liturgicalCalendar = usePreferencesStore((s) => s.liturgicalCalendar)
+  const contentLanguage = usePreferencesStore((s) => s.contentLanguage)
+  const secondaryLanguage = usePreferencesStore((s) => s.secondaryLanguage)
   const numbering = getPsalmNumbering(translation)
   const cycleData = useMemo(() => loadPracticeData(practiceId), [practiceId])
   const trackDefs = useMemo(() => loadPracticeTracks(practiceId), [practiceId])
@@ -186,6 +188,7 @@ export function PracticeFlow({
     return state
   }, [cursorRows])
 
+  // biome-ignore lint/correctness/useExhaustiveDependencies: contentLanguage and secondaryLanguage are read inside createEngineContext() — listed here to trigger recomputation
   const sections = useMemo(() => {
     if (!flow) return []
     const context: FlowContext = {
@@ -211,6 +214,8 @@ export function PracticeFlow({
     cycleData,
     activeFlowId,
     programDay,
+    contentLanguage,
+    secondaryLanguage,
   ])
 
   // Load dynamic content (psalms, Bible readings, CCC)
@@ -429,25 +434,19 @@ function PracticeSectionBlock({
 }) {
   switch (section.type) {
     case 'rubric':
-      return <RubricLabel>{section.label}</RubricLabel>
+      return <RubricLabel>{section.label.primary}</RubricLabel>
 
     case 'prayer':
       if (section.speaker) {
-        return (
-          <LiturgicalPrayerBlock
-            speaker={section.speaker}
-            text={section.text}
-            latin={section.latin ?? ''}
-          />
-        )
+        return <LiturgicalPrayerBlock speaker={section.speaker} text={section.text} />
       }
-      if (section.title) {
+      if (section.title.primary) {
         return <CollapsiblePrayer title={section.title} text={section.text} count={section.count} />
       }
       return <PrayerTextBlock text={section.text} />
 
     case 'hymn':
-      return <HymnBlock title={section.title} text={section.text} latin={section.latin} />
+      return <HymnBlock title={section.title} text={section.text} />
 
     case 'canticle':
       return (
@@ -465,14 +464,14 @@ function PracticeSectionBlock({
     case 'heading':
       return (
         <Text fontFamily="$heading" fontSize="$4" color="$colorBurgundy" letterSpacing={0.5}>
-          {section.text}
+          {section.text.primary}
         </Text>
       )
 
     case 'meditation':
       return (
         <Text fontFamily="$body" fontSize="$3" fontStyle="italic" color="$color" lineHeight={30}>
-          {section.text}
+          {section.text.primary}
         </Text>
       )
 
@@ -525,7 +524,7 @@ function PracticeSectionBlock({
           letterSpacing={0.5}
           paddingTop="$sm"
         >
-          {section.text}
+          {section.text.primary}
         </Text>
       )
 
@@ -537,8 +536,8 @@ function PracticeSectionBlock({
     case 'options':
       return (
         <OptionsBlock
-          label={section.label}
-          options={section.options}
+          label={section.label.primary}
+          options={section.options.map((o) => ({ ...o, label: o.label.primary }))}
           renderSection={(s, i) => (
             <PracticeSectionBlock
               key={`${s.type}-${i}`}
