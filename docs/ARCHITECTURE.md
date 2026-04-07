@@ -72,13 +72,13 @@ See [features-overview.md](features/features-overview.md#data-model-v2) for full
 - `cached_translations` — offline cache for online Bible translations
 
 ### Bundled Assets (read-only)
-- `src/assets/bible/drb/` — Douay-Rheims JSON files (one per book, 73 files)
-- `src/assets/catechism/ccc.json` — Full CCC structured by paragraphs
-- `src/assets/psalter/30-day.json` — 30-day psalter cycle mapping
-- `src/assets/hymns/` — Hymn texts parsed from Divinum Officium
-- `src/assets/prayers/` — Fixed prayer texts (Our Father, canticles, Marian antiphons, etc.)
-- `assets/textures/` — Image-based ornament PNGs
-- `assets/fonts/` — UnifrakturMaguntia bundled TTF
+- `apps/app/src/assets/bible/drb/` — Douay-Rheims JSON files (one per book, 73 files)
+- `apps/app/src/assets/catechism/ccc.json` — Full CCC structured by paragraphs
+- `apps/app/src/assets/psalter/30-day.json` — 30-day psalter cycle mapping
+- `apps/app/src/assets/hymns/` — Hymn texts parsed from Divinum Officium
+- `apps/app/src/assets/prayers/` — Fixed prayer texts (Our Father, canticles, Marian antiphons, etc.)
+- `apps/app/assets/textures/` — Image-based ornament PNGs
+- `apps/app/assets/fonts/` — UnifrakturMaguntia bundled TTF
 
 ---
 
@@ -115,126 +115,52 @@ Not persisted. Contains: selectedDate (shared across screens).
 
 ## Folder Structure
 
+This is a pnpm workspaces + turborepo monorepo.
+
 ```
-src/
-  app/                    (Expo Router routes — Stack navigation)
-    _layout.tsx           (Root layout: fonts, DB init, TamaguiProvider, QueryClient)
-    index.tsx             (Home screen)
-    plan/
-      _layout.tsx
-      index.tsx           (Plan of Life)
-      [practiceId].tsx    (Practice detail)
-    pray/
-      _layout.tsx
-      [practiceId].tsx    (Prayer flow player)
-    practices/
-      _layout.tsx
-      index.tsx           (Practice catalog)
-      [manifestId]/
-        _layout.tsx
-        index.tsx         (Catalog detail)
-        program.tsx       (Program day navigation)
-    bible/
-      _layout.tsx
-      index.tsx           (Bible reader)
-    catechism/
-      _layout.tsx
-      index.tsx           (Catechism reader)
-    calendar/
-      index.tsx           (Liturgical calendar)
-    saints/
-      _layout.tsx
-      index.tsx           (Saints feed)
-    settings/
-      _layout.tsx
-      index.tsx           (Settings hub)
-  features/
-    plan-of-life/
-      components/
-        PracticeChecklist.tsx
-        PracticeEditSheet.tsx
-        SchedulePicker.tsx
-        TierBadge.tsx
-        DayCarousel.tsx
-        index.ts
-      hooks.ts
-      utils.ts
-      schedule.ts           (Schedule types, isApplicableOn, isFaithful)
-      timeBlocks.ts         (morning/daytime/evening block logic)
-      getPracticeName.ts
-      index.ts
-    divine-office/
-      hooks.ts              (cursor management, psalm/bible/ccc loading)
-      psalter.ts
-      index.ts
-    practices/
-      components/
-        PracticeFlow.tsx    (shared prayer flow player)
-        TrackPicker.tsx     (reading track position picker)
-        VariantSelector.tsx
-        PracticeTeachingContent.tsx
-        index.ts
-    home/
-      components/
-        LiturgicalHeader.tsx
-        SeasonalContext.tsx
-        CelebrationOfDay.tsx
-        TimeBlockSection.tsx
-        AppShortcuts.tsx
-        index.ts
-      index.ts
-  components/             (shared UI components)
-    AnimatedCheckbox.tsx
-    GreenWall.tsx
-    ManuscriptFrame.tsx
-    ScreenLayout.tsx
-    SectionDivider.tsx
-    ReadingConfigModal.tsx
-    ...
-    index.ts
-  stores/
-    preferencesStore.ts     (consolidated: all preferences from SQLite, including theme)
-    navigationStore.ts      (ephemeral UI state)
-    bibleStore.ts           (thin wrapper: bible reading position)
-    catechismStore.ts       (thin wrapper: catechism reading position)
-  db/
-    schema.ts               (TypeScript types: UserPractice, Completion, Cursor, Preference)
-    client.ts               (async DB init, migration runner, getDb())
-    seed.ts                 (manifest-driven practice seeding)
-    migrations/
-      0001_initial.sql
-    repositories/
-      practices.ts          (user_practices + completions queries)
-      cursors.ts            (cursor CRUD + index advancement)
-      preferences.ts        (KV store for preferences table)
-      index.ts
-  content/                  (practice content system)
-    engine.ts               (flow resolution engine)
-    types.ts                (manifest, flow section, rendered section types)
-    practices/              (one folder per practice)
-      divine-office/
-        manifest.json       (includes defaults section)
-        flows/morning.json, evening.json, compline.json
-      rosary/
-        manifest.json
-        flow.json
-        variants/traditional.json, scriptural.json
-      ...
-      index.ts              (registry, loaders, search)
-  lib/
-    bolls.ts
-    content.ts
-    notifications.ts        (schedule-aware reminder scheduling)
-    liturgical/
-      psalter.ts, hymns.ts, antiphons.ts, season.ts, readings.ts, index.ts
-    mass-propers/
-      do-file-id.ts, slot-map.ts, resolve.ts, propers-data.ts, types.ts, index.ts
-    i18n/
-  config/
-    tamagui.config.ts
-    tokens.ts
-    themes.ts
-    fonts.ts
+ember/
+  apps/
+    app/                          (Expo app — iOS/Android/web)
+      src/
+        app/                      (Expo Router routes — Stack navigation)
+        features/                 (feature-specific logic)
+          plan-of-life/           (schedule, checklist, stats)
+          divine-office/          (cursor management, psalm loading)
+          practices/              (PracticeFlow player, catalog)
+          home/                   (LiturgicalHeader, SeasonalContext)
+          calendar/               (liturgical calendar views)
+          saints/                 (saints cards + data)
+          bible/                  (Bible reader)
+          catechism/              (Catechism reader)
+        components/               (shared UI components)
+        stores/                   (Zustand stores)
+        db/                       (SQLite schema, migrations, repositories)
+        content/                  (practice manifests, engineContext wiring)
+          practices/              (one folder per practice — manifests + flows)
+          engineContext.ts        (wires app deps into EngineContext)
+          manifest-types.ts       (PracticeManifest, SlotDefault — app-specific)
+        lib/                      (app-specific utilities)
+          liturgical/             (re-exports @ember/liturgical + useObligations hook)
+          mass-propers/           (re-exports @ember/mass-propers + hook + propers-data)
+          i18n/
+          bolls.ts, content.ts, catechism.ts, lectio.ts
+        config/                   (tamagui, tokens, themes, fonts)
+      assets/                     (saints images, textures, fonts)
+  packages/
+    liturgical/                   (pure TS — calendar, seasons, psalter, obligations)
+    mass-propers/                 (pure TS — propers resolution engine)
+    content-engine/               (pure TS — flow rendering engine + types)
+  docs/
+  turbo.json
+  pnpm-workspace.yaml
 ```
+
+### Package boundaries
+
+- **`@ember/liturgical`** — Depends only on `date-fns`. Zero React/Expo deps.
+- **`@ember/mass-propers`** — Depends on `@ember/liturgical` + `date-fns`. Accepts data via `PropersDataSource` interface.
+- **`@ember/content-engine`** — Depends on `@ember/liturgical` + `date-fns`. Accepts deps via `EngineContext` (prayers, localizer, parsers).
+
+The app's `src/lib/liturgical/` and `src/lib/mass-propers/` directories re-export from the packages and add React hooks.
 
 See [CONVENTIONS.md](CONVENTIONS.md) for code style, naming, and patterns.

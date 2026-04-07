@@ -95,13 +95,27 @@ Work is organized into **independent tracks** on GitHub — each track advances 
 
 - Never add `Co-Authored-By` lines to commit messages
 
+## Monorepo Structure
+
+This is a pnpm workspaces + turborepo monorepo:
+- `apps/app/` — Expo app (iOS/Android/web)
+- `packages/` — shared libraries (liturgical, mass-propers, content-engine)
+- Root: workspace config, turbo, biome
+
 ## Commands
 
 ```bash
-pnpm expo start          # dev server
-pnpm expo start --web    # web dev
+# From root:
+pnpm start               # expo dev server
+pnpm start:web           # expo web dev
+pnpm ios                 # build & run on iOS simulator
+pnpm android             # build & run on Android
+pnpm test                # run all workspace tests
+pnpm parse-propers       # parse Divinum Officium propers
 pnpm biome check --write .  # format + lint
-pnpm test                # run tests
+
+# From apps/app/:
+pnpm test                # run app tests only
 pnpm test:watch          # test watch mode
 ```
 
@@ -109,7 +123,7 @@ pnpm test:watch          # test watch mode
 
 - Zustand stores use immer middleware (mutate drafts)
 - TanStack Query for all DB/async reads (even local SQLite)
-- DB types defined in `src/db/schema.ts`, migrations in `src/db/migrations/*.sql`, applied via `src/db/client.ts`
-- DB queries encapsulated in `src/db/repositories/` (office.ts, practices.ts)
+- DB types defined in `apps/app/src/db/schema.ts`, migrations in `apps/app/src/db/migrations/*.sql`, applied via `apps/app/src/db/client.ts`
+- DB queries encapsulated in `apps/app/src/db/repositories/` (office.ts, practices.ts)
 - Bible text: bundled Douay-Rheims JSON for offline, Bolls.life API for other translations (cached in SQLite)
 - 30-day DWDO psalter cycle (see `docs/features/features-overview.md` for the full table)

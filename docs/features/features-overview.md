@@ -19,7 +19,7 @@ A resolution engine transforms the declarative flow + runtime context (date, var
 ### File Structure
 
 ```
-src/content/practices/
+apps/app/src/content/practices/
   morning-offering/
     manifest.json
     flow.json
@@ -38,7 +38,7 @@ src/content/practices/
       compline.json
 ```
 
-Shared prayer texts in `src/assets/prayers/` — referenced by ID from flows.
+Shared prayer texts in `apps/app/src/assets/prayers/` — referenced by ID from flows.
 
 ### Manifest Schema
 
@@ -243,7 +243,7 @@ All 150 psalms in 30 days (MT/Hebrew numbering shown):
 | 29  | 139-141     | 142-143     |
 | 30  | 144-146     | 147-150     |
 
-Day determined by `day_of_month` (1-30). Day 31 repeats day 30. Both MT and LXX numbering stored in `src/assets/psalter/30-day.json`.
+Day determined by `day_of_month` (1-30). Day 31 repeats day 30. Both MT and LXX numbering stored in `apps/app/src/assets/psalter/30-day.json`.
 
 **Compline psalms** (weekly rotation, MT numbering):
 
@@ -335,12 +335,12 @@ type LiturgicalCalendarForm = 'of' | 'ef'
 
 | Module | Path | Purpose |
 |--------|------|---------|
-| Season calculator | `src/lib/liturgical/season.ts` | `getLiturgicalSeason(date, form?)`, `computeEaster()`, boundary functions |
-| Antiphon selector | `src/lib/liturgical/antiphons.ts` | `getMarianAntiphon(date)` — own date logic, not derived from season |
-| Calendar data | `src/lib/liturgical/calendar-data.ts` | 347-entry sanctoral cycle (auto-generated from JSONL) |
-| Date resolver | `src/lib/liturgical/resolve-date.ts` | Resolves any `LiturgicalDate` to a concrete Date for a year |
-| Precedence | `src/lib/liturgical/precedence.ts` | OF/EF rank comparison, Sunday suppression rules |
-| Calendar builder | `src/lib/liturgical/calendar-builder.ts` | `buildYearCalendar()` — resolves all entries, applies jurisdiction + precedence |
+| Season calculator | `packages/liturgical/src/season.ts` | `getLiturgicalSeason(date, form?)`, `computeEaster()`, boundary functions |
+| Antiphon selector | `packages/liturgical/src/antiphons.ts` | `getMarianAntiphon(date)` — own date logic, not derived from season |
+| Calendar data | `packages/liturgical/src/calendar-data.ts` | 347-entry sanctoral cycle (auto-generated from JSONL) |
+| Date resolver | `packages/liturgical/src/resolve-date.ts` | Resolves any `LiturgicalDate` to a concrete Date for a year |
+| Precedence | `packages/liturgical/src/precedence.ts` | OF/EF rank comparison, Sunday suppression rules |
+| Calendar builder | `packages/liturgical/src/calendar-builder.ts` | `buildYearCalendar()` — resolves all entries, applies jurisdiction + precedence |
 
 ### Date Resolution Types (Sanctoral Cycle)
 
@@ -627,12 +627,12 @@ Practice recommendations by vocation/state of life, guided onboarding for beginn
 
 ## Other Features
 
-**Bible Reader** — Two-drawer navigation (books left, chapters right). Bundled Douay-Rheims is the only public-domain English Catholic Bible (73 books). Online translations via Bolls.life API cached in SQLite. Future: bookmarks, highlights, search, sharing, study Bible features. See `src/features/bible/`.
+**Bible Reader** — Two-drawer navigation (books left, chapters right). Bundled Douay-Rheims is the only public-domain English Catholic Bible (73 books). Online translations via Bolls.life API cached in SQLite. Future: bookmarks, highlights, search, sharing, study Bible features. See `apps/app/src/features/bible/`.
 
-**Catechism Reader** — Three-panel sliding drawer adapted for the CCC's 5-level hierarchy (~368 segments, ~2,865 paragraphs). Segment is the natural reading unit (median 5 paragraphs). Future: cross-references, search. See `src/features/catechism/`.
+**Catechism Reader** — Three-panel sliding drawer adapted for the CCC's 5-level hierarchy (~368 segments, ~2,865 paragraphs). Segment is the natural reading unit (median 5 paragraphs). Future: cross-references, search. See `apps/app/src/features/catechism/`.
 
-**Mass (Ordo Missae)** — Static ordinary prayers with OF/EF toggle, bilingual Latin/English. EF proper slots now filled with daily-changing texts (Introit, Collect, Epistle, Gradual/Tract, Gospel, Offertory, Secret, Preface, Communion, Postcommunion) parsed from Divinum Officium in Latin, English, and Portuguese. OF proper slots remain placeholders — readings via Evangelizo are planned; collects/antiphons blocked by ICEL copyright (see `content-sources.md`). Three view modes per form: **Full** (complete ordo), **Propers** (all variable parts only), **Readings** (scripture portions only) — switchable via segmented control inside the pray screen. Sub-flows use the `group` field on `FlowEntry` to associate with their parent flow. See `src/lib/mass-propers/` for the resolution module and `scripts/parse-do-propers.ts` for the parser.
+**Mass (Ordo Missae)** — Static ordinary prayers with OF/EF toggle, bilingual Latin/English. EF proper slots now filled with daily-changing texts (Introit, Collect, Epistle, Gradual/Tract, Gospel, Offertory, Secret, Preface, Communion, Postcommunion) parsed from Divinum Officium in Latin, English, and Portuguese. OF proper slots remain placeholders — readings via Evangelizo are planned; collects/antiphons blocked by ICEL copyright (see `content-sources.md`). Three view modes per form: **Full** (complete ordo), **Propers** (all variable parts only), **Readings** (scripture portions only) — switchable via segmented control inside the pray screen. Sub-flows use the `group` field on `FlowEntry` to associate with their parent flow. See `packages/mass-propers/` for the resolution module and `apps/app/scripts/parse-do-propers.ts` for the parser.
 
-**Reading Config** — Shared reading styles across all reading surfaces. 7 curated serif fonts, 5-step sizing scales, margins, alignment. See `src/features/reading-config/`.
+**Reading Config** — Shared reading styles across all reading surfaces. 7 curated serif fonts, 5-step sizing scales, margins, alignment. See `apps/app/src/features/reading-config/`.
 
-**i18n** — react-i18next with English + Brazilian Portuguese, ~150 keys, synchronous init. See `src/lib/i18n/`.
+**i18n** — react-i18next with English + Brazilian Portuguese, ~150 keys, synchronous init. See `apps/app/src/lib/i18n/`.
