@@ -1,6 +1,12 @@
 {
-  "title": { "en": "Act of Hope", "pt-BR": "Ato de Esperança", "la": "Actus Spei" },
-  "latin": "Domine Deus, spero per gratiam Tuam remissionem omnium peccatorum, et post hanc vitam aeternam felicitatem me esse consecuturum: quia Tu promisisti, qui es infinitae veritatis et bonitatis. Amen.",
-  "english": "O my God, relying on Thy infinite goodness and promises, I hope to obtain pardon of my sins, the help of Thy grace, and life everlasting, through the merits of Jesus Christ, my Lord and Redeemer. Amen.",
-  "portuguese": "Meu Deus, esperando em Vossas promessas e na infinita bondade que tendes, espero alcançar a remissão dos meus pecados, o auxílio da Vossa graça e a vida eterna, pelos méritos de Jesus Cristo, meu Senhor e Redentor. Amém."
+	"title": {
+		"en-US": "Act of Hope",
+		"pt-BR": "Ato de Esperança",
+		"la": "Actus Spei"
+	},
+	"body": {
+		"en-US": "O my God, relying on Thy infinite goodness and promises, I hope to obtain pardon of my sins, the help of Thy grace, and life everlasting, through the merits of Jesus Christ, my Lord and Redeemer. Amen.",
+		"pt-BR": "Meu Deus, esperando em Vossas promessas e na infinita bondade que tendes, espero alcançar a remissão dos meus pecados, o auxílio da Vossa graça e a vida eterna, pelos méritos de Jesus Cristo, meu Senhor e Redentor. Amém.",
+		"la": "Domine Deus, spero per gratiam Tuam remissionem omnium peccatorum, et post hanc vitam aeternam felicitatem me esse consecuturum: quia Tu promisisti, qui es infinitae veritatis et bonitatis. Amen."
+	}
 }

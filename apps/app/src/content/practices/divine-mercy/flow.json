@@ -1,43 +1,94 @@
 {
-  "sections": [
-    { "type": "subheading", "text": { "en": "Opening Prayers", "pt-BR": "Orações Iniciais" } },
-    { "type": "prayer", "ref": "sign-of-cross" },
-    { "type": "prayer", "ref": "our-father" },
-    { "type": "prayer", "ref": "hail-mary" },
-    { "type": "prayer", "ref": "apostles-creed" },
-    { "type": "divider" },
-    {
-      "type": "repeat",
-      "count": 5,
-      "sections": [
-        { "type": "rubric", "text": { "en": "On the Our Father bead:", "pt-BR": "Na conta do Pai Nosso:" } },
-        { "type": "prayer", "ref": "eternal-father" },
-        { "type": "rubric", "text": { "en": "On each of the ten Hail Mary beads:", "pt-BR": "Em cada uma das dez contas da Ave Maria:" } },
-        {
-          "type": "repeat",
-          "count": 10,
-          "sections": [
-            { "type": "prayer", "ref": "divine-mercy-response" }
-          ]
-        },
-        { "type": "divider" }
-      ]
-    },
-    { "type": "rubric", "text": { "en": "Concluding Prayer (three times):", "pt-BR": "Oração Final (três vezes):" } },
-    {
-      "type": "repeat",
-      "count": 3,
-      "sections": [
-        { "type": "prayer", "ref": "holy-god" }
-      ]
-    },
-    { "type": "divider" },
-    {
-      "type": "prayer",
-      "inline": {
-        "en": "Eternal God, in whom mercy is endless and the treasury of compassion inexhaustible, look kindly upon us and increase Your mercy in us, that in difficult moments we might not despair nor become despondent, but with great confidence submit ourselves to Your holy will, which is Love and Mercy itself.\nAmen.",
-        "pt-BR": "Deus Eterno, em quem a misericórdia é infinita e o tesouro de compaixão inesgotável, olhai bondosamente para nós e aumentai em nós a Vossa misericórdia, para que em momentos difíceis não nos desesperemos nem desanimemos, mas com grande confiança nos submetamos à Vossa santa vontade, que é o próprio Amor e Misericórdia.\nAmém."
-      }
-    }
-  ]
+	"sections": [
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "Opening Prayers",
+				"pt-BR": "Orações Iniciais"
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "sign-of-cross"
+		},
+		{
+			"type": "prayer",
+			"ref": "our-father"
+		},
+		{
+			"type": "prayer",
+			"ref": "hail-mary"
+		},
+		{
+			"type": "prayer",
+			"ref": "apostles-creed"
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "repeat",
+			"count": 5,
+			"sections": [
+				{
+					"type": "rubric",
+					"text": {
+						"en-US": "On the Our Father bead:",
+						"pt-BR": "Na conta do Pai Nosso:"
+					}
+				},
+				{
+					"type": "prayer",
+					"ref": "eternal-father"
+				},
+				{
+					"type": "rubric",
+					"text": {
+						"en-US": "On each of the ten Hail Mary beads:",
+						"pt-BR": "Em cada uma das dez contas da Ave Maria:"
+					}
+				},
+				{
+					"type": "repeat",
+					"count": 10,
+					"sections": [
+						{
+							"type": "prayer",
+							"ref": "divine-mercy-response"
+						}
+					]
+				},
+				{
+					"type": "divider"
+				}
+			]
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "Concluding Prayer (three times):",
+				"pt-BR": "Oração Final (três vezes):"
+			}
+		},
+		{
+			"type": "repeat",
+			"count": 3,
+			"sections": [
+				{
+					"type": "prayer",
+					"ref": "holy-god"
+				}
+			]
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Eternal God, in whom mercy is endless and the treasury of compassion inexhaustible, look kindly upon us and increase Your mercy in us, that in difficult moments we might not despair nor become despondent, but with great confidence submit ourselves to Your holy will, which is Love and Mercy itself.\nAmen.",
+				"pt-BR": "Deus Eterno, em quem a misericórdia é infinita e o tesouro de compaixão inesgotável, olhai bondosamente para nós e aumentai em nós a Vossa misericórdia, para que em momentos difíceis não nos desesperemos nem desanimemos, mas com grande confiança nos submetamos à Vossa santa vontade, que é o próprio Amor e Misericórdia.\nAmém."
+			}
+		}
+	]
 }

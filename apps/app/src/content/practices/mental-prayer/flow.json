@@ -1,16 +1,38 @@
 {
-  "sections": [
-    { "type": "prayer", "ref": "sign-of-cross" },
-    { "type": "divider" },
-    {
-      "type": "repeat",
-      "count": 6,
-      "variable": { "source": "variant", "key": "steps" },
-      "sections": [
-        { "type": "heading", "text": { "en": "{{name}}", "pt-BR": "{{name}}" } },
-        { "type": "meditation", "text": { "en": "{{meditation}}", "pt-BR": "{{meditation}}" } },
-        { "type": "divider" }
-      ]
-    }
-  ]
+	"sections": [
+		{
+			"type": "prayer",
+			"ref": "sign-of-cross"
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "repeat",
+			"count": 6,
+			"variable": {
+				"source": "variant",
+				"key": "steps"
+			},
+			"sections": [
+				{
+					"type": "heading",
+					"text": {
+						"en-US": "{{name}}",
+						"pt-BR": "{{name}}"
+					}
+				},
+				{
+					"type": "meditation",
+					"text": {
+						"en-US": "{{meditation}}",
+						"pt-BR": "{{meditation}}"
+					}
+				},
+				{
+					"type": "divider"
+				}
+			]
+		}
+	]
 }

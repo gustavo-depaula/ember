@@ -1,44 +1,93 @@
 {
-  "sections": [
-    { "type": "subheading", "text": { "en": "Opening Prayer", "pt-BR": "Oração Inicial" } },
-    { "type": "prayer", "ref": "sign-of-cross" },
-    {
-      "type": "prayer",
-      "inline": {
-        "en": "Lord Jesus Christ, who by Thy Resurrection hast conquered death and opened for us the gates of eternal life: grant that as we walk with Thee on this Way of Light, our hearts may burn within us, and that we, contemplating the mysteries of Thy risen life, may come at last to share in Thy glory. Amen.",
-        "pt-BR": "Senhor Jesus Cristo, que pela Vossa Ressurreição vencestes a morte e nos abristes as portas da vida eterna: concedei que, ao caminharmos convosco nesta Via Lucis, nossos corações ardentes, e que nós, contemplando os mistérios de Vossa vida ressuscitada, cheguemos a participar de Vossa glória. Amém."
-      }
-    },
-    { "type": "divider" },
-    {
-      "type": "repeat",
-      "count": 14,
-      "variable": { "source": "variant", "key": "stations" },
-      "sections": [
-        { "type": "heading", "text": { "en": "Station {{ordinal}}: {{name}}", "pt-BR": "{{ordinal}} Estação: {{name}}" } },
-        {
-          "type": "response",
-          "verses": [
-            {
-              "v": { "en": "We adore You, O Risen Christ, alleluia,", "pt-BR": "Nós Vos adoramos, ó Cristo Ressuscitado, aleluia," },
-              "r": { "en": "And we bless Your holy Resurrection, alleluia.", "pt-BR": "E bendizemos a Vossa santa Ressurreição, aleluia." }
-            }
-          ]
-        },
-        { "type": "meditation", "text": { "en": "{{meditation}}", "pt-BR": "{{meditation}}" } },
-        { "type": "prayer", "ref": "our-father" },
-        { "type": "prayer", "ref": "hail-mary" },
-        { "type": "prayer", "ref": "glory-be" },
-        { "type": "divider" }
-      ]
-    },
-    { "type": "subheading", "text": { "en": "Closing Prayer", "pt-BR": "Oração Final" } },
-    {
-      "type": "prayer",
-      "inline": {
-        "en": "Lord Jesus, Risen and Glorious, we have walked with You along the way of light. May our hearts, like those of the disciples on the road to Emmaus, burn with love for You. Grant that we who have meditated on Your Resurrection may live always in the joy of Easter, witnessing to the world that You are truly risen. Who lives and reigns for ever and ever. Amen.",
-        "pt-BR": "Senhor Jesus, Ressuscitado e Glorioso, caminhamos convosco pela via da luz. Que os nossos corações, como os dos discípulos de Emaús, ardentes de amor por Vós. Concedei que nós, que meditamos sobre a Vossa Ressurreição, vivamos sempre na alegria da Páscoa, testemunhando ao mundo que Vós ressuscitastes verdadeiramente. Que viveis e reinais pelos séculos dos séculos. Amém."
-      }
-    }
-  ]
+	"sections": [
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "Opening Prayer",
+				"pt-BR": "Oração Inicial"
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "sign-of-cross"
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Lord Jesus Christ, who by Thy Resurrection hast conquered death and opened for us the gates of eternal life: grant that as we walk with Thee on this Way of Light, our hearts may burn within us, and that we, contemplating the mysteries of Thy risen life, may come at last to share in Thy glory. Amen.",
+				"pt-BR": "Senhor Jesus Cristo, que pela Vossa Ressurreição vencestes a morte e nos abristes as portas da vida eterna: concedei que, ao caminharmos convosco nesta Via Lucis, nossos corações ardentes, e que nós, contemplando os mistérios de Vossa vida ressuscitada, cheguemos a participar de Vossa glória. Amém."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "repeat",
+			"count": 14,
+			"variable": {
+				"source": "variant",
+				"key": "stations"
+			},
+			"sections": [
+				{
+					"type": "heading",
+					"text": {
+						"en-US": "Station {{ordinal}}: {{name}}",
+						"pt-BR": "{{ordinal}} Estação: {{name}}"
+					}
+				},
+				{
+					"type": "response",
+					"verses": [
+						{
+							"v": {
+								"en-US": "We adore You, O Risen Christ, alleluia,",
+								"pt-BR": "Nós Vos adoramos, ó Cristo Ressuscitado, aleluia,"
+							},
+							"r": {
+								"en-US": "And we bless Your holy Resurrection, alleluia.",
+								"pt-BR": "E bendizemos a Vossa santa Ressurreição, aleluia."
+							}
+						}
+					]
+				},
+				{
+					"type": "meditation",
+					"text": {
+						"en-US": "{{meditation}}",
+						"pt-BR": "{{meditation}}"
+					}
+				},
+				{
+					"type": "prayer",
+					"ref": "our-father"
+				},
+				{
+					"type": "prayer",
+					"ref": "hail-mary"
+				},
+				{
+					"type": "prayer",
+					"ref": "glory-be"
+				},
+				{
+					"type": "divider"
+				}
+			]
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "Closing Prayer",
+				"pt-BR": "Oração Final"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Lord Jesus, Risen and Glorious, we have walked with You along the way of light. May our hearts, like those of the disciples on the road to Emmaus, burn with love for You. Grant that we who have meditated on Your Resurrection may live always in the joy of Easter, witnessing to the world that You are truly risen. Who lives and reigns for ever and ever. Amen.",
+				"pt-BR": "Senhor Jesus, Ressuscitado e Glorioso, caminhamos convosco pela via da luz. Que os nossos corações, como os dos discípulos de Emaús, ardentes de amor por Vós. Concedei que nós, que meditamos sobre a Vossa Ressurreição, vivamos sempre na alegria da Páscoa, testemunhando ao mundo que Vós ressuscitastes verdadeiramente. Que viveis e reinais pelos séculos dos séculos. Amém."
+			}
+		}
+	]
 }

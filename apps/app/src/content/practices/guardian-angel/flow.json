@@ -1,12 +1,12 @@
 {
-  "sections": [
-    {
-      "type": "prayer",
-      "inline": {
-        "en": "Angel of God, my guardian dear,\nto whom God's love commits me here,\never this day be at my side,\nto light and guard, to rule and guide.\nAmen.",
-        "latin": "Angele Dei, qui custos es mei,\nme, tibi commissum pietate superna,\nillumina, custodi, rege et guberna.\nAmen.",
-        "pt-BR": "Santo Anjo do Senhor, meu zeloso guardador,\nse a ti me confiou a piedade divina,\nsempre me rege, guarda, governa e ilumina.\nAmém."
-      }
-    }
-  ]
+	"sections": [
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Angel of God, my guardian dear,\nto whom God's love commits me here,\never this day be at my side,\nto light and guard, to rule and guide.\nAmen.",
+				"la": "Angele Dei, qui custos es mei,\nme, tibi commissum pietate superna,\nillumina, custodi, rege et guberna.\nAmen.",
+				"pt-BR": "Santo Anjo do Senhor, meu zeloso guardador,\nse a ti me confiou a piedade divina,\nsempre me rege, guarda, governa e ilumina.\nAmém."
+			}
+		}
+	]
 }

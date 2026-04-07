@@ -1,31 +1,57 @@
 {
-  "id": "acts-faith-hope-charity",
-  "icon": "prayer",
-  "name": { "en": "Acts of Faith, Hope & Charity", "pt-BR": "Atos de Fé, Esperança e Caridade" },
-  "categories": ["daily", "devotion"],
-  "estimatedMinutes": 3,
-  "description": {
-    "en": "The three theological virtue prayers — Acts of Faith, Hope, and Charity — affirming the foundational dispositions of the Christian soul. Traditionally prayed together as a morning offering or preparation for confession.",
-    "pt-BR": "As três orações das virtudes teologais — Atos de Fé, Esperança e Caridade — afirmando as disposições fundamentais da alma cristã. Tradicionalmente rezadas juntas como oferta matinal ou preparação para a confissão."
-  },
-  "history": {
-    "en": "These three acts have been staples of Catholic devotion since the medieval period, corresponding to the three theological virtues defined by St. Paul (1 Corinthians 13) and systematized by St. Thomas Aquinas. They were standard catechetical prayers taught to every Catholic child.",
-    "pt-BR": "Estes três atos têm sido pilares da devoção católica desde o período medieval, correspondendo às três virtudes teologais definidas por São Paulo (1 Coríntios 13) e sistematizadas por Santo Tomás de Aquino. Eram orações catequéticas ensinadas a toda criança católica."
-  },
-  "howToPray": {
-    "en": "Pray these three acts slowly, letting each affirmation sink into your heart. They are especially fitting in the morning, before Mass, or as a preparation for confession.",
-    "pt-BR": "Reze estes três atos devagar, deixando cada afirmação penetrar em seu coração. São especialmente adequados de manhã, antes da Missa ou como preparação para a confissão."
-  },
-  "flowMode": "scroll",
-  "completion": "flow-end",
-  "flows": [
-    { "id": "default", "name": { "en": "Acts of Faith, Hope & Charity", "pt-BR": "Atos de Fé, Esperança e Caridade" }, "file": "flow.json" }
-  ],
-  "tags": ["faith", "hope", "charity", "theological-virtues", "morning"],
-  "defaults": {
-    "sortOrder": 33,
-    "slots": [
-      { "flowId": "default", "schedule": { "type": "daily" }, "tier": "extra", "enabled": false }
-    ]
-  }
+	"id": "acts-faith-hope-charity",
+	"icon": "prayer",
+	"name": {
+		"en-US": "Acts of Faith, Hope & Charity",
+		"pt-BR": "Atos de Fé, Esperança e Caridade"
+	},
+	"categories": [
+		"daily",
+		"devotion"
+	],
+	"estimatedMinutes": 3,
+	"description": {
+		"en-US": "The three theological virtue prayers — Acts of Faith, Hope, and Charity — affirming the foundational dispositions of the Christian soul. Traditionally prayed together as a morning offering or preparation for confession.",
+		"pt-BR": "As três orações das virtudes teologais — Atos de Fé, Esperança e Caridade — afirmando as disposições fundamentais da alma cristã. Tradicionalmente rezadas juntas como oferta matinal ou preparação para a confissão."
+	},
+	"history": {
+		"en-US": "These three acts have been staples of Catholic devotion since the medieval period, corresponding to the three theological virtues defined by St. Paul (1 Corinthians 13) and systematized by St. Thomas Aquinas. They were standard catechetical prayers taught to every Catholic child.",
+		"pt-BR": "Estes três atos têm sido pilares da devoção católica desde o período medieval, correspondendo às três virtudes teologais definidas por São Paulo (1 Coríntios 13) e sistematizadas por Santo Tomás de Aquino. Eram orações catequéticas ensinadas a toda criança católica."
+	},
+	"howToPray": {
+		"en-US": "Pray these three acts slowly, letting each affirmation sink into your heart. They are especially fitting in the morning, before Mass, or as a preparation for confession.",
+		"pt-BR": "Reze estes três atos devagar, deixando cada afirmação penetrar em seu coração. São especialmente adequados de manhã, antes da Missa ou como preparação para a confissão."
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flows": [
+		{
+			"id": "default",
+			"name": {
+				"en-US": "Acts of Faith, Hope & Charity",
+				"pt-BR": "Atos de Fé, Esperança e Caridade"
+			},
+			"file": "flow.json"
+		}
+	],
+	"tags": [
+		"faith",
+		"hope",
+		"charity",
+		"theological-virtues",
+		"morning"
+	],
+	"defaults": {
+		"sortOrder": 33,
+		"slots": [
+			{
+				"flowId": "default",
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
 }

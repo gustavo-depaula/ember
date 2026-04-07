@@ -1,31 +1,57 @@
 {
-  "id": "litany-sacred-heart",
-  "icon": "sacred-heart",
-  "name": { "en": "Litany of the Sacred Heart", "pt-BR": "Ladainha do Sagrado Coração de Jesus" },
-  "categories": ["litany", "sacred-heart", "devotion"],
-  "estimatedMinutes": 10,
-  "description": {
-    "en": "The Litany of the Sacred Heart is an approved Catholic prayer invoking the heart of Jesus under thirty-three titles, each answered with the petition 'Have mercy on us.' It is a profound meditation on the attributes of Christ's love.",
-    "pt-BR": "A Ladainha do Sagrado Coração de Jesus é uma oração católica aprovada que invoca o coração de Jesus sob trinta e três títulos, cada um respondido com a petição 'Tende piedade de nós.' É uma profunda meditação sobre os atributos do amor de Cristo."
-  },
-  "history": {
-    "en": "Devotion to the Sacred Heart was revealed to St. Margaret Mary Alacoque in the 17th century. The litany was officially approved by Pope Leo XIII in 1899, who also consecrated the entire human race to the Sacred Heart. The thirty-three invocations recall the years of Christ's earthly life.",
-    "pt-BR": "A devoção ao Sagrado Coração foi revelada a Santa Margarida Maria Alacoque no século XVII. A ladainha foi oficialmente aprovada pelo Papa Leão XIII em 1899, que também consagrou toda a raça humana ao Sagrado Coração. As trinta e três invocações recordam os anos da vida terrena de Cristo."
-  },
-  "howToPray": {
-    "en": "Pray the opening Kyrie, then respond 'Have mercy on us' to each invocation. After the Lamb of God, respond as indicated, then pray the closing versicle and collect.",
-    "pt-BR": "Reze o Kyrie inicial, depois responda 'Tende piedade de nós' a cada invocação. Após o Cordeiro de Deus, responda conforme indicado, depois reze o versículo e a coleta final."
-  },
-  "flowMode": "scroll",
-  "completion": "flow-end",
-  "flows": [
-    { "id": "default", "name": { "en": "Litany of the Sacred Heart", "pt-BR": "Ladainha do Sagrado Coração" }, "file": "flow.json" }
-  ],
-  "tags": ["litany", "sacred-heart", "jesus", "reparation"],
-  "defaults": {
-    "sortOrder": 24,
-    "slots": [
-      { "flowId": "default", "schedule": { "type": "daily" }, "tier": "extra", "enabled": false }
-    ]
-  }
+	"id": "litany-sacred-heart",
+	"icon": "sacred-heart",
+	"name": {
+		"en-US": "Litany of the Sacred Heart",
+		"pt-BR": "Ladainha do Sagrado Coração de Jesus"
+	},
+	"categories": [
+		"litany",
+		"sacred-heart",
+		"devotion"
+	],
+	"estimatedMinutes": 10,
+	"description": {
+		"en-US": "The Litany of the Sacred Heart is an approved Catholic prayer invoking the heart of Jesus under thirty-three titles, each answered with the petition 'Have mercy on us.' It is a profound meditation on the attributes of Christ's love.",
+		"pt-BR": "A Ladainha do Sagrado Coração de Jesus é uma oração católica aprovada que invoca o coração de Jesus sob trinta e três títulos, cada um respondido com a petição 'Tende piedade de nós.' É uma profunda meditação sobre os atributos do amor de Cristo."
+	},
+	"history": {
+		"en-US": "Devotion to the Sacred Heart was revealed to St. Margaret Mary Alacoque in the 17th century. The litany was officially approved by Pope Leo XIII in 1899, who also consecrated the entire human race to the Sacred Heart. The thirty-three invocations recall the years of Christ's earthly life.",
+		"pt-BR": "A devoção ao Sagrado Coração foi revelada a Santa Margarida Maria Alacoque no século XVII. A ladainha foi oficialmente aprovada pelo Papa Leão XIII em 1899, que também consagrou toda a raça humana ao Sagrado Coração. As trinta e três invocações recordam os anos da vida terrena de Cristo."
+	},
+	"howToPray": {
+		"en-US": "Pray the opening Kyrie, then respond 'Have mercy on us' to each invocation. After the Lamb of God, respond as indicated, then pray the closing versicle and collect.",
+		"pt-BR": "Reze o Kyrie inicial, depois responda 'Tende piedade de nós' a cada invocação. Após o Cordeiro de Deus, responda conforme indicado, depois reze o versículo e a coleta final."
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flows": [
+		{
+			"id": "default",
+			"name": {
+				"en-US": "Litany of the Sacred Heart",
+				"pt-BR": "Ladainha do Sagrado Coração"
+			},
+			"file": "flow.json"
+		}
+	],
+	"tags": [
+		"litany",
+		"sacred-heart",
+		"jesus",
+		"reparation"
+	],
+	"defaults": {
+		"sortOrder": 24,
+		"slots": [
+			{
+				"flowId": "default",
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
 }

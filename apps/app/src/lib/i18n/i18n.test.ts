@@ -2,7 +2,7 @@ import { readdirSync, readFileSync } from 'node:fs'
 import { resolve } from 'node:path'
 import { describe, expect, it } from 'vitest'
 
-import en from './locales/en'
+import en from './locales/en-US'
 import ptBR from './locales/pt-BR'
 
 const practicesDir = resolve(__dirname, '../../content/practices')

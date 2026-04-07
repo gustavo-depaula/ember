@@ -1,8 +1,15 @@
 {
-	"title": "Nunc Dimittis",
-	"subtitle": "Canticle of Simeon",
-	"source": "Luke 2:29-32",
-	"usage": "Compline (Night Prayer), after the reading",
-	"english": "Now thou dost dismiss thy servant, O Lord,\naccording to thy word in peace;\nBecause my eyes have seen thy salvation,\nWhich thou hast prepared before the face of all peoples:\nA light to the revelation of the Gentiles,\nand the glory of thy people Israel.",
-	"portuguese": "Agora, Senhor, podeis deixar o vosso servo ir em paz,\nsegundo a vossa palavra.\nPorque os meus olhos viram a vossa salvação,\nque preparastes diante de todos os povos:\nLuz para iluminar as nações\ne glória do vosso povo Israel."
+	"title": {
+		"en-US": "Nunc Dimittis"
+	},
+	"subtitle": {
+		"en-US": "Canticle of Simeon"
+	},
+	"source": {
+		"en-US": "Luke 2:29-32"
+	},
+	"body": {
+		"en-US": "Now thou dost dismiss thy servant, O Lord,\naccording to thy word in peace;\nBecause my eyes have seen thy salvation,\nWhich thou hast prepared before the face of all peoples:\nA light to the revelation of the Gentiles,\nand the glory of thy people Israel.",
+		"pt-BR": "Agora, Senhor, podeis deixar o vosso servo ir em paz,\nsegundo a vossa palavra.\nPorque os meus olhos viram a vossa salvação,\nque preparastes diante de todos os povos:\nLuz para iluminar as nações\ne glória do vosso povo Israel."
+	}
 }

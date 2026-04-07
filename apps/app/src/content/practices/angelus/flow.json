@@ -1,59 +1,103 @@
 {
-  "sections": [
-    {
-      "type": "response",
-      "verses": [
-        {
-          "v": { "en": "The Angel of the Lord declared unto Mary,", "pt-BR": "O Anjo do Senhor anunciou a Maria," },
-          "r": { "en": "And she conceived of the Holy Spirit.", "pt-BR": "E ela concebeu do Espírito Santo." }
-        }
-      ]
-    },
-    { "type": "prayer", "ref": "hail-mary" },
-    { "type": "divider" },
-    {
-      "type": "response",
-      "verses": [
-        {
-          "v": { "en": "Behold the handmaid of the Lord,", "pt-BR": "Eis aqui a serva do Senhor," },
-          "r": { "en": "Be it done unto me according to Thy word.", "pt-BR": "Faça-se em mim segundo a Vossa palavra." }
-        }
-      ]
-    },
-    { "type": "prayer", "ref": "hail-mary" },
-    { "type": "divider" },
-    {
-      "type": "response",
-      "verses": [
-        {
-          "v": { "en": "And the Word was made flesh,", "pt-BR": "E o Verbo se fez carne," },
-          "r": { "en": "And dwelt among us.", "pt-BR": "E habitou entre nós." }
-        }
-      ]
-    },
-    { "type": "prayer", "ref": "hail-mary" },
-    { "type": "divider" },
-    {
-      "type": "response",
-      "verses": [
-        {
-          "v": { "en": "Pray for us, O holy Mother of God,", "pt-BR": "Rogai por nós, Santa Mãe de Deus," },
-          "r": { "en": "That we may be made worthy of the promises of Christ.", "pt-BR": "Para que sejamos dignos das promessas de Cristo." }
-        }
-      ]
-    },
-    { "type": "divider" },
-    {
-      "type": "rubric",
-      "text": { "en": "Let us pray.", "pt-BR": "Oremos." }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "en": "Pour forth, we beseech Thee, O Lord, Thy grace into our hearts, that we, to whom the Incarnation of Christ Thy Son was made known by the message of an angel, may by His Passion and Cross be brought to the glory of His Resurrection. Through the same Christ our Lord. Amen.",
-        "latin": "Gratiam tuam, quaesumus, Domine, mentibus nostris infunde; ut qui, Angelo nuntiante, Christi Filii tui incarnationem cognovimus, per passionem eius et crucem ad resurrectionis gloriam perducamur. Per eundem Christum Dominum nostrum. Amen.",
-        "pt-BR": "Derramai, Senhor, a Vossa graça em nossas almas, para que nós, que pela anunciação do Anjo conhecemos a Encarnação de Cristo, Vosso Filho, pela Sua Paixão e Cruz sejamos levados à glória da Ressurreição. Pelo mesmo Cristo, Senhor nosso. Amém."
-      }
-    }
-  ]
+	"sections": [
+		{
+			"type": "response",
+			"verses": [
+				{
+					"v": {
+						"en-US": "The Angel of the Lord declared unto Mary,",
+						"pt-BR": "O Anjo do Senhor anunciou a Maria,"
+					},
+					"r": {
+						"en-US": "And she conceived of the Holy Spirit.",
+						"pt-BR": "E ela concebeu do Espírito Santo."
+					}
+				}
+			]
+		},
+		{
+			"type": "prayer",
+			"ref": "hail-mary"
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "response",
+			"verses": [
+				{
+					"v": {
+						"en-US": "Behold the handmaid of the Lord,",
+						"pt-BR": "Eis aqui a serva do Senhor,"
+					},
+					"r": {
+						"en-US": "Be it done unto me according to Thy word.",
+						"pt-BR": "Faça-se em mim segundo a Vossa palavra."
+					}
+				}
+			]
+		},
+		{
+			"type": "prayer",
+			"ref": "hail-mary"
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "response",
+			"verses": [
+				{
+					"v": {
+						"en-US": "And the Word was made flesh,",
+						"pt-BR": "E o Verbo se fez carne,"
+					},
+					"r": {
+						"en-US": "And dwelt among us.",
+						"pt-BR": "E habitou entre nós."
+					}
+				}
+			]
+		},
+		{
+			"type": "prayer",
+			"ref": "hail-mary"
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "response",
+			"verses": [
+				{
+					"v": {
+						"en-US": "Pray for us, O holy Mother of God,",
+						"pt-BR": "Rogai por nós, Santa Mãe de Deus,"
+					},
+					"r": {
+						"en-US": "That we may be made worthy of the promises of Christ.",
+						"pt-BR": "Para que sejamos dignos das promessas de Cristo."
+					}
+				}
+			]
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "Let us pray.",
+				"pt-BR": "Oremos."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Pour forth, we beseech Thee, O Lord, Thy grace into our hearts, that we, to whom the Incarnation of Christ Thy Son was made known by the message of an angel, may by His Passion and Cross be brought to the glory of His Resurrection. Through the same Christ our Lord. Amen.",
+				"la": "Gratiam tuam, quaesumus, Domine, mentibus nostris infunde; ut qui, Angelo nuntiante, Christi Filii tui incarnationem cognovimus, per passionem eius et crucem ad resurrectionis gloriam perducamur. Per eundem Christum Dominum nostrum. Amen.",
+				"pt-BR": "Derramai, Senhor, a Vossa graça em nossas almas, para que nós, que pela anunciação do Anjo conhecemos a Encarnação de Cristo, Vosso Filho, pela Sua Paixão e Cruz sejamos levados à glória da Ressurreição. Pelo mesmo Cristo, Senhor nosso. Amém."
+			}
+		}
+	]
 }

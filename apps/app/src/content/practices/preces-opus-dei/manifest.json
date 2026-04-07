@@ -1,31 +1,55 @@
 {
-  "id": "preces-opus-dei",
-  "icon": "prayer",
-  "name": { "en": "Preces (Opus Dei)", "pt-BR": "Preces (Opus Dei)" },
-  "categories": ["daily"],
-  "estimatedMinutes": 5,
-  "flowMode": "scroll",
-  "completion": "flow-end",
-  "flows": [
-    { "id": "default", "name": { "en": "Preces (Opus Dei)", "pt-BR": "Preces (Opus Dei)" }, "file": "flow.json" }
-  ],
-  "description": {
-    "en": "The daily prayer of the faithful of the Prelature of Opus Dei, composed by St. Josemaría Escrivá in December 1930. A series of versicles and responses addressed to the Holy Trinity, Our Lady, St. Joseph, the Guardian Angels, and St. Josemaría, followed by intercessions for the Church and Opus Dei.",
-    "pt-BR": "A oração diária dos fiéis da Prelatura do Opus Dei, composta por São Josemaria Escrivá em dezembro de 1930. Uma série de versículos e respostas dirigidos à Santíssima Trindade, Nossa Senhora, São José, os Anjos da Guarda e São Josemaria, seguida de intercessões pela Igreja e pelo Opus Dei."
-  },
-  "history": {
-    "en": "St. Josemaría Escrivá composed the Preces in December 1930, drawing on Scripture, traditional Catholic prayers, and the spirit of Opus Dei. They have been prayed by members and cooperators of Opus Dei ever since, typically recited together in community or privately. The opening word — Sérviam! (I will serve!) — expresses the fundamental disposition of the soul: total dedication to God through one's ordinary work and daily life.",
-    "pt-BR": "São Josemaria Escrivá compôs as Preces em dezembro de 1930, inspirando-se nas Escrituras, nas orações tradicionais católicas e no espírito do Opus Dei. Desde então, são rezadas pelos membros e cooperadores do Opus Dei, habitualmente em comunidade ou de forma privada. A palavra inicial — Sérviam! (Servirei!) — exprime a disposição fundamental da alma: a dedicação total a Deus por meio do trabalho ordinário e da vida quotidiana."
-  },
-  "howToPray": {
-    "en": "A leader (or you alone) says each versicle (V.), and all respond (R.). The prayer begins with the acclamation Sérviam! — I will serve! — and moves through invocations to the Holy Trinity, heavenly patrons, and intercessions for the Pope, the local bishop, Opus Dei, and the faithful departed. The collect prayers and final blessing are traditionally led by a priest when one is present.",
-    "pt-BR": "Um animador (ou você sozinho) diz cada versículo (V.), e todos respondem (R.). A oração começa com a aclamação Sérviam! — Servirei! — e prossegue com invocações à Santíssima Trindade, aos padroeiros celestiais e com intercessões pelo Papa, pelo bispo local, pelo Opus Dei e pelos fiéis defuntos. As orações coletais e a bênção final são tradicionalmente dirigidas por um sacerdote quando está presente."
-  },
-  "tags": ["opus-dei", "josemaria", "daily", "latin", "versicle"],
-  "defaults": {
-    "sortOrder": 8,
-    "slots": [
-      { "flowId": "default", "schedule": { "type": "daily" }, "tier": "essential" }
-    ]
-  }
+	"id": "preces-opus-dei",
+	"icon": "prayer",
+	"name": {
+		"en-US": "Preces (Opus Dei)",
+		"pt-BR": "Preces (Opus Dei)"
+	},
+	"categories": [
+		"daily"
+	],
+	"estimatedMinutes": 5,
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flows": [
+		{
+			"id": "default",
+			"name": {
+				"en-US": "Preces (Opus Dei)",
+				"pt-BR": "Preces (Opus Dei)"
+			},
+			"file": "flow.json"
+		}
+	],
+	"description": {
+		"en-US": "The daily prayer of the faithful of the Prelature of Opus Dei, composed by St. Josemaría Escrivá in December 1930. A series of versicles and responses addressed to the Holy Trinity, Our Lady, St. Joseph, the Guardian Angels, and St. Josemaría, followed by intercessions for the Church and Opus Dei.",
+		"pt-BR": "A oração diária dos fiéis da Prelatura do Opus Dei, composta por São Josemaria Escrivá em dezembro de 1930. Uma série de versículos e respostas dirigidos à Santíssima Trindade, Nossa Senhora, São José, os Anjos da Guarda e São Josemaria, seguida de intercessões pela Igreja e pelo Opus Dei."
+	},
+	"history": {
+		"en-US": "St. Josemaría Escrivá composed the Preces in December 1930, drawing on Scripture, traditional Catholic prayers, and the spirit of Opus Dei. They have been prayed by members and cooperators of Opus Dei ever since, typically recited together in community or privately. The opening word — Sérviam! (I will serve!) — expresses the fundamental disposition of the soul: total dedication to God through one's ordinary work and daily life.",
+		"pt-BR": "São Josemaria Escrivá compôs as Preces em dezembro de 1930, inspirando-se nas Escrituras, nas orações tradicionais católicas e no espírito do Opus Dei. Desde então, são rezadas pelos membros e cooperadores do Opus Dei, habitualmente em comunidade ou de forma privada. A palavra inicial — Sérviam! (Servirei!) — exprime a disposição fundamental da alma: a dedicação total a Deus por meio do trabalho ordinário e da vida quotidiana."
+	},
+	"howToPray": {
+		"en-US": "A leader (or you alone) says each versicle (V.), and all respond (R.). The prayer begins with the acclamation Sérviam! — I will serve! — and moves through invocations to the Holy Trinity, heavenly patrons, and intercessions for the Pope, the local bishop, Opus Dei, and the faithful departed. The collect prayers and final blessing are traditionally led by a priest when one is present.",
+		"pt-BR": "Um animador (ou você sozinho) diz cada versículo (V.), e todos respondem (R.). A oração começa com a aclamação Sérviam! — Servirei! — e prossegue com invocações à Santíssima Trindade, aos padroeiros celestiais e com intercessões pelo Papa, pelo bispo local, pelo Opus Dei e pelos fiéis defuntos. As orações coletais e a bênção final são tradicionalmente dirigidas por um sacerdote quando está presente."
+	},
+	"tags": [
+		"opus-dei",
+		"josemaria",
+		"daily",
+		"latin",
+		"versicle"
+	],
+	"defaults": {
+		"sortOrder": 8,
+		"slots": [
+			{
+				"flowId": "default",
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "essential"
+			}
+		]
+	}
 }

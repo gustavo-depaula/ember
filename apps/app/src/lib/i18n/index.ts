@@ -1,21 +1,22 @@
 import i18n from 'i18next'
 import { initReactI18next } from 'react-i18next'
 
-import en from './locales/en'
+import { detectLanguage } from './detectLanguage'
+import enUS from './locales/en-US'
 import ptBR from './locales/pt-BR'
 
 export const supportedLanguages = [
-  { code: 'en', label: 'English' },
-  { code: 'pt-BR', label: 'Portugu\u00eas' },
+  { code: 'en-US', label: 'English' },
+  { code: 'pt-BR', label: 'Português' },
 ] as const
 
 i18n.use(initReactI18next).init({
   resources: {
-    en: { translation: en },
+    'en-US': { translation: enUS },
     'pt-BR': { translation: ptBR },
   },
-  lng: 'en',
-  fallbackLng: 'en',
+  lng: detectLanguage(),
+  fallbackLng: 'en-US',
   interpolation: { escapeValue: false },
   compatibilityJSON: 'v4',
   saveMissing: __DEV__,
@@ -28,12 +29,7 @@ i18n.use(initReactI18next).init({
 
 export default i18n
 
-export function localizeAsset(obj: { english: string; portuguese?: string }): string {
-  if (i18n.language === 'pt-BR' && obj.portuguese) return obj.portuguese
-  return obj.english
-}
-
-export function localizeContent(text: { en: string; 'pt-BR'?: string }): string {
+export function localizeContent(text: { 'en-US'?: string; 'pt-BR'?: string }): string {
   if (i18n.language === 'pt-BR' && text['pt-BR']) return text['pt-BR']
-  return text.en
+  return text['en-US'] ?? ''
 }

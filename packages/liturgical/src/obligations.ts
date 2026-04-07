@@ -172,7 +172,7 @@ export function getDayObligations(
     fast = true
     abstinence = 'full'
     details.push({
-      en: 'Ash Wednesday — fast and abstinence',
+      'en-US': 'Ash Wednesday — fast and abstinence',
       'pt-BR': 'Quarta-Feira de Cinzas — jejum e abstinência',
     })
   }
@@ -182,7 +182,7 @@ export function getDayObligations(
     fast = true
     abstinence = 'full'
     details.push({
-      en: 'Good Friday — fast and abstinence',
+      'en-US': 'Good Friday — fast and abstinence',
       'pt-BR': 'Sexta-Feira Santa — jejum e abstinência',
     })
   }
@@ -195,21 +195,21 @@ export function getDayObligations(
     } else if (form === 'ef') {
       // EF: all Fridays year-round, full abstinence
       abstinence = 'full'
-      details.push({ en: 'Friday abstinence', 'pt-BR': 'Abstinência de sexta-feira' })
+      details.push({ 'en-US': 'Friday abstinence', 'pt-BR': 'Abstinência de sexta-feira' })
     } else if (isLent) {
       // OF Lent: universal full abstinence
       abstinence = 'full'
       details.push({
-        en: 'Friday of Lent — abstinence',
+        'en-US': 'Friday of Lent — abstinence',
         'pt-BR': 'Sexta-feira da Quaresma — abstinência',
       })
     } else {
       // OF outside Lent: per jurisdiction
       abstinence = rules.fridayOutsideLent
       if (abstinence === 'full') {
-        details.push({ en: 'Friday abstinence', 'pt-BR': 'Abstinência de sexta-feira' })
+        details.push({ 'en-US': 'Friday abstinence', 'pt-BR': 'Abstinência de sexta-feira' })
       } else if (abstinence === 'penance-required') {
-        details.push({ en: 'Friday penance', 'pt-BR': 'Penitência de sexta-feira' })
+        details.push({ 'en-US': 'Friday penance', 'pt-BR': 'Penitência de sexta-feira' })
       }
     }
   }
@@ -217,14 +217,14 @@ export function getDayObligations(
   // EF-specific: Lenten weekday fasting (Mon-Sat during Lent, excluding Sundays)
   if (form === 'ef' && isLent && dayOfWeek !== 0 && !fast) {
     fast = true
-    details.push({ en: 'Lenten weekday fast', 'pt-BR': 'Jejum de dia de semana na Quaresma' })
+    details.push({ 'en-US': 'Lenten weekday fast', 'pt-BR': 'Jejum de dia de semana na Quaresma' })
   }
 
   // EF-specific: Ember days
   if (form === 'ef' && isEmberDay(d, year)) {
     if (!fast) {
       fast = true
-      details.push({ en: 'Ember day fast', 'pt-BR': 'Jejum das Têmporas' })
+      details.push({ 'en-US': 'Ember day fast', 'pt-BR': 'Jejum das Têmporas' })
     }
     // Ember Friday: full abstinence (likely already set by Friday logic)
     // Ember Wed/Sat: partial abstinence
@@ -232,7 +232,7 @@ export function getDayObligations(
       if (abstinence !== 'full') {
         abstinence = 'partial'
         details.push({
-          en: 'Ember day — partial abstinence',
+          'en-US': 'Ember day — partial abstinence',
           'pt-BR': 'Têmporas — abstinência parcial',
         })
       }
@@ -245,17 +245,17 @@ export function getDayObligations(
     if (vigil.isVigil && !vigil.dropped) {
       if (!fast) {
         fast = true
-        details.push({ en: 'Vigil fast', 'pt-BR': 'Jejum de vigília' })
+        details.push({ 'en-US': 'Vigil fast', 'pt-BR': 'Jejum de vigília' })
       }
       if (abstinence === 'none') {
         abstinence = 'full'
-        details.push({ en: 'Vigil abstinence', 'pt-BR': 'Abstinência de vigília' })
+        details.push({ 'en-US': 'Vigil abstinence', 'pt-BR': 'Abstinência de vigília' })
       }
     }
   }
 
   if (holyDay) {
-    details.push({ en: 'Holy Day of Obligation', 'pt-BR': 'Dia Santo de Guarda' })
+    details.push({ 'en-US': 'Holy Day of Obligation', 'pt-BR': 'Dia Santo de Guarda' })
   }
 
   return { holyDay, fast, abstinence, details }

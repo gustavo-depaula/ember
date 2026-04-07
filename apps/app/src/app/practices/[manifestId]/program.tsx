@@ -20,8 +20,8 @@ function getDayTitles(cycleData: Record<string, CycleData> | undefined): string[
   if (!entries) return []
   return entries.map((entry) => {
     const title = entry.dayTitle
-    if (typeof title === 'object' && title !== null && 'en' in title) {
-      return localizeContent(title as { en: string; 'pt-BR'?: string })
+    if (typeof title === 'object' && title !== null && 'en-US' in title) {
+      return localizeContent(title as { 'en-US'?: string; 'pt-BR'?: string })
     }
     return typeof title === 'string' ? title : ''
   })

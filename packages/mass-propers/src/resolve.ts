@@ -3,7 +3,7 @@ import { getDoSanctiId, getDoTemporaId } from './do-file-id'
 import { getSectionIdsForSlot } from './slot-map'
 import type { ProperDay, ProperSection } from './types'
 
-export type RawSection = { en?: string; latin?: string; 'pt-BR'?: string; citation?: string }
+export type RawSection = { 'en-US'?: string; la?: string; 'pt-BR'?: string; citation?: string }
 export type RawProperFile = Record<string, RawSection>
 
 export type PropersDataSource = {
@@ -13,7 +13,7 @@ export type PropersDataSource = {
   loadSancti(id: string): RawProperFile | undefined
 }
 
-export type LocalizeContent = (text: { en: string; 'pt-BR'?: string }) => string
+export type LocalizeContent = (text: { 'en-US'?: string; 'pt-BR'?: string }) => string
 
 // Categories that map to Tempora (seasonal cycle) in DO
 const temporaCategories = new Set<LiturgicalCategory>([
@@ -51,11 +51,11 @@ export function getProperDay(
 
   const result: ProperDay = {}
   for (const [sectionId, section] of Object.entries(raw)) {
-    const text = localize({ en: section.en ?? '', 'pt-BR': section['pt-BR'] })
+    const text = localize({ 'en-US': section['en-US'] ?? '', 'pt-BR': section['pt-BR'] })
     if (!text) continue
     result[sectionId] = {
       text,
-      latin: section.latin,
+      latin: section.la,
       citation: section.citation,
     }
   }
@@ -80,12 +80,12 @@ export function getProperForSlot(
     const section = raw[id]
     if (!section) continue
 
-    const text = localize({ en: section.en ?? '', 'pt-BR': section['pt-BR'] })
+    const text = localize({ 'en-US': section['en-US'] ?? '', 'pt-BR': section['pt-BR'] })
     if (!text) continue
 
     return {
       text,
-      latin: section.latin,
+      latin: section.la,
       citation: section.citation,
     }
   }

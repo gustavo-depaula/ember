@@ -99,7 +99,7 @@ A flow is a JSON `{ sections: Section[] }`. Section types:
 **Leaf:** `rubric` (red instructional text), `divider`, `heading`, `image`
 
 **Text content:**
-- `prayer` — `{ ref: "our-father" }` or `{ inline: LocalizedBilingualText }`
+- `prayer` — `{ ref: "our-father" }` or `{ inline: LocalizedContent }`
 - `hymn`, `canticle` — same ref/inline pattern
 - `meditation` — reflective text
 - `response` — versicle/response pairs: `{ verses: [{ v, r }] }`

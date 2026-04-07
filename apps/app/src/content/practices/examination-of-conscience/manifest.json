@@ -1,60 +1,96 @@
 {
-  "id": "examination-of-conscience",
-  "icon": "prayer",
-  "name": { "en": "Examination of Conscience", "pt-BR": "Exame de Consciência" },
-  "categories": ["daily", "contemplative"],
-  "estimatedMinutes": 5,
-  "description": {
-    "en": "A daily review of the soul's movements and moral life before God. Far from being a grim exercise, the examination of conscience is an act of love: bringing the day to God for His light, receiving His mercy, and resolving to do better. It is the hidden hinge on which spiritual growth turns.",
-    "pt-BR": "Uma revisão diária dos movimentos da alma e da vida moral diante de Deus. Longe de ser um exercício austero, o exame de consciência é um ato de amor: trazer o dia a Deus para receber Sua luz, acolher Sua misericórdia e propor melhorar. É a dobradiça oculta em que gira o crescimento espiritual."
-  },
-  "history": {
-    "en": "The examination of conscience is rooted in the Desert Fathers, who taught disciples to review their thoughts and actions each evening. St. Ignatius of Loyola formalized the practice in his Spiritual Exercises as the 'General Examen', considered so essential that he required Jesuits to observe it even if they could not complete other prayers. The examination is also a requirement of Church law before receiving Holy Communion.",
-    "pt-BR": "O exame de consciência tem raízes nos Padres do Deserto, que ensinavam os discípulos a revisar seus pensamentos e ações a cada tarde. Santo Inácio de Loyola formalizou a prática nos Exercícios Espirituais como o 'Exame Geral', considerado tão essencial que exigia que os jesuítas o realizassem mesmo que não pudessem completar outras orações."
-  },
-  "howToPray": {
-    "en": "At the end of the day, find a few minutes of quiet. Use the method that suits your state of life and spiritual tradition. The Ignatian Examen takes you through five movements; the Commandments method examines your duties; the Beatitudes method offers a more positive, Gospel-centered review. Always conclude with an Act of Contrition.",
-    "pt-BR": "Ao final do dia, encontre alguns minutos de silêncio. Use o método adequado ao seu estado de vida e tradição espiritual. O Exame Inaciano percorre cinco movimentos; o método dos Mandamentos examina seus deveres; o método das Bem-aventuranças oferece uma revisão mais positiva, centrada no Evangelho. Sempre conclua com um Ato de Contrição."
-  },
-  "flowMode": "step",
-  "completion": "flow-end",
-  "flows": [
-    { "id": "default", "name": { "en": "Examination of Conscience", "pt-BR": "Exame de Consciência" }, "file": "flow.json" }
-  ],
-  "variants": [
-    {
-      "id": "ignatian-examen",
-      "name": { "en": "Ignatian Examen", "pt-BR": "Exame Inaciano" },
-      "description": {
-        "en": "St. Ignatius's five-movement daily examen: gratitude, petition for light, review of the day, sorrow, and hope",
-        "pt-BR": "O exame diário de cinco movimentos de Santo Inácio: gratidão, petição de luz, revisão do dia, arrependimento e esperança"
-      },
-      "file": "variants/ignatian-examen.json"
-    },
-    {
-      "id": "ten-commandments",
-      "name": { "en": "Ten Commandments", "pt-BR": "Dez Mandamentos" },
-      "description": {
-        "en": "A structured examination of conscience organized around our duties to God, neighbor, and self as revealed in the Decalogue",
-        "pt-BR": "Um exame de consciência estruturado em torno dos nossos deveres para com Deus, o próximo e nós mesmos, conforme revelado no Decálogo"
-      },
-      "file": "variants/ten-commandments.json"
-    },
-    {
-      "id": "beatitudes",
-      "name": { "en": "The Beatitudes", "pt-BR": "As Bem-aventuranças" },
-      "description": {
-        "en": "A positive, Gospel-centered examination that measures the day against the spirit of Christ's Beatitudes from the Sermon on the Mount",
-        "pt-BR": "Um exame positivo, centrado no Evangelho, que mede o dia em relação ao espírito das Bem-aventuranças de Cristo no Sermão da Montanha"
-      },
-      "file": "variants/beatitudes.json"
-    }
-  ],
-  "tags": ["evening", "conscience", "examen", "ignatian", "daily", "contrition"],
-  "defaults": {
-    "sortOrder": 5,
-    "slots": [
-      { "flowId": "default", "schedule": { "type": "daily" }, "time": "21:00", "tier": "essential" }
-    ]
-  }
+	"id": "examination-of-conscience",
+	"icon": "prayer",
+	"name": {
+		"en-US": "Examination of Conscience",
+		"pt-BR": "Exame de Consciência"
+	},
+	"categories": [
+		"daily",
+		"contemplative"
+	],
+	"estimatedMinutes": 5,
+	"description": {
+		"en-US": "A daily review of the soul's movements and moral life before God. Far from being a grim exercise, the examination of conscience is an act of love: bringing the day to God for His light, receiving His mercy, and resolving to do better. It is the hidden hinge on which spiritual growth turns.",
+		"pt-BR": "Uma revisão diária dos movimentos da alma e da vida moral diante de Deus. Longe de ser um exercício austero, o exame de consciência é um ato de amor: trazer o dia a Deus para receber Sua luz, acolher Sua misericórdia e propor melhorar. É a dobradiça oculta em que gira o crescimento espiritual."
+	},
+	"history": {
+		"en-US": "The examination of conscience is rooted in the Desert Fathers, who taught disciples to review their thoughts and actions each evening. St. Ignatius of Loyola formalized the practice in his Spiritual Exercises as the 'General Examen', considered so essential that he required Jesuits to observe it even if they could not complete other prayers. The examination is also a requirement of Church law before receiving Holy Communion.",
+		"pt-BR": "O exame de consciência tem raízes nos Padres do Deserto, que ensinavam os discípulos a revisar seus pensamentos e ações a cada tarde. Santo Inácio de Loyola formalizou a prática nos Exercícios Espirituais como o 'Exame Geral', considerado tão essencial que exigia que os jesuítas o realizassem mesmo que não pudessem completar outras orações."
+	},
+	"howToPray": {
+		"en-US": "At the end of the day, find a few minutes of quiet. Use the method that suits your state of life and spiritual tradition. The Ignatian Examen takes you through five movements; the Commandments method examines your duties; the Beatitudes method offers a more positive, Gospel-centered review. Always conclude with an Act of Contrition.",
+		"pt-BR": "Ao final do dia, encontre alguns minutos de silêncio. Use o método adequado ao seu estado de vida e tradição espiritual. O Exame Inaciano percorre cinco movimentos; o método dos Mandamentos examina seus deveres; o método das Bem-aventuranças oferece uma revisão mais positiva, centrada no Evangelho. Sempre conclua com um Ato de Contrição."
+	},
+	"flowMode": "step",
+	"completion": "flow-end",
+	"flows": [
+		{
+			"id": "default",
+			"name": {
+				"en-US": "Examination of Conscience",
+				"pt-BR": "Exame de Consciência"
+			},
+			"file": "flow.json"
+		}
+	],
+	"variants": [
+		{
+			"id": "ignatian-examen",
+			"name": {
+				"en-US": "Ignatian Examen",
+				"pt-BR": "Exame Inaciano"
+			},
+			"description": {
+				"en-US": "St. Ignatius's five-movement daily examen: gratitude, petition for light, review of the day, sorrow, and hope",
+				"pt-BR": "O exame diário de cinco movimentos de Santo Inácio: gratidão, petição de luz, revisão do dia, arrependimento e esperança"
+			},
+			"file": "variants/ignatian-examen.json"
+		},
+		{
+			"id": "ten-commandments",
+			"name": {
+				"en-US": "Ten Commandments",
+				"pt-BR": "Dez Mandamentos"
+			},
+			"description": {
+				"en-US": "A structured examination of conscience organized around our duties to God, neighbor, and self as revealed in the Decalogue",
+				"pt-BR": "Um exame de consciência estruturado em torno dos nossos deveres para com Deus, o próximo e nós mesmos, conforme revelado no Decálogo"
+			},
+			"file": "variants/ten-commandments.json"
+		},
+		{
+			"id": "beatitudes",
+			"name": {
+				"en-US": "The Beatitudes",
+				"pt-BR": "As Bem-aventuranças"
+			},
+			"description": {
+				"en-US": "A positive, Gospel-centered examination that measures the day against the spirit of Christ's Beatitudes from the Sermon on the Mount",
+				"pt-BR": "Um exame positivo, centrado no Evangelho, que mede o dia em relação ao espírito das Bem-aventuranças de Cristo no Sermão da Montanha"
+			},
+			"file": "variants/beatitudes.json"
+		}
+	],
+	"tags": [
+		"evening",
+		"conscience",
+		"examen",
+		"ignatian",
+		"daily",
+		"contrition"
+	],
+	"defaults": {
+		"sortOrder": 5,
+		"slots": [
+			{
+				"flowId": "default",
+				"schedule": {
+					"type": "daily"
+				},
+				"time": "21:00",
+				"tier": "essential"
+			}
+		]
+	}
 }

@@ -1,52 +1,79 @@
 {
-  "sections": [
-    { "type": "prayer", "ref": "sign-of-cross" },
-    {
-      "type": "heading",
-      "text": {
-        "en": "Novena to Our Lady of the Miraculous Medal",
-        "pt-BR": "Novena a Nossa Senhora da Medalha Milagrosa"
-      }
-    },
-    {
-      "type": "cycle",
-      "data": "novena-days",
-      "as": "template",
-      "sections": [
-        {
-          "type": "subheading",
-          "text": { "en": "{{dayTitle}}" }
-        },
-        {
-          "type": "meditation",
-          "text": { "en": "{{meditation}}" }
-        },
-        { "type": "divider" },
-        {
-          "type": "rubric",
-          "text": { "en": "{{intention}}" }
-        }
-      ]
-    },
-    { "type": "divider" },
-    {
-      "type": "rubric",
-      "text": {
-        "en": "Pray three Hail Marys.",
-        "pt-BR": "Reze três Ave Marias."
-      }
-    },
-    { "type": "prayer", "ref": "hail-mary" },
-    { "type": "prayer", "ref": "hail-mary" },
-    { "type": "prayer", "ref": "hail-mary" },
-    { "type": "divider" },
-    {
-      "type": "prayer",
-      "inline": {
-        "en": "O Mary, conceived without sin, pray for us who have recourse to thee. O Mary, conceived without sin, pray for us who have recourse to thee. O Mary, conceived without sin, pray for us who have recourse to thee.",
-        "pt-BR": "Ó Maria concebida sem pecado, rogai por nós que recorremos a Vós. Ó Maria concebida sem pecado, rogai por nós que recorremos a Vós. Ó Maria concebida sem pecado, rogai por nós que recorremos a Vós."
-      }
-    },
-    { "type": "prayer", "ref": "sign-of-cross" }
-  ]
+	"sections": [
+		{
+			"type": "prayer",
+			"ref": "sign-of-cross"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "Novena to Our Lady of the Miraculous Medal",
+				"pt-BR": "Novena a Nossa Senhora da Medalha Milagrosa"
+			}
+		},
+		{
+			"type": "cycle",
+			"data": "novena-days",
+			"as": "template",
+			"sections": [
+				{
+					"type": "subheading",
+					"text": {
+						"en-US": "{{dayTitle}}"
+					}
+				},
+				{
+					"type": "meditation",
+					"text": {
+						"en-US": "{{meditation}}"
+					}
+				},
+				{
+					"type": "divider"
+				},
+				{
+					"type": "rubric",
+					"text": {
+						"en-US": "{{intention}}"
+					}
+				}
+			]
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "Pray three Hail Marys.",
+				"pt-BR": "Reze três Ave Marias."
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "hail-mary"
+		},
+		{
+			"type": "prayer",
+			"ref": "hail-mary"
+		},
+		{
+			"type": "prayer",
+			"ref": "hail-mary"
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O Mary, conceived without sin, pray for us who have recourse to thee. O Mary, conceived without sin, pray for us who have recourse to thee. O Mary, conceived without sin, pray for us who have recourse to thee.",
+				"pt-BR": "Ó Maria concebida sem pecado, rogai por nós que recorremos a Vós. Ó Maria concebida sem pecado, rogai por nós que recorremos a Vós. Ó Maria concebida sem pecado, rogai por nós que recorremos a Vós."
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "sign-of-cross"
+		}
+	]
 }

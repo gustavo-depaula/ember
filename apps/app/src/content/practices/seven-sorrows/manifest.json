@@ -1,51 +1,84 @@
 {
-  "id": "seven-sorrows",
-  "icon": "mary",
-  "name": { "en": "Chaplet of the Seven Sorrows", "pt-BR": "Coroa das Sete Dores" },
-  "categories": ["marian", "chaplet", "meditation", "passion"],
-  "estimatedMinutes": 25,
-  "description": {
-    "en": "A Marian devotion meditating on the seven great sorrows of the Blessed Virgin Mary, praying seven times seven Hail Marys.",
-    "pt-BR": "Uma devoção mariana que medita sobre as sete grandes dores da Santíssima Virgem Maria, rezando sete vezes sete Ave Marias."
-  },
-  "history": {
-    "en": "This devotion was spread by the Servite Order in the 13th century. Pope Pius VII approved it in 1815 and granted indulgences for its recitation.",
-    "pt-BR": "Esta devoção foi difundida pela Ordem dos Servitas no século XIII. O Papa Pio VII a aprovou em 1815 e concedeu indulgências para a sua recitação."
-  },
-  "howToPray": {
-    "en": "For each of the seven sorrows, announce the mystery, meditate briefly, and pray seven Hail Marys. A variant selects the meditation style.",
-    "pt-BR": "Para cada uma das sete dores, anuncie o mistério, medite brevemente e reze sete Ave Marias. Uma variante seleciona o estilo de meditação."
-  },
-  "flowMode": "scroll",
-  "completion": "flow-end",
-  "flows": [
-    { "id": "default", "name": { "en": "Seven Sorrows", "pt-BR": "Sete Dores" }, "file": "flow.json" }
-  ],
-  "variants": [
-    {
-      "id": "traditional",
-      "name": { "en": "Traditional Meditations", "pt-BR": "Meditações Tradicionais" },
-      "description": {
-        "en": "Classic meditations on each of Our Lady's seven sorrows",
-        "pt-BR": "Meditações clássicas sobre cada uma das sete dores de Nossa Senhora"
-      },
-      "file": "variants/traditional.json"
-    },
-    {
-      "id": "scriptural",
-      "name": { "en": "Scriptural Meditations", "pt-BR": "Meditações Bíblicas" },
-      "description": {
-        "en": "Scripture-based meditations for each sorrow",
-        "pt-BR": "Meditações baseadas nas Escrituras para cada dor"
-      },
-      "file": "variants/scriptural.json"
-    }
-  ],
-  "tags": ["marian", "seven-sorrows", "chaplet", "passion"],
-  "defaults": {
-    "sortOrder": 23,
-    "slots": [
-      { "flowId": "default", "schedule": { "type": "daily" }, "tier": "extra", "enabled": false }
-    ]
-  }
+	"id": "seven-sorrows",
+	"icon": "mary",
+	"name": {
+		"en-US": "Chaplet of the Seven Sorrows",
+		"pt-BR": "Coroa das Sete Dores"
+	},
+	"categories": [
+		"marian",
+		"chaplet",
+		"meditation",
+		"passion"
+	],
+	"estimatedMinutes": 25,
+	"description": {
+		"en-US": "A Marian devotion meditating on the seven great sorrows of the Blessed Virgin Mary, praying seven times seven Hail Marys.",
+		"pt-BR": "Uma devoção mariana que medita sobre as sete grandes dores da Santíssima Virgem Maria, rezando sete vezes sete Ave Marias."
+	},
+	"history": {
+		"en-US": "This devotion was spread by the Servite Order in the 13th century. Pope Pius VII approved it in 1815 and granted indulgences for its recitation.",
+		"pt-BR": "Esta devoção foi difundida pela Ordem dos Servitas no século XIII. O Papa Pio VII a aprovou em 1815 e concedeu indulgências para a sua recitação."
+	},
+	"howToPray": {
+		"en-US": "For each of the seven sorrows, announce the mystery, meditate briefly, and pray seven Hail Marys. A variant selects the meditation style.",
+		"pt-BR": "Para cada uma das sete dores, anuncie o mistério, medite brevemente e reze sete Ave Marias. Uma variante seleciona o estilo de meditação."
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flows": [
+		{
+			"id": "default",
+			"name": {
+				"en-US": "Seven Sorrows",
+				"pt-BR": "Sete Dores"
+			},
+			"file": "flow.json"
+		}
+	],
+	"variants": [
+		{
+			"id": "traditional",
+			"name": {
+				"en-US": "Traditional Meditations",
+				"pt-BR": "Meditações Tradicionais"
+			},
+			"description": {
+				"en-US": "Classic meditations on each of Our Lady's seven sorrows",
+				"pt-BR": "Meditações clássicas sobre cada uma das sete dores de Nossa Senhora"
+			},
+			"file": "variants/traditional.json"
+		},
+		{
+			"id": "scriptural",
+			"name": {
+				"en-US": "Scriptural Meditations",
+				"pt-BR": "Meditações Bíblicas"
+			},
+			"description": {
+				"en-US": "Scripture-based meditations for each sorrow",
+				"pt-BR": "Meditações baseadas nas Escrituras para cada dor"
+			},
+			"file": "variants/scriptural.json"
+		}
+	],
+	"tags": [
+		"marian",
+		"seven-sorrows",
+		"chaplet",
+		"passion"
+	],
+	"defaults": {
+		"sortOrder": 23,
+		"slots": [
+			{
+				"flowId": "default",
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
 }

@@ -1,13 +1,12 @@
-import { format } from 'date-fns'
-import { useMemo } from 'react'
-
-import { useYearCalendar } from '@/features/calendar'
-import { usePreferencesStore } from '@/stores/preferencesStore'
 import {
   type DayObligations,
   getDayObligations,
   type LiturgicalCalendarForm,
 } from '@ember/liturgical'
+import { format } from 'date-fns'
+import { useMemo } from 'react'
+import { useYearCalendar } from '@/features/calendar'
+import { usePreferencesStore } from '@/stores/preferencesStore'
 
 export function useObligations(date: Date): DayObligations | undefined {
   const form = usePreferencesStore((s) => s.liturgicalCalendar) as LiturgicalCalendarForm

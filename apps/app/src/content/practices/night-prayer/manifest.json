@@ -1,31 +1,56 @@
 {
-  "id": "night-prayer",
-  "icon": "prayer",
-  "name": { "en": "Night Prayer", "pt-BR": "Oração da Noite" },
-  "categories": ["daily"],
-  "estimatedMinutes": 5,
-  "description": {
-    "en": "A brief evening prayer that closes the day in God's presence. It includes a short examination of conscience, an Act of Contrition, the Guardian Angel prayer, and a consecration of the night — committing body and soul to God's care before sleep.",
-    "pt-BR": "Uma breve oração noturna que encerra o dia na presença de Deus. Inclui um breve exame de consciência, um Ato de Contrição, a oração ao Anjo da Guarda e uma consagração da noite — entregando corpo e alma aos cuidados de Deus antes do sono."
-  },
-  "history": {
-    "en": "Evening prayer has been part of Christian life from the earliest centuries. The Church has always closed the day with Compline, the night hour of the Divine Office. This shorter form draws on the same tradition, incorporating the Church's practice of a nightly examination of conscience (commended by St. John Chrysostom and many Fathers), the Guardian Angel devotion, and the beautiful Catholic tradition of commending oneself to God before sleep — echoing Christ's own words from the Cross: 'Into Thy hands I commend my spirit.'",
-    "pt-BR": "A oração noturna faz parte da vida cristã desde os primeiros séculos. A Igreja sempre encerrou o dia com Completas, a hora noturna do Ofício Divino. Esta forma mais breve se apoia na mesma tradição, incorporando a prática eclesial do exame de consciência noturno (recomendado por São João Crisóstomo e muitos Padres), a devoção ao Anjo da Guarda e a bela tradição católica de se encomendar a Deus antes do sono."
-  },
-  "howToPray": {
-    "en": "Pray this after your examination of conscience or just before bed. Move through each part slowly, without rushing. The brief review of the day need only take a minute. Then give thanks, make an act of contrition, and entrust yourself to God and your guardian angel for the night.",
-    "pt-BR": "Reze após o exame de consciência ou logo antes de dormir. Percorra cada parte devagar, sem pressa. A breve revisão do dia precisa durar apenas um minuto. Depois, dê graças, faça um ato de contrição e entregue-se a Deus e ao seu anjo da guarda para a noite."
-  },
-  "flowMode": "scroll",
-  "completion": "flow-end",
-  "flows": [
-    { "id": "default", "name": { "en": "Night Prayer", "pt-BR": "Oração da Noite" }, "file": "flow.json" }
-  ],
-  "tags": ["evening", "night", "daily", "contrition", "guardian-angel"],
-  "defaults": {
-    "sortOrder": 6,
-    "slots": [
-      { "flowId": "default", "schedule": { "type": "daily" }, "time": "21:30", "tier": "essential" }
-    ]
-  }
+	"id": "night-prayer",
+	"icon": "prayer",
+	"name": {
+		"en-US": "Night Prayer",
+		"pt-BR": "Oração da Noite"
+	},
+	"categories": [
+		"daily"
+	],
+	"estimatedMinutes": 5,
+	"description": {
+		"en-US": "A brief evening prayer that closes the day in God's presence. It includes a short examination of conscience, an Act of Contrition, the Guardian Angel prayer, and a consecration of the night — committing body and soul to God's care before sleep.",
+		"pt-BR": "Uma breve oração noturna que encerra o dia na presença de Deus. Inclui um breve exame de consciência, um Ato de Contrição, a oração ao Anjo da Guarda e uma consagração da noite — entregando corpo e alma aos cuidados de Deus antes do sono."
+	},
+	"history": {
+		"en-US": "Evening prayer has been part of Christian life from the earliest centuries. The Church has always closed the day with Compline, the night hour of the Divine Office. This shorter form draws on the same tradition, incorporating the Church's practice of a nightly examination of conscience (commended by St. John Chrysostom and many Fathers), the Guardian Angel devotion, and the beautiful Catholic tradition of commending oneself to God before sleep — echoing Christ's own words from the Cross: 'Into Thy hands I commend my spirit.'",
+		"pt-BR": "A oração noturna faz parte da vida cristã desde os primeiros séculos. A Igreja sempre encerrou o dia com Completas, a hora noturna do Ofício Divino. Esta forma mais breve se apoia na mesma tradição, incorporando a prática eclesial do exame de consciência noturno (recomendado por São João Crisóstomo e muitos Padres), a devoção ao Anjo da Guarda e a bela tradição católica de se encomendar a Deus antes do sono."
+	},
+	"howToPray": {
+		"en-US": "Pray this after your examination of conscience or just before bed. Move through each part slowly, without rushing. The brief review of the day need only take a minute. Then give thanks, make an act of contrition, and entrust yourself to God and your guardian angel for the night.",
+		"pt-BR": "Reze após o exame de consciência ou logo antes de dormir. Percorra cada parte devagar, sem pressa. A breve revisão do dia precisa durar apenas um minuto. Depois, dê graças, faça um ato de contrição e entregue-se a Deus e ao seu anjo da guarda para a noite."
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flows": [
+		{
+			"id": "default",
+			"name": {
+				"en-US": "Night Prayer",
+				"pt-BR": "Oração da Noite"
+			},
+			"file": "flow.json"
+		}
+	],
+	"tags": [
+		"evening",
+		"night",
+		"daily",
+		"contrition",
+		"guardian-angel"
+	],
+	"defaults": {
+		"sortOrder": 6,
+		"slots": [
+			{
+				"flowId": "default",
+				"schedule": {
+					"type": "daily"
+				},
+				"time": "21:30",
+				"tier": "essential"
+			}
+		]
+	}
 }

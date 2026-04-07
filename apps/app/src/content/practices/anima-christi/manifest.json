@@ -1,31 +1,57 @@
 {
-  "id": "anima-christi",
-  "icon": "eucharist",
-  "name": { "en": "Anima Christi", "pt-BR": "Alma de Cristo" },
-  "categories": ["eucharistic", "devotion", "daily"],
-  "estimatedMinutes": 2,
-  "description": {
-    "en": "The Anima Christi is an ancient prayer (14th century) addressed to Christ in the Blessed Sacrament, asking that His Soul, Body, Blood, and Passion sanctify, save, and strengthen the one who prays. It is traditionally prayed after receiving Holy Communion.",
-    "pt-BR": "A Alma de Cristo é uma oração antiga (século XIV) dirigida a Cristo no Santíssimo Sacramento, pedindo que Sua Alma, Corpo, Sangue e Paixão santifiquem, salvem e fortaleçam quem reza. É tradicionalmente rezada após receber a Sagrada Comunhão."
-  },
-  "history": {
-    "en": "The Anima Christi dates to the early 14th century and was widely popular before St. Ignatius of Loyola placed it at the beginning of his Spiritual Exercises (1548), ensuring its enduring fame. Though sometimes attributed to Ignatius, it predates him by at least two centuries. Pope John XXII (d. 1334) is sometimes credited with its composition.",
-    "pt-BR": "A Alma de Cristo data do início do século XIV e era amplamente popular antes de Santo Inácio de Loyola a colocar no início de seus Exercícios Espirituais (1548), garantindo sua fama duradoura. Embora às vezes atribuída a Inácio, ela o precede por pelo menos dois séculos. O Papa João XXII (m. 1334) é às vezes creditado com sua composição."
-  },
-  "howToPray": {
-    "en": "Pray slowly after receiving Holy Communion or during a visit to the Blessed Sacrament. Each invocation is a petition — let each one sink in before moving to the next.",
-    "pt-BR": "Reze devagar após receber a Sagrada Comunhão ou durante uma visita ao Santíssimo Sacramento. Cada invocação é uma petição — deixe cada uma penetrar antes de passar para a próxima."
-  },
-  "flowMode": "scroll",
-  "completion": "flow-end",
-  "flows": [
-    { "id": "default", "name": { "en": "Anima Christi", "pt-BR": "Alma de Cristo" }, "file": "flow.json" }
-  ],
-  "tags": ["eucharistic", "communion", "ignatian", "ancient"],
-  "defaults": {
-    "sortOrder": 37,
-    "slots": [
-      { "flowId": "default", "schedule": { "type": "daily" }, "tier": "extra", "enabled": false }
-    ]
-  }
+	"id": "anima-christi",
+	"icon": "eucharist",
+	"name": {
+		"en-US": "Anima Christi",
+		"pt-BR": "Alma de Cristo"
+	},
+	"categories": [
+		"eucharistic",
+		"devotion",
+		"daily"
+	],
+	"estimatedMinutes": 2,
+	"description": {
+		"en-US": "The Anima Christi is an ancient prayer (14th century) addressed to Christ in the Blessed Sacrament, asking that His Soul, Body, Blood, and Passion sanctify, save, and strengthen the one who prays. It is traditionally prayed after receiving Holy Communion.",
+		"pt-BR": "A Alma de Cristo é uma oração antiga (século XIV) dirigida a Cristo no Santíssimo Sacramento, pedindo que Sua Alma, Corpo, Sangue e Paixão santifiquem, salvem e fortaleçam quem reza. É tradicionalmente rezada após receber a Sagrada Comunhão."
+	},
+	"history": {
+		"en-US": "The Anima Christi dates to the early 14th century and was widely popular before St. Ignatius of Loyola placed it at the beginning of his Spiritual Exercises (1548), ensuring its enduring fame. Though sometimes attributed to Ignatius, it predates him by at least two centuries. Pope John XXII (d. 1334) is sometimes credited with its composition.",
+		"pt-BR": "A Alma de Cristo data do início do século XIV e era amplamente popular antes de Santo Inácio de Loyola a colocar no início de seus Exercícios Espirituais (1548), garantindo sua fama duradoura. Embora às vezes atribuída a Inácio, ela o precede por pelo menos dois séculos. O Papa João XXII (m. 1334) é às vezes creditado com sua composição."
+	},
+	"howToPray": {
+		"en-US": "Pray slowly after receiving Holy Communion or during a visit to the Blessed Sacrament. Each invocation is a petition — let each one sink in before moving to the next.",
+		"pt-BR": "Reze devagar após receber a Sagrada Comunhão ou durante uma visita ao Santíssimo Sacramento. Cada invocação é uma petição — deixe cada uma penetrar antes de passar para a próxima."
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flows": [
+		{
+			"id": "default",
+			"name": {
+				"en-US": "Anima Christi",
+				"pt-BR": "Alma de Cristo"
+			},
+			"file": "flow.json"
+		}
+	],
+	"tags": [
+		"eucharistic",
+		"communion",
+		"ignatian",
+		"ancient"
+	],
+	"defaults": {
+		"sortOrder": 37,
+		"slots": [
+			{
+				"flowId": "default",
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
 }

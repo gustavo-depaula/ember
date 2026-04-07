@@ -1,50 +1,62 @@
 {
-  "id": "bible-catechism-in-year",
-  "icon": "book",
-  "name": {
-    "en": "Bible + Catechism in a Year",
-    "pt-BR": "Bíblia + Catecismo em um Ano"
-  },
-  "categories": ["formation"],
-  "estimatedMinutes": 25,
-  "description": {
-    "en": "Read through the entire Bible and Catechism in one year with four daily readings: Old Testament, Psalms & Wisdom, New Testament, and the Catechism.",
-    "pt-BR": "Leia toda a Bíblia e o Catecismo em um ano com quatro leituras diárias: Antigo Testamento, Salmos e Sabedoria, Novo Testamento e o Catecismo."
-  },
-  "history": {
-    "en": "Published by the Coming Home Network International (CHResources, © 2013), this 365-day plan distributes Sacred Scripture and the Catechism of the Catholic Church across four daily tracks. Inspired by St. Jerome's maxim — 'Ignorance of the Scriptures is ignorance of Christ' — the plan pairs continuous Old Testament and New Testament reading with the Psalms and Wisdom books, so that after one year you will have read every word of Scripture and the Church's universal Catechism.",
-    "pt-BR": "Publicado pela Coming Home Network International (CHResources, © 2013), este plano de 365 dias distribui a Sagrada Escritura e o Catecismo da Igreja Católica em quatro trilhas diárias. Inspirado no lema de São Jerônimo — 'A ignorância das Escrituras é a ignorância de Cristo' — o plano combina a leitura contínua do Antigo e Novo Testamento com os Salmos e os livros Sapienciais, de modo que após um ano você terá lido toda a Escritura e o Catecismo universal da Igreja."
-  },
-  "howToPray": {
-    "en": "Begin with the Sign of the Cross and a short prayer to the Holy Spirit, such as: 'Come, Holy Spirit, fill the hearts of your faithful and kindle in them the fire of your love.' Then read each of the four daily portions attentively. When finished, meditate silently for a moment on what you have read and respond in prayer. Completing the day's reading advances your progress in all four tracks.",
-    "pt-BR": "Comece com o Sinal da Cruz e uma breve oração ao Espírito Santo, como: 'Vem, Espírito Santo, enche os corações dos teus fiéis e acende neles o fogo do teu amor.' Em seguida, leia cada uma das quatro porções diárias com atenção. Ao terminar, medite em silêncio por um momento sobre o que leu e responda em oração. Completar a leitura do dia avança seu progresso nas quatro trilhas."
-  },
-  "tracks": {
-    "ot-reading": "data/ot-reading.json",
-    "wisdom-reading": "data/wisdom-reading.json",
-    "nt-reading": "data/nt-reading.json",
-    "ccc-reading": "data/ccc-reading.json"
-  },
-  "flowMode": "scroll",
-  "completion": "flow-end",
-  "flows": [
-    {
-      "id": "default",
-      "name": { "en": "Daily Readings", "pt-BR": "Leituras Diárias" },
-      "file": "flow.json"
-    }
-  ],
-  "tags": ["bible", "catechism", "formation", "reading-plan"],
-  "defaults": {
-    "sortOrder": 20,
-    "slots": [
-      {
-        "flowId": "default",
-        "schedule": { "type": "daily" },
-        "time": "07:00",
-        "tier": "ideal",
-        "enabled": false
-      }
-    ]
-  }
+	"id": "bible-catechism-in-year",
+	"icon": "book",
+	"name": {
+		"en-US": "Bible + Catechism in a Year",
+		"pt-BR": "Bíblia + Catecismo em um Ano"
+	},
+	"categories": [
+		"formation"
+	],
+	"estimatedMinutes": 25,
+	"description": {
+		"en-US": "Read through the entire Bible and Catechism in one year with four daily readings: Old Testament, Psalms & Wisdom, New Testament, and the Catechism.",
+		"pt-BR": "Leia toda a Bíblia e o Catecismo em um ano com quatro leituras diárias: Antigo Testamento, Salmos e Sabedoria, Novo Testamento e o Catecismo."
+	},
+	"history": {
+		"en-US": "Published by the Coming Home Network International (CHResources, © 2013), this 365-day plan distributes Sacred Scripture and the Catechism of the Catholic Church across four daily tracks. Inspired by St. Jerome's maxim — 'Ignorance of the Scriptures is ignorance of Christ' — the plan pairs continuous Old Testament and New Testament reading with the Psalms and Wisdom books, so that after one year you will have read every word of Scripture and the Church's universal Catechism.",
+		"pt-BR": "Publicado pela Coming Home Network International (CHResources, © 2013), este plano de 365 dias distribui a Sagrada Escritura e o Catecismo da Igreja Católica em quatro trilhas diárias. Inspirado no lema de São Jerônimo — 'A ignorância das Escrituras é a ignorância de Cristo' — o plano combina a leitura contínua do Antigo e Novo Testamento com os Salmos e os livros Sapienciais, de modo que após um ano você terá lido toda a Escritura e o Catecismo universal da Igreja."
+	},
+	"howToPray": {
+		"en-US": "Begin with the Sign of the Cross and a short prayer to the Holy Spirit, such as: 'Come, Holy Spirit, fill the hearts of your faithful and kindle in them the fire of your love.' Then read each of the four daily portions attentively. When finished, meditate silently for a moment on what you have read and respond in prayer. Completing the day's reading advances your progress in all four tracks.",
+		"pt-BR": "Comece com o Sinal da Cruz e uma breve oração ao Espírito Santo, como: 'Vem, Espírito Santo, enche os corações dos teus fiéis e acende neles o fogo do teu amor.' Em seguida, leia cada uma das quatro porções diárias com atenção. Ao terminar, medite em silêncio por um momento sobre o que leu e responda em oração. Completar a leitura do dia avança seu progresso nas quatro trilhas."
+	},
+	"tracks": {
+		"ot-reading": "data/ot-reading.json",
+		"wisdom-reading": "data/wisdom-reading.json",
+		"nt-reading": "data/nt-reading.json",
+		"ccc-reading": "data/ccc-reading.json"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flows": [
+		{
+			"id": "default",
+			"name": {
+				"en-US": "Daily Readings",
+				"pt-BR": "Leituras Diárias"
+			},
+			"file": "flow.json"
+		}
+	],
+	"tags": [
+		"bible",
+		"catechism",
+		"formation",
+		"reading-plan"
+	],
+	"defaults": {
+		"sortOrder": 20,
+		"slots": [
+			{
+				"flowId": "default",
+				"schedule": {
+					"type": "daily"
+				},
+				"time": "07:00",
+				"tier": "ideal",
+				"enabled": false
+			}
+		]
+	}
 }

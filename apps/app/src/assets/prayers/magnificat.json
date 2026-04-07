@@ -1,8 +1,15 @@
 {
-	"title": "Magnificat",
-	"subtitle": "Canticle of Mary",
-	"source": "Luke 1:46-55",
-	"usage": "Evening Prayer (Vespers), after the psalmody",
-	"english": "My soul doth magnify the Lord.\nAnd my spirit hath rejoiced in God my Saviour.\nBecause he hath regarded the humility of his handmaid;\nfor behold from henceforth all generations shall call me blessed.\nBecause he that is mighty, hath done great things to me;\nand holy is his name.\nAnd his mercy is from generation unto generations,\nto them that fear him.\nHe hath shewed might in his arm:\nhe hath scattered the proud in the conceit of their heart.\nHe hath put down the mighty from their seat,\nand hath exalted the humble.\nHe hath filled the hungry with good things;\nand the rich he hath sent empty away.\nHe hath received Israel his servant,\nbeing mindful of his mercy:\nAs he spoke to our fathers,\nto Abraham and to his seed for ever.",
-	"portuguese": "A minha alma engrandece o Senhor,\ne o meu espírito se alegra em Deus, meu Salvador,\nporque olhou para a humildade da sua serva.\nDoravante todas as gerações me chamarão bem-aventurada,\nporque o Poderoso fez grandes coisas em meu favor:\nSanto é o seu nome.\nA sua misericórdia se estende de geração em geração\nsobre os que o temem.\nManifestou o poder do seu braço\ne dispersou os soberbos de coração.\nDerrubou os poderosos de seus tronos\ne exaltou os humildes.\nAos famintos encheu de bens\ne aos ricos despediu de mãos vazias.\nAcolheu Israel, seu servo,\nlembrado da sua misericórdia,\ncomo havia prometido a nossos pais,\na Abraão e à sua descendência, para sempre."
+	"title": {
+		"en-US": "Magnificat"
+	},
+	"subtitle": {
+		"en-US": "Canticle of Mary"
+	},
+	"source": {
+		"en-US": "Luke 1:46-55"
+	},
+	"body": {
+		"en-US": "My soul doth magnify the Lord.\nAnd my spirit hath rejoiced in God my Saviour.\nBecause he hath regarded the humility of his handmaid;\nfor behold from henceforth all generations shall call me blessed.\nBecause he that is mighty, hath done great things to me;\nand holy is his name.\nAnd his mercy is from generation unto generations,\nto them that fear him.\nHe hath shewed might in his arm:\nhe hath scattered the proud in the conceit of their heart.\nHe hath put down the mighty from their seat,\nand hath exalted the humble.\nHe hath filled the hungry with good things;\nand the rich he hath sent empty away.\nHe hath received Israel his servant,\nbeing mindful of his mercy:\nAs he spoke to our fathers,\nto Abraham and to his seed for ever.",
+		"pt-BR": "A minha alma engrandece o Senhor,\ne o meu espírito se alegra em Deus, meu Salvador,\nporque olhou para a humildade da sua serva.\nDoravante todas as gerações me chamarão bem-aventurada,\nporque o Poderoso fez grandes coisas em meu favor:\nSanto é o seu nome.\nA sua misericórdia se estende de geração em geração\nsobre os que o temem.\nManifestou o poder do seu braço\ne dispersou os soberbos de coração.\nDerrubou os poderosos de seus tronos\ne exaltou os humildes.\nAos famintos encheu de bens\ne aos ricos despediu de mãos vazias.\nAcolheu Israel, seu servo,\nlembrado da sua misericórdia,\ncomo havia prometido a nossos pais,\na Abraão e à sua descendência, para sempre."
+	}
 }

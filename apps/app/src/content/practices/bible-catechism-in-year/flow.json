@@ -1,15 +1,57 @@
 {
-  "sections": [
-    { "type": "subheading", "text": { "en": "Old Testament", "pt-BR": "Antigo Testamento" } },
-    { "type": "lectio", "track": "ot-reading" },
-    { "type": "divider" },
-    { "type": "subheading", "text": { "en": "Psalms & Wisdom", "pt-BR": "Salmos e Sabedoria" } },
-    { "type": "lectio", "track": "wisdom-reading" },
-    { "type": "divider" },
-    { "type": "subheading", "text": { "en": "New Testament", "pt-BR": "Novo Testamento" } },
-    { "type": "lectio", "track": "nt-reading" },
-    { "type": "divider" },
-    { "type": "subheading", "text": { "en": "Catechism", "pt-BR": "Catecismo" } },
-    { "type": "lectio", "track": "ccc-reading" }
-  ]
+	"sections": [
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "Old Testament",
+				"pt-BR": "Antigo Testamento"
+			}
+		},
+		{
+			"type": "lectio",
+			"track": "ot-reading"
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "Psalms & Wisdom",
+				"pt-BR": "Salmos e Sabedoria"
+			}
+		},
+		{
+			"type": "lectio",
+			"track": "wisdom-reading"
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "New Testament",
+				"pt-BR": "Novo Testamento"
+			}
+		},
+		{
+			"type": "lectio",
+			"track": "nt-reading"
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "Catechism",
+				"pt-BR": "Catecismo"
+			}
+		},
+		{
+			"type": "lectio",
+			"track": "ccc-reading"
+		}
+	]
 }

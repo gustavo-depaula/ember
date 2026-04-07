@@ -1,51 +1,178 @@
 {
-  "id": "little-office-bvm",
-  "icon": "mary",
-  "name": {
-    "en": "Little Office of the BVM",
-    "pt-BR": "Pequeno Of\u00edcio de Nossa Senhora"
-  },
-  "categories": ["marian"],
-  "estimatedMinutes": 15,
-  "description": {
-    "en": "A shortened form of the Divine Office dedicated to the Blessed Virgin Mary. Simpler and more accessible than the full Liturgy of the Hours, it has been the daily prayer of countless religious communities and lay faithful for over a thousand years.",
-    "pt-BR": "Uma forma abreviada do Of\u00edcio Divino dedicada \u00e0 Sant\u00edssima Virgem Maria. Mais simples e acess\u00edvel que a Liturgia das Horas completa, tem sido a ora\u00e7\u00e3o di\u00e1ria de in\u00fameras comunidades religiosas e fi\u00e9is leigos por mais de mil anos."
-  },
-  "history": {
-    "en": "The Little Office of the Blessed Virgin Mary dates to the 8th century and became widespread in monastic life by the 10th century. It was required daily for all members of many religious orders and was widely prayed by the laity. The Council of Clermont (1095) prescribed it for all clerics. It follows the structure of the Divine Office but with fixed psalms and readings honoring Our Lady, making it simpler to pray without a complex calendar.",
-    "pt-BR": "O Pequeno Of\u00edcio da Sant\u00edssima Virgem Maria remonta ao s\u00e9culo VIII e tornou-se amplamente difundido na vida mon\u00e1stica no s\u00e9culo X. Era obrigat\u00f3rio diariamente para todos os membros de muitas ordens religiosas e amplamente rezado pelos leigos. O Conc\u00edlio de Clermont (1095) o prescreveu para todos os cl\u00e9rigos. Segue a estrutura do Of\u00edcio Divino, mas com salmos e leituras fixas em honra de Nossa Senhora, tornando-o mais simples de rezar sem um calend\u00e1rio complexo."
-  },
-  "howToPray": {
-    "en": "Choose the hour that corresponds to the current time of day. The eight canonical hours span the entire day: Matins (night/early morning), Lauds (dawn), Prime (early morning), Terce (mid-morning), Sext (midday), None (mid-afternoon), Vespers (evening), and Compline (night). Each hour follows the traditional structure: opening verse, hymn, psalmody, Scripture reading, canticle, and closing prayer. For a simpler practice, focus on Lauds (morning), Vespers (evening), and Compline (night).",
-    "pt-BR": "Escolha a hora que corresponde ao momento atual do dia. As oito horas can\u00f4nicas abrangem o dia inteiro: Matinas (noite/madrugada), Laudes (aurora), Prima (in\u00edcio da manh\u00e3), Ter\u00e7a (meio da manh\u00e3), Sexta (meio-dia), Noa (meio da tarde), V\u00e9speras (tarde) e Completas (noite). Cada hora segue a estrutura tradicional: vers\u00edculo de abertura, hino, salm\u00f3dia, leitura b\u00edblica, c\u00e2ntico e ora\u00e7\u00e3o final. Para uma pr\u00e1tica mais simples, concentre-se em Laudes (manh\u00e3), V\u00e9speras (tarde) e Completas (noite)."
-  },
-  "data": {
-    "office-hymns": "../divine-office/data/office-hymns.json"
-  },
-  "flowMode": "scroll",
-  "completion": "flow-end",
-  "flows": [
-    { "id": "matins", "name": { "en": "Matins", "pt-BR": "Matinas" }, "file": "flows/matins.json", "timeBlock": "morning" },
-    { "id": "lauds", "name": { "en": "Lauds", "pt-BR": "Laudes" }, "file": "flows/lauds.json", "timeBlock": "morning" },
-    { "id": "prime", "name": { "en": "Prime", "pt-BR": "Prima" }, "file": "flows/prime.json", "timeBlock": "morning" },
-    { "id": "terce", "name": { "en": "Terce", "pt-BR": "Terça" }, "file": "flows/terce.json", "timeBlock": "daytime" },
-    { "id": "sext", "name": { "en": "Sext", "pt-BR": "Sexta" }, "file": "flows/sext.json", "timeBlock": "daytime" },
-    { "id": "none", "name": { "en": "None", "pt-BR": "Noa" }, "file": "flows/none.json", "timeBlock": "daytime" },
-    { "id": "vespers", "name": { "en": "Vespers", "pt-BR": "Vésperas" }, "file": "flows/vespers.json", "timeBlock": "evening" },
-    { "id": "compline", "name": { "en": "Compline", "pt-BR": "Completas" }, "file": "flows/compline.json", "timeBlock": "evening" }
-  ],
-  "tags": ["marian", "office", "bvm", "breviary"],
-  "defaults": {
-    "sortOrder": 18,
-    "slots": [
-      { "flowId": "matins", "schedule": { "type": "daily" }, "tier": "extra", "enabled": false },
-      { "flowId": "lauds", "schedule": { "type": "daily" }, "tier": "extra", "enabled": false },
-      { "flowId": "prime", "schedule": { "type": "daily" }, "tier": "extra", "enabled": false },
-      { "flowId": "terce", "schedule": { "type": "daily" }, "tier": "extra", "enabled": false },
-      { "flowId": "sext", "schedule": { "type": "daily" }, "tier": "extra", "enabled": false },
-      { "flowId": "none", "schedule": { "type": "daily" }, "tier": "extra", "enabled": false },
-      { "flowId": "vespers", "schedule": { "type": "daily" }, "tier": "extra", "enabled": false },
-      { "flowId": "compline", "schedule": { "type": "daily" }, "tier": "extra", "enabled": false }
-    ]
-  }
+	"id": "little-office-bvm",
+	"icon": "mary",
+	"name": {
+		"en-US": "Little Office of the BVM",
+		"pt-BR": "Pequeno Ofício de Nossa Senhora"
+	},
+	"categories": [
+		"marian"
+	],
+	"estimatedMinutes": 15,
+	"description": {
+		"en-US": "A shortened form of the Divine Office dedicated to the Blessed Virgin Mary. Simpler and more accessible than the full Liturgy of the Hours, it has been the daily prayer of countless religious communities and lay faithful for over a thousand years.",
+		"pt-BR": "Uma forma abreviada do Ofício Divino dedicada à Santíssima Virgem Maria. Mais simples e acessível que a Liturgia das Horas completa, tem sido a oração diária de inúmeras comunidades religiosas e fiéis leigos por mais de mil anos."
+	},
+	"history": {
+		"en-US": "The Little Office of the Blessed Virgin Mary dates to the 8th century and became widespread in monastic life by the 10th century. It was required daily for all members of many religious orders and was widely prayed by the laity. The Council of Clermont (1095) prescribed it for all clerics. It follows the structure of the Divine Office but with fixed psalms and readings honoring Our Lady, making it simpler to pray without a complex calendar.",
+		"pt-BR": "O Pequeno Ofício da Santíssima Virgem Maria remonta ao século VIII e tornou-se amplamente difundido na vida monástica no século X. Era obrigatório diariamente para todos os membros de muitas ordens religiosas e amplamente rezado pelos leigos. O Concílio de Clermont (1095) o prescreveu para todos os clérigos. Segue a estrutura do Ofício Divino, mas com salmos e leituras fixas em honra de Nossa Senhora, tornando-o mais simples de rezar sem um calendário complexo."
+	},
+	"howToPray": {
+		"en-US": "Choose the hour that corresponds to the current time of day. The eight canonical hours span the entire day: Matins (night/early morning), Lauds (dawn), Prime (early morning), Terce (mid-morning), Sext (midday), None (mid-afternoon), Vespers (evening), and Compline (night). Each hour follows the traditional structure: opening verse, hymn, psalmody, Scripture reading, canticle, and closing prayer. For a simpler practice, focus on Lauds (morning), Vespers (evening), and Compline (night).",
+		"pt-BR": "Escolha a hora que corresponde ao momento atual do dia. As oito horas canônicas abrangem o dia inteiro: Matinas (noite/madrugada), Laudes (aurora), Prima (início da manhã), Terça (meio da manhã), Sexta (meio-dia), Noa (meio da tarde), Vésperas (tarde) e Completas (noite). Cada hora segue a estrutura tradicional: versículo de abertura, hino, salmódia, leitura bíblica, cântico e oração final. Para uma prática mais simples, concentre-se em Laudes (manhã), Vésperas (tarde) e Completas (noite)."
+	},
+	"data": {
+		"office-hymns": "../divine-office/data/office-hymns.json"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flows": [
+		{
+			"id": "matins",
+			"name": {
+				"en-US": "Matins",
+				"pt-BR": "Matinas"
+			},
+			"file": "flows/matins.json",
+			"timeBlock": "morning"
+		},
+		{
+			"id": "lauds",
+			"name": {
+				"en-US": "Lauds",
+				"pt-BR": "Laudes"
+			},
+			"file": "flows/lauds.json",
+			"timeBlock": "morning"
+		},
+		{
+			"id": "prime",
+			"name": {
+				"en-US": "Prime",
+				"pt-BR": "Prima"
+			},
+			"file": "flows/prime.json",
+			"timeBlock": "morning"
+		},
+		{
+			"id": "terce",
+			"name": {
+				"en-US": "Terce",
+				"pt-BR": "Terça"
+			},
+			"file": "flows/terce.json",
+			"timeBlock": "daytime"
+		},
+		{
+			"id": "sext",
+			"name": {
+				"en-US": "Sext",
+				"pt-BR": "Sexta"
+			},
+			"file": "flows/sext.json",
+			"timeBlock": "daytime"
+		},
+		{
+			"id": "none",
+			"name": {
+				"en-US": "None",
+				"pt-BR": "Noa"
+			},
+			"file": "flows/none.json",
+			"timeBlock": "daytime"
+		},
+		{
+			"id": "vespers",
+			"name": {
+				"en-US": "Vespers",
+				"pt-BR": "Vésperas"
+			},
+			"file": "flows/vespers.json",
+			"timeBlock": "evening"
+		},
+		{
+			"id": "compline",
+			"name": {
+				"en-US": "Compline",
+				"pt-BR": "Completas"
+			},
+			"file": "flows/compline.json",
+			"timeBlock": "evening"
+		}
+	],
+	"tags": [
+		"marian",
+		"office",
+		"bvm",
+		"breviary"
+	],
+	"defaults": {
+		"sortOrder": 18,
+		"slots": [
+			{
+				"flowId": "matins",
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			},
+			{
+				"flowId": "lauds",
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			},
+			{
+				"flowId": "prime",
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			},
+			{
+				"flowId": "terce",
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			},
+			{
+				"flowId": "sext",
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			},
+			{
+				"flowId": "none",
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			},
+			{
+				"flowId": "vespers",
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			},
+			{
+				"flowId": "compline",
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
 }

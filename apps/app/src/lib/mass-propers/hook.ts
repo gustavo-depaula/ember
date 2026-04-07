@@ -1,11 +1,10 @@
+import { getProperForSlot, type ProperSection } from '@ember/mass-propers'
 import { useQuery } from '@tanstack/react-query'
 import { format } from 'date-fns'
-
 import { useTodayCelebration } from '@/features/calendar/hooks'
 import { useToday } from '@/hooks/useToday'
 import { localizeContent } from '@/lib/i18n'
 import { usePreferencesStore } from '@/stores/preferencesStore'
-import { getProperForSlot, type ProperSection } from '@ember/mass-propers'
 import { fetchOfPropers } from './of/resolve'
 import * as propersData from './propers-data'
 

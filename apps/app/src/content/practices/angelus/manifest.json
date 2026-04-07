@@ -1,31 +1,56 @@
 {
-  "id": "angelus",
-  "icon": "bell",
-  "name": { "en": "Angelus", "pt-BR": "Angelus" },
-  "categories": ["daily", "marian"],
-  "estimatedMinutes": 3,
-  "flowMode": "scroll",
-  "completion": "flow-end",
-  "flows": [
-    { "id": "default", "name": { "en": "Angelus", "pt-BR": "Angelus" }, "file": "flow.json" }
-  ],
-  "description": {
-    "en": "A devotion commemorating the Incarnation, prayed three times daily (morning, noon, evening) at the sound of the Angelus bell. It recalls the angel Gabriel's announcement to Mary and her fiat.",
-    "pt-BR": "Uma devoção que comemora a Encarnação, rezada três vezes ao dia (manhã, meio-dia, noite) ao som do sino do Angelus. Recorda o anúncio do anjo Gabriel a Maria e seu fiat."
-  },
-  "history": {
-    "en": "The Angelus evolved gradually from monastic practices of the 11th–14th centuries. The evening bell commemorating the Incarnation appeared first, followed by the morning bell. Pope Callixtus III (1456) established the midday ringing to pray for deliverance during the Ottoman wars. By the 16th century, the three daily recitations with their versicles and responses had taken their current form. During Eastertide, the Angelus is traditionally replaced by the Regina Caeli.",
-    "pt-BR": "O Angelus evoluiu gradualmente das práticas monásticas dos séculos XI–XIV. O sino da noite comemorando a Encarnação apareceu primeiro, seguido pelo sino da manhã. O Papa Calisto III (1456) estabeleceu o toque do meio-dia para rezar pela libertação durante as guerras otomanas."
-  },
-  "howToPray": {
-    "en": "The Angelus follows a versicle-response pattern. A leader (or you, praying alone) says each versicle (V.), and the response (R.) follows. After each of the three versicle pairs, pray one Hail Mary. Conclude with the closing prayer. Traditionally prayed standing, with a bow at 'And the Word was made flesh.'",
-    "pt-BR": "O Angelus segue um padrão de versículo-resposta. Um líder (ou você, rezando sozinho) diz cada versículo (V.), e a resposta (R.) segue. Após cada um dos três pares de versículos, reze uma Ave-Maria. Conclua com a oração final."
-  },
-  "tags": ["marian", "angelus", "incarnation", "noon", "bell"],
-  "defaults": {
-    "sortOrder": 7,
-    "slots": [
-      { "flowId": "default", "schedule": { "type": "daily" }, "tier": "ideal" }
-    ]
-  }
+	"id": "angelus",
+	"icon": "bell",
+	"name": {
+		"en-US": "Angelus",
+		"pt-BR": "Angelus"
+	},
+	"categories": [
+		"daily",
+		"marian"
+	],
+	"estimatedMinutes": 3,
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flows": [
+		{
+			"id": "default",
+			"name": {
+				"en-US": "Angelus",
+				"pt-BR": "Angelus"
+			},
+			"file": "flow.json"
+		}
+	],
+	"description": {
+		"en-US": "A devotion commemorating the Incarnation, prayed three times daily (morning, noon, evening) at the sound of the Angelus bell. It recalls the angel Gabriel's announcement to Mary and her fiat.",
+		"pt-BR": "Uma devoção que comemora a Encarnação, rezada três vezes ao dia (manhã, meio-dia, noite) ao som do sino do Angelus. Recorda o anúncio do anjo Gabriel a Maria e seu fiat."
+	},
+	"history": {
+		"en-US": "The Angelus evolved gradually from monastic practices of the 11th–14th centuries. The evening bell commemorating the Incarnation appeared first, followed by the morning bell. Pope Callixtus III (1456) established the midday ringing to pray for deliverance during the Ottoman wars. By the 16th century, the three daily recitations with their versicles and responses had taken their current form. During Eastertide, the Angelus is traditionally replaced by the Regina Caeli.",
+		"pt-BR": "O Angelus evoluiu gradualmente das práticas monásticas dos séculos XI–XIV. O sino da noite comemorando a Encarnação apareceu primeiro, seguido pelo sino da manhã. O Papa Calisto III (1456) estabeleceu o toque do meio-dia para rezar pela libertação durante as guerras otomanas."
+	},
+	"howToPray": {
+		"en-US": "The Angelus follows a versicle-response pattern. A leader (or you, praying alone) says each versicle (V.), and the response (R.) follows. After each of the three versicle pairs, pray one Hail Mary. Conclude with the closing prayer. Traditionally prayed standing, with a bow at 'And the Word was made flesh.'",
+		"pt-BR": "O Angelus segue um padrão de versículo-resposta. Um líder (ou você, rezando sozinho) diz cada versículo (V.), e a resposta (R.) segue. Após cada um dos três pares de versículos, reze uma Ave-Maria. Conclua com a oração final."
+	},
+	"tags": [
+		"marian",
+		"angelus",
+		"incarnation",
+		"noon",
+		"bell"
+	],
+	"defaults": {
+		"sortOrder": 7,
+		"slots": [
+			{
+				"flowId": "default",
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "ideal"
+			}
+		]
+	}
 }

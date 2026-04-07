@@ -1,6 +1,12 @@
 {
-  "title": { "en": "Fatima Prayer", "pt-BR": "Oração de Fátima", "la": "Oratio Fatimensis" },
-  "latin": "O mi Iesu, dimítte nobis débita nostra,\nsalva nos ab igne inférni,\nperduc in cælum omnes ánimas,\npræsértim eas quæ misericórdiæ tuæ máxime indígent.",
-  "english": "O my Jesus, forgive us our sins,\nsave us from the fires of hell,\nlead all souls to heaven,\nespecially those most in need of thy mercy.",
-  "portuguese": "Ó meu Jesus, perdoai-nos,\nlivrai-nos do fogo do inferno,\nlevai as almas todas para o céu,\nprincipalmente aquelas que mais precisarem da vossa misericórdia."
+	"title": {
+		"en-US": "Fatima Prayer",
+		"pt-BR": "Oração de Fátima",
+		"la": "Oratio Fatimensis"
+	},
+	"body": {
+		"en-US": "O my Jesus, forgive us our sins,\nsave us from the fires of hell,\nlead all souls to heaven,\nespecially those most in need of thy mercy.",
+		"pt-BR": "Ó meu Jesus, perdoai-nos,\nlivrai-nos do fogo do inferno,\nlevai as almas todas para o céu,\nprincipalmente aquelas que mais precisarem da vossa misericórdia.",
+		"la": "O mi Iesu, dimítte nobis débita nostra,\nsalva nos ab igne inférni,\nperduc in cælum omnes ánimas,\npræsértim eas quæ misericórdiæ tuæ máxime indígent."
+	}
 }

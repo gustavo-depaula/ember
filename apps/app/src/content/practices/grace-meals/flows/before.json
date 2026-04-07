@@ -1,6 +1,12 @@
 {
-  "sections": [
-    { "type": "prayer", "ref": "sign-of-cross" },
-    { "type": "prayer", "ref": "grace-before-meals" }
-  ]
+	"sections": [
+		{
+			"type": "prayer",
+			"ref": "sign-of-cross"
+		},
+		{
+			"type": "prayer",
+			"ref": "grace-before-meals"
+		}
+	]
 }

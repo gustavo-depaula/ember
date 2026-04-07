@@ -1,57 +1,110 @@
 {
-  "id": "stations-cross",
-  "icon": "cross",
-  "name": { "en": "Stations of the Cross", "pt-BR": "Via Sacra" },
-  "categories": ["lenten", "meditation", "passion"],
-  "estimatedMinutes": 30,
-  "description": {
-    "en": "The Stations of the Cross is a devotion that commemorates the Passion of Jesus Christ by meditating on fourteen events from His condemnation to His burial. This ancient practice invites the faithful to walk with Christ on His journey to Calvary.",
-    "pt-BR": "A Via Sacra é uma devoção que comemora a Paixão de Jesus Cristo meditando sobre quatorze eventos desde Sua condenação até Seu sepultamento. Esta antiga prática convida os fiéis a caminhar com Cristo em Sua jornada ao Calvário."
-  },
-  "history": {
-    "en": "The devotion originated with pilgrims visiting Jerusalem who walked the route Christ took to Calvary. By the Middle Ages, the Franciscans had established fourteen stations in churches across Europe for those who could not travel to the Holy Land.",
-    "pt-BR": "A devoção originou-se com peregrinos que visitavam Jerusalém e percorriam o caminho que Cristo fez até o Calvário. Na Idade Média, os franciscanos estabeleceram quatorze estações em igrejas por toda a Europa para aqueles que não podiam viajar à Terra Santa."
-  },
-  "howToPray": {
-    "en": "At each station, genuflect or bow, announce the station, pray 'We adore You, O Christ...' and its response, read the meditation, then pray one Our Father, one Hail Mary, and one Glory Be before moving to the next station.",
-    "pt-BR": "Em cada estação, genuflita ou faça uma reverência, anuncie a estação, reze 'Nós Vos adoramos, ó Cristo...' e sua resposta, leia a meditação, depois reze um Pai Nosso, uma Ave Maria e um Glória ao Pai antes de passar à próxima estação."
-  },
-  "flowMode": "scroll",
-  "completion": "flow-end",
-  "flows": [
-    { "id": "default", "name": { "en": "Stations of the Cross", "pt-BR": "Via Sacra" }, "file": "flow.json" }
-  ],
-  "variants": [
-    {
-      "id": "traditional",
-      "name": { "en": "Traditional Meditations", "pt-BR": "Meditações Tradicionais" },
-      "description": { "en": "Classic meditations based on St. Alphonsus Liguori", "pt-BR": "Meditações clássicas baseadas em Santo Afonso de Ligório" },
-      "file": "variants/traditional.json"
-    },
-    {
-      "id": "scriptural",
-      "name": { "en": "Scriptural Meditations", "pt-BR": "Meditações Bíblicas" },
-      "description": { "en": "Scripture-based meditations for each station", "pt-BR": "Meditações baseadas nas Escrituras para cada estação" },
-      "file": "variants/scriptural.json"
-    },
-    {
-      "id": "jpii",
-      "name": { "en": "John Paul II's Way of the Cross", "pt-BR": "Via Sacra de João Paulo II" },
-      "description": { "en": "Scriptural stations established by Pope John Paul II in 1991", "pt-BR": "Estações bíblicas estabelecidas pelo Papa João Paulo II em 1991" },
-      "file": "variants/jpii.json"
-    },
-    {
-      "id": "franciscan",
-      "name": { "en": "Franciscan Meditations", "pt-BR": "Meditações Franciscanas" },
-      "description": { "en": "Meditations in the Franciscan tradition, contemplating the Passion with compassion — through the eyes of Mary and the spirit of St. Francis", "pt-BR": "Meditações na tradição franciscana, contemplando a Paixão com compaixão — pelos olhos de Maria e no espírito de São Francisco" },
-      "file": "variants/franciscan.json"
-    }
-  ],
-  "tags": ["passion", "lent", "meditation", "friday"],
-  "defaults": {
-    "sortOrder": 12,
-    "slots": [
-      { "flowId": "default", "schedule": { "type": "days-of-week", "days": [5] }, "tier": "extra", "enabled": false }
-    ]
-  }
+	"id": "stations-cross",
+	"icon": "cross",
+	"name": {
+		"en-US": "Stations of the Cross",
+		"pt-BR": "Via Sacra"
+	},
+	"categories": [
+		"lenten",
+		"meditation",
+		"passion"
+	],
+	"estimatedMinutes": 30,
+	"description": {
+		"en-US": "The Stations of the Cross is a devotion that commemorates the Passion of Jesus Christ by meditating on fourteen events from His condemnation to His burial. This ancient practice invites the faithful to walk with Christ on His journey to Calvary.",
+		"pt-BR": "A Via Sacra é uma devoção que comemora a Paixão de Jesus Cristo meditando sobre quatorze eventos desde Sua condenação até Seu sepultamento. Esta antiga prática convida os fiéis a caminhar com Cristo em Sua jornada ao Calvário."
+	},
+	"history": {
+		"en-US": "The devotion originated with pilgrims visiting Jerusalem who walked the route Christ took to Calvary. By the Middle Ages, the Franciscans had established fourteen stations in churches across Europe for those who could not travel to the Holy Land.",
+		"pt-BR": "A devoção originou-se com peregrinos que visitavam Jerusalém e percorriam o caminho que Cristo fez até o Calvário. Na Idade Média, os franciscanos estabeleceram quatorze estações em igrejas por toda a Europa para aqueles que não podiam viajar à Terra Santa."
+	},
+	"howToPray": {
+		"en-US": "At each station, genuflect or bow, announce the station, pray 'We adore You, O Christ...' and its response, read the meditation, then pray one Our Father, one Hail Mary, and one Glory Be before moving to the next station.",
+		"pt-BR": "Em cada estação, genuflita ou faça uma reverência, anuncie a estação, reze 'Nós Vos adoramos, ó Cristo...' e sua resposta, leia a meditação, depois reze um Pai Nosso, uma Ave Maria e um Glória ao Pai antes de passar à próxima estação."
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flows": [
+		{
+			"id": "default",
+			"name": {
+				"en-US": "Stations of the Cross",
+				"pt-BR": "Via Sacra"
+			},
+			"file": "flow.json"
+		}
+	],
+	"variants": [
+		{
+			"id": "traditional",
+			"name": {
+				"en-US": "Traditional Meditations",
+				"pt-BR": "Meditações Tradicionais"
+			},
+			"description": {
+				"en-US": "Classic meditations based on St. Alphonsus Liguori",
+				"pt-BR": "Meditações clássicas baseadas em Santo Afonso de Ligório"
+			},
+			"file": "variants/traditional.json"
+		},
+		{
+			"id": "scriptural",
+			"name": {
+				"en-US": "Scriptural Meditations",
+				"pt-BR": "Meditações Bíblicas"
+			},
+			"description": {
+				"en-US": "Scripture-based meditations for each station",
+				"pt-BR": "Meditações baseadas nas Escrituras para cada estação"
+			},
+			"file": "variants/scriptural.json"
+		},
+		{
+			"id": "jpii",
+			"name": {
+				"en-US": "John Paul II's Way of the Cross",
+				"pt-BR": "Via Sacra de João Paulo II"
+			},
+			"description": {
+				"en-US": "Scriptural stations established by Pope John Paul II in 1991",
+				"pt-BR": "Estações bíblicas estabelecidas pelo Papa João Paulo II em 1991"
+			},
+			"file": "variants/jpii.json"
+		},
+		{
+			"id": "franciscan",
+			"name": {
+				"en-US": "Franciscan Meditations",
+				"pt-BR": "Meditações Franciscanas"
+			},
+			"description": {
+				"en-US": "Meditations in the Franciscan tradition, contemplating the Passion with compassion — through the eyes of Mary and the spirit of St. Francis",
+				"pt-BR": "Meditações na tradição franciscana, contemplando a Paixão com compaixão — pelos olhos de Maria e no espírito de São Francisco"
+			},
+			"file": "variants/franciscan.json"
+		}
+	],
+	"tags": [
+		"passion",
+		"lent",
+		"meditation",
+		"friday"
+	],
+	"defaults": {
+		"sortOrder": 12,
+		"slots": [
+			{
+				"flowId": "default",
+				"schedule": {
+					"type": "days-of-week",
+					"days": [
+						5
+					]
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
 }

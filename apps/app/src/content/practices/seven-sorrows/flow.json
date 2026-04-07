@@ -1,52 +1,87 @@
 {
-  "sections": [
-    { "type": "prayer", "ref": "sign-of-cross" },
-    {
-      "type": "rubric",
-      "text": {
-        "en": "We begin with three Hail Marys in memory of the tears of the Blessed Virgin Mary.",
-        "pt-BR": "Começamos com três Ave-Marias em memória das lágrimas da Virgem Maria."
-      }
-    },
-    {
-      "type": "repeat",
-      "count": 3,
-      "sections": [{ "type": "prayer", "ref": "hail-mary" }]
-    },
-    { "type": "divider" },
-    {
-      "type": "repeat",
-      "count": 7,
-      "variable": { "source": "variant", "key": "sorrow" },
-      "sections": [
-        {
-          "type": "heading",
-          "text": { "en": "{{ordinal}} Sorrow: {{name}}", "pt-BR": "{{ordinal}} Dor: {{name}}" }
-        },
-        {
-          "type": "response",
-          "verses": [
-            {
-              "v": { "en": "We grieve for thee, O Mary, for this thy sorrow,", "pt-BR": "Condoemo-nos contigo, ó Maria, por esta tua dor," },
-              "r": { "en": "Have mercy on us and on the souls in Purgatory.", "pt-BR": "Tende piedade de nós e das almas do Purgatório." }
-            }
-          ]
-        },
-        { "type": "meditation", "text": { "en": "{{meditation}}", "pt-BR": "{{meditation}}" } },
-        {
-          "type": "repeat",
-          "count": 7,
-          "sections": [{ "type": "prayer", "ref": "hail-mary" }]
-        },
-        { "type": "divider" }
-      ]
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "en": "Queen of Martyrs, whose heart suffered so incomprehensible a sorrow, assist me in the trials of my life and at the hour of my death. Give me a tender compassion for the sufferings of others, and the grace of final perseverance. Amen.",
-        "pt-BR": "Rainha dos Mártires, cujo coração sofreu uma dor tão incompreensível, assisti-me nas tribulações desta vida e na hora da minha morte. Dai-me uma terna compaixão pelos sofrimentos alheios e a graça da perseverança final. Amém."
-      }
-    }
-  ]
+	"sections": [
+		{
+			"type": "prayer",
+			"ref": "sign-of-cross"
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "We begin with three Hail Marys in memory of the tears of the Blessed Virgin Mary.",
+				"pt-BR": "Começamos com três Ave-Marias em memória das lágrimas da Virgem Maria."
+			}
+		},
+		{
+			"type": "repeat",
+			"count": 3,
+			"sections": [
+				{
+					"type": "prayer",
+					"ref": "hail-mary"
+				}
+			]
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "repeat",
+			"count": 7,
+			"variable": {
+				"source": "variant",
+				"key": "sorrow"
+			},
+			"sections": [
+				{
+					"type": "heading",
+					"text": {
+						"en-US": "{{ordinal}} Sorrow: {{name}}",
+						"pt-BR": "{{ordinal}} Dor: {{name}}"
+					}
+				},
+				{
+					"type": "response",
+					"verses": [
+						{
+							"v": {
+								"en-US": "We grieve for thee, O Mary, for this thy sorrow,",
+								"pt-BR": "Condoemo-nos contigo, ó Maria, por esta tua dor,"
+							},
+							"r": {
+								"en-US": "Have mercy on us and on the souls in Purgatory.",
+								"pt-BR": "Tende piedade de nós e das almas do Purgatório."
+							}
+						}
+					]
+				},
+				{
+					"type": "meditation",
+					"text": {
+						"en-US": "{{meditation}}",
+						"pt-BR": "{{meditation}}"
+					}
+				},
+				{
+					"type": "repeat",
+					"count": 7,
+					"sections": [
+						{
+							"type": "prayer",
+							"ref": "hail-mary"
+						}
+					]
+				},
+				{
+					"type": "divider"
+				}
+			]
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Queen of Martyrs, whose heart suffered so incomprehensible a sorrow, assist me in the trials of my life and at the hour of my death. Give me a tender compassion for the sufferings of others, and the grace of final perseverance. Amen.",
+				"pt-BR": "Rainha dos Mártires, cujo coração sofreu uma dor tão incompreensível, assisti-me nas tribulações desta vida e na hora da minha morte. Dai-me uma terna compaixão pelos sofrimentos alheios e a graça da perseverança final. Amém."
+			}
+		}
+	]
 }

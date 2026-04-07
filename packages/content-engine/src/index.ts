@@ -1,5 +1,4 @@
 export {
-  type CanticleAsset,
   type EngineContext,
   type FlowContext,
   type PrayerAsset,
@@ -10,7 +9,7 @@ export type {
   FlowDefinition,
   FlowSection,
   LectioTrackDef,
-  LocalizedBilingualText,
+  LocalizedContent,
   LocalizedText,
   RenderedSection,
   Variant,

@@ -1,30 +1,42 @@
 {
-  "sections": [
-    {
-      "type": "rubric",
-      "text": {
-        "en": "After receiving Holy Communion, remain in quiet adoration. Let the following prayers draw you deeper into union with Christ.",
-        "pt-BR": "Após receber a Sagrada Comunhão, permaneça em adoração silenciosa. Deixe as orações a seguir aprofundarem sua união com Cristo."
-      }
-    },
-    { "type": "prayer", "ref": "anima-christi" },
-    { "type": "divider" },
-    {
-      "type": "prayer",
-      "inline": {
-        "en": "O Lord Jesus Christ, I adore You dwelling in my heart. I thank You for coming to me in this Holy Sacrament. You are truly present — Body, Blood, Soul, and Divinity — within me. Let me never forget this gift, and may every Communion draw me closer to You.\n\nMay this Holy Communion be for me a pledge of eternal life. Drive far from me all that offends You. May I grow in love and conformity to Your most holy will. Lord, remain with me, for without You I can do nothing.\nAmen.",
-        "pt-BR": "Ó Senhor Jesus Cristo, adoro-Vos habitando no meu coração. Agradeço-Vos por ter vindo a mim neste Santo Sacramento. Estais verdadeiramente presente — Corpo, Sangue, Alma e Divindade — em mim. Que eu nunca me esqueça deste dom, e que cada Comunhão me aproxime mais de Vós.\n\nQue esta Santa Comunhão seja para mim penhor da vida eterna. Afastai de mim tudo que Vos ofende. Que eu cresça no amor e na conformidade com a Vossa santíssima vontade. Senhor, permanecei comigo, pois sem Vós nada posso fazer.\nAmém."
-      }
-    },
-    { "type": "divider" },
-    {
-      "type": "meditation",
-      "text": {
-        "en": "Rest now in silence. Speak to Jesus as to a friend who is truly present. Tell Him your gratitude, your needs, your love. This moment passes — receive it fully.",
-        "pt-BR": "Descanse agora em silêncio. Fale com Jesus como com um amigo verdadeiramente presente. Diga-Lhe sua gratidão, suas necessidades, seu amor. Este momento passa — receba-o plenamente."
-      }
-    },
-    { "type": "divider" },
-    { "type": "prayer", "ref": "hail-mary" }
-  ]
+	"sections": [
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "After receiving Holy Communion, remain in quiet adoration. Let the following prayers draw you deeper into union with Christ.",
+				"pt-BR": "Após receber a Sagrada Comunhão, permaneça em adoração silenciosa. Deixe as orações a seguir aprofundarem sua união com Cristo."
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "anima-christi"
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O Lord Jesus Christ, I adore You dwelling in my heart. I thank You for coming to me in this Holy Sacrament. You are truly present — Body, Blood, Soul, and Divinity — within me. Let me never forget this gift, and may every Communion draw me closer to You.\n\nMay this Holy Communion be for me a pledge of eternal life. Drive far from me all that offends You. May I grow in love and conformity to Your most holy will. Lord, remain with me, for without You I can do nothing.\nAmen.",
+				"pt-BR": "Ó Senhor Jesus Cristo, adoro-Vos habitando no meu coração. Agradeço-Vos por ter vindo a mim neste Santo Sacramento. Estais verdadeiramente presente — Corpo, Sangue, Alma e Divindade — em mim. Que eu nunca me esqueça deste dom, e que cada Comunhão me aproxime mais de Vós.\n\nQue esta Santa Comunhão seja para mim penhor da vida eterna. Afastai de mim tudo que Vos ofende. Que eu cresça no amor e na conformidade com a Vossa santíssima vontade. Senhor, permanecei comigo, pois sem Vós nada posso fazer.\nAmém."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "Rest now in silence. Speak to Jesus as to a friend who is truly present. Tell Him your gratitude, your needs, your love. This moment passes — receive it fully.",
+				"pt-BR": "Descanse agora em silêncio. Fale com Jesus como com um amigo verdadeiramente presente. Diga-Lhe sua gratidão, suas necessidades, seu amor. Este momento passa — receba-o plenamente."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "prayer",
+			"ref": "hail-mary"
+		}
+	]
 }

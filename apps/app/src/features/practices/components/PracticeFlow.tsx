@@ -1,5 +1,6 @@
 // biome-ignore-all lint/suspicious/noArrayIndexKey: static prayer sections never reorder
 
+import { type FlowContext, resolveFlow } from '@ember/content-engine'
 import { useQueries, useQueryClient } from '@tanstack/react-query'
 import { format } from 'date-fns'
 import { useRouter } from 'expo-router'
@@ -29,7 +30,6 @@ import {
   RubricLabel,
   ScreenLayout,
 } from '@/components'
-import { type FlowContext, resolveFlow } from '@ember/content-engine'
 import { createEngineContext } from '@/content/engineContext'
 import {
   getDefaultVariant,
@@ -135,7 +135,7 @@ export function PracticeFlow({
     const siblings = manifest.flows.filter((f) => f.group === flowId)
     if (siblings.length === 0) return []
     return [
-      { id: flowId, label: localizeContent({ en: 'Full', 'pt-BR': 'Completo' }) },
+      { id: flowId, label: localizeContent({ 'en-US': 'Full', 'pt-BR': 'Completo' }) },
       ...siblings.map((f) => ({ id: f.id, label: localizeContent(f.name) })),
     ]
   }, [manifest, flowId])
@@ -447,7 +447,7 @@ function PracticeSectionBlock({
       return <PrayerTextBlock text={section.text} />
 
     case 'hymn':
-      return <HymnBlock title={section.title} english={section.english} latin={section.latin} />
+      return <HymnBlock title={section.title} text={section.text} latin={section.latin} />
 
     case 'canticle':
       return (

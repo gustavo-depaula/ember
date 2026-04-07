@@ -1,38 +1,87 @@
 {
-  "sections": [
-    { "type": "subheading", "text": { "en": "Beginning of Night Prayer", "pt-BR": "Início da Oração da Noite" } },
-    { "type": "prayer", "ref": "sign-of-cross" },
-    { "type": "divider" },
-    { "type": "subheading", "text": { "en": "Brief Examination of Conscience", "pt-BR": "Breve Exame de Consciência" } },
-    {
-      "type": "meditation",
-      "text": {
-        "en": "Take a moment to look back over the day. Thank God for its gifts. Notice quietly where you fell short — a harsh word, a moment of impatience, a prayer neglected. Do not dwell in guilt; bring these moments to God's mercy.",
-        "pt-BR": "Dedique um momento para olhar para trás no dia. Agradeça a Deus pelos seus dons. Observe quietamente onde você falhou — uma palavra dura, um momento de impaciência, uma oração esquecida. Não se perca em culpa; traga esses momentos à misericórdia de Deus."
-      }
-    },
-    { "type": "divider" },
-    { "type": "subheading", "text": { "en": "Act of Contrition", "pt-BR": "Ato de Contrição" } },
-    { "type": "prayer", "ref": "act-of-contrition" },
-    { "type": "divider" },
-    { "type": "subheading", "text": { "en": "Guardian Angel Prayer", "pt-BR": "Oração ao Anjo da Guarda" } },
-    {
-      "type": "prayer",
-      "inline": {
-        "en": "Angel of God, my Guardian dear,\nto whom God's love commits me here,\never this night be at my side,\nto light and guard, to rule and guide. Amen.",
-        "pt-BR": "Anjo de Deus, que sois meu Guardião,\npor quem a Divina Providência me confiou,\niluminai, guardai, dirigui e governai\neste corpo e esta alma. Amém."
-      }
-    },
-    { "type": "divider" },
-    { "type": "subheading", "text": { "en": "Consecration of the Night", "pt-BR": "Consagração da Noite" } },
-    {
-      "type": "prayer",
-      "inline": {
-        "en": "Into Thy hands, O Lord, I commend my spirit.\nWatch over me this night under the shelter of Thy grace.\nKeep me safe from all harm of soul and body.\nGrant me rest, that I may rise tomorrow\nrenewed to love and serve Thee.\nThrough Christ our Lord. Amen.",
-        "pt-BR": "Nas Vossas mãos, ó Senhor, entrego o meu espírito.\nVegiái sobre mim esta noite sob o abrigo da Vossa graça.\nGuardai-me de todo mal de alma e de corpo.\nConcedei-me descanso, para que eu me levante amanhã\nrenovado para amar e servir-Vos.\nPor Cristo, Nosso Senhor. Amém."
-      }
-    },
-    { "type": "divider" },
-    { "type": "prayer", "ref": "sign-of-cross" }
-  ]
+	"sections": [
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "Beginning of Night Prayer",
+				"pt-BR": "Início da Oração da Noite"
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "sign-of-cross"
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "Brief Examination of Conscience",
+				"pt-BR": "Breve Exame de Consciência"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "Take a moment to look back over the day. Thank God for its gifts. Notice quietly where you fell short — a harsh word, a moment of impatience, a prayer neglected. Do not dwell in guilt; bring these moments to God's mercy.",
+				"pt-BR": "Dedique um momento para olhar para trás no dia. Agradeça a Deus pelos seus dons. Observe quietamente onde você falhou — uma palavra dura, um momento de impaciência, uma oração esquecida. Não se perca em culpa; traga esses momentos à misericórdia de Deus."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "Act of Contrition",
+				"pt-BR": "Ato de Contrição"
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "act-of-contrition"
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "Guardian Angel Prayer",
+				"pt-BR": "Oração ao Anjo da Guarda"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Angel of God, my Guardian dear,\nto whom God's love commits me here,\never this night be at my side,\nto light and guard, to rule and guide. Amen.",
+				"pt-BR": "Anjo de Deus, que sois meu Guardião,\npor quem a Divina Providência me confiou,\niluminai, guardai, dirigui e governai\neste corpo e esta alma. Amém."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "Consecration of the Night",
+				"pt-BR": "Consagração da Noite"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Into Thy hands, O Lord, I commend my spirit.\nWatch over me this night under the shelter of Thy grace.\nKeep me safe from all harm of soul and body.\nGrant me rest, that I may rise tomorrow\nrenewed to love and serve Thee.\nThrough Christ our Lord. Amen.",
+				"pt-BR": "Nas Vossas mãos, ó Senhor, entrego o meu espírito.\nVegiái sobre mim esta noite sob o abrigo da Vossa graça.\nGuardai-me de todo mal de alma e de corpo.\nConcedei-me descanso, para que eu me levante amanhã\nrenovado para amar e servir-Vos.\nPor Cristo, Nosso Senhor. Amém."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "prayer",
+			"ref": "sign-of-cross"
+		}
+	]
 }

@@ -5,8 +5,8 @@
 // ── Localization ──
 
 type LocalizedText = {
-  en: string
-  latin?: string
+  'en-US'?: string
+  la?: string
   'pt-BR'?: string
 }
 
