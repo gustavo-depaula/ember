@@ -92,6 +92,27 @@ export function getProperForSlot(
   return undefined
 }
 
+/**
+ * Gets the raw (unlocalised) section for a flow slot name.
+ * Callers can apply their own bilingual localization.
+ */
+export function getRawProperForSlot(
+  date: Date,
+  slot: string,
+  dayCalendar: DayCalendar | undefined,
+  dataSource: PropersDataSource,
+): (RawSection & { sectionId: string }) | undefined {
+  const raw = loadRawProperDay(date, dayCalendar, dataSource)
+  if (!raw) return undefined
+
+  const sectionIds = getSectionIdsForSlot(slot)
+  for (const id of sectionIds) {
+    const section = raw[id]
+    if (section) return { ...section, sectionId: id }
+  }
+  return undefined
+}
+
 // ── Internal ──
 
 function loadRawProperDay(

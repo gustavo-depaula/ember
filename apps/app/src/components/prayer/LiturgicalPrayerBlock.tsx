@@ -1,19 +1,15 @@
-// biome-ignore-all lint/suspicious/noArrayIndexKey: static prayer text lines never reorder
+import type { BilingualText } from '@ember/content-engine'
 import { Text, YStack } from 'tamagui'
-
-import { PrayerText } from '../PrayerText'
+import { PrayerLines } from '../PrayerText'
+import { BilingualBlock } from './BilingualBlock'
 
 export function LiturgicalPrayerBlock({
   speaker,
   text,
-  latin,
 }: {
   speaker: 'priest' | 'people' | 'all'
-  text: string
-  latin: string
+  text: BilingualText
 }) {
-  const lines = text.split('\n')
-  const latinLines = latin.split('\n')
   const isPeople = speaker === 'people'
 
   return (
@@ -29,26 +25,10 @@ export function LiturgicalPrayerBlock({
           R.
         </Text>
       )}
-      {lines.map((line, i) => (
-        <PrayerText key={`en-${i}`} fontWeight={isPeople ? '600' : undefined}>
-          {line}
-        </PrayerText>
-      ))}
-      {latin !== '' && (
-        <YStack gap="$xs" opacity={0.6} paddingTop="$xs">
-          {latinLines.map((line, i) => (
-            <Text
-              key={`la-${i}`}
-              fontFamily="$body"
-              fontSize="$2"
-              fontStyle="italic"
-              color="$colorSecondary"
-            >
-              {line}
-            </Text>
-          ))}
-        </YStack>
-      )}
+      <BilingualBlock
+        content={text}
+        renderText={(t) => <PrayerLines text={t} fontWeight={isPeople ? '600' : undefined} />}
+      />
     </YStack>
   )
 }

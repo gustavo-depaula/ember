@@ -2,6 +2,14 @@
 
 import type { PsalmRef, ReadingReference } from '@ember/liturgical'
 
+export type ContentLanguage = 'en-US' | 'pt-BR' | 'la'
+
+export type BilingualText = {
+  primary: string
+  secondary?: string
+  secondaryMissing?: boolean
+}
+
 export type LocalizedText = { 'en-US'?: string; 'pt-BR'?: string }
 export type LocalizedContent = { 'en-US'?: string; 'pt-BR'?: string; la?: string }
 
@@ -61,28 +69,33 @@ export type FlowSection =
 // --- Rendered Sections (engine output, consumed by renderer) ---
 
 export type RenderedSection =
-  | { type: 'rubric'; label: string }
+  | { type: 'rubric'; label: BilingualText }
   | { type: 'divider' }
-  | { type: 'heading'; text: string }
-  | { type: 'image'; src: string; caption?: string }
+  | { type: 'heading'; text: BilingualText }
+  | { type: 'image'; src: string; caption?: BilingualText }
   | {
       type: 'prayer'
-      title: string
-      text: string
+      title: BilingualText
+      text: BilingualText
       count?: number
       speaker?: 'priest' | 'people' | 'all'
-      latin?: string
     }
-  | { type: 'hymn'; title: string; latin: string; text: string }
-  | { type: 'canticle'; title: string; subtitle: string; source: string; text: string }
-  | { type: 'meditation'; text: string }
-  | { type: 'response'; verses: { v: string; r: string }[] }
-  | { type: 'subheading'; text: string }
-  | { type: 'proper'; slot: string; form: 'of' | 'ef'; description: string }
+  | { type: 'hymn'; title: BilingualText; text: BilingualText }
+  | {
+      type: 'canticle'
+      title: BilingualText
+      subtitle: BilingualText
+      source: BilingualText
+      text: BilingualText
+    }
+  | { type: 'meditation'; text: BilingualText }
+  | { type: 'response'; verses: { v: BilingualText; r: BilingualText }[] }
+  | { type: 'subheading'; text: BilingualText }
+  | { type: 'proper'; slot: string; form: 'of' | 'ef'; description: BilingualText }
   | {
       type: 'options'
-      label: string
-      options: { id: string; label: string; sections: RenderedSection[] }[]
+      label: BilingualText
+      options: { id: string; label: BilingualText; sections: RenderedSection[] }[]
     }
   | { type: 'psalmody'; psalms: PsalmRef[] }
   | { type: 'reading'; reference: ReadingReference; trackId?: string }

@@ -5,6 +5,8 @@ export {
   resolveFlow,
 } from './engine'
 export type {
+  BilingualText,
+  ContentLanguage,
   CycleData,
   FlowDefinition,
   FlowSection,

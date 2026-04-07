@@ -1,6 +1,7 @@
-// biome-ignore-all lint/suspicious/noArrayIndexKey: static prayer text lines never reorder
+import type { BilingualText } from '@ember/content-engine'
 import { Text, YStack } from 'tamagui'
-import { PrayerText } from '../PrayerText'
+import { PrayerLines } from '../PrayerText'
+import { BilingualBlock } from './BilingualBlock'
 
 export function CanticleBlock({
   title,
@@ -8,26 +9,28 @@ export function CanticleBlock({
   source,
   text,
 }: {
-  title: string
-  subtitle: string
-  source: string
-  text: string
+  title: BilingualText
+  subtitle: BilingualText
+  source: BilingualText
+  text: BilingualText
 }) {
-  const lines = text.split('\n')
   return (
     <YStack gap="$sm">
-      <Text fontFamily="$heading" fontSize="$3" color="$colorBurgundy" letterSpacing={0.5}>
-        {title}
-      </Text>
-      {(subtitle || source) && (
+      <BilingualBlock
+        content={title}
+        renderText={(t) => (
+          <Text fontFamily="$heading" fontSize="$3" color="$colorBurgundy" letterSpacing={0.5}>
+            {t}
+          </Text>
+        )}
+      />
+      {(subtitle.primary || source.primary) && (
         <Text fontFamily="$body" fontSize="$1" color="$colorMutedBlue">
-          {subtitle}
-          {subtitle && source ? ` (${source})` : source}
+          {subtitle.primary}
+          {subtitle.primary && source.primary ? ` (${source.primary})` : source.primary}
         </Text>
       )}
-      {lines.map((line, i) => (
-        <PrayerText key={`${i}-${line.slice(0, 20)}`}>{line}</PrayerText>
-      ))}
+      <BilingualBlock content={text} renderText={(t) => <PrayerLines text={t} />} />
     </YStack>
   )
 }

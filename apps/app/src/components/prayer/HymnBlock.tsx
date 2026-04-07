@@ -1,39 +1,26 @@
-// biome-ignore-all lint/suspicious/noArrayIndexKey: static prayer text lines never reorder
+import type { BilingualText } from '@ember/content-engine'
 import { Text, XStack, YStack } from 'tamagui'
 import { VineBar } from '../Ornament'
-import { PrayerText } from '../PrayerText'
+import { PrayerLines } from '../PrayerText'
+import { BilingualBlock } from './BilingualBlock'
 
-export function HymnBlock({ title, text, latin }: { title: string; text: string; latin: string }) {
-  const textLines = text.split('\n')
-  const latinLines = latin.split('\n')
-  const totalLines = textLines.length + latinLines.length
-  const estimatedHeight = totalLines * 24 + 40
+export function HymnBlock({ title, text }: { title: BilingualText; text: BilingualText }) {
+  const estimatedHeight =
+    (text.primary.split('\n').length + (text.secondary?.split('\n').length ?? 0)) * 24 + 40
 
   return (
     <XStack gap="$sm">
       <VineBar height={estimatedHeight} />
       <YStack gap="$md" flex={1}>
-        <Text fontFamily="$heading" fontSize="$3" color="$colorBurgundy" letterSpacing={0.5}>
-          {title}
-        </Text>
-        <YStack gap="$xs">
-          {textLines.map((line, i) => (
-            <PrayerText key={`en-${i}-${line.slice(0, 20)}`}>{line}</PrayerText>
-          ))}
-        </YStack>
-        <YStack gap="$xs" opacity={0.6}>
-          {latinLines.map((line, i) => (
-            <Text
-              key={`la-${i}-${line.slice(0, 20)}`}
-              fontFamily="$body"
-              fontSize="$2"
-              fontStyle="italic"
-              color="$colorSecondary"
-            >
-              {line}
+        <BilingualBlock
+          content={title}
+          renderText={(t) => (
+            <Text fontFamily="$heading" fontSize="$3" color="$colorBurgundy" letterSpacing={0.5}>
+              {t}
             </Text>
-          ))}
-        </YStack>
+          )}
+        />
+        <BilingualBlock content={text} renderText={(t) => <PrayerLines text={t} />} />
       </YStack>
     </XStack>
   )

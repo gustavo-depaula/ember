@@ -1,3 +1,4 @@
+import type { ContentLanguage } from '@ember/content-engine'
 import { create } from 'zustand'
 import { immer } from 'zustand/middleware/immer'
 
@@ -11,6 +12,9 @@ type PsalterCycle = '30-day'
 type ThemePreference = 'light' | 'dark' | 'system'
 type TextAlignment = 'justify' | 'left'
 type MarginPreset = 'narrow' | 'normal' | 'wide'
+type DisplayMode = 'side-by-side' | 'tap-to-switch'
+
+const contentLanguages: ContentLanguage[] = ['en-US', 'pt-BR', 'la']
 
 const validFontIds = new Set(readingFonts.map((f) => f.id))
 const minStep = 1
@@ -34,6 +38,11 @@ type PreferencesState = {
   jurisdiction: string | undefined
   timeTravelDate: string | undefined
 
+  // Content language
+  contentLanguage: ContentLanguage
+  secondaryLanguage: ContentLanguage | undefined
+  displayMode: DisplayMode
+
   // Theme
   theme: ThemePreference
 
@@ -56,6 +65,11 @@ type PreferencesState = {
   setTimeTravelDate: (date: string | undefined) => void
   setTimeTravelDateEphemeral: (date: string | undefined) => void
 
+  // Content language setters
+  setContentLanguage: (lang: ContentLanguage) => void
+  setSecondaryLanguage: (lang: ContentLanguage | undefined) => void
+  setDisplayMode: (mode: DisplayMode) => void
+
   // Theme setter
   setTheme: (theme: ThemePreference) => void
 
@@ -77,6 +91,9 @@ export const usePreferencesStore = create<PreferencesState>()(
     liturgicalCalendar: 'of',
     jurisdiction: undefined,
     timeTravelDate: undefined,
+    contentLanguage: 'en-US',
+    secondaryLanguage: undefined,
+    displayMode: 'side-by-side',
     theme: 'system',
     fontFamily: 'eb-garamond',
     fontSizeStep: 3,
@@ -145,6 +162,32 @@ export const usePreferencesStore = create<PreferencesState>()(
       })
     },
 
+    setContentLanguage: (lang) => {
+      set((state) => {
+        state.contentLanguage = lang
+        if (state.secondaryLanguage === lang) state.secondaryLanguage = undefined
+      })
+      setPreference('content-language', lang)
+    },
+
+    setSecondaryLanguage: (lang) => {
+      set((state) => {
+        state.secondaryLanguage = lang
+      })
+      if (lang) {
+        setPreference('secondary-language', lang)
+      } else {
+        removePreference('secondary-language')
+      }
+    },
+
+    setDisplayMode: (mode) => {
+      set((state) => {
+        state.displayMode = mode
+      })
+      setPreference('display-mode', mode)
+    },
+
     setTheme: (theme) => {
       set((state) => {
         state.theme = theme
@@ -210,6 +253,19 @@ export const usePreferencesStore = create<PreferencesState>()(
         if (cal === 'of' || cal === 'ef') state.liturgicalCalendar = cal
         if (prefs.jurisdiction) state.jurisdiction = prefs.jurisdiction
         if (prefs['time-travel-date']) state.timeTravelDate = prefs['time-travel-date']
+
+        const cl = prefs['content-language']
+        if (cl && contentLanguages.includes(cl as ContentLanguage)) {
+          state.contentLanguage = cl as ContentLanguage
+        } else if (prefs.language && contentLanguages.includes(prefs.language as ContentLanguage)) {
+          state.contentLanguage = prefs.language as ContentLanguage
+        }
+        const sl = prefs['secondary-language']
+        if (sl && contentLanguages.includes(sl as ContentLanguage)) {
+          state.secondaryLanguage = sl as ContentLanguage
+        }
+        const dm = prefs['display-mode']
+        if (dm === 'side-by-side' || dm === 'tap-to-switch') state.displayMode = dm
 
         const theme = prefs.theme
         if (theme === 'light' || theme === 'dark' || theme === 'system') state.theme = theme

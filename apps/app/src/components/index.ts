@@ -19,7 +19,7 @@ export { FloralCorner, FloralVineBorder, SeasonalIcon, WatercolorIcon } from './
 export { PageBorder } from './PageBorder'
 export { PracticeIcon } from './PracticeIcon'
 export { FlowButtons, PrayButton } from './PrayActionButtons'
-export { PrayerText } from './PrayerText'
+export { PrayerLines, PrayerText } from './PrayerText'
 export { ProgressBar } from './ProgressBar'
 export { type PsalmData, PsalmodyBlock } from './PsalmodyBlock'
 export {
