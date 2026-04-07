@@ -65,6 +65,8 @@ export default function HomeScreen() {
   const liturgicalCalendar = usePreferencesStore(
     (s) => s.liturgicalCalendar,
   ) as LiturgicalCalendarForm
+  const persistedTimeTravelDate = usePreferencesStore((s) => s.persistedTimeTravelDate)
+  const anchorDate = persistedTimeTravelDate ?? realToday
   const setTimeTravelEphemeral = usePreferencesStore((s) => s.setTimeTravelDateEphemeral)
   const router = useRouter()
   const { data: slots = [] } = useSlots()
@@ -142,8 +144,8 @@ export default function HomeScreen() {
         <LiturgicalHeader date={now} season={season} themeName={themeName} />
 
         <DayCarousel
-          today={realToday}
-          onSelectDate={(date) => setTimeTravelEphemeral(date === realToday ? undefined : date)}
+          today={anchorDate}
+          onSelectDate={(date) => setTimeTravelEphemeral(date === anchorDate ? undefined : date)}
         />
 
         <FadeInView>

@@ -37,6 +37,7 @@ type PreferencesState = {
   liturgicalCalendar: LiturgicalCalendarForm
   jurisdiction: string | undefined
   timeTravelDate: string | undefined
+  persistedTimeTravelDate: string | undefined
 
   // Content language
   contentLanguage: ContentLanguage
@@ -91,6 +92,7 @@ export const usePreferencesStore = create<PreferencesState>()(
     liturgicalCalendar: 'of',
     jurisdiction: undefined,
     timeTravelDate: undefined,
+    persistedTimeTravelDate: undefined,
     contentLanguage: 'en-US',
     secondaryLanguage: undefined,
     displayMode: 'side-by-side',
@@ -148,6 +150,7 @@ export const usePreferencesStore = create<PreferencesState>()(
     setTimeTravelDate: (date) => {
       set((state) => {
         state.timeTravelDate = date
+        state.persistedTimeTravelDate = date
       })
       if (date) {
         setPreference('time-travel-date', date)
@@ -252,7 +255,10 @@ export const usePreferencesStore = create<PreferencesState>()(
         const cal = prefs['liturgical-calendar']
         if (cal === 'of' || cal === 'ef') state.liturgicalCalendar = cal
         if (prefs.jurisdiction) state.jurisdiction = prefs.jurisdiction
-        if (prefs['time-travel-date']) state.timeTravelDate = prefs['time-travel-date']
+        if (prefs['time-travel-date']) {
+          state.timeTravelDate = prefs['time-travel-date']
+          state.persistedTimeTravelDate = prefs['time-travel-date']
+        }
 
         const cl = prefs['content-language']
         if (cl && contentLanguages.includes(cl as ContentLanguage)) {
