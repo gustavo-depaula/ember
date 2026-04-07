@@ -1,5 +1,5 @@
-import { describe, expect, it } from 'vitest'
 import { buildYearCalendar, type DayCalendar, getCelebrationsForDate } from '@ember/liturgical'
+import { describe, expect, it } from 'vitest'
 
 import { chooseProperSource } from './resolve'
 

@@ -1,6 +1,12 @@
 {
-	"title": { "en": "Act of Contrition", "pt-BR": "Ato de Contrição", "la": "Actus Contritionis" },
-	"latin": "Deus meus, ex toto corde pænitet me omnium meorum peccatorum,\næque detestor, quia peccando, non solum pœnas a Te iuste statutas promeritus sum,\nsed præsertim quia offendi Te, summum bonum, ac dignum qui super omnia diligaris.\nIdeo firmiter propono, adiuvante Tua gratia, de cetero me non peccaturum\npeccandique occasiones proximas fugiturum.\nAmen.",
-	"english": "O my God, I am heartily sorry for having offended Thee,\nand I detest all my sins, because of Thy just punishments,\nbut most of all because they offend Thee, my God,\nWho art all-good and deserving of all my love.\nI firmly resolve, with the help of Thy grace,\nto sin no more and to avoid the near occasions of sin.\nAmen.",
-	"portuguese": "Meu Deus, pesa-me muito ter-Vos ofendido,\nporque sois infinitamente bom e o pecado Vos desagrada.\nProponho firmemente, com o auxílio da Vossa graça,\nnão Vos ofender mais e evitar as ocasiões de pecado.\nAmém."
+	"title": {
+		"en-US": "Act of Contrition",
+		"pt-BR": "Ato de Contrição",
+		"la": "Actus Contritionis"
+	},
+	"body": {
+		"en-US": "O my God, I am heartily sorry for having offended Thee,\nand I detest all my sins, because of Thy just punishments,\nbut most of all because they offend Thee, my God,\nWho art all-good and deserving of all my love.\nI firmly resolve, with the help of Thy grace,\nto sin no more and to avoid the near occasions of sin.\nAmen.",
+		"pt-BR": "Meu Deus, pesa-me muito ter-Vos ofendido,\nporque sois infinitamente bom e o pecado Vos desagrada.\nProponho firmemente, com o auxílio da Vossa graça,\nnão Vos ofender mais e evitar as ocasiões de pecado.\nAmém.",
+		"la": "Deus meus, ex toto corde pænitet me omnium meorum peccatorum,\næque detestor, quia peccando, non solum pœnas a Te iuste statutas promeritus sum,\nsed præsertim quia offendi Te, summum bonum, ac dignum qui super omnia diligaris.\nIdeo firmiter propono, adiuvante Tua gratia, de cetero me non peccaturum\npeccandique occasiones proximas fugiturum.\nAmen."
+	}
 }

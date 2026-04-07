@@ -1,14 +1,19 @@
 {
-  "sections": [
-    { "type": "prayer", "ref": "sign-of-cross" },
-    { "type": "divider" },
-    {
-      "type": "prayer",
-      "inline": {
-        "en": "Take, Lord, and receive all my liberty, my memory, my understanding, and all my will — all that I have and possess. You, Lord, have given all that to me. I now give it back to You, O Lord. All of it is Yours. Dispose of it according to Your will. Give me only Your love and Your grace, for that is enough for me. Amen.",
-        "latin": "Suscipe, Domine, universam meam libertatem. Accipe memoriam, intellectum, atque voluntatem omnem. Quidquid habeo vel possideo mihi largitus es; id tibi totum restituo ac tuae prorsus voluntati trado gubernandum. Amorem tui solum cum gratia tua mihi dones, et dives sum satis nec aliud quidquam ultra posco. Amen.",
-        "pt-BR": "Tomai, Senhor, e recebei toda a minha liberdade, minha memória, meu entendimento e toda a minha vontade — tudo o que tenho e possuo. Vós mo destes, Senhor; a Vós, Senhor, o restituo. Disponde dele totalmente segundo a Vossa vontade. Dai-me apenas o Vosso amor e a Vossa graça, que isso me basta. Amém."
-      }
-    }
-  ]
+	"sections": [
+		{
+			"type": "prayer",
+			"ref": "sign-of-cross"
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Take, Lord, and receive all my liberty, my memory, my understanding, and all my will — all that I have and possess. You, Lord, have given all that to me. I now give it back to You, O Lord. All of it is Yours. Dispose of it according to Your will. Give me only Your love and Your grace, for that is enough for me. Amen.",
+				"la": "Suscipe, Domine, universam meam libertatem. Accipe memoriam, intellectum, atque voluntatem omnem. Quidquid habeo vel possideo mihi largitus es; id tibi totum restituo ac tuae prorsus voluntati trado gubernandum. Amorem tui solum cum gratia tua mihi dones, et dives sum satis nec aliud quidquam ultra posco. Amen.",
+				"pt-BR": "Tomai, Senhor, e recebei toda a minha liberdade, minha memória, meu entendimento e toda a minha vontade — tudo o que tenho e possuo. Vós mo destes, Senhor; a Vós, Senhor, o restituo. Disponde dele totalmente segundo a Vossa vontade. Dai-me apenas o Vosso amor e a Vossa graça, que isso me basta. Amém."
+			}
+		}
+	]
 }

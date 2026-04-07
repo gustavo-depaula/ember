@@ -1,307 +1,722 @@
 {
-  "sections": [
-    { "type": "prayer", "ref": "sign-of-cross" },
-    { "type": "divider" },
-    {
-      "type": "response",
-      "verses": [
-        {
-          "v": { "en": "Lord, have mercy.", "pt-BR": "Senhor, tende piedade." },
-          "r": { "en": "Lord, have mercy.", "pt-BR": "Senhor, tende piedade." }
-        },
-        {
-          "v": { "en": "Christ, have mercy.", "pt-BR": "Cristo, tende piedade." },
-          "r": { "en": "Christ, have mercy.", "pt-BR": "Cristo, tende piedade." }
-        },
-        {
-          "v": { "en": "Lord, have mercy.", "pt-BR": "Senhor, tende piedade." },
-          "r": { "en": "Lord, have mercy.", "pt-BR": "Senhor, tende piedade." }
-        },
-        {
-          "v": { "en": "Christ, hear us.", "pt-BR": "Cristo, ouvi-nos." },
-          "r": { "en": "Christ, graciously hear us.", "pt-BR": "Cristo, atendei-nos." }
-        }
-      ]
-    },
-    { "type": "divider" },
-    {
-      "type": "response",
-      "verses": [
-        {
-          "v": { "en": "God the Father of Heaven,", "pt-BR": "Deus Pai do Céu," },
-          "r": { "en": "Have mercy on us.", "pt-BR": "Tende piedade de nós." }
-        },
-        {
-          "v": { "en": "God the Son, Redeemer of the world,", "pt-BR": "Deus Filho, Redentor do mundo," },
-          "r": { "en": "Have mercy on us.", "pt-BR": "Tende piedade de nós." }
-        },
-        {
-          "v": { "en": "God the Holy Spirit,", "pt-BR": "Deus Espírito Santo," },
-          "r": { "en": "Have mercy on us.", "pt-BR": "Tende piedade de nós." }
-        },
-        {
-          "v": { "en": "Holy Trinity, one God,", "pt-BR": "Santíssima Trindade, um só Deus," },
-          "r": { "en": "Have mercy on us.", "pt-BR": "Tende piedade de nós." }
-        }
-      ]
-    },
-    { "type": "divider" },
-    {
-      "type": "response",
-      "verses": [
-        {
-          "v": { "en": "Holy Mary,", "pt-BR": "Santa Maria," },
-          "r": { "en": "Pray for us.", "pt-BR": "Rogai por nós." }
-        },
-        {
-          "v": { "en": "Holy Mother of God,", "pt-BR": "Santa Mãe de Deus," },
-          "r": { "en": "Pray for us.", "pt-BR": "Rogai por nós." }
-        },
-        {
-          "v": { "en": "Holy Virgin of virgins,", "pt-BR": "Santíssima Virgem das virgens," },
-          "r": { "en": "Pray for us.", "pt-BR": "Rogai por nós." }
-        },
-        {
-          "v": { "en": "Mother of Christ,", "pt-BR": "Mãe de Cristo," },
-          "r": { "en": "Pray for us.", "pt-BR": "Rogai por nós." }
-        },
-        {
-          "v": { "en": "Mother of the Church,", "pt-BR": "Mãe da Igreja," },
-          "r": { "en": "Pray for us.", "pt-BR": "Rogai por nós." }
-        },
-        {
-          "v": { "en": "Mother of Mercy,", "pt-BR": "Mãe da Misericórdia," },
-          "r": { "en": "Pray for us.", "pt-BR": "Rogai por nós." }
-        },
-        {
-          "v": { "en": "Mother of divine grace,", "pt-BR": "Mãe da divina graça," },
-          "r": { "en": "Pray for us.", "pt-BR": "Rogai por nós." }
-        },
-        {
-          "v": { "en": "Mother of Hope,", "pt-BR": "Mãe da Esperança," },
-          "r": { "en": "Pray for us.", "pt-BR": "Rogai por nós." }
-        },
-        {
-          "v": { "en": "Mother most pure,", "pt-BR": "Mãe puríssima," },
-          "r": { "en": "Pray for us.", "pt-BR": "Rogai por nós." }
-        },
-        {
-          "v": { "en": "Mother most chaste,", "pt-BR": "Mãe castíssima," },
-          "r": { "en": "Pray for us.", "pt-BR": "Rogai por nós." }
-        },
-        {
-          "v": { "en": "Mother inviolate,", "pt-BR": "Mãe inviolada," },
-          "r": { "en": "Pray for us.", "pt-BR": "Rogai por nós." }
-        },
-        {
-          "v": { "en": "Mother undefiled,", "pt-BR": "Mãe não violada," },
-          "r": { "en": "Pray for us.", "pt-BR": "Rogai por nós." }
-        },
-        {
-          "v": { "en": "Mother most amiable,", "pt-BR": "Mãe amabilíssima," },
-          "r": { "en": "Pray for us.", "pt-BR": "Rogai por nós." }
-        },
-        {
-          "v": { "en": "Mother admirable,", "pt-BR": "Mãe admirável," },
-          "r": { "en": "Pray for us.", "pt-BR": "Rogai por nós." }
-        },
-        {
-          "v": { "en": "Mother of good counsel,", "pt-BR": "Mãe do bom conselho," },
-          "r": { "en": "Pray for us.", "pt-BR": "Rogai por nós." }
-        },
-        {
-          "v": { "en": "Mother of our Creator,", "pt-BR": "Mãe do nosso Criador," },
-          "r": { "en": "Pray for us.", "pt-BR": "Rogai por nós." }
-        },
-        {
-          "v": { "en": "Mother of our Saviour,", "pt-BR": "Mãe do nosso Salvador," },
-          "r": { "en": "Pray for us.", "pt-BR": "Rogai por nós." }
-        },
-        {
-          "v": { "en": "Virgin most prudent,", "pt-BR": "Virgem prudentíssima," },
-          "r": { "en": "Pray for us.", "pt-BR": "Rogai por nós." }
-        },
-        {
-          "v": { "en": "Virgin most venerable,", "pt-BR": "Virgem venerável," },
-          "r": { "en": "Pray for us.", "pt-BR": "Rogai por nós." }
-        },
-        {
-          "v": { "en": "Virgin most renowned,", "pt-BR": "Virgem afamada," },
-          "r": { "en": "Pray for us.", "pt-BR": "Rogai por nós." }
-        },
-        {
-          "v": { "en": "Virgin most powerful,", "pt-BR": "Virgem poderosa," },
-          "r": { "en": "Pray for us.", "pt-BR": "Rogai por nós." }
-        },
-        {
-          "v": { "en": "Virgin most merciful,", "pt-BR": "Virgem clemente," },
-          "r": { "en": "Pray for us.", "pt-BR": "Rogai por nós." }
-        },
-        {
-          "v": { "en": "Virgin most faithful,", "pt-BR": "Virgem fiel," },
-          "r": { "en": "Pray for us.", "pt-BR": "Rogai por nós." }
-        },
-        {
-          "v": { "en": "Mirror of justice,", "pt-BR": "Espelho de justiça," },
-          "r": { "en": "Pray for us.", "pt-BR": "Rogai por nós." }
-        },
-        {
-          "v": { "en": "Seat of wisdom,", "pt-BR": "Sede da sabedoria," },
-          "r": { "en": "Pray for us.", "pt-BR": "Rogai por nós." }
-        },
-        {
-          "v": { "en": "Cause of our joy,", "pt-BR": "Causa da nossa alegria," },
-          "r": { "en": "Pray for us.", "pt-BR": "Rogai por nós." }
-        },
-        {
-          "v": { "en": "Spiritual vessel,", "pt-BR": "Vaso espiritual," },
-          "r": { "en": "Pray for us.", "pt-BR": "Rogai por nós." }
-        },
-        {
-          "v": { "en": "Vessel of honour,", "pt-BR": "Vaso de honra," },
-          "r": { "en": "Pray for us.", "pt-BR": "Rogai por nós." }
-        },
-        {
-          "v": { "en": "Singular vessel of devotion,", "pt-BR": "Vaso insigne de devoção," },
-          "r": { "en": "Pray for us.", "pt-BR": "Rogai por nós." }
-        },
-        {
-          "v": { "en": "Mystical rose,", "pt-BR": "Rosa mística," },
-          "r": { "en": "Pray for us.", "pt-BR": "Rogai por nós." }
-        },
-        {
-          "v": { "en": "Tower of David,", "pt-BR": "Torre de David," },
-          "r": { "en": "Pray for us.", "pt-BR": "Rogai por nós." }
-        },
-        {
-          "v": { "en": "Tower of ivory,", "pt-BR": "Torre de marfim," },
-          "r": { "en": "Pray for us.", "pt-BR": "Rogai por nós." }
-        },
-        {
-          "v": { "en": "House of gold,", "pt-BR": "Casa de ouro," },
-          "r": { "en": "Pray for us.", "pt-BR": "Rogai por nós." }
-        },
-        {
-          "v": { "en": "Ark of the covenant,", "pt-BR": "Arca da aliança," },
-          "r": { "en": "Pray for us.", "pt-BR": "Rogai por nós." }
-        },
-        {
-          "v": { "en": "Gate of Heaven,", "pt-BR": "Porta do céu," },
-          "r": { "en": "Pray for us.", "pt-BR": "Rogai por nós." }
-        },
-        {
-          "v": { "en": "Morning star,", "pt-BR": "Estrela da manhã," },
-          "r": { "en": "Pray for us.", "pt-BR": "Rogai por nós." }
-        },
-        {
-          "v": { "en": "Health of the sick,", "pt-BR": "Saúde dos enfermos," },
-          "r": { "en": "Pray for us.", "pt-BR": "Rogai por nós." }
-        },
-        {
-          "v": { "en": "Refuge of sinners,", "pt-BR": "Refúgio dos pecadores," },
-          "r": { "en": "Pray for us.", "pt-BR": "Rogai por nós." }
-        },
-        {
-          "v": { "en": "Solace of migrants,", "pt-BR": "Consoladora dos migrantes," },
-          "r": { "en": "Pray for us.", "pt-BR": "Rogai por nós." }
-        },
-        {
-          "v": { "en": "Comfort of the afflicted,", "pt-BR": "Consoladora dos aflitos," },
-          "r": { "en": "Pray for us.", "pt-BR": "Rogai por nós." }
-        },
-        {
-          "v": { "en": "Help of Christians,", "pt-BR": "Auxílio dos cristãos," },
-          "r": { "en": "Pray for us.", "pt-BR": "Rogai por nós." }
-        },
-        {
-          "v": { "en": "Queen of angels,", "pt-BR": "Rainha dos anjos," },
-          "r": { "en": "Pray for us.", "pt-BR": "Rogai por nós." }
-        },
-        {
-          "v": { "en": "Queen of patriarchs,", "pt-BR": "Rainha dos patriarcas," },
-          "r": { "en": "Pray for us.", "pt-BR": "Rogai por nós." }
-        },
-        {
-          "v": { "en": "Queen of prophets,", "pt-BR": "Rainha dos profetas," },
-          "r": { "en": "Pray for us.", "pt-BR": "Rogai por nós." }
-        },
-        {
-          "v": { "en": "Queen of apostles,", "pt-BR": "Rainha dos apóstolos," },
-          "r": { "en": "Pray for us.", "pt-BR": "Rogai por nós." }
-        },
-        {
-          "v": { "en": "Queen of martyrs,", "pt-BR": "Rainha dos mártires," },
-          "r": { "en": "Pray for us.", "pt-BR": "Rogai por nós." }
-        },
-        {
-          "v": { "en": "Queen of confessors,", "pt-BR": "Rainha dos confessores," },
-          "r": { "en": "Pray for us.", "pt-BR": "Rogai por nós." }
-        },
-        {
-          "v": { "en": "Queen of virgins,", "pt-BR": "Rainha das virgens," },
-          "r": { "en": "Pray for us.", "pt-BR": "Rogai por nós." }
-        },
-        {
-          "v": { "en": "Queen of all saints,", "pt-BR": "Rainha de todos os santos," },
-          "r": { "en": "Pray for us.", "pt-BR": "Rogai por nós." }
-        },
-        {
-          "v": { "en": "Queen conceived without original sin,", "pt-BR": "Rainha concebida sem pecado original," },
-          "r": { "en": "Pray for us.", "pt-BR": "Rogai por nós." }
-        },
-        {
-          "v": { "en": "Queen assumed into heaven,", "pt-BR": "Rainha assunta ao céu," },
-          "r": { "en": "Pray for us.", "pt-BR": "Rogai por nós." }
-        },
-        {
-          "v": { "en": "Queen of the most holy Rosary,", "pt-BR": "Rainha do Santíssimo Rosário," },
-          "r": { "en": "Pray for us.", "pt-BR": "Rogai por nós." }
-        },
-        {
-          "v": { "en": "Queen of families,", "pt-BR": "Rainha das famílias," },
-          "r": { "en": "Pray for us.", "pt-BR": "Rogai por nós." }
-        },
-        {
-          "v": { "en": "Queen of peace,", "pt-BR": "Rainha da paz," },
-          "r": { "en": "Pray for us.", "pt-BR": "Rogai por nós." }
-        }
-      ]
-    },
-    { "type": "divider" },
-    {
-      "type": "response",
-      "verses": [
-        {
-          "v": { "en": "Lamb of God, who takest away the sins of the world,", "pt-BR": "Cordeiro de Deus, que tirais os pecados do mundo," },
-          "r": { "en": "Spare us, O Lord.", "pt-BR": "Perdoai-nos, Senhor." }
-        },
-        {
-          "v": { "en": "Lamb of God, who takest away the sins of the world,", "pt-BR": "Cordeiro de Deus, que tirais os pecados do mundo," },
-          "r": { "en": "Graciously hear us, O Lord.", "pt-BR": "Ouvi-nos, Senhor." }
-        },
-        {
-          "v": { "en": "Lamb of God, who takest away the sins of the world,", "pt-BR": "Cordeiro de Deus, que tirais os pecados do mundo," },
-          "r": { "en": "Have mercy on us.", "pt-BR": "Tende piedade de nós." }
-        }
-      ]
-    },
-    { "type": "divider" },
-    {
-      "type": "response",
-      "verses": [
-        {
-          "v": { "en": "Pray for us, O holy Mother of God.", "pt-BR": "Rogai por nós, Santa Mãe de Deus." },
-          "r": { "en": "That we may be made worthy of the promises of Christ.", "pt-BR": "Para que sejamos tornados dignos das promessas de Cristo." }
-        }
-      ]
-    },
-    { "type": "rubric", "text": { "en": "Let us pray.", "pt-BR": "Oremos." } },
-    {
-      "type": "prayer",
-      "inline": {
-        "en": "Grant, we beseech Thee, O Lord God, that we Thy servants may enjoy lasting health of mind and body, and by the glorious intercession of the Blessed Mary ever Virgin, be delivered from present sorrow, and enter into the joy of Thine eternal gladness. Through Christ our Lord. Amen.",
-        "pt-BR": "Concedei, Senhor, a nós, vossos servos, gozar de perpétua saúde de alma e corpo, e, pela gloriosa intercessão da bem-aventurada Virgem Maria, sermos livres das tribulações presentes e alcançarmos a eterna felicidade. Por Cristo Nosso Senhor. Amém."
-      }
-    }
-  ]
+	"sections": [
+		{
+			"type": "prayer",
+			"ref": "sign-of-cross"
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "response",
+			"verses": [
+				{
+					"v": {
+						"en-US": "Lord, have mercy.",
+						"pt-BR": "Senhor, tende piedade."
+					},
+					"r": {
+						"en-US": "Lord, have mercy.",
+						"pt-BR": "Senhor, tende piedade."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Christ, have mercy.",
+						"pt-BR": "Cristo, tende piedade."
+					},
+					"r": {
+						"en-US": "Christ, have mercy.",
+						"pt-BR": "Cristo, tende piedade."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Lord, have mercy.",
+						"pt-BR": "Senhor, tende piedade."
+					},
+					"r": {
+						"en-US": "Lord, have mercy.",
+						"pt-BR": "Senhor, tende piedade."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Christ, hear us.",
+						"pt-BR": "Cristo, ouvi-nos."
+					},
+					"r": {
+						"en-US": "Christ, graciously hear us.",
+						"pt-BR": "Cristo, atendei-nos."
+					}
+				}
+			]
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "response",
+			"verses": [
+				{
+					"v": {
+						"en-US": "God the Father of Heaven,",
+						"pt-BR": "Deus Pai do Céu,"
+					},
+					"r": {
+						"en-US": "Have mercy on us.",
+						"pt-BR": "Tende piedade de nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "God the Son, Redeemer of the world,",
+						"pt-BR": "Deus Filho, Redentor do mundo,"
+					},
+					"r": {
+						"en-US": "Have mercy on us.",
+						"pt-BR": "Tende piedade de nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "God the Holy Spirit,",
+						"pt-BR": "Deus Espírito Santo,"
+					},
+					"r": {
+						"en-US": "Have mercy on us.",
+						"pt-BR": "Tende piedade de nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Holy Trinity, one God,",
+						"pt-BR": "Santíssima Trindade, um só Deus,"
+					},
+					"r": {
+						"en-US": "Have mercy on us.",
+						"pt-BR": "Tende piedade de nós."
+					}
+				}
+			]
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "response",
+			"verses": [
+				{
+					"v": {
+						"en-US": "Holy Mary,",
+						"pt-BR": "Santa Maria,"
+					},
+					"r": {
+						"en-US": "Pray for us.",
+						"pt-BR": "Rogai por nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Holy Mother of God,",
+						"pt-BR": "Santa Mãe de Deus,"
+					},
+					"r": {
+						"en-US": "Pray for us.",
+						"pt-BR": "Rogai por nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Holy Virgin of virgins,",
+						"pt-BR": "Santíssima Virgem das virgens,"
+					},
+					"r": {
+						"en-US": "Pray for us.",
+						"pt-BR": "Rogai por nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Mother of Christ,",
+						"pt-BR": "Mãe de Cristo,"
+					},
+					"r": {
+						"en-US": "Pray for us.",
+						"pt-BR": "Rogai por nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Mother of the Church,",
+						"pt-BR": "Mãe da Igreja,"
+					},
+					"r": {
+						"en-US": "Pray for us.",
+						"pt-BR": "Rogai por nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Mother of Mercy,",
+						"pt-BR": "Mãe da Misericórdia,"
+					},
+					"r": {
+						"en-US": "Pray for us.",
+						"pt-BR": "Rogai por nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Mother of divine grace,",
+						"pt-BR": "Mãe da divina graça,"
+					},
+					"r": {
+						"en-US": "Pray for us.",
+						"pt-BR": "Rogai por nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Mother of Hope,",
+						"pt-BR": "Mãe da Esperança,"
+					},
+					"r": {
+						"en-US": "Pray for us.",
+						"pt-BR": "Rogai por nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Mother most pure,",
+						"pt-BR": "Mãe puríssima,"
+					},
+					"r": {
+						"en-US": "Pray for us.",
+						"pt-BR": "Rogai por nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Mother most chaste,",
+						"pt-BR": "Mãe castíssima,"
+					},
+					"r": {
+						"en-US": "Pray for us.",
+						"pt-BR": "Rogai por nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Mother inviolate,",
+						"pt-BR": "Mãe inviolada,"
+					},
+					"r": {
+						"en-US": "Pray for us.",
+						"pt-BR": "Rogai por nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Mother undefiled,",
+						"pt-BR": "Mãe não violada,"
+					},
+					"r": {
+						"en-US": "Pray for us.",
+						"pt-BR": "Rogai por nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Mother most amiable,",
+						"pt-BR": "Mãe amabilíssima,"
+					},
+					"r": {
+						"en-US": "Pray for us.",
+						"pt-BR": "Rogai por nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Mother admirable,",
+						"pt-BR": "Mãe admirável,"
+					},
+					"r": {
+						"en-US": "Pray for us.",
+						"pt-BR": "Rogai por nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Mother of good counsel,",
+						"pt-BR": "Mãe do bom conselho,"
+					},
+					"r": {
+						"en-US": "Pray for us.",
+						"pt-BR": "Rogai por nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Mother of our Creator,",
+						"pt-BR": "Mãe do nosso Criador,"
+					},
+					"r": {
+						"en-US": "Pray for us.",
+						"pt-BR": "Rogai por nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Mother of our Saviour,",
+						"pt-BR": "Mãe do nosso Salvador,"
+					},
+					"r": {
+						"en-US": "Pray for us.",
+						"pt-BR": "Rogai por nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Virgin most prudent,",
+						"pt-BR": "Virgem prudentíssima,"
+					},
+					"r": {
+						"en-US": "Pray for us.",
+						"pt-BR": "Rogai por nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Virgin most venerable,",
+						"pt-BR": "Virgem venerável,"
+					},
+					"r": {
+						"en-US": "Pray for us.",
+						"pt-BR": "Rogai por nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Virgin most renowned,",
+						"pt-BR": "Virgem afamada,"
+					},
+					"r": {
+						"en-US": "Pray for us.",
+						"pt-BR": "Rogai por nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Virgin most powerful,",
+						"pt-BR": "Virgem poderosa,"
+					},
+					"r": {
+						"en-US": "Pray for us.",
+						"pt-BR": "Rogai por nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Virgin most merciful,",
+						"pt-BR": "Virgem clemente,"
+					},
+					"r": {
+						"en-US": "Pray for us.",
+						"pt-BR": "Rogai por nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Virgin most faithful,",
+						"pt-BR": "Virgem fiel,"
+					},
+					"r": {
+						"en-US": "Pray for us.",
+						"pt-BR": "Rogai por nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Mirror of justice,",
+						"pt-BR": "Espelho de justiça,"
+					},
+					"r": {
+						"en-US": "Pray for us.",
+						"pt-BR": "Rogai por nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Seat of wisdom,",
+						"pt-BR": "Sede da sabedoria,"
+					},
+					"r": {
+						"en-US": "Pray for us.",
+						"pt-BR": "Rogai por nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Cause of our joy,",
+						"pt-BR": "Causa da nossa alegria,"
+					},
+					"r": {
+						"en-US": "Pray for us.",
+						"pt-BR": "Rogai por nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Spiritual vessel,",
+						"pt-BR": "Vaso espiritual,"
+					},
+					"r": {
+						"en-US": "Pray for us.",
+						"pt-BR": "Rogai por nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Vessel of honour,",
+						"pt-BR": "Vaso de honra,"
+					},
+					"r": {
+						"en-US": "Pray for us.",
+						"pt-BR": "Rogai por nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Singular vessel of devotion,",
+						"pt-BR": "Vaso insigne de devoção,"
+					},
+					"r": {
+						"en-US": "Pray for us.",
+						"pt-BR": "Rogai por nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Mystical rose,",
+						"pt-BR": "Rosa mística,"
+					},
+					"r": {
+						"en-US": "Pray for us.",
+						"pt-BR": "Rogai por nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Tower of David,",
+						"pt-BR": "Torre de David,"
+					},
+					"r": {
+						"en-US": "Pray for us.",
+						"pt-BR": "Rogai por nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Tower of ivory,",
+						"pt-BR": "Torre de marfim,"
+					},
+					"r": {
+						"en-US": "Pray for us.",
+						"pt-BR": "Rogai por nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "House of gold,",
+						"pt-BR": "Casa de ouro,"
+					},
+					"r": {
+						"en-US": "Pray for us.",
+						"pt-BR": "Rogai por nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Ark of the covenant,",
+						"pt-BR": "Arca da aliança,"
+					},
+					"r": {
+						"en-US": "Pray for us.",
+						"pt-BR": "Rogai por nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Gate of Heaven,",
+						"pt-BR": "Porta do céu,"
+					},
+					"r": {
+						"en-US": "Pray for us.",
+						"pt-BR": "Rogai por nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Morning star,",
+						"pt-BR": "Estrela da manhã,"
+					},
+					"r": {
+						"en-US": "Pray for us.",
+						"pt-BR": "Rogai por nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Health of the sick,",
+						"pt-BR": "Saúde dos enfermos,"
+					},
+					"r": {
+						"en-US": "Pray for us.",
+						"pt-BR": "Rogai por nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Refuge of sinners,",
+						"pt-BR": "Refúgio dos pecadores,"
+					},
+					"r": {
+						"en-US": "Pray for us.",
+						"pt-BR": "Rogai por nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Solace of migrants,",
+						"pt-BR": "Consoladora dos migrantes,"
+					},
+					"r": {
+						"en-US": "Pray for us.",
+						"pt-BR": "Rogai por nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Comfort of the afflicted,",
+						"pt-BR": "Consoladora dos aflitos,"
+					},
+					"r": {
+						"en-US": "Pray for us.",
+						"pt-BR": "Rogai por nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Help of Christians,",
+						"pt-BR": "Auxílio dos cristãos,"
+					},
+					"r": {
+						"en-US": "Pray for us.",
+						"pt-BR": "Rogai por nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Queen of angels,",
+						"pt-BR": "Rainha dos anjos,"
+					},
+					"r": {
+						"en-US": "Pray for us.",
+						"pt-BR": "Rogai por nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Queen of patriarchs,",
+						"pt-BR": "Rainha dos patriarcas,"
+					},
+					"r": {
+						"en-US": "Pray for us.",
+						"pt-BR": "Rogai por nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Queen of prophets,",
+						"pt-BR": "Rainha dos profetas,"
+					},
+					"r": {
+						"en-US": "Pray for us.",
+						"pt-BR": "Rogai por nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Queen of apostles,",
+						"pt-BR": "Rainha dos apóstolos,"
+					},
+					"r": {
+						"en-US": "Pray for us.",
+						"pt-BR": "Rogai por nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Queen of martyrs,",
+						"pt-BR": "Rainha dos mártires,"
+					},
+					"r": {
+						"en-US": "Pray for us.",
+						"pt-BR": "Rogai por nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Queen of confessors,",
+						"pt-BR": "Rainha dos confessores,"
+					},
+					"r": {
+						"en-US": "Pray for us.",
+						"pt-BR": "Rogai por nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Queen of virgins,",
+						"pt-BR": "Rainha das virgens,"
+					},
+					"r": {
+						"en-US": "Pray for us.",
+						"pt-BR": "Rogai por nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Queen of all saints,",
+						"pt-BR": "Rainha de todos os santos,"
+					},
+					"r": {
+						"en-US": "Pray for us.",
+						"pt-BR": "Rogai por nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Queen conceived without original sin,",
+						"pt-BR": "Rainha concebida sem pecado original,"
+					},
+					"r": {
+						"en-US": "Pray for us.",
+						"pt-BR": "Rogai por nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Queen assumed into heaven,",
+						"pt-BR": "Rainha assunta ao céu,"
+					},
+					"r": {
+						"en-US": "Pray for us.",
+						"pt-BR": "Rogai por nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Queen of the most holy Rosary,",
+						"pt-BR": "Rainha do Santíssimo Rosário,"
+					},
+					"r": {
+						"en-US": "Pray for us.",
+						"pt-BR": "Rogai por nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Queen of families,",
+						"pt-BR": "Rainha das famílias,"
+					},
+					"r": {
+						"en-US": "Pray for us.",
+						"pt-BR": "Rogai por nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Queen of peace,",
+						"pt-BR": "Rainha da paz,"
+					},
+					"r": {
+						"en-US": "Pray for us.",
+						"pt-BR": "Rogai por nós."
+					}
+				}
+			]
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "response",
+			"verses": [
+				{
+					"v": {
+						"en-US": "Lamb of God, who takest away the sins of the world,",
+						"pt-BR": "Cordeiro de Deus, que tirais os pecados do mundo,"
+					},
+					"r": {
+						"en-US": "Spare us, O Lord.",
+						"pt-BR": "Perdoai-nos, Senhor."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Lamb of God, who takest away the sins of the world,",
+						"pt-BR": "Cordeiro de Deus, que tirais os pecados do mundo,"
+					},
+					"r": {
+						"en-US": "Graciously hear us, O Lord.",
+						"pt-BR": "Ouvi-nos, Senhor."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Lamb of God, who takest away the sins of the world,",
+						"pt-BR": "Cordeiro de Deus, que tirais os pecados do mundo,"
+					},
+					"r": {
+						"en-US": "Have mercy on us.",
+						"pt-BR": "Tende piedade de nós."
+					}
+				}
+			]
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "response",
+			"verses": [
+				{
+					"v": {
+						"en-US": "Pray for us, O holy Mother of God.",
+						"pt-BR": "Rogai por nós, Santa Mãe de Deus."
+					},
+					"r": {
+						"en-US": "That we may be made worthy of the promises of Christ.",
+						"pt-BR": "Para que sejamos tornados dignos das promessas de Cristo."
+					}
+				}
+			]
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "Let us pray.",
+				"pt-BR": "Oremos."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Grant, we beseech Thee, O Lord God, that we Thy servants may enjoy lasting health of mind and body, and by the glorious intercession of the Blessed Mary ever Virgin, be delivered from present sorrow, and enter into the joy of Thine eternal gladness. Through Christ our Lord. Amen.",
+				"pt-BR": "Concedei, Senhor, a nós, vossos servos, gozar de perpétua saúde de alma e corpo, e, pela gloriosa intercessão da bem-aventurada Virgem Maria, sermos livres das tribulações presentes e alcançarmos a eterna felicidade. Por Cristo Nosso Senhor. Amém."
+			}
+		}
+	]
 }

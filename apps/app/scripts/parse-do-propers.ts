@@ -6,19 +6,29 @@
  *
  * Usage: npx tsx scripts/parse-do-propers.ts
  *
- * The DO repo must be cloned locally first:
- *   git clone --depth 1 https://github.com/DivinumOfficium/divinum-officium .divinum-officium
+ * The DO repo is cloned automatically on first run.
  */
+import { execSync } from 'node:child_process'
 import { existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from 'node:fs'
 import { basename, join, resolve } from 'node:path'
 
 const root = resolve(new URL('.', import.meta.url).pathname, '..')
-const doRoot = join(root, '.divinum-officium', 'web', 'www')
+const doRepo = join(root, '.divinum-officium')
+
+if (!existsSync(doRepo)) {
+  console.log('Cloning Divinum Officium repository...')
+  execSync(
+    'git clone --depth 1 https://github.com/DivinumOfficium/divinum-officium .divinum-officium',
+    { cwd: root, stdio: 'inherit' },
+  )
+}
+
+const doRoot = join(doRepo, 'web', 'www')
 const missaRoot = join(doRoot, 'missa')
 const horasRoot = join(doRoot, 'horas')
 const outputRoot = join(root, 'src', 'assets', 'propers')
 
-const langs = { English: 'en', Latin: 'latin', Portugues: 'pt-BR' } as const
+const langs = { English: 'en-US', Latin: 'la', Portugues: 'pt-BR' } as const
 type LangKey = keyof typeof langs
 
 // Sections we care about for the 10 proper slots
@@ -74,7 +84,10 @@ function parseSections(text: string): { sections: ParsedSections; baseRef?: stri
           continue
         }
         // (rubrica 196 aut rubrica 1930) or similar → only include if 1960 is mentioned
-        if (/rubrica/.test(sectionCondition) && !/rubrica\s*196|rubrica\s*1960|rubrica\s*1955/.test(sectionCondition)) {
+        if (
+          /rubrica/.test(sectionCondition) &&
+          !/rubrica\s*196|rubrica\s*1960|rubrica\s*1955/.test(sectionCondition)
+        ) {
           currentSection = undefined
           lines = []
           continue
@@ -116,7 +129,9 @@ function loadSections(path: string): ParsedSections | undefined {
   return result.sections
 }
 
-function loadSectionsWithBase(path: string): { sections: ParsedSections; baseRef?: string } | undefined {
+function loadSectionsWithBase(
+  path: string,
+): { sections: ParsedSections; baseRef?: string } | undefined {
   if (sectionsCache.has(path)) return sectionsCache.get(path)
   const content = readDoFile(path)
   if (!content) return undefined
@@ -139,7 +154,10 @@ function loadPrayers(lang: LangKey): ParsedSections {
 
 function expandMacro(macro: string, lang: LangKey): string {
   // $Per Dominum → look up [Per Dominum] in Prayers.txt
-  const key = macro.replace(/^\$\s*/, '').replace(/\.\s*$/, '').trim()
+  const key = macro
+    .replace(/^\$\s*/, '')
+    .replace(/\.\s*$/, '')
+    .trim()
   const prayers = loadPrayers(lang)
   const lines = prayers.get(key)
   if (!lines) return ''
@@ -360,10 +378,7 @@ function loadPrefationes(lang: LangKey): ParsedSections {
   return sections
 }
 
-function getPrefatio(
-  ruleLines: string[],
-  lang: LangKey,
-): ProcessedSection | undefined {
+function getPrefatio(ruleLines: string[], lang: LangKey): ProcessedSection | undefined {
   for (const line of ruleLines) {
     const match = line.match(/^Prefatio=(\w+)/)
     if (match) {
@@ -379,8 +394,8 @@ function getPrefatio(
 // ── Main file processor ──
 
 type ProperSection = {
-  en?: string
-  latin?: string
+  'en-US'?: string
+  la?: string
   'pt-BR'?: string
   citation?: string
 }
@@ -429,10 +444,7 @@ function collectSections(
   return merged
 }
 
-function processFile(
-  fileId: string,
-  category: 'Tempora' | 'Sancti',
-): ProperFile | undefined {
+function processFile(fileId: string, category: 'Tempora' | 'Sancti'): ProperFile | undefined {
   const result: ProperFile = {}
 
   for (const [langDir, langCode] of Object.entries(langs)) {
@@ -457,7 +469,7 @@ function processFile(
 
       if (!result[sectionName]) result[sectionName] = {}
       ;(result[sectionName] as Record<string, string>)[langCode] = processed.text
-      if (processed.citation && (!result[sectionName].citation || langCode === 'en')) {
+      if (processed.citation && (!result[sectionName].citation || langCode === 'en-US')) {
         result[sectionName].citation = processed.citation
       }
     }

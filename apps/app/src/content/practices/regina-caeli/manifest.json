@@ -1,31 +1,60 @@
 {
-  "id": "regina-caeli",
-  "icon": "mary",
-  "name": { "en": "Regina Caeli", "pt-BR": "Rainha do Céu" },
-  "categories": ["marian", "seasonal", "liturgical"],
-  "estimatedMinutes": 3,
-  "description": {
-    "en": "The Regina Caeli is the Marian antiphon of the Easter season, replacing the Angelus from Easter Sunday through Pentecost. It joyfully proclaims Our Lady's share in her Son's Resurrection.",
-    "pt-BR": "A Rainha do Céu é a antífona mariana do tempo pascal, substituindo o Angelus do Domingo de Páscoa até Pentecostes. Ela proclama com alegria a participação de Nossa Senhora na Ressurreição de seu Filho."
-  },
-  "history": {
-    "en": "The Regina Caeli was first used in the 12th century and was made obligatory for the Easter season by Pope Benedict XIV in 1742, who inserted it into the Roman Breviary to replace the Angelus from Easter Sunday through Pentecost.",
-    "pt-BR": "A Rainha do Céu foi utilizada pela primeira vez no século XII e tornou-se obrigatória no tempo pascal pelo Papa Bento XIV em 1742, que a inseriu no Breviário Romano para substituir o Angelus do Domingo de Páscoa até Pentecostes."
-  },
-  "howToPray": {
-    "en": "Prayed three times daily during Eastertide, standing (not kneeling) as a sign of Resurrection joy, in place of the Angelus. The prayer consists of the antiphon, a versicle and response, and a collect.",
-    "pt-BR": "Rezada três vezes ao dia durante o tempo pascal, de pé (não ajoelhado) como sinal da alegria da Ressurreição, no lugar do Angelus. A oração consiste na antífona, um versículo e resposta, e uma oração colecta."
-  },
-  "flowMode": "scroll",
-  "completion": "flow-end",
-  "flows": [
-    { "id": "default", "name": { "en": "Regina Caeli", "pt-BR": "Rainha do Céu" }, "file": "flow.json" }
-  ],
-  "tags": ["marian", "easter", "antiphon", "seasonal"],
-  "defaults": {
-    "sortOrder": 21,
-    "slots": [
-      { "flowId": "default", "schedule": { "type": "daily", "seasons": ["easter"] }, "tier": "ideal", "enabled": false }
-    ]
-  }
+	"id": "regina-caeli",
+	"icon": "mary",
+	"name": {
+		"en-US": "Regina Caeli",
+		"pt-BR": "Rainha do Céu"
+	},
+	"categories": [
+		"marian",
+		"seasonal",
+		"liturgical"
+	],
+	"estimatedMinutes": 3,
+	"description": {
+		"en-US": "The Regina Caeli is the Marian antiphon of the Easter season, replacing the Angelus from Easter Sunday through Pentecost. It joyfully proclaims Our Lady's share in her Son's Resurrection.",
+		"pt-BR": "A Rainha do Céu é a antífona mariana do tempo pascal, substituindo o Angelus do Domingo de Páscoa até Pentecostes. Ela proclama com alegria a participação de Nossa Senhora na Ressurreição de seu Filho."
+	},
+	"history": {
+		"en-US": "The Regina Caeli was first used in the 12th century and was made obligatory for the Easter season by Pope Benedict XIV in 1742, who inserted it into the Roman Breviary to replace the Angelus from Easter Sunday through Pentecost.",
+		"pt-BR": "A Rainha do Céu foi utilizada pela primeira vez no século XII e tornou-se obrigatória no tempo pascal pelo Papa Bento XIV em 1742, que a inseriu no Breviário Romano para substituir o Angelus do Domingo de Páscoa até Pentecostes."
+	},
+	"howToPray": {
+		"en-US": "Prayed three times daily during Eastertide, standing (not kneeling) as a sign of Resurrection joy, in place of the Angelus. The prayer consists of the antiphon, a versicle and response, and a collect.",
+		"pt-BR": "Rezada três vezes ao dia durante o tempo pascal, de pé (não ajoelhado) como sinal da alegria da Ressurreição, no lugar do Angelus. A oração consiste na antífona, um versículo e resposta, e uma oração colecta."
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flows": [
+		{
+			"id": "default",
+			"name": {
+				"en-US": "Regina Caeli",
+				"pt-BR": "Rainha do Céu"
+			},
+			"file": "flow.json"
+		}
+	],
+	"tags": [
+		"marian",
+		"easter",
+		"antiphon",
+		"seasonal"
+	],
+	"defaults": {
+		"sortOrder": 21,
+		"slots": [
+			{
+				"flowId": "default",
+				"schedule": {
+					"type": "daily",
+					"seasons": [
+						"easter"
+					]
+				},
+				"tier": "ideal",
+				"enabled": false
+			}
+		]
+	}
 }

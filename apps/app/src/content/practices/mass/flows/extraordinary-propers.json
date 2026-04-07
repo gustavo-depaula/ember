@@ -3,7 +3,7 @@
 		{
 			"type": "heading",
 			"text": {
-				"en": "Introit",
+				"en-US": "Introit",
 				"pt-BR": "Intróito"
 			}
 		},
@@ -11,7 +11,7 @@
 			"type": "proper",
 			"slot": "introit",
 			"description": {
-				"en": "Introit of the day",
+				"en-US": "Introit of the day",
 				"pt-BR": "Intróito do dia"
 			},
 			"form": "ef"
@@ -22,7 +22,7 @@
 		{
 			"type": "heading",
 			"text": {
-				"en": "Collect",
+				"en-US": "Collect",
 				"pt-BR": "Oração Coleta"
 			}
 		},
@@ -30,7 +30,7 @@
 			"type": "proper",
 			"slot": "collect",
 			"description": {
-				"en": "Collect of the day",
+				"en-US": "Collect of the day",
 				"pt-BR": "Oração Coleta do dia"
 			},
 			"form": "ef"
@@ -41,7 +41,7 @@
 		{
 			"type": "heading",
 			"text": {
-				"en": "Epistle",
+				"en-US": "Epistle",
 				"pt-BR": "Epístola"
 			}
 		},
@@ -49,7 +49,7 @@
 			"type": "proper",
 			"slot": "epistle",
 			"description": {
-				"en": "Epistle of the day",
+				"en-US": "Epistle of the day",
 				"pt-BR": "Epístola do dia"
 			},
 			"form": "ef"
@@ -60,7 +60,7 @@
 		{
 			"type": "heading",
 			"text": {
-				"en": "Gradual",
+				"en-US": "Gradual",
 				"pt-BR": "Gradual"
 			}
 		},
@@ -68,7 +68,7 @@
 			"type": "proper",
 			"slot": "gradual",
 			"description": {
-				"en": "Gradual / Alleluia / Tract of the day",
+				"en-US": "Gradual / Alleluia / Tract of the day",
 				"pt-BR": "Gradual / Aleluia / Trato do dia"
 			},
 			"form": "ef"
@@ -79,7 +79,7 @@
 		{
 			"type": "heading",
 			"text": {
-				"en": "Gospel",
+				"en-US": "Gospel",
 				"pt-BR": "Evangelho"
 			}
 		},
@@ -87,7 +87,7 @@
 			"type": "proper",
 			"slot": "gospel",
 			"description": {
-				"en": "Gospel of the day",
+				"en-US": "Gospel of the day",
 				"pt-BR": "Evangelho do dia"
 			},
 			"form": "ef"
@@ -98,7 +98,7 @@
 		{
 			"type": "heading",
 			"text": {
-				"en": "Offertory",
+				"en-US": "Offertory",
 				"pt-BR": "Ofertório"
 			}
 		},
@@ -106,7 +106,7 @@
 			"type": "proper",
 			"slot": "offertory",
 			"description": {
-				"en": "Offertory verse of the day",
+				"en-US": "Offertory verse of the day",
 				"pt-BR": "Versículo do Ofertório do dia"
 			},
 			"form": "ef"
@@ -117,7 +117,7 @@
 		{
 			"type": "heading",
 			"text": {
-				"en": "Secret",
+				"en-US": "Secret",
 				"pt-BR": "Secreta"
 			}
 		},
@@ -125,7 +125,7 @@
 			"type": "proper",
 			"slot": "secret",
 			"description": {
-				"en": "Secret of the day",
+				"en-US": "Secret of the day",
 				"pt-BR": "Secreta do dia"
 			},
 			"form": "ef"
@@ -136,7 +136,7 @@
 		{
 			"type": "heading",
 			"text": {
-				"en": "Preface",
+				"en-US": "Preface",
 				"pt-BR": "Prefácio"
 			}
 		},
@@ -144,7 +144,7 @@
 			"type": "proper",
 			"slot": "preface",
 			"description": {
-				"en": "Preface of the day",
+				"en-US": "Preface of the day",
 				"pt-BR": "Prefácio do dia"
 			},
 			"form": "ef"
@@ -155,7 +155,7 @@
 		{
 			"type": "heading",
 			"text": {
-				"en": "Communion",
+				"en-US": "Communion",
 				"pt-BR": "Comunhão"
 			}
 		},
@@ -163,7 +163,7 @@
 			"type": "proper",
 			"slot": "communion",
 			"description": {
-				"en": "Communion antiphon of the day",
+				"en-US": "Communion antiphon of the day",
 				"pt-BR": "Antífona de Comunhão do dia"
 			},
 			"form": "ef"
@@ -174,7 +174,7 @@
 		{
 			"type": "heading",
 			"text": {
-				"en": "Postcommunion",
+				"en-US": "Postcommunion",
 				"pt-BR": "Pós-Comunhão"
 			}
 		},
@@ -182,7 +182,7 @@
 			"type": "proper",
 			"slot": "postcommunion",
 			"description": {
-				"en": "Postcommunion prayer of the day",
+				"en-US": "Postcommunion prayer of the day",
 				"pt-BR": "Oração pós-Comunhão do dia"
 			},
 			"form": "ef"

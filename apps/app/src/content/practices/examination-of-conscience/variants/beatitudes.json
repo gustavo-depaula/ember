@@ -1,28 +1,61 @@
 {
-  "id": "beatitudes",
-  "name": { "en": "The Beatitudes", "pt-BR": "As Bem-aventuranças" },
-  "data": {
-    "default": [
-      {
-        "name": { "en": "Poor in Spirit & Pure in Heart", "pt-BR": "Pobres de Espírito e Puros de Coração" },
-        "meditation": { "en": "Have I been humble, acknowledging my total dependence on God? Or have I been proud, self-sufficient, quick to judge? Have I sought God with an undivided heart, or has my heart been scattered among many loves? Have I guarded my senses and imagination against what would cloud my vision of God?", "pt-BR": "Fui humilde, reconhecendo minha total dependência de Deus? Ou fui orgulhoso, autossuficiente, rápido em julgar? Busquei a Deus com coração indiviso, ou meu coração ficou disperso entre muitos amores? Guardei meus sentidos e imaginação contra o que obscureceria minha visão de Deus?" }
-      },
-      {
-        "name": { "en": "Meek & Merciful", "pt-BR": "Mansos e Misericordiosos" },
-        "meditation": { "en": "Have I been patient and gentle with others — especially those who are difficult, slow, or irritating? Or have I been harsh, critical, and quick to anger? Have I shown mercy to those who have wronged me? Do I carry grudges, or have I forgiven as I have been forgiven? Have I shown compassion to those who suffer?", "pt-BR": "Fui paciente e gentil com os outros — especialmente com os que são difíceis, lentos ou irritantes? Ou fui duro, crítico e rápido em me irar? Mostrei misericórdia para com quem me magoou? Carrego rancores, ou perdoei como fui perdoado? Mostrei compaixão para com os que sofrem?" }
-      },
-      {
-        "name": { "en": "Hungry for Righteousness & Peacemakers", "pt-BR": "Famintos de Justiça e Pacificadores" },
-        "meditation": { "en": "Have I worked for justice — in my home, workplace, and community? Have I spoken up when I should have, or stayed silent out of cowardice? Have I been a force for peace — bringing reconciliation, easing conflicts, building bridges? Or have I sown division, taken sides unnecessarily, or allowed relationships to break down without effort?", "pt-BR": "Trabalhei pela justiça — em minha casa, trabalho e comunidade? Falei quando devia, ou fiquei em silêncio por covardia? Fui um agente de paz — trazendo reconciliação, aliviando conflitos, construindo pontes? Ou semeei divisão, tomei partido desnecessariamente ou permiti que relacionamentos se rompessem sem esforço?" }
-      },
-      {
-        "name": { "en": "Mourning & Persecuted for Righteousness", "pt-BR": "Os que Choram e os Perseguidos pela Justiça" },
-        "meditation": { "en": "Have I been willing to suffer for the truth — at the cost of approval, comfort, or reputation? Have I offered my sufferings to God rather than merely resenting them? Have I prayed for those who have treated me unjustly or who dislike me? Have I stood firm in my faith when challenged, or compromised out of human respect?", "pt-BR": "Estive disposto a sofrer pela verdade — ao custo de aprovação, conforto ou reputação? Ofereci meus sofrimentos a Deus em vez de apenas ressentir deles? Rezei por quem me tratou injustamente ou não me quer bem? Permaneci firme em minha fé quando desafiado, ou cedi por respeito humano?" }
-      },
-      {
-        "name": { "en": "Resolution & Contrition", "pt-BR": "Resolução e Contrição" },
-        "meditation": { "en": "Which Beatitude speaks most clearly to where you are right now? Where is Christ calling you to grow? Make one concrete resolution inspired by the Beatitudes — a commitment to greater humility, mercy, peacemaking, or courage. Bring your failures to God with sorrow and trust in His mercy.", "pt-BR": "Qual Bem-aventurança fala mais claramente ao seu momento atual? Para onde Cristo está chamando você a crescer? Faça uma resolução concreta inspirada nas Bem-aventuranças — um compromisso com maior humildade, misericórdia, pacificação ou coragem. Traga suas falhas a Deus com arrependimento e confiança em Sua misericórdia." }
-      }
-    ]
-  }
+	"id": "beatitudes",
+	"name": {
+		"en-US": "The Beatitudes",
+		"pt-BR": "As Bem-aventuranças"
+	},
+	"data": {
+		"default": [
+			{
+				"name": {
+					"en-US": "Poor in Spirit & Pure in Heart",
+					"pt-BR": "Pobres de Espírito e Puros de Coração"
+				},
+				"meditation": {
+					"en-US": "Have I been humble, acknowledging my total dependence on God? Or have I been proud, self-sufficient, quick to judge? Have I sought God with an undivided heart, or has my heart been scattered among many loves? Have I guarded my senses and imagination against what would cloud my vision of God?",
+					"pt-BR": "Fui humilde, reconhecendo minha total dependência de Deus? Ou fui orgulhoso, autossuficiente, rápido em julgar? Busquei a Deus com coração indiviso, ou meu coração ficou disperso entre muitos amores? Guardei meus sentidos e imaginação contra o que obscureceria minha visão de Deus?"
+				}
+			},
+			{
+				"name": {
+					"en-US": "Meek & Merciful",
+					"pt-BR": "Mansos e Misericordiosos"
+				},
+				"meditation": {
+					"en-US": "Have I been patient and gentle with others — especially those who are difficult, slow, or irritating? Or have I been harsh, critical, and quick to anger? Have I shown mercy to those who have wronged me? Do I carry grudges, or have I forgiven as I have been forgiven? Have I shown compassion to those who suffer?",
+					"pt-BR": "Fui paciente e gentil com os outros — especialmente com os que são difíceis, lentos ou irritantes? Ou fui duro, crítico e rápido em me irar? Mostrei misericórdia para com quem me magoou? Carrego rancores, ou perdoei como fui perdoado? Mostrei compaixão para com os que sofrem?"
+				}
+			},
+			{
+				"name": {
+					"en-US": "Hungry for Righteousness & Peacemakers",
+					"pt-BR": "Famintos de Justiça e Pacificadores"
+				},
+				"meditation": {
+					"en-US": "Have I worked for justice — in my home, workplace, and community? Have I spoken up when I should have, or stayed silent out of cowardice? Have I been a force for peace — bringing reconciliation, easing conflicts, building bridges? Or have I sown division, taken sides unnecessarily, or allowed relationships to break down without effort?",
+					"pt-BR": "Trabalhei pela justiça — em minha casa, trabalho e comunidade? Falei quando devia, ou fiquei em silêncio por covardia? Fui um agente de paz — trazendo reconciliação, aliviando conflitos, construindo pontes? Ou semeei divisão, tomei partido desnecessariamente ou permiti que relacionamentos se rompessem sem esforço?"
+				}
+			},
+			{
+				"name": {
+					"en-US": "Mourning & Persecuted for Righteousness",
+					"pt-BR": "Os que Choram e os Perseguidos pela Justiça"
+				},
+				"meditation": {
+					"en-US": "Have I been willing to suffer for the truth — at the cost of approval, comfort, or reputation? Have I offered my sufferings to God rather than merely resenting them? Have I prayed for those who have treated me unjustly or who dislike me? Have I stood firm in my faith when challenged, or compromised out of human respect?",
+					"pt-BR": "Estive disposto a sofrer pela verdade — ao custo de aprovação, conforto ou reputação? Ofereci meus sofrimentos a Deus em vez de apenas ressentir deles? Rezei por quem me tratou injustamente ou não me quer bem? Permaneci firme em minha fé quando desafiado, ou cedi por respeito humano?"
+				}
+			},
+			{
+				"name": {
+					"en-US": "Resolution & Contrition",
+					"pt-BR": "Resolução e Contrição"
+				},
+				"meditation": {
+					"en-US": "Which Beatitude speaks most clearly to where you are right now? Where is Christ calling you to grow? Make one concrete resolution inspired by the Beatitudes — a commitment to greater humility, mercy, peacemaking, or courage. Bring your failures to God with sorrow and trust in His mercy.",
+					"pt-BR": "Qual Bem-aventurança fala mais claramente ao seu momento atual? Para onde Cristo está chamando você a crescer? Faça uma resolução concreta inspirada nas Bem-aventuranças — um compromisso com maior humildade, misericórdia, pacificação ou coragem. Traga suas falhas a Deus com arrependimento e confiança em Sua misericórdia."
+				}
+			}
+		]
+	}
 }

@@ -1,64 +1,151 @@
 {
-  "id": "traditional",
-  "name": { "en": "Traditional Meditations", "pt-BR": "Meditações Tradicionais" },
-  "data": {
-    "stations": [
-      {
-        "name": { "en": "Jesus Rises from the Dead", "pt-BR": "Jesus Ressuscita dos Mortos" },
-        "meditation": { "en": "In the silence of the third day, before any human eye could see, the power of God raised Jesus from the dead. Death has been conquered from within. The stone is rolled away not to let Jesus out, but to let us in — to witness the empty tomb and believe.", "pt-BR": "No silêncio do terceiro dia, antes que olho humano pudesse ver, o poder de Deus ressuscitou Jesus dos mortos. A morte foi vencida por dentro. A pedra é removida não para deixar Jesus sair, mas para nos deixar entrar — para testemunhar o túmulo vazio e crer." }
-      },
-      {
-        "name": { "en": "The Disciples Find the Empty Tomb", "pt-BR": "Os Discípulos Encontram o Túmulo Vazio" },
-        "meditation": { "en": "Mary Magdalene runs to tell Peter and John. They race to the tomb. The beloved disciple sees the burial cloths lying there and believes. Faith begins not with proof but with love — the love that runs without knowing why, and sees and believes.", "pt-BR": "Maria Madalena corre para contar a Pedro e João. Eles correm para o túmulo. O discípulo amado vê os lençóis ali depositados e crê. A fé começa não com provas, mas com amor — o amor que corre sem saber por quê, que vê e crê." }
-      },
-      {
-        "name": { "en": "Jesus Appears to Mary Magdalene", "pt-BR": "Jesus Aparece a Maria Madalena" },
-        "meditation": { "en": "Mary weeps outside the tomb and hears her name spoken: 'Mary!' In that one word, the Risen Christ reveals Himself. He knows each of us by name. In the darkest grief, He comes and calls us by name. We need only turn toward Him.", "pt-BR": "Maria chora fora do túmulo e ouve seu nome pronunciado: 'Maria!' Nessa única palavra, o Cristo Ressuscitado se revela. Ele conhece cada um de nós pelo nome. No mais profundo sofrimento, Ele vem e nos chama pelo nome. Só precisamos nos voltar para Ele." }
-      },
-      {
-        "name": { "en": "Jesus Appears on the Road to Emmaus", "pt-BR": "Jesus Aparece no Caminho de Emaús" },
-        "meditation": { "en": "Two disciples walk away from Jerusalem in grief and disappointment. A stranger joins them. He opens the Scriptures. Their hearts burn. They do not recognize Him until He breaks the bread. How often does Christ walk beside us unrecognized — in strangers, in hardship, in Scripture?", "pt-BR": "Dois discípulos caminham para longe de Jerusalém com pesar e decepção. Um estranho se junta a eles. Ele abre as Escrituras. Seus corações ardem. Não O reconhecem até que Ele parte o pão. Quantas vezes Cristo caminha ao nosso lado sem ser reconhecido — em estranhos, nas dificuldades, nas Escrituras?" }
-      },
-      {
-        "name": { "en": "Jesus Is Recognized in the Breaking of Bread", "pt-BR": "Jesus É Reconhecido na Fração do Pão" },
-        "meditation": { "en": "At table in Emmaus, Jesus takes the bread, blesses it, breaks it, and gives it to them. Their eyes are opened and He vanishes. He is known to us in the Eucharist. At every Mass, the same Risen Christ makes Himself known in the breaking of the bread.", "pt-BR": "À mesa em Emaús, Jesus toma o pão, abençoa, parte-o e o dá a eles. Os olhos deles se abrem e Ele desaparece. Ele nos é conhecido na Eucaristia. Em cada Missa, o mesmo Cristo Ressuscitado se faz conhecido na fração do pão." }
-      },
-      {
-        "name": { "en": "Jesus Appears to the Disciples in the Upper Room", "pt-BR": "Jesus Aparece aos Discípulos no Cenáculo" },
-        "meditation": { "en": "The disciples are gathered behind locked doors out of fear. Jesus comes and stands among them: 'Peace be with you.' He shows them His wounds. He breathes on them: 'Receive the Holy Spirit.' Risen life does not abolish the wounds — it transforms them into sources of peace.", "pt-BR": "Os discípulos estão reunidos atrás de portas fechadas com medo. Jesus vem e fica no meio deles: 'A paz esteja convosco.' Mostra-lhes as feridas. Sopra sobre eles: 'Recebei o Espírito Santo.' A vida ressuscitada não abole as feridas — as transforma em fontes de paz." }
-      },
-      {
-        "name": { "en": "Jesus Gives the Disciples the Power to Forgive Sins", "pt-BR": "Jesus Dá aos Discípulos o Poder de Perdoar os Pecados" },
-        "meditation": { "en": "The Risen Christ entrusts to His disciples the ministry of reconciliation: 'Whose sins you forgive are forgiven.' This is among the greatest gifts of the Resurrection — that the mercy shown on the Cross now flows to every sinner through the ministry of the Church.", "pt-BR": "O Cristo Ressuscitado confia aos seus discípulos o ministério da reconciliação: 'Aqueles a quem perdoardes os pecados, serão perdoados.' Este é um dos maiores dons da Ressurreição — que a misericórdia manifestada na Cruz flui agora para todo pecador pelo ministério da Igreja." }
-      },
-      {
-        "name": { "en": "Jesus Strengthens the Faith of Thomas", "pt-BR": "Jesus Fortalece a Fé de Tomé" },
-        "meditation": { "en": "Thomas was absent and doubted. Eight days later, Jesus comes again and invites Thomas to touch His wounds. Thomas cries: 'My Lord and my God!' Jesus says: 'Blessed are those who have not seen and yet believe.' Doubt, when brought to Christ, becomes the occasion of deeper faith.", "pt-BR": "Tomé estava ausente e duvidou. Oito dias depois, Jesus vem novamente e convida Tomé a tocar Suas feridas. Tomé exclama: 'Meu Senhor e meu Deus!' Jesus diz: 'Felizes os que não viram e creram.' A dúvida, quando trazida a Cristo, torna-se ocasião de fé mais profunda." }
-      },
-      {
-        "name": { "en": "Jesus Appears to the Disciples at the Sea of Tiberias", "pt-BR": "Jesus Aparece aos Discípulos no Mar de Tiberíades" },
-        "meditation": { "en": "The disciples have fished all night and caught nothing. A stranger on the shore tells them to cast the net on the right side. The net is full. John recognizes Him: 'It is the Lord!' Jesus has prepared breakfast for them on the shore. The Risen Lord provides for His own even in ordinary work.", "pt-BR": "Os discípulos pescaram a noite toda e não pegaram nada. Um estranho na margem diz para lançar a rede ao lado direito. A rede fica cheia. João O reconhece: 'É o Senhor!' Jesus preparou o café da manhã para eles na margem. O Senhor Ressuscitado provê para os Seus até no trabalho ordinário." }
-      },
-      {
-        "name": { "en": "Jesus Entrusts the Care of His Church to Peter", "pt-BR": "Jesus Confia o Cuidado de Sua Igreja a Pedro" },
-        "meditation": { "en": "Three times Jesus asks Peter: 'Do you love Me?' Three times Peter affirms his love, healing the three denials. Three times Jesus says: 'Feed My sheep.' Love is the only qualification for leadership in the Church. Peter's weakness is not disqualifying — it is transformed.", "pt-BR": "Três vezes Jesus pergunta a Pedro: 'Você Me ama?' Três vezes Pedro afirma seu amor, curando as três negações. Três vezes Jesus diz: 'Apascenta Minhas ovelhas.' O amor é a única qualificação para a liderança na Igreja. A fraqueza de Pedro não o desqualifica — é transformada." }
-      },
-      {
-        "name": { "en": "Jesus Sends the Disciples to Evangelize the World", "pt-BR": "Jesus Envia os Discípulos a Evangelizar o Mundo" },
-        "meditation": { "en": "On a mountain in Galilee, the Risen Christ commissions His disciples: 'Go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit.' Every baptized Christian shares in this mission. We are not spectators of the Resurrection — we are its witnesses.", "pt-BR": "Numa montanha na Galileia, o Cristo Ressuscitado comissiona seus discípulos: 'Ide e fazei discípulos de todas as nações, batizando-os em nome do Pai e do Filho e do Espírito Santo.' Todo cristão batizado participa desta missão. Não somos espectadores da Ressurreição — somos suas testemunhas." }
-      },
-      {
-        "name": { "en": "Jesus Ascends into Heaven", "pt-BR": "Jesus Sobe ao Céu" },
-        "meditation": { "en": "Forty days after the Resurrection, Jesus is taken up into heaven in the sight of the disciples. He does not leave — He goes to prepare a place for us and remains present in His Church. The Ascension is not an absence but a transformation: Christ now intercedes for us at the right hand of the Father.", "pt-BR": "Quarenta dias após a Ressurreição, Jesus sobe ao céu diante dos discípulos. Ele não parte — vai preparar um lugar para nós e permanece presente em Sua Igreja. A Ascensão não é uma ausência, mas uma transformação: Cristo agora intercede por nós à direita do Pai." }
-      },
-      {
-        "name": { "en": "Mary and the Disciples Pray in the Upper Room", "pt-BR": "Maria e os Discípulos Oram no Cenáculo" },
-        "meditation": { "en": "After the Ascension, the disciples return to Jerusalem and gather in the upper room with Mary, the Mother of Jesus, and pray. The Church is born in prayer. Mary, who bore the Word Incarnate, now intercedes for the newborn Church as it awaits the fulfillment of the promise.", "pt-BR": "Após a Ascensão, os discípulos voltam a Jerusalém e se reúnem no cenáculo com Maria, a Mãe de Jesus, e oram. A Igreja nasce da oração. Maria, que carregou o Verbo Encarnado, intercede agora pela Igreja recém-nascida enquanto aguarda o cumprimento da promessa." }
-      },
-      {
-        "name": { "en": "The Holy Spirit Descends at Pentecost", "pt-BR": "O Espírito Santo Desce em Pentecostes" },
-        "meditation": { "en": "On the fiftieth day, the Holy Spirit descends as wind and fire upon Mary and the disciples. They are filled with the Spirit and begin to speak boldly. The Resurrection reaches its full fruit at Pentecost: the Church is sent forth into the world. This is not the end of the journey but the beginning.", "pt-BR": "No quinquagésimo dia, o Espírito Santo desce como vento e fogo sobre Maria e os discípulos. Eles são cheios do Espírito e começam a falar com ousadia. A Ressurreição atinge seu pleno fruto em Pentecostes: a Igreja é enviada ao mundo. Este não é o fim da jornada, mas o começo." }
-      }
-    ]
-  }
+	"id": "traditional",
+	"name": {
+		"en-US": "Traditional Meditations",
+		"pt-BR": "Meditações Tradicionais"
+	},
+	"data": {
+		"stations": [
+			{
+				"name": {
+					"en-US": "Jesus Rises from the Dead",
+					"pt-BR": "Jesus Ressuscita dos Mortos"
+				},
+				"meditation": {
+					"en-US": "In the silence of the third day, before any human eye could see, the power of God raised Jesus from the dead. Death has been conquered from within. The stone is rolled away not to let Jesus out, but to let us in — to witness the empty tomb and believe.",
+					"pt-BR": "No silêncio do terceiro dia, antes que olho humano pudesse ver, o poder de Deus ressuscitou Jesus dos mortos. A morte foi vencida por dentro. A pedra é removida não para deixar Jesus sair, mas para nos deixar entrar — para testemunhar o túmulo vazio e crer."
+				}
+			},
+			{
+				"name": {
+					"en-US": "The Disciples Find the Empty Tomb",
+					"pt-BR": "Os Discípulos Encontram o Túmulo Vazio"
+				},
+				"meditation": {
+					"en-US": "Mary Magdalene runs to tell Peter and John. They race to the tomb. The beloved disciple sees the burial cloths lying there and believes. Faith begins not with proof but with love — the love that runs without knowing why, and sees and believes.",
+					"pt-BR": "Maria Madalena corre para contar a Pedro e João. Eles correm para o túmulo. O discípulo amado vê os lençóis ali depositados e crê. A fé começa não com provas, mas com amor — o amor que corre sem saber por quê, que vê e crê."
+				}
+			},
+			{
+				"name": {
+					"en-US": "Jesus Appears to Mary Magdalene",
+					"pt-BR": "Jesus Aparece a Maria Madalena"
+				},
+				"meditation": {
+					"en-US": "Mary weeps outside the tomb and hears her name spoken: 'Mary!' In that one word, the Risen Christ reveals Himself. He knows each of us by name. In the darkest grief, He comes and calls us by name. We need only turn toward Him.",
+					"pt-BR": "Maria chora fora do túmulo e ouve seu nome pronunciado: 'Maria!' Nessa única palavra, o Cristo Ressuscitado se revela. Ele conhece cada um de nós pelo nome. No mais profundo sofrimento, Ele vem e nos chama pelo nome. Só precisamos nos voltar para Ele."
+				}
+			},
+			{
+				"name": {
+					"en-US": "Jesus Appears on the Road to Emmaus",
+					"pt-BR": "Jesus Aparece no Caminho de Emaús"
+				},
+				"meditation": {
+					"en-US": "Two disciples walk away from Jerusalem in grief and disappointment. A stranger joins them. He opens the Scriptures. Their hearts burn. They do not recognize Him until He breaks the bread. How often does Christ walk beside us unrecognized — in strangers, in hardship, in Scripture?",
+					"pt-BR": "Dois discípulos caminham para longe de Jerusalém com pesar e decepção. Um estranho se junta a eles. Ele abre as Escrituras. Seus corações ardem. Não O reconhecem até que Ele parte o pão. Quantas vezes Cristo caminha ao nosso lado sem ser reconhecido — em estranhos, nas dificuldades, nas Escrituras?"
+				}
+			},
+			{
+				"name": {
+					"en-US": "Jesus Is Recognized in the Breaking of Bread",
+					"pt-BR": "Jesus É Reconhecido na Fração do Pão"
+				},
+				"meditation": {
+					"en-US": "At table in Emmaus, Jesus takes the bread, blesses it, breaks it, and gives it to them. Their eyes are opened and He vanishes. He is known to us in the Eucharist. At every Mass, the same Risen Christ makes Himself known in the breaking of the bread.",
+					"pt-BR": "À mesa em Emaús, Jesus toma o pão, abençoa, parte-o e o dá a eles. Os olhos deles se abrem e Ele desaparece. Ele nos é conhecido na Eucaristia. Em cada Missa, o mesmo Cristo Ressuscitado se faz conhecido na fração do pão."
+				}
+			},
+			{
+				"name": {
+					"en-US": "Jesus Appears to the Disciples in the Upper Room",
+					"pt-BR": "Jesus Aparece aos Discípulos no Cenáculo"
+				},
+				"meditation": {
+					"en-US": "The disciples are gathered behind locked doors out of fear. Jesus comes and stands among them: 'Peace be with you.' He shows them His wounds. He breathes on them: 'Receive the Holy Spirit.' Risen life does not abolish the wounds — it transforms them into sources of peace.",
+					"pt-BR": "Os discípulos estão reunidos atrás de portas fechadas com medo. Jesus vem e fica no meio deles: 'A paz esteja convosco.' Mostra-lhes as feridas. Sopra sobre eles: 'Recebei o Espírito Santo.' A vida ressuscitada não abole as feridas — as transforma em fontes de paz."
+				}
+			},
+			{
+				"name": {
+					"en-US": "Jesus Gives the Disciples the Power to Forgive Sins",
+					"pt-BR": "Jesus Dá aos Discípulos o Poder de Perdoar os Pecados"
+				},
+				"meditation": {
+					"en-US": "The Risen Christ entrusts to His disciples the ministry of reconciliation: 'Whose sins you forgive are forgiven.' This is among the greatest gifts of the Resurrection — that the mercy shown on the Cross now flows to every sinner through the ministry of the Church.",
+					"pt-BR": "O Cristo Ressuscitado confia aos seus discípulos o ministério da reconciliação: 'Aqueles a quem perdoardes os pecados, serão perdoados.' Este é um dos maiores dons da Ressurreição — que a misericórdia manifestada na Cruz flui agora para todo pecador pelo ministério da Igreja."
+				}
+			},
+			{
+				"name": {
+					"en-US": "Jesus Strengthens the Faith of Thomas",
+					"pt-BR": "Jesus Fortalece a Fé de Tomé"
+				},
+				"meditation": {
+					"en-US": "Thomas was absent and doubted. Eight days later, Jesus comes again and invites Thomas to touch His wounds. Thomas cries: 'My Lord and my God!' Jesus says: 'Blessed are those who have not seen and yet believe.' Doubt, when brought to Christ, becomes the occasion of deeper faith.",
+					"pt-BR": "Tomé estava ausente e duvidou. Oito dias depois, Jesus vem novamente e convida Tomé a tocar Suas feridas. Tomé exclama: 'Meu Senhor e meu Deus!' Jesus diz: 'Felizes os que não viram e creram.' A dúvida, quando trazida a Cristo, torna-se ocasião de fé mais profunda."
+				}
+			},
+			{
+				"name": {
+					"en-US": "Jesus Appears to the Disciples at the Sea of Tiberias",
+					"pt-BR": "Jesus Aparece aos Discípulos no Mar de Tiberíades"
+				},
+				"meditation": {
+					"en-US": "The disciples have fished all night and caught nothing. A stranger on the shore tells them to cast the net on the right side. The net is full. John recognizes Him: 'It is the Lord!' Jesus has prepared breakfast for them on the shore. The Risen Lord provides for His own even in ordinary work.",
+					"pt-BR": "Os discípulos pescaram a noite toda e não pegaram nada. Um estranho na margem diz para lançar a rede ao lado direito. A rede fica cheia. João O reconhece: 'É o Senhor!' Jesus preparou o café da manhã para eles na margem. O Senhor Ressuscitado provê para os Seus até no trabalho ordinário."
+				}
+			},
+			{
+				"name": {
+					"en-US": "Jesus Entrusts the Care of His Church to Peter",
+					"pt-BR": "Jesus Confia o Cuidado de Sua Igreja a Pedro"
+				},
+				"meditation": {
+					"en-US": "Three times Jesus asks Peter: 'Do you love Me?' Three times Peter affirms his love, healing the three denials. Three times Jesus says: 'Feed My sheep.' Love is the only qualification for leadership in the Church. Peter's weakness is not disqualifying — it is transformed.",
+					"pt-BR": "Três vezes Jesus pergunta a Pedro: 'Você Me ama?' Três vezes Pedro afirma seu amor, curando as três negações. Três vezes Jesus diz: 'Apascenta Minhas ovelhas.' O amor é a única qualificação para a liderança na Igreja. A fraqueza de Pedro não o desqualifica — é transformada."
+				}
+			},
+			{
+				"name": {
+					"en-US": "Jesus Sends the Disciples to Evangelize the World",
+					"pt-BR": "Jesus Envia os Discípulos a Evangelizar o Mundo"
+				},
+				"meditation": {
+					"en-US": "On a mountain in Galilee, the Risen Christ commissions His disciples: 'Go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit.' Every baptized Christian shares in this mission. We are not spectators of the Resurrection — we are its witnesses.",
+					"pt-BR": "Numa montanha na Galileia, o Cristo Ressuscitado comissiona seus discípulos: 'Ide e fazei discípulos de todas as nações, batizando-os em nome do Pai e do Filho e do Espírito Santo.' Todo cristão batizado participa desta missão. Não somos espectadores da Ressurreição — somos suas testemunhas."
+				}
+			},
+			{
+				"name": {
+					"en-US": "Jesus Ascends into Heaven",
+					"pt-BR": "Jesus Sobe ao Céu"
+				},
+				"meditation": {
+					"en-US": "Forty days after the Resurrection, Jesus is taken up into heaven in the sight of the disciples. He does not leave — He goes to prepare a place for us and remains present in His Church. The Ascension is not an absence but a transformation: Christ now intercedes for us at the right hand of the Father.",
+					"pt-BR": "Quarenta dias após a Ressurreição, Jesus sobe ao céu diante dos discípulos. Ele não parte — vai preparar um lugar para nós e permanece presente em Sua Igreja. A Ascensão não é uma ausência, mas uma transformação: Cristo agora intercede por nós à direita do Pai."
+				}
+			},
+			{
+				"name": {
+					"en-US": "Mary and the Disciples Pray in the Upper Room",
+					"pt-BR": "Maria e os Discípulos Oram no Cenáculo"
+				},
+				"meditation": {
+					"en-US": "After the Ascension, the disciples return to Jerusalem and gather in the upper room with Mary, the Mother of Jesus, and pray. The Church is born in prayer. Mary, who bore the Word Incarnate, now intercedes for the newborn Church as it awaits the fulfillment of the promise.",
+					"pt-BR": "Após a Ascensão, os discípulos voltam a Jerusalém e se reúnem no cenáculo com Maria, a Mãe de Jesus, e oram. A Igreja nasce da oração. Maria, que carregou o Verbo Encarnado, intercede agora pela Igreja recém-nascida enquanto aguarda o cumprimento da promessa."
+				}
+			},
+			{
+				"name": {
+					"en-US": "The Holy Spirit Descends at Pentecost",
+					"pt-BR": "O Espírito Santo Desce em Pentecostes"
+				},
+				"meditation": {
+					"en-US": "On the fiftieth day, the Holy Spirit descends as wind and fire upon Mary and the disciples. They are filled with the Spirit and begin to speak boldly. The Resurrection reaches its full fruit at Pentecost: the Church is sent forth into the world. This is not the end of the journey but the beginning.",
+					"pt-BR": "No quinquagésimo dia, o Espírito Santo desce como vento e fogo sobre Maria e os discípulos. Eles são cheios do Espírito e começam a falar com ousadia. A Ressurreição atinge seu pleno fruto em Pentecostes: a Igreja é enviada ao mundo. Este não é o fim da jornada, mas o começo."
+				}
+			}
+		]
+	}
 }

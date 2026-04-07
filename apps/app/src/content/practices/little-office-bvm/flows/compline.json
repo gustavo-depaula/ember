@@ -1,21 +1,94 @@
 {
-  "sections": [
-    { "type": "subheading", "text": { "en": "Opening Verse", "pt-BR": "Vers\u00edculo de Abertura" } },
-    { "type": "prayer", "ref": "opening-verse" },
-    { "type": "divider" },
-    { "type": "subheading", "text": { "en": "Hymn", "pt-BR": "Hino" } },
-    { "type": "cycle", "data": "office-hymns", "key": "compline", "as": "hymn" },
-    { "type": "divider" },
-    { "type": "subheading", "text": { "en": "Psalmody", "pt-BR": "Salm\u00f3dia" } },
-    { "type": "psalmody", "psalms": [129, 130, 131] },
-    { "type": "divider" },
-    { "type": "subheading", "text": { "en": "Reading", "pt-BR": "Leitura" } },
-    { "type": "subheading", "text": { "en": "Short Reading", "pt-BR": "Leitura Breve" } },
-    { "type": "divider" },
-    { "type": "subheading", "text": { "en": "Canticle", "pt-BR": "C\u00e2ntico" } },
-    { "type": "canticle", "ref": "nunc-dimittis" },
-    { "type": "divider" },
-    { "type": "subheading", "text": { "en": "Closing Prayer", "pt-BR": "Ora\u00e7\u00e3o Final" } },
-    { "type": "prayer", "ref": "glory-be" },
-  ]
+	"sections": [
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "Opening Verse",
+				"pt-BR": "Versículo de Abertura"
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "opening-verse"
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "Hymn",
+				"pt-BR": "Hino"
+			}
+		},
+		{
+			"type": "cycle",
+			"data": "office-hymns",
+			"key": "compline",
+			"as": "hymn"
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "Psalmody",
+				"pt-BR": "Salmódia"
+			}
+		},
+		{
+			"type": "psalmody",
+			"psalms": [
+				129,
+				130,
+				131
+			]
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "Reading",
+				"pt-BR": "Leitura"
+			}
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "Short Reading",
+				"pt-BR": "Leitura Breve"
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "Canticle",
+				"pt-BR": "Cântico"
+			}
+		},
+		{
+			"type": "canticle",
+			"ref": "nunc-dimittis"
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "Closing Prayer",
+				"pt-BR": "Oração Final"
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "glory-be"
+		}
+	]
 }

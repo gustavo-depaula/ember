@@ -73,7 +73,7 @@ export const usePreferencesStore = create<PreferencesState>()(
   immer((set) => ({
     translation: 'RSV2CE',
     psalterCycle: '30-day',
-    language: 'en',
+    language: 'en-US',
     liturgicalCalendar: 'of',
     jurisdiction: undefined,
     timeTravelDate: undefined,

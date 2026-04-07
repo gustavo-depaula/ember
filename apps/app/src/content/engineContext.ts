@@ -1,3 +1,4 @@
+import type { EngineContext } from '@ember/content-engine'
 import actOfCharity from '@/assets/prayers/act-of-charity.json'
 import actOfContrition from '@/assets/prayers/act-of-contrition.json'
 import actOfFaith from '@/assets/prayers/act-of-faith.json'
@@ -20,17 +21,14 @@ import nuncDimittis from '@/assets/prayers/nunc-dimittis.json'
 import openingVerse from '@/assets/prayers/opening-verse.json'
 import ourFather from '@/assets/prayers/our-father.json'
 import signOfCross from '@/assets/prayers/sign-of-cross.json'
-
-import i18n, { localizeAsset, localizeContent } from '@/lib/i18n'
+import i18n, { localizeContent } from '@/lib/i18n'
 import { parseTrackEntry } from '@/lib/lectio'
 import { parsePsalmRef } from '@/lib/liturgical'
-import type { EngineContext } from '@ember/content-engine'
 
 export function createEngineContext(): EngineContext {
   return {
     language: i18n.language,
     localizeContent,
-    localizeAsset,
     t: (k, o) => i18n.t(k, o) as string,
     parsePsalmRef,
     parseTrackEntry,

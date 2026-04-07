@@ -1,36 +1,27 @@
-import { getDate, getDay } from 'date-fns'
 import type { PsalmRef, ReadingReference } from '@ember/liturgical'
+import { getDate, getDay } from 'date-fns'
 import type {
   CycleData,
   FlowDefinition,
   FlowSection,
   LectioTrackDef,
-  LocalizedBilingualText,
+  LocalizedContent,
   LocalizedText,
   RenderedSection,
   Variant,
   VariantEntry,
 } from './types'
 
-type LocalizedTitle = { en: string; 'pt-BR'?: string; la?: string }
 export type PrayerAsset = {
-  title: LocalizedTitle
-  english: string
-  latin?: string
-  portuguese?: string
-}
-export type CanticleAsset = {
-  title: string
-  subtitle?: string
-  source?: string
-  english: string
-  portuguese?: string
+  title: LocalizedContent
+  subtitle?: LocalizedContent
+  source?: LocalizedContent
+  body: LocalizedContent
 }
 
 export type EngineContext = {
   language: string
-  localizeContent: (text: { en: string; 'pt-BR'?: string }) => string
-  localizeAsset: (obj: { english: string; portuguese?: string }) => string
+  localizeContent: (text: { 'en-US'?: string; 'pt-BR'?: string }) => string
   t: (key: string, opts?: Record<string, unknown>) => string
   parsePsalmRef: (ref: number | string) => PsalmRef
   parseTrackEntry: (
@@ -39,7 +30,7 @@ export type EngineContext = {
     bookName: (slug: string) => string,
   ) => ReadingReference[]
   prayers: Record<string, PrayerAsset>
-  canticles: Record<string, CanticleAsset>
+  canticles: Record<string, PrayerAsset>
 }
 
 export type FlowContext = {
@@ -133,7 +124,6 @@ function resolveVariantData(
   variant: Variant,
   context: FlowContext,
 ): { entries: VariantEntry[]; setKey: string } | undefined {
-  // Use setKeyOverride (flow id) to pick the right data set, fall back to first available
   const setKey =
     context.setKeyOverride && variant.data[context.setKeyOverride]
       ? context.setKeyOverride
@@ -150,7 +140,7 @@ function resolvePrayerRef(ref: string, ec: EngineContext): RenderedSection {
   return {
     type: 'prayer',
     title: ec.localizeContent(asset.title),
-    text: ec.localizeAsset(asset),
+    text: ec.localizeContent(asset.body),
   }
 }
 
@@ -167,15 +157,15 @@ function resolveCanticleRef(ref: string, ec: EngineContext): RenderedSection {
   }
   return {
     type: 'canticle',
-    title: asset.title,
-    subtitle: asset.subtitle ?? '',
-    source: asset.source ?? '',
-    text: ec.localizeAsset(asset),
+    title: ec.localizeContent(asset.title),
+    subtitle: asset.subtitle ? ec.localizeContent(asset.subtitle) : '',
+    source: asset.source ? ec.localizeContent(asset.source) : '',
+    text: ec.localizeContent(asset.body),
   }
 }
 
 function resolveInlinePrayer(
-  inline: LocalizedBilingualText,
+  inline: LocalizedContent,
   ec: EngineContext,
   speaker?: 'priest' | 'people' | 'all',
 ): RenderedSection {
@@ -184,7 +174,7 @@ function resolveInlinePrayer(
     title: '',
     text: ec.localizeContent(inline),
     ...(speaker && { speaker }),
-    ...(inline.latin && { latin: inline.latin }),
+    ...(inline.la && { latin: inline.la }),
   }
 }
 
@@ -227,7 +217,11 @@ function resolveRepeat(
     if (entry) {
       for (const [k, v] of Object.entries(entry)) {
         resolved[k] =
-          typeof v === 'object' && v !== null && 'en' in v ? ec.localizeContent(v) : v
+          typeof v === 'object' && v !== null && ('en-US' in v || 'pt-BR' in v)
+            ? ec.localizeContent(v as LocalizedText)
+            : typeof v === 'string'
+              ? v
+              : undefined
       }
     }
     const vars: Record<string, string | undefined> = {
@@ -257,13 +251,13 @@ function mapCycleOutput(as: string, raw: unknown, ec: EngineContext): RenderedSe
     return [{ type: 'psalmody', psalms: (raw as (number | string)[]).map(ec.parsePsalmRef) }]
   }
   if (as === 'hymn') {
-    const data = raw as { title: string; latin?: string; text: { en: string; 'pt-BR'?: string } }
+    const data = raw as { title: string; la?: string; text: { 'en-US'?: string; 'pt-BR'?: string } }
     return [
       {
         type: 'hymn',
         title: data.title,
-        latin: data.latin ?? '',
-        english: ec.localizeContent(data.text),
+        latin: data.la ?? '',
+        text: ec.localizeContent(data.text),
       },
     ]
   }
@@ -301,17 +295,15 @@ function resolveSection(
 
     case 'hymn':
       if ('ref' in section) {
-        return [
-          { type: 'hymn', title: section.ref, latin: '', english: `[Hymn ref: ${section.ref}]` },
-        ]
+        return [{ type: 'hymn', title: section.ref, latin: '', text: `[Hymn ref: ${section.ref}]` }]
       }
       if ('inline' in section) {
         return [
           {
             type: 'hymn',
             title: '',
-            english: ec.localizeContent(section.inline),
-            latin: section.inline.latin ?? '',
+            text: ec.localizeContent(section.inline),
+            latin: section.inline.la ?? '',
           },
         ]
       }
@@ -324,9 +316,7 @@ function resolveSection(
           {
             type: 'canticle',
             title: ec.localizeContent(section.inline.title),
-            subtitle: section.inline.subtitle
-              ? ec.localizeContent(section.inline.subtitle)
-              : '',
+            subtitle: section.inline.subtitle ? ec.localizeContent(section.inline.subtitle) : '',
             source: '',
             text: ec.localizeContent(section.inline.text),
           },
@@ -373,7 +363,11 @@ function resolveSection(
         const vars: Record<string, string | undefined> = {}
         for (const [k, v] of Object.entries(entryObj)) {
           vars[k] =
-            typeof v === 'object' && v !== null && 'en' in v ? ec.localizeContent(v) : v
+            typeof v === 'object' && v !== null && ('en-US' in v || 'pt-BR' in v)
+              ? ec.localizeContent(v as LocalizedText)
+              : typeof v === 'string'
+                ? v
+                : undefined
         }
         return section.sections.flatMap((s) => {
           const substituted = substituteInFlowSection(s, vars)
@@ -393,8 +387,7 @@ function resolveSection(
       const state = context.trackState?.[section.track]
       if (!def || !state) return [{ type: 'rubric', label: '[Reading track not loaded]' }]
       const entry = def.entries[state.current_index % def.entries.length]
-      const resolveBookName = (slug: string) =>
-        ec.t(`bookName.${slug}`, { defaultValue: slug })
+      const resolveBookName = (slug: string) => ec.t(`bookName.${slug}`, { defaultValue: slug })
       const refs = ec.parseTrackEntry(def.source, entry, resolveBookName)
       return refs.map((ref) => ({
         type: 'reading' as const,
@@ -417,9 +410,7 @@ function resolveSection(
       ]
 
     case 'options': {
-      const filtered = section.options.filter(
-        (opt) => !opt.lang || opt.lang === ec.language,
-      )
+      const filtered = section.options.filter((opt) => !opt.lang || opt.lang === ec.language)
       if (filtered.length === 0) return []
       return [
         {

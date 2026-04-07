@@ -1,14 +1,19 @@
 {
-  "sections": [
-    { "type": "prayer", "ref": "sign-of-cross" },
-    { "type": "divider" },
-    {
-      "type": "prayer",
-      "inline": {
-        "en": "I thank You, Lord our God, for all the benefits which You have given me, O Almighty God, who lives and reigns world without end. May the souls of the faithful departed, through the mercy of God, rest in peace. Amen.",
-        "latin": "Gratias tibi ago, Domine sancte, Pater omnipotens, aeterne Deus, pro universis beneficiis tuis, qui vivis et regnas in saecula saeculorum. Fidelium animae per misericordiam Dei requiescant in pace. Amen.",
-        "pt-BR": "Agradeço-Vos, Senhor nosso Deus, por todos os benefícios que me concedestes, ó Deus todo-poderoso, que viveis e reinais pelos séculos dos séculos. Que as almas dos fiéis defuntos, pela misericórdia de Deus, descansem em paz. Amém."
-      }
-    }
-  ]
+	"sections": [
+		{
+			"type": "prayer",
+			"ref": "sign-of-cross"
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "I thank You, Lord our God, for all the benefits which You have given me, O Almighty God, who lives and reigns world without end. May the souls of the faithful departed, through the mercy of God, rest in peace. Amen.",
+				"la": "Gratias tibi ago, Domine sancte, Pater omnipotens, aeterne Deus, pro universis beneficiis tuis, qui vivis et regnas in saecula saeculorum. Fidelium animae per misericordiam Dei requiescant in pace. Amen.",
+				"pt-BR": "Agradeço-Vos, Senhor nosso Deus, por todos os benefícios que me concedestes, ó Deus todo-poderoso, que viveis e reinais pelos séculos dos séculos. Que as almas dos fiéis defuntos, pela misericórdia de Deus, descansem em paz. Amém."
+			}
+		}
+	]
 }

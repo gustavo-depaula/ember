@@ -3,15 +3,15 @@
  *
  * Each JSON file has the shape:
  * {
- *   "Introitus": { "en": "...", "latin": "...", "pt-BR": "...", "citation": "..." },
+ *   "Introitus": { "en-US": "...", "la": "...", "pt-BR": "...", "citation": "..." },
  *   "Oratio": { ... },
  *   ...
  * }
  */
 
 type RawProperSection = {
-  en?: string
-  latin?: string
+  'en-US'?: string
+  la?: string
   'pt-BR'?: string
   citation?: string
 }

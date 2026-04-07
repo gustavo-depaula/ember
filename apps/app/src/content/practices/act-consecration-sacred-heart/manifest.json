@@ -1,31 +1,59 @@
 {
-  "id": "act-consecration-sacred-heart",
-  "icon": "sacred-heart",
-  "name": { "en": "Act of Consecration to the Sacred Heart", "pt-BR": "Ato de Consagração ao Sagrado Coração de Jesus" },
-  "categories": ["sacred-heart", "devotion", "consecration"],
-  "estimatedMinutes": 5,
-  "description": {
-    "en": "A solemn act of personal consecration to the Sacred Heart of Jesus, entrusting oneself entirely to His love and mercy. Particularly recommended on the First Friday of each month and on the Solemnity of the Sacred Heart.",
-    "pt-BR": "Um ato solene de consagração pessoal ao Sagrado Coração de Jesus, entregando-se inteiramente ao Seu amor e misericórdia. Particularmente recomendado na Primeira Sexta-feira de cada mês e na Solenidade do Sagrado Coração."
-  },
-  "history": {
-    "en": "Pope Leo XIII consecrated the entire human race to the Sacred Heart in his encyclical Annum Sacrum (1899), composing the prayer Actus Consecrationis Generis Humani. This act of personal consecration flows from the same devotion revealed to St. Margaret Mary Alacoque, who received the promise that those who receive Holy Communion on nine consecutive First Fridays will not die without the grace of final perseverance.",
-    "pt-BR": "O Papa Leão XIII consagrou toda a raça humana ao Sagrado Coração em sua encíclica Annum Sacrum (1899), compondo a oração Actus Consecrationis Generis Humani. Este ato de consagração pessoal nasce da mesma devoção revelada a Santa Margarida Maria Alacoque, que recebeu a promessa de que aqueles que receberem a Sagrada Comunhão em nove Primeiras Sextas-feiras consecutivas não morrerão sem a graça da perseverança final."
-  },
-  "howToPray": {
-    "en": "Make this consecration devoutly, ideally after Holy Communion. It is especially fitting on the First Friday of each month and on the Solemnity of the Sacred Heart of Jesus.",
-    "pt-BR": "Faça esta consagração devotamente, de preferência após a Sagrada Comunhão. É especialmente apropriada na Primeira Sexta-feira de cada mês e na Solenidade do Sagrado Coração de Jesus."
-  },
-  "flowMode": "scroll",
-  "completion": "flow-end",
-  "flows": [
-    { "id": "default", "name": { "en": "Act of Consecration", "pt-BR": "Ato de Consagração" }, "file": "flow.json" }
-  ],
-  "tags": ["sacred-heart", "consecration", "first-friday", "reparation"],
-  "defaults": {
-    "sortOrder": 25,
-    "slots": [
-      { "flowId": "default", "schedule": { "type": "nth-weekday", "n": 1, "weekday": 5 }, "tier": "extra", "enabled": false }
-    ]
-  }
+	"id": "act-consecration-sacred-heart",
+	"icon": "sacred-heart",
+	"name": {
+		"en-US": "Act of Consecration to the Sacred Heart",
+		"pt-BR": "Ato de Consagração ao Sagrado Coração de Jesus"
+	},
+	"categories": [
+		"sacred-heart",
+		"devotion",
+		"consecration"
+	],
+	"estimatedMinutes": 5,
+	"description": {
+		"en-US": "A solemn act of personal consecration to the Sacred Heart of Jesus, entrusting oneself entirely to His love and mercy. Particularly recommended on the First Friday of each month and on the Solemnity of the Sacred Heart.",
+		"pt-BR": "Um ato solene de consagração pessoal ao Sagrado Coração de Jesus, entregando-se inteiramente ao Seu amor e misericórdia. Particularmente recomendado na Primeira Sexta-feira de cada mês e na Solenidade do Sagrado Coração."
+	},
+	"history": {
+		"en-US": "Pope Leo XIII consecrated the entire human race to the Sacred Heart in his encyclical Annum Sacrum (1899), composing the prayer Actus Consecrationis Generis Humani. This act of personal consecration flows from the same devotion revealed to St. Margaret Mary Alacoque, who received the promise that those who receive Holy Communion on nine consecutive First Fridays will not die without the grace of final perseverance.",
+		"pt-BR": "O Papa Leão XIII consagrou toda a raça humana ao Sagrado Coração em sua encíclica Annum Sacrum (1899), compondo a oração Actus Consecrationis Generis Humani. Este ato de consagração pessoal nasce da mesma devoção revelada a Santa Margarida Maria Alacoque, que recebeu a promessa de que aqueles que receberem a Sagrada Comunhão em nove Primeiras Sextas-feiras consecutivas não morrerão sem a graça da perseverança final."
+	},
+	"howToPray": {
+		"en-US": "Make this consecration devoutly, ideally after Holy Communion. It is especially fitting on the First Friday of each month and on the Solemnity of the Sacred Heart of Jesus.",
+		"pt-BR": "Faça esta consagração devotamente, de preferência após a Sagrada Comunhão. É especialmente apropriada na Primeira Sexta-feira de cada mês e na Solenidade do Sagrado Coração de Jesus."
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flows": [
+		{
+			"id": "default",
+			"name": {
+				"en-US": "Act of Consecration",
+				"pt-BR": "Ato de Consagração"
+			},
+			"file": "flow.json"
+		}
+	],
+	"tags": [
+		"sacred-heart",
+		"consecration",
+		"first-friday",
+		"reparation"
+	],
+	"defaults": {
+		"sortOrder": 25,
+		"slots": [
+			{
+				"flowId": "default",
+				"schedule": {
+					"type": "nth-weekday",
+					"n": 1,
+					"weekday": 5
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
 }

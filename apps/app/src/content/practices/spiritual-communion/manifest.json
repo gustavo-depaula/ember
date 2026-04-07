@@ -1,45 +1,82 @@
 {
-  "id": "spiritual-communion",
-  "icon": "eucharist",
-  "name": { "en": "Act of Spiritual Communion", "pt-BR": "Ato de Comunhão Espiritual" },
-  "categories": ["eucharist", "devotion"],
-  "estimatedMinutes": 2,
-  "description": {
-    "en": "An act of spiritual communion is a prayer by which we unite ourselves to Christ in the Eucharist when sacramental communion is not possible — or as an additional act of devotion at any time of day.",
-    "pt-BR": "Um ato de comunhão espiritual é uma oração pela qual nos unimos a Cristo na Eucaristia quando a comunhão sacramental não é possível — ou como um ato adicional de devoção a qualquer hora do dia."
-  },
-  "history": {
-    "en": "The practice of spiritual communion was commended by the Council of Trent and encouraged by saints throughout history, including St. Thomas Aquinas and St. Teresa of Ávila. The most widely used form is that of St. Alphonsus Liguori (18th century), Doctor of the Church. St. John Paul II and Pope Francis have both encouraged this practice.",
-    "pt-BR": "A prática da comunhão espiritual foi recomendada pelo Concílio de Trento e encorajada por santos ao longo da história, incluindo Santo Tomás de Aquino e Santa Teresa de Ávila. A forma mais amplamente usada é a de Santo Afonso de Ligório (século XVIII), Doutor da Igreja. São João Paulo II e o Papa Francisco encorajaram esta prática."
-  },
-  "howToPray": {
-    "en": "This prayer may be made at any time, especially when attending Mass but unable to receive Communion, when watching Mass on television, or when visiting the Blessed Sacrament. Make an act of faith, desire, and love before the prayer.",
-    "pt-BR": "Esta oração pode ser feita a qualquer momento, especialmente quando se assiste à Missa sem poder receber a Comunhão, quando se assiste à Missa pela televisão, ou quando se visita o Santíssimo Sacramento. Faça um ato de fé, desejo e amor antes da oração."
-  },
-  "flowMode": "scroll",
-  "completion": "flow-end",
-  "flows": [
-    { "id": "default", "name": { "en": "Spiritual Communion", "pt-BR": "Comunhão Espiritual" }, "file": "flow.json" }
-  ],
-  "variants": [
-    {
-      "id": "alphonsus",
-      "name": { "en": "St. Alphonsus Liguori", "pt-BR": "Santo Afonso de Ligório" },
-      "description": { "en": "The classic form by St. Alphonsus Liguori, Doctor of the Church", "pt-BR": "A forma clássica de Santo Afonso de Ligório, Doutor da Igreja" },
-      "file": "variants/alphonsus.json"
-    },
-    {
-      "id": "traditional",
-      "name": { "en": "Traditional", "pt-BR": "Tradicional" },
-      "description": { "en": "A shorter traditional form", "pt-BR": "Uma forma tradicional mais curta" },
-      "file": "variants/traditional.json"
-    }
-  ],
-  "tags": ["eucharist", "communion", "adoration", "alphonsus"],
-  "defaults": {
-    "sortOrder": 30,
-    "slots": [
-      { "flowId": "default", "schedule": { "type": "daily" }, "tier": "extra", "enabled": false }
-    ]
-  }
+	"id": "spiritual-communion",
+	"icon": "eucharist",
+	"name": {
+		"en-US": "Act of Spiritual Communion",
+		"pt-BR": "Ato de Comunhão Espiritual"
+	},
+	"categories": [
+		"eucharist",
+		"devotion"
+	],
+	"estimatedMinutes": 2,
+	"description": {
+		"en-US": "An act of spiritual communion is a prayer by which we unite ourselves to Christ in the Eucharist when sacramental communion is not possible — or as an additional act of devotion at any time of day.",
+		"pt-BR": "Um ato de comunhão espiritual é uma oração pela qual nos unimos a Cristo na Eucaristia quando a comunhão sacramental não é possível — ou como um ato adicional de devoção a qualquer hora do dia."
+	},
+	"history": {
+		"en-US": "The practice of spiritual communion was commended by the Council of Trent and encouraged by saints throughout history, including St. Thomas Aquinas and St. Teresa of Ávila. The most widely used form is that of St. Alphonsus Liguori (18th century), Doctor of the Church. St. John Paul II and Pope Francis have both encouraged this practice.",
+		"pt-BR": "A prática da comunhão espiritual foi recomendada pelo Concílio de Trento e encorajada por santos ao longo da história, incluindo Santo Tomás de Aquino e Santa Teresa de Ávila. A forma mais amplamente usada é a de Santo Afonso de Ligório (século XVIII), Doutor da Igreja. São João Paulo II e o Papa Francisco encorajaram esta prática."
+	},
+	"howToPray": {
+		"en-US": "This prayer may be made at any time, especially when attending Mass but unable to receive Communion, when watching Mass on television, or when visiting the Blessed Sacrament. Make an act of faith, desire, and love before the prayer.",
+		"pt-BR": "Esta oração pode ser feita a qualquer momento, especialmente quando se assiste à Missa sem poder receber a Comunhão, quando se assiste à Missa pela televisão, ou quando se visita o Santíssimo Sacramento. Faça um ato de fé, desejo e amor antes da oração."
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flows": [
+		{
+			"id": "default",
+			"name": {
+				"en-US": "Spiritual Communion",
+				"pt-BR": "Comunhão Espiritual"
+			},
+			"file": "flow.json"
+		}
+	],
+	"variants": [
+		{
+			"id": "alphonsus",
+			"name": {
+				"en-US": "St. Alphonsus Liguori",
+				"pt-BR": "Santo Afonso de Ligório"
+			},
+			"description": {
+				"en-US": "The classic form by St. Alphonsus Liguori, Doctor of the Church",
+				"pt-BR": "A forma clássica de Santo Afonso de Ligório, Doutor da Igreja"
+			},
+			"file": "variants/alphonsus.json"
+		},
+		{
+			"id": "traditional",
+			"name": {
+				"en-US": "Traditional",
+				"pt-BR": "Tradicional"
+			},
+			"description": {
+				"en-US": "A shorter traditional form",
+				"pt-BR": "Uma forma tradicional mais curta"
+			},
+			"file": "variants/traditional.json"
+		}
+	],
+	"tags": [
+		"eucharist",
+		"communion",
+		"adoration",
+		"alphonsus"
+	],
+	"defaults": {
+		"sortOrder": 30,
+		"slots": [
+			{
+				"flowId": "default",
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
 }

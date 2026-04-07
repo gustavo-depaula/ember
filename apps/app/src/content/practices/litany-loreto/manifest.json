@@ -1,31 +1,55 @@
 {
-  "id": "litany-loreto",
-  "icon": "mary",
-  "name": { "en": "Litany of Our Lady of Loreto", "pt-BR": "Ladainha de Nossa Senhora" },
-  "categories": ["marian", "litany"],
-  "estimatedMinutes": 10,
-  "description": {
-    "en": "The ancient litany of Our Lady, one of the six litanies approved by the Holy See for public recitation. A series of invocations drawn from Scripture and Tradition, each illuminating a different facet of Mary's dignity and intercession.",
-    "pt-BR": "A antiga ladainha de Nossa Senhora, uma das seis ladainhas aprovadas pela Santa Sé para recitação pública. Uma série de invocações extraídas das Escrituras e da Tradição, cada uma iluminando uma faceta diferente da dignidade e intercessão de Maria."
-  },
-  "history": {
-    "en": "The Litany of Loreto, also called the Litany of the Blessed Virgin Mary, was officially approved in 1587 by Pope Sixtus V and takes its name from the Shrine of Loreto in Italy, where it had been publicly recited since the 15th century.",
-    "pt-BR": "A Ladainha de Nossa Senhora, também chamada de Ladainha da Bem-aventurada Virgem Maria, foi oficialmente aprovada em 1587 pelo Papa Sisto V e recebe seu nome do Santuário de Loreto, na Itália, onde era recitada publicamente desde o século XV."
-  },
-  "howToPray": {
-    "en": "The leader recites the invocations and the assembly responds \"Pray for us\" or \"Have mercy on us.\" The litany concludes with the Lamb of God, a versicle and response, and a collect prayer.",
-    "pt-BR": "O líder recita as invocações e a assembleia responde \"Rogai por nós\" ou \"Tende piedade de nós\". A ladainha conclui com o Cordeiro de Deus, um versículo e resposta, e uma oração colecta."
-  },
-  "flowMode": "scroll",
-  "completion": "flow-end",
-  "flows": [
-    { "id": "default", "name": { "en": "Litany of Our Lady", "pt-BR": "Ladainha de Nossa Senhora" }, "file": "flow.json" }
-  ],
-  "tags": ["marian", "litany", "loreto"],
-  "defaults": {
-    "sortOrder": 22,
-    "slots": [
-      { "flowId": "default", "schedule": { "type": "daily" }, "tier": "extra", "enabled": false }
-    ]
-  }
+	"id": "litany-loreto",
+	"icon": "mary",
+	"name": {
+		"en-US": "Litany of Our Lady of Loreto",
+		"pt-BR": "Ladainha de Nossa Senhora"
+	},
+	"categories": [
+		"marian",
+		"litany"
+	],
+	"estimatedMinutes": 10,
+	"description": {
+		"en-US": "The ancient litany of Our Lady, one of the six litanies approved by the Holy See for public recitation. A series of invocations drawn from Scripture and Tradition, each illuminating a different facet of Mary's dignity and intercession.",
+		"pt-BR": "A antiga ladainha de Nossa Senhora, uma das seis ladainhas aprovadas pela Santa Sé para recitação pública. Uma série de invocações extraídas das Escrituras e da Tradição, cada uma iluminando uma faceta diferente da dignidade e intercessão de Maria."
+	},
+	"history": {
+		"en-US": "The Litany of Loreto, also called the Litany of the Blessed Virgin Mary, was officially approved in 1587 by Pope Sixtus V and takes its name from the Shrine of Loreto in Italy, where it had been publicly recited since the 15th century.",
+		"pt-BR": "A Ladainha de Nossa Senhora, também chamada de Ladainha da Bem-aventurada Virgem Maria, foi oficialmente aprovada em 1587 pelo Papa Sisto V e recebe seu nome do Santuário de Loreto, na Itália, onde era recitada publicamente desde o século XV."
+	},
+	"howToPray": {
+		"en-US": "The leader recites the invocations and the assembly responds \"Pray for us\" or \"Have mercy on us.\" The litany concludes with the Lamb of God, a versicle and response, and a collect prayer.",
+		"pt-BR": "O líder recita as invocações e a assembleia responde \"Rogai por nós\" ou \"Tende piedade de nós\". A ladainha conclui com o Cordeiro de Deus, um versículo e resposta, e uma oração colecta."
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flows": [
+		{
+			"id": "default",
+			"name": {
+				"en-US": "Litany of Our Lady",
+				"pt-BR": "Ladainha de Nossa Senhora"
+			},
+			"file": "flow.json"
+		}
+	],
+	"tags": [
+		"marian",
+		"litany",
+		"loreto"
+	],
+	"defaults": {
+		"sortOrder": 22,
+		"slots": [
+			{
+				"flowId": "default",
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
 }

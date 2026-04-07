@@ -1,5 +1,11 @@
 {
-  "title": { "en": "Holy God", "pt-BR": "Santo Deus", "la": "Sanctus Deus" },
-  "english": "Holy God, Holy Mighty One, Holy Immortal One, have mercy on us and on the whole world.",
-  "portuguese": "Deus Santo, Deus Forte, Deus Imortal, tende misericórdia de nós e do mundo inteiro."
+	"title": {
+		"en-US": "Holy God",
+		"pt-BR": "Santo Deus",
+		"la": "Sanctus Deus"
+	},
+	"body": {
+		"en-US": "Holy God, Holy Mighty One, Holy Immortal One, have mercy on us and on the whole world.",
+		"pt-BR": "Deus Santo, Deus Forte, Deus Imortal, tende misericórdia de nós e do mundo inteiro."
+	}
 }

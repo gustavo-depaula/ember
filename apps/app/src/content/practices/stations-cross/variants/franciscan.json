@@ -1,64 +1,151 @@
 {
-  "id": "franciscan",
-  "name": { "en": "Franciscan Meditations", "pt-BR": "Meditações Franciscanas" },
-  "data": {
-    "stations": [
-      {
-        "name": { "en": "Jesus Is Condemned to Death", "pt-BR": "Jesus é Condenado à Morte" },
-        "meditation": { "en": "The Governor who could find no fault in Christ washes his hands and hands Him over to satisfy the crowd. Jesus, who could summon legions of angels, stands silent before His accusers. He accepts the condemnation that should have fallen on us. How often do we condemn others to protect ourselves? He takes our place — condemned, so that we might be acquitted.", "pt-BR": "O governador que não encontrou culpa em Cristo lava as mãos e O entrega para satisfazer a multidão. Jesus, que poderia convocar legiões de anjos, fica silencioso diante de Seus acusadores. Ele aceita a condenação que devia ter caído sobre nós. Quantas vezes condenamos outros para nos proteger? Ele toma nosso lugar — condenado, para que possamos ser absolvidos." }
-      },
-      {
-        "name": { "en": "Jesus Takes Up His Cross", "pt-BR": "Jesus Carrega a Cruz" },
-        "meditation": { "en": "The Cross is laid upon His wounded shoulders, and Jesus embraces it. St. Francis, who bore in his own body the wounds of Christ, teaches us that the Cross is not an obstacle to love but its ultimate expression. Jesus does not endure the Cross — He accepts it freely, for love of you. What cross are you being asked to embrace today?", "pt-BR": "A Cruz é colocada sobre Seus ombros feridos, e Jesus a abraça. São Francisco, que carregou em seu próprio corpo as chagas de Cristo, nos ensina que a Cruz não é um obstáculo ao amor, mas sua expressão máxima. Jesus não suporta a Cruz — Ele a aceita livremente, por amor a você. Qual cruz você está sendo convidado a abraçar hoje?" }
-      },
-      {
-        "name": { "en": "Jesus Falls the First Time", "pt-BR": "Jesus Cai pela Primeira Vez" },
-        "meditation": { "en": "Exhausted from the night of agony, the scourging, and the crowning with thorns, Jesus falls beneath the Cross. The weight of the world's sin presses Him into the earth. Yet He rises. In His falling, He sanctifies every fall — every moment when we collapse beneath our own weakness. He has fallen here before us; He knows the way up from the ground.", "pt-BR": "Exausto pela noite de agonia, pela flagelação e pela coroação de espinhos, Jesus cai sob a Cruz. O peso do pecado do mundo O pressiona contra a terra. Mas Ele se levanta. Em Sua queda, Ele santifica toda queda — todo momento em que desabamos sob nossa própria fraqueza. Ele já caiu aqui antes de nós; Ele conhece o caminho de volta ao pé." }
-      },
-      {
-        "name": { "en": "Jesus Meets His Mother", "pt-BR": "Jesus Encontra Sua Mãe" },
-        "meditation": { "en": "Mary had said 'Yes' in Nazareth, not knowing it would bring her here — to this road, this crowd, this sight of her Son staggering under a cross. She does not flee. She walks toward Him. Their eyes meet — the meeting of two 'Fiats', two complete surrenders to the Father's will. She is the Mother of Sorrows and the Mother of Hope. Stand with her beneath this Cross.", "pt-BR": "Maria havia dito 'Sim' em Nazaré, sem saber que a levaria aqui — a este caminho, a esta multidão, a esta visão de Seu Filho cambaleando sob uma cruz. Ela não foge. Ela caminha em direção a Ele. Seus olhares se encontram — o encontro de dois 'Fiats', duas rendições completas à vontade do Pai. Ela é a Mãe das Dores e a Mãe da Esperança. Fique com ela sob esta Cruz." }
-      },
-      {
-        "name": { "en": "Simon of Cyrene Helps Jesus", "pt-BR": "Simão Cireneu Ajuda Jesus" },
-        "meditation": { "en": "Simon is pressed into service against his will — he had come to Jerusalem for the feast, not for this. Yet in carrying Christ's cross, his life is changed forever. The compulsion becomes a calling. Every burden placed upon us by Providence is an invitation to carry the cross with Christ. There is no cross we bear alone — He is carrying it with us.", "pt-BR": "Simão é forçado a servir contra sua vontade — ele havia vindo a Jerusalém para a festa, não para isso. Mas ao carregar a cruz de Cristo, sua vida é transformada para sempre. A compulsão torna-se vocação. Todo fardo colocado sobre nós pela Providência é um convite a carregar a cruz com Cristo. Não há cruz que carregamos sozinhos — Ele a carrega conosco." }
-      },
-      {
-        "name": { "en": "Veronica Wipes the Face of Jesus", "pt-BR": "Verônica Enxuga o Rosto de Jesus" },
-        "meditation": { "en": "A woman breaks from the crowd and offers her veil. It is a small gesture — she cannot stop the crucifixion, cannot change the verdict, cannot lift the Cross. She can only wipe away the blood and spittle for a moment. But Christ rewards her compassion with the gift of His face impressed on the cloth. The face of Christ is found in the poor, the suffering, the forgotten. Do you see it?", "pt-BR": "Uma mulher destaca-se da multidão e oferece seu véu. É um pequeno gesto — ela não pode deter a crucificação, não pode mudar o veredicto, não pode erguer a Cruz. Só pode enxugar o sangue e a saliva por um momento. Mas Cristo recompensa sua compaixão com o dom de Seu rosto impresso no pano. O rosto de Cristo é encontrado nos pobres, nos sofredores, nos esquecidos. Você o vê?" }
-      },
-      {
-        "name": { "en": "Jesus Falls the Second Time", "pt-BR": "Jesus Cai pela Segunda Vez" },
-        "meditation": { "en": "The road to Calvary is long. Jesus falls again. This second fall speaks of perseverance in the face of mounting exhaustion — when the first effort was not enough, and the goal still seems impossibly far. He does not stop. Love does not count the cost or measure the distance remaining. Let us ask for perseverance in the spiritual life when weariness and discouragement press us toward the ground.", "pt-BR": "A estrada para o Calvário é longa. Jesus cai novamente. Esta segunda queda fala de perseverança diante do esgotamento crescente — quando o primeiro esforço não foi suficiente e a meta ainda parece impossívelmente distante. Ele não para. O amor não conta o custo nem mede a distância restante. Peçamos perseverança na vida espiritual quando o cansaço e o desânimo nos pressionam em direção ao chão." }
-      },
-      {
-        "name": { "en": "Jesus Meets the Women of Jerusalem", "pt-BR": "Jesus Encontra as Mulheres de Jerusalém" },
-        "meditation": { "en": "A group of women weep for Jesus along the way. He turns to them: 'Daughters of Jerusalem, do not weep for me; weep for yourselves and for your children.' He thinks of them, not of Himself, even now. His suffering is on behalf of the world's sin, and it is sin — ours and theirs — that should be mourned. True devotion to Christ's Passion leads to repentance, not merely to emotion.", "pt-BR": "Um grupo de mulheres chora por Jesus ao longo do caminho. Ele se volta para elas: 'Filhas de Jerusalém, não choreis por Mim; chorai por vós mesmas e por vossos filhos.' Ele pensa nelas, não em Si mesmo, mesmo agora. Seu sofrimento é em favor do pecado do mundo, e é o pecado — nosso e delas — que deveria ser lamentado. A verdadeira devoção à Paixão de Cristo leva ao arrependimento, não apenas à emoção." }
-      },
-      {
-        "name": { "en": "Jesus Falls the Third Time", "pt-BR": "Jesus Cai pela Terceira Vez" },
-        "meditation": { "en": "A third time, the Lord falls. He is near Calvary now — the end is close, and perhaps this is the hardest fall of all. But He will not stay down. The world will be saved; the Cross will be planted on the hill; the arms of Love will be stretched wide. This third fall is His final answer to all our repeated failures: I will always rise for you. Rise with Me.", "pt-BR": "Uma terceira vez, o Senhor cai. Ele está perto do Calvário agora — o fim está próximo, e talvez esta seja a queda mais difícil de todas. Mas Ele não ficará no chão. O mundo será salvo; a Cruz será plantada no monte; os braços do Amor serão estendidos ao largo. Esta terceira queda é Sua resposta final a todas as nossas falhas repetidas: Eu sempre me levantarei por você. Levanta-te comigo." }
-      },
-      {
-        "name": { "en": "Jesus Is Stripped of His Garments", "pt-BR": "Jesus é Despojado de Suas Vestes" },
-        "meditation": { "en": "On Calvary, the soldiers strip Jesus of His garments — His last earthly possession. He is left with nothing: naked, exposed, without covering or dignity. The soldiers gamble for His seamless tunic. He who clothed the lilies of the field is stripped bare so that we might be clothed in grace. In His poverty, He is most fully himself: total self-gift.", "pt-BR": "No Calvário, os soldados despojam Jesus de Suas vestes — Sua última possessão terrena. Ele fica sem nada: nu, exposto, sem cobertura ou dignidade. Os soldados jogam sorte pela Sua túnica sem costura. Aquele que vestiu os lírios do campo é despojado para que possamos ser revestidos de graça. Em Sua pobreza, Ele é mais plenamente Ele mesmo: total dom de si." }
-      },
-      {
-        "name": { "en": "Jesus Is Nailed to the Cross", "pt-BR": "Jesus é Pregado na Cruz" },
-        "meditation": { "en": "Three nails, three acts of love. The hands that healed the leper, raised the dead, broke the bread — are nailed open in an eternal gesture of welcome. The feet that walked the roads of Galilee are fixed here forever. He is held not by the nails but by love. 'When I am lifted up from the earth, I will draw all people to myself.' The arms are open for you.", "pt-BR": "Três pregos, três atos de amor. As mãos que curaram o leproso, ressuscitaram os mortos, partiram o pão — são pregadas abertas em um eterno gesto de acolhida. Os pés que percorreram as estradas da Galileia são aqui fixados para sempre. Ele não é sustentado pelos pregos, mas pelo amor. 'Quando eu for elevado da terra, atrairei todos a Mim.' Os braços estão abertos para você." }
-      },
-      {
-        "name": { "en": "Jesus Dies on the Cross", "pt-BR": "Jesus Morre na Cruz" },
-        "meditation": { "en": "'It is finished.' Three hours of agony. Seven last words of mercy, trust, love, and surrender. 'Father, forgive them.' 'This day you will be with me in paradise.' 'Woman, behold your son.' 'My God, my God, why have you forsaken me?' 'I thirst.' 'Into your hands I commend my spirit.' He bows His head. He breathes His last. The veil of the Temple is torn in two. Heaven is opened.", "pt-BR": "'Está consumado.' Três horas de agonia. Sete últimas palavras de misericórdia, confiança, amor e entrega. 'Pai, perdoai-os.' 'Hoje estarás comigo no paraíso.' 'Mulher, eis o teu filho.' 'Meu Deus, meu Deus, por que me abandonastes?' 'Tenho sede.' 'Nas Vossas mãos entrego o meu espírito.' Ele inclina a cabeça. Ele expira. O véu do Templo se rasga em dois. O céu se abre." }
-      },
-      {
-        "name": { "en": "Jesus Is Taken Down from the Cross", "pt-BR": "Jesus é Retirado da Cruz" },
-        "meditation": { "en": "Joseph of Arimathea and Nicodemus take down the body of Jesus. They give Him what they can: care, linen, spices, a new tomb. Mary receives Him in her arms — the Pietà. The Mother who held the Infant at Bethlehem now holds the broken body of her Son. She had given Him to the world; the world has broken Him. Yet her 'Fiat' holds. This is not the end.", "pt-BR": "José de Arimateia e Nicodemos retiram o corpo de Jesus. Eles Lhe dão o que podem: cuidado, linho, especiarias, um túmulo novo. Maria O recebe em seus braços — a Pietà. A Mãe que segurou o Menino em Belém agora segura o corpo martirizado de Seu Filho. Ela O dera ao mundo; o mundo O partiu. Mas seu 'Fiat' permanece. Este não é o fim." }
-      },
-      {
-        "name": { "en": "Jesus Is Laid in the Sepulchre", "pt-BR": "Jesus é Depositado no Sepulcro" },
-        "meditation": { "en": "The stone is rolled across the entrance of the tomb. The disciples scatter. It seems to be over. But the grain of wheat has fallen into the earth. 'Unless a grain of wheat falls to the ground and dies, it remains only a single grain; but if it dies, it produces much fruit.' The silence of Holy Saturday is not emptiness — it is gestation. Something is coming that no stone can keep sealed.", "pt-BR": "A pedra é rolada para fechar a entrada do túmulo. Os discípulos se dispersam. Parece que acabou. Mas o grão de trigo caiu na terra. 'Se o grão de trigo não cair na terra e morrer, fica sozinho; mas se morrer, produz muito fruto.' O silêncio do Sábado Santo não é vazio — é gestação. Algo está vindo que nenhuma pedra pode manter selado." }
-      }
-    ]
-  }
+	"id": "franciscan",
+	"name": {
+		"en-US": "Franciscan Meditations",
+		"pt-BR": "Meditações Franciscanas"
+	},
+	"data": {
+		"stations": [
+			{
+				"name": {
+					"en-US": "Jesus Is Condemned to Death",
+					"pt-BR": "Jesus é Condenado à Morte"
+				},
+				"meditation": {
+					"en-US": "The Governor who could find no fault in Christ washes his hands and hands Him over to satisfy the crowd. Jesus, who could summon legions of angels, stands silent before His accusers. He accepts the condemnation that should have fallen on us. How often do we condemn others to protect ourselves? He takes our place — condemned, so that we might be acquitted.",
+					"pt-BR": "O governador que não encontrou culpa em Cristo lava as mãos e O entrega para satisfazer a multidão. Jesus, que poderia convocar legiões de anjos, fica silencioso diante de Seus acusadores. Ele aceita a condenação que devia ter caído sobre nós. Quantas vezes condenamos outros para nos proteger? Ele toma nosso lugar — condenado, para que possamos ser absolvidos."
+				}
+			},
+			{
+				"name": {
+					"en-US": "Jesus Takes Up His Cross",
+					"pt-BR": "Jesus Carrega a Cruz"
+				},
+				"meditation": {
+					"en-US": "The Cross is laid upon His wounded shoulders, and Jesus embraces it. St. Francis, who bore in his own body the wounds of Christ, teaches us that the Cross is not an obstacle to love but its ultimate expression. Jesus does not endure the Cross — He accepts it freely, for love of you. What cross are you being asked to embrace today?",
+					"pt-BR": "A Cruz é colocada sobre Seus ombros feridos, e Jesus a abraça. São Francisco, que carregou em seu próprio corpo as chagas de Cristo, nos ensina que a Cruz não é um obstáculo ao amor, mas sua expressão máxima. Jesus não suporta a Cruz — Ele a aceita livremente, por amor a você. Qual cruz você está sendo convidado a abraçar hoje?"
+				}
+			},
+			{
+				"name": {
+					"en-US": "Jesus Falls the First Time",
+					"pt-BR": "Jesus Cai pela Primeira Vez"
+				},
+				"meditation": {
+					"en-US": "Exhausted from the night of agony, the scourging, and the crowning with thorns, Jesus falls beneath the Cross. The weight of the world's sin presses Him into the earth. Yet He rises. In His falling, He sanctifies every fall — every moment when we collapse beneath our own weakness. He has fallen here before us; He knows the way up from the ground.",
+					"pt-BR": "Exausto pela noite de agonia, pela flagelação e pela coroação de espinhos, Jesus cai sob a Cruz. O peso do pecado do mundo O pressiona contra a terra. Mas Ele se levanta. Em Sua queda, Ele santifica toda queda — todo momento em que desabamos sob nossa própria fraqueza. Ele já caiu aqui antes de nós; Ele conhece o caminho de volta ao pé."
+				}
+			},
+			{
+				"name": {
+					"en-US": "Jesus Meets His Mother",
+					"pt-BR": "Jesus Encontra Sua Mãe"
+				},
+				"meditation": {
+					"en-US": "Mary had said 'Yes' in Nazareth, not knowing it would bring her here — to this road, this crowd, this sight of her Son staggering under a cross. She does not flee. She walks toward Him. Their eyes meet — the meeting of two 'Fiats', two complete surrenders to the Father's will. She is the Mother of Sorrows and the Mother of Hope. Stand with her beneath this Cross.",
+					"pt-BR": "Maria havia dito 'Sim' em Nazaré, sem saber que a levaria aqui — a este caminho, a esta multidão, a esta visão de Seu Filho cambaleando sob uma cruz. Ela não foge. Ela caminha em direção a Ele. Seus olhares se encontram — o encontro de dois 'Fiats', duas rendições completas à vontade do Pai. Ela é a Mãe das Dores e a Mãe da Esperança. Fique com ela sob esta Cruz."
+				}
+			},
+			{
+				"name": {
+					"en-US": "Simon of Cyrene Helps Jesus",
+					"pt-BR": "Simão Cireneu Ajuda Jesus"
+				},
+				"meditation": {
+					"en-US": "Simon is pressed into service against his will — he had come to Jerusalem for the feast, not for this. Yet in carrying Christ's cross, his life is changed forever. The compulsion becomes a calling. Every burden placed upon us by Providence is an invitation to carry the cross with Christ. There is no cross we bear alone — He is carrying it with us.",
+					"pt-BR": "Simão é forçado a servir contra sua vontade — ele havia vindo a Jerusalém para a festa, não para isso. Mas ao carregar a cruz de Cristo, sua vida é transformada para sempre. A compulsão torna-se vocação. Todo fardo colocado sobre nós pela Providência é um convite a carregar a cruz com Cristo. Não há cruz que carregamos sozinhos — Ele a carrega conosco."
+				}
+			},
+			{
+				"name": {
+					"en-US": "Veronica Wipes the Face of Jesus",
+					"pt-BR": "Verônica Enxuga o Rosto de Jesus"
+				},
+				"meditation": {
+					"en-US": "A woman breaks from the crowd and offers her veil. It is a small gesture — she cannot stop the crucifixion, cannot change the verdict, cannot lift the Cross. She can only wipe away the blood and spittle for a moment. But Christ rewards her compassion with the gift of His face impressed on the cloth. The face of Christ is found in the poor, the suffering, the forgotten. Do you see it?",
+					"pt-BR": "Uma mulher destaca-se da multidão e oferece seu véu. É um pequeno gesto — ela não pode deter a crucificação, não pode mudar o veredicto, não pode erguer a Cruz. Só pode enxugar o sangue e a saliva por um momento. Mas Cristo recompensa sua compaixão com o dom de Seu rosto impresso no pano. O rosto de Cristo é encontrado nos pobres, nos sofredores, nos esquecidos. Você o vê?"
+				}
+			},
+			{
+				"name": {
+					"en-US": "Jesus Falls the Second Time",
+					"pt-BR": "Jesus Cai pela Segunda Vez"
+				},
+				"meditation": {
+					"en-US": "The road to Calvary is long. Jesus falls again. This second fall speaks of perseverance in the face of mounting exhaustion — when the first effort was not enough, and the goal still seems impossibly far. He does not stop. Love does not count the cost or measure the distance remaining. Let us ask for perseverance in the spiritual life when weariness and discouragement press us toward the ground.",
+					"pt-BR": "A estrada para o Calvário é longa. Jesus cai novamente. Esta segunda queda fala de perseverança diante do esgotamento crescente — quando o primeiro esforço não foi suficiente e a meta ainda parece impossívelmente distante. Ele não para. O amor não conta o custo nem mede a distância restante. Peçamos perseverança na vida espiritual quando o cansaço e o desânimo nos pressionam em direção ao chão."
+				}
+			},
+			{
+				"name": {
+					"en-US": "Jesus Meets the Women of Jerusalem",
+					"pt-BR": "Jesus Encontra as Mulheres de Jerusalém"
+				},
+				"meditation": {
+					"en-US": "A group of women weep for Jesus along the way. He turns to them: 'Daughters of Jerusalem, do not weep for me; weep for yourselves and for your children.' He thinks of them, not of Himself, even now. His suffering is on behalf of the world's sin, and it is sin — ours and theirs — that should be mourned. True devotion to Christ's Passion leads to repentance, not merely to emotion.",
+					"pt-BR": "Um grupo de mulheres chora por Jesus ao longo do caminho. Ele se volta para elas: 'Filhas de Jerusalém, não choreis por Mim; chorai por vós mesmas e por vossos filhos.' Ele pensa nelas, não em Si mesmo, mesmo agora. Seu sofrimento é em favor do pecado do mundo, e é o pecado — nosso e delas — que deveria ser lamentado. A verdadeira devoção à Paixão de Cristo leva ao arrependimento, não apenas à emoção."
+				}
+			},
+			{
+				"name": {
+					"en-US": "Jesus Falls the Third Time",
+					"pt-BR": "Jesus Cai pela Terceira Vez"
+				},
+				"meditation": {
+					"en-US": "A third time, the Lord falls. He is near Calvary now — the end is close, and perhaps this is the hardest fall of all. But He will not stay down. The world will be saved; the Cross will be planted on the hill; the arms of Love will be stretched wide. This third fall is His final answer to all our repeated failures: I will always rise for you. Rise with Me.",
+					"pt-BR": "Uma terceira vez, o Senhor cai. Ele está perto do Calvário agora — o fim está próximo, e talvez esta seja a queda mais difícil de todas. Mas Ele não ficará no chão. O mundo será salvo; a Cruz será plantada no monte; os braços do Amor serão estendidos ao largo. Esta terceira queda é Sua resposta final a todas as nossas falhas repetidas: Eu sempre me levantarei por você. Levanta-te comigo."
+				}
+			},
+			{
+				"name": {
+					"en-US": "Jesus Is Stripped of His Garments",
+					"pt-BR": "Jesus é Despojado de Suas Vestes"
+				},
+				"meditation": {
+					"en-US": "On Calvary, the soldiers strip Jesus of His garments — His last earthly possession. He is left with nothing: naked, exposed, without covering or dignity. The soldiers gamble for His seamless tunic. He who clothed the lilies of the field is stripped bare so that we might be clothed in grace. In His poverty, He is most fully himself: total self-gift.",
+					"pt-BR": "No Calvário, os soldados despojam Jesus de Suas vestes — Sua última possessão terrena. Ele fica sem nada: nu, exposto, sem cobertura ou dignidade. Os soldados jogam sorte pela Sua túnica sem costura. Aquele que vestiu os lírios do campo é despojado para que possamos ser revestidos de graça. Em Sua pobreza, Ele é mais plenamente Ele mesmo: total dom de si."
+				}
+			},
+			{
+				"name": {
+					"en-US": "Jesus Is Nailed to the Cross",
+					"pt-BR": "Jesus é Pregado na Cruz"
+				},
+				"meditation": {
+					"en-US": "Three nails, three acts of love. The hands that healed the leper, raised the dead, broke the bread — are nailed open in an eternal gesture of welcome. The feet that walked the roads of Galilee are fixed here forever. He is held not by the nails but by love. 'When I am lifted up from the earth, I will draw all people to myself.' The arms are open for you.",
+					"pt-BR": "Três pregos, três atos de amor. As mãos que curaram o leproso, ressuscitaram os mortos, partiram o pão — são pregadas abertas em um eterno gesto de acolhida. Os pés que percorreram as estradas da Galileia são aqui fixados para sempre. Ele não é sustentado pelos pregos, mas pelo amor. 'Quando eu for elevado da terra, atrairei todos a Mim.' Os braços estão abertos para você."
+				}
+			},
+			{
+				"name": {
+					"en-US": "Jesus Dies on the Cross",
+					"pt-BR": "Jesus Morre na Cruz"
+				},
+				"meditation": {
+					"en-US": "'It is finished.' Three hours of agony. Seven last words of mercy, trust, love, and surrender. 'Father, forgive them.' 'This day you will be with me in paradise.' 'Woman, behold your son.' 'My God, my God, why have you forsaken me?' 'I thirst.' 'Into your hands I commend my spirit.' He bows His head. He breathes His last. The veil of the Temple is torn in two. Heaven is opened.",
+					"pt-BR": "'Está consumado.' Três horas de agonia. Sete últimas palavras de misericórdia, confiança, amor e entrega. 'Pai, perdoai-os.' 'Hoje estarás comigo no paraíso.' 'Mulher, eis o teu filho.' 'Meu Deus, meu Deus, por que me abandonastes?' 'Tenho sede.' 'Nas Vossas mãos entrego o meu espírito.' Ele inclina a cabeça. Ele expira. O véu do Templo se rasga em dois. O céu se abre."
+				}
+			},
+			{
+				"name": {
+					"en-US": "Jesus Is Taken Down from the Cross",
+					"pt-BR": "Jesus é Retirado da Cruz"
+				},
+				"meditation": {
+					"en-US": "Joseph of Arimathea and Nicodemus take down the body of Jesus. They give Him what they can: care, linen, spices, a new tomb. Mary receives Him in her arms — the Pietà. The Mother who held the Infant at Bethlehem now holds the broken body of her Son. She had given Him to the world; the world has broken Him. Yet her 'Fiat' holds. This is not the end.",
+					"pt-BR": "José de Arimateia e Nicodemos retiram o corpo de Jesus. Eles Lhe dão o que podem: cuidado, linho, especiarias, um túmulo novo. Maria O recebe em seus braços — a Pietà. A Mãe que segurou o Menino em Belém agora segura o corpo martirizado de Seu Filho. Ela O dera ao mundo; o mundo O partiu. Mas seu 'Fiat' permanece. Este não é o fim."
+				}
+			},
+			{
+				"name": {
+					"en-US": "Jesus Is Laid in the Sepulchre",
+					"pt-BR": "Jesus é Depositado no Sepulcro"
+				},
+				"meditation": {
+					"en-US": "The stone is rolled across the entrance of the tomb. The disciples scatter. It seems to be over. But the grain of wheat has fallen into the earth. 'Unless a grain of wheat falls to the ground and dies, it remains only a single grain; but if it dies, it produces much fruit.' The silence of Holy Saturday is not emptiness — it is gestation. Something is coming that no stone can keep sealed.",
+					"pt-BR": "A pedra é rolada para fechar a entrada do túmulo. Os discípulos se dispersam. Parece que acabou. Mas o grão de trigo caiu na terra. 'Se o grão de trigo não cair na terra e morrer, fica sozinho; mas se morrer, produz muito fruto.' O silêncio do Sábado Santo não é vazio — é gestação. Algo está vindo que nenhuma pedra pode manter selado."
+				}
+			}
+		]
+	}
 }

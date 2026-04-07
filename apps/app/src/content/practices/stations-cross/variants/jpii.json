@@ -1,64 +1,151 @@
 {
-  "id": "jpii",
-  "name": { "en": "John Paul II's Way of the Cross", "pt-BR": "Via Sacra de João Paulo II" },
-  "data": {
-    "stations": [
-      {
-        "name": { "en": "Jesus in the Garden of Gethsemane", "pt-BR": "Jesus no Jardim do Getsêmani" },
-        "meditation": { "en": "'And he came out, and went, as was his custom, to the Mount of Olives. And he said to them, \"Pray that you may not enter into temptation.\" And he withdrew from them about a stone's throw, and knelt down and prayed.' (Lk 22:39-41)", "pt-BR": "'Saiu e foi, como de costume, para o Monte das Oliveiras. E disse-lhes: \"Orai para que não entreis em tentação.\" Afastou-se deles cerca de um tiro de pedra, ajoelhou-se e orou.' (Lc 22,39-41)" }
-      },
-      {
-        "name": { "en": "Jesus Is Betrayed by Judas", "pt-BR": "Jesus é Traído por Judas" },
-        "meditation": { "en": "'While he was still speaking, there came a crowd, and the man called Judas, one of the twelve, was leading them. He drew near to Jesus to kiss him; but Jesus said to him, \"Judas, would you betray the Son of man with a kiss?\"' (Lk 22:47-48)", "pt-BR": "'Enquanto ainda falava, chegou uma multidão, e à frente deles vinha o chamado Judas, um dos Doze. Aproximou-se de Jesus para o beijar; mas Jesus disse-lhe: \"Judas, com um beijo trais o Filho do Homem?\"' (Lc 22,47-48)" }
-      },
-      {
-        "name": { "en": "Jesus Is Condemned by the Sanhedrin", "pt-BR": "Jesus é Condenado pelo Sinédrio" },
-        "meditation": { "en": "'And they all condemned him as deserving death. And some began to spit on him, and to cover his face, and to strike him, saying to him, \"Prophesy!\" And the guards received him with blows.' (Mk 14:64-65)", "pt-BR": "'E todos o condenaram como réu de morte. Alguns começaram a cuspir nele, a cobrir-lhe o rosto e a esbofeteá-lo, dizendo-lhe: \"Profetiza!\" E os guardas davam-lhe bofetadas.' (Mc 14,64-65)" }
-      },
-      {
-        "name": { "en": "Peter Denies Jesus", "pt-BR": "Pedro Nega Jesus" },
-        "meditation": { "en": "'But he denied it, saying, \"I do not know him.\" And the Lord turned and looked at Peter. And Peter remembered the word of the Lord. And he went out and wept bitterly.' (Lk 22:57,61-62)", "pt-BR": "'Mas ele negou, dizendo: \"Não o conheço.\" E o Senhor, voltando-se, olhou para Pedro. E Pedro lembrou-se da palavra do Senhor. E, saindo dali, chorou amargamente.' (Lc 22,57.61-62)" }
-      },
-      {
-        "name": { "en": "Jesus Is Judged by Pilate", "pt-BR": "Jesus é Julgado por Pilatos" },
-        "meditation": { "en": "'Pilate said to them, \"What shall I do with Jesus who is called Christ?\" They all said, \"Let him be crucified.\" So when Pilate saw that a tumult was arising, he took water and washed his hands before the crowd.' (Mt 27:22,24)", "pt-BR": "'Pilatos disse-lhes: \"Que farei de Jesus, chamado Cristo?\" Todos responderam: \"Seja crucificado.\" Pilatos, vendo que nada conseguia e que o tumulto aumentava, tomou água e lavou as mãos diante da multidão.' (Mt 27,22.24)" }
-      },
-      {
-        "name": { "en": "Jesus Is Scourged and Crowned with Thorns", "pt-BR": "Jesus é Flagelado e Coroado de Espinhos" },
-        "meditation": { "en": "'Then Pilate took Jesus and scourged him. And the soldiers plaited a crown of thorns, and put it on his head, and arrayed him in a purple robe; they came up to him, saying, \"Hail, King of the Jews!\" and struck him with their hands.' (Jn 19:1-3)", "pt-BR": "'Então Pilatos mandou açoitar Jesus. Os soldados teceram uma coroa de espinhos e puseram-lha na cabeça, e vestiram-no com um manto de púrpura; e vinham a ele dizendo: \"Salve, Rei dos Judeus!\" e davam-lhe bofetadas.' (Jo 19,1-3)" }
-      },
-      {
-        "name": { "en": "Jesus Takes Up His Cross", "pt-BR": "Jesus Toma a Cruz" },
-        "meditation": { "en": "'So they took Jesus, and he went out, bearing his own cross, to the place called the place of a skull, which is called in Hebrew Golgotha.' (Jn 19:17)", "pt-BR": "'Tomaram então a Jesus, e ele, carregando a sua própria cruz, saiu para o lugar chamado Calvário, que em hebraico se chama Gólgota.' (Jo 19,17)" }
-      },
-      {
-        "name": { "en": "Simon of Cyrene Helps Jesus", "pt-BR": "Simão Cireneu Ajuda Jesus" },
-        "meditation": { "en": "'And as they led him away, they seized one Simon of Cyrene, who was coming in from the country, and laid on him the cross, to carry it behind Jesus.' (Lk 23:26)", "pt-BR": "'Quando o levavam, tomaram um certo Simão de Cirene, que vinha do campo, e puseram-lhe a cruz às costas, para que a carregasse atrás de Jesus.' (Lc 23,26)" }
-      },
-      {
-        "name": { "en": "Jesus Meets the Women of Jerusalem", "pt-BR": "Jesus Encontra as Mulheres de Jerusalém" },
-        "meditation": { "en": "'And there followed him a great multitude of the people, and of women who bewailed and lamented him. But Jesus turning to them said, \"Daughters of Jerusalem, do not weep for me, but weep for yourselves and for your children.\"' (Lk 23:27-28)", "pt-BR": "'Seguia-o uma grande multidão de povo e de mulheres que batiam no peito e o lamentavam. Jesus, porém, voltando-se para elas, disse: \"Filhas de Jerusalém, não choreis por mim; chorai por vós mesmas e por vossos filhos.\"' (Lc 23,27-28)" }
-      },
-      {
-        "name": { "en": "Jesus Is Crucified", "pt-BR": "Jesus é Crucificado" },
-        "meditation": { "en": "'And when they came to the place which is called The Skull, there they crucified him, and the criminals, one on the right and one on the left. And Jesus said, \"Father, forgive them; for they know not what they do.\"' (Lk 23:33-34)", "pt-BR": "'Quando chegaram ao lugar chamado Calvário, ali o crucificaram, e também os malfeitores, um à direita e outro à esquerda. E Jesus disse: \"Pai, perdoai-os, porque não sabem o que fazem.\"' (Lc 23,33-34)" }
-      },
-      {
-        "name": { "en": "Jesus Promises Paradise to the Good Thief", "pt-BR": "Jesus Promete o Paraíso ao Bom Ladrão" },
-        "meditation": { "en": "'And he said, \"Jesus, remember me when you come into your kingdom.\" And he said to him, \"Truly, I say to you, today you will be with me in Paradise.\"' (Lk 23:42-43)", "pt-BR": "'E disse: \"Jesus, lembrai-vos de mim quando entrardes no vosso reino.\" Ele respondeu: \"Em verdade te digo: hoje estarás comigo no Paraíso.\"' (Lc 23,42-43)" }
-      },
-      {
-        "name": { "en": "Jesus Speaks to His Mother and the Beloved Disciple", "pt-BR": "Jesus Fala à Sua Mãe e ao Discípulo Amado" },
-        "meditation": { "en": "'When Jesus saw his mother, and the disciple whom he loved standing near, he said to his mother, \"Woman, behold, your son!\" Then he said to the disciple, \"Behold, your mother!\"' (Jn 19:26-27)", "pt-BR": "'Quando Jesus viu sua mãe e junto dela o discípulo que amava, disse à sua mãe: \"Mulher, eis o teu filho!\" Depois disse ao discípulo: \"Eis a tua mãe!\"' (Jo 19,26-27)" }
-      },
-      {
-        "name": { "en": "Jesus Dies on the Cross", "pt-BR": "Jesus Morre na Cruz" },
-        "meditation": { "en": "'It was now about the sixth hour, and there was darkness over the whole land until the ninth hour. And Jesus, crying with a loud voice, said, \"Father, into thy hands I commit my spirit!\" And having said this he breathed his last.' (Lk 23:44,46)", "pt-BR": "'Era já cerca da hora sexta, e houve trevas sobre toda a terra até a hora nona. E Jesus, clamando com grande voz, disse: \"Pai, nas tuas mãos entrego o meu espírito!\" E, dito isto, expirou.' (Lc 23,44.46)" }
-      },
-      {
-        "name": { "en": "Jesus Is Laid in the Tomb", "pt-BR": "Jesus é Sepultado" },
-        "meditation": { "en": "'Then he took it down and wrapped it in a linen shroud, and laid him in a rock-hewn tomb, where no one had ever yet been laid.' (Lk 23:53)", "pt-BR": "'E, tirando-o da cruz, envolveu-o num lençol e depositou-o num sepulcro escavado na rocha, onde ninguém ainda havia sido posto.' (Lc 23,53)" }
-      }
-    ]
-  }
+	"id": "jpii",
+	"name": {
+		"en-US": "John Paul II's Way of the Cross",
+		"pt-BR": "Via Sacra de João Paulo II"
+	},
+	"data": {
+		"stations": [
+			{
+				"name": {
+					"en-US": "Jesus in the Garden of Gethsemane",
+					"pt-BR": "Jesus no Jardim do Getsêmani"
+				},
+				"meditation": {
+					"en-US": "'And he came out, and went, as was his custom, to the Mount of Olives. And he said to them, \"Pray that you may not enter into temptation.\" And he withdrew from them about a stone's throw, and knelt down and prayed.' (Lk 22:39-41)",
+					"pt-BR": "'Saiu e foi, como de costume, para o Monte das Oliveiras. E disse-lhes: \"Orai para que não entreis em tentação.\" Afastou-se deles cerca de um tiro de pedra, ajoelhou-se e orou.' (Lc 22,39-41)"
+				}
+			},
+			{
+				"name": {
+					"en-US": "Jesus Is Betrayed by Judas",
+					"pt-BR": "Jesus é Traído por Judas"
+				},
+				"meditation": {
+					"en-US": "'While he was still speaking, there came a crowd, and the man called Judas, one of the twelve, was leading them. He drew near to Jesus to kiss him; but Jesus said to him, \"Judas, would you betray the Son of man with a kiss?\"' (Lk 22:47-48)",
+					"pt-BR": "'Enquanto ainda falava, chegou uma multidão, e à frente deles vinha o chamado Judas, um dos Doze. Aproximou-se de Jesus para o beijar; mas Jesus disse-lhe: \"Judas, com um beijo trais o Filho do Homem?\"' (Lc 22,47-48)"
+				}
+			},
+			{
+				"name": {
+					"en-US": "Jesus Is Condemned by the Sanhedrin",
+					"pt-BR": "Jesus é Condenado pelo Sinédrio"
+				},
+				"meditation": {
+					"en-US": "'And they all condemned him as deserving death. And some began to spit on him, and to cover his face, and to strike him, saying to him, \"Prophesy!\" And the guards received him with blows.' (Mk 14:64-65)",
+					"pt-BR": "'E todos o condenaram como réu de morte. Alguns começaram a cuspir nele, a cobrir-lhe o rosto e a esbofeteá-lo, dizendo-lhe: \"Profetiza!\" E os guardas davam-lhe bofetadas.' (Mc 14,64-65)"
+				}
+			},
+			{
+				"name": {
+					"en-US": "Peter Denies Jesus",
+					"pt-BR": "Pedro Nega Jesus"
+				},
+				"meditation": {
+					"en-US": "'But he denied it, saying, \"I do not know him.\" And the Lord turned and looked at Peter. And Peter remembered the word of the Lord. And he went out and wept bitterly.' (Lk 22:57,61-62)",
+					"pt-BR": "'Mas ele negou, dizendo: \"Não o conheço.\" E o Senhor, voltando-se, olhou para Pedro. E Pedro lembrou-se da palavra do Senhor. E, saindo dali, chorou amargamente.' (Lc 22,57.61-62)"
+				}
+			},
+			{
+				"name": {
+					"en-US": "Jesus Is Judged by Pilate",
+					"pt-BR": "Jesus é Julgado por Pilatos"
+				},
+				"meditation": {
+					"en-US": "'Pilate said to them, \"What shall I do with Jesus who is called Christ?\" They all said, \"Let him be crucified.\" So when Pilate saw that a tumult was arising, he took water and washed his hands before the crowd.' (Mt 27:22,24)",
+					"pt-BR": "'Pilatos disse-lhes: \"Que farei de Jesus, chamado Cristo?\" Todos responderam: \"Seja crucificado.\" Pilatos, vendo que nada conseguia e que o tumulto aumentava, tomou água e lavou as mãos diante da multidão.' (Mt 27,22.24)"
+				}
+			},
+			{
+				"name": {
+					"en-US": "Jesus Is Scourged and Crowned with Thorns",
+					"pt-BR": "Jesus é Flagelado e Coroado de Espinhos"
+				},
+				"meditation": {
+					"en-US": "'Then Pilate took Jesus and scourged him. And the soldiers plaited a crown of thorns, and put it on his head, and arrayed him in a purple robe; they came up to him, saying, \"Hail, King of the Jews!\" and struck him with their hands.' (Jn 19:1-3)",
+					"pt-BR": "'Então Pilatos mandou açoitar Jesus. Os soldados teceram uma coroa de espinhos e puseram-lha na cabeça, e vestiram-no com um manto de púrpura; e vinham a ele dizendo: \"Salve, Rei dos Judeus!\" e davam-lhe bofetadas.' (Jo 19,1-3)"
+				}
+			},
+			{
+				"name": {
+					"en-US": "Jesus Takes Up His Cross",
+					"pt-BR": "Jesus Toma a Cruz"
+				},
+				"meditation": {
+					"en-US": "'So they took Jesus, and he went out, bearing his own cross, to the place called the place of a skull, which is called in Hebrew Golgotha.' (Jn 19:17)",
+					"pt-BR": "'Tomaram então a Jesus, e ele, carregando a sua própria cruz, saiu para o lugar chamado Calvário, que em hebraico se chama Gólgota.' (Jo 19,17)"
+				}
+			},
+			{
+				"name": {
+					"en-US": "Simon of Cyrene Helps Jesus",
+					"pt-BR": "Simão Cireneu Ajuda Jesus"
+				},
+				"meditation": {
+					"en-US": "'And as they led him away, they seized one Simon of Cyrene, who was coming in from the country, and laid on him the cross, to carry it behind Jesus.' (Lk 23:26)",
+					"pt-BR": "'Quando o levavam, tomaram um certo Simão de Cirene, que vinha do campo, e puseram-lhe a cruz às costas, para que a carregasse atrás de Jesus.' (Lc 23,26)"
+				}
+			},
+			{
+				"name": {
+					"en-US": "Jesus Meets the Women of Jerusalem",
+					"pt-BR": "Jesus Encontra as Mulheres de Jerusalém"
+				},
+				"meditation": {
+					"en-US": "'And there followed him a great multitude of the people, and of women who bewailed and lamented him. But Jesus turning to them said, \"Daughters of Jerusalem, do not weep for me, but weep for yourselves and for your children.\"' (Lk 23:27-28)",
+					"pt-BR": "'Seguia-o uma grande multidão de povo e de mulheres que batiam no peito e o lamentavam. Jesus, porém, voltando-se para elas, disse: \"Filhas de Jerusalém, não choreis por mim; chorai por vós mesmas e por vossos filhos.\"' (Lc 23,27-28)"
+				}
+			},
+			{
+				"name": {
+					"en-US": "Jesus Is Crucified",
+					"pt-BR": "Jesus é Crucificado"
+				},
+				"meditation": {
+					"en-US": "'And when they came to the place which is called The Skull, there they crucified him, and the criminals, one on the right and one on the left. And Jesus said, \"Father, forgive them; for they know not what they do.\"' (Lk 23:33-34)",
+					"pt-BR": "'Quando chegaram ao lugar chamado Calvário, ali o crucificaram, e também os malfeitores, um à direita e outro à esquerda. E Jesus disse: \"Pai, perdoai-os, porque não sabem o que fazem.\"' (Lc 23,33-34)"
+				}
+			},
+			{
+				"name": {
+					"en-US": "Jesus Promises Paradise to the Good Thief",
+					"pt-BR": "Jesus Promete o Paraíso ao Bom Ladrão"
+				},
+				"meditation": {
+					"en-US": "'And he said, \"Jesus, remember me when you come into your kingdom.\" And he said to him, \"Truly, I say to you, today you will be with me in Paradise.\"' (Lk 23:42-43)",
+					"pt-BR": "'E disse: \"Jesus, lembrai-vos de mim quando entrardes no vosso reino.\" Ele respondeu: \"Em verdade te digo: hoje estarás comigo no Paraíso.\"' (Lc 23,42-43)"
+				}
+			},
+			{
+				"name": {
+					"en-US": "Jesus Speaks to His Mother and the Beloved Disciple",
+					"pt-BR": "Jesus Fala à Sua Mãe e ao Discípulo Amado"
+				},
+				"meditation": {
+					"en-US": "'When Jesus saw his mother, and the disciple whom he loved standing near, he said to his mother, \"Woman, behold, your son!\" Then he said to the disciple, \"Behold, your mother!\"' (Jn 19:26-27)",
+					"pt-BR": "'Quando Jesus viu sua mãe e junto dela o discípulo que amava, disse à sua mãe: \"Mulher, eis o teu filho!\" Depois disse ao discípulo: \"Eis a tua mãe!\"' (Jo 19,26-27)"
+				}
+			},
+			{
+				"name": {
+					"en-US": "Jesus Dies on the Cross",
+					"pt-BR": "Jesus Morre na Cruz"
+				},
+				"meditation": {
+					"en-US": "'It was now about the sixth hour, and there was darkness over the whole land until the ninth hour. And Jesus, crying with a loud voice, said, \"Father, into thy hands I commit my spirit!\" And having said this he breathed his last.' (Lk 23:44,46)",
+					"pt-BR": "'Era já cerca da hora sexta, e houve trevas sobre toda a terra até a hora nona. E Jesus, clamando com grande voz, disse: \"Pai, nas tuas mãos entrego o meu espírito!\" E, dito isto, expirou.' (Lc 23,44.46)"
+				}
+			},
+			{
+				"name": {
+					"en-US": "Jesus Is Laid in the Tomb",
+					"pt-BR": "Jesus é Sepultado"
+				},
+				"meditation": {
+					"en-US": "'Then he took it down and wrapped it in a linen shroud, and laid him in a rock-hewn tomb, where no one had ever yet been laid.' (Lk 23:53)",
+					"pt-BR": "'E, tirando-o da cruz, envolveu-o num lençol e depositou-o num sepulcro escavado na rocha, onde ninguém ainda havia sido posto.' (Lc 23,53)"
+				}
+			}
+		]
+	}
 }

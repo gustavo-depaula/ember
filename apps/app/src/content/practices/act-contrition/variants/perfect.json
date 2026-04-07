@@ -1,14 +1,17 @@
 {
-  "id": "perfect",
-  "name": { "en": "Perfect Contrition", "pt-BR": "Contrição Perfeita" },
-  "data": {
-    "default": [
-      {
-        "prayer": {
-          "en": "O my God, I love You above all things, with my whole heart and soul, because You are all-good and worthy of all love. I love my neighbor as myself for the love of You. I forgive all who have injured me and ask pardon of all whom I have injured.\n\nBecause I love You, O my God, I am sorry with my whole heart for having offended You. I renounce all the sins of my past life, and I am firmly resolved, with the help of Your grace, never to sin again. I wish to make full reparation for all my sins, and I intend to receive the Sacrament of Penance as soon as possible. Amen.",
-          "pt-BR": "Meu Deus, amo-Vos sobre todas as coisas, com todo o meu coração e toda a minha alma, porque sois infinitamente bom e digno de todo o amor. Amo o meu próximo como a mim mesmo por amor de Vós. Perdoo a todos os que me ofenderam e peço perdão a todos os que ofendi.\n\nPorque Vos amo, ó meu Deus, arrependo-me de todo o coração de ter-Vos ofendido. Renuncio a todos os pecados de minha vida passada e estou firmemente resolvido, com a ajuda da Vossa graça, a nunca mais pecar. Desejo fazer plena reparação por todos os meus pecados e pretendo receber o Sacramento da Penitência assim que possível. Amém."
-        }
-      }
-    ]
-  }
+	"id": "perfect",
+	"name": {
+		"en-US": "Perfect Contrition",
+		"pt-BR": "Contrição Perfeita"
+	},
+	"data": {
+		"default": [
+			{
+				"prayer": {
+					"en-US": "O my God, I love You above all things, with my whole heart and soul, because You are all-good and worthy of all love. I love my neighbor as myself for the love of You. I forgive all who have injured me and ask pardon of all whom I have injured.\n\nBecause I love You, O my God, I am sorry with my whole heart for having offended You. I renounce all the sins of my past life, and I am firmly resolved, with the help of Your grace, never to sin again. I wish to make full reparation for all my sins, and I intend to receive the Sacrament of Penance as soon as possible. Amen.",
+					"pt-BR": "Meu Deus, amo-Vos sobre todas as coisas, com todo o meu coração e toda a minha alma, porque sois infinitamente bom e digno de todo o amor. Amo o meu próximo como a mim mesmo por amor de Vós. Perdoo a todos os que me ofenderam e peço perdão a todos os que ofendi.\n\nPorque Vos amo, ó meu Deus, arrependo-me de todo o coração de ter-Vos ofendido. Renuncio a todos os pecados de minha vida passada e estou firmemente resolvido, com a ajuda da Vossa graça, a nunca mais pecar. Desejo fazer plena reparação por todos os meus pecados e pretendo receber o Sacramento da Penitência assim que possível. Amém."
+				}
+			}
+		]
+	}
 }

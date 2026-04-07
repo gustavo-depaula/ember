@@ -1,5 +1,11 @@
 {
-  "title": { "en": "Divine Mercy Response", "pt-BR": "Resposta da Divina Misericórdia", "la": "Responsum Divinæ Misericordiæ" },
-  "english": "For the sake of His sorrowful Passion, have mercy on us and on the whole world.",
-  "portuguese": "Pela Sua dolorosa Paixão, tende misericórdia de nós e do mundo inteiro."
+	"title": {
+		"en-US": "Divine Mercy Response",
+		"pt-BR": "Resposta da Divina Misericórdia",
+		"la": "Responsum Divinæ Misericordiæ"
+	},
+	"body": {
+		"en-US": "For the sake of His sorrowful Passion, have mercy on us and on the whole world.",
+		"pt-BR": "Pela Sua dolorosa Paixão, tende misericórdia de nós e do mundo inteiro."
+	}
 }

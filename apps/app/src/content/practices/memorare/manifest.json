@@ -1,31 +1,55 @@
 {
-  "id": "memorare",
-  "icon": "mary",
-  "name": { "en": "Memorare", "pt-BR": "Lembrai-vos" },
-  "categories": ["marian"],
-  "estimatedMinutes": 1,
-  "flowMode": "scroll",
-  "completion": "flow-end",
-  "flows": [
-    { "id": "default", "name": { "en": "Memorare", "pt-BR": "Lembrai-vos" }, "file": "flow.json" }
-  ],
-  "description": {
-    "en": "A beloved prayer of petition to the Blessed Virgin Mary, expressing confident trust in her intercession. Its name comes from its opening word in Latin: 'Remember.'",
-    "pt-BR": "Uma querida oração de petição à Santíssima Virgem Maria, expressando confiança em sua intercessão. Seu nome vem de sua palavra inicial em latim: 'Lembrai-vos.'"
-  },
-  "history": {
-    "en": "The Memorare is traditionally attributed to St. Bernard of Clairvaux (12th century), though its actual origin is uncertain. It was popularized in the 17th century by Fr. Claude Bernard, known as 'the Poor Priest,' who distributed over 200,000 leaflets of the prayer in Paris. He attributed many conversions and answered prayers to its recitation. The prayer's power lies in its bold confidence — it dares to claim that no one who has fled to Mary's protection has ever been left unaided.",
-    "pt-BR": "O Lembrai-vos é tradicionalmente atribuído a São Bernardo de Claraval (séc. XII), embora sua origem real seja incerta. Foi popularizado no séc. XVII pelo Pe. Claude Bernard, conhecido como 'o Padre Pobre', que distribuiu mais de 200.000 folhetos da oração em Paris."
-  },
-  "howToPray": {
-    "en": "Pray the Memorare with confident trust, especially in times of need. Many saints recommend praying it repeatedly — St. Thérèse of Lisieux once prayed nine Memorares in succession for a particular intention. It can be prayed at any time of day.",
-    "pt-BR": "Reze o Lembrai-vos com confiança, especialmente em tempos de necessidade. Muitos santos recomendam rezá-lo repetidamente — Santa Teresinha do Menino Jesus uma vez rezou nove Lembrai-vos seguidos por uma intenção particular."
-  },
-  "tags": ["marian", "petition", "trust", "bernard"],
-  "defaults": {
-    "sortOrder": 15,
-    "slots": [
-      { "flowId": "default", "schedule": { "type": "daily" }, "tier": "extra", "enabled": false }
-    ]
-  }
+	"id": "memorare",
+	"icon": "mary",
+	"name": {
+		"en-US": "Memorare",
+		"pt-BR": "Lembrai-vos"
+	},
+	"categories": [
+		"marian"
+	],
+	"estimatedMinutes": 1,
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flows": [
+		{
+			"id": "default",
+			"name": {
+				"en-US": "Memorare",
+				"pt-BR": "Lembrai-vos"
+			},
+			"file": "flow.json"
+		}
+	],
+	"description": {
+		"en-US": "A beloved prayer of petition to the Blessed Virgin Mary, expressing confident trust in her intercession. Its name comes from its opening word in Latin: 'Remember.'",
+		"pt-BR": "Uma querida oração de petição à Santíssima Virgem Maria, expressando confiança em sua intercessão. Seu nome vem de sua palavra inicial em latim: 'Lembrai-vos.'"
+	},
+	"history": {
+		"en-US": "The Memorare is traditionally attributed to St. Bernard of Clairvaux (12th century), though its actual origin is uncertain. It was popularized in the 17th century by Fr. Claude Bernard, known as 'the Poor Priest,' who distributed over 200,000 leaflets of the prayer in Paris. He attributed many conversions and answered prayers to its recitation. The prayer's power lies in its bold confidence — it dares to claim that no one who has fled to Mary's protection has ever been left unaided.",
+		"pt-BR": "O Lembrai-vos é tradicionalmente atribuído a São Bernardo de Claraval (séc. XII), embora sua origem real seja incerta. Foi popularizado no séc. XVII pelo Pe. Claude Bernard, conhecido como 'o Padre Pobre', que distribuiu mais de 200.000 folhetos da oração em Paris."
+	},
+	"howToPray": {
+		"en-US": "Pray the Memorare with confident trust, especially in times of need. Many saints recommend praying it repeatedly — St. Thérèse of Lisieux once prayed nine Memorares in succession for a particular intention. It can be prayed at any time of day.",
+		"pt-BR": "Reze o Lembrai-vos com confiança, especialmente em tempos de necessidade. Muitos santos recomendam rezá-lo repetidamente — Santa Teresinha do Menino Jesus uma vez rezou nove Lembrai-vos seguidos por uma intenção particular."
+	},
+	"tags": [
+		"marian",
+		"petition",
+		"trust",
+		"bernard"
+	],
+	"defaults": {
+		"sortOrder": 15,
+		"slots": [
+			{
+				"flowId": "default",
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
 }

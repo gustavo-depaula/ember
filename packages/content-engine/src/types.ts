@@ -2,8 +2,8 @@
 
 import type { PsalmRef, ReadingReference } from '@ember/liturgical'
 
-export type LocalizedText = { en: string; 'pt-BR'?: string }
-export type LocalizedBilingualText = { en: string; latin?: string; 'pt-BR'?: string }
+export type LocalizedText = { 'en-US'?: string; 'pt-BR'?: string }
+export type LocalizedContent = { 'en-US'?: string; 'pt-BR'?: string; la?: string }
 
 // --- Cycle Data (practice-owned static data files) ---
 
@@ -31,13 +31,13 @@ export type FlowSection =
   | { type: 'heading'; text: LocalizedText }
   | { type: 'image'; src: string; caption?: LocalizedText }
   | { type: 'prayer'; ref: string }
-  | { type: 'prayer'; speaker?: 'priest' | 'people' | 'all'; inline: LocalizedBilingualText }
+  | { type: 'prayer'; speaker?: 'priest' | 'people' | 'all'; inline: LocalizedContent }
   | { type: 'hymn'; ref: string }
-  | { type: 'hymn'; inline: LocalizedBilingualText }
+  | { type: 'hymn'; inline: LocalizedContent }
   | { type: 'canticle'; ref: string }
   | {
       type: 'canticle'
-      inline: { title: LocalizedText; subtitle?: LocalizedText; text: LocalizedBilingualText }
+      inline: { title: LocalizedText; subtitle?: LocalizedText; text: LocalizedContent }
     }
   | { type: 'meditation'; text: LocalizedText }
   | { type: 'response'; verses: { v: LocalizedText; r: LocalizedText }[] }
@@ -73,7 +73,7 @@ export type RenderedSection =
       speaker?: 'priest' | 'people' | 'all'
       latin?: string
     }
-  | { type: 'hymn'; title: string; latin: string; english: string }
+  | { type: 'hymn'; title: string; latin: string; text: string }
   | { type: 'canticle'; title: string; subtitle: string; source: string; text: string }
   | { type: 'meditation'; text: string }
   | { type: 'response'; verses: { v: string; r: string }[] }

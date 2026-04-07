@@ -3,7 +3,7 @@
 		{
 			"type": "heading",
 			"text": {
-				"en": "Epistle",
+				"en-US": "Epistle",
 				"pt-BR": "Epístola"
 			}
 		},
@@ -11,7 +11,7 @@
 			"type": "proper",
 			"slot": "epistle",
 			"description": {
-				"en": "Epistle of the day",
+				"en-US": "Epistle of the day",
 				"pt-BR": "Epístola do dia"
 			},
 			"form": "ef"
@@ -22,7 +22,7 @@
 		{
 			"type": "heading",
 			"text": {
-				"en": "Gradual",
+				"en-US": "Gradual",
 				"pt-BR": "Gradual"
 			}
 		},
@@ -30,7 +30,7 @@
 			"type": "proper",
 			"slot": "gradual",
 			"description": {
-				"en": "Gradual / Alleluia / Tract of the day",
+				"en-US": "Gradual / Alleluia / Tract of the day",
 				"pt-BR": "Gradual / Aleluia / Trato do dia"
 			},
 			"form": "ef"
@@ -41,7 +41,7 @@
 		{
 			"type": "heading",
 			"text": {
-				"en": "Gospel",
+				"en-US": "Gospel",
 				"pt-BR": "Evangelho"
 			}
 		},
@@ -49,7 +49,7 @@
 			"type": "proper",
 			"slot": "gospel",
 			"description": {
-				"en": "Gospel of the day",
+				"en-US": "Gospel of the day",
 				"pt-BR": "Evangelho do dia"
 			},
 			"form": "ef"

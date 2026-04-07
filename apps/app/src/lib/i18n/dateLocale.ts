@@ -4,7 +4,7 @@ import { enUS, ptBR } from 'date-fns/locale'
 import i18n from './index'
 
 const localeMap: Record<string, Locale> = {
-  en: enUS,
+  'en-US': enUS,
   'pt-BR': ptBR,
 }
 

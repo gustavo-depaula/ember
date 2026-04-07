@@ -1,46 +1,66 @@
 {
-  "sections": [
-    { "type": "subheading", "text": { "en": "The Hour of Mercy", "pt-BR": "A Hora da Misericórdia" } },
-    { "type": "prayer", "ref": "sign-of-cross" },
-    {
-      "type": "meditation",
-      "text": {
-        "en": "At this hour, Jesus breathed His last on the Cross. It is a privileged hour of mercy for all mankind. Jesus told St. Faustina: 'At three o'clock implore My mercy, especially for sinners; and, if only for a brief moment, immerse yourself in My Passion.'",
-        "pt-BR": "Nesta hora, Jesus expirou na Cruz. É uma hora privilegiada de misericórdia para toda a humanidade. Jesus disse a Santa Faustina: 'Às três horas implora Minha misericórdia, especialmente para os pecadores; e, se ao menos por um breve momento, mergulha em Minha Paixão.'"
-      }
-    },
-    { "type": "divider" },
-    {
-      "type": "prayer",
-      "inline": {
-        "en": "You expired, Jesus, but the source of life gushed forth for souls,\nand the ocean of mercy opened up for the whole world.\nO Fount of Life, unfathomable Divine Mercy,\nenvelop the whole world and empty Yourself out upon us.",
-        "pt-BR": "Tu expiraste, Jesus, mas a fonte da vida jorrou para as almas,\ne o oceano de misericórdia se abriu para o mundo inteiro.\nÓ Fonte da Vida, Divina Misericórdia insondável,\nenvolve o mundo inteiro e derrama-te sobre nós."
-      }
-    },
-    { "type": "divider" },
-    {
-      "type": "repeat",
-      "count": 3,
-      "sections": [
-        {
-          "type": "prayer",
-          "inline": {
-            "en": "O Blood and Water, which gushed forth from the Heart of Jesus\nas a fount of mercy for us, I trust in You.",
-            "pt-BR": "Ó Sangue e Água, que jorraste do Coração de Jesus\ncomo fonte de misericórdia para nós, eu confio em Vós."
-          }
-        }
-      ]
-    },
-    { "type": "divider" },
-    {
-      "type": "prayer",
-      "inline": {
-        "en": "Holy God, Holy Mighty One, Holy Immortal One,\nhave mercy on us and on the whole world.",
-        "latin": "Sanctus Deus, Sanctus Fortis, Sanctus Immortalis,\nmiserere nobis et toti mundo.",
-        "pt-BR": "Deus Santo, Deus Santo e Forte, Deus Santo e Imortal,\ntende misericórdia de nós e do mundo inteiro."
-      }
-    },
-    { "type": "divider" },
-    { "type": "prayer", "ref": "sign-of-cross" }
-  ]
+	"sections": [
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "The Hour of Mercy",
+				"pt-BR": "A Hora da Misericórdia"
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "sign-of-cross"
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "At this hour, Jesus breathed His last on the Cross. It is a privileged hour of mercy for all mankind. Jesus told St. Faustina: 'At three o'clock implore My mercy, especially for sinners; and, if only for a brief moment, immerse yourself in My Passion.'",
+				"pt-BR": "Nesta hora, Jesus expirou na Cruz. É uma hora privilegiada de misericórdia para toda a humanidade. Jesus disse a Santa Faustina: 'Às três horas implora Minha misericórdia, especialmente para os pecadores; e, se ao menos por um breve momento, mergulha em Minha Paixão.'"
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "You expired, Jesus, but the source of life gushed forth for souls,\nand the ocean of mercy opened up for the whole world.\nO Fount of Life, unfathomable Divine Mercy,\nenvelop the whole world and empty Yourself out upon us.",
+				"pt-BR": "Tu expiraste, Jesus, mas a fonte da vida jorrou para as almas,\ne o oceano de misericórdia se abriu para o mundo inteiro.\nÓ Fonte da Vida, Divina Misericórdia insondável,\nenvolve o mundo inteiro e derrama-te sobre nós."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "repeat",
+			"count": 3,
+			"sections": [
+				{
+					"type": "prayer",
+					"inline": {
+						"en-US": "O Blood and Water, which gushed forth from the Heart of Jesus\nas a fount of mercy for us, I trust in You.",
+						"pt-BR": "Ó Sangue e Água, que jorraste do Coração de Jesus\ncomo fonte de misericórdia para nós, eu confio em Vós."
+					}
+				}
+			]
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Holy God, Holy Mighty One, Holy Immortal One,\nhave mercy on us and on the whole world.",
+				"la": "Sanctus Deus, Sanctus Fortis, Sanctus Immortalis,\nmiserere nobis et toti mundo.",
+				"pt-BR": "Deus Santo, Deus Santo e Forte, Deus Santo e Imortal,\ntende misericórdia de nós e do mundo inteiro."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "prayer",
+			"ref": "sign-of-cross"
+		}
+	]
 }

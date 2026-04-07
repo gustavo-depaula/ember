@@ -3,18 +3,10 @@ import { Text, XStack, YStack } from 'tamagui'
 import { VineBar } from '../Ornament'
 import { PrayerText } from '../PrayerText'
 
-export function HymnBlock({
-  title,
-  english,
-  latin,
-}: {
-  title: string
-  english: string
-  latin: string
-}) {
-  const englishLines = english.split('\n')
+export function HymnBlock({ title, text, latin }: { title: string; text: string; latin: string }) {
+  const textLines = text.split('\n')
   const latinLines = latin.split('\n')
-  const totalLines = englishLines.length + latinLines.length
+  const totalLines = textLines.length + latinLines.length
   const estimatedHeight = totalLines * 24 + 40
 
   return (
@@ -25,7 +17,7 @@ export function HymnBlock({
           {title}
         </Text>
         <YStack gap="$xs">
-          {englishLines.map((line, i) => (
+          {textLines.map((line, i) => (
             <PrayerText key={`en-${i}-${line.slice(0, 20)}`}>{line}</PrayerText>
           ))}
         </YStack>

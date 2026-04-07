@@ -194,7 +194,7 @@ describe('getDayObligations', () => {
     it('contains relevant descriptions', () => {
       const result = getDayObligations(ashWednesday, 'of', 'US', ofUS)
       expect(result.details.length).toBeGreaterThan(0)
-      expect(result.details[0].en).toContain('Ash Wednesday')
+      expect(result.details[0]['en-US']).toContain('Ash Wednesday')
     })
 
     it('is empty for days with no obligations', () => {

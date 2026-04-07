@@ -13,7 +13,6 @@
  *
  * Day-of-week: 0=Sunday, 6=Saturday
  */
-import { addDays, differenceInCalendarDays } from 'date-fns'
 
 import {
   computeEaster,
@@ -22,6 +21,7 @@ import {
   getSeptuagesimaSunday,
   normalizeDate,
 } from '@ember/liturgical'
+import { addDays, differenceInCalendarDays } from 'date-fns'
 
 function daysSince(from: Date, to: Date): number {
   return differenceInCalendarDays(normalizeDate(to), normalizeDate(from))

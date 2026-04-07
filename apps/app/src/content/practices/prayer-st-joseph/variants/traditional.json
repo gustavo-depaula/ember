@@ -1,14 +1,17 @@
 {
-  "id": "traditional",
-  "name": { "en": "Traditional", "pt-BR": "Tradicional" },
-  "data": {
-    "default": [
-      {
-        "prayer": {
-          "en": "To thee, O blessed Joseph, we have recourse in our affliction, and having implored the help of thy most holy Spouse, we confidently invoke thy patronage also.\n\nBy that charity which united thee to the Immaculate Virgin Mother of God, and by that fatherly love with which thou didst embrace the Child Jesus, we beseech thee graciously to regard the inheritance which Jesus Christ has purchased by His Blood, and by thy powerful intercession, to help us in our necessities.\n\nGuard, O most watchful Guardian of the Holy Family, the chosen people of Jesus Christ; keep far from us, O most loving Father, all blight of error and corruption; aid us from on high, O our most mighty protector, in this conflict with the powers of darkness; and even as of old thou didst rescue the Child Jesus from the supreme peril of His life, so now defend God's Holy Church from the snares of the enemy and from all adversity; keep us one and all under thy continual protection, that we may be supported by thine example and thine assistance, may be enabled to lead a holy life, to die a holy death, and to obtain everlasting happiness in heaven. Amen.",
-          "pt-BR": "A vós, ó bem-aventurado José, recorremos na nossa aflição, e depois de implorar o auxílio de vossa santíssima Esposa, confiantes imploramos também o vosso patrocínio.\n\nPela caridade que vos uniu à Imaculada Virgem Mãe de Deus e pelo amor paternal com que abraçastes o Menino Jesus, suplicamos-vos que olheis com bondade para a herança que Jesus Cristo resgatou com o Seu Sangue e que, com vossa poderosa intercessão, nos ajudeis nas nossas necessidades.\n\nGuardai, ó vigilantíssimo Guarda da Santa Família, o povo eleito de Jesus Cristo; afastai de nós, ó amantíssimo Pai, toda a corrupção do vício e do erro; socorrei-nos do alto, ó nosso poderosíssimo protetor, neste combate com as potências das trevas; e assim como outrora livrastes o Menino Jesus do supremo perigo da vida, assim agora defendei a santa Igreja de Deus das ciladas do inimigo e de toda adversidade; guardai-nos a todos com a vossa contínua proteção, para que, apoiados no vosso exemplo e auxílio, possamos viver santamente, morrer santamente e alcançar a felicidade eterna no Céu. Amém."
-        }
-      }
-    ]
-  }
+	"id": "traditional",
+	"name": {
+		"en-US": "Traditional",
+		"pt-BR": "Tradicional"
+	},
+	"data": {
+		"default": [
+			{
+				"prayer": {
+					"en-US": "To thee, O blessed Joseph, we have recourse in our affliction, and having implored the help of thy most holy Spouse, we confidently invoke thy patronage also.\n\nBy that charity which united thee to the Immaculate Virgin Mother of God, and by that fatherly love with which thou didst embrace the Child Jesus, we beseech thee graciously to regard the inheritance which Jesus Christ has purchased by His Blood, and by thy powerful intercession, to help us in our necessities.\n\nGuard, O most watchful Guardian of the Holy Family, the chosen people of Jesus Christ; keep far from us, O most loving Father, all blight of error and corruption; aid us from on high, O our most mighty protector, in this conflict with the powers of darkness; and even as of old thou didst rescue the Child Jesus from the supreme peril of His life, so now defend God's Holy Church from the snares of the enemy and from all adversity; keep us one and all under thy continual protection, that we may be supported by thine example and thine assistance, may be enabled to lead a holy life, to die a holy death, and to obtain everlasting happiness in heaven. Amen.",
+					"pt-BR": "A vós, ó bem-aventurado José, recorremos na nossa aflição, e depois de implorar o auxílio de vossa santíssima Esposa, confiantes imploramos também o vosso patrocínio.\n\nPela caridade que vos uniu à Imaculada Virgem Mãe de Deus e pelo amor paternal com que abraçastes o Menino Jesus, suplicamos-vos que olheis com bondade para a herança que Jesus Cristo resgatou com o Seu Sangue e que, com vossa poderosa intercessão, nos ajudeis nas nossas necessidades.\n\nGuardai, ó vigilantíssimo Guarda da Santa Família, o povo eleito de Jesus Cristo; afastai de nós, ó amantíssimo Pai, toda a corrupção do vício e do erro; socorrei-nos do alto, ó nosso poderosíssimo protetor, neste combate com as potências das trevas; e assim como outrora livrastes o Menino Jesus do supremo perigo da vida, assim agora defendei a santa Igreja de Deus das ciladas do inimigo e de toda adversidade; guardai-nos a todos com a vossa contínua proteção, para que, apoiados no vosso exemplo e auxílio, possamos viver santamente, morrer santamente e alcançar a felicidade eterna no Céu. Amém."
+				}
+			}
+		]
+	}
 }

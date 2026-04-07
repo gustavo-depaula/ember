@@ -4,7 +4,7 @@ export type {
   FlowDefinition,
   FlowSection,
   LectioTrackDef,
-  LocalizedBilingualText,
+  LocalizedContent,
   LocalizedText,
   RenderedSection,
   Variant,

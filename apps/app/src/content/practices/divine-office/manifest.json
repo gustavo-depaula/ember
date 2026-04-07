@@ -1,49 +1,103 @@
 {
-  "id": "divine-office",
-  "icon": "prayer",
-  "name": {
-    "en": "Divine Office",
-    "pt-BR": "Ofício Divino"
-  },
-  "categories": ["liturgy"],
-  "estimatedMinutes": 15,
-  "description": {
-    "en": "A simplified Divine Office with three hours — Morning, Evening, and Night Prayer — that uses lectio continua readings to pray through the entire Bible and Catechism in approximately one year.",
-    "pt-BR": "Um Ofício Divino simplificado com três horas — Oração da Manhã, da Tarde e da Noite — que utiliza leituras em lectio continua para rezar toda a Bíblia e o Catecismo em aproximadamente um ano."
-  },
-  "history": {
-    "en": "The Divine Office, or Liturgy of the Hours, is the daily prayer of the Church, sanctifying each part of the day with psalms, hymns, and Scripture. Its roots extend to the Jewish practice of praying at fixed hours, adopted by the early Christians. The monastic tradition shaped the classical eight-hour cycle, while post-conciliar reforms simplified it for wider use. This personal office follows the traditional structure with a 30-day psalter cycle and continuous Scripture reading.",
-    "pt-BR": "O Ofício Divino, ou Liturgia das Horas, é a oração diária da Igreja, santificando cada parte do dia com salmos, hinos e Escritura. Suas raízes remontam à prática judaica de orar em horários fixos, adotada pelos primeiros cristãos. A tradição monástica moldou o ciclo clássico de oito horas, enquanto as reformas pós-conciliares o simplificaram para uso mais amplo. Este ofício pessoal segue a estrutura tradicional com um ciclo de salmos de 30 dias e leitura contínua da Escritura."
-  },
-  "howToPray": {
-    "en": "Pray three hours each day: Morning Prayer (Lauds) with Old Testament reading, Evening Prayer (Vespers) with New Testament reading, and Night Prayer (Compline) with Catechism reading. Each hour follows the traditional structure: opening verse, hymn, psalmody from the 30-day cycle, Scripture reading, canticle, and closing prayer. Complete each hour to advance your reading progress.",
-    "pt-BR": "Reze três horas por dia: Oração da Manhã (Laudes) com leitura do Antigo Testamento, Oração da Tarde (Vésperas) com leitura do Novo Testamento, e Oração da Noite (Completas) com leitura do Catecismo. Cada hora segue a estrutura tradicional: versículo de abertura, hino, salmos do ciclo de 30 dias, leitura bíblica, cântico e oração final. Complete cada hora para avançar seu progresso de leitura."
-  },
-  "data": {
-    "psalter-30-day": "data/psalter-30-day.json",
-    "compline-psalms": "data/compline-psalms.json",
-    "office-hymns": "data/office-hymns.json"
-  },
-  "tracks": {
-    "ot-readings": "data/ot-readings.json",
-    "nt-readings": "data/nt-readings.json",
-    "ccc-readings": "data/ccc-readings.json"
-  },
-  "flowMode": "scroll",
-  "completion": "flow-end",
-  "theme": "office",
-  "flows": [
-    { "id": "morning", "name": { "en": "Morning Prayer", "pt-BR": "Oração da Manhã" }, "file": "flows/morning.json", "timeBlock": "morning" },
-    { "id": "evening", "name": { "en": "Evening Prayer", "pt-BR": "Oração da Tarde" }, "file": "flows/evening.json", "timeBlock": "evening" },
-    { "id": "compline", "name": { "en": "Night Prayer", "pt-BR": "Oração da Noite" }, "file": "flows/compline.json", "timeBlock": "evening" }
-  ],
-  "tags": ["office", "breviary", "liturgy-of-the-hours"],
-  "defaults": {
-    "sortOrder": 17,
-    "slots": [
-      { "flowId": "morning", "schedule": { "type": "daily" }, "time": "07:00", "tier": "essential", "enabled": false },
-      { "flowId": "evening", "schedule": { "type": "daily" }, "time": "20:00", "tier": "essential", "enabled": false },
-      { "flowId": "compline", "schedule": { "type": "daily" }, "time": "21:00", "tier": "ideal", "enabled": false }
-    ]
-  }
+	"id": "divine-office",
+	"icon": "prayer",
+	"name": {
+		"en-US": "Divine Office",
+		"pt-BR": "Ofício Divino"
+	},
+	"categories": [
+		"liturgy"
+	],
+	"estimatedMinutes": 15,
+	"description": {
+		"en-US": "A simplified Divine Office with three hours — Morning, Evening, and Night Prayer — that uses lectio continua readings to pray through the entire Bible and Catechism in approximately one year.",
+		"pt-BR": "Um Ofício Divino simplificado com três horas — Oração da Manhã, da Tarde e da Noite — que utiliza leituras em lectio continua para rezar toda a Bíblia e o Catecismo em aproximadamente um ano."
+	},
+	"history": {
+		"en-US": "The Divine Office, or Liturgy of the Hours, is the daily prayer of the Church, sanctifying each part of the day with psalms, hymns, and Scripture. Its roots extend to the Jewish practice of praying at fixed hours, adopted by the early Christians. The monastic tradition shaped the classical eight-hour cycle, while post-conciliar reforms simplified it for wider use. This personal office follows the traditional structure with a 30-day psalter cycle and continuous Scripture reading.",
+		"pt-BR": "O Ofício Divino, ou Liturgia das Horas, é a oração diária da Igreja, santificando cada parte do dia com salmos, hinos e Escritura. Suas raízes remontam à prática judaica de orar em horários fixos, adotada pelos primeiros cristãos. A tradição monástica moldou o ciclo clássico de oito horas, enquanto as reformas pós-conciliares o simplificaram para uso mais amplo. Este ofício pessoal segue a estrutura tradicional com um ciclo de salmos de 30 dias e leitura contínua da Escritura."
+	},
+	"howToPray": {
+		"en-US": "Pray three hours each day: Morning Prayer (Lauds) with Old Testament reading, Evening Prayer (Vespers) with New Testament reading, and Night Prayer (Compline) with Catechism reading. Each hour follows the traditional structure: opening verse, hymn, psalmody from the 30-day cycle, Scripture reading, canticle, and closing prayer. Complete each hour to advance your reading progress.",
+		"pt-BR": "Reze três horas por dia: Oração da Manhã (Laudes) com leitura do Antigo Testamento, Oração da Tarde (Vésperas) com leitura do Novo Testamento, e Oração da Noite (Completas) com leitura do Catecismo. Cada hora segue a estrutura tradicional: versículo de abertura, hino, salmos do ciclo de 30 dias, leitura bíblica, cântico e oração final. Complete cada hora para avançar seu progresso de leitura."
+	},
+	"data": {
+		"psalter-30-day": "data/psalter-30-day.json",
+		"compline-psalms": "data/compline-psalms.json",
+		"office-hymns": "data/office-hymns.json"
+	},
+	"tracks": {
+		"ot-readings": "data/ot-readings.json",
+		"nt-readings": "data/nt-readings.json",
+		"ccc-readings": "data/ccc-readings.json"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"theme": "office",
+	"flows": [
+		{
+			"id": "morning",
+			"name": {
+				"en-US": "Morning Prayer",
+				"pt-BR": "Oração da Manhã"
+			},
+			"file": "flows/morning.json",
+			"timeBlock": "morning"
+		},
+		{
+			"id": "evening",
+			"name": {
+				"en-US": "Evening Prayer",
+				"pt-BR": "Oração da Tarde"
+			},
+			"file": "flows/evening.json",
+			"timeBlock": "evening"
+		},
+		{
+			"id": "compline",
+			"name": {
+				"en-US": "Night Prayer",
+				"pt-BR": "Oração da Noite"
+			},
+			"file": "flows/compline.json",
+			"timeBlock": "evening"
+		}
+	],
+	"tags": [
+		"office",
+		"breviary",
+		"liturgy-of-the-hours"
+	],
+	"defaults": {
+		"sortOrder": 17,
+		"slots": [
+			{
+				"flowId": "morning",
+				"schedule": {
+					"type": "daily"
+				},
+				"time": "07:00",
+				"tier": "essential",
+				"enabled": false
+			},
+			{
+				"flowId": "evening",
+				"schedule": {
+					"type": "daily"
+				},
+				"time": "20:00",
+				"tier": "essential",
+				"enabled": false
+			},
+			{
+				"flowId": "compline",
+				"schedule": {
+					"type": "daily"
+				},
+				"time": "21:00",
+				"tier": "ideal",
+				"enabled": false
+			}
+		]
+	}
 }
