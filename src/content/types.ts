@@ -35,6 +35,7 @@ export type FlowEntry = {
 
 export type SlotDefault = {
   flowId: string
+  slotId?: string
   schedule: Schedule
   tier?: Tier
   time?: string

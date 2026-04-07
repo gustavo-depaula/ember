@@ -214,15 +214,16 @@ export default {
   },
 
   frequency: {
-    label: 'Frequ\u00eancia',
-    daily: 'Di\u00e1rio',
+    label: 'Frequência',
+    daily: 'Diário',
     weekly: 'Semanal',
-    custom: 'Dias Espec\u00edficos',
+    custom: 'Dias Específicos',
     monthly: 'Mensal',
+    holyDays: 'Dias Santos',
     timesPer: '{{count}} vezes por...',
     per: 'vezes por',
     week: 'semana',
-    month: 'm\u00eas',
+    month: 'mês',
   },
 
   timeBlock: {
@@ -661,6 +662,17 @@ export default {
     'way-of-light': 'Via Lucis',
     pray: 'Rezar',
     noContent: 'Conteúdo de oração ainda não disponível para esta prática.',
+  },
+
+  obligations: {
+    fast: 'Dia de Jejum',
+    abstinence: 'Dia de Abstinência',
+    partialAbstinence: 'Abstinência Parcial',
+    penance: 'Dia de Penitência',
+    fastNote: 'Uma refeição completa, duas menores',
+    abstinenceNote: 'Sem carne',
+    partialAbstinenceNote: 'Carne apenas na refeição principal',
+    penanceNote: 'Alguma forma de penitência é necessária',
   },
 
   calendar: {

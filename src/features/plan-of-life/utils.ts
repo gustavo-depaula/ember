@@ -3,7 +3,7 @@ import { differenceInCalendarDays, format, subDays } from 'date-fns'
 import type { Completion, Tier, UserPracticeSlot } from '@/db/schema'
 import { composeSlotKey } from '@/lib/slotKey'
 
-import { isApplicableOn, parseSchedule } from './schedule'
+import { isApplicableOn, parseSchedule, type ScheduleContext } from './schedule'
 
 export function toCompletedSet(completions: Completion[]): Set<string> {
   return new Set(completions.map((c) => composeSlotKey(c.practice_id, c.sub_id!)))
@@ -163,13 +163,21 @@ export function toTieredWallData(
   })
 }
 
-export function isSlotApplicableOnDate(slot: UserPracticeSlot, date: string): boolean {
+export function isSlotApplicableOnDate(
+  slot: UserPracticeSlot,
+  date: string,
+  ctx?: ScheduleContext,
+): boolean {
   const schedule = parseSchedule(slot.schedule)
-  return isApplicableOn(schedule, new Date(date))
+  return isApplicableOn(schedule, new Date(date), ctx)
 }
 
-export function filterSlotsForDate(slots: UserPracticeSlot[], date: string): UserPracticeSlot[] {
-  return slots.filter((s) => isSlotApplicableOnDate(s, date))
+export function filterSlotsForDate(
+  slots: UserPracticeSlot[],
+  date: string,
+  ctx?: ScheduleContext,
+): UserPracticeSlot[] {
+  return slots.filter((s) => isSlotApplicableOnDate(s, date, ctx))
 }
 
 export function countByTier(slots: UserPracticeSlot[]): {

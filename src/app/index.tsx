@@ -8,12 +8,14 @@ import { Text, YStack } from 'tamagui'
 import {
   FadeInView,
   GreenWall,
+  ObligationBadges,
   PageBreakOrnament,
   ScreenLayout,
   SectionDivider,
 } from '@/components'
 import { getSeasonalSymbol } from '@/components/SectionDivider'
 import { getManifest } from '@/content/practices'
+import { useYearCalendar } from '@/features/calendar'
 import {
   CelebrationOfDay,
   LiturgicalHeader,
@@ -30,6 +32,7 @@ import {
   getBlockCompletion,
   getBlockState,
   getCurrentTimeBlock,
+  type ScheduleContext,
   type TimeBlock,
   toCompletedSet,
   useCompletionRange,
@@ -40,10 +43,12 @@ import {
 import { useToday } from '@/hooks/useToday'
 import {
   computeEaster,
+  getCelebrationsForDate,
   getFirstSundayOfAdvent,
   getLiturgicalSeason,
   type LiturgicalCalendarForm,
   normalizeDate,
+  useObligations,
 } from '@/lib/liturgical'
 import { parseSlotKey } from '@/lib/slotKey'
 import { usePreferencesStore } from '@/stores/preferencesStore'
@@ -98,8 +103,20 @@ export default function HomeScreen() {
   )
   const wallStart = format(subWeeks(now, 9), 'yyyy-MM-dd')
   const { data: wallLogs = [] } = useCompletionRange(wallStart, selectedDate)
+  const { data: yearCalendar } = useYearCalendar(now.getFullYear())
+  const obligations = useObligations(now)
 
-  const todaySlots = useMemo(() => filterSlotsForDate(slots, selectedDate), [slots, selectedDate])
+  // biome-ignore lint/correctness/useExhaustiveDependencies: memoize by date string
+  const scheduleCtx: ScheduleContext | undefined = useMemo(() => {
+    if (!yearCalendar) return undefined
+    const dayCalendar = getCelebrationsForDate(yearCalendar, now)
+    return { season, dayCalendar }
+  }, [yearCalendar, season, selectedDate])
+
+  const todaySlots = useMemo(
+    () => filterSlotsForDate(slots, selectedDate, scheduleCtx),
+    [slots, selectedDate, scheduleCtx],
+  )
   const completedIds = useMemo(() => toCompletedSet(todayCompletions), [todayCompletions])
   const wallData = useMemo(() => buildTieredWallData(wallLogs, slots), [wallLogs, slots])
 
@@ -136,6 +153,14 @@ export default function HomeScreen() {
         <FadeInView>
           <CelebrationOfDay date={now} />
         </FadeInView>
+
+        {obligations && (obligations.fast || obligations.abstinence !== 'none') && (
+          <FadeInView>
+            <YStack paddingHorizontal="$md">
+              <ObligationBadges fast={obligations.fast} abstinence={obligations.abstinence} />
+            </YStack>
+          </FadeInView>
+        )}
 
         <SectionDivider symbol={getSeasonalSymbol(themeName)} />
 

@@ -7,6 +7,7 @@ export { FadeInView } from './FadeInView'
 export { GreenWall, type WallEntry } from './GreenWall'
 export { IlluminatedInitial } from './IlluminatedInitial'
 export { ManuscriptFrame } from './ManuscriptFrame'
+export { ObligationBadges } from './ObligationBadges'
 export {
   CornerFlourish,
   HeaderFlourish,

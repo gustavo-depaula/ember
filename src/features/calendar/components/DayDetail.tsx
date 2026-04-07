@@ -1,12 +1,15 @@
 import { useTranslation } from 'react-i18next'
 import { Text, YStack } from 'tamagui'
 
+import { ObligationBadges } from '@/components'
 import { localizeContent } from '@/lib/i18n'
 import type { DayCalendar } from '@/lib/liturgical'
+import { useObligations } from '@/lib/liturgical'
 import { RankBadge } from './RankBadge'
 
 export function DayDetail({ day }: { day: DayCalendar | undefined }) {
   const { t } = useTranslation()
+  const obligations = useObligations(day?.date ?? new Date())
 
   if (!day) {
     return (
@@ -55,6 +58,10 @@ export function DayDetail({ day }: { day: DayCalendar | undefined }) {
           </YStack>
         )
       })}
+
+      {obligations && (
+        <ObligationBadges fast={obligations.fast} abstinence={obligations.abstinence} />
+      )}
     </YStack>
   )
 }
