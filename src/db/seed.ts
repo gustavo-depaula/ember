@@ -203,11 +203,12 @@ async function seedAllPractices(db: SQLiteDatabase, verb: 'INSERT' | 'INSERT OR 
 
     for (const slotDef of d.slots) {
       const flow = manifest.flows.find((f) => f.id === slotDef.flowId)
+      const slotId = slotDef.slotId ?? slotDef.flowId
       const time =
         slotDef.time ??
         (flow?.timeBlock ? defaultTimes[flow.timeBlock as TimeBlock] : undefined) ??
         null
-      await insertSlot(db, verb, manifest.id, slotDef.flowId, {
+      await insertSlot(db, verb, manifest.id, slotId, {
         enabled: slotDef.enabled !== false ? 1 : 0,
         sortOrder: d.sortOrder,
         tier: slotDef.tier ?? 'essential',

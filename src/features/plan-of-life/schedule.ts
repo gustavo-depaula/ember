@@ -7,6 +7,7 @@ import {
   startOfWeek,
 } from 'date-fns'
 
+import type { DayCalendar } from '@/lib/liturgical/calendar-types'
 import type { LiturgicalSeason } from '@/lib/liturgical/season'
 
 // --- Types ---
@@ -23,6 +24,12 @@ type ScheduleRule =
   | { type: 'times-per'; count: number; period: 'week' | 'month' }
   | { type: 'fixed-program'; totalDays: number; startDate: string }
   | { type: 'periodic-series'; rule: ScheduleRule; totalOccurrences: number; startDate: string }
+  | { type: 'holy-days-of-obligation' }
+
+export type ScheduleContext = {
+  season?: LiturgicalSeason
+  dayCalendar?: DayCalendar
+}
 
 // --- Parsing ---
 
@@ -32,8 +39,8 @@ export function parseSchedule(json: string): Schedule {
 
 // --- Evaluation ---
 
-export function isApplicableOn(schedule: Schedule, date: Date, season?: LiturgicalSeason): boolean {
-  if (schedule.seasons?.length && season && !schedule.seasons.includes(season)) {
+export function isApplicableOn(schedule: Schedule, date: Date, ctx?: ScheduleContext): boolean {
+  if (schedule.seasons?.length && ctx?.season && !schedule.seasons.includes(ctx.season)) {
     return false
   }
 
@@ -64,12 +71,14 @@ export function isApplicableOn(schedule: Schedule, date: Date, season?: Liturgic
       if (!schedule.startDate) return false
       const seriesStart = parseISO(schedule.startDate)
       if (date < seriesStart) return false
-      return isApplicableOn(
-        { ...schedule.rule, seasons: schedule.seasons } as Schedule,
-        date,
-        season,
-      )
+      return isApplicableOn({ ...schedule.rule, seasons: schedule.seasons } as Schedule, date, ctx)
     }
+
+    case 'holy-days-of-obligation':
+      return ctx?.dayCalendar?.principal?.entry.holyDayOfObligation === true
+
+    default:
+      return false
   }
 }
 

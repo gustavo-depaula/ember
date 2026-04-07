@@ -31,6 +31,7 @@
     "sortOrder": 3,
     "slots": [
       { "flowId": "ordinary", "schedule": { "type": "days-of-week", "days": [0] }, "tier": "essential" },
+      { "flowId": "ordinary", "slotId": "holy-day", "schedule": { "type": "holy-days-of-obligation" }, "tier": "essential" },
       { "flowId": "extraordinary", "schedule": { "type": "days-of-week", "days": [0] }, "tier": "extra", "enabled": false }
     ]
   }

@@ -218,6 +218,7 @@ export default {
     weekly: 'Weekly',
     custom: 'Specific Days',
     monthly: 'Monthly',
+    holyDays: 'Holy Days',
     timesPer: '{{count}} times per...',
     per: 'times per',
     week: 'week',
@@ -661,6 +662,17 @@ export default {
     'way-of-light': 'Way of Light',
     pray: 'Pray',
     noContent: 'No prayer content available for this practice yet.',
+  },
+
+  obligations: {
+    fast: 'Day of Fast',
+    abstinence: 'Day of Abstinence',
+    partialAbstinence: 'Partial Abstinence',
+    penance: 'Day of Penance',
+    fastNote: 'One full meal, two smaller meals',
+    abstinenceNote: 'No meat',
+    partialAbstinenceNote: 'Meat only at the principal meal',
+    penanceNote: 'Some form of penance is required',
   },
 
   calendar: {

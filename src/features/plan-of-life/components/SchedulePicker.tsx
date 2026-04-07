@@ -6,7 +6,13 @@ import { dayKeys } from '@/config/constants'
 
 import type { Schedule } from '../schedule'
 
-type ScheduleMode = 'daily' | 'days-of-week' | 'times-per' | 'day-of-month' | 'nth-weekday'
+type ScheduleMode =
+  | 'daily'
+  | 'days-of-week'
+  | 'times-per'
+  | 'day-of-month'
+  | 'nth-weekday'
+  | 'holy-days-of-obligation'
 
 function getMode(schedule: Schedule): ScheduleMode {
   if (schedule.type === 'daily' || schedule.type === 'fixed-program') {
@@ -30,6 +36,7 @@ export function SchedulePicker({
     { value: 'days-of-week', label: t('frequency.weekly') },
     { value: 'times-per', label: t('frequency.timesPer', { count: 'X' }) },
     { value: 'day-of-month', label: t('frequency.monthly') },
+    { value: 'holy-days-of-obligation', label: t('frequency.holyDays') },
   ]
 
   function setMode(newMode: ScheduleMode) {
@@ -51,6 +58,9 @@ export function SchedulePicker({
         break
       case 'nth-weekday':
         onChangeSchedule({ type: 'nth-weekday', n: 1, day: 5, ...base })
+        break
+      case 'holy-days-of-obligation':
+        onChangeSchedule({ type: 'holy-days-of-obligation', ...base })
         break
     }
   }

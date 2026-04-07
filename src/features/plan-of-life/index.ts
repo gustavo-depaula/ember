@@ -23,6 +23,7 @@ export {
   useUpdatePractice,
   useUpdateSlot,
 } from './hooks'
+export type { ScheduleContext } from './schedule'
 export {
   type BlockState,
   blockOrder,
