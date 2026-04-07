@@ -37,9 +37,10 @@ yarn-error.*
 *.tsbuildinfo
 
 # generated native folders
-/ios
-/android
+apps/app/ios
+apps/app/android
 .tamagui/
+.turbo/
 
 # Divinum Officium source (cloned for parser script)
 .divinum-officium/

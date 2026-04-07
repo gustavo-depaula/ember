@@ -196,7 +196,7 @@ These are well-known prayers that don't need an external source — just bundle 
 - **Content:** Complete daily Mass propers — readings (full text), Collect, Prayer over the Offerings, Prayer after Communion, Entrance and Communion Antiphons
 - **Language:** PT-BR only
 - **Source data:** Likely scraped from liturgia.cnbb.org.br (CNBB)
-- **Status:** Integrated — `src/lib/mass-propers/of/liturgia-diaria.ts`
+- **Status:** Integrated — `apps/app/src/lib/mass-propers/of/liturgia-diaria.ts`
 
 ### Universalis (OF — Readings Only)
 

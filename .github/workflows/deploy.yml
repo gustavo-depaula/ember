@@ -30,6 +30,7 @@ jobs:
       - run: pnpm install --frozen-lockfile
 
       - name: Warm up Metro bundler
+        working-directory: apps/app
         run: |
           timeout 120s pnpm expo start --web --port 8081 &
           METRO_PID=$!
@@ -41,10 +42,11 @@ jobs:
           kill $METRO_PID 2>/dev/null || true
 
       - run: pnpm expo export --platform web
+        working-directory: apps/app
 
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: dist
+          path: apps/app/dist
 
   deploy:
     needs: build
