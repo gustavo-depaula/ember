@@ -34,3 +34,7 @@ pnpm test           # Run all tests
 - [Content sources](docs/content/content-sources.md)
 - [Features overview](docs/features/features-overview.md)
 - [Dev journal](docs/journal.md)
+
+## License
+
+[Public domain](LICENSE). In jurisdictions where that is not recognized, content falls back to CC BY 4.0 and software to 0BSD.
