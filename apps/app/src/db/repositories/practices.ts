@@ -78,6 +78,18 @@ export async function createPracticeWithSlot(
   return slotKey
 }
 
+export async function deleteBookPractices(practiceIds: string[]): Promise<void> {
+  if (practiceIds.length === 0) return
+  const db = getDb()
+  await db.withTransactionAsync(async () => {
+    for (const id of practiceIds) {
+      await db.runAsync('DELETE FROM completions WHERE practice_id = ?', [id])
+      await db.runAsync('DELETE FROM user_practice_slots WHERE practice_id = ?', [id])
+      await db.runAsync('DELETE FROM user_practices WHERE practice_id = ?', [id])
+    }
+  })
+}
+
 export async function deletePractice(practiceId: string): Promise<void> {
   const db = getDb()
   await db.withTransactionAsync(async () => {

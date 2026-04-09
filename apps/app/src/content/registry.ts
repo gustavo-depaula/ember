@@ -142,6 +142,12 @@ export function resolveCanticle(ref: string): PrayerAsset | undefined {
   return undefined
 }
 
+export function getPracticeIdsForBook(bookId: string): string[] {
+  const source = bookIdToSource.get(bookId)
+  if (!source) return []
+  return source.getAllManifests().map((m) => m.id)
+}
+
 export function getInstalledBookIds(): string[] {
   return sources.map((s) => s.bookId)
 }
