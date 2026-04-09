@@ -28,6 +28,7 @@ import { TasselPull } from '@/components/TasselPull'
 import { config } from '@/config/tamagui.config'
 import { useDbInit } from '@/db/client'
 import { seedCursors, seedPractices } from '@/db/seed'
+import { loadInstalledBooks, downloadAndInstallBook, fetchRegistry, getInstalledBooks } from '@/features/books/bookManager'
 import { useLiturgicalTheme } from '@/hooks/useLiturgicalTheme'
 import { initHearth } from '@/lib/hearth'
 import { rescheduleAllReminders, setupNotifications } from '@/lib/notifications'
@@ -83,12 +84,29 @@ export default function RootLayout() {
   const [seeded, setSeeded] = useState(false)
 
   useEffect(() => {
-    if (dbReady) {
-      Promise.all([seedPractices(), seedCursors()]).then(() => {
-        setSeeded(true)
-        setupNotifications().then(() => rescheduleAllReminders())
-      })
+    if (!dbReady) return
+
+    async function initBooks() {
+      // Load already-installed books into the ContentRegistry
+      await loadInstalledBooks()
+
+      // If no books installed (first launch), download the default
+      const installed = await getInstalledBooks()
+      if (installed.length === 0) {
+        const registry = await fetchRegistry()
+        const defaultBook = registry.books.find((b) => b.tags?.includes('default'))
+        if (defaultBook) {
+          await downloadAndInstallBook(defaultBook)
+        }
+      }
+
+      // Seed practices and cursors
+      await Promise.all([seedPractices(), seedCursors()])
+      setSeeded(true)
+      setupNotifications().then(() => rescheduleAllReminders())
     }
+
+    initBooks()
   }, [dbReady])
 
   const ready =
@@ -123,6 +141,7 @@ export default function RootLayout() {
               <Stack.Screen name="settings" options={{ title: 'Settings' }} />
               <Stack.Screen name="pray" options={{ title: 'Prayer' }} />
               <Stack.Screen name="practices" options={{ title: 'Practices' }} />
+              <Stack.Screen name="prayer-books" options={{ title: 'Prayer Books' }} />
             </Stack>
             <TasselPull />
           </Theme>

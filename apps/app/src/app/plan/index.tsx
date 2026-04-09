@@ -1,9 +1,10 @@
 import { format, subWeeks } from 'date-fns'
 import { useRouter } from 'expo-router'
 import { useMemo } from 'react'
+import { BookOpen, Library } from 'lucide-react-native'
 import { useTranslation } from 'react-i18next'
-import { Pressable } from 'react-native'
-import { Text, XStack, YStack } from 'tamagui'
+import { Pressable, View } from 'react-native'
+import { Text, useTheme, XStack, YStack } from 'tamagui'
 
 import {
   AnimatedPressable,
@@ -13,7 +14,7 @@ import {
   SectionDivider,
 } from '@/components'
 import { PracticeIcon } from '@/components/PracticeIcon'
-import { getManifest } from '@/content/practices'
+import { getManifest } from '@/content/registry'
 import type { Tier, UserPracticeSlot } from '@/db/schema'
 import {
   buildTieredWallData,
@@ -55,6 +56,7 @@ function getPracticeDisplayName(
 export default function PlanScreen() {
   const { t } = useTranslation()
   const router = useRouter()
+  const theme = useTheme()
 
   const { data: slots = [] } = useSlots()
   const rangeStart = useMemo(() => format(subWeeks(new Date(), 20), 'yyyy-MM-dd'), [])
@@ -174,24 +176,46 @@ export default function PlanScreen() {
           </YStack>
         </XStack>
 
-        <AnimatedPressable onPress={() => router.push('/practices' as any)}>
-          <XStack
-            alignItems="center"
-            justifyContent="center"
-            gap="$sm"
-            paddingVertical="$sm"
-            paddingHorizontal="$md"
-            borderWidth={0.5}
-            borderColor="$accentSubtle"
-            borderRadius="$md"
-            borderStyle="dashed"
-            alignSelf="center"
-          >
-            <Text fontFamily="$heading" fontSize="$2" color="$accent">
-              {t('catalog.browseCatalog')}
-            </Text>
-          </XStack>
-        </AnimatedPressable>
+        <XStack gap="$md" justifyContent="center">
+          <View style={{ flex: 1 }}>
+            <AnimatedPressable onPress={() => router.push('/prayer-books' as any)}>
+              <YStack
+                alignItems="center"
+                justifyContent="center"
+                gap="$sm"
+                padding="$md"
+                borderWidth={0.5}
+                borderColor="$borderColor"
+                borderRadius="$lg"
+                backgroundColor="$backgroundSurface"
+              >
+                <Library size={22} color={theme.accent.val} />
+                <Text fontFamily="$heading" fontSize="$1" color="$color" textAlign="center">
+                  {t('prayerBooks.title')}
+                </Text>
+              </YStack>
+            </AnimatedPressable>
+          </View>
+          <View style={{ flex: 1 }}>
+            <AnimatedPressable onPress={() => router.push('/practices' as any)}>
+              <YStack
+                alignItems="center"
+                justifyContent="center"
+                gap="$sm"
+                padding="$md"
+                borderWidth={0.5}
+                borderColor="$borderColor"
+                borderRadius="$lg"
+                backgroundColor="$backgroundSurface"
+              >
+                <BookOpen size={22} color={theme.accent.val} />
+                <Text fontFamily="$heading" fontSize="$1" color="$color" textAlign="center">
+                  {t('catalog.title')}
+                </Text>
+              </YStack>
+            </AnimatedPressable>
+          </View>
+        </XStack>
 
         <SectionDivider />
 

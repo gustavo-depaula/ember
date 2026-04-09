@@ -8,9 +8,9 @@ import { Text, XStack, YStack } from 'tamagui'
 import { HeaderFlourish, ScreenLayout, SectionDivider } from '@/components'
 import { ReadingConfig } from '@/components/ReadingConfigModal'
 import { resetDatabase } from '@/db/client'
-import { isLocalHearth, setLocalHearth } from '@/lib/hearth'
 import { TranslationModal } from '@/features/bible/components/TranslationModal'
 import { getTranslationLanguage, suggestedTranslations } from '@/lib/bolls'
+import { isLocalHearth, setLocalHearth } from '@/lib/hearth'
 import { supportedLanguages } from '@/lib/i18n'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
@@ -302,11 +302,7 @@ export default function SettingsScreen() {
 
         {__DEV__ && (
           <YStack gap="$sm">
-            <YStack
-              backgroundColor="$backgroundSurface"
-              borderRadius="$lg"
-              padding="$md"
-            >
+            <YStack backgroundColor="$backgroundSurface" borderRadius="$lg" padding="$md">
               <XStack justifyContent="space-between" alignItems="center">
                 <Text fontFamily="$body" fontSize="$2" color="$color">
                   Local Hearth

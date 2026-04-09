@@ -42,5 +42,8 @@ apps/app/android
 .tamagui/
 .turbo/
 
+# Generated hearth assets (build:hearth output)
+content/saints/*.webp
+
 # Divinum Officium source (cloned for parser script)
 .divinum-officium/

@@ -3,6 +3,7 @@ import { deleteDatabaseAsync, openDatabaseAsync } from 'expo-sqlite'
 import { useEffect, useReducer } from 'react'
 import initialMigration from './migrations/0001_initial.sql'
 import cacheMigration from './migrations/0002_cache.sql'
+import booksMigration from './migrations/0003_books.sql'
 
 let _db: SQLiteDatabase | undefined
 
@@ -30,6 +31,7 @@ export function useDbInit() {
         _db = await openDatabaseAsync('ember.db')
         await _db.execAsync(initialMigration)
         await _db.execAsync(cacheMigration)
+        await _db.execAsync(booksMigration)
 
         if (!cancelled) dispatch({ type: 'done' })
       } catch (err) {

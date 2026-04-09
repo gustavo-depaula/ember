@@ -473,9 +473,21 @@ export default {
     },
   },
 
+  prayerBooks: {
+    title: 'Devocionários',
+    installed: 'Instalados',
+    available: 'Disponíveis',
+    download: 'Baixar',
+    downloading: 'Instalando...',
+    import: 'Importar arquivo .pray',
+    importDesc: 'Abrir um livro de oração do seu dispositivo',
+    practices: 'Práticas',
+    remove: 'Remover do dispositivo',
+  },
+
   catalog: {
-    title: 'Pr\u00e1ticas',
-    search: 'Buscar pr\u00e1ticas...',
+    title: 'Práticas',
+    search: 'Buscar práticas...',
     all: 'Todas',
     addToPlan: 'Adicionar ao Plano',
     alreadyInPlan: 'No seu Plano',

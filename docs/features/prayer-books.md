@@ -1,6 +1,6 @@
 # Prayer Books
 
-Ember's content distribution system. A prayer book is a self-contained package of prayers and practices, distributed as a `.pray` file (zip archive). The app ships with no bundled practices — content downloads from the `hearth/` CDN on first launch.
+Ember's content distribution system. A prayer book is a self-contained package of prayers and practices, distributed as a `.pray` file (zip archive). The app ships with no bundled practices — content downloads from hearth on first launch.
 
 > See `docs/features/features-overview.md` for practice content architecture. See `docs/content/salty-book-format.md` for the broader Salty book format (will be updated to align with this spec).
 
@@ -8,7 +8,7 @@ Ember's content distribution system. A prayer book is a self-contained package o
 
 ## Motivation
 
-Practices are currently bundled in the app binary via `require.context()`. This has served us well, but limits what's possible:
+Practices are currently bundled in the app binary via `require.context()`. This limits what's possible:
 
 - **App size grows** with every practice added — all 41 practices ship to everyone
 - **No modularity** — users can't pick which collections they want
@@ -21,7 +21,7 @@ Prayer books solve this by packaging content into downloadable, shareable `.pray
 
 ## The `.pray` Format
 
-A `.pray` file is a **zip archive** with the `.pray` extension. It contains everything needed to install a collection of prayers and practices:
+A `.pray` file is a **zip archive** with the `.pray` extension:
 
 ```
 my-book.pray (zip)
@@ -78,19 +78,19 @@ type PrayerBook = {
 }
 ```
 
-The `practices` and `prayers` arrays define the **presentation order** — the order practices appear in the catalog when browsing this book, and the order prayer assets are listed.
+The `practices` and `prayers` arrays define **presentation order** — the order items appear when browsing this book.
 
 ### Practice manifests (unchanged)
 
-Practices inside a book use the exact same `PracticeManifest` format as today. No changes to the type. The book owns a practice by directory containment — `practices/morning-offering/manifest.json` belongs to the enclosing book. The app tracks this mapping at load time.
+Practices inside a book use the exact same `PracticeManifest` format. The book owns a practice by directory containment. The app tracks the practice-to-book mapping at load time.
 
-Practice IDs are **globally unique**. For first-party books, IDs are bare (`morning-offering`). For third-party/user books, convention is `{bookId}::{practiceId}` to avoid collisions.
+Practice IDs are **globally unique**. First-party IDs are bare (`morning-offering`). Third-party convention: `{bookId}::{practiceId}`.
 
-Plan-of-life seeding (which practices auto-add, their tier, schedule, time) stays in each practice's `manifest.defaults` field — unchanged from today.
+Seeding config (tier, schedule, time) stays in each practice's `manifest.defaults`.
 
 ### Prayer assets (unchanged format)
 
-Each prayer asset JSON file has the same format as current `assets/prayers/*.json`:
+Same format as current `assets/prayers/*.json`:
 
 ```json
 {
@@ -101,86 +101,78 @@ Each prayer asset JSON file has the same format as current `assets/prayers/*.jso
 
 ### Images
 
-Practice directories can include an `images/` folder for practice-specific images (e.g., station illustrations, mystery art). Flows reference them via relative paths. Book-level assets (cover, icon) live in the top-level `assets/` folder.
+Practice directories can include an `images/` folder (e.g. station illustrations, mystery art). Flows reference them via relative paths. Book-level assets (cover, icon) live in `assets/`.
 
 ---
 
 ## Prayer Asset Resolution
 
-When the content engine encounters a prayer ref (e.g. `{ "type": "prayer", "ref": "our-father" }`), it resolves through a tiered lookup:
+When the content engine encounters `{ "type": "prayer", "ref": "our-father" }`:
 
-1. **Book-local** — check the current book's `prayers/our-father.json`
-2. **Dependencies** — check each dependency book's `prayers/` in order
+1. **Book-local** — current book's `prayers/`
+2. **Dependencies** — each dependency book's `prayers/`, in order
 3. **Global pool** — common prayers available to all books
 
-The global pool is itself a prayer book (`common-prayers`) that all books implicitly depend on. It contains the universal Catholic prayers (Sign of the Cross, Our Father, Hail Mary, Glory Be, etc.) that most books need but shouldn't duplicate.
+The global pool is itself a prayer book (e.g. `common-prayers`) that all books implicitly depend on, containing universal Catholic prayers (Sign of the Cross, Our Father, Hail Mary, Glory Be, etc.).
 
 ---
 
-## Distribution
+## Distribution via Hearth
 
-### CDN structure (`hearth/books/`)
+Prayer books are served from hearth alongside existing content (Bible, propers, catechism).
+
+### Source (committed)
+
+Book source directories live in `content/books/`:
 
 ```
-hearth/
-  books/
-    registry.json                       # Index of available books
-    daily-prayers-1.0.0.pray            # .pray archives
-    divine-office-1.0.0.pray
-    catholic-devotions-1.0.0.pray
-    novenas-1.0.0.pray
-    catholic-formation-1.0.0.pray
-    opus-dei-1.0.0.pray
+content/books/
+  ember-default/
+    book.json
+    prayers/...
+    practices/...
+  ember-extra/
+    book.json
+    practices/...
+```
+
+### Build (deploy workflow)
+
+`.pray` files are **not committed** — built during the GitHub Actions deploy:
+
+1. Zip each `content/books/{id}/` into `{id}-{version}.pray` (version read from `book.json`)
+2. Generate `registry.json` from all `book.json` files
+3. Output to `_site/hearth/v1/books/`
+
+### URLs
+
+```
+https://ember.dpgu.me/hearth/v1/books/registry.json
+https://ember.dpgu.me/hearth/v1/books/ember-default-1.0.0.pray
+https://ember.dpgu.me/hearth/v1/books/ember-extra-1.0.0.pray
 ```
 
 ### Registry (`registry.json`)
 
-Lightweight catalog metadata for browsing — no need to download full `.pray` files to see what's available:
+Lightweight metadata for catalog browsing:
 
 ```json
 {
   "version": 1,
   "books": [
     {
-      "id": "daily-prayers",
+      "id": "ember-default",
       "version": "1.0.0",
       "name": { "en-US": "Catholic Daily Prayers", "pt-BR": "Orações Católicas Diárias" },
-      "description": { "en-US": "The essential Catholic prayer companion", "pt-BR": "O companheiro essencial de oração católica" },
+      "description": { "en-US": "The essential Catholic prayer companion" },
       "languages": ["en-US", "pt-BR"],
-      "tags": ["default", "daily", "essential"],
-      "icon": "prayer",
+      "tags": ["default"],
       "practiceCount": 23,
       "size": 150000,
-      "downloadUrl": "daily-prayers-1.0.0.pray"
+      "file": "ember-default-1.0.0.pray"
     }
   ]
 }
-```
-
-### Download flow
-
-1. App launch → check `installed_books` table in SQLite
-2. If empty (first launch) → show loading screen, fetch `registry.json`, auto-download `daily-prayers`
-3. Download `.pray` file from CDN
-4. Extract zip to `FileSystem.documentDirectory/books/{bookId}/`
-5. Validate book structure (valid `book.json`, all declared practices present)
-6. Insert row in `installed_books` table
-7. Register content source in `ContentRegistry`
-8. If `book.defaults.autoSeed` → seed practices into user's plan of life
-
-### On-device storage
-
-```
-[documentDirectory]/
-  books/
-    daily-prayers/
-      book.json
-      assets/
-      prayers/
-      practices/
-    divine-office/
-      book.json
-      practices/
 ```
 
 ---
@@ -189,28 +181,24 @@ Lightweight catalog metadata for browsing — no need to download full `.pray` f
 
 ### ContentRegistry
 
-Replaces direct imports from `@/content/practices`. Same API surface, but resolves across all installed books:
+Replaces direct imports from `@/content/practices`. Same API, resolves across installed books:
 
 ```typescript
-// Current:
-import { getManifest, loadFlowForSlot } from '@/content/practices'
-
-// New:
 import { getManifest, loadFlowForSlot } from '@/content/registry'
 ```
 
-The registry aggregates all installed books' practices into a unified view. Functions like `getAllManifests()`, `searchManifests()`, `getManifestCategories()` work across all books. Functions like `getManifest(id)` find the practice in whichever book contains it.
+The registry aggregates all installed books into a unified view. `getAllManifests()` returns practices from all books. `getManifest(id)` finds the practice in whichever book contains it.
 
 ### EngineContext
 
-`createEngineContext()` accepts a `bookId` to enable scoped prayer resolution:
+`createEngineContext()` accepts a `bookId` for scoped prayer resolution:
 
 ```typescript
 function createEngineContext(bookId?: string): EngineContext {
   const prayers = {
     ...getGlobalPrayers(),
     ...getDependencyPrayers(bookId),
-    ...getBookPrayers(bookId),       // Book-local overrides
+    ...getBookPrayers(bookId),
   }
   return { ...currentFields, prayers }
 }
@@ -222,45 +210,42 @@ function createEngineContext(bookId?: string): EngineContext {
 
 ### First launch
 
-1. Show a loading/welcome screen ("Setting up your prayer life...")
-2. Fetch `registry.json` from CDN
-3. Download and install `daily-prayers` book
-4. Seed default practices into plan of life
-5. Navigate to home screen
+1. Show loading screen ("Setting up your prayer life...")
+2. Fetch `registry.json`
+3. Download and install `ember-default`
+4. Seed practices into plan of life
+5. Navigate to home
 
-Requires network connectivity on first launch.
+Requires connectivity on first launch.
 
 ### Install
 
-1. Download `.pray` from CDN (or receive via file sharing)
-2. Extract to local storage
-3. Validate structure
+1. Download `.pray` from hearth (or receive via local import)
+2. Extract zip to `documentDirectory/books/{bookId}/`
+3. Validate (book.json present, declared practices exist)
 4. Insert `installed_books` row
-5. Register content source
-6. Optionally seed practices into plan
+5. Register as content source
+6. If `autoSeed` → seed practices into plan
 
 ### Update
 
 1. Registry shows newer version available
-2. Download new `.pray` to temp directory
-3. Replace old version atomically
-4. Update `installed_books` version
-5. User data (completions, cursors, slots) is unaffected — keyed by `practice_id`, which doesn't change between versions
+2. Download new `.pray`, replace atomically
+3. Update `installed_books` version
+4. User data unaffected (keyed by practice_id)
 
 ### Uninstall
 
-1. Unregister content source
-2. Delete book files from local storage
-3. Delete `installed_books` row
-4. User data is **orphaned but NOT deleted** — if the book is reinstalled, data reattaches
-5. Plan of life shows orphaned practices with a "book removed" indicator
-6. Optional: "purge orphaned data" action in settings
+1. Delete book files from local storage
+2. Delete `installed_books` row
+3. User data is **orphaned but NOT deleted** — reinstalling reattaches it
+4. Plan of life shows orphaned practices with a "book removed" indicator
 
 ---
 
 ## Database
 
-New table (migration `0003_books.sql`):
+New migration `0003_books.sql`:
 
 ```sql
 CREATE TABLE IF NOT EXISTS installed_books (
@@ -268,24 +253,61 @@ CREATE TABLE IF NOT EXISTS installed_books (
   version      TEXT NOT NULL,
   installed_at INTEGER NOT NULL,
   updated_at   INTEGER NOT NULL,
-  manifest     TEXT NOT NULL    -- full book.json stored as JSON string
+  manifest     TEXT NOT NULL
 );
 ```
 
 ---
 
-## `.pray` File Sharing (Future)
+## UI
 
-1. User creates a prayer book (via practice builder or manual assembly)
-2. Export as `.pray` file
-3. Share via system share sheet (email, AirDrop, Messages, cloud storage)
-4. Recipient taps `.pray` file → OS opens Ember (registered file association)
-5. Ember validates and installs the book
-6. Book appears in the user's catalog
+### Entry point
 
-### Validation on import
+Accessible from the Plan of Life screen (button/link navigates to `/prayer-books`).
 
-- Must contain `book.json` with valid `PrayerBook` schema
-- All practices listed in `book.json.practices` must have directories in `practices/`
-- All prayer refs in flows must resolve (within book or declared dependencies)
-- Reject if book ID conflicts with already-installed book (prompt to update instead)
+### Prayer Books screen (`/prayer-books`)
+
+- **Installed** section — cards for each installed book (icon, name, practice count, version, status badge)
+- **Available** section — books from registry not yet installed, with download size + download button
+- **Import .pray file** — dashed border card, opens file picker
+- Download progress shown inline on cards
+
+### Book detail screen (`/prayer-books/[bookId]`)
+
+- Book description
+- Ordered practice list (taps into existing `/practices/[manifestId]`)
+- "In plan" badges on practices
+- Download button (if not installed) or Remove button (if installed)
+
+---
+
+## Local `.pray` Import
+
+Two import methods:
+
+### File picker
+
+From the Prayer Books screen, tap "Import .pray file" → system file picker filtered to `.pray` → validate → install.
+
+### OS file association
+
+Register Ember as handler for `.pray` files (iOS UTI, Android intent filter). Tapping a `.pray` received via email, AirDrop, messaging, etc. opens Ember and triggers the import flow.
+
+### Import flow
+
+1. Copy `.pray` to temp directory
+2. Extract and validate:
+   - `book.json` present and valid
+   - All declared practices have directories
+3. If book ID conflicts with installed book → prompt to update
+4. Show book detail as preview with "Install" button
+5. On install → move to `books/`, insert DB row, register
+
+---
+
+## Open Questions
+
+- **Offline first launch**: If no connectivity on first launch, show "No connection — try again" or bundle a minimal fallback?
+- **Background updates**: Auto-check for book updates on launch, or only when user visits Prayer Books screen?
+- **Book removal protection**: Should the default book be unremovable?
+- **Cross-book practice references**: Can a flow in one book reference a practice from another?

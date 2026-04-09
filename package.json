@@ -11,6 +11,10 @@
     "ios": "pnpm --filter @ember/app run ios",
     "android": "pnpm --filter @ember/app run android",
     "parse-propers": "pnpm --filter @ember/app run parse-propers",
+    "build:books": "scripts/build-books.sh",
+    "build:webp": "scripts/convert-webp.sh",
+    "build:hearth": "scripts/build-books.sh && scripts/convert-webp.sh",
+    "hearth": "scripts/build-books.sh && scripts/convert-webp.sh && serve content -p 4100 --cors",
     "serve:content": "serve content -p 4100 --cors"
   },
   "devDependencies": {

@@ -1,0 +1,66 @@
+{
+  "id": "ember-default",
+  "version": "1.0.0",
+  "name": {
+    "en-US": "Catholic Daily Prayers",
+    "pt-BR": "Orações Católicas Diárias"
+  },
+  "description": {
+    "en-US": "The essential Catholic prayer companion for your daily plan of life.",
+    "pt-BR": "O companheiro essencial de oração católica para seu plano de vida diário."
+  },
+  "languages": ["en-US", "pt-BR"],
+  "tags": ["default", "daily", "essential"],
+  "practices": [
+    "morning-offering",
+    "mass",
+    "rosary",
+    "mental-prayer",
+    "examination-of-conscience",
+    "night-prayer",
+    "angelus",
+    "regina-caeli",
+    "confession",
+    "spiritual-reading",
+    "grace-meals",
+    "act-contrition",
+    "acts-faith-hope-charity",
+    "guardian-angel",
+    "prayer-st-michael",
+    "prayer-st-joseph",
+    "memorare",
+    "three-oclock-prayer",
+    "spiritual-communion",
+    "suscipe",
+    "anima-christi",
+    "thanksgiving-mass",
+    "prayers-st-thomas-aquinas"
+  ],
+  "prayers": [
+    "sign-of-cross",
+    "our-father",
+    "hail-mary",
+    "glory-be",
+    "apostles-creed",
+    "act-of-contrition",
+    "act-of-faith",
+    "act-of-hope",
+    "act-of-charity",
+    "anima-christi",
+    "come-holy-spirit",
+    "divine-mercy-response",
+    "eternal-father",
+    "fatima-prayer",
+    "grace-before-meals",
+    "grace-after-meals",
+    "hail-holy-queen",
+    "holy-god",
+    "opening-verse",
+    "benedictus",
+    "magnificat",
+    "nunc-dimittis"
+  ],
+  "defaults": {
+    "autoSeed": true
+  }
+}

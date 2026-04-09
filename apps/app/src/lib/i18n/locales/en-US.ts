@@ -473,6 +473,18 @@ export default {
     },
   },
 
+  prayerBooks: {
+    title: 'Prayer Books',
+    installed: 'Installed',
+    available: 'Available',
+    download: 'Download',
+    downloading: 'Installing...',
+    import: 'Import .pray file',
+    importDesc: 'Open a prayer book from your device',
+    practices: 'Practices',
+    remove: 'Remove from device',
+  },
+
   catalog: {
     title: 'Practices',
     search: 'Search practices...',
