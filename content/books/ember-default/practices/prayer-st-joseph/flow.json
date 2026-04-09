@@ -14,10 +14,7 @@
 			"sections": [
 				{
 					"type": "prayer",
-					"inline": {
-						"en-US": "{{prayer}}",
-						"pt-BR": "{{prayer}}"
-					}
+					"inline": "{{prayer}}"
 				}
 			]
 		}

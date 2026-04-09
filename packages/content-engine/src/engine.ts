@@ -24,7 +24,7 @@ export type PrayerAsset = {
 export type EngineContext = {
   language: string
   contentLanguage: ContentLanguage
-  localize: (text: { 'en-US'?: string; 'pt-BR'?: string; la?: string }) => BilingualText
+  localize: (text: string | { 'en-US'?: string; 'pt-BR'?: string; la?: string }) => BilingualText
   localizeUI: (text: { 'en-US'?: string; 'pt-BR'?: string }) => string
   t: (key: string, opts?: Record<string, unknown>) => string
   parsePsalmRef: (ref: number | string) => PsalmRef
@@ -35,6 +35,7 @@ export type EngineContext = {
   ) => ReadingReference[]
   prayers: Record<string, PrayerAsset>
   canticles: Record<string, PrayerAsset>
+  prose: Record<string, { 'en-US'?: string; 'pt-BR'?: string }>
 }
 
 export type FlowContext = {
@@ -301,6 +302,7 @@ function resolveSection(
           type: 'image',
           src: section.src,
           caption: section.caption ? ec.localize(section.caption) : undefined,
+          attribution: section.attribution ? ec.localize(section.attribution) : undefined,
         },
       ]
 
@@ -448,6 +450,37 @@ function resolveSection(
         },
       ]
     }
+
+    case 'prose': {
+      const proseText = ec.prose[section.file]
+      if (!proseText)
+        return [{ type: 'prose', text: bilingualOf(`[Prose not found: ${section.file}]`) }]
+      return [{ type: 'prose', text: ec.localize(proseText) }]
+    }
+
+    case 'gallery':
+      return [
+        {
+          type: 'gallery',
+          items: section.items.map((item) => ({
+            src: item.src,
+            title: item.title ? ec.localize(item.title) : undefined,
+            attribution: item.attribution ? ec.localize(item.attribution) : undefined,
+            caption: item.caption ? ec.localize(item.caption) : undefined,
+          })),
+        },
+      ]
+
+    case 'holy-card':
+      return [
+        {
+          type: 'holy-card',
+          image: section.image,
+          title: section.title ? ec.localize(section.title) : undefined,
+          attribution: section.attribution ? ec.localize(section.attribution) : undefined,
+          prayer: section.prayer ? ec.localize(section.prayer) : undefined,
+        },
+      ]
 
     default:
       return []

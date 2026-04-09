@@ -18,24 +18,18 @@
 			"sections": [
 				{
 					"type": "subheading",
-					"text": {
-						"en-US": "{{dayTitle}}"
-					}
+					"text": "{{dayTitle}}"
 				},
 				{
 					"type": "meditation",
-					"text": {
-						"en-US": "{{meditation}}"
-					}
+					"text": "{{meditation}}"
 				},
 				{
 					"type": "divider"
 				},
 				{
 					"type": "rubric",
-					"text": {
-						"en-US": "{{intention}}"
-					}
+					"text": "{{intention}}"
 				}
 			]
 		},
