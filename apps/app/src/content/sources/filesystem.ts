@@ -31,6 +31,7 @@ export type ContentSource = {
   getManifest(practiceId: string): PracticeManifest | undefined
   getAllManifests(): PracticeManifest[]
   loadFlow(practiceId: string, flowId: string): FlowDefinition | undefined
+  loadPerDayFlow(practiceId: string, day: number): FlowDefinition | undefined
   loadVariant(practiceId: string, variantId: string): Variant | undefined
   loadData(practiceId: string): Record<string, CycleData> | undefined
   loadTracks(practiceId: string): Record<string, LectioTrackDef> | undefined
@@ -109,6 +110,18 @@ async function loadPractice(
     }
   }
 
+  if (manifest.program?.perDayFlows) {
+    const dir = manifest.program.perDayFlows
+    for (let i = 0; i < manifest.program.totalDays; i++) {
+      const padded = String(i + 1).padStart(2, '0')
+      promises.push(
+        readJson<FlowDefinition>(`${base}/${dir}/day-${padded}.json`).then((def) => {
+          if (def) flows.set(`${practiceId}/__day/${i}`, def)
+        }),
+      )
+    }
+  }
+
   await Promise.all(promises)
 }
 
@@ -146,6 +159,7 @@ export async function createFileSystemSource(bookDirUri: string): Promise<Conten
     getManifest: (id) => manifests[id],
     getAllManifests: () => allManifests,
     loadFlow: (pid, fid) => flows.get(`${pid}/${fid}`),
+    loadPerDayFlow: (pid, day) => flows.get(`${pid}/__day/${day}`),
     loadVariant: (pid, vid) => variants.get(`${pid}/${vid}`),
     loadData: (pid) => dataCache.get(pid),
     loadTracks: (pid) => tracksCache.get(pid),
