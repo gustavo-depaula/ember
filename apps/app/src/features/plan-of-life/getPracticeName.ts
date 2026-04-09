@@ -1,6 +1,6 @@
 import type { TFunction } from 'i18next'
 
-import { getManifest, getManifestIconKey } from '@/content/practices'
+import { getManifest, getManifestIconKey } from '@/content/registry'
 import type { UserPracticeSlot } from '@/db/schema'
 import { localizeContent } from '@/lib/i18n'
 import { getProgramDay, parseSchedule } from './schedule'

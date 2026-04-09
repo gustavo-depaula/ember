@@ -16,7 +16,25 @@
       "supportsTablet": true,
       "bundleIdentifier": "me.dpgu.ember",
       "infoPlist": {
-        "ITSAppUsesNonExemptEncryption": false
+        "ITSAppUsesNonExemptEncryption": false,
+        "CFBundleDocumentTypes": [
+          {
+            "CFBundleTypeName": "Prayer Book",
+            "CFBundleTypeRole": "Viewer",
+            "LSHandlerRank": "Owner",
+            "LSItemContentTypes": ["me.dpgu.ember.pray"]
+          }
+        ],
+        "UTExportedTypeDeclarations": [
+          {
+            "UTTypeIdentifier": "me.dpgu.ember.pray",
+            "UTTypeDescription": "Prayer Book",
+            "UTTypeConformsTo": ["public.zip-archive"],
+            "UTTypeTagSpecification": {
+              "public.filename-extension": ["pray"]
+            }
+          }
+        ]
       }
     },
     "android": {
@@ -26,7 +44,19 @@
         "backgroundImage": "./assets/android-icon-background.png",
         "monochromeImage": "./assets/android-icon-monochrome.png"
       },
-      "package": "me.dpgu.ember"
+      "package": "me.dpgu.ember",
+      "intentFilters": [
+        {
+          "action": "VIEW",
+          "category": ["DEFAULT", "BROWSABLE"],
+          "data": [
+            {
+              "mimeType": "application/octet-stream",
+              "pathPattern": ".*\\.pray"
+            }
+          ]
+        }
+      ]
     },
     "web": {
       "bundler": "metro",

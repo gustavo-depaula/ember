@@ -1,4 +1,4 @@
-import { getCached, clearCache, setCache } from '@/db/repositories/cache'
+import { clearCache, getCached, setCache } from '@/db/repositories/cache'
 import { getPreference, setPreference } from '@/db/repositories/preferences'
 
 const remoteUrl = 'https://ember.dpgu.me/hearth/v1'

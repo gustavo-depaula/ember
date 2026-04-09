@@ -1,7 +1,7 @@
 import { format } from 'date-fns'
 import type { SQLiteDatabase } from 'expo-sqlite'
 
-import { getAllManifests } from '@/content/practices'
+import { getAllManifests } from '@/content/registry'
 import { deriveTimeBlock } from '@/features/plan-of-life/timeBlocks'
 import { composeSlotKey } from '@/lib/slotKey'
 import { getDb } from './client'

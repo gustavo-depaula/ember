@@ -14,7 +14,7 @@ import {
   SectionDivider,
 } from '@/components'
 import { getSeasonalSymbol } from '@/components/SectionDivider'
-import { getManifest } from '@/content/practices'
+import { getManifest } from '@/content/registry'
 import { useYearCalendar } from '@/features/calendar'
 import {
   CelebrationOfDay,

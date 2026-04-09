@@ -4,7 +4,7 @@ import { KeyboardAvoidingView, Platform, Pressable, ScrollView } from 'react-nat
 import { Input, Text, XStack, YStack } from 'tamagui'
 
 import { tierConfig } from '@/config/constants'
-import { getManifestIconKey } from '@/content/practices'
+import { getManifestIconKey } from '@/content/registry'
 import type { PracticeManifest } from '@/content/types'
 import type { Tier } from '@/db/schema'
 import { localizeContent } from '@/lib/i18n'
