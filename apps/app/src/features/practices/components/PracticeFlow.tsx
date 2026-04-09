@@ -36,6 +36,7 @@ import {
   getDefaultVariant,
   getManifest,
   loadFlowForSlot,
+  loadPerDayFlow,
   loadPracticeData,
   loadPracticeTracks,
   loadVariant,
@@ -143,8 +144,12 @@ export function PracticeFlow({
 
   const flow = useMemo(() => {
     if (!manifest) return undefined
+    if (manifest.program?.perDayFlows && programDay !== undefined) {
+      const dayFlow = loadPerDayFlow(practiceId, programDay)
+      if (dayFlow) return dayFlow
+    }
     return loadFlowForSlot(practiceId, activeFlowId)
-  }, [manifest, practiceId, activeFlowId])
+  }, [manifest, practiceId, activeFlowId, programDay])
 
   const selectedVariantId = currentSlot?.variant
 
