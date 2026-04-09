@@ -198,8 +198,8 @@ ember/
     liturgical/                   (pure TS — calendar, seasons, psalter, obligations)
     mass-propers/                 (pure TS — propers resolution engine)
     content-engine/               (pure TS — flow rendering engine + types)
-  hearth/
-    index.html                    (landing page for GitHub Pages)
+    hearth/
+      index.html                  (landing page for GitHub Pages)
   docs/
   turbo.json
   pnpm-workspace.yaml
