@@ -11,10 +11,10 @@ export type CccSegment = {
 
 let cachedSegments: CccSegment[] | undefined
 
-export function buildSegments(): CccSegment[] {
+export async function buildSegments(): Promise<CccSegment[]> {
   if (cachedSegments) return cachedSegments
 
-  const paragraphs = loadCcc()
+  const paragraphs = await loadCcc()
   const segments: CccSegment[] = []
   let current: CccSegment | undefined
 
@@ -39,8 +39,8 @@ export function buildSegments(): CccSegment[] {
   return segments
 }
 
-export function findSegmentByParagraph(paragraph: number): CccSegment {
-  const segments = buildSegments()
+export async function findSegmentByParagraph(paragraph: number): Promise<CccSegment> {
+  const segments = await buildSegments()
   const found = segments.find((s) => paragraph >= s.startParagraph && paragraph <= s.endParagraph)
   return found ?? segments[0]
 }

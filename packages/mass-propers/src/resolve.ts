@@ -7,10 +7,8 @@ export type RawSection = { 'en-US'?: string; la?: string; 'pt-BR'?: string; cita
 export type RawProperFile = Record<string, RawSection>
 
 export type PropersDataSource = {
-  hasTempora(id: string): boolean
-  hasSancti(id: string): boolean
-  loadTempora(id: string): RawProperFile | undefined
-  loadSancti(id: string): RawProperFile | undefined
+  loadTempora(id: string): Promise<RawProperFile | undefined>
+  loadSancti(id: string): Promise<RawProperFile | undefined>
 }
 
 export type LocalizeContent = (text: { 'en-US'?: string; 'pt-BR'?: string }) => string
@@ -40,13 +38,13 @@ export function chooseProperSource(
  * Loads all proper sections for a given date.
  * Returns localized text for the current app language.
  */
-export function getProperDay(
+export async function getProperDay(
   date: Date,
   dayCalendar: DayCalendar | undefined,
   dataSource: PropersDataSource,
   localize: LocalizeContent,
-): ProperDay | undefined {
-  const raw = loadRawProperDay(date, dayCalendar, dataSource)
+): Promise<ProperDay | undefined> {
+  const raw = await loadRawProperDay(date, dayCalendar, dataSource)
   if (!raw) return undefined
 
   const result: ProperDay = {}
@@ -65,14 +63,14 @@ export function getProperDay(
 /**
  * Gets a single proper section for a flow slot name (e.g., 'introit', 'collect').
  */
-export function getProperForSlot(
+export async function getProperForSlot(
   date: Date,
   slot: string,
   dayCalendar: DayCalendar | undefined,
   dataSource: PropersDataSource,
   localize: LocalizeContent,
-): ProperSection | undefined {
-  const raw = loadRawProperDay(date, dayCalendar, dataSource)
+): Promise<ProperSection | undefined> {
+  const raw = await loadRawProperDay(date, dayCalendar, dataSource)
   if (!raw) return undefined
 
   const sectionIds = getSectionIdsForSlot(slot)
@@ -96,13 +94,13 @@ export function getProperForSlot(
  * Gets the raw (unlocalised) section for a flow slot name.
  * Callers can apply their own bilingual localization.
  */
-export function getRawProperForSlot(
+export async function getRawProperForSlot(
   date: Date,
   slot: string,
   dayCalendar: DayCalendar | undefined,
   dataSource: PropersDataSource,
-): (RawSection & { sectionId: string }) | undefined {
-  const raw = loadRawProperDay(date, dayCalendar, dataSource)
+): Promise<(RawSection & { sectionId: string }) | undefined> {
+  const raw = await loadRawProperDay(date, dayCalendar, dataSource)
   if (!raw) return undefined
 
   const sectionIds = getSectionIdsForSlot(slot)
@@ -115,18 +113,17 @@ export function getRawProperForSlot(
 
 // ── Internal ──
 
-function loadRawProperDay(
+async function loadRawProperDay(
   date: Date,
   dayCalendar: DayCalendar | undefined,
   dataSource: PropersDataSource,
-): RawProperFile | undefined {
+): Promise<RawProperFile | undefined> {
   const source = chooseProperSource(date, dayCalendar)
   const temporaId = getDoTemporaId(date)
   const sanctiId = getDoSanctiId(date)
 
-  const tempora =
-    temporaId && dataSource.hasTempora(temporaId) ? dataSource.loadTempora(temporaId) : undefined
-  const sancti = dataSource.hasSancti(sanctiId) ? dataSource.loadSancti(sanctiId) : undefined
+  const tempora = temporaId ? await dataSource.loadTempora(temporaId) : undefined
+  const sancti = await dataSource.loadSancti(sanctiId)
 
   // Use the calendar-determined source, fall back to the other if unavailable.
   // This handles cases like Christmas (calendar says Tempora, DO stores in Sancti).

@@ -15,9 +15,9 @@ export function useSegments() {
 export function useSegment(segment: CccSegment | undefined) {
   return useQuery({
     queryKey: ['catechism', 'segment', segment?.startParagraph],
-    queryFn: () => {
+    queryFn: async () => {
       if (!segment) return []
-      const ccc = loadCcc()
+      const ccc = await loadCcc()
       const startIndex = segment.startParagraph - 1
       return ccc.slice(startIndex, startIndex + segment.paragraphCount)
     },

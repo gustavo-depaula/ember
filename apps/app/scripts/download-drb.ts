@@ -1,7 +1,7 @@
 import { mkdirSync, writeFileSync } from 'node:fs'
 import { join } from 'node:path'
 
-const outDir = join(__dirname, '..', 'src', 'assets', 'bible', 'drb')
+const outDir = join(__dirname, '..', '..', '..', 'content', 'bible', 'drb')
 mkdirSync(outDir, { recursive: true })
 
 const baseUrl = 'https://raw.githubusercontent.com/xxruyle/Bible-DouayRheims/master/Douay-Rheims'

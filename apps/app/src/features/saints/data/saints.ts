@@ -1,4 +1,5 @@
 import type { ImageSource } from 'expo-image'
+import { hearthUrl } from '@/lib/hearth'
 
 export type Saint = {
   id: string
@@ -9,11 +10,15 @@ export type Saint = {
   prayerExcerptKey: string
 }
 
+function saintImage(id: string): ImageSource {
+  return { uri: hearthUrl(`saints/${id}.webp`) }
+}
+
 export const saints: Saint[] = [
   {
     id: 'therese',
     nameKey: 'saints.therese.name',
-    image: require('../../../../assets/saints/therese.png'),
+    image: saintImage('therese'),
     feastDayKey: 'saints.therese.feastDay',
     patronOfKey: 'saints.therese.patronOf',
     prayerExcerptKey: 'saints.therese.prayerExcerpt',
@@ -21,7 +26,7 @@ export const saints: Saint[] = [
   {
     id: 'joseph',
     nameKey: 'saints.joseph.name',
-    image: require('../../../../assets/saints/joseph.png'),
+    image: saintImage('joseph'),
     feastDayKey: 'saints.joseph.feastDay',
     patronOfKey: 'saints.joseph.patronOf',
     prayerExcerptKey: 'saints.joseph.prayerExcerpt',
@@ -29,7 +34,7 @@ export const saints: Saint[] = [
   {
     id: 'michael_archangel',
     nameKey: 'saints.michaelArchangel.name',
-    image: require('../../../../assets/saints/michael_archangel.png'),
+    image: saintImage('michael_archangel'),
     feastDayKey: 'saints.michaelArchangel.feastDay',
     patronOfKey: 'saints.michaelArchangel.patronOf',
     prayerExcerptKey: 'saints.michaelArchangel.prayerExcerpt',
@@ -37,7 +42,7 @@ export const saints: Saint[] = [
   {
     id: 'gabriel_archangel',
     nameKey: 'saints.gabrielArchangel.name',
-    image: require('../../../../assets/saints/gabriel_archangel.png'),
+    image: saintImage('gabriel_archangel'),
     feastDayKey: 'saints.gabrielArchangel.feastDay',
     patronOfKey: 'saints.gabrielArchangel.patronOf',
     prayerExcerptKey: 'saints.gabrielArchangel.prayerExcerpt',
@@ -45,7 +50,7 @@ export const saints: Saint[] = [
   {
     id: 'peter',
     nameKey: 'saints.peter.name',
-    image: require('../../../../assets/saints/peter.png'),
+    image: saintImage('peter'),
     feastDayKey: 'saints.peter.feastDay',
     patronOfKey: 'saints.peter.patronOf',
     prayerExcerptKey: 'saints.peter.prayerExcerpt',
@@ -53,7 +58,7 @@ export const saints: Saint[] = [
   {
     id: 'john_evangelist',
     nameKey: 'saints.johnEvangelist.name',
-    image: require('../../../../assets/saints/john_evangelist.png'),
+    image: saintImage('john_evangelist'),
     feastDayKey: 'saints.johnEvangelist.feastDay',
     patronOfKey: 'saints.johnEvangelist.patronOf',
     prayerExcerptKey: 'saints.johnEvangelist.prayerExcerpt',
@@ -61,7 +66,7 @@ export const saints: Saint[] = [
   {
     id: 'john_of_the_cross',
     nameKey: 'saints.johnOfTheCross.name',
-    image: require('../../../../assets/saints/john_of_the_cross.png'),
+    image: saintImage('john_of_the_cross'),
     feastDayKey: 'saints.johnOfTheCross.feastDay',
     patronOfKey: 'saints.johnOfTheCross.patronOf',
     prayerExcerptKey: 'saints.johnOfTheCross.prayerExcerpt',
@@ -69,7 +74,7 @@ export const saints: Saint[] = [
   {
     id: 'teresa',
     nameKey: 'saints.teresa.name',
-    image: require('../../../../assets/saints/teresa.png'),
+    image: saintImage('teresa'),
     feastDayKey: 'saints.teresa.feastDay',
     patronOfKey: 'saints.teresa.patronOf',
     prayerExcerptKey: 'saints.teresa.prayerExcerpt',
@@ -77,7 +82,7 @@ export const saints: Saint[] = [
   {
     id: 'philomena',
     nameKey: 'saints.philomena.name',
-    image: require('../../../../assets/saints/philomena.png'),
+    image: saintImage('philomena'),
     feastDayKey: 'saints.philomena.feastDay',
     patronOfKey: 'saints.philomena.patronOf',
     prayerExcerptKey: 'saints.philomena.prayerExcerpt',
@@ -85,7 +90,7 @@ export const saints: Saint[] = [
   {
     id: 'gianna',
     nameKey: 'saints.gianna.name',
-    image: require('../../../../assets/saints/gianna.png'),
+    image: saintImage('gianna'),
     feastDayKey: 'saints.gianna.feastDay',
     patronOfKey: 'saints.gianna.patronOf',
     prayerExcerptKey: 'saints.gianna.prayerExcerpt',
@@ -93,7 +98,7 @@ export const saints: Saint[] = [
   {
     id: 'luke',
     nameKey: 'saints.luke.name',
-    image: require('../../../../assets/saints/luke.png'),
+    image: saintImage('luke'),
     feastDayKey: 'saints.luke.feastDay',
     patronOfKey: 'saints.luke.patronOf',
     prayerExcerptKey: 'saints.luke.prayerExcerpt',
@@ -101,7 +106,7 @@ export const saints: Saint[] = [
   {
     id: 'fatima',
     nameKey: 'saints.fatima.name',
-    image: require('../../../../assets/saints/fatima.png'),
+    image: saintImage('fatima'),
     feastDayKey: 'saints.fatima.feastDay',
     patronOfKey: 'saints.fatima.patronOf',
     prayerExcerptKey: 'saints.fatima.prayerExcerpt',
@@ -109,7 +114,7 @@ export const saints: Saint[] = [
   {
     id: 'moses_the_black',
     nameKey: 'saints.mosesTheBlack.name',
-    image: require('../../../../assets/saints/moses_the_black.png'),
+    image: saintImage('moses_the_black'),
     feastDayKey: 'saints.mosesTheBlack.feastDay',
     patronOfKey: 'saints.mosesTheBlack.patronOf',
     prayerExcerptKey: 'saints.mosesTheBlack.prayerExcerpt',
@@ -117,7 +122,7 @@ export const saints: Saint[] = [
   {
     id: 'holy_innocents',
     nameKey: 'saints.holyInnocents.name',
-    image: require('../../../../assets/saints/holy_innocents.png'),
+    image: saintImage('holy_innocents'),
     feastDayKey: 'saints.holyInnocents.feastDay',
     patronOfKey: 'saints.holyInnocents.patronOf',
     prayerExcerptKey: 'saints.holyInnocents.prayerExcerpt',

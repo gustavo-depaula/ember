@@ -100,7 +100,8 @@ Work is organized into **independent tracks** on GitHub — each track advances 
 This is a pnpm workspaces + turborepo monorepo:
 - `apps/app/` — Expo app (iOS/Android/web)
 - `packages/` — shared libraries (liturgical, mass-propers, content-engine)
-- `hearth/` — static content served via GitHub Pages (Bible, propers, catechism, saints images)
+- `content/` — source files for Hearth (Bible, propers, catechism, saints images)
+- `hearth/` — GitHub Pages landing page + deploy config
 - Root: workspace config, turbo, biome
 
 ## Commands
@@ -126,5 +127,5 @@ pnpm test:watch          # test watch mode
 - TanStack Query for all DB/async reads (even local SQLite)
 - DB types defined in `apps/app/src/db/schema.ts`, migrations in `apps/app/src/db/migrations/*.sql`, applied via `apps/app/src/db/client.ts`
 - DB queries encapsulated in `apps/app/src/db/repositories/` (office.ts, practices.ts)
-- Bible text: bundled Douay-Rheims JSON for offline, Bolls.life API for other translations (cached in SQLite)
+- Bible text: Douay-Rheims fetched from Hearth on demand (cached in SQLite), Bolls.life API for other translations
 - 30-day DWDO psalter cycle (see `docs/features/features-overview.md` for the full table)
