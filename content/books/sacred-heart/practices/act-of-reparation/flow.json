@@ -1,0 +1,43 @@
+{
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    },
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Act of Reparation to the Sacred Heart",
+        "pt-BR": "Ato de Desagravo ao Sagrado Coração de Jesus"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Kneel and pray devoutly, offering this act of reparation for the offenses committed against the Sacred Heart of Jesus.",
+        "pt-BR": "Ajoelhe-se e reze devotamente, oferecendo este ato de desagravo pelas ofensas cometidas contra o Sagrado Coração de Jesus."
+      }
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "prayer",
+      "ref": "act-of-reparation"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Sacred Heart of Jesus, have mercy on us. Amen.",
+        "pt-BR": "Sagrado Coração de Jesus, tende piedade de nós. Amém."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    }
+  ]
+}

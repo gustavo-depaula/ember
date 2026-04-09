@@ -1,0 +1,50 @@
+{
+  "id": "act-of-reparation",
+  "icon": "sacred-heart",
+  "name": {
+    "en-US": "Act of Reparation to the Sacred Heart",
+    "pt-BR": "Ato de Desagravo ao Sagrado Coração"
+  },
+  "categories": ["devotion", "sacred-heart", "reparation"],
+  "estimatedMinutes": 5,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "flows": [
+    {
+      "id": "default",
+      "name": {
+        "en-US": "Act of Reparation",
+        "pt-BR": "Ato de Desagravo"
+      },
+      "file": "flow.json"
+    }
+  ],
+  "description": {
+    "en-US": "The Act of Reparation to the Sacred Heart of Jesus, a prayer of atonement for the sins and ingratitude of men toward the love of Christ. Especially recommended on First Fridays and during Eucharistic adoration.",
+    "pt-BR": "O Ato de Desagravo ao Sagrado Coração de Jesus, uma oração de expiação pelos pecados e pela ingratidão dos homens diante do amor de Cristo. Especialmente recomendado nas Primeiras Sextas-feiras e durante a adoração eucarística."
+  },
+  "history": {
+    "en-US": "Pope Pius XI prescribed this Act of Reparation in his 1928 encyclical Miserentissimus Redemptor, which called on the faithful to make amends for the offenses committed against the Sacred Heart. The prayer expresses sorrow for the sins that wound the Heart of Christ and a firm resolve to make atonement through prayer and sacrifice.",
+    "pt-BR": "O Papa Pio XI prescreveu este Ato de Desagravo em sua encíclica Miserentissimus Redemptor de 1928, que convocou os fiéis a reparar as ofensas cometidas contra o Sagrado Coração. A oração expressa tristeza pelos pecados que ferem o Coração de Cristo e uma firme resolução de fazer expiação por meio da oração e do sacrifício."
+  },
+  "howToPray": {
+    "en-US": "Pray this act of reparation devoutly, ideally before the Blessed Sacrament. It may be prayed on First Fridays, during Holy Hours, or whenever you wish to make amends for sins against the Sacred Heart.",
+    "pt-BR": "Reze este ato de desagravo devotamente, de preferência diante do Santíssimo Sacramento. Pode ser rezado nas Primeiras Sextas-feiras, durante Horas Santas, ou sempre que desejar reparar os pecados contra o Sagrado Coração."
+  },
+  "tags": ["sacred-heart", "reparation", "first-friday"],
+  "defaults": {
+    "sortOrder": 12,
+    "slots": [
+      {
+        "flowId": "default",
+        "schedule": {
+          "type": "nth-weekday",
+          "n": 1,
+          "day": 5
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

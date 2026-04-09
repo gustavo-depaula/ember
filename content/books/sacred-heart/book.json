@@ -1,0 +1,20 @@
+{
+  "id": "sacred-heart",
+  "version": "1.0.0",
+  "name": {
+    "en-US": "Sacred Heart Devotion",
+    "pt-BR": "Devoção ao Sagrado Coração"
+  },
+  "description": {
+    "en-US": "Prayers and devotions to the Sacred Heart of Jesus, including the Nine First Fridays program.",
+    "pt-BR": "Orações e devoções ao Sagrado Coração de Jesus, incluindo o programa das Nove Primeiras Sextas-feiras."
+  },
+  "languages": ["en-US", "pt-BR"],
+  "tags": ["sacred-heart", "devotion", "first-friday", "reparation"],
+  "dependencies": ["ember-default"],
+  "practices": ["first-friday-devotion", "holy-hour-sacred-heart", "act-of-reparation", "morning-offering-sacred-heart"],
+  "prayers": ["act-of-reparation", "offering-to-sacred-heart", "prayer-of-st-margaret-mary"],
+  "defaults": {
+    "autoSeed": false
+  }
+}
