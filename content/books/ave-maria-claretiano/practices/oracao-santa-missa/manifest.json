@@ -1,0 +1,43 @@
+{
+	"id": "oracao-santa-missa",
+	"icon": "chalice",
+	"name": {
+		"pt-BR": "Oração para a Santa Missa"
+	},
+	"categories": ["sacramental", "daily"],
+	"estimatedMinutes": 15,
+	"description": {
+		"pt-BR": "Orações para acompanhar devotamente o Santo Sacrifício da Missa, do Introito à Bênção, conforme o devocionário Ave Maria (1957)."
+	},
+	"history": {
+		"pt-BR": "Estas orações seguem a estrutura da Missa Tridentina e ajudam o fiel a acompanhar interiormente cada parte do Santo Sacrifício, unindo-se às intenções do sacerdote no altar."
+	},
+	"howToPray": {
+		"pt-BR": "Acompanhe as orações conforme a Missa avança: do Introito ao Evangelho, do Ofertório à Consagração, e da Comunhão à Bênção final."
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flows": [
+		{
+			"id": "default",
+			"name": {
+				"pt-BR": "Oração para a Santa Missa"
+			},
+			"file": "flow.json"
+		}
+	],
+	"tags": ["mass", "sacrament", "traditional"],
+	"defaults": {
+		"sortOrder": 3,
+		"slots": [
+			{
+				"flowId": "default",
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "ideal",
+				"enabled": false
+			}
+		]
+	}
+}

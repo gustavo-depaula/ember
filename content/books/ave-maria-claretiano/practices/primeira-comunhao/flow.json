@@ -1,0 +1,144 @@
+{
+	"sections": [
+		{
+			"type": "heading",
+			"text": {
+				"pt-BR": "Renovação das promessas do Batismo"
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"pt-BR": "O sacerdote fará uma breve alocução. Depois, fará aos meninos as seguintes perguntas:"
+			}
+		},
+		{
+			"type": "response",
+			"verses": [
+				{
+					"v": { "pt-BR": "Renunciais ao demônio e a tôdas as suas obras e às suas vaidades?" },
+					"r": { "pt-BR": "Renunciamos." }
+				},
+				{
+					"v": { "pt-BR": "Crêdes em Deus Pai, todo-poderoso, Criador do céu e da terra?" },
+					"r": { "pt-BR": "Cremos." }
+				},
+				{
+					"v": { "pt-BR": "Crêdes também em Jesus Cristo, um só seu Filho, nosso Senhor: o qual foi concebido do Espírito Santo, nasceu de Maria Virgem; padeceu sob o poder de Pôncio Pilatos, foi crucificado, morto e sepultado; desceu aos infernos, ao terceiro dia ressurgiu dos mortos: subiu aos céus, está assentado à mão direita de Deus Pai, todo-poderoso, donde há-de vir a julgar os vivos e os mortos?" },
+					"r": { "pt-BR": "Cremos." }
+				},
+				{
+					"v": { "pt-BR": "Crêdes no Espírito Santo; na Santa Igreja católica, na comunhão dos santos; na remissão dos pecados; na ressurreição da carne e na vida eterna?" },
+					"r": { "pt-BR": "Cremos." }
+				}
+			]
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"pt-BR": "Confessai, pois, esta santa fé, recitando o símbolo dos apóstolos."
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "apostles-creed"
+		},
+		{
+			"type": "response",
+			"verses": [
+				{
+					"v": { "pt-BR": "Crêdes, pois, o que esta santa Igreja Católica, Apostólica, Romana nos ensina e propõe a crer?" },
+					"r": { "pt-BR": "Cremos." }
+				},
+				{
+					"v": { "pt-BR": "Crêdes também que esta santa Igreja, na sua doutrina e na explicação da mesma, não pode errar, por ser infalível?" },
+					"r": { "pt-BR": "Sim, cremos — porque Jesus Cristo, a verdade infalível, prometeu — ficar com ela todos os dias — até a consumação dos séculos." }
+				},
+				{
+					"v": { "pt-BR": "Quereis sempre, até o fim da vida, pertencer a esta santa Igreja Católica, Apostólica, Romana?" },
+					"r": { "pt-BR": "Queremos." }
+				},
+				{
+					"v": { "pt-BR": "Quereis também viver como filhos verdadeiros e obedientes desta mesma Igreja, praticando tudo o que ela manda, guardando os mandamentos e recebendo os sacramentos?" },
+					"r": { "pt-BR": "Queremos." }
+				}
+			]
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"pt-BR": "Pois bem, demos graças a Deus e peçamos a sua bênção divina, para que fielmente guardeis o que prometestes."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"pt-BR": "Ó Pai celestial, — dou-vos infinitas graças de todo o meu coração; — pois me chamastes para a fé única e verdadeira. — Creio em vós; — em Jesus Cristo, vosso Filho, — meu amantíssimo Salvador, — e no Espírito Santo. — Agradeço-vos o ser filho da vossa santa Igreja. — Protesto mais uma vez — permanecer sempre filho fiel desta mesma Igreja — até ao meu último suspiro, guardando tudo o que esta boa mãe exige de mim. — Não permitais nunca — que me separe dela, — pois nesta mesma fé quero viver e morrer. Amém."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"pt-BR": "Consagração ao Sagrado Coração de Jesus"
+			}
+		},
+		{
+			"type": "response",
+			"verses": [
+				{
+					"v": { "pt-BR": "Santíssimo Coração de Jesus, eis-nos aqui prostrados na vossa divina presença, para nos consagrarmos a vós para sempre." },
+					"r": { "pt-BR": "Doce Coração de Jesus, tende piedade de nós." }
+				},
+				{
+					"v": { "pt-BR": "Amabilíssimo Jesus, durante os dias de vossa vida mortal, vos aprazíeis em abençoar as crianças e em estreitá-las sôbre o vosso divino coração: \"Deixai vir a mim as crianças, porque delas é o reino dos céus\". Muito vos agradecemos, ó Jesus, por nos haverdes querido tanto." },
+					"r": { "pt-BR": "Por gratidão e amor nós vos oferecemos o nosso coração." }
+				},
+				{
+					"v": { "pt-BR": "Clementíssimo Jesus, em vossa entrada triunfante em Jerusalém as crianças cantavam: \"Hosana: Glória ao Filho de Davi!\" Unindo hoje as nossas vozes às dos meninos de Jerusalém, repetimos com santa alegria:" },
+					"r": { "pt-BR": "Adoração, honra e glória ao Sagrado Coração de Jesus." }
+				},
+				{
+					"v": { "pt-BR": "Jesus, cheio de bondade, neste belo dia atendei aos nossos desejos, ouvi as nossas orações. Todos ao mesmo tempo vos pedimos pelo vosso preciosíssimo Sangue:" },
+					"r": { "pt-BR": "Sagrado Coração de Jesus, guardai-nos a inocência e pureza de coração.\nSagrado Coração de Jesus, abençoai os nossos pais, parentes e benfeitores.\nSagrado Coração de Jesus, tende compaixão dos pobres pecadores." }
+				},
+				{
+					"v": { "pt-BR": "Ó Jesus, abençoai estas crianças, que hoje com tanto fervor se consagram ao vosso divino Coração. São vossas, meu Jesus, protegei-as, defendei-as e fazei que nenhuma delas jamais se separe de vós." },
+					"r": { "pt-BR": "Sagrado Coração de Jesus, abençoai-nos; por vosso amor queremos viver e morrer." }
+				}
+			]
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"pt-BR": "Consagração ao Imaculado Coração de Maria"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"pt-BR": "Imaculado Coração de Maria, pela graça de Deus, fonte inexaurível de bondade, de doçura, de amor e misericórdia, vós que amastes a Deus mais que os Serafins, Coração Imaculado da Mãe de Jesus, que tão vivamente sentistes as nossas misérias e tanto sofrestes pela nossa salvação, que pelo vosso amor mereceis o respeito, o amor, o reconhecimento e a confiança de todos os homens, dignai-vos de receber benignamente"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"pt-BR": "Ó! Senhora minha, ó! minha Mãe, eu me ofereço todo a vós; — e em prova de minha devoção para convosco — vos consagro neste dia — os meus olhos — os meus ouvidos — a minha bôca — o meu coração — e inteiramente todo o meu ser. — E porque assim sou vosso — ó incomparável Mãe — guardai-me — defendei-me — como coisa e propriedade vossa. Amém."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"pt-BR": "Ó Maria, Mãe de Deus e nossa Mãe Santíssima, abençoai êstes meninos que vos são consagrados. Guardai-os com cuidado maternal, para que nenhum dêles se perca. Defendei-os contra as ciladas do demônio e contra os escândalos do mundo para que sejam sempre humildes, mansos e puros.\nÓ Mãe nossa, Mãe de misericórdia, rogai por nós, e, depois dêste destêrro, mostrai-nos Jesus, bendito fruto do vosso ventre.\nÓ clemente, ó piedosa, ó doce sempre Virgem Maria. Amém"
+			}
+		}
+	]
+}

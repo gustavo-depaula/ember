@@ -1,0 +1,149 @@
+{
+	"sections": [
+		{
+			"type": "response",
+			"verses": [
+				{
+					"v": { "pt-BR": "Senhor, tende piedade de nós." },
+					"r": { "pt-BR": "Senhor, tende piedade de nós." }
+				},
+				{
+					"v": { "pt-BR": "Jesus Cristo, tende piedade de nós." },
+					"r": { "pt-BR": "Jesus Cristo, tende piedade de nós." }
+				},
+				{
+					"v": { "pt-BR": "Senhor, tende piedade de nós." },
+					"r": { "pt-BR": "Senhor, tende piedade de nós." }
+				},
+				{
+					"v": { "pt-BR": "Jesus Cristo, atendei-nos." },
+					"r": { "pt-BR": "Jesus Cristo, atendei-nos." }
+				}
+			]
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "response",
+			"verses": [
+				{
+					"v": { "pt-BR": "Deus Pai dos céus," },
+					"r": { "pt-BR": "Tende piedade de nós." }
+				},
+				{
+					"v": { "pt-BR": "Deus Filho, Redentor do mundo," },
+					"r": { "pt-BR": "Tende piedade de nós." }
+				},
+				{
+					"v": { "pt-BR": "Deus Espírito Santo," },
+					"r": { "pt-BR": "Tende piedade de nós." }
+				},
+				{
+					"v": { "pt-BR": "Santíssima Trindade, que sois um só Deus," },
+					"r": { "pt-BR": "Tende piedade de nós." }
+				}
+			]
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "response",
+			"verses": [
+				{ "v": { "pt-BR": "Santa Maria," }, "r": { "pt-BR": "Rogai por nós." } },
+				{ "v": { "pt-BR": "Mãe de Jesus Cristo," }, "r": { "pt-BR": "Rogai por nós." } },
+				{ "v": { "pt-BR": "Santa Virgem das virgens," }, "r": { "pt-BR": "Rogai por nós." } },
+				{ "v": { "pt-BR": "Mãe da divina graça," }, "r": { "pt-BR": "Rogai por nós." } },
+				{ "v": { "pt-BR": "Mãe puríssima," }, "r": { "pt-BR": "Rogai por nós." } },
+				{ "v": { "pt-BR": "Mãe castíssima," }, "r": { "pt-BR": "Rogai por nós." } },
+				{ "v": { "pt-BR": "Mãe imaculada," }, "r": { "pt-BR": "Rogai por nós." } },
+				{ "v": { "pt-BR": "Mãe intacta," }, "r": { "pt-BR": "Rogai por nós." } },
+				{ "v": { "pt-BR": "Mãe amável," }, "r": { "pt-BR": "Rogai por nós." } },
+				{ "v": { "pt-BR": "Mãe admirável," }, "r": { "pt-BR": "Rogai por nós." } },
+				{ "v": { "pt-BR": "Mãe do bom conselho," }, "r": { "pt-BR": "Rogai por nós." } },
+				{ "v": { "pt-BR": "Mãe do Criador," }, "r": { "pt-BR": "Rogai por nós." } },
+				{ "v": { "pt-BR": "Mãe do Salvador," }, "r": { "pt-BR": "Rogai por nós." } },
+				{ "v": { "pt-BR": "Virgem prudentíssima," }, "r": { "pt-BR": "Rogai por nós." } },
+				{ "v": { "pt-BR": "Virgem venerável," }, "r": { "pt-BR": "Rogai por nós." } },
+				{ "v": { "pt-BR": "Virgem louvável," }, "r": { "pt-BR": "Rogai por nós." } },
+				{ "v": { "pt-BR": "Virgem poderosa," }, "r": { "pt-BR": "Rogai por nós." } },
+				{ "v": { "pt-BR": "Virgem benigna," }, "r": { "pt-BR": "Rogai por nós." } },
+				{ "v": { "pt-BR": "Virgem fiel," }, "r": { "pt-BR": "Rogai por nós." } },
+				{ "v": { "pt-BR": "Espêlho da justiça," }, "r": { "pt-BR": "Rogai por nós." } },
+				{ "v": { "pt-BR": "Sede da sabedoria," }, "r": { "pt-BR": "Rogai por nós." } },
+				{ "v": { "pt-BR": "Causa de nossa alegria," }, "r": { "pt-BR": "Rogai por nós." } },
+				{ "v": { "pt-BR": "Vaso espiritual," }, "r": { "pt-BR": "Rogai por nós." } },
+				{ "v": { "pt-BR": "Vaso honorífico," }, "r": { "pt-BR": "Rogai por nós." } },
+				{ "v": { "pt-BR": "Vaso insigne de devoção," }, "r": { "pt-BR": "Rogai por nós." } },
+				{ "v": { "pt-BR": "Rosa mística," }, "r": { "pt-BR": "Rogai por nós." } },
+				{ "v": { "pt-BR": "Tôrre de Davi," }, "r": { "pt-BR": "Rogai por nós." } },
+				{ "v": { "pt-BR": "Tôrre de marfim," }, "r": { "pt-BR": "Rogai por nós." } },
+				{ "v": { "pt-BR": "Casa de ouro," }, "r": { "pt-BR": "Rogai por nós." } },
+				{ "v": { "pt-BR": "Arca da aliança," }, "r": { "pt-BR": "Rogai por nós." } },
+				{ "v": { "pt-BR": "Porta do céu," }, "r": { "pt-BR": "Rogai por nós." } },
+				{ "v": { "pt-BR": "Estrêla da manhã," }, "r": { "pt-BR": "Rogai por nós." } },
+				{ "v": { "pt-BR": "Saúde dos enfermos," }, "r": { "pt-BR": "Rogai por nós." } },
+				{ "v": { "pt-BR": "Refúgio dos pecadores," }, "r": { "pt-BR": "Rogai por nós." } },
+				{ "v": { "pt-BR": "Consoladora dos aflitos," }, "r": { "pt-BR": "Rogai por nós." } },
+				{ "v": { "pt-BR": "Auxílio dos cristãos," }, "r": { "pt-BR": "Rogai por nós." } },
+				{ "v": { "pt-BR": "Rainha dos anjos," }, "r": { "pt-BR": "Rogai por nós." } },
+				{ "v": { "pt-BR": "Rainha dos patriarcas," }, "r": { "pt-BR": "Rogai por nós." } },
+				{ "v": { "pt-BR": "Rainha dos profetas," }, "r": { "pt-BR": "Rogai por nós." } },
+				{ "v": { "pt-BR": "Rainha dos apóstolos," }, "r": { "pt-BR": "Rogai por nós." } },
+				{ "v": { "pt-BR": "Rainha dos mártires," }, "r": { "pt-BR": "Rogai por nós." } },
+				{ "v": { "pt-BR": "Rainha dos confessores," }, "r": { "pt-BR": "Rogai por nós." } },
+				{ "v": { "pt-BR": "Rainha das Virgens," }, "r": { "pt-BR": "Rogai por nós." } },
+				{ "v": { "pt-BR": "Rainha de todos os santos," }, "r": { "pt-BR": "Rogai por nós." } },
+				{ "v": { "pt-BR": "Rainha concebida sem pecado original," }, "r": { "pt-BR": "Rogai por nós." } },
+				{ "v": { "pt-BR": "Rainha assunta ao céu," }, "r": { "pt-BR": "Rogai por nós." } },
+				{ "v": { "pt-BR": "Rainha do Santo Rosário," }, "r": { "pt-BR": "Rogai por nós." } },
+				{ "v": { "pt-BR": "Rainha da paz," }, "r": { "pt-BR": "Rogai por nós." } }
+			]
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "response",
+			"verses": [
+				{
+					"v": { "pt-BR": "Cordeiro de Deus, que tirais os pecados do mundo," },
+					"r": { "pt-BR": "Perdoai-nos, Senhor." }
+				},
+				{
+					"v": { "pt-BR": "Cordeiro de Deus, que tirais os pecados do mundo," },
+					"r": { "pt-BR": "Ouvi-nos, Senhor." }
+				},
+				{
+					"v": { "pt-BR": "Cordeiro de Deus, que tirais os pecados do mundo," },
+					"r": { "pt-BR": "Tende piedade de nós." }
+				}
+			]
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "response",
+			"verses": [
+				{
+					"v": { "pt-BR": "Rogai por nós, Santa Mãe de Deus." },
+					"r": { "pt-BR": "Para que sejamos dignos das promessas de Cristo." }
+				}
+			]
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"pt-BR": "Oremos."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"pt-BR": "Suplicantes Vos rogamos, Senhor Deus, que concedais a vossos servos lograr perpétua saúde do corpo e da alma, e que, pela intercessão gloriosa da bem-aventurada sempre Virgem Maria, sejamos livres da presente tristeza e gozemos da eterna alegria. Por Cristo Nosso Senhor. Amém."
+			}
+		}
+	]
+}

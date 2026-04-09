@@ -1,0 +1,54 @@
+{
+	"id": "para-confissao",
+	"icon": "cross",
+	"name": {
+		"pt-BR": "Para a Confissão"
+	},
+	"categories": ["sacramental"],
+	"estimatedMinutes": 10,
+	"description": {
+		"pt-BR": "Preparação e ação de graças para o Sacramento da Confissão, conforme o devocionário Ave Maria (1957). Inclui oração preparatória, exame de consciência detalhado e oração de ação de graças."
+	},
+	"history": {
+		"pt-BR": "O exame de consciência antes da confissão é uma prática recomendada desde os primeiros séculos da Igreja. Este formato segue a tradição dos Padres Claretianos."
+	},
+	"howToPray": {
+		"pt-BR": "Use o fluxo 'Preparação' antes de ir à confissão — inclui a oração preparatória e um exame de consciência pelos mandamentos. Após receber o sacramento e cumprir a penitência, use o fluxo 'Ação de Graças'."
+	},
+	"flowMode": "scroll",
+	"completion": "manual",
+	"flows": [
+		{
+			"id": "prepare",
+			"name": {
+				"pt-BR": "Preparação"
+			},
+			"file": "flows/prepare.json",
+			"timeBlock": "flexible"
+		},
+		{
+			"id": "thanksgiving",
+			"name": {
+				"pt-BR": "Ação de Graças"
+			},
+			"file": "flows/thanksgiving.json",
+			"timeBlock": "flexible"
+		}
+	],
+	"tags": ["sacrament", "confession", "penance"],
+	"defaults": {
+		"sortOrder": 4,
+		"slots": [
+			{
+				"flowId": "prepare",
+				"schedule": {
+					"type": "times-per",
+					"count": 1,
+					"period": "month"
+				},
+				"tier": "ideal",
+				"enabled": false
+			}
+		]
+	}
+}

@@ -1,0 +1,50 @@
+{
+	"sections": [
+		{
+			"type": "prayer",
+			"inline": {
+				"pt-BR": "Ó! meu Deus, eu vos adoro e vos amo de todo o meu coração. Eu vos dou graças por me haverdes criado, feito cristão e conservado neste dia, e vos ofereço todo o bem que hoje tenho feito. Seja tudo por vosso amor! Humildemente vos peço, em nome de Jesus, pela intercessão de Maria: perdoai-me os meus pecados, porque pelo amor de vós me arrependo de todo o meu coração de os ter cometido; livrai-me de todo o mal. Amém."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"pt-BR": "Ó! Maria, concebida sem pecado, rogai por nós que recorremos a vós."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"pt-BR": "Reza o Pai Nosso, a Ave Maria, o Glória ao Pai e o Ato de contrição; depois:"
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "our-father"
+		},
+		{
+			"type": "prayer",
+			"ref": "hail-mary"
+		},
+		{
+			"type": "prayer",
+			"ref": "glory-be"
+		},
+		{
+			"type": "prayer",
+			"ref": "act-of-contrition"
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"pt-BR": "Jesus, Maria, José, meu coração vos dou e minha alma.\nJesus, Maria, José, assisti-me na última agonia.\nJesus, Maria, José, expire eu em paz em vossa companhia. Amém."
+			}
+		}
+	]
+}

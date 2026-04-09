@@ -1,0 +1,157 @@
+{
+	"sections": [
+		{
+			"type": "heading",
+			"text": {
+				"pt-BR": "Introito"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"pt-BR": "Meu Deus, eis-me aqui na vossa presença para assistir ao Santo Sacrifício da Missa. Eu vos adoro em união com Maria Santíssima e com todos os Anjos e Santos e vos ofereço esta santa missa e tôdas as que hoje se celebrarem no mundo inteiro, com os sentimentos de amor e nas sublimes intenções que tinha Jesus, vosso bendito Filho, quando celebrou êste mesmo sacrifício no Calvário, oferecendo-vos seu corpo imaculado e seu precioso sangue para a nossa salvação.\nApresento-me humildemente neste santuário para, por Jesus, com Jesus e em Jesus, vos adorar e bendizer e vos dar graças por todos os vossos benefícios e alcançar perdão e misericórdia. Ofereço-vos muito particularmente êste grande sacrifício pelas benditas almas do purgatório."
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"pt-BR": "Reza agora \"Eu Pecador\" e o Ato de Contrição."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"pt-BR": "Epístola"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"pt-BR": "\"Irmãos, como escolhidos de Deus revestí-vos de entranhas de misericórdia, de benignidade, de humildade, de modéstia, de paciência, suportando-vos uns aos outros e perdoando-vos mùtuamente se alguém tiver motivo de queixa contra outro; assim também vós. E acima de tudo tende a caridade, que é vínculo da perfeição, e reine em vossos corações a paz de Cristo, para a qual também fostes chamados em um só corpo; e sede agradecidos. A palavra de Cristo habite em vós com abundância, instruindo-vos e exortando-vos uns aos outros por meio de salmos, hinos e cânticos espirituais, cantando a Deus com a graça em vossos corações. Tudo quanto fizerdes por palavra ou por obra, tudo seja em nome do Senhor Jesus Cristo, rendendo graças por êle a Deus Pai\"."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"pt-BR": "Evangelho"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"pt-BR": "\"Naquele tempo disse Jesus:\nBem-aventurados os pobres em espírito, porque dêles é o reino dos céus.\nBem-aventurados os mansos, porque êles possuirão a terra.\nBem-aventurados os que choram, porque êles serão consolados.\nBem-aventurados os que usam de misericórdia, porque êles alcançarão misericórdia.\nBem-aventurados os limpos de coração, porque êles verão a Deus.\nBem-aventurados os pacíficos, porque êles serão chamados filhos de Deus.\nBem-aventurados os que padecem perseguição por amor da justiça, porque dêles é o reino dos céus.\nBem-aventurados sois vós quando os homens vos injuriarem e perseguirem, e, mentindo, falarem todo o mal contra vós por minha causa; alegrai-vos e exultai, porque é grande a vossa recompensa no céu\"."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"pt-BR": "Ofertório"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"pt-BR": "Recebei, Pai Santo, Deus Eterno e Todo-poderoso, êste sacrifício imaculado que o sacerdote oferece a vós, meu Deus vivo e verdadeiro. Recebei-o para a glória de vosso santíssimo nome, para a remissão de meus pecados, em ação de graças por todos os benefícios que me tendes feito.\nEu vos ofereço êste santo sacrifício também a fim de alcançar novas graças para mim, para meus pais, irmãos e parentes e para todos os fiéis cristãos, vivos e defuntos.\nRecebei, Senhor, minha memória, meu entendimento e tudo o que tenho. Eu recebi tudo de vós; a vós, meu Senhor e meu Deus, tudo restituo e consagro. Entrego-me inteiramente à vossa infinita misericórdia. Dai-me sòmente o vosso amor e a vossa graça e serei sobejamente rico; nem outra coisa mais procurarei. Amém.\nDulcíssimo Coração de Jesus, eu vos ofereço e consagro, pelo Coração Imaculado de Maria Santíssima, o meu corpo e a minha alma.\nDoce Coração de Maria, sede minha salvação. Amém."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"pt-BR": "Prefácio e Sanctus"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"pt-BR": "Pai onipotente, Deus eterno, nós vos damos graças e louvamos a vossa divina Majestade por Jesus Cristo Nosso Senhor, dizendo a uma voz com todos os Anjos e Arcanjos, Querubins e Serafins:\nSanto, Santo, Santo sois vós, Senhor Deus! Os céus e a terra estão cheios de vossa glória. Hosana nas alturas.\nBendito o que vem em nome do Senhor. Hosana nas alturas!"
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"pt-BR": "Consagração"
+			}
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"pt-BR": "À elevação da Hóstia"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"pt-BR": "Meu Senhor e meu Deus! Sacratíssimo Corpo de Jesus, presente sôbre o altar, eu vos adoro."
+			}
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"pt-BR": "À elevação do Cálice"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"pt-BR": "Ó Sangue preciosíssimo de meu Jesus, derramado por mim no Calvário e aqui presente no Cálice consagrado, eu vos adoro.\nPai Eterno, eu vos ofereço o preciosíssimo Sangue de Jesus Cristo em desconto dos meus pecados e pelas necessidades da santa Igreja."
+			}
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"pt-BR": "Depois da elevação"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"pt-BR": "Grande Deus, pela nossa salvação oferecemos hoje, pelas mãos puríssimas de Maria e pelos Anjos, à vossa divina Majestade a paixão e morte de Jesus Cristo, a sua gloriosa Ressurreição e Ascensão aos céus, esta Hóstia pura, esta Hóstia imaculada, o Pão santo da vida eterna e o Cálice da salvação.\nPor esta Vítima divina vos pedimos as graças de que necessitamos e o perdão dos nossos pecados."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"pt-BR": "Comunhão"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"pt-BR": "Cordeiro de Deus, que tirais os pecados do mundo, tende piedade de nós e dai-nos a paz.\nMeu bom Jesus, eu não vos vejo, mas creio firmemente que estais presente neste divino Sacramento tão real e perfeitamente como estais no céu. Ó Jesus, vós sois tão bom e amável, vós sois minha vida, minha luz, minha fôrça, meu consôlo, meu alimento, minha alegria, minha felicidade, meu Deus e meu tudo. Quem me dera receber-vos neste momento! Vinde, Jesus, não desprezeis meu pobre coração contrito e humilhado. Vinde à minha alma, que tanto precisa de vós; só em vós pode descansar. Meu bom Jesus, na vossa doce união quero viver e morrer. Amém."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"pt-BR": "Bênção"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"pt-BR": "Santíssima Trindade, aceitai esta santa missa que mais uma vez ofereço à vossa divina Majestade, para a vossa glória e para nossa salvação. Perdoai-me as faltas que cometi e dai-me a vossa bênção divina.\nA bênção de Deus Onipotente: do Pai e do Filho e do Espírito Santo desça sôbre nós e fique conosco para sempre. Amém."
+			}
+		}
+	]
+}
