@@ -29,6 +29,7 @@ export type RegistryEntry = {
   prayers: PrayerPreview[]
   size: number
   file: string
+  contentHash: string
 }
 
 export type Registry = {
@@ -42,6 +43,7 @@ export type InstalledBook = {
   installed_at: number
   updated_at: number
   manifest: string
+  content_hash: string | undefined
 }
 
 function booksDir(): Directory {
@@ -86,13 +88,18 @@ async function extractZip(zipData: ArrayBuffer, destDir: Directory) {
   }
 }
 
-async function upsertInstalledBook(bookId: string, version: string, manifestJson: string) {
+async function upsertInstalledBook(
+  bookId: string,
+  version: string,
+  manifestJson: string,
+  contentHash: string,
+) {
   const now = Date.now()
   await getDb().runAsync(
-    `INSERT INTO installed_books (book_id, version, installed_at, updated_at, manifest)
-     VALUES (?, ?, ?, ?, ?)
-     ON CONFLICT (book_id) DO UPDATE SET version = excluded.version, updated_at = excluded.updated_at, manifest = excluded.manifest`,
-    [bookId, version, now, now, manifestJson],
+    `INSERT INTO installed_books (book_id, version, installed_at, updated_at, manifest, content_hash)
+     VALUES (?, ?, ?, ?, ?, ?)
+     ON CONFLICT (book_id) DO UPDATE SET version = excluded.version, updated_at = excluded.updated_at, manifest = excluded.manifest, content_hash = excluded.content_hash`,
+    [bookId, version, now, now, manifestJson, contentHash],
   )
 }
 
@@ -136,7 +143,7 @@ export async function downloadAndInstallBook(
   const bookJsonFile = new File(dest, 'book.json')
   const bookJson = await bookJsonFile.text()
 
-  await upsertInstalledBook(entry.id, entry.version, bookJson)
+  await upsertInstalledBook(entry.id, entry.version, bookJson, entry.contentHash)
 
   const source = await createFileSystemSource(dest.uri)
   registerSource(source)
@@ -161,7 +168,7 @@ export async function installFromLocalFile(filePath: string): Promise<PrayerBook
   if (dest.exists) dest.delete()
   tempDir.move(dest)
 
-  await upsertInstalledBook(book.id, book.version, bookJson)
+  await upsertInstalledBook(book.id, book.version, bookJson, '')
 
   const source = await createFileSystemSource(dest.uri)
   registerSource(source)
@@ -198,8 +205,33 @@ export async function loadInstalledBooks(): Promise<void> {
 export function isBookUpdateAvailable(
   installed: InstalledBook,
   registry: RegistryEntry[],
-): string | undefined {
+): RegistryEntry | undefined {
   const entry = registry.find((r) => r.id === installed.book_id)
   if (!entry) return undefined
-  return entry.version !== installed.version ? entry.version : undefined
+  if (entry.contentHash && entry.contentHash !== installed.content_hash) return entry
+  if (!entry.contentHash && entry.version !== installed.version) return entry
+  return undefined
+}
+
+export async function updateBook(
+  entry: RegistryEntry,
+  onProgress?: (progress: number) => void,
+): Promise<void> {
+  unregisterSource(entry.id)
+  await downloadAndInstallBook(entry, onProgress)
+}
+
+export async function checkAndUpdateBooks(): Promise<boolean> {
+  const [installed, registry] = await Promise.all([getInstalledBooks(), fetchRegistry()])
+  let updated = false
+
+  for (const book of installed) {
+    const entry = isBookUpdateAvailable(book, registry.books)
+    if (entry) {
+      await updateBook(entry)
+      updated = true
+    }
+  }
+
+  return updated
 }

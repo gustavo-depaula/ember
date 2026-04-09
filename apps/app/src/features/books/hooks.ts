@@ -5,8 +5,10 @@ import {
   fetchRegistry,
   getInstalledBooks,
   installFromLocalFile,
+  isBookUpdateAvailable,
   type RegistryEntry,
   removeBook,
+  updateBook,
 } from './bookManager'
 
 export function useInstalledBooks() {
@@ -68,4 +70,42 @@ export function useRemoveBook() {
       queryClient.invalidateQueries({ queryKey: ['slots'] })
     },
   })
+}
+
+export function useBookUpdates() {
+  const { data: installed = [] } = useInstalledBooks()
+
+  return useQuery({
+    queryKey: ['book-updates', installed.map((b) => b.content_hash)],
+    queryFn: async () => {
+      const registry = await fetchRegistry()
+      const updates: RegistryEntry[] = []
+      for (const book of installed) {
+        const entry = isBookUpdateAvailable(book, registry.books)
+        if (entry) updates.push(entry)
+      }
+      return updates
+    },
+    enabled: installed.length > 0,
+  })
+}
+
+export function useUpdateBook() {
+  const queryClient = useQueryClient()
+  const [progress, setProgress] = useState<Record<string, number>>({})
+
+  const mutation = useMutation({
+    mutationFn: (entry: RegistryEntry) =>
+      updateBook(entry, (p) => {
+        setProgress((prev) => ({ ...prev, [entry.id]: p }))
+      }),
+    onSuccess: () => {
+      queryClient.invalidateQueries({ queryKey: ['installed-books'] })
+      queryClient.invalidateQueries({ queryKey: ['available-books'] })
+      queryClient.invalidateQueries({ queryKey: ['book-updates'] })
+      queryClient.invalidateQueries({ queryKey: ['slots'] })
+    },
+  })
+
+  return { ...mutation, progress }
 }

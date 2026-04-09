@@ -73,5 +73,6 @@ CREATE TABLE IF NOT EXISTS installed_books (
   version      TEXT NOT NULL,
   installed_at INTEGER NOT NULL,
   updated_at   INTEGER NOT NULL,
-  manifest     TEXT NOT NULL
+  manifest     TEXT NOT NULL,
+  content_hash TEXT
 );
