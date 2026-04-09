@@ -264,6 +264,12 @@ export async function enableSlotsForPractice(practiceId: string): Promise<void> 
   ])
 }
 
+export async function disableSlotsForPractice(practiceId: string): Promise<void> {
+  await getDb().runAsync('UPDATE user_practice_slots SET enabled = 0 WHERE practice_id = ?', [
+    practiceId,
+  ])
+}
+
 export async function reorderSlots(orderedIds: string[]): Promise<void> {
   const db = getDb()
   await db.withTransactionAsync(async () => {

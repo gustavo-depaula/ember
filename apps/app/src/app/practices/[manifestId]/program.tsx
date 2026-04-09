@@ -1,5 +1,5 @@
 import { useLocalSearchParams, useRouter } from 'expo-router'
-import { Check, ChevronLeft } from 'lucide-react-native'
+import { AlertTriangle, Check, ChevronLeft } from 'lucide-react-native'
 import { useMemo } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
@@ -9,7 +9,7 @@ import { AnimatedPressable, ScreenLayout } from '@/components'
 import { PracticeIcon } from '@/components/PracticeIcon'
 import { getManifest, getManifestIconKey, loadPracticeData } from '@/content/registry'
 import type { CycleData } from '@/content/types'
-import { useProgramProgress } from '@/features/plan-of-life'
+import { useProgramProgress, useRestartProgram } from '@/features/plan-of-life'
 import { localizeContent } from '@/lib/i18n'
 
 function getDayTitles(cycleData: Record<string, CycleData> | undefined): string[] {
@@ -35,6 +35,7 @@ export default function ProgramDetailScreen() {
 
   const manifest = manifestId ? getManifest(manifestId) : undefined
   const { data: progress } = useProgramProgress(manifest?.id ?? '', manifest?.program)
+  const restartProgramMutation = useRestartProgram()
 
   const cycleData = manifestId ? loadPracticeData(manifestId) : undefined
   const dayTitles = useMemo(() => getDayTitles(cycleData), [cycleData])
@@ -51,8 +52,16 @@ export default function ProgramDetailScreen() {
     )
   }
 
-  const { programDay, totalDays } = progress
+  const { programDay, totalDays, isComplete, completionBehavior, missedDays, shouldPromptRestart } =
+    progress
   const iconKey = getManifestIconKey(manifest.id)
+  const progressPercent = isComplete ? 100 : ((programDay + 1) / totalDays) * 100
+  const cursorDay = missedDays > 0 ? programDay - missedDays : programDay
+
+  function handleRestart() {
+    if (!manifest?.program) return
+    restartProgramMutation.mutate({ practiceId: manifest.id }, { onSuccess: () => router.back() })
+  }
 
   return (
     <ScreenLayout>
@@ -67,7 +76,9 @@ export default function ProgramDetailScreen() {
               {localizeContent(manifest.name)}
             </Text>
             <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
-              {t('program.dayOf', { day: programDay + 1, total: totalDays })}
+              {isComplete
+                ? t('program.complete')
+                : t('program.dayOf', { day: programDay + 1, total: totalDays })}
             </Text>
           </YStack>
         </XStack>
@@ -82,27 +93,92 @@ export default function ProgramDetailScreen() {
             backgroundColor="$accent"
             height={6}
             borderRadius="$lg"
-            width={`${((programDay + 1) / totalDays) * 100}%`}
+            width={`${progressPercent}%`}
           />
         </YStack>
+
+        {isComplete && (
+          <YStack
+            backgroundColor="$backgroundSurface"
+            borderRadius="$lg"
+            padding="$lg"
+            alignItems="center"
+            gap="$md"
+          >
+            <Text fontFamily="$body" fontSize="$3" color="$colorSecondary" textAlign="center">
+              {t('program.completeMessage', { name: localizeContent(manifest.name) })}
+            </Text>
+
+            {completionBehavior === 'offer-restart' && (
+              <AnimatedPressable onPress={handleRestart}>
+                <YStack
+                  backgroundColor="$accent"
+                  borderRadius="$md"
+                  paddingVertical="$sm"
+                  paddingHorizontal="$lg"
+                  alignItems="center"
+                >
+                  <Text fontFamily="$heading" fontSize="$3" color="white">
+                    {t('program.restart')}
+                  </Text>
+                </YStack>
+              </AnimatedPressable>
+            )}
+          </YStack>
+        )}
+
+        {shouldPromptRestart && !isComplete && (
+          <YStack
+            backgroundColor="$backgroundSurface"
+            borderRadius="$lg"
+            padding="$lg"
+            alignItems="center"
+            gap="$md"
+          >
+            <AlertTriangle size={24} color={theme.accent?.val} />
+            <Text fontFamily="$body" fontSize="$3" color="$colorSecondary" textAlign="center">
+              {t('program.missedTooMany')}
+            </Text>
+            <AnimatedPressable onPress={handleRestart}>
+              <YStack
+                backgroundColor="$accent"
+                borderRadius="$md"
+                paddingVertical="$sm"
+                paddingHorizontal="$lg"
+                alignItems="center"
+              >
+                <Text fontFamily="$heading" fontSize="$3" color="white">
+                  {t('program.restart')}
+                </Text>
+              </YStack>
+            </AnimatedPressable>
+          </YStack>
+        )}
 
         <YStack gap="$xs">
           {Array.from({ length: totalDays }, (_, dayIndex) => {
             const dayNum = dayIndex + 1
             const dayKey = `day-${dayNum}`
-            const isCurrent = dayIndex === programDay
-            const isCompleted = dayIndex < programDay
-            const isFuture = dayIndex > programDay
+            const isCurrent = dayIndex === programDay && !isComplete
+            const isCompleted = isComplete || dayIndex < programDay
+            const isFuture = dayIndex > programDay && !isComplete
+            const isMissed =
+              missedDays > 0 &&
+              progress.policy !== 'wait' &&
+              dayIndex > cursorDay &&
+              dayIndex < programDay
             const title = dayTitles[dayIndex]
 
             return (
               <DayRow
                 key={dayKey}
                 dayNum={dayNum}
-                title={title}
+                dayLabel={title || t('program.dayLabel', { day: dayNum })}
                 isCurrent={isCurrent}
                 isCompleted={isCompleted}
                 isFuture={isFuture}
+                isMissed={isMissed}
+                missedLabel={t('program.missed')}
                 onPress={() => router.push(`/pray/${manifest.id}?programDay=${dayIndex}` as any)}
               />
             )
@@ -115,17 +191,21 @@ export default function ProgramDetailScreen() {
 
 function DayRow({
   dayNum,
-  title,
+  dayLabel,
   isCurrent,
   isCompleted,
   isFuture,
+  isMissed = false,
+  missedLabel = '',
   onPress,
 }: {
   dayNum: number
-  title: string
+  dayLabel: string
   isCurrent: boolean
   isCompleted: boolean
   isFuture: boolean
+  isMissed?: boolean
+  missedLabel?: string
   onPress: () => void
 }) {
   return (
@@ -137,8 +217,8 @@ function DayRow({
         gap="$md"
         alignItems="center"
         borderWidth={1}
-        borderColor={isCurrent ? '$accent' : '$borderColor'}
-        opacity={isFuture ? 0.5 : 1}
+        borderColor={isCurrent ? '$accent' : isMissed ? '$colorSecondary' : '$borderColor'}
+        opacity={isFuture ? 0.5 : isMissed ? 0.6 : 1}
       >
         <YStack
           width={32}
@@ -148,7 +228,7 @@ function DayRow({
             isCompleted ? '$accent' : isCurrent ? 'rgba(255,255,255,0.2)' : '$backgroundSurface'
           }
           borderWidth={isCompleted || isCurrent ? 0 : 1}
-          borderColor="$borderColor"
+          borderColor={isMissed ? '$colorSecondary' : '$borderColor'}
           alignItems="center"
           justifyContent="center"
         >
@@ -165,18 +245,17 @@ function DayRow({
           )}
         </YStack>
         <YStack flex={1} gap={2}>
-          {title ? (
-            <Text
-              fontFamily="$heading"
-              fontSize="$3"
-              color={isCurrent ? 'white' : '$color'}
-              numberOfLines={1}
-            >
-              {title}
-            </Text>
-          ) : (
-            <Text fontFamily="$heading" fontSize="$3" color={isCurrent ? 'white' : '$color'}>
-              Day {dayNum}
+          <Text
+            fontFamily="$heading"
+            fontSize="$3"
+            color={isCurrent ? 'white' : '$color'}
+            numberOfLines={1}
+          >
+            {dayLabel}
+          </Text>
+          {isMissed && (
+            <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
+              {missedLabel}
             </Text>
           )}
         </YStack>
