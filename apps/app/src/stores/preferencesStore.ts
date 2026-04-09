@@ -123,6 +123,9 @@ export const usePreferencesStore = create<PreferencesState>()(
       set((state) => {
         state.language = language
         if (defaultTranslation) state.translation = defaultTranslation
+        if (contentLanguages.includes(language as ContentLanguage)) {
+          state.contentLanguage = language as ContentLanguage
+        }
       })
       setPreference('language', language)
       if (defaultTranslation) setPreference('translation', defaultTranslation)
