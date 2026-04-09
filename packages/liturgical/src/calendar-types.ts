@@ -158,6 +158,7 @@ type DayCalendar = {
 type CalendarOptions = {
   year: number
   form: 'of' | 'ef'
+  entries: LiturgicalEntry[]
   jurisdiction?: string
 }
 

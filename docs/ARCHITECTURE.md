@@ -71,18 +71,18 @@ See [features-overview.md](features/features-overview.md#data-model-v2) for full
 - `preferences` — all user settings (theme, translation, font config, etc.)
 - `cached_translations` — offline cache for online Bible translations
 
-### Bundled Assets (read-only, also served via Hearth)
-- `apps/app/src/assets/bible/drb/` — Douay-Rheims JSON files (one per book, 73 files)
-- `apps/app/src/assets/catechism/ccc.json` — Full CCC structured by paragraphs
-- `apps/app/src/assets/propers/` — EF Mass propers (tempora + sancti, 634 files)
-- `apps/app/src/assets/psalter/30-day.json` — 30-day psalter cycle mapping
-- `apps/app/src/assets/hymns/` — Hymn texts parsed from Divinum Officium
+### Hearth Content (fetched on demand, cached in SQLite)
+- `content/bible/drb/` — Douay-Rheims JSON files (one per book, 73 files)
+- `content/catechism/ccc.json` — Full CCC structured by paragraphs
+- `content/propers/` — EF Mass propers (tempora + sancti, 634 files)
+- `content/saints/` — Saint PNG images (14 files, served as WebP)
+
+The app fetches these from Hearth (`https://ember.dpgu.me/hearth/v1/`) on demand via `apps/app/src/lib/hearth.ts` and caches them in the SQLite `cache` table. First access requires network.
+
+### Bundled Assets (read-only, app-only)
 - `apps/app/src/assets/prayers/` — Fixed prayer texts (Our Father, canticles, Marian antiphons, etc.)
-- `apps/app/assets/saints/` — Saint PNG images (14 files)
 - `apps/app/assets/textures/` — Image-based ornament PNGs
 - `apps/app/assets/fonts/` — UnifrakturMaguntia bundled TTF
-
-These assets are currently bundled in the app AND deployed to Hearth (GitHub Pages). The app still reads from the bundle; migration to fetch from Hearth will happen incrementally per content type.
 
 ---
 
@@ -113,14 +113,14 @@ The `v1/` prefix allows future breaking schema changes without breaking old app 
 
 ### Source directories (copied to Hearth at deploy time)
 
-- `apps/app/src/assets/bible/drb/` → `hearth/v1/bible/drb/`
-- `apps/app/src/assets/propers/` → `hearth/v1/propers/`
-- `apps/app/src/assets/catechism/` → `hearth/v1/catechism/`
-- `apps/app/assets/saints/` → `hearth/v1/saints/` (+ WebP conversion)
+- `content/bible/drb/` → `hearth/v1/bible/drb/`
+- `content/propers/` → `hearth/v1/propers/`
+- `content/catechism/` → `hearth/v1/catechism/`
+- `content/saints/` → `hearth/v1/saints/` (+ WebP conversion)
 
-### Current status
+### App integration
 
-The app still bundles all content locally. Hearth provides the infrastructure for incremental migration — each content type can be moved to remote fetching independently.
+The app fetches from Hearth on demand via `apps/app/src/lib/hearth.ts` — a thin wrapper around `fetch()` + SQLite cache (`cache` table). First access requires network; subsequent reads serve from cache.
 
 ---
 
@@ -129,7 +129,7 @@ The app still bundles all content locally. Hearth provides the infrastructure fo
 ```
 User selects translation in settings
   |
-  ├── DRB (Douay-Rheims) -> Read from bundled JSON (always available offline)
+  ├── DRB (Douay-Rheims) -> Fetch from Hearth, cache in SQLite
   |
   └── NABRE / RSV -> Fetch from Bolls.life API
                                   |
@@ -137,7 +137,7 @@ User selects translation in settings
                                   └── Offline -> Show cached version, or fallback to DRB with notice
 ```
 
-Bolls.life API is free, no auth required. Cache aggressively — once a chapter is fetched, store it locally in SQLite so it works offline on subsequent reads.
+All content (Bible, Catechism, Mass propers, saints images) is fetched on demand from Hearth and cached in SQLite. Bolls.life API is used for non-DRB Bible translations. Cache aggressively — once fetched, store locally so it works offline on subsequent reads.
 
 ---
 
@@ -185,9 +185,15 @@ ember/
           liturgical/             (re-exports @ember/liturgical + useObligations hook)
           mass-propers/           (re-exports @ember/mass-propers + hook + propers-data)
           i18n/
+          hearth.ts                 (Hearth fetch + SQLite cache client)
           bolls.ts, content.ts, catechism.ts, lectio.ts
         config/                   (tamagui, tokens, themes, fonts)
-      assets/                     (saints images, textures, fonts)
+      assets/                     (textures, fonts)
+  content/                        (source files for Hearth — deployed to GitHub Pages)
+    bible/drb/                    (Douay-Rheims JSON, 73 books + index)
+    propers/                      (EF Mass propers — tempora + sancti)
+    catechism/                    (CCC JSON)
+    saints/                       (saint PNG images)
   packages/
     liturgical/                   (pure TS — calendar, seasons, psalter, obligations)
     mass-propers/                 (pure TS — propers resolution engine)

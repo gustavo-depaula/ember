@@ -18,7 +18,6 @@ import { ReadingConfigBadge, ReadingConfigModal, ScreenLayout } from '@/componen
 import { useCatechismStore } from '@/stores/catechismStore'
 
 import { useSegment, useSegments } from '../hooks'
-import { findSegmentByParagraph } from '../segments'
 import { CatechismHeader } from './CatechismHeader'
 import { SegmentContent } from './SegmentContent'
 import { SegmentList } from './SegmentList'
@@ -43,10 +42,13 @@ export function CatechismReader() {
   const [readingConfigVisible, setReadingConfigVisible] = useState(false)
 
   const { data: segments = [] } = useSegments()
-  const currentSegment = useMemo(
-    () => (segments.length > 0 ? findSegmentByParagraph(paragraph) : undefined),
-    [segments, paragraph],
-  )
+  const currentSegment = useMemo(() => {
+    if (segments.length === 0) return undefined
+    return (
+      segments.find((s) => paragraph >= s.startParagraph && paragraph <= s.endParagraph) ??
+      segments[0]
+    )
+  }, [segments, paragraph])
   const { data: paragraphs = [], isLoading } = useSegment(currentSegment)
 
   const handleNavigate = useCallback(

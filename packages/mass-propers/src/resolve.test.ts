@@ -1,10 +1,21 @@
-import { buildYearCalendar, type DayCalendar, getCelebrationsForDate } from '@ember/liturgical'
+import {
+  buildYearCalendar,
+  type DayCalendar,
+  getCelebrationsForDate,
+  type LiturgicalEntry,
+} from '@ember/liturgical'
+import { readFileSync } from 'node:fs'
+import { resolve } from 'node:path'
 import { describe, expect, it } from 'vitest'
 
 import { chooseProperSource } from './resolve'
 
-const calendar2026 = buildYearCalendar({ year: 2026, form: 'ef' })
-const calendar2025 = buildYearCalendar({ year: 2025, form: 'ef' })
+const entries: LiturgicalEntry[] = JSON.parse(
+  readFileSync(resolve(__dirname, '../../../content/liturgical/entries.json'), 'utf8'),
+)
+
+const calendar2026 = buildYearCalendar({ year: 2026, form: 'ef', entries })
+const calendar2025 = buildYearCalendar({ year: 2025, form: 'ef', entries })
 
 function day(
   year: number,

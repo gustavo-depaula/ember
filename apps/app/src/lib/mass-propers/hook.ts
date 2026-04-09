@@ -18,9 +18,9 @@ export function useProperForSlot(
   slot: string,
   form: 'of' | 'ef',
 ): { data: BilingualProperSection | undefined; isLoading: boolean } {
-  const language = usePreferencesStore((s) => s.language)
   const contentLanguage = usePreferencesStore((s) => s.contentLanguage)
   const secondaryLanguage = usePreferencesStore((s) => s.secondaryLanguage)
+  const language = usePreferencesStore((s) => s.language)
   const today = useToday()
   const dayCalendar = useTodayCelebration()
   const dateKey = format(today, 'yyyy-MM-dd')
@@ -33,9 +33,17 @@ export function useProperForSlot(
     gcTime: 24 * 60 * 60 * 1000,
   })
 
+  const efQuery = useQuery({
+    queryKey: ['ef-propers', dateKey, slot],
+    queryFn: () => getRawProperForSlot(today, slot, dayCalendar, propersData),
+    enabled: form === 'ef',
+    staleTime: Number.POSITIVE_INFINITY,
+    gcTime: 24 * 60 * 60 * 1000,
+  })
+
   if (form === 'ef') {
-    const raw = getRawProperForSlot(today, slot, dayCalendar, propersData)
-    if (!raw) return { data: undefined, isLoading: false }
+    const raw = efQuery.data
+    if (!raw) return { data: undefined, isLoading: efQuery.isLoading }
 
     return {
       data: {

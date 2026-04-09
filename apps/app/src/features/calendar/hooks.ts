@@ -1,3 +1,4 @@
+import type { LiturgicalEntry } from '@ember/liturgical'
 import { useQuery } from '@tanstack/react-query'
 import { addDays, differenceInCalendarDays, format } from 'date-fns'
 import { useMemo } from 'react'
@@ -9,7 +10,12 @@ import {
   getCelebrationsForDate,
   type ResolvedCelebration,
 } from '@/lib/liturgical'
+import { fetchHearth } from '@/lib/hearth'
 import { usePreferencesStore } from '@/stores/preferencesStore'
+
+function fetchLiturgicalEntries(): Promise<LiturgicalEntry[]> {
+  return fetchHearth<LiturgicalEntry[]>('liturgical/entries.json')
+}
 
 export function useYearCalendar(year?: number) {
   const form = usePreferencesStore((s) => s.liturgicalCalendar)
@@ -19,7 +25,10 @@ export function useYearCalendar(year?: number) {
 
   return useQuery({
     queryKey: ['calendar', resolvedYear, form, jurisdiction],
-    queryFn: () => buildYearCalendar({ year: resolvedYear, form, jurisdiction }),
+    queryFn: async () => {
+      const entries = await fetchLiturgicalEntries()
+      return buildYearCalendar({ year: resolvedYear, form, entries, jurisdiction })
+    },
     staleTime: Number.POSITIVE_INFINITY,
   })
 }

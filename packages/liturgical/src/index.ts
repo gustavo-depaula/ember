@@ -1,7 +1,6 @@
 export { getLiturgicalDayName, type Localizer } from './dayName'
 export type OfficeHour = 'morning' | 'evening' | 'compline'
 export { buildYearCalendar, getCelebrationsForDate } from './calendar-builder'
-export { getAllEntries } from './calendar-data'
 // Calendar
 export type {
   CalendarOptions,

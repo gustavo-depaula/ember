@@ -1,7 +1,7 @@
 import { mkdirSync, writeFileSync } from 'node:fs'
 import { join } from 'node:path'
 
-const outDir = join(__dirname, '..', 'src', 'assets', 'catechism')
+const outDir = join(__dirname, '..', '..', '..', 'content', 'catechism')
 mkdirSync(outDir, { recursive: true })
 
 const sourceUrl = 'https://github.com/nossbigg/catechism-ccc-json/releases/download/v0.0.2/ccc.json'

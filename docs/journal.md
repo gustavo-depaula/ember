@@ -8,7 +8,9 @@ Accumulated learnings, discoveries, and decisions from Ember development. Things
 
 ## Infrastructure
 
-- **Hearth replaces the broken Expo web deploy on GitHub Pages.** The original `.github/workflows/deploy.yml` built and deployed the full Expo web app to GitHub Pages but broke after the monorepo restructure (missing `baseUrl` config). Instead of fixing it, we repurposed GitHub Pages as a static content server called Hearth. It copies Bible, propers, catechism, and saints images to `_site/v1/`, converts PNGs to WebP, and generates a `manifest.json` with SHA-256 hashes. No npm install or Metro — runs in under a minute. The `v1/` URL prefix allows future breaking changes without breaking old app versions. Base URL: `https://ember.dpgu.me/`.
+- **Hearth replaces the broken Expo web deploy on GitHub Pages.** The original `.github/workflows/deploy.yml` built and deployed the full Expo web app to GitHub Pages but broke after the monorepo restructure (missing `baseUrl` config). Instead of fixing it, we repurposed GitHub Pages as a static content server called Hearth. It copies Bible, propers, catechism, and saints images to `_site/hearth/v1/`, converts PNGs to WebP, and generates a `manifest.json` with SHA-256 hashes. No npm install or Metro — runs in under a minute. The `v1/` URL prefix allows future breaking changes without breaking old app versions. Base URL: `https://ember.dpgu.me/hearth/`.
+
+- **App fetches all large content from Hearth on demand.** Bible (DRB), Catechism (CCC), EF Mass propers, and saints images are no longer bundled in the app. They're fetched from Hearth via `apps/app/src/lib/hearth.ts` (thin `fetch()` + SQLite cache wrapper) and cached in the `cache` table. This saves ~63MB from the app bundle. Source files live in `content/` at the repo root. First launch requires network — accepted trade-off. The `@ember/mass-propers` package's `PropersDataSource` interface is fully async to support this.
 
 ## Content & Licensing
 

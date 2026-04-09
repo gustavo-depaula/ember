@@ -1,3 +1,5 @@
+import { fetchHearth } from './hearth'
+
 export type CccParagraph = {
   number: number
   text: string
@@ -7,15 +9,18 @@ export type CccParagraph = {
 
 let cccData: CccParagraph[] | undefined
 
-export function loadCcc(): CccParagraph[] {
+export async function loadCcc(): Promise<CccParagraph[]> {
   if (!cccData) {
-    cccData = require('@/assets/catechism/ccc.json')
+    cccData = await fetchHearth<CccParagraph[]>('catechism/ccc.json')
   }
-  return cccData as CccParagraph[]
+  return cccData
 }
 
-export function getCccParagraphs(startParagraph: number, count: number): CccParagraph[] {
-  const ccc = loadCcc()
+export async function getCccParagraphs(
+  startParagraph: number,
+  count: number,
+): Promise<CccParagraph[]> {
+  const ccc = await loadCcc()
   const startIndex = Math.max(0, startParagraph - 1)
   return ccc.slice(startIndex, startIndex + count)
 }
