@@ -209,7 +209,7 @@ async function seedAllPractices(db: SQLiteDatabase, verb: 'INSERT' | 'INSERT OR 
         (flow?.timeBlock ? defaultTimes[flow.timeBlock as TimeBlock] : undefined) ??
         null
       await insertSlot(db, verb, manifest.id, slotId, {
-        enabled: slotDef.enabled !== false ? 1 : 0,
+        enabled: 0,
         sortOrder: d.sortOrder,
         tier: slotDef.tier ?? 'essential',
         time,
@@ -226,7 +226,7 @@ async function seedAllPractices(db: SQLiteDatabase, verb: 'INSERT' | 'INSERT OR 
 
     for (const s of p.slots) {
       await insertSlot(db, verb, p.id, s.slotId, {
-        enabled: s.enabled ? 1 : 0,
+        enabled: 0,
         sortOrder: s.sortOrder,
         tier: s.tier,
         time: s.time ?? null,
