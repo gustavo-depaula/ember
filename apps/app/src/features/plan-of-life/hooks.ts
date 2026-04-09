@@ -1,4 +1,5 @@
 import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
+import { getManifest } from '@/content/registry'
 import type { ProgramConfig } from '@/content/types'
 import {
   addSlot,
@@ -28,7 +29,6 @@ import {
   updatePractice,
   updateSlot,
 } from '@/db/repositories'
-import { getManifest } from '@/content/registry'
 import type { Completion } from '@/db/schema'
 import { getToday } from '@/hooks/useToday'
 import { rescheduleAllReminders } from '@/lib/notifications'
