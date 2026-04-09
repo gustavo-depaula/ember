@@ -23,7 +23,7 @@ done
 
 # Generate registry.json
 python3 -c "
-import json, os, glob
+import json, os, glob, hashlib
 
 books = []
 for book_dir in sorted(glob.glob('$BOOKS_SRC/*/')):
@@ -54,6 +54,11 @@ for book_dir in sorted(glob.glob('$BOOKS_SRC/*/')):
         else:
             prayers_preview.append({'id': prid, 'title': {'en-US': prid}})
 
+    content_hash = ''
+    if os.path.exists(pp):
+        with open(pp, 'rb') as hf:
+            content_hash = hashlib.sha256(hf.read()).hexdigest()[:12]
+
     books.append({
         'id': bid,
         'version': ver,
@@ -66,6 +71,7 @@ for book_dir in sorted(glob.glob('$BOOKS_SRC/*/')):
         'prayers': prayers_preview,
         'size': os.path.getsize(pp) if os.path.exists(pp) else 0,
         'file': fn,
+        'contentHash': content_hash,
     })
 
 with open(os.path.join('$BOOKS_OUT', 'registry.json'), 'w') as f:

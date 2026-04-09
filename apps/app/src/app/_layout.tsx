@@ -29,6 +29,7 @@ import { config } from '@/config/tamagui.config'
 import { useDbInit } from '@/db/client'
 import { seedCursors, seedPractices } from '@/db/seed'
 import {
+  checkAndUpdateBooks,
   downloadAndInstallBook,
   fetchRegistry,
   getInstalledBooks,
@@ -109,6 +110,14 @@ export default function RootLayout() {
       await Promise.all([seedPractices(), seedCursors()])
       setSeeded(true)
       setupNotifications().then(() => rescheduleAllReminders())
+
+      if (installed.length > 0) {
+        checkAndUpdateBooks()
+          .then(async (updated) => {
+            if (updated) await seedPractices()
+          })
+          .catch((err) => console.warn('Book update check failed:', err))
+      }
     }
 
     initBooks()
