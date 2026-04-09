@@ -19,6 +19,7 @@ import {
   useCreatePractice,
   useEnableSlotsForPractice,
   useProgramProgress,
+  useRestartProgram,
   useSlotsForPractice,
   useUpdateSlot,
 } from '@/features/plan-of-life'
@@ -43,6 +44,7 @@ export default function CatalogDetailScreen() {
   const createPractice = useCreatePractice()
   const updateSlot = useUpdateSlot()
   const enableSlots = useEnableSlotsForPractice()
+  const restartProgramMutation = useRestartProgram()
   const [showEditor, setShowEditor] = useState(false)
   const { data: programProgress } = useProgramProgress(manifest?.id ?? '', manifest?.program)
 
@@ -73,19 +75,21 @@ export default function CatalogDetailScreen() {
     if (!manifest?.program) return
     const { program, id: practiceId } = manifest
     const today = new Date().toISOString().split('T')[0]
+    const slotDefaults = manifest.defaults?.slots?.[0]
     const schedule =
       program.progressPolicy === 'wait'
-        ? { type: 'daily' as const }
+        ? (slotDefaults?.schedule ?? { type: 'daily' as const })
         : {
             type: 'fixed-program' as const,
             totalDays: program.totalDays,
             startDate: today,
           }
+    const tier = (slotDefaults?.tier as 'essential' | 'ideal' | 'extra') ?? 'extra'
     createPractice.mutate(
       {
         id: practiceId,
         slot: {
-          tier: 'extra' as const,
+          tier,
           schedule: JSON.stringify(schedule),
         },
       },
@@ -163,26 +167,68 @@ export default function CatalogDetailScreen() {
 
         {isProgram ? (
           isInPlan ? (
-            <AnimatedPressable
-              onPress={() => router.push(`/practices/${manifest.id}/program` as any)}
-            >
-              <YStack
-                backgroundColor="$accent"
-                borderRadius="$md"
-                paddingVertical="$sm"
-                alignItems="center"
-                gap={4}
-              >
-                <Text fontFamily="$heading" fontSize="$3" color="white">
-                  {programProgress
-                    ? t('program.dayOf', {
-                        day: programProgress.programDay + 1,
-                        total: programProgress.totalDays,
+            programProgress?.isComplete ? (
+              <YStack gap="$sm">
+                <AnimatedPressable
+                  onPress={() => router.push(`/practices/${manifest.id}/program` as any)}
+                >
+                  <YStack
+                    backgroundColor="$backgroundSurface"
+                    borderRadius="$md"
+                    borderWidth={1}
+                    borderColor="$accent"
+                    paddingVertical="$sm"
+                    alignItems="center"
+                  >
+                    <Text fontFamily="$heading" fontSize="$3" color="$accent">
+                      {t('program.complete')}
+                    </Text>
+                  </YStack>
+                </AnimatedPressable>
+
+                {programProgress.completionBehavior === 'offer-restart' && (
+                  <AnimatedPressable
+                    onPress={() =>
+                      restartProgramMutation.mutate({
+                        practiceId: manifest.id,
                       })
-                    : t('catalog.alreadyInPlan')}
-                </Text>
+                    }
+                  >
+                    <YStack
+                      backgroundColor="$accent"
+                      borderRadius="$md"
+                      paddingVertical="$sm"
+                      alignItems="center"
+                    >
+                      <Text fontFamily="$heading" fontSize="$3" color="white">
+                        {t('program.restart')}
+                      </Text>
+                    </YStack>
+                  </AnimatedPressable>
+                )}
               </YStack>
-            </AnimatedPressable>
+            ) : (
+              <AnimatedPressable
+                onPress={() => router.push(`/practices/${manifest.id}/program` as any)}
+              >
+                <YStack
+                  backgroundColor="$accent"
+                  borderRadius="$md"
+                  paddingVertical="$sm"
+                  alignItems="center"
+                  gap={4}
+                >
+                  <Text fontFamily="$heading" fontSize="$3" color="white">
+                    {programProgress
+                      ? t('program.dayOf', {
+                          day: programProgress.programDay + 1,
+                          total: programProgress.totalDays,
+                        })
+                      : t('catalog.alreadyInPlan')}
+                  </Text>
+                </YStack>
+              </AnimatedPressable>
+            )
           ) : (
             <AnimatedPressable onPress={handleBeginProgram}>
               <YStack

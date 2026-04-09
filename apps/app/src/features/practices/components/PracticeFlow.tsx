@@ -42,14 +42,21 @@ import {
   loadVariant,
 } from '@/content/registry'
 import type { RenderedSection } from '@/content/types'
-import { advanceProgramDay, completeProgramCursor } from '@/db/repositories'
+import { advanceProgramDay } from '@/db/repositories'
 import {
   ensurePracticeCursors,
   useAdvanceCursor,
   useCursorsForPractice,
   usePsalmsForHour,
 } from '@/features/divine-office'
-import { useLogCompletion, useProgramProgress, useSlots } from '@/features/plan-of-life'
+import {
+  useHandleProgramCompletion,
+  useLogCompletion,
+  useProgramProgress,
+  useRestartProgram,
+  useSlots,
+} from '@/features/plan-of-life'
+import { ProgramCompleteModal } from '@/features/practices/components/ProgramCompleteModal'
 import { ViewModeSelector } from '@/features/practices/components/ViewModeSelector'
 import { useReadingMargin } from '@/hooks/useReadingStyle'
 import { getPsalmNumbering } from '@/lib/bolls'
@@ -120,6 +127,9 @@ export function PracticeFlow({
   const queryClient = useQueryClient()
   const logCompletionMutation = useLogCompletion()
   const advanceCursor = useAdvanceCursor()
+  const handleProgramCompletion = useHandleProgramCompletion()
+  const restartProgramMutation = useRestartProgram()
+  const [showCompleteModal, setShowCompleteModal] = useState(false)
 
   const manifest = getManifest(practiceId)
   const { data: programProgress } = useProgramProgress(practiceId, manifest?.program)
@@ -321,8 +331,15 @@ export function PracticeFlow({
           }
           if (manifest?.program) {
             await advanceProgramDay(practiceId)
-            if (programProgress && programProgress.programDay + 1 >= manifest.program.totalDays) {
-              await completeProgramCursor(practiceId)
+            const isFinalDay =
+              programProgress && programProgress.programDay + 1 >= manifest.program.totalDays
+            if (isFinalDay) {
+              await handleProgramCompletion.mutateAsync({
+                practiceId,
+                completionBehavior: manifest.program.completionBehavior,
+              })
+              setShowCompleteModal(true)
+              return
             }
             queryClient.invalidateQueries({ queryKey: ['programProgress', practiceId] })
           }
@@ -419,6 +436,17 @@ export function PracticeFlow({
           </YStack>
         )}
       </YStack>
+
+      {showCompleteModal && manifest?.program && (
+        <ProgramCompleteModal
+          practiceName={localizeContent(manifest.name)}
+          showRestart={manifest.program.completionBehavior === 'offer-restart'}
+          onRestart={() => {
+            restartProgramMutation.mutate({ practiceId }, { onSuccess: () => router.back() })
+          }}
+          onDone={() => router.back()}
+        />
+      )}
     </ScreenLayout>
   )
 }

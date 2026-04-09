@@ -24,6 +24,7 @@ export type ProgramConfig = {
   perDayFlows?: string
   progressPolicy: 'continue' | 'wait' | 'restart'
   completionBehavior: 'auto-disable' | 'offer-restart' | 'keep'
+  restartThreshold?: number
 }
 
 export type PracticeManifest = {
