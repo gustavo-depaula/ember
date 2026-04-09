@@ -93,6 +93,8 @@ export default {
       },
     },
     todayProgress: '{{completed}} of {{total}} today',
+    emptyPlan: 'Your plan of life is empty. Add practices to begin building your rule of life.',
+    emptyPlanAction: 'Add practices →',
     begin: 'Begin',
     nextPractice: 'Your next practice',
     dayComplete: 'Day complete',

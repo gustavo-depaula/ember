@@ -93,6 +93,9 @@ export default {
       },
     },
     todayProgress: '{{completed}} de {{total}} hoje',
+    emptyPlan:
+      'Seu plano de vida está vazio. Adicione práticas para começar a construir seu plano de vida.',
+    emptyPlanAction: 'Adicionar práticas →',
     begin: 'Come\u00e7ar',
     nextPractice: 'Sua pr\u00f3xima pr\u00e1tica',
     dayComplete: 'Dia completo',
