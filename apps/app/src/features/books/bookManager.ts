@@ -1,8 +1,9 @@
 import { Directory, File, Paths } from 'expo-file-system'
 import JSZip from 'jszip'
-import { registerSource, unregisterSource } from '@/content/registry'
+import { getPracticeIdsForBook, registerSource, unregisterSource } from '@/content/registry'
 import { createFileSystemSource, type PrayerBook } from '@/content/sources/filesystem'
 import { getDb } from '@/db/client'
+import { deleteBookPractices } from '@/db/repositories/practices'
 import { fetchHearth, hearthUrl } from '@/lib/hearth'
 
 export type PracticePreview = {
@@ -169,6 +170,8 @@ export async function installFromLocalFile(filePath: string): Promise<PrayerBook
 }
 
 export async function removeBook(bookId: string): Promise<void> {
+  const practiceIds = getPracticeIdsForBook(bookId)
+  await deleteBookPractices(practiceIds)
   unregisterSource(bookId)
   const dest = bookDir(bookId)
   if (dest.exists) dest.delete()

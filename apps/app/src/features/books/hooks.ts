@@ -65,6 +65,7 @@ export function useRemoveBook() {
     onSuccess: () => {
       queryClient.invalidateQueries({ queryKey: ['installed-books'] })
       queryClient.invalidateQueries({ queryKey: ['available-books'] })
+      queryClient.invalidateQueries({ queryKey: ['slots'] })
     },
   })
 }
