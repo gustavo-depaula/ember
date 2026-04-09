@@ -1,8 +1,15 @@
-name: Deploy to GitHub Pages
+name: Deploy Hearth to GitHub Pages
 
 on:
   push:
     branches: [main]
+    paths:
+      - 'apps/app/src/assets/bible/**'
+      - 'apps/app/src/assets/propers/**'
+      - 'apps/app/src/assets/catechism/**'
+      - 'apps/app/assets/saints/**'
+      - 'hearth/**'
+      - '.github/workflows/deploy.yml'
   workflow_dispatch:
 
 permissions:
@@ -20,33 +27,49 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: pnpm/action-setup@v4
+      - name: Install image tools
+        run: sudo apt-get update && sudo apt-get install -y webp
 
-      - uses: actions/setup-node@v4
-        with:
-          node-version: 24
-          cache: pnpm
-
-      - run: pnpm install --frozen-lockfile
-
-      - name: Warm up Metro bundler
-        working-directory: apps/app
+      - name: Stage Hearth files
         run: |
-          timeout 120s pnpm expo start --web --port 8081 &
-          METRO_PID=$!
-          sleep 10
-          for i in 1 2 3 4 5; do
-            curl -s -o /dev/null http://localhost:8081 && break
-            sleep 15
-          done
-          kill $METRO_PID 2>/dev/null || true
+          mkdir -p _site/hearth/v1/bible/drb
+          mkdir -p _site/hearth/v1/propers/tempora
+          mkdir -p _site/hearth/v1/propers/sancti
+          mkdir -p _site/hearth/v1/catechism
+          mkdir -p _site/hearth/v1/saints
 
-      - run: pnpm expo export --platform web
-        working-directory: apps/app
+          cp apps/app/src/assets/bible/drb/*.json _site/hearth/v1/bible/drb/
+          cp apps/app/src/assets/propers/tempora/*.json _site/hearth/v1/propers/tempora/
+          cp apps/app/src/assets/propers/sancti/*.json _site/hearth/v1/propers/sancti/
+          cp apps/app/src/assets/catechism/ccc.json _site/hearth/v1/catechism/
+
+          cp apps/app/assets/saints/*.png _site/hearth/v1/saints/
+          for f in _site/hearth/v1/saints/*.png; do
+            cwebp -q 85 "$f" -o "${f%.png}.webp"
+          done
+
+          cp hearth/index.html _site/index.html
+
+      - name: Generate manifest
+        run: |
+          cd _site/hearth
+          echo '{' > manifest.json
+          echo '  "version": "1",' >> manifest.json
+          echo '  "generated": "'$(date -u +%Y-%m-%dT%H:%M:%SZ)'",' >> manifest.json
+          echo '  "files": {' >> manifest.json
+
+          find v1 -type f | sort | while IFS= read -r f; do
+            hash=$(sha256sum "$f" | cut -c1-12)
+            size=$(stat -c%s "$f")
+            echo "    \"$f\": {\"sha256\": \"$hash\", \"size\": $size},"
+          done | sed '$ s/,$//' >> manifest.json
+
+          echo '  }' >> manifest.json
+          echo '}' >> manifest.json
 
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: apps/app/dist
+          path: _site
 
   deploy:
     needs: build
