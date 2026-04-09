@@ -1,3 +1,4 @@
+import { reloadAppAsync } from 'expo'
 import { Directory, Paths } from 'expo-file-system'
 import type { SQLiteDatabase } from 'expo-sqlite'
 import { deleteDatabaseAsync, openDatabaseAsync } from 'expo-sqlite'
@@ -53,6 +54,10 @@ export async function resetDatabase() {
   await deleteDatabaseAsync('ember.db')
   const booksDir = new Directory(Paths.document, 'books/')
   if (booksDir.exists) booksDir.delete()
-  const { DevSettings } = require('react-native')
-  DevSettings.reload()
+
+  // Re-create database with fresh schema so the app reloads cleanly
+  _db = await openDatabaseAsync('ember.db')
+  await _db.execAsync(initialMigration)
+
+  await reloadAppAsync('Database reset')
 }
