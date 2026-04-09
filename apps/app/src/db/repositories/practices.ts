@@ -344,6 +344,17 @@ export async function toggleCompletion(
   }
 }
 
+export async function getCompletionCountSince(
+  practiceId: string,
+  startDate: string,
+): Promise<number> {
+  const row = await getDb().getFirstAsync<{ cnt: number }>(
+    'SELECT COUNT(DISTINCT date) as cnt FROM completions WHERE practice_id = ? AND date >= ?',
+    [practiceId, startDate],
+  )
+  return row?.cnt ?? 0
+}
+
 export async function isPracticeCompletedOnDate(
   practiceId: string,
   date: string,

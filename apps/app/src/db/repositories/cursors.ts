@@ -68,14 +68,6 @@ export async function createProgramCursor(practiceId: string): Promise<void> {
   await setCursor(programCursorId(practiceId), JSON.stringify({ day: 0, status: 'active' }))
 }
 
-export async function advanceProgramDay(practiceId: string): Promise<void> {
-  const id = programCursorId(practiceId)
-  await getDb().runAsync(
-    "UPDATE cursors SET position = json_set(position, '$.day', json_extract(position, '$.day') + 1) WHERE id = ?",
-    [id],
-  )
-}
-
 export async function restartProgram(practiceId: string): Promise<void> {
   const id = programCursorId(practiceId)
   const today = format(new Date(), 'yyyy-MM-dd')
