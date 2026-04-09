@@ -2,7 +2,6 @@ export { clearCache, getCached, setCache } from './cache'
 export type { ProgramCursorPosition } from './cursors'
 export {
   advanceIndex,
-  advanceProgramDay,
   completeProgramCursor,
   createProgramCursor,
   ensureCursor,
@@ -24,6 +23,7 @@ export {
   disableSlotsForPractice,
   enableSlotsForPractice,
   getAllSlots,
+  getCompletionCountSince,
   getCompletionDates,
   getCompletionRange,
   getCompletionsForDate,
