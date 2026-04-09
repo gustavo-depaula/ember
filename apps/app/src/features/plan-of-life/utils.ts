@@ -169,7 +169,7 @@ export function isSlotApplicableOnDate(
   ctx?: ScheduleContext,
 ): boolean {
   const schedule = parseSchedule(slot.schedule)
-  return isApplicableOn(schedule, new Date(date), ctx)
+  return isApplicableOn(schedule, new Date(date + 'T00:00:00'), ctx)
 }
 
 export function filterSlotsForDate(
