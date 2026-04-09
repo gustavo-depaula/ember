@@ -42,7 +42,6 @@ import {
   loadVariant,
 } from '@/content/registry'
 import type { RenderedSection } from '@/content/types'
-import { advanceProgramDay } from '@/db/repositories'
 import {
   ensurePracticeCursors,
   useAdvanceCursor,
@@ -330,7 +329,6 @@ export function PracticeFlow({
             )
           }
           if (manifest?.program) {
-            await advanceProgramDay(practiceId)
             const isFinalDay =
               programProgress && programProgress.programDay + 1 >= manifest.program.totalDays
             if (isFinalDay) {

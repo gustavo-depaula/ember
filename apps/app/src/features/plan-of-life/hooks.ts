@@ -1,9 +1,7 @@
 import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
-import { getManifest } from '@/content/registry'
 import type { ProgramConfig } from '@/content/types'
 import {
   addSlot,
-  advanceProgramDay,
   changeSlotFlow,
   completeProgramCursor,
   createPracticeWithSlot,
@@ -12,6 +10,7 @@ import {
   disableSlotsForPractice,
   enableSlotsForPractice,
   getAllSlots,
+  getCompletionCountSince,
   getCompletionDates,
   getCompletionRange,
   getCompletionsForDate,
@@ -116,8 +115,11 @@ export function useProgramProgress(practiceId: string, program: ProgramConfig | 
 
       const cursor = await getProgramCursor(practiceId)
       const position = cursor ? parseProgramPosition(cursor) : { day: 0, status: 'active' as const }
+      const startDate = cursor?.started_at ?? '1970-01-01'
 
-      let programDay = position.day
+      const completionCount = await getCompletionCountSince(practiceId, startDate)
+
+      let programDay = completionCount
       let calendarDay: number | undefined
       if (program.progressPolicy === 'continue' || program.progressPolicy === 'restart') {
         const slots = await getSlotsForPractice(practiceId)
@@ -132,7 +134,7 @@ export function useProgramProgress(practiceId: string, program: ProgramConfig | 
       const missedDays = (() => {
         if (program.progressPolicy === 'wait') return 0
         if (calendarDay === undefined) return 0
-        const gap = calendarDay - position.day
+        const gap = calendarDay - completionCount
         return gap > 0 ? gap : 0
       })()
 
@@ -254,9 +256,6 @@ export function useToggleSlot() {
       completed: boolean
     }) => {
       await toggleCompletion(practiceId, date, completed, slotId)
-      if (completed && getManifest(practiceId)?.program) {
-        await advanceProgramDay(practiceId)
-      }
     },
     onMutate: async ({ practiceId, slotId, date, completed }) => {
       await queryClient.cancelQueries({ queryKey: ['completions', date] })
