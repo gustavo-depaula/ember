@@ -1,11 +1,11 @@
+import { readFileSync } from 'node:fs'
+import { resolve } from 'node:path'
 import {
   buildYearCalendar,
   type DayCalendar,
   getCelebrationsForDate,
   type LiturgicalEntry,
 } from '@ember/liturgical'
-import { readFileSync } from 'node:fs'
-import { resolve } from 'node:path'
 import { describe, expect, it } from 'vitest'
 
 import { chooseProperSource } from './resolve'

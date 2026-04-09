@@ -29,6 +29,7 @@ import { config } from '@/config/tamagui.config'
 import { useDbInit } from '@/db/client'
 import { seedCursors, seedPractices } from '@/db/seed'
 import { useLiturgicalTheme } from '@/hooks/useLiturgicalTheme'
+import { initHearth } from '@/lib/hearth'
 import { rescheduleAllReminders, setupNotifications } from '@/lib/notifications'
 import { useBibleStore } from '@/stores/bibleStore'
 import { useCatechismStore } from '@/stores/catechismStore'
@@ -76,6 +77,7 @@ export default function RootLayout() {
     hydratePrefs()
     hydrateBible()
     hydrateCatechism()
+    initHearth()
   }, [dbReady, hydratePrefs, hydrateBible, hydrateCatechism])
 
   const [seeded, setSeeded] = useState(false)
