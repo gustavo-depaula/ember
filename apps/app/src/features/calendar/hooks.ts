@@ -4,13 +4,13 @@ import { addDays, differenceInCalendarDays, format } from 'date-fns'
 import { useMemo } from 'react'
 
 import { useToday } from '@/hooks/useToday'
+import { fetchHearth } from '@/lib/hearth'
 import {
   buildYearCalendar,
   type DayCalendar,
   getCelebrationsForDate,
   type ResolvedCelebration,
 } from '@/lib/liturgical'
-import { fetchHearth } from '@/lib/hearth'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
 function fetchLiturgicalEntries(): Promise<LiturgicalEntry[]> {
