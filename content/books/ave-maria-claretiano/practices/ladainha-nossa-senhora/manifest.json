@@ -1,0 +1,43 @@
+{
+	"id": "ladainha-nossa-senhora",
+	"icon": "mary",
+	"name": {
+		"pt-BR": "Ladainha de Nossa Senhora"
+	},
+	"categories": ["marian", "litany"],
+	"estimatedMinutes": 10,
+	"description": {
+		"pt-BR": "A Ladainha de Nossa Senhora conforme o devocionário Ave Maria (1957), com as invocações tradicionais à Virgem Maria."
+	},
+	"history": {
+		"pt-BR": "A Ladainha de Nossa Senhora foi oficialmente aprovada em 1587 pelo Papa Sisto V e recebe seu nome do Santuário de Loreto, na Itália, onde era recitada publicamente desde o século XV."
+	},
+	"howToPray": {
+		"pt-BR": "O líder recita as invocações e a assembleia responde \"Rogai por nós\" ou \"Tende piedade de nós\". A ladainha conclui com o Cordeiro de Deus, um versículo e resposta, e uma oração colecta."
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flows": [
+		{
+			"id": "default",
+			"name": {
+				"pt-BR": "Ladainha de Nossa Senhora"
+			},
+			"file": "flow.json"
+		}
+	],
+	"tags": ["marian", "litany", "loreto"],
+	"defaults": {
+		"sortOrder": 8,
+		"slots": [
+			{
+				"flowId": "default",
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
+}

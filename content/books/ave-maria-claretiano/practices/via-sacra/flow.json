@@ -1,0 +1,122 @@
+{
+	"sections": [
+		{
+			"type": "rubric",
+			"text": {
+				"pt-BR": "Pelo sinal... Ato de contrição..."
+			}
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"pt-BR": "Oferecimento"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"pt-BR": "Meu Deus e Senhor, ofereço-vos êste exercício em satisfação de minhas culpas e pecados e com a intenção de ganhar as indulgências concedidas, que aplico em sufrágio das almas do purgatório que forem mais do agrado de Maria Santíssima e de minha particular obrigação."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "repeat",
+			"count": 14,
+			"variable": {
+				"source": "variant",
+				"key": "stations"
+			},
+			"sections": [
+				{
+					"type": "heading",
+					"text": {
+						"pt-BR": "{{ordinal}} Estação — {{name}}"
+					}
+				},
+				{
+					"type": "response",
+					"verses": [
+						{
+							"v": { "pt-BR": "Nós Vos adoramos, Senhor e Vos bendizemos." },
+							"r": { "pt-BR": "Porque pela vossa santa Cruz remistes o mundo." }
+						}
+					]
+				},
+				{
+					"type": "meditation",
+					"text": {
+						"pt-BR": "{{meditation}}"
+					}
+				},
+				{
+					"type": "prayer",
+					"ref": "our-father"
+				},
+				{
+					"type": "prayer",
+					"ref": "hail-mary"
+				},
+				{
+					"type": "prayer",
+					"ref": "glory-be"
+				},
+				{
+					"type": "response",
+					"verses": [
+						{
+							"v": { "pt-BR": "Tende piedade de nós, Senhor." },
+							"r": { "pt-BR": "Tende piedade de nós." }
+						}
+					]
+				},
+				{
+					"type": "rubric",
+					"text": {
+						"pt-BR": "Ó Mãe, cheia de aflição de nosso Senhor as chagas gravai em meu coração."
+					}
+				},
+				{
+					"type": "prayer",
+					"inline": {
+						"pt-BR": "{{hymn}}"
+					}
+				},
+				{
+					"type": "divider"
+				}
+			]
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"pt-BR": "Oremos"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"pt-BR": "Deus, que quisestes santificar, pelo precioso e vivificante sangue de vosso Unigênito Filho, o lábaro da Cruz, concedei-nos Vos pedimos, àqueles que se alegram com as honras da Santa Cruz, que também gozem sempre da vossa proteção. Pelo mesmo Cristo, Nosso Senhor. Amém."
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"pt-BR": "Reze-se um Pai Nosso, Ave Maria e Glória ao Pai segundo as intenções do Sumo Pontífice, para ganhar as indulgências."
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "our-father"
+		},
+		{
+			"type": "prayer",
+			"ref": "hail-mary"
+		},
+		{
+			"type": "prayer",
+			"ref": "glory-be"
+		}
+	]
+}

@@ -1,0 +1,76 @@
+{
+	"id": "modo-rezar-rosario",
+	"icon": "rosary",
+	"name": {
+		"pt-BR": "Modo de rezar o Rosário"
+	},
+	"categories": ["daily", "marian", "meditation"],
+	"estimatedMinutes": 20,
+	"description": {
+		"pt-BR": "O modo tradicional de rezar o Santo Rosário conforme o devocionário Ave Maria (1957), com os três têrços clássicos: Mistérios Gozosos, Dolorosos e Gloriosos."
+	},
+	"history": {
+		"pt-BR": "A tradição sustenta que a Virgem Maria apareceu a São Domingos no século XIII e lhe deu o Rosário como arma espiritual. Esta versão segue o formato pré-2002, com os três têrços tradicionais."
+	},
+	"howToPray": {
+		"pt-BR": "Comece pelo sinal da cruz e o oferecimento. Reze cada mistério contemplando a meditação, seguido de um Pai Nosso, dez Ave Marias e um Glória ao Pai. Conclua com o Agradecimento e a Salve Rainha."
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flows": [
+		{
+			"id": "gozosos",
+			"name": {
+				"pt-BR": "Mistérios Gozosos"
+			},
+			"file": "flows/gozosos.json"
+		},
+		{
+			"id": "dolorosos",
+			"name": {
+				"pt-BR": "Mistérios Dolorosos"
+			},
+			"file": "flows/dolorosos.json"
+		},
+		{
+			"id": "gloriosos",
+			"name": {
+				"pt-BR": "Mistérios Gloriosos"
+			},
+			"file": "flows/gloriosos.json"
+		}
+	],
+	"tags": ["marian", "rosary", "meditation", "daily"],
+	"defaults": {
+		"sortOrder": 7,
+		"slots": [
+			{
+				"flowId": "gozosos",
+				"schedule": {
+					"type": "days-of-week",
+					"days": [1, 4]
+				},
+				"tier": "essential",
+				"enabled": false
+			},
+			{
+				"flowId": "dolorosos",
+				"schedule": {
+					"type": "days-of-week",
+					"days": [2, 5]
+				},
+				"tier": "essential",
+				"enabled": false
+			},
+			{
+				"flowId": "gloriosos",
+				"schedule": {
+					"type": "days-of-week",
+					"days": [0, 3, 6]
+				},
+				"tier": "essential",
+				"enabled": false
+			}
+		]
+	}
+}
