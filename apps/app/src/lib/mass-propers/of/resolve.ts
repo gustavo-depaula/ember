@@ -1,6 +1,6 @@
 import { format } from 'date-fns'
 
-import type { ProperDay } from '../types'
+import type { ProperDay } from '..'
 import { getCachedRaw, setCachedRaw } from './cache'
 import { fetchEvangelizo, normalizeEvangelizo } from './evangelizo'
 import { fetchLiturgiaDiaria, normalizeLiturgiaDiaria } from './liturgia-diaria'

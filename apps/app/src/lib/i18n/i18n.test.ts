@@ -5,20 +5,36 @@ import { describe, expect, it } from 'vitest'
 import en from './locales/en-US'
 import ptBR from './locales/pt-BR'
 
-const practicesDir = resolve(__dirname, '../../content/practices')
+const booksDir = resolve(__dirname, '../../../../../content/books')
 
 function getPracticeIds(): string[] {
-  return readdirSync(practicesDir, { withFileTypes: true })
-    .filter((d) => d.isDirectory())
-    .map((d) => d.name)
-    .sort()
+  const ids = new Set<string>()
+  for (const book of readdirSync(booksDir, { withFileTypes: true })) {
+    if (!book.isDirectory()) continue
+    const practicesPath = resolve(booksDir, book.name, 'practices')
+    try {
+      for (const d of readdirSync(practicesPath, { withFileTypes: true })) {
+        if (d.isDirectory()) ids.add(d.name)
+      }
+    } catch {}
+  }
+  return Array.from(ids).sort()
 }
 
 function getCategorySlugs(): string[] {
   const cats = new Set<string>()
-  for (const id of getPracticeIds()) {
-    const manifest = JSON.parse(readFileSync(resolve(practicesDir, id, 'manifest.json'), 'utf-8'))
-    for (const c of manifest.categories ?? []) cats.add(c)
+  for (const book of readdirSync(booksDir, { withFileTypes: true })) {
+    if (!book.isDirectory()) continue
+    const practicesPath = resolve(booksDir, book.name, 'practices')
+    try {
+      for (const d of readdirSync(practicesPath, { withFileTypes: true })) {
+        if (!d.isDirectory()) continue
+        const manifest = JSON.parse(
+          readFileSync(resolve(practicesPath, d.name, 'manifest.json'), 'utf-8'),
+        )
+        for (const c of manifest.categories ?? []) cats.add(c)
+      }
+    } catch {}
   }
   return Array.from(cats).sort()
 }
