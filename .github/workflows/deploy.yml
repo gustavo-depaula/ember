@@ -5,7 +5,7 @@ on:
     branches: [main]
     paths:
       - 'content/**'
-      - 'hearth/**'
+      - 'apps/hearth/**'
       - '.github/workflows/deploy.yml'
   workflow_dispatch:
 
@@ -30,17 +30,16 @@ jobs:
       - name: Stage Hearth files
         run: |
           cp -r content _site_hearth
-          cp hearth/index.html _site_hearth/index.html
-
-          # Generate WebP for all PNGs
-          find _site_hearth -name '*.png' | while IFS= read -r f; do
-            cwebp -q 85 "$f" -o "${f%.png}.webp"
-          done
+          cp apps/hearth/index.html _site_hearth/index.html
+          scripts/convert-webp.sh _site_hearth
 
           # Wrap under hearth/v1/
           mkdir -p _site/hearth
           mv _site_hearth/index.html _site/index.html
           mv _site_hearth _site/hearth/v1
+
+      - name: Build .pray archives
+        run: scripts/build-books.sh _site/hearth/v1/books
 
       - name: Generate manifest
         run: |
