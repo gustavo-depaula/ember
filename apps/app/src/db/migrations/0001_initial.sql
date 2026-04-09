@@ -59,3 +59,19 @@ CREATE TABLE IF NOT EXISTS cached_translations (
   cached_at   INTEGER NOT NULL,
   PRIMARY KEY (translation, book, chapter)
 );
+
+-- Generic cache table for API responses (OF propers, Bible translations, etc.)
+CREATE TABLE IF NOT EXISTS cache (
+  key       TEXT PRIMARY KEY NOT NULL,
+  data      TEXT NOT NULL,
+  cached_at INTEGER NOT NULL
+);
+
+-- Installed prayer books
+CREATE TABLE IF NOT EXISTS installed_books (
+  book_id      TEXT PRIMARY KEY NOT NULL,
+  version      TEXT NOT NULL,
+  installed_at INTEGER NOT NULL,
+  updated_at   INTEGER NOT NULL,
+  manifest     TEXT NOT NULL
+);
