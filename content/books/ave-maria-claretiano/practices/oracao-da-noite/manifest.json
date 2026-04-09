@@ -1,0 +1,43 @@
+{
+	"id": "oracao-da-noite",
+	"icon": "moon",
+	"name": {
+		"pt-BR": "Oração da Noite"
+	},
+	"categories": ["daily"],
+	"estimatedMinutes": 5,
+	"description": {
+		"pt-BR": "Oração tradicional da noite do devocionário Ave Maria (1957), incluindo exame de consciência, consagrações ao Sagrado Coração e a Maria, o Memorare, e orações a São José e ao Anjo da Guarda."
+	},
+	"history": {
+		"pt-BR": "A oração da noite, ou completas do leigo, é uma prática essencial da vida cristã. Este formato segue o devocionário dos Padres Claretianos, publicado em São Paulo em 1957."
+	},
+	"howToPray": {
+		"pt-BR": "Antes de dormir, reze as orações em sequência: o oferecimento da noite, as orações fundamentais, o Ato de Contrição, e as consagrações e devoções que se seguem."
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flows": [
+		{
+			"id": "default",
+			"name": {
+				"pt-BR": "Oração da Noite"
+			},
+			"file": "flow.json"
+		}
+	],
+	"tags": ["night", "daily", "traditional"],
+	"defaults": {
+		"sortOrder": 2,
+		"slots": [
+			{
+				"flowId": "default",
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "essential",
+				"enabled": false
+			}
+		]
+	}
+}

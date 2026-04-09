@@ -1,0 +1,56 @@
+{
+	"id": "via-sacra",
+	"icon": "cross",
+	"name": {
+		"pt-BR": "Via Sacra"
+	},
+	"categories": ["lenten", "meditation", "passion"],
+	"estimatedMinutes": 30,
+	"description": {
+		"pt-BR": "A Via Sacra conforme o devocionário Ave Maria (1957), com as quatorze estações da Paixão de Nosso Senhor, incluindo meditações, orações e hinos para cada estação."
+	},
+	"history": {
+		"pt-BR": "A devoção originou-se com peregrinos que visitavam Jerusalém e percorriam o caminho que Cristo fez até o Calvário. Na Idade Média, os franciscanos estabeleceram quatorze estações em igrejas por toda a Europa."
+	},
+	"howToPray": {
+		"pt-BR": "Em cada estação, reze 'Nós Vos adoramos, Senhor...' e a resposta, leia a meditação, reze um Pai Nosso, uma Ave Maria e um Glória ao Pai, e contemple o hino antes de passar à próxima estação."
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flows": [
+		{
+			"id": "default",
+			"name": {
+				"pt-BR": "Via Sacra"
+			},
+			"file": "flow.json"
+		}
+	],
+	"variants": [
+		{
+			"id": "claretiano",
+			"name": {
+				"pt-BR": "Meditações Claretianas"
+			},
+			"description": {
+				"pt-BR": "Meditações do devocionário Ave Maria dos Padres Claretianos (1957)"
+			},
+			"file": "variants/claretiano.json"
+		}
+	],
+	"tags": ["passion", "lent", "meditation", "friday"],
+	"defaults": {
+		"sortOrder": 9,
+		"slots": [
+			{
+				"flowId": "default",
+				"schedule": {
+					"type": "days-of-week",
+					"days": [5]
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
+}

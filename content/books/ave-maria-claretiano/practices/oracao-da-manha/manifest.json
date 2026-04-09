@@ -1,0 +1,43 @@
+{
+	"id": "oracao-da-manha",
+	"icon": "sunrise",
+	"name": {
+		"pt-BR": "Oração da Manhã"
+	},
+	"categories": ["daily"],
+	"estimatedMinutes": 5,
+	"description": {
+		"pt-BR": "Oração tradicional da manhã do devocionário Ave Maria (1957), incluindo o oferecimento do dia, as orações fundamentais, a Salve Rainha, o Angelus e orações pelos pecadores e moribundos."
+	},
+	"history": {
+		"pt-BR": "A prática de consagrar as primeiras horas do dia a Deus é uma tradição antiquíssima da Igreja. Este formato segue o devocionário dos Padres Claretianos, publicado em São Paulo em 1957."
+	},
+	"howToPray": {
+		"pt-BR": "Ao acordar, faça o sinal da cruz, ajoelhe-se e reze as orações em sequência. Inclui o oferecimento do dia, as orações fundamentais (Pai Nosso, Ave Maria, Credo), os Atos de Fé, Esperança e Caridade, a Salve Rainha e o Angelus."
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flows": [
+		{
+			"id": "default",
+			"name": {
+				"pt-BR": "Oração da Manhã"
+			},
+			"file": "flow.json"
+		}
+	],
+	"tags": ["morning", "daily", "traditional"],
+	"defaults": {
+		"sortOrder": 1,
+		"slots": [
+			{
+				"flowId": "default",
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "essential",
+				"enabled": false
+			}
+		]
+	}
+}

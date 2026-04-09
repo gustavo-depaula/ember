@@ -485,7 +485,7 @@ export default {
     cannotRemoveDesc: 'The default prayer book cannot be removed.',
     removeConfirm: 'Remove prayer book?',
     removeConfirmDesc:
-      'Your completions and reading progress will be kept. You can reinstall anytime.',
+      'Any practices from this book will be removed from your plan of life. You can reinstall anytime.',
   },
 
   catalog: {
@@ -551,6 +551,8 @@ export default {
     completed: 'Completed',
     upcoming: 'Upcoming',
     missed: 'Missed',
+    missedTooMany: "You've missed several days. Would you like to start over?",
+    dayLabel: 'Day {{day}}',
     durationDays: '{{count}}-day program',
     durationMonths: '{{count}}-month devotion',
     occurrenceOf: '{{occurrence}} of {{total}}',
@@ -682,6 +684,15 @@ export default {
     'veni-creator': 'Veni Creator Spiritus',
     'visit-blessed-sacrament': 'Visit to the Blessed Sacrament',
     'way-of-light': 'Way of Light',
+    'ladainha-nossa-senhora': 'Litany of Our Lady',
+    'modo-rezar-rosario': 'How to Pray the Rosary',
+    'oracao-da-manha': 'Morning Prayer',
+    'oracao-da-noite': 'Night Prayer',
+    'oracao-santa-missa': 'Prayer for Holy Mass',
+    'para-confissao': 'For Confession',
+    'preparacao-comunhao': 'Preparation for Communion',
+    'primeira-comunhao': 'First Communion',
+    'via-sacra': 'Way of the Cross',
     pray: 'Pray',
     noContent: 'No prayer content available for this practice yet.',
   },
