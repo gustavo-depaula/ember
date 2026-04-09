@@ -49,7 +49,7 @@
 				"schedule": {
 					"type": "nth-weekday",
 					"n": 1,
-					"weekday": 5
+					"day": 5
 				},
 				"tier": "extra",
 				"enabled": false
