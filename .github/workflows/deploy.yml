@@ -4,10 +4,7 @@ on:
   push:
     branches: [main]
     paths:
-      - 'apps/app/src/assets/bible/**'
-      - 'apps/app/src/assets/propers/**'
-      - 'apps/app/src/assets/catechism/**'
-      - 'apps/app/assets/saints/**'
+      - 'content/**'
       - 'hearth/**'
       - '.github/workflows/deploy.yml'
   workflow_dispatch:
@@ -32,23 +29,18 @@ jobs:
 
       - name: Stage Hearth files
         run: |
-          mkdir -p _site/hearth/v1/bible/drb
-          mkdir -p _site/hearth/v1/propers/tempora
-          mkdir -p _site/hearth/v1/propers/sancti
-          mkdir -p _site/hearth/v1/catechism
-          mkdir -p _site/hearth/v1/saints
+          cp -r content _site_hearth
+          cp hearth/index.html _site_hearth/index.html
 
-          cp apps/app/src/assets/bible/drb/*.json _site/hearth/v1/bible/drb/
-          cp apps/app/src/assets/propers/tempora/*.json _site/hearth/v1/propers/tempora/
-          cp apps/app/src/assets/propers/sancti/*.json _site/hearth/v1/propers/sancti/
-          cp apps/app/src/assets/catechism/ccc.json _site/hearth/v1/catechism/
-
-          cp apps/app/assets/saints/*.png _site/hearth/v1/saints/
-          for f in _site/hearth/v1/saints/*.png; do
+          # Generate WebP for all PNGs
+          find _site_hearth -name '*.png' | while IFS= read -r f; do
             cwebp -q 85 "$f" -o "${f%.png}.webp"
           done
 
-          cp hearth/index.html _site/index.html
+          # Wrap under hearth/v1/
+          mkdir -p _site/hearth
+          mv _site_hearth/index.html _site/index.html
+          mv _site_hearth _site/hearth/v1
 
       - name: Generate manifest
         run: |

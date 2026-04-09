@@ -26,7 +26,7 @@ if (!existsSync(doRepo)) {
 const doRoot = join(doRepo, 'web', 'www')
 const missaRoot = join(doRoot, 'missa')
 const horasRoot = join(doRoot, 'horas')
-const outputRoot = join(root, 'src', 'assets', 'propers')
+const outputRoot = join(root, '..', '..', 'content', 'propers')
 
 const langs = { English: 'en-US', Latin: 'la', Portugues: 'pt-BR' } as const
 type LangKey = keyof typeof langs

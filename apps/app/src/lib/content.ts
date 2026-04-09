@@ -1,6 +1,6 @@
-import drbIndex from '@/assets/bible/drb/index.json'
 import type { BollsBook } from './bolls'
 import { fetchBooks, fetchChapter } from './bolls'
+import { fetchHearth } from './hearth'
 
 export type Verse = {
   verse: number
@@ -14,89 +14,17 @@ export type Book = {
   testament: 'ot' | 'nt'
 }
 
-// Map of slug -> require() for bundled DRB books
-// Loaded lazily to avoid bundling all 73 books at startup
-const drbModules: Record<string, () => Record<string, Record<string, string>>> = {
-  genesis: () => require('@/assets/bible/drb/genesis.json'),
-  exodus: () => require('@/assets/bible/drb/exodus.json'),
-  leviticus: () => require('@/assets/bible/drb/leviticus.json'),
-  numbers: () => require('@/assets/bible/drb/numbers.json'),
-  deuteronomy: () => require('@/assets/bible/drb/deuteronomy.json'),
-  josue: () => require('@/assets/bible/drb/josue.json'),
-  judges: () => require('@/assets/bible/drb/judges.json'),
-  ruth: () => require('@/assets/bible/drb/ruth.json'),
-  '1-kings': () => require('@/assets/bible/drb/1-kings.json'),
-  '2-kings': () => require('@/assets/bible/drb/2-kings.json'),
-  '3-kings': () => require('@/assets/bible/drb/3-kings.json'),
-  '4-kings': () => require('@/assets/bible/drb/4-kings.json'),
-  '1-paralipomenon': () => require('@/assets/bible/drb/1-paralipomenon.json'),
-  '2-paralipomenon': () => require('@/assets/bible/drb/2-paralipomenon.json'),
-  '1-esdras': () => require('@/assets/bible/drb/1-esdras.json'),
-  '2-esdras': () => require('@/assets/bible/drb/2-esdras.json'),
-  tobias: () => require('@/assets/bible/drb/tobias.json'),
-  judith: () => require('@/assets/bible/drb/judith.json'),
-  esther: () => require('@/assets/bible/drb/esther.json'),
-  job: () => require('@/assets/bible/drb/job.json'),
-  psalms: () => require('@/assets/bible/drb/psalms.json'),
-  proverbs: () => require('@/assets/bible/drb/proverbs.json'),
-  ecclesiastes: () => require('@/assets/bible/drb/ecclesiastes.json'),
-  canticles: () => require('@/assets/bible/drb/canticles.json'),
-  wisdom: () => require('@/assets/bible/drb/wisdom.json'),
-  ecclesiasticus: () => require('@/assets/bible/drb/ecclesiasticus.json'),
-  isaias: () => require('@/assets/bible/drb/isaias.json'),
-  jeremias: () => require('@/assets/bible/drb/jeremias.json'),
-  lamentations: () => require('@/assets/bible/drb/lamentations.json'),
-  baruch: () => require('@/assets/bible/drb/baruch.json'),
-  ezechiel: () => require('@/assets/bible/drb/ezechiel.json'),
-  daniel: () => require('@/assets/bible/drb/daniel.json'),
-  osee: () => require('@/assets/bible/drb/osee.json'),
-  joel: () => require('@/assets/bible/drb/joel.json'),
-  amos: () => require('@/assets/bible/drb/amos.json'),
-  abdias: () => require('@/assets/bible/drb/abdias.json'),
-  jonas: () => require('@/assets/bible/drb/jonas.json'),
-  micheas: () => require('@/assets/bible/drb/micheas.json'),
-  nahum: () => require('@/assets/bible/drb/nahum.json'),
-  habacuc: () => require('@/assets/bible/drb/habacuc.json'),
-  sophonias: () => require('@/assets/bible/drb/sophonias.json'),
-  aggeus: () => require('@/assets/bible/drb/aggeus.json'),
-  zacharias: () => require('@/assets/bible/drb/zacharias.json'),
-  malachias: () => require('@/assets/bible/drb/malachias.json'),
-  '1-machabees': () => require('@/assets/bible/drb/1-machabees.json'),
-  '2-machabees': () => require('@/assets/bible/drb/2-machabees.json'),
-  matthew: () => require('@/assets/bible/drb/matthew.json'),
-  mark: () => require('@/assets/bible/drb/mark.json'),
-  luke: () => require('@/assets/bible/drb/luke.json'),
-  john: () => require('@/assets/bible/drb/john.json'),
-  acts: () => require('@/assets/bible/drb/acts.json'),
-  romans: () => require('@/assets/bible/drb/romans.json'),
-  '1-corinthians': () => require('@/assets/bible/drb/1-corinthians.json'),
-  '2-corinthians': () => require('@/assets/bible/drb/2-corinthians.json'),
-  galatians: () => require('@/assets/bible/drb/galatians.json'),
-  ephesians: () => require('@/assets/bible/drb/ephesians.json'),
-  philippians: () => require('@/assets/bible/drb/philippians.json'),
-  colossians: () => require('@/assets/bible/drb/colossians.json'),
-  '1-thessalonians': () => require('@/assets/bible/drb/1-thessalonians.json'),
-  '2-thessalonians': () => require('@/assets/bible/drb/2-thessalonians.json'),
-  '1-timothy': () => require('@/assets/bible/drb/1-timothy.json'),
-  '2-timothy': () => require('@/assets/bible/drb/2-timothy.json'),
-  titus: () => require('@/assets/bible/drb/titus.json'),
-  philemon: () => require('@/assets/bible/drb/philemon.json'),
-  hebrews: () => require('@/assets/bible/drb/hebrews.json'),
-  james: () => require('@/assets/bible/drb/james.json'),
-  '1-peter': () => require('@/assets/bible/drb/1-peter.json'),
-  '2-peter': () => require('@/assets/bible/drb/2-peter.json'),
-  '1-john': () => require('@/assets/bible/drb/1-john.json'),
-  '2-john': () => require('@/assets/bible/drb/2-john.json'),
-  '3-john': () => require('@/assets/bible/drb/3-john.json'),
-  jude: () => require('@/assets/bible/drb/jude.json'),
-  apocalypse: () => require('@/assets/bible/drb/apocalypse.json'),
+type BookMeta = {
+  slug: string
+  name: string
+  testament: 'ot' | 'nt'
+  chapters: number
 }
 
-function getDrbChapter(bookSlug: string, chapter: number): Verse[] {
-  const loader = drbModules[bookSlug]
-  if (!loader) throw new Error(`Unknown DRB book: ${bookSlug}`)
-
-  const bookData = loader()
+async function getDrbChapter(bookSlug: string, chapter: number): Promise<Verse[]> {
+  const bookData = await fetchHearth<Record<string, Record<string, string>>>(
+    `bible/drb/${bookSlug}.json`,
+  )
   const chapterData = bookData[String(chapter)]
   if (!chapterData) throw new Error(`Chapter ${chapter} not found in ${bookSlug}`)
 
@@ -110,15 +38,14 @@ function getDrbChapter(bookSlug: string, chapter: number): Verse[] {
 
 let drbBooksCache: Book[] | undefined
 
-export function getDrbBooks(): Book[] {
+export async function getDrbBooks(): Promise<Book[]> {
   if (!drbBooksCache) {
-    drbBooksCache = (
-      drbIndex as Array<{ slug: string; name: string; testament: string; chapters: number }>
-    ).map((b) => ({
+    const index = await fetchHearth<BookMeta[]>('bible/drb/index.json')
+    drbBooksCache = index.map((b) => ({
       id: b.slug,
       name: b.name,
       chapters: b.chapters,
-      testament: b.testament as 'ot' | 'nt',
+      testament: b.testament,
     }))
   }
   return drbBooksCache
@@ -164,7 +91,8 @@ async function resolveBollsBookId(
     bollsBooks = await fetchBooks(translation)
     bollsBookCache.set(translation, bollsBooks)
   }
-  const drbBook = getDrbBooks().find((b) => b.id === bookId)
+  const drbBooks = await getDrbBooks()
+  const drbBook = drbBooks.find((b) => b.id === bookId)
   if (!drbBook) return undefined
   const match = bollsBooks.find((b) => b.name.toLowerCase() === drbBook.name.toLowerCase())
   return match?.bookid
@@ -176,7 +104,7 @@ export async function getChapter(
   chapter: number,
 ): Promise<ChapterResult> {
   if (translation === 'DRB') {
-    return { verses: getDrbChapter(bookId, chapter) }
+    return { verses: await getDrbChapter(bookId, chapter) }
   }
 
   try {
@@ -188,9 +116,12 @@ export async function getChapter(
     }
   } catch {
     // Fallback to DRB if online fetch fails
-    if (drbModules[bookId]) {
-      return { verses: getDrbChapter(bookId, chapter), fallback: true }
+    try {
+      return { verses: await getDrbChapter(bookId, chapter), fallback: true }
+    } catch {
+      throw new Error(
+        `Failed to fetch ${translation}/${bookId}/${chapter} and no DRB fallback found`,
+      )
     }
-    throw new Error(`Failed to fetch ${translation}/${bookId}/${chapter} and no DRB fallback found`)
   }
 }

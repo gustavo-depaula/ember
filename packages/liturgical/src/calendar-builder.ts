@@ -1,5 +1,4 @@
 import { format } from 'date-fns'
-import { getAllEntries } from './calendar-data'
 import type {
   CalendarOptions,
   DayCalendar,
@@ -70,12 +69,11 @@ function resolveEntry(
 }
 
 export function buildYearCalendar(options: CalendarOptions): Map<string, DayCalendar> {
-  const { year, form, jurisdiction } = options
-  const allEntries = getAllEntries()
+  const { year, form, entries, jurisdiction } = options
   const anchors = computeAnchors(year)
   const map = new Map<string, DayCalendar>()
 
-  for (const entry of allEntries) {
+  for (const entry of entries) {
     const celebration = resolveEntry(entry, form, year, anchors, jurisdiction)
     if (celebration) addToMap(map, celebration)
   }

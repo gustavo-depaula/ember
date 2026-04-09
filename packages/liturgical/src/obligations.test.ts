@@ -1,8 +1,15 @@
 import { addDays } from 'date-fns'
+import { readFileSync } from 'node:fs'
+import { resolve } from 'node:path'
 import { describe, expect, it } from 'vitest'
 import { buildYearCalendar } from './calendar-builder'
+import type { LiturgicalEntry } from './calendar-types'
 import { getDayObligations } from './obligations'
 import { computeEaster } from './season'
+
+const entries: LiturgicalEntry[] = JSON.parse(
+  readFileSync(resolve(__dirname, '../../../content/liturgical/entries.json'), 'utf8'),
+)
 
 // Use 2026 for all tests. Easter 2026 = April 5.
 const year = 2026
@@ -11,7 +18,7 @@ const ashWednesday = addDays(easter, -46) // Feb 18, 2026
 const goodFriday = addDays(easter, -2) // April 3, 2026
 
 function cal(form: 'of' | 'ef', jurisdiction?: string) {
-  return buildYearCalendar({ year, form, jurisdiction })
+  return buildYearCalendar({ year, form, entries, jurisdiction })
 }
 
 const ofUS = cal('of', 'US')
