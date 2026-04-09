@@ -1,16 +1,17 @@
 import { localizeContent } from '@/lib/i18n'
-import type { CycleData, FlowDefinition, LectioTrackDef, Variant } from './types'
 import type { PracticeManifest } from './manifest-types'
 import type { ContentSource, PrayerAsset } from './sources/filesystem'
+import type { CycleData, FlowDefinition, LectioTrackDef, Variant } from './types'
 
 const sources: ContentSource[] = []
 const practiceToBook = new Map<string, string>()
+const bookIdToSource = new Map<string, ContentSource>()
 
 export function registerSource(source: ContentSource) {
-  // Replace if already registered (idempotent)
   const existing = sources.findIndex((s) => s.bookId === source.bookId)
   if (existing !== -1) sources.splice(existing, 1)
   sources.push(source)
+  bookIdToSource.set(source.bookId, source)
   for (const m of source.getAllManifests()) {
     practiceToBook.set(m.id, source.bookId)
   }
@@ -24,17 +25,18 @@ export function unregisterSource(bookId: string) {
     practiceToBook.delete(m.id)
   }
   sources.splice(idx, 1)
+  bookIdToSource.delete(bookId)
 }
 
 export function clearSources() {
   sources.length = 0
   practiceToBook.clear()
+  bookIdToSource.clear()
 }
 
 function findSource(practiceId: string): ContentSource | undefined {
   const bookId = practiceToBook.get(practiceId)
-  if (bookId) return sources.find((s) => s.bookId === bookId)
-  // Fallback: search all sources
+  if (bookId) return bookIdToSource.get(bookId)
   for (const source of sources) {
     if (source.getManifest(practiceId)) return source
   }
@@ -53,15 +55,11 @@ export function getAllManifests(): PracticeManifest[] {
   return sources.flatMap((s) => s.getAllManifests())
 }
 
-export function loadFlowForSlot(
-  practiceId: string,
-  flowId: string,
-): FlowDefinition | undefined {
+export function loadFlowForSlot(practiceId: string, flowId: string): FlowDefinition | undefined {
   const source = findSource(practiceId)
   if (!source) return undefined
   const flow = source.loadFlow(practiceId, flowId)
   if (flow) return flow
-  // Fallback for legacy slots with stale slot_ids
   const manifest = source.getManifest(practiceId)
   if (manifest?.flows.length) {
     return source.loadFlow(practiceId, manifest.flows[0].id)
@@ -69,10 +67,7 @@ export function loadFlowForSlot(
   return undefined
 }
 
-export function loadVariant(
-  manifestId: string,
-  variantId: string,
-): Variant | undefined {
+export function loadVariant(manifestId: string, variantId: string): Variant | undefined {
   return findSource(manifestId)?.loadVariant(manifestId, variantId)
 }
 
@@ -84,15 +79,11 @@ export function getDefaultVariant(manifestId: string): Variant | undefined {
   return source.loadVariant(manifestId, manifest.variants[0].id)
 }
 
-export function loadPracticeData(
-  practiceId: string,
-): Record<string, CycleData> | undefined {
+export function loadPracticeData(practiceId: string): Record<string, CycleData> | undefined {
   return findSource(practiceId)?.loadData(practiceId)
 }
 
-export function loadPracticeTracks(
-  practiceId: string,
-): Record<string, LectioTrackDef> | undefined {
+export function loadPracticeTracks(practiceId: string): Record<string, LectioTrackDef> | undefined {
   return findSource(practiceId)?.loadTracks(practiceId)
 }
 
@@ -118,24 +109,20 @@ export function searchManifests(query: string): PracticeManifest[] {
   })
 }
 
-// Prayer resolution: book-local → dependencies → all sources
 export function resolvePrayer(ref: string, bookId?: string): PrayerAsset | undefined {
   if (bookId) {
-    const source = sources.find((s) => s.bookId === bookId)
+    const source = bookIdToSource.get(bookId)
     if (source) {
       const prayer = source.getPrayer(ref)
       if (prayer) return prayer
-      // Check dependencies
       if (source.book.dependencies) {
         for (const depId of source.book.dependencies) {
-          const dep = sources.find((s) => s.bookId === depId)
-          const depPrayer = dep?.getPrayer(ref)
+          const depPrayer = bookIdToSource.get(depId)?.getPrayer(ref)
           if (depPrayer) return depPrayer
         }
       }
     }
   }
-  // Global fallback: search all sources
   for (const s of sources) {
     const prayer = s.getPrayer(ref)
     if (prayer) return prayer
