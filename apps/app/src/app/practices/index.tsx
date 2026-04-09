@@ -12,7 +12,7 @@ import {
   getManifestCategories,
   getManifestIconKey,
   searchManifests,
-} from '@/content/practices'
+} from '@/content/registry'
 import type { PracticeManifest } from '@/content/types'
 import { useAllSlots, useCreatePractice } from '@/features/plan-of-life'
 import type { PracticeFormData } from '@/features/plan-of-life/components/PracticeEditSheet'

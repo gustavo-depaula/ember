@@ -7,7 +7,7 @@ import { Text, useTheme, XStack, YStack } from 'tamagui'
 
 import { AnimatedPressable, ScreenLayout } from '@/components'
 import { PracticeIcon } from '@/components/PracticeIcon'
-import { getManifest, getManifestIconKey, loadPracticeData } from '@/content/practices'
+import { getManifest, getManifestIconKey, loadPracticeData } from '@/content/registry'
 import type { CycleData } from '@/content/types'
 import { useProgramProgress } from '@/features/plan-of-life'
 import { localizeContent } from '@/lib/i18n'

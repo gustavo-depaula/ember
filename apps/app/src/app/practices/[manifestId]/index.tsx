@@ -13,7 +13,7 @@ import {
   SectionDivider,
 } from '@/components'
 import { PracticeIcon } from '@/components/PracticeIcon'
-import { getManifest, getManifestIconKey } from '@/content/practices'
+import { getManifest, getManifestIconKey } from '@/content/registry'
 import { createProgramCursor } from '@/db/repositories'
 import {
   useCreatePractice,

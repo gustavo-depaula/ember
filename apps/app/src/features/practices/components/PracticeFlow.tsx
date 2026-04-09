@@ -38,7 +38,7 @@ import {
   loadPracticeData,
   loadPracticeTracks,
   loadVariant,
-} from '@/content/practices'
+} from '@/content/registry'
 import type { RenderedSection } from '@/content/types'
 import { advanceProgramDay, completeProgramCursor } from '@/db/repositories'
 import {
