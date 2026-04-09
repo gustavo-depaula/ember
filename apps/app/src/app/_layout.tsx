@@ -28,7 +28,12 @@ import { TasselPull } from '@/components/TasselPull'
 import { config } from '@/config/tamagui.config'
 import { useDbInit } from '@/db/client'
 import { seedCursors, seedPractices } from '@/db/seed'
-import { loadInstalledBooks, downloadAndInstallBook, fetchRegistry, getInstalledBooks } from '@/features/books/bookManager'
+import {
+  downloadAndInstallBook,
+  fetchRegistry,
+  getInstalledBooks,
+  loadInstalledBooks,
+} from '@/features/books/bookManager'
 import { useLiturgicalTheme } from '@/hooks/useLiturgicalTheme'
 import { initHearth } from '@/lib/hearth'
 import { rescheduleAllReminders, setupNotifications } from '@/lib/notifications'

@@ -1,12 +1,9 @@
-import { File, Directory, Paths } from 'expo-file-system'
+import { Directory, File, Paths } from 'expo-file-system'
 import JSZip from 'jszip'
+import { registerSource, unregisterSource } from '@/content/registry'
+import { createFileSystemSource, type PrayerBook } from '@/content/sources/filesystem'
 import { getDb } from '@/db/client'
 import { fetchHearth, hearthUrl } from '@/lib/hearth'
-import {
-  createFileSystemSource,
-  type PrayerBook,
-} from '@/content/sources/filesystem'
-import { registerSource, unregisterSource } from '@/content/registry'
 
 export type PracticePreview = {
   id: string
@@ -59,26 +56,43 @@ function ensureBooksDir() {
   if (!dir.exists) dir.create()
 }
 
+function ensureDir(dir: Directory) {
+  if (!dir.exists) dir.create()
+}
+
 async function extractZip(zipData: ArrayBuffer, destDir: Directory) {
   const zip = await JSZip.loadAsync(zipData)
+  const created = new Set<string>()
 
   for (const [relativePath, zipEntry] of Object.entries(zip.files)) {
     if (zipEntry.dir) {
-      const dir = new Directory(destDir, relativePath)
-      if (!dir.exists) dir.create()
+      if (!created.has(relativePath)) {
+        ensureDir(new Directory(destDir, relativePath))
+        created.add(relativePath)
+      }
     } else {
-      // Ensure parent directory exists
       const parts = relativePath.split('/')
       if (parts.length > 1) {
         const parentPath = parts.slice(0, -1).join('/')
-        const parentDir = new Directory(destDir, parentPath)
-        if (!parentDir.exists) parentDir.create()
+        if (!created.has(parentPath)) {
+          ensureDir(new Directory(destDir, parentPath))
+          created.add(parentPath)
+        }
       }
       const content = await zipEntry.async('string')
-      const file = new File(destDir, relativePath)
-      file.write(content)
+      new File(destDir, relativePath).write(content)
     }
   }
+}
+
+async function upsertInstalledBook(bookId: string, version: string, manifestJson: string) {
+  const now = Date.now()
+  await getDb().runAsync(
+    `INSERT INTO installed_books (book_id, version, installed_at, updated_at, manifest)
+     VALUES (?, ?, ?, ?, ?)
+     ON CONFLICT (book_id) DO UPDATE SET version = excluded.version, updated_at = excluded.updated_at, manifest = excluded.manifest`,
+    [bookId, version, now, now, manifestJson],
+  )
 }
 
 export async function fetchRegistry(): Promise<Registry> {
@@ -106,39 +120,23 @@ export async function downloadAndInstallBook(
   const url = hearthUrl(`books/${entry.file}`)
   const dest = bookDir(entry.id)
 
-  // Download .pray file as binary
   if (onProgress) onProgress(0.1)
   const response = await fetch(url)
   if (!response.ok) throw new Error(`Download failed: ${response.status}`)
   const zipData = await response.arrayBuffer()
   if (onProgress) onProgress(0.6)
 
-  // Remove existing book dir if updating
   if (dest.exists) dest.delete()
   dest.create()
 
-  // Extract .pray (zip)
   await extractZip(zipData, dest)
   if (onProgress) onProgress(0.9)
 
-  // Validate book.json exists
   const bookJsonFile = new File(dest, 'book.json')
-  if (!bookJsonFile.exists) {
-    dest.delete()
-    throw new Error('Invalid .pray: no book.json found')
-  }
-
-  // Register in DB
   const bookJson = await bookJsonFile.text()
-  const now = Date.now()
-  await getDb().runAsync(
-    `INSERT INTO installed_books (book_id, version, installed_at, updated_at, manifest)
-     VALUES (?, ?, ?, ?, ?)
-     ON CONFLICT (book_id) DO UPDATE SET version = excluded.version, updated_at = excluded.updated_at, manifest = excluded.manifest`,
-    [entry.id, entry.version, now, now, bookJson],
-  )
 
-  // Register content source
+  await upsertInstalledBook(entry.id, entry.version, bookJson)
+
   const source = await createFileSystemSource(dest.uri)
   registerSource(source)
   if (onProgress) onProgress(1)
@@ -147,40 +145,23 @@ export async function downloadAndInstallBook(
 export async function installFromLocalFile(filePath: string): Promise<PrayerBook> {
   ensureBooksDir()
 
-  // Read the file as binary
   const file = new File(filePath)
   const zipData = await file.arrayBuffer()
 
-  // Extract to temp dir to read book.json
   const tempDir = new Directory(Paths.cache, 'pray-import/')
   if (tempDir.exists) tempDir.delete()
   tempDir.create()
   await extractZip(zipData, tempDir)
 
-  const bookJsonFile = new File(tempDir, 'book.json')
-  if (!bookJsonFile.exists) {
-    tempDir.delete()
-    throw new Error('Invalid .pray file: no book.json found')
-  }
-
-  const bookJson = await bookJsonFile.text()
+  const bookJson = await new File(tempDir, 'book.json').text()
   const book = JSON.parse(bookJson) as PrayerBook
 
-  // Move to final location
   const dest = bookDir(book.id)
   if (dest.exists) dest.delete()
   tempDir.move(dest)
 
-  // Register in DB
-  const now = Date.now()
-  await getDb().runAsync(
-    `INSERT INTO installed_books (book_id, version, installed_at, updated_at, manifest)
-     VALUES (?, ?, ?, ?, ?)
-     ON CONFLICT (book_id) DO UPDATE SET version = excluded.version, updated_at = excluded.updated_at, manifest = excluded.manifest`,
-    [book.id, book.version, now, now, bookJson],
-  )
+  await upsertInstalledBook(book.id, book.version, bookJson)
 
-  // Register content source
   const source = await createFileSystemSource(dest.uri)
   registerSource(source)
 
@@ -197,11 +178,25 @@ export async function removeBook(bookId: string): Promise<void> {
 export async function loadInstalledBooks(): Promise<void> {
   ensureBooksDir()
   const installed = await getInstalledBooks()
-  for (const row of installed) {
-    const dest = bookDir(row.book_id)
-    const bookJsonFile = new File(dest, 'book.json')
-    if (!bookJsonFile.exists) continue
-    const source = await createFileSystemSource(dest.uri)
-    registerSource(source)
+  const results = await Promise.all(
+    installed.map(async (row) => {
+      try {
+        return await createFileSystemSource(bookDir(row.book_id).uri)
+      } catch {
+        return undefined
+      }
+    }),
+  )
+  for (const source of results) {
+    if (source) registerSource(source)
   }
+}
+
+export function isBookUpdateAvailable(
+  installed: InstalledBook,
+  registry: RegistryEntry[],
+): string | undefined {
+  const entry = registry.find((r) => r.id === installed.book_id)
+  if (!entry) return undefined
+  return entry.version !== installed.version ? entry.version : undefined
 }

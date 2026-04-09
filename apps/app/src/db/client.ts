@@ -1,3 +1,4 @@
+import { Directory, Paths } from 'expo-file-system'
 import type { SQLiteDatabase } from 'expo-sqlite'
 import { deleteDatabaseAsync, openDatabaseAsync } from 'expo-sqlite'
 import { useEffect, useReducer } from 'react'
@@ -54,6 +55,8 @@ export async function resetDatabase() {
     _db = undefined
   }
   await deleteDatabaseAsync('ember.db')
+  const booksDir = new Directory(Paths.document, 'books/')
+  if (booksDir.exists) booksDir.delete()
   const { DevSettings } = require('react-native')
   DevSettings.reload()
 }

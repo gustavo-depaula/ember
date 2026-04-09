@@ -32,6 +32,7 @@ import {
 } from '@/components'
 import { createEngineContext } from '@/content/engineContext'
 import {
+  getBookIdForPractice,
   getDefaultVariant,
   getManifest,
   loadFlowForSlot,
@@ -202,7 +203,7 @@ export function PracticeFlow({
       setKeyOverride: activeFlowId,
       programDay,
     }
-    return resolveFlow(flow, context, createEngineContext())
+    return resolveFlow(flow, context, createEngineContext(getBookIdForPractice(practiceId)))
   }, [
     flow,
     now,
