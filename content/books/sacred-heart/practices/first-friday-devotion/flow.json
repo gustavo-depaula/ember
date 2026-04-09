@@ -1,0 +1,113 @@
+{
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    },
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "First Friday Devotion to the Sacred Heart",
+        "pt-BR": "Devoção da Primeira Sexta-feira ao Sagrado Coração"
+      }
+    },
+    {
+      "type": "cycle",
+      "data": "first-fridays",
+      "as": "template",
+      "sections": [
+        {
+          "type": "subheading",
+          "text": {
+            "en-US": "{{monthTitle}}",
+            "pt-BR": "{{monthTitle}}"
+          }
+        },
+        {
+          "type": "rubric",
+          "text": {
+            "en-US": "{{promise}}",
+            "pt-BR": "{{promise}}"
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "meditation",
+          "text": {
+            "en-US": "{{meditation}}",
+            "pt-BR": "{{meditation}}"
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "rubric",
+          "text": {
+            "en-US": "{{intention}}",
+            "pt-BR": "{{intention}}"
+          }
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "subheading",
+      "text": {
+        "en-US": "Act of Reparation",
+        "pt-BR": "Ato de Desagravo"
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "act-of-reparation"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Pray one Our Father, one Hail Mary, and one Glory Be for the intentions of the Holy Father.",
+        "pt-BR": "Reze um Pai Nosso, uma Ave Maria e um Glória ao Pai pelas intenções do Santo Padre."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "our-father"
+    },
+    {
+      "type": "prayer",
+      "ref": "hail-mary"
+    },
+    {
+      "type": "prayer",
+      "ref": "glory-be"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "prayer",
+      "ref": "prayer-of-st-margaret-mary"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Sacred Heart of Jesus, I trust in Thee.\nSacred Heart of Jesus, have mercy on us.\nSacred Heart of Jesus, Thy kingdom come. Amen.",
+        "pt-BR": "Sagrado Coração de Jesus, eu confio em Vós.\nSagrado Coração de Jesus, tende piedade de nós.\nSagrado Coração de Jesus, venha a nós o Vosso Reino. Amém."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    }
+  ]
+}

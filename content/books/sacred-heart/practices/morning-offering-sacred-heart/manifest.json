@@ -1,0 +1,48 @@
+{
+  "id": "morning-offering-sacred-heart",
+  "icon": "sacred-heart",
+  "name": {
+    "en-US": "Morning Offering to the Sacred Heart",
+    "pt-BR": "Oferecimento ao Sagrado Coração"
+  },
+  "categories": ["daily", "sacred-heart", "devotion"],
+  "estimatedMinutes": 3,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "flows": [
+    {
+      "id": "default",
+      "name": {
+        "en-US": "Morning Offering",
+        "pt-BR": "Oferecimento"
+      },
+      "file": "flow.json"
+    }
+  ],
+  "description": {
+    "en-US": "A short morning offering dedicating the day to the Sacred Heart of Jesus through the Immaculate Heart of Mary, in union with the Mass throughout the world.",
+    "pt-BR": "Um breve oferecimento matinal dedicando o dia ao Sagrado Coração de Jesus pelo Imaculado Coração de Maria, em união com a Missa no mundo inteiro."
+  },
+  "history": {
+    "en-US": "The Morning Offering is the central prayer of the Apostleship of Prayer, founded by Fr. François-Xavier Gautrelet, S.J., in 1844. This movement, later known as the Pope's Worldwide Prayer Network, encourages the faithful to offer each day to the Sacred Heart of Jesus for the intentions of the Holy Father and the needs of the world.",
+    "pt-BR": "O Oferecimento é a oração central do Apostolado da Oração, fundado pelo Pe. François-Xavier Gautrelet, S.J., em 1844. Este movimento, posteriormente conhecido como Rede Mundial de Oração do Papa, encoraja os fiéis a oferecer cada dia ao Sagrado Coração de Jesus pelas intenções do Santo Padre e pelas necessidades do mundo."
+  },
+  "howToPray": {
+    "en-US": "Pray this offering each morning upon waking, consecrating the entire day — prayers, works, joys, and sufferings — to the Sacred Heart of Jesus.",
+    "pt-BR": "Reze este oferecimento todas as manhãs ao acordar, consagrando o dia inteiro — orações, obras, alegrias e sofrimentos — ao Sagrado Coração de Jesus."
+  },
+  "tags": ["sacred-heart", "morning", "daily", "offering"],
+  "defaults": {
+    "sortOrder": 13,
+    "slots": [
+      {
+        "flowId": "default",
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

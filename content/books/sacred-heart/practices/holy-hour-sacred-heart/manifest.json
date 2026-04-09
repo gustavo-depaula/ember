@@ -1,0 +1,50 @@
+{
+  "id": "holy-hour-sacred-heart",
+  "icon": "sacred-heart",
+  "name": {
+    "en-US": "Holy Hour of the Sacred Heart",
+    "pt-BR": "Hora Santa do Sagrado Coração"
+  },
+  "categories": ["devotion", "sacred-heart", "adoration"],
+  "estimatedMinutes": 60,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "flows": [
+    {
+      "id": "default",
+      "name": {
+        "en-US": "Holy Hour",
+        "pt-BR": "Hora Santa"
+      },
+      "file": "flow.json"
+    }
+  ],
+  "description": {
+    "en-US": "A structured hour of prayer and adoration before the Sacred Heart of Jesus, including acts of adoration, reparation, meditation, and intercession. Ideal for First Fridays, Thursdays, or any time of Eucharistic adoration.",
+    "pt-BR": "Uma hora estruturada de oração e adoração diante do Sagrado Coração de Jesus, incluindo atos de adoração, reparação, meditação e intercessão. Ideal para as Primeiras Sextas-feiras, quintas-feiras ou qualquer momento de adoração eucarística."
+  },
+  "history": {
+    "en-US": "On the night before His Passion, Jesus asked His disciples in the Garden of Gethsemane: 'Could you not watch one hour with Me?' In her revelations at Paray-le-Monial, Our Lord renewed this request to St. Margaret Mary Alacoque, asking her to spend an hour each Thursday night in prayer before the Blessed Sacrament, sharing in the sorrow of His agony and making reparation for the ingratitude of men. This practice of the Holy Hour, rooted in Christ's own invitation, has become one of the most beloved devotions of the Church.",
+    "pt-BR": "Na noite antes de Sua Paixão, Jesus perguntou aos Seus discípulos no Jardim do Getsêmani: 'Não pudestes vigiar uma hora comigo?' Em suas revelações em Paray-le-Monial, Nosso Senhor renovou este pedido a Santa Margarida Maria Alacoque, pedindo-lhe que passasse uma hora toda noite de quinta-feira em oração diante do Santíssimo Sacramento, participando da tristeza de Sua agonia e fazendo reparação pela ingratidão dos homens. Esta prática da Hora Santa, enraizada no próprio convite de Cristo, tornou-se uma das devoções mais queridas da Igreja."
+  },
+  "howToPray": {
+    "en-US": "Spend one hour before the Blessed Sacrament, either exposed or in the tabernacle. Follow the guided prayers, pausing at the meditation sections for personal reflection. The hour is divided into five movements: Adoration, Thanksgiving, Reparation, Intercession, and Communion of Heart. You may adapt the pace to your needs — lingering longer in silent prayer where the Spirit leads.",
+    "pt-BR": "Passe uma hora diante do Santíssimo Sacramento, exposto ou no tabernáculo. Siga as orações guiadas, fazendo pausas nas seções de meditação para reflexão pessoal. A hora é dividida em cinco movimentos: Adoração, Ação de Graças, Reparação, Intercessão e Comunhão de Coração. Você pode adaptar o ritmo às suas necessidades — demorando-se mais na oração silenciosa onde o Espírito guiar."
+  },
+  "tags": ["sacred-heart", "holy-hour", "adoration", "reparation", "eucharist"],
+  "defaults": {
+    "sortOrder": 11,
+    "slots": [
+      {
+        "flowId": "default",
+        "schedule": {
+          "type": "nth-weekday",
+          "n": 1,
+          "day": 5
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "first-friday-devotion",
+  "icon": "sacred-heart",
+  "name": {
+    "en-US": "Nine First Fridays",
+    "pt-BR": "Nove Primeiras Sextas-feiras"
+  },
+  "categories": ["program", "devotion", "sacred-heart"],
+  "estimatedMinutes": 15,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 9,
+    "progressPolicy": "wait",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "first-fridays": "data/months.json"
+  },
+  "flows": [
+    {
+      "id": "default",
+      "name": {
+        "en-US": "First Friday Devotion",
+        "pt-BR": "Devoção da Primeira Sexta-feira"
+      },
+      "file": "flow.json"
+    }
+  ],
+  "description": {
+    "en-US": "The devotion of the Nine First Fridays, based on the Great Promise of the Sacred Heart to St. Margaret Mary Alacoque. Receive Holy Communion on the first Friday of nine consecutive months in reparation to the Sacred Heart.",
+    "pt-BR": "A devoção das Nove Primeiras Sextas-feiras, baseada na Grande Promessa do Sagrado Coração a Santa Margarida Maria Alacoque. Receba a Sagrada Comunhão na primeira sexta-feira de nove meses consecutivos em reparação ao Sagrado Coração."
+  },
+  "history": {
+    "en-US": "In the revelations to St. Margaret Mary Alacoque at Paray-le-Monial between 1673 and 1675, Our Lord made twelve promises to those devoted to His Sacred Heart. The twelfth and greatest promise was: 'I promise thee in the excessive mercy of My Heart that My all-powerful love will grant to all those who receive Holy Communion on the First Fridays in nine consecutive months the grace of final perseverance; they shall not die in My disgrace, nor without receiving their sacraments. My divine Heart shall be their safe refuge in this last moment.' This devotion spread rapidly through the Church and has been practiced by the faithful for over three centuries.",
+    "pt-BR": "Nas revelações a Santa Margarida Maria Alacoque em Paray-le-Monial entre 1673 e 1675, Nosso Senhor fez doze promessas àqueles devotos do Seu Sagrado Coração. A décima segunda e maior promessa foi: 'Eu te prometo, na excessiva misericórdia do Meu Coração, que o Meu amor todo-poderoso concederá a todos aqueles que receberem a Sagrada Comunhão nas Primeiras Sextas-feiras, durante nove meses consecutivos, a graça da perseverança final; não morrerão em Minha desgraça, nem sem receber os seus sacramentos. O Meu Coração divino será o seu refúgio seguro neste último momento.' Esta devoção espalhou-se rapidamente pela Igreja e é praticada pelos fiéis há mais de três séculos."
+  },
+  "howToPray": {
+    "en-US": "On the first Friday of each month, attend Holy Mass and receive Holy Communion in a state of grace, with the intention of making reparation to the Sacred Heart. Use this devotion before or after Mass to meditate on one of the twelve promises. Complete nine consecutive First Fridays without interruption. If you miss a month, begin the count anew.",
+    "pt-BR": "Na primeira sexta-feira de cada mês, assista à Santa Missa e receba a Sagrada Comunhão em estado de graça, com a intenção de fazer reparação ao Sagrado Coração. Use esta devoção antes ou depois da Missa para meditar sobre uma das doze promessas. Complete nove Primeiras Sextas-feiras consecutivas sem interrupção. Se faltar um mês, recomece a contagem."
+  },
+  "tags": ["sacred-heart", "first-friday", "program", "reparation", "communion", "9-months"],
+  "defaults": {
+    "sortOrder": 10,
+    "slots": [
+      {
+        "flowId": "default",
+        "schedule": {
+          "type": "nth-weekday",
+          "n": 1,
+          "day": 5
+        },
+        "tier": "essential",
+        "enabled": false
+      }
+    ]
+  }
+}
