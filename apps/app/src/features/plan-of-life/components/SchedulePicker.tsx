@@ -36,6 +36,7 @@ export function SchedulePicker({
     { value: 'days-of-week', label: t('frequency.weekly') },
     { value: 'times-per', label: t('frequency.timesPer', { count: 'X' }) },
     { value: 'day-of-month', label: t('frequency.monthly') },
+    { value: 'nth-weekday', label: t('frequency.nthWeekday') },
     { value: 'holy-days-of-obligation', label: t('frequency.holyDays') },
   ]
 
@@ -109,6 +110,15 @@ export function SchedulePicker({
         <DayOfMonthPicker
           days={schedule.days}
           onChangeDays={(days) => onChangeSchedule({ ...schedule, days })}
+        />
+      )}
+
+      {mode === 'nth-weekday' && schedule.type === 'nth-weekday' && (
+        <NthWeekdayPicker
+          n={schedule.n}
+          day={schedule.day}
+          onChangeN={(n) => onChangeSchedule({ ...schedule, n })}
+          onChangeDay={(day) => onChangeSchedule({ ...schedule, day })}
         />
       )}
     </YStack>
@@ -269,5 +279,72 @@ function DayOfMonthPicker({
         )
       })}
     </XStack>
+  )
+}
+
+function NthWeekdayPicker({
+  n,
+  day,
+  onChangeN,
+  onChangeDay,
+}: {
+  n: number
+  day: number
+  onChangeN: (n: number) => void
+  onChangeDay: (day: number) => void
+}) {
+  const { t } = useTranslation()
+  const nOptions = [1, 2, 3, 4, -1]
+
+  return (
+    <YStack gap="$sm">
+      <XStack gap="$xs" flexWrap="wrap">
+        {nOptions.map((opt) => {
+          const label = opt === -1 ? t('frequency.last') : `${opt}`
+          const selected = n === opt
+          return (
+            <Pressable key={opt} onPress={() => onChangeN(opt)}>
+              <YStack
+                paddingHorizontal="$md"
+                paddingVertical="$xs"
+                borderRadius="$sm"
+                borderWidth={1}
+                borderColor={selected ? '$accent' : '$borderColor'}
+                backgroundColor={selected ? '$accent' : 'transparent'}
+                alignItems="center"
+                justifyContent="center"
+              >
+                <Text fontFamily="$body" fontSize={12} color={selected ? 'white' : '$colorSecondary'}>
+                  {label}
+                </Text>
+              </YStack>
+            </Pressable>
+          )
+        })}
+      </XStack>
+      <XStack gap="$xs" flexWrap="wrap">
+        {dayKeys.map((key, i) => {
+          const selected = day === i
+          return (
+            <Pressable key={key} onPress={() => onChangeDay(i)}>
+              <YStack
+                width={40}
+                height={36}
+                borderRadius="$sm"
+                borderWidth={1}
+                borderColor={selected ? '$accent' : '$borderColor'}
+                backgroundColor={selected ? '$accent' : 'transparent'}
+                alignItems="center"
+                justifyContent="center"
+              >
+                <Text fontFamily="$body" fontSize={12} color={selected ? 'white' : '$colorSecondary'}>
+                  {t(`day.${key}`)}
+                </Text>
+              </YStack>
+            </Pressable>
+          )
+        })}
+      </XStack>
+    </YStack>
   )
 }
