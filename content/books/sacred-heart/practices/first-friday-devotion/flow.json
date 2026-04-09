@@ -18,37 +18,25 @@
       "sections": [
         {
           "type": "subheading",
-          "text": {
-            "en-US": "{{monthTitle}}",
-            "pt-BR": "{{monthTitle}}"
-          }
+          "text": "{{monthTitle}}"
         },
         {
           "type": "rubric",
-          "text": {
-            "en-US": "{{promise}}",
-            "pt-BR": "{{promise}}"
-          }
+          "text": "{{promise}}"
         },
         {
           "type": "divider"
         },
         {
           "type": "meditation",
-          "text": {
-            "en-US": "{{meditation}}",
-            "pt-BR": "{{meditation}}"
-          }
+          "text": "{{meditation}}"
         },
         {
           "type": "divider"
         },
         {
           "type": "rubric",
-          "text": {
-            "en-US": "{{intention}}",
-            "pt-BR": "{{intention}}"
-          }
+          "text": "{{intention}}"
         }
       ]
     },
