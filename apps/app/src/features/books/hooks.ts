@@ -1,13 +1,12 @@
 import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
-import { useState } from 'react'
+import { useMemo, useState } from 'react'
 import {
   downloadAndInstallBook,
   fetchRegistry,
   getInstalledBooks,
   installFromLocalFile,
-  removeBook,
-  type InstalledBook,
   type RegistryEntry,
+  removeBook,
 } from './bookManager'
 
 export function useInstalledBooks() {
@@ -19,10 +18,10 @@ export function useInstalledBooks() {
 
 export function useAvailableBooks() {
   const { data: installed = [] } = useInstalledBooks()
-  const installedIds = new Set(installed.map((b) => b.book_id))
+  const installedIds = useMemo(() => new Set(installed.map((b) => b.book_id)), [installed])
 
   return useQuery({
-    queryKey: ['available-books'],
+    queryKey: ['available-books', [...installedIds]],
     queryFn: fetchRegistry,
     select: (registry) => registry.books.filter((b) => !installedIds.has(b.id)),
   })
@@ -68,13 +67,4 @@ export function useRemoveBook() {
       queryClient.invalidateQueries({ queryKey: ['available-books'] })
     },
   })
-}
-
-export function isBookUpdateAvailable(
-  installed: InstalledBook,
-  registry: RegistryEntry[],
-): string | undefined {
-  const entry = registry.find((r) => r.id === installed.book_id)
-  if (!entry) return undefined
-  return entry.version !== installed.version ? entry.version : undefined
 }

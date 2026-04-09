@@ -480,9 +480,17 @@ export default {
     download: 'Baixar',
     downloading: 'Instalando...',
     import: 'Importar arquivo .pray',
-    importDesc: 'Abrir um livro de oração do seu dispositivo',
+    importDesc: 'Abrir um devocionário do seu dispositivo',
     practices: 'Práticas',
+    prayers: 'Orações',
     remove: 'Remover do dispositivo',
+    invalidFile: 'Arquivo inválido',
+    invalidFileDesc: 'Selecione um arquivo .pray.',
+    cannotRemove: 'Não é possível remover',
+    cannotRemoveDesc: 'O devocionário padrão não pode ser removido.',
+    removeConfirm: 'Remover devocionário?',
+    removeConfirmDesc:
+      'Seus progressos e registros serão mantidos. Você pode reinstalar a qualquer momento.',
   },
 
   catalog: {

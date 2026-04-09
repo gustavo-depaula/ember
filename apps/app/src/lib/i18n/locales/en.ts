@@ -475,7 +475,15 @@ export default {
     import: 'Import .pray file',
     importDesc: 'Open a prayer book from your device',
     practices: 'Practices',
+    prayers: 'Prayers',
     remove: 'Remove from device',
+    invalidFile: 'Invalid file',
+    invalidFileDesc: 'Please select a .pray file.',
+    cannotRemove: 'Cannot remove',
+    cannotRemoveDesc: 'The default prayer book cannot be removed.',
+    removeConfirm: 'Remove prayer book?',
+    removeConfirmDesc:
+      'Your completions and reading progress will be kept. You can reinstall anytime.',
   },
 
   catalog: {

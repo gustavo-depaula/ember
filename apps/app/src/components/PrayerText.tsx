@@ -1,5 +1,6 @@
 // biome-ignore-all lint/suspicious/noArrayIndexKey: static prayer text lines never reorder
 import type { ComponentProps } from 'react'
+import { useMemo } from 'react'
 import { Text, YStack } from 'tamagui'
 
 import { useReadingStyle } from '@/hooks/useReadingStyle'
@@ -19,11 +20,16 @@ export function PrayerLines({
   fontWeight?: ComponentProps<typeof Text>['fontWeight']
   language?: string
 }) {
+  const lines = useMemo(
+    () => text.split('\n').map((line) => hyphenate(line, language)),
+    [text, language],
+  )
+
   return (
     <YStack gap="$xs">
-      {text.split('\n').map((line, i) => (
+      {lines.map((line, i) => (
         <PrayerText key={`${i}`} fontWeight={fontWeight}>
-          {hyphenate(line, language)}
+          {line}
         </PrayerText>
       ))}
     </YStack>
