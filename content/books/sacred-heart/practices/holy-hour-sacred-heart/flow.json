@@ -1,0 +1,187 @@
+{
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    },
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Holy Hour of the Sacred Heart",
+        "pt-BR": "Hora Santa do Sagrado Coração"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Kneel before the Blessed Sacrament and recollect yourself in the presence of Our Lord.",
+        "pt-BR": "Ajoelhe-se diante do Santíssimo Sacramento e recolha-se na presença de Nosso Senhor."
+      }
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "subheading",
+      "text": {
+        "en-US": "I. Adoration",
+        "pt-BR": "I. Adoração"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "\"Could you not watch one hour with Me?\" (Mt 26:40)",
+        "pt-BR": "\"Não pudestes vigiar uma hora comigo?\" (Mt 26,40)"
+      }
+    },
+    {
+      "type": "meditation",
+      "text": {
+        "en-US": "Lord Jesus, I come before Thy Sacred Heart to keep watch with Thee, as Thou didst ask of Thy disciples in the Garden of Gethsemane. Thou who art the King of kings and Lord of lords humblest Thyself to dwell among us in the Blessed Sacrament. I adore Thee, hidden God, truly present under these sacred signs. I believe that Thy Heart beats here with the same love that moved Thee to become man, to suffer, and to die for me.",
+        "pt-BR": "Senhor Jesus, venho diante do Vosso Sagrado Coração para vigiar convosco, como pedistes aos Vossos discípulos no Jardim do Getsêmani. Vós, que sois o Rei dos reis e Senhor dos senhores, Vos humilhais para habitar entre nós no Santíssimo Sacramento. Eu Vos adoro, Deus escondido, verdadeiramente presente sob estes sinais sagrados. Creio que Vosso Coração bate aqui com o mesmo amor que Vos moveu a tornar-Vos homem, a sofrer e a morrer por mim."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "O Sacrament most holy, O Sacrament divine, all praise and all thanksgiving be every moment Thine.",
+        "pt-BR": "Ó Sacramento Santíssimo, ó Sacramento divino, todo louvor e toda ação de graças sejam a cada momento Vossos."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "anima-christi"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Spend a few minutes in silent adoration, gazing upon the Lord who gazes upon you with love.",
+        "pt-BR": "Passe alguns minutos em adoração silenciosa, contemplando o Senhor que vos contempla com amor."
+      }
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "subheading",
+      "text": {
+        "en-US": "II. Thanksgiving",
+        "pt-BR": "II. Ação de Graças"
+      }
+    },
+    {
+      "type": "meditation",
+      "text": {
+        "en-US": "O Sacred Heart of Jesus, I thank Thee for the gift of faith, for the sacraments of the Church, for the love of family and friends, for the daily bread that sustains my body, and for the Bread of Life that sustains my soul. Above all, I thank Thee for the gift of Thyself — for Thy Incarnation, Thy Passion, and Thy abiding presence in the Eucharist. Every good thing in my life flows from Thy generous Heart.",
+        "pt-BR": "Ó Sagrado Coração de Jesus, eu Vos agradeço pelo dom da fé, pelos sacramentos da Igreja, pelo amor da família e dos amigos, pelo pão de cada dia que sustenta meu corpo e pelo Pão da Vida que sustenta minha alma. Acima de tudo, eu Vos agradeço pelo dom de Vós mesmo — pela Vossa Encarnação, Vossa Paixão e Vossa presença permanente na Eucaristia. Toda coisa boa na minha vida flui do Vosso Coração generoso."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Call to mind the blessings you have received. Thank the Lord for each one, especially those you tend to take for granted.",
+        "pt-BR": "Recorde as bênçãos que recebeu. Agradeça ao Senhor por cada uma, especialmente aquelas que costuma considerar como garantidas."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Heart of Jesus, of whose fullness we have all received, have mercy on us.\nHeart of Jesus, our life and resurrection, have mercy on us.\nHeart of Jesus, our peace and reconciliation, have mercy on us.",
+        "pt-BR": "Coração de Jesus, de cuja plenitude todos nós recebemos, tende piedade de nós.\nCoração de Jesus, nossa vida e ressurreição, tende piedade de nós.\nCoração de Jesus, nossa paz e reconciliação, tende piedade de nós."
+      }
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "subheading",
+      "text": {
+        "en-US": "III. Reparation",
+        "pt-BR": "III. Reparação"
+      }
+    },
+    {
+      "type": "meditation",
+      "text": {
+        "en-US": "O Sacred Heart of Jesus, I unite myself to Thy sorrow in the Garden, where Thou didst see all the sins of the world — past, present, and future — and didst sweat blood in anguish. Thou didst see my sins among them. I am sorry, O Lord, for my coldness, my ingratitude, my failures to love Thee as Thou deservest. I offer this hour of prayer as a small act of reparation for the offenses committed against Thy loving Heart by myself and by all sinners.",
+        "pt-BR": "Ó Sagrado Coração de Jesus, uno-me à Vossa tristeza no Jardim, onde vistes todos os pecados do mundo — passados, presentes e futuros — e suastes sangue em angústia. Vós vistes meus pecados entre eles. Peço perdão, ó Senhor, pela minha frieza, minha ingratidão, minhas faltas em amar-Vos como mereceis. Ofereço esta hora de oração como um pequeno ato de reparação pelas ofensas cometidas contra Vosso Coração amoroso por mim mesmo e por todos os pecadores."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "act-of-reparation"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "subheading",
+      "text": {
+        "en-US": "IV. Intercession",
+        "pt-BR": "IV. Intercessão"
+      }
+    },
+    {
+      "type": "meditation",
+      "text": {
+        "en-US": "O Sacred Heart of Jesus, Thou who didst pray for Thy disciples and for all who would believe through their word — hear now the petitions I bring before Thee. Thou knowest the needs of my heart before I speak them. I trust in Thy promise: 'Ask and you shall receive, seek and you shall find, knock and it shall be opened unto you.'",
+        "pt-BR": "Ó Sagrado Coração de Jesus, Vós que orastes pelos Vossos discípulos e por todos os que haveriam de crer pela palavra deles — ouvi agora as petições que trago diante de Vós. Vós conheceis as necessidades do meu coração antes que eu as pronuncie. Confio na Vossa promessa: 'Pedi e recebereis, buscai e encontrareis, batei e vos será aberto.'"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Present your intentions to the Sacred Heart: for the Church, for the Holy Father, for your family and friends, for the sick and dying, for the souls in purgatory, and for your own needs.",
+        "pt-BR": "Apresente suas intenções ao Sagrado Coração: pela Igreja, pelo Santo Padre, pela sua família e amigos, pelos doentes e moribundos, pelas almas do purgatório e pelas suas próprias necessidades."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "our-father"
+    },
+    {
+      "type": "prayer",
+      "ref": "hail-mary"
+    },
+    {
+      "type": "prayer",
+      "ref": "glory-be"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "subheading",
+      "text": {
+        "en-US": "V. Communion of Heart",
+        "pt-BR": "V. Comunhão de Coração"
+      }
+    },
+    {
+      "type": "meditation",
+      "text": {
+        "en-US": "O Sacred Heart of Jesus, as this holy hour draws to a close, I desire to remain united with Thee in spirit, even as I return to the duties of my daily life. Let the fire of Thy love, which I have received in these moments of prayer, remain burning in my heart. May I carry Thy presence with me wherever I go, becoming a living tabernacle of Thy love in the world.",
+        "pt-BR": "Ó Sagrado Coração de Jesus, ao se encerrar esta hora santa, desejo permanecer unido a Vós em espírito, mesmo ao retornar aos deveres da minha vida diária. Que o fogo do Vosso amor, que recebi nestes momentos de oração, permaneça ardendo no meu coração. Que eu leve Vossa presença comigo aonde quer que vá, tornando-me um tabernáculo vivo do Vosso amor no mundo."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "prayer-of-st-margaret-mary"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Sacred Heart of Jesus, I trust in Thee.\nSacred Heart of Jesus, have mercy on us.\nSacred Heart of Jesus, Thy kingdom come. Amen.",
+        "pt-BR": "Sagrado Coração de Jesus, eu confio em Vós.\nSagrado Coração de Jesus, tende piedade de nós.\nSagrado Coração de Jesus, venha a nós o Vosso Reino. Amém."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    }
+  ]
+}

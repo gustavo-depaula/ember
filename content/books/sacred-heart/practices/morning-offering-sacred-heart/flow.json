@@ -1,0 +1,43 @@
+{
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    },
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Morning Offering to the Sacred Heart",
+        "pt-BR": "Oferecimento ao Sagrado Coração de Jesus"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Upon waking, make the Sign of the Cross and offer the day to the Sacred Heart of Jesus.",
+        "pt-BR": "Ao acordar, faça o Sinal da Cruz e ofereça o dia ao Sagrado Coração de Jesus."
+      }
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "prayer",
+      "ref": "offering-to-sacred-heart"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Sacred Heart of Jesus, I trust in Thee. Amen.",
+        "pt-BR": "Sagrado Coração de Jesus, eu confio em Vós. Amém."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    }
+  ]
+}
