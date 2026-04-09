@@ -1,4 +1,4 @@
-import type { ProperDay } from '../types'
+import type { ProperDay } from '..'
 
 const baseUrl = 'https://feed.evangelizo.org/v2/reader.php'
 
