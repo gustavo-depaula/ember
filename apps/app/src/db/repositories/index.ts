@@ -21,6 +21,7 @@ export {
   createPracticeWithSlot,
   deletePractice,
   deleteSlot,
+  disableSlotsForPractice,
   enableSlotsForPractice,
   getAllSlots,
   getCompletionDates,

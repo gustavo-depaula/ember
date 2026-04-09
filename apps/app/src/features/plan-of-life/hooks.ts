@@ -2,10 +2,13 @@ import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
 import type { ProgramConfig } from '@/content/types'
 import {
   addSlot,
+  advanceProgramDay,
   changeSlotFlow,
+  completeProgramCursor,
   createPracticeWithSlot,
   deletePractice,
   deleteSlot,
+  disableSlotsForPractice,
   enableSlotsForPractice,
   getAllSlots,
   getCompletionDates,
@@ -20,10 +23,12 @@ import {
   parseProgramPosition,
   removeCompletion,
   reorderSlots,
+  restartProgram,
   toggleCompletion,
   updatePractice,
   updateSlot,
 } from '@/db/repositories'
+import { getManifest } from '@/content/registry'
 import type { Completion } from '@/db/schema'
 import { getToday } from '@/hooks/useToday'
 import { rescheduleAllReminders } from '@/lib/notifications'
@@ -112,27 +117,90 @@ export function useProgramProgress(practiceId: string, program: ProgramConfig | 
       const cursor = await getProgramCursor(practiceId)
       const position = cursor ? parseProgramPosition(cursor) : { day: 0, status: 'active' as const }
 
-      // For 'continue' policy, derive programDay from the schedule's startDate
-      // For 'wait' policy, use the cursor (only advances on completion)
       let programDay = position.day
-      if (program.progressPolicy === 'continue') {
+      let calendarDay: number | undefined
+      if (program.progressPolicy === 'continue' || program.progressPolicy === 'restart') {
         const slots = await getSlotsForPractice(practiceId)
         const slot = slots[0]
         if (slot) {
           const schedule = parseSchedule(slot.schedule)
-          const calendarDay = getProgramDay(schedule, getToday())
+          calendarDay = getProgramDay(schedule, getToday())
           if (calendarDay !== undefined) programDay = calendarDay
         }
       }
+
+      const missedDays = (() => {
+        if (program.progressPolicy === 'wait') return 0
+        if (calendarDay === undefined) return 0
+        const gap = calendarDay - position.day
+        return gap > 0 ? gap : 0
+      })()
+
+      const threshold = program.restartThreshold ?? 1
+      const shouldPromptRestart = program.progressPolicy === 'restart' && missedDays >= threshold
 
       return {
         programDay,
         totalDays: program.totalDays,
         isComplete: position.status === 'completed',
         policy: program.progressPolicy,
+        completionBehavior: program.completionBehavior,
+        missedDays,
+        shouldPromptRestart,
       }
     },
     enabled: !!program,
+  })
+}
+
+// --- Program mutations ---
+
+export function useHandleProgramCompletion() {
+  const queryClient = useQueryClient()
+
+  return useMutation({
+    mutationFn: async ({
+      practiceId,
+      completionBehavior,
+    }: {
+      practiceId: string
+      completionBehavior: 'auto-disable' | 'offer-restart' | 'keep'
+    }) => {
+      await completeProgramCursor(practiceId)
+      if (completionBehavior === 'auto-disable') {
+        await disableSlotsForPractice(practiceId)
+      }
+    },
+    onSuccess: (_data, { practiceId }) => {
+      queryClient.invalidateQueries({ queryKey: ['programProgress', practiceId] })
+      queryClient.invalidateQueries({ queryKey: ['slots'] })
+    },
+  })
+}
+
+export function useRestartProgram() {
+  const queryClient = useQueryClient()
+
+  return useMutation({
+    mutationFn: async ({ practiceId }: { practiceId: string }) => {
+      await restartProgram(practiceId)
+      const slots = await getSlotsForPractice(practiceId)
+      const slot = slots[0]
+      if (slot) {
+        const today = getToday().toISOString().split('T')[0]
+        const schedule = parseSchedule(slot.schedule)
+        if (schedule.type === 'fixed-program') {
+          await updateSlot(slot.id, {
+            schedule: JSON.stringify({ ...schedule, startDate: today }),
+            enabled: 1,
+          })
+        }
+      }
+    },
+    onSuccess: (_data, { practiceId }) => {
+      queryClient.invalidateQueries({ queryKey: ['programProgress', practiceId] })
+      queryClient.invalidateQueries({ queryKey: ['slots'] })
+    },
   })
 }
 
@@ -174,7 +242,7 @@ export function useToggleSlot() {
   const queryClient = useQueryClient()
 
   return useMutation({
-    mutationFn: ({
+    mutationFn: async ({
       practiceId,
       slotId,
       date,
@@ -184,7 +252,12 @@ export function useToggleSlot() {
       slotId: string
       date: string
       completed: boolean
-    }) => toggleCompletion(practiceId, date, completed, slotId),
+    }) => {
+      await toggleCompletion(practiceId, date, completed, slotId)
+      if (completed && getManifest(practiceId)?.program) {
+        await advanceProgramDay(practiceId)
+      }
+    },
     onMutate: async ({ practiceId, slotId, date, completed }) => {
       await queryClient.cancelQueries({ queryKey: ['completions', date] })
       const previous = queryClient.getQueryData<Completion[]>(['completions', date])
@@ -212,9 +285,10 @@ export function useToggleSlot() {
         queryClient.setQueryData(['completions', context.date], context.previous)
       }
     },
-    onSettled: () => {
+    onSettled: (_data, _err, { practiceId }) => {
       queryClient.invalidateQueries({ queryKey: ['completions'] })
       queryClient.invalidateQueries({ queryKey: ['practiceStats'] })
+      queryClient.invalidateQueries({ queryKey: ['programProgress', practiceId] })
     },
   })
 }

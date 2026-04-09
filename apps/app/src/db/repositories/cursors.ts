@@ -78,9 +78,10 @@ export async function advanceProgramDay(practiceId: string): Promise<void> {
 
 export async function restartProgram(practiceId: string): Promise<void> {
   const id = programCursorId(practiceId)
+  const today = format(new Date(), 'yyyy-MM-dd')
   await getDb().runAsync(
-    "UPDATE cursors SET position = json_set(json_set(position, '$.day', 0), '$.status', 'active') WHERE id = ?",
-    [id],
+    "UPDATE cursors SET position = json_set(json_set(position, '$.day', 0), '$.status', 'active'), started_at = ? WHERE id = ?",
+    [today, id],
   )
 }
 
