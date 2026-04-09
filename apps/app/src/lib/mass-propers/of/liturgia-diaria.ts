@@ -1,4 +1,4 @@
-import type { ProperDay, ProperSection } from '../types'
+import type { ProperDay, ProperSection } from '..'
 import type { LiturgiaDiariaResponse } from './types'
 
 const baseUrl = 'https://liturgia.up.railway.app/v2'
