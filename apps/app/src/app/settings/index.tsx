@@ -3,11 +3,12 @@ import DateTimePicker from '@react-native-community/datetimepicker'
 import { format, parseISO } from 'date-fns'
 import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { Alert, Platform, Pressable } from 'react-native'
+import { Alert, Platform, Pressable, Switch } from 'react-native'
 import { Text, XStack, YStack } from 'tamagui'
 import { HeaderFlourish, ScreenLayout, SectionDivider } from '@/components'
 import { ReadingConfig } from '@/components/ReadingConfigModal'
 import { resetDatabase } from '@/db/client'
+import { isLocalHearth, setLocalHearth } from '@/lib/hearth'
 import { TranslationModal } from '@/features/bible/components/TranslationModal'
 import { getTranslationLanguage, suggestedTranslations } from '@/lib/bolls'
 import { supportedLanguages } from '@/lib/i18n'
@@ -300,29 +301,43 @@ export default function SettingsScreen() {
         <SectionDivider />
 
         {__DEV__ && (
-          <Pressable
-            onPress={() =>
-              Alert.alert('Reset Database', 'Drop all data and re-seed?', [
-                { text: 'Cancel', style: 'cancel' },
-                {
-                  text: 'Reset',
-                  style: 'destructive',
-                  onPress: () => resetDatabase(),
-                },
-              ])
-            }
-          >
+          <YStack gap="$sm">
             <YStack
               backgroundColor="$backgroundSurface"
               borderRadius="$lg"
               padding="$md"
-              alignItems="center"
             >
-              <Text fontFamily="$body" fontSize="$2" color="$colorBurgundy">
-                Reset Database (Dev)
-              </Text>
+              <XStack justifyContent="space-between" alignItems="center">
+                <Text fontFamily="$body" fontSize="$2" color="$color">
+                  Local Hearth
+                </Text>
+                <LocalHearthToggle />
+              </XStack>
             </YStack>
-          </Pressable>
+            <Pressable
+              onPress={() =>
+                Alert.alert('Reset Database', 'Drop all data and re-seed?', [
+                  { text: 'Cancel', style: 'cancel' },
+                  {
+                    text: 'Reset',
+                    style: 'destructive',
+                    onPress: () => resetDatabase(),
+                  },
+                ])
+              }
+            >
+              <YStack
+                backgroundColor="$backgroundSurface"
+                borderRadius="$lg"
+                padding="$md"
+                alignItems="center"
+              >
+                <Text fontFamily="$body" fontSize="$2" color="$colorBurgundy">
+                  Reset Database (Dev)
+                </Text>
+              </YStack>
+            </Pressable>
+          </YStack>
         )}
 
         <SectionDivider />
@@ -343,5 +358,19 @@ export default function SettingsScreen() {
         </YStack>
       </YStack>
     </ScreenLayout>
+  )
+}
+
+function LocalHearthToggle() {
+  const [local, setLocal] = useState(isLocalHearth)
+
+  return (
+    <Switch
+      value={local}
+      onValueChange={(value) => {
+        setLocal(value)
+        setLocalHearth(value)
+      }}
+    />
   )
 }

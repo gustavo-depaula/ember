@@ -10,9 +10,11 @@
     "start:web": "pnpm --filter @ember/app run web",
     "ios": "pnpm --filter @ember/app run ios",
     "android": "pnpm --filter @ember/app run android",
-    "parse-propers": "pnpm --filter @ember/app run parse-propers"
+    "parse-propers": "pnpm --filter @ember/app run parse-propers",
+    "serve:content": "serve content -p 4100 --cors"
   },
   "devDependencies": {
+    "serve": "^14.2.6",
     "turbo": "^2"
   }
 }
