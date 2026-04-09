@@ -6,6 +6,10 @@ Accumulated learnings, discoveries, and decisions from Ember development. Things
 
 ---
 
+## Infrastructure
+
+- **Hearth replaces the broken Expo web deploy on GitHub Pages.** The original `.github/workflows/deploy.yml` built and deployed the full Expo web app to GitHub Pages but broke after the monorepo restructure (missing `baseUrl` config). Instead of fixing it, we repurposed GitHub Pages as a static content server called Hearth. It copies Bible, propers, catechism, and saints images to `_site/v1/`, converts PNGs to WebP, and generates a `manifest.json` with SHA-256 hashes. No npm install or Metro — runs in under a minute. The `v1/` URL prefix allows future breaking changes without breaking old app versions. Base URL: `https://ember.dpgu.me/`.
+
 ## Content & Licensing
 
 - **DRB is the only viable bundled English Catholic Bible.** The Douay-Rheims (1749–1750) is fully public domain. Every other major Catholic English translation (NABRE, RSV-CE, NJB, etc.) is under active copyright. Source: `xxruyle/Bible-DouayRheims` on GitHub, MIT license.

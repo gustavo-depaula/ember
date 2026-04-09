@@ -71,14 +71,56 @@ See [features-overview.md](features/features-overview.md#data-model-v2) for full
 - `preferences` — all user settings (theme, translation, font config, etc.)
 - `cached_translations` — offline cache for online Bible translations
 
-### Bundled Assets (read-only)
+### Bundled Assets (read-only, also served via Hearth)
 - `apps/app/src/assets/bible/drb/` — Douay-Rheims JSON files (one per book, 73 files)
 - `apps/app/src/assets/catechism/ccc.json` — Full CCC structured by paragraphs
+- `apps/app/src/assets/propers/` — EF Mass propers (tempora + sancti, 634 files)
 - `apps/app/src/assets/psalter/30-day.json` — 30-day psalter cycle mapping
 - `apps/app/src/assets/hymns/` — Hymn texts parsed from Divinum Officium
 - `apps/app/src/assets/prayers/` — Fixed prayer texts (Our Father, canticles, Marian antiphons, etc.)
+- `apps/app/assets/saints/` — Saint PNG images (14 files)
 - `apps/app/assets/textures/` — Image-based ornament PNGs
 - `apps/app/assets/fonts/` — UnifrakturMaguntia bundled TTF
+
+These assets are currently bundled in the app AND deployed to Hearth (GitHub Pages). The app still reads from the bundle; migration to fetch from Hearth will happen incrementally per content type.
+
+---
+
+## Hearth — Static Content Platform
+
+Hearth is a GitHub Pages-hosted static file server that serves bundled content assets at stable URLs. The hearth sustains the ember — it's the content source that feeds the app.
+
+**Base URL:** `https://ember.dpgu.me/hearth/`
+
+### What Hearth serves
+
+| Asset | Path | Size | Files |
+|-------|------|------|-------|
+| Bible (DRB) | `hearth/v1/bible/drb/` | 4.7MB | 74 JSON (one per book + index) |
+| EF Mass propers | `hearth/v1/propers/tempora/`, `hearth/v1/propers/sancti/` | 6.2MB | 634 JSON |
+| Catechism (CCC) | `hearth/v1/catechism/ccc.json` | 1.8MB | 1 JSON |
+| Saints images | `hearth/v1/saints/` | ~50MB PNG, ~5MB WebP | 14 PNG + 14 WebP (generated) |
+
+A `manifest.json` at `hearth/manifest.json` provides a file inventory with SHA-256 hashes for cache validation.
+
+The `v1/` prefix allows future breaking schema changes without breaking old app versions.
+
+### How it works
+
+- `.github/workflows/deploy.yml` copies assets from their source locations in the app, converts saint PNGs to WebP, generates the manifest, and deploys to GitHub Pages
+- Triggers on push to `main` when asset paths change, or via manual `workflow_dispatch`
+- No npm install or build step — just file copies and `cwebp`. Runs in under a minute.
+
+### Source directories (copied to Hearth at deploy time)
+
+- `apps/app/src/assets/bible/drb/` → `hearth/v1/bible/drb/`
+- `apps/app/src/assets/propers/` → `hearth/v1/propers/`
+- `apps/app/src/assets/catechism/` → `hearth/v1/catechism/`
+- `apps/app/assets/saints/` → `hearth/v1/saints/` (+ WebP conversion)
+
+### Current status
+
+The app still bundles all content locally. Hearth provides the infrastructure for incremental migration — each content type can be moved to remote fetching independently.
 
 ---
 
@@ -150,6 +192,8 @@ ember/
     liturgical/                   (pure TS — calendar, seasons, psalter, obligations)
     mass-propers/                 (pure TS — propers resolution engine)
     content-engine/               (pure TS — flow rendering engine + types)
+  hearth/
+    index.html                    (landing page for GitHub Pages)
   docs/
   turbo.json
   pnpm-workspace.yaml

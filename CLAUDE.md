@@ -100,6 +100,7 @@ Work is organized into **independent tracks** on GitHub — each track advances 
 This is a pnpm workspaces + turborepo monorepo:
 - `apps/app/` — Expo app (iOS/Android/web)
 - `packages/` — shared libraries (liturgical, mass-propers, content-engine)
+- `hearth/` — static content served via GitHub Pages (Bible, propers, catechism, saints images)
 - Root: workspace config, turbo, biome
 
 ## Commands
