@@ -56,10 +56,7 @@
 				},
 				{
 					"type": "meditation",
-					"text": {
-						"en-US": "{{meditation}}",
-						"pt-BR": "{{meditation}}"
-					}
+					"text": "{{meditation}}"
 				},
 				{
 					"type": "repeat",

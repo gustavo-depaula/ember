@@ -46,10 +46,11 @@ function resolveLanguage(
 }
 
 export function localizeBilingual(
-  text: { 'en-US'?: string; 'pt-BR'?: string; la?: string },
+  text: string | { 'en-US'?: string; 'pt-BR'?: string; la?: string },
   primary: ContentLanguage,
   secondary: ContentLanguage | undefined,
 ): BilingualText {
+  if (typeof text === 'string') return { primary: text }
   const primaryText = resolveLanguage(text, primary) ?? resolveLanguage(text, 'en-US') ?? ''
 
   if (!secondary) return { primary: primaryText }
