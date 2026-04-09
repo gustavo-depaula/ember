@@ -79,6 +79,10 @@ export function getDefaultVariant(manifestId: string): Variant | undefined {
   return source.loadVariant(manifestId, manifest.variants[0].id)
 }
 
+export function loadPerDayFlow(practiceId: string, day: number): FlowDefinition | undefined {
+  return findSource(practiceId)?.loadPerDayFlow(practiceId, day)
+}
+
 export function loadPracticeData(practiceId: string): Record<string, CycleData> | undefined {
   return findSource(practiceId)?.loadData(practiceId)
 }
