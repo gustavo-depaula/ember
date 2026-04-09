@@ -166,27 +166,40 @@ export default function HomeScreen() {
 
         <SectionDivider symbol={getSeasonalSymbol(themeName)} />
 
-        {todaySlots.length > 0 && (
-          <YStack gap="$md">
-            <FadeInView index={1}>
-              <Pressable
-                onPress={() => router.push('/plan')}
-                accessibilityRole="link"
-                accessibilityLabel={t('a11y.viewPlanOfLife')}
+        <YStack gap="$md">
+          <FadeInView index={1}>
+            <Pressable
+              onPress={() => router.push('/plan')}
+              accessibilityRole="link"
+              accessibilityLabel={t('a11y.viewPlanOfLife')}
+            >
+              <Text
+                fontFamily="$heading"
+                fontSize="$4"
+                color="$accent"
+                textAlign="center"
+                letterSpacing={1}
               >
-                <Text
-                  fontFamily="$heading"
-                  fontSize="$4"
-                  color="$accent"
-                  textAlign="center"
-                  letterSpacing={1}
-                >
-                  {t('home.ruleOfLife')}
-                </Text>
+                {t('home.ruleOfLife')}
+              </Text>
+            </Pressable>
+          </FadeInView>
+
+          {todaySlots.length === 0 ? (
+            <FadeInView index={2}>
+              <Pressable onPress={() => router.push('/plan')}>
+                <YStack alignItems="center" paddingHorizontal="$lg" gap="$sm">
+                  <Text fontFamily="$body" fontSize="$2" color="$colorSecondary" textAlign="center">
+                    {t('home.emptyPlan')}
+                  </Text>
+                  <Text fontFamily="$heading" fontSize="$2" color="$accent">
+                    {t('home.emptyPlanAction')}
+                  </Text>
+                </YStack>
               </Pressable>
             </FadeInView>
-
-            {activeBlocks.map(({ block, def }, index) => {
+          ) : (
+            activeBlocks.map(({ block, def }, index) => {
               const blockSlotIds = def.slots.map((s) => s.id)
               const { completed, total } = getBlockCompletion(blockSlotIds, completedIds)
               const autoState = getBlockState(block, currentBlock, completedIds, blockSlotIds)
@@ -214,9 +227,9 @@ export default function HomeScreen() {
                   />
                 </FadeInView>
               )
-            })}
-          </YStack>
-        )}
+            })
+          )}
+        </YStack>
 
         {wallData.length > 0 && (
           <>
