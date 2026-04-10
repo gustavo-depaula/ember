@@ -9,30 +9,22 @@ export function ResponseBlock({ verses }: { verses: { v: BilingualText; r: Bilin
   return (
     <YStack gap="$sm">
       {verses.map((verse, i) => (
-        <YStack key={`vr-${i}`} gap="$xs">
-          <XStack
-            gap="$xs"
-            alignItems="flex-start"
-            accessibilityLabel={`Versicle: ${verse.v.primary}`}
-          >
-            <Text fontFamily="$body" fontSize="$2" color="$colorBurgundy" width={24} aria-hidden>
+        <YStack key={`vr-${i}`}>
+          <XStack gap={4} alignItems="baseline" accessibilityLabel={`Versicle: ${verse.v.primary}`}>
+            <Text fontFamily="$body" fontSize={13} color="$colorBurgundy" width={18} aria-hidden>
               ℣.
             </Text>
             <YStack flex={1}>
               <BilingualBlock content={verse.v} renderText={(t) => <PrayerText>{t}</PrayerText>} />
             </YStack>
           </XStack>
-          <XStack
-            gap="$xs"
-            alignItems="flex-start"
-            accessibilityLabel={`Response: ${verse.r.primary}`}
-          >
+          <XStack gap={4} alignItems="baseline" accessibilityLabel={`Response: ${verse.r.primary}`}>
             <Text
               fontFamily="$body"
-              fontSize="$2"
+              fontSize={13}
               color="$accent"
               fontWeight="600"
-              width={24}
+              width={18}
               aria-hidden
             >
               ℟.

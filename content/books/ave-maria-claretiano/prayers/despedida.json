@@ -1,6 +1,13 @@
 {
-	"title": { "pt-BR": "Despedida" },
-	"body": {
-		"pt-BR": "Dai-nos a bênção\nÓ Mãe querida,\nNossa Senhora\nAparecida.\n\nSob êste manto\nDo azul do céu\nGuarda-nos sempre\nNo amor de Deus.\n\nTu és a rosa\nDe puro amor,\nSuave aspirando\nCeleste odor.\n\nÉs nossa vida,\nÉs nossa luz,\nÓ Mãe querida\nDo bom Jesus."
-	}
+	"title": {
+		"pt-BR": "Despedida"
+	},
+	"body": [
+		{
+			"type": "prayer",
+			"inline": {
+				"pt-BR": "Dai-nos a bênção\nÓ Mãe querida,\nNossa Senhora\nAparecida.\n\nSob êste manto\nDo azul do céu\nGuarda-nos sempre\nNo amor de Deus.\n\nTu és a rosa\nDe puro amor,\nSuave aspirando\nCeleste odor.\n\nÉs nossa vida,\nÉs nossa luz,\nÓ Mãe querida\nDo bom Jesus."
+			}
+		}
+	]
 }

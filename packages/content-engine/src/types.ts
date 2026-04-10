@@ -37,7 +37,7 @@ export type FlowSection =
   | { type: 'rubric'; text: LocalizedText }
   | { type: 'divider' }
   | { type: 'heading'; text: LocalizedText }
-  | { type: 'image'; src: string; caption?: LocalizedText }
+  | { type: 'image'; src: string; caption?: LocalizedText; attribution?: LocalizedText }
   | { type: 'prayer'; ref: string }
   | { type: 'prayer'; speaker?: 'priest' | 'people' | 'all'; inline: LocalizedContent }
   | { type: 'hymn'; ref: string }
@@ -65,6 +65,23 @@ export type FlowSection =
   | { type: 'cycle'; data: string; key?: string; as: string; sections?: FlowSection[] }
   | { type: 'psalmody'; psalms: (number | string)[] }
   | { type: 'lectio'; track: string }
+  | { type: 'prose'; file: string }
+  | {
+      type: 'gallery'
+      items: {
+        src: string
+        title?: LocalizedText
+        attribution?: LocalizedText
+        caption?: LocalizedText
+      }[]
+    }
+  | {
+      type: 'holy-card'
+      image: string
+      title?: LocalizedText
+      attribution?: LocalizedText
+      prayer?: LocalizedText
+    }
 
 // --- Rendered Sections (engine output, consumed by renderer) ---
 
@@ -72,13 +89,14 @@ export type RenderedSection =
   | { type: 'rubric'; label: BilingualText }
   | { type: 'divider' }
   | { type: 'heading'; text: BilingualText }
-  | { type: 'image'; src: string; caption?: BilingualText }
+  | { type: 'image'; src: string; caption?: BilingualText; attribution?: BilingualText }
   | {
       type: 'prayer'
       title: BilingualText
       text: BilingualText
       count?: number
       speaker?: 'priest' | 'people' | 'all'
+      sections?: RenderedSection[]
     }
   | { type: 'hymn'; title: BilingualText; text: BilingualText }
   | {
@@ -99,6 +117,23 @@ export type RenderedSection =
     }
   | { type: 'psalmody'; psalms: PsalmRef[] }
   | { type: 'reading'; reference: ReadingReference; trackId?: string }
+  | { type: 'prose'; text: BilingualText }
+  | {
+      type: 'gallery'
+      items: {
+        src: string
+        title?: BilingualText
+        attribution?: BilingualText
+        caption?: BilingualText
+      }[]
+    }
+  | {
+      type: 'holy-card'
+      image: string
+      title?: BilingualText
+      attribution?: BilingualText
+      prayer?: BilingualText
+    }
 
 // --- Variant ---
 

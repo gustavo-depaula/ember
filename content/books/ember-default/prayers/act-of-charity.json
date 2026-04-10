@@ -4,9 +4,14 @@
 		"pt-BR": "Ato de Caridade",
 		"la": "Actus Caritatis"
 	},
-	"body": {
-		"en-US": "O my God, I love Thee above all things with my whole heart and soul, because Thou art all-good and worthy of all love. I love my neighbor as myself for the love of Thee. I forgive all who have injured me, and I ask pardon of all whom I have injured. Amen.",
-		"pt-BR": "Meu Deus, amo-Vos sobre todas as coisas com todo o meu coração e toda a minha alma, porque sois infinitamente bom e digno de todo o amor. Amo o meu próximo como a mim mesmo por amor de Vós. Perdoo a todos os que me ofenderam e peço perdão a todos os que ofendi. Amém.",
-		"la": "Domine Deus, amo Te super omnia et proximum meum propter Te, quia Tu es summum bonum ac omni dilectione dignissimum. Ex toto corde amo Te, et propter Te amo proximum meum sicut me ipsum. Amen."
-	}
+	"body": [
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O my God, I love Thee above all things with my whole heart and soul, because Thou art all-good and worthy of all love. I love my neighbor as myself for the love of Thee. I forgive all who have injured me, and I ask pardon of all whom I have injured. Amen.",
+				"pt-BR": "Meu Deus, amo-Vos sobre todas as coisas com todo o meu coração e toda a minha alma, porque sois infinitamente bom e digno de todo o amor. Amo o meu próximo como a mim mesmo por amor de Vós. Perdoo a todos os que me ofenderam e peço perdão a todos os que ofendi. Amém.",
+				"la": "Domine Deus, amo Te super omnia et proximum meum propter Te, quia Tu es summum bonum ac omni dilectione dignissimum. Ex toto corde amo Te, et propter Te amo proximum meum sicut me ipsum. Amen."
+			}
+		}
+	]
 }

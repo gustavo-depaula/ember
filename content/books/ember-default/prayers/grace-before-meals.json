@@ -4,9 +4,14 @@
 		"pt-BR": "Bênção à Mesa",
 		"la": "Benedictio Mensae"
 	},
-	"body": {
-		"en-US": "Bless us, O Lord, and these Thy gifts, which we are about to receive from Thy bounty, through Christ our Lord. Amen.",
-		"pt-BR": "Abençoai-nos, Senhor, e estes vossos dons que vamos receber da Vossa bondade. Por Cristo Nosso Senhor. Amém.",
-		"la": "Benedic, Domine, nos et haec tua dona, quae de tua largitate sumus sumpturi. Per Christum Dominum nostrum. Amen."
-	}
+	"body": [
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Bless us, O Lord, and these Thy gifts, which we are about to receive from Thy bounty, through Christ our Lord. Amen.",
+				"pt-BR": "Abençoai-nos, Senhor, e estes vossos dons que vamos receber da Vossa bondade. Por Cristo Nosso Senhor. Amém.",
+				"la": "Benedic, Domine, nos et haec tua dona, quae de tua largitate sumus sumpturi. Per Christum Dominum nostrum. Amen."
+			}
+		}
+	]
 }
