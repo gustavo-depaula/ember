@@ -1,0 +1,27 @@
+{
+  "id": "total-consecration",
+  "icon": "mary",
+  "name": {
+    "en-US": "Total Consecration to Mary",
+    "pt-BR": "Consagração Total a Maria"
+  },
+  "categories": ["marian", "consecration", "program"],
+  "estimatedMinutes": 15,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "flows": [
+    {
+      "id": "default",
+      "name": {
+        "en-US": "Daily Preparation",
+        "pt-BR": "Preparação Diária"
+      },
+      "file": "flows/default.json"
+    }
+  ],
+  "description": {
+    "en-US": "The 33-day preparation for total consecration to Jesus through Mary, following the method of St. Louis de Montfort.",
+    "pt-BR": "A preparação de 33 dias para a consagração total a Jesus por Maria, segundo o método de São Luís de Montfort."
+  },
+  "tags": ["marian", "montfort", "consecration", "33-day"]
+}
