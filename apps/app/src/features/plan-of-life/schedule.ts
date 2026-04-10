@@ -116,7 +116,7 @@ export function getProgramDay(schedule: Schedule, date: Date): number | undefine
   return day >= 0 && day < schedule.totalDays ? day : undefined
 }
 
-// --- Nth weekday helper ---
+// --- Nth weekday helpers ---
 
 function isNthWeekdayOfMonth(date: Date, n: number, weekday: number): boolean {
   if (date.getDay() !== weekday) return false
@@ -136,4 +136,67 @@ function isNthWeekdayOfMonth(date: Date, n: number, weekday: number): boolean {
   }
 
   return false
+}
+
+function getNthWeekdayDateOfMonth(year: number, month: number, n: number, weekday: number): Date {
+  const firstOfMonth = new Date(year, month, 1)
+  const firstWeekdayOffset = (weekday - firstOfMonth.getDay() + 7) % 7
+  const day = 1 + firstWeekdayOffset + (n - 1) * 7
+  return new Date(year, month, day)
+}
+
+// --- Occurrence-based program helpers ---
+
+function generateOccurrences(
+  schedule: Schedule,
+  start: Date,
+  count: number,
+): Date[] {
+  if (schedule.type !== 'nth-weekday') return []
+
+  const occurrences: Date[] = []
+  let year = start.getFullYear()
+  let month = start.getMonth()
+  const maxMonths = count + 12
+
+  for (let i = 0; i < maxMonths && occurrences.length < count; i++) {
+    const occ = getNthWeekdayDateOfMonth(year, month, schedule.n, schedule.day)
+    if (differenceInCalendarDays(occ, start) >= 0) {
+      occurrences.push(occ)
+    }
+    month++
+    if (month > 11) {
+      month = 0
+      year++
+    }
+  }
+
+  return occurrences
+}
+
+export function getOccurrenceBasedProgramDay(
+  schedule: Schedule,
+  startedAt: string,
+  today: Date,
+  totalOccurrences: number,
+): number | undefined {
+  const start = parseISO(startedAt)
+  const occurrences = generateOccurrences(schedule, start, totalOccurrences)
+
+  if (occurrences.length === 0) return undefined
+
+  // Before first occurrence
+  if (differenceInCalendarDays(today, occurrences[0]) < 0) return undefined
+
+  // Count occurrences strictly before today (occurrences are chronological)
+  let passed = 0
+  for (const occ of occurrences) {
+    if (differenceInCalendarDays(today, occ) <= 0) break
+    passed++
+  }
+
+  // All occurrences have passed — program window ended
+  if (passed >= totalOccurrences) return undefined
+
+  return passed
 }

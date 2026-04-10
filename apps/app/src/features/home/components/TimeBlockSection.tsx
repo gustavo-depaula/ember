@@ -1,4 +1,4 @@
-import { Check } from 'lucide-react-native'
+import { AlertTriangle, Check } from 'lucide-react-native'
 import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
@@ -12,6 +12,7 @@ export function TimeBlockSection({
   label,
   items,
   completedIds,
+  restartNeededIds,
   state,
   completed,
   total,
@@ -22,6 +23,7 @@ export function TimeBlockSection({
   label: string
   items: ChecklistItem[]
   completedIds: Set<string>
+  restartNeededIds?: Set<string>
   state: BlockState
   completed: number
   total: number
@@ -104,6 +106,7 @@ export function TimeBlockSection({
       </Pressable>
       {items.map((item) => {
         const done = completedIds.has(item.id)
+        const needsRestart = restartNeededIds?.has(item.practice_id) ?? false
         return (
           <Pressable
             key={item.id}
@@ -119,24 +122,38 @@ export function TimeBlockSection({
               gap="$md"
               opacity={done ? 0.6 : 1}
               borderLeftWidth={3}
-              borderLeftColor="$accent"
+              borderLeftColor={needsRestart ? '$colorSecondary' : '$accent'}
             >
               <PracticeIcon name={item.icon} size={20} />
-              <Text flex={1} fontFamily="$body" fontSize="$3" color="$color">
-                {item.name}
-              </Text>
-              <AnimatedCheckbox
-                checked={done}
-                onToggle={() => {
-                  lightTap()
-                  onToggle(item, !done)
-                }}
-                accessibilityLabel={
-                  done
-                    ? t('a11y.untogglePractice', { name: item.name })
-                    : t('a11y.togglePractice', { name: item.name })
-                }
-              />
+              <YStack flex={1}>
+                <Text fontFamily="$body" fontSize="$3" color="$color">
+                  {item.name}
+                </Text>
+                {needsRestart && (
+                  <XStack alignItems="center" gap={4}>
+                    <AlertTriangle size={12} color={theme.accent?.val} />
+                    <Text fontFamily="$body" fontSize="$1" color="$accent">
+                      {t('program.restartNeeded')}
+                    </Text>
+                  </XStack>
+                )}
+              </YStack>
+              {needsRestart ? (
+                <AlertTriangle size={18} color={theme.accent?.val} />
+              ) : (
+                <AnimatedCheckbox
+                  checked={done}
+                  onToggle={() => {
+                    lightTap()
+                    onToggle(item, !done)
+                  }}
+                  accessibilityLabel={
+                    done
+                      ? t('a11y.untogglePractice', { name: item.name })
+                      : t('a11y.togglePractice', { name: item.name })
+                  }
+                />
+              )}
             </XStack>
           </Pressable>
         )

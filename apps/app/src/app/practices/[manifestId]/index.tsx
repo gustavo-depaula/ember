@@ -15,6 +15,7 @@ import {
 import { PracticeIcon } from '@/components/PracticeIcon'
 import { getManifest, getManifestIconKey } from '@/content/registry'
 import { createProgramCursor } from '@/db/repositories'
+import { selectEnrollmentSchedule } from '@/features/plan-of-life/program'
 import {
   useCreatePractice,
   useEnableSlotsForPractice,
@@ -76,14 +77,13 @@ export default function CatalogDetailScreen() {
     const { program, id: practiceId } = manifest
     const today = new Date().toISOString().split('T')[0]
     const slotDefaults = manifest.defaults?.slots?.[0]
-    const schedule =
-      program.progressPolicy === 'wait'
-        ? (slotDefaults?.schedule ?? { type: 'daily' as const })
-        : {
-            type: 'fixed-program' as const,
-            totalDays: program.totalDays,
-            startDate: today,
-          }
+    const defaultSchedule = slotDefaults?.schedule ?? { type: 'daily' as const }
+    const schedule = selectEnrollmentSchedule(
+      program.progressPolicy,
+      defaultSchedule,
+      program.totalDays,
+      today,
+    )
     const tier = (slotDefaults?.tier as 'essential' | 'ideal' | 'extra') ?? 'extra'
     createPractice.mutate(
       {
