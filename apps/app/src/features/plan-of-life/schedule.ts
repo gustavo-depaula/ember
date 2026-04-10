@@ -147,11 +147,7 @@ function getNthWeekdayDateOfMonth(year: number, month: number, n: number, weekda
 
 // --- Occurrence-based program helpers ---
 
-function generateOccurrences(
-  schedule: Schedule,
-  start: Date,
-  count: number,
-): Date[] {
+function generateOccurrences(schedule: Schedule, start: Date, count: number): Date[] {
   if (schedule.type !== 'nth-weekday') return []
 
   const occurrences: Date[] = []

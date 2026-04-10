@@ -8,28 +8,20 @@ import { ChevronLeft } from 'lucide-react-native'
 import { useEffect, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
-import { Spinner, Text, useTheme, View, XStack, YStack } from 'tamagui'
+import { Spinner, Text, useTheme, XStack, YStack } from 'tamagui'
 import {
   AnimatedPressable,
   BibleReadingBlock,
-  CanticleBlock,
   CccReadingBlock,
-  CollapsiblePrayer,
   HeaderFlourish,
-  HymnBlock,
-  LiturgicalPrayerBlock,
   ManuscriptFrame,
-  OptionsBlock,
-  OrnamentalRule,
   PageBreakOrnament,
-  PrayerTextBlock,
   ProperSlot,
   type PsalmData,
   PsalmodyBlock,
-  ResponseBlock,
-  RubricLabel,
   ScreenLayout,
 } from '@/components'
+import { SectionBlock } from '@/components/SectionBlock'
 import { createEngineContext } from '@/content/engineContext'
 import {
   getBookIdForPractice,
@@ -464,57 +456,8 @@ function PracticeSectionBlock({
   officeTheme?: boolean
   isFirstReading?: boolean
 }) {
+  // Practice-specific section types
   switch (section.type) {
-    case 'rubric':
-      return <RubricLabel>{section.label.primary}</RubricLabel>
-
-    case 'prayer':
-      if (section.speaker) {
-        return <LiturgicalPrayerBlock speaker={section.speaker} text={section.text} />
-      }
-      if (section.title.primary) {
-        return <CollapsiblePrayer title={section.title} text={section.text} count={section.count} />
-      }
-      return <PrayerTextBlock text={section.text} />
-
-    case 'hymn':
-      return <HymnBlock title={section.title} text={section.text} />
-
-    case 'canticle':
-      return (
-        <CanticleBlock
-          title={section.title}
-          subtitle={section.subtitle}
-          source={section.source}
-          text={section.text}
-        />
-      )
-
-    case 'response':
-      return <ResponseBlock verses={section.verses} />
-
-    case 'heading':
-      return (
-        <Text fontFamily="$heading" fontSize="$4" color="$colorBurgundy" letterSpacing={0.5}>
-          {section.text.primary}
-        </Text>
-      )
-
-    case 'meditation':
-      return (
-        <Text fontFamily="$body" fontSize="$3" fontStyle="italic" color="$color" lineHeight={30}>
-          {section.text.primary}
-        </Text>
-      )
-
-    case 'divider':
-      if (officeTheme) return <OrnamentalRule />
-      return (
-        <YStack alignItems="center" paddingVertical="$sm">
-          <View width="40%" height={0.5} backgroundColor="$accentSubtle" />
-        </YStack>
-      )
-
     case 'psalmody':
       return <PsalmodyBlock psalmData={psalmData} />
 
@@ -547,29 +490,17 @@ function PracticeSectionBlock({
       return block
     }
 
-    case 'subheading':
-      return (
-        <Text
-          fontFamily="$heading"
-          fontSize="$3"
-          color="$colorBurgundy"
-          letterSpacing={0.5}
-          paddingTop="$sm"
-        >
-          {section.text.primary}
-        </Text>
-      )
-
     case 'proper':
       return (
         <ProperSlot slot={section.slot} form={section.form} description={section.description} />
       )
 
-    case 'options':
+    default:
+      // Delegate common section types (rubric, prayer, hymn, canticle, heading, etc.)
       return (
-        <OptionsBlock
-          label={section.label.primary}
-          options={section.options.map((o) => ({ ...o, label: o.label.primary }))}
+        <SectionBlock
+          section={section}
+          officeTheme={officeTheme}
           renderSection={(s, i) => (
             <PracticeSectionBlock
               key={`${s.type}-${i}`}
@@ -582,11 +513,5 @@ function PracticeSectionBlock({
           )}
         />
       )
-
-    case 'image':
-      return null
-
-    default:
-      return null
   }
 }

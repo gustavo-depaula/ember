@@ -1,7 +1,5 @@
 import { describe, expect, it } from 'vitest'
 import type { ProgramConfig } from '@/content/manifest-types'
-import type { Schedule } from './schedule'
-import { getOccurrenceBasedProgramDay } from './schedule'
 import {
   computeAllDayStates,
   computeMissedDays,
@@ -10,6 +8,8 @@ import {
   resolveCalendarDay,
   selectEnrollmentSchedule,
 } from './program'
+import type { Schedule } from './schedule'
+import { getOccurrenceBasedProgramDay } from './schedule'
 
 function date(y: number, m: number, d: number): Date {
   return new Date(y, m - 1, d)
@@ -170,10 +170,30 @@ describe('computeAllDayStates', () => {
     })
     const states = computeAllDayStates(progress)
 
-    expect(states[0]).toEqual({ isMissed: false, isCurrent: false, isCompleted: true, isFuture: false })
-    expect(states[1]).toEqual({ isMissed: false, isCurrent: false, isCompleted: true, isFuture: false })
-    expect(states[2]).toEqual({ isMissed: false, isCurrent: true, isCompleted: false, isFuture: false })
-    expect(states[3]).toEqual({ isMissed: false, isCurrent: false, isCompleted: false, isFuture: true })
+    expect(states[0]).toEqual({
+      isMissed: false,
+      isCurrent: false,
+      isCompleted: true,
+      isFuture: false,
+    })
+    expect(states[1]).toEqual({
+      isMissed: false,
+      isCurrent: false,
+      isCompleted: true,
+      isFuture: false,
+    })
+    expect(states[2]).toEqual({
+      isMissed: false,
+      isCurrent: true,
+      isCompleted: false,
+      isFuture: false,
+    })
+    expect(states[3]).toEqual({
+      isMissed: false,
+      isCurrent: false,
+      isCompleted: false,
+      isFuture: true,
+    })
   })
 
   it('missed 1: completed + missed + future (no current when restart needed)', () => {

@@ -1,8 +1,8 @@
 import { format, subWeeks } from 'date-fns'
 import { useRouter } from 'expo-router'
+import { AlertTriangle } from 'lucide-react-native'
 import { useCallback, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { AlertTriangle } from 'lucide-react-native'
 import { Pressable } from 'react-native'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
@@ -44,6 +44,7 @@ import {
   useToggleSlot,
 } from '@/features/plan-of-life'
 import { useToday } from '@/hooks/useToday'
+import { localizeContent } from '@/lib/i18n'
 import {
   computeEaster,
   getCelebrationsForDate,
@@ -53,7 +54,6 @@ import {
   normalizeDate,
   useObligations,
 } from '@/lib/liturgical'
-import { localizeContent } from '@/lib/i18n'
 import { parseSlotKey } from '@/lib/slotKey'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
