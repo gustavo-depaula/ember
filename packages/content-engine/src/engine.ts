@@ -18,7 +18,7 @@ export type PrayerAsset = {
   title: LocalizedContent
   subtitle?: LocalizedContent
   source?: LocalizedContent
-  body: LocalizedContent
+  body: FlowSection[]
 }
 
 export type EngineContext = {
@@ -143,40 +143,88 @@ function bilingualOf(text: string): BilingualText {
   return { primary: text }
 }
 
-function resolvePrayerRef(ref: string, ec: EngineContext): RenderedSection {
+function resolvePrayerRef(ref: string, context: FlowContext, ec: EngineContext): RenderedSection[] {
   const asset = ec.prayers[ref]
   if (!asset) {
-    return {
+    return [
+      {
+        type: 'prayer',
+        title: bilingualOf(ref),
+        text: bilingualOf(`[Unknown prayer ref: ${ref}]`),
+      },
+    ]
+  }
+  // Legacy format: body was LocalizedContent before migration to FlowSection[]
+  if (!Array.isArray(asset.body)) {
+    return [
+      {
+        type: 'prayer',
+        title: ec.localize(asset.title),
+        text: ec.localize(asset.body as unknown as LocalizedContent),
+      },
+    ]
+  }
+  const resolved = asset.body.flatMap((s) => resolveSection(s, context, ec))
+  // Single inline prayer: attach the asset title for collapsible rendering
+  if (resolved.length === 1 && resolved[0].type === 'prayer') {
+    return [{ ...resolved[0], title: ec.localize(asset.title) }]
+  }
+  // Multi-section prayer: wrap in a prayer section with nested sections
+  return [
+    {
       type: 'prayer',
-      title: bilingualOf(ref),
-      text: bilingualOf(`[Unknown prayer ref: ${ref}]`),
-    }
-  }
-  return {
-    type: 'prayer',
-    title: ec.localize(asset.title),
-    text: ec.localize(asset.body),
-  }
+      title: ec.localize(asset.title),
+      text: bilingualEmpty,
+      sections: resolved,
+    },
+  ]
 }
 
-function resolveCanticleRef(ref: string, ec: EngineContext): RenderedSection {
+function resolveCanticleRef(
+  ref: string,
+  context: FlowContext,
+  ec: EngineContext,
+): RenderedSection[] {
   const asset = ec.canticles[ref]
   if (!asset) {
-    return {
-      type: 'canticle',
-      title: bilingualOf(ref),
-      subtitle: bilingualEmpty,
-      source: bilingualEmpty,
-      text: bilingualOf(`[Unknown canticle ref: ${ref}]`),
-    }
+    return [
+      {
+        type: 'canticle',
+        title: bilingualOf(ref),
+        subtitle: bilingualEmpty,
+        source: bilingualEmpty,
+        text: bilingualOf(`[Unknown canticle ref: ${ref}]`),
+      },
+    ]
   }
-  return {
-    type: 'canticle',
-    title: ec.localize(asset.title),
-    subtitle: asset.subtitle ? ec.localize(asset.subtitle) : bilingualEmpty,
-    source: asset.source ? ec.localize(asset.source) : bilingualEmpty,
-    text: ec.localize(asset.body),
+  // Legacy format: body was LocalizedContent before migration to FlowSection[]
+  if (!Array.isArray(asset.body)) {
+    return [
+      {
+        type: 'canticle',
+        title: ec.localize(asset.title),
+        subtitle: asset.subtitle ? ec.localize(asset.subtitle) : bilingualEmpty,
+        source: asset.source ? ec.localize(asset.source) : bilingualEmpty,
+        text: ec.localize(asset.body as unknown as LocalizedContent),
+      },
+    ]
   }
+  // Canticles with subtitle/source render as a single canticle block
+  // using the first inline prayer's text
+  if (asset.subtitle || asset.source) {
+    const resolved = asset.body.flatMap((s) => resolveSection(s, context, ec))
+    const textSection = resolved.find((s) => s.type === 'prayer')
+    return [
+      {
+        type: 'canticle',
+        title: ec.localize(asset.title),
+        subtitle: asset.subtitle ? ec.localize(asset.subtitle) : bilingualEmpty,
+        source: asset.source ? ec.localize(asset.source) : bilingualEmpty,
+        text: textSection && textSection.type === 'prayer' ? textSection.text : bilingualEmpty,
+      },
+    ]
+  }
+  return asset.body.flatMap((s) => resolveSection(s, context, ec))
 }
 
 function resolveInlinePrayer(
@@ -220,9 +268,11 @@ function resolveRepeat(
     templateSections[0].type === 'prayer' &&
     'ref' in templateSections[0]
   ) {
-    const resolved = resolvePrayerRef(templateSections[0].ref, ec)
-    if (resolved.type === 'prayer') return [{ ...resolved, count: iterCount }]
-    return [resolved]
+    const resolved = resolvePrayerRef(templateSections[0].ref, context, ec)
+    if (resolved.length === 1 && resolved[0].type === 'prayer') {
+      return [{ ...resolved[0], count: iterCount }]
+    }
+    return resolved
   }
 
   const sections = Array.from({ length: iterCount }, (_, i) => {
@@ -307,7 +357,7 @@ function resolveSection(
       ]
 
     case 'prayer':
-      if ('ref' in section) return [resolvePrayerRef(section.ref, ec)]
+      if ('ref' in section) return resolvePrayerRef(section.ref, context, ec)
       if ('inline' in section) return [resolveInlinePrayer(section.inline, ec, section.speaker)]
       return []
 
@@ -333,7 +383,7 @@ function resolveSection(
       return []
 
     case 'canticle':
-      if ('ref' in section) return [resolveCanticleRef(section.ref, ec)]
+      if ('ref' in section) return resolveCanticleRef(section.ref, context, ec)
       if ('inline' in section) {
         return [
           {

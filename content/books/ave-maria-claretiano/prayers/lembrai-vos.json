@@ -1,6 +1,13 @@
 {
-	"title": { "pt-BR": "O \"Lembrai-vos\" de São Bernardo" },
-	"body": {
-		"pt-BR": "Lembrai-vos, ó! piedosíssima Virgem Maria, que nunca se ouviu dizer que algum daqueles que a vós têm recorrido, implorado vossa assistência e invocado o vosso socorro, tenha sido por vós abandonado. Animado de uma tal confiança, eu recorro a vós, e gemendo debaixo do pêso dos meus pecados, me prostro a vossos pés, ó! Virgem das virgens; não desprezeis as minhas súplicas, ó! Mãe do Verbo incarnado, mas ouvi-as favoràvelmente, e dignai-vos atender-me. Amém."
-	}
+	"title": {
+		"pt-BR": "O \"Lembrai-vos\" de São Bernardo"
+	},
+	"body": [
+		{
+			"type": "prayer",
+			"inline": {
+				"pt-BR": "Lembrai-vos, ó! piedosíssima Virgem Maria, que nunca se ouviu dizer que algum daqueles que a vós têm recorrido, implorado vossa assistência e invocado o vosso socorro, tenha sido por vós abandonado. Animado de uma tal confiança, eu recorro a vós, e gemendo debaixo do pêso dos meus pecados, me prostro a vossos pés, ó! Virgem das virgens; não desprezeis as minhas súplicas, ó! Mãe do Verbo incarnado, mas ouvi-as favoràvelmente, e dignai-vos atender-me. Amém."
+			}
+		}
+	]
 }

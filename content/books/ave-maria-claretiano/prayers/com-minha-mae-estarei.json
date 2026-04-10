@@ -1,6 +1,13 @@
 {
-	"title": { "pt-BR": "Com minha Mãe estarei" },
-	"body": {
-		"pt-BR": "Com minha Mãe estarei!\nNa santa glória um dia,\nJunto à Virgem Maria,\nNo céu triunfarei!\n\nCôro:\nNo céu, no céu,\nCom minha Mãe estarei!\n\nCom minha Mãe estarei!\nMas já que hei ofendido\nA seu Jesus querido,\nAs culpas chorarei.\n\nCom minha Mãe estarei!\nÉ a fé viva, ardente,\nCom que firme, valente,\nO mal evitarei.\n\nCom minha Mãe estarei!\nLonge, falsas carícias,\nPrazer, torpes delícias\nSempre vos fugirei.\n\nCom minha Mãe estarei!\nPalavra deliciosa\nQue em hora trabalhosa\nSempre recordarei.\n\nCom minha Mãe estarei!\nÉ Mãe imaculada.\nA alma em culpa manchada\nJamais consentirei.\n\nCom minha Mãe estarei!\nMãe de toda pureza,\nNesta vida inteireza\nFiel lhe guardarei.\n\nCom minha Mãe estarei!\nEm seu coração terno,\nEm seu colo materno,\nSem fim descansarei."
-	}
+	"title": {
+		"pt-BR": "Com minha Mãe estarei"
+	},
+	"body": [
+		{
+			"type": "prayer",
+			"inline": {
+				"pt-BR": "Com minha Mãe estarei!\nNa santa glória um dia,\nJunto à Virgem Maria,\nNo céu triunfarei!\n\nCôro:\nNo céu, no céu,\nCom minha Mãe estarei!\n\nCom minha Mãe estarei!\nMas já que hei ofendido\nA seu Jesus querido,\nAs culpas chorarei.\n\nCom minha Mãe estarei!\nÉ a fé viva, ardente,\nCom que firme, valente,\nO mal evitarei.\n\nCom minha Mãe estarei!\nLonge, falsas carícias,\nPrazer, torpes delícias\nSempre vos fugirei.\n\nCom minha Mãe estarei!\nPalavra deliciosa\nQue em hora trabalhosa\nSempre recordarei.\n\nCom minha Mãe estarei!\nÉ Mãe imaculada.\nA alma em culpa manchada\nJamais consentirei.\n\nCom minha Mãe estarei!\nMãe de toda pureza,\nNesta vida inteireza\nFiel lhe guardarei.\n\nCom minha Mãe estarei!\nEm seu coração terno,\nEm seu colo materno,\nSem fim descansarei."
+			}
+		}
+	]
 }

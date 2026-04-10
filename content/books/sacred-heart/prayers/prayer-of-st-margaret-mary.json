@@ -1,14 +1,19 @@
 {
-  "title": {
-    "en-US": "Prayer of St. Margaret Mary to the Sacred Heart",
-    "pt-BR": "Oração de Santa Margarida Maria ao Sagrado Coração"
-  },
-  "subtitle": {
-    "en-US": "St. Margaret Mary Alacoque",
-    "pt-BR": "Santa Margarida Maria Alacoque"
-  },
-  "body": {
-    "en-US": "O Heart of love, I put all my trust in Thee; for I fear all things from my own weakness, but I hope for all things from Thy goodness. Consume in me all that can be displeasing to Thee or resist Thy holy will. Let Thy pure love imprint itself so deeply in my heart that I shall nevermore be able to forget Thee or to be separated from Thee. May I obtain from all Thy loving kindness the grace of having my name written in Thy Heart, for in Thee I desire to place all my happiness and all my glory. Amen.",
-    "pt-BR": "Ó Coração de amor, deposito em Vós toda a minha confiança; pois tudo temo de minha própria fraqueza, mas tudo espero de Vossa bondade. Consumi em mim tudo o que Vos possa desagradar ou resistir à Vossa santa vontade. Que o Vosso puro amor se imprima tão profundamente no meu coração que eu jamais possa esquecer-Vos ou separar-me de Vós. Que eu obtenha de toda a Vossa amorosa bondade a graça de ter meu nome escrito no Vosso Coração, pois em Vós desejo depositar toda a minha felicidade e toda a minha glória. Amém."
-  }
+	"title": {
+		"en-US": "Prayer of St. Margaret Mary to the Sacred Heart",
+		"pt-BR": "Oração de Santa Margarida Maria ao Sagrado Coração"
+	},
+	"subtitle": {
+		"en-US": "St. Margaret Mary Alacoque",
+		"pt-BR": "Santa Margarida Maria Alacoque"
+	},
+	"body": [
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O Heart of love, I put all my trust in Thee; for I fear all things from my own weakness, but I hope for all things from Thy goodness. Consume in me all that can be displeasing to Thee or resist Thy holy will. Let Thy pure love imprint itself so deeply in my heart that I shall nevermore be able to forget Thee or to be separated from Thee. May I obtain from all Thy loving kindness the grace of having my name written in Thy Heart, for in Thee I desire to place all my happiness and all my glory. Amen.",
+				"pt-BR": "Ó Coração de amor, deposito em Vós toda a minha confiança; pois tudo temo de minha própria fraqueza, mas tudo espero de Vossa bondade. Consumi em mim tudo o que Vos possa desagradar ou resistir à Vossa santa vontade. Que o Vosso puro amor se imprima tão profundamente no meu coração que eu jamais possa esquecer-Vos ou separar-me de Vós. Que eu obtenha de toda a Vossa amorosa bondade a graça de ter meu nome escrito no Vosso Coração, pois em Vós desejo depositar toda a minha felicidade e toda a minha glória. Amém."
+			}
+		}
+	]
 }

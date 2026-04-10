@@ -1,6 +1,13 @@
 {
-	"title": { "pt-BR": "Vamos todos ao Sacrário" },
-	"body": {
-		"pt-BR": "Côro:\nVamos todos ao Sacrário,\nQue Jesus chorando está!\nMas, ao ver tantas crianças\nBem contente ficará!\n\nEstrelinhas lá do céu\nBaixai tôdas a adorar\nA Jesus Sacramentado\nQue está oculto neste altar.\n\nNão chores, Jesus, não chores,\nQue nos vais fazer chorar!\nAs crianças cá da terra\nSó te querem consolar.\n\nInocentinhos que somos,\nVimos aqui adorar!\nNão queremos que Jesus\nFique sòzinho no altar!\n\nSoldados, inda pequenos,\nDa divina Eucaristia,\nDaremos o sangue e a vida\nPor Jesus e por Maria!"
-	}
+	"title": {
+		"pt-BR": "Vamos todos ao Sacrário"
+	},
+	"body": [
+		{
+			"type": "prayer",
+			"inline": {
+				"pt-BR": "Côro:\nVamos todos ao Sacrário,\nQue Jesus chorando está!\nMas, ao ver tantas crianças\nBem contente ficará!\n\nEstrelinhas lá do céu\nBaixai tôdas a adorar\nA Jesus Sacramentado\nQue está oculto neste altar.\n\nNão chores, Jesus, não chores,\nQue nos vais fazer chorar!\nAs crianças cá da terra\nSó te querem consolar.\n\nInocentinhos que somos,\nVimos aqui adorar!\nNão queremos que Jesus\nFique sòzinho no altar!\n\nSoldados, inda pequenos,\nDa divina Eucaristia,\nDaremos o sangue e a vida\nPor Jesus e por Maria!"
+			}
+		}
+	]
 }

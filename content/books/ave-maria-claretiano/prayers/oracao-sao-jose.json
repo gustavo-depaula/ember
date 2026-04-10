@@ -1,6 +1,13 @@
 {
-	"title": { "pt-BR": "Oração a São José" },
-	"body": {
-		"pt-BR": "Ó glorioso São José, a bondade de vosso coração é sem limites e inefável; generosamente abrem-se as vossas mãos, ó nosso amado Pai, aos dons preciosíssimos da graça celestial, da qual sois o tesoureiro. Ah! que nem um só de vossos servos possa dizer que vos invocou em vão.\nQue todos venham, que todos se apresentem ante vosso trono e invoquem vossa intercessão, a fim de viverem e morrerem santamente, a vosso exemplo, nos braços de Jesus e de Maria Santíssima. Amém.\n\nÓ São José, modêlo e padroeiro dos devotos do Santíssimo Coração de Jesus, rogai por nós."
-	}
+	"title": {
+		"pt-BR": "Oração a São José"
+	},
+	"body": [
+		{
+			"type": "prayer",
+			"inline": {
+				"pt-BR": "Ó glorioso São José, a bondade de vosso coração é sem limites e inefável; generosamente abrem-se as vossas mãos, ó nosso amado Pai, aos dons preciosíssimos da graça celestial, da qual sois o tesoureiro. Ah! que nem um só de vossos servos possa dizer que vos invocou em vão.\nQue todos venham, que todos se apresentem ante vosso trono e invoquem vossa intercessão, a fim de viverem e morrerem santamente, a vosso exemplo, nos braços de Jesus e de Maria Santíssima. Amém.\n\nÓ São José, modêlo e padroeiro dos devotos do Santíssimo Coração de Jesus, rogai por nós."
+			}
+		}
+	]
 }

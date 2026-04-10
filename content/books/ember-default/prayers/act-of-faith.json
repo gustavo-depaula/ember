@@ -4,9 +4,14 @@
 		"pt-BR": "Ato de Fé",
 		"la": "Actus Fidei"
 	},
-	"body": {
-		"en-US": "O my God, I firmly believe that Thou art one God in three Divine Persons, Father, Son, and Holy Ghost. I believe that Thy Divine Son became man, and died for our sins, and that He will come to judge the living and the dead. I believe these and all the truths which the Holy Catholic Church teaches, because Thou hast revealed them, who canst neither deceive nor be deceived. Amen.",
-		"pt-BR": "Meu Deus, creio firmemente em todas as verdades que a Santa Igreja Católica nos propõe para crer, porque Vós, ó Deus, as revelastes, sendo a Verdade Suma, que não pode enganar nem ser enganada. Creio particularmente que sois um só Deus em três Pessoas igualmente distintas, o Pai, o Filho e o Espírito Santo. Creio que o Filho de Deus se fez homem e que morreu e ressuscitou para nossa redenção. Amém.",
-		"la": "Domine Deus, firma fide credo et confiteor omnia et singula quae sancta Ecclesia Catholica proponit, quia Tu, Deus, ea omnia revelasti, qui es aeterna veritas et sapientia quae nec fallere nec falli potest. Amen."
-	}
+	"body": [
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O my God, I firmly believe that Thou art one God in three Divine Persons, Father, Son, and Holy Ghost. I believe that Thy Divine Son became man, and died for our sins, and that He will come to judge the living and the dead. I believe these and all the truths which the Holy Catholic Church teaches, because Thou hast revealed them, who canst neither deceive nor be deceived. Amen.",
+				"pt-BR": "Meu Deus, creio firmemente em todas as verdades que a Santa Igreja Católica nos propõe para crer, porque Vós, ó Deus, as revelastes, sendo a Verdade Suma, que não pode enganar nem ser enganada. Creio particularmente que sois um só Deus em três Pessoas igualmente distintas, o Pai, o Filho e o Espírito Santo. Creio que o Filho de Deus se fez homem e que morreu e ressuscitou para nossa redenção. Amém.",
+				"la": "Domine Deus, firma fide credo et confiteor omnia et singula quae sancta Ecclesia Catholica proponit, quia Tu, Deus, ea omnia revelasti, qui es aeterna veritas et sapientia quae nec fallere nec falli potest. Amen."
+			}
+		}
+	]
 }
