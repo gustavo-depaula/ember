@@ -1,6 +1,13 @@
 {
-	"title": { "pt-BR": "Nossa Senhora Aparecida" },
-	"body": {
-		"pt-BR": "Côro:\nGraças vos damos, Senhora,\nVirgem por Deus escolhida\nPara Mãe do Redentor,\nÓ Senhora Aparecida!\n\nGlorifiquemos Maria,\nMãe de Deus, Autor da vida,\nLouvemos com alegria\nA Senhora Aparecida!\n\nSi quisermos ser felizes\nNesta e na outra vida,\nSejamos sempre devotos\nDa Senhora Aparecida!\n\nE na hora derradeira,\nAo sairmos desta vida,\nIntercedei a Deus por nós,\nÓ Senhora Aparecida!"
-	}
+	"title": {
+		"pt-BR": "Nossa Senhora Aparecida"
+	},
+	"body": [
+		{
+			"type": "prayer",
+			"inline": {
+				"pt-BR": "Côro:\nGraças vos damos, Senhora,\nVirgem por Deus escolhida\nPara Mãe do Redentor,\nÓ Senhora Aparecida!\n\nGlorifiquemos Maria,\nMãe de Deus, Autor da vida,\nLouvemos com alegria\nA Senhora Aparecida!\n\nSi quisermos ser felizes\nNesta e na outra vida,\nSejamos sempre devotos\nDa Senhora Aparecida!\n\nE na hora derradeira,\nAo sairmos desta vida,\nIntercedei a Deus por nós,\nÓ Senhora Aparecida!"
+			}
+		}
+	]
 }

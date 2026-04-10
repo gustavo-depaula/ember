@@ -4,8 +4,13 @@
 		"pt-BR": "Pai Eterno",
 		"la": "Pater Æterne"
 	},
-	"body": {
-		"en-US": "Eternal Father, I offer You the Body and Blood, Soul and Divinity of Your dearly beloved Son, Our Lord Jesus Christ, in atonement for our sins and those of the whole world.",
-		"pt-BR": "Eterno Pai, eu Vos ofereço o Corpo e Sangue, Alma e Divindade de Vosso diletíssimo Filho, Nosso Senhor Jesus Cristo, em expiação dos nossos pecados e dos do mundo inteiro."
-	}
+	"body": [
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Eternal Father, I offer You the Body and Blood, Soul and Divinity of Your dearly beloved Son, Our Lord Jesus Christ, in atonement for our sins and those of the whole world.",
+				"pt-BR": "Eterno Pai, eu Vos ofereço o Corpo e Sangue, Alma e Divindade de Vosso diletíssimo Filho, Nosso Senhor Jesus Cristo, em expiação dos nossos pecados e dos do mundo inteiro."
+			}
+		}
+	]
 }

@@ -1,6 +1,13 @@
 {
-	"title": { "pt-BR": "Pelos Moribundos" },
-	"body": {
-		"pt-BR": "Ó! clementíssimo Jesus, que vos abrasais de amor pelas almas, eu vos suplico pela agonia do vosso Sacratíssimo Coração e pelas dores de vossa Mãe Imaculada, que purifiqueis em vosso Sangue os pecadores de todo o mundo que agora estão em agonia e hoje mesmo têm de morrer. Amém.\nCoração agonizante de Jesus, tende piedade dos moribundos."
-	}
+	"title": {
+		"pt-BR": "Pelos Moribundos"
+	},
+	"body": [
+		{
+			"type": "prayer",
+			"inline": {
+				"pt-BR": "Ó! clementíssimo Jesus, que vos abrasais de amor pelas almas, eu vos suplico pela agonia do vosso Sacratíssimo Coração e pelas dores de vossa Mãe Imaculada, que purifiqueis em vosso Sangue os pecadores de todo o mundo que agora estão em agonia e hoje mesmo têm de morrer. Amém.\nCoração agonizante de Jesus, tende piedade dos moribundos."
+			}
+		}
+	]
 }

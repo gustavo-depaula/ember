@@ -4,9 +4,14 @@
 		"pt-BR": "Versículo de Abertura",
 		"la": "Deus in Adiutórium"
 	},
-	"body": {
-		"en-US": "O God, come to my assistance.\nO Lord, make haste to help me.\nGlory be to the Father, and to the Son, and to the Holy Spirit.\nAs it was in the beginning, is now, and ever shall be, world without end. Amen.\nAlleluia.",
-		"pt-BR": "Ó Deus, vinde em meu auxílio.\nSenhor, socorrei-me e apressai-vos.\nGlória ao Pai, e ao Filho, e ao Espírito Santo.\nAssim como era no princípio, agora e sempre, e pelos séculos dos séculos. Amém.\nAleluia.",
-		"la": "Deus, in adiutórium meum inténde.\nDómine, ad adiuvándum me festína.\nGlória Patri, et Fílio, et Spirítui Sancto.\nSicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.\nAllelúia."
-	}
+	"body": [
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O God, come to my assistance.\nO Lord, make haste to help me.\nGlory be to the Father, and to the Son, and to the Holy Spirit.\nAs it was in the beginning, is now, and ever shall be, world without end. Amen.\nAlleluia.",
+				"pt-BR": "Ó Deus, vinde em meu auxílio.\nSenhor, socorrei-me e apressai-vos.\nGlória ao Pai, e ao Filho, e ao Espírito Santo.\nAssim como era no princípio, agora e sempre, e pelos séculos dos séculos. Amém.\nAleluia.",
+				"la": "Deus, in adiutórium meum inténde.\nDómine, ad adiuvándum me festína.\nGlória Patri, et Fílio, et Spirítui Sancto.\nSicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.\nAllelúia."
+			}
+		}
+	]
 }

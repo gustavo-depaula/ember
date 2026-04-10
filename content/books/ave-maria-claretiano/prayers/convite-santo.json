@@ -1,6 +1,13 @@
 {
-	"title": { "pt-BR": "Convite Santo" },
-	"body": {
-		"pt-BR": "Vinde, pais, e vinde, mães,\nVinde todos à missão,\nP'rá cuidar como cristãos\nDe alcançar a salvação.\n\nPor lavar as nossas culpas,\nMorreu Cristo numa cruz;\nVinde, pais, e vinde, mães,\nQuem vos chama é o bom Jesus.\n\nOuvi, pais, nosso pedido,\nOuvi, mães, nosso bradar:\nPois uma alma temos todos,\nE o que importa é de a salvar.\n\nPecador, agora é tempo\nDe contrição e de temor;\nServe a Deus, despreza o mundo,\nJá não sejas pecador.\n\nPassam meses, passam anos\nSem que busques teu Senhor,\nDe um dia para o outro\nAssim morre o pecador.\n\nMisericórdia vos pedimos,\nMisericórdia, Redentor,\nPela Virgem Mãe das Dores\nPerdoai, ó Deus de amor."
-	}
+	"title": {
+		"pt-BR": "Convite Santo"
+	},
+	"body": [
+		{
+			"type": "prayer",
+			"inline": {
+				"pt-BR": "Vinde, pais, e vinde, mães,\nVinde todos à missão,\nP'rá cuidar como cristãos\nDe alcançar a salvação.\n\nPor lavar as nossas culpas,\nMorreu Cristo numa cruz;\nVinde, pais, e vinde, mães,\nQuem vos chama é o bom Jesus.\n\nOuvi, pais, nosso pedido,\nOuvi, mães, nosso bradar:\nPois uma alma temos todos,\nE o que importa é de a salvar.\n\nPecador, agora é tempo\nDe contrição e de temor;\nServe a Deus, despreza o mundo,\nJá não sejas pecador.\n\nPassam meses, passam anos\nSem que busques teu Senhor,\nDe um dia para o outro\nAssim morre o pecador.\n\nMisericórdia vos pedimos,\nMisericórdia, Redentor,\nPela Virgem Mãe das Dores\nPerdoai, ó Deus de amor."
+			}
+		}
+	]
 }

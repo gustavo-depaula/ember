@@ -1,6 +1,13 @@
 {
-	"title": { "pt-BR": "Mandamentos da Lei de Deus" },
-	"body": {
-		"pt-BR": "Se ao céu tu queres ir\nA receber a palma,\nDeves de corpo e alma\nA lei de Deus cumprir.\n\nCôro:\nAo céu, ao céu quero ir.\n\nSe ao céu tu queres ir,\nAdora, reverente,\nA Deus, e exatamente,\nNão cesses de o servir.\n\nSe ao céu tu queres ir,\nNunca praguejará​s,\nNem falso jurarás,\nDeves votos cumprir.\n\nSe ao céu tu queres ir,\nNão trabalhes nas festas,\nE a santa missa, nestas,\nInteira tens de ouvir.\n\nSe ao céu tu queres ir,\nTeus pais deves amar,\nObedecer e honrar,\nE os deves assistir.\n\nSe ao céu tu queres ir,\nTeus filhos e criados\nTerás bem governados,\nE os deves assistir.\n\nSe ao céu tu queres ir,\nNão te podes vingar,\nNem odiar ou matar,\nNem bater ou ferir.\n\nSe ao céu tu queres ir,\nConserva a castidade:\nAo impuro eternidade\nDe fogo há-de punir.\n\nSe ao céu tu queres ir,\nNão podes roubar nada;\nSe tens coisa roubada,\nDeves restituir.\n\nSe ao céu tu queres ir,\nEvita o caluniar,\nDetrair e julgar,\nDesonrar e mentir.\n\nSe ao céu tu queres ir,\nDesejos de impureza,\nCom mui grande presteza\nTu deves repelir."
-	}
+	"title": {
+		"pt-BR": "Mandamentos da Lei de Deus"
+	},
+	"body": [
+		{
+			"type": "prayer",
+			"inline": {
+				"pt-BR": "Se ao céu tu queres ir\nA receber a palma,\nDeves de corpo e alma\nA lei de Deus cumprir.\n\nCôro:\nAo céu, ao céu quero ir.\n\nSe ao céu tu queres ir,\nAdora, reverente,\nA Deus, e exatamente,\nNão cesses de o servir.\n\nSe ao céu tu queres ir,\nNunca praguejará​s,\nNem falso jurarás,\nDeves votos cumprir.\n\nSe ao céu tu queres ir,\nNão trabalhes nas festas,\nE a santa missa, nestas,\nInteira tens de ouvir.\n\nSe ao céu tu queres ir,\nTeus pais deves amar,\nObedecer e honrar,\nE os deves assistir.\n\nSe ao céu tu queres ir,\nTeus filhos e criados\nTerás bem governados,\nE os deves assistir.\n\nSe ao céu tu queres ir,\nNão te podes vingar,\nNem odiar ou matar,\nNem bater ou ferir.\n\nSe ao céu tu queres ir,\nConserva a castidade:\nAo impuro eternidade\nDe fogo há-de punir.\n\nSe ao céu tu queres ir,\nNão podes roubar nada;\nSe tens coisa roubada,\nDeves restituir.\n\nSe ao céu tu queres ir,\nEvita o caluniar,\nDetrair e julgar,\nDesonrar e mentir.\n\nSe ao céu tu queres ir,\nDesejos de impureza,\nCom mui grande presteza\nTu deves repelir."
+			}
+		}
+	]
 }

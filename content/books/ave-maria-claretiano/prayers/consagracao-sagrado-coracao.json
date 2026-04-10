@@ -1,6 +1,13 @@
 {
-	"title": { "pt-BR": "Consagração ao Sagrado Coração de Jesus" },
-	"body": {
-		"pt-BR": "Meu amabilíssimo Jesus, para vos mostrar minha gratidão e oferecer-vos alguma satisfação pelas minhas culpas, eu vos ofereço o meu coração e me consagro inteiramente a vós, e proponho, ajudado de vossa divina graça, nunca mais pecar. Amém."
-	}
+	"title": {
+		"pt-BR": "Consagração ao Sagrado Coração de Jesus"
+	},
+	"body": [
+		{
+			"type": "prayer",
+			"inline": {
+				"pt-BR": "Meu amabilíssimo Jesus, para vos mostrar minha gratidão e oferecer-vos alguma satisfação pelas minhas culpas, eu vos ofereço o meu coração e me consagro inteiramente a vós, e proponho, ajudado de vossa divina graça, nunca mais pecar. Amém."
+			}
+		}
+	]
 }

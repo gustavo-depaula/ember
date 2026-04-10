@@ -1,6 +1,13 @@
 {
-	"title": { "pt-BR": "Pela conversão dos Pecadores" },
-	"body": {
-		"pt-BR": "Senhor Jesus, clementíssimo Salvador do mundo, súplices vos rogamos por vosso Sacratíssimo Coração. Fazei que tôdas as ovelhas errantes agora se convertam a vós, Pastor de nossas almas, vós que viveis e reinais com Deus Pai na unidade do Espírito Santo, Deus por todos os séculos dos séculos. Amém."
-	}
+	"title": {
+		"pt-BR": "Pela conversão dos Pecadores"
+	},
+	"body": [
+		{
+			"type": "prayer",
+			"inline": {
+				"pt-BR": "Senhor Jesus, clementíssimo Salvador do mundo, súplices vos rogamos por vosso Sacratíssimo Coração. Fazei que tôdas as ovelhas errantes agora se convertam a vós, Pastor de nossas almas, vós que viveis e reinais com Deus Pai na unidade do Espírito Santo, Deus por todos os séculos dos séculos. Amém."
+			}
+		}
+	]
 }
