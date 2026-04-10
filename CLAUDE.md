@@ -93,7 +93,9 @@ Work is organized into **independent tracks** on GitHub — each track advances 
 
 ## Git
 
-- Never add `Co-Authored-By` lines to commit messages
+- Never add Claude as co-author on commits or issues unless explicitly asked
+- When committing, ONLY include files directly related to the current task. Never commit unrelated or staged files.
+- If working on a GitHub issue, use commit message text that auto-closes the issue on push (e.g. `Fixes #123`).
 
 ## Monorepo Structure
 
@@ -129,3 +131,11 @@ pnpm test:watch          # test watch mode
 - DB queries encapsulated in `apps/app/src/db/repositories/` (office.ts, practices.ts)
 - Bible text: Douay-Rheims fetched from Hearth on demand (cached in SQLite), Bolls.life API for other translations
 - 30-day DWDO psalter cycle (see `docs/features/features-overview.md` for the full table)
+
+## UI/UX Guidelines
+
+- When the user describes a UI/UX change, ask clarifying questions about the exact visual/interaction model BEFORE writing any code. Do not assume overlay/modal patterns — the user often prefers sliding/gesture-driven layouts.
+
+## Project Context
+
+- Currently this is a personal/solo project — do NOT add database migrations for schema changes unless explicitly asked. The user is the only user and prefers lightweight changes.

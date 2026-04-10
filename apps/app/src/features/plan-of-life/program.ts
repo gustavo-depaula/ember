@@ -1,10 +1,6 @@
 import type { ProgramConfig } from '@/content/manifest-types'
 
-import {
-  type Schedule,
-  getOccurrenceBasedProgramDay,
-  getProgramDay,
-} from './schedule'
+import { getOccurrenceBasedProgramDay, getProgramDay, type Schedule } from './schedule'
 
 // --- Types ---
 
