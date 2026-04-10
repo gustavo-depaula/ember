@@ -127,15 +127,17 @@ Light and dark modes use separate liturgical accent values — dark mode accents
 
 ### Scale
 
-| Element | Size | Line Height |
-|---------|------|-------------|
-| Display title (PrayerFlow) | 36px | 42px |
-| Screen title | 28px | 34px |
-| Section heading | 22px | 29px |
-| Body text | 17px | 27px |
-| Prayer text | 19px | 36px (extra generous for prayerful reading) |
-| Caption / metadata | 14px | 20px |
-| Small label | 12px | 16px |
+EB Garamond has a smaller x-height (~65-70%) than system fonts like SF Pro (~78-80%), so sizes are bumped to compensate for perceived size. Line height ratios target 1.4+ for comfortable serif reading.
+
+| Element | Token | Size | Line Height | LH Ratio |
+|---------|-------|------|-------------|----------|
+| Display title (PrayerFlow) | display `$5` | 36px | 42px | 1.17 |
+| Screen title | display `$4` | 28px | 34px | 1.21 |
+| Section heading | heading `$4` | 22px | 29px | 1.32 |
+| Body text | body `$3` | 19px | 27px | 1.42 |
+| Prayer text | reading scale | 22px default | user-configurable | — |
+| Labels / secondary text | body `$2` | 16px | 23px | 1.44 |
+| Caption / metadata | body `$1` | 14px | 20px | 1.43 |
 
 ---
 

@@ -59,7 +59,7 @@ export function PracticeChecklist({
                 )}
               </YStack>
               {readOnly ? (
-                <Text fontSize={14} fontFamily="$body" color={done ? '$accent' : '$colorSecondary'}>
+                <Text fontSize="$2" fontFamily="$body" color={done ? '$accent' : '$colorSecondary'}>
                   {done ? '✓' : '–'}
                 </Text>
               ) : (

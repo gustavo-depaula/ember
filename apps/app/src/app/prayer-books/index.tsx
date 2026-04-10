@@ -45,7 +45,7 @@ function BookCard({
           <Text fontFamily="$heading" fontSize="$3" color="$color">
             {name}
           </Text>
-          <Text fontFamily="$body" fontSize={11} color="$colorSecondary">
+          <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
             {subtitle}
           </Text>
         </YStack>

@@ -16,7 +16,7 @@ export function LanguageBadge({ code }: { code: string }) {
       borderWidth={1}
       borderColor="$borderColor"
     >
-      <Text fontFamily="$heading" fontSize={12} color="$accent">
+      <Text fontFamily="$heading" fontSize="$1" color="$accent">
         {code}
       </Text>
     </View>

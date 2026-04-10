@@ -79,7 +79,7 @@ export function ImageViewer({
 
             {images.length > 1 && (
               <View style={[styles.pageCounter, { top: insets.top + 18 }]}>
-                <Text fontFamily="$body" fontSize={13} color="rgba(245,240,224,0.6)">
+                <Text fontFamily="$body" fontSize="$1" color="rgba(245,240,224,0.6)">
                   {activeIndex + 1} / {images.length}
                 </Text>
               </View>
@@ -136,7 +136,7 @@ export function ImageViewer({
                 {activeImage.attribution && (
                   <Text
                     fontFamily="$body"
-                    fontSize={11}
+                    fontSize="$1"
                     color="rgba(245,240,224,0.5)"
                     textAlign="center"
                     marginTop={4}

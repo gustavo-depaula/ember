@@ -76,7 +76,7 @@ export function SectionBlock({
 
     case 'meditation':
       return (
-        <Text fontFamily="$body" fontSize="$3" fontStyle="italic" color="$color" lineHeight={30}>
+        <Text fontFamily="$body" fontSize="$3" fontStyle="italic" color="$color">
           {section.text.primary}
         </Text>
       )

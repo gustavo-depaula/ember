@@ -49,7 +49,7 @@ export function ImageBlock({
         </Text>
       )}
       {attribution && (
-        <Text fontFamily="$body" fontSize={11} color="$colorMuted" textAlign="center">
+        <Text fontFamily="$body" fontSize="$1" color="$colorMuted" textAlign="center">
           {attribution.primary}
         </Text>
       )}

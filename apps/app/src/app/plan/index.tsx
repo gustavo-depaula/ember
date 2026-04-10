@@ -151,7 +151,7 @@ export default function PlanScreen() {
       <YStack gap="$lg" paddingVertical="$lg">
         <YStack alignItems="center" gap="$xs">
           <HeaderFlourish />
-          <Text fontFamily="$display" fontSize={28} lineHeight={34} color="$color">
+          <Text fontFamily="$display" fontSize="$4" color="$color">
             {t('plan.title')}
           </Text>
         </YStack>
@@ -277,13 +277,13 @@ export default function PlanScreen() {
                       {restartNeededIds.has(group.practiceId) ? (
                         <XStack alignItems="center" gap={4}>
                           <AlertTriangle size={12} color={theme.accent.val} />
-                          <Text fontFamily="$body" fontSize={11} color="$accent">
+                          <Text fontFamily="$body" fontSize="$1" color="$accent">
                             {t('program.restartNeeded')}
                           </Text>
                         </XStack>
                       ) : (
                         group.slotCount > 1 && (
-                          <Text fontFamily="$body" fontSize={11} color="$colorSecondary">
+                          <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
                             {group.slotCount} slots
                           </Text>
                         )
