@@ -18,13 +18,10 @@
 		"oracao-santa-missa",
 		"para-confissao",
 		"preparacao-comunhao",
-		"primeira-comunhao",
 		"modo-rezar-rosario",
-		"ladainha-nossa-senhora",
 		"via-sacra"
 	],
 	"prayers": [
-		"doutrina-crista",
 		"as-ave-marias",
 		"pela-conversao-pecadores",
 		"pelos-moribundos",
@@ -35,7 +32,7 @@
 		"consagracao-maria",
 		"oracao-sao-jose",
 		"santo-anjo-guarda",
-		"salva-tua-alma",
+		"ladainha-nossa-senhora",
 		"queremos-deus",
 		"louvando-a-maria",
 		"mandamentos-lei-deus",
@@ -47,6 +44,23 @@
 		"contricao-bons-propositos",
 		"ao-coracao-de-maria",
 		"com-minha-mae-estarei"
+	],
+	"chapters": [
+		"doutrina-crista",
+		"primeira-comunhao",
+		"salva-tua-alma"
+	],
+	"contents": [
+		{ "type": "chapter", "id": "doutrina-crista" },
+		{ "type": "practice", "id": "oracao-da-manha" },
+		{ "type": "practice", "id": "oracao-da-noite" },
+		{ "type": "practice", "id": "oracao-santa-missa" },
+		{ "type": "practice", "id": "para-confissao" },
+		{ "type": "practice", "id": "preparacao-comunhao" },
+		{ "type": "chapter", "id": "primeira-comunhao" },
+		{ "type": "practice", "id": "modo-rezar-rosario" },
+		{ "type": "practice", "id": "via-sacra" },
+		{ "type": "chapter", "id": "salva-tua-alma" }
 	],
 	"dependencies": ["ember-default"],
 	"defaults": {

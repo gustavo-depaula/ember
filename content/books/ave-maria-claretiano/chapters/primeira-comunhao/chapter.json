@@ -1,0 +1,11 @@
+{
+	"id": "primeira-comunhao",
+	"title": {
+		"pt-BR": "Exercício para a primeira Comunhão"
+	},
+	"subtitle": {
+		"pt-BR": "Exercícios para o dia da primeira Comunhão dos meninos"
+	},
+	"estimatedMinutes": 10,
+	"tags": ["sacrament", "communion", "children"]
+}
