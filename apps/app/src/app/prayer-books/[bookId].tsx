@@ -2,7 +2,7 @@
 import type { BilingualText, LocalizedText } from '@ember/content-engine'
 import { resolveFlow } from '@ember/content-engine'
 import { useLocalSearchParams, useRouter } from 'expo-router'
-import { BookOpen, ChevronLeft, Download, Trash2 } from 'lucide-react-native'
+import { Book, BookOpen, ChevronLeft, Download, Trash2 } from 'lucide-react-native'
 import { useCallback, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Alert, Pressable, ScrollView, View } from 'react-native'
@@ -13,9 +13,14 @@ import { ManuscriptFrame } from '@/components/ManuscriptFrame'
 import { PracticeIcon } from '@/components/PracticeIcon'
 import { SectionBlock } from '@/components/SectionBlock'
 import { createEngineContext } from '@/content/engineContext'
-import { getAllChapterManifestsForBook, getManifest, resolvePrayer } from '@/content/registry'
+import {
+  getAllChapterManifestsForBook,
+  getAllEpubEntriesForBook,
+  getManifest,
+  resolvePrayer,
+} from '@/content/registry'
 import type { PrayerBook } from '@/content/sources/filesystem'
-import type { PracticePreview, PrayerPreview } from '@/features/books/bookManager'
+import type { EpubPreview, PracticePreview, PrayerPreview } from '@/features/books/bookManager'
 import {
   useAvailableBooks,
   useDownloadBook,
@@ -76,6 +81,18 @@ export default function BookDetailScreen() {
     return registryEntry?.chapters ?? []
   }, [book, registryEntry])
 
+  const epubList: EpubPreview[] = useMemo(() => {
+    if (book) {
+      return getAllEpubEntriesForBook(book.id).map((e) => ({
+        id: e.id,
+        name: e.name,
+        author: e.author,
+        image: e.image,
+      }))
+    }
+    return registryEntry?.epubs ?? []
+  }, [book, registryEntry])
+
   const name = book
     ? localizeContent(book.name)
     : registryEntry
@@ -103,6 +120,18 @@ export default function BookDetailScreen() {
     opacity: overlayOpacity.value,
     pointerEvents: overlayOpacity.value > 0 ? ('auto' as const) : ('none' as const),
   }))
+
+  const handleEpubTap = useCallback(
+    (epubId: string) => {
+      router.push({
+        // biome-ignore lint/suspicious/noExplicitAny: expo-router untyped route
+        pathname: '/prayer-books/epub/[epubId]' as any,
+        // biome-ignore lint/style/noNonNullAssertion: guarded by early return
+        params: { epubId, bookId: bookId! },
+      })
+    },
+    [router, bookId],
+  )
 
   const openPrayer = useCallback(
     (id: string) => {
@@ -190,7 +219,7 @@ export default function BookDetailScreen() {
               <Text fontFamily="$heading" fontSize="$5" color="$color">
                 {name}
               </Text>
-              <Text fontFamily="$body" fontSize={11} color="$colorSecondary">
+              <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
                 {practiceList.length} {t('prayerBooks.practices').toLowerCase()} · v{version}
               </Text>
             </YStack>
@@ -279,6 +308,55 @@ export default function BookDetailScreen() {
             </>
           )}
 
+          {epubList.length > 0 && (
+            <>
+              <Text fontFamily="$heading" fontSize="$3" color="$color">
+                {t('prayerBooks.books')}
+              </Text>
+
+              <YStack gap="$xs">
+                {epubList.map((epub) => (
+                  <AnimatedPressable
+                    key={epub.id}
+                    onPress={isInstalled ? () => handleEpubTap(epub.id) : undefined}
+                    disabled={!isInstalled}
+                  >
+                    <XStack
+                      backgroundColor="$backgroundSurface"
+                      borderRadius="$md"
+                      padding="$sm"
+                      paddingHorizontal="$md"
+                      gap="$md"
+                      alignItems="center"
+                      borderWidth={1}
+                      borderColor="$borderColor"
+                      opacity={isInstalled ? 1 : 0.7}
+                    >
+                      <Book size={22} color={theme.accent.val} />
+                      <YStack flex={1}>
+                        <Text fontFamily="$body" fontSize="$2" color="$color">
+                          {localizeContent(epub.name)}
+                        </Text>
+                        {epub.author && (
+                          <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
+                            {localizeContent(epub.author)}
+                          </Text>
+                        )}
+                      </YStack>
+                      {isInstalled && (
+                        <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
+                          ›
+                        </Text>
+                      )}
+                    </XStack>
+                  </AnimatedPressable>
+                ))}
+              </YStack>
+
+              <SectionDivider />
+            </>
+          )}
+
           <Text fontFamily="$heading" fontSize="$3" color="$color">
             {t('prayerBooks.practices')}
           </Text>
@@ -312,7 +390,7 @@ export default function BookDetailScreen() {
                       {localizeContent(practice.name)}
                     </Text>
                     {inPlan && (
-                      <Text fontFamily="$body" fontSize={11} color="$accent">
+                      <Text fontFamily="$body" fontSize="$1" color="$accent">
                         {t('catalog.alreadyInPlan')}
                       </Text>
                     )}
