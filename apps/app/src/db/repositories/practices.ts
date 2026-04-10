@@ -99,16 +99,50 @@ export async function deletePractice(practiceId: string): Promise<void> {
   })
 }
 
+// --- Archive ---
+
+export async function archivePractice(practiceId: string): Promise<void> {
+  const db = getDb()
+  await db.withTransactionAsync(async () => {
+    await db.runAsync('UPDATE user_practices SET archived = 1 WHERE practice_id = ?', [practiceId])
+    await db.runAsync('UPDATE user_practice_slots SET enabled = 0 WHERE practice_id = ?', [
+      practiceId,
+    ])
+  })
+}
+
+export async function unarchivePractice(practiceId: string): Promise<void> {
+  const db = getDb()
+  await db.withTransactionAsync(async () => {
+    await db.runAsync('UPDATE user_practices SET archived = 0 WHERE practice_id = ?', [practiceId])
+    await db.runAsync('UPDATE user_practice_slots SET enabled = 1 WHERE practice_id = ?', [
+      practiceId,
+    ])
+  })
+}
+
+export async function getArchivedPractices(): Promise<
+  (UserPractice & { slot_id: string | null })[]
+> {
+  return getDb().getAllAsync(
+    `SELECT p.*, s.slot_id
+     FROM user_practices p
+     LEFT JOIN user_practice_slots s ON s.practice_id = p.practice_id
+       AND s.id = (SELECT id FROM user_practice_slots WHERE practice_id = p.practice_id ORDER BY sort_order LIMIT 1)
+     WHERE p.archived = 1`,
+  )
+}
+
 // --- Slots ---
 
 const slotJoinQuery = `
-  SELECT s.*, p.custom_name, p.custom_icon, p.custom_desc
+  SELECT s.*, p.custom_name, p.custom_icon, p.custom_desc, p.archived
   FROM user_practice_slots s
   LEFT JOIN user_practices p ON s.practice_id = p.practice_id`
 
 export function getEnabledSlots(): Promise<UserPracticeSlot[]> {
   return getDb().getAllAsync<UserPracticeSlot>(
-    `${slotJoinQuery} WHERE s.enabled = 1 ORDER BY s.sort_order`,
+    `${slotJoinQuery} WHERE s.enabled = 1 AND p.archived = 0 ORDER BY s.sort_order`,
   )
 }
 

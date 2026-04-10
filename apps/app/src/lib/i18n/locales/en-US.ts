@@ -184,6 +184,12 @@ export default {
     addCustom: 'Add Custom Practice',
     disabled: 'Disabled',
     noPractices: 'No {{tier}} practices',
+    archive: 'Archive',
+    unarchive: 'Restore to Plan',
+    archived: 'Archived',
+    archiveConfirm:
+      'Archive this practice? It will be hidden from your daily plan. Your completion history is preserved.',
+    archivedCount: 'Archived ({{count}})',
   },
 
   editor: {
@@ -490,6 +496,7 @@ export default {
     downloading: 'Installing...',
     import: 'Import .pray file',
     importDesc: 'Open a prayer book from your device',
+    contents: 'Contents',
     practices: 'Practices',
     prayers: 'Prayers',
     remove: 'Remove from device',

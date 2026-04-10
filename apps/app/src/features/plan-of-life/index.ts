@@ -3,6 +3,8 @@ export { enrichSlot, getPracticeIconKey, getSlotName } from './getPracticeName'
 export {
   useAddSlot,
   useAllSlots,
+  useArchivePractice,
+  useArchivedPractices,
   useChangeSlotFlow,
   useCompletionRange,
   useCompletionsForDate,
@@ -16,12 +18,14 @@ export {
   usePractice,
   usePracticeCompletionStats,
   useProgramProgress,
+  useRestartNeededPractices,
   useRemoveCompletion,
   useReorderSlots,
   useRestartProgram,
   useSlots,
   useSlotsForPractice,
   useToggleSlot,
+  useUnarchivePractice,
   useUpdatePractice,
   useUpdateSlot,
 } from './hooks'

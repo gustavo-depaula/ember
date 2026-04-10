@@ -1,9 +1,17 @@
 import { format, subWeeks } from 'date-fns'
 import { useRouter } from 'expo-router'
-import { BookOpen, Library } from 'lucide-react-native'
-import { useMemo } from 'react'
+import { BookOpen, ChevronRight, Library } from 'lucide-react-native'
+import { useCallback, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { Pressable, View } from 'react-native'
+import { View } from 'react-native'
+import Animated, {
+  FadeIn,
+  FadeOut,
+  LinearTransition,
+  useAnimatedStyle,
+  useSharedValue,
+  withSpring,
+} from 'react-native-reanimated'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
 import {
@@ -14,18 +22,21 @@ import {
   SectionDivider,
 } from '@/components'
 import { PracticeIcon } from '@/components/PracticeIcon'
+import { calmSpring } from '@/config/animation'
 import { getManifest } from '@/content/registry'
-import type { Tier, UserPracticeSlot } from '@/db/schema'
+import type { Tier, UserPractice, UserPracticeSlot } from '@/db/schema'
 import {
   buildTieredWallData,
   type DayCompletion,
   getCompletionRate,
   getCurrentStreak,
   getPracticeIconKey,
+  useArchivedPractices,
   useCompletionRange,
   useSlots,
 } from '@/features/plan-of-life'
 import { TierBadge } from '@/features/plan-of-life/components/TierBadge'
+import { lightTap } from '@/lib/haptics'
 import { localizeContent } from '@/lib/i18n'
 
 type PracticeGroup = {
@@ -38,19 +49,17 @@ type PracticeGroup = {
 }
 
 function getPracticeDisplayName(
-  slots: UserPracticeSlot[],
+  practice: { practice_id: string; custom_name: string | null },
   t: ReturnType<typeof useTranslation>['t'],
 ): string {
-  const first = slots[0]
-  if (!first) return ''
-  const manifest = getManifest(first.practice_id)
+  const manifest = getManifest(practice.practice_id)
   if (manifest) {
-    const key = `practice.${first.practice_id}`
+    const key = `practice.${practice.practice_id}`
     const translated = t(key)
     if (translated !== key) return translated
     return localizeContent(manifest.name)
   }
-  return first.custom_name ?? first.practice_id
+  return practice.custom_name ?? practice.practice_id
 }
 
 export default function PlanScreen() {
@@ -100,7 +109,7 @@ export default function PlanScreen() {
       const first = practiceSlots[0]
       groups.push({
         practiceId,
-        name: getPracticeDisplayName(practiceSlots, t),
+        name: getPracticeDisplayName(first, t),
         icon: getPracticeIconKey(first),
         tier: first.tier,
         slotCount: practiceSlots.length,
@@ -120,6 +129,20 @@ export default function PlanScreen() {
   }, [practiceGroups])
 
   const tierSections: Tier[] = ['essential', 'ideal', 'extra']
+
+  const { data: archivedPractices = [] } = useArchivedPractices()
+  const [archivedExpanded, setArchivedExpanded] = useState(false)
+  const chevronRotation = useSharedValue(0)
+  const chevronStyle = useAnimatedStyle(() => ({
+    transform: [{ rotate: `${chevronRotation.value}deg` }],
+  }))
+
+  const handleToggleArchived = useCallback(() => {
+    lightTap()
+    const next = !archivedExpanded
+    chevronRotation.value = withSpring(next ? 90 : 0, calmSpring)
+    setArchivedExpanded(next)
+  }, [archivedExpanded, chevronRotation])
 
   return (
     <ScreenLayout>
@@ -233,7 +256,7 @@ export default function PlanScreen() {
               </XStack>
 
               {practices.map((group) => (
-                <Pressable
+                <AnimatedPressable
                   key={group.practiceId}
                   onPress={() => router.push(`/plan/${group.practiceId}`)}
                 >
@@ -259,11 +282,68 @@ export default function PlanScreen() {
                       ›
                     </Text>
                   </XStack>
-                </Pressable>
+                </AnimatedPressable>
               ))}
             </YStack>
           )
         })}
+
+        {archivedPractices.length > 0 && (
+          <>
+            <SectionDivider />
+            <Animated.View layout={LinearTransition.duration(250)}>
+              <YStack gap="$sm">
+                <AnimatedPressable onPress={handleToggleArchived}>
+                  <XStack alignItems="center" gap="$sm" paddingHorizontal="$xs">
+                    <Animated.View style={chevronStyle}>
+                      <ChevronRight size={16} color={theme.colorSecondary.val} />
+                    </Animated.View>
+                    <Text fontFamily="$heading" fontSize="$3" color="$colorSecondary">
+                      {t('plan.archivedCount', { count: archivedPractices.length })}
+                    </Text>
+                  </XStack>
+                </AnimatedPressable>
+
+                {archivedExpanded &&
+                  archivedPractices.map(
+                    (p: UserPractice & { slot_id: string | null }, index: number) => {
+                      const name = getPracticeDisplayName(p, t)
+                      const iconKey = p.slot_id ?? 'default'
+
+                      return (
+                        <Animated.View
+                          key={p.practice_id}
+                          entering={FadeIn.duration(200).delay(index * 50)}
+                          exiting={FadeOut.duration(150)}
+                        >
+                          <AnimatedPressable
+                            onPress={() => router.push(`/plan/${p.practice_id}`)}
+                          >
+                            <XStack
+                              backgroundColor="$backgroundSurface"
+                              borderRadius="$lg"
+                              padding="$md"
+                              alignItems="center"
+                              gap="$md"
+                              opacity={0.5}
+                            >
+                              <PracticeIcon name={iconKey} size={20} />
+                              <Text flex={1} fontFamily="$body" fontSize="$3" color="$color">
+                                {name}
+                              </Text>
+                              <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
+                                ›
+                              </Text>
+                            </XStack>
+                          </AnimatedPressable>
+                        </Animated.View>
+                      )
+                    },
+                  )}
+              </YStack>
+            </Animated.View>
+          </>
+        )}
       </YStack>
     </ScreenLayout>
   )

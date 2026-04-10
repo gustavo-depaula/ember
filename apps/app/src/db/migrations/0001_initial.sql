@@ -6,7 +6,8 @@ CREATE TABLE IF NOT EXISTS user_practices (
   practice_id  TEXT PRIMARY KEY NOT NULL,
   custom_name  TEXT,
   custom_icon  TEXT,
-  custom_desc  TEXT
+  custom_desc  TEXT,
+  archived     INTEGER NOT NULL DEFAULT 0
 );
 
 -- user_practice_slots: one row per checklistable item
