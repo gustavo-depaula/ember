@@ -7,6 +7,7 @@ type ProseNode =
   | { type: 'paragraph'; children: InlineNode[] }
   | { type: 'heading'; level: number; text: string }
   | { type: 'blockquote'; children: InlineNode[] }
+  | { type: 'list'; ordered: boolean; items: InlineNode[][] }
 
 type InlineNode =
   | { type: 'text'; text: string }
@@ -38,10 +39,12 @@ function parseInline(text: string): InlineNode[] {
   return nodes.length > 0 ? nodes : [{ type: 'text', text }]
 }
 
-function parseMarkdown(markdown: string): ProseNode[] {
+export function parseMarkdown(markdown: string): ProseNode[] {
   const lines = markdown.split('\n')
   const nodes: ProseNode[] = []
   let paragraph: string[] = []
+  let listItems: InlineNode[][] = []
+  let listOrdered = false
 
   function flushParagraph() {
     if (paragraph.length > 0) {
@@ -51,31 +54,62 @@ function parseMarkdown(markdown: string): ProseNode[] {
     }
   }
 
+  function flushList() {
+    if (listItems.length > 0) {
+      nodes.push({ type: 'list', ordered: listOrdered, items: listItems })
+      listItems = []
+      listOrdered = false
+    }
+  }
+
   for (const line of lines) {
     const trimmed = line.trim()
 
     if (trimmed === '') {
       flushParagraph()
+      flushList()
       continue
     }
 
     const headingMatch = trimmed.match(/^(#{1,3})\s+(.+)$/)
     if (headingMatch) {
       flushParagraph()
+      flushList()
       nodes.push({ type: 'heading', level: headingMatch[1].length, text: headingMatch[2] })
       continue
     }
 
     if (trimmed.startsWith('> ')) {
       flushParagraph()
+      flushList()
       nodes.push({ type: 'blockquote', children: parseInline(trimmed.slice(2)) })
       continue
     }
 
+    const unorderedMatch = trimmed.match(/^[-*+]\s+(.+)$/)
+    if (unorderedMatch) {
+      flushParagraph()
+      if (listItems.length > 0 && listOrdered) flushList()
+      listOrdered = false
+      listItems.push(parseInline(unorderedMatch[1]))
+      continue
+    }
+
+    const orderedMatch = trimmed.match(/^\d+\.[°ª]?\s+(.+)$/)
+    if (orderedMatch) {
+      flushParagraph()
+      if (listItems.length > 0 && !listOrdered) flushList()
+      listOrdered = true
+      listItems.push(parseInline(orderedMatch[1]))
+      continue
+    }
+
+    flushList()
     paragraph.push(trimmed)
   }
 
   flushParagraph()
+  flushList()
   return nodes
 }
 
@@ -149,6 +183,17 @@ export function ProseBlock({ text }: { text: BilingualText }) {
                 >
                   <InlineText nodes={node.children} />
                 </Text>
+              </YStack>
+            )
+          case 'list':
+            return (
+              <YStack key={i} gap="$xs" paddingLeft="$md">
+                {node.items.map((item, j) => (
+                  <Text key={j} fontFamily="$body" fontSize="$3" color="$color" lineHeight={28}>
+                    {node.ordered ? `${j + 1}. ` : '\u2022 '}
+                    <InlineText nodes={item} />
+                  </Text>
+                ))}
               </YStack>
             )
           default:
