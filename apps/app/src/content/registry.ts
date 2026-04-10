@@ -1,6 +1,6 @@
 import { localizeContent } from '@/lib/i18n'
 import type { ChapterManifest, PracticeManifest } from './manifest-types'
-import type { ContentSource, PrayerAsset } from './sources/filesystem'
+import type { ContentSource, EpubEntry, PrayerAsset } from './sources/filesystem'
 import type { CycleData, FlowDefinition, LectioTrackDef, LocalizedContent, Variant } from './types'
 
 const sources: ContentSource[] = []
@@ -166,4 +166,20 @@ export function loadChapterContent(chapterId: string, bookId: string): FlowDefin
 
 export function getProseText(filePath: string, bookId: string): LocalizedContent | undefined {
   return bookIdToSource.get(bookId)?.getProseText(filePath)
+}
+
+export function getEpubEntry(epubId: string, bookId: string): EpubEntry | undefined {
+  return bookIdToSource.get(bookId)?.getEpubEntry(epubId)
+}
+
+export function getAllEpubEntriesForBook(bookId: string): EpubEntry[] {
+  return bookIdToSource.get(bookId)?.getAllEpubEntries() ?? []
+}
+
+export function getEpubFilePath(epubId: string, lang: string, bookId: string): string | undefined {
+  const source = bookIdToSource.get(bookId)
+  if (!source) return undefined
+  const entry = source.getEpubEntry(epubId)
+  if (!entry) return undefined
+  return `${source.bookDirUri}epubs/${epubId}/${epubId}.${lang}.epub`
 }

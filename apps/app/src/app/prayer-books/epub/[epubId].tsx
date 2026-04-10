@@ -112,9 +112,16 @@ export default function EpubReaderScreen() {
     staleTime: Number.POSITIVE_INFINITY,
   })
 
+  // Ref tracks current chapter so the shell picks it up on language switch.
+  // shellHtml only recomputes when epubContent or isDark changes (not on chapter nav).
+  // key={lang} on the WebView forces a remount on language change.
+  const chapterForShellRef = useRef<string | undefined>(undefined)
+  if (currentChapterId) chapterForShellRef.current = currentChapterId
+
   const shellHtml = useMemo(() => {
-    if (!epubContent || !initialChapterId) return undefined
-    return buildReaderShell(epubContent, initialChapterId, isDark)
+    const chapterId = chapterForShellRef.current ?? initialChapterId
+    if (!epubContent || !chapterId) return undefined
+    return buildReaderShell(epubContent, chapterId, isDark)
   }, [epubContent, isDark, initialChapterId])
 
   const currentIndex = useMemo(
@@ -237,7 +244,7 @@ export default function EpubReaderScreen() {
 
       <YStack flex={1} backgroundColor={isDark ? '#0E0D0C' : '#FAF6F0'}>
         {shellHtml ? (
-          <EpubWebView ref={webViewRef} html={shellHtml} onMessage={handleMessage} />
+          <EpubWebView key={lang} ref={webViewRef} html={shellHtml} onMessage={handleMessage} />
         ) : (
           <YStack flex={1} justifyContent="center" alignItems="center">
             <Text fontFamily="$body" color="$colorSecondary">

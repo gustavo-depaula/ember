@@ -17,6 +17,23 @@ export type PrayerAsset = {
   source?: LocalizedText
 }
 
+export type TocNode = {
+  id: string
+  title: LocalizedText
+  children?: TocNode[]
+}
+
+export type EpubEntry = {
+  id: string
+  name: LocalizedText
+  author?: LocalizedText
+  description?: LocalizedText
+  composed?: number | string
+  languages: string[]
+  image?: string
+  toc?: TocNode[]
+}
+
 export type PrayerBook = {
   id: string
   version: string
@@ -32,11 +49,13 @@ export type PrayerBook = {
   dependencies?: string[]
   defaults?: { autoSeed: boolean }
   chapters?: string[]
-  contents?: { type: 'chapter' | 'practice'; id: string }[]
+  epubs?: string[]
+  contents?: { type: 'chapter' | 'practice' | 'epub'; id: string }[]
 }
 
 export type ContentSource = {
   bookId: string
+  bookDirUri: string
   book: PrayerBook
   getManifest(practiceId: string): PracticeManifest | undefined
   getAllManifests(): PracticeManifest[]
@@ -51,6 +70,8 @@ export type ContentSource = {
   getAllChapterManifests(): ChapterManifest[]
   loadChapterContent(id: string): FlowDefinition | undefined
   getProseText(filePath: string): LocalizedContent | undefined
+  getEpubEntry(id: string): EpubEntry | undefined
+  getAllEpubEntries(): EpubEntry[]
 }
 
 const canticleRefs = new Set(['benedictus', 'magnificat', 'nunc-dimittis'])
@@ -256,6 +277,19 @@ export async function createFileSystemSource(bookDirUri: string): Promise<Conten
     }),
   )
 
+  const epubEntries: Record<string, EpubEntry> = {}
+  if (book.epubs?.length) {
+    await Promise.all(
+      book.epubs.map(async (epubId) => {
+        const entry = await readJson<EpubEntry>(`${bookDirUri}epubs/${epubId}/epub.json`)
+        if (entry) epubEntries[epubId] = entry
+      }),
+    )
+  }
+  const allEpubEntries = (book.epubs ?? [])
+    .map((id) => epubEntries[id])
+    .filter((e): e is EpubEntry => e !== undefined)
+
   const allManifests = book.practices
     .map((id) => manifests[id])
     .filter((m): m is PracticeManifest => m !== undefined)
@@ -266,6 +300,7 @@ export async function createFileSystemSource(bookDirUri: string): Promise<Conten
 
   return {
     bookId: book.id,
+    bookDirUri,
     book,
     getManifest: (id) => manifests[id],
     getAllManifests: () => allManifests,
@@ -280,5 +315,7 @@ export async function createFileSystemSource(bookDirUri: string): Promise<Conten
     getAllChapterManifests: () => allChapterManifests,
     loadChapterContent: (id) => chapterFlows.get(id),
     getProseText: (filePath) => proseTexts.get(filePath),
+    getEpubEntry: (id) => epubEntries[id],
+    getAllEpubEntries: () => allEpubEntries,
   }
 }

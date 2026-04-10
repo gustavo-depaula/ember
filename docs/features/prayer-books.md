@@ -47,6 +47,11 @@ my-book.pray (zip)
 │       └── sections/
 │           ├── bio.en-US.md
 │           └── bio.pt-BR.md
+├── epubs/                      # Embedded EPUB books (optional)
+│   └── my-book-title/
+│       ├── epub.json           #   EPUB metadata (name, author, toc, languages)
+│       ├── my-book-title.en-US.epub  # Built EPUB (one per language)
+│       └── my-book-title.pt-BR.epub
 └── practices/                  # Practice directories (unchanged format)
     ├── morning-offering/
     │   ├── manifest.json       #   Standard PracticeManifest
@@ -58,6 +63,8 @@ my-book.pray (zip)
             ├── station-01.jpg
             └── station-02.jpg
 ```
+
+EPUBs allow a `.pray` package to bundle full prose books alongside prayers and practices — e.g., a Montfort Spirituality package with *True Devotion to Mary* (EPUB) plus the 33-day Consecration practice and prayers. XHTML sources live in the repo at `content/books/{bookId}/epubs/{epubId}/{lang}/` but are **not shipped** in the `.pray` — only the built `.epub` files and `epub.json` metadata are included. The `build-books.sh` script generates EPUBs from XHTML sources at build time.
 
 **Why `.pray`?**
 - Custom extension lets the OS associate it with Ember
@@ -87,7 +94,8 @@ type PrayerBook = {
   tags?: string[]               // Searchable tags (e.g. ["marian", "devotion"])
   dependencies?: string[]       // Book IDs this book depends on (for prayer asset resolution)
   chapters?: string[]           // Ordered chapter IDs (matches directory names in chapters/)
-  contents?: { type: 'chapter' | 'practice'; id: string }[]  // Unified table of contents
+  epubs?: string[]              // Ordered EPUB IDs (matches directory names in epubs/)
+  contents?: { type: 'chapter' | 'practice' | 'epub'; id: string }[]  // Unified table of contents
 
   defaults?: {
     autoSeed: boolean           // If true, seed practices into plan of life on install
