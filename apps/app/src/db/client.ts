@@ -55,9 +55,5 @@ export async function resetDatabase() {
   const booksDir = new Directory(Paths.document, 'books/')
   if (booksDir.exists) booksDir.delete()
 
-  // Re-create database with fresh schema so the app reloads cleanly
-  _db = await openDatabaseAsync('ember.db')
-  await _db.execAsync(initialMigration)
-
   await reloadAppAsync('Database reset')
 }
