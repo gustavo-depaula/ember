@@ -508,6 +508,11 @@ export default {
     removeConfirm: 'Remover devocionário?',
     removeConfirmDesc:
       'As práticas deste livro serão removidas do seu plano de vida. Você pode reinstalar a qualquer momento.',
+    books: 'Livros',
+    tableOfContents: 'Sumário',
+    previousChapter: 'Anterior',
+    nextChapter: 'Próximo',
+    chapterNotFound: 'Capítulo não encontrado.',
   },
 
   catalog: {
