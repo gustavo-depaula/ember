@@ -203,7 +203,7 @@ export default function PlanScreen() {
 
         <XStack gap="$md" justifyContent="center">
           <View style={{ flex: 1 }}>
-            <AnimatedPressable onPress={() => router.push('/prayer-books' as any)}>
+            <AnimatedPressable onPress={() => router.push('/prayer-books')}>
               <YStack
                 alignItems="center"
                 justifyContent="center"
@@ -222,7 +222,7 @@ export default function PlanScreen() {
             </AnimatedPressable>
           </View>
           <View style={{ flex: 1 }}>
-            <AnimatedPressable onPress={() => router.push('/practices' as any)}>
+            <AnimatedPressable onPress={() => router.push('/practices')}>
               <YStack
                 alignItems="center"
                 justifyContent="center"

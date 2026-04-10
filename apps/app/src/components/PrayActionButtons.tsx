@@ -13,7 +13,7 @@ export function PrayButton({ practiceId }: { practiceId: string }) {
 
   return (
     <AnimatedPressable
-      onPress={() => router.push(`/pray/${practiceId}` as any)}
+      onPress={() => router.push({ pathname: '/pray/[practiceId]', params: { practiceId } })}
       accessibilityRole="button"
       accessibilityLabel={t('practice.pray')}
     >
@@ -50,7 +50,9 @@ export function FlowButtons({
       {primaryFlows.map((flow) => (
         <AnimatedPressable
           key={flow.id}
-          onPress={() => router.push(`/pray/${practiceId}?flow=${flow.id}` as any)}
+          onPress={() =>
+            router.push({ pathname: '/pray/[practiceId]', params: { practiceId, flow: flow.id } })
+          }
           accessibilityRole="button"
           accessibilityLabel={localizeContent(flow.name)}
         >

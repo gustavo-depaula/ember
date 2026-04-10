@@ -62,7 +62,7 @@ export function CelebrationOfDay({ date }: { date: Date }) {
   const others = celebrations.filter((c) => c !== principal).slice(0, 3)
 
   return (
-    <AnimatedPressable onPress={() => router.push('/calendar' as any)}>
+    <AnimatedPressable onPress={() => router.push('/calendar')}>
       <YStack gap="$sm" paddingHorizontal="$md">
         <Text fontFamily="$heading" fontSize="$1" color="$accent" letterSpacing={1}>
           {t('home.celebrationOfDay')}

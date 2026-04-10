@@ -84,7 +84,7 @@ export default function PracticeDetailScreen() {
     return { streak: currentStreak, longest, total: totalDays, rate }
   }, [practiceStats])
 
-  if (!firstSlot) {
+  if (!practiceId || !firstSlot) {
     return (
       <ScreenLayout>
         <YStack flex={1} alignItems="center" justifyContent="center">
@@ -112,7 +112,14 @@ export default function PracticeDetailScreen() {
         </XStack>
 
         {isProgram && practiceId ? (
-          <AnimatedPressable onPress={() => router.push(`/practices/${practiceId}/program` as any)}>
+          <AnimatedPressable
+            onPress={() =>
+              router.push({
+                pathname: '/practices/[manifestId]/program',
+                params: { manifestId: practiceId },
+              })
+            }
+          >
             <YStack
               backgroundColor="$accent"
               borderRadius="$md"
@@ -129,9 +136,9 @@ export default function PracticeDetailScreen() {
               </Text>
             </YStack>
           </AnimatedPressable>
-        ) : hasFlow && practiceId && (manifest?.flows?.length ?? 0) > 1 ? (
+        ) : hasFlow && practiceId && manifest && (manifest.flows?.length ?? 0) > 1 ? (
           <YStack gap="$sm">
-            <FlowButtons practiceId={practiceId} flows={manifest!.flows} />
+            <FlowButtons practiceId={practiceId} flows={manifest.flows ?? []} />
           </YStack>
         ) : hasFlow && practiceId ? (
           <PrayButton practiceId={practiceId} />
@@ -168,11 +175,11 @@ export default function PracticeDetailScreen() {
 
         <SlotConfigurator
           slots={slots}
-          practiceId={practiceId!}
+          practiceId={practiceId}
           onUpdateSlot={(slotId, data) => updateSlot.mutate({ id: slotId, data })}
           onAddSlot={(flowId) =>
             addSlot.mutate({
-              practiceId: practiceId!,
+              practiceId: practiceId,
               data: { tier: firstSlot.tier, slotId: flowId },
             })
           }
@@ -196,7 +203,7 @@ export default function PracticeDetailScreen() {
                 return (
                   <TrackPicker
                     key={trackName}
-                    practiceId={practiceId!}
+                    practiceId={practiceId}
                     trackDef={def}
                     trackState={{ track: trackName, current_index: position.index ?? 0 }}
                   />
@@ -216,7 +223,7 @@ export default function PracticeDetailScreen() {
         {isArchived ? (
           <>
             <SectionDivider />
-            <AnimatedPressable onPress={() => unarchivePractice.mutate(practiceId!)}>
+            <AnimatedPressable onPress={() => unarchivePractice.mutate(practiceId)}>
               <YStack
                 borderWidth={1}
                 borderColor="$accent"
@@ -241,7 +248,7 @@ export default function PracticeDetailScreen() {
                     text: t('plan.archive'),
                     style: 'destructive',
                     onPress: () => {
-                      archivePractice.mutate(practiceId!)
+                      archivePractice.mutate(practiceId)
                       router.back()
                     },
                   },

@@ -121,7 +121,8 @@ function readDoFile(path: string): string | undefined {
 const sectionsCache = new Map<string, { sections: ParsedSections; baseRef?: string }>()
 
 function loadSections(path: string): ParsedSections | undefined {
-  if (sectionsCache.has(path)) return sectionsCache.get(path)!.sections
+  const cached = sectionsCache.get(path)
+  if (cached) return cached.sections
   const content = readDoFile(path)
   if (!content) return undefined
   const result = parseSections(content)
@@ -132,7 +133,8 @@ function loadSections(path: string): ParsedSections | undefined {
 function loadSectionsWithBase(
   path: string,
 ): { sections: ParsedSections; baseRef?: string } | undefined {
-  if (sectionsCache.has(path)) return sectionsCache.get(path)
+  const cached = sectionsCache.get(path)
+  if (cached) return cached
   const content = readDoFile(path)
   if (!content) return undefined
   const result = parseSections(content)
@@ -145,7 +147,7 @@ function loadSectionsWithBase(
 const prayerCache = new Map<string, ParsedSections>()
 
 function loadPrayers(lang: LangKey): ParsedSections {
-  if (prayerCache.has(lang)) return prayerCache.get(lang)!
+  if (prayerCache.has(lang)) return prayerCache.get(lang) as ParsedSections
   const path = join(missaRoot, lang, 'Ordo', 'Prayers.txt')
   const result = loadSections(path) ?? new Map()
   prayerCache.set(lang, result)
@@ -203,13 +205,13 @@ function resolveReference(
   let filePath: string
   if (filePart.startsWith('Commune/')) {
     // Commune files live in horas/, not missa/
-    filePath = join(horasRoot, lang, filePart + '.txt')
+    filePath = join(horasRoot, lang, `${filePart}.txt`)
     if (!existsSync(filePath)) {
       // Fallback: try missa commune
-      filePath = join(missaRoot, lang, filePart + '.txt')
+      filePath = join(missaRoot, lang, `${filePart}.txt`)
     }
   } else {
-    filePath = join(missaRoot, lang, filePart + '.txt')
+    filePath = join(missaRoot, lang, `${filePart}.txt`)
   }
 
   const sections = loadSections(filePath)
@@ -371,7 +373,7 @@ function processLines(
 const prefatioCache = new Map<string, ParsedSections>()
 
 function loadPrefationes(lang: LangKey): ParsedSections {
-  if (prefatioCache.has(lang)) return prefatioCache.get(lang)!
+  if (prefatioCache.has(lang)) return prefatioCache.get(lang) as ParsedSections
   const path = join(missaRoot, lang, 'Ordo', 'Prefationes.txt')
   const sections = loadSections(path) ?? new Map()
   prefatioCache.set(lang, sections)
@@ -405,9 +407,9 @@ type ProperFile = Record<string, ProperSection>
 // For 1962 Missal (rubrica 1960), prefer the `r` variant when it exists.
 // e.g., Quad6-4r.txt has the full Holy Thursday Mass; Quad6-4.txt is a stub.
 function resolveFilePath(fileId: string, lang: LangKey, category: 'Tempora' | 'Sancti'): string {
-  const rPath = join(missaRoot, lang, category, fileId + 'r.txt')
+  const rPath = join(missaRoot, lang, category, `${fileId}r.txt`)
   if (existsSync(rPath)) return rPath
-  return join(missaRoot, lang, category, fileId + '.txt')
+  return join(missaRoot, lang, category, `${fileId}.txt`)
 }
 
 function collectSections(
@@ -456,7 +458,7 @@ function processFile(fileId: string, category: 'Tempora' | 'Sancti'): ProperFile
       // Fallback: look for named variant (e.g., "Oratio Petri" when "Oratio" is missing)
       if (!lines) {
         for (const [key, val] of sections) {
-          if (key.startsWith(sectionName + ' ') && !/Commemoratio/.test(key)) {
+          if (key.startsWith(`${sectionName} `) && !/Commemoratio/.test(key)) {
             lines = val
             break
           }
@@ -547,7 +549,7 @@ function main() {
   for (const id of temporaIds) {
     const proper = processFile(id, 'Tempora')
     if (proper) {
-      writeFileSync(join(temporaDir, id + '.json'), JSON.stringify(proper) + '\n')
+      writeFileSync(join(temporaDir, `${id}.json`), `${JSON.stringify(proper)}\n`)
       temporaCount++
     } else {
       skipped++
@@ -560,7 +562,7 @@ function main() {
   for (const id of sanctiIds) {
     const proper = processFile(id, 'Sancti')
     if (proper) {
-      writeFileSync(join(sanctiDir, id + '.json'), JSON.stringify(proper) + '\n')
+      writeFileSync(join(sanctiDir, `${id}.json`), `${JSON.stringify(proper)}\n`)
       sanctiCount++
     } else {
       skipped++

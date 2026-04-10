@@ -96,15 +96,15 @@ export default function HomeScreen() {
     (practiceId: string, slotId: string) => {
       const manifest = getManifest(practiceId)
       if (!manifest) {
-        router.push(`/plan/${practiceId}` as any)
+        router.push({ pathname: '/plan/[practiceId]', params: { practiceId } })
         return
       }
       if (manifest.flows.length > 1 && slotId !== 'default') {
-        router.push(`/pray/${practiceId}?flow=${slotId}` as any)
+        router.push({ pathname: '/pray/[practiceId]', params: { practiceId, flow: slotId } })
       } else if (manifest.flows.length > 1) {
-        router.push(`/plan/${practiceId}` as any)
+        router.push({ pathname: '/plan/[practiceId]', params: { practiceId } })
       } else {
-        router.push(`/pray/${practiceId}` as any)
+        router.push({ pathname: '/pray/[practiceId]', params: { practiceId } })
       }
     },
     [router],
@@ -180,7 +180,12 @@ export default function HomeScreen() {
               return (
                 <AnimatedPressable
                   key={id}
-                  onPress={() => router.push(`/practices/${id}/program` as any)}
+                  onPress={() =>
+                    router.push({
+                      pathname: '/practices/[manifestId]/program',
+                      params: { manifestId: id },
+                    })
+                  }
                 >
                   <XStack
                     backgroundColor="$backgroundSurface"

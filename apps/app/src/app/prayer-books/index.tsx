@@ -110,7 +110,12 @@ export default function PrayerBooksScreen() {
                   key={book.book_id}
                   name={localizeContent(manifest.name)}
                   subtitle={`${manifest.practices?.length ?? 0} ${t('prayerBooks.practices').toLowerCase()} · v${book.version}`}
-                  onPress={() => router.push(`/prayer-books/${book.book_id}` as any)}
+                  onPress={() =>
+                    router.push({
+                      pathname: '/prayer-books/[bookId]',
+                      params: { bookId: book.book_id },
+                    })
+                  }
                 />
               )
             })}
@@ -133,7 +138,9 @@ export default function PrayerBooksScreen() {
                 key={entry.id}
                 name={localizeContent(entry.name)}
                 subtitle={`${entry.practiceCount} ${t('prayerBooks.practices').toLowerCase()} · ${entry.size >= 1024 * 1024 ? `${(entry.size / (1024 * 1024)).toFixed(1)} MB` : `${Math.round(entry.size / 1024)} KB`}`}
-                onPress={() => router.push(`/prayer-books/${entry.id}` as any)}
+                onPress={() =>
+                  router.push({ pathname: '/prayer-books/[bookId]', params: { bookId: entry.id } })
+                }
               />
             ))}
           </YStack>
