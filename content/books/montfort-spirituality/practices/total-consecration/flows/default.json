@@ -1,0 +1,22 @@
+{
+  "sections": [
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Daily Preparation for Consecration",
+        "pt-BR": "Preparação Diária para a Consagração"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Begin with the Veni Creator Spiritus, then read the assigned chapter for today.",
+        "pt-BR": "Comece com o Veni Creator Spiritus, depois leia o capítulo designado para hoje."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "act-of-consecration"
+    }
+  ]
+}
