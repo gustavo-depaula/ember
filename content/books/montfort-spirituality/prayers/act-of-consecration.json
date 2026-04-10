@@ -1,0 +1,39 @@
+{
+  "title": {
+    "en-US": "Consecration to Jesus Christ through Mary",
+    "pt-BR": "Consagração a Jesus Cristo pelas mãos de Maria"
+  },
+  "source": {
+    "en-US": "St. Louis de Montfort",
+    "pt-BR": "São Luís de Montfort"
+  },
+  "body": [
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "To be recited on the day of consecration, after Holy Communion. Renew yearly on the same date, or monthly, or even daily."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "O Eternal and Incarnate Wisdom! O sweetest and most adorable Jesus! True God and true Man, only Son of the Eternal Father, and of Mary, always Virgin! I adore Thee profoundly in the bosom and splendours of Thy Father during eternity; and I adore Thee also in the virginal bosom of Mary, Thy most worthy Mother, in the time of Thine Incarnation.",
+        "pt-BR": "Ó Sabedoria Eterna e Encarnada! Ó dulcíssimo e adorabilíssimo Jesus! Verdadeiro Deus e verdadeiro Homem, Filho Único do Eterno Pai e de Maria sempre Virgem! Eu Vos adoro profundamente no seio e nos esplendores de Vosso Pai durante a eternidade; e Vos adoro também no seio virginal de Maria, Vossa digníssima Mãe, no tempo da Vossa Encarnação."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "I give Thee thanks for that Thou hast annihilated Thyself, taking the form of a slave, in order to rescue me from the cruel slavery of the devil. I praise and glorify Thee for that Thou hast been pleased to submit Thyself to Mary, Thy holy Mother, in all things, in order to make me Thy faithful slave through her.",
+        "pt-BR": "Eu Vos dou graças por Vos terdes aniquilado, tomando a forma de escravo, para me resgatar da cruel escravidão do demônio. Eu Vos louvo e glorifico por Vos terdes dignado de Vos submeter a Maria, Vossa santa Mãe, em todas as coisas, para me fazer Vosso fiel escravo por ela."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "I am all Thine, and all that I have is Thine, O most loving Jesus, through Mary, Thy most holy Mother. Amen.\n\nTotus tuus ego sum, et omnia mea tua sunt.",
+        "pt-BR": "Eu sou todo Vosso, e tudo o que tenho é Vosso, ó amabilíssimo Jesus, por Maria, Vossa santíssima Mãe. Amém.\n\nTotus tuus ego sum, et omnia mea tua sunt."
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "montfort-secret-mary",
+  "name": {
+    "en-US": "The Secret of Mary",
+    "pt-BR": "O Segredo de Maria"
+  },
+  "author": {
+    "en-US": "St. Louis de Montfort",
+    "pt-BR": "São Luís Maria Grignion de Montfort"
+  },
+  "description": {
+    "en-US": "A concise summary of True Devotion, written as a personal letter to a soul seeking holiness through Mary.",
+    "pt-BR": "Um resumo conciso da Verdadeira Devoção, escrito como carta pessoal a uma alma que busca a santidade por Maria."
+  },
+  "composed": "c. 1712",
+  "languages": ["en-US"],
+  "toc": [
+    { "id": "ch-01", "title": { "en-US": "The Need for a True Devotion to Mary" } },
+    { "id": "ch-02", "title": { "en-US": "In What This Devotion Consists" } },
+    { "id": "ch-03", "title": { "en-US": "Wonderful Effects of This Devotion" } }
+  ]
+}

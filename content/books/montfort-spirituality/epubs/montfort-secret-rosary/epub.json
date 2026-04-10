@@ -1,0 +1,22 @@
+{
+  "id": "montfort-secret-rosary",
+  "name": {
+    "en-US": "The Secret of the Rosary",
+    "pt-BR": "O Segredo do Rosário"
+  },
+  "author": {
+    "en-US": "St. Louis de Montfort",
+    "pt-BR": "São Luís Maria Grignion de Montfort"
+  },
+  "description": {
+    "en-US": "A practical guide to praying the Rosary with devotion, presenting fifty 'roses' of instruction and meditation.",
+    "pt-BR": "Um guia prático para rezar o Rosário com devoção, apresentando cinquenta 'rosas' de instrução e meditação."
+  },
+  "composed": "c. 1710",
+  "languages": ["en-US"],
+  "toc": [
+    { "id": "rose-01", "title": { "en-US": "First Rose: The Prayers of the Rosary" } },
+    { "id": "rose-02", "title": { "en-US": "Second Rose: Origin of the Rosary" } },
+    { "id": "rose-03", "title": { "en-US": "Third Rose: St. Dominic" } }
+  ]
+}
