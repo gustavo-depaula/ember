@@ -314,7 +314,11 @@ function NthWeekdayPicker({
                 alignItems="center"
                 justifyContent="center"
               >
-                <Text fontFamily="$body" fontSize={12} color={selected ? 'white' : '$colorSecondary'}>
+                <Text
+                  fontFamily="$body"
+                  fontSize={12}
+                  color={selected ? 'white' : '$colorSecondary'}
+                >
                   {label}
                 </Text>
               </YStack>
@@ -337,7 +341,11 @@ function NthWeekdayPicker({
                 alignItems="center"
                 justifyContent="center"
               >
-                <Text fontFamily="$body" fontSize={12} color={selected ? 'white' : '$colorSecondary'}>
+                <Text
+                  fontFamily="$body"
+                  fontSize={12}
+                  color={selected ? 'white' : '$colorSecondary'}
+                >
                   {t(`day.${key}`)}
                 </Text>
               </YStack>

@@ -15,7 +15,6 @@ import {
 import { PracticeIcon } from '@/components/PracticeIcon'
 import { getManifest, getManifestIconKey } from '@/content/registry'
 import { createProgramCursor } from '@/db/repositories'
-import { selectEnrollmentSchedule } from '@/features/plan-of-life/program'
 import {
   useCreatePractice,
   useEnableSlotsForPractice,
@@ -28,6 +27,7 @@ import {
   PracticeEditSheet,
   type PracticeFormData,
 } from '@/features/plan-of-life/components/PracticeEditSheet'
+import { selectEnrollmentSchedule } from '@/features/plan-of-life/program'
 import { PracticeTeachingContent, VariantSelector } from '@/features/practices/components'
 import { localizeContent } from '@/lib/i18n'
 
