@@ -95,7 +95,7 @@ type BookMeta = {
 
 async function downloadBook(
   fileName: string,
-  slug: string,
+  _slug: string,
 ): Promise<Record<string, Record<string, string>>> {
   const url = `${baseUrl}/${encodeURIComponent(fileName)}.json`
   console.log(`  Fetching ${fileName}...`)

@@ -6,7 +6,7 @@ import { composeSlotKey } from '@/lib/slotKey'
 import { isApplicableOn, parseSchedule, type ScheduleContext } from './schedule'
 
 export function toCompletedSet(completions: Completion[]): Set<string> {
-  return new Set(completions.map((c) => composeSlotKey(c.practice_id, c.sub_id!)))
+  return new Set(completions.map((c) => composeSlotKey(c.practice_id, c.sub_id ?? 'default')))
 }
 
 export type DayCompletion = {
@@ -169,7 +169,7 @@ export function isSlotApplicableOnDate(
   ctx?: ScheduleContext,
 ): boolean {
   const schedule = parseSchedule(slot.schedule)
-  return isApplicableOn(schedule, new Date(date + 'T00:00:00'), ctx)
+  return isApplicableOn(schedule, new Date(`${date}T00:00:00`), ctx)
 }
 
 export function filterSlotsForDate(
@@ -201,7 +201,7 @@ export function buildTieredWallData(
 
   const tieredLogs: TieredLog[] = logs
     .map((log) => {
-      const slotKey = composeSlotKey(log.practice_id, log.sub_id!)
+      const slotKey = composeSlotKey(log.practice_id, log.sub_id ?? 'default')
       const slot = slotMap.get(slotKey)
       if (!slot) return undefined
       return {

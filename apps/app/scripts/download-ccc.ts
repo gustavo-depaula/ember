@@ -50,7 +50,7 @@ type FlatParagraph = {
 function extractText(elements: Element[]): string {
   return elements
     .filter((el) => el.type === 'text' && el.text)
-    .map((el) => el.text!)
+    .map((el) => el.text as string)
     .join('')
     .trim()
 }

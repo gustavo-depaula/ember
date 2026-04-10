@@ -1,4 +1,4 @@
-import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
+import { skipToken, useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
 import { getManifest } from '@/content/registry'
 import type { ProgramConfig } from '@/content/types'
 import {
@@ -58,8 +58,7 @@ export function useAllSlots() {
 export function useSlotsForPractice(practiceId: string | undefined) {
   return useQuery({
     queryKey: ['slots', 'practice', practiceId],
-    queryFn: () => getSlotsForPractice(practiceId!),
-    enabled: !!practiceId,
+    queryFn: practiceId ? () => getSlotsForPractice(practiceId) : skipToken,
   })
 }
 
@@ -68,8 +67,7 @@ export function useSlotsForPractice(practiceId: string | undefined) {
 export function usePractice(practiceId: string | undefined) {
   return useQuery({
     queryKey: ['practice', practiceId],
-    queryFn: () => getPractice(practiceId!),
-    enabled: !!practiceId,
+    queryFn: practiceId ? () => getPractice(practiceId) : skipToken,
   })
 }
 

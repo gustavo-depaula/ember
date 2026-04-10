@@ -60,9 +60,14 @@ export default function ProgramDetailScreen() {
 
   function handleRestart() {
     if (!manifest?.program) return
-    restartProgramMutation.mutate({ practiceId: manifest.id }, { onSuccess: () => {
-      router.back()
-    } })
+    restartProgramMutation.mutate(
+      { practiceId: manifest.id },
+      {
+        onSuccess: () => {
+          router.back()
+        },
+      },
+    )
   }
 
   return (
@@ -175,7 +180,11 @@ export default function ProgramDetailScreen() {
                 onPress={
                   shouldPromptRestart
                     ? undefined
-                    : () => router.push(`/pray/${manifest.id}?programDay=${dayIndex}` as any)
+                    : () =>
+                        router.push({
+                          pathname: '/pray/[practiceId]',
+                          params: { practiceId: manifest.id, programDay: String(dayIndex) },
+                        })
                 }
               />
             )
