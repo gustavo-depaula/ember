@@ -68,7 +68,7 @@ export function usePsalmsForHour(psalms: PsalmRef[], translation: string) {
         let verses = result.verses
         if (ref.verseRange) {
           verses = verses.filter(
-            (v) => v.verse >= ref.verseRange![0] && v.verse <= ref.verseRange![1],
+            (v) => v.verse >= ref.verseRange?.[0] && v.verse <= ref.verseRange?.[1],
           )
         }
         return { ref, verses }

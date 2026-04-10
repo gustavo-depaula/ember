@@ -6,13 +6,17 @@ import { Text, YStack } from 'tamagui'
 import { AnimatedPressable, WatercolorIcon } from '@/components'
 import type { IconName } from '@/components/ornaments/WatercolorIcon'
 
-const shortcuts: { icon: IconName; labelKey: string; route: string }[] = [
-  { icon: 'cross', labelKey: 'home.holyMass', route: '/pray/mass' },
-  { icon: 'rosary', labelKey: 'catalog.title', route: '/practices' },
-  { icon: 'cross', labelKey: 'home.sacredScripture', route: '/bible' },
-  { icon: 'book', labelKey: 'home.catechism', route: '/catechism' },
-  { icon: 'quill', labelKey: 'home.planOfLife', route: '/plan' },
-]
+const shortcuts = [
+  {
+    icon: 'cross' as IconName,
+    labelKey: 'home.holyMass',
+    route: { pathname: '/pray/[practiceId]', params: { practiceId: 'mass' } },
+  },
+  { icon: 'rosary' as IconName, labelKey: 'catalog.title', route: '/practices' },
+  { icon: 'cross' as IconName, labelKey: 'home.sacredScripture', route: '/bible' },
+  { icon: 'book' as IconName, labelKey: 'home.catechism', route: '/catechism' },
+  { icon: 'quill' as IconName, labelKey: 'home.planOfLife', route: '/plan' },
+] as const
 
 export function AppShortcuts() {
   const { t } = useTranslation()
@@ -25,7 +29,7 @@ export function AppShortcuts() {
       contentContainerStyle={{ gap: 12 }}
     >
       {shortcuts.map((s) => (
-        <AnimatedPressable key={s.route} onPress={() => router.push(s.route as any)}>
+        <AnimatedPressable key={s.labelKey} onPress={() => router.push(s.route)}>
           <YStack
             alignItems="center"
             gap="$xs"

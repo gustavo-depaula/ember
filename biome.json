@@ -25,6 +25,14 @@
     }
   },
   "files": {
-    "includes": ["apps/**/*.ts", "apps/**/*.tsx", "packages/**/*.ts", "packages/**/*.tsx"]
+    "includes": [
+      "apps/**/*.ts",
+      "apps/**/*.tsx",
+      "packages/**/*.ts",
+      "packages/**/*.tsx",
+      "!apps/app/.expo",
+      "!apps/app/expo-env.d.ts",
+      "!apps/app/ios/Pods"
+    ]
   }
 }

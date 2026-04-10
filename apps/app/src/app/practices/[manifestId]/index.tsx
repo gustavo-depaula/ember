@@ -49,7 +49,7 @@ export default function CatalogDetailScreen() {
   const [showEditor, setShowEditor] = useState(false)
   const { data: programProgress } = useProgramProgress(manifest?.id ?? '', manifest?.program)
 
-  if (!manifest) {
+  if (!manifestId || !manifest) {
     return (
       <ScreenLayout>
         <YStack flex={1} alignItems="center" justifyContent="center">
@@ -66,7 +66,7 @@ export default function CatalogDetailScreen() {
 
   function handleAddToPlan() {
     if (firstSlot && !firstSlot.enabled) {
-      enableSlots.mutate(manifestId!)
+      enableSlots.mutate(manifestId)
     } else {
       setShowEditor(true)
     }
@@ -80,7 +80,10 @@ export default function CatalogDetailScreen() {
       enableSlots.mutate(practiceId, {
         onSuccess: async () => {
           await createProgramCursor(practiceId)
-          router.push(`/practices/${practiceId}/program` as any)
+          router.push({
+            pathname: '/practices/[manifestId]/program',
+            params: { manifestId: practiceId },
+          })
         },
       })
       return
@@ -107,7 +110,10 @@ export default function CatalogDetailScreen() {
       {
         onSuccess: async () => {
           await createProgramCursor(practiceId)
-          router.push(`/practices/${practiceId}/program` as any)
+          router.push({
+            pathname: '/practices/[manifestId]/program',
+            params: { manifestId: practiceId },
+          })
         },
       },
     )
@@ -181,7 +187,12 @@ export default function CatalogDetailScreen() {
             programProgress?.isComplete ? (
               <YStack gap="$sm">
                 <AnimatedPressable
-                  onPress={() => router.push(`/practices/${manifest.id}/program` as any)}
+                  onPress={() =>
+                    router.push({
+                      pathname: '/practices/[manifestId]/program',
+                      params: { manifestId: manifest.id },
+                    })
+                  }
                 >
                   <YStack
                     backgroundColor="$backgroundSurface"
@@ -220,7 +231,12 @@ export default function CatalogDetailScreen() {
               </YStack>
             ) : (
               <AnimatedPressable
-                onPress={() => router.push(`/practices/${manifest.id}/program` as any)}
+                onPress={() =>
+                  router.push({
+                    pathname: '/practices/[manifestId]/program',
+                    params: { manifestId: manifest.id },
+                  })
+                }
               >
                 <YStack
                   backgroundColor="$accent"

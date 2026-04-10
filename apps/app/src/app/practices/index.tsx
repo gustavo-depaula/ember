@@ -268,7 +268,12 @@ export default function PracticeCatalogScreen() {
               key={manifest.id}
               manifest={manifest}
               inPlan={enabledManifestIds.has(manifest.id)}
-              onPress={() => router.push(`/practices/${manifest.id}` as any)}
+              onPress={() =>
+                router.push({
+                  pathname: '/practices/[manifestId]',
+                  params: { manifestId: manifest.id },
+                })
+              }
             />
           ))}
 
