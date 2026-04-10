@@ -11,6 +11,7 @@ export type {
   VariantEntry,
 } from '@ember/content-engine'
 export type {
+  ChapterManifest,
   FlowEntry,
   PracticeManifest,
   ProgramConfig,

@@ -1,19 +1,37 @@
 {
   "id": "sacred-heart",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "name": {
     "en-US": "Sacred Heart Devotion",
     "pt-BR": "Devoção ao Sagrado Coração"
   },
   "description": {
-    "en-US": "Prayers and devotions to the Sacred Heart of Jesus, including the Nine First Fridays program.",
-    "pt-BR": "Orações e devoções ao Sagrado Coração de Jesus, incluindo o programa das Nove Primeiras Sextas-feiras."
+    "en-US": "Prayers, devotions, and teachings on the Sacred Heart of Jesus, including the Nine First Fridays program.",
+    "pt-BR": "Orações, devoções e ensinamentos sobre o Sagrado Coração de Jesus, incluindo o programa das Nove Primeiras Sextas-feiras."
   },
   "languages": ["en-US", "pt-BR"],
   "tags": ["sacred-heart", "devotion", "first-friday", "reparation"],
   "dependencies": ["ember-default"],
   "practices": ["first-friday-devotion", "holy-hour-sacred-heart", "act-of-reparation", "morning-offering-sacred-heart"],
   "prayers": ["act-of-reparation", "offering-to-sacred-heart", "prayer-of-st-margaret-mary"],
+  "chapters": [
+    "history-of-devotion",
+    "twelve-promises",
+    "saints-sacred-heart",
+    "sacred-heart-in-art",
+    "theological-foundations"
+  ],
+  "contents": [
+    { "type": "chapter", "id": "history-of-devotion" },
+    { "type": "practice", "id": "morning-offering-sacred-heart" },
+    { "type": "chapter", "id": "twelve-promises" },
+    { "type": "practice", "id": "first-friday-devotion" },
+    { "type": "chapter", "id": "saints-sacred-heart" },
+    { "type": "practice", "id": "holy-hour-sacred-heart" },
+    { "type": "chapter", "id": "sacred-heart-in-art" },
+    { "type": "practice", "id": "act-of-reparation" },
+    { "type": "chapter", "id": "theological-foundations" }
+  ],
   "defaults": {
     "autoSeed": false
   }

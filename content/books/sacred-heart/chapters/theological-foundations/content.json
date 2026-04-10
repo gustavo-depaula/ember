@@ -1,0 +1,30 @@
+{
+  "sections": [
+    {
+      "type": "heading",
+      "text": { "en-US": "Theological Foundations", "pt-BR": "Fundamentos Teológicos" }
+    },
+    {
+      "type": "prose",
+      "file": "sections/symbolism"
+    },
+    { "type": "divider" },
+    {
+      "type": "subheading",
+      "text": { "en-US": "Haurietis Aquas", "pt-BR": "Haurietis Aquas" }
+    },
+    {
+      "type": "prose",
+      "file": "sections/haurietis-aquas"
+    },
+    { "type": "divider" },
+    {
+      "type": "subheading",
+      "text": { "en-US": "Three Loves, One Heart", "pt-BR": "Três Amores, Um Coração" }
+    },
+    {
+      "type": "prose",
+      "file": "sections/three-loves"
+    }
+  ]
+}

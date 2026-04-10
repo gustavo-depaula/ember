@@ -1,0 +1,30 @@
+{
+  "sections": [
+    {
+      "type": "heading",
+      "text": { "en-US": "The Revelations at Paray-le-Monial", "pt-BR": "As Revelações em Paray-le-Monial" }
+    },
+    {
+      "type": "prose",
+      "file": "sections/origins"
+    },
+    { "type": "divider" },
+    {
+      "type": "subheading",
+      "text": { "en-US": "The Great Revelation", "pt-BR": "A Grande Revelação" }
+    },
+    {
+      "type": "prose",
+      "file": "sections/great-revelation"
+    },
+    { "type": "divider" },
+    {
+      "type": "subheading",
+      "text": { "en-US": "The Spread of the Devotion", "pt-BR": "A Propagação da Devoção" }
+    },
+    {
+      "type": "prose",
+      "file": "sections/spread"
+    }
+  ]
+}

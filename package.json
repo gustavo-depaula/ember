@@ -6,7 +6,7 @@
     "test": "turbo test",
     "lint": "turbo lint",
     "dev": "turbo dev",
-    "start": "pnpm --filter @ember/app run start",
+    "start": "cd apps/app && expo start",
     "start:web": "pnpm --filter @ember/app run web",
     "ios": "pnpm --filter @ember/app run ios",
     "android": "pnpm --filter @ember/app run android",
@@ -15,7 +15,9 @@
     "build:webp": "scripts/convert-webp.sh",
     "build:hearth": "scripts/build-books.sh && scripts/convert-webp.sh",
     "hearth": "scripts/build-books.sh && scripts/convert-webp.sh && serve content -p 4100 --cors",
-    "serve:content": "serve content -p 4100 --cors"
+    "serve:content": "serve content -p 4100 --cors",
+    "build:preview": "pnpm --filter @ember/app exec eas build --profile preview --platform ios",
+    "build:production": "pnpm --filter @ember/app exec eas build --profile production --platform ios --auto-submit"
   },
   "devDependencies": {
     "serve": "^14.2.6",

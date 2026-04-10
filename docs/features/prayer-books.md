@@ -32,6 +32,21 @@ my-book.pray (zip)
 ├── prayers/                    # Prayer asset JSONs (book-scoped)
 │   ├── our-father.json
 │   └── custom-prayer.json
+├── chapters/                   # Read-only chapter content
+│   ├── history-of-devotion/
+│   │   ├── chapter.json        #   ChapterManifest
+│   │   ├── content.json        #   FlowDefinition (same format as practice flows)
+│   │   ├── sections/           #   Prose markdown files (per-language)
+│   │   │   ├── origins.en-US.md
+│   │   │   └── origins.pt-BR.md
+│   │   └── images/             #   Chapter-colocated images
+│   │       └── painting.jpg
+│   └── saints/
+│       ├── chapter.json
+│       ├── content.json
+│       └── sections/
+│           ├── bio.en-US.md
+│           └── bio.pt-BR.md
 └── practices/                  # Practice directories (unchanged format)
     ├── morning-offering/
     │   ├── manifest.json       #   Standard PracticeManifest
@@ -71,6 +86,8 @@ type PrayerBook = {
   image?: string                // Path to cover image in assets/ (e.g. "assets/cover.jpg")
   tags?: string[]               // Searchable tags (e.g. ["marian", "devotion"])
   dependencies?: string[]       // Book IDs this book depends on (for prayer asset resolution)
+  chapters?: string[]           // Ordered chapter IDs (matches directory names in chapters/)
+  contents?: { type: 'chapter' | 'practice'; id: string }[]  // Unified table of contents
 
   defaults?: {
     autoSeed: boolean           // If true, seed practices into plan of life on install
@@ -79,6 +96,8 @@ type PrayerBook = {
 ```
 
 The `practices` and `prayers` arrays define **presentation order** — the order items appear when browsing this book.
+
+When `contents` is present, the book detail screen renders a unified table of contents interleaving chapters and practices in the specified order. When absent, the screen falls back to separate practices/prayers sections.
 
 ### Practice manifests (unchanged)
 
@@ -102,6 +121,61 @@ Same format as current `assets/prayers/*.json`:
 ### Images
 
 Practice directories can include an `images/` folder (e.g. station illustrations, mystery art). Flows reference them via relative paths. Book-level assets (cover, icon) live in `assets/`.
+
+### Chapters
+
+Chapters are **read-only content entries** — history, theology, saint biographies, art galleries — that enrich a book beyond its interactive practices. They reuse the existing `FlowDefinition` format but have no completion tracking, scheduling, or plan-of-life integration.
+
+#### Chapter manifest (`chapter.json`)
+
+```typescript
+type ChapterManifest = {
+  id: string                    // Unique within the book (e.g. "history-of-devotion")
+  title: LocalizedText          // Display title
+  subtitle?: LocalizedText      // Optional subtitle
+  image?: string                // Cover image path (relative to chapter dir)
+  estimatedMinutes?: number     // Reading time estimate
+  tags?: string[]               // Searchable tags
+}
+```
+
+#### Chapter content (`content.json`)
+
+Same `{ sections: FlowSection[] }` format as practice flows. Chapters can use all standard section types plus three chapter-specific types:
+
+| Type | Purpose |
+|------|---------|
+| `prose` | External markdown file reference (`{ type: 'prose', file: 'sections/intro' }`). Engine resolves `{file}.{lang}.md` from the chapter's directory. |
+| `gallery` | Horizontal image carousel with title, attribution, and caption per item. |
+| `holy-card` | Interactive devotional card with 3D flip animation, holographic overlay, and ornamental framing — same architecture as saint cards. Front shows a devotional image; back shows a prayer with ornamental cross and gold dividers. |
+
+Standard types (heading, subheading, divider, rubric, prayer, image, etc.) also work in chapters.
+
+#### Prose files
+
+Prose content lives in `sections/` as per-language markdown files:
+
+```
+chapters/history-of-devotion/sections/
+  origins.en-US.md
+  origins.pt-BR.md
+  spread.en-US.md
+  spread.pt-BR.md
+```
+
+The `prose` section type references files without extension or language suffix: `{ "type": "prose", "file": "sections/origins" }`. The engine resolves the correct language at render time.
+
+Prose files support a minimal markdown subset: paragraphs, headings (`#`/`##`/`###`), `**bold**`, `*italic*`, and `> blockquotes`. No external markdown library — content is curated.
+
+#### Image path resolution
+
+Image `src` values in gallery/holy-card/image sections are relative to the chapter directory. During loading, paths are rewritten to absolute file URIs so the renderer gets resolved paths.
+
+#### Chapter reader
+
+Route: `/prayer-books/chapters/[chapterId]?bookId=x`
+
+The chapter reader resolves content through `resolveFlow()` with a simplified context (no completion tracking) and renders sections in a `ScrollView` with `ManuscriptFrame` + `SectionBlock`. No completion button — chapters are purely for reading.
 
 ---
 
@@ -275,7 +349,8 @@ Accessible from the Plan of Life screen (button/link navigates to `/prayer-books
 ### Book detail screen (`/prayer-books/[bookId]`)
 
 - Book description
-- Ordered practice list (taps into existing `/practices/[manifestId]`)
+- If `contents` array present: unified "Contents" section interleaving chapters (BookOpen icon) and practices in defined order. Chapters navigate to `/prayer-books/chapters/[chapterId]`, practices to `/practices/[manifestId]`.
+- If `contents` absent: ordered practice list + prayers section (legacy layout)
 - "In plan" badges on practices
 - Download button (if not installed) or Remove button (if installed)
 
