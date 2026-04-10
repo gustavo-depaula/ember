@@ -53,17 +53,44 @@ Nesta fé, nesta esperança e neste amor quero viver e morrer. Amém.
 
 ---
 
-### ⚠️ LACUNA — PÁGINAS 12-13
+### Os 10 Mandamentos da Lei de Deus
 
-> As páginas 12-13 não estão visíveis nos scans. Pelo contexto (p.11 termina com os Atos de Fé, Esperança e Caridade; p.14 começa com "6.° Remir os cativos. 7.° Enterrar os mortos."), o conteúdo faltante deve ser:
->
-> - Os Dez Mandamentos da Lei de Deus
-> - Os Mandamentos da Igreja (Cinco Mandamentos)
-> - Os Sete Sacramentos
-> - As Obras de misericórdia corporais (itens 1.° a 5.°)
+1.° Amar a Deus sôbre tôdas as coisas.
+2.° Não tomar seu santo nome em vão.
+3.° Guardar os domingos e festas de guarda.
+4.° Honrar pai e mãe.
+5.° Não matar.
+6.° Guardar a castidade.
+7.° Não furtar.
+8.° Não levantar falso testemunho.
+9.° Não desejar a mulher do próximo.
+10.° Não cobiçar as coisas alheias.
 
----
+### Os 5 Mandamentos da Santa Igreja
 
+1.° Ouvir missa inteira nos domingos e festas de guarda.
+2.° Confessar-se ao menos uma vez cada ano.
+3.° Comungar pela Páscoa da Ressurreição.
+4.° Jejuar e abster-se de carne, quando manda a Santa Madre Igreja.
+5.° Pagar dízimos e primícias.
+
+### Os 7 Sacramentos da Santa Igreja
+
+1.° Batismo.
+2.° Confirmação.
+3.° Comunhão.
+4.° Penitência.
+5.° Extrema-Unção.
+6.° Ordem.
+7.° Matrimônio.
+
+### As obras corporais de misericórdia
+
+1.° Dar de comer a quem tem fome.
+2.° Dar de beber a quem tem sêde.
+3.° Vestir os nús.
+4.° Visitar os enfermos.
+5.° Dar pousada aos peregrinos.
 6.° Remir os cativos.
 7.° Enterrar os mortos.
 

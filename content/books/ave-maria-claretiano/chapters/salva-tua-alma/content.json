@@ -1,0 +1,21 @@
+{
+	"sections": [
+		{
+			"type": "heading",
+			"text": { "pt-BR": "I — O que todo cristão deve saber para salvar-se" }
+		},
+		{
+			"type": "prose",
+			"file": "sections/saber"
+		},
+		{ "type": "divider" },
+		{
+			"type": "heading",
+			"text": { "pt-BR": "II — O que todo cristão deve fazer" }
+		},
+		{
+			"type": "prose",
+			"file": "sections/fazer"
+		}
+	]
+}
