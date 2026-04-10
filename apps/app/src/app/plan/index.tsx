@@ -1,6 +1,6 @@
 import { format, subWeeks } from 'date-fns'
 import { useRouter } from 'expo-router'
-import { BookOpen, ChevronRight, Library } from 'lucide-react-native'
+import { AlertTriangle, BookOpen, ChevronRight, Library } from 'lucide-react-native'
 import { useCallback, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { View } from 'react-native'
@@ -33,6 +33,7 @@ import {
   getPracticeIconKey,
   useArchivedPractices,
   useCompletionRange,
+  useRestartNeededPractices,
   useSlots,
 } from '@/features/plan-of-life'
 import { TierBadge } from '@/features/plan-of-life/components/TierBadge'
@@ -68,6 +69,7 @@ export default function PlanScreen() {
   const theme = useTheme()
 
   const { data: slots = [] } = useSlots()
+  const { data: restartNeededIds = new Set<string>() } = useRestartNeededPractices()
   const rangeStart = useMemo(() => format(subWeeks(new Date(), 20), 'yyyy-MM-dd'), [])
   const today = useMemo(() => format(new Date(), 'yyyy-MM-dd'), [])
   const { data: rangeLogs = [] } = useCompletionRange(rangeStart, today)
@@ -272,10 +274,19 @@ export default function PlanScreen() {
                       <Text fontFamily="$body" fontSize="$3" color="$color">
                         {group.name}
                       </Text>
-                      {group.slotCount > 1 && (
-                        <Text fontFamily="$body" fontSize={11} color="$colorSecondary">
-                          {group.slotCount} slots
-                        </Text>
+                      {restartNeededIds.has(group.practiceId) ? (
+                        <XStack alignItems="center" gap={4}>
+                          <AlertTriangle size={12} color={theme.accent.val} />
+                          <Text fontFamily="$body" fontSize={11} color="$accent">
+                            {t('program.restartNeeded')}
+                          </Text>
+                        </XStack>
+                      ) : (
+                        group.slotCount > 1 && (
+                          <Text fontFamily="$body" fontSize={11} color="$colorSecondary">
+                            {group.slotCount} slots
+                          </Text>
+                        )
                       )}
                     </YStack>
                     <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
@@ -316,9 +327,7 @@ export default function PlanScreen() {
                           entering={FadeIn.duration(200).delay(index * 50)}
                           exiting={FadeOut.duration(150)}
                         >
-                          <AnimatedPressable
-                            onPress={() => router.push(`/plan/${p.practice_id}`)}
-                          >
+                          <AnimatedPressable onPress={() => router.push(`/plan/${p.practice_id}`)}>
                             <XStack
                               backgroundColor="$backgroundSurface"
                               borderRadius="$lg"

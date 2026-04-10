@@ -10,6 +10,7 @@ import { PracticeIcon } from '@/components/PracticeIcon'
 import { getManifest, getManifestIconKey, loadPracticeData } from '@/content/registry'
 import type { CycleData } from '@/content/types'
 import { useProgramProgress, useRestartProgram } from '@/features/plan-of-life'
+import { computeAllDayStates } from '@/features/plan-of-life/program'
 import { localizeContent } from '@/lib/i18n'
 
 function getDayTitles(cycleData: Record<string, CycleData> | undefined): string[] {
@@ -19,7 +20,7 @@ function getDayTitles(cycleData: Record<string, CycleData> | undefined): string[
   const entries = Object.values(data.entries)[0] as Record<string, unknown>[] | undefined
   if (!entries) return []
   return entries.map((entry) => {
-    const title = entry.dayTitle
+    const title = entry.dayTitle ?? entry.monthTitle
     if (typeof title === 'object' && title !== null && 'en-US' in title) {
       return localizeContent(title as { 'en-US'?: string; 'pt-BR'?: string })
     }
@@ -52,11 +53,10 @@ export default function ProgramDetailScreen() {
     )
   }
 
-  const { programDay, totalDays, isComplete, completionBehavior, missedDays, shouldPromptRestart } =
-    progress
+  const { programDay, totalDays, isComplete, completionBehavior, shouldPromptRestart } = progress
+  const dayStates = computeAllDayStates(progress)
   const iconKey = getManifestIconKey(manifest.id)
   const progressPercent = isComplete ? 100 : ((programDay + 1) / totalDays) * 100
-  const cursorDay = missedDays > 0 ? programDay - missedDays : programDay
 
   function handleRestart() {
     if (!manifest?.program) return
@@ -158,28 +158,23 @@ export default function ProgramDetailScreen() {
         <YStack gap="$xs">
           {Array.from({ length: totalDays }, (_, dayIndex) => {
             const dayNum = dayIndex + 1
-            const dayKey = `day-${dayNum}`
-            const isCurrent = dayIndex === programDay && !isComplete
-            const isCompleted = isComplete || dayIndex < programDay
-            const isFuture = dayIndex > programDay && !isComplete
-            const isMissed =
-              missedDays > 0 &&
-              progress.policy !== 'wait' &&
-              dayIndex > cursorDay &&
-              dayIndex < programDay
+            const state = dayStates[dayIndex]
             const title = dayTitles[dayIndex]
-
             return (
               <DayRow
-                key={dayKey}
+                key={`day-${dayNum}`}
                 dayNum={dayNum}
                 dayLabel={title || t('program.dayLabel', { day: dayNum })}
-                isCurrent={isCurrent}
-                isCompleted={isCompleted}
-                isFuture={isFuture}
-                isMissed={isMissed}
+                isCurrent={state.isCurrent}
+                isCompleted={state.isCompleted}
+                isFuture={state.isFuture}
+                isMissed={state.isMissed}
                 missedLabel={t('program.missed')}
-                onPress={() => router.push(`/pray/${manifest.id}?programDay=${dayIndex}` as any)}
+                onPress={
+                  shouldPromptRestart
+                    ? undefined
+                    : () => router.push(`/pray/${manifest.id}?programDay=${dayIndex}` as any)
+                }
               />
             )
           })}
@@ -206,10 +201,10 @@ function DayRow({
   isFuture: boolean
   isMissed?: boolean
   missedLabel?: string
-  onPress: () => void
+  onPress?: () => void
 }) {
   return (
-    <AnimatedPressable onPress={onPress}>
+    <AnimatedPressable onPress={onPress} disabled={!onPress}>
       <XStack
         backgroundColor={isCurrent ? '$accent' : '$backgroundSurface'}
         borderRadius="$lg"
