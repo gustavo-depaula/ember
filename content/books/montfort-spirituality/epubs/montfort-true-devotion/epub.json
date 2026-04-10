@@ -1,0 +1,138 @@
+{
+  "id": "montfort-true-devotion",
+  "name": {
+    "fr-FR": "Traité de la vraie dévotion à la Sainte Vierge",
+    "en-US": "True Devotion to the Blessed Virgin Mary",
+    "pt-BR": "Tratado da Verdadeira Devoção à Santíssima Virgem Maria"
+  },
+  "author": {
+    "fr-FR": "Saint Louis-Marie Grignion de Montfort",
+    "en-US": "St. Louis de Montfort",
+    "pt-BR": "São Luís Maria Grignion de Montfort"
+  },
+  "description": {
+    "fr-FR": "Le traité classique sur la consécration mariale, expliquant le chemin le plus court, le plus facile et le plus sûr vers Jésus par Marie.",
+    "en-US": "The classic treatise on Marian consecration, explaining the quickest, easiest, and most secure path to Jesus through Mary.",
+    "pt-BR": "O tratado clássico sobre a consagração mariana, explicando o caminho mais rápido, fácil e seguro para Jesus por Maria."
+  },
+  "composed": 1712,
+  "languages": ["fr-FR", "en-US", "pt-BR"],
+  "toc": [
+    {
+      "id": "preface",
+      "title": {
+        "fr-FR": "Avant-propos et Préface",
+        "en-US": "Foreword and Preface",
+        "pt-BR": "Prefácio"
+      }
+    },
+    {
+      "id": "introduction",
+      "title": {
+        "fr-FR": "Introduction",
+        "en-US": "Introduction",
+        "pt-BR": "Introdução"
+      }
+    },
+    {
+      "id": "part-1",
+      "title": {
+        "fr-FR": "Première Partie — De la dévotion générale à la Sainte Vierge",
+        "en-US": "Part I — On Devotion to Our Blessed Lady in General",
+        "pt-BR": "Parte I — Da Devoção a Nossa Senhora em Geral"
+      },
+      "children": [
+        {
+          "id": "part-1-ch-1",
+          "title": {
+            "fr-FR": "Article I — Excellence et nécessité de la dévotion à la Sainte Vierge",
+            "en-US": "Article I — Excellence and Necessity of Devotion to Our Lady",
+            "pt-BR": "Artigo I — Excelência e Necessidade da Devoção a Nossa Senhora"
+          }
+        },
+        {
+          "id": "part-1-ch-2",
+          "title": {
+            "fr-FR": "Article II — Discernement de la vraie dévotion",
+            "en-US": "Article II — Discernment of True Devotion",
+            "pt-BR": "Artigo II — Discernimento da Verdadeira Devoção"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-2",
+      "title": {
+        "fr-FR": "Deuxième Partie — De la plus excellente dévotion à la Sainte Vierge",
+        "en-US": "Part II — On the Most Excellent Devotion to Our Blessed Lady",
+        "pt-BR": "Parte II — Da Mais Excelente Devoção a Nossa Senhora"
+      },
+      "children": [
+        {
+          "id": "part-2-preliminary",
+          "title": {
+            "fr-FR": "Préliminaires — Pratiques intérieures et extérieures",
+            "en-US": "Preliminary Observations",
+            "pt-BR": "Observações Preliminares"
+          }
+        },
+        {
+          "id": "part-2-ch-1",
+          "title": {
+            "fr-FR": "Article I — La parfaite consécration à Jésus-Christ",
+            "en-US": "Article I — The Perfect Consecration to Jesus by Mary",
+            "pt-BR": "Artigo I — A Consagração Perfeita a Jesus por Maria"
+          }
+        },
+        {
+          "id": "part-2-ch-2",
+          "title": {
+            "fr-FR": "Article II — Motifs de cette consécration",
+            "en-US": "Article II — Motives for Perfect Consecration",
+            "pt-BR": "Artigo II — Motivos da Consagração Perfeita"
+          }
+        },
+        {
+          "id": "part-2-ch-3",
+          "title": {
+            "fr-FR": "Article III — Figure de Jacob et Rébecca",
+            "en-US": "Article III — The Figure of Jacob and Rebecca",
+            "pt-BR": "Artigo III — A Figura de Jacó e Rebeca"
+          }
+        },
+        {
+          "id": "part-2-ch-4",
+          "title": {
+            "fr-FR": "Article IV — Effets merveilleux de cette dévotion",
+            "en-US": "Article IV — Wonderful Effects of This Devotion",
+            "pt-BR": "Artigo IV — Efeitos Maravilhosos desta Devoção"
+          }
+        },
+        {
+          "id": "part-2-ch-5",
+          "title": {
+            "fr-FR": "Article V — Pratiques particulières",
+            "en-US": "Article V — Particular Practices",
+            "pt-BR": "Artigo V — Práticas Particulares"
+          }
+        },
+        {
+          "id": "part-2-ch-6",
+          "title": {
+            "fr-FR": "Article VI — La sainte communion",
+            "en-US": "Article VI — Manner of Practising This Devotion at Holy Communion",
+            "pt-BR": "Artigo VI — Modo de Praticar esta Devoção na Sagrada Comunhão"
+          }
+        }
+      ]
+    },
+    {
+      "id": "consecration",
+      "title": {
+        "fr-FR": "Consécration à Jésus-Christ par les mains de Marie",
+        "en-US": "Act of Consecration",
+        "pt-BR": "Ato de Consagração"
+      }
+    }
+  ]
+}
