@@ -184,6 +184,12 @@ export default {
     addCustom: 'Add Custom Practice',
     disabled: 'Disabled',
     noPractices: 'No {{tier}} practices',
+    archive: 'Archive',
+    unarchive: 'Restore to Plan',
+    archived: 'Archived',
+    archiveConfirm:
+      'Archive this practice? It will be hidden from your daily plan. Your completion history is preserved.',
+    archivedCount: 'Archived ({{count}})',
   },
 
   editor: {
@@ -552,6 +558,7 @@ export default {
     upcoming: 'Upcoming',
     missed: 'Missed',
     missedTooMany: "You've missed several days. Would you like to start over?",
+    restartNeeded: 'Restart needed',
     dayLabel: 'Day {{day}}',
     durationDays: '{{count}}-day program',
     durationMonths: '{{count}}-month devotion',

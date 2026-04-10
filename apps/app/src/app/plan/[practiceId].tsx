@@ -3,7 +3,7 @@ import { useLocalSearchParams, useRouter } from 'expo-router'
 import { ChevronLeft } from 'lucide-react-native'
 import { useMemo } from 'react'
 import { useTranslation } from 'react-i18next'
-import { Pressable } from 'react-native'
+import { Alert, Pressable } from 'react-native'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
 import {
@@ -22,11 +22,13 @@ import {
   getLongestPracticeStreak,
   getPracticeIconKey,
   useAddSlot,
+  useArchivePractice,
   useChangeSlotFlow,
   useDeleteSlot,
   usePracticeCompletionStats,
   useProgramProgress,
   useSlotsForPractice,
+  useUnarchivePractice,
   useUpdateSlot,
 } from '@/features/plan-of-life'
 import { SlotConfigurator } from '@/features/plan-of-life/components/SlotConfigurator'
@@ -44,11 +46,14 @@ export default function PracticeDetailScreen() {
   const hasFlow = (manifest?.flows?.length ?? 0) > 0
   const updateSlot = useUpdateSlot()
   const addSlot = useAddSlot()
+  const archivePractice = useArchivePractice()
+  const unarchivePractice = useUnarchivePractice()
   const { data: programProgress } = useProgramProgress(practiceId ?? '', manifest?.program)
   const changeSlotFlow = useChangeSlotFlow()
   const deleteSlot = useDeleteSlot()
 
   const firstSlot = slots[0]
+  const isArchived = firstSlot?.archived === 1
 
   const { data: practiceStats } = usePracticeCompletionStats(practiceId ?? '')
   const trackDefs = useMemo(
@@ -205,6 +210,57 @@ export default function PracticeDetailScreen() {
           <>
             <SectionDivider />
             <PracticeTeachingContent manifest={manifest} />
+          </>
+        )}
+
+        {isArchived ? (
+          <>
+            <SectionDivider />
+            <AnimatedPressable onPress={() => unarchivePractice.mutate(practiceId!)}>
+              <YStack
+                borderWidth={1}
+                borderColor="$accent"
+                borderRadius="$md"
+                paddingVertical="$sm"
+                alignItems="center"
+              >
+                <Text fontFamily="$heading" fontSize="$3" color="$accent">
+                  {t('plan.unarchive')}
+                </Text>
+              </YStack>
+            </AnimatedPressable>
+          </>
+        ) : (
+          <>
+            <SectionDivider />
+            <AnimatedPressable
+              onPress={() =>
+                Alert.alert(t('plan.archive'), t('plan.archiveConfirm'), [
+                  { text: t('common.cancel'), style: 'cancel' },
+                  {
+                    text: t('plan.archive'),
+                    style: 'destructive',
+                    onPress: () => {
+                      archivePractice.mutate(practiceId!)
+                      router.back()
+                    },
+                  },
+                ])
+              }
+            >
+              <YStack
+                borderWidth={1}
+                borderColor="$colorSecondary"
+                borderRadius="$md"
+                paddingVertical="$sm"
+                alignItems="center"
+                opacity={0.7}
+              >
+                <Text fontFamily="$heading" fontSize="$3" color="$colorSecondary">
+                  {t('plan.archive')}
+                </Text>
+              </YStack>
+            </AnimatedPressable>
           </>
         )}
       </YStack>

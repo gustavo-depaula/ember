@@ -1,15 +1,17 @@
 import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
+import { getManifest } from '@/content/registry'
 import type { ProgramConfig } from '@/content/types'
 import {
   addSlot,
+  archivePractice,
   changeSlotFlow,
   completeProgramCursor,
   createPracticeWithSlot,
   deletePractice,
   deleteSlot,
-  disableSlotsForPractice,
   enableSlotsForPractice,
   getAllSlots,
+  getArchivedPractices,
   getCompletionCountSince,
   getCompletionDates,
   getCompletionRange,
@@ -25,6 +27,7 @@ import {
   reorderSlots,
   restartProgram,
   toggleCompletion,
+  unarchivePractice,
   updatePractice,
   updateSlot,
 } from '@/db/repositories'
@@ -32,7 +35,7 @@ import type { Completion } from '@/db/schema'
 import { getToday } from '@/hooks/useToday'
 import { rescheduleAllReminders } from '@/lib/notifications'
 
-import { getProgramDay, parseSchedule } from './schedule'
+import { getOccurrenceBasedProgramDay, getProgramDay, parseSchedule } from './schedule'
 import { getPracticeStreak } from './utils'
 
 // --- Slot queries ---
@@ -107,6 +110,50 @@ export function usePracticeCompletionStats(practiceId: string) {
 
 // --- Program progress ---
 
+export function useRestartNeededPractices() {
+  return useQuery({
+    queryKey: ['restartNeededPractices'],
+    queryFn: async () => {
+      const slots = await getEnabledSlots()
+      const today = getToday()
+      const result = new Set<string>()
+
+      for (const slot of slots) {
+        const manifest = getManifest(slot.practice_id)
+        const program = manifest?.program
+        if (!program || program.progressPolicy !== 'restart') continue
+
+        const cursor = await getProgramCursor(slot.practice_id)
+        if (!cursor) continue
+        const position = parseProgramPosition(cursor)
+        if (position.status === 'completed') continue
+
+        const completionCount = await getCompletionCountSince(slot.practice_id, cursor.started_at)
+        const schedule = parseSchedule(slot.schedule)
+        let calendarDay: number | undefined
+        if (schedule.type === 'fixed-program') {
+          calendarDay = getProgramDay(schedule, today)
+        } else {
+          calendarDay = getOccurrenceBasedProgramDay(
+            schedule,
+            cursor.started_at,
+            today,
+            program.totalDays,
+          )
+        }
+
+        if (calendarDay === undefined) continue
+        const missedDays = calendarDay - completionCount
+        if (missedDays >= (program.restartThreshold ?? 1)) {
+          result.add(slot.practice_id)
+        }
+      }
+
+      return result
+    },
+  })
+}
+
 export function useProgramProgress(practiceId: string, program: ProgramConfig | undefined) {
   return useQuery({
     queryKey: ['programProgress', practiceId],
@@ -126,7 +173,17 @@ export function useProgramProgress(practiceId: string, program: ProgramConfig | 
         const slot = slots[0]
         if (slot) {
           const schedule = parseSchedule(slot.schedule)
-          calendarDay = getProgramDay(schedule, getToday())
+          const today = getToday()
+          if (schedule.type === 'fixed-program') {
+            calendarDay = getProgramDay(schedule, today)
+          } else if (cursor) {
+            calendarDay = getOccurrenceBasedProgramDay(
+              schedule,
+              cursor.started_at,
+              today,
+              program.totalDays,
+            )
+          }
           if (calendarDay !== undefined) programDay = calendarDay
         }
       }
@@ -170,12 +227,14 @@ export function useHandleProgramCompletion() {
     }) => {
       await completeProgramCursor(practiceId)
       if (completionBehavior === 'auto-disable') {
-        await disableSlotsForPractice(practiceId)
+        await archivePractice(practiceId)
       }
     },
     onSuccess: (_data, { practiceId }) => {
       queryClient.invalidateQueries({ queryKey: ['programProgress', practiceId] })
+      queryClient.invalidateQueries({ queryKey: ['restartNeededPractices'] })
       queryClient.invalidateQueries({ queryKey: ['slots'] })
+      queryClient.invalidateQueries({ queryKey: ['archivedPractices'] })
     },
   })
 }
@@ -196,11 +255,14 @@ export function useRestartProgram() {
             schedule: JSON.stringify({ ...schedule, startDate: today }),
             enabled: 1,
           })
+        } else {
+          await updateSlot(slot.id, { enabled: 1 })
         }
       }
     },
     onSuccess: (_data, { practiceId }) => {
       queryClient.invalidateQueries({ queryKey: ['programProgress', practiceId] })
+      queryClient.invalidateQueries({ queryKey: ['restartNeededPractices'] })
       queryClient.invalidateQueries({ queryKey: ['slots'] })
     },
   })
@@ -288,6 +350,7 @@ export function useToggleSlot() {
       queryClient.invalidateQueries({ queryKey: ['completions'] })
       queryClient.invalidateQueries({ queryKey: ['practiceStats'] })
       queryClient.invalidateQueries({ queryKey: ['programProgress', practiceId] })
+      queryClient.invalidateQueries({ queryKey: ['restartNeededPractices'] })
     },
   })
 }
@@ -347,6 +410,43 @@ export function useDeletePractice() {
       queryClient.invalidateQueries({ queryKey: ['slots'] })
       queryClient.invalidateQueries({ queryKey: ['practice'] })
       queryClient.invalidateQueries({ queryKey: ['completions'] })
+      rescheduleAllReminders().catch(console.warn)
+    },
+  })
+}
+
+// --- Archive ---
+
+export function useArchivedPractices() {
+  return useQuery({
+    queryKey: ['archivedPractices'],
+    queryFn: getArchivedPractices,
+  })
+}
+
+export function useArchivePractice() {
+  const queryClient = useQueryClient()
+
+  return useMutation({
+    mutationFn: archivePractice,
+    onSuccess: () => {
+      queryClient.invalidateQueries({ queryKey: ['slots'] })
+      queryClient.invalidateQueries({ queryKey: ['practice'] })
+      queryClient.invalidateQueries({ queryKey: ['archivedPractices'] })
+      rescheduleAllReminders().catch(console.warn)
+    },
+  })
+}
+
+export function useUnarchivePractice() {
+  const queryClient = useQueryClient()
+
+  return useMutation({
+    mutationFn: unarchivePractice,
+    onSuccess: () => {
+      queryClient.invalidateQueries({ queryKey: ['slots'] })
+      queryClient.invalidateQueries({ queryKey: ['practice'] })
+      queryClient.invalidateQueries({ queryKey: ['archivedPractices'] })
       rescheduleAllReminders().catch(console.warn)
     },
   })

@@ -6,6 +6,7 @@ export type UserPractice = {
   custom_name: string | null
   custom_icon: string | null
   custom_desc: string | null
+  archived: number
 }
 
 export type UserPracticeSlot = {
@@ -24,6 +25,7 @@ export type UserPracticeSlot = {
   custom_name: string | null
   custom_icon: string | null
   custom_desc: string | null
+  archived: number
 }
 
 export type NotifyConfig = {

@@ -186,6 +186,12 @@ export default {
     addCustom: 'Adicionar Pr\u00e1tica',
     disabled: 'Desativada',
     noPractices: 'Nenhuma pr\u00e1tica {{tier}}',
+    archive: 'Arquivar',
+    unarchive: 'Restaurar ao Plano',
+    archived: 'Arquivadas',
+    archiveConfirm:
+      'Arquivar esta prática? Ela será ocultada do seu plano diário. Seu histórico de completude será preservado.',
+    archivedCount: 'Arquivadas ({{count}})',
   },
 
   editor: {
@@ -491,6 +497,7 @@ export default {
     downloading: 'Instalando...',
     import: 'Importar arquivo .pray',
     importDesc: 'Abrir um devocionário do seu dispositivo',
+    contents: 'Conteúdo',
     practices: 'Práticas',
     prayers: 'Orações',
     remove: 'Remover do dispositivo',
@@ -570,6 +577,7 @@ export default {
     missed: 'Perdido',
     dayLabel: 'Dia {{day}}',
     missedTooMany: 'Você perdeu vários dias. Gostaria de recomeçar?',
+    restartNeeded: 'Reinício necessário',
     durationDays: 'Programa de {{count}} dias',
     durationMonths: 'Devo\u00e7\u00e3o de {{count}} meses',
     occurrenceOf: '{{occurrence}} de {{total}}',
