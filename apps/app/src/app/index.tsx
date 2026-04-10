@@ -2,10 +2,12 @@ import { format, subWeeks } from 'date-fns'
 import { useRouter } from 'expo-router'
 import { useCallback, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
+import { AlertTriangle } from 'lucide-react-native'
 import { Pressable } from 'react-native'
-import { Text, YStack } from 'tamagui'
+import { Text, useTheme, XStack, YStack } from 'tamagui'
 
 import {
+  AnimatedPressable,
   FadeInView,
   GreenWall,
   ObligationBadges,
@@ -37,6 +39,7 @@ import {
   toCompletedSet,
   useCompletionRange,
   useCompletionsForDate,
+  useRestartNeededPractices,
   useSlots,
   useToggleSlot,
 } from '@/features/plan-of-life'
@@ -50,11 +53,13 @@ import {
   normalizeDate,
   useObligations,
 } from '@/lib/liturgical'
+import { localizeContent } from '@/lib/i18n'
 import { parseSlotKey } from '@/lib/slotKey'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
 export default function HomeScreen() {
   const { t } = useTranslation()
+  const theme = useTheme()
   const realNow = normalizeDate(new Date())
   const realToday = format(realNow, 'yyyy-MM-dd')
   const now = useToday()
@@ -85,6 +90,7 @@ export default function HomeScreen() {
 
   const { data: todayCompletions = [] } = useCompletionsForDate(selectedDate)
   const toggle = useToggleSlot()
+  const { data: restartNeededIds = new Set<string>() } = useRestartNeededPractices()
 
   const handlePressItem = useCallback(
     (practiceId: string, slotId: string) => {
@@ -166,6 +172,41 @@ export default function HomeScreen() {
 
         <SectionDivider symbol={getSeasonalSymbol(themeName)} />
 
+        {restartNeededIds.size > 0 && (
+          <YStack gap="$sm">
+            {Array.from(restartNeededIds).map((id) => {
+              const m = getManifest(id)
+              if (!m) return null
+              return (
+                <AnimatedPressable
+                  key={id}
+                  onPress={() => router.push(`/practices/${id}/program` as any)}
+                >
+                  <XStack
+                    backgroundColor="$backgroundSurface"
+                    borderRadius="$lg"
+                    padding="$md"
+                    alignItems="center"
+                    gap="$md"
+                    borderLeftWidth={3}
+                    borderLeftColor="$accent"
+                  >
+                    <AlertTriangle size={18} color={theme.accent?.val} />
+                    <YStack flex={1}>
+                      <Text fontFamily="$body" fontSize="$3" color="$color">
+                        {localizeContent(m.name)}
+                      </Text>
+                      <Text fontFamily="$body" fontSize="$1" color="$accent">
+                        {t('program.restartNeeded')}
+                      </Text>
+                    </YStack>
+                  </XStack>
+                </AnimatedPressable>
+              )
+            })}
+          </YStack>
+        )}
+
         <YStack gap="$md">
           <FadeInView index={1}>
             <Pressable
@@ -211,6 +252,7 @@ export default function HomeScreen() {
                     label={t(`timeBlock.${block}`)}
                     items={def.slots.map((s) => enrichSlot(s, t))}
                     completedIds={completedIds}
+                    restartNeededIds={restartNeededIds}
                     state={state}
                     completed={completed}
                     total={total}

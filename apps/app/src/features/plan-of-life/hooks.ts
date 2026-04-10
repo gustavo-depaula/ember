@@ -35,7 +35,8 @@ import type { Completion } from '@/db/schema'
 import { getToday } from '@/hooks/useToday'
 import { rescheduleAllReminders } from '@/lib/notifications'
 
-import { getOccurrenceBasedProgramDay, getProgramDay, parseSchedule } from './schedule'
+import { computeProgramProgress, resolveCalendarDay } from './program'
+import { parseSchedule } from './schedule'
 import { getPracticeStreak } from './utils'
 
 // --- Slot queries ---
@@ -124,29 +125,23 @@ export function useRestartNeededPractices() {
         if (!program || program.progressPolicy !== 'restart') continue
 
         const cursor = await getProgramCursor(slot.practice_id)
-        if (!cursor) continue
-        const position = parseProgramPosition(cursor)
-        if (position.status === 'completed') continue
+        if (!cursor || parseProgramPosition(cursor).status === 'completed') continue
 
         const completionCount = await getCompletionCountSince(slot.practice_id, cursor.started_at)
-        const schedule = parseSchedule(slot.schedule)
-        let calendarDay: number | undefined
-        if (schedule.type === 'fixed-program') {
-          calendarDay = getProgramDay(schedule, today)
-        } else {
-          calendarDay = getOccurrenceBasedProgramDay(
-            schedule,
-            cursor.started_at,
-            today,
-            program.totalDays,
-          )
-        }
+        const calendarDay = resolveCalendarDay(
+          parseSchedule(slot.schedule),
+          cursor,
+          today,
+          program.totalDays,
+        )
+        const progress = computeProgramProgress({
+          program,
+          completionCount,
+          calendarDay,
+          cursorStatus: 'active',
+        })
 
-        if (calendarDay === undefined) continue
-        const missedDays = calendarDay - completionCount
-        if (missedDays >= (program.restartThreshold ?? 1)) {
-          result.add(slot.practice_id)
-        }
+        if (progress.shouldPromptRestart) result.add(slot.practice_id)
       }
 
       return result
@@ -162,51 +157,32 @@ export function useProgramProgress(practiceId: string, program: ProgramConfig | 
 
       const cursor = await getProgramCursor(practiceId)
       const position = cursor ? parseProgramPosition(cursor) : { day: 0, status: 'active' as const }
-      const startDate = cursor?.started_at ?? '1970-01-01'
 
-      const completionCount = await getCompletionCountSince(practiceId, startDate)
+      const completionCount = await getCompletionCountSince(
+        practiceId,
+        cursor?.started_at ?? '1970-01-01',
+      )
 
-      let programDay = completionCount
       let calendarDay: number | undefined
-      if (program.progressPolicy === 'continue' || program.progressPolicy === 'restart') {
+      if (program.progressPolicy !== 'wait') {
         const slots = await getSlotsForPractice(practiceId)
         const slot = slots[0]
         if (slot) {
-          const schedule = parseSchedule(slot.schedule)
-          const today = getToday()
-          if (schedule.type === 'fixed-program') {
-            calendarDay = getProgramDay(schedule, today)
-          } else if (cursor) {
-            calendarDay = getOccurrenceBasedProgramDay(
-              schedule,
-              cursor.started_at,
-              today,
-              program.totalDays,
-            )
-          }
-          if (calendarDay !== undefined) programDay = calendarDay
+          calendarDay = resolveCalendarDay(
+            parseSchedule(slot.schedule),
+            cursor,
+            getToday(),
+            program.totalDays,
+          )
         }
       }
 
-      const missedDays = (() => {
-        if (program.progressPolicy === 'wait') return 0
-        if (calendarDay === undefined) return 0
-        const gap = calendarDay - completionCount
-        return gap > 0 ? gap : 0
-      })()
-
-      const threshold = program.restartThreshold ?? 1
-      const shouldPromptRestart = program.progressPolicy === 'restart' && missedDays >= threshold
-
-      return {
-        programDay,
-        totalDays: program.totalDays,
-        isComplete: position.status === 'completed',
-        policy: program.progressPolicy,
-        completionBehavior: program.completionBehavior,
-        missedDays,
-        shouldPromptRestart,
-      }
+      return computeProgramProgress({
+        program,
+        completionCount,
+        calendarDay,
+        cursorStatus: position.status,
+      })
     },
     enabled: !!program,
   })
