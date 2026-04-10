@@ -60,7 +60,9 @@ export default function ProgramDetailScreen() {
 
   function handleRestart() {
     if (!manifest?.program) return
-    restartProgramMutation.mutate({ practiceId: manifest.id }, { onSuccess: () => router.back() })
+    restartProgramMutation.mutate({ practiceId: manifest.id }, { onSuccess: () => {
+      router.back()
+    } })
   }
 
   return (

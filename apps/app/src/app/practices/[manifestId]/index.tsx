@@ -75,6 +75,17 @@ export default function CatalogDetailScreen() {
   function handleBeginProgram() {
     if (!manifest?.program) return
     const { program, id: practiceId } = manifest
+
+    if (firstSlot) {
+      enableSlots.mutate(practiceId, {
+        onSuccess: async () => {
+          await createProgramCursor(practiceId)
+          router.push(`/practices/${practiceId}/program` as any)
+        },
+      })
+      return
+    }
+
     const today = new Date().toISOString().split('T')[0]
     const slotDefaults = manifest.defaults?.slots?.[0]
     const defaultSchedule = slotDefaults?.schedule ?? { type: 'daily' as const }
