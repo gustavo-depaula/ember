@@ -220,11 +220,11 @@ export function useRestartProgram() {
 
   return useMutation({
     mutationFn: async ({ practiceId }: { practiceId: string }) => {
-      await restartProgram(practiceId)
+      const today = getToday().toISOString().split('T')[0]
+      await restartProgram(practiceId, today)
       const slots = await getSlotsForPractice(practiceId)
       const slot = slots[0]
       if (slot) {
-        const today = getToday().toISOString().split('T')[0]
         const schedule = parseSchedule(slot.schedule)
         if (schedule.type === 'fixed-program') {
           await updateSlot(slot.id, {
