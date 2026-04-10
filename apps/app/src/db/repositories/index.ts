@@ -15,6 +15,7 @@ export {
 } from './cursors'
 export {
   addSlot,
+  archivePractice,
   changeSlotFlow,
   createPractice,
   createPracticeWithSlot,
@@ -23,6 +24,7 @@ export {
   disableSlotsForPractice,
   enableSlotsForPractice,
   getAllSlots,
+  getArchivedPractices,
   getCompletionCountSince,
   getCompletionDates,
   getCompletionRange,
@@ -36,6 +38,7 @@ export {
   removeCompletion,
   reorderSlots,
   toggleCompletion,
+  unarchivePractice,
   updatePractice,
   updateSlot,
 } from './practices'
