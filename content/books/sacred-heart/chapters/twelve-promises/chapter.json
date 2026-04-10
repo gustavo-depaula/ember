@@ -1,0 +1,13 @@
+{
+  "id": "twelve-promises",
+  "title": {
+    "en-US": "The Twelve Promises",
+    "pt-BR": "As Doze Promessas"
+  },
+  "subtitle": {
+    "en-US": "Our Lord's promises to St. Margaret Mary",
+    "pt-BR": "As promessas de Nosso Senhor a Santa Margarida Maria"
+  },
+  "estimatedMinutes": 10,
+  "tags": ["promises", "first-friday"]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "saints-sacred-heart",
+  "title": {
+    "en-US": "Saints of the Sacred Heart",
+    "pt-BR": "Santos do Sagrado Coração"
+  },
+  "subtitle": {
+    "en-US": "Those who spread the devotion",
+    "pt-BR": "Aqueles que propagaram a devoção"
+  },
+  "estimatedMinutes": 7,
+  "tags": ["saints", "st-margaret-mary", "st-claude"]
+}

@@ -17,6 +17,11 @@ export type PrayerPreview = {
   title: Record<string, string>
 }
 
+export type ChapterPreview = {
+  id: string
+  title: Record<string, string>
+}
+
 export type RegistryEntry = {
   id: string
   version: string
@@ -27,6 +32,8 @@ export type RegistryEntry = {
   practiceCount: number
   practices: PracticePreview[]
   prayers: PrayerPreview[]
+  chapters?: ChapterPreview[]
+  contents?: { type: 'chapter' | 'practice'; id: string }[]
   size: number
   file: string
   contentHash: string
@@ -82,8 +89,14 @@ async function extractZip(zipData: ArrayBuffer, destDir: Directory) {
           created.add(parentPath)
         }
       }
-      const content = await zipEntry.async('string')
-      new File(destDir, relativePath).write(content)
+      const isBinary = /\.(jpg|jpeg|png|webp|gif|mp3|ogg|wav|pdf)$/i.test(relativePath)
+      if (isBinary) {
+        const bytes = await zipEntry.async('uint8array')
+        new File(destDir, relativePath).write(bytes)
+      } else {
+        const content = await zipEntry.async('string')
+        new File(destDir, relativePath).write(content)
+      }
     }
   }
 }

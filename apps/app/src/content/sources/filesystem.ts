@@ -1,10 +1,18 @@
 import { File } from 'expo-file-system'
-import type { PracticeManifest } from '../manifest-types'
-import type { CycleData, FlowDefinition, LectioTrackDef, LocalizedText, Variant } from '../types'
+import type { ChapterManifest, PracticeManifest } from '../manifest-types'
+import type {
+  CycleData,
+  FlowDefinition,
+  FlowSection,
+  LectioTrackDef,
+  LocalizedContent,
+  LocalizedText,
+  Variant,
+} from '../types'
 
 export type PrayerAsset = {
   title: LocalizedText
-  body: LocalizedText
+  body: FlowSection[]
   subtitle?: LocalizedText
   source?: LocalizedText
 }
@@ -23,6 +31,8 @@ export type PrayerBook = {
   tags?: string[]
   dependencies?: string[]
   defaults?: { autoSeed: boolean }
+  chapters?: string[]
+  contents?: { type: 'chapter' | 'practice'; id: string }[]
 }
 
 export type ContentSource = {
@@ -37,6 +47,10 @@ export type ContentSource = {
   loadTracks(practiceId: string): Record<string, LectioTrackDef> | undefined
   getPrayer(ref: string): PrayerAsset | undefined
   getCanticle(ref: string): PrayerAsset | undefined
+  getChapterManifest(id: string): ChapterManifest | undefined
+  getAllChapterManifests(): ChapterManifest[]
+  loadChapterContent(id: string): FlowDefinition | undefined
+  getProseText(filePath: string): LocalizedContent | undefined
 }
 
 const canticleRefs = new Set(['benedictus', 'magnificat', 'nunc-dimittis'])
@@ -125,6 +139,87 @@ async function loadPractice(
   await Promise.all(promises)
 }
 
+function collectProseFiles(sections: FlowSection[]): string[] {
+  const files: string[] = []
+  for (const section of sections) {
+    if (section.type === 'prose') files.push(section.file)
+    if ('sections' in section && Array.isArray(section.sections)) {
+      files.push(...collectProseFiles(section.sections as FlowSection[]))
+    }
+    if (section.type === 'options') {
+      for (const opt of section.options) {
+        files.push(...collectProseFiles(opt.sections))
+      }
+    }
+  }
+  return files
+}
+
+async function readTextFile(path: string): Promise<string | undefined> {
+  try {
+    return await new File(path).text()
+  } catch {
+    return undefined
+  }
+}
+
+function rewriteImagePaths(sections: FlowSection[], baseUri: string): void {
+  for (const section of sections) {
+    if (section.type === 'image' && section.src && !section.src.startsWith('file://')) {
+      section.src = `${baseUri}/${section.src}`
+    }
+    if (section.type === 'gallery') {
+      for (const item of section.items) {
+        if (item.src && !item.src.startsWith('file://')) {
+          item.src = `${baseUri}/${item.src}`
+        }
+      }
+    }
+    if (section.type === 'holy-card' && section.image && !section.image.startsWith('file://')) {
+      section.image = `${baseUri}/${section.image}`
+    }
+    if (section.type === 'options') {
+      for (const opt of section.options) {
+        rewriteImagePaths(opt.sections, baseUri)
+      }
+    }
+  }
+}
+
+async function loadChapter(
+  bookDirUri: string,
+  chapterId: string,
+  languages: string[],
+  chapters: Record<string, ChapterManifest>,
+  chapterFlows: Map<string, FlowDefinition>,
+  proseTexts: Map<string, LocalizedContent>,
+) {
+  const base = `${bookDirUri}chapters/${chapterId}`
+  const manifest = await readJson<ChapterManifest>(`${base}/chapter.json`)
+  if (!manifest) return
+  chapters[chapterId] = manifest
+
+  const content = await readJson<FlowDefinition>(`${base}/content.json`)
+  if (!content) return
+  rewriteImagePaths(content.sections, base)
+  chapterFlows.set(chapterId, content)
+
+  const proseFiles = collectProseFiles(content.sections)
+  await Promise.all(
+    proseFiles.map(async (file) => {
+      const key = `${chapterId}/${file}`
+      const text: LocalizedContent = {}
+      await Promise.all(
+        languages.map(async (lang) => {
+          const content = await readTextFile(`${base}/${file}.${lang}.md`)
+          if (content) (text as Record<string, string>)[lang] = content
+        }),
+      )
+      if (Object.keys(text).length > 0) proseTexts.set(key, text)
+    }),
+  )
+}
+
 export async function createFileSystemSource(bookDirUri: string): Promise<ContentSource> {
   const book = await readJson<PrayerBook>(`${bookDirUri}book.json`)
   if (!book) throw new Error(`No book.json found in ${bookDirUri}`)
@@ -141,6 +236,18 @@ export async function createFileSystemSource(bookDirUri: string): Promise<Conten
     ),
   )
 
+  const chapters: Record<string, ChapterManifest> = {}
+  const chapterFlows = new Map<string, FlowDefinition>()
+  const proseTexts = new Map<string, LocalizedContent>()
+
+  if (book.chapters?.length) {
+    await Promise.all(
+      book.chapters.map((cid) =>
+        loadChapter(bookDirUri, cid, book.languages, chapters, chapterFlows, proseTexts),
+      ),
+    )
+  }
+
   const prayers: Record<string, PrayerAsset> = {}
   await Promise.all(
     book.prayers.map(async (prayerId) => {
@@ -152,6 +259,10 @@ export async function createFileSystemSource(bookDirUri: string): Promise<Conten
   const allManifests = book.practices
     .map((id) => manifests[id])
     .filter((m): m is PracticeManifest => m !== undefined)
+
+  const allChapterManifests = (book.chapters ?? [])
+    .map((id) => chapters[id])
+    .filter((m): m is ChapterManifest => m !== undefined)
 
   return {
     bookId: book.id,
@@ -165,5 +276,9 @@ export async function createFileSystemSource(bookDirUri: string): Promise<Conten
     loadTracks: (pid) => tracksCache.get(pid),
     getPrayer: (ref) => (canticleRefs.has(ref) ? undefined : prayers[ref]),
     getCanticle: (ref) => (canticleRefs.has(ref) ? prayers[ref] : undefined),
+    getChapterManifest: (id) => chapters[id],
+    getAllChapterManifests: () => allChapterManifests,
+    loadChapterContent: (id) => chapterFlows.get(id),
+    getProseText: (filePath) => proseTexts.get(filePath),
   }
 }

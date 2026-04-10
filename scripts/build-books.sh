@@ -54,6 +54,16 @@ for book_dir in sorted(glob.glob('$BOOKS_SRC/*/')):
         else:
             prayers_preview.append({'id': prid, 'title': {'en-US': prid}})
 
+    # Read chapter titles for preview
+    chapters_preview = []
+    for cid in m.get('chapters', []):
+        cm_path = os.path.join(book_dir, 'chapters', cid, 'chapter.json')
+        if os.path.exists(cm_path):
+            cm = json.load(open(cm_path))
+            chapters_preview.append({'id': cid, 'title': cm.get('title', {})})
+        else:
+            chapters_preview.append({'id': cid, 'title': {'en-US': cid}})
+
     content_hash = ''
     if os.path.exists(pp):
         with open(pp, 'rb') as hf:
@@ -69,6 +79,8 @@ for book_dir in sorted(glob.glob('$BOOKS_SRC/*/')):
         'practiceCount': len(m.get('practices', [])),
         'practices': practices_preview,
         'prayers': prayers_preview,
+        'chapters': chapters_preview,
+        'contents': m.get('contents', None),
         'size': os.path.getsize(pp) if os.path.exists(pp) else 0,
         'file': fn,
         'contentHash': content_hash,

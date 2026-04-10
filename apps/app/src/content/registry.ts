@@ -1,7 +1,7 @@
 import { localizeContent } from '@/lib/i18n'
-import type { PracticeManifest } from './manifest-types'
+import type { ChapterManifest, PracticeManifest } from './manifest-types'
 import type { ContentSource, PrayerAsset } from './sources/filesystem'
-import type { CycleData, FlowDefinition, LectioTrackDef, Variant } from './types'
+import type { CycleData, FlowDefinition, LectioTrackDef, LocalizedContent, Variant } from './types'
 
 const sources: ContentSource[] = []
 const practiceToBook = new Map<string, string>()
@@ -150,4 +150,20 @@ export function getPracticeIdsForBook(bookId: string): string[] {
 
 export function getInstalledBookIds(): string[] {
   return sources.map((s) => s.bookId)
+}
+
+export function getChapterManifest(chapterId: string, bookId: string): ChapterManifest | undefined {
+  return bookIdToSource.get(bookId)?.getChapterManifest(chapterId)
+}
+
+export function getAllChapterManifestsForBook(bookId: string): ChapterManifest[] {
+  return bookIdToSource.get(bookId)?.getAllChapterManifests() ?? []
+}
+
+export function loadChapterContent(chapterId: string, bookId: string): FlowDefinition | undefined {
+  return bookIdToSource.get(bookId)?.loadChapterContent(chapterId)
+}
+
+export function getProseText(filePath: string, bookId: string): LocalizedContent | undefined {
+  return bookIdToSource.get(bookId)?.getProseText(filePath)
 }

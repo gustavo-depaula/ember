@@ -35,4 +35,5 @@ export {
 export { ReadingConfigBadge, ReadingConfigModal } from './ReadingConfigModal'
 export { RubricLabel } from './RubricLabel'
 export { ScreenLayout } from './ScreenLayout'
+export { SectionBlock } from './SectionBlock'
 export { SectionDivider } from './SectionDivider'

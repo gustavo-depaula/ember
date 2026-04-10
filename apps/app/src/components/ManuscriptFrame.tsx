@@ -15,9 +15,11 @@ const cornerSize = 120
 export function ManuscriptFrame({
   children,
   light = false,
+  contentPadding,
 }: {
   children: ReactNode
   light?: boolean
+  contentPadding?: number | string
 }) {
   const { showCorners, outerBorder, innerBorder, innerPadding } = (() => {
     if (light) {
@@ -55,7 +57,8 @@ export function ManuscriptFrame({
       <YStack
         borderWidth={innerBorder}
         borderColor={'$accentSubtle'}
-        padding="$md"
+        padding={contentPadding ?? '$md'}
+        overflow="hidden"
         style={innerBorder > 0 ? styles.inner : undefined}
       >
         {children}

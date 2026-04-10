@@ -1,6 +1,8 @@
-import type { BilingualText } from '@ember/content-engine'
+// biome-ignore-all lint/suspicious/noArrayIndexKey: static render lists
+import type { BilingualText, LocalizedText } from '@ember/content-engine'
+import { resolveFlow } from '@ember/content-engine'
 import { useLocalSearchParams, useRouter } from 'expo-router'
-import { ChevronLeft, Download, Trash2 } from 'lucide-react-native'
+import { BookOpen, ChevronLeft, Download, Trash2 } from 'lucide-react-native'
 import { useCallback, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Alert, Pressable, ScrollView, View } from 'react-native'
@@ -9,9 +11,9 @@ import { Text, useTheme, XStack, YStack } from 'tamagui'
 import { AnimatedPressable, ScreenLayout, SectionDivider } from '@/components'
 import { ManuscriptFrame } from '@/components/ManuscriptFrame'
 import { PracticeIcon } from '@/components/PracticeIcon'
-import { CanticleBlock } from '@/components/prayer/CanticleBlock'
-import { PrayerTextBlock } from '@/components/prayer/PrayerTextBlock'
-import { getManifest, resolvePrayer } from '@/content/registry'
+import { SectionBlock } from '@/components/SectionBlock'
+import { createEngineContext } from '@/content/engineContext'
+import { getAllChapterManifestsForBook, getManifest, resolvePrayer } from '@/content/registry'
 import type { PrayerBook } from '@/content/sources/filesystem'
 import type { PracticePreview, PrayerPreview } from '@/features/books/bookManager'
 import {
@@ -67,6 +69,13 @@ export default function BookDetailScreen() {
     return []
   }, [book, registryEntry])
 
+  const chapterList: { id: string; title: LocalizedText }[] = useMemo(() => {
+    if (book) {
+      return getAllChapterManifestsForBook(book.id).map((ch) => ({ id: ch.id, title: ch.title }))
+    }
+    return registryEntry?.chapters ?? []
+  }, [book, registryEntry])
+
   const name = book
     ? localizeContent(book.name)
     : registryEntry
@@ -118,12 +127,24 @@ export default function BookDetailScreen() {
     if (!asset) return undefined
     const bil = (text: Record<string, string>): BilingualText =>
       localizeBilingual(text, contentLanguage, secondaryLanguage)
+    // Legacy format: body was LocalizedText before migration to FlowSection[]
+    if (!Array.isArray(asset.body)) {
+      return {
+        title: bil(asset.title),
+        sections: [
+          {
+            type: 'prayer' as const,
+            title: bil(asset.title),
+            text: bil(asset.body as unknown as Record<string, string>),
+          },
+        ],
+      }
+    }
+    const ec = createEngineContext(book?.id)
+    const sections = resolveFlow({ sections: asset.body }, { date: new Date() }, ec)
     return {
       title: bil(asset.title),
-      body: bil(asset.body),
-      subtitle: asset.subtitle ? bil(asset.subtitle) : undefined,
-      source: asset.source ? bil(asset.source) : undefined,
-      isCanticle: !!(asset.subtitle || asset.source),
+      sections,
     }
   }, [selectedPrayer, isInstalled, book, contentLanguage, secondaryLanguage])
 
@@ -150,6 +171,7 @@ export default function BookDetailScreen() {
         text: t('prayerBooks.remove'),
         style: 'destructive',
         onPress: () => {
+          // biome-ignore lint/style/noNonNullAssertion: guarded by early return
           removeBook.mutate(bookId!, { onSuccess: () => router.back() })
         },
       },
@@ -205,6 +227,58 @@ export default function BookDetailScreen() {
 
           <SectionDivider />
 
+          {chapterList.length > 0 && (
+            <>
+              <Text fontFamily="$heading" fontSize="$3" color="$color">
+                {t('prayerBooks.contents')}
+              </Text>
+
+              <YStack gap="$xs">
+                {chapterList.map((chapter) => (
+                  <AnimatedPressable
+                    key={chapter.id}
+                    onPress={
+                      isInstalled
+                        ? () =>
+                            router.push({
+                              // biome-ignore lint/suspicious/noExplicitAny: expo-router untyped route
+                              pathname: '/prayer-books/chapters/[chapterId]' as any,
+                              // biome-ignore lint/style/noNonNullAssertion: guarded by early return
+                              params: { chapterId: chapter.id, bookId: bookId! },
+                            })
+                        : undefined
+                    }
+                    disabled={!isInstalled}
+                  >
+                    <XStack
+                      backgroundColor="$backgroundSurface"
+                      borderRadius="$md"
+                      padding="$sm"
+                      paddingHorizontal="$md"
+                      gap="$md"
+                      alignItems="center"
+                      borderWidth={1}
+                      borderColor="$borderColor"
+                      opacity={isInstalled ? 1 : 0.7}
+                    >
+                      <BookOpen size={22} color={theme.colorSecondary.val} />
+                      <Text flex={1} fontFamily="$body" fontSize="$2" color="$color">
+                        {localizeContent(chapter.title)}
+                      </Text>
+                      {isInstalled && (
+                        <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
+                          ›
+                        </Text>
+                      )}
+                    </XStack>
+                  </AnimatedPressable>
+                ))}
+              </YStack>
+
+              <SectionDivider />
+            </>
+          )}
+
           <Text fontFamily="$heading" fontSize="$3" color="$color">
             {t('prayerBooks.practices')}
           </Text>
@@ -217,6 +291,7 @@ export default function BookDetailScreen() {
                 <AnimatedPressable
                   key={practice.id}
                   onPress={
+                    // biome-ignore lint/suspicious/noExplicitAny: expo-router untyped route
                     isInstalled ? () => router.push(`/practices/${practice.id}` as any) : undefined
                   }
                   disabled={!isInstalled}
@@ -338,19 +413,14 @@ export default function BookDetailScreen() {
           >
             <ManuscriptFrame>
               <ScrollView contentContainerStyle={{ padding: 16 }}>
-                {selectedPrayerData?.isCanticle ? (
-                  <CanticleBlock
-                    title={selectedPrayerData.title}
-                    subtitle={selectedPrayerData.subtitle ?? { primary: '' }}
-                    source={selectedPrayerData.source ?? { primary: '' }}
-                    text={selectedPrayerData.body}
-                  />
-                ) : selectedPrayerData ? (
+                {selectedPrayerData ? (
                   <YStack gap="$sm">
                     <Text fontFamily="$heading" fontSize="$3" color="$accent" textAlign="center">
                       {selectedPrayerData.title.primary}
                     </Text>
-                    <PrayerTextBlock text={selectedPrayerData.body} />
+                    {selectedPrayerData.sections.map((s, i) => (
+                      <SectionBlock key={`${s.type}-${i}`} section={s} />
+                    ))}
                   </YStack>
                 ) : null}
               </ScrollView>
