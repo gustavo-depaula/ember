@@ -1,0 +1,39 @@
+{
+	"sections": [
+		{
+			"type": "heading",
+			"text": { "pt-BR": "Orações fundamentais" }
+		},
+		{
+			"type": "prose",
+			"file": "sections/oracoes"
+		},
+		{ "type": "divider" },
+		{
+			"type": "heading",
+			"text": { "pt-BR": "Mandamentos e Sacramentos" }
+		},
+		{
+			"type": "prose",
+			"file": "sections/mandamentos"
+		},
+		{ "type": "divider" },
+		{
+			"type": "heading",
+			"text": { "pt-BR": "Obras de misericórdia e pecados capitais" }
+		},
+		{
+			"type": "prose",
+			"file": "sections/obras-pecados"
+		},
+		{ "type": "divider" },
+		{
+			"type": "heading",
+			"text": { "pt-BR": "Eu pecador e Ato de contrição" }
+		},
+		{
+			"type": "prose",
+			"file": "sections/confiteor"
+		}
+	]
+}

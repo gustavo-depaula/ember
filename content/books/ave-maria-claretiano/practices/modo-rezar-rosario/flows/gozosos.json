@@ -118,6 +118,13 @@
 		{
 			"type": "prayer",
 			"ref": "hail-holy-queen"
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "prayer",
+			"ref": "ladainha-nossa-senhora"
 		}
 	]
 }
