@@ -16,7 +16,7 @@ export function TierBadge({ tier }: { tier: Tier }) {
       paddingVertical={2}
       opacity={0.85}
     >
-      <Text fontFamily="$body" fontSize={10} color="white" textTransform="uppercase">
+      <Text fontFamily="$body" fontSize="$1" color="white" textTransform="uppercase">
         {t(`tier.${tier}`)}
       </Text>
     </YStack>

@@ -25,10 +25,10 @@ export function ChapterContent({
   return (
     <YStack gap="$xs" paddingVertical="$lg" paddingHorizontal={readingMargin}>
       <YStack alignItems="center" gap="$md" paddingBottom="$md">
-        <Text fontFamily="$heading" fontSize={32} color="$colorSecondary" textAlign="center">
+        <Text fontFamily="$heading" fontSize="$5" color="$colorSecondary" textAlign="center">
           {bookName}
         </Text>
-        <Text fontFamily="$heading" fontSize={22} color="$colorSecondary">
+        <Text fontFamily="$heading" fontSize="$4" color="$colorSecondary">
           {t('position.chapter', { n: chapter })}
         </Text>
         <OrnamentalRule />

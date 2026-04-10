@@ -105,7 +105,7 @@ function FormattedLine({ line }: { line: string }) {
             )
           case 'verse-num':
             return (
-              <Text key={i} fontSize={10} color="$colorSecondary" opacity={0.7}>
+              <Text key={i} fontSize="$1" color="$colorSecondary" opacity={0.7}>
                 {`\u2009${seg.value}\u2009`}
               </Text>
             )

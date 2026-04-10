@@ -58,7 +58,7 @@ export function SegmentContent({
             <Text
               key={part}
               fontFamily="$body"
-              fontSize={11}
+              fontSize="$1"
               color="$colorSecondary"
               textAlign="center"
               numberOfLines={1}

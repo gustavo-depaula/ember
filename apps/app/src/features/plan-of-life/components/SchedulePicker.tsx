@@ -156,7 +156,7 @@ function DayOfWeekPicker({
               alignItems="center"
               justifyContent="center"
             >
-              <Text fontFamily="$body" fontSize={12} color={selected ? 'white' : '$colorSecondary'}>
+              <Text fontFamily="$body" fontSize="$1" color={selected ? 'white' : '$colorSecondary'}>
                 {t(`day.${key}`)}
               </Text>
             </YStack>
@@ -271,7 +271,7 @@ function DayOfMonthPicker({
               alignItems="center"
               justifyContent="center"
             >
-              <Text fontFamily="$body" fontSize={12} color={selected ? 'white' : '$colorSecondary'}>
+              <Text fontFamily="$body" fontSize="$1" color={selected ? 'white' : '$colorSecondary'}>
                 {d}
               </Text>
             </YStack>
@@ -316,7 +316,7 @@ function NthWeekdayPicker({
               >
                 <Text
                   fontFamily="$body"
-                  fontSize={12}
+                  fontSize="$1"
                   color={selected ? 'white' : '$colorSecondary'}
                 >
                   {label}
@@ -343,7 +343,7 @@ function NthWeekdayPicker({
               >
                 <Text
                   fontFamily="$body"
-                  fontSize={12}
+                  fontSize="$1"
                   color={selected ? 'white' : '$colorSecondary'}
                 >
                   {t(`day.${key}`)}

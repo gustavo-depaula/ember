@@ -179,8 +179,7 @@ export function ProseBlock({ text }: { text: BilingualText }) {
                   fontSize="$3"
                   fontStyle="italic"
                   color="$colorSecondary"
-                  lineHeight={28}
-                >
+                                 >
                   <InlineText nodes={node.children} />
                 </Text>
               </YStack>
@@ -189,7 +188,7 @@ export function ProseBlock({ text }: { text: BilingualText }) {
             return (
               <YStack key={i} gap="$xs" paddingLeft="$md">
                 {node.items.map((item, j) => (
-                  <Text key={j} fontFamily="$body" fontSize="$3" color="$color" lineHeight={28}>
+                  <Text key={j} fontFamily="$body" fontSize="$3" color="$color">
                     {node.ordered ? `${j + 1}. ` : '\u2022 '}
                     <InlineText nodes={item} />
                   </Text>
@@ -198,7 +197,7 @@ export function ProseBlock({ text }: { text: BilingualText }) {
             )
           default:
             return (
-              <Text key={i} fontFamily="$body" fontSize="$3" color="$color" lineHeight={28}>
+              <Text key={i} fontFamily="$body" fontSize="$3" color="$color">
                 <InlineText nodes={node.children} />
               </Text>
             )

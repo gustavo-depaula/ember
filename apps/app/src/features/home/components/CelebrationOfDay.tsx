@@ -72,7 +72,7 @@ export function CelebrationOfDay({ date }: { date: Date }) {
 
         {others.map((c) => (
           <XStack key={c.entry.id} gap="$sm" alignItems="center" opacity={0.7}>
-            <Text fontSize={10} color="$colorSecondary">
+            <Text fontSize="$1" color="$colorSecondary">
               •
             </Text>
             <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">

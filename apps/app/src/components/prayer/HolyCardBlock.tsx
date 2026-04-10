@@ -144,7 +144,7 @@ function HolyCardFront({
           paddingHorizontal="$sm"
           backgroundColor="rgba(0,0,0,0.4)"
         >
-          <Text fontFamily="$body" fontSize={11} color="white" textAlign="center">
+          <Text fontFamily="$body" fontSize="$1" color="white" textAlign="center">
             {attribution.primary}
           </Text>
         </View>
@@ -221,7 +221,7 @@ function HolyCardBack({
         {title && (
           <Text
             fontFamily="$heading"
-            fontSize={24}
+            fontSize="$5"
             color="$accent"
             textAlign="center"
             marginTop="$sm"
@@ -237,11 +237,10 @@ function HolyCardBack({
         {prayer && (
           <Text
             fontFamily="$body"
-            fontSize={18}
+            fontSize="$3"
             color="$color"
             textAlign="center"
             fontStyle="italic"
-            lineHeight={26}
             paddingHorizontal="$sm"
           >
             &ldquo;{prayer.primary}&rdquo;

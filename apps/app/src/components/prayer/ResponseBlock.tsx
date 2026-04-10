@@ -11,7 +11,7 @@ export function ResponseBlock({ verses }: { verses: { v: BilingualText; r: Bilin
       {verses.map((verse, i) => (
         <YStack key={`vr-${i}`}>
           <XStack gap={4} alignItems="baseline" accessibilityLabel={`Versicle: ${verse.v.primary}`}>
-            <Text fontFamily="$body" fontSize={13} color="$colorBurgundy" width={18} aria-hidden>
+            <Text fontFamily="$body" fontSize="$1" color="$colorBurgundy" width={18} aria-hidden>
               ℣.
             </Text>
             <YStack flex={1}>
@@ -21,7 +21,7 @@ export function ResponseBlock({ verses }: { verses: { v: BilingualText; r: Bilin
           <XStack gap={4} alignItems="baseline" accessibilityLabel={`Response: ${verse.r.primary}`}>
             <Text
               fontFamily="$body"
-              fontSize={13}
+              fontSize="$1"
               color="$accent"
               fontWeight="600"
               width={18}

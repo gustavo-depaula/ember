@@ -32,7 +32,7 @@ function CollapsibleSection({
         </XStack>
       </Pressable>
       {expanded && (
-        <Text fontFamily="$body" fontSize="$3" color="$color" lineHeight={24} paddingLeft="$lg">
+        <Text fontFamily="$body" fontSize="$3" color="$color" paddingLeft="$lg">
           {content}
         </Text>
       )}
@@ -62,7 +62,7 @@ export function PracticeTeachingContent({
           <Text fontFamily="$heading" fontSize="$3" color="$accent">
             {t('catalog.about')}
           </Text>
-          <Text fontFamily="$body" fontSize="$3" color="$color" lineHeight={24}>
+          <Text fontFamily="$body" fontSize="$3" color="$color">
             {description}
           </Text>
         </YStack>
