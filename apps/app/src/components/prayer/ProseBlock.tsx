@@ -174,12 +174,7 @@ export function ProseBlock({ text }: { text: BilingualText }) {
                 paddingLeft="$md"
                 marginLeft="$sm"
               >
-                <Text
-                  fontFamily="$body"
-                  fontSize="$3"
-                  fontStyle="italic"
-                  color="$colorSecondary"
-                                 >
+                <Text fontFamily="$body" fontSize="$3" fontStyle="italic" color="$colorSecondary">
                   <InlineText nodes={node.children} />
                 </Text>
               </YStack>

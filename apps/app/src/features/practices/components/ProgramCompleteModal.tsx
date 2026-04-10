@@ -35,12 +35,7 @@ export function ProgramCompleteModal({
           <ManuscriptFrame>
             <YStack alignItems="center" gap="$md" paddingVertical="$lg" paddingHorizontal="$md">
               <FadeInView index={1}>
-                <Text
-                  fontFamily="$display"
-                  fontSize="$4"
-                  color="$accent"
-                  textAlign="center"
-                >
+                <Text fontFamily="$display" fontSize="$4" color="$accent" textAlign="center">
                   {t('program.complete')}
                 </Text>
               </FadeInView>
@@ -50,13 +45,7 @@ export function ProgramCompleteModal({
               </FadeInView>
 
               <FadeInView index={3}>
-                <Text
-                  fontFamily="$body"
-                  fontSize="$3"
-                  color="$color"
-                  textAlign="center"
-
-                >
+                <Text fontFamily="$body" fontSize="$3" color="$color" textAlign="center">
                   {t('program.completeMessage', { name: practiceName })}
                 </Text>
               </FadeInView>
