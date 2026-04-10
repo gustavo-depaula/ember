@@ -52,7 +52,7 @@ export default function ChapterReaderScreen() {
                 {title}
               </Text>
               {chapter.subtitle && (
-                <Text fontFamily="$body" fontSize={11} color="$colorSecondary">
+                <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
                   {localizeContent(chapter.subtitle)}
                 </Text>
               )}

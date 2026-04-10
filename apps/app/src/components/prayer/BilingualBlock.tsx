@@ -27,7 +27,7 @@ export function BilingualBlock({
         {content.secondaryMissing && secondaryLanguage && (
           <Text
             fontFamily="$heading"
-            fontSize={10}
+            fontSize="$1"
             color="$colorSecondary"
             opacity={0.4}
             textDecorationLine="line-through"

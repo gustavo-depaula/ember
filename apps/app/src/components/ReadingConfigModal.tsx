@@ -64,7 +64,7 @@ function ButtonGroup({ children, label }: { children: React.ReactNode; label: st
       >
         {children}
       </XStack>
-      <Text fontFamily="$body" fontSize={11} color="$colorSecondary">
+      <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
         {label}
       </Text>
     </YStack>
@@ -134,7 +134,7 @@ export function ReadingConfig() {
             accessibilityLabel={t('a11y.decreaseSize')}
           >
             {() => (
-              <Text fontFamily="$body" fontSize={15} color="$color">
+              <Text fontFamily="$body" fontSize="$2" color="$color">
                 a
               </Text>
             )}
@@ -145,7 +145,7 @@ export function ReadingConfig() {
             accessibilityLabel={t('a11y.increaseSize')}
           >
             {() => (
-              <Text fontFamily="$body" fontSize={24} color="$color">
+              <Text fontFamily="$body" fontSize="$5" color="$color">
                 A
               </Text>
             )}
@@ -159,7 +159,7 @@ export function ReadingConfig() {
             accessibilityLabel={t('a11y.decreaseSpacing')}
           >
             {() => (
-              <Text fontFamily="$body" fontSize={20} color="$color">
+              <Text fontFamily="$body" fontSize="$4" color="$color">
                 −
               </Text>
             )}
@@ -170,7 +170,7 @@ export function ReadingConfig() {
             accessibilityLabel={t('a11y.increaseSpacing')}
           >
             {() => (
-              <Text fontFamily="$body" fontSize={20} color="$color">
+              <Text fontFamily="$body" fontSize="$4" color="$color">
                 =
               </Text>
             )}
@@ -216,7 +216,7 @@ export function ReadingConfig() {
             {() => (
               <Text
                 fontFamily="$heading"
-                fontSize={18}
+                fontSize="$3"
                 color={rc.margin === 'narrow' ? '$background' : '$color'}
               >
                 ][
@@ -231,7 +231,7 @@ export function ReadingConfig() {
             {() => (
               <Text
                 fontFamily="$heading"
-                fontSize={18}
+                fontSize="$3"
                 color={rc.margin === 'normal' ? '$background' : '$color'}
                 letterSpacing={4}
               >
@@ -247,7 +247,7 @@ export function ReadingConfig() {
             {() => (
               <Text
                 fontFamily="$heading"
-                fontSize={18}
+                fontSize="$3"
                 color={rc.margin === 'wide' ? '$background' : '$color'}
                 letterSpacing={8}
               >

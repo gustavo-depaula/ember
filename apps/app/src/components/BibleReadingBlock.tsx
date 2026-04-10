@@ -4,14 +4,12 @@ import { Text, XStack, YStack } from 'tamagui'
 import type { Verse } from '@/lib/content'
 import { formatVerseRange } from '@/lib/lectio'
 
-import { IlluminatedInitial } from './IlluminatedInitial'
 import { PrayerText } from './PrayerText'
 
 export function BibleReadingBlock({
   reference,
   verses,
   fallback,
-  illuminated = false,
 }: {
   reference: {
     type: 'bible'
@@ -23,7 +21,6 @@ export function BibleReadingBlock({
   }
   verses: Verse[] | undefined
   fallback?: boolean
-  illuminated?: boolean
 }) {
   const { t } = useTranslation()
   if (!verses) return undefined
@@ -49,18 +46,9 @@ export function BibleReadingBlock({
         {t(`bookName.${reference.book}`, { defaultValue: reference.bookName })} {reference.chapter}
         {formatVerseRange(startVerse, endVerse)}
       </Text>
-      {filtered.length > 0 && (
-        <>
-          {illuminated ? (
-            <IlluminatedInitial text={filtered[0].text} />
-          ) : (
-            <PrayerText>{filtered[0].text}</PrayerText>
-          )}
-          {filtered.slice(1).map((v) => (
-            <PrayerText key={v.verse}>{v.text}</PrayerText>
-          ))}
-        </>
-      )}
+      {filtered.map((v) => (
+        <PrayerText key={v.verse}>{v.text}</PrayerText>
+      ))}
     </YStack>
   )
 }

@@ -37,8 +37,7 @@ export function ProgramCompleteModal({
               <FadeInView index={1}>
                 <Text
                   fontFamily="$display"
-                  fontSize={32}
-                  lineHeight={40}
+                  fontSize="$4"
                   color="$accent"
                   textAlign="center"
                 >
@@ -56,7 +55,7 @@ export function ProgramCompleteModal({
                   fontSize="$3"
                   color="$color"
                   textAlign="center"
-                  lineHeight={28}
+
                 >
                   {t('program.completeMessage', { name: practiceName })}
                 </Text>

@@ -269,12 +269,12 @@ const styles = StyleSheet.create({
   },
   dayLabel: {
     fontFamily: 'Cinzel_400Regular',
-    fontSize: 11,
+    fontSize: 13,
     textTransform: 'uppercase',
   },
   dayNumber: {
     fontFamily: 'EBGaramond_400Regular',
-    fontSize: 20,
+    fontSize: 21,
   },
   todayButton: {
     alignSelf: 'center',
@@ -283,7 +283,7 @@ const styles = StyleSheet.create({
   },
   todayButtonText: {
     fontFamily: 'Cinzel_400Regular',
-    fontSize: 14,
+    fontSize: 15,
     letterSpacing: 1,
   },
 })

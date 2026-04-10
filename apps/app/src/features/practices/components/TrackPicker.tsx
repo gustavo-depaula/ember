@@ -253,6 +253,6 @@ const styles = StyleSheet.create({
   },
   entryText: {
     fontFamily: 'EBGaramond_400Regular',
-    fontSize: 18,
+    fontSize: 19,
   },
 })

@@ -164,7 +164,7 @@ export function CardBack({
 
         <Text
           fontFamily="$heading"
-          fontSize={24}
+          fontSize="$5"
           color="$accent"
           textAlign="center"
           marginTop="$sm"
@@ -172,13 +172,13 @@ export function CardBack({
           {t(saint.nameKey)}
         </Text>
 
-        <Text fontFamily="$body" fontSize={18} color="$colorMuted" textAlign="center">
+        <Text fontFamily="$body" fontSize="$3" color="$colorMuted" textAlign="center">
           {t(saint.feastDayKey)}
         </Text>
 
         <Text
           fontFamily="$body"
-          fontSize={16}
+          fontSize="$2"
           color="$colorMuted"
           textAlign="center"
           fontStyle="italic"
@@ -192,11 +192,10 @@ export function CardBack({
 
         <Text
           fontFamily="$body"
-          fontSize={18}
+          fontSize="$3"
           color="$color"
           textAlign="center"
           fontStyle="italic"
-          lineHeight={26}
           paddingHorizontal="$sm"
         >
           &ldquo;{t(saint.prayerExcerptKey)}&rdquo;

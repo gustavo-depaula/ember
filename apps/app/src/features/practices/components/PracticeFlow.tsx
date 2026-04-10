@@ -15,7 +15,6 @@ import {
   CccReadingBlock,
   HeaderFlourish,
   ManuscriptFrame,
-  PageBreakOrnament,
   ProperSlot,
   type PsalmData,
   PsalmodyBlock,
@@ -365,7 +364,7 @@ export function PracticeFlow({
                 ✠
               </Text>
             )}
-            <Text fontFamily="$display" fontSize={36} lineHeight={42} color="$colorBurgundy">
+            <Text fontFamily="$display" fontSize="$5" color="$colorBurgundy">
               {practiceName}
             </Text>
             <Text fontFamily="$script" fontSize="$3" color="$colorSecondary">
@@ -385,8 +384,6 @@ export function PracticeFlow({
 
           <YStack gap="$md">
             {(() => {
-              const firstReadingIdx =
-                manifest.theme === 'office' ? sections.findIndex((s) => s.type === 'reading') : -1
               return sections.map((section, index) => (
                 <PracticeSectionBlock
                   key={`${section.type}-${index}`}
@@ -395,7 +392,6 @@ export function PracticeFlow({
                   bibleMap={bibleMap}
                   cccMap={cccMap}
                   officeTheme={manifest.theme === 'office'}
-                  isFirstReading={index === firstReadingIdx}
                 />
               ))
             })()}
@@ -447,14 +443,12 @@ function PracticeSectionBlock({
   bibleMap,
   cccMap,
   officeTheme = false,
-  isFirstReading = false,
 }: {
   section: RenderedSection
   psalmData: PsalmData[]
   bibleMap: Map<string, { verses: Verse[]; fallback?: boolean }>
   cccMap: Map<string, Array<{ number: number; text: string; section: string }>>
   officeTheme?: boolean
-  isFirstReading?: boolean
 }) {
   // Practice-specific section types
   switch (section.type) {
@@ -462,7 +456,6 @@ function PracticeSectionBlock({
       return <PsalmodyBlock psalmData={psalmData} />
 
     case 'reading': {
-      const illuminated = officeTheme && isFirstReading
       const ref = section.reference
       const bibleData = ref.type === 'bible' ? bibleMap.get(bibleKeyStr(ref)) : undefined
       const block =
@@ -471,7 +464,6 @@ function PracticeSectionBlock({
             reference={ref}
             verses={bibleData?.verses}
             fallback={bibleData?.fallback}
-            illuminated={illuminated}
           />
         ) : (
           <CccReadingBlock
@@ -479,14 +471,6 @@ function PracticeSectionBlock({
             paragraphs={cccMap.get(cccKeyStr({ start: ref.startParagraph, count: ref.count }))}
           />
         )
-      if (illuminated) {
-        return (
-          <>
-            <PageBreakOrnament />
-            {block}
-          </>
-        )
-      }
       return block
     }
 

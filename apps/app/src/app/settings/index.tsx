@@ -109,7 +109,7 @@ export default function SettingsScreen() {
       <YStack gap="$lg" paddingVertical="$lg">
         <YStack alignItems="center" gap="$xs">
           <HeaderFlourish />
-          <Text fontFamily="$display" fontSize={28} lineHeight={34} color="$color">
+          <Text fontFamily="$display" fontSize="$4" color="$color">
             {t('settings.title')}
           </Text>
         </YStack>

@@ -253,7 +253,7 @@ function BookList({
               <YStack paddingVertical={10} paddingHorizontal="$md">
                 <Text
                   fontFamily="$body"
-                  fontSize={28}
+                  fontSize="$5"
                   fontWeight={isCurrent ? '600' : '400'}
                   color={isCurrent ? '$color' : '$colorSecondary'}
                 >
