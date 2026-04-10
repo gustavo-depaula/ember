@@ -44,6 +44,9 @@ apps/app/android
 
 # Generated hearth assets (build:hearth output)
 content/saints/*.webp
+content/books/*/*.pray
+content/books/registry.json
+content/books/*/epubs/*/*.epub
 
 # Divinum Officium source (cloned for parser script)
 .divinum-officium/

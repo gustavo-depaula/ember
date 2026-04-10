@@ -44,12 +44,12 @@ A pure spiritual classic like *Imitation of Christ* has only prose. A prayer boo
 
 Two layers for prose content:
 
-- **`sources/books/`** — human-editable XHTML (what you commit and review)
-- **`build/books/`** — packaged EPUB 3 (what epub.js loads at runtime, .gitignore'd)
+- **`content/books/{bookId}/epubs/{epubId}/{lang}/`** — human-editable XHTML (what you commit and review)
+- **`content/books/{bookId}/epubs/{epubId}/{epubId}.{lang}.epub`** — packaged EPUB 3 (built at deploy time, .gitignore'd)
 
-A build script (`build-books`) packages XHTML source files into EPUB 3 bundles. The build step is trivial — it generates EPUB scaffolding (container.xml, package.opf, nav.xhtml) and zips the source files as-is. No parsing, no AST, no content transformation.
+EPUBs are embedded inside `.pray` packages — the same zip format used for prayer books. A single `.pray` can bundle prose books (EPUBs) alongside practices, prayers, and chapters. The `build-books.sh` script generates EPUB scaffolding (container.xml, package.opf, nav.xhtml), packages XHTML sources into valid EPUB 3 files (one per language), then zips everything into the `.pray` — **excluding the XHTML sources** from the final archive. Only the built `.epub` files and `epub.json` metadata ship to users.
 
-Books that are **pure prayer collections** (no `toc`, only `prayerCollection`) skip the build pipeline entirely — their manifests and prayer JSON are used directly at runtime. Mixed books package only their prose chapters.
+Books that are **pure prayer collections** (no `toc`, only `prayerCollection`) skip the EPUB build entirely — their manifests and prayer JSON are used directly at runtime. Mixed books package only their prose chapters as EPUBs.
 
 ### Why XHTML + EPUB?
 
@@ -60,16 +60,20 @@ Books that are **pure prayer collections** (no `toc`, only `prayerCollection`) s
 | EPUB authored directly | Editing files inside a zip is painful. XHTML source files in git are human-editable and diffable |
 | Custom format at runtime | Proprietary, no interop. EPUB is a W3C standard readable by any EPUB reader |
 
+### Why one EPUB per language?
+
+Multi-rendition EPUB (one file with multiple rootfiles) was considered but rejected. One EPUB per language is simpler: each file is a standard single-language EPUB (works in Apple Books, Calibre, any reader), epub.js handles it with no special config, and it enables future per-language CDN downloads.
+
 ### Pipeline
 
 ```
 EPUB/HTML source (Gutenberg, CCEL, Internet Archive)
   → import-book script (clean HTML, add semantic attributes)
-  → XHTML source in sources/books/
+  → XHTML source in content/books/{bookId}/epubs/{epubId}/{lang}/
   → human review, corrections, bilingual alignment
-  → build-books script (EPUB packaging)
-  → EPUB in build/books/
-  → epub.js renders in WebView
+  → build-books.sh (EPUB packaging + .pray zipping)
+  → .pray file with built .epub inside epubs/{epubId}/
+  → epub.js renders in WebView (reader not yet built)
 ```
 
 ### Queryability
@@ -88,24 +92,28 @@ No build-time index is required. The XHTML files ARE the queryable format.
 
 ## Directory Structure
 
-All books live in `sources/books/`. A book is a self-contained folder. The three archetypes:
+All books live in `content/books/`. A book is a self-contained folder — the same `.pray` package format used for prayer books. EPUB prose is nested under `epubs/` within the book directory. The three archetypes:
 
 ### Pure prose (Rule of St. Benedict)
 
 ```
-sources/books/benedict-rule/
-  manifest.json
-  en-US/
-    prologue.xhtml
-    ch-01.xhtml
-    ch-02.xhtml
+content/books/benedict-rule/
+  book.json
+  epubs/
+    benedict-rule/
+      epub.json                         # EPUB metadata (name, author, toc)
+      en-US/
+        prologue.xhtml                  # XHTML sources (committed to git)
+        ch-01.xhtml
+        ch-02.xhtml
+      benedict-rule.en-US.epub          # Built EPUB (.gitignore'd)
 ```
 
 ### Pure prayer collection (Orações Básicas)
 
 ```
-sources/books/oracoes-basicas/
-  manifest.json
+content/books/oracoes-basicas/
+  book.json
   prayers/                              # Scoped prayer assets
     sign-of-cross.json
     morning-offering.json
@@ -119,52 +127,59 @@ sources/books/oracoes-basicas/
       flows/default.json
 ```
 
-### Mixed book (Introduction to the Devout Life)
+### Mixed book (Montfort Spirituality)
 
 ```
-sources/books/francis-de-sales-devout-life/
-  manifest.json
-  en-US/
-    part-1/ch-01.xhtml                  # Prose chapters
-    part-1/ch-12.xhtml
-  pt-BR/
-    part-1/ch-01.xhtml
-    part-1/ch-12.xhtml
-  prayers/                              # Prayers St. Francis composed
-    morning-aspiration.json
-  practices/                            # Editorial practice programs
-    meditation-retreat/
+content/books/montfort-spirituality/
+  book.json
+  epubs/
+    montfort-true-devotion/
+      epub.json                         # EPUB metadata (name, author, toc)
+      en-US/                            # XHTML sources (committed to git)
+        ch-01.xhtml
+        ch-02.xhtml
+      pt-BR/
+        ch-01.xhtml
+        ch-02.xhtml
+      montfort-true-devotion.en-US.epub # Built EPUBs (.gitignore'd)
+      montfort-true-devotion.pt-BR.epub
+    montfort-secret-rosary/
+      epub.json
+      en-US/
+        rose-01.xhtml
+      montfort-secret-rosary.en-US.epub
+  prayers/                              # Montfort prayers
+    act-of-consecration.json
+  practices/                            # Plan-of-life practices
+    total-consecration/
       manifest.json
       flows/default.json
-      tracks/meditations.json           # Reading plan through chapters
-    morning-routine/
-      manifest.json
-      flows/default.json
+  chapters/                             # Native chapters (rendered in-app)
+    about-montfort/
+      chapter.json
+      content.json
 ```
 
 ### Study Bible with layers (Douay-Rheims + Haydock)
 
 ```
-sources/books/douay-rheims-study/
-  manifest.json
-  en-US/
-    genesis/ch-01.xhtml                 # Base text with anchors
-    genesis/ch-02.xhtml
+content/books/douay-rheims-study/
+  book.json
+  epubs/
+    douay-rheims-study/
+      epub.json
+      en-US/
+        genesis/ch-01.xhtml             # Base text with anchors
+        genesis/ch-02.xhtml
+      douay-rheims-study.en-US.epub
   layers/                               # Annotation layer content (format TBD)
     haydock/genesis/ch-01.*
     catena/genesis/ch-01.*
 ```
 
-### Build output (.gitignore'd)
+### Build output
 
-```
-build/books/
-  benedict-rule.epub
-  francis-de-sales-devout-life.epub
-  douay-rheims-study.epub
-```
-
-Each EPUB is a single multilingual bundle containing all languages, shared assets, and app metadata.
+Built EPUBs (`.epub` files inside `epubs/` subdirs) are generated by `build-books.sh` and excluded from git. They are included in the `.pray` zip, but the XHTML sources are **not** — only `epub.json` and `*.epub` files ship to users. One EPUB is generated per language.
 
 ### Per-language directories
 
