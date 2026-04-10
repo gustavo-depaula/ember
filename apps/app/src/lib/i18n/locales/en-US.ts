@@ -507,6 +507,11 @@ export default {
     removeConfirm: 'Remove prayer book?',
     removeConfirmDesc:
       'Any practices from this book will be removed from your plan of life. You can reinstall anytime.',
+    books: 'Books',
+    tableOfContents: 'Contents',
+    previousChapter: 'Previous',
+    nextChapter: 'Next',
+    chapterNotFound: 'Chapter not found.',
   },
 
   catalog: {
