@@ -1,0 +1,44 @@
+{
+  "sections": [
+    {
+      "type": "heading",
+      "text": { "en-US": "The Sacred Heart in Art", "pt-BR": "O Sagrado Coração na Arte" }
+    },
+    {
+      "type": "prose",
+      "file": "sections/intro"
+    },
+    {
+      "type": "gallery",
+      "items": [
+        {
+          "src": "images/batoni-sacred-heart.jpg",
+          "title": { "en-US": "Sacred Heart of Jesus", "pt-BR": "Sagrado Coração de Jesus" },
+          "attribution": { "en-US": "Pompeo Batoni, 1767", "pt-BR": "Pompeo Batoni, 1767" },
+          "caption": {
+            "en-US": "The most influential Sacred Heart painting. Batoni's composition — Christ gesturing to His heart surrounded by flames and crowned with thorns — became the definitive iconographic model.",
+            "pt-BR": "A pintura mais influente do Sagrado Coração. A composição de Batoni — Cristo apontando para Seu coração cercado por chamas e coroado de espinhos — tornou-se o modelo iconográfico definitivo."
+          }
+        },
+        {
+          "src": "images/bouguereau-sacred-heart.jpg",
+          "title": { "en-US": "Pietà", "pt-BR": "Pietà" },
+          "attribution": { "en-US": "William-Adolphe Bouguereau, 1876", "pt-BR": "William-Adolphe Bouguereau, 1876" },
+          "caption": {
+            "en-US": "Bouguereau's luminous Academic realism depicts the pierced Christ in Mary's arms — the moment when the Sacred Heart was opened for all humanity. His masterful rendering of grief and tenderness embodies the love the devotion contemplates.",
+            "pt-BR": "O realismo acadêmico luminoso de Bouguereau retrata o Cristo trespassado nos braços de Maria — o momento em que o Sagrado Coração foi aberto para toda a humanidade. Sua magistral representação da dor e da ternura encarna o amor que a devoção contempla."
+          }
+        },
+        {
+          "src": "images/traditional-sacred-heart.jpg",
+          "title": { "en-US": "Traditional Icon", "pt-BR": "Ícone Tradicional" },
+          "attribution": { "en-US": "Anonymous, 19th century", "pt-BR": "Anônimo, século XIX" },
+          "caption": {
+            "en-US": "The popular devotional image: the heart visible on Christ's chest, radiating light, encircled by the crown of thorns, surmounted by flames and the cross.",
+            "pt-BR": "A imagem devocional popular: o coração visível no peito de Cristo, irradiando luz, circundado pela coroa de espinhos, encimado por chamas e pela cruz."
+          }
+        }
+      ]
+    }
+  ]
+}

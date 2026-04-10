@@ -27,6 +27,15 @@ export type ProgramConfig = {
   restartThreshold?: number
 }
 
+export type ChapterManifest = {
+  id: string
+  title: LocalizedText
+  subtitle?: LocalizedText
+  image?: string
+  estimatedMinutes?: number
+  tags?: string[]
+}
+
 export type PracticeManifest = {
   id: string
   name: LocalizedText

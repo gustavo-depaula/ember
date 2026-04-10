@@ -1,0 +1,45 @@
+{
+  "sections": [
+    {
+      "type": "heading",
+      "text": { "en-US": "Saints of the Sacred Heart", "pt-BR": "Santos do Sagrado Coração" }
+    },
+    {
+      "type": "subheading",
+      "text": { "en-US": "St. Margaret Mary Alacoque (1647–1690)", "pt-BR": "Santa Margarida Maria Alacoque (1647–1690)" }
+    },
+    {
+      "type": "prose",
+      "file": "sections/margaret-mary"
+    },
+    {
+      "type": "holy-card",
+      "image": "images/st-margaret-mary.jpg",
+      "title": { "en-US": "St. Margaret Mary Alacoque", "pt-BR": "Santa Margarida Maria Alacoque" },
+      "attribution": { "en-US": "Feast Day: October 16", "pt-BR": "Festa: 16 de outubro" },
+      "prayer": {
+        "en-US": "O Heart of love, I put all my trust in Thee; for I fear all things from my own weakness, but I hope for all things from Thy goodness.",
+        "pt-BR": "Ó Coração de amor, coloco toda a minha confiança em Vós; pois temo tudo da minha própria fraqueza, mas espero tudo da Vossa bondade."
+      }
+    },
+    { "type": "divider" },
+    {
+      "type": "subheading",
+      "text": { "en-US": "St. Claude de la Colombière (1641–1682)", "pt-BR": "São Cláudio de la Colombière (1641–1682)" }
+    },
+    {
+      "type": "prose",
+      "file": "sections/claude-colombiere"
+    },
+    {
+      "type": "holy-card",
+      "image": "images/st-claude.jpg",
+      "title": { "en-US": "St. Claude de la Colombière", "pt-BR": "São Cláudio de la Colombière" },
+      "attribution": { "en-US": "Feast Day: February 15", "pt-BR": "Festa: 15 de fevereiro" },
+      "prayer": {
+        "en-US": "Lord, I believe in Thee, though Thou dost seem to repulse my love. I hope in Thee, though Thou dost seem to reject my hope. I love Thee, though Thou dost seem to refuse my love.",
+        "pt-BR": "Senhor, eu creio em Vós, ainda que pareçais repelir o meu amor. Espero em Vós, ainda que pareçais rejeitar a minha esperança. Amo-Vos, ainda que pareçais recusar o meu amor."
+      }
+    }
+  ]
+}

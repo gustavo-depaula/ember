@@ -1,0 +1,27 @@
+{
+  "sections": [
+    {
+      "type": "heading",
+      "text": { "en-US": "The Twelve Promises of the Sacred Heart", "pt-BR": "As Doze Promessas do Sagrado Coração" }
+    },
+    {
+      "type": "prose",
+      "file": "sections/intro"
+    },
+    { "type": "divider" },
+    {
+      "type": "prose",
+      "file": "sections/promises"
+    },
+    { "type": "divider" },
+    {
+      "type": "holy-card",
+      "image": "images/sacred-heart-promises.jpg",
+      "title": { "en-US": "The Great Promise", "pt-BR": "A Grande Promessa" },
+      "prayer": {
+        "en-US": "I promise thee, in the excessive mercy of My Heart, that My all-powerful love will grant to all those who receive Holy Communion on the First Fridays in nine consecutive months the grace of final perseverance.",
+        "pt-BR": "Eu te prometo, na excessiva misericórdia do Meu Coração, que Meu amor todo-poderoso concederá a todos aqueles que comungarem nas primeiras sextas-feiras, durante nove meses consecutivos, a graça da perseverança final."
+      }
+    }
+  ]
+}

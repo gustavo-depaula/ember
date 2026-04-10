@@ -11,8 +11,9 @@
   "completion": "flow-end",
   "program": {
     "totalDays": 9,
-    "progressPolicy": "wait",
-    "completionBehavior": "offer-restart"
+    "progressPolicy": "restart",
+    "completionBehavior": "offer-restart",
+    "restartThreshold": 1
   },
   "data": {
     "first-fridays": "data/months.json"
