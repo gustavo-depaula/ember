@@ -132,7 +132,7 @@ export default function PrayerBooksScreen() {
               <BookCard
                 key={entry.id}
                 name={localizeContent(entry.name)}
-                subtitle={`${entry.practiceCount} ${t('prayerBooks.practices').toLowerCase()} · ${Math.round(entry.size / 1024)} KB`}
+                subtitle={`${entry.practiceCount} ${t('prayerBooks.practices').toLowerCase()} · ${entry.size >= 1024 * 1024 ? `${(entry.size / (1024 * 1024)).toFixed(1)} MB` : `${Math.round(entry.size / 1024)} KB`}`}
                 onPress={() => router.push(`/prayer-books/${entry.id}` as any)}
               />
             ))}
