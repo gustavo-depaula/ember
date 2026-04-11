@@ -1,0 +1,3748 @@
+{
+  "id": "meditacoes",
+  "name": {
+    "pt-BR": "Meditações para todos os Dias e Festas do Ano"
+  },
+  "author": {
+    "pt-BR": "Santo Afonso Maria de Ligório"
+  },
+  "description": {
+    "pt-BR": "Tradução portuguesa da edição Herder & Cia, Friburgo, 1921."
+  },
+  "composed": 1760,
+  "languages": [
+    "pt-BR"
+  ],
+  "toc": [
+    {
+      "id": "modo-fazer-oracao-mental",
+      "title": {
+        "pt-BR": "Modo de fazer Oração Mental, por Santo Afonso"
+      }
+    },
+    {
+      "id": "tomo-1",
+      "title": {
+        "pt-BR": "Tomo I — Desde o Primeiro Domingo do Advento até a Semana Santa Inclusive"
+      },
+      "children": [
+        {
+          "id": "primeira-semana-do-advento",
+          "title": {
+            "pt-BR": "Primeira Semana do Advento"
+          },
+          "children": [
+            {
+              "id": "temeridade-pecador-dia-juizo",
+              "title": {
+                "pt-BR": "Domingo. A temeridade do pecador e o dia do Juízo"
+              }
+            },
+            {
+              "id": "pecado-adao-amor-deus-homens",
+              "title": {
+                "pt-BR": "Segunda-feira. O pecado de Adão e o amor de Deus pelos homens"
+              }
+            },
+            {
+              "id": "decreto-encarnacao-verbo",
+              "title": {
+                "pt-BR": "Terça-feira. O decreto da Encarnação do Verbo"
+              }
+            },
+            {
+              "id": "verbo-se-faz-homem-plenitude-tempos",
+              "title": {
+                "pt-BR": "Quarta-feira. O Verbo se faz homem na plenitude dos tempos"
+              }
+            },
+            {
+              "id": "jesus-ilumina-mundo-glorifica-deus",
+              "title": {
+                "pt-BR": "Quinta-feira. Jesus ilumina o mundo e glorifica a Deus"
+              }
+            },
+            {
+              "id": "quais-sejam-que-na-verdade-seguem-jesus-cristo",
+              "title": {
+                "pt-BR": "Sexta-feira. Quais sejam os que na verdade seguem a Jesus Cristo"
+              }
+            },
+            {
+              "id": "inefavel-dignidade-maria-santissima",
+              "title": {
+                "pt-BR": "Sábado. Inefável dignidade de Maria Santíssima"
+              }
+            }
+          ]
+        },
+        {
+          "id": "segunda-semana-do-advento",
+          "title": {
+            "pt-BR": "Segunda Semana do Advento"
+          },
+          "children": [
+            {
+              "id": "encarceramento-joao-utilidade-tribulacoes",
+              "title": {
+                "pt-BR": "Domingo. O encarceramento de João e a utilidade das tribulações"
+              }
+            },
+            {
+              "id": "deus-entrega-proprio-filho-morte-para-nos-dar-vida",
+              "title": {
+                "pt-BR": "Segunda-feira. Deus entrega o próprio Filho à morte para nos dar a vida"
+              }
+            },
+            {
+              "id": "retrato-de-um-homem-que-acaba-passar-outra-vida",
+              "title": {
+                "pt-BR": "Terça-feira. Retrato de um homem que acaba de passar a outra vida"
+              }
+            },
+            {
+              "id": "amor-que-o-filho-de-deus-nos-mostrou-na-redencao",
+              "title": {
+                "pt-BR": "Quarta-feira. Amor que o Filho de Deus nos mostrou na Redenção"
+              }
+            },
+            {
+              "id": "jesus-homem-dores-desde-seio-sua-mae",
+              "title": {
+                "pt-BR": "Quinta-feira. Jesus, Homem de dores desde o seio de sua Mãe"
+              }
+            },
+            {
+              "id": "na-cruz-acha-nossa-salvacao",
+              "title": {
+                "pt-BR": "Sexta-feira. Na Cruz acha-se a nossa salvação"
+              }
+            },
+            {
+              "id": "maria-santissima-modelo-paciencia",
+              "title": {
+                "pt-BR": "Sábado. Maria Santíssima, modelo de paciência"
+              }
+            }
+          ]
+        },
+        {
+          "id": "terceira-semana-do-advento",
+          "title": {
+            "pt-BR": "Terceira Semana do Advento"
+          },
+          "children": [
+            {
+              "id": "testemunho-sao-joao-batista-modestia-crista",
+              "title": {
+                "pt-BR": "Domingo. O testemunho de São João Batista e a modéstia cristã"
+              }
+            },
+            {
+              "id": "jesus-menino-toma-sobre-si-todos-pecados-homens",
+              "title": {
+                "pt-BR": "Segunda-feira. Jesus Menino toma sobre si todos os pecados dos homens"
+              }
+            },
+            {
+              "id": "no-inferno-sofre-se-sempre",
+              "title": {
+                "pt-BR": "Terça-feira. No inferno sofre-se sempre"
+              }
+            },
+            {
+              "id": "jesus-fonte-de-gracas",
+              "title": {
+                "pt-BR": "Quarta-feira. Jesus, fonte de graças"
+              }
+            },
+            {
+              "id": "jesus-atribulado-durante-toda-sua-vida",
+              "title": {
+                "pt-BR": "Quinta-feira. Jesus atribulado durante toda a sua vida"
+              }
+            }
+          ]
+        },
+        {
+          "id": "novena-para-a-festa-do-natal",
+          "title": {
+            "pt-BR": "Novena para a festa do Natal"
+          },
+          "children": [
+            {
+              "id": "novena-natal-primeiro-dia",
+              "title": {
+                "pt-BR": "1º Dia – 16 de Dezembro. Jesus Menino consente em ser nosso Redentor"
+              }
+            },
+            {
+              "id": "novena-natal-segundo-dia",
+              "title": {
+                "pt-BR": "2º Dia – 17 de Dezembro. Tristeza do Coração de Jesus no seio da Virgem Maria"
+              }
+            },
+            {
+              "id": "novena-natal-terceiro-dia",
+              "title": {
+                "pt-BR": "3º Dia – 18 de Dezembro. Expectação do Parto da Virgem Maria"
+              }
+            },
+            {
+              "id": "novena-natal-quarto-dia",
+              "title": {
+                "pt-BR": "4º Dia – 19 de Dezembro. A Paixão de Jesus Cristo durou todo o tempo da sua vida"
+              }
+            },
+            {
+              "id": "novena-natal-quinto-dia",
+              "title": {
+                "pt-BR": "5º Dia – 20 de Dezembro. Jesus Menino se oferece à justiça divina como nossa vitima"
+              }
+            },
+            {
+              "id": "novena-natal-sexto-dia",
+              "title": {
+                "pt-BR": "6º Dia – 21 de Dezembro. Dor de Jesus Menino pela previsão da ingratidão dos homens"
+              }
+            },
+            {
+              "id": "novena-natal-setimo-dia",
+              "title": {
+                "pt-BR": "7º Dia – 22 de Dezembro. Viagem de São José e Maria Santíssima a Belém"
+              }
+            },
+            {
+              "id": "novena-natal-oitavo-dia",
+              "title": {
+                "pt-BR": "8º Dia – 23 de Dezembro. José e Maria peregrinos em Belém sem abrigo"
+              }
+            },
+            {
+              "id": "novena-natal-nono-dia",
+              "title": {
+                "pt-BR": "9º Dia – 24 de Dezembro. A Gruta de Belém"
+              }
+            }
+          ]
+        },
+        {
+          "id": "dias-de-dezembro",
+          "title": {
+            "pt-BR": "Dias de Dezembro"
+          },
+          "children": [
+            {
+              "id": "natividade-nosso-senhor-jesus-cristo",
+              "title": {
+                "pt-BR": "Dia 25 de Dezembro. Natividade de Nosso Senhor Jesus Cristo"
+              }
+            },
+            {
+              "id": "festa-de-santo-estevao-protomartir",
+              "title": {
+                "pt-BR": "Dia 26 de Dezembro. Festa de Santo Estevão, Proto mártir"
+              }
+            },
+            {
+              "id": "visita-gruta-belem",
+              "title": {
+                "pt-BR": "Meditação para a tarde do mesmo dia: Uma visita à Gruta de Belém"
+              }
+            },
+            {
+              "id": "festa-sao-joao-evangelista",
+              "title": {
+                "pt-BR": "Dia 27 de Dezembro. Festa de São João Evangelista"
+              }
+            },
+            {
+              "id": "oferecimento-coracao-jesus-menino",
+              "title": {
+                "pt-BR": "Meditação para a tarde do mesmo dia: Oferecimento do coração a Jesus Menino"
+              }
+            },
+            {
+              "id": "festa-santos-inocentes",
+              "title": {
+                "pt-BR": "Dia 28 de Dezembro. Festa dos Santos Inocentes"
+              }
+            },
+            {
+              "id": "felicidade-nasceu-depois-redencao-igreja-catolica",
+              "title": {
+                "pt-BR": "Meditação para a tarde do mesmo dia: Felicidade de quem nasceu depois da Redenção e na Igreja Católica"
+              }
+            },
+            {
+              "id": "alegria-trazida-mundo-nascimento-jesus-cristo",
+              "title": {
+                "pt-BR": "Dia 29 de Dezembro. Alegria trazida ao mundo pelo nascimento de Jesus Cristo"
+              }
+            },
+            {
+              "id": "vida-tribulacoes-jesus-cristo-desde-nascimento",
+              "title": {
+                "pt-BR": "Dia 30 de Dezembro. Vida de tribulações que Jesus Cristo começou a levar desde seu nascimento"
+              }
+            },
+            {
+              "id": "devemos-aproveitar-o-tempo",
+              "title": {
+                "pt-BR": "Para o último dia do ano. Devemos aproveitar o tempo"
+              }
+            },
+            {
+              "id": "jesus-cristo-tem-feito-e-padecido-tudo-por-nosso-amor",
+              "title": {
+                "pt-BR": "Meditação para a tarde do mesmo dia: Jesus Cristo tem feito e padecido tudo por nosso amor"
+              }
+            }
+          ]
+        },
+        {
+          "id": "mes-de-janeiro",
+          "title": {
+            "pt-BR": "Mês de Janeiro"
+          },
+          "children": [
+            {
+              "id": "circuncisao-jesus-sacramento-batismo",
+              "title": {
+                "pt-BR": "Dia 01 de Janeiro. A Circuncisão de Jesus e o Sacramento do Batismo"
+              }
+            },
+            {
+              "id": "festa-santissimo-nome-jesus",
+              "title": {
+                "pt-BR": "Domingo entre a Circuncisão e a Epifania. Festa do Santíssimo Nome de Jesus"
+              }
+            },
+            {
+              "id": "porque-jesus-quis-nascer-crianca",
+              "title": {
+                "pt-BR": "Dia 02 de Janeiro. Porque Jesus quis nascer criança"
+              }
+            },
+            {
+              "id": "jesus-envolto-faixas",
+              "title": {
+                "pt-BR": "Dia 03 de Janeiro. Jesus envolto em faixas"
+              }
+            },
+            {
+              "id": "jesus-alimentado",
+              "title": {
+                "pt-BR": "Dia 04 de Janeiro. Jesus é alimentado"
+              }
+            },
+            {
+              "id": "sono-jesus-menino",
+              "title": {
+                "pt-BR": "Dia 05 de Janeiro. O sono de Jesus Menino"
+              }
+            },
+            {
+              "id": "epifania-nosso-senhor-jesus-cristo",
+              "title": {
+                "pt-BR": "Dia 06 de Janeiro. Epifania de Nosso Senhor Jesus Cristo"
+              }
+            },
+            {
+              "id": "jesus-chora",
+              "title": {
+                "pt-BR": "Dia 07 de Janeiro. Jesus chora"
+              }
+            },
+            {
+              "id": "da-vida-humilde-desprezada-jesus-levou-desde-meninice",
+              "title": {
+                "pt-BR": "Dia 08 de Janeiro. Da vida humilde e desprezada que Jesus levou desde a meninice"
+              }
+            },
+            {
+              "id": "misericordia-deus-baixar-ceu-nos-salvar-sua-morte",
+              "title": {
+                "pt-BR": "Dia 09 de Janeiro. Misericórdia de Deus em baixar do céu para nos salvar com a sua morte"
+              }
+            },
+            {
+              "id": "vida-pobre-jesus-comecou-levar-desde-seu-nascimento",
+              "title": {
+                "pt-BR": "Dia 10 de Janeiro. Vida pobre que Jesus começou a levar desde o seu nascimento"
+              }
+            },
+            {
+              "id": "solicitude-maternal-maria-com-jesus-cristo",
+              "title": {
+                "pt-BR": "Sábado da oitava da Epifania. Solicitude maternal de Maria para com Jesus Cristo"
+              }
+            }
+          ]
+        },
+        {
+          "id": "primeira-semana-depois-da-epifania",
+          "title": {
+            "pt-BR": "Primeira Semana depois da Epifania"
+          },
+          "children": [
+            {
+              "id": "perda-jesus-templo",
+              "title": {
+                "pt-BR": "Domingo. Perda de Jesus no Templo"
+              }
+            },
+            {
+              "id": "fim-homem",
+              "title": {
+                "pt-BR": "Segunda-feira. Fim do homem"
+              }
+            },
+            {
+              "id": "hei-de-morrer-um-dia",
+              "title": {
+                "pt-BR": "Terça-feira. Hei de morrer um dia"
+              }
+            },
+            {
+              "id": "eternidade-inferno-terrivel-mas-justa",
+              "title": {
+                "pt-BR": "Quarta-feira. A eternidade do inferno é terrível, mas justa"
+              }
+            },
+            {
+              "id": "exemplos-que-nos-da-jesus-menino",
+              "title": {
+                "pt-BR": "Quinta-feira. Exemplos que nos da Jesus Menino"
+              }
+            },
+            {
+              "id": "fuga-jesus-para-egito",
+              "title": {
+                "pt-BR": "Sexta-feira. Fuga de Jesus para o Egito"
+              }
+            },
+            {
+              "id": "maria-santissima-modelo-de-fe",
+              "title": {
+                "pt-BR": "Sábado. Maria Santíssima, modelo de fé"
+              }
+            }
+          ]
+        },
+        {
+          "id": "segunda-semana-depois-da-epifania",
+          "title": {
+            "pt-BR": "Segunda Semana depois da Epifania"
+          },
+          "children": [
+            {
+              "id": "desejo-que-jesus-teve-sofrer-por-nos",
+              "title": {
+                "pt-BR": "Domingo. Desejo que Jesus teve de sofrer por nós"
+              }
+            },
+            {
+              "id": "o-amor-vence-tudo",
+              "title": {
+                "pt-BR": "Segunda-feira. O amor vence tudo"
+              }
+            },
+            {
+              "id": "remorsos-desejos-pecador-moribundo",
+              "title": {
+                "pt-BR": "Terça-feira. Remorsos e desejos de um pecador moribundo"
+              }
+            },
+            {
+              "id": "morte-feliz-dos-religiosos",
+              "title": {
+                "pt-BR": "Quarta-feira. Morte feliz dos religiosos"
+              }
+            },
+            {
+              "id": "estada-de-jesus-no-egito",
+              "title": {
+                "pt-BR": "Quinta-feira. Estada de Jesus no Egito"
+              }
+            },
+            {
+              "id": "volta-jesus-egito",
+              "title": {
+                "pt-BR": "Sexta-feira. Volta de Jesus do Egito"
+              }
+            },
+            {
+              "id": "santo-afonso-modelo-devocao-maria-santissima",
+              "title": {
+                "pt-BR": "Sábado. Santo Afonso, modelo de devoção a Maria Santíssima"
+              }
+            }
+          ]
+        },
+        {
+          "id": "terceira-semana-depois-da-epifania",
+          "title": {
+            "pt-BR": "Terceira Semana depois da Epifania"
+          },
+          "children": [
+            {
+              "id": "centuriao-homens-meia-fe",
+              "title": {
+                "pt-BR": "Domingo. O Centurião e os homens de meia fé"
+              }
+            },
+            {
+              "id": "bens-mundo-nao-nos-podem-fazer-felizes",
+              "title": {
+                "pt-BR": "Segunda-feira. Os bens do mundo não nos podem fazer felizes"
+              }
+            },
+            {
+              "id": "vinda-divino-juiz-exame-juizo-final",
+              "title": {
+                "pt-BR": "Terça-feira. Vinda do divino Juiz e exame no Juízo Final"
+              }
+            },
+            {
+              "id": "quanto-cara-deus-alma-que-se-lhe-entrega-toda",
+              "title": {
+                "pt-BR": "Quarta-feira. Quanto é cara a Deus a alma que se lhe entrega toda"
+              }
+            },
+            {
+              "id": "jesus-casa-nazare",
+              "title": {
+                "pt-BR": "Quinta-feira. Jesus na casa de Nazaré"
+              }
+            },
+            {
+              "id": "jesus-cresce-idade-sabedoria-graca",
+              "title": {
+                "pt-BR": "Sexta-feira. Jesus cresce em idade, em sabedoria, e em graça"
+              }
+            },
+            {
+              "id": "da-confianca-maria-rainha-misericordia",
+              "title": {
+                "pt-BR": "Sábado. Da confiança em Maria, Rainha de misericórdia"
+              }
+            }
+          ]
+        },
+        {
+          "id": "quarta-semana-depois-da-epifania",
+          "title": {
+            "pt-BR": "Quarta Semana depois da Epifania"
+          },
+          "children": [
+            {
+              "id": "a-barca-na-tempestade-e-a-igreja-catolica",
+              "title": {
+                "pt-BR": "Domingo. A barca na tempestade e a Igreja Católica"
+              }
+            },
+            {
+              "id": "incerteza-hora-morte",
+              "title": {
+                "pt-BR": "Segunda-feira. Incerteza da hora da morte"
+              }
+            },
+            {
+              "id": "do-fogo-do-inferno",
+              "title": {
+                "pt-BR": "Terça-feira. Do fogo do inferno"
+              }
+            },
+            {
+              "id": "qual-sera-gozo-dos-bem-aventurados-paraiso",
+              "title": {
+                "pt-BR": "Quarta-feira. Qual será o gozo dos Bem-aventurados no paraíso"
+              }
+            },
+            {
+              "id": "devemos-esperar-tudo-pelos-merecimentos-jesus-cristo",
+              "title": {
+                "pt-BR": "Quinta-feira. Devemos esperar tudo pelos merecimentos de Jesus Cristo"
+              }
+            },
+            {
+              "id": "jesus-quis-sofrer-ganhar-nossos-coracoes",
+              "title": {
+                "pt-BR": "Sexta-feira. Jesus quis sofrer afim de ganhar os nossos corações"
+              }
+            },
+            {
+              "id": "maria-santissima-modelo-esperanca",
+              "title": {
+                "pt-BR": "Sábado. Maria Santíssima, modelo de esperança"
+              }
+            }
+          ]
+        },
+        {
+          "id": "quinta-semana-depois-da-epifania",
+          "title": {
+            "pt-BR": "Quinta Semana depois da Epifania"
+          },
+          "children": [
+            {
+              "id": "parabola-joio-conduta-deus-com-pecadores",
+              "title": {
+                "pt-BR": "Domingo. A parábola do joio e a conduta de Deus para com os pecadores"
+              }
+            },
+            {
+              "id": "sejamos-peregrinos-sobre-terra",
+              "title": {
+                "pt-BR": "Segunda-feira. Sejamos peregrinos sobre a terra"
+              }
+            },
+            {
+              "id": "loucura-pecadores",
+              "title": {
+                "pt-BR": "Terça-feira. Loucura dos pecadores"
+              }
+            },
+            {
+              "id": "pecador-abandonado-por-deus",
+              "title": {
+                "pt-BR": "Quarta-feira. O pecador abandonado por Deus"
+              }
+            },
+            {
+              "id": "amor-deus-mostrou-aos-homens-misterio-encarnacao",
+              "title": {
+                "pt-BR": "Quinta-feira. Amor que Deus mostrou aos homens no mistério da Encarnação"
+              }
+            },
+            {
+              "id": "pena-mais-grave-menino-jesus",
+              "title": {
+                "pt-BR": "Sexta-feira. A pena mais grave do Menino Jesus"
+              }
+            },
+            {
+              "id": "quanto-religiosos-devem-confiar-patrocinio-maria",
+              "title": {
+                "pt-BR": "Sábado. Quanto os religiosos devem confiar no patrocínio de Maria"
+              }
+            }
+          ]
+        },
+        {
+          "id": "sexta-semana-depois-da-epifania",
+          "title": {
+            "pt-BR": "Sexta Semana depois da Epifania"
+          },
+          "children": [
+            {
+              "id": "parabola-fermento-efeitos-graca-santificante",
+              "title": {
+                "pt-BR": "Domingo. A parábola do fermento e os efeitos da graça santificante"
+              }
+            },
+            {
+              "id": "necessidade-oracao-mental",
+              "title": {
+                "pt-BR": "Segunda-feira. Necessidade da oração mental"
+              }
+            },
+            {
+              "id": "paciencia-deus-esperar-pecador-faca-penitencia",
+              "title": {
+                "pt-BR": "Terça-feira. Paciência de Deus em esperar que o pecador faça penitência"
+              }
+            },
+            {
+              "id": "momento-morte",
+              "title": {
+                "pt-BR": "Quarta-feira. Momento da morte"
+              }
+            },
+            {
+              "id": "amor-deus-fazer-se-homem",
+              "title": {
+                "pt-BR": "Quinta-feira. Amor de Deus em fazer-se homem"
+              }
+            },
+            {
+              "id": "amor-de-deus-em-fazer-se-crianca",
+              "title": {
+                "pt-BR": "Sexta-feira. Amor de Deus em fazer-se criança"
+              }
+            },
+            {
+              "id": "vantagens-congregacoes-maria-santissima",
+              "title": {
+                "pt-BR": "Sábado. Vantagens das Congregações de Maria Santíssima"
+              }
+            }
+          ]
+        },
+        {
+          "id": "semana-da-septuagesima",
+          "title": {
+            "pt-BR": "Semana da Septuagésima"
+          },
+          "children": [
+            {
+              "id": "parabola-trabalhadores-recompensa-divina",
+              "title": {
+                "pt-BR": "Domingo. A parábola dos operários e a recompensa divina"
+              }
+            },
+            {
+              "id": "para-ser-santo-e-preciso-deseja-lo-muito",
+              "title": {
+                "pt-BR": "Segunda-feira. Para ser santo é preciso desejá-lo muito"
+              }
+            },
+            {
+              "id": "comemoracao-agonia-oracao-jesus-horto",
+              "title": {
+                "pt-BR": "Terça-feira. Comemoração da agonia e oração de Jesus no Horto"
+              }
+            },
+            {
+              "id": "o-pecador-nao-quer-obedecer-deus",
+              "title": {
+                "pt-BR": "Quarta-feira. O pecador não quer obedecer a Deus"
+              }
+            },
+            {
+              "id": "santa-missa-da-deus-uma-honra-infinita",
+              "title": {
+                "pt-BR": "Quinta-feira. A santa Missa dá a Deus uma honra infinita"
+              }
+            },
+            {
+              "id": "coracao-de-jesus-aflito-pelo-pecado-de-escandalo",
+              "title": {
+                "pt-BR": "Sexta-feira. Coração de Jesus, aflito pelo pecado de escândalo"
+              }
+            },
+            {
+              "id": "da-gratidao-para-com-as-dores-de-maria-santissima",
+              "title": {
+                "pt-BR": "Sábado. Da gratidão para com as dores de Maria Santíssima"
+              }
+            }
+          ]
+        },
+        {
+          "id": "semana-da-sexagesima",
+          "title": {
+            "pt-BR": "Semana da Sexagésima"
+          },
+          "children": [
+            {
+              "id": "a-parabola-do-semeador-e-a-palavra-divina",
+              "title": {
+                "pt-BR": "Domingo. A parábola do semeador e a palavra divina"
+              }
+            },
+            {
+              "id": "pecador-aflige-coracao-deus",
+              "title": {
+                "pt-BR": "Segunda-feira. O pecador aflige o Coração de Deus"
+              }
+            },
+            {
+              "id": "o-pecado-renova-paixao-de-jesus-cristo",
+              "title": {
+                "pt-BR": "Terça-feira. O pecado renova a Paixão de Jesus Cristo"
+              }
+            },
+            {
+              "id": "do-numero-pecados",
+              "title": {
+                "pt-BR": "Quarta-feira. Do número dos pecados"
+              }
+            },
+            {
+              "id": "o-carnaval-santificado-e-as-divinas-beneficencias",
+              "title": {
+                "pt-BR": "Quinta-feira. O Carnaval Santificado e as Divinas Beneficências"
+              }
+            },
+            {
+              "id": "amor-de-jesus-em-querer-satisfazer-por-nos",
+              "title": {
+                "pt-BR": "Sexta-feira. Amor de Jesus em querer satisfazer por nós"
+              }
+            },
+            {
+              "id": "frutos-meditacao-7-dores-maria",
+              "title": {
+                "pt-BR": "Sábado. Frutos da meditação das dores de Maria Santíssima"
+              }
+            }
+          ]
+        },
+        {
+          "id": "semana-da-quinquagesima",
+          "title": {
+            "pt-BR": "Semana da Quinquagésima"
+          },
+          "children": [
+            {
+              "id": "paixao-jesus-cristo-divertimentos-carnaval",
+              "title": {
+                "pt-BR": "Domingo. A Paixão de Jesus Cristo e os divertimentos do carnaval"
+              }
+            },
+            {
+              "id": "da-confianca-em-jesus-cristo",
+              "title": {
+                "pt-BR": "Segunda-feira. Da confiança em Jesus Cristo"
+              }
+            },
+            {
+              "id": "pecador-expulsa-deus-do-seu-coracao",
+              "title": {
+                "pt-BR": "Terça-feira. O pecador expulsa Deus do seu coração"
+              }
+            },
+            {
+              "id": "lembranca-morte-jejum-quaresmal",
+              "title": {
+                "pt-BR": "Quarta-feira de Cinzas. A lembrança da morte e o jejum quaresmal"
+              }
+            },
+            {
+              "id": "amor-de-jesus-cristo-em-dar-se-a-nos-como-alimento",
+              "title": {
+                "pt-BR": "Quinta-feira. Amor de Jesus Cristo em dar-se a nós como alimento"
+              }
+            },
+            {
+              "id": "comemoracao-coroa-espinhos-jesus-cristo",
+              "title": {
+                "pt-BR": "Sexta-feira. Comemoração da Coroa de espinhos de Nosso Senhor Jesus Cristo"
+              }
+            },
+            {
+              "id": "1a-dor-maria-santissima",
+              "title": {
+                "pt-BR": "Sábado. Primeira dor de Maria Santíssima – Profecia de Simeão"
+              }
+            }
+          ]
+        },
+        {
+          "id": "primeira-semana-da-quaresma",
+          "title": {
+            "pt-BR": "Primeira Semana da Quaresma"
+          },
+          "children": [
+            {
+              "id": "jesus-no-deserto-tentacoes-almas-escolhidas",
+              "title": {
+                "pt-BR": "Domingo. Jesus no deserto e as tentações das almas escolhidas"
+              }
+            },
+            {
+              "id": "bem-aventurado-o-que-nao-quer-outra-coisa-senao-deus",
+              "title": {
+                "pt-BR": "Segunda-feira. Bem-aventurado o que não quer outra coisa senão a Deus"
+              }
+            },
+            {
+              "id": "quanto-doce-morte-justo",
+              "title": {
+                "pt-BR": "Terça-feira. Quanto é doce a morte do justo"
+              }
+            },
+            {
+              "id": "contas-que-tera-de-dar-jesus-cristo-quem-nao-segue-vocacao",
+              "title": {
+                "pt-BR": "Quarta-feira. Contas que terá de dar a Jesus Cristo quem não segue a vocação"
+              }
+            },
+            {
+              "id": "quanto-jesus-deseja-unir-se-conosco-na-santa-comunhao",
+              "title": {
+                "pt-BR": "Quinta-feira. Quanto Jesus deseja unir-se conosco na santa Comunhão"
+              }
+            },
+            {
+              "id": "comemoracao-lanca-cravos-nosso-senhor-jesus-cristo",
+              "title": {
+                "pt-BR": "Sexta-feira. Comemoração da Lança e dos Cravos de Nosso Senhor Jesus Cristo"
+              }
+            },
+            {
+              "id": "segunda-dor-de-maria-santissima-fugida-para-o-egito",
+              "title": {
+                "pt-BR": "Sábado. Segunda dor de Maria Santíssima – Fugida para o Egito"
+              }
+            }
+          ]
+        },
+        {
+          "id": "segunda-semana-da-quaresma",
+          "title": {
+            "pt-BR": "Segunda Semana da Quaresma"
+          },
+          "children": [
+            {
+              "id": "transfiguracao-jesus-cristo-as-delicias-paraiso",
+              "title": {
+                "pt-BR": "Domingo. A transfiguração de Jesus Cristo e as delícias do paraíso"
+              }
+            },
+            {
+              "id": "como-devemos-preparar-nos-para-morte",
+              "title": {
+                "pt-BR": "Segunda-feira. Como devemos preparar-nos para a morte"
+              }
+            },
+            {
+              "id": "efeitos-que-em-nos-produz-a-divina-graca",
+              "title": {
+                "pt-BR": "Terça-feira. Efeitos que em nós produz a divina graça"
+              }
+            },
+            {
+              "id": "da-dignidade-sao-jose-esposo-virgem-maria",
+              "title": {
+                "pt-BR": "Quarta-feira. Da dignidade de São José, Esposo da Virgem Maria"
+              }
+            },
+            {
+              "id": "jesus-presente-altares-ser-acessivel-todos",
+              "title": {
+                "pt-BR": "Quinta-feira. Jesus presente nos altares para ser acessível a todos"
+              }
+            },
+            {
+              "id": "comemoracao-sagrado-sudario-nosso-senhor-jesus-cristo",
+              "title": {
+                "pt-BR": "Sexta-feira. Comemoração do Sagrado Sudário de Nosso Senhor Jesus Cristo"
+              }
+            },
+            {
+              "id": "maria-santissima-modelo-amor-para-com-deus",
+              "title": {
+                "pt-BR": "Sábado. Maria Santíssima, modelo de amor para com Deus"
+              }
+            }
+          ]
+        },
+        {
+          "id": "terceira-semana-da-quaresma",
+          "title": {
+            "pt-BR": "Terceira Semana da Quaresma"
+          },
+          "children": [
+            {
+              "id": "demonio-mudo-confissoes-sacrilegas",
+              "title": {
+                "pt-BR": "Domingo. O demônio mudo e as confissões sacrílegas"
+              }
+            },
+            {
+              "id": "estado-miseravel-dos-que-recaem-pecado",
+              "title": {
+                "pt-BR": "Outra meditação para o mesmo Domingo. Estado miserável dos que recaem no pecado"
+              }
+            },
+            {
+              "id": "da-verdadeira-sabedoria",
+              "title": {
+                "pt-BR": "Segunda-feira. Da verdadeira sabedoria"
+              }
+            },
+            {
+              "id": "separacao-escolhidos-reprobos-juizo-final",
+              "title": {
+                "pt-BR": "Terça-feira. A separação dos escolhidos e dos réprobos no Juízo Final"
+              }
+            },
+            {
+              "id": "gloria-sao-jose-esposo-virgem-maria",
+              "title": {
+                "pt-BR": "Quarta-feira. Da glória de São José, Esposo da Virgem Maria"
+              }
+            },
+            {
+              "id": "grandeza-dadiva-jesus-cristo-fez-santissima-eucaristia",
+              "title": {
+                "pt-BR": "Quinta-feira. Grandeza da dádiva que Jesus Cristo nos fez na Santíssima Eucaristia"
+              }
+            },
+            {
+              "id": "comemoracao-5-chagas-nosso-senhor-jesus-cristo",
+              "title": {
+                "pt-BR": "Sexta-feira. Comemoração das cinco Chagas de Nosso Senhor Jesus Cristo"
+              }
+            },
+            {
+              "id": "terceira-dor-maria-santissima-perda-jesus-templo",
+              "title": {
+                "pt-BR": "Sábado. Terceira dor de Maria Santíssima – Perda de Jesus no templo"
+              }
+            }
+          ]
+        },
+        {
+          "id": "quarta-semana-da-quaresma",
+          "title": {
+            "pt-BR": "Quarta Semana da Quaresma"
+          },
+          "children": [
+            {
+              "id": "multidao-faminta-almas-purgatorio",
+              "title": {
+                "pt-BR": "Domingo. A multidão faminta e as almas do purgatório"
+              }
+            },
+            {
+              "id": "terna-compaixao-jesus-cristo-pecadores",
+              "title": {
+                "pt-BR": "Outra meditação para o mesmo Domingo. Terna compaixão de Jesus Cristo para com os pecadores"
+              }
+            },
+            {
+              "id": "meios-alcancar-amor-deus-santidade",
+              "title": {
+                "pt-BR": "Segunda-feira. Meios para alcançar o amor de Deus e a santidade"
+              }
+            },
+            {
+              "id": "da-nobreza-da-alma",
+              "title": {
+                "pt-BR": "Terça-feira. Da nobreza da alma"
+              }
+            },
+            {
+              "id": "sentenca-escolhidos-reprobos-juizo-universal",
+              "title": {
+                "pt-BR": "Quarta-feira. Sentença dos escolhidos e dos réprobos no Juízo Universal"
+              }
+            },
+            {
+              "id": "uniao-da-alma-com-jesus-na-santa-comunhao",
+              "title": {
+                "pt-BR": "Quinta-feira. União da alma com Jesus na Santa Comunhão"
+              }
+            },
+            {
+              "id": "comemoracao-preciosissimo-sangue-nosso-senhor-jesus-cristo",
+              "title": {
+                "pt-BR": "Sexta-feira. Comemoração do preciosíssimo Sangue de Nosso Senhor Jesus Cristo"
+              }
+            },
+            {
+              "id": "dor-maria-consentir-morte-jesus",
+              "title": {
+                "pt-BR": "Sábado. Dor de Maria Santíssima em consentir na morte de Jesus"
+              }
+            }
+          ]
+        },
+        {
+          "id": "quinta-semana-da-quaresma",
+          "title": {
+            "pt-BR": "Quinta Semana da Quaresma"
+          },
+          "children": [
+            {
+              "id": "grande-fruto-meditacao-paixao-jesus-cristo",
+              "title": {
+                "pt-BR": "Domingo da Paixão. Grande fruto que se tira da meditação da Paixão de Jesus Cristo"
+              }
+            },
+            {
+              "id": "conselho-judeus-traicao-judas",
+              "title": {
+                "pt-BR": "Segunda-feira. Conselho dos Judeus e traição de Judas"
+              }
+            },
+            {
+              "id": "ultima-ceia-jesus-cristo-com-discipulos",
+              "title": {
+                "pt-BR": "Terça-feira. Última ceia de Jesus Cristo com os seus discípulos"
+              }
+            },
+            {
+              "id": "jesus-ora-no-horto-e-sua-sangue",
+              "title": {
+                "pt-BR": "Quarta-feira. Jesus ora no Horto e sua sangue"
+              }
+            },
+            {
+              "id": "jesus-preso-ligado-conduzido-jerusalem",
+              "title": {
+                "pt-BR": "Quinta-feira. Jesus é preso, ligado e conduzido a Jerusalém"
+              }
+            },
+            {
+              "id": "comemoracao-7-dores-maria-santissima",
+              "title": {
+                "pt-BR": "Sexta-feira. Comemoração das sete Dores de Maria Santíssima"
+              }
+            },
+            {
+              "id": "jesus-apresentado-pontifices-por-eles-condenado-morte",
+              "title": {
+                "pt-BR": "Sábado. Jesus é apresentado aos pontífices e por eles condenado à morte"
+              }
+            }
+          ]
+        },
+        {
+          "id": "semana-santa",
+          "title": {
+            "pt-BR": "Semana Santa"
+          },
+          "children": [
+            {
+              "id": "jesus-faz-sua-entrada-triunfal-em-jerusalem",
+              "title": {
+                "pt-BR": "Domingo de Ramos. Jesus faz a sua entrada triunfal em Jerusalém"
+              }
+            },
+            {
+              "id": "jesus-levado-pilatos-herodes-posposto-barrabas",
+              "title": {
+                "pt-BR": "Segunda-feira. Jesus é levado a Pilatos e a Herodes, e posposto a Barrabás"
+              }
+            },
+            {
+              "id": "jesus-preso-coluna-flagelado",
+              "title": {
+                "pt-BR": "Meditação para a tarde do mesmo dia. Jesus preso à coluna e flagelado"
+              }
+            },
+            {
+              "id": "jesus-coroado-espinhos-apresentado-povo",
+              "title": {
+                "pt-BR": "Terça-feira. Jesus é coroado de espinhos e apresentado ao povo"
+              }
+            },
+            {
+              "id": "jesus-condenado-vai-calvario",
+              "title": {
+                "pt-BR": "Meditação para a tarde do mesmo dia. Jesus é condenado e vai ao Calvário"
+              }
+            },
+            {
+              "id": "4-dor-maria-encontro-jesus-carrega-cruz",
+              "title": {
+                "pt-BR": "Quarta-feira. Quarta Dor de Maria Santíssima – Encontro com Jesus, que carrega a cruz"
+              }
+            },
+            {
+              "id": "jesus-crucificado-entre-dois-ladroes",
+              "title": {
+                "pt-BR": "Meditação para a tarde do mesmo dia. Jesus é crucificado entre dois ladrões"
+              }
+            },
+            {
+              "id": "dia-do-amor",
+              "title": {
+                "pt-BR": "Quinta-feira. O dia do Amor"
+              }
+            },
+            {
+              "id": "5-dor-maria-morte-jesus",
+              "title": {
+                "pt-BR": "Meditação para a tarde do mesmo dia. Quinta Dor de Maria Santíssima – Morte de Jesus"
+              }
+            },
+            {
+              "id": "morte-de-jesus",
+              "title": {
+                "pt-BR": "Sexta-feira. Morte de Jesus"
+              }
+            },
+            {
+              "id": "6-dor-maria-jesus-descido-cruz",
+              "title": {
+                "pt-BR": "Meditação para a tarde do mesmo dia. Sexta Dor de Maria Santíssima – Jesus é descido da cruz"
+              }
+            },
+            {
+              "id": "7-dor-maria-sepultura-jesus",
+              "title": {
+                "pt-BR": "Sábado Santo. Sétima Dor de Maria Santíssima – Sepultura de Jesus"
+              }
+            },
+            {
+              "id": "soledade-maria-depois-sepultura-jesus",
+              "title": {
+                "pt-BR": "Meditação para a tarde do mesmo dia. Soledade de Maria Santíssima depois da sepultura de Jesus"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tomo-2",
+      "title": {
+        "pt-BR": "Tomo II — Desde o Domingo da Páscoa até a Undécima Semana depois de Pentecostes inclusive"
+      },
+      "children": [
+        {
+          "id": "semana-de-pascoa",
+          "title": {
+            "pt-BR": "Semana de Páscoa"
+          },
+          "children": [
+            {
+              "id": "ressurreicao-jesus-cristo-esperanca-cristao",
+              "title": {
+                "pt-BR": "Domingo. A ressurreição de Jesus Cristo e a esperança do Cristão"
+              }
+            },
+            {
+              "id": "ressurreicao-corpos-juizo-universal",
+              "title": {
+                "pt-BR": "Segunda-feira. A ressurreição dos corpos no Juízo universal"
+              }
+            },
+            {
+              "id": "no-ceu-goza-se-uma-felicidade-perfeita",
+              "title": {
+                "pt-BR": "Terça-feira. No céu goza-se uma felicidade perfeita"
+              }
+            },
+            {
+              "id": "necessidade-da-perseveranca",
+              "title": {
+                "pt-BR": "Quarta-feira. Necessidade da perseverança"
+              }
+            },
+            {
+              "id": "da-comunhao-sacrilega",
+              "title": {
+                "pt-BR": "Quinta-feira. Da Comunhão Sacrílega"
+              }
+            },
+            {
+              "id": "conformidade-vontade-deus-exemplo-jesus-cristo",
+              "title": {
+                "pt-BR": "Sexta-feira. Conformidade com a vontade de Deus a exemplo de Jesus Cristo"
+              }
+            },
+            {
+              "id": "aparicao-jesus-ressuscitado-sua-mae-maria",
+              "title": {
+                "pt-BR": "Sábado. Aparição de Jesus ressuscitado a sua Mãe Maria Santíssima"
+              }
+            }
+          ]
+        },
+        {
+          "id": "segunda-semana-depois-da-pascoa",
+          "title": {
+            "pt-BR": "Segunda Semana depois da Páscoa"
+          },
+          "children": [
+            {
+              "id": "so-em-deus-se-acha-verdadeira-paz",
+              "title": {
+                "pt-BR": "Domingo. Só em Deus se acha a verdadeira paz"
+              }
+            },
+            {
+              "id": "da-caridade-fraterna",
+              "title": {
+                "pt-BR": "Segunda-feira. Da caridade fraterna"
+              }
+            },
+            {
+              "id": "vaidade-do-mundo",
+              "title": {
+                "pt-BR": "Terça-feira. Vaidade do mundo"
+              }
+            },
+            {
+              "id": "pena-que-tera-no-inferno-quem-se-condenar-por-ter-perdido-vocacao",
+              "title": {
+                "pt-BR": "Quarta-feira. A pena que terá no inferno quem se condenar por ter perdido a vocação"
+              }
+            },
+            {
+              "id": "jesus-santissimo-sacramento-melhor-dos-amigos",
+              "title": {
+                "pt-BR": "Quinta-feira. Jesus no Santíssimo Sacramento, o melhor dos amigos"
+              }
+            },
+            {
+              "id": "mister-sofrer-tudo-para-agradar-deus",
+              "title": {
+                "pt-BR": "Sexta-feira. É mister sofrer tudo para agradar a Deus"
+              }
+            },
+            {
+              "id": "maria-santissima-modelo-de-caridade-para-com-o-proximo",
+              "title": {
+                "pt-BR": "Sábado. Maria Santíssima, modelo de caridade para com o próximo"
+              }
+            }
+          ]
+        },
+        {
+          "id": "terceira-semana-depois-da-pascoa",
+          "title": {
+            "pt-BR": "Terceira Semana depois da Páscoa"
+          },
+          "children": [
+            {
+              "id": "jesus-bom-pastor",
+              "title": {
+                "pt-BR": "Domingo. Jesus, o bom Pastor"
+              }
+            },
+            {
+              "id": "motivos-que-temos-honrar-sao-jose",
+              "title": {
+                "pt-BR": "Segunda-feira. Motivos que temos de honrar a São José"
+              }
+            },
+            {
+              "id": "convivencia-sao-jose-com-jesus-e-maria",
+              "title": {
+                "pt-BR": "Terça-feira. Convivência de São José com Jesus e Maria"
+              }
+            },
+            {
+              "id": "solenidade-sao-jose",
+              "title": {
+                "pt-BR": "Quarta-feira. Solenidade de São José"
+              }
+            },
+            {
+              "id": "da-oracao-depende-nossa-salvacao",
+              "title": {
+                "pt-BR": "Quinta-feira. Da oração depende a nossa salvação"
+              }
+            },
+            {
+              "id": "da-morte",
+              "title": {
+                "pt-BR": "Sexta-feira. Da morte"
+              }
+            },
+            {
+              "id": "do-amor-que-sao-jose-teve-jesus-maria",
+              "title": {
+                "pt-BR": "Sábado. Do amor que são José teve a Jesus e Maria"
+              }
+            }
+          ]
+        },
+        {
+          "id": "quarta-semana-depois-da-pascoa",
+          "title": {
+            "pt-BR": "Quarta Semana depois da Páscoa"
+          },
+          "children": [
+            {
+              "id": "pensamento-eternidade",
+              "title": {
+                "pt-BR": "Domingo. O pensamento da eternidade"
+              }
+            },
+            {
+              "id": "da-tibieza",
+              "title": {
+                "pt-BR": "Segunda-feira. Da tibieza"
+              }
+            },
+            {
+              "id": "nada-dos-bens-mundo",
+              "title": {
+                "pt-BR": "Terça-feira. O nada dos bens do mundo"
+              }
+            },
+            {
+              "id": "salvacao-unica-coisa-necessaria",
+              "title": {
+                "pt-BR": "Quarta-feira. A salvação é a única coisa necessária"
+              }
+            },
+            {
+              "id": "igreja-onde-esta-jesus-sacramentado-santuario-mais-augusto",
+              "title": {
+                "pt-BR": "Quinta-feira. A igreja onde está Jesus Sacramentado é o santuário mais augusto"
+              }
+            },
+            {
+              "id": "quem-ama-jesus-cristo-deve-odiar-mundo",
+              "title": {
+                "pt-BR": "Sexta-feira. Quem ama Jesus Cristo deve odiar o mundo"
+              }
+            },
+            {
+              "id": "maria-santissima-modelo-pobreza",
+              "title": {
+                "pt-BR": "Sábado. Maria Santíssima, modelo de pobreza"
+              }
+            }
+          ]
+        },
+        {
+          "id": "quinta-semana-depois-da-pascoa",
+          "title": {
+            "pt-BR": "Quinta Semana depois da Páscoa"
+          },
+          "children": [
+            {
+              "id": "tristeza-apostolos-desolacoes-espirituais",
+              "title": {
+                "pt-BR": "Domingo. A tristeza os Apóstolos e as desolações espirituais"
+              }
+            },
+            {
+              "id": "morte-despoja-nos-de-tudo",
+              "title": {
+                "pt-BR": "Segunda-feira. A morte despoja-nos de tudo"
+              }
+            },
+            {
+              "id": "gloria-imensa-que-gozam-ceu-religiosos",
+              "title": {
+                "pt-BR": "Terça-feira. A glória imensa que gozam no céu os religiosos"
+              }
+            },
+            {
+              "id": "remorso-condenado-podia-salvar-me-tao-facilmente",
+              "title": {
+                "pt-BR": "Quarta-feira. Remorso do condenado: podia salvar-me tão facilmente"
+              }
+            },
+            {
+              "id": "santa-missa-meio-seguro-obter-misericordias-divinas",
+              "title": {
+                "pt-BR": "Quinta-feira. A Santa Missa é um meio seguro para obter as misericórdias divinas"
+              }
+            },
+            {
+              "id": "felicidade-quem-conforma-vontade-deus",
+              "title": {
+                "pt-BR": "Sexta-feira. Felicidade de quem se conforma com a vontade de Deus"
+              }
+            },
+            {
+              "id": "poder-maria-santissima-para-nos-defender-tentacoes",
+              "title": {
+                "pt-BR": "Sábado. Poder de Maria Santíssima para nos defender nas tentações"
+              }
+            }
+          ]
+        },
+        {
+          "id": "sexta-semana-depois-da-pascoa",
+          "title": {
+            "pt-BR": "Sexta Semana depois da Páscoa"
+          },
+          "children": [
+            {
+              "id": "promessas-deus-eficacia-oracao",
+              "title": {
+                "pt-BR": "Domingo. As promessas de Deus e a eficácia da oração"
+              }
+            },
+            {
+              "id": "quem-deseja-salvacao-deve-temer-condenacao",
+              "title": {
+                "pt-BR": "Segunda-feira. Quem deseja a salvação, deve temer a condenação"
+              }
+            },
+            {
+              "id": "infeliz-quem-peca-contando-com-perdao",
+              "title": {
+                "pt-BR": "Terça-feira. Infeliz de quem peca contando com o perdão"
+              }
+            },
+            {
+              "id": "o-dia-da-desilusao",
+              "title": {
+                "pt-BR": "Quarta-feira. O dia da desilusão"
+              }
+            },
+            {
+              "id": "festa-ascensao-nosso-senhor-jesus-cristo",
+              "title": {
+                "pt-BR": "Quinta-feira. Festa da Ascensão de Nosso Senhor Jesus Cristo"
+              }
+            }
+          ]
+        },
+        {
+          "id": "novena-do-espirito-santo",
+          "title": {
+            "pt-BR": "Novena do Espírito Santo"
+          },
+          "children": [
+            {
+              "id": "amor-um-fogo-abrasa",
+              "title": {
+                "pt-BR": "1º Dia – Sexta-feira. O amor é um fogo que abrasa"
+              }
+            },
+            {
+              "id": "amor-uma-luz-esclarece",
+              "title": {
+                "pt-BR": "2º Dia – Sábado. O amor é uma luz que esclarece"
+              }
+            },
+            {
+              "id": "amor-uma-agua-apaga-sede",
+              "title": {
+                "pt-BR": "3º Dia – Domingo na oitava da Ascensão. O amor é uma água que apaga a sede"
+              }
+            },
+            {
+              "id": "amor-um-orvalho-que-fertiliza",
+              "title": {
+                "pt-BR": "4º Dia – Segunda-feira. O amor é um orvalho que fertiliza"
+              }
+            },
+            {
+              "id": "amor-um-repouso-que-restaura-forcas",
+              "title": {
+                "pt-BR": "5º Dia – Terça-feira. O amor é um repouso que restaura as forças"
+              }
+            },
+            {
+              "id": "amor-uma-virtude-que-fortifica",
+              "title": {
+                "pt-BR": "6º Dia – Quarta-feira. O amor é uma virtude que fortifica"
+              }
+            },
+            {
+              "id": "pelo-amor-alma-torna-se-morada-deus",
+              "title": {
+                "pt-BR": "7º Dia – Quinta-feira. Pelo amor a alma torna-se morada de Deus"
+              }
+            },
+            {
+              "id": "amor-um-vinculo",
+              "title": {
+                "pt-BR": "8º Dia – Sexta-feira. O amor é um vínculo"
+              }
+            },
+            {
+              "id": "amor-tesouro-encerra-todos-bens",
+              "title": {
+                "pt-BR": "9º Dia – Sábado. O amor é um tesouro que encerra todos os bens"
+              }
+            }
+          ]
+        },
+        {
+          "id": "semana-de-pentecostes",
+          "title": {
+            "pt-BR": "Semana de Pentecostes"
+          },
+          "children": [
+            {
+              "id": "amor-deus-com-homens-missao-espirito-santo",
+              "title": {
+                "pt-BR": "Domingo. Amor de Deus para com os homens na missão do Espírito Santo"
+              }
+            },
+            {
+              "id": "salvacao-negocio-mais-importante-mais-descuidado",
+              "title": {
+                "pt-BR": "Segunda-feira. A salvação é o negócio mais importante e o mais descuidado"
+              }
+            },
+            {
+              "id": "pena-dos-sentidos-no-inferno",
+              "title": {
+                "pt-BR": "Terça-feira. A pena dos sentidos no inferno"
+              }
+            },
+            {
+              "id": "necessidade-observanca-regular-para-religioso",
+              "title": {
+                "pt-BR": "Quarta-feira. Necessidade da observança regular para um religioso"
+              }
+            },
+            {
+              "id": "respeito-devido-dignidade-sacerdotal",
+              "title": {
+                "pt-BR": "Quinta-feira. Respeito devido à dignidade sacerdotal"
+              }
+            },
+            {
+              "id": "devocao-santo-afonso-paixao-jesus-cristo",
+              "title": {
+                "pt-BR": "Sexta-feira. Devoção de Santo Afonso à Paixão de Jesus Cristo"
+              }
+            },
+            {
+              "id": "maria-santissima-modelo-castidade",
+              "title": {
+                "pt-BR": "Sábado. Maria Santíssima, modelo de castidade"
+              }
+            }
+          ]
+        },
+        {
+          "id": "segunda-semana-depois-de-pentecostes",
+          "title": {
+            "pt-BR": "Segunda Semana depois de Pentecostes"
+          },
+          "children": [
+            {
+              "id": "festa-santissima-trindade",
+              "title": {
+                "pt-BR": "Domingo. Festa da Santíssima Trindade"
+              }
+            },
+            {
+              "id": "corpo-tumba",
+              "title": {
+                "pt-BR": "Segunda-feira. O corpo na tumba"
+              }
+            },
+            {
+              "id": "acusacao-alma-juizo-particular",
+              "title": {
+                "pt-BR": "Terça-feira. Acusação da alma no juízo particular"
+              }
+            }
+          ]
+        },
+        {
+          "id": "novena-do-sagrado-coracao-de-jesus",
+          "title": {
+            "pt-BR": "Novena do Sagrado Coração de Jesus"
+          },
+          "children": [
+            {
+              "id": "coracao-amavel-de-jesus",
+              "title": {
+                "pt-BR": "1º Dia – Quarta-feira. Coração amável de Jesus"
+              }
+            },
+            {
+              "id": "solenidade-corpo-deus",
+              "title": {
+                "pt-BR": "2º Dia – Quinta-feira. Solenidade do Corpo de Deus"
+              }
+            },
+            {
+              "id": "coracao-amante-de-jesus",
+              "title": {
+                "pt-BR": "3º Dia – Sexta-feira. Coração amante de Jesus"
+              }
+            },
+            {
+              "id": "coracao-jesus-suspirando-amado",
+              "title": {
+                "pt-BR": "4º Dia – Sábado. Coração de Jesus, suspirando por ser amado"
+              }
+            },
+            {
+              "id": "coracao-aflito-jesus",
+              "title": {
+                "pt-BR": "5º Dia – Segundo Domingo depois de Pentecostes. Coração aflito de Jesus"
+              }
+            },
+            {
+              "id": "coracao-misericordioso-de-jesus",
+              "title": {
+                "pt-BR": "6º Dia – Segunda-feira. Coração misericordioso de Jesus"
+              }
+            },
+            {
+              "id": "liberalidade-coracao-jesus",
+              "title": {
+                "pt-BR": "7º Dia – Terça-feira. Liberalidade do Coração de Jesus"
+              }
+            },
+            {
+              "id": "coracao-agradecido-jesus",
+              "title": {
+                "pt-BR": "8º Dia – Quarta-feira. Coração agradecido de Jesus"
+              }
+            },
+            {
+              "id": "coracao-jesus-desprezado",
+              "title": {
+                "pt-BR": "9º Dia – Quinta-feira. Coração de Jesus desprezado"
+              }
+            }
+          ]
+        },
+        {
+          "id": "terceira-semana-depois-de-pentecostes",
+          "title": {
+            "pt-BR": "Terceira Semana depois de Pentecostes"
+          },
+          "children": [
+            {
+              "id": "festa-sagrado-coracao-jesus",
+              "title": {
+                "pt-BR": "Sexta-feira. Festa do Sagrado Coração de Jesus"
+              }
+            },
+            {
+              "id": "coracao-maria-imagem-fiel-coracao-jesus",
+              "title": {
+                "pt-BR": "Sábado. Coração de Maria, imagem fiel do Coração de Jesus"
+              }
+            }
+          ]
+        },
+        {
+          "id": "quarta-semana-depois-de-pentecostes",
+          "title": {
+            "pt-BR": "Quarta Semana depois de Pentecostes"
+          },
+          "children": [
+            {
+              "id": "ovelha-perdida-pastor-divino",
+              "title": {
+                "pt-BR": "Domingo. A ovelha perdida e o Pastor divino"
+              }
+            },
+            {
+              "id": "devemos-morrer",
+              "title": {
+                "pt-BR": "Segunda-feira. Devemos morrer"
+              }
+            },
+            {
+              "id": "da-pureza-intencao",
+              "title": {
+                "pt-BR": "Terça-feira. Da pureza de intenção"
+              }
+            },
+            {
+              "id": "para-se-santificar-alma-deve-dar-se-toda-sem-reserva-deus",
+              "title": {
+                "pt-BR": "Quarta-feira. Para se santificar a alma deve dar-se toda e sem reserva a Deus"
+              }
+            },
+            {
+              "id": "santa-comunhao-nos-faz-perseverar-graca-divina",
+              "title": {
+                "pt-BR": "Quinta-feira. A santa comunhão nos faz perseverar na graça divina"
+              }
+            },
+            {
+              "id": "quao-util-meditar-paixao-jesus-cristo",
+              "title": {
+                "pt-BR": "Sexta-feira. Quão útil é meditar na Paixão de Jesus Cristo"
+              }
+            },
+            {
+              "id": "do-grande-amor-que-nos-tem-maria-santissima",
+              "title": {
+                "pt-BR": "Sábado. Do grande amor que nos tem Maria Santíssima"
+              }
+            }
+          ]
+        },
+        {
+          "id": "quinta-semana-depois-de-pentecostes",
+          "title": {
+            "pt-BR": "Quinta Semana depois de Pentecostes"
+          },
+          "children": [
+            {
+              "id": "pesca-milagrosa-ministerio-apostolico",
+              "title": {
+                "pt-BR": "Domingo. A pesca milagrosa e o ministério apostólico"
+              }
+            },
+            {
+              "id": "desprezo-tempo-hora-morte",
+              "title": {
+                "pt-BR": "Segunda-feira. O desprezo do tempo e a hora da morte"
+              }
+            },
+            {
+              "id": "sentenca-alma-culpada-juizo-particular",
+              "title": {
+                "pt-BR": "Terça-feira. A sentença da alma culpada no juízo particular"
+              }
+            },
+            {
+              "id": "dano-que-causa-aos-religiosos-tibieza",
+              "title": {
+                "pt-BR": "Quarta-feira. Dano que causa aos religiosos a tibieza"
+              }
+            },
+            {
+              "id": "jesus-santissimo-sacramento-modelo-obediencia",
+              "title": {
+                "pt-BR": "Quinta-feira. Jesus no Santíssimo Sacramento, modelo de obediência"
+              }
+            },
+            {
+              "id": "cruz-jesus-tribulacoes-vida-presente",
+              "title": {
+                "pt-BR": "Sexta-feira. A cruz de Jesus e as tribulações da vida presente"
+              }
+            },
+            {
+              "id": "da-saudacao-angelica",
+              "title": {
+                "pt-BR": "Sábado. Da Saudação Angélica"
+              }
+            }
+          ]
+        },
+        {
+          "id": "sexta-semana-depois-de-pentecostes",
+          "title": {
+            "pt-BR": "Sexta Semana depois de Pentecostes"
+          },
+          "children": [
+            {
+              "id": "vicio-ira-modo-refrea-la",
+              "title": {
+                "pt-BR": "Domingo. O vício da ira e o modo de refreá-la"
+              }
+            },
+            {
+              "id": "grande-segredo-viver-bem",
+              "title": {
+                "pt-BR": "Segunda-feira. O grande segredo para viver bem"
+              }
+            },
+            {
+              "id": "grandeza-dadivina-misericordia",
+              "title": {
+                "pt-BR": "Terça-feira. Grandeza da divina misericórdia"
+              }
+            },
+            {
+              "id": "deus-bem-que-faz-paraiso",
+              "title": {
+                "pt-BR": "Quarta-feira. Deus é o bem que faz o paraíso"
+              }
+            },
+            {
+              "id": "jesus-santissimo-sacramento-prisioneiro-amor",
+              "title": {
+                "pt-BR": "Quinta-feira. Jesus no Santíssimo Sacramento é prisioneiro de amor"
+              }
+            },
+            {
+              "id": "quanto-agrada-jesus-lembranca-sua-paixao",
+              "title": {
+                "pt-BR": "Sexta-feira. Quanto agrada a Jesus a lembrança da sua Paixão"
+              }
+            },
+            {
+              "id": "maria-santissima-modelo-obediencia",
+              "title": {
+                "pt-BR": "Sábado. Maria Santíssima, modelo de obediência"
+              }
+            }
+          ]
+        },
+        {
+          "id": "setima-semana-depois-de-pentecostes",
+          "title": {
+            "pt-BR": "Sétima Semana depois de Pentecostes"
+          },
+          "children": [
+            {
+              "id": "turbas-famintas-vaidade-bens-terrestres",
+              "title": {
+                "pt-BR": "Domingo. As turbas famintas e a vaidade dos bens terrestres"
+              }
+            },
+            {
+              "id": "importancia-ultimo-momento-vida",
+              "title": {
+                "pt-BR": "Segunda-feira. Importância do último momento da vida"
+              }
+            },
+            {
+              "id": "paz-que-deus-faz-gozar-aos-bons-religiosos",
+              "title": {
+                "pt-BR": "Terça-feira. A paz que Deus faz gozar aos bons religiosos"
+              }
+            },
+            {
+              "id": "quem-ama-deus-suspira-por-ve-lo-no-ceu",
+              "title": {
+                "pt-BR": "Quarta-feira. Quem ama a Deus, suspira por vê-lo no céu"
+              }
+            },
+            {
+              "id": "jesus-santissimo-sacramento-faz-delicias-das-almas-desprendidas",
+              "title": {
+                "pt-BR": "Quinta-feira. Jesus no Santíssimo Sacramento faz as delícias das almas desprendidas"
+              }
+            },
+            {
+              "id": "da-vida-penosa-jesus-cristo",
+              "title": {
+                "pt-BR": "Sexta-feira. Da vida penosa de Jesus Cristo"
+              }
+            },
+            {
+              "id": "maria-santissima-medianeira-pecadores-para-com-deus",
+              "title": {
+                "pt-BR": "Sábado. Maria Santíssima é a medianeira dos pecadores para com Deus"
+              }
+            }
+          ]
+        },
+        {
+          "id": "oitava-semana-depois-de-pentecostes",
+          "title": {
+            "pt-BR": "Oitava Semana depois de Pentecostes"
+          },
+          "children": [
+            {
+              "id": "falsos-profetas-necessidade-boas-obras",
+              "title": {
+                "pt-BR": "Domingo. Os falsos profetas e a necessidade das boas obras"
+              }
+            },
+            {
+              "id": "valor-do-tempo",
+              "title": {
+                "pt-BR": "Segunda-feira. Valor do Tempo"
+              }
+            },
+            {
+              "id": "temos-escolher-entre-eternidade-feliz-outra-infeliz",
+              "title": {
+                "pt-BR": "Terça-feira. Temos de escolher entre uma eternidade feliz e outra infeliz"
+              }
+            },
+            {
+              "id": "angustias-pecador-moribundo",
+              "title": {
+                "pt-BR": "Quarta-feira. Angustias do pecador moribundo"
+              }
+            },
+            {
+              "id": "preparacao-santa-comunhao-acao-gracas",
+              "title": {
+                "pt-BR": "Quinta-feira. Da preparação para a Santa Comunhão e da ação de graças"
+              }
+            },
+            {
+              "id": "meditacao-paixao-jesus-cristo-escola-divino-amor",
+              "title": {
+                "pt-BR": "Sexta-feira. A Meditação da Paixão de Jesus Cristo é uma escola do Divino Amor"
+              }
+            },
+            {
+              "id": "confianca-devemos-ter-maria-como-nossa-mae",
+              "title": {
+                "pt-BR": "Sábado. Da confiança que devemos ter em Maria, como nossa Mãe"
+              }
+            }
+          ]
+        },
+        {
+          "id": "nona-semana-depois-de-pentecostes",
+          "title": {
+            "pt-BR": "Nona Semana depois de Pentecostes"
+          },
+          "children": [
+            {
+              "id": "feitor-infiel-dia-contas",
+              "title": {
+                "pt-BR": "Domingo. O feitor infiel e o dia das contas"
+              }
+            },
+            {
+              "id": "misericordia-deus-chamar-pecador-penitencia",
+              "title": {
+                "pt-BR": "Segunda-feira. Misericórdia de Deus em chamar o pecador à penitência"
+              }
+            },
+            {
+              "id": "remorso-condenado-eu-me-condenei-por-um-nada",
+              "title": {
+                "pt-BR": "Terça-feira. Remorso do condenado: Eu me condenei por um nada"
+              }
+            },
+            {
+              "id": "vida-religiosos-mais-semelhante-jesus-cristo",
+              "title": {
+                "pt-BR": "Quarta-feira. A vida dos religiosos é mais semelhante à de Jesus Cristo"
+              }
+            },
+            {
+              "id": "santo-afonso-modelo-devocao-jesus-sacramentado",
+              "title": {
+                "pt-BR": "Quinta-feira. Santo Afonso, modelo de devoção a Jesus Sacramentado"
+              }
+            },
+            {
+              "id": "desejo-jesus-sofrer-por-nos",
+              "title": {
+                "pt-BR": "Sexta-feira. Desejo de Jesus de sofrer por nós"
+              }
+            },
+            {
+              "id": "devoto-maria-santissima-deve-imitar-lhe-virtudes",
+              "title": {
+                "pt-BR": "Sábado. O devoto de Maria Santíssima deve imitar-lhe as virtudes"
+              }
+            }
+          ]
+        },
+        {
+          "id": "decima-semana-depois-de-pentecostes",
+          "title": {
+            "pt-BR": "Décima Semana depois de Pentecostes"
+          },
+          "children": [
+            {
+              "id": "ruina-jerusalem-fim-uma-alma-descuidada",
+              "title": {
+                "pt-BR": "Domingo. A ruína de Jerusalém e o fim de uma alma descuidada"
+              }
+            },
+            {
+              "id": "importancia-ultimo-fim",
+              "title": {
+                "pt-BR": "Segunda-feira. Importância do último fim"
+              }
+            },
+            {
+              "id": "morte-santos-precisa",
+              "title": {
+                "pt-BR": "Terça-feira. A morte dos Santos é preciosa"
+              }
+            },
+            {
+              "id": "condicoes-oracao",
+              "title": {
+                "pt-BR": "Quarta-feira. Condições da oração"
+              }
+            },
+            {
+              "id": "oracao-feita-diante-santissimo-sacramento",
+              "title": {
+                "pt-BR": "Quinta-feira. Da oração feita diante do Santíssimo Sacramento"
+              }
+            },
+            {
+              "id": "abandono-jesus-sobre-cruz-pena-dano-inferno",
+              "title": {
+                "pt-BR": "Sexta-feira. O abandono de Jesus sobre a Cruz e a pena de dano no inferno"
+              }
+            },
+            {
+              "id": "maria-santissima-refugio-pecadores",
+              "title": {
+                "pt-BR": "Sábado. Maria Santíssima é o refúgio dos pecadores"
+              }
+            }
+          ]
+        },
+        {
+          "id": "undecima-semana-depois-de-pentecostes",
+          "title": {
+            "pt-BR": "Undécima Semana depois de Pentecostes"
+          },
+          "children": [
+            {
+              "id": "fariseu-publicano",
+              "title": {
+                "pt-BR": "Domingo. O Fariseu e o Publicano"
+              }
+            },
+            {
+              "id": "malicia-pecado-mortal",
+              "title": {
+                "pt-BR": "Segunda-feira. Malícia do Pecado Mortal"
+              }
+            },
+            {
+              "id": "alma-culpada-diante-juiz-divino",
+              "title": {
+                "pt-BR": "Terça-feira. A alma culpada diante do Juiz Divino"
+              }
+            },
+            {
+              "id": "pena-dano-que-reprobos-sofrem-inferno",
+              "title": {
+                "pt-BR": "Quarta-feira. Pena de dano que os réprobos sofrem no inferno"
+              }
+            },
+            {
+              "id": "missa-um-sacrificio-agradecimento-proporcionado-divina-beneficencia",
+              "title": {
+                "pt-BR": "Quinta-feira. A Missa é um sacrifício de agradecimento proporcionado à divina beneficência"
+              }
+            },
+            {
+              "id": "humilhacoes-desprezos-jesus-cristo-sofreu",
+              "title": {
+                "pt-BR": "Sexta-feira. Das humilhações e desprezos que Jesus Cristo sofreu"
+              }
+            },
+            {
+              "id": "maria-santissima-modelo-humildade",
+              "title": {
+                "pt-BR": "Sábado. Maria Santíssima, modelo de humildade"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tomo-3",
+      "title": {
+        "pt-BR": "Tomo III — Desde a duodécima semana depois de Pentecostes até ao fim do ano Eclesiástico"
+      },
+      "children": [
+        {
+          "id": "duodecima-semana-depois-de-pentecostes",
+          "title": {
+            "pt-BR": "Duodécima Semana depois de Pentecostes"
+          },
+          "children": [
+            {
+              "id": "milagre-surdo-mudo-espiritualmente-mudos",
+              "title": {
+                "pt-BR": "Domingo. O milagre do surdo-mudo e os espiritualmente mudos"
+              }
+            },
+            {
+              "id": "nao-se-perdoa-todos-igual-numero-pecados",
+              "title": {
+                "pt-BR": "Segunda-feira. Não se perdoa a todos igual número de pecados"
+              }
+            },
+            {
+              "id": "pensamento-morte-faz-perder-apego-bens-mundo",
+              "title": {
+                "pt-BR": "Terça-feira. Pensamento da morte faz perder o apego dos bens do mundo"
+              }
+            },
+            {
+              "id": "bens-ceu-sao-inefaveis",
+              "title": {
+                "pt-BR": "Quarta-feira. Os bens do céu são inefáveis"
+              }
+            },
+            {
+              "id": "santissima-eucaristia-fornalha-amor",
+              "title": {
+                "pt-BR": "Quinta-feira. A Santíssima Eucaristia é uma fornalha de amor"
+              }
+            },
+            {
+              "id": "grandes-penas-jesus-sobre-cruz",
+              "title": {
+                "pt-BR": "Sexta-feira. Grandes penas de Jesus sobre a cruz"
+              }
+            },
+            {
+              "id": "grandezas-inefaveis-maria-santissima",
+              "title": {
+                "pt-BR": "Sábado. Grandezas inefáveis de Maria Santíssima"
+              }
+            }
+          ]
+        },
+        {
+          "id": "decima-terceira-semana-depois-de-pentecostes",
+          "title": {
+            "pt-BR": "Décima Terceira Semana depois de Pentecostes"
+          },
+          "children": [
+            {
+              "id": "bom-samaritano-divino-redentor",
+              "title": {
+                "pt-BR": "Domingo. O bom samaritano e o divino Redentor"
+              }
+            },
+            {
+              "id": "necessidade-mansidao-humildade-religioso",
+              "title": {
+                "pt-BR": "Segunda-feira. Necessidade da mansidão e da humildade para o religioso"
+              }
+            },
+            {
+              "id": "angustias-alma-descuidada-hora-morte",
+              "title": {
+                "pt-BR": "Terça-feira. Angústias da alma descuidada na hora da morte"
+              }
+            },
+            {
+              "id": "bem-aventurado-daquele-conserva-fiel-deus-adversidade",
+              "title": {
+                "pt-BR": "Quarta-feira. Bem-aventurado daquele que se conserva fiel a Deus na adversidade"
+              }
+            },
+            {
+              "id": "jesus-santissimo-sacramento-nao-deseja-senao-dispensar-gracas",
+              "title": {
+                "pt-BR": "Quinta-feira. Jesus no Santíssimo Sacramento não deseja senão dispensar graças"
+              }
+            },
+            {
+              "id": "prisao-jesus-mas-ocasioes",
+              "title": {
+                "pt-BR": "Sexta-feira. A prisão de Jesus e as más ocasiões"
+              }
+            },
+            {
+              "id": "devocao-divina-mae",
+              "title": {
+                "pt-BR": "Sábado. Da devoção à Divina Mãe"
+              }
+            }
+          ]
+        },
+        {
+          "id": "decima-quarta-semana-depois-de-pentecostes",
+          "title": {
+            "pt-BR": "Décima Quarta Semana depois de Pentecostes"
+          },
+          "children": [
+            {
+              "id": "dez-leprosos-pecado-ingratidao",
+              "title": {
+                "pt-BR": "Domingo. Os dez leprosos e o pecado de ingratidão"
+              }
+            },
+            {
+              "id": "nossa-perfeicao-consiste-conformidade-vontade-divina",
+              "title": {
+                "pt-BR": "Segunda-feira. A nossa perfeição consiste na conformidade com a vontade divina"
+              }
+            },
+            {
+              "id": "grande-mal-desafeto-deus",
+              "title": {
+                "pt-BR": "Terça-feira. Do grande mal que é o desafeto de Deus"
+              }
+            },
+            {
+              "id": "ressurreicao-corpos-dia-juizo",
+              "title": {
+                "pt-BR": "Quarta-feira. A ressurreição dos corpos no dia do Juízo"
+              }
+            },
+            {
+              "id": "adoradores-jesus-sacramentado",
+              "title": {
+                "pt-BR": "Quinta-feira. Os adoradores de Jesus Sacramentado"
+              }
+            },
+            {
+              "id": "coracao-aflito-jesus-consolado-pelo-zelo-almas",
+              "title": {
+                "pt-BR": "Sexta-feira. Coração aflito de Jesus, consolado pelo zelo das almas"
+              }
+            },
+            {
+              "id": "maria-santissima-alcanca-perseveranca-para-seus-devotos",
+              "title": {
+                "pt-BR": "Sábado. Maria Santíssima alcança a perseverança para seus devotos"
+              }
+            }
+          ]
+        },
+        {
+          "id": "decima-quinta-semana-depois-de-pentecostes",
+          "title": {
+            "pt-BR": "Décima Quinta Semana depois de Pentecostes"
+          },
+          "children": [
+            {
+              "id": "dois-senhores-e-as-almas-tibias",
+              "title": {
+                "pt-BR": "Domingo. Os Dois senhores e as Almas Tíbias"
+              }
+            },
+            {
+              "id": "da-mortificacao-interior",
+              "title": {
+                "pt-BR": "Segunda-feira. Da Mortificação Interior"
+              }
+            },
+            {
+              "id": "cada-momento-nos-aproximamos-morte",
+              "title": {
+                "pt-BR": "Terça-feira. A cada momento nos aproximamos da Morte"
+              }
+            },
+            {
+              "id": "da-eternidade-do-inferno",
+              "title": {
+                "pt-BR": "Quarta-feira. Da eternidade do Inferno"
+              }
+            },
+            {
+              "id": "jesus-santissimo-sacramento-audiencia-todos-qualquer-hora",
+              "title": {
+                "pt-BR": "Quinta-feira. Jesus no Santíssimo Sacramento dá audiência a todos e a qualquer hora"
+              }
+            },
+            {
+              "id": "jesus-tratado-como-ultimo-dos-homens",
+              "title": {
+                "pt-BR": "Sexta-feira. Jesus tratado como o último dos homens"
+              }
+            },
+            {
+              "id": "martirio-maria-santissima-ao-pe-cruz",
+              "title": {
+                "pt-BR": "Sábado. Martírio de Maria Santíssima ao pé da Cruz"
+              }
+            }
+          ]
+        },
+        {
+          "id": "decima-sexta-semana-depois-de-pentecostes",
+          "title": {
+            "pt-BR": "Décima Sexta Semana depois de Pentecostes"
+          },
+          "children": [
+            {
+              "id": "moco-naim-lembranca-morte",
+              "title": {
+                "pt-BR": "Domingo. O Moço de Naim e a lembrança da Morte"
+              }
+            },
+            {
+              "id": "do-amor-que-deus-nos-mostrou",
+              "title": {
+                "pt-BR": "Segunda-feira. Do amor que Deus nos mostrou"
+              }
+            },
+            {
+              "id": "deus-misericordioso-mas-tambem-justo",
+              "title": {
+                "pt-BR": "Terça-feira. Deus é Misericordioso, mas também Justo"
+              }
+            },
+            {
+              "id": "felicidade-eterna-ceu",
+              "title": {
+                "pt-BR": "Quarta-feira. Felicidade eterna do céu"
+              }
+            },
+            {
+              "id": "do-sagrado-viatico",
+              "title": {
+                "pt-BR": "Quinta-feira. Do sagrado Viático"
+              }
+            },
+            {
+              "id": "jesus-homem-de-dores",
+              "title": {
+                "pt-BR": "Sexta-feira. Jesus, homem de dores"
+              }
+            },
+            {
+              "id": "maria-santissima-modelo-de-mortificacao",
+              "title": {
+                "pt-BR": "Sábado. Maria Santíssima, modelo de Mortificação"
+              }
+            }
+          ]
+        },
+        {
+          "id": "decima-setima-semana-depois-de-pentecostes",
+          "title": {
+            "pt-BR": "Décima Sétima Semana depois de Pentecostes"
+          },
+          "children": [
+            {
+              "id": "homem-hidropico-cristao-ambicioso",
+              "title": {
+                "pt-BR": "Domingo. O homem hidrópico e o cristão ambicioso"
+              }
+            },
+            {
+              "id": "homem-vicio-impureza",
+              "title": {
+                "pt-BR": "Outra meditação para o mesmo dia: O homem e o vício da impureza"
+              }
+            },
+            {
+              "id": "zelo-salvacao-das-almas-que-devem-ter-religiosos",
+              "title": {
+                "pt-BR": "Segunda-feira. Do zelo da salvação das almas que devem ter os religiosos"
+              }
+            },
+            {
+              "id": "devemos-recear-primeiro-novo-pecado-seja-talvez-ultimo",
+              "title": {
+                "pt-BR": "Terça-feira. Devemos recear que o primeiro novo pecado seja talvez o último"
+              }
+            },
+            {
+              "id": "casa-da-eternidade",
+              "title": {
+                "pt-BR": "Quarta-feira. A casa da eternidade"
+              }
+            },
+            {
+              "id": "santa-missa-um-meio-eficaz-obtermos-gracas-deus",
+              "title": {
+                "pt-BR": "Quinta-feira. A Santa Missa é um meio eficaz para obtermos as graças de Deus"
+              }
+            },
+            {
+              "id": "vida-desolada-jesus-cristo",
+              "title": {
+                "pt-BR": "Sexta-feira. Vida desolada de Jesus Cristo"
+              }
+            },
+            {
+              "id": "maria-santissima-esperanca-todos",
+              "title": {
+                "pt-BR": "Sábado. Maria Santíssima é a esperança de todos"
+              }
+            }
+          ]
+        },
+        {
+          "id": "decima-oitava-semana-depois-de-pentecostes",
+          "title": {
+            "pt-BR": "Décima Oitava Semana depois de Pentecostes"
+          },
+          "children": [
+            {
+              "id": "compendio-lei-preceito-caridade",
+              "title": {
+                "pt-BR": "Domingo. O compêndio da lei é o preceito da caridade"
+              }
+            },
+            {
+              "id": "desprezo-mundo-pensamento-morte",
+              "title": {
+                "pt-BR": "Segunda-feira. Desprezo do mundo com o pensamento da morte"
+              }
+            },
+            {
+              "id": "vantagens-tentacoes",
+              "title": {
+                "pt-BR": "Terça-feira. Vantagens das tentações"
+              }
+            },
+            {
+              "id": "morte-continua-inferno",
+              "title": {
+                "pt-BR": "Quarta-feira. Morte continua do inferno"
+              }
+            },
+            {
+              "id": "triunfa-amor",
+              "title": {
+                "pt-BR": "Quinta-feira. Triunfa o amor"
+              }
+            },
+            {
+              "id": "grande-livro-crucifixo",
+              "title": {
+                "pt-BR": "Sexta-feira. O grande livro que é o Crucifixo"
+              }
+            },
+            {
+              "id": "maria-santissima-suaviza-morte-dos-seus-devotos",
+              "title": {
+                "pt-BR": "Sábado. Maria Santíssima suaviza a morte dos seus devotos"
+              }
+            }
+          ]
+        },
+        {
+          "id": "decima-nona-semana-depois-de-pentecostes",
+          "title": {
+            "pt-BR": "Décima Nona Semana depois de Pentecostes"
+          },
+          "children": [
+            {
+              "id": "cura-paralitico-causa-tribulacoes",
+              "title": {
+                "pt-BR": "Domingo. A cura do paralítico e a causa das tribulações"
+              }
+            },
+            {
+              "id": "do-negocio-da-eterna-salvacao",
+              "title": {
+                "pt-BR": "Segunda-feira. Do negócio da eterna salvação"
+              }
+            },
+            {
+              "id": "vida-retirada",
+              "title": {
+                "pt-BR": "Terça-feira. Da vida retirada"
+              }
+            },
+            {
+              "id": "morte-do-justo-entrada-vida",
+              "title": {
+                "pt-BR": "Quarta-feira. A morte do justo é a entrada na vida"
+              }
+            },
+            {
+              "id": "da-comunhao-espiritual",
+              "title": {
+                "pt-BR": "Quinta-feira. Da comunhão espiritual"
+              }
+            },
+            {
+              "id": "primeira-palavra-jesus-cristo-cruz",
+              "title": {
+                "pt-BR": "Sexta-feira. Primeira palavra de Jesus Cristo na cruz"
+              }
+            },
+            {
+              "id": "maria-santissima-modelo-vida-solitaria-recolhida",
+              "title": {
+                "pt-BR": "Sábado. Maria Santíssima, modelo da vida solitária e recolhida"
+              }
+            }
+          ]
+        },
+        {
+          "id": "vigesima-semana-depois-de-pentecostes",
+          "title": {
+            "pt-BR": "Vigésima Semana depois de Pentecostes"
+          },
+          "children": [
+            {
+              "id": "parabola-banquete-nupcial-igreja-catolica",
+              "title": {
+                "pt-BR": "Domingo. A parábola do banquete nupcial e a Igreja Católica"
+              }
+            },
+            {
+              "id": "amor-solidao",
+              "title": {
+                "pt-BR": "Segunda-feira. Do amor à solidão"
+              }
+            },
+            {
+              "id": "vida-presente-uma-viagem-para-eternidade",
+              "title": {
+                "pt-BR": "Terça-feira. A vida presente é uma viagem para a eternidade"
+              }
+            },
+            {
+              "id": "entrada-da-alma-no-ceu",
+              "title": {
+                "pt-BR": "Quarta-feira. Entrada da alma no céu"
+              }
+            },
+            {
+              "id": "jesus-santissimo-sacramento-modelo-virtude",
+              "title": {
+                "pt-BR": "Quinta-feira. Jesus no Santíssimo Sacramento, modelo de virtude"
+              }
+            },
+            {
+              "id": "virtudes-bom-ladrao-segunda-palavra-jesus-na-cruz",
+              "title": {
+                "pt-BR": "Sexta-feira. As virtudes do Bom Ladrão e a Segunda palavra de Jesus na Cruz"
+              }
+            },
+            {
+              "id": "terceira-palavra-jesus-cristo-cruz",
+              "title": {
+                "pt-BR": "Sábado. Terceira palavra de Jesus Cristo na Cruz"
+              }
+            }
+          ]
+        },
+        {
+          "id": "vigesima-primeira-semana-depois-de-pentecostes",
+          "title": {
+            "pt-BR": "Vigésima Primeira Semana depois de Pentecostes"
+          },
+          "children": [
+            {
+              "id": "filho-regulo-utilidade-doencas",
+              "title": {
+                "pt-BR": "Domingo. O filho do régulo e a utilidade das doenças"
+              }
+            },
+            {
+              "id": "da-solidao-coracao",
+              "title": {
+                "pt-BR": "Segunda-feira. Da solidão do coração"
+              }
+            },
+            {
+              "id": "da-misericordia-de-deus",
+              "title": {
+                "pt-BR": "Terça-feira. Da Misericórdia de Deus"
+              }
+            },
+            {
+              "id": "perda-salvacao-um-mal-sem-remedio",
+              "title": {
+                "pt-BR": "Quarta-feira. A perda da Salvação é um mal sem remédio"
+              }
+            },
+            {
+              "id": "jesus-santissimo-sacramento-nosso-bom-pastor",
+              "title": {
+                "pt-BR": "Quinta-feira. Jesus no Santíssimo Sacramento, nosso bom Pastor"
+              }
+            },
+            {
+              "id": "quarta-palavra-jesus-cristo-cruz",
+              "title": {
+                "pt-BR": "Sexta-feira. Quarta palavra de Jesus Cristo na Cruz"
+              }
+            },
+            {
+              "id": "grandeza-da-misericordia-de-maria-santissima",
+              "title": {
+                "pt-BR": "Sábado. Grandeza da Misericórdia de Maria Santíssima"
+              }
+            }
+          ]
+        },
+        {
+          "id": "vigesima-segunda-semana-depois-de-pentecostes",
+          "title": {
+            "pt-BR": "Vigésima Segunda Semana depois de Pentecostes"
+          },
+          "children": [
+            {
+              "id": "servo-desumano-perdao-injurias",
+              "title": {
+                "pt-BR": "Domingo. O servo desumano e o perdão das injúrias"
+              }
+            },
+            {
+              "id": "pecador-desonra-deus",
+              "title": {
+                "pt-BR": "Segunda-feira. O pecador desonra a Deus"
+              }
+            },
+            {
+              "id": "fins-oracao-mental",
+              "title": {
+                "pt-BR": "Terça-feira. Fins da oração mental"
+              }
+            },
+            {
+              "id": "grande-segredo-morte",
+              "title": {
+                "pt-BR": "Quarta-feira. O grande segredo da morte"
+              }
+            },
+            {
+              "id": "felicidade-religiosos-morarem-junto-jesus-santissimo-sacramento",
+              "title": {
+                "pt-BR": "Quinta-feira. Felicidade dos religiosos em morarem junto com Jesus no Santíssimo Sacramento"
+              }
+            },
+            {
+              "id": "quinta-palavra-jesus-cristo-cruz",
+              "title": {
+                "pt-BR": "Sexta-feira. Quinta palavra de Jesus Cristo na Cruz"
+              }
+            },
+            {
+              "id": "necessidade-temos-intercessao-maria-santissima-nossa-salvacao",
+              "title": {
+                "pt-BR": "Sábado. Necessidade que temos da intercessão de Maria Santíssima para nossa salvação"
+              }
+            }
+          ]
+        },
+        {
+          "id": "vigesima-terceira-semana-depois-de-pentecostes",
+          "title": {
+            "pt-BR": "Vigésima Terceira Semana depois de Pentecostes"
+          },
+          "children": [
+            {
+              "id": "tributo-cesar-obrigacao-amar-deus",
+              "title": {
+                "pt-BR": "Domingo. O tributo de Cesar e a obrigação de amar a Deus"
+              }
+            },
+            {
+              "id": "remorso-condenado-por-causa-bem-perdeu",
+              "title": {
+                "pt-BR": "Segunda-feira. Remorso do condenado por causa do bem que perdeu"
+              }
+            },
+            {
+              "id": "em-que-consiste-felicidade-bem-aventurados-ceu",
+              "title": {
+                "pt-BR": "Terça-feira. Em que consiste a felicidade dos bem-aventurados no céu"
+              }
+            },
+            {
+              "id": "para-salvacao-necessario-sacrificio-vontade-propria",
+              "title": {
+                "pt-BR": "Quarta-feira. Para a Salvação é necessário o sacrifício da vontade própria"
+              }
+            },
+            {
+              "id": "o-que-tenha-fazer-alma-presenca-jesus-santissimo-sacramento",
+              "title": {
+                "pt-BR": "Quinta-feira. O que tenha de fazer a alma na presença de Jesus no Santíssimo Sacramento"
+              }
+            },
+            {
+              "id": "sexta-palavra-jesus-cristo-cruz",
+              "title": {
+                "pt-BR": "Sexta-feira. Sexta palavra de Jesus Cristo na Cruz"
+              }
+            },
+            {
+              "id": "maria-santissima-modelo-oracao",
+              "title": {
+                "pt-BR": "Sábado. Maria Santíssima, modelo de Oração"
+              }
+            }
+          ]
+        },
+        {
+          "id": "vigesima-quarta-semana-depois-de-pentecostes",
+          "title": {
+            "pt-BR": "Vigésima Quarta Semana depois de Pentecostes"
+          },
+          "children": [
+            {
+              "id": "filha-jairo-hemorroissa-alma-pecadora",
+              "title": {
+                "pt-BR": "Domingo. A filha de Jairo, a hemorroíssa, e a alma pecadora"
+              }
+            },
+            {
+              "id": "das-penas-inferno",
+              "title": {
+                "pt-BR": "Segunda-feira. Das penas do Inferno"
+              }
+            },
+            {
+              "id": "necessidade-da-oracao",
+              "title": {
+                "pt-BR": "Terça-feira. Necessidade da oração"
+              }
+            },
+            {
+              "id": "obrigacao-temos-socorrer-almas-purgatorio",
+              "title": {
+                "pt-BR": "Quarta-feira. Obrigação que temos de socorrer as almas do purgatório"
+              }
+            },
+            {
+              "id": "amor-jesus-instituicao-santissimo-sacramento-antes-ir-morrer",
+              "title": {
+                "pt-BR": "Quinta-feira. Amor de Jesus na instituição do Santíssimo Sacramento, antes de ir morrer"
+              }
+            },
+            {
+              "id": "setima-palavra-jesus-cristo-cruz",
+              "title": {
+                "pt-BR": "Sexta-feira. Sétima palavra de Jesus Cristo na Cruz"
+              }
+            },
+            {
+              "id": "devocao-sao-joaquim-santa-ana-pais-maria-santissima",
+              "title": {
+                "pt-BR": "Sábado. Devoção a São Joaquim e Santa Ana, pais de Maria Santíssima"
+              }
+            }
+          ]
+        },
+        {
+          "id": "terceira-semana-que-sobrou-depois-da-epifania",
+          "title": {
+            "pt-BR": "Terceira Semana que sobrou depois da Epifania"
+          },
+          "children": [
+            {
+              "id": "virtudes-praticadas-pelo-leproso-pelo-centuriao",
+              "title": {
+                "pt-BR": "Domingo. Virtudes praticadas pelo leproso e pelo centurião"
+              }
+            },
+            {
+              "id": "misericordia-deus-acolher-pecadores-arrependidos",
+              "title": {
+                "pt-BR": "Segunda-feira. Misericórdia de Deus em acolher os pecadores arrependidos"
+              }
+            },
+            {
+              "id": "gloria-poder-leito-morte",
+              "title": {
+                "pt-BR": "Terça-feira. A glória e o poder no leito da morte"
+              }
+            },
+            {
+              "id": "so-em-deus-se-acha-verdadeira-felicidade",
+              "title": {
+                "pt-BR": "Quarta-feira. Só em Deus se acha a verdadeira felicidade"
+              }
+            },
+            {
+              "id": "excelencia-santissima-eucaristia",
+              "title": {
+                "pt-BR": "Quinta-feira. Excelência da Santíssima Eucaristia"
+              }
+            },
+            {
+              "id": "suspiros-amor-pe-crucifixo",
+              "title": {
+                "pt-BR": "Sexta-feira. Suspiros de amor ao pé do Crucifixo"
+              }
+            },
+            {
+              "id": "pratica-da-devocao-maria-santissima",
+              "title": {
+                "pt-BR": "Sábado. Prática da Devoção à Maria Santíssima"
+              }
+            }
+          ]
+        },
+        {
+          "id": "quarta-semana-que-sobrou-depois-da-epifania",
+          "title": {
+            "pt-BR": "Quarta Semana que sobrou depois da Epifania"
+          },
+          "children": [
+            {
+              "id": "barca-tempestade-grande-meio-para-nao-naufragar",
+              "title": {
+                "pt-BR": "Domingo. A barca na tempestade e o grande meio para não naufragar"
+              }
+            },
+            {
+              "id": "loucura-dos-pecadores",
+              "title": {
+                "pt-BR": "Segunda-feira. Loucura dos Pecadores"
+              }
+            },
+            {
+              "id": "preciso-estarmos-sempre-prontos-para-morrer",
+              "title": {
+                "pt-BR": "Terça-feira. É preciso estarmos sempre prontos para morrer"
+              }
+            },
+            {
+              "id": "o-que-faz-reprobo-inferno",
+              "title": {
+                "pt-BR": "Quarta-feira. O que faz o réprobo no Inferno"
+              }
+            },
+            {
+              "id": "jesus-santissimo-sacramento-espera-nos-com-extrema-misericordia",
+              "title": {
+                "pt-BR": "Quinta-feira. Jesus, no Santíssimo Sacramento, espera-nos com extrema misericórdia"
+              }
+            },
+            {
+              "id": "frutos-que-produz-meditacao-jesus-crucificado",
+              "title": {
+                "pt-BR": "Sexta-feira. Frutos que produz a meditação de Jesus Crucificado"
+              }
+            },
+            {
+              "id": "confianca-patrocinio-maria-santissima",
+              "title": {
+                "pt-BR": "Sábado. Da confiança no patrocínio de Maria Santíssima"
+              }
+            }
+          ]
+        },
+        {
+          "id": "quinta-semana-que-sobrou-depois-da-epifania",
+          "title": {
+            "pt-BR": "Quinta Semana que sobrou depois da Epifania"
+          },
+          "children": [
+            {
+              "id": "parabola-joio-igreja-catolica",
+              "title": {
+                "pt-BR": "Domingo. A parábola do joio e a Igreja Católica"
+              }
+            },
+            {
+              "id": "noticia-morte",
+              "title": {
+                "pt-BR": "Segunda-feira. A notícia da Morte"
+              }
+            },
+            {
+              "id": "das-securas-espirituais",
+              "title": {
+                "pt-BR": "Terça-feira. Das Securas Espirituais"
+              }
+            },
+            {
+              "id": "desespero-dos-reprobos-no-inferno",
+              "title": {
+                "pt-BR": "Quarta-feira. Desespero dos réprobos no Inferno"
+              }
+            },
+            {
+              "id": "santissima-eucaristia-nossa-forca-contra-nossos-inimigos",
+              "title": {
+                "pt-BR": "Quinta-feira. A Santíssima Eucaristia, nossa força contra os nossos inimigos"
+              }
+            },
+            {
+              "id": "das-ignominias-jesus-cristo-sofreu-sua-paixao",
+              "title": {
+                "pt-BR": "Sexta-feira. Das ignomínias que Jesus Cristo sofreu na sua Paixão"
+              }
+            },
+            {
+              "id": "maria-santissima-livra-os-seus-devotos-do-inferno",
+              "title": {
+                "pt-BR": "Sábado. Maria Santíssima livra os seus devotos do inferno"
+              }
+            }
+          ]
+        },
+        {
+          "id": "sexta-semana-que-sobrou-depois-da-epifania",
+          "title": {
+            "pt-BR": "Sexta Semana que sobrou depois da Epifania"
+          },
+          "children": [
+            {
+              "id": "grao-mostarda-igreja-catolica",
+              "title": {
+                "pt-BR": "Domingo. O grão de Mostarda e a Igreja Católica"
+              }
+            },
+            {
+              "id": "da-perfeita-resignacao-vontade-divina",
+              "title": {
+                "pt-BR": "Segunda-feira. Da perfeita resignação com a vontade divina"
+              }
+            },
+            {
+              "id": "salvacao-nosso-unico-negocio",
+              "title": {
+                "pt-BR": "Terça-feira. A Salvação é o nosso único negócio"
+              }
+            },
+            {
+              "id": "para-nos-prepararmos-para-morte-nao-devemos-esperar-pelo-ultimo-momento",
+              "title": {
+                "pt-BR": "Quarta-feira. Para nos prepararmos para a morte não devemos esperar pelo último momento"
+              }
+            },
+            {
+              "id": "jesus-santissimo-sacramento-nosso-consolador",
+              "title": {
+                "pt-BR": "Quinta-feira. Jesus no Santíssimo Sacramento, nosso Consolador"
+              }
+            },
+            {
+              "id": "amor-excessivo-jesus-cristo-para-com-homens",
+              "title": {
+                "pt-BR": "Sexta-feira. Amor excessivo de Jesus Cristo para com os homens"
+              }
+            },
+            {
+              "id": "maria-santissima-socorre-seus-devotos-purgatorio",
+              "title": {
+                "pt-BR": "Sábado. Maria Santíssima socorre os seus devotos no purgatório"
+              }
+            }
+          ]
+        },
+        {
+          "id": "vigesima-quinta-e-ultima-semana-depois-de-pentecostes",
+          "title": {
+            "pt-BR": "Vigésima quinta e última semana depois de Pentecostes"
+          },
+          "children": [
+            {
+              "id": "fim-mundo-procedimento-bons-catolicos-tempo-perseguicao",
+              "title": {
+                "pt-BR": "Domingo. O fim do mundo e o procedimento dos bons católicos em tempo de perseguição"
+              }
+            },
+            {
+              "id": "em-que-coisas-nos-devemos-conformar-vontade-divina",
+              "title": {
+                "pt-BR": "Segunda-feira. Em que coisas nos devemos conformar com a vontade divina"
+              }
+            },
+            {
+              "id": "na-morte-tudo-acaba",
+              "title": {
+                "pt-BR": "Terça-feira. Na morte tudo acaba"
+              }
+            },
+            {
+              "id": "pena-perda-deus-que-faz-inferno",
+              "title": {
+                "pt-BR": "Quarta-feira. A pena da perda de Deus é o que faz o inferno"
+              }
+            },
+            {
+              "id": "da-assistencia-a-santa-missa",
+              "title": {
+                "pt-BR": "Quinta-feira. Da assistência à Santa Missa"
+              }
+            },
+            {
+              "id": "paixao-jesus-cristo-nossa-consolacao",
+              "title": {
+                "pt-BR": "Sexta-feira. A Paixão de Jesus Cristo, nossa Consolação"
+              }
+            },
+            {
+              "id": "maria-santissima-conduz-seus-servos-paraiso",
+              "title": {
+                "pt-BR": "Sábado. Maria Santíssima conduz os seus servos ao paraíso"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "festas",
+      "title": {
+        "pt-BR": "Meditações para Diversas Festas"
+      },
+      "children": [
+        {
+          "id": "festa-sao-francisco-sales",
+          "title": {
+            "pt-BR": "29 de Janeiro ou 24 de Janeiro. Festa de São Francisco de Sales"
+          }
+        },
+        {
+          "id": "festa-purificacao-maria-apresentacao-jesus",
+          "title": {
+            "pt-BR": "02 de Fevereiro. Festa da Purificação de Maria e da Apresentação de Jesus"
+          }
+        },
+        {
+          "id": "festa-santo-tomas-aquino",
+          "title": {
+            "pt-BR": "07 de Março ou 28 de Janeiro. Festa de Santo Tomás de Aquino"
+          }
+        },
+        {
+          "id": "festa-sao-clemente-maria-hofbauer",
+          "title": {
+            "pt-BR": "15 de Março. Festa de São Clemente Maria Hofbauer"
+          }
+        },
+        {
+          "id": "festa-sao-jose-esposo-virgem-maria",
+          "title": {
+            "pt-BR": "19 de Março. Festa de São José, Esposo da Virgem Maria"
+          }
+        },
+        {
+          "id": "festa-de-sao-bento-abade",
+          "title": {
+            "pt-BR": "21 de Março. Festa de São Bento, Abade"
+          }
+        },
+        {
+          "id": "festa-anunciacao-maria-santissima",
+          "title": {
+            "pt-BR": "25 de Março. Festa da Anunciação de Maria Santíssima"
+          }
+        },
+        {
+          "id": "festa-de-nossa-senhora-do-bom-conselho",
+          "title": {
+            "pt-BR": "26 de Abril. Festa de Nossa Senhora do Bom Conselho"
+          }
+        },
+        {
+          "id": "motivos-para-celebrar-o-mes-de-maria",
+          "title": {
+            "pt-BR": "30 de Abril. Motivos para celebrar o mês de Maria"
+          }
+        },
+        {
+          "id": "festa-dos-apostolos-sao-filipe-e-sao-tiago",
+          "title": {
+            "pt-BR": "01 de Maio. Festa dos Apóstolos São Filipe e São Tiago"
+          }
+        },
+        {
+          "id": "festa-de-sao-joao-ante-a-porta-latina",
+          "title": {
+            "pt-BR": "06 de Maio. Festa de São João ante a Porta Latina"
+          }
+        },
+        {
+          "id": "festa-de-sao-filipe-neri",
+          "title": {
+            "pt-BR": "26 de Maio. Festa de São Filipe Neri"
+          }
+        },
+        {
+          "id": "oferecimento-do-coracao-a-maria-santissima",
+          "title": {
+            "pt-BR": "31 de Maio. Oferecimento do Coração a Maria Santíssima"
+          }
+        },
+        {
+          "id": "sobre-a-devocao-ao-sagrado-coracao-de-jesus",
+          "title": {
+            "pt-BR": "01 de Junho. Sobre a Devoção ao Sagrado Coração de Jesus"
+          }
+        },
+        {
+          "id": "festa-de-sao-luiz-gonzaga",
+          "title": {
+            "pt-BR": "21 de Junho. Festa de São Luiz Gonzaga"
+          }
+        },
+        {
+          "id": "festa-de-nossa-senhora-do-perpetuo-socorro",
+          "title": {
+            "pt-BR": "Domingo antes do dia 24 de Junho. Festa de Nossa Senhora do Perpétuo Socorro"
+          }
+        },
+        {
+          "id": "festa-de-sao-joao-batista-3",
+          "title": {
+            "pt-BR": "24 de Junho. Festa de São João Batista"
+          }
+        },
+        {
+          "id": "festa-do-preciosissimo-sangue-de-nosso-senhor-jesus-cristo",
+          "title": {
+            "pt-BR": "01 de Julho. Festa do Preciosíssimo Sangue de Nosso Senhor Jesus Cristo"
+          }
+        },
+        {
+          "id": "festa-da-visitacao-de-nossa-senhora",
+          "title": {
+            "pt-BR": "02 de Julho. Festa da Visitação de Nossa Senhora"
+          }
+        },
+        {
+          "id": "festa-de-nossa-senhora-do-carmo",
+          "title": {
+            "pt-BR": "16 de Julho. Festa de Nossa Senhora do Carmo"
+          }
+        },
+        {
+          "id": "solenidade-do-santissimo-redentor",
+          "title": {
+            "pt-BR": "Terceiro domingo de Julho. Solenidade do Santíssimo Redentor"
+          }
+        },
+        {
+          "id": "festa-de-sao-vicente-de-paulo",
+          "title": {
+            "pt-BR": "19 de Julho. Festa de São Vicente de Paulo"
+          }
+        },
+        {
+          "id": "festa-de-santa-maria-madalena-penitente",
+          "title": {
+            "pt-BR": "22 de Julho. Festa de Santa Maria Madalena Penitente"
+          }
+        },
+        {
+          "id": "festa-de-sao-tiago-maior-apostolo",
+          "title": {
+            "pt-BR": "25 de Julho. Festa de São Tiago Maior, Apóstolo"
+          }
+        },
+        {
+          "id": "festa-de-santa-ana-mae-de-maria-santissima",
+          "title": {
+            "pt-BR": "26 de Julho. Festa de Santa Ana, Mãe de Maria Santíssima"
+          }
+        },
+        {
+          "id": "festa-de-santo-inacio-de-loyola",
+          "title": {
+            "pt-BR": "31 de Julho. Festa de Santo Inácio de Loyola"
+          }
+        },
+        {
+          "id": "festa-santo-afonso-ligorio",
+          "title": {
+            "pt-BR": "02 de Agosto. Festa de Santo Afonso Maria de Ligório"
+          }
+        },
+        {
+          "id": "festa-de-sao-caetano",
+          "title": {
+            "pt-BR": "07 de Agosto. Festa de São Caetano"
+          }
+        },
+        {
+          "id": "festa-da-assuncao-de-maria-santissima",
+          "title": {
+            "pt-BR": "15 de Agosto. Festa da Assunção de Maria Santíssima"
+          }
+        },
+        {
+          "id": "festa-de-sao-joaquim-pai-de-maria-santissima",
+          "title": {
+            "pt-BR": "16 de Agosto. Festa de São Joaquim, pai de Maria Santíssima"
+          }
+        },
+        {
+          "id": "festa-de-sao-bartolomeu-apostolo",
+          "title": {
+            "pt-BR": "24 de Agosto. Festa de São Bartolomeu, Apóstolo"
+          }
+        },
+        {
+          "id": "festa-da-natividade-de-maria-santissima",
+          "title": {
+            "pt-BR": "08 de Setembro. Festa da Natividade de Maria Santíssima"
+          }
+        },
+        {
+          "id": "festa-do-santissimo-nome-de-maria",
+          "title": {
+            "pt-BR": "12 de Setembro. Festa do Santíssimo Nome de Maria"
+          }
+        },
+        {
+          "id": "festa-da-exaltacao-da-santa-cruz-de-nosso-senhor-jesus-cristo",
+          "title": {
+            "pt-BR": "14 de Setembro. Festa da Exaltação da Santa Cruz de Nosso Senhor Jesus Cristo"
+          }
+        },
+        {
+          "id": "festa-das-dores-de-maria-santissima",
+          "title": {
+            "pt-BR": "15 de Setembro. Festa das Dores de Maria Santíssima"
+          }
+        },
+        {
+          "id": "festa-de-sao-mateus-apostolo",
+          "title": {
+            "pt-BR": "21 de Setembro. Festa de São Mateus, Apóstolo"
+          }
+        },
+        {
+          "id": "festa-do-arcanjo-sao-miguel",
+          "title": {
+            "pt-BR": "29 de Setembro. Festa do Arcanjo São Miguel"
+          }
+        },
+        {
+          "id": "festa-dos-santos-anjos-da-guarda",
+          "title": {
+            "pt-BR": "02 de Outubro. Festa dos Santos Anjos da Guarda"
+          }
+        },
+        {
+          "id": "festa-de-sao-francisco-de-assis",
+          "title": {
+            "pt-BR": "04 de Outubro. Festa de São Francisco de Assis"
+          }
+        },
+        {
+          "id": "solenidade-do-santissimo-rosario",
+          "title": {
+            "pt-BR": "07 de Outubro. Solenidade do Santíssimo Rosário"
+          }
+        },
+        {
+          "id": "festa-de-santa-teresa-de-jesus",
+          "title": {
+            "pt-BR": "15 de Outubro. Festa de Santa Teresa de Jesus"
+          }
+        },
+        {
+          "id": "festa-dos-apostolos-sao-simao-e-sao-tadeu",
+          "title": {
+            "pt-BR": "28 de Outubro. Festa dos Apóstolos São Simão e São Tadeu"
+          }
+        },
+        {
+          "id": "festa-de-todos-os-santos-2",
+          "title": {
+            "pt-BR": "01 de Novembro. Festa de Todos os Santos"
+          }
+        },
+        {
+          "id": "suspiros-pela-patria-celeste",
+          "title": {
+            "pt-BR": "Outra meditação para a tarde do mesmo dia. Suspiros pela Pátria Celeste"
+          }
+        },
+        {
+          "id": "comemoracao-de-todos-os-fieis-defuntos",
+          "title": {
+            "pt-BR": "02 de Novembro. Comemoração de todos os Fiéis Defuntos"
+          }
+        },
+        {
+          "id": "festa-de-santo-estanislau-kostka",
+          "title": {
+            "pt-BR": "08 de Novembro. Festa de Santo Estanislau Kostka"
+          }
+        },
+        {
+          "id": "festa-da-apresentacao-de-maria-santissima",
+          "title": {
+            "pt-BR": "21 de Novembro. Festa da Apresentação de Maria Santíssima"
+          }
+        },
+        {
+          "id": "festa-do-apostolo-santo-andre",
+          "title": {
+            "pt-BR": "30 de Novembro. Festa do Apóstolo Santo André"
+          }
+        },
+        {
+          "id": "06-de-dezembro-festa-de-sao-nicolau-bispo",
+          "title": {
+            "pt-BR": "06 de Dezembro. Festa de São Nicolau, Bispo"
+          }
+        },
+        {
+          "id": "08-de-dezembro-festa-da-imaculada-conceicao-de-maria",
+          "title": {
+            "pt-BR": "08 de Dezembro. Festa da Imaculada Conceição de Maria"
+          }
+        },
+        {
+          "id": "21-de-dezembro-festa-do-apostolo-sao-tome",
+          "title": {
+            "pt-BR": "21 de Dezembro. Festa do Apóstolo São Tomé"
+          }
+        }
+      ]
+    },
+    {
+      "id": "apendice",
+      "title": {
+        "pt-BR": "Apêndice"
+      },
+      "children": [
+        {
+          "id": "i-meditacoes-para-as-primeiras-sextas-feiras-do-mes-dedicadas-ao-sagrado-coracao",
+          "title": {
+            "pt-BR": "I. Meditações para as Primeiras Sextas-feiras do Mês, dedicadas ao Sagrado Coração de Jesus"
+          },
+          "children": [
+            {
+              "id": "devocao-ao-sagrado-coracao-seta-reservada",
+              "title": {
+                "pt-BR": "1ª Sexta-feira de Janeiro. A Devoção ao Sagrado Coração, Seta Reservada"
+              }
+            },
+            {
+              "id": "recompensa-devocao-sagrado-coracao-perseveranca",
+              "title": {
+                "pt-BR": "1ª Sexta-feira de Fevereiro. Recompensa da devoção ao Sagrado Coração: a Perseverança"
+              }
+            },
+            {
+              "id": "meio-unirmos-sagrado-coracao-boa-intencao",
+              "title": {
+                "pt-BR": "1ª Sexta-feira de Março. Meio de nos unirmos ao Sagrado Coração: a Boa Intenção"
+              }
+            },
+            {
+              "id": "o-sagrado-coracao-reservatorio-de-gracas",
+              "title": {
+                "pt-BR": "1ª Sexta-feira de Abril. O Sagrado Coração, Reservatório de Graças"
+              }
+            },
+            {
+              "id": "o-coracao-de-jesus-vitima-voluntaria",
+              "title": {
+                "pt-BR": "1ª Sexta-feira de Maio. O Coração de Jesus, Vítima Voluntária"
+              }
+            },
+            {
+              "id": "apostolado-perpetuo-do-coracao-de-jesus",
+              "title": {
+                "pt-BR": "1ª Sexta-feira de Junho. Apostolado Perpétuo do Coração de Jesus"
+              }
+            },
+            {
+              "id": "coracao-jesus-modelo-humildade",
+              "title": {
+                "pt-BR": "1ª Sexta-feira de Julho. Coração de Jesus, modelo de Humildade"
+              }
+            },
+            {
+              "id": "o-coracao-de-jesus-modelo-de-mansidao",
+              "title": {
+                "pt-BR": "1ª Sexta-feira de Agosto. O Coração de Jesus, modelo de Mansidão"
+              }
+            },
+            {
+              "id": "o-coracao-de-jesus-amigo-das-almas-castas",
+              "title": {
+                "pt-BR": "1ª Sexta-feira de Setembro. O Coração de Jesus, Amigo das Almas Castas"
+              }
+            },
+            {
+              "id": "o-coracao-de-jesus-centro-dos-coracoes",
+              "title": {
+                "pt-BR": "1ª Sexta-feira de Outubro. O Coração de Jesus, Centro dos Corações"
+              }
+            },
+            {
+              "id": "o-coracao-de-jesus-modelo-de-conformidade-com-a-vontade-de-deus",
+              "title": {
+                "pt-BR": "1ª Sexta-feira de Novembro. O Coração de Jesus, modelo de Conformidade com a Vontade de Deus"
+              }
+            },
+            {
+              "id": "o-coracao-de-jesus-modelo-de-fidelidade",
+              "title": {
+                "pt-BR": "1ª Sexta-feira de Dezembro. O Coração de Jesus, modelo de Fidelidade"
+              }
+            }
+          ]
+        },
+        {
+          "id": "ii-meditacoes-para-o-dia-25-de-cada-mes-sobre-o-misterio-da-encarnacao-do-verbo",
+          "title": {
+            "pt-BR": "II. Meditações para o dia 25 de cada Mês sobre o Mistério da Encarnação do Verbo"
+          },
+          "children": [
+            {
+              "id": "necessidade-da-fe-para-contemplar-com-fruto-o-misterio-da-encarnacao",
+              "title": {
+                "pt-BR": "25 de Janeiro. Necessidade da Fé para contemplar com fruto o Mistério da Encarnação"
+              }
+            },
+            {
+              "id": "motivos-para-esperar-em-jesus-cristo",
+              "title": {
+                "pt-BR": "25 de Fevereiro. Motivos para Esperar em Jesus Cristo"
+              }
+            },
+            {
+              "id": "festa-anunciacao-maria-santissima-2",
+              "title": {
+                "pt-BR": "25 de Março. Festa da Anunciação de Maria Santíssima"
+              }
+            },
+            {
+              "id": "jesus-o-medico-das-nossas-almas",
+              "title": {
+                "pt-BR": "25 de Abril. Jesus o Médico das nossas Almas"
+              }
+            },
+            {
+              "id": "pobreza-do-menino-jesus",
+              "title": {
+                "pt-BR": "25 de Maio. Pobreza do Menino Jesus"
+              }
+            },
+            {
+              "id": "o-filho-de-deus-tomou-sobre-si-as-nossas-iniquidades",
+              "title": {
+                "pt-BR": "25 de Junho. O Filho de Deus tomou sobre si as nossas iniquidades"
+              }
+            },
+            {
+              "id": "jesus-modelo-de-obediencia",
+              "title": {
+                "pt-BR": "25 de Julho. Jesus, modelo de Obediência"
+              }
+            },
+            {
+              "id": "sublimidade-do-misterio-da-encarnacao",
+              "title": {
+                "pt-BR": "25 de Agosto. Sublimidade do Mistério da Encarnação"
+              }
+            },
+            {
+              "id": "o-menino-jesus-sobre-as-palhas-ensina-nos-mortificacao",
+              "title": {
+                "pt-BR": "25 de Setembro. O Menino Jesus, sobre as palhas, ensina-nos a Mortificação"
+              }
+            },
+            {
+              "id": "solidao-de-jesus-na-gruta-de-belem",
+              "title": {
+                "pt-BR": "25 de Outubro. Solidão de Jesus na Gruta de Belém"
+              }
+            },
+            {
+              "id": "das-ocupacoes-do-menino-jesus-na-gruta-de-belem",
+              "title": {
+                "pt-BR": "25 de Novembro. Das ocupações do Menino Jesus na Gruta de Belém"
+              }
+            }
+          ]
+        },
+        {
+          "id": "ii-meditacoes-para-as-quartas-feiras-do-mes-de-marco-consagrado-ao-santo-patriar",
+          "title": {
+            "pt-BR": "II. Meditações para as Quartas-feiras do Mês de Março, consagrado ao Santo Patriarca São José, Esposo Puríssimo da Virgem Maria"
+          },
+          "children": [
+            {
+              "id": "da-viagem-de-sao-jose-e-maria-santissima-a-belem-onde-nasceu-jesus",
+              "title": {
+                "pt-BR": "1ª Quarta-feira de Março. Da viagem de São José e Maria Santíssima a Belém, onde nasceu Jesus"
+              }
+            },
+            {
+              "id": "fuga-para-o-egito-2",
+              "title": {
+                "pt-BR": "2ª Quarta-feira de Março. Fuga para o Egito"
+              }
+            },
+            {
+              "id": "da-volta-do-egito-e-da-perda-de-jesus-no-templo",
+              "title": {
+                "pt-BR": "3ª Quarta-feira de Março. Da volta do Egito e da perda de Jesus no Templo"
+              }
+            },
+            {
+              "id": "da-dignidade-sao-jose-esposo-virgem-maria-2",
+              "title": {
+                "pt-BR": "4ª Quarta-feira de Março. Da dignidade de São José, Esposo da Virgem Maria"
+              }
+            },
+            {
+              "id": "gloria-sao-jose-esposo-virgem-maria-2",
+              "title": {
+                "pt-BR": "5ª Quarta-feira de Março. Da glória de São José, Esposo da Virgem Maria"
+              }
+            }
+          ]
+        },
+        {
+          "id": "iii-devocao-a-santo-afonso-meditacoes-nas-quais-o-santo-doutor-e-proposto-como-m",
+          "title": {
+            "pt-BR": "III. Devoção a Santo Afonso. Meditações nas quais o Santo Doutor é proposto como Modelo das Doze Virtudes Fundamentais"
+          },
+          "children": [
+            {
+              "id": "santo-afonso-modelo-de-fe-viva",
+              "title": {
+                "pt-BR": "Mês de Janeiro. Santo Afonso, modelo de Fé Viva"
+              }
+            },
+            {
+              "id": "santo-afonso-modelo-de-firme-confianca",
+              "title": {
+                "pt-BR": "Mês de Fevereiro. Santo Afonso, modelo de Firme Confiança"
+              }
+            },
+            {
+              "id": "santo-afonso-modelo-de-amor-a-deus",
+              "title": {
+                "pt-BR": "Mês de Março. Santo Afonso, modelo de Amor a Deus"
+              }
+            },
+            {
+              "id": "santo-afonso-modelo-de-amor-para-com-o-proximo",
+              "title": {
+                "pt-BR": "Mês de Abril. Santo Afonso, modelo de Amor para com o próximo"
+              }
+            },
+            {
+              "id": "santo-afonso-modelo-de-pobreza-evangelica",
+              "title": {
+                "pt-BR": "Mês de Maio. Santo Afonso, modelo de Pobreza Evangélica"
+              }
+            },
+            {
+              "id": "santo-afonso-modelo-de-castidade",
+              "title": {
+                "pt-BR": "Mês de Junho. Santo Afonso, modelo de Castidade"
+              }
+            },
+            {
+              "id": "santo-afonso-modelo-de-obediencia",
+              "title": {
+                "pt-BR": "Mês de Julho. Santo Afonso, modelo de Obediência"
+              }
+            },
+            {
+              "id": "santo-afonso-modelo-de-mansidao-e-de-humildade",
+              "title": {
+                "pt-BR": "Mês de Agosto. Santo Afonso, modelo de Mansidão e de Humildade"
+              }
+            },
+            {
+              "id": "santo-afonso-modelo-de-mortificacao",
+              "title": {
+                "pt-BR": "Mês de Setembro. Santo Afonso, modelo de Mortificação"
+              }
+            },
+            {
+              "id": "santo-afonso-modelo-de-paciencia-e-de-amor-a-cruz",
+              "title": {
+                "pt-BR": "Mês de Outubro. Santo Afonso, modelo da Vida Interior e Recolhida"
+              }
+            },
+            {
+              "id": "santo-afonso-modelo-de-oracao",
+              "title": {
+                "pt-BR": "Mês de Novembro. Santo Afonso, modelo de Oração"
+              }
+            },
+            {
+              "id": "santo-afonso-modelo-de-paciencia-e-de-amor-a-cruz-2",
+              "title": {
+                "pt-BR": "Mês de Dezembro. Santo Afonso, modelo de Paciência e de Amor à Cruz"
+              }
+            }
+          ]
+        },
+        {
+          "id": "iv-meditacoes-de-reservas",
+          "title": {
+            "pt-BR": "IV. MEDITAÇÕES DE RESERVAS"
+          },
+          "children": [
+            {
+              "id": "jesus-nasce-menino",
+              "title": {
+                "pt-BR": "1ª Meditação. Jesus nasce Menino"
+              }
+            },
+            {
+              "id": "da-vida-oculta-de-jesus-no-santissimo-sacramento",
+              "title": {
+                "pt-BR": "2ª Meditação. Da vida oculta de Jesus no Santíssimo Sacramento"
+              }
+            },
+            {
+              "id": "da-oracao-dominical",
+              "title": {
+                "pt-BR": "3ª Meditação. Da Oração Dominical"
+              }
+            },
+            {
+              "id": "continuacao-da-explicacao-da-oracao-dominical",
+              "title": {
+                "pt-BR": "4ª Meditação. Continuação da explicação da Oração Dominical"
+              }
+            },
+            {
+              "id": "formosura-de-maria-santissima",
+              "title": {
+                "pt-BR": "5ª Meditação. Formosura de Maria Santíssima"
+              }
+            },
+            {
+              "id": "do-grande-mal-que-fazem-os-que-ocultam-os-pecados-na-confissao",
+              "title": {
+                "pt-BR": "6ª Meditação. Do grande mal que fazem os que ocultam os Pecados na Confissão"
+              }
+            },
+            {
+              "id": "da-fugida-das-ocasioes",
+              "title": {
+                "pt-BR": "7ª Meditação. Da Fugida das Ocasiões"
+              }
+            },
+            {
+              "id": "tormentos-interiores-do-pecador",
+              "title": {
+                "pt-BR": "8ª Meditação. Tormentos interiores do Pecador"
+              }
+            },
+            {
+              "id": "a-morte-e-para-o-justo-o-fim-de-perigos",
+              "title": {
+                "pt-BR": "9ª Meditação. A morte é para o Justo o fim de perigos"
+              }
+            },
+            {
+              "id": "do-amor-a-deus",
+              "title": {
+                "pt-BR": "10ª Meditação. Do amor a Deus"
+              }
+            },
+            {
+              "id": "estada-amorosa-de-jesus-no-santissimo-sacramento",
+              "title": {
+                "pt-BR": "11ª Meditação. Estada amorosa de Jesus no Santíssimo Sacramento"
+              }
+            },
+            {
+              "id": "maria-santissima-e-cheia-de-graca",
+              "title": {
+                "pt-BR": "12ª Meditação. Maria Santíssima é cheia de Graça"
+              }
+            },
+            {
+              "id": "deus-deve-ser-o-nosso-unico-fim",
+              "title": {
+                "pt-BR": "13ª Meditação. Deus deve ser o nosso único fim"
+              }
+            },
+            {
+              "id": "a-misericordia-de-deus-e-as-ilusoes-do-pecador",
+              "title": {
+                "pt-BR": "14ª Meditação. A Misericórdia de Deus e as Ilusões do Pecador"
+              }
+            },
+            {
+              "id": "do-grande-meio-para-vencer-as-tentacoes",
+              "title": {
+                "pt-BR": "15ª Meditação. Do grande meio para vencer as Tentações"
+              }
+            },
+            {
+              "id": "magoas-tardias-da-alma-negligente-na-hora-da-morte",
+              "title": {
+                "pt-BR": "16ª Meditação. Mágoas tardias da Alma negligente na hora da Morte"
+              }
+            },
+            {
+              "id": "quem-ama-a-deus-nao-deve-temer-a-morte",
+              "title": {
+                "pt-BR": "17ª Meditação. Quem ama a Deus, não deve temer a Morte"
+              }
+            },
+            {
+              "id": "o-justo-morre-numa-paz-dulcissima",
+              "title": {
+                "pt-BR": "18ª Meditação. O Justo morre numa Paz Dulcíssima"
+              }
+            },
+            {
+              "id": "meios-para-se-preparar-para-a-morte",
+              "title": {
+                "pt-BR": "19ª Meditação. Meios para se Preparar para a Morte"
+              }
+            },
+            {
+              "id": "protestacao-para-a-boa-morte",
+              "title": {
+                "pt-BR": "20ª Meditação. Protestação para a Boa Morte"
+              }
+            },
+            {
+              "id": "meios-para-conservar-a-graca-de-deus",
+              "title": {
+                "pt-BR": "21ª Meditação. Meios para conservar a Graça de Deus"
+              }
+            },
+            {
+              "id": "das-enfermidades",
+              "title": {
+                "pt-BR": "22ª Meditação. Das Enfermidades"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
