@@ -729,6 +729,7 @@ export default {
     'oracao-santa-missa': 'Prayer for Holy Mass',
     'para-confissao': 'For Confession',
     'preparacao-comunhao': 'Preparation for Communion',
+    'total-consecration': 'Total Consecration to Mary',
     'via-sacra': 'Way of the Cross',
     pray: 'Pray',
     noContent: 'No prayer content available for this practice yet.',

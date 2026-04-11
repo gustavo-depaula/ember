@@ -730,6 +730,7 @@ export default {
     'oracao-santa-missa': 'Oração para a Santa Missa',
     'para-confissao': 'Para a Confissão',
     'preparacao-comunhao': 'Preparação para a Comunhão',
+    'total-consecration': 'Consagração Total a Maria',
     'via-sacra': 'Via Sacra',
     pray: 'Rezar',
     noContent: 'Conteúdo de oração ainda não disponível para esta prática.',
