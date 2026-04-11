@@ -1,13 +1,13 @@
 {
   "id": "ember-extra",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "name": {
     "en-US": "Catholic Devotions & Formation",
     "pt-BR": "Devoções e Formação Católica"
   },
   "description": {
-    "en-US": "Devotions, litanies, novenas, the Divine Office, and formation programs.",
-    "pt-BR": "Devoções, ladainhas, novenas, o Ofício Divino e programas de formação."
+    "en-US": "Devotions, novenas, the Divine Office, and formation programs.",
+    "pt-BR": "Devoções, novenas, o Ofício Divino e programas de formação."
   },
   "languages": ["en-US", "pt-BR"],
   "tags": ["devotion", "formation", "liturgy", "novena"],
@@ -18,9 +18,6 @@
     "lectio-divina",
     "divine-mercy",
     "seven-sorrows",
-    "litany-loreto",
-    "litany-sacred-heart",
-    "litany-saints",
     "stations-cross",
     "way-of-light",
     "visit-blessed-sacrament",

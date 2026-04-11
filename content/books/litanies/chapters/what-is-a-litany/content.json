@@ -1,0 +1,30 @@
+{
+  "sections": [
+    {
+      "type": "heading",
+      "text": { "en-US": "What Is a Litany?", "pt-BR": "O que é uma Ladainha?" }
+    },
+    {
+      "type": "prose",
+      "file": "sections/origins"
+    },
+    { "type": "divider" },
+    {
+      "type": "subheading",
+      "text": { "en-US": "Structure of a Litany", "pt-BR": "Estrutura de uma Ladainha" }
+    },
+    {
+      "type": "prose",
+      "file": "sections/structure"
+    },
+    { "type": "divider" },
+    {
+      "type": "subheading",
+      "text": { "en-US": "Approved and Private Litanies", "pt-BR": "Ladainhas Aprovadas e Privadas" }
+    },
+    {
+      "type": "prose",
+      "file": "sections/approved-vs-private"
+    }
+  ]
+}
