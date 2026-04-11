@@ -98,7 +98,7 @@ Key principles:
 
 9. **Build and verify:**
    ```bash
-   bash scripts/build-books.sh
+   bash scripts/build-libraries.sh
    ```
    Check that the `.pray` archive includes the new language's chapter files.
 
@@ -159,4 +159,4 @@ The journal is a reference document. It ships with the book files but is not ren
 5. Added translator notes only where needed (e.g., explaining a Latin prayer's attribution)
 6. Modernized "mahométans" → "Muslims" / "muçulmanos", noted in journals
 7. Updated `book.json` with new language entries and TOC titles
-8. Built with `build-books.sh`, verified `.pray` archive contents
+8. Built with `build-libraries.sh`, verified `.pray` archive contents

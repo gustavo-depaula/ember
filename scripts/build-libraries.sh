@@ -3,10 +3,15 @@ set -euo pipefail
 
 REPO_ROOT="$(cd "$(dirname "$0")/.." && pwd)"
 LIBRARIES_SRC="$REPO_ROOT/content/libraries"
-BOOKS_OUT="${1:-$LIBRARIES_SRC}"
+LIBRARIES_OUT="${1:-$LIBRARIES_SRC}"
+# Resolve to absolute path (the script cd's into library dirs for zip)
+case "$LIBRARIES_OUT" in
+  /*) ;;
+  *)  LIBRARIES_OUT="$REPO_ROOT/$LIBRARIES_OUT" ;;
+esac
 BOOK_CSS="$LIBRARIES_SRC/ember-book.css"
 
-mkdir -p "$BOOKS_OUT"
+mkdir -p "$LIBRARIES_OUT"
 
 # Phase 1: Copy shared stylesheet to each book's language directories
 python3 -c "
@@ -40,28 +45,28 @@ for lib_dir in "$LIBRARIES_SRC"/*/; do
   version=$(python3 -c "import json; print(json.load(open('$lib_dir/library.json'))['version'])")
   filename="${lib_id}-${version}.pray"
 
-  rm -f "$BOOKS_OUT/$filename"
+  rm -f "$LIBRARIES_OUT/$filename"
 
-  # Include everything; exclude dot-files and .epub binaries
-  (cd "$lib_dir" && zip -r "$BOOKS_OUT/$filename" . \
+  # Include everything; exclude dot-files
+  (cd "$lib_dir" && zip -r "$LIBRARIES_OUT/$filename" . \
     -x '.*' \
     > /dev/null)
-  echo "  $filename ($(wc -c < "$BOOKS_OUT/$filename" | tr -d ' ') bytes)"
+  echo "  $filename ($(wc -c < "$LIBRARIES_OUT/$filename" | tr -d ' ') bytes)"
 done
 
 # Phase 3: Generate registry.json
 python3 -c "
 import json, os, glob, hashlib
 
-books = []
+libraries = []
 for lib_dir in sorted(glob.glob('$LIBRARIES_SRC/*/')):
     mp = os.path.join(lib_dir, 'library.json')
     if not os.path.exists(mp):
         continue
     m = json.load(open(mp))
-    bid, ver = m['id'], m['version']
-    fn = f'{bid}-{ver}.pray'
-    pp = os.path.join('$BOOKS_OUT', fn)
+    lid, ver = m['id'], m['version']
+    fn = f'{lid}-{ver}.pray'
+    pp = os.path.join('$LIBRARIES_OUT', fn)
 
     # Read practice names for preview
     practices_preview = []
@@ -114,7 +119,7 @@ for lib_dir in sorted(glob.glob('$LIBRARIES_SRC/*/')):
             content_hash = hashlib.sha256(hf.read()).hexdigest()[:12]
 
     entry = {
-        'id': bid,
+        'id': lid,
         'version': ver,
         'name': m.get('name', {}),
         'description': m.get('description', {}),
@@ -131,9 +136,9 @@ for lib_dir in sorted(glob.glob('$LIBRARIES_SRC/*/')):
     }
     if books_preview:
         entry['books'] = books_preview
-    books.append(entry)
+    libraries.append(entry)
 
-with open(os.path.join('$BOOKS_OUT', 'registry.json'), 'w') as f:
-    json.dump({'version': 1, 'books': books}, f, indent=2, ensure_ascii=False)
-print(f'  registry.json ({len(books)} libraries)')
+with open(os.path.join('$LIBRARIES_OUT', 'registry.json'), 'w') as f:
+    json.dump({'version': 1, 'libraries': libraries}, f, indent=2, ensure_ascii=False)
+print(f'  registry.json ({len(libraries)} libraries)')
 "
