@@ -1,0 +1,6 @@
+*.pray
+*.epub
+registry.json
+# Build artifact: style.css copied from ember-book.css by build script
+**/books/*/style.css
+**/books/*/*/style.css

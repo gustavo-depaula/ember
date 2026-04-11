@@ -49,6 +49,8 @@
     "immer": "^11.1.4",
     "jszip": "^3.10.1",
     "lucide-react-native": "^1.6.0",
+    "marked": "^18.0.0",
+    "marked-footnote": "^1.4.0",
     "moti": "^0.30.0",
     "react": "19.2.0",
     "react-dom": "19.2.0",

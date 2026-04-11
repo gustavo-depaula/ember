@@ -1,50 +1,50 @@
 import { localizeContent } from '@/lib/i18n'
 import type { ChapterManifest, PracticeManifest } from './manifest-types'
-import type { ContentSource, EpubEntry, PrayerAsset } from './sources/filesystem'
+import type { BookEntry, ContentSource, PrayerAsset } from './sources/filesystem'
 import type { CycleData, FlowDefinition, LectioTrackDef, LocalizedContent, Variant } from './types'
 
 const sources: ContentSource[] = []
-const practiceToBook = new Map<string, string>()
-const bookIdToSource = new Map<string, ContentSource>()
+const practiceToLibrary = new Map<string, string>()
+const libraryIdToSource = new Map<string, ContentSource>()
 
 export function registerSource(source: ContentSource) {
-  const existing = sources.findIndex((s) => s.bookId === source.bookId)
+  const existing = sources.findIndex((s) => s.libraryId === source.libraryId)
   if (existing !== -1) sources.splice(existing, 1)
   sources.push(source)
-  bookIdToSource.set(source.bookId, source)
+  libraryIdToSource.set(source.libraryId, source)
   for (const m of source.getAllManifests()) {
-    practiceToBook.set(m.id, source.bookId)
+    practiceToLibrary.set(m.id, source.libraryId)
   }
 }
 
-export function unregisterSource(bookId: string) {
-  const idx = sources.findIndex((s) => s.bookId === bookId)
+export function unregisterSource(libraryId: string) {
+  const idx = sources.findIndex((s) => s.libraryId === libraryId)
   if (idx === -1) return
   const source = sources[idx]
   for (const m of source.getAllManifests()) {
-    practiceToBook.delete(m.id)
+    practiceToLibrary.delete(m.id)
   }
   sources.splice(idx, 1)
-  bookIdToSource.delete(bookId)
+  libraryIdToSource.delete(libraryId)
 }
 
 export function clearSources() {
   sources.length = 0
-  practiceToBook.clear()
-  bookIdToSource.clear()
+  practiceToLibrary.clear()
+  libraryIdToSource.clear()
 }
 
 function findSource(practiceId: string): ContentSource | undefined {
-  const bookId = practiceToBook.get(practiceId)
-  if (bookId) return bookIdToSource.get(bookId)
+  const libraryId = practiceToLibrary.get(practiceId)
+  if (libraryId) return libraryIdToSource.get(libraryId)
   for (const source of sources) {
     if (source.getManifest(practiceId)) return source
   }
   return undefined
 }
 
-export function getBookIdForPractice(practiceId: string): string | undefined {
-  return practiceToBook.get(practiceId)
+export function getLibraryIdForPractice(practiceId: string): string | undefined {
+  return practiceToLibrary.get(practiceId)
 }
 
 export function getManifest(id: string): PracticeManifest | undefined {
@@ -113,15 +113,15 @@ export function searchManifests(query: string): PracticeManifest[] {
   })
 }
 
-export function resolvePrayer(ref: string, bookId?: string): PrayerAsset | undefined {
-  if (bookId) {
-    const source = bookIdToSource.get(bookId)
+export function resolvePrayer(ref: string, libraryId?: string): PrayerAsset | undefined {
+  if (libraryId) {
+    const source = libraryIdToSource.get(libraryId)
     if (source) {
       const prayer = source.getPrayer(ref)
       if (prayer) return prayer
-      if (source.book.dependencies) {
-        for (const depId of source.book.dependencies) {
-          const depPrayer = bookIdToSource.get(depId)?.getPrayer(ref)
+      if (source.library.dependencies) {
+        for (const depId of source.library.dependencies) {
+          const depPrayer = libraryIdToSource.get(depId)?.getPrayer(ref)
           if (depPrayer) return depPrayer
         }
       }
@@ -142,44 +142,50 @@ export function resolveCanticle(ref: string): PrayerAsset | undefined {
   return undefined
 }
 
-export function getPracticeIdsForBook(bookId: string): string[] {
-  const source = bookIdToSource.get(bookId)
+export function getPracticeIdsForLibrary(libraryId: string): string[] {
+  const source = libraryIdToSource.get(libraryId)
   if (!source) return []
   return source.getAllManifests().map((m) => m.id)
 }
 
-export function getInstalledBookIds(): string[] {
-  return sources.map((s) => s.bookId)
+export function getInstalledLibraryIds(): string[] {
+  return sources.map((s) => s.libraryId)
 }
 
-export function getChapterManifest(chapterId: string, bookId: string): ChapterManifest | undefined {
-  return bookIdToSource.get(bookId)?.getChapterManifest(chapterId)
+export function getChapterManifest(
+  chapterId: string,
+  libraryId: string,
+): ChapterManifest | undefined {
+  return libraryIdToSource.get(libraryId)?.getChapterManifest(chapterId)
 }
 
-export function getAllChapterManifestsForBook(bookId: string): ChapterManifest[] {
-  return bookIdToSource.get(bookId)?.getAllChapterManifests() ?? []
+export function getAllChapterManifestsForLibrary(libraryId: string): ChapterManifest[] {
+  return libraryIdToSource.get(libraryId)?.getAllChapterManifests() ?? []
 }
 
-export function loadChapterContent(chapterId: string, bookId: string): FlowDefinition | undefined {
-  return bookIdToSource.get(bookId)?.loadChapterContent(chapterId)
+export function loadChapterContent(
+  chapterId: string,
+  libraryId: string,
+): FlowDefinition | undefined {
+  return libraryIdToSource.get(libraryId)?.loadChapterContent(chapterId)
 }
 
-export function getProseText(filePath: string, bookId: string): LocalizedContent | undefined {
-  return bookIdToSource.get(bookId)?.getProseText(filePath)
+export function getProseText(filePath: string, libraryId: string): LocalizedContent | undefined {
+  return libraryIdToSource.get(libraryId)?.getProseText(filePath)
 }
 
-export function getEpubEntry(epubId: string, bookId: string): EpubEntry | undefined {
-  return bookIdToSource.get(bookId)?.getEpubEntry(epubId)
+export function getBookEntry(bookId: string, libraryId: string): BookEntry | undefined {
+  return libraryIdToSource.get(libraryId)?.getBookEntry(bookId)
 }
 
-export function getAllEpubEntriesForBook(bookId: string): EpubEntry[] {
-  return bookIdToSource.get(bookId)?.getAllEpubEntries() ?? []
+export function getAllBookEntries(libraryId: string): BookEntry[] {
+  return libraryIdToSource.get(libraryId)?.getAllBookEntries() ?? []
 }
 
-export function getEpubFilePath(epubId: string, lang: string, bookId: string): string | undefined {
-  const source = bookIdToSource.get(bookId)
+export function getBookDirUri(bookId: string, libraryId: string): string | undefined {
+  const source = libraryIdToSource.get(libraryId)
   if (!source) return undefined
-  const entry = source.getEpubEntry(epubId)
+  const entry = source.getBookEntry(bookId)
   if (!entry) return undefined
-  return `${source.bookDirUri}epubs/${epubId}/${epubId}.${lang}.epub`
+  return `${source.libraryDirUri}books/${bookId}/`
 }

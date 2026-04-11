@@ -155,7 +155,7 @@ export default function RootLayout() {
               <Stack.Screen name="settings" options={{ title: 'Settings' }} />
               <Stack.Screen name="pray" options={{ title: 'Prayer' }} />
               <Stack.Screen name="practices" options={{ title: 'Practices' }} />
-              <Stack.Screen name="prayer-books" options={{ title: 'Prayer Books' }} />
+              <Stack.Screen name="library" options={{ title: 'Library' }} />
             </Stack>
             <TasselPull />
           </Theme>

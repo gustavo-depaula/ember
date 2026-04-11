@@ -1,33 +1,32 @@
 # Salty Book Format
 
-The unified content system for all books in Ember — spiritual classics, prayer collections, and hybrid works. XHTML source files packaged as EPUB 3 for prose rendering; manifest-based prayer collections for devotional content. One folder tree, one manifest type, one discovery system.
+The unified content system for all books in Ember — spiritual classics, prayer collections, and hybrid works. HTML/Markdown source files read directly from disk for prose rendering; manifest-based prayer collections for devotional content. One folder tree, one manifest type, one discovery system.
 
-> See `docs/content/spiritual-books.md` for the full wishlist of titles. See `docs/features/prayer-books.md` for the prayer-book feature (now a subset of this spec).
+> See `docs/content/spiritual-books.md` for the full wishlist of titles. See `docs/features/prayer-books.md` for the library feature.
 
 ---
 
 ## Concept
 
-Ember's content falls into three categories: structured short content (prayers, Bible verses, CCC paragraphs), long-form prose (spiritual classics, Church documents, study Bibles), and devotional collections (prayer books, devocionários). The Salty book format is the **unified system** for the latter two — and any hybrid of them.
+Ember's content falls into three categories: structured short content (prayers, Bible verses, CCC paragraphs), long-form prose (spiritual classics, Church documents, study Bibles), and devotional collections (libraries, devocionários). The Salty book format is the **unified system** for the latter two — and any hybrid of them.
 
-A book in this system can have any combination of:
+A library in this system can have any combination of:
 
-- **Prose chapters** — long-form readable content (XHTML source files, packaged into EPUB for rendering)
+- **Books** — long-form readable content (`.html` or `.md` chapter files, read directly from disk)
 - **Prayer collection** — browsable, ordered devotional content (prayer refs, rubrics, practice-refs)
 - **Colocated practices** — schedulable units for the plan of life (standard practice manifests)
 
-A pure spiritual classic like *Imitation of Christ* has only prose. A prayer book like *Orações Básicas* has only a prayer collection and practices. A hybrid like *Introduction to the Devout Life* has all three.
+A pure spiritual classic like *Imitation of Christ* has only books. A library like *Orações Básicas* has only a prayer collection and practices. A hybrid like *Introduction to the Devout Life* has all three.
 
 ### Design goals
 
 - Work bundled now, CDN-downloadable later
-- Stay human-editable (XHTML for prose, JSON for prayer collections)
-- Render via epub.js in a WebView (prose) and native components (prayer collections)
-- One folder per book — prose, prayers, and practices colocated
+- Stay human-editable (HTML/Markdown for prose, JSON for prayer collections)
+- Render in a WebView with CSS column pagination (prose) and native components (prayer collections)
+- One folder per library — books, prayers, and practices colocated
 - One manifest type, one discovery system, one practice-export mechanism
 - Support both sequential and random-access reading patterns
-- Every book is a valid EPUB 3 — readable in Apple Books, Calibre, or any standard reader
-- XHTML source is directly queryable at runtime — extract fragments by `id` for practice flows, CCC lookups, etc.
+- HTML source is directly queryable at runtime — extract fragments by `id` for practice flows, CCC lookups, etc.
 
 ### Relation to existing content
 
@@ -35,85 +34,91 @@ A pure spiritual classic like *Imitation of Christ* has only prose. A prayer boo
 |-------------|--------|---------------|-----------|-------------------|
 | Bible (DRB) | JSON per chapter | Verse | No (one translation at a time) | No — bundled Bible stays as-is |
 | Catechism | Flat JSON array | Paragraph number | No | Eventually — CCC becomes a book with `addressable: "paragraphs"` |
-| Prayer books | Manifest + prayer assets | Section/prayer | Yes (bilingual display) | **Yes** — books with `prayerCollection` |
-| **Books** | **Manifest + XHTML source + EPUB output** | **Chapter / paragraph / article** | **No (per-language directories)** | — |
+| Libraries | Manifest + prayer assets | Section/prayer | Yes (bilingual display) | **Yes** — libraries with `prayerCollection` |
+| **Books** | **Manifest + HTML/Markdown chapters** | **Chapter / paragraph / article** | **No (per-language directories)** | — |
 
 ---
 
 ## Architecture
 
-Two layers for prose content:
+Books are raw `.html` or `.md` chapter files read directly from disk at runtime. No EPUB packaging step is needed for the app — chapters are rendered in a WebView with CSS column pagination.
 
-- **`content/books/{bookId}/epubs/{epubId}/{lang}/`** — human-editable XHTML (what you commit and review)
-- **`content/books/{bookId}/epubs/{epubId}/{epubId}.{lang}.epub`** — packaged EPUB 3 (built at deploy time, .gitignore'd)
+- **`content/libraries/{libraryId}/books/{bookId}/{lang}/`** — human-editable chapter files (`.html` or `.md`, committed to git)
+- `.md` files are shipped inside `.pray` packages and converted at runtime using `marked` + `marked-footnote`
 
-EPUBs are embedded inside `.pray` packages — the same zip format used for prayer books. A single `.pray` can bundle prose books (EPUBs) alongside practices, prayers, and chapters. The `build-books.sh` script generates EPUB scaffolding (container.xml, package.opf, nav.xhtml), packages XHTML sources into valid EPUB 3 files (one per language), then zips everything into the `.pray` — **excluding the XHTML sources** from the final archive. Only the built `.epub` files and `epub.json` metadata ship to users.
+Books are embedded inside `.pray` packages — the same zip format used for libraries. A single `.pray` can bundle books alongside practices, prayers, and chapters. The `build-books.sh` script copies the CSS and zips everything into the `.pray`.
 
-Books that are **pure prayer collections** (no `toc`, only `prayerCollection`) skip the EPUB build entirely — their manifests and prayer JSON are used directly at runtime. Mixed books package only their prose chapters as EPUBs.
+Libraries that are **pure prayer collections** (no `toc`, only `prayerCollection`) skip the build entirely — their manifests and prayer JSON are used directly at runtime. Mixed libraries package only their prose books.
 
-### Why XHTML + EPUB?
+### Why raw HTML/Markdown?
 
 | Alternative | Problem |
 |-------------|---------|
 | Markdown + JSON AST | Required a custom parser, custom block/span type system, and custom native renderers. Reinvented what HTML+CSS already does |
-| HTML at runtime (no EPUB) | Loses pagination, TOC navigation, and standard book reading features that epub.js provides |
-| EPUB authored directly | Editing files inside a zip is painful. XHTML source files in git are human-editable and diffable |
-| Custom format at runtime | Proprietary, no interop. EPUB is a W3C standard readable by any EPUB reader |
+| EPUB packaging | Added build complexity (pandoc, container.xml, package.opf, nav.xhtml) for no runtime benefit — the app uses its own WebView reader, not epub.js |
+| Custom format at runtime | Proprietary, no interop |
 
-### Why one EPUB per language?
+Raw `.html` chapters are the simplest path: human-editable in git, directly renderable in WebView, no build step. `.md` chapters add convenience for simpler content — they ship as-is and are converted at runtime via `marked`.
 
-Multi-rendition EPUB (one file with multiple rootfiles) was considered but rejected. One EPUB per language is simpler: each file is a standard single-language EPUB (works in Apple Books, Calibre, any reader), epub.js handles it with no special config, and it enables future per-language CDN downloads.
+### Per-language directories
+
+Prose is read in one language at a time (unlike prayers which display bilingually). Per-language directories mean:
+
+- CDN fetches only the language you need (future)
+- Alignment is at chapter level, not paragraph level
+- Both language directories must have matching chapter IDs
+
+If an edition has a genuinely different chapter structure (editorial splits/merges), it's a **different book ID**, linked via `relatedEditions`.
 
 ### Pipeline
 
 ```
-EPUB/HTML source (Gutenberg, CCEL, Internet Archive)
+HTML source (Gutenberg, CCEL, Internet Archive)
   → import-book script (clean HTML, add semantic attributes)
-  → XHTML source in content/books/{bookId}/epubs/{epubId}/{lang}/
+  → chapter files in content/libraries/{libraryId}/books/{bookId}/{lang}/
   → human review, corrections, bilingual alignment
-  → build-books.sh (EPUB packaging + .pray zipping)
-  → .pray file with built .epub inside epubs/{epubId}/
-  → epub.js renders in WebView (reader not yet built)
+  → build-books.sh (copy CSS + zip into .pray)
+  → .pray file with chapter files inside books/{bookId}/
+  → WebView renders with CSS column pagination
 ```
 
 ### Queryability
 
-XHTML source files are standard HTML with `id` attributes on every addressable element. At runtime, the app can read XHTML files directly and extract fragments by `id` — no EPUB required.
+Chapter files are standard HTML with `id` attributes on every addressable element. At runtime, the app reads them directly and extracts fragments by `id`.
 
 This enables:
 
-- Practice flows that show 5 CCC paragraphs: read the XHTML, querySelector by `id`, render the fragment
-- Cross-references: resolve a book+anchor to an XHTML file + element, extract and display
-- Search indexing: parse XHTML text content at build time or first launch
+- Practice flows that show 5 CCC paragraphs: read the HTML, querySelector by `id`, render the fragment
+- Cross-references: resolve a book+anchor to a chapter file + element, extract and display
+- Search indexing: parse HTML text content at build time or first launch
 
-No build-time index is required. The XHTML files ARE the queryable format.
+No build-time index is required. The chapter files ARE the queryable format.
 
 ---
 
 ## Directory Structure
 
-All books live in `content/books/`. A book is a self-contained folder — the same `.pray` package format used for prayer books. EPUB prose is nested under `epubs/` within the book directory. The three archetypes:
+All libraries live in `content/libraries/`. A library is a self-contained folder — the same `.pray` package format used for all content. Books (prose) are nested under `books/` within the library directory. The three archetypes:
 
 ### Pure prose (Rule of St. Benedict)
 
 ```
-content/books/benedict-rule/
-  book.json
-  epubs/
+content/libraries/benedict-rule/
+  library.json
+  books/
     benedict-rule/
-      epub.json                         # EPUB metadata (name, author, toc)
+      book.json                         # Book metadata (name, author, toc)
       en-US/
-        prologue.xhtml                  # XHTML sources (committed to git)
-        ch-01.xhtml
-        ch-02.xhtml
-      benedict-rule.en-US.epub          # Built EPUB (.gitignore'd)
+        prologue.html                   # Chapter files (committed to git)
+        ch-01.html
+        ch-02.html
 ```
 
-### Pure prayer collection (Orações Básicas)
+### Pure prayer collection (Orações Basicas)
 
 ```
-content/books/oracoes-basicas/
-  book.json
+content/libraries/oracoes-basicas/
+  library.json
   prayers/                              # Scoped prayer assets
     sign-of-cross.json
     morning-offering.json
@@ -127,27 +132,27 @@ content/books/oracoes-basicas/
       flows/default.json
 ```
 
-### Mixed book (Montfort Spirituality)
+### Mixed library (Montfort Spirituality)
 
 ```
-content/books/montfort-spirituality/
-  book.json
-  epubs/
+content/libraries/montfort-spirituality/
+  library.json
+  books/
     montfort-true-devotion/
-      epub.json                         # EPUB metadata (name, author, toc)
-      en-US/                            # XHTML sources (committed to git)
-        ch-01.xhtml
-        ch-02.xhtml
+      book.json                         # Book metadata (name, author, toc)
+      en-US/                            # Chapter files (committed to git)
+        ch-01.html
+        ch-02.html
       pt-BR/
-        ch-01.xhtml
-        ch-02.xhtml
-      montfort-true-devotion.en-US.epub # Built EPUBs (.gitignore'd)
-      montfort-true-devotion.pt-BR.epub
+        ch-01.html
+        ch-02.html
+      fr-FR/
+        ch-01.md                        # Markdown chapters also supported
+        ch-02.md
     montfort-secret-rosary/
-      epub.json
+      book.json
       en-US/
-        rose-01.xhtml
-      montfort-secret-rosary.en-US.epub
+        rose-01.html
   prayers/                              # Montfort prayers
     act-of-consecration.json
   practices/                            # Plan-of-life practices
@@ -163,260 +168,84 @@ content/books/montfort-spirituality/
 ### Study Bible with layers (Douay-Rheims + Haydock)
 
 ```
-content/books/douay-rheims-study/
-  book.json
-  epubs/
+content/libraries/douay-rheims-study/
+  library.json
+  books/
     douay-rheims-study/
-      epub.json
+      book.json
       en-US/
-        genesis/ch-01.xhtml             # Base text with anchors
-        genesis/ch-02.xhtml
-      douay-rheims-study.en-US.epub
+        genesis/ch-01.html              # Base text with anchors
+        genesis/ch-02.html
   layers/                               # Annotation layer content (format TBD)
     haydock/genesis/ch-01.*
     catena/genesis/ch-01.*
 ```
 
-### Build output
-
-Built EPUBs (`.epub` files inside `epubs/` subdirs) are generated by `build-books.sh` and excluded from git. They are included in the `.pray` zip, but the XHTML sources are **not** — only `epub.json` and `*.epub` files ship to users. One EPUB is generated per language.
-
-### Per-language directories
-
-Prose is read in one language at a time (unlike prayers which display bilingually). Per-language directories mean:
-
-- CDN fetches only the language you need (future)
-- Alignment is at chapter level, not paragraph level
-- Both language directories must have matching chapter IDs
-
-If an edition has a genuinely different chapter structure (editorial splits/merges), it's a **different book ID**, linked via `relatedEditions`.
-
 ### Colocated practices
 
-Practices live in `practices/` inside the book folder. They use the exact same `PracticeManifest` / `FlowDefinition` / track format as any practice in `content/practices/`. No new format.
+Practices live in `practices/` inside the library folder. They use the exact same `PracticeManifest` / `FlowDefinition` / track format as any practice in `content/practices/`. No new format.
 
-ID convention: `book::{bookId}::{practiceId}` (e.g., `book::francis-de-sales-devout-life::meditation-retreat`).
+ID convention: `book::{libraryId}::{practiceId}` (e.g., `book::francis-de-sales-devout-life::meditation-retreat`).
 
-Discovery finds them by convention — practices inside a book folder are automatically namespaced.
+Discovery finds them by convention — practices inside a library folder are automatically namespaced.
 
 ---
 
-## EPUB File Conventions
+## `.pray` Package Format
 
-Every Salty book produces a valid EPUB 3 file. This section defines the conventions for producing clean, consistent EPUBs.
+A `.pray` file is a zip containing the library's content — books (chapter files), prayers, practices, and metadata. The `build-books.sh` script copies the CSS and zips everything.
 
-### EPUB 3 structure overview
-
-An EPUB is a zip file with a specific internal structure:
+### Structure
 
 ```
-book.epub (zip)
-├── mimetype                            # File type declaration
-├── META-INF/
-│   └── container.xml                   # Points to package document(s)
-├── en-US/                              # Per-language rendition
-│   ├── package.opf                     # Metadata + file list + reading order
-│   ├── nav.xhtml                       # Table of contents
-│   ├── prologue.xhtml                  # Chapter content documents
-│   ├── ch-01.xhtml
-│   └── ch-02.xhtml
-├── pt-BR/                              # Second language rendition
-│   ├── package.opf
-│   ├── nav.xhtml
-│   └── ...
-├── shared/                             # Assets shared across languages
-│   ├── salty.css                       # Base stylesheet
-│   ├── book.css                        # Optional per-book overrides
-│   └── images/
-│       └── cover.jpg
-└── salty/                              # App-specific content (not in any OPF)
-    ├── manifest.json                   # Salty book manifest
-    ├── prayers/                        # Scoped prayer JSON
-    ├── practices/                      # Colocated practice manifests
-    └── layers/                         # Annotation layer content
+library.pray (zip)
+├── library.json                        # Library manifest
+├── ember-book.css                      # Base stylesheet for book rendering
+├── books/
+│   └── benedict-rule/
+│       ├── book.json                   # Book metadata (name, author, toc)
+│       └── en-US/
+│           ├── prologue.html           # Chapter files
+│           ├── ch-01.html
+│           └── ch-02.html
+├── prayers/                            # Scoped prayer JSON
+├── practices/                          # Colocated practice manifests
+├── chapters/                           # Native chapters
+└── layers/                             # Annotation layer content
 ```
 
-### `mimetype`
+### Chapter files
 
-Must be the **first file** in the zip, stored **uncompressed** (no deflation), with **no trailing newline**:
+Chapters can be `.html` or `.md`:
 
-```
-application/epub+zip
-```
+- **`.html`** — rendered directly in WebView with `ember-book.css` applied
+- **`.md`** — converted at runtime using `marked` + `marked-footnote`, then rendered in WebView
 
-### `container.xml`
-
-Points to each language's package document. The first entry is the default rendition:
-
-```xml
-<?xml version="1.0" encoding="UTF-8"?>
-<container version="1.0" xmlns="urn:oasis:names:tc:opendocument:xmlns:container">
-  <rootfiles>
-    <rootfile full-path="en-US/package.opf"
-              media-type="application/oebps-package+xml"/>
-    <rootfile full-path="pt-BR/package.opf"
-              media-type="application/oebps-package+xml"/>
-  </rootfiles>
-</container>
-```
-
-The app extracts the zip and points epub.js at the desired `{lang}/package.opf` to select the reading language.
-
-For monolingual books, there is a single `rootfile` entry.
-
-### `package.opf`
-
-One per language. Generated from the manifest.
-
-```xml
-<?xml version="1.0" encoding="UTF-8"?>
-<package xmlns="http://www.idpf.org/2007/opf"
-         version="3.0"
-         unique-identifier="uid">
-
-  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <dc:identifier id="uid">urn:salty:benedict-rule:en-US</dc:identifier>
-    <dc:title>The Rule of St. Benedict</dc:title>
-    <dc:language>en-US</dc:language>
-    <dc:creator>St. Benedict of Nursia</dc:creator>
-    <dc:description>The foundational rule for Western monasticism</dc:description>
-    <meta property="dcterms:modified">2026-04-09T00:00:00Z</meta>
-  </metadata>
-
-  <manifest>
-    <item id="nav" href="nav.xhtml"
-          media-type="application/xhtml+xml" properties="nav"/>
-    <item id="css" href="../shared/salty.css" media-type="text/css"/>
-    <item id="prologue" href="prologue.xhtml"
-          media-type="application/xhtml+xml"/>
-    <item id="ch-01" href="ch-01.xhtml"
-          media-type="application/xhtml+xml"/>
-    <item id="ch-02" href="ch-02.xhtml"
-          media-type="application/xhtml+xml"/>
-  </manifest>
-
-  <spine>
-    <itemref idref="prologue"/>
-    <itemref idref="ch-01"/>
-    <itemref idref="ch-02"/>
-  </spine>
-
-</package>
-```
-
-**Conventions:**
-
-- `unique-identifier`: `urn:salty:{bookId}:{language}`
-- `dc:title`: the `name` field for this language from `manifest.json`
-- `dc:language`: the language code for this rendition
-- `dc:creator`: the `author` field for this language, if present
-- `dc:description`: the `description` field for this language, if present
-- `dcterms:modified`: the build timestamp
-- `dc:date`: the `composed` field, if it's an exact year
-- Manifest `<item>` entries: one per XHTML chapter, plus nav, CSS, and images. The `id` matches the chapter's section `id` (the TOC leaf node ID).
-- Spine `<itemref>` entries: TOC leaf nodes in reading order (depth-first traversal of the TOC tree).
-- Cover image: `<item>` with `properties="cover-image"` if `manifest.image` exists.
-
-### `nav.xhtml`
-
-Generated from the manifest's `toc` field:
-
-```xml
-<?xml version="1.0" encoding="UTF-8"?>
-<html xmlns="http://www.w3.org/1999/xhtml"
-      xmlns:epub="http://www.idpf.org/2007/ops">
-<head><title>Table of Contents</title></head>
-<body>
-  <nav epub:type="toc">
-    <h1>Contents</h1>
-    <ol>
-      <li><a href="prologue.xhtml">Prologue</a></li>
-      <li><a href="ch-01.xhtml">Of the Kinds or the Life of Monks</a></li>
-    </ol>
-  </nav>
-</body>
-</html>
-```
-
-For nested TOCs:
-
-```xml
-<ol>
-  <li><span>Part I: Counsels and Exercises for the Soul</span>
-    <ol>
-      <li><a href="part-1/ch-01.xhtml">What True Devotion Is</a></li>
-      <li><a href="part-1/ch-02.xhtml">Properties of Devotion</a></li>
-    </ol>
-  </li>
-</ol>
-```
-
-**Rules:**
-
-- TOC leaf nodes (no `children`) → `<a href="...">` linking to the XHTML file
-- TOC group nodes (with `children`) → `<span>` with the group title, containing a nested `<ol>`
-- Titles use the language of this rendition from `LocalizedText`
-- File paths are relative to the rendition directory
-
-### Content documents
-
-Each chapter is a standalone XHTML document:
-
-```xml
-<?xml version="1.0" encoding="UTF-8"?>
-<html xmlns="http://www.w3.org/1999/xhtml"
-      xmlns:epub="http://www.idpf.org/2007/ops">
-<head>
-  <title>Chapter I — Of the Kinds or the Life of Monks</title>
-  <link rel="stylesheet" href="../shared/salty.css" type="text/css"/>
-</head>
-<body>
-  <section id="ch-01" epub:type="chapter">
-    <!-- chapter content here -->
-  </section>
-</body>
-</html>
-```
-
-**Requirements:**
-
-- XML declaration with UTF-8 encoding
-- Both `xmlns` (XHTML) and `xmlns:epub` (EPUB) namespaces on `<html>`
-- `<head>` with `<title>` (chapter title) and `<link>` to stylesheet
-- `<body>` contains a single `<section>` with `id` matching the TOC leaf node ID and `epub:type="chapter"`
-- All markup must be well-formed XML: self-closing tags (`<br/>`, `<hr/>`), quoted attributes, proper nesting
-- CSS link uses relative path to `../shared/salty.css`
+Both formats ship as-is inside the `.pray` package. No build-time conversion.
 
 ### File naming conventions
 
-- Chapter filenames match the TOC leaf node `id`: `ch-01.xhtml`, `prologue.xhtml`
-- Nested TOC paths mirror the directory structure: `part-1/ch-01.xhtml`
+- Chapter filenames match the TOC leaf node `id`: `ch-01.html`, `prologue.html`, `ch-01.md`
+- Nested TOC paths mirror the directory structure: `part-1/ch-01.html`
 - All lowercase, kebab-case
-- Extension is always `.xhtml` (not `.html`)
+- Extension is `.html` or `.md`
 
 ### Stylesheet
 
-`shared/salty.css` is the base stylesheet included in every EPUB. It provides consistent typography and styling across all books. See [XHTML Source Format](#xhtml-source-format) for the CSS class conventions.
+`ember-book.css` is the base stylesheet included in every `.pray` package. It provides consistent typography and styling across all books. See [HTML Source Format](#html-source-format) for the CSS class conventions.
 
-Books with unique needs (poetry-heavy, study Bible) can include an additional `shared/book.css` override.
+Books with unique needs (poetry-heavy, study Bible) can include additional per-book CSS overrides.
 
 ### Image handling
 
-- Images live in `shared/images/`
-- Cover image: `shared/images/cover.jpg` (or `.png`), referenced in `package.opf` with `properties="cover-image"`
-- Content images referenced from XHTML: `<img src="../shared/images/filename.jpg" alt="description"/>`
+- Images live in `images/`
+- Cover image: `images/cover.jpg` (or `.png`)
+- Content images referenced from HTML: `<img src="../images/filename.jpg" alt="description">`
 
 ### Zip packaging rules
 
-- `mimetype` must be the first entry, stored with no compression (STORE method)
-- All other files use DEFLATE compression
+- All files use DEFLATE compression
 - No encryption or DRM
-- The `salty/` directory is not listed in any `package.opf` — epub.js and standard readers ignore it
-
-### Validation
-
-- Run `epubcheck` on build output as a CI step
-- Standard readers (Apple Books, Calibre) should be able to open and display the book, even without app-specific interactivity (the `ember://` links won't resolve, but the text is readable)
 
 ---
 
@@ -424,10 +253,15 @@ Books with unique needs (poetry-heavy, study Bible) can include an additional `s
 
 ### Manifest
 
-The manifest is the unified type for all books — prose, prayer collections, and hybrids.
+The manifest is the unified type for all libraries — prose books, prayer collections, and hybrids.
+
+There are two manifest levels:
+
+- **`library.json`** — the outer container (the `.pray` package). Lists which books it contains and holds library-level metadata.
+- **`book.json`** — one per book inside the library. Holds the book's TOC, metadata, and addressability.
 
 ```typescript
-type BookManifest = {
+type Library = {
   id: string
   name: LocalizedText
   description: LocalizedText
@@ -438,15 +272,27 @@ type BookManifest = {
   icon?: string
   image?: string
 
-  // Prose reading structure (optional — absent for pure prayer collections)
-  toc?: TocNode[]
-  addressable?: 'chapters' | 'paragraphs' | 'articles' // default: 'chapters'
-  layers?: LayerDeclaration[]
+  // Books inside this library (optional — absent for pure prayer collections)
+  books?: string[]
 
-  // Devotional browsing structure (optional — absent for pure prose books)
+  // Devotional browsing structure (optional — absent for pure prose libraries)
   prayerCollection?: PrayerCollectionSection[]
 
   relatedEditions?: string[]
+}
+
+type BookManifest = {
+  id: string
+  name: LocalizedText
+  description: LocalizedText
+  author?: LocalizedText
+  composed?: number | string
+  languages: ContentLanguage[]
+
+  // Prose reading structure
+  toc?: TocNode[]
+  addressable?: 'chapters' | 'paragraphs' | 'articles' // default: 'chapters'
+  layers?: LayerDeclaration[]
 }
 
 type TocNode = {
@@ -462,34 +308,13 @@ type LayerDeclaration = {
 ```
 
 Three optional content concerns, any combination:
-- **`toc`** — "this book has prose you can read" (XHTML chapters packaged as EPUB)
-- **`prayerCollection`** — "this book has organized devotional content you can browse" (prayer sections, practice references)
-- **`practices/` folder** — "this book exports practices to the plan of life" (standard practice manifests)
+- **`books`** — "this library has prose you can read" (HTML/Markdown chapters read from disk)
+- **`prayerCollection`** — "this library has organized devotional content you can browse" (prayer sections, practice references)
+- **`practices/` folder** — "this library exports practices to the plan of life" (standard practice manifests)
 
-### What goes in EPUB OPF vs manifest.json
+### Library ID generation
 
-| Field | In EPUB OPF | In manifest.json | Why |
-|---|---|---|---|
-| `id` | `<dc:identifier>` | yes | EPUB needs a unique identifier |
-| `name` | `<dc:title>` (one language per OPF) | yes (all languages) | OPF is per-language |
-| `author` | `<dc:creator>` | yes | Standard metadata |
-| `description` | `<dc:description>` | yes | Standard metadata |
-| `composed` | `<dc:date>` (if exact year) | yes | OPF date is less flexible |
-| `languages` | `<dc:language>` (one per OPF) | yes (all) | Discovery vs single rendition |
-| `tags` | `<dc:subject>` | yes | Both useful |
-| `toc` | `nav.xhtml` | yes | App uses manifest for TOC without opening EPUB |
-| `addressable` | no | yes | App-specific concept |
-| `layers` | no | yes | App-specific |
-| `prayerCollection` | no | yes | Not prose content |
-| `icon` | no | yes | App UI only |
-| `image` | cover image in EPUB | yes | Both |
-| `relatedEditions` | no | yes | App-specific |
-
-The EPUB is a standard book. The manifest carries everything the app needs beyond what EPUB provides.
-
-### Book ID generation
-
-The `id` field is the book's unique identifier. It must be kebab-case, ASCII-only, and match the folder name. Format: **`{author}-{title}`**.
+The `id` field is the library's unique identifier. It must be kebab-case, ASCII-only, and match the folder name. Format: **`{author}-{title}`**.
 
 **Step 1 — Author prefix.** Use the author's most commonly known short name:
 
@@ -538,7 +363,7 @@ The `id` field is the book's unique identifier. It must be kebab-case, ASCII-onl
 
 | Field | Required | Description |
 |-------|----------|-------------|
-| `id` | yes | Unique book identifier (see ID generation above), matches folder name |
+| `id` | yes | Unique library identifier (see ID generation above), matches folder name |
 | `name` | yes | Localized title |
 | `description` | yes | Localized short description |
 | `author` | no | Localized author name (absent for curated collections) |
@@ -547,9 +372,7 @@ The `id` field is the book's unique identifier. It must be kebab-case, ASCII-onl
 | `tags` | no | Topical tags (e.g. `["ascetical", "devotional"]`) |
 | `icon` | no | Small glyph identifier for UI |
 | `image` | no | Cover image path |
-| `toc` | no | Prose table of contents tree (see below) |
-| `addressable` | no | `"chapters"` (default), `"paragraphs"`, or `"articles"` |
-| `layers` | no | Available annotation layers |
+| `books` | no | List of book IDs contained in this library |
 | `prayerCollection` | no | Devotional browsing structure (see below) |
 | `relatedEditions` | no | IDs of structurally different editions of the same work |
 
@@ -579,24 +402,24 @@ The `prayerCollection` field defines the browsing structure for devotional conte
 type PrayerCollectionSection = {
   id: string
   name: LocalizedText
-  entries: PrayerBookEntry[]
+  entries: LibraryEntry[]
 }
 
-type PrayerBookEntry =
+type LibraryEntry =
   | { type: 'prayer'; ref: string }
   | { type: 'rubric'; text: LocalizedText }
   | { type: 'subheading'; text: LocalizedText }
   | { type: 'divider' }
   | { type: 'image'; src: string; caption?: LocalizedText }
-  | { type: 'subsection'; title: LocalizedText; entries: PrayerBookEntry[] }
+  | { type: 'subsection'; title: LocalizedText; entries: LibraryEntry[] }
   | { type: 'practice-ref'; practiceId: string }
 ```
 
-Prayer refs resolve using scoped prayers first (from the book's `prayers/` folder), then fall back to global prayer assets. Cross-book references use `bookId::prayerId` syntax.
+Prayer refs resolve using scoped prayers first (from the library's `prayers/` folder), then fall back to global prayer assets. Cross-library references use `libraryId::prayerId` syntax.
 
-Practice refs point to colocated practices: `book::{bookId}::{practiceId}`.
+Practice refs point to colocated practices: `book::{libraryId}::{practiceId}`.
 
-The `prayerCollection` is purely organizational — it defines what shows up when you browse the book, and in what order. Some entries are inline prayer sections, some point to practices. No practice metadata lives on the collection entries themselves.
+The `prayerCollection` is purely organizational — it defines what shows up when you browse the library, and in what order. Some entries are inline prayer sections, some point to practices. No practice metadata lives on the collection entries themselves.
 
 ### TOC structure
 
@@ -1623,14 +1446,14 @@ When we have 10+ books, a lightweight `library.json` manifest listing all availa
 - **Tables**: for chronologies, comparison charts. Rare in spiritual classics.
 - **Red letter**: CSS class for Jesus's words. Major editorial effort.
 
-### Migration from prayer books
+### Migration from libraries
 
-The current prayer-book system (`content/prayer-books/`) is superseded by this unified book format. Migration:
+The current library system (`content/libraries/`) is superseded by this unified book format. Migration:
 
 | Current | Unified |
 |---------|---------|
-| `PrayerBookManifest` | `BookManifest` with `prayerCollection` |
+| `Library` manifest | `BookManifest` with `prayerCollection` |
 | `sections` array | `prayerCollection` array |
-| `PrayerBookSection.practice` field | Colocated practice in `practices/` + `practice-ref` entry |
-| `content/prayer-books/{id}/` | `sources/books/{id}/` (source) and EPUB bundle (runtime) |
-| `book::{bookId}::{sectionId}` practice IDs | `book::{bookId}::{practiceId}` (unchanged convention) |
+| Library `practice` field | Colocated practice in `practices/` + `practice-ref` entry |
+| `content/libraries/{id}/` | `sources/books/{id}/` (source) and book bundle (runtime) |
+| `book::{libraryId}::{sectionId}` practice IDs | `book::{bookId}::{practiceId}` (unchanged convention) |
