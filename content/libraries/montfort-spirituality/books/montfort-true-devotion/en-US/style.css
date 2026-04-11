@@ -1,7 +1,7 @@
 /*
  * Ember Book Stylesheet
  *
- * Shared across all Ember books. Copied by build-books.sh into each
+ * Shared across all Ember books. Copied by build-libraries.sh into each
  * book's language directory as style.css.
  * Matches the Ember app design system: EB Garamond body, Cinzel headings,
  * warm parchment palette.
