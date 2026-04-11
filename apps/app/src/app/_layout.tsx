@@ -8,6 +8,8 @@ import {
   EBGaramond_400Regular_Italic,
   EBGaramond_500Medium,
   EBGaramond_600SemiBold,
+  EBGaramond_700Bold,
+  EBGaramond_700Bold_Italic,
 } from '@expo-google-fonts/eb-garamond'
 import { LibreBaskerville_400Regular } from '@expo-google-fonts/libre-baskerville'
 import { Lora_400Regular } from '@expo-google-fonts/lora'
@@ -57,6 +59,8 @@ export default function RootLayout() {
     EBGaramond_400Regular_Italic,
     EBGaramond_500Medium,
     EBGaramond_600SemiBold,
+    EBGaramond_700Bold,
+    EBGaramond_700Bold_Italic,
     PinyonScript_400Regular,
     CrimsonPro_400Regular,
     Lora_400Regular,

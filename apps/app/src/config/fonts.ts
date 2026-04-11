@@ -91,6 +91,7 @@ export const bodyFont = createFont({
     400: { normal: 'EBGaramond_400Regular', italic: 'EBGaramond_400Regular_Italic' },
     500: { normal: 'EBGaramond_500Medium' },
     600: { normal: 'EBGaramond_600SemiBold' },
+    700: { normal: 'EBGaramond_700Bold', italic: 'EBGaramond_700Bold_Italic' },
   },
 })
 
