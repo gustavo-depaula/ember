@@ -124,8 +124,10 @@ async function upsertInstalledBook(
   )
 }
 
+const hearthLibrariesPath = 'libraries'
+
 export async function fetchRegistry(): Promise<Registry> {
-  return fetchHearth<Registry>('libraries/registry.json')
+  return fetchHearth<Registry>(`${hearthLibrariesPath}/registry.json`)
 }
 
 export async function getInstalledBooks(): Promise<InstalledBook[]> {
@@ -146,7 +148,7 @@ export async function downloadAndInstallBook(
 ): Promise<void> {
   ensureLibrariesDir()
 
-  const url = hearthUrl(`books/${entry.file}`)
+  const url = hearthUrl(`${hearthLibrariesPath}/${entry.file}`)
   const dest = libraryDir(entry.id)
 
   if (onProgress) onProgress(0.1)
