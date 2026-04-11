@@ -39,8 +39,6 @@ import {
   useCursorsForPractice,
   usePsalmsForHour,
 } from '@/features/divine-office'
-import { useToday } from '@/hooks/useToday'
-import { useLiturgicalMeditation } from '@/features/practices/hooks/useLiturgicalMeditation'
 import {
   useHandleProgramCompletion,
   useLogCompletion,
@@ -50,7 +48,9 @@ import {
 } from '@/features/plan-of-life'
 import { ProgramCompleteModal } from '@/features/practices/components/ProgramCompleteModal'
 import { ViewModeSelector } from '@/features/practices/components/ViewModeSelector'
+import { useLiturgicalMeditation } from '@/features/practices/hooks/useLiturgicalMeditation'
 import { useReadingMargin } from '@/hooks/useReadingStyle'
+import { useToday } from '@/hooks/useToday'
 import { getPsalmNumbering } from '@/lib/bolls'
 import { getCccParagraphs } from '@/lib/catechism'
 import { getChapter, type Verse } from '@/lib/content'
@@ -279,7 +279,8 @@ export function PracticeFlow({
 
   const hasDynamicContent = psalmRefs.length > 0 || bibleKeys.length > 0 || cccKeys.length > 0
   const isDynamicLoading =
-    liturgicalLoading || (hasDynamicContent && (psalmResult.isLoading || bibleLoading || cccLoading))
+    liturgicalLoading ||
+    (hasDynamicContent && (psalmResult.isLoading || bibleLoading || cccLoading))
 
   const practiceName = manifest ? localizeContent(manifest.name) : practiceId
   const formattedDate = formatLocalized(now, 'EEEE, MMMM d, yyyy')
