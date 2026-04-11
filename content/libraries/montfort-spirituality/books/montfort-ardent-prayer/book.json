@@ -1,0 +1,22 @@
+{
+  "id": "montfort-ardent-prayer",
+  "name": {
+    "fr-FR": "Prière Embrasée"
+  },
+  "author": {
+    "fr-FR": "Saint Louis-Marie Grignion de Montfort"
+  },
+  "description": {
+    "fr-FR": "Prière ardente pour la venue d'une compagnie de missionnaires consacrés à Marie, adressée au Père, au Fils et au Saint-Esprit."
+  },
+  "composed": 1713,
+  "languages": ["fr-FR"],
+  "toc": [
+    {
+      "id": "prayer",
+      "title": {
+        "fr-FR": "Prière Embrasée"
+      }
+    }
+  ]
+}

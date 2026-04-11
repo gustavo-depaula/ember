@@ -6,24 +6,29 @@
     "pt-BR": "Espiritualidade Montfortina"
   },
   "description": {
-    "en-US": "The spiritual works of St. Louis de Montfort — True Devotion, the Rosary, and total consecration to Mary.",
-    "pt-BR": "As obras espirituais de São Luís de Montfort — Verdadeira Devoção, o Rosário e consagração total a Maria."
+    "en-US": "The complete spiritual works of St. Louis de Montfort — True Devotion, the Rosary, Eternal Wisdom, and total consecration to Mary.",
+    "pt-BR": "As obras espirituais completas de São Luís de Montfort — Verdadeira Devoção, o Rosário, Sabedoria Eterna e consagração total a Maria.",
+    "fr-FR": "Les œuvres spirituelles complètes de Saint Louis-Marie de Montfort — la Vraie Dévotion, le Rosaire, la Sagesse Éternelle et la consécration totale à Marie."
   },
   "author": {
     "en-US": "St. Louis de Montfort",
     "pt-BR": "São Luís de Montfort"
   },
-  "languages": ["en-US", "pt-BR"],
+  "languages": ["fr-FR", "en-US", "pt-BR"],
   "tags": ["marian", "montfort", "consecration"],
   "practices": ["total-consecration"],
   "prayers": ["act-of-consecration"],
   "chapters": ["about-montfort"],
-  "books": ["montfort-true-devotion", "montfort-secret-rosary", "montfort-secret-mary"],
+  "books": ["montfort-true-devotion", "montfort-love-wisdom", "montfort-secret-rosary", "montfort-secret-mary", "montfort-friends-cross", "montfort-ardent-prayer", "montfort-missionary-rules"],
   "contents": [
     { "type": "chapter", "id": "about-montfort" },
     { "type": "book", "id": "montfort-true-devotion" },
+    { "type": "book", "id": "montfort-love-wisdom" },
     { "type": "book", "id": "montfort-secret-rosary" },
     { "type": "book", "id": "montfort-secret-mary" },
+    { "type": "book", "id": "montfort-friends-cross" },
+    { "type": "book", "id": "montfort-ardent-prayer" },
+    { "type": "book", "id": "montfort-missionary-rules" },
     { "type": "practice", "id": "total-consecration" }
   ]
 }
