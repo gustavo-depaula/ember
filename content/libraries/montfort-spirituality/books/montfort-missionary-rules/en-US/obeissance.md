@@ -1,0 +1,19 @@
+# Obedience
+
+19. 1. They obey their Superiors and their rules entirely, without reserve; promptly, without delay; joyfully, without complaint; blindly, without reasoning; and holily, for God alone. This is soon said, but most difficult to carry out, given the torrent of the world — even the ecclesiastical world — that follows its own will, and given the corruption of self-will, which loves only to do what pleases it and because it pleases it. It is, however, this obedience that is in this Company, as in that of Jesus, the foundation and unshakable support of all its holiness and of all the fruits that God produces and will produce through its ministry.
+
+20. 2. They obey their director, who is always from the Company, for the guidance of their conscience, pouring out their heart before him like water with entire confidence, neither doing nor omitting anything of consequence without having disclosed it to him and received his approval and permission.
+
+21. 3. They obey the Superior of the Company in all things great and small, whether prescribed by the rule or not, whether regarding the assignment to duties or the good order of the Company.
+
+22. 4. They obey the Bishop of the diocese in which they reside, the Vicars General, and other ecclesiastical superiors who hold the place of the Bishop, as well as the pastor of the parish in which they are conducting the mission. They obey all these superiors in everything regarding external matters — the place, time, and other circumstances of missions that are indifferent in themselves and that become most salutary and most important when regulated by obedience. If an ecclesiastical superior were to command them something contrary to their most important rules and their vows, they would not be obliged to obey; but if he forbids or commands or even strongly advises things that are not very important in themselves, even though they are not accustomed to doing or omitting them, they will follow the Superior's judgment without hesitation, since it renders the matter, in that circumstance, both more sanctifying and more important.
+
+23. 5. Each one faithfully fulfills the duties of the office entrusted to him, without presuming to take notice of or oversee another's, unless compelled to do so by holy obedience.
+
+24. 6. They obey the least rules of the Company with entire exactitude, regarding them all as the apple of the eyes of Jesus Christ. It is in this fidelity that they show it is the Holy Spirit who guides them and not the spirit of the world, which esteems, even in virtue, only what is brilliant and what bears the name of great.
+
+25. 7. They regard formal or obstinate disobedience to a Superior, even in a small matter, as the greatest crime that can be committed in the Company, and perhaps the only one that merits expulsion from the community, however aged and however holy one may be in other respects.
+
+26. 8. They are so filled with esteem and love for this divine virtue that they sacrifice body, health, life, and all things to it, when it commands things that are good and possible, though otherwise most difficult and most bitter to nature. This is why, when they come to recognize the faults, public or secret, that they have committed by surprise or temptation against this divine virtue, they punish themselves at once and ask the Superior for a penance.
+
+27. 9. They are permitted, however, to declare candidly and simply the reasons they have for not omitting or undertaking what is commanded of them. But after they have declared these reasons, if no attention is paid to them, they are commanded to obey blindly and promptly, without asking why or how — and not only with the will but also with the mind and understanding, believing, despite their own views, that what the Superior has forbidden or commanded is absolutely the best thing before God.

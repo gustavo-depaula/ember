@@ -1,39 +1,46 @@
 {
   "id": "montfort-secret-mary",
   "name": {
-    "fr-FR": "Le Secret de Marie"
+    "fr-FR": "Le Secret de Marie",
+    "en-US": "The Secret of Mary"
   },
   "author": {
-    "fr-FR": "Saint Louis-Marie Grignion de Montfort"
+    "fr-FR": "Saint Louis-Marie Grignion de Montfort",
+    "en-US": "St. Louis-Marie Grignion de Montfort"
   },
   "description": {
-    "fr-FR": "Révélation du secret de la sainteté par l'esclavage d'amour envers la Sainte Vierge Marie, avec des prières et un supplément sur l'Arbre de Vie."
+    "fr-FR": "Révélation du secret de la sainteté par l'esclavage d'amour envers la Sainte Vierge Marie, avec des prières et un supplément sur l'Arbre de Vie.",
+    "en-US": "Revelation of the secret of holiness through the slavery of love toward the Blessed Virgin Mary, with prayers and a supplement on the Tree of Life."
   },
   "composed": 1712,
-  "languages": ["fr-FR"],
+  "languages": ["fr-FR", "en-US"],
   "toc": [
     {
       "id": "introduction",
       "title": {
-        "fr-FR": "Introduction"
+        "fr-FR": "Introduction",
+        "en-US": "Introduction"
       }
     },
     {
       "id": "vraie-devotion",
       "title": {
-        "fr-FR": "En quoi consiste la vraie dévotion à Marie"
+        "fr-FR": "En quoi consiste la vraie dévotion à Marie",
+        "en-US": "What the True Devotion to Mary Consists In"
       }
     },
     {
       "id": "oraisons",
       "title": {
-        "fr-FR": "Oraisons à Jésus et à Marie"
+        "fr-FR": "Oraisons à Jésus et à Marie",
+        "en-US": "Prayers to Jesus and to Mary"
       }
     },
     {
       "id": "arbre-de-vie",
       "title": {
-        "fr-FR": "La culture et l'accroissement de l'Arbre de Vie"
+        "fr-FR": "La culture et l'accroissement de l'Arbre de Vie",
+        "en-US": "The Cultivation and Growth of the Tree of Life"
       }
     }
   ]
