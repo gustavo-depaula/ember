@@ -1,0 +1,61 @@
+{
+	"id": "triduum-holy-spirit",
+	"icon": "prayer",
+	"name": {
+		"en-US": "Triduum to the Holy Spirit",
+		"pt-BR": "Tríduo ao Espírito Santo"
+	},
+	"categories": [
+		"holy-spirit",
+		"program",
+		"devotion"
+	],
+	"estimatedMinutes": 5,
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"program": {
+		"totalDays": 3,
+		"progressPolicy": "restart",
+		"completionBehavior": "offer-restart",
+		"restartThreshold": 1
+	},
+	"data": {
+		"triduum-days": "data/days.json"
+	},
+	"flows": [
+		{
+			"id": "default",
+			"name": {
+				"en-US": "Daily Prayer",
+				"pt-BR": "Oração Diária"
+			},
+			"file": "flow.json"
+		}
+	],
+	"description": {
+		"en-US": "A three-day prayer to the Holy Spirit, asking for His presence, His gifts, and the fire of His divine love.",
+		"pt-BR": "Uma oração de três dias ao Espírito Santo, pedindo Sua presença, Seus dons e o fogo do Seu divino amor."
+	},
+	"howToPray": {
+		"en-US": "Pray once daily for three consecutive days. May be prayed at any time when seeking the Holy Spirit's guidance and grace.",
+		"pt-BR": "Reze uma vez ao dia durante três dias consecutivos. Pode ser rezado a qualquer momento ao buscar a orientação e graça do Espírito Santo."
+	},
+	"tags": [
+		"triduum",
+		"holy-spirit",
+		"3-days"
+	],
+	"defaults": {
+		"sortOrder": 40,
+		"slots": [
+			{
+				"flowId": "default",
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
+}
