@@ -1,6 +1,6 @@
-# Import Book — Public Domain Text to EPUB Pipeline
+# Import Book — Public Domain Text to Library Pipeline
 
-Import a public domain Catholic text from the web into the Ember content system as a markdown-sourced EPUB.
+Import a public domain Catholic text from the web into the Ember content system as a markdown-sourced book inside a library.
 
 ## When to use
 
@@ -12,26 +12,27 @@ We are building a Catholic digital library of spiritual classics. The original-l
 
 ## Folder Structure
 
-All content lives under `content/books/{book-id}/`:
+All content lives under `content/libraries/{library-id}/`:
 
 ```
-content/books/{book-id}/
-  book.json                          # Book-level metadata
+content/libraries/{library-id}/
+  library.json                      # Library-level metadata
   sources/
-    {language-originals}/            # e.g. french-originals/, latin-originals/
-      {work-slug}.txt                # Raw downloaded text (one per work)
-  epubs/
-    {epub-id}/
-      epub.json                      # EPUB metadata + TOC
-      {lang}/                        # e.g. fr-FR/, en-US/, la/
-        {chapter-id}.md              # One markdown file per chapter
+    {language-originals}/           # e.g. french-originals/, latin-originals/
+      {work-slug}.txt               # Raw downloaded text (one per work)
+  books/
+    {book-id}/
+      book.json                     # Book metadata + TOC
+      {lang}/                       # e.g. fr-FR/, en-US/, la/
+        {chapter-id}.md             # One markdown file per chapter
 ```
 
 Key principles:
 - **Sources are `.txt`** — raw, faithful text dumps. Never edit these; they're the archive.
 - **Chapters are `.md`** — clean markdown, hand-edited. These are the authoring format.
-- **The build converts `.md` to XHTML** via pandoc at build time. No `.xhtml` files are committed for markdown-sourced books.
+- **Markdown is converted at runtime** using `marked` + `marked-footnote` — no pandoc dependency at build time.
 - **One language directory per language** — the original language comes first, translations later.
+- **No EPUB packaging** — chapter files ship directly inside `.pray` archives. The app renders them in a WebView with CSS column pagination.
 
 ## The Pipeline
 
@@ -66,7 +67,7 @@ Key principles:
    ```bash
    ./scripts/extract-lines.sh source.txt START END output.md
    ```
-   One call per chapter. Output directly into the epub's language directory.
+   One call per chapter. Output directly into the book's language directory.
 
 7. **Hand-clean with parallel background subagents.** Launch **one agent per file** using `run_in_background: true`. Do NOT group multiple files into one agent — a single large agent that fails or gets denied loses all its work, while granular agents let completed files stay done. Launch all agents in a single message for maximum parallelism. Each agent must:
 
@@ -96,7 +97,7 @@ Key principles:
 
 ### Phase 4 — Metadata
 
-8. **Create or update `epub.json`** with:
+8. **Create or update `book.json`** with:
    - `id`, `name` (localized), `author` (localized), `description` (localized)
    - `composed` (year the work was written)
    - `languages` array (original language first)
@@ -105,19 +106,21 @@ Key principles:
 
 9. **The TOC follows the author's structure.** The per-language filtering in the build script means each language can have different chapters — a language only includes chapters that have a source file.
 
+10. **Update `library.json`** if needed — ensure the book ID is listed in the `books` array and, if the library uses a `contents` array, add a `{ "type": "book", "id": "{book-id}" }` entry.
+
 ### Phase 5 — Build & Verify
 
-10. **Build:**
+11. **Build:**
     ```bash
     bash scripts/build-books.sh
     ```
-    The build script automatically detects `.md` files and converts them to XHTML via pandoc.
+    The build script copies the shared CSS into each book's language directories, then zips each library into a `.pray` archive and regenerates `registry.json`.
 
-11. **Verify:**
-    - Check that the `.epub` file was generated
-    - Inspect the zip contents (should have all chapters as `.xhtml`)
-    - Compare word count of built EPUB against source `.txt`
-    - Open in Apple Books or Calibre to spot-check content, TOC navigation, footnotes
+12. **Verify:**
+    - Check that the `.pray` file was generated
+    - Inspect the zip contents (should have all chapters as `.md` under `books/{book-id}/{lang}/`)
+    - Compare word count of built content against source `.txt`
+    - Open in the app to spot-check content, TOC navigation, footnotes
 
 ## Text Preservation Guidelines
 
@@ -133,15 +136,14 @@ Key principles:
 |------|----------|---------|
 | Crawl script template | `scripts/crawl-montfort-fr.py` | BS4-based downloader (adapt per source site) |
 | Line extractor | `scripts/extract-lines.sh` | Split `.txt` by line ranges into chapter files |
-| EPUB builder | `scripts/build-books.sh` | Converts `.md` to XHTML via pandoc, packages EPUB |
-| Pandoc | system (`which pandoc`) | Markdown to HTML5 conversion at build time |
+| Library builder | `scripts/build-books.sh` | Copies CSS, zips libraries into `.pray` archives, generates `registry.json` |
 
 ## Example: What We Did for Montfort
 
 1. Found 7 works on livres-mystiques.com (public domain French editions)
 2. Downloaded with `requests` + `BeautifulSoup` as `.txt` files (~152k words total)
-3. Mapped the Traite's structure: 12 chapters across 6,332 lines
+3. Mapped the Traité's structure: 12 chapters across 6,332 lines
 4. Split into 12 `.md` files with `extract-lines.sh`
 5. Cleaned all 12 in parallel with subagents (headings, footnotes, paragraphs)
-6. Updated `epub.json` with French canonical TOC
-7. Built — 402 KB EPUB, all chapters intact
+6. Updated `book.json` with French canonical TOC
+7. Built — `.pray` archive with all chapters intact
