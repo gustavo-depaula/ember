@@ -189,3 +189,14 @@ export function getBookDirUri(bookId: string, libraryId: string): string | undef
   if (!entry) return undefined
   return `${source.libraryDirUri}books/${bookId}/`
 }
+
+export function loadBookChapterText(
+  libraryId: string,
+  bookId: string,
+  chapterId: string,
+  lang: string,
+): Promise<string | undefined> {
+  const source = libraryIdToSource.get(libraryId)
+  if (!source) return Promise.resolve(undefined)
+  return source.loadBookChapterText(bookId, chapterId, lang)
+}

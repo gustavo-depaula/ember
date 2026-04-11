@@ -10,6 +10,7 @@ import type {
   LocalizedContent,
   LocalizedText,
   RenderedSection,
+  ResolvedProse,
   Variant,
   VariantEntry,
 } from './types'
@@ -48,6 +49,8 @@ export type FlowContext = {
   cycleData?: Record<string, CycleData>
   setKeyOverride?: string
   programDay?: number
+  templateVars?: Record<string, string>
+  resolvedProse?: ResolvedProse
 }
 
 const ordinalsEn = [
@@ -359,6 +362,17 @@ function resolveSection(
     case 'prayer':
       if ('ref' in section) return resolvePrayerRef(section.ref, context, ec)
       if ('inline' in section) return [resolveInlinePrayer(section.inline, ec, section.speaker)]
+      if ('title' in section && 'sections' in section) {
+        const resolved = section.sections.flatMap((s) => resolveSection(s, context, ec))
+        return [
+          {
+            type: 'prayer',
+            title: ec.localize(section.title),
+            text: bilingualEmpty,
+            sections: resolved,
+          },
+        ]
+      }
       return []
 
     case 'hymn':
@@ -502,9 +516,11 @@ function resolveSection(
     }
 
     case 'prose': {
-      const proseText = ec.prose[section.file]
-      if (!proseText)
+      const proseText = context.resolvedProse?.[section.file] ?? ec.prose[section.file]
+      if (!proseText) {
+        if (context.resolvedProse) return []
         return [{ type: 'prose', text: bilingualOf(`[Prose not found: ${section.file}]`) }]
+      }
       return [{ type: 'prose', text: ec.localize(proseText) }]
     }
 
@@ -542,5 +558,7 @@ export function resolveFlow(
   context: FlowContext,
   engineContext: EngineContext,
 ): RenderedSection[] {
-  return flow.sections.flatMap((section) => resolveSection(section, context, engineContext))
+  const vars = context.templateVars
+  const sections = vars ? flow.sections.map((s) => substituteInFlowSection(s, vars)) : flow.sections
+  return sections.flatMap((section) => resolveSection(section, context, engineContext))
 }

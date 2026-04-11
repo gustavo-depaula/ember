@@ -72,6 +72,7 @@ export type ContentSource = {
   getProseText(filePath: string): LocalizedContent | undefined
   getBookEntry(id: string): BookEntry | undefined
   getAllBookEntries(): BookEntry[]
+  loadBookChapterText(bookId: string, chapterId: string, lang: string): Promise<string | undefined>
 }
 
 const canticleRefs = new Set(['benedictus', 'magnificat', 'nunc-dimittis'])
@@ -317,5 +318,7 @@ export async function createFileSystemSource(libraryDirUri: string): Promise<Con
     getProseText: (filePath) => proseTexts.get(filePath),
     getBookEntry: (id) => bookEntries[id],
     getAllBookEntries: () => allBookEntries,
+    loadBookChapterText: (bookId, chapterId, lang) =>
+      readTextFile(`${libraryDirUri}books/${bookId}/${lang}/${chapterId}.md`),
   }
 }

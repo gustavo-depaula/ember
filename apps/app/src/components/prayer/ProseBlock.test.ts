@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest'
-import { parseMarkdown } from './ProseBlock'
+import { parseMarkdown } from './parseMarkdown'
 
 describe('parseMarkdown', () => {
   it('parses unordered list with - prefix', () => {
@@ -144,6 +144,129 @@ describe('parseMarkdown', () => {
       {
         type: 'blockquote',
         children: [{ type: 'text', text: 'A quote' }],
+      },
+    ])
+  })
+
+  it('merges consecutive blockquote lines into one node', () => {
+    const result = parseMarkdown('> Line one\n> Line two\n> Line three')
+    expect(result).toEqual([
+      {
+        type: 'blockquote',
+        children: [{ type: 'text', text: 'Line one\nLine two\nLine three' }],
+      },
+    ])
+  })
+
+  it('handles bare > continuation lines in blockquotes', () => {
+    const result = parseMarkdown('> First paragraph\n>\n> Second paragraph')
+    expect(result).toEqual([
+      {
+        type: 'blockquote',
+        children: [{ type: 'text', text: 'First paragraph\n\nSecond paragraph' }],
+      },
+    ])
+  })
+
+  it('strips footnote references from text', () => {
+    const result = parseMarkdown('Some text [^1] and more [^23].')
+    expect(result).toEqual([
+      {
+        type: 'paragraph',
+        children: [{ type: 'text', text: 'Some text and more.' }],
+      },
+    ])
+  })
+
+  it('skips footnote definition lines', () => {
+    const result = parseMarkdown('A paragraph.\n\n[^1]: Some source reference.')
+    expect(result).toEqual([
+      { type: 'paragraph', children: [{ type: 'text', text: 'A paragraph.' }] },
+    ])
+  })
+
+  it('parses full meditation with blockquote, ***Sumário.** pattern, and inner italic', () => {
+    const input = [
+      '> *Secundum multitudinem dolorum meorum in corde meo, consolationes tuae laetificaverunt animam meam* – "Segundo as muitas dores que provou o meu coração, as tuas consolações alegraram a minha alma" (Sl 93, 19)',
+      '',
+      '***Sumário.** Era de justiça que Maria Santíssima, que mais do que qualquer outro tomou parte na Paixão de Jesus Cristo, fosse também a primeira a gozar da alegria da sua ressurreição. Imaginemos vê-la no momento em que lhe aparece o divino Redentor glorificado, acompanhado de grande multidão de Santos, entre os quais São José, São Joaquim e Santa Ana. Oh! Que ternos abraços! Que doces colóquios! Alegremo-nos com a nossa querida Mãe e digamos-lhe: *Regina coeli, laetare, alleluia — "Rainha dos céus, alegrai-vos, aleluia!"*.*',
+    ].join('\n')
+
+    const result = parseMarkdown(input)
+
+    // Blockquote: italic Latin text + plain Portuguese translation
+    expect(result[0]).toEqual({
+      type: 'blockquote',
+      children: [
+        {
+          type: 'italic',
+          text: 'Secundum multitudinem dolorum meorum in corde meo, consolationes tuae laetificaverunt animam meam',
+        },
+        {
+          type: 'text',
+          text: ' – "Segundo as muitas dores que provou o meu coração, as tuas consolações alegraram a minha alma" (Sl 93, 19)',
+        },
+      ],
+    })
+
+    // Paragraph: bolditalic "Sumário." then italic body (inner *...* markers stripped)
+    expect(result[1].type).toBe('paragraph')
+    if (result[1].type === 'paragraph') {
+      expect(result[1].children[0]).toEqual({ type: 'bolditalic', text: 'Sumário.' })
+      expect(result[1].children[1].type).toBe('italic')
+      // No literal * should appear in the rendered text
+      expect(result[1].children[1].text).not.toContain('*')
+      // Inner *Regina coeli...* markers are stripped (italic-within-italic)
+      expect(result[1].children[1].text).toContain('Regina coeli')
+      expect(result[1].children[1].text).toContain('.')
+    }
+  })
+
+  it('***Sumário.** pattern: no literal * in output', () => {
+    const input =
+      '***Sumário.** Era de justiça, fosse também a primeira a gozar: *Regina coeli, laetare, alleluia!*.*'
+    const result = parseMarkdown(input)
+    expect(result).toHaveLength(1)
+    expect(result[0].type).toBe('paragraph')
+    if (result[0].type === 'paragraph') {
+      // No child should contain a literal * character
+      for (const child of result[0].children) {
+        expect(child.text).not.toContain('*')
+      }
+      expect(result[0].children[0]).toEqual({ type: 'bolditalic', text: 'Sumário.' })
+      expect(result[0].children[1]).toEqual({
+        type: 'italic',
+        text: ' Era de justiça, fosse também a primeira a gozar: Regina coeli, laetare, alleluia!.',
+      })
+    }
+  })
+
+  it('simple ***Sumário.** short text* without inner italic', () => {
+    const result = parseMarkdown('***Sumário.** Texto simples.*')
+    expect(result).toEqual([
+      {
+        type: 'paragraph',
+        children: [
+          { type: 'bolditalic', text: 'Sumário.' },
+          { type: 'italic', text: ' Texto simples.' },
+        ],
+      },
+    ])
+  })
+
+  it('still parses ***bolditalic*** after adding nested bold-italic support', () => {
+    const result = parseMarkdown('***all three***')
+    expect(result).toEqual([
+      { type: 'paragraph', children: [{ type: 'bolditalic', text: 'all three' }] },
+    ])
+  })
+
+  it('strips footnotes from blockquotes', () => {
+    const result = parseMarkdown('> A quote with ref [^2]')
+    expect(result).toEqual([
+      {
+        type: 'blockquote',
+        children: [{ type: 'text', text: 'A quote with ref' }],
       },
     ])
   })

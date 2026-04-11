@@ -1,8 +1,8 @@
 import type { ResolvedProse } from '@ember/content-engine'
 import {
   getLiturgicalDayName,
-  resolveLiturgicalMeditation,
   type LiturgicalMeditationMap,
+  resolveLiturgicalMeditation,
 } from '@ember/liturgical'
 import { useQuery } from '@tanstack/react-query'
 import { useMemo } from 'react'
