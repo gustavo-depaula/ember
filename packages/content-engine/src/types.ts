@@ -21,6 +21,9 @@ export type CycleData = {
   entries: Record<string, unknown[]>
 }
 
+// Dynamic prose content injected at runtime (e.g., liturgical meditation text)
+export type ResolvedProse = Record<string, LocalizedContent>
+
 // --- Lectio Tracks (practice-owned reading plans) ---
 
 export type LectioTrackDef = {
@@ -40,6 +43,7 @@ export type FlowSection =
   | { type: 'image'; src: string; caption?: LocalizedText; attribution?: LocalizedText }
   | { type: 'prayer'; ref: string }
   | { type: 'prayer'; speaker?: 'priest' | 'people' | 'all'; inline: LocalizedContent }
+  | { type: 'prayer'; title: LocalizedText; sections: FlowSection[] }
   | { type: 'hymn'; ref: string }
   | { type: 'hymn'; inline: LocalizedContent }
   | { type: 'canticle'; ref: string }

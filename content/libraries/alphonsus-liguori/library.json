@@ -23,12 +23,18 @@
     "ascetical",
     "prayer"
   ],
-  "practices": [],
+  "practices": [
+    "meditacoes-ligorio"
+  ],
   "prayers": [],
   "books": [
     "meditacoes-ligorio"
   ],
   "contents": [
+    {
+      "type": "practice",
+      "id": "meditacoes-ligorio"
+    },
     {
       "type": "book",
       "id": "meditacoes-ligorio"

@@ -1,4 +1,16 @@
 export { getLiturgicalDayName, type Localizer } from './dayName'
+export {
+  getEfLiturgicalPosition,
+  getPostPentecostWeekMapping,
+  type EfLiturgicalPosition,
+  type EfSeason,
+} from './ef-position'
+export {
+  resolveLiturgicalMeditation,
+  type LiturgicalMeditationMap,
+  type MeditationEntry,
+  type ResolvedMeditation,
+} from './meditation-resolver'
 export type OfficeHour = 'morning' | 'evening' | 'compline'
 export { buildYearCalendar, getCelebrationsForDate } from './calendar-builder'
 // Calendar

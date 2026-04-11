@@ -1,0 +1,47 @@
+{
+  "id": "meditacoes-ligorio",
+  "name": {
+    "pt-BR": "Meditações de Ligório",
+    "en-US": "Liguori's Daily Meditations"
+  },
+  "categories": ["daily", "meditation"],
+  "estimatedMinutes": 15,
+  "description": {
+    "pt-BR": "Meditações para todos os Dias e Festas do Ano, por Santo Afonso Maria de Ligório. Uma meditação diária seguindo o calendário litúrgico tradicional.",
+    "en-US": "Meditations for Every Day and Feast of the Year, by St. Alphonsus Liguori. A daily meditation following the traditional liturgical calendar."
+  },
+  "history": {
+    "pt-BR": "Publicadas originalmente em 1760, estas meditações foram escritas por Santo Afonso Maria de Ligório, Doutor da Igreja e fundador dos Redentoristas. A presente tradução é baseada na edição portuguesa da Herder & Cia, Friburgo, 1921.",
+    "en-US": "Originally published in 1760, these meditations were written by St. Alphonsus Liguori, Doctor of the Church and founder of the Redemptorists. The current text is based on the Portuguese edition by Herder & Co., Freiburg, 1921."
+  },
+  "howToPray": {
+    "pt-BR": "Leia a meditação do dia com atenção, fazendo pausas para reflexão pessoal. Santo Afonso recomenda dedicar ao menos 15 minutos à oração mental diária. Termine com uma oração espontânea ao Senhor.",
+    "en-US": "Read the day's meditation attentively, pausing for personal reflection. St. Alphonsus recommends dedicating at least 15 minutes to daily mental prayer. End with a spontaneous prayer to the Lord."
+  },
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "tags": ["meditation", "liguori", "daily", "liturgical", "ascetical"],
+  "data": {
+    "liturgical-map": "data/liturgical-map.json"
+  },
+  "flows": [
+    {
+      "id": "default",
+      "name": {
+        "pt-BR": "Meditação do Dia",
+        "en-US": "Today's Meditation"
+      },
+      "file": "flows/daily.json"
+    }
+  ],
+  "defaults": {
+    "sortOrder": 3,
+    "slots": [
+      {
+        "flowId": "default",
+        "schedule": { "type": "daily" },
+        "tier": "essential"
+      }
+    ]
+  }
+}

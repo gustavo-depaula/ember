@@ -1,0 +1,1559 @@
+{
+  "temporal": {
+    "advent/1/0": {
+      "primary": "temeridade-pecador-dia-juizo"
+    },
+    "advent/1/1": {
+      "primary": "pecado-adao-amor-deus-homens"
+    },
+    "advent/1/2": {
+      "primary": "decreto-encarnacao-verbo"
+    },
+    "advent/1/3": {
+      "primary": "verbo-se-faz-homem-plenitude-tempos"
+    },
+    "advent/1/4": {
+      "primary": "jesus-ilumina-mundo-glorifica-deus"
+    },
+    "advent/1/5": {
+      "primary": "quais-sejam-que-na-verdade-seguem-jesus-cristo"
+    },
+    "advent/1/6": {
+      "primary": "inefavel-dignidade-maria-santissima"
+    },
+    "advent/2/0": {
+      "primary": "encarceramento-joao-utilidade-tribulacoes"
+    },
+    "advent/2/1": {
+      "primary": "deus-entrega-proprio-filho-morte-para-nos-dar-vida"
+    },
+    "advent/2/2": {
+      "primary": "retrato-de-um-homem-que-acaba-passar-outra-vida"
+    },
+    "advent/2/3": {
+      "primary": "amor-que-o-filho-de-deus-nos-mostrou-na-redencao"
+    },
+    "advent/2/4": {
+      "primary": "jesus-homem-dores-desde-seio-sua-mae"
+    },
+    "advent/2/5": {
+      "primary": "na-cruz-acha-nossa-salvacao"
+    },
+    "advent/2/6": {
+      "primary": "maria-santissima-modelo-paciencia"
+    },
+    "advent/3/0": {
+      "primary": "testemunho-sao-joao-batista-modestia-crista"
+    },
+    "advent/3/1": {
+      "primary": "jesus-menino-toma-sobre-si-todos-pecados-homens"
+    },
+    "advent/3/2": {
+      "primary": "no-inferno-sofre-se-sempre"
+    },
+    "advent/3/3": {
+      "primary": "jesus-fonte-de-gracas"
+    },
+    "advent/3/4": {
+      "primary": "jesus-atribulado-durante-toda-sua-vida"
+    },
+    "christmas/sunday-after-circumcision/0": {
+      "primary": "festa-santissimo-nome-jesus"
+    },
+    "christmas/epiphany-octave-saturday/6": {
+      "primary": "solicitude-maternal-maria-com-jesus-cristo"
+    },
+    "epiphany/1/0": {
+      "primary": "perda-jesus-templo"
+    },
+    "epiphany/1/1": {
+      "primary": "fim-homem"
+    },
+    "epiphany/1/2": {
+      "primary": "hei-de-morrer-um-dia"
+    },
+    "epiphany/1/3": {
+      "primary": "eternidade-inferno-terrivel-mas-justa"
+    },
+    "epiphany/1/4": {
+      "primary": "exemplos-que-nos-da-jesus-menino"
+    },
+    "epiphany/1/5": {
+      "primary": "fuga-jesus-para-egito"
+    },
+    "epiphany/1/6": {
+      "primary": "maria-santissima-modelo-de-fe"
+    },
+    "epiphany/2/0": {
+      "primary": "desejo-que-jesus-teve-sofrer-por-nos"
+    },
+    "epiphany/2/1": {
+      "primary": "o-amor-vence-tudo"
+    },
+    "epiphany/2/2": {
+      "primary": "remorsos-desejos-pecador-moribundo"
+    },
+    "epiphany/2/3": {
+      "primary": "morte-feliz-dos-religiosos"
+    },
+    "epiphany/2/4": {
+      "primary": "estada-de-jesus-no-egito"
+    },
+    "epiphany/2/5": {
+      "primary": "volta-jesus-egito"
+    },
+    "epiphany/2/6": {
+      "primary": "santo-afonso-modelo-devocao-maria-santissima"
+    },
+    "epiphany/3/0": {
+      "primary": "centuriao-homens-meia-fe"
+    },
+    "epiphany/3/1": {
+      "primary": "bens-mundo-nao-nos-podem-fazer-felizes"
+    },
+    "epiphany/3/2": {
+      "primary": "vinda-divino-juiz-exame-juizo-final"
+    },
+    "epiphany/3/3": {
+      "primary": "quanto-cara-deus-alma-que-se-lhe-entrega-toda"
+    },
+    "epiphany/3/4": {
+      "primary": "jesus-casa-nazare"
+    },
+    "epiphany/3/5": {
+      "primary": "jesus-cresce-idade-sabedoria-graca"
+    },
+    "epiphany/3/6": {
+      "primary": "da-confianca-maria-rainha-misericordia"
+    },
+    "epiphany/4/0": {
+      "primary": "a-barca-na-tempestade-e-a-igreja-catolica"
+    },
+    "epiphany/4/1": {
+      "primary": "incerteza-hora-morte"
+    },
+    "epiphany/4/2": {
+      "primary": "do-fogo-do-inferno"
+    },
+    "epiphany/4/3": {
+      "primary": "qual-sera-gozo-dos-bem-aventurados-paraiso"
+    },
+    "epiphany/4/4": {
+      "primary": "devemos-esperar-tudo-pelos-merecimentos-jesus-cristo"
+    },
+    "epiphany/4/5": {
+      "primary": "jesus-quis-sofrer-ganhar-nossos-coracoes"
+    },
+    "epiphany/4/6": {
+      "primary": "maria-santissima-modelo-esperanca"
+    },
+    "epiphany/5/0": {
+      "primary": "parabola-joio-conduta-deus-com-pecadores"
+    },
+    "epiphany/5/1": {
+      "primary": "sejamos-peregrinos-sobre-terra"
+    },
+    "epiphany/5/2": {
+      "primary": "loucura-pecadores"
+    },
+    "epiphany/5/3": {
+      "primary": "pecador-abandonado-por-deus"
+    },
+    "epiphany/5/4": {
+      "primary": "amor-deus-mostrou-aos-homens-misterio-encarnacao"
+    },
+    "epiphany/5/5": {
+      "primary": "pena-mais-grave-menino-jesus"
+    },
+    "epiphany/5/6": {
+      "primary": "quanto-religiosos-devem-confiar-patrocinio-maria"
+    },
+    "epiphany/6/0": {
+      "primary": "parabola-fermento-efeitos-graca-santificante"
+    },
+    "epiphany/6/1": {
+      "primary": "necessidade-oracao-mental"
+    },
+    "epiphany/6/2": {
+      "primary": "paciencia-deus-esperar-pecador-faca-penitencia"
+    },
+    "epiphany/6/3": {
+      "primary": "momento-morte"
+    },
+    "epiphany/6/4": {
+      "primary": "amor-deus-fazer-se-homem"
+    },
+    "epiphany/6/5": {
+      "primary": "amor-de-deus-em-fazer-se-crianca"
+    },
+    "epiphany/6/6": {
+      "primary": "vantagens-congregacoes-maria-santissima"
+    },
+    "septuagesima/1/0": {
+      "primary": "parabola-trabalhadores-recompensa-divina"
+    },
+    "septuagesima/1/1": {
+      "primary": "para-ser-santo-e-preciso-deseja-lo-muito"
+    },
+    "septuagesima/1/2": {
+      "primary": "comemoracao-agonia-oracao-jesus-horto"
+    },
+    "septuagesima/1/3": {
+      "primary": "o-pecador-nao-quer-obedecer-deus"
+    },
+    "septuagesima/1/4": {
+      "primary": "santa-missa-da-deus-uma-honra-infinita"
+    },
+    "septuagesima/1/5": {
+      "primary": "coracao-de-jesus-aflito-pelo-pecado-de-escandalo"
+    },
+    "septuagesima/1/6": {
+      "primary": "da-gratidao-para-com-as-dores-de-maria-santissima"
+    },
+    "septuagesima/2/0": {
+      "primary": "a-parabola-do-semeador-e-a-palavra-divina"
+    },
+    "septuagesima/2/1": {
+      "primary": "pecador-aflige-coracao-deus"
+    },
+    "septuagesima/2/2": {
+      "primary": "o-pecado-renova-paixao-de-jesus-cristo"
+    },
+    "septuagesima/2/3": {
+      "primary": "do-numero-pecados"
+    },
+    "septuagesima/2/4": {
+      "primary": "o-carnaval-santificado-e-as-divinas-beneficencias"
+    },
+    "septuagesima/2/5": {
+      "primary": "amor-de-jesus-em-querer-satisfazer-por-nos"
+    },
+    "septuagesima/2/6": {
+      "primary": "frutos-meditacao-7-dores-maria"
+    },
+    "septuagesima/3/0": {
+      "primary": "paixao-jesus-cristo-divertimentos-carnaval"
+    },
+    "septuagesima/3/1": {
+      "primary": "da-confianca-em-jesus-cristo"
+    },
+    "septuagesima/3/2": {
+      "primary": "pecador-expulsa-deus-do-seu-coracao"
+    },
+    "septuagesima/3/3": {
+      "primary": "lembranca-morte-jejum-quaresmal"
+    },
+    "septuagesima/3/4": {
+      "primary": "amor-de-jesus-cristo-em-dar-se-a-nos-como-alimento"
+    },
+    "septuagesima/3/5": {
+      "primary": "comemoracao-coroa-espinhos-jesus-cristo"
+    },
+    "septuagesima/3/6": {
+      "primary": "1a-dor-maria-santissima"
+    },
+    "lent/1/0": {
+      "primary": "jesus-no-deserto-tentacoes-almas-escolhidas"
+    },
+    "lent/1/1": {
+      "primary": "bem-aventurado-o-que-nao-quer-outra-coisa-senao-deus"
+    },
+    "lent/1/2": {
+      "primary": "quanto-doce-morte-justo"
+    },
+    "lent/1/3": {
+      "primary": "contas-que-tera-de-dar-jesus-cristo-quem-nao-segue-vocacao"
+    },
+    "lent/1/4": {
+      "primary": "quanto-jesus-deseja-unir-se-conosco-na-santa-comunhao"
+    },
+    "lent/1/5": {
+      "primary": "comemoracao-lanca-cravos-nosso-senhor-jesus-cristo"
+    },
+    "lent/1/6": {
+      "primary": "segunda-dor-de-maria-santissima-fugida-para-o-egito"
+    },
+    "lent/2/0": {
+      "primary": "transfiguracao-jesus-cristo-as-delicias-paraiso"
+    },
+    "lent/2/1": {
+      "primary": "como-devemos-preparar-nos-para-morte"
+    },
+    "lent/2/2": {
+      "primary": "efeitos-que-em-nos-produz-a-divina-graca"
+    },
+    "lent/2/3": {
+      "primary": "da-dignidade-sao-jose-esposo-virgem-maria"
+    },
+    "lent/2/4": {
+      "primary": "jesus-presente-altares-ser-acessivel-todos"
+    },
+    "lent/2/5": {
+      "primary": "comemoracao-sagrado-sudario-nosso-senhor-jesus-cristo"
+    },
+    "lent/2/6": {
+      "primary": "maria-santissima-modelo-amor-para-com-deus"
+    },
+    "lent/3/0": {
+      "primary": "demonio-mudo-confissoes-sacrilegas",
+      "secondary": "estado-miseravel-dos-que-recaem-pecado"
+    },
+    "lent/3/1": {
+      "primary": "da-verdadeira-sabedoria"
+    },
+    "lent/3/2": {
+      "primary": "separacao-escolhidos-reprobos-juizo-final"
+    },
+    "lent/3/3": {
+      "primary": "gloria-sao-jose-esposo-virgem-maria"
+    },
+    "lent/3/4": {
+      "primary": "grandeza-dadiva-jesus-cristo-fez-santissima-eucaristia"
+    },
+    "lent/3/5": {
+      "primary": "comemoracao-5-chagas-nosso-senhor-jesus-cristo"
+    },
+    "lent/3/6": {
+      "primary": "terceira-dor-maria-santissima-perda-jesus-templo"
+    },
+    "lent/4/0": {
+      "primary": "multidao-faminta-almas-purgatorio",
+      "secondary": "terna-compaixao-jesus-cristo-pecadores"
+    },
+    "lent/4/1": {
+      "primary": "meios-alcancar-amor-deus-santidade"
+    },
+    "lent/4/2": {
+      "primary": "da-nobreza-da-alma"
+    },
+    "lent/4/3": {
+      "primary": "sentenca-escolhidos-reprobos-juizo-universal"
+    },
+    "lent/4/4": {
+      "primary": "uniao-da-alma-com-jesus-na-santa-comunhao"
+    },
+    "lent/4/5": {
+      "primary": "comemoracao-preciosissimo-sangue-nosso-senhor-jesus-cristo"
+    },
+    "lent/4/6": {
+      "primary": "dor-maria-consentir-morte-jesus"
+    },
+    "lent/5/0": {
+      "primary": "grande-fruto-meditacao-paixao-jesus-cristo"
+    },
+    "lent/5/1": {
+      "primary": "conselho-judeus-traicao-judas"
+    },
+    "lent/5/2": {
+      "primary": "ultima-ceia-jesus-cristo-com-discipulos"
+    },
+    "lent/5/3": {
+      "primary": "jesus-ora-no-horto-e-sua-sangue"
+    },
+    "lent/5/4": {
+      "primary": "jesus-preso-ligado-conduzido-jerusalem"
+    },
+    "lent/5/5": {
+      "primary": "comemoracao-7-dores-maria-santissima"
+    },
+    "lent/5/6": {
+      "primary": "jesus-apresentado-pontifices-por-eles-condenado-morte"
+    },
+    "holy-week/1/0": {
+      "primary": "jesus-faz-sua-entrada-triunfal-em-jerusalem"
+    },
+    "holy-week/1/1": {
+      "primary": "jesus-levado-pilatos-herodes-posposto-barrabas",
+      "secondary": "jesus-preso-coluna-flagelado"
+    },
+    "holy-week/1/2": {
+      "primary": "jesus-coroado-espinhos-apresentado-povo",
+      "secondary": "jesus-condenado-vai-calvario"
+    },
+    "holy-week/1/3": {
+      "primary": "4-dor-maria-encontro-jesus-carrega-cruz",
+      "secondary": "jesus-crucificado-entre-dois-ladroes"
+    },
+    "holy-week/1/4": {
+      "primary": "dia-do-amor",
+      "secondary": "5-dor-maria-morte-jesus"
+    },
+    "holy-week/1/5": {
+      "primary": "morte-de-jesus",
+      "secondary": "6-dor-maria-jesus-descido-cruz"
+    },
+    "holy-week/1/6": {
+      "primary": "7-dor-maria-sepultura-jesus",
+      "secondary": "soledade-maria-depois-sepultura-jesus"
+    },
+    "easter/1/0": {
+      "primary": "ressurreicao-jesus-cristo-esperanca-cristao"
+    },
+    "easter/1/1": {
+      "primary": "ressurreicao-corpos-juizo-universal"
+    },
+    "easter/1/2": {
+      "primary": "no-ceu-goza-se-uma-felicidade-perfeita"
+    },
+    "easter/1/3": {
+      "primary": "necessidade-da-perseveranca"
+    },
+    "easter/1/4": {
+      "primary": "da-comunhao-sacrilega"
+    },
+    "easter/1/5": {
+      "primary": "conformidade-vontade-deus-exemplo-jesus-cristo"
+    },
+    "easter/1/6": {
+      "primary": "aparicao-jesus-ressuscitado-sua-mae-maria"
+    },
+    "easter/2/0": {
+      "primary": "so-em-deus-se-acha-verdadeira-paz"
+    },
+    "easter/2/1": {
+      "primary": "da-caridade-fraterna"
+    },
+    "easter/2/2": {
+      "primary": "vaidade-do-mundo"
+    },
+    "easter/2/3": {
+      "primary": "pena-que-tera-no-inferno-quem-se-condenar-por-ter-perdido-vocacao"
+    },
+    "easter/2/4": {
+      "primary": "jesus-santissimo-sacramento-melhor-dos-amigos"
+    },
+    "easter/2/5": {
+      "primary": "mister-sofrer-tudo-para-agradar-deus"
+    },
+    "easter/2/6": {
+      "primary": "maria-santissima-modelo-de-caridade-para-com-o-proximo"
+    },
+    "easter/3/0": {
+      "primary": "jesus-bom-pastor"
+    },
+    "easter/3/1": {
+      "primary": "motivos-que-temos-honrar-sao-jose"
+    },
+    "easter/3/2": {
+      "primary": "convivencia-sao-jose-com-jesus-e-maria"
+    },
+    "easter/3/3": {
+      "primary": "solenidade-sao-jose"
+    },
+    "easter/3/4": {
+      "primary": "da-oracao-depende-nossa-salvacao"
+    },
+    "easter/3/5": {
+      "primary": "da-morte"
+    },
+    "easter/3/6": {
+      "primary": "do-amor-que-sao-jose-teve-jesus-maria"
+    },
+    "easter/4/0": {
+      "primary": "pensamento-eternidade"
+    },
+    "easter/4/1": {
+      "primary": "da-tibieza"
+    },
+    "easter/4/2": {
+      "primary": "nada-dos-bens-mundo"
+    },
+    "easter/4/3": {
+      "primary": "salvacao-unica-coisa-necessaria"
+    },
+    "easter/4/4": {
+      "primary": "igreja-onde-esta-jesus-sacramentado-santuario-mais-augusto"
+    },
+    "easter/4/5": {
+      "primary": "quem-ama-jesus-cristo-deve-odiar-mundo"
+    },
+    "easter/4/6": {
+      "primary": "maria-santissima-modelo-pobreza"
+    },
+    "easter/5/0": {
+      "primary": "tristeza-apostolos-desolacoes-espirituais"
+    },
+    "easter/5/1": {
+      "primary": "morte-despoja-nos-de-tudo"
+    },
+    "easter/5/2": {
+      "primary": "gloria-imensa-que-gozam-ceu-religiosos"
+    },
+    "easter/5/3": {
+      "primary": "remorso-condenado-podia-salvar-me-tao-facilmente"
+    },
+    "easter/5/4": {
+      "primary": "santa-missa-meio-seguro-obter-misericordias-divinas"
+    },
+    "easter/5/5": {
+      "primary": "felicidade-quem-conforma-vontade-deus"
+    },
+    "easter/5/6": {
+      "primary": "poder-maria-santissima-para-nos-defender-tentacoes"
+    },
+    "easter/6/0": {
+      "primary": "promessas-deus-eficacia-oracao"
+    },
+    "easter/6/1": {
+      "primary": "quem-deseja-salvacao-deve-temer-condenacao"
+    },
+    "easter/6/2": {
+      "primary": "infeliz-quem-peca-contando-com-perdao"
+    },
+    "easter/6/3": {
+      "primary": "o-dia-da-desilusao"
+    },
+    "easter/6/4": {
+      "primary": "festa-ascensao-nosso-senhor-jesus-cristo"
+    },
+    "post-pentecost/1/0": {
+      "primary": "amor-deus-com-homens-missao-espirito-santo"
+    },
+    "post-pentecost/1/1": {
+      "primary": "salvacao-negocio-mais-importante-mais-descuidado"
+    },
+    "post-pentecost/1/2": {
+      "primary": "pena-dos-sentidos-no-inferno"
+    },
+    "post-pentecost/1/3": {
+      "primary": "necessidade-observanca-regular-para-religioso"
+    },
+    "post-pentecost/1/4": {
+      "primary": "respeito-devido-dignidade-sacerdotal"
+    },
+    "post-pentecost/1/5": {
+      "primary": "devocao-santo-afonso-paixao-jesus-cristo"
+    },
+    "post-pentecost/1/6": {
+      "primary": "maria-santissima-modelo-castidade"
+    },
+    "post-pentecost/2/0": {
+      "primary": "festa-santissima-trindade"
+    },
+    "post-pentecost/2/1": {
+      "primary": "corpo-tumba"
+    },
+    "post-pentecost/2/2": {
+      "primary": "acusacao-alma-juizo-particular"
+    },
+    "post-pentecost/3/5": {
+      "primary": "festa-sagrado-coracao-jesus"
+    },
+    "post-pentecost/3/6": {
+      "primary": "coracao-maria-imagem-fiel-coracao-jesus"
+    },
+    "post-pentecost/4/0": {
+      "primary": "ovelha-perdida-pastor-divino"
+    },
+    "post-pentecost/4/1": {
+      "primary": "devemos-morrer"
+    },
+    "post-pentecost/4/2": {
+      "primary": "da-pureza-intencao"
+    },
+    "post-pentecost/4/3": {
+      "primary": "para-se-santificar-alma-deve-dar-se-toda-sem-reserva-deus"
+    },
+    "post-pentecost/4/4": {
+      "primary": "santa-comunhao-nos-faz-perseverar-graca-divina"
+    },
+    "post-pentecost/4/5": {
+      "primary": "quao-util-meditar-paixao-jesus-cristo"
+    },
+    "post-pentecost/4/6": {
+      "primary": "do-grande-amor-que-nos-tem-maria-santissima"
+    },
+    "post-pentecost/5/0": {
+      "primary": "pesca-milagrosa-ministerio-apostolico"
+    },
+    "post-pentecost/5/1": {
+      "primary": "desprezo-tempo-hora-morte"
+    },
+    "post-pentecost/5/2": {
+      "primary": "sentenca-alma-culpada-juizo-particular"
+    },
+    "post-pentecost/5/3": {
+      "primary": "dano-que-causa-aos-religiosos-tibieza"
+    },
+    "post-pentecost/5/4": {
+      "primary": "jesus-santissimo-sacramento-modelo-obediencia"
+    },
+    "post-pentecost/5/5": {
+      "primary": "cruz-jesus-tribulacoes-vida-presente"
+    },
+    "post-pentecost/5/6": {
+      "primary": "da-saudacao-angelica"
+    },
+    "post-pentecost/6/0": {
+      "primary": "vicio-ira-modo-refrea-la"
+    },
+    "post-pentecost/6/1": {
+      "primary": "grande-segredo-viver-bem"
+    },
+    "post-pentecost/6/2": {
+      "primary": "grandeza-dadivina-misericordia"
+    },
+    "post-pentecost/6/3": {
+      "primary": "deus-bem-que-faz-paraiso"
+    },
+    "post-pentecost/6/4": {
+      "primary": "jesus-santissimo-sacramento-prisioneiro-amor"
+    },
+    "post-pentecost/6/5": {
+      "primary": "quanto-agrada-jesus-lembranca-sua-paixao"
+    },
+    "post-pentecost/6/6": {
+      "primary": "maria-santissima-modelo-obediencia"
+    },
+    "post-pentecost/7/0": {
+      "primary": "turbas-famintas-vaidade-bens-terrestres"
+    },
+    "post-pentecost/7/1": {
+      "primary": "importancia-ultimo-momento-vida"
+    },
+    "post-pentecost/7/2": {
+      "primary": "paz-que-deus-faz-gozar-aos-bons-religiosos"
+    },
+    "post-pentecost/7/3": {
+      "primary": "quem-ama-deus-suspira-por-ve-lo-no-ceu"
+    },
+    "post-pentecost/7/4": {
+      "primary": "jesus-santissimo-sacramento-faz-delicias-das-almas-desprendidas"
+    },
+    "post-pentecost/7/5": {
+      "primary": "da-vida-penosa-jesus-cristo"
+    },
+    "post-pentecost/7/6": {
+      "primary": "maria-santissima-medianeira-pecadores-para-com-deus"
+    },
+    "post-pentecost/8/0": {
+      "primary": "falsos-profetas-necessidade-boas-obras"
+    },
+    "post-pentecost/8/1": {
+      "primary": "valor-do-tempo"
+    },
+    "post-pentecost/8/2": {
+      "primary": "temos-escolher-entre-eternidade-feliz-outra-infeliz"
+    },
+    "post-pentecost/8/3": {
+      "primary": "angustias-pecador-moribundo"
+    },
+    "post-pentecost/8/4": {
+      "primary": "preparacao-santa-comunhao-acao-gracas"
+    },
+    "post-pentecost/8/5": {
+      "primary": "meditacao-paixao-jesus-cristo-escola-divino-amor"
+    },
+    "post-pentecost/8/6": {
+      "primary": "confianca-devemos-ter-maria-como-nossa-mae"
+    },
+    "post-pentecost/9/0": {
+      "primary": "feitor-infiel-dia-contas"
+    },
+    "post-pentecost/9/1": {
+      "primary": "misericordia-deus-chamar-pecador-penitencia"
+    },
+    "post-pentecost/9/2": {
+      "primary": "remorso-condenado-eu-me-condenei-por-um-nada"
+    },
+    "post-pentecost/9/3": {
+      "primary": "vida-religiosos-mais-semelhante-jesus-cristo"
+    },
+    "post-pentecost/9/4": {
+      "primary": "santo-afonso-modelo-devocao-jesus-sacramentado"
+    },
+    "post-pentecost/9/5": {
+      "primary": "desejo-jesus-sofrer-por-nos"
+    },
+    "post-pentecost/9/6": {
+      "primary": "devoto-maria-santissima-deve-imitar-lhe-virtudes"
+    },
+    "post-pentecost/10/0": {
+      "primary": "ruina-jerusalem-fim-uma-alma-descuidada"
+    },
+    "post-pentecost/10/1": {
+      "primary": "importancia-ultimo-fim"
+    },
+    "post-pentecost/10/2": {
+      "primary": "morte-santos-precisa"
+    },
+    "post-pentecost/10/3": {
+      "primary": "condicoes-oracao"
+    },
+    "post-pentecost/10/4": {
+      "primary": "oracao-feita-diante-santissimo-sacramento"
+    },
+    "post-pentecost/10/5": {
+      "primary": "abandono-jesus-sobre-cruz-pena-dano-inferno"
+    },
+    "post-pentecost/10/6": {
+      "primary": "maria-santissima-refugio-pecadores"
+    },
+    "post-pentecost/11/0": {
+      "primary": "fariseu-publicano"
+    },
+    "post-pentecost/11/1": {
+      "primary": "malicia-pecado-mortal"
+    },
+    "post-pentecost/11/2": {
+      "primary": "alma-culpada-diante-juiz-divino"
+    },
+    "post-pentecost/11/3": {
+      "primary": "pena-dano-que-reprobos-sofrem-inferno"
+    },
+    "post-pentecost/11/4": {
+      "primary": "missa-um-sacrificio-agradecimento-proporcionado-divina-beneficencia"
+    },
+    "post-pentecost/11/5": {
+      "primary": "humilhacoes-desprezos-jesus-cristo-sofreu"
+    },
+    "post-pentecost/11/6": {
+      "primary": "maria-santissima-modelo-humildade"
+    },
+    "post-pentecost/12/0": {
+      "primary": "milagre-surdo-mudo-espiritualmente-mudos"
+    },
+    "post-pentecost/12/1": {
+      "primary": "nao-se-perdoa-todos-igual-numero-pecados"
+    },
+    "post-pentecost/12/2": {
+      "primary": "pensamento-morte-faz-perder-apego-bens-mundo"
+    },
+    "post-pentecost/12/3": {
+      "primary": "bens-ceu-sao-inefaveis"
+    },
+    "post-pentecost/12/4": {
+      "primary": "santissima-eucaristia-fornalha-amor"
+    },
+    "post-pentecost/12/5": {
+      "primary": "grandes-penas-jesus-sobre-cruz"
+    },
+    "post-pentecost/12/6": {
+      "primary": "grandezas-inefaveis-maria-santissima"
+    },
+    "post-pentecost/13/0": {
+      "primary": "bom-samaritano-divino-redentor"
+    },
+    "post-pentecost/13/1": {
+      "primary": "necessidade-mansidao-humildade-religioso"
+    },
+    "post-pentecost/13/2": {
+      "primary": "angustias-alma-descuidada-hora-morte"
+    },
+    "post-pentecost/13/3": {
+      "primary": "bem-aventurado-daquele-conserva-fiel-deus-adversidade"
+    },
+    "post-pentecost/13/4": {
+      "primary": "jesus-santissimo-sacramento-nao-deseja-senao-dispensar-gracas"
+    },
+    "post-pentecost/13/5": {
+      "primary": "prisao-jesus-mas-ocasioes"
+    },
+    "post-pentecost/13/6": {
+      "primary": "devocao-divina-mae"
+    },
+    "post-pentecost/14/0": {
+      "primary": "dez-leprosos-pecado-ingratidao"
+    },
+    "post-pentecost/14/1": {
+      "primary": "nossa-perfeicao-consiste-conformidade-vontade-divina"
+    },
+    "post-pentecost/14/2": {
+      "primary": "grande-mal-desafeto-deus"
+    },
+    "post-pentecost/14/3": {
+      "primary": "ressurreicao-corpos-dia-juizo"
+    },
+    "post-pentecost/14/4": {
+      "primary": "adoradores-jesus-sacramentado"
+    },
+    "post-pentecost/14/5": {
+      "primary": "coracao-aflito-jesus-consolado-pelo-zelo-almas"
+    },
+    "post-pentecost/14/6": {
+      "primary": "maria-santissima-alcanca-perseveranca-para-seus-devotos"
+    },
+    "post-pentecost/15/0": {
+      "primary": "dois-senhores-e-as-almas-tibias"
+    },
+    "post-pentecost/15/1": {
+      "primary": "da-mortificacao-interior"
+    },
+    "post-pentecost/15/2": {
+      "primary": "cada-momento-nos-aproximamos-morte"
+    },
+    "post-pentecost/15/3": {
+      "primary": "da-eternidade-do-inferno"
+    },
+    "post-pentecost/15/4": {
+      "primary": "jesus-santissimo-sacramento-audiencia-todos-qualquer-hora"
+    },
+    "post-pentecost/15/5": {
+      "primary": "jesus-tratado-como-ultimo-dos-homens"
+    },
+    "post-pentecost/15/6": {
+      "primary": "martirio-maria-santissima-ao-pe-cruz"
+    },
+    "post-pentecost/16/0": {
+      "primary": "moco-naim-lembranca-morte"
+    },
+    "post-pentecost/16/1": {
+      "primary": "do-amor-que-deus-nos-mostrou"
+    },
+    "post-pentecost/16/2": {
+      "primary": "deus-misericordioso-mas-tambem-justo"
+    },
+    "post-pentecost/16/3": {
+      "primary": "felicidade-eterna-ceu"
+    },
+    "post-pentecost/16/4": {
+      "primary": "do-sagrado-viatico"
+    },
+    "post-pentecost/16/5": {
+      "primary": "jesus-homem-de-dores"
+    },
+    "post-pentecost/16/6": {
+      "primary": "maria-santissima-modelo-de-mortificacao"
+    },
+    "post-pentecost/17/0": {
+      "primary": "homem-hidropico-cristao-ambicioso",
+      "secondary": "homem-vicio-impureza"
+    },
+    "post-pentecost/17/1": {
+      "primary": "zelo-salvacao-das-almas-que-devem-ter-religiosos"
+    },
+    "post-pentecost/17/2": {
+      "primary": "devemos-recear-primeiro-novo-pecado-seja-talvez-ultimo"
+    },
+    "post-pentecost/17/3": {
+      "primary": "casa-da-eternidade"
+    },
+    "post-pentecost/17/4": {
+      "primary": "santa-missa-um-meio-eficaz-obtermos-gracas-deus"
+    },
+    "post-pentecost/17/5": {
+      "primary": "vida-desolada-jesus-cristo"
+    },
+    "post-pentecost/17/6": {
+      "primary": "maria-santissima-esperanca-todos"
+    },
+    "post-pentecost/18/0": {
+      "primary": "compendio-lei-preceito-caridade"
+    },
+    "post-pentecost/18/1": {
+      "primary": "desprezo-mundo-pensamento-morte"
+    },
+    "post-pentecost/18/2": {
+      "primary": "vantagens-tentacoes"
+    },
+    "post-pentecost/18/3": {
+      "primary": "morte-continua-inferno"
+    },
+    "post-pentecost/18/4": {
+      "primary": "triunfa-amor"
+    },
+    "post-pentecost/18/5": {
+      "primary": "grande-livro-crucifixo"
+    },
+    "post-pentecost/18/6": {
+      "primary": "maria-santissima-suaviza-morte-dos-seus-devotos"
+    },
+    "post-pentecost/19/0": {
+      "primary": "cura-paralitico-causa-tribulacoes"
+    },
+    "post-pentecost/19/1": {
+      "primary": "do-negocio-da-eterna-salvacao"
+    },
+    "post-pentecost/19/2": {
+      "primary": "vida-retirada"
+    },
+    "post-pentecost/19/3": {
+      "primary": "morte-do-justo-entrada-vida"
+    },
+    "post-pentecost/19/4": {
+      "primary": "da-comunhao-espiritual"
+    },
+    "post-pentecost/19/5": {
+      "primary": "primeira-palavra-jesus-cristo-cruz"
+    },
+    "post-pentecost/19/6": {
+      "primary": "maria-santissima-modelo-vida-solitaria-recolhida"
+    },
+    "post-pentecost/20/0": {
+      "primary": "parabola-banquete-nupcial-igreja-catolica"
+    },
+    "post-pentecost/20/1": {
+      "primary": "amor-solidao"
+    },
+    "post-pentecost/20/2": {
+      "primary": "vida-presente-uma-viagem-para-eternidade"
+    },
+    "post-pentecost/20/3": {
+      "primary": "entrada-da-alma-no-ceu"
+    },
+    "post-pentecost/20/4": {
+      "primary": "jesus-santissimo-sacramento-modelo-virtude"
+    },
+    "post-pentecost/20/5": {
+      "primary": "virtudes-bom-ladrao-segunda-palavra-jesus-na-cruz"
+    },
+    "post-pentecost/20/6": {
+      "primary": "terceira-palavra-jesus-cristo-cruz"
+    },
+    "post-pentecost/21/0": {
+      "primary": "filho-regulo-utilidade-doencas"
+    },
+    "post-pentecost/21/1": {
+      "primary": "da-solidao-coracao"
+    },
+    "post-pentecost/21/2": {
+      "primary": "da-misericordia-de-deus"
+    },
+    "post-pentecost/21/3": {
+      "primary": "perda-salvacao-um-mal-sem-remedio"
+    },
+    "post-pentecost/21/4": {
+      "primary": "jesus-santissimo-sacramento-nosso-bom-pastor"
+    },
+    "post-pentecost/21/5": {
+      "primary": "quarta-palavra-jesus-cristo-cruz"
+    },
+    "post-pentecost/21/6": {
+      "primary": "grandeza-da-misericordia-de-maria-santissima"
+    },
+    "post-pentecost/22/0": {
+      "primary": "servo-desumano-perdao-injurias"
+    },
+    "post-pentecost/22/1": {
+      "primary": "pecador-desonra-deus"
+    },
+    "post-pentecost/22/2": {
+      "primary": "fins-oracao-mental"
+    },
+    "post-pentecost/22/3": {
+      "primary": "grande-segredo-morte"
+    },
+    "post-pentecost/22/4": {
+      "primary": "felicidade-religiosos-morarem-junto-jesus-santissimo-sacramento"
+    },
+    "post-pentecost/22/5": {
+      "primary": "quinta-palavra-jesus-cristo-cruz"
+    },
+    "post-pentecost/22/6": {
+      "primary": "necessidade-temos-intercessao-maria-santissima-nossa-salvacao"
+    },
+    "post-pentecost/23/0": {
+      "primary": "tributo-cesar-obrigacao-amar-deus"
+    },
+    "post-pentecost/23/1": {
+      "primary": "remorso-condenado-por-causa-bem-perdeu"
+    },
+    "post-pentecost/23/2": {
+      "primary": "em-que-consiste-felicidade-bem-aventurados-ceu"
+    },
+    "post-pentecost/23/3": {
+      "primary": "para-salvacao-necessario-sacrificio-vontade-propria"
+    },
+    "post-pentecost/23/4": {
+      "primary": "o-que-tenha-fazer-alma-presenca-jesus-santissimo-sacramento"
+    },
+    "post-pentecost/23/5": {
+      "primary": "sexta-palavra-jesus-cristo-cruz"
+    },
+    "post-pentecost/23/6": {
+      "primary": "maria-santissima-modelo-oracao"
+    },
+    "post-pentecost/24/0": {
+      "primary": "filha-jairo-hemorroissa-alma-pecadora"
+    },
+    "post-pentecost/24/1": {
+      "primary": "das-penas-inferno"
+    },
+    "post-pentecost/24/2": {
+      "primary": "necessidade-da-oracao"
+    },
+    "post-pentecost/24/3": {
+      "primary": "obrigacao-temos-socorrer-almas-purgatorio"
+    },
+    "post-pentecost/24/4": {
+      "primary": "amor-jesus-instituicao-santissimo-sacramento-antes-ir-morrer"
+    },
+    "post-pentecost/24/5": {
+      "primary": "setima-palavra-jesus-cristo-cruz"
+    },
+    "post-pentecost/24/6": {
+      "primary": "devocao-sao-joaquim-santa-ana-pais-maria-santissima"
+    },
+    "epiphany-leftover/3/0": {
+      "primary": "virtudes-praticadas-pelo-leproso-pelo-centuriao"
+    },
+    "epiphany-leftover/3/1": {
+      "primary": "misericordia-deus-acolher-pecadores-arrependidos"
+    },
+    "epiphany-leftover/3/2": {
+      "primary": "gloria-poder-leito-morte"
+    },
+    "epiphany-leftover/3/3": {
+      "primary": "so-em-deus-se-acha-verdadeira-felicidade"
+    },
+    "epiphany-leftover/3/4": {
+      "primary": "excelencia-santissima-eucaristia"
+    },
+    "epiphany-leftover/3/5": {
+      "primary": "suspiros-amor-pe-crucifixo"
+    },
+    "epiphany-leftover/3/6": {
+      "primary": "pratica-da-devocao-maria-santissima"
+    },
+    "epiphany-leftover/4/0": {
+      "primary": "barca-tempestade-grande-meio-para-nao-naufragar"
+    },
+    "epiphany-leftover/4/1": {
+      "primary": "loucura-dos-pecadores"
+    },
+    "epiphany-leftover/4/2": {
+      "primary": "preciso-estarmos-sempre-prontos-para-morrer"
+    },
+    "epiphany-leftover/4/3": {
+      "primary": "o-que-faz-reprobo-inferno"
+    },
+    "epiphany-leftover/4/4": {
+      "primary": "jesus-santissimo-sacramento-espera-nos-com-extrema-misericordia"
+    },
+    "epiphany-leftover/4/5": {
+      "primary": "frutos-que-produz-meditacao-jesus-crucificado"
+    },
+    "epiphany-leftover/4/6": {
+      "primary": "confianca-patrocinio-maria-santissima"
+    },
+    "epiphany-leftover/5/0": {
+      "primary": "parabola-joio-igreja-catolica"
+    },
+    "epiphany-leftover/5/1": {
+      "primary": "noticia-morte"
+    },
+    "epiphany-leftover/5/2": {
+      "primary": "das-securas-espirituais"
+    },
+    "epiphany-leftover/5/3": {
+      "primary": "desespero-dos-reprobos-no-inferno"
+    },
+    "epiphany-leftover/5/4": {
+      "primary": "santissima-eucaristia-nossa-forca-contra-nossos-inimigos"
+    },
+    "epiphany-leftover/5/5": {
+      "primary": "das-ignominias-jesus-cristo-sofreu-sua-paixao"
+    },
+    "epiphany-leftover/5/6": {
+      "primary": "maria-santissima-livra-os-seus-devotos-do-inferno"
+    },
+    "epiphany-leftover/6/0": {
+      "primary": "grao-mostarda-igreja-catolica"
+    },
+    "epiphany-leftover/6/1": {
+      "primary": "da-perfeita-resignacao-vontade-divina"
+    },
+    "epiphany-leftover/6/2": {
+      "primary": "salvacao-nosso-unico-negocio"
+    },
+    "epiphany-leftover/6/3": {
+      "primary": "para-nos-prepararmos-para-morte-nao-devemos-esperar-pelo-ultimo-momento"
+    },
+    "epiphany-leftover/6/4": {
+      "primary": "jesus-santissimo-sacramento-nosso-consolador"
+    },
+    "epiphany-leftover/6/5": {
+      "primary": "amor-excessivo-jesus-cristo-para-com-homens"
+    },
+    "epiphany-leftover/6/6": {
+      "primary": "maria-santissima-socorre-seus-devotos-purgatorio"
+    },
+    "post-pentecost/25/0": {
+      "primary": "fim-mundo-procedimento-bons-catolicos-tempo-perseguicao"
+    },
+    "post-pentecost/25/1": {
+      "primary": "em-que-coisas-nos-devemos-conformar-vontade-divina"
+    },
+    "post-pentecost/25/2": {
+      "primary": "na-morte-tudo-acaba"
+    },
+    "post-pentecost/25/3": {
+      "primary": "pena-perda-deus-que-faz-inferno"
+    },
+    "post-pentecost/25/4": {
+      "primary": "da-assistencia-a-santa-missa"
+    },
+    "post-pentecost/25/5": {
+      "primary": "paixao-jesus-cristo-nossa-consolacao"
+    },
+    "post-pentecost/25/6": {
+      "primary": "maria-santissima-conduz-seus-servos-paraiso"
+    }
+  },
+  "fixedDates": {
+    "12-16": {
+      "primary": "novena-natal-primeiro-dia"
+    },
+    "12-17": {
+      "primary": "novena-natal-segundo-dia"
+    },
+    "12-18": {
+      "primary": "novena-natal-terceiro-dia"
+    },
+    "12-19": {
+      "primary": "novena-natal-quarto-dia"
+    },
+    "12-20": {
+      "primary": "novena-natal-quinto-dia"
+    },
+    "12-21": {
+      "primary": "novena-natal-sexto-dia"
+    },
+    "12-22": {
+      "primary": "novena-natal-setimo-dia"
+    },
+    "12-23": {
+      "primary": "novena-natal-oitavo-dia"
+    },
+    "12-24": {
+      "primary": "novena-natal-nono-dia"
+    },
+    "12-25": {
+      "primary": "natividade-nosso-senhor-jesus-cristo"
+    },
+    "12-26": {
+      "primary": "festa-de-santo-estevao-protomartir",
+      "secondary": "visita-gruta-belem"
+    },
+    "12-27": {
+      "primary": "festa-sao-joao-evangelista",
+      "secondary": "oferecimento-coracao-jesus-menino"
+    },
+    "12-28": {
+      "primary": "festa-santos-inocentes",
+      "secondary": "felicidade-nasceu-depois-redencao-igreja-catolica"
+    },
+    "12-29": {
+      "primary": "alegria-trazida-mundo-nascimento-jesus-cristo"
+    },
+    "12-30": {
+      "primary": "vida-tribulacoes-jesus-cristo-desde-nascimento"
+    },
+    "12-31": {
+      "primary": "devemos-aproveitar-o-tempo",
+      "secondary": "jesus-cristo-tem-feito-e-padecido-tudo-por-nosso-amor"
+    },
+    "01-01": {
+      "primary": "circuncisao-jesus-sacramento-batismo"
+    },
+    "01-02": {
+      "primary": "porque-jesus-quis-nascer-crianca"
+    },
+    "01-03": {
+      "primary": "jesus-envolto-faixas"
+    },
+    "01-04": {
+      "primary": "jesus-alimentado"
+    },
+    "01-05": {
+      "primary": "sono-jesus-menino"
+    },
+    "01-06": {
+      "primary": "epifania-nosso-senhor-jesus-cristo"
+    },
+    "01-07": {
+      "primary": "jesus-chora"
+    },
+    "01-08": {
+      "primary": "da-vida-humilde-desprezada-jesus-levou-desde-meninice"
+    },
+    "01-09": {
+      "primary": "misericordia-deus-baixar-ceu-nos-salvar-sua-morte"
+    },
+    "01-10": {
+      "primary": "vida-pobre-jesus-comecou-levar-desde-seu-nascimento"
+    }
+  },
+  "feasts": {
+    "01-29": {
+      "primary": "festa-sao-francisco-sales"
+    },
+    "02-02": {
+      "primary": "festa-purificacao-maria-apresentacao-jesus"
+    },
+    "03-07": {
+      "primary": "festa-santo-tomas-aquino"
+    },
+    "03-15": {
+      "primary": "festa-sao-clemente-maria-hofbauer"
+    },
+    "03-19": {
+      "primary": "festa-sao-jose-esposo-virgem-maria"
+    },
+    "03-21": {
+      "primary": "festa-de-sao-bento-abade"
+    },
+    "03-25": {
+      "primary": "festa-anunciacao-maria-santissima"
+    },
+    "04-26": {
+      "primary": "festa-de-nossa-senhora-do-bom-conselho"
+    },
+    "04-30": {
+      "primary": "motivos-para-celebrar-o-mes-de-maria"
+    },
+    "05-01": {
+      "primary": "festa-dos-apostolos-sao-filipe-e-sao-tiago"
+    },
+    "05-06": {
+      "primary": "festa-de-sao-joao-ante-a-porta-latina"
+    },
+    "05-26": {
+      "primary": "festa-de-sao-filipe-neri"
+    },
+    "05-31": {
+      "primary": "oferecimento-do-coracao-a-maria-santissima"
+    },
+    "06-01": {
+      "primary": "sobre-a-devocao-ao-sagrado-coracao-de-jesus"
+    },
+    "06-21": {
+      "primary": "festa-de-sao-luiz-gonzaga"
+    },
+    "movable/sunday-before-jun-24": {
+      "primary": "festa-de-nossa-senhora-do-perpetuo-socorro"
+    },
+    "06-24": {
+      "primary": "festa-de-sao-joao-batista-3"
+    },
+    "07-01": {
+      "primary": "festa-do-preciosissimo-sangue-de-nosso-senhor-jesus-cristo"
+    },
+    "07-02": {
+      "primary": "festa-da-visitacao-de-nossa-senhora"
+    },
+    "07-16": {
+      "primary": "festa-de-nossa-senhora-do-carmo"
+    },
+    "movable/3rd-sunday-july": {
+      "primary": "solenidade-do-santissimo-redentor"
+    },
+    "07-19": {
+      "primary": "festa-de-sao-vicente-de-paulo"
+    },
+    "07-22": {
+      "primary": "festa-de-santa-maria-madalena-penitente"
+    },
+    "07-25": {
+      "primary": "festa-de-sao-tiago-maior-apostolo"
+    },
+    "07-26": {
+      "primary": "festa-de-santa-ana-mae-de-maria-santissima"
+    },
+    "07-31": {
+      "primary": "festa-de-santo-inacio-de-loyola"
+    },
+    "08-02": {
+      "primary": "festa-santo-afonso-ligorio"
+    },
+    "08-07": {
+      "primary": "festa-de-sao-caetano"
+    },
+    "08-15": {
+      "primary": "festa-da-assuncao-de-maria-santissima"
+    },
+    "08-16": {
+      "primary": "festa-de-sao-joaquim-pai-de-maria-santissima"
+    },
+    "08-24": {
+      "primary": "festa-de-sao-bartolomeu-apostolo"
+    },
+    "09-08": {
+      "primary": "festa-da-natividade-de-maria-santissima"
+    },
+    "09-12": {
+      "primary": "festa-do-santissimo-nome-de-maria"
+    },
+    "09-14": {
+      "primary": "festa-da-exaltacao-da-santa-cruz-de-nosso-senhor-jesus-cristo"
+    },
+    "09-15": {
+      "primary": "festa-das-dores-de-maria-santissima"
+    },
+    "09-21": {
+      "primary": "festa-de-sao-mateus-apostolo"
+    },
+    "09-29": {
+      "primary": "festa-do-arcanjo-sao-miguel"
+    },
+    "10-02": {
+      "primary": "festa-dos-santos-anjos-da-guarda"
+    },
+    "10-04": {
+      "primary": "festa-de-sao-francisco-de-assis"
+    },
+    "10-07": {
+      "primary": "solenidade-do-santissimo-rosario"
+    },
+    "10-15": {
+      "primary": "festa-de-santa-teresa-de-jesus"
+    },
+    "10-28": {
+      "primary": "festa-dos-apostolos-sao-simao-e-sao-tadeu"
+    },
+    "11-01": {
+      "primary": "festa-de-todos-os-santos-2",
+      "secondary": "suspiros-pela-patria-celeste"
+    },
+    "11-02": {
+      "primary": "comemoracao-de-todos-os-fieis-defuntos"
+    },
+    "11-08": {
+      "primary": "festa-de-santo-estanislau-kostka"
+    },
+    "11-21": {
+      "primary": "festa-da-apresentacao-de-maria-santissima"
+    },
+    "11-30": {
+      "primary": "festa-do-apostolo-santo-andre"
+    },
+    "12-06": {
+      "primary": "06-de-dezembro-festa-de-sao-nicolau-bispo"
+    },
+    "12-08": {
+      "primary": "08-de-dezembro-festa-da-imaculada-conceicao-de-maria"
+    },
+    "12-21": {
+      "primary": "21-de-dezembro-festa-do-apostolo-sao-tome"
+    }
+  },
+  "novenas": {
+    "christmas/1": {
+      "primary": "novena-natal-primeiro-dia"
+    },
+    "christmas/2": {
+      "primary": "novena-natal-segundo-dia"
+    },
+    "christmas/3": {
+      "primary": "novena-natal-terceiro-dia"
+    },
+    "christmas/4": {
+      "primary": "novena-natal-quarto-dia"
+    },
+    "christmas/5": {
+      "primary": "novena-natal-quinto-dia"
+    },
+    "christmas/6": {
+      "primary": "novena-natal-sexto-dia"
+    },
+    "christmas/7": {
+      "primary": "novena-natal-setimo-dia"
+    },
+    "christmas/8": {
+      "primary": "novena-natal-oitavo-dia"
+    },
+    "christmas/9": {
+      "primary": "novena-natal-nono-dia"
+    },
+    "holy-spirit/1": {
+      "primary": "amor-um-fogo-abrasa"
+    },
+    "holy-spirit/2": {
+      "primary": "amor-uma-luz-esclarece"
+    },
+    "holy-spirit/3": {
+      "primary": "amor-uma-agua-apaga-sede"
+    },
+    "holy-spirit/4": {
+      "primary": "amor-um-orvalho-que-fertiliza"
+    },
+    "holy-spirit/5": {
+      "primary": "amor-um-repouso-que-restaura-forcas"
+    },
+    "holy-spirit/6": {
+      "primary": "amor-uma-virtude-que-fortifica"
+    },
+    "holy-spirit/7": {
+      "primary": "pelo-amor-alma-torna-se-morada-deus"
+    },
+    "holy-spirit/8": {
+      "primary": "amor-um-vinculo"
+    },
+    "holy-spirit/9": {
+      "primary": "amor-tesouro-encerra-todos-bens"
+    },
+    "sacred-heart/1": {
+      "primary": "coracao-amavel-de-jesus"
+    },
+    "sacred-heart/2": {
+      "primary": "solenidade-corpo-deus"
+    },
+    "sacred-heart/3": {
+      "primary": "coracao-amante-de-jesus"
+    },
+    "sacred-heart/4": {
+      "primary": "coracao-jesus-suspirando-amado"
+    },
+    "sacred-heart/5": {
+      "primary": "coracao-aflito-jesus"
+    },
+    "sacred-heart/6": {
+      "primary": "coracao-misericordioso-de-jesus"
+    },
+    "sacred-heart/7": {
+      "primary": "liberalidade-coracao-jesus"
+    },
+    "sacred-heart/8": {
+      "primary": "coracao-agradecido-jesus"
+    },
+    "sacred-heart/9": {
+      "primary": "coracao-jesus-desprezado"
+    }
+  },
+  "appendix": {
+    "first-friday/1": {
+      "primary": "devocao-ao-sagrado-coracao-seta-reservada"
+    },
+    "first-friday/2": {
+      "primary": "recompensa-devocao-sagrado-coracao-perseveranca"
+    },
+    "first-friday/3": {
+      "primary": "meio-unirmos-sagrado-coracao-boa-intencao"
+    },
+    "first-friday/4": {
+      "primary": "o-sagrado-coracao-reservatorio-de-gracas"
+    },
+    "first-friday/5": {
+      "primary": "o-coracao-de-jesus-vitima-voluntaria"
+    },
+    "first-friday/6": {
+      "primary": "apostolado-perpetuo-do-coracao-de-jesus"
+    },
+    "first-friday/7": {
+      "primary": "coracao-jesus-modelo-humildade"
+    },
+    "first-friday/8": {
+      "primary": "o-coracao-de-jesus-modelo-de-mansidao"
+    },
+    "first-friday/9": {
+      "primary": "o-coracao-de-jesus-amigo-das-almas-castas"
+    },
+    "first-friday/10": {
+      "primary": "o-coracao-de-jesus-centro-dos-coracoes"
+    },
+    "first-friday/11": {
+      "primary": "o-coracao-de-jesus-modelo-de-conformidade-com-a-vontade-de-deus"
+    },
+    "first-friday/12": {
+      "primary": "o-coracao-de-jesus-modelo-de-fidelidade"
+    },
+    "25th-of-month/1": {
+      "primary": "necessidade-da-fe-para-contemplar-com-fruto-o-misterio-da-encarnacao"
+    },
+    "25th-of-month/2": {
+      "primary": "motivos-para-esperar-em-jesus-cristo"
+    },
+    "25th-of-month/3": {
+      "primary": "festa-anunciacao-maria-santissima-2"
+    },
+    "25th-of-month/4": {
+      "primary": "jesus-o-medico-das-nossas-almas"
+    },
+    "25th-of-month/5": {
+      "primary": "pobreza-do-menino-jesus"
+    },
+    "25th-of-month/6": {
+      "primary": "o-filho-de-deus-tomou-sobre-si-as-nossas-iniquidades"
+    },
+    "25th-of-month/7": {
+      "primary": "jesus-modelo-de-obediencia"
+    },
+    "25th-of-month/8": {
+      "primary": "sublimidade-do-misterio-da-encarnacao"
+    },
+    "25th-of-month/9": {
+      "primary": "o-menino-jesus-sobre-as-palhas-ensina-nos-mortificacao"
+    },
+    "25th-of-month/10": {
+      "primary": "solidao-de-jesus-na-gruta-de-belem"
+    },
+    "25th-of-month/11": {
+      "primary": "das-ocupacoes-do-menino-jesus-na-gruta-de-belem"
+    },
+    "march-wednesday/1": {
+      "primary": "da-viagem-de-sao-jose-e-maria-santissima-a-belem-onde-nasceu-jesus"
+    },
+    "march-wednesday/2": {
+      "primary": "fuga-para-o-egito-2"
+    },
+    "march-wednesday/3": {
+      "primary": "da-volta-do-egito-e-da-perda-de-jesus-no-templo"
+    },
+    "march-wednesday/4": {
+      "primary": "da-dignidade-sao-jose-esposo-virgem-maria-2"
+    },
+    "march-wednesday/5": {
+      "primary": "gloria-sao-jose-esposo-virgem-maria-2"
+    },
+    "virtue/1": {
+      "primary": "santo-afonso-modelo-de-fe-viva"
+    },
+    "virtue/2": {
+      "primary": "santo-afonso-modelo-de-firme-confianca"
+    },
+    "virtue/3": {
+      "primary": "santo-afonso-modelo-de-amor-a-deus"
+    },
+    "virtue/4": {
+      "primary": "santo-afonso-modelo-de-amor-para-com-o-proximo"
+    },
+    "virtue/5": {
+      "primary": "santo-afonso-modelo-de-pobreza-evangelica"
+    },
+    "virtue/6": {
+      "primary": "santo-afonso-modelo-de-castidade"
+    },
+    "virtue/7": {
+      "primary": "santo-afonso-modelo-de-obediencia"
+    },
+    "virtue/8": {
+      "primary": "santo-afonso-modelo-de-mansidao-e-de-humildade"
+    },
+    "virtue/9": {
+      "primary": "santo-afonso-modelo-de-mortificacao"
+    },
+    "virtue/10": {
+      "primary": "santo-afonso-modelo-de-paciencia-e-de-amor-a-cruz"
+    },
+    "virtue/11": {
+      "primary": "santo-afonso-modelo-de-oracao"
+    },
+    "virtue/12": {
+      "primary": "santo-afonso-modelo-de-paciencia-e-de-amor-a-cruz-2"
+    }
+  },
+  "reserves": [
+    "jesus-nasce-menino",
+    "da-vida-oculta-de-jesus-no-santissimo-sacramento",
+    "da-oracao-dominical",
+    "continuacao-da-explicacao-da-oracao-dominical",
+    "formosura-de-maria-santissima",
+    "do-grande-mal-que-fazem-os-que-ocultam-os-pecados-na-confissao",
+    "da-fugida-das-ocasioes",
+    "tormentos-interiores-do-pecador",
+    "a-morte-e-para-o-justo-o-fim-de-perigos",
+    "do-amor-a-deus",
+    "estada-amorosa-de-jesus-no-santissimo-sacramento",
+    "maria-santissima-e-cheia-de-graca",
+    "deus-deve-ser-o-nosso-unico-fim",
+    "a-misericordia-de-deus-e-as-ilusoes-do-pecador",
+    "do-grande-meio-para-vencer-as-tentacoes",
+    "magoas-tardias-da-alma-negligente-na-hora-da-morte",
+    "quem-ama-a-deus-nao-deve-temer-a-morte",
+    "o-justo-morre-numa-paz-dulcissima",
+    "meios-para-se-preparar-para-a-morte",
+    "protestacao-para-a-boa-morte",
+    "meios-para-conservar-a-graca-de-deus",
+    "das-enfermidades"
+  ]
+}

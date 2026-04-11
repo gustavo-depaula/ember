@@ -14,6 +14,7 @@ export type {
   LocalizedContent,
   LocalizedText,
   RenderedSection,
+  ResolvedProse,
   Variant,
   VariantEntry,
 } from './types'

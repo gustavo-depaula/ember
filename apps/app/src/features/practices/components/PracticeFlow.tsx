@@ -39,6 +39,8 @@ import {
   useCursorsForPractice,
   usePsalmsForHour,
 } from '@/features/divine-office'
+import { useToday } from '@/hooks/useToday'
+import { useLiturgicalMeditation } from '@/features/practices/hooks/useLiturgicalMeditation'
 import {
   useHandleProgramCompletion,
   useLogCompletion,
@@ -159,7 +161,7 @@ export function PracticeFlow({
     return getDefaultVariant(practiceId)
   }, [practiceId, manifest, selectedVariantId])
 
-  const now = useMemo(() => new Date(), [])
+  const now = useToday()
 
   // Dynamic context for cycle/lectio sections
   const translation = usePreferencesStore((s) => s.translation)
@@ -194,6 +196,12 @@ export function PracticeFlow({
     return state
   }, [cursorRows])
 
+  const {
+    templateVars: liturgicalTemplateVars,
+    resolvedProse: liturgicalProse,
+    isLoading: liturgicalLoading,
+  } = useLiturgicalMeditation(practiceId, now, cycleData)
+
   // biome-ignore lint/correctness/useExhaustiveDependencies: contentLanguage and secondaryLanguage are read inside createEngineContext() — listed here to trigger recomputation
   const sections = useMemo(() => {
     if (!flow) return []
@@ -207,6 +215,8 @@ export function PracticeFlow({
       cycleData,
       setKeyOverride: activeFlowId,
       programDay,
+      templateVars: liturgicalTemplateVars,
+      resolvedProse: liturgicalProse,
     }
     return resolveFlow(flow, context, createEngineContext(getLibraryIdForPractice(practiceId)))
   }, [
@@ -222,6 +232,8 @@ export function PracticeFlow({
     programDay,
     contentLanguage,
     secondaryLanguage,
+    liturgicalTemplateVars,
+    liturgicalProse,
   ])
 
   // Load dynamic content (psalms, Bible readings, CCC)
@@ -267,7 +279,7 @@ export function PracticeFlow({
 
   const hasDynamicContent = psalmRefs.length > 0 || bibleKeys.length > 0 || cccKeys.length > 0
   const isDynamicLoading =
-    hasDynamicContent && (psalmResult.isLoading || bibleLoading || cccLoading)
+    liturgicalLoading || (hasDynamicContent && (psalmResult.isLoading || bibleLoading || cccLoading))
 
   const practiceName = manifest ? localizeContent(manifest.name) : practiceId
   const formattedDate = formatLocalized(now, 'EEEE, MMMM d, yyyy')
@@ -321,7 +333,7 @@ export function PracticeFlow({
           }
           if (manifest?.program) {
             const isFinalDay =
-              programProgress && programProgress.programDay + 1 >= manifest.program.totalDays
+              programProgress && programProgress.completionCount + 1 >= manifest.program.totalDays
             if (isFinalDay) {
               await handleProgramCompletion.mutateAsync({
                 practiceId,
