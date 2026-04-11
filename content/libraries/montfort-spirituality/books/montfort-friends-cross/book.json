@@ -1,32 +1,47 @@
 {
   "id": "montfort-friends-cross",
   "name": {
-    "fr-FR": "Lettre Circulaire aux Amis de la Croix"
+    "fr-FR": "Lettre Circulaire aux Amis de la Croix",
+    "en-US": "Letter to the Friends of the Cross"
   },
   "author": {
-    "fr-FR": "Saint Louis-Marie Grignion de Montfort"
+    "fr-FR": "Saint Louis-Marie Grignion de Montfort",
+    "en-US": "St. Louis-Marie Grignion de Montfort"
   },
   "description": {
-    "fr-FR": "Lettre d'exhortation spirituelle adressée aux membres de la confrérie des Amis de la Croix, sur l'excellence et la pratique de la souffrance chrétienne."
+    "fr-FR": "Lettre d'exhortation spirituelle adressée aux membres de la confrérie des Amis de la Croix, sur l'excellence et la pratique de la souffrance chrétienne.",
+    "en-US": "A letter of spiritual exhortation addressed to the members of the confraternity of the Friends of the Cross, on the excellence and practice of Christian suffering."
   },
   "composed": 1714,
-  "languages": ["fr-FR"],
+  "languages": ["fr-FR", "en-US"],
   "toc": [
     {
       "id": "excellence",
-      "title": { "fr-FR": "Excellence de l'union des Amis de la Croix" }
+      "title": {
+        "fr-FR": "Excellence de l'union des Amis de la Croix",
+        "en-US": "The Excellence of the Union of the Friends of the Cross"
+      }
     },
     {
       "id": "perfection",
-      "title": { "fr-FR": "Pratiques de la perfection chrétienne" }
+      "title": {
+        "fr-FR": "Pratiques de la perfection chrétienne",
+        "en-US": "The Practices of Christian Perfection"
+      }
     },
     {
       "id": "quatorze-regles",
-      "title": { "fr-FR": "Les quatorze règles" }
+      "title": {
+        "fr-FR": "Les quatorze règles",
+        "en-US": "The Fourteen Rules"
+      }
     },
     {
       "id": "stimulants",
-      "title": { "fr-FR": "Les quatre stimulants de la bonne souffrance" }
+      "title": {
+        "fr-FR": "Les quatre stimulants de la bonne souffrance",
+        "en-US": "The Four Incentives to Suffering Well"
+      }
     }
   ]
 }

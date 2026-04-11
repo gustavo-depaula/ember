@@ -1,69 +1,81 @@
 {
   "id": "montfort-secret-rosary",
   "name": {
-    "fr-FR": "Le Secret Admirable du Très Saint Rosaire"
+    "fr-FR": "Le Secret Admirable du Très Saint Rosaire",
+    "en-US": "The Secret of the Rosary"
   },
   "author": {
-    "fr-FR": "Saint Louis-Marie Grignion de Montfort"
+    "fr-FR": "Saint Louis-Marie Grignion de Montfort",
+    "en-US": "St. Louis-Marie Grignion de Montfort"
   },
   "description": {
-    "fr-FR": "Guide spirituel sur la pratique du saint Rosaire, ses mystères et ses fruits, adressé aux prêtres, pécheurs, âmes dévotes et enfants."
+    "fr-FR": "Guide spirituel sur la pratique du saint Rosaire, ses mystères et ses fruits, adressé aux prêtres, pécheurs, âmes dévotes et enfants.",
+    "en-US": "A spiritual guide on the practice of the holy Rosary, its mysteries and its fruits, addressed to priests, sinners, devout souls, and children."
   },
   "composed": 1710,
-  "languages": ["fr-FR"],
+  "languages": ["fr-FR", "en-US"],
   "toc": [
     {
       "id": "rose-blanche",
       "title": {
-        "fr-FR": "Rose Blanche — Aux prêtres et prédicateurs"
+        "fr-FR": "Rose Blanche — Aux prêtres et prédicateurs",
+        "en-US": "White Rose — To Priests and Preachers"
       }
     },
     {
       "id": "rose-rouge",
       "title": {
-        "fr-FR": "Rose Rouge — Aux pécheurs"
+        "fr-FR": "Rose Rouge — Aux pécheurs",
+        "en-US": "Red Rose — To Sinners"
       }
     },
     {
       "id": "rosier-mystique",
       "title": {
-        "fr-FR": "Rosier Mystique — Aux âmes dévotes"
+        "fr-FR": "Rosier Mystique — Aux âmes dévotes",
+        "en-US": "Mystical Rose Bush — To Devout Souls"
       }
     },
     {
       "id": "bouton-de-rose",
       "title": {
-        "fr-FR": "Bouton de Rose — Aux enfants"
+        "fr-FR": "Bouton de Rose — Aux enfants",
+        "en-US": "Rosebud — To Children"
       }
     },
     {
       "id": "dizaine-1",
       "title": {
-        "fr-FR": "Première Dizaine — L'excellence du saint Rosaire dans son origine et son nom"
+        "fr-FR": "Première Dizaine — L'excellence du saint Rosaire dans son origine et son nom",
+        "en-US": "First Decade — The Excellence of the Holy Rosary in Its Origin and Name"
       }
     },
     {
       "id": "dizaine-2",
       "title": {
-        "fr-FR": "Deuxième Dizaine — L'excellence du saint Rosaire dans les prières dont il est composé"
+        "fr-FR": "Deuxième Dizaine — L'excellence du saint Rosaire dans les prières dont il est composé",
+        "en-US": "Second Decade — The Excellence of the Holy Rosary in the Prayers of Which It Is Composed"
       }
     },
     {
       "id": "dizaine-3",
       "title": {
-        "fr-FR": "Troisième Dizaine — Excellence du saint Rosaire dans la méditation de la vie et de la Passion de Notre-Seigneur Jésus-Christ"
+        "fr-FR": "Troisième Dizaine — Excellence du saint Rosaire dans la méditation de la vie et de la Passion de Notre-Seigneur Jésus-Christ",
+        "en-US": "Third Decade — The Excellence of the Holy Rosary in the Meditation on the Life and Passion of Our Lord Jesus Christ"
       }
     },
     {
       "id": "dizaine-4",
       "title": {
-        "fr-FR": "Quatrième Dizaine — L'excellence du saint Rosaire dans les merveilles que Dieu a opérées en sa faveur"
+        "fr-FR": "Quatrième Dizaine — L'excellence du saint Rosaire dans les merveilles que Dieu a opérées en sa faveur",
+        "en-US": "Fourth Decade — The Excellence of the Holy Rosary in the Wonders God Has Worked in Its Favor"
       }
     },
     {
       "id": "dizaine-5",
       "title": {
-        "fr-FR": "Cinquième Dizaine — La manière sainte de réciter le Rosaire"
+        "fr-FR": "Cinquième Dizaine — La manière sainte de réciter le Rosaire",
+        "en-US": "Fifth Decade — The Holy Manner of Reciting the Rosary"
       }
     }
   ]

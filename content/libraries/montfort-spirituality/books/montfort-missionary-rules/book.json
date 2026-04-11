@@ -1,23 +1,68 @@
 {
   "id": "montfort-missionary-rules",
   "name": {
-    "fr-FR": "Règles des Prêtres Missionnaires de la Compagnie de Marie"
+    "fr-FR": "Règles des Prêtres Missionnaires de la Compagnie de Marie",
+    "en-US": "Rules of the Missionary Priests of the Company of Mary"
   },
   "author": {
-    "fr-FR": "Saint Louis-Marie Grignion de Montfort"
+    "fr-FR": "Saint Louis-Marie Grignion de Montfort",
+    "en-US": "St. Louis-Marie Grignion de Montfort"
   },
   "description": {
-    "fr-FR": "Règle de vie pour les prêtres missionnaires de la Compagnie de Marie, couvrant leur vocation, pauvreté, obéissance, piété, et pratiques de mission."
+    "fr-FR": "Règle de vie pour les prêtres missionnaires de la Compagnie de Marie, couvrant leur vocation, pauvreté, obéissance, piété, et pratiques de mission.",
+    "en-US": "Rule of life for the missionary priests of the Company of Mary, covering their vocation, poverty, obedience, piety, and mission practices."
   },
   "composed": 1713,
-  "languages": ["fr-FR"],
+  "languages": ["fr-FR", "en-US"],
   "toc": [
-    { "id": "fin-particuliere", "title": { "fr-FR": "Fin particulière de la Compagnie" } },
-    { "id": "pauvrete", "title": { "fr-FR": "Détachement ou pauvreté évangélique" } },
-    { "id": "obeissance", "title": { "fr-FR": "Obéissance" } },
-    { "id": "oraisons", "title": { "fr-FR": "Oraisons et exercices de piété" } },
-    { "id": "mepris-du-monde", "title": { "fr-FR": "Mépris du monde" } },
-    { "id": "charite", "title": { "fr-FR": "Charité envers le prochain" } },
-    { "id": "pratiques-missions", "title": { "fr-FR": "Pratiques de leurs missions" } }
+    {
+      "id": "fin-particuliere",
+      "title": {
+        "fr-FR": "Fin particulière de la Compagnie",
+        "en-US": "The Particular End of the Company"
+      }
+    },
+    {
+      "id": "pauvrete",
+      "title": {
+        "fr-FR": "Détachement ou pauvreté évangélique",
+        "en-US": "Detachment, or Evangelical Poverty"
+      }
+    },
+    {
+      "id": "obeissance",
+      "title": {
+        "fr-FR": "Obéissance",
+        "en-US": "Obedience"
+      }
+    },
+    {
+      "id": "oraisons",
+      "title": {
+        "fr-FR": "Oraisons et exercices de piété",
+        "en-US": "Prayers and Exercises of Piety"
+      }
+    },
+    {
+      "id": "mepris-du-monde",
+      "title": {
+        "fr-FR": "Mépris du monde",
+        "en-US": "Contempt of the World"
+      }
+    },
+    {
+      "id": "charite",
+      "title": {
+        "fr-FR": "Charité envers le prochain",
+        "en-US": "Charity toward Neighbor"
+      }
+    },
+    {
+      "id": "pratiques-missions",
+      "title": {
+        "fr-FR": "Pratiques de leurs missions",
+        "en-US": "Practices of Their Missions"
+      }
+    }
   ]
 }
