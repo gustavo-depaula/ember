@@ -23,8 +23,8 @@ import {
 import { SectionBlock } from '@/components/SectionBlock'
 import { createEngineContext } from '@/content/engineContext'
 import {
-  getBookIdForPractice,
   getDefaultVariant,
+  getLibraryIdForPractice,
   getManifest,
   loadFlowForSlot,
   loadPerDayFlow,
@@ -208,7 +208,7 @@ export function PracticeFlow({
       setKeyOverride: activeFlowId,
       programDay,
     }
-    return resolveFlow(flow, context, createEngineContext(getBookIdForPractice(practiceId)))
+    return resolveFlow(flow, context, createEngineContext(getLibraryIdForPractice(practiceId)))
   }, [
     flow,
     now,

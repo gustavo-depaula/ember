@@ -474,7 +474,7 @@ export default {
     },
   },
 
-  prayerBooks: {
+  library: {
     title: 'Prayer Books',
     installed: 'Installed',
     available: 'Available',

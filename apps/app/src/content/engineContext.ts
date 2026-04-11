@@ -5,16 +5,16 @@ import { parseTrackEntry } from '@/lib/lectio'
 import { parsePsalmRef } from '@/lib/liturgical'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
-export function createEngineContext(bookId?: string, chapterId?: string): EngineContext {
+export function createEngineContext(libraryId?: string, chapterId?: string): EngineContext {
   const { contentLanguage, secondaryLanguage } = usePreferencesStore.getState()
 
   // Build prayers map with scoped resolution via Proxy
   const prayers = new Proxy({} as Record<string, import('@ember/content-engine').PrayerAsset>, {
     get(_, ref: string) {
-      return resolvePrayer(ref, bookId)
+      return resolvePrayer(ref, libraryId)
     },
     has(_, ref: string) {
-      return resolvePrayer(ref, bookId) !== undefined
+      return resolvePrayer(ref, libraryId) !== undefined
     },
   })
 
@@ -29,14 +29,14 @@ export function createEngineContext(bookId?: string, chapterId?: string): Engine
 
   const prose = new Proxy({} as Record<string, { 'en-US'?: string; 'pt-BR'?: string }>, {
     get(_, filePath: string) {
-      if (!bookId) return undefined
+      if (!libraryId) return undefined
       const key = chapterId ? `${chapterId}/${filePath}` : filePath
-      return getProseText(key, bookId)
+      return getProseText(key, libraryId)
     },
     has(_, filePath: string) {
-      if (!bookId) return false
+      if (!libraryId) return false
       const key = chapterId ? `${chapterId}/${filePath}` : filePath
-      return getProseText(key, bookId) !== undefined
+      return getProseText(key, libraryId) !== undefined
     },
   })
 

@@ -489,7 +489,7 @@ export default {
     },
   },
 
-  prayerBooks: {
+  library: {
     title: 'Devocionários',
     installed: 'Instalados',
     available: 'Disponíveis',
