@@ -9,7 +9,7 @@ import {
   type RegistryEntry,
   removeBook,
   updateBook,
-} from './bookManager'
+} from './libraryManager'
 
 export function useInstalledBooks() {
   return useQuery({
@@ -25,7 +25,7 @@ export function useAvailableBooks() {
   return useQuery({
     queryKey: ['available-books', [...installedIds]],
     queryFn: fetchRegistry,
-    select: (registry) => registry.books.filter((b) => !installedIds.has(b.id)),
+    select: (registry) => registry.libraries.filter((b) => !installedIds.has(b.id)),
   })
 }
 
@@ -81,7 +81,7 @@ export function useBookUpdates() {
       const registry = await fetchRegistry()
       const updates: RegistryEntry[] = []
       for (const book of installed) {
-        const entry = isBookUpdateAvailable(book, registry.books)
+        const entry = isBookUpdateAvailable(book, registry.libraries)
         if (entry) updates.push(entry)
       }
       return updates

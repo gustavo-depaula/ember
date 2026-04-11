@@ -46,7 +46,7 @@ Books are raw `.html` or `.md` chapter files read directly from disk at runtime.
 - **`content/libraries/{libraryId}/books/{bookId}/{lang}/`** — human-editable chapter files (`.html` or `.md`, committed to git)
 - `.md` files are shipped inside `.pray` packages and converted at runtime using `marked` + `marked-footnote`
 
-Books are embedded inside `.pray` packages — the same zip format used for libraries. A single `.pray` can bundle books alongside practices, prayers, and chapters. The `build-books.sh` script copies the CSS and zips everything into the `.pray`.
+Books are embedded inside `.pray` packages — the same zip format used for libraries. A single `.pray` can bundle books alongside practices, prayers, and chapters. The `build-libraries.sh` script copies the CSS and zips everything into the `.pray`.
 
 Libraries that are **pure prayer collections** (no `toc`, only `prayerCollection`) skip the build entirely — their manifests and prayer JSON are used directly at runtime. Mixed libraries package only their prose books.
 
@@ -77,7 +77,7 @@ HTML source (Gutenberg, CCEL, Internet Archive)
   → import-book script (clean HTML, add semantic attributes)
   → chapter files in content/libraries/{libraryId}/books/{bookId}/{lang}/
   → human review, corrections, bilingual alignment
-  → build-books.sh (copy CSS + zip into .pray)
+  → build-libraries.sh (copy CSS + zip into .pray)
   → .pray file with chapter files inside books/{bookId}/
   → WebView renders with CSS column pagination
 ```
@@ -193,7 +193,7 @@ Discovery finds them by convention — practices inside a library folder are aut
 
 ## `.pray` Package Format
 
-A `.pray` file is a zip containing the library's content — books (chapter files), prayers, practices, and metadata. The `build-books.sh` script copies the CSS and zips everything.
+A `.pray` file is a zip containing the library's content — books, chapters, prayers, practices, and metadata. The `build-libraries.sh` script copies the CSS and zips everything.
 
 ### Structure
 
@@ -1369,8 +1369,7 @@ Prayer collection validations (books with `prayerCollection`):
 ### Build command
 
 ```bash
-pnpm build-books                          # Build all books
-pnpm build-books -- --book benedict-rule   # Build one book
+pnpm build:libraries                      # Build all libraries
 ```
 
 ---

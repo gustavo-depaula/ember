@@ -112,7 +112,7 @@ Key principles:
 
 11. **Build:**
     ```bash
-    bash scripts/build-books.sh
+    bash scripts/build-libraries.sh
     ```
     The build script copies the shared CSS into each book's language directories, then zips each library into a `.pray` archive and regenerates `registry.json`.
 
@@ -136,7 +136,7 @@ Key principles:
 |------|----------|---------|
 | Crawl script template | `scripts/crawl-montfort-fr.py` | BS4-based downloader (adapt per source site) |
 | Line extractor | `scripts/extract-lines.sh` | Split `.txt` by line ranges into chapter files |
-| Library builder | `scripts/build-books.sh` | Copies CSS, zips libraries into `.pray` archives, generates `registry.json` |
+| Library builder | `scripts/build-libraries.sh` | Copies CSS, zips libraries into `.pray` archives, generates `registry.json` |
 
 ## Example: What We Did for Montfort
 

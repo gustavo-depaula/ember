@@ -49,7 +49,7 @@ export type RegistryEntry = {
 
 export type Registry = {
   version: number
-  books: RegistryEntry[]
+  libraries: RegistryEntry[]
 }
 
 export type InstalledBook = {
@@ -125,7 +125,7 @@ async function upsertInstalledBook(
 }
 
 export async function fetchRegistry(): Promise<Registry> {
-  return fetchHearth<Registry>('books/registry.json')
+  return fetchHearth<Registry>('libraries/registry.json')
 }
 
 export async function getInstalledBooks(): Promise<InstalledBook[]> {
@@ -247,7 +247,7 @@ export async function checkAndUpdateBooks(): Promise<boolean> {
   let updated = false
 
   for (const book of installed) {
-    const entry = isBookUpdateAvailable(book, registry.books)
+    const entry = isBookUpdateAvailable(book, registry.libraries)
     if (entry) {
       await updateBook(entry)
       updated = true
