@@ -1,6 +1,6 @@
-# Prayer Books
+# Library
 
-Ember's content distribution system. A prayer book is a self-contained package of prayers and practices, distributed as a `.pray` file (zip archive). The app ships with no bundled practices — content downloads from hearth on first launch.
+Ember's content distribution system. A library is a self-contained package of prayers and practices, distributed as a `.pray` file (zip archive). The app ships with no bundled practices — content downloads from hearth on first launch.
 
 > See `docs/features/features-overview.md` for practice content architecture. See `docs/content/salty-book-format.md` for the broader Salty book format (will be updated to align with this spec).
 
@@ -15,7 +15,7 @@ Practices are currently bundled in the app binary via `require.context()`. This 
 - **No sharing** — no way for communities to create and distribute their own prayer collections
 - **No updates without app releases** — fixing a typo in a prayer requires a new app build
 
-Prayer books solve this by packaging content into downloadable, shareable `.pray` files.
+Libraries solve this by packaging content into downloadable, shareable `.pray` files.
 
 ---
 
@@ -24,12 +24,12 @@ Prayer books solve this by packaging content into downloadable, shareable `.pray
 A `.pray` file is a **zip archive** with the `.pray` extension:
 
 ```
-my-book.pray (zip)
-├── book.json                   # Book manifest
-├── assets/                     # Book-level assets
+my-library.pray (zip)
+├── library.json                # Library manifest
+├── assets/                     # Library-level assets
 │   ├── cover.jpg               #   Cover image for catalog
-│   └── icon.png                #   Book icon
-├── prayers/                    # Prayer asset JSONs (book-scoped)
+│   └── icon.png                #   Library icon
+├── prayers/                    # Prayer asset JSONs (library-scoped)
 │   ├── our-father.json
 │   └── custom-prayer.json
 ├── chapters/                   # Read-only chapter content
@@ -47,11 +47,17 @@ my-book.pray (zip)
 │       └── sections/
 │           ├── bio.en-US.md
 │           └── bio.pt-BR.md
-├── epubs/                      # Embedded EPUB books (optional)
-│   └── my-book-title/
-│       ├── epub.json           #   EPUB metadata (name, author, toc, languages)
-│       ├── my-book-title.en-US.epub  # Built EPUB (one per language)
-│       └── my-book-title.pt-BR.epub
+├── books/                      # Long-form prose books
+│   └── book-title/
+│       ├── book.json           #   Book metadata (name, author, toc, languages)
+│       ├── en-US/
+│       │   ├── chapter-01.html
+│       │   ├── images/
+│       │   └── style.css
+│       ├── pt-BR/
+│       │   └── *.html
+│       └── fr-FR/
+│           └── *.md            #   Shipped raw, converted at runtime
 └── practices/                  # Practice directories (unchanged format)
     ├── morning-offering/
     │   ├── manifest.json       #   Standard PracticeManifest
@@ -64,7 +70,7 @@ my-book.pray (zip)
             └── station-02.jpg
 ```
 
-EPUBs allow a `.pray` package to bundle full prose books alongside prayers and practices — e.g., a Montfort Spirituality package with *True Devotion to Mary* (EPUB) plus the 33-day Consecration practice and prayers. XHTML sources live in the repo at `content/books/{bookId}/epubs/{epubId}/{lang}/` but are **not shipped** in the `.pray` — only the built `.epub` files and `epub.json` metadata are included. The `build-books.sh` script generates EPUBs from XHTML sources at build time.
+Books allow a `.pray` package to bundle full prose works alongside prayers and practices — e.g., a Montfort Spirituality package with *True Devotion to Mary* (book) plus the 33-day Consecration practice and prayers. Raw HTML or markdown chapters live in the repo at `content/libraries/{libraryId}/books/{bookId}/{lang}/` and are shipped directly in the `.pray` archive. Markdown files (`.md`) are converted at runtime using `marked` + `marked-footnote` — no pandoc dependency at build time.
 
 **Why `.pray`?**
 - Custom extension lets the OS associate it with Ember
@@ -74,12 +80,12 @@ EPUBs allow a `.pray` package to bundle full prose books alongside prayers and p
 
 ---
 
-## Book Manifest (`book.json`)
+## Library Manifest (`library.json`)
 
 ```typescript
-type PrayerBook = {
+type Library = {
   // Required
-  id: string                    // Unique book ID, kebab-case (e.g. "daily-prayers")
+  id: string                    // Unique library ID, kebab-case (e.g. "daily-prayers")
   version: string               // Semver (e.g. "1.0.0")
   name: LocalizedText           // Display name
   languages: string[]           // Supported languages (e.g. ["en-US", "pt-BR"])
@@ -92,10 +98,10 @@ type PrayerBook = {
   icon?: string                 // Path to icon in assets/ (e.g. "assets/icon.png")
   image?: string                // Path to cover image in assets/ (e.g. "assets/cover.jpg")
   tags?: string[]               // Searchable tags (e.g. ["marian", "devotion"])
-  dependencies?: string[]       // Book IDs this book depends on (for prayer asset resolution)
+  dependencies?: string[]       // Library IDs this library depends on (for prayer asset resolution)
   chapters?: string[]           // Ordered chapter IDs (matches directory names in chapters/)
-  epubs?: string[]              // Ordered EPUB IDs (matches directory names in epubs/)
-  contents?: { type: 'chapter' | 'practice' | 'epub'; id: string }[]  // Unified table of contents
+  books?: string[]              // Ordered book IDs (matches directory names in books/)
+  contents?: { type: 'chapter' | 'practice' | 'book'; id: string }[]  // Unified table of contents
 
   defaults?: {
     autoSeed: boolean           // If true, seed practices into plan of life on install
@@ -103,15 +109,15 @@ type PrayerBook = {
 }
 ```
 
-The `practices` and `prayers` arrays define **presentation order** — the order items appear when browsing this book.
+The `practices` and `prayers` arrays define **presentation order** — the order items appear when browsing this library.
 
-When `contents` is present, the book detail screen renders a unified table of contents interleaving chapters and practices in the specified order. When absent, the screen falls back to separate practices/prayers sections.
+When `contents` is present, the library detail screen renders a unified table of contents interleaving chapters and practices in the specified order. When absent, the screen falls back to separate practices/prayers sections.
 
 ### Practice manifests (unchanged)
 
-Practices inside a book use the exact same `PracticeManifest` format. The book owns a practice by directory containment. The app tracks the practice-to-book mapping at load time.
+Practices inside a library use the exact same `PracticeManifest` format. The library owns a practice by directory containment. The app tracks the practice-to-library mapping at load time.
 
-Practice IDs are **globally unique**. First-party IDs are bare (`morning-offering`). Third-party convention: `{bookId}::{practiceId}`.
+Practice IDs are **globally unique**. First-party IDs are bare (`morning-offering`). Third-party convention: `{libraryId}::{practiceId}`.
 
 Seeding config (tier, schedule, time) stays in each practice's `manifest.defaults`.
 
@@ -128,17 +134,17 @@ Same format as current `assets/prayers/*.json`:
 
 ### Images
 
-Practice directories can include an `images/` folder (e.g. station illustrations, mystery art). Flows reference them via relative paths. Book-level assets (cover, icon) live in `assets/`.
+Practice directories can include an `images/` folder (e.g. station illustrations, mystery art). Flows reference them via relative paths. Library-level assets (cover, icon) live in `assets/`.
 
 ### Chapters
 
-Chapters are **read-only content entries** — history, theology, saint biographies, art galleries — that enrich a book beyond its interactive practices. They reuse the existing `FlowDefinition` format but have no completion tracking, scheduling, or plan-of-life integration.
+Chapters are **read-only content entries** — history, theology, saint biographies, art galleries — that enrich a library beyond its interactive practices. They reuse the existing `FlowDefinition` format but have no completion tracking, scheduling, or plan-of-life integration.
 
 #### Chapter manifest (`chapter.json`)
 
 ```typescript
 type ChapterManifest = {
-  id: string                    // Unique within the book (e.g. "history-of-devotion")
+  id: string                    // Unique within the library (e.g. "history-of-devotion")
   title: LocalizedText          // Display title
   subtitle?: LocalizedText      // Optional subtitle
   image?: string                // Cover image path (relative to chapter dir)
@@ -181,7 +187,7 @@ Image `src` values in gallery/holy-card/image sections are relative to the chapt
 
 #### Chapter reader
 
-Route: `/prayer-books/chapters/[chapterId]?bookId=x`
+Route: `/library/chapters/[chapterId]?libraryId=x`
 
 The chapter reader resolves content through `resolveFlow()` with a simplified context (no completion tracking) and renders sections in a `ScrollView` with `ManuscriptFrame` + `SectionBlock`. No completion button — chapters are purely for reading.
 
@@ -191,30 +197,30 @@ The chapter reader resolves content through `resolveFlow()` with a simplified co
 
 When the content engine encounters `{ "type": "prayer", "ref": "our-father" }`:
 
-1. **Book-local** — current book's `prayers/`
-2. **Dependencies** — each dependency book's `prayers/`, in order
-3. **Global pool** — common prayers available to all books
+1. **Library-local** — current library's `prayers/`
+2. **Dependencies** — each dependency library's `prayers/`, in order
+3. **Global pool** — common prayers available to all libraries
 
-The global pool is itself a prayer book (e.g. `common-prayers`) that all books implicitly depend on, containing universal Catholic prayers (Sign of the Cross, Our Father, Hail Mary, Glory Be, etc.).
+The global pool is itself a library (e.g. `common-prayers`) that all libraries implicitly depend on, containing universal Catholic prayers (Sign of the Cross, Our Father, Hail Mary, Glory Be, etc.).
 
 ---
 
 ## Distribution via Hearth
 
-Prayer books are served from hearth alongside existing content (Bible, propers, catechism).
+Libraries are served from hearth alongside existing content (Bible, propers, catechism).
 
 ### Source (committed)
 
-Book source directories live in `content/books/`:
+Library source directories live in `content/libraries/`:
 
 ```
-content/books/
+content/libraries/
   ember-default/
-    book.json
+    library.json
     prayers/...
     practices/...
   ember-extra/
-    book.json
+    library.json
     practices/...
 ```
 
@@ -222,16 +228,16 @@ content/books/
 
 `.pray` files are **not committed** — built during the GitHub Actions deploy:
 
-1. Zip each `content/books/{id}/` into `{id}-{version}.pray` (version read from `book.json`)
-2. Generate `registry.json` from all `book.json` files
-3. Output to `_site/hearth/v1/books/`
+1. Zip each `content/libraries/{id}/` into `{id}-{version}.pray` (version read from `library.json`)
+2. Generate `registry.json` from all `library.json` files
+3. Output to `_site/hearth/v1/libraries/`
 
 ### URLs
 
 ```
-https://ember.dpgu.me/hearth/v1/books/registry.json
-https://ember.dpgu.me/hearth/v1/books/ember-default-1.0.0.pray
-https://ember.dpgu.me/hearth/v1/books/ember-extra-1.0.0.pray
+https://ember.dpgu.me/hearth/v1/libraries/registry.json
+https://ember.dpgu.me/hearth/v1/libraries/ember-default-1.0.0.pray
+https://ember.dpgu.me/hearth/v1/libraries/ember-extra-1.0.0.pray
 ```
 
 ### Registry (`registry.json`)
@@ -241,7 +247,7 @@ Lightweight metadata for catalog browsing:
 ```json
 {
   "version": 1,
-  "books": [
+  "libraries": [
     {
       "id": "ember-default",
       "version": "1.0.0",
@@ -263,24 +269,24 @@ Lightweight metadata for catalog browsing:
 
 ### ContentRegistry
 
-Replaces direct imports from `@/content/practices`. Same API, resolves across installed books:
+Replaces direct imports from `@/content/practices`. Same API, resolves across installed libraries:
 
 ```typescript
 import { getManifest, loadFlowForSlot } from '@/content/registry'
 ```
 
-The registry aggregates all installed books into a unified view. `getAllManifests()` returns practices from all books. `getManifest(id)` finds the practice in whichever book contains it.
+The registry aggregates all installed libraries into a unified view. `getAllManifests()` returns practices from all libraries. `getManifest(id)` finds the practice in whichever library contains it.
 
 ### EngineContext
 
-`createEngineContext()` accepts a `bookId` for scoped prayer resolution:
+`createEngineContext()` accepts a `libraryId` for scoped prayer resolution:
 
 ```typescript
-function createEngineContext(bookId?: string): EngineContext {
+function createEngineContext(libraryId?: string): EngineContext {
   const prayers = {
     ...getGlobalPrayers(),
-    ...getDependencyPrayers(bookId),
-    ...getBookPrayers(bookId),
+    ...getDependencyPrayers(libraryId),
+    ...getLibraryPrayers(libraryId),
   }
   return { ...currentFields, prayers }
 }
@@ -303,8 +309,8 @@ Requires connectivity on first launch.
 ### Install
 
 1. Download `.pray` from hearth (or receive via local import)
-2. Extract zip to `documentDirectory/books/{bookId}/`
-3. Validate (book.json present, declared practices exist)
+2. Extract zip to `documentDirectory/books/{libraryId}/`
+3. Validate (library.json present, declared practices exist)
 4. Insert `installed_books` row
 5. Register as content source
 6. If `autoSeed` → seed practices into plan
@@ -318,10 +324,10 @@ Requires connectivity on first launch.
 
 ### Uninstall
 
-1. Delete book files from local storage
+1. Delete library files from local storage
 2. Delete `installed_books` row
 3. User data is **orphaned but NOT deleted** — reinstalling reattaches it
-4. Plan of life shows orphaned practices with a "book removed" indicator
+4. Plan of life shows orphaned practices with a "library removed" indicator
 
 ---
 
@@ -345,19 +351,19 @@ CREATE TABLE IF NOT EXISTS installed_books (
 
 ### Entry point
 
-Accessible from the Plan of Life screen (button/link navigates to `/prayer-books`).
+Accessible from the Plan of Life screen (button/link navigates to `/library`).
 
-### Prayer Books screen (`/prayer-books`)
+### Library screen (`/library`)
 
-- **Installed** section — cards for each installed book (icon, name, practice count, version, status badge)
-- **Available** section — books from registry not yet installed, with download size + download button
+- **Installed** section — cards for each installed library (icon, name, practice count, version, status badge)
+- **Available** section — libraries from registry not yet installed, with download size + download button
 - **Import .pray file** — dashed border card, opens file picker
 - Download progress shown inline on cards
 
-### Book detail screen (`/prayer-books/[bookId]`)
+### Library detail screen (`/library/[libraryId]`)
 
-- Book description
-- If `contents` array present: unified "Contents" section interleaving chapters (BookOpen icon) and practices in defined order. Chapters navigate to `/prayer-books/chapters/[chapterId]`, practices to `/practices/[manifestId]`.
+- Library description
+- If `contents` array present: unified "Contents" section interleaving chapters (BookOpen icon) and practices in defined order. Chapters navigate to `/library/chapters/[chapterId]`, practices to `/practices/[manifestId]`.
 - If `contents` absent: ordered practice list + prayers section (legacy layout)
 - "In plan" badges on practices
 - Download button (if not installed) or Remove button (if installed)
@@ -370,7 +376,7 @@ Two import methods:
 
 ### File picker
 
-From the Prayer Books screen, tap "Import .pray file" → system file picker filtered to `.pray` → validate → install.
+From the Library screen, tap "Import .pray file" → system file picker filtered to `.pray` → validate → install.
 
 ### OS file association
 
@@ -380,10 +386,10 @@ Register Ember as handler for `.pray` files (iOS UTI, Android intent filter). Ta
 
 1. Copy `.pray` to temp directory
 2. Extract and validate:
-   - `book.json` present and valid
+   - `library.json` present and valid
    - All declared practices have directories
-3. If book ID conflicts with installed book → prompt to update
-4. Show book detail as preview with "Install" button
+3. If library ID conflicts with installed library → prompt to update
+4. Show library detail as preview with "Install" button
 5. On install → move to `books/`, insert DB row, register
 
 ---
@@ -391,6 +397,6 @@ Register Ember as handler for `.pray` files (iOS UTI, Android intent filter). Ta
 ## Open Questions
 
 - **Offline first launch**: If no connectivity on first launch, show "No connection — try again" or bundle a minimal fallback?
-- **Background updates**: Auto-check for book updates on launch, or only when user visits Prayer Books screen?
-- **Book removal protection**: Should the default book be unremovable?
-- **Cross-book practice references**: Can a flow in one book reference a practice from another?
+- **Background updates**: Auto-check for library updates on launch, or only when user visits Library screen?
+- **Library removal protection**: Should the default library be unremovable?
+- **Cross-library practice references**: Can a flow in one library reference a practice from another?

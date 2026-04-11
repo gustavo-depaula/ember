@@ -203,7 +203,7 @@ export default function PlanScreen() {
 
         <XStack gap="$md" justifyContent="center">
           <View style={{ flex: 1 }}>
-            <AnimatedPressable onPress={() => router.push('/prayer-books')}>
+            <AnimatedPressable onPress={() => router.push('/library')}>
               <YStack
                 alignItems="center"
                 justifyContent="center"
@@ -216,7 +216,7 @@ export default function PlanScreen() {
               >
                 <Library size={22} color={theme.accent.val} />
                 <Text fontFamily="$heading" fontSize="$1" color="$color" textAlign="center">
-                  {t('prayerBooks.title')}
+                  {t('library.title')}
                 </Text>
               </YStack>
             </AnimatedPressable>

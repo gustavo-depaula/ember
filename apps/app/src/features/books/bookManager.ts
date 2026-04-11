@@ -1,7 +1,7 @@
 import { Directory, File, Paths } from 'expo-file-system'
 import JSZip from 'jszip'
-import { getPracticeIdsForBook, registerSource, unregisterSource } from '@/content/registry'
-import { createFileSystemSource, type PrayerBook } from '@/content/sources/filesystem'
+import { getPracticeIdsForLibrary, registerSource, unregisterSource } from '@/content/registry'
+import { createFileSystemSource, type Library } from '@/content/sources/filesystem'
 import { getDb } from '@/db/client'
 import { deleteBookPractices } from '@/db/repositories/practices'
 import { fetchHearth, hearthUrl } from '@/lib/hearth'
@@ -22,7 +22,7 @@ export type ChapterPreview = {
   title: Record<string, string>
 }
 
-export type EpubPreview = {
+export type BookPreview = {
   id: string
   name: Record<string, string>
   author?: Record<string, string>
@@ -40,8 +40,8 @@ export type RegistryEntry = {
   practices: PracticePreview[]
   prayers: PrayerPreview[]
   chapters?: ChapterPreview[]
-  epubs?: EpubPreview[]
-  contents?: { type: 'chapter' | 'practice' | 'epub'; id: string }[]
+  books?: BookPreview[]
+  contents?: { type: 'chapter' | 'practice' | 'book'; id: string }[]
   size: number
   file: string
   contentHash: string
@@ -61,16 +61,16 @@ export type InstalledBook = {
   content_hash: string | undefined
 }
 
-function booksDir(): Directory {
+function librariesDir(): Directory {
   return new Directory(Paths.document, 'books/')
 }
 
-function bookDir(bookId: string): Directory {
-  return new Directory(Paths.document, 'books/', `${bookId}/`)
+function libraryDir(libraryId: string): Directory {
+  return new Directory(Paths.document, 'books/', `${libraryId}/`)
 }
 
-function ensureBooksDir() {
-  const dir = booksDir()
+function ensureLibrariesDir() {
+  const dir = librariesDir()
   if (!dir.exists) dir.create()
 }
 
@@ -97,7 +97,7 @@ async function extractZip(zipData: ArrayBuffer, destDir: Directory) {
           created.add(parentPath)
         }
       }
-      const isBinary = /\.(jpg|jpeg|png|webp|gif|mp3|ogg|wav|pdf|epub)$/i.test(relativePath)
+      const isBinary = /\.(jpg|jpeg|png|webp|gif|mp3|ogg|wav|pdf)$/i.test(relativePath)
       if (isBinary) {
         const bytes = await zipEntry.async('uint8array')
         new File(destDir, relativePath).write(bytes)
@@ -110,7 +110,7 @@ async function extractZip(zipData: ArrayBuffer, destDir: Directory) {
 }
 
 async function upsertInstalledBook(
-  bookId: string,
+  libraryId: string,
   version: string,
   manifestJson: string,
   contentHash: string,
@@ -120,7 +120,7 @@ async function upsertInstalledBook(
     `INSERT INTO installed_books (book_id, version, installed_at, updated_at, manifest, content_hash)
      VALUES (?, ?, ?, ?, ?, ?)
      ON CONFLICT (book_id) DO UPDATE SET version = excluded.version, updated_at = excluded.updated_at, manifest = excluded.manifest, content_hash = excluded.content_hash`,
-    [bookId, version, now, now, manifestJson, contentHash],
+    [libraryId, version, now, now, manifestJson, contentHash],
   )
 }
 
@@ -132,10 +132,10 @@ export async function getInstalledBooks(): Promise<InstalledBook[]> {
   return getDb().getAllAsync<InstalledBook>('SELECT * FROM installed_books')
 }
 
-export async function getInstalledBook(bookId: string): Promise<InstalledBook | undefined> {
+export async function getInstalledBook(libraryId: string): Promise<InstalledBook | undefined> {
   const row = await getDb().getFirstAsync<InstalledBook>(
     'SELECT * FROM installed_books WHERE book_id = ?',
-    [bookId],
+    [libraryId],
   )
   return row ?? undefined
 }
@@ -144,10 +144,10 @@ export async function downloadAndInstallBook(
   entry: RegistryEntry,
   onProgress?: (progress: number) => void,
 ): Promise<void> {
-  ensureBooksDir()
+  ensureLibrariesDir()
 
   const url = hearthUrl(`books/${entry.file}`)
-  const dest = bookDir(entry.id)
+  const dest = libraryDir(entry.id)
 
   if (onProgress) onProgress(0.1)
   const response = await fetch(url)
@@ -161,18 +161,18 @@ export async function downloadAndInstallBook(
   await extractZip(zipData, dest)
   if (onProgress) onProgress(0.9)
 
-  const bookJsonFile = new File(dest, 'book.json')
-  const bookJson = await bookJsonFile.text()
+  const libraryJsonFile = new File(dest, 'library.json')
+  const libraryJson = await libraryJsonFile.text()
 
-  await upsertInstalledBook(entry.id, entry.version, bookJson, entry.contentHash)
+  await upsertInstalledBook(entry.id, entry.version, libraryJson, entry.contentHash)
 
   const source = await createFileSystemSource(dest.uri)
   registerSource(source)
   if (onProgress) onProgress(1)
 }
 
-export async function installFromLocalFile(filePath: string): Promise<PrayerBook> {
-  ensureBooksDir()
+export async function installFromLocalFile(filePath: string): Promise<Library> {
+  ensureLibrariesDir()
 
   const file = new File(filePath)
   const zipData = await file.arrayBuffer()
@@ -182,37 +182,37 @@ export async function installFromLocalFile(filePath: string): Promise<PrayerBook
   tempDir.create()
   await extractZip(zipData, tempDir)
 
-  const bookJson = await new File(tempDir, 'book.json').text()
-  const book = JSON.parse(bookJson) as PrayerBook
+  const libraryJson = await new File(tempDir, 'library.json').text()
+  const library = JSON.parse(libraryJson) as Library
 
-  const dest = bookDir(book.id)
+  const dest = libraryDir(library.id)
   if (dest.exists) dest.delete()
   tempDir.move(dest)
 
-  await upsertInstalledBook(book.id, book.version, bookJson, '')
+  await upsertInstalledBook(library.id, library.version, libraryJson, '')
 
   const source = await createFileSystemSource(dest.uri)
   registerSource(source)
 
-  return book
+  return library
 }
 
-export async function removeBook(bookId: string): Promise<void> {
-  const practiceIds = getPracticeIdsForBook(bookId)
+export async function removeBook(libraryId: string): Promise<void> {
+  const practiceIds = getPracticeIdsForLibrary(libraryId)
   await deleteBookPractices(practiceIds)
-  unregisterSource(bookId)
-  const dest = bookDir(bookId)
+  unregisterSource(libraryId)
+  const dest = libraryDir(libraryId)
   if (dest.exists) dest.delete()
-  await getDb().runAsync('DELETE FROM installed_books WHERE book_id = ?', [bookId])
+  await getDb().runAsync('DELETE FROM installed_books WHERE book_id = ?', [libraryId])
 }
 
 export async function loadInstalledBooks(): Promise<void> {
-  ensureBooksDir()
+  ensureLibrariesDir()
   const installed = await getInstalledBooks()
   const results = await Promise.all(
     installed.map(async (row) => {
       try {
-        return await createFileSystemSource(bookDir(row.book_id).uri)
+        return await createFileSystemSource(libraryDir(row.book_id).uri)
       } catch {
         return undefined
       }

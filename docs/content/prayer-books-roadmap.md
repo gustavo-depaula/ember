@@ -1,6 +1,6 @@
-# Prayer Books Roadmap
+# Library Roadmap
 
-Prioritized plan for new prayer books in Ember, organized by type and impact. Each candidate is assessed for feasibility (public domain text availability, source quality), bilingual support (EN + PT-BR), and alignment with the three pillars (Fidelity, Devotion, Wisdom).
+Prioritized plan for new content libraries in Ember, organized by type and impact. Each candidate is assessed for feasibility (public domain text availability, source quality), bilingual support (EN + PT-BR), and alignment with the three pillars (Fidelity, Devotion, Wisdom).
 
 > Status: planning phase. No content authoring started.
 
@@ -8,15 +8,15 @@ Prioritized plan for new prayer books in Ember, organized by type and impact. Ea
 
 ## What We Have Today
 
-| Book | Type | Practices | Chapters | EPUBs | Languages |
-|------|------|-----------|----------|-------|-----------|
+| Library | Type | Practices | Chapters | Books | Languages |
+|---------|------|-----------|----------|-------|-----------|
 | Ember Default | Core daily prayers | 23 | — | — | EN + PT |
 | Ember Extra | Office, novenas, litanies | 18 | — | — | EN + PT |
 | Montfort Spirituality | Marian consecration | 1 (33-day program) | 1 | 3 | EN + PT |
 | Sacred Heart | Devotional companion | 4 | 5 | — | EN + PT |
 | Ave Maria Claretiano | Portuguese devocionário | 7 | 3 | — | PT only |
 
-**Total:** 53 practices, 9 chapters, 3 EPUBs across 5 books.
+**Total:** 53 practices, 9 chapters, 3 books across 5 libraries.
 
 ### Gaps
 
@@ -60,7 +60,7 @@ The Daily Examen is arguably the most widely practiced prayer form after the Ros
 |-----------|---------|
 | Practices | Daily Examen (5-step guided), Ignatian meditation method (with guided structure), Suscipe prayer, First Principle and Foundation meditation |
 | Program | Adapted 19th Annotation retreat (30-week Spiritual Exercises) |
-| EPUB | The Spiritual Exercises (public domain, 16th c.) |
+| Book | The Spiritual Exercises (public domain, 16th c.) |
 | Chapters | Who was St. Ignatius?, AMDG and Finding God in All Things, The Ignatian method explained, Discernment of spirits primer |
 
 **Feasibility:** High — Exercises text public domain. Adaptation needs care (Exercises are meant to be directed), but the Examen and meditation method stand alone.
@@ -71,13 +71,13 @@ The Daily Examen is arguably the most widely practiced prayer form after the Ros
 
 ### 3. Imitation of Christ
 
-**Type:** Spiritual classic (EPUB) + daily reading practice
+**Type:** Spiritual classic (Book) + daily reading practice
 
 The single most-published book after the Bible. #1 on the Absolute Canon list in `spiritual-books.md`. Immediately delivers on the Catholic library roadmap item and sets the pattern for how spiritual classics work in the app.
 
 | Component | Content |
 |-----------|---------|
-| EPUB | Full Imitation of Christ (4 books, ~114 chapters) |
+| Book | Full Imitation of Christ (4 books, ~114 chapters) |
 | Practice | Daily reading from the Imitation (cycle through short passages via `cycle` with `program-day`) |
 | Chapters | About Thomas a Kempis, How to read the Imitation, The Devotio Moderna movement |
 
@@ -97,7 +97,7 @@ Three Absolute Canon entries. Anchors the Wisdom pillar for advanced users. The 
 
 | Component | Content |
 |-----------|---------|
-| EPUBs | Interior Castle (St. Teresa of Avila), Dark Night of the Soul (St. John of the Cross), Way of Perfection (St. Teresa of Avila) |
+| Books | Interior Castle (St. Teresa of Avila), Dark Night of the Soul (St. John of the Cross), Way of Perfection (St. Teresa of Avila) |
 | Practices | Carmelite method of mental prayer, Brown Scapular daily prayer, Prayer of St. Teresa |
 | Chapters | The Carmelite Doctors, Stages of the spiritual life, The mansions explained, Contemplative prayer for beginners |
 
@@ -115,7 +115,7 @@ Doctor of the Church on prayer. Prolific public domain output. *Extremely* popul
 
 | Component | Content |
 |-----------|---------|
-| EPUBs | Visits to the Blessed Sacrament, The Practice of the Love of Jesus Christ, Preparation for Death |
+| Books | Visits to the Blessed Sacrament, The Practice of the Love of Jesus Christ, Preparation for Death |
 | Practices | Visit to the Blessed Sacrament (daily, with day-specific meditations), Liguorian morning/evening prayers, Way of the Cross (Alphonsian) |
 | Chapters | Life of St. Alphonsus, The Doctor of Prayer, Liguorian spirituality for laypeople |
 
@@ -170,7 +170,7 @@ Absolute Canon #2. The perfect beginner formation book — Sales explicitly wrot
 
 | Component | Content |
 |-----------|---------|
-| EPUB | Full Introduction to the Devout Life (5 parts) |
+| Book | Full Introduction to the Devout Life (5 parts) |
 | Practices | Salesian method of meditation, Salesian evening review |
 | Chapters | Who was St. Francis de Sales?, The Salesian spirit — devotion for everyone |
 
@@ -188,7 +188,7 @@ Absolute Canon #7. One of the most beloved saints. The Little Way is accessible 
 
 | Component | Content |
 |-----------|---------|
-| EPUB | Story of a Soul (autobiography, public domain 1898) |
+| Book | Story of a Soul (autobiography, public domain 1898) |
 | Practices | Act of Offering to Merciful Love, Novena to St. Therese (9-day program), Daily prayer of St. Therese |
 | Chapters | The Little Way, The Martin family, St. Therese and missions |
 
@@ -198,7 +198,7 @@ Absolute Canon #7. One of the most beloved saints. The Little Way is accessible 
 
 ---
 
-### 10. Seasonal Prayer Books (Lent and Advent)
+### 10. Seasonal Libraries (Lent and Advent)
 
 **Type:** Practice packs tied to liturgical seasons
 
@@ -224,9 +224,9 @@ Time-bound, shareable, creates a reason to return each season. Can be season-gat
 
 ### 11. Confessions of St. Augustine
 
-**Type:** Spiritual classic (EPUB)
+**Type:** Spiritual classic (Book)
 
-Absolute Canon #3. Lighter-weight book — EPUB with a short reading guide chapter.
+Absolute Canon #3. Lighter-weight book — Book with a short reading guide chapter.
 
 ---
 
@@ -243,14 +243,14 @@ Better as chapters added to Ember Extra than a standalone book: What is the LOTH
 | Book | Impact | PT-BR | Feasibility | Types | Issues |
 |------|--------|-------|-------------|-------|--------|
 | Divine Mercy | ★★★ | ★★★ | ★★★ | Devotional, Practices | #48, #44 |
-| Ignatian | ★★★ | ★★ | ★★★ | Formation, Practices, EPUB | #96, #116 |
-| Imitation of Christ | ★★★ | ★★★ | ★★★ | EPUB, Practices | #111 |
-| Carmelite | ★★★ | ★★★ | ★★★ | EPUB, Formation, Devotional | #111, #98 |
-| St. Alphonsus | ★★★ | ★★★+ | ★★★ | EPUB, Devotional, Practices | #111 |
+| Ignatian | ★★★ | ★★ | ★★★ | Formation, Practices, Book | #96, #116 |
+| Imitation of Christ | ★★★ | ★★★ | ★★★ | Book, Practices | #111 |
+| Carmelite | ★★★ | ★★★ | ★★★ | Book, Formation, Devotional | #111, #98 |
+| St. Alphonsus | ★★★ | ★★★+ | ★★★ | Book, Devotional, Practices | #111 |
 | Rosary Companion | ★★★ | ★★★ | ★★★ | Formation, Practices | #45, #95 |
 | Eastern Catholic | ★★ | ★ | ★★ | Practices, Devotional | #93 |
-| Devout Life | ★★ | ★★ | ★★★ | EPUB, Formation | #111, #116 |
-| Story of a Soul | ★★ | ★★★ | ★★★ | EPUB, Devotional | #111 |
+| Devout Life | ★★ | ★★ | ★★★ | Book, Formation | #111, #116 |
+| Story of a Soul | ★★ | ★★★ | ★★★ | Book, Devotional | #111 |
 | Seasonal | ★★ | ★★ | ★★★ | Practices | #47 |
 
 ---
@@ -260,7 +260,7 @@ Better as chapters added to Ember Extra than a standalone book: What is the LOTH
 Tier 1 books can be built in any order. A sequence that maximizes variety and infrastructure learning:
 
 1. **Divine Mercy** — proven devotional companion pattern (Sacred Heart model), resolves #48
-2. **Imitation of Christ** — establishes the spiritual classic + daily reading pattern for all future EPUBs
+2. **Imitation of Christ** — establishes the spiritual classic + daily reading pattern for all future Books
 3. **Ignatian Spirituality** — establishes the formation guide pattern, introduces the Examen
 
 Then Tier 2 fills out the library: Carmelite classics, St. Alphonsus (high PT-BR value), and the Rosary companion.
@@ -270,7 +270,7 @@ Then Tier 2 fills out the library: Carmelite classics, St. Alphonsus (high PT-BR
 ## Next Steps
 
 - [ ] Choose which Tier 1 book to build first
-- [ ] For the chosen book, write a detailed content spec (chapter outlines, practice flow structure, EPUB source identification, art sourcing)
+- [ ] For the chosen book, write a detailed content spec (chapter outlines, practice flow structure, Book source identification, art sourcing)
 - [ ] Source and evaluate public domain text quality for the chosen book
-- [ ] Design bilingual strategy (same EPUB in EN + PT-BR, or separate editions?)
+- [ ] Design bilingual strategy (same Book in EN + PT-BR, or separate editions?)
 - [ ] Build the book using the existing `.pray` format and Hearth delivery
