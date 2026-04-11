@@ -20,7 +20,7 @@ import {
   resolvePrayer,
 } from '@/content/registry'
 import type { Library } from '@/content/sources/filesystem'
-import type { BookPreview, PracticePreview, PrayerPreview } from '@/features/books/bookManager'
+import type { BookPreview, PracticePreview, PrayerPreview } from '@/features/books/libraryManager'
 import {
   useAvailableBooks,
   useDownloadBook,

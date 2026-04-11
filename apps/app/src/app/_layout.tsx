@@ -34,7 +34,7 @@ import {
   fetchRegistry,
   getInstalledBooks,
   loadInstalledBooks,
-} from '@/features/books/bookManager'
+} from '@/features/books/libraryManager'
 import { useLiturgicalTheme } from '@/hooks/useLiturgicalTheme'
 import { initHearth } from '@/lib/hearth'
 import { rescheduleAllReminders, setupNotifications } from '@/lib/notifications'
@@ -100,7 +100,7 @@ export default function RootLayout() {
       const installed = await getInstalledBooks()
       if (installed.length === 0) {
         const registry = await fetchRegistry()
-        const defaultBook = registry.books.find((b) => b.tags?.includes('default'))
+        const defaultBook = registry.libraries.find((b) => b.tags?.includes('default'))
         if (defaultBook) {
           await downloadAndInstallBook(defaultBook)
         }

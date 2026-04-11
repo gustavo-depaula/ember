@@ -39,7 +39,7 @@ jobs:
           mv _site_hearth _site/hearth/v1
 
       - name: Build .pray archives
-        run: scripts/build-books.sh _site/hearth/v1/books
+        run: scripts/build-libraries.sh _site/hearth/v1/libraries
 
       - name: Generate manifest
         run: |
