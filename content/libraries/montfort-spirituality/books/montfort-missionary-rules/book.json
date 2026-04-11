@@ -2,66 +2,76 @@
   "id": "montfort-missionary-rules",
   "name": {
     "fr-FR": "Règles des Prêtres Missionnaires de la Compagnie de Marie",
-    "en-US": "Rules of the Missionary Priests of the Company of Mary"
+    "en-US": "Rules of the Missionary Priests of the Company of Mary",
+    "pt-BR": "Regras dos Padres Missionários da Companhia de Maria"
   },
   "author": {
     "fr-FR": "Saint Louis-Marie Grignion de Montfort",
-    "en-US": "St. Louis-Marie Grignion de Montfort"
+    "en-US": "St. Louis-Marie Grignion de Montfort",
+    "pt-BR": "São Luís Maria Grignion de Montfort"
   },
   "description": {
     "fr-FR": "Règle de vie pour les prêtres missionnaires de la Compagnie de Marie, couvrant leur vocation, pauvreté, obéissance, piété, et pratiques de mission.",
-    "en-US": "Rule of life for the missionary priests of the Company of Mary, covering their vocation, poverty, obedience, piety, and mission practices."
+    "en-US": "Rule of life for the missionary priests of the Company of Mary, covering their vocation, poverty, obedience, piety, and mission practices.",
+    "pt-BR": "Regra de vida para os padres missionários da Companhia de Maria, abrangendo sua vocação, pobreza, obediência, piedade e práticas de missão."
   },
   "composed": 1713,
-  "languages": ["fr-FR", "en-US"],
+  "languages": ["fr-FR", "en-US", "pt-BR"],
   "toc": [
     {
       "id": "fin-particuliere",
       "title": {
         "fr-FR": "Fin particulière de la Compagnie",
-        "en-US": "The Particular End of the Company"
+        "en-US": "The Particular End of the Company",
+        "pt-BR": "Fim particular da Companhia"
       }
     },
     {
       "id": "pauvrete",
       "title": {
         "fr-FR": "Détachement ou pauvreté évangélique",
-        "en-US": "Detachment, or Evangelical Poverty"
+        "en-US": "Detachment, or Evangelical Poverty",
+        "pt-BR": "Desapego, ou pobreza evangélica"
       }
     },
     {
       "id": "obeissance",
       "title": {
         "fr-FR": "Obéissance",
-        "en-US": "Obedience"
+        "en-US": "Obedience",
+        "pt-BR": "Obediência"
       }
     },
     {
       "id": "oraisons",
       "title": {
         "fr-FR": "Oraisons et exercices de piété",
-        "en-US": "Prayers and Exercises of Piety"
+        "en-US": "Prayers and Exercises of Piety",
+        "pt-BR": "Orações e exercícios de piedade"
       }
     },
     {
       "id": "mepris-du-monde",
       "title": {
         "fr-FR": "Mépris du monde",
-        "en-US": "Contempt of the World"
+        "en-US": "Contempt of the World",
+        "pt-BR": "Desprezo do mundo"
       }
     },
     {
       "id": "charite",
       "title": {
         "fr-FR": "Charité envers le prochain",
-        "en-US": "Charity toward Neighbor"
+        "en-US": "Charity toward Neighbor",
+        "pt-BR": "Caridade para com o próximo"
       }
     },
     {
       "id": "pratiques-missions",
       "title": {
         "fr-FR": "Pratiques de leurs missions",
-        "en-US": "Practices of Their Missions"
+        "en-US": "Practices of Their Missions",
+        "pt-BR": "Práticas das suas missões"
       }
     }
   ]

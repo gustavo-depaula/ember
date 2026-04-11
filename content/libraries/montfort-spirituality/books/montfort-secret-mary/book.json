@@ -2,45 +2,52 @@
   "id": "montfort-secret-mary",
   "name": {
     "fr-FR": "Le Secret de Marie",
-    "en-US": "The Secret of Mary"
+    "en-US": "The Secret of Mary",
+    "pt-BR": "O Segredo de Maria"
   },
   "author": {
     "fr-FR": "Saint Louis-Marie Grignion de Montfort",
-    "en-US": "St. Louis-Marie Grignion de Montfort"
+    "en-US": "St. Louis-Marie Grignion de Montfort",
+    "pt-BR": "São Luís Maria Grignion de Montfort"
   },
   "description": {
     "fr-FR": "Révélation du secret de la sainteté par l'esclavage d'amour envers la Sainte Vierge Marie, avec des prières et un supplément sur l'Arbre de Vie.",
-    "en-US": "Revelation of the secret of holiness through the slavery of love toward the Blessed Virgin Mary, with prayers and a supplement on the Tree of Life."
+    "en-US": "Revelation of the secret of holiness through the slavery of love toward the Blessed Virgin Mary, with prayers and a supplement on the Tree of Life.",
+    "pt-BR": "Revelação do segredo da santidade pela escravidão de amor à Santíssima Virgem Maria, com orações e um suplemento sobre a Árvore da Vida."
   },
   "composed": 1712,
-  "languages": ["fr-FR", "en-US"],
+  "languages": ["fr-FR", "en-US", "pt-BR"],
   "toc": [
     {
       "id": "introduction",
       "title": {
         "fr-FR": "Introduction",
-        "en-US": "Introduction"
+        "en-US": "Introduction",
+        "pt-BR": "Introdução"
       }
     },
     {
       "id": "vraie-devotion",
       "title": {
         "fr-FR": "En quoi consiste la vraie dévotion à Marie",
-        "en-US": "What the True Devotion to Mary Consists In"
+        "en-US": "What the True Devotion to Mary Consists In",
+        "pt-BR": "Em que consiste a verdadeira devoção a Maria"
       }
     },
     {
       "id": "oraisons",
       "title": {
         "fr-FR": "Oraisons à Jésus et à Marie",
-        "en-US": "Prayers to Jesus and to Mary"
+        "en-US": "Prayers to Jesus and to Mary",
+        "pt-BR": "Orações a Jesus e a Maria"
       }
     },
     {
       "id": "arbre-de-vie",
       "title": {
         "fr-FR": "La culture et l'accroissement de l'Arbre de Vie",
-        "en-US": "The Cultivation and Growth of the Tree of Life"
+        "en-US": "The Cultivation and Growth of the Tree of Life",
+        "pt-BR": "O cultivo e o crescimento da Árvore da Vida"
       }
     }
   ]

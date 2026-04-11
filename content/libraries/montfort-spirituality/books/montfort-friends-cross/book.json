@@ -2,45 +2,52 @@
   "id": "montfort-friends-cross",
   "name": {
     "fr-FR": "Lettre Circulaire aux Amis de la Croix",
-    "en-US": "Letter to the Friends of the Cross"
+    "en-US": "Letter to the Friends of the Cross",
+    "pt-BR": "Carta aos Amigos da Cruz"
   },
   "author": {
     "fr-FR": "Saint Louis-Marie Grignion de Montfort",
-    "en-US": "St. Louis-Marie Grignion de Montfort"
+    "en-US": "St. Louis-Marie Grignion de Montfort",
+    "pt-BR": "São Luís Maria Grignion de Montfort"
   },
   "description": {
     "fr-FR": "Lettre d'exhortation spirituelle adressée aux membres de la confrérie des Amis de la Croix, sur l'excellence et la pratique de la souffrance chrétienne.",
-    "en-US": "A letter of spiritual exhortation addressed to the members of the confraternity of the Friends of the Cross, on the excellence and practice of Christian suffering."
+    "en-US": "A letter of spiritual exhortation addressed to the members of the confraternity of the Friends of the Cross, on the excellence and practice of Christian suffering.",
+    "pt-BR": "Carta de exortação espiritual dirigida aos membros da confraria dos Amigos da Cruz, sobre a excelência e a prática do sofrimento cristão."
   },
   "composed": 1714,
-  "languages": ["fr-FR", "en-US"],
+  "languages": ["fr-FR", "en-US", "pt-BR"],
   "toc": [
     {
       "id": "excellence",
       "title": {
         "fr-FR": "Excellence de l'union des Amis de la Croix",
-        "en-US": "The Excellence of the Union of the Friends of the Cross"
+        "en-US": "The Excellence of the Union of the Friends of the Cross",
+        "pt-BR": "Excelência da união dos Amigos da Cruz"
       }
     },
     {
       "id": "perfection",
       "title": {
         "fr-FR": "Pratiques de la perfection chrétienne",
-        "en-US": "The Practices of Christian Perfection"
+        "en-US": "The Practices of Christian Perfection",
+        "pt-BR": "Práticas da perfeição cristã"
       }
     },
     {
       "id": "quatorze-regles",
       "title": {
         "fr-FR": "Les quatorze règles",
-        "en-US": "The Fourteen Rules"
+        "en-US": "The Fourteen Rules",
+        "pt-BR": "As quatorze regras"
       }
     },
     {
       "id": "stimulants",
       "title": {
         "fr-FR": "Les quatre stimulants de la bonne souffrance",
-        "en-US": "The Four Incentives to Suffering Well"
+        "en-US": "The Four Incentives to Suffering Well",
+        "pt-BR": "Os quatro estímulos para bem sofrer"
       }
     }
   ]

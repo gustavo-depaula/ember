@@ -2,80 +2,92 @@
   "id": "montfort-secret-rosary",
   "name": {
     "fr-FR": "Le Secret Admirable du Très Saint Rosaire",
-    "en-US": "The Secret of the Rosary"
+    "en-US": "The Secret of the Rosary",
+    "pt-BR": "O Segredo Admirável do Santíssimo Rosário"
   },
   "author": {
     "fr-FR": "Saint Louis-Marie Grignion de Montfort",
-    "en-US": "St. Louis-Marie Grignion de Montfort"
+    "en-US": "St. Louis-Marie Grignion de Montfort",
+    "pt-BR": "São Luís Maria Grignion de Montfort"
   },
   "description": {
     "fr-FR": "Guide spirituel sur la pratique du saint Rosaire, ses mystères et ses fruits, adressé aux prêtres, pécheurs, âmes dévotes et enfants.",
-    "en-US": "A spiritual guide on the practice of the holy Rosary, its mysteries and its fruits, addressed to priests, sinners, devout souls, and children."
+    "en-US": "A spiritual guide on the practice of the holy Rosary, its mysteries and its fruits, addressed to priests, sinners, devout souls, and children.",
+    "pt-BR": "Guia espiritual sobre a prática do santo Rosário, seus mistérios e seus frutos, dirigido a sacerdotes, pecadores, almas devotas e crianças."
   },
   "composed": 1710,
-  "languages": ["fr-FR", "en-US"],
+  "languages": ["fr-FR", "en-US", "pt-BR"],
   "toc": [
     {
       "id": "rose-blanche",
       "title": {
         "fr-FR": "Rose Blanche — Aux prêtres et prédicateurs",
-        "en-US": "White Rose — To Priests and Preachers"
+        "en-US": "White Rose — To Priests and Preachers",
+        "pt-BR": "Rosa Branca — Aos sacerdotes e pregadores"
       }
     },
     {
       "id": "rose-rouge",
       "title": {
         "fr-FR": "Rose Rouge — Aux pécheurs",
-        "en-US": "Red Rose — To Sinners"
+        "en-US": "Red Rose — To Sinners",
+        "pt-BR": "Rosa Vermelha — Aos pecadores"
       }
     },
     {
       "id": "rosier-mystique",
       "title": {
         "fr-FR": "Rosier Mystique — Aux âmes dévotes",
-        "en-US": "Mystical Rose Bush — To Devout Souls"
+        "en-US": "Mystical Rose Bush — To Devout Souls",
+        "pt-BR": "Roseira Mística — Às almas devotas"
       }
     },
     {
       "id": "bouton-de-rose",
       "title": {
         "fr-FR": "Bouton de Rose — Aux enfants",
-        "en-US": "Rosebud — To Children"
+        "en-US": "Rosebud — To Children",
+        "pt-BR": "Botão de Rosa — Às crianças"
       }
     },
     {
       "id": "dizaine-1",
       "title": {
         "fr-FR": "Première Dizaine — L'excellence du saint Rosaire dans son origine et son nom",
-        "en-US": "First Decade — The Excellence of the Holy Rosary in Its Origin and Name"
+        "en-US": "First Decade — The Excellence of the Holy Rosary in Its Origin and Name",
+        "pt-BR": "Primeira Dezena — A excelência do santo Rosário na sua origem e no seu nome"
       }
     },
     {
       "id": "dizaine-2",
       "title": {
         "fr-FR": "Deuxième Dizaine — L'excellence du saint Rosaire dans les prières dont il est composé",
-        "en-US": "Second Decade — The Excellence of the Holy Rosary in the Prayers of Which It Is Composed"
+        "en-US": "Second Decade — The Excellence of the Holy Rosary in the Prayers of Which It Is Composed",
+        "pt-BR": "Segunda Dezena — A excelência do santo Rosário nas orações de que é composto"
       }
     },
     {
       "id": "dizaine-3",
       "title": {
         "fr-FR": "Troisième Dizaine — Excellence du saint Rosaire dans la méditation de la vie et de la Passion de Notre-Seigneur Jésus-Christ",
-        "en-US": "Third Decade — The Excellence of the Holy Rosary in the Meditation on the Life and Passion of Our Lord Jesus Christ"
+        "en-US": "Third Decade — The Excellence of the Holy Rosary in the Meditation on the Life and Passion of Our Lord Jesus Christ",
+        "pt-BR": "Terceira Dezena — A excelência do santo Rosário na meditação da vida e da Paixão de Nosso Senhor Jesus Cristo"
       }
     },
     {
       "id": "dizaine-4",
       "title": {
         "fr-FR": "Quatrième Dizaine — L'excellence du saint Rosaire dans les merveilles que Dieu a opérées en sa faveur",
-        "en-US": "Fourth Decade — The Excellence of the Holy Rosary in the Wonders God Has Worked in Its Favor"
+        "en-US": "Fourth Decade — The Excellence of the Holy Rosary in the Wonders God Has Worked in Its Favor",
+        "pt-BR": "Quarta Dezena — A excelência do santo Rosário nas maravilhas que Deus operou em seu favor"
       }
     },
     {
       "id": "dizaine-5",
       "title": {
         "fr-FR": "Cinquième Dizaine — La manière sainte de réciter le Rosaire",
-        "en-US": "Fifth Decade — The Holy Manner of Reciting the Rosary"
+        "en-US": "Fifth Decade — The Holy Manner of Reciting the Rosary",
+        "pt-BR": "Quinta Dezena — A maneira santa de rezar o Rosário"
       }
     }
   ]

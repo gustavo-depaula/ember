@@ -2,24 +2,28 @@
   "id": "montfort-ardent-prayer",
   "name": {
     "fr-FR": "Prière Embrasée",
-    "en-US": "The Ardent Prayer"
+    "en-US": "The Ardent Prayer",
+    "pt-BR": "Oração Ardente"
   },
   "author": {
     "fr-FR": "Saint Louis-Marie Grignion de Montfort",
-    "en-US": "St. Louis-Marie Grignion de Montfort"
+    "en-US": "St. Louis-Marie Grignion de Montfort",
+    "pt-BR": "São Luís Maria Grignion de Montfort"
   },
   "description": {
     "fr-FR": "Prière ardente pour la venue d'une compagnie de missionnaires consacrés à Marie, adressée au Père, au Fils et au Saint-Esprit.",
-    "en-US": "An ardent prayer for the coming of a company of missionaries consecrated to Mary, addressed to the Father, the Son, and the Holy Spirit."
+    "en-US": "An ardent prayer for the coming of a company of missionaries consecrated to Mary, addressed to the Father, the Son, and the Holy Spirit.",
+    "pt-BR": "Oração ardente pela vinda de uma companhia de missionários consagrados a Maria, dirigida ao Pai, ao Filho e ao Espírito Santo."
   },
   "composed": 1713,
-  "languages": ["fr-FR", "en-US"],
+  "languages": ["fr-FR", "en-US", "pt-BR"],
   "toc": [
     {
       "id": "prayer",
       "title": {
         "fr-FR": "Prière Embrasée",
-        "en-US": "The Ardent Prayer"
+        "en-US": "The Ardent Prayer",
+        "pt-BR": "Oração Ardente"
       }
     }
   ]
