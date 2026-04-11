@@ -1,0 +1,55 @@
+{
+	"id": "litany-st-joseph",
+	"icon": "prayer",
+	"name": {
+		"en-US": "Litany of St. Joseph",
+		"pt-BR": "Ladainha de S\u00e3o Jos\u00e9"
+	},
+	"categories": [
+		"litany",
+		"devotion"
+	],
+	"estimatedMinutes": 8,
+	"description": {
+		"en-US": "The Litany of St. Joseph invokes the foster-father of Jesus under numerous titles, honoring his virtues, his unique role in salvation history, and his powerful intercession. Updated in 2021 with new invocations by Pope Francis.",
+		"pt-BR": "A Ladainha de S\u00e3o Jos\u00e9 invoca o pai adotivo de Jesus sob numerosos t\u00edtulos, honrando suas virtudes, seu papel \u00fanico na hist\u00f3ria da salva\u00e7\u00e3o e sua poderosa intercess\u00e3o. Atualizada em 2021 com novas invoca\u00e7\u00f5es pelo Papa Francisco."
+	},
+	"history": {
+		"en-US": "Approved in 1909 by Pope St. Pius X. Updated by Pope Francis in 2021 with new invocations honoring St. Joseph as Guardian of the Redeemer, Servant of Christ, Minister of Salvation, and Support in difficulties, following the apostolic letter Patris Corde.",
+		"pt-BR": "Aprovada em 1909 pelo Papa S\u00e3o Pio X. Atualizada pelo Papa Francisco em 2021 com novas invoca\u00e7\u00f5es honrando S\u00e3o Jos\u00e9 como Guardi\u00e3o do Redentor, Servo de Cristo, Ministro da Salva\u00e7\u00e3o e Amparo nas dificuldades, ap\u00f3s a carta apost\u00f3lica Patris Corde."
+	},
+	"howToPray": {
+		"en-US": "The leader recites the invocations and the assembly responds 'Pray for us.' The litany begins with the Kyrie and concludes with the Lamb of God, a versicle and response, and a collect prayer.",
+		"pt-BR": "O l\u00edder recita as invoca\u00e7\u00f5es e a assembleia responde 'Rogai por n\u00f3s.' A ladainha come\u00e7a com o Kyrie e conclui com o Cordeiro de Deus, um vers\u00edculo e resposta, e uma ora\u00e7\u00e3o colecta."
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flows": [
+		{
+			"id": "default",
+			"name": {
+				"en-US": "Litany of St. Joseph",
+				"pt-BR": "Ladainha de S\u00e3o Jos\u00e9"
+			},
+			"file": "flow.json"
+		}
+	],
+	"tags": [
+		"litany",
+		"joseph",
+		"patron"
+	],
+	"defaults": {
+		"sortOrder": 54,
+		"slots": [
+			{
+				"flowId": "default",
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
+}

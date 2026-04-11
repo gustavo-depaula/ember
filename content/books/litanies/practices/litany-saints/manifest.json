@@ -43,7 +43,7 @@
 		"procession"
 	],
 	"defaults": {
-		"sortOrder": 28,
+		"sortOrder": 50,
 		"slots": [
 			{
 				"flowId": "default",

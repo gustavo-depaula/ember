@@ -1,0 +1,21 @@
+{
+  "sections": [
+    {
+      "type": "heading",
+      "text": { "en-US": "Praying the Litanies", "pt-BR": "Rezando as Ladainhas" }
+    },
+    {
+      "type": "prose",
+      "file": "sections/how-to-pray"
+    },
+    { "type": "divider" },
+    {
+      "type": "subheading",
+      "text": { "en-US": "Litanies for Every Occasion", "pt-BR": "Ladainhas para Cada Ocasião" }
+    },
+    {
+      "type": "prose",
+      "file": "sections/occasions"
+    }
+  ]
+}

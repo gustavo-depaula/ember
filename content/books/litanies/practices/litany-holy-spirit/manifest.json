@@ -1,0 +1,56 @@
+{
+	"id": "litany-holy-spirit",
+	"icon": "prayer",
+	"name": {
+		"en-US": "Litany of the Holy Spirit",
+		"pt-BR": "Ladainha do Espírito Santo"
+	},
+	"categories": [
+		"litany",
+		"holy-spirit",
+		"devotion"
+	],
+	"estimatedMinutes": 8,
+	"description": {
+		"en-US": "The Litany of the Holy Spirit is a devotional prayer invoking the Third Person of the Trinity under various titles reflecting His gifts, fruits, and works in the soul. It is a profound meditation on the action of the Holy Spirit in the life of the faithful.",
+		"pt-BR": "A Ladainha do Espírito Santo é uma oração devocional que invoca a Terceira Pessoa da Santíssima Trindade sob diversos títulos que refletem Seus dons, frutos e obras na alma. É uma profunda meditação sobre a ação do Espírito Santo na vida dos fiéis."
+	},
+	"history": {
+		"en-US": "A devotional litany popular in Catholic tradition, especially during the novena before Pentecost and in Confirmation preparation. While not among the six approved for public recitation, it is widely used in private devotion and spiritual direction.",
+		"pt-BR": "Uma ladainha devocional popular na tradição católica, especialmente durante a novena antes de Pentecostes e na preparação para a Crisma. Embora não esteja entre as seis aprovadas para recitação pública, é amplamente usada na devoção privada e na direção espiritual."
+	},
+	"howToPray": {
+		"en-US": "Pray the opening Kyrie, then respond 'Have mercy on us' to the invocations of the Spirit's titles, 'Graciously hear us' to the petitions for deliverance, and 'We beseech Thee, hear us' to the positive petitions. After the Lamb of God, pray the closing versicle and collect.",
+		"pt-BR": "Reze o Kyrie inicial, depois responda 'Tende piedade de nós' às invocações dos títulos do Espírito, 'Ouvi-nos, Senhor' às petições de livramento, e 'Nós Vos rogamos, ouvi-nos' às petições positivas. Após o Cordeiro de Deus, reze o versículo e a coleta final."
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flows": [
+		{
+			"id": "default",
+			"name": {
+				"en-US": "Litany of the Holy Spirit",
+				"pt-BR": "Ladainha do Espírito Santo"
+			},
+			"file": "flow.json"
+		}
+	],
+	"tags": [
+		"litany",
+		"holy-spirit",
+		"pentecost"
+	],
+	"defaults": {
+		"sortOrder": 57,
+		"slots": [
+			{
+				"flowId": "default",
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
+}

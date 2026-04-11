@@ -1,0 +1,5 @@
+The word *litany* comes from the Greek *litaneia* (λιτανεία), meaning "supplication" or "entreaty." It is one of the oldest forms of prayer in the Christian tradition — a rhythmic dialogue between a leader and the assembly, built on the simple pattern of invocation and response.
+
+The roots of the litany reach back into the Psalms themselves. Psalm 136, with its repeated refrain "for His mercy endures forever," is a kind of proto-litany, training the People of God in the habit of responsive prayer. The early Christians carried this pattern into their own worship, and by the fourth century, litanies were a standard part of public prayer across the churches of East and West.
+
+In 590, during a devastating plague in Rome, Pope Gregory the Great organized a great litanical procession through the streets of the city. Seven groups of the faithful — clergy, monks, nuns, children, laymen, widows, and married women — processed from seven different churches, converging on the Basilica of St. Mary Major, chanting litanies and imploring God's mercy. Tradition holds that the plague ceased, and the practice of litanical processions became deeply embedded in the Church's life.

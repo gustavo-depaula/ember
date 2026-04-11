@@ -1,0 +1,48 @@
+{
+	"id": "litany-blessed-sacrament",
+	"icon": "eucharist",
+	"name": {
+		"en-US": "Litany of the Blessed Sacrament",
+		"pt-BR": "Ladainha do Santíssimo Sacramento"
+	},
+	"categories": ["litany", "eucharistic", "devotion"],
+	"estimatedMinutes": 8,
+	"description": {
+		"en-US": "A devotional litany honoring the Real Presence of Christ in the Eucharist. It invokes Jesus under titles reflecting His sacramental presence as bread of life, unbloody sacrifice, and sacred banquet.",
+		"pt-BR": "Uma ladainha devocional em honra da Presença Real de Cristo na Eucaristia. Invoca Jesus sob títulos que refletem Sua presença sacramental como pão da vida, sacrifício incruento e sagrado banquete."
+	},
+	"history": {
+		"en-US": "A devotional litany honoring the Real Presence of Christ in the Eucharist. While not among the six approved for public use, it is widely prayed during Eucharistic adoration and Corpus Christi celebrations. Various forms circulated from the 17th century.",
+		"pt-BR": "Uma ladainha devocional em honra da Presença Real de Cristo na Eucaristia. Embora não esteja entre as seis aprovadas para uso público, é amplamente rezada durante a adoração eucarística e as celebrações de Corpus Christi. Diversas formas circularam desde o século XVII."
+	},
+	"howToPray": {
+		"en-US": "Pray the opening Kyrie, then respond 'Have mercy on us' to each invocation. After the Lamb of God, respond as indicated, then pray the closing versicle and collect.",
+		"pt-BR": "Reze o Kyrie inicial, depois responda 'Tende piedade de nós' a cada invocação. Após o Cordeiro de Deus, responda conforme indicado, depois reze o versículo e a coleta final."
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flows": [
+		{
+			"id": "default",
+			"name": {
+				"en-US": "Litany of the Blessed Sacrament",
+				"pt-BR": "Ladainha do Santíssimo Sacramento"
+			},
+			"file": "flow.json"
+		}
+	],
+	"tags": ["litany", "blessed-sacrament", "eucharist"],
+	"defaults": {
+		"sortOrder": 58,
+		"slots": [
+			{
+				"flowId": "default",
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
+}
