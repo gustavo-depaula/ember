@@ -1,9 +1,10 @@
 import { useQuery } from '@tanstack/react-query'
 import { useLocalSearchParams, useRouter } from 'expo-router'
-import { ChevronLeft, ChevronRight, List } from 'lucide-react-native'
+import { ChevronLeft, List } from 'lucide-react-native'
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { ActivityIndicator, Pressable, useColorScheme } from 'react-native'
+import Animated, { FadeIn, FadeOut } from 'react-native-reanimated'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 import { ScreenLayout } from '@/components'
@@ -11,6 +12,7 @@ import { getBookDirUri, getBookEntry } from '@/content/registry'
 import { getCursor, setCursor } from '@/db/repositories/cursors'
 import {
   buildReaderShell,
+  buildTitleLookup,
   flattenTocLeaves,
   getChapterBody,
   loadBookContent,
@@ -50,6 +52,11 @@ export default function BookReaderScreen() {
   const leaves = useMemo(
     () => (bookEntry?.toc ? flattenTocLeaves(bookEntry.toc) : []),
     [bookEntry?.toc],
+  )
+
+  const titleLookup = useMemo(
+    () => (bookEntry?.toc ? buildTitleLookup(bookEntry.toc, lang) : new Map<string, string>()),
+    [bookEntry?.toc, lang],
   )
 
   const [currentChapterId, setCurrentChapterId] = useState<string | undefined>()
@@ -126,8 +133,8 @@ export default function BookReaderScreen() {
   const shellHtml = useMemo(() => {
     const chapterId = chapterForShellRef.current ?? initialChapterId
     if (!bookContent || !chapterId) return undefined
-    return buildReaderShell(bookContent, chapterId, isDark)
-  }, [bookContent, isDark, initialChapterId])
+    return buildReaderShell(bookContent, chapterId, isDark, titleLookup.get(chapterId))
+  }, [bookContent, isDark, initialChapterId, titleLookup])
 
   const currentIndex = useMemo(
     () => leaves.findIndex((l) => l.id === currentChapterId),
@@ -144,28 +151,19 @@ export default function BookReaderScreen() {
       setPageDisplay({ current: 0, total: 1 })
       setCurrentChapterId(id)
       if (bookContent) {
-        const body = getChapterBody(bookContent, id)
+        const body = getChapterBody(bookContent, id, titleLookup.get(id))
         webViewRef.current?.loadChapter(body, startPage)
       }
     },
-    [savePosition, bookContent],
+    [savePosition, bookContent, titleLookup],
   )
 
   // Stable ref for values that change on every chapter nav, so callbacks stay identity-stable
   const navRef = useRef({ currentIndex, hasNext, hasPrev, leaves, navigateChapter })
   navRef.current = { currentIndex, hasNext, hasPrev, leaves, navigateChapter }
 
-  const goPrev = useCallback(() => {
-    const { hasPrev, currentIndex, leaves, navigateChapter } = navRef.current
-    if (hasPrev) navigateChapter(leaves[currentIndex - 1].id)
-  }, [])
-
-  const goNext = useCallback(() => {
-    const { hasNext, currentIndex, leaves, navigateChapter } = navRef.current
-    if (hasNext) navigateChapter(leaves[currentIndex + 1].id)
-  }, [])
-
   const [tocVisible, setTocVisible] = useState(false)
+  const [chromeVisible, setChromeVisible] = useState(true)
 
   const handleMessage = useCallback((msg: ReaderMessage) => {
     if (msg.type === 'pageInfo') {
@@ -180,6 +178,9 @@ export default function BookReaderScreen() {
       if (msg.direction === 'prev' && hasPrev) {
         navigateChapter(leaves[currentIndex - 1].id, -1)
       }
+    }
+    if (msg.type === 'centerTap') {
+      setChromeVisible((v) => !v)
     }
     if (msg.type === 'ready' && restoredPageRef.current > 0) {
       webViewRef.current?.goToPage(restoredPageRef.current)
@@ -214,40 +215,44 @@ export default function BookReaderScreen() {
   return (
     <YStack
       flex={1}
-      backgroundColor="$background"
+      backgroundColor={isDark ? '#0E0D0C' : '#FAF6F0'}
       paddingTop={insets.top}
       paddingBottom={insets.bottom}
     >
-      <XStack
-        alignItems="center"
-        gap="$sm"
-        paddingHorizontal="$md"
-        paddingVertical="$sm"
-        borderBottomWidth={1}
-        borderBottomColor="$borderColor"
-      >
-        <Pressable
-          onPress={() => {
-            savePosition()
-            router.back()
-          }}
-          hitSlop={8}
-        >
-          <ChevronLeft size={24} color={theme.color.val} />
-        </Pressable>
-        <YStack flex={1}>
-          <Text fontFamily="$heading" fontSize="$3" color="$color" numberOfLines={1}>
-            {title}
-          </Text>
-        </YStack>
-        {bookEntry.toc && bookEntry.toc.length > 0 && (
-          <Pressable onPress={() => setTocVisible(true)} hitSlop={8}>
-            <List size={22} color={theme.color.val} />
-          </Pressable>
-        )}
-      </XStack>
+      {chromeVisible && (
+        <Animated.View entering={FadeIn.duration(150)} exiting={FadeOut.duration(120)}>
+          <XStack
+            alignItems="center"
+            gap="$sm"
+            paddingHorizontal="$md"
+            paddingVertical="$sm"
+            borderBottomWidth={1}
+            borderBottomColor="$borderColor"
+          >
+            <Pressable
+              onPress={() => {
+                savePosition()
+                router.back()
+              }}
+              hitSlop={8}
+            >
+              <ChevronLeft size={24} color={theme.color.val} />
+            </Pressable>
+            <YStack flex={1}>
+              <Text fontFamily="$heading" fontSize="$3" color="$color" numberOfLines={1}>
+                {title}
+              </Text>
+            </YStack>
+            {bookEntry.toc && bookEntry.toc.length > 0 && (
+              <Pressable onPress={() => setTocVisible(true)} hitSlop={8}>
+                <List size={22} color={theme.color.val} />
+              </Pressable>
+            )}
+          </XStack>
+        </Animated.View>
+      )}
 
-      <YStack flex={1} backgroundColor={isDark ? '#0E0D0C' : '#FAF6F0'}>
+      <YStack flex={1}>
         {shellHtml ? (
           <ReaderWebView key={lang} ref={webViewRef} html={shellHtml} onMessage={handleMessage} />
         ) : (
@@ -259,34 +264,22 @@ export default function BookReaderScreen() {
         )}
       </YStack>
 
-      <XStack
-        justifyContent="space-between"
-        alignItems="center"
-        paddingHorizontal="$md"
-        paddingVertical="$xs"
-        borderTopWidth={1}
-        borderTopColor="$borderColor"
-      >
-        <Pressable onPress={goPrev} disabled={!hasPrev} hitSlop={8}>
-          <XStack alignItems="center" gap="$xs" opacity={hasPrev ? 1 : 0.3}>
-            <ChevronLeft size={16} color={theme.colorSecondary.val} />
+      {chromeVisible && (
+        <Animated.View entering={FadeIn.duration(150)} exiting={FadeOut.duration(120)}>
+          <XStack
+            justifyContent="center"
+            alignItems="center"
+            paddingHorizontal="$md"
+            paddingVertical="$xs"
+            borderTopWidth={1}
+            borderTopColor="$borderColor"
+          >
             <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
-              {t('library.previousChapter')}
+              {pageDisplay.current + 1} / {pageDisplay.total}
             </Text>
           </XStack>
-        </Pressable>
-        <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
-          {pageDisplay.current + 1} / {pageDisplay.total}
-        </Text>
-        <Pressable onPress={goNext} disabled={!hasNext} hitSlop={8}>
-          <XStack alignItems="center" gap="$xs" opacity={hasNext ? 1 : 0.3}>
-            <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
-              {t('library.nextChapter')}
-            </Text>
-            <ChevronRight size={16} color={theme.colorSecondary.val} />
-          </XStack>
-        </Pressable>
-      </XStack>
+        </Animated.View>
+      )}
 
       {tocVisible && currentChapterId && bookEntry.toc && (
         <ReaderTocSheet

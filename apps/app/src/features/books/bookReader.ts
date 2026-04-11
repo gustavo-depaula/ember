@@ -12,11 +12,20 @@ export type BookContent = {
 }
 
 const darkModeOverrides = `
-body { background-color: #0E0D0C !important; color: #EDE4D8 !important; }
-h1, h2, h3, h4 { color: #C75B6B !important; }
-blockquote { border-left-color: #5C4D2A !important; color: #918880 !important; }
-a { color: #7A9EC8 !important; }
-hr { border-top-color: #5C4D2A !important; }
+:root {
+  --bg: #0E0D0C;
+  --text: #EDE4D8;
+  --heading: #EDE4D8;
+  --text-secondary: #918880;
+  --border: #2A2622;
+  --link: #7A9EC8;
+}
+body { background-color: var(--bg); color: var(--text); }
+h1, h2, h3, h4 { color: var(--heading); }
+blockquote { border-left-color: var(--border); color: var(--text-secondary); }
+a { color: var(--link); }
+hr { border-top-color: var(--border); }
+p.footnote { color: var(--text-secondary); }
 `
 
 // Pagination uses CSS multi-column layout.
@@ -41,6 +50,7 @@ html, body {
   height: 100%;
   padding: 1em 1.5em;
   box-sizing: border-box;
+  transition: transform 300ms cubic-bezier(0.2, 0, 0, 1);
 }
 #ember-content img {
   max-height: 80vh;
@@ -81,29 +91,112 @@ const paginationScript = `
   }
 
   function goToPage(n) {
-    if (n < 0) { send({ type: 'boundary', direction: 'prev' }); return; }
-    if (n >= totalPages) { send({ type: 'boundary', direction: 'next' }); return; }
+    if (n < 0) {
+      el.style.transform = 'translateX(' + pageWidth + 'px)';
+      send({ type: 'boundary', direction: 'prev' });
+      return;
+    }
+    if (n >= totalPages) {
+      el.style.transform = 'translateX(' + (-totalPages * pageWidth) + 'px)';
+      send({ type: 'boundary', direction: 'next' });
+      return;
+    }
     currentPage = n;
     el.style.transform = 'translateX(' + (-n * pageWidth) + 'px)';
     send({ type: 'pageInfo', currentPage: currentPage, totalPages: totalPages });
   }
 
   function loadChapter(html, startPage) {
+    el.style.transition = 'none';
     el.innerHTML = html;
     requestAnimationFrame(function() {
       measure();
       var page = startPage < 0 ? totalPages - 1 : startPage;
       goToPage(page);
+      requestAnimationFrame(function() {
+        el.style.transition = '';
+      });
     });
   }
 
+  // --- Touch / swipe handling ---
+  var touchStartX = 0;
+  var touchStartY = 0;
+  var touchStartTime = 0;
+  var isSwiping = false;
+  var swipeBlocked = false;
+
+  document.addEventListener('touchstart', function(e) {
+    if (e.target.tagName === 'A') return;
+    touchStartX = e.touches[0].clientX;
+    touchStartY = e.touches[0].clientY;
+    touchStartTime = Date.now();
+    isSwiping = false;
+    swipeBlocked = false;
+    el.style.transition = 'none';
+  }, { passive: true });
+
+  document.addEventListener('touchmove', function(e) {
+    if (swipeBlocked) return;
+    var dx = e.touches[0].clientX - touchStartX;
+    var dy = e.touches[0].clientY - touchStartY;
+
+    // If vertical movement dominates, block horizontal swipe
+    if (!isSwiping && Math.abs(dy) > Math.abs(dx) && Math.abs(dy) > 10) {
+      swipeBlocked = true;
+      return;
+    }
+
+    if (Math.abs(dx) > 10) isSwiping = true;
+    if (isSwiping) {
+      var base = -currentPage * pageWidth;
+      el.style.transform = 'translateX(' + (base + dx) + 'px)';
+    }
+  }, { passive: true });
+
+  document.addEventListener('touchend', function(e) {
+    if (swipeBlocked) return;
+    var dx = e.changedTouches[0].clientX - touchStartX;
+    var elapsed = Date.now() - touchStartTime;
+    var velocity = Math.abs(dx) / elapsed;
+
+    el.style.transition = '';
+
+    if (isSwiping) {
+      // Swipe: threshold 40px or fast flick
+      if (dx < -40 || (velocity > 0.3 && dx < -10)) {
+        goToPage(currentPage + 1);
+      } else if (dx > 40 || (velocity > 0.3 && dx > 10)) {
+        goToPage(currentPage - 1);
+      } else {
+        // Snap back
+        el.style.transform = 'translateX(' + (-currentPage * pageWidth) + 'px)';
+      }
+    } else if (elapsed < 300 && Math.abs(dx) < 10) {
+      // Tap — determine zone
+      var x = touchStartX / window.innerWidth;
+      if (x < 0.3) {
+        goToPage(currentPage - 1);
+      } else if (x > 0.7) {
+        goToPage(currentPage + 1);
+      } else {
+        send({ type: 'centerTap' });
+      }
+    }
+  });
+
+  // Click fallback for mouse/desktop
   document.addEventListener('click', function(e) {
     if (e.target.tagName === 'A') return;
+    // Skip if touch events are available (avoid double-fire)
+    if ('ontouchstart' in window) return;
     var x = e.clientX / window.innerWidth;
     if (x < 0.3) {
       goToPage(currentPage - 1);
     } else if (x > 0.7) {
       goToPage(currentPage + 1);
+    } else {
+      send({ type: 'centerTap' });
     }
   });
 
@@ -117,14 +210,22 @@ const paginationScript = `
 
   // Initial measure
   requestAnimationFrame(function() {
+    el.style.transition = 'none';
     measure();
     goToPage(0);
     send({ type: 'ready' });
+    requestAnimationFrame(function() {
+      el.style.transition = '';
+    });
   });
 
   window.addEventListener('resize', function() {
+    el.style.transition = 'none';
     measure();
     goToPage(currentPage);
+    requestAnimationFrame(function() {
+      el.style.transition = '';
+    });
   });
 })();
 </script>
@@ -198,8 +299,9 @@ export function buildReaderShell(
   content: BookContent,
   firstChapterId: string,
   isDark: boolean,
+  firstChapterTitle?: string,
 ): string {
-  const firstBody = getChapterBody(content, firstChapterId)
+  const firstBody = getChapterBody(content, firstChapterId, firstChapterTitle)
   const darkStyle = isDark ? `<style>${darkModeOverrides}</style>` : ''
 
   return `<!DOCTYPE html>
@@ -223,7 +325,7 @@ ${paginationScript}
 }
 
 /** Get a chapter's body HTML with images resolved to data URIs */
-export function getChapterBody(content: BookContent, chapterId: string): string {
+export function getChapterBody(content: BookContent, chapterId: string, title?: string): string {
   const html = content.chapters.get(chapterId)
   if (!html) return ''
 
@@ -231,7 +333,35 @@ export function getChapterBody(content: BookContent, chapterId: string): string 
   for (const [path, dataUri] of content.images) {
     if (body.includes(path)) body = body.replaceAll(path, dataUri)
   }
+  if (title) body = `<h2 class="chapter-title">${title}</h2>${body}`
   return body
+}
+
+function localizedTitle(title: TocNode['title'], lang: string): string | undefined {
+  return (title as Record<string, string>)[lang] ?? Object.values(title)[0]
+}
+
+export function buildTitleLookup(toc: TocNode[], lang: string): Map<string, string> {
+  const map = new Map<string, string>()
+  function walk(nodes: TocNode[]) {
+    for (const node of nodes) {
+      const title = localizedTitle(node.title, lang)
+      if (title) map.set(node.id, title)
+      if (node.children) walk(node.children)
+    }
+  }
+  walk(toc)
+  return map
+}
+
+export function findTocTitle(toc: TocNode[], id: string, lang: string): string | undefined {
+  for (const node of toc) {
+    if (node.id === id) return localizedTitle(node.title, lang)
+    if (node.children) {
+      const found = findTocTitle(node.children, id, lang)
+      if (found) return found
+    }
+  }
 }
 
 export type TocLeaf = { id: string; index: number }
