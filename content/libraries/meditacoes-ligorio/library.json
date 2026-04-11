@@ -1,0 +1,35 @@
+{
+  "id": "meditacoes-ligorio",
+  "version": "1.0.0",
+  "name": {
+    "pt-BR": "Meditações de Santo Afonso",
+    "en-US": "Meditations of St. Alphonsus Liguori"
+  },
+  "description": {
+    "pt-BR": "Meditações para todos os Dias e Festas do Ano — Herder & Cia, Friburgo, 1921"
+  },
+  "author": {
+    "pt-BR": "Santo Afonso Maria de Ligório",
+    "en-US": "St. Alphonsus Maria de Liguori"
+  },
+  "languages": [
+    "pt-BR"
+  ],
+  "tags": [
+    "meditation",
+    "liguori",
+    "daily",
+    "ascetical"
+  ],
+  "practices": [],
+  "prayers": [],
+  "books": [
+    "meditacoes"
+  ],
+  "contents": [
+    {
+      "type": "book",
+      "id": "meditacoes"
+    }
+  ]
+}
