@@ -1,0 +1,15 @@
+## Prefácio
+
+Apresentando este livro de meditações às pessoas devotas, julgo desnecessário justificar o trabalho por mim empreendido, com a sua tradução para o idioma português, coisa que aliás fez por obediência. A justificação acha-se no próprio título do livro; e ninguém dirá que são demais os livros de meditação escritos em português. Ao lado dos que existem, e cujos merecimentos não necessitamos encarecer, haverá lugar para mais um, visto que, também no tocante às meditações, a variedade deleita. A forma variada, sob a qual são propostas à meditação as verdades imutáveis da fé, excita novamente a atenção, infiltra no espírito um novo raio de luz, comove mais eficazmente a vontade.
+
+Melhor justificação ainda tem a aparição deste livro na segunda parte do título: *Meditações, tiradas das obras de Santo Afonso Maria de Ligório*. Não hesito em aplicar-lhe as seguintes palavras de um preclaro Bispo, na aprovação dada às meditações sobre o Sagrado Coração de Jesus, segundo Santo Afonso: «Na escola dos santos é que devemos aprender a orar e a meditar; ora, os pios exercícios que o Autor propõe à devoção dos fiéis não são outra coisa senão os pensamentos, sentimentos, aspirações do glorioso Santo Afonso, Doutor da Igreja. A piedade e ciência deste grande santo comunicam-lhes uma unção que penetra o coração, e luz que esclarece o espírito.»
+
+Acerca das obras ascéticas de Santo Afonso diz ainda o R. P. Mauron: «Não pode uma pessoa ler as obras deste santo Doutor, sem se sentir levada para Deus, e ouso dizer que a leitura assídua destes livros é como que um sinal de predestinação, visto como a alma que não está em graça ou não busca adquiri-la, não se pode comprazer na leitura destas páginas.»
+
+O método adotado pelo R. P. Cristini não carece de explicações; convém somente observar que no fim de cada meditação vem indicado o lugar das obras de Santo Afonso, de onde ela foi tirada. Os números do volume e da página referem-se à edição italiana de G. Marietti, Turim, 1867. As meditações que não trazem no fim indicação alguma, foram acrescentadas pelo Autor, por se não encontrar nas obras de Santo Afonso meditação apropriada à festa ou ao dia. As orações que não são do Santo, acham-se entre aspas, e as enriquecidas de indulgências são marcadas com uma cruzinha (†). No apêndice encontram-se meditações para diversas circunstâncias particulares e algumas de reserva, de que o piedoso leitor poderá fazer uso em lugar de uma ou outra que menos condiga com o seu estado de vida ou de alma.
+
+Como sou de opinião que as meditações de Santo Afonso muito mais fruto hão de produzir, se for seguido o modo de orar do Santo, direi sobre ele algumas palavras.
+
+Ver-se-á então que a meditação ou a oração mental não é tão difícil como geralmente se imagina, e que é antes um exercício utilíssimo a todos os fiéis, mas indispensável a quem deseja progredir no amor de Deus, na perfeição espiritual. Em seguida darei a tabela das virtudes que Santo Afonso aconselha sejam praticadas cada mês sob a proteção especial de um dos Apóstolos.
+
+*O Tradutor.*

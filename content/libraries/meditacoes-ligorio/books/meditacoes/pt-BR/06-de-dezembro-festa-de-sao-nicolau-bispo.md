@@ -1,0 +1,22 @@
+## VI DE DEZEMBRO.
+
+## Festa de São Nicolau, Bispo.
+
+> *Bonum est viro, cum portaverit iugum ab adolescentia sua* — «Bom é para o homem o ter trazido o jugo desde a sua mocidade» (Lm 3, 27).
+
+***Sumário.** Consideremos quanto importa que a alma se habitue desde a mais tenra idade à prática do bem. São Nicolau começou desde criança a servir a Deus praticando as mais belas virtudes, e nelas se aperfeiçoou tanto que o veneramos sobre os altares. Como é que nós havemos procedido até hoje?... Se, por desgraça nossa, temos ficado em falta, reconheçamos ao menos agora o nosso erro, e digamos a Deus com Davi: Nunc coepi: Senhor, proponho servir-Vos para o futuro com todas as veras.*
+
+**I.** Considera a grande graça que o Senhor concedeu a São Nicolau, cumulando-o desde cedo com as suas bênçãos. Logo que nasceu foi particularmente favorecido. Começou a jejuar ao mesmo tempo que entrou na vida, tomando o leite materno, às quartas e sextas-feiras, só uma vez por dia, e ainda tão somente pela noite, ao passo que nos outros dias se alimentava mais vezes. Nunca mais largou este hábito de jejuar. Conservou-o durante a vida toda, acompanhando-o com a prática das mais belas virtudes. — Foi sempre cuidadoso em fugir de toda a companhia perigosa; solícito para subjugar a carne com trabalhos, penitências e vigílias; foi inimigo de toda a vaidade no modo de viver; amigo dos livros santos; reservado nas conversas, modestíssimo em todo o seu proceder.
+
+Tornado, pela morte dos pais, herdeiro de uma fortuna opulenta, o santo jovem se considerava mais como dispensador do que como possuidor da herança, aplicando-se, não a aumentá-la, mas a distribuí-la largamente entre os pobres e deste modo pô-la a salvo no céu. Avisado do perigo em que por falta de dote se achavam três donzelas, com o único intento de impedir a ofensa de Deus, atirou-lhes três vezes no silêncio da noite, pelas janelas a dentro, a quantia suficiente para um honesto matrimônio.
+
+Reflete aqui o quanto importa que a alma se habitue desde a mais tenra idade à prática do bem; porque é tanto mais fácil perseverar, quanto mais cedo se começa: *Bonum est viro, cum portaverit iugum ab adolescentia sua* — «Bom é para o homem o ter trazido o jugo desde a sua mocidade». Mas tu, que é que tens feito? Talvez te hajas habituado ao mal desde a tua infância, e nem na idade mais provecta hajas começado a servir varonilmente a Deus. E tendo alguma vez principiado, talvez em breve te tenhas relaxado. Reconhece ao menos agora a tua miséria, chora diante de Deus e dize com Davi: *Nunc coepi* [^1] — *«Agora vou começar»*. Senhor, agora quero começar deveras a servir-Vos, para perseverar durante o tempo de vida que ainda me resta.
+
+**II.** Considera a íntima união de São Nicolau com Deus. Para este fim resolveu retirar-se para um deserto, a fim de se entregar livremente à contemplação dos mistérios divinos. Levantava-se de noite para fazer oração; frequentava a igreja e prevenia de manhã o nascer do sol, para ir adorar Jesus Cristo em seu templo. Foi disso que o Senhor se quis servir para o fazer bispo de Mira; tendo revelado aos bispos reunidos para a eleição, elegessem aquele que no dia seguinte entrasse primeiro na igreja, com o nome de Nicolau.
+
+Conclui daí quanto importante é a diligência nas coisas espirituais. Se Deus dela se serve como de um meio para conferir dignidades eclesiásticas, quanto mais se valerá dela para nos comunicar as suas graças espirituais e a salvação da alma!... Entra em ti mesmo, e vê qual seja o estado de tua alma. Serias talvez feliz, se a tua solicitude pelas coisas da alma igualasse a que tens pelas coisas da terra? — Escolhe a São Nicolau por teu protetor e roga a Deus que, assim como do corpo do Santo ressumava continuamente uma espécie de óleo para remédio das enfermidades corporais, assim queira derramar sobre a tua alma o óleo de sua divina graça para sarar as tuas paixões e afetos desordenados. Pede-lhe ainda a graça de imitares o grande Santo em todas as suas virtudes, especialmente no seu espírito de oração e de união com Deus, a fim de que, tendo-o imitado na terra, sejas digno de gozar com ele no céu.
+
+> «Ó Deus, que honrastes a São Nicolau, bispo, com milagres inumeráveis, concedei-me por seus méritos e preces, que fique livre do fogo infernal.» [^2] Fazei-o pelo amor de Jesus Cristo, vosso divino Filho, e de Maria Santíssima, minha querida Mãe.
+
+[^1]: Sl 76, 11.
+[^2]: Or. festi.
