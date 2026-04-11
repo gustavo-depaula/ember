@@ -5,13 +5,13 @@ import { describe, expect, it } from 'vitest'
 import en from './locales/en-US'
 import ptBR from './locales/pt-BR'
 
-const booksDir = resolve(__dirname, '../../../../../content/books')
+const librariesDir = resolve(__dirname, '../../../../../content/libraries')
 
 function getPracticeIds(): string[] {
   const ids = new Set<string>()
-  for (const book of readdirSync(booksDir, { withFileTypes: true })) {
+  for (const book of readdirSync(librariesDir, { withFileTypes: true })) {
     if (!book.isDirectory()) continue
-    const practicesPath = resolve(booksDir, book.name, 'practices')
+    const practicesPath = resolve(librariesDir, book.name, 'practices')
     try {
       for (const d of readdirSync(practicesPath, { withFileTypes: true })) {
         if (d.isDirectory()) ids.add(d.name)
@@ -23,9 +23,9 @@ function getPracticeIds(): string[] {
 
 function getCategorySlugs(): string[] {
   const cats = new Set<string>()
-  for (const book of readdirSync(booksDir, { withFileTypes: true })) {
+  for (const book of readdirSync(librariesDir, { withFileTypes: true })) {
     if (!book.isDirectory()) continue
-    const practicesPath = resolve(booksDir, book.name, 'practices')
+    const practicesPath = resolve(librariesDir, book.name, 'practices')
     try {
       for (const d of readdirSync(practicesPath, { withFileTypes: true })) {
         if (!d.isDirectory()) continue
