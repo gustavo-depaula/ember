@@ -32,7 +32,9 @@ export default i18n
 
 export function localizeContent(text: { 'en-US'?: string; 'pt-BR'?: string }): string {
   if (i18n.language === 'pt-BR' && text['pt-BR']) return text['pt-BR']
-  return text['en-US'] ?? ''
+  if (text['en-US']) return text['en-US']
+  const first = Object.values(text).find(Boolean)
+  return first ?? ''
 }
 
 export type { BilingualText, ContentLanguage } from '@ember/content-engine'
