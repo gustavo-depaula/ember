@@ -2,157 +2,180 @@
   "id": "montfort-love-wisdom",
   "name": {
     "fr-FR": "L'Amour de la Sagesse Éternelle",
-    "en-US": "The Love of Eternal Wisdom"
+    "en-US": "The Love of Eternal Wisdom",
+    "pt-BR": "O Amor da Sabedoria Eterna"
   },
   "author": {
     "fr-FR": "Saint Louis-Marie Grignion de Montfort",
-    "en-US": "St. Louis-Marie Grignion de Montfort"
+    "en-US": "St. Louis-Marie Grignion de Montfort",
+    "pt-BR": "São Luís Maria Grignion de Montfort"
   },
   "description": {
     "fr-FR": "Un traité sur la recherche et l'acquisition de la Sagesse divine, incarnée en Jésus-Christ, et les moyens de la posséder.",
-    "en-US": "A treatise on the search for and acquisition of divine Wisdom, incarnate in Jesus Christ, and the means of possessing her."
+    "en-US": "A treatise on the search for and acquisition of divine Wisdom, incarnate in Jesus Christ, and the means of possessing her.",
+    "pt-BR": "Tratado sobre a busca e a aquisição da Sabedoria divina, encarnada em Jesus Cristo, e os meios de possuí-la."
   },
   "composed": 1704,
-  "languages": ["fr-FR", "en-US"],
+  "languages": ["fr-FR", "en-US", "pt-BR"],
   "toc": [
     {
       "id": "prayer",
       "title": {
         "fr-FR": "Prière à la Sagesse éternelle",
-        "en-US": "Prayer to Eternal Wisdom"
+        "en-US": "Prayer to Eternal Wisdom",
+        "pt-BR": "Oração à Sabedoria eterna"
       }
     },
     {
       "id": "avis",
       "title": {
         "fr-FR": "Avis que la divine Sagesse donne aux princes et aux grands du monde",
-        "en-US": "The Counsel that Divine Wisdom Gives to the Princes and Great Ones of the World"
+        "en-US": "The Counsel that Divine Wisdom Gives to the Princes and Great Ones of the World",
+        "pt-BR": "Aviso que a divina Sabedoria dá aos príncipes e grandes do mundo"
       }
     },
     {
       "id": "remarques",
       "title": {
         "fr-FR": "Remarques de l'auteur",
-        "en-US": "Remarks by the Author"
+        "en-US": "Remarks by the Author",
+        "pt-BR": "Observações do autor"
       }
     },
     {
       "id": "ch-01",
       "title": {
         "fr-FR": "Chapitre I — Pour aimer et rechercher la divine Sagesse, il est nécessaire de la connaître",
-        "en-US": "Chapter I — To Love and Seek Divine Wisdom, It Is Necessary to Know Her"
+        "en-US": "Chapter I — To Love and Seek Divine Wisdom, It Is Necessary to Know Her",
+        "pt-BR": "Capítulo I — Para amar e buscar a divina Sabedoria, é necessário conhecê-la"
       }
     },
     {
       "id": "ch-02",
       "title": {
         "fr-FR": "Chapitre II — L'origine et l'excellence de la Sagesse éternelle",
-        "en-US": "Chapter II — The Origin and Excellence of Eternal Wisdom"
+        "en-US": "Chapter II — The Origin and Excellence of Eternal Wisdom",
+        "pt-BR": "Capítulo II — A origem e a excelência da Sabedoria eterna"
       }
     },
     {
       "id": "ch-03",
       "title": {
         "fr-FR": "Chapitre III — Merveilles de la puissance de la divine Sagesse dans la création du monde et de l'homme",
-        "en-US": "Chapter III — Marvels of the Power of Divine Wisdom in the Creation of the World and of Man"
+        "en-US": "Chapter III — Marvels of the Power of Divine Wisdom in the Creation of the World and of Man",
+        "pt-BR": "Capítulo III — Maravilhas do poder da divina Sabedoria na criação do mundo e do homem"
       }
     },
     {
       "id": "ch-04",
       "title": {
         "fr-FR": "Chapitre IV — Merveilles de la bonté et miséricorde de la Sagesse éternelle avant son incarnation",
-        "en-US": "Chapter IV — Marvels of the Goodness and Mercy of Eternal Wisdom Before Her Incarnation"
+        "en-US": "Chapter IV — Marvels of the Goodness and Mercy of Eternal Wisdom Before Her Incarnation",
+        "pt-BR": "Capítulo IV — Maravilhas da bondade e misericórdia da Sabedoria eterna antes da sua encarnação"
       }
     },
     {
       "id": "ch-05",
       "title": {
         "fr-FR": "Chapitre V — L'excellence merveilleuse de la Sagesse éternelle",
-        "en-US": "Chapter V — The Marvelous Excellence of Eternal Wisdom"
+        "en-US": "Chapter V — The Marvelous Excellence of Eternal Wisdom",
+        "pt-BR": "Capítulo V — A excelência maravilhosa da Sabedoria eterna"
       }
     },
     {
       "id": "ch-06",
       "title": {
         "fr-FR": "Chapitre VI — Les désirs empressés que la divine Sagesse a de se donner aux hommes",
-        "en-US": "Chapter VI — The Eager Desires that Divine Wisdom Has to Give Herself to Men"
+        "en-US": "Chapter VI — The Eager Desires that Divine Wisdom Has to Give Herself to Men",
+        "pt-BR": "Capítulo VI — Os desejos ardentes que a divina Sabedoria tem de se dar aos homens"
       }
     },
     {
       "id": "ch-07",
       "title": {
         "fr-FR": "Chapitre VII — L'élection de la vraie Sagesse",
-        "en-US": "Chapter VII — The Choice of True Wisdom"
+        "en-US": "Chapter VII — The Choice of True Wisdom",
+        "pt-BR": "Capítulo VII — A eleição da verdadeira Sabedoria"
       }
     },
     {
       "id": "ch-08",
       "title": {
         "fr-FR": "Chapitre VIII — Effets merveilleux de la Sagesse éternelle dans les âmes de ceux qui la possèdent",
-        "en-US": "Chapter VIII — Marvelous Effects of Eternal Wisdom in the Souls of Those Who Possess Her"
+        "en-US": "Chapter VIII — Marvelous Effects of Eternal Wisdom in the Souls of Those Who Possess Her",
+        "pt-BR": "Capítulo VIII — Efeitos maravilhosos da Sabedoria eterna nas almas dos que a possuem"
       }
     },
     {
       "id": "ch-09",
       "title": {
         "fr-FR": "Chapitre IX — L'incarnation et la vie de la Sagesse éternelle",
-        "en-US": "Chapter IX — The Incarnation and Life of Eternal Wisdom"
+        "en-US": "Chapter IX — The Incarnation and Life of Eternal Wisdom",
+        "pt-BR": "Capítulo IX — A encarnação e a vida da Sabedoria eterna"
       }
     },
     {
       "id": "ch-10",
       "title": {
         "fr-FR": "Chapitre X — La beauté charmante et la douceur ineffable de la Sagesse incarnée",
-        "en-US": "Chapter X — The Captivating Beauty and Ineffable Sweetness of Incarnate Wisdom"
+        "en-US": "Chapter X — The Captivating Beauty and Ineffable Sweetness of Incarnate Wisdom",
+        "pt-BR": "Capítulo X — A beleza encantadora e a doçura inefável da Sabedoria encarnada"
       }
     },
     {
       "id": "ch-11",
       "title": {
         "fr-FR": "Chapitre XI — La douceur de la conduite de la Sagesse incarnée",
-        "en-US": "Chapter XI — The Sweetness of the Conduct of Incarnate Wisdom"
+        "en-US": "Chapter XI — The Sweetness of the Conduct of Incarnate Wisdom",
+        "pt-BR": "Capítulo XI — A doçura da conduta da Sabedoria encarnada"
       }
     },
     {
       "id": "ch-12",
       "title": {
         "fr-FR": "Chapitre XII — Les principaux oracles de la Sagesse incarnée qu'il faut croire et pratiquer pour être sauvés",
-        "en-US": "Chapter XII — The Principal Oracles of Incarnate Wisdom that Must Be Believed and Practiced for Salvation"
+        "en-US": "Chapter XII — The Principal Oracles of Incarnate Wisdom that Must Be Believed and Practiced for Salvation",
+        "pt-BR": "Capítulo XII — Os principais oráculos da Sabedoria encarnada que é preciso crer e praticar para ser salvo"
       }
     },
     {
       "id": "ch-13",
       "title": {
         "fr-FR": "Chapitre XIII — Abrégé des douleurs inexplicables que la Sagesse incarnée a voulu souffrir pour notre amour",
-        "en-US": "Chapter XIII — A Summary of the Inexplicable Sufferings that Incarnate Wisdom Chose to Endure for Love of Us"
+        "en-US": "Chapter XIII — A Summary of the Inexplicable Sufferings that Incarnate Wisdom Chose to Endure for Love of Us",
+        "pt-BR": "Capítulo XIII — Resumo dos sofrimentos inexplicáveis que a Sabedoria encarnada quis sofrer por nosso amor"
       }
     },
     {
       "id": "ch-14",
       "title": {
         "fr-FR": "Chapitre XIV — Le triomphe de la Sagesse éternelle dans la croix et par la croix",
-        "en-US": "Chapter XIV — The Triumph of Eternal Wisdom in the Cross and Through the Cross"
+        "en-US": "Chapter XIV — The Triumph of Eternal Wisdom in the Cross and Through the Cross",
+        "pt-BR": "Capítulo XIV — O triunfo da Sabedoria eterna na cruz e pela cruz"
       }
     },
     {
       "id": "ch-15",
       "title": {
         "fr-FR": "Chapitre XV — Moyens pour acquérir la divine Sagesse: Premier moyen, un désir ardent; Deuxième moyen, une prière continuelle",
-        "en-US": "Chapter XV — Means of Acquiring Divine Wisdom: First Means, an Ardent Desire; Second Means, Continual Prayer"
+        "en-US": "Chapter XV — Means of Acquiring Divine Wisdom: First Means, an Ardent Desire; Second Means, Continual Prayer",
+        "pt-BR": "Capítulo XV — Meios para adquirir a divina Sabedoria: Primeiro meio, um desejo ardente; Segundo meio, uma oração contínua"
       }
     },
     {
       "id": "ch-16",
       "title": {
         "fr-FR": "Chapitre XVI — Moyens pour acquérir la divine Sagesse: Troisième moyen, une mortification universelle",
-        "en-US": "Chapter XVI — Means of Acquiring Divine Wisdom: Third Means, a Universal Mortification"
+        "en-US": "Chapter XVI — Means of Acquiring Divine Wisdom: Third Means, a Universal Mortification",
+        "pt-BR": "Capítulo XVI — Meios para adquirir a divina Sabedoria: Terceiro meio, uma mortificação universal"
       }
     },
     {
       "id": "ch-17",
       "title": {
         "fr-FR": "Chapitre XVII — Quatrième moyen: une tendre et véritable dévotion à la Sainte Vierge",
-        "en-US": "Chapter XVII — Fourth Means: A Tender and True Devotion to the Blessed Virgin"
+        "en-US": "Chapter XVII — Fourth Means: A Tender and True Devotion to the Blessed Virgin",
+        "pt-BR": "Capítulo XVII — Quarto meio: uma terna e verdadeira devoção à Santíssima Virgem"
       }
     }
   ]
