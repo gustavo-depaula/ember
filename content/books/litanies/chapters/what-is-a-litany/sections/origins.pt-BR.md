@@ -1,0 +1,5 @@
+A palavra *ladainha* vem do grego *litaneia* (λιτανεία), que significa "súplica" ou "rogo." É uma das formas mais antigas de oração na tradição cristã — um diálogo rítmico entre um líder e a assembleia, construído sobre o padrão simples de invocação e resposta.
+
+As raízes da ladainha remontam aos próprios Salmos. O Salmo 136, com seu refrão repetido "porque a Sua misericórdia dura para sempre," é uma espécie de proto-ladainha, formando o Povo de Deus no hábito da oração responsorial. Os primeiros cristãos levaram esse padrão para o seu próprio culto, e já no século IV, as ladainhas eram parte regular da oração pública nas igrejas do Oriente e do Ocidente.
+
+Em 590, durante uma peste devastadora em Roma, o Papa Gregório Magno organizou uma grande procissão litânica pelas ruas da cidade. Sete grupos de fiéis — clero, monges, freiras, crianças, leigos, viúvas e mulheres casadas — saíram em procissão de sete igrejas diferentes, convergindo para a Basílica de Santa Maria Maior, cantando ladainhas e implorando a misericórdia de Deus. A tradição sustenta que a peste cessou, e a prática das procissões litânicas tornou-se profundamente enraizada na vida da Igreja.

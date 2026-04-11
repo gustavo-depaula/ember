@@ -1,0 +1,55 @@
+{
+	"id": "litany-holy-name",
+	"icon": "prayer",
+	"name": {
+		"en-US": "Litany of the Holy Name of Jesus",
+		"pt-BR": "Ladainha do Santo Nome de Jesus"
+	},
+	"categories": [
+		"litany",
+		"devotion"
+	],
+	"estimatedMinutes": 8,
+	"description": {
+		"en-US": "An ancient litany invoking the Holy Name of Jesus under numerous titles, each revealing a facet of His divine majesty, mercy, and love. One of the litanies approved by the Holy See for public recitation.",
+		"pt-BR": "Uma antiga ladainha que invoca o Santo Nome de Jesus sob numerosos t\u00edtulos, cada um revelando uma faceta de Sua majestade divina, miseric\u00f3rdia e amor. Uma das ladainhas aprovadas pela Santa S\u00e9 para recita\u00e7\u00e3o p\u00fablica."
+	},
+	"history": {
+		"en-US": "Approved by Pope Leo XIII in 1886 for the universal Church. Devotion to the Holy Name dates to St. Bernardine of Siena in the 15th century and the Franciscan tradition, who popularized the monogram IHS and preached powerfully on the saving Name of Jesus.",
+		"pt-BR": "Aprovada pelo Papa Le\u00e3o XIII em 1886 para a Igreja universal. A devo\u00e7\u00e3o ao Santo Nome remonta a S\u00e3o Bernardino de Sena no s\u00e9culo XV e \u00e0 tradi\u00e7\u00e3o franciscana, que popularizou o monograma IHS e pregou poderosamente sobre o Nome salvador de Jesus."
+	},
+	"howToPray": {
+		"en-US": "The leader recites the invocations and the assembly responds 'Have mercy on us.' The litany begins with the Kyrie and concludes with the Lamb of God, a versicle and response, and a collect prayer.",
+		"pt-BR": "O l\u00edder recita as invoca\u00e7\u00f5es e a assembleia responde 'Tende piedade de n\u00f3s.' A ladainha come\u00e7a com o Kyrie e conclui com o Cordeiro de Deus, um vers\u00edculo e resposta, e uma ora\u00e7\u00e3o colecta."
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flows": [
+		{
+			"id": "default",
+			"name": {
+				"en-US": "Litany of the Holy Name",
+				"pt-BR": "Ladainha do Santo Nome de Jesus"
+			},
+			"file": "flow.json"
+		}
+	],
+	"tags": [
+		"litany",
+		"holy-name",
+		"jesus"
+	],
+	"defaults": {
+		"sortOrder": 52,
+		"slots": [
+			{
+				"flowId": "default",
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
+}

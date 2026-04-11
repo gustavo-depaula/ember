@@ -1,0 +1,48 @@
+{
+	"id": "litany-humility",
+	"icon": "prayer",
+	"name": {
+		"en-US": "Litany of Humility",
+		"pt-BR": "Ladainha da Humildade"
+	},
+	"categories": ["litany", "devotion", "penance"],
+	"estimatedMinutes": 5,
+	"description": {
+		"en-US": "A powerful prayer for detachment from self-love and worldly honors. Unlike standard litanies, it does not follow the Kyrie/Agnus Dei structure but uses a unique petition format with three distinct response patterns.",
+		"pt-BR": "Uma poderosa oração de desprendimento do amor-próprio e das honras mundanas. Diferente das ladainhas tradicionais, não segue a estrutura do Kyrie/Agnus Dei, mas utiliza um formato único de petições com três padrões distintos de resposta."
+	},
+	"history": {
+		"en-US": "Attributed to Cardinal Rafael Merry del Val (1865-1930), Secretary of State under Pope St. Pius X. It was found among his private papers after his death and has become one of the most popular prayers for cultivating humility.",
+		"pt-BR": "Atribuída ao Cardeal Rafael Merry del Val (1865-1930), Secretário de Estado sob o Papa São Pio X. Foi encontrada entre seus papéis pessoais após sua morte e tornou-se uma das orações mais populares para o cultivo da humildade."
+	},
+	"howToPray": {
+		"en-US": "Begin with the Sign of the Cross and the opening invocation. Pray each petition slowly, responding with the indicated phrase. The three sections use different responses: 'Deliver me, Jesus' for desires and fears, and 'Jesus, grant me the grace to desire it' for the final aspirations.",
+		"pt-BR": "Comece com o Sinal da Cruz e a invocação inicial. Reze cada petição lentamente, respondendo com a frase indicada. As três seções usam respostas diferentes: 'Livrai-me, Jesus' para os desejos e medos, e 'Jesus, dai-me a graça de desejá-lo' para as aspirações finais."
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flows": [
+		{
+			"id": "default",
+			"name": {
+				"en-US": "Litany of Humility",
+				"pt-BR": "Ladainha da Humildade"
+			},
+			"file": "flow.json"
+		}
+	],
+	"tags": ["litany", "humility", "virtue"],
+	"defaults": {
+		"sortOrder": 56,
+		"slots": [
+			{
+				"flowId": "default",
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
+}

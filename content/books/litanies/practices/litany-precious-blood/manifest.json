@@ -1,0 +1,56 @@
+{
+	"id": "litany-precious-blood",
+	"icon": "prayer",
+	"name": {
+		"en-US": "Litany of the Precious Blood",
+		"pt-BR": "Ladainha do Preciosíssimo Sangue"
+	},
+	"categories": [
+		"litany",
+		"devotion",
+		"reparation"
+	],
+	"estimatedMinutes": 8,
+	"description": {
+		"en-US": "The Litany of the Precious Blood is an approved Catholic prayer invoking the Blood of Christ under twenty-four titles, each answered with the petition 'Save us.' It is a powerful meditation on the redemptive power of Christ's Blood shed for our salvation.",
+		"pt-BR": "A Ladainha do Preciosíssimo Sangue é uma oração católica aprovada que invoca o Sangue de Cristo sob vinte e quatro títulos, cada um respondido com a petição 'Salvai-nos.' É uma poderosa meditação sobre o poder redentor do Sangue de Cristo derramado pela nossa salvação."
+	},
+	"history": {
+		"en-US": "Approved by Pope John XXIII in 1960. July is traditionally the month devoted to the Precious Blood. The devotion was promoted by St. Gaspar del Bufalo and the Missionaries of the Precious Blood.",
+		"pt-BR": "Aprovada pelo Papa João XXIII em 1960. Julho é tradicionalmente o mês dedicado ao Preciosíssimo Sangue. A devoção foi promovida por São Gaspar del Bufalo e pelos Missionários do Preciosíssimo Sangue."
+	},
+	"howToPray": {
+		"en-US": "Pray the opening Kyrie, then respond 'Save us' to each invocation. After the Lamb of God, respond as indicated, then pray the closing versicle and collect.",
+		"pt-BR": "Reze o Kyrie inicial, depois responda 'Salvai-nos' a cada invocação. Após o Cordeiro de Deus, responda conforme indicado, depois reze o versículo e a coleta final."
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flows": [
+		{
+			"id": "default",
+			"name": {
+				"en-US": "Litany of the Precious Blood",
+				"pt-BR": "Ladainha do Preciosíssimo Sangue"
+			},
+			"file": "flow.json"
+		}
+	],
+	"tags": [
+		"litany",
+		"precious-blood",
+		"reparation"
+	],
+	"defaults": {
+		"sortOrder": 55,
+		"slots": [
+			{
+				"flowId": "default",
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
+}

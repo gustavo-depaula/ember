@@ -1,0 +1,419 @@
+{
+	"sections": [
+		{
+			"type": "prayer",
+			"ref": "sign-of-cross"
+		},
+		{
+			"type": "response",
+			"verses": [
+				{
+					"v": {
+						"en-US": "Lord, have mercy.",
+						"pt-BR": "Senhor, tende piedade."
+					},
+					"r": {
+						"en-US": "Lord, have mercy.",
+						"pt-BR": "Senhor, tende piedade."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Christ, have mercy.",
+						"pt-BR": "Cristo, tende piedade."
+					},
+					"r": {
+						"en-US": "Christ, have mercy.",
+						"pt-BR": "Cristo, tende piedade."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Lord, have mercy.",
+						"pt-BR": "Senhor, tende piedade."
+					},
+					"r": {
+						"en-US": "Lord, have mercy.",
+						"pt-BR": "Senhor, tende piedade."
+					}
+				}
+			]
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "response",
+			"verses": [
+				{
+					"v": {
+						"en-US": "Christ, hear us.",
+						"pt-BR": "Cristo, ouvi-nos."
+					},
+					"r": {
+						"en-US": "Christ, graciously hear us.",
+						"pt-BR": "Cristo, atendei-nos."
+					}
+				},
+				{
+					"v": {
+						"en-US": "God the Father of Heaven,",
+						"pt-BR": "Deus Pai do Céu,"
+					},
+					"r": {
+						"en-US": "Have mercy on us.",
+						"pt-BR": "Tende piedade de nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "God the Son, Redeemer of the world,",
+						"pt-BR": "Deus Filho, Redentor do mundo,"
+					},
+					"r": {
+						"en-US": "Have mercy on us.",
+						"pt-BR": "Tende piedade de nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "God the Holy Spirit,",
+						"pt-BR": "Deus Espírito Santo,"
+					},
+					"r": {
+						"en-US": "Have mercy on us.",
+						"pt-BR": "Tende piedade de nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Holy Trinity, one God,",
+						"pt-BR": "Santíssima Trindade, um só Deus,"
+					},
+					"r": {
+						"en-US": "Have mercy on us.",
+						"pt-BR": "Tende piedade de nós."
+					}
+				}
+			]
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "response",
+			"verses": [
+				{
+					"v": {
+						"en-US": "Blood of Christ, only-begotten Son of the Eternal Father,",
+						"pt-BR": "Sangue de Cristo, Filho Unigênito do Eterno Pai,"
+					},
+					"r": {
+						"en-US": "Save us.",
+						"pt-BR": "Salvai-nos."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Blood of Christ, Incarnate Word of God,",
+						"pt-BR": "Sangue de Cristo, Verbo de Deus encarnado,"
+					},
+					"r": {
+						"en-US": "Save us.",
+						"pt-BR": "Salvai-nos."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Blood of Christ, of the New and Eternal Testament,",
+						"pt-BR": "Sangue de Cristo, do Novo e Eterno Testamento,"
+					},
+					"r": {
+						"en-US": "Save us.",
+						"pt-BR": "Salvai-nos."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Blood of Christ, falling upon the earth in the Agony,",
+						"pt-BR": "Sangue de Cristo, derramado na terra durante a Agonia,"
+					},
+					"r": {
+						"en-US": "Save us.",
+						"pt-BR": "Salvai-nos."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Blood of Christ, shed profusely in the Scourging,",
+						"pt-BR": "Sangue de Cristo, profusamente derramado na Flagelação,"
+					},
+					"r": {
+						"en-US": "Save us.",
+						"pt-BR": "Salvai-nos."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Blood of Christ, flowing forth in the Crowning with Thorns,",
+						"pt-BR": "Sangue de Cristo, vertido na Coroação de Espinhos,"
+					},
+					"r": {
+						"en-US": "Save us.",
+						"pt-BR": "Salvai-nos."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Blood of Christ, poured out on the Cross,",
+						"pt-BR": "Sangue de Cristo, derramado na Cruz,"
+					},
+					"r": {
+						"en-US": "Save us.",
+						"pt-BR": "Salvai-nos."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Blood of Christ, price of our salvation,",
+						"pt-BR": "Sangue de Cristo, preço da nossa salvação,"
+					},
+					"r": {
+						"en-US": "Save us.",
+						"pt-BR": "Salvai-nos."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Blood of Christ, without which there is no forgiveness,",
+						"pt-BR": "Sangue de Cristo, sem o qual não há perdão,"
+					},
+					"r": {
+						"en-US": "Save us.",
+						"pt-BR": "Salvai-nos."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Blood of Christ, Eucharistic drink and refreshment of souls,",
+						"pt-BR": "Sangue de Cristo, bebida eucarística e refrigério das almas,"
+					},
+					"r": {
+						"en-US": "Save us.",
+						"pt-BR": "Salvai-nos."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Blood of Christ, stream of mercy,",
+						"pt-BR": "Sangue de Cristo, torrente de misericórdia,"
+					},
+					"r": {
+						"en-US": "Save us.",
+						"pt-BR": "Salvai-nos."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Blood of Christ, victor over demons,",
+						"pt-BR": "Sangue de Cristo, vencedor dos demônios,"
+					},
+					"r": {
+						"en-US": "Save us.",
+						"pt-BR": "Salvai-nos."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Blood of Christ, courage of martyrs,",
+						"pt-BR": "Sangue de Cristo, fortaleza dos mártires,"
+					},
+					"r": {
+						"en-US": "Save us.",
+						"pt-BR": "Salvai-nos."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Blood of Christ, strength of confessors,",
+						"pt-BR": "Sangue de Cristo, vigor dos confessores,"
+					},
+					"r": {
+						"en-US": "Save us.",
+						"pt-BR": "Salvai-nos."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Blood of Christ, bringing forth virgins,",
+						"pt-BR": "Sangue de Cristo, que gerais as virgens,"
+					},
+					"r": {
+						"en-US": "Save us.",
+						"pt-BR": "Salvai-nos."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Blood of Christ, help of those in peril,",
+						"pt-BR": "Sangue de Cristo, amparo dos que estão em perigo,"
+					},
+					"r": {
+						"en-US": "Save us.",
+						"pt-BR": "Salvai-nos."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Blood of Christ, relief of the burdened,",
+						"pt-BR": "Sangue de Cristo, alívio dos oprimidos,"
+					},
+					"r": {
+						"en-US": "Save us.",
+						"pt-BR": "Salvai-nos."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Blood of Christ, solace in sorrow,",
+						"pt-BR": "Sangue de Cristo, consolo no pranto,"
+					},
+					"r": {
+						"en-US": "Save us.",
+						"pt-BR": "Salvai-nos."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Blood of Christ, hope of the penitent,",
+						"pt-BR": "Sangue de Cristo, esperança dos penitentes,"
+					},
+					"r": {
+						"en-US": "Save us.",
+						"pt-BR": "Salvai-nos."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Blood of Christ, consolation of the dying,",
+						"pt-BR": "Sangue de Cristo, consolação dos moribundos,"
+					},
+					"r": {
+						"en-US": "Save us.",
+						"pt-BR": "Salvai-nos."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Blood of Christ, peace and tenderness of hearts,",
+						"pt-BR": "Sangue de Cristo, paz e doçura dos corações,"
+					},
+					"r": {
+						"en-US": "Save us.",
+						"pt-BR": "Salvai-nos."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Blood of Christ, pledge of eternal life,",
+						"pt-BR": "Sangue de Cristo, penhor da vida eterna,"
+					},
+					"r": {
+						"en-US": "Save us.",
+						"pt-BR": "Salvai-nos."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Blood of Christ, freeing souls from purgatory,",
+						"pt-BR": "Sangue de Cristo, que libertais as almas do purgatório,"
+					},
+					"r": {
+						"en-US": "Save us.",
+						"pt-BR": "Salvai-nos."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Blood of Christ, most worthy of all glory and honor,",
+						"pt-BR": "Sangue de Cristo, digníssimo de toda glória e honra,"
+					},
+					"r": {
+						"en-US": "Save us.",
+						"pt-BR": "Salvai-nos."
+					}
+				}
+			]
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "response",
+			"verses": [
+				{
+					"v": {
+						"en-US": "Lamb of God, who takest away the sins of the world,",
+						"pt-BR": "Cordeiro de Deus, que tirais os pecados do mundo,"
+					},
+					"r": {
+						"en-US": "Spare us, O Lord.",
+						"pt-BR": "Perdoai-nos, Senhor."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Lamb of God, who takest away the sins of the world,",
+						"pt-BR": "Cordeiro de Deus, que tirais os pecados do mundo,"
+					},
+					"r": {
+						"en-US": "Graciously hear us, O Lord.",
+						"pt-BR": "Ouvi-nos, Senhor."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Lamb of God, who takest away the sins of the world,",
+						"pt-BR": "Cordeiro de Deus, que tirais os pecados do mundo,"
+					},
+					"r": {
+						"en-US": "Have mercy on us.",
+						"pt-BR": "Tende piedade de nós."
+					}
+				}
+			]
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "response",
+			"verses": [
+				{
+					"v": {
+						"en-US": "Thou hast redeemed us, O Lord, in Thy Blood.",
+						"pt-BR": "Remistes-nos, Senhor, com o Vosso Sangue."
+					},
+					"r": {
+						"en-US": "And made us, for our God, a kingdom.",
+						"pt-BR": "E fizestes de nós um reino para o nosso Deus."
+					}
+				}
+			]
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "Let us pray.",
+				"pt-BR": "Oremos."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Almighty and eternal God, who hast appointed Thine only-begotten Son the Redeemer of the world, and willed to be appeased by His Blood, grant, we beseech Thee, that we may worthily adore this price of our salvation, and through its power be safeguarded from the evils of the present life, so that we may rejoice in its fruits forever in heaven. Through the same Christ our Lord. Amen.",
+				"pt-BR": "Deus onipotente e eterno, que constituístes Vosso Filho Unigênito Redentor do mundo e quisestes ser aplacado pelo Seu Sangue, concedei-nos, Vos suplicamos, venerar de tal modo o preço da nossa salvação e por seu poder sermos defendidos dos males da vida presente, para que possamos gozar perpetuamente dos seus frutos no céu. Pelo mesmo Cristo Nosso Senhor. Amém."
+			}
+		}
+	]
+}

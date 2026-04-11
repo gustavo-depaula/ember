@@ -1,0 +1,515 @@
+{
+	"sections": [
+		{
+			"type": "prayer",
+			"ref": "sign-of-cross"
+		},
+		{
+			"type": "response",
+			"verses": [
+				{
+					"v": {
+						"en-US": "Lord, have mercy.",
+						"pt-BR": "Senhor, tende piedade."
+					},
+					"r": {
+						"en-US": "Lord, have mercy.",
+						"pt-BR": "Senhor, tende piedade."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Christ, have mercy.",
+						"pt-BR": "Cristo, tende piedade."
+					},
+					"r": {
+						"en-US": "Christ, have mercy.",
+						"pt-BR": "Cristo, tende piedade."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Lord, have mercy.",
+						"pt-BR": "Senhor, tende piedade."
+					},
+					"r": {
+						"en-US": "Lord, have mercy.",
+						"pt-BR": "Senhor, tende piedade."
+					}
+				}
+			]
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "response",
+			"verses": [
+				{
+					"v": {
+						"en-US": "Christ, hear us.",
+						"pt-BR": "Cristo, ouvi-nos."
+					},
+					"r": {
+						"en-US": "Christ, graciously hear us.",
+						"pt-BR": "Cristo, atendei-nos."
+					}
+				},
+				{
+					"v": {
+						"en-US": "God the Father of Heaven,",
+						"pt-BR": "Deus Pai do Céu,"
+					},
+					"r": {
+						"en-US": "Have mercy on us.",
+						"pt-BR": "Tende piedade de nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "God the Son, Redeemer of the world,",
+						"pt-BR": "Deus Filho, Redentor do mundo,"
+					},
+					"r": {
+						"en-US": "Have mercy on us.",
+						"pt-BR": "Tende piedade de nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "God the Holy Spirit,",
+						"pt-BR": "Deus Espírito Santo,"
+					},
+					"r": {
+						"en-US": "Have mercy on us.",
+						"pt-BR": "Tende piedade de nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Holy Trinity, one God,",
+						"pt-BR": "Santíssima Trindade, um só Deus,"
+					},
+					"r": {
+						"en-US": "Have mercy on us.",
+						"pt-BR": "Tende piedade de nós."
+					}
+				}
+			]
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "response",
+			"verses": [
+				{
+					"v": {
+						"en-US": "Holy Spirit, who proceedest from the Father and the Son,",
+						"pt-BR": "Espírito Santo, que procedeis do Pai e do Filho,"
+					},
+					"r": {
+						"en-US": "Have mercy on us.",
+						"pt-BR": "Tende piedade de nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Spirit of the Lord, who fillest the whole world,",
+						"pt-BR": "Espírito do Senhor, que encheis o universo inteiro,"
+					},
+					"r": {
+						"en-US": "Have mercy on us.",
+						"pt-BR": "Tende piedade de nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Spirit of truth,",
+						"pt-BR": "Espírito de verdade,"
+					},
+					"r": {
+						"en-US": "Have mercy on us.",
+						"pt-BR": "Tende piedade de nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Spirit of wisdom and understanding,",
+						"pt-BR": "Espírito de sabedoria e entendimento,"
+					},
+					"r": {
+						"en-US": "Have mercy on us.",
+						"pt-BR": "Tende piedade de nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Spirit of counsel and fortitude,",
+						"pt-BR": "Espírito de conselho e fortaleza,"
+					},
+					"r": {
+						"en-US": "Have mercy on us.",
+						"pt-BR": "Tende piedade de nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Spirit of knowledge and piety,",
+						"pt-BR": "Espírito de ciência e piedade,"
+					},
+					"r": {
+						"en-US": "Have mercy on us.",
+						"pt-BR": "Tende piedade de nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Spirit of the fear of the Lord,",
+						"pt-BR": "Espírito de temor do Senhor,"
+					},
+					"r": {
+						"en-US": "Have mercy on us.",
+						"pt-BR": "Tende piedade de nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Spirit of grace and prayer,",
+						"pt-BR": "Espírito de graça e oração,"
+					},
+					"r": {
+						"en-US": "Have mercy on us.",
+						"pt-BR": "Tende piedade de nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Spirit of peace and gentleness,",
+						"pt-BR": "Espírito de paz e mansidão,"
+					},
+					"r": {
+						"en-US": "Have mercy on us.",
+						"pt-BR": "Tende piedade de nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Spirit of modesty and innocence,",
+						"pt-BR": "Espírito de modéstia e inocência,"
+					},
+					"r": {
+						"en-US": "Have mercy on us.",
+						"pt-BR": "Tende piedade de nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Spirit of joy and hope,",
+						"pt-BR": "Espírito de alegria e esperança,"
+					},
+					"r": {
+						"en-US": "Have mercy on us.",
+						"pt-BR": "Tende piedade de nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Spirit of charity,",
+						"pt-BR": "Espírito de caridade,"
+					},
+					"r": {
+						"en-US": "Have mercy on us.",
+						"pt-BR": "Tende piedade de nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Holy Spirit, the Comforter,",
+						"pt-BR": "Espírito Santo, Consolador,"
+					},
+					"r": {
+						"en-US": "Have mercy on us.",
+						"pt-BR": "Tende piedade de nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Holy Spirit, the Sanctifier,",
+						"pt-BR": "Espírito Santo, Santificador,"
+					},
+					"r": {
+						"en-US": "Have mercy on us.",
+						"pt-BR": "Tende piedade de nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Holy Spirit, who governest the Church,",
+						"pt-BR": "Espírito Santo, que governais a Igreja,"
+					},
+					"r": {
+						"en-US": "Have mercy on us.",
+						"pt-BR": "Tende piedade de nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Gift of God, the Most High,",
+						"pt-BR": "Dom de Deus Altíssimo,"
+					},
+					"r": {
+						"en-US": "Have mercy on us.",
+						"pt-BR": "Tende piedade de nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Spirit who fillest the universe,",
+						"pt-BR": "Espírito que encheis o universo,"
+					},
+					"r": {
+						"en-US": "Have mercy on us.",
+						"pt-BR": "Tende piedade de nós."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Spirit of the adoption of the children of God,",
+						"pt-BR": "Espírito da adoção dos filhos de Deus,"
+					},
+					"r": {
+						"en-US": "Have mercy on us.",
+						"pt-BR": "Tende piedade de nós."
+					}
+				}
+			]
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "response",
+			"verses": [
+				{
+					"v": {
+						"en-US": "From all evil,",
+						"pt-BR": "De todo mal,"
+					},
+					"r": {
+						"en-US": "Graciously hear us, O Lord.",
+						"pt-BR": "Ouvi-nos, Senhor."
+					}
+				},
+				{
+					"v": {
+						"en-US": "From all sin,",
+						"pt-BR": "De todo pecado,"
+					},
+					"r": {
+						"en-US": "Graciously hear us, O Lord.",
+						"pt-BR": "Ouvi-nos, Senhor."
+					}
+				},
+				{
+					"v": {
+						"en-US": "From all temptation,",
+						"pt-BR": "De toda tentação,"
+					},
+					"r": {
+						"en-US": "Graciously hear us, O Lord.",
+						"pt-BR": "Ouvi-nos, Senhor."
+					}
+				},
+				{
+					"v": {
+						"en-US": "From presumption and despair,",
+						"pt-BR": "Da presunção e do desespero,"
+					},
+					"r": {
+						"en-US": "Graciously hear us, O Lord.",
+						"pt-BR": "Ouvi-nos, Senhor."
+					}
+				},
+				{
+					"v": {
+						"en-US": "From resistance to known truth,",
+						"pt-BR": "Da resistência à verdade conhecida,"
+					},
+					"r": {
+						"en-US": "Graciously hear us, O Lord.",
+						"pt-BR": "Ouvi-nos, Senhor."
+					}
+				},
+				{
+					"v": {
+						"en-US": "From obstinacy and impenitence,",
+						"pt-BR": "Da obstinação e da impenitência,"
+					},
+					"r": {
+						"en-US": "Graciously hear us, O Lord.",
+						"pt-BR": "Ouvi-nos, Senhor."
+					}
+				},
+				{
+					"v": {
+						"en-US": "From all uncleanness of body and soul,",
+						"pt-BR": "De toda impureza de corpo e alma,"
+					},
+					"r": {
+						"en-US": "Graciously hear us, O Lord.",
+						"pt-BR": "Ouvi-nos, Senhor."
+					}
+				}
+			]
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "response",
+			"verses": [
+				{
+					"v": {
+						"en-US": "That we may live according to Thy will,",
+						"pt-BR": "Para que vivamos segundo a Vossa vontade,"
+					},
+					"r": {
+						"en-US": "We beseech Thee, hear us.",
+						"pt-BR": "Nós Vos rogamos, ouvi-nos."
+					}
+				},
+				{
+					"v": {
+						"en-US": "That we may be made humble and obedient,",
+						"pt-BR": "Para que sejamos humildes e obedientes,"
+					},
+					"r": {
+						"en-US": "We beseech Thee, hear us.",
+						"pt-BR": "Nós Vos rogamos, ouvi-nos."
+					}
+				},
+				{
+					"v": {
+						"en-US": "That we may love all that is holy,",
+						"pt-BR": "Para que amemos tudo o que é santo,"
+					},
+					"r": {
+						"en-US": "We beseech Thee, hear us.",
+						"pt-BR": "Nós Vos rogamos, ouvi-nos."
+					}
+				},
+				{
+					"v": {
+						"en-US": "That we may overcome all evil inclinations,",
+						"pt-BR": "Para que vençamos todas as más inclinações,"
+					},
+					"r": {
+						"en-US": "We beseech Thee, hear us.",
+						"pt-BR": "Nós Vos rogamos, ouvi-nos."
+					}
+				},
+				{
+					"v": {
+						"en-US": "That we may bear the fruits of the Spirit,",
+						"pt-BR": "Para que produzamos os frutos do Espírito,"
+					},
+					"r": {
+						"en-US": "We beseech Thee, hear us.",
+						"pt-BR": "Nós Vos rogamos, ouvi-nos."
+					}
+				},
+				{
+					"v": {
+						"en-US": "That we may ask only for what is pleasing to Thee,",
+						"pt-BR": "Para que peçamos somente o que Vos agrada,"
+					},
+					"r": {
+						"en-US": "We beseech Thee, hear us.",
+						"pt-BR": "Nós Vos rogamos, ouvi-nos."
+					}
+				},
+				{
+					"v": {
+						"en-US": "That Thou wouldst kindly hear us,",
+						"pt-BR": "Para que bondosamente nos ouçais,"
+					},
+					"r": {
+						"en-US": "We beseech Thee, hear us.",
+						"pt-BR": "Nós Vos rogamos, ouvi-nos."
+					}
+				}
+			]
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "response",
+			"verses": [
+				{
+					"v": {
+						"en-US": "Lamb of God, who takest away the sins of the world,",
+						"pt-BR": "Cordeiro de Deus, que tirais os pecados do mundo,"
+					},
+					"r": {
+						"en-US": "Send us Thy Holy Spirit.",
+						"pt-BR": "Enviai-nos o Vosso Espírito Santo."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Lamb of God, who takest away the sins of the world,",
+						"pt-BR": "Cordeiro de Deus, que tirais os pecados do mundo,"
+					},
+					"r": {
+						"en-US": "Pour down into our souls the gifts of the Holy Spirit.",
+						"pt-BR": "Derramai sobre nossas almas os dons do Espírito Santo."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Lamb of God, who takest away the sins of the world,",
+						"pt-BR": "Cordeiro de Deus, que tirais os pecados do mundo,"
+					},
+					"r": {
+						"en-US": "Grant us the Spirit of wisdom and piety.",
+						"pt-BR": "Concedei-nos o Espírito de sabedoria e piedade."
+					}
+				}
+			]
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "response",
+			"verses": [
+				{
+					"v": {
+						"en-US": "Create in us a clean heart, O God.",
+						"pt-BR": "Criai em nós um coração puro, ó Deus."
+					},
+					"r": {
+						"en-US": "And renew a right spirit within us.",
+						"pt-BR": "E renovai em nós um espírito reto."
+					}
+				}
+			]
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "Let us pray.",
+				"pt-BR": "Oremos."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Grant, O merciful Father, that Thy Divine Spirit may enlighten, inflame, and purify us, that He may penetrate us with His heavenly dew and make us fruitful in good works; through our Lord Jesus Christ, Thy Son, who with Thee in the unity of the same Spirit, liveth and reigneth, world without end. Amen.",
+				"pt-BR": "Concedei, ó Pai misericordioso, que o Vosso Divino Espírito nos ilumine, inflame e purifique, que Ele nos penetre com o Seu celeste orvalho e nos torne fecundos em boas obras; por nosso Senhor Jesus Cristo, Vosso Filho, que convosco na unidade do mesmo Espírito, vive e reina, pelos séculos dos séculos. Amém."
+			}
+		}
+	]
+}
