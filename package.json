@@ -12,6 +12,7 @@
     "android": "pnpm --filter @ember/app run android",
     "parse-propers": "pnpm --filter @ember/app run parse-propers",
     "build:libraries": "scripts/build-libraries.sh",
+    "hearth:clean": "rm -f content/libraries/*.pray content/libraries/registry.json && find content/libraries -path '*/books/*/style.css' -delete",
     "build:webp": "scripts/convert-webp.sh",
     "build:hearth": "scripts/build-libraries.sh && scripts/convert-webp.sh",
     "hearth": "scripts/build-libraries.sh && scripts/convert-webp.sh && serve content -p 4100 --cors",
