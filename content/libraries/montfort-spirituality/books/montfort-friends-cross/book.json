@@ -1,0 +1,32 @@
+{
+  "id": "montfort-friends-cross",
+  "name": {
+    "fr-FR": "Lettre Circulaire aux Amis de la Croix"
+  },
+  "author": {
+    "fr-FR": "Saint Louis-Marie Grignion de Montfort"
+  },
+  "description": {
+    "fr-FR": "Lettre d'exhortation spirituelle adressée aux membres de la confrérie des Amis de la Croix, sur l'excellence et la pratique de la souffrance chrétienne."
+  },
+  "composed": 1714,
+  "languages": ["fr-FR"],
+  "toc": [
+    {
+      "id": "excellence",
+      "title": { "fr-FR": "Excellence de l'union des Amis de la Croix" }
+    },
+    {
+      "id": "perfection",
+      "title": { "fr-FR": "Pratiques de la perfection chrétienne" }
+    },
+    {
+      "id": "quatorze-regles",
+      "title": { "fr-FR": "Les quatorze règles" }
+    },
+    {
+      "id": "stimulants",
+      "title": { "fr-FR": "Les quatre stimulants de la bonne souffrance" }
+    }
+  ]
+}

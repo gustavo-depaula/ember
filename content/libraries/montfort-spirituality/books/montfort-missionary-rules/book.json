@@ -1,0 +1,23 @@
+{
+  "id": "montfort-missionary-rules",
+  "name": {
+    "fr-FR": "Règles des Prêtres Missionnaires de la Compagnie de Marie"
+  },
+  "author": {
+    "fr-FR": "Saint Louis-Marie Grignion de Montfort"
+  },
+  "description": {
+    "fr-FR": "Règle de vie pour les prêtres missionnaires de la Compagnie de Marie, couvrant leur vocation, pauvreté, obéissance, piété, et pratiques de mission."
+  },
+  "composed": 1713,
+  "languages": ["fr-FR"],
+  "toc": [
+    { "id": "fin-particuliere", "title": { "fr-FR": "Fin particulière de la Compagnie" } },
+    { "id": "pauvrete", "title": { "fr-FR": "Détachement ou pauvreté évangélique" } },
+    { "id": "obeissance", "title": { "fr-FR": "Obéissance" } },
+    { "id": "oraisons", "title": { "fr-FR": "Oraisons et exercices de piété" } },
+    { "id": "mepris-du-monde", "title": { "fr-FR": "Mépris du monde" } },
+    { "id": "charite", "title": { "fr-FR": "Charité envers le prochain" } },
+    { "id": "pratiques-missions", "title": { "fr-FR": "Pratiques de leurs missions" } }
+  ]
+}

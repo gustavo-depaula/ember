@@ -1,22 +1,70 @@
 {
   "id": "montfort-secret-rosary",
   "name": {
-    "en-US": "The Secret of the Rosary",
-    "pt-BR": "O Segredo do Rosário"
+    "fr-FR": "Le Secret Admirable du Très Saint Rosaire"
   },
   "author": {
-    "en-US": "St. Louis de Montfort",
-    "pt-BR": "São Luís Maria Grignion de Montfort"
+    "fr-FR": "Saint Louis-Marie Grignion de Montfort"
   },
   "description": {
-    "en-US": "A practical guide to praying the Rosary with devotion, presenting fifty 'roses' of instruction and meditation.",
-    "pt-BR": "Um guia prático para rezar o Rosário com devoção, apresentando cinquenta 'rosas' de instrução e meditação."
+    "fr-FR": "Guide spirituel sur la pratique du saint Rosaire, ses mystères et ses fruits, adressé aux prêtres, pécheurs, âmes dévotes et enfants."
   },
-  "composed": "c. 1710",
-  "languages": ["en-US"],
+  "composed": 1710,
+  "languages": ["fr-FR"],
   "toc": [
-    { "id": "rose-01", "title": { "en-US": "First Rose: The Prayers of the Rosary" } },
-    { "id": "rose-02", "title": { "en-US": "Second Rose: Origin of the Rosary" } },
-    { "id": "rose-03", "title": { "en-US": "Third Rose: St. Dominic" } }
+    {
+      "id": "rose-blanche",
+      "title": {
+        "fr-FR": "Rose Blanche — Aux prêtres et prédicateurs"
+      }
+    },
+    {
+      "id": "rose-rouge",
+      "title": {
+        "fr-FR": "Rose Rouge — Aux pécheurs"
+      }
+    },
+    {
+      "id": "rosier-mystique",
+      "title": {
+        "fr-FR": "Rosier Mystique — Aux âmes dévotes"
+      }
+    },
+    {
+      "id": "bouton-de-rose",
+      "title": {
+        "fr-FR": "Bouton de Rose — Aux enfants"
+      }
+    },
+    {
+      "id": "dizaine-1",
+      "title": {
+        "fr-FR": "Première Dizaine — L'excellence du saint Rosaire dans son origine et son nom"
+      }
+    },
+    {
+      "id": "dizaine-2",
+      "title": {
+        "fr-FR": "Deuxième Dizaine — L'excellence du saint Rosaire dans les prières dont il est composé"
+      }
+    },
+    {
+      "id": "dizaine-3",
+      "title": {
+        "fr-FR": "Troisième Dizaine — Excellence du saint Rosaire dans la méditation de la vie et de la Passion de Notre-Seigneur Jésus-Christ"
+      }
+    },
+    {
+      "id": "dizaine-4",
+      "title": {
+        "fr-FR": "Quatrième Dizaine — L'excellence du saint Rosaire dans les merveilles que Dieu a opérées en sa faveur"
+      }
+    },
+    {
+      "id": "dizaine-5",
+      "title": {
+        "fr-FR": "Cinquième Dizaine — La manière sainte de réciter le Rosaire"
+      }
+    }
   ]
 }

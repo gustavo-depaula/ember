@@ -1,0 +1,136 @@
+{
+  "id": "montfort-love-wisdom",
+  "name": {
+    "fr-FR": "L'Amour de la Sagesse Éternelle"
+  },
+  "author": {
+    "fr-FR": "Saint Louis-Marie Grignion de Montfort"
+  },
+  "description": {
+    "fr-FR": "Un traité sur la recherche et l'acquisition de la Sagesse divine, incarnée en Jésus-Christ, et les moyens de la posséder."
+  },
+  "composed": 1704,
+  "languages": ["fr-FR"],
+  "toc": [
+    {
+      "id": "prayer",
+      "title": {
+        "fr-FR": "Prière à la Sagesse éternelle"
+      }
+    },
+    {
+      "id": "avis",
+      "title": {
+        "fr-FR": "Avis que la divine Sagesse donne aux princes et aux grands du monde"
+      }
+    },
+    {
+      "id": "remarques",
+      "title": {
+        "fr-FR": "Remarques de l'auteur"
+      }
+    },
+    {
+      "id": "ch-01",
+      "title": {
+        "fr-FR": "Chapitre I — Pour aimer et rechercher la divine Sagesse, il est nécessaire de la connaître"
+      }
+    },
+    {
+      "id": "ch-02",
+      "title": {
+        "fr-FR": "Chapitre II — L'origine et l'excellence de la Sagesse éternelle"
+      }
+    },
+    {
+      "id": "ch-03",
+      "title": {
+        "fr-FR": "Chapitre III — Merveilles de la puissance de la divine Sagesse dans la création du monde et de l'homme"
+      }
+    },
+    {
+      "id": "ch-04",
+      "title": {
+        "fr-FR": "Chapitre IV — Merveilles de la bonté et miséricorde de la Sagesse éternelle avant son incarnation"
+      }
+    },
+    {
+      "id": "ch-05",
+      "title": {
+        "fr-FR": "Chapitre V — L'excellence merveilleuse de la Sagesse éternelle"
+      }
+    },
+    {
+      "id": "ch-06",
+      "title": {
+        "fr-FR": "Chapitre VI — Les désirs empressés que la divine Sagesse a de se donner aux hommes"
+      }
+    },
+    {
+      "id": "ch-07",
+      "title": {
+        "fr-FR": "Chapitre VII — L'élection de la vraie Sagesse"
+      }
+    },
+    {
+      "id": "ch-08",
+      "title": {
+        "fr-FR": "Chapitre VIII — Effets merveilleux de la Sagesse éternelle dans les âmes de ceux qui la possèdent"
+      }
+    },
+    {
+      "id": "ch-09",
+      "title": {
+        "fr-FR": "Chapitre IX — L'incarnation et la vie de la Sagesse éternelle"
+      }
+    },
+    {
+      "id": "ch-10",
+      "title": {
+        "fr-FR": "Chapitre X — La beauté charmante et la douceur ineffable de la Sagesse incarnée"
+      }
+    },
+    {
+      "id": "ch-11",
+      "title": {
+        "fr-FR": "Chapitre XI — La douceur de la conduite de la Sagesse incarnée"
+      }
+    },
+    {
+      "id": "ch-12",
+      "title": {
+        "fr-FR": "Chapitre XII — Les principaux oracles de la Sagesse incarnée qu'il faut croire et pratiquer pour être sauvés"
+      }
+    },
+    {
+      "id": "ch-13",
+      "title": {
+        "fr-FR": "Chapitre XIII — Abrégé des douleurs inexplicables que la Sagesse incarnée a voulu souffrir pour notre amour"
+      }
+    },
+    {
+      "id": "ch-14",
+      "title": {
+        "fr-FR": "Chapitre XIV — Le triomphe de la Sagesse éternelle dans la croix et par la croix"
+      }
+    },
+    {
+      "id": "ch-15",
+      "title": {
+        "fr-FR": "Chapitre XV — Moyens pour acquérir la divine Sagesse: Premier moyen, un désir ardent; Deuxième moyen, une prière continuelle"
+      }
+    },
+    {
+      "id": "ch-16",
+      "title": {
+        "fr-FR": "Chapitre XVI — Moyens pour acquérir la divine Sagesse: Troisième moyen, une mortification universelle"
+      }
+    },
+    {
+      "id": "ch-17",
+      "title": {
+        "fr-FR": "Chapitre XVII — Quatrième moyen: une tendre et véritable dévotion à la Sainte Vierge"
+      }
+    }
+  ]
+}
