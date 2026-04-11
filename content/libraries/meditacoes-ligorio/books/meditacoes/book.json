@@ -15,9 +15,33 @@
   ],
   "toc": [
     {
+      "id": "titulo",
+      "title": {
+        "pt-BR": "Página de Título"
+      }
+    },
+    {
+      "id": "aprovacao",
+      "title": {
+        "pt-BR": "Aprovação"
+      }
+    },
+    {
+      "id": "prefacio",
+      "title": {
+        "pt-BR": "Prefácio"
+      }
+    },
+    {
       "id": "modo-fazer-oracao-mental",
       "title": {
         "pt-BR": "Modo de fazer Oração Mental, por Santo Afonso"
+      }
+    },
+    {
+      "id": "virtudes",
+      "title": {
+        "pt-BR": "XII Virtudes para cada Mês do Ano"
       }
     },
     {
