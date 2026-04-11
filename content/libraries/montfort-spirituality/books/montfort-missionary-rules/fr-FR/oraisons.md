@@ -16,4 +16,4 @@
 
 35. 8. Au retour de leurs missions, pendant le repos que la divine Sagesse leur accorde et leur conseille, venite seorsum et requiescite pusillum, [Mc 6,31] ils s'appliquent à l'étude pour se perfectionner de plus en plus dans la science de la chaire et du confessionnal.
 
-36. 9. On ne leur prescrit par règle aucune pénitence corporelle; on les laisse pour cela à leur ferveur, conduite par l'obéissance; seulement ils font abstinence de viandes le mercredi et jeûnent le vendredi, ou le samedi, et on ne leur présente ces deux [jours] au soir que des viandes propres de collation.
+36. 9. On ne leur prescrit par règle aucune pénitence corporelle; on les laisse pour cela à leur ferveur, conduite par l'obéissance; seulement ils font abstinence de viandes le mercredi et jeûnent le vendredi, ou le samedi, et on ne leur présente ces deux jours au soir que des viandes propres de collation.
