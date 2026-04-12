@@ -6,10 +6,12 @@ export type ReaderMessage =
   | { type: 'boundary'; direction: 'prev' | 'next' }
   | { type: 'ready' }
   | { type: 'centerTap' }
+  | { type: 'backSwipe' }
 
 export type ReaderWebViewHandle = {
-  loadChapter: (html: string, startPage: number) => void
+  loadChapter: (html: string, startPage: number, direction?: 'next' | 'prev') => void
   goToPage: (page: number) => void
+  updateStyles: (css: string) => void
 }
 
 type Props = {
@@ -28,15 +30,22 @@ const NativeWebView = forwardRef<ReaderWebViewHandle, Props>(function NativeWebV
   const webViewRef = useRef<any>(null)
 
   useImperativeHandle(ref, () => ({
-    loadChapter(body: string, startPage: number) {
+    loadChapter(body: string, startPage: number, direction?: 'next' | 'prev') {
       const escaped = JSON.stringify(body)
+      const dir = direction ? `"${direction}"` : 'undefined'
       webViewRef.current?.injectJavaScript(
-        `window.postMessage(JSON.stringify({ type: 'loadChapter', html: ${escaped}, startPage: ${startPage} })); true;`,
+        `window.postMessage(JSON.stringify({ type: 'loadChapter', html: ${escaped}, startPage: ${startPage}, direction: ${dir} })); true;`,
       )
     },
     goToPage(page: number) {
       webViewRef.current?.injectJavaScript(
         `window.postMessage(JSON.stringify({ type: 'goToPage', page: ${page} })); true;`,
+      )
+    },
+    updateStyles(css: string) {
+      const escaped = JSON.stringify(css)
+      webViewRef.current?.injectJavaScript(
+        `window.postMessage(JSON.stringify({ type: 'updateStyles', css: ${escaped} })); true;`,
       )
     },
   }))
@@ -73,14 +82,20 @@ const WebIframe = forwardRef<ReaderWebViewHandle, Props>(function WebIframe(
   const iframeRef = useRef<HTMLIFrameElement>(null)
 
   useImperativeHandle(ref, () => ({
-    loadChapter(body: string, startPage: number) {
+    loadChapter(body: string, startPage: number, direction?: 'next' | 'prev') {
       iframeRef.current?.contentWindow?.postMessage(
-        JSON.stringify({ type: 'loadChapter', html: body, startPage }),
+        JSON.stringify({ type: 'loadChapter', html: body, startPage, direction }),
         '*',
       )
     },
     goToPage(page: number) {
       iframeRef.current?.contentWindow?.postMessage(JSON.stringify({ type: 'goToPage', page }), '*')
+    },
+    updateStyles(css: string) {
+      iframeRef.current?.contentWindow?.postMessage(
+        JSON.stringify({ type: 'updateStyles', css }),
+        '*',
+      )
     },
   }))
 
