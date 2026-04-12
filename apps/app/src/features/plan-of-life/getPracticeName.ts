@@ -16,8 +16,8 @@ export function getSlotName(slot: UserPracticeSlot, t: TFunction): string {
   const manifest = getManifest(slot.practice_id)
 
   if (manifest) {
-    // Multi-flow: use the flow name from manifest
-    if (slot.slot_id !== 'default' && manifest.flows.length > 1) {
+    // Multi-flow: use the flow name from manifest (skip for form-based practices)
+    if (slot.slot_id !== 'default' && manifest.flows.length > 1 && !manifest.forms) {
       const flow = manifest.flows.find((f) => f.id === slot.slot_id)
       if (flow) return localizeContent(flow.name)
     }

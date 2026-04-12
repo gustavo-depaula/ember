@@ -129,7 +129,41 @@ export function PracticeFlow({
 
   const { data: slots = [] } = useSlots()
   const currentSlot = slots.find((s) => s.practice_id === practiceId)
-  const flowId = flowIdProp ?? currentSlot?.slot_id ?? 'default'
+  const slotFlowId = flowIdProp ?? currentSlot?.slot_id ?? 'default'
+
+  // Form switching: when manifest declares forms, allow switching between them
+  const formsConfig = manifest?.forms
+  const preferenceValue = usePreferencesStore((s) =>
+    formsConfig ? (s as Record<string, unknown>)[formsConfig.preference] : undefined,
+  ) as string | undefined
+
+  const formModes = useMemo(() => {
+    if (!formsConfig) return []
+    return formsConfig.options.map((opt) => ({
+      id: opt.id,
+      label: localizeContent(opt.name),
+    }))
+  }, [formsConfig])
+
+  const defaultFormId = useMemo(() => {
+    if (!formsConfig) return undefined
+    const matched = formsConfig.options.find((opt) => opt.preferenceValue === preferenceValue)
+    return matched?.id ?? formsConfig.options[0]?.id
+  }, [formsConfig, preferenceValue])
+
+  const [activeFormId, setActiveFormId] = useState(defaultFormId)
+  useEffect(() => {
+    if (defaultFormId) setActiveFormId(defaultFormId)
+  }, [defaultFormId])
+
+  // Resolve the base flow ID: for form-based practices, use the active form's primary flow
+  const flowId = useMemo(() => {
+    if (activeFormId && manifest) {
+      const primaryFlow = manifest.flows.find((f) => f.form === activeFormId && !f.group)
+      if (primaryFlow) return primaryFlow.id
+    }
+    return slotFlowId
+  }, [activeFormId, manifest, slotFlowId])
 
   const [activeFlowId, setActiveFlowId] = useState(flowId)
   useEffect(() => setActiveFlowId(flowId), [flowId])
@@ -384,6 +418,16 @@ export function PracticeFlow({
               {formattedDate}
             </Text>
           </YStack>
+
+          {formModes.length > 1 && activeFormId && (
+            <YStack paddingHorizontal={readingMargin} paddingBottom="$md">
+              <ViewModeSelector
+                modes={formModes}
+                activeId={activeFormId}
+                onSelect={setActiveFormId}
+              />
+            </YStack>
+          )}
 
           {viewModes.length > 0 && (
             <YStack paddingHorizontal={readingMargin} paddingBottom="$md">

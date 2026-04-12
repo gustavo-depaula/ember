@@ -176,7 +176,11 @@ export default function CatalogDetailScreen() {
 
         {!isProgram && manifest.flows.length === 1 && <PrayButton practiceId={manifest.id} />}
 
-        {!isProgram && manifest.flows.length > 1 && (
+        {!isProgram && manifest.flows.length > 1 && manifest.forms && (
+          <PrayButton practiceId={manifest.id} />
+        )}
+
+        {!isProgram && manifest.flows.length > 1 && !manifest.forms && (
           <YStack gap="$sm">
             <FlowButtons practiceId={manifest.id} flows={manifest.flows} />
           </YStack>

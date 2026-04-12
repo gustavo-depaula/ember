@@ -310,31 +310,32 @@ export default function SettingsScreen() {
                 <LocalHearthToggle />
               </XStack>
             </YStack>
-            <Pressable
-              onPress={() =>
-                Alert.alert('Reset Database', 'Drop all data and re-seed?', [
-                  { text: 'Cancel', style: 'cancel' },
-                  {
-                    text: 'Reset',
-                    style: 'destructive',
-                    onPress: () => resetDatabase(),
-                  },
-                ])
-              }
-            >
-              <YStack
-                backgroundColor="$backgroundSurface"
-                borderRadius="$lg"
-                padding="$md"
-                alignItems="center"
-              >
-                <Text fontFamily="$body" fontSize="$2" color="$colorBurgundy">
-                  Reset Database (Dev)
-                </Text>
-              </YStack>
-            </Pressable>
           </YStack>
         )}
+
+        <Pressable
+          onPress={() =>
+            Alert.alert('Reset Database', 'Drop all data and re-seed?', [
+              { text: 'Cancel', style: 'cancel' },
+              {
+                text: 'Reset',
+                style: 'destructive',
+                onPress: () => resetDatabase(),
+              },
+            ])
+          }
+        >
+          <YStack
+            backgroundColor="$backgroundSurface"
+            borderRadius="$lg"
+            padding="$md"
+            alignItems="center"
+          >
+            <Text fontFamily="$body" fontSize="$2" color="$colorBurgundy">
+              Reset Database
+            </Text>
+          </YStack>
+        </Pressable>
 
         <SectionDivider />
 

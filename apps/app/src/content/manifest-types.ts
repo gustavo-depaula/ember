@@ -8,6 +8,18 @@ export type FlowEntry = {
   file: string
   timeBlock?: string
   group?: string
+  form?: string
+}
+
+export type FormOption = {
+  id: string
+  name: LocalizedText
+  preferenceValue: string
+}
+
+export type FormsConfig = {
+  preference: string
+  options: FormOption[]
 }
 
 export type SlotDefault = {
@@ -53,6 +65,7 @@ export type PracticeManifest = {
   theme?: 'office'
   data?: Record<string, string>
   tracks?: Record<string, string>
+  forms?: FormsConfig
   flows: FlowEntry[]
   variants?: {
     id: string
