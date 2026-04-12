@@ -1,5 +1,6 @@
 export { PracticeFlow } from './PracticeFlow'
 export { PracticeTeachingContent } from './PracticeTeachingContent'
+export { ProgramRestartModal } from './ProgramRestartModal'
 export { TrackPicker } from './TrackPicker'
 export { VariantSelector } from './VariantSelector'
 export { ViewModeSelector } from './ViewModeSelector'

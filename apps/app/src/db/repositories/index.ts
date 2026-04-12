@@ -1,14 +1,11 @@
 export { clearCache, getCached, setCache } from './cache'
-export type { ProgramCursorPosition } from './cursors'
 export {
   advanceIndex,
-  completeProgramCursor,
   createProgramCursor,
   ensureCursor,
   getCursor,
   getCursorsWithPrefix,
   getProgramCursor,
-  parseProgramPosition,
   restartProgram,
   setCursor,
   setIndex,
@@ -16,6 +13,7 @@ export {
 export {
   addSlot,
   archivePractice,
+  backfillMissedDays,
   changeSlotFlow,
   createPractice,
   createPracticeWithSlot,

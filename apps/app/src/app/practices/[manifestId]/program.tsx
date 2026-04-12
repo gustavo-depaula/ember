@@ -1,5 +1,6 @@
+import { addDays, format } from 'date-fns'
 import { useLocalSearchParams, useRouter } from 'expo-router'
-import { AlertTriangle, Check, ChevronLeft } from 'lucide-react-native'
+import { Check, ChevronLeft } from 'lucide-react-native'
 import { useMemo } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
@@ -9,8 +10,14 @@ import { AnimatedPressable, ScreenLayout } from '@/components'
 import { PracticeIcon } from '@/components/PracticeIcon'
 import { getManifest, getManifestIconKey, loadPracticeData } from '@/content/registry'
 import type { CycleData } from '@/content/types'
-import { useProgramProgress, useRestartProgram } from '@/features/plan-of-life'
+import {
+  useBackfillMissedDays,
+  useProgramProgress,
+  useRestartProgram,
+} from '@/features/plan-of-life'
 import { computeAllDayStates } from '@/features/plan-of-life/program'
+import { ProgramRestartModal } from '@/features/practices/components'
+import { getToday } from '@/hooks/useToday'
 import { localizeContent } from '@/lib/i18n'
 
 function getDayTitles(cycleData: Record<string, CycleData> | undefined): string[] {
@@ -37,6 +44,7 @@ export default function ProgramDetailScreen() {
   const manifest = manifestId ? getManifest(manifestId) : undefined
   const { data: progress } = useProgramProgress(manifest?.id ?? '', manifest?.program)
   const restartProgramMutation = useRestartProgram()
+  const backfillMutation = useBackfillMissedDays()
 
   const cycleData = manifestId ? loadPracticeData(manifestId) : undefined
   const dayTitles = useMemo(() => getDayTitles(cycleData), [cycleData])
@@ -68,6 +76,16 @@ export default function ProgramDetailScreen() {
         },
       },
     )
+  }
+
+  function handleBackfill() {
+    if (!manifest?.program || !progress) return
+    const today = getToday()
+    const missedDates: string[] = []
+    for (let i = progress.missedDays; i >= 1; i--) {
+      missedDates.push(format(addDays(today, -i), 'yyyy-MM-dd'))
+    }
+    backfillMutation.mutate({ practiceId: manifest.id, dates: missedDates })
   }
 
   return (
@@ -135,31 +153,12 @@ export default function ProgramDetailScreen() {
         )}
 
         {shouldPromptRestart && !isComplete && (
-          <YStack
-            backgroundColor="$backgroundSurface"
-            borderRadius="$lg"
-            padding="$lg"
-            alignItems="center"
-            gap="$md"
-          >
-            <AlertTriangle size={24} color={theme.accent?.val} />
-            <Text fontFamily="$body" fontSize="$3" color="$colorSecondary" textAlign="center">
-              {t('program.missedTooMany')}
-            </Text>
-            <AnimatedPressable onPress={handleRestart}>
-              <YStack
-                backgroundColor="$accent"
-                borderRadius="$md"
-                paddingVertical="$sm"
-                paddingHorizontal="$lg"
-                alignItems="center"
-              >
-                <Text fontFamily="$heading" fontSize="$3" color="white">
-                  {t('program.restart')}
-                </Text>
-              </YStack>
-            </AnimatedPressable>
-          </YStack>
+          <ProgramRestartModal
+            practiceName={localizeContent(manifest.name)}
+            missedDays={progress.missedDays}
+            onRestart={handleRestart}
+            onContinue={handleBackfill}
+          />
         )}
 
         <YStack gap="$xs">
