@@ -704,6 +704,7 @@ export default {
     suscipe: 'Suscipe',
     'thanksgiving-mass': 'Thanksgiving After Mass',
     'three-oclock-prayer': "Three O'Clock Prayer",
+    'triduum-holy-spirit': 'Triduum to the Holy Spirit',
     'veni-creator': 'Veni Creator Spiritus',
     'visit-blessed-sacrament': 'Visit to the Blessed Sacrament',
     'way-of-light': 'Way of Light',

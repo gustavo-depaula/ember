@@ -731,6 +731,7 @@ export default {
     suscipe: 'Suscipe',
     'thanksgiving-mass': 'Ação de Graças após a Missa',
     'three-oclock-prayer': 'Oração das Três da Tarde',
+    'triduum-holy-spirit': 'Tríduo ao Espírito Santo',
     'veni-creator': 'Veni Creator Spiritus',
     'visit-blessed-sacrament': 'Visita ao Santíssimo Sacramento',
     'way-of-light': 'Via Lucis',
