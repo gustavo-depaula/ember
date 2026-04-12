@@ -7,6 +7,7 @@ export default function BookLayout() {
     <Stack
       screenOptions={{
         headerShown: false,
+        gestureEnabled: false,
         contentStyle: { backgroundColor: theme.background.val },
       }}
     />

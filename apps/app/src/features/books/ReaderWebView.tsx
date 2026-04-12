@@ -5,6 +5,7 @@ export type ReaderMessage =
   | { type: 'pageInfo'; currentPage: number; totalPages: number }
   | { type: 'boundary'; direction: 'prev' | 'next' }
   | { type: 'ready' }
+  | { type: 'centerTap' }
 
 export type ReaderWebViewHandle = {
   loadChapter: (html: string, startPage: number) => void

@@ -20,13 +20,13 @@ import {
   resolvePrayer,
 } from '@/content/registry'
 import type { Library } from '@/content/sources/filesystem'
-import type { BookPreview, PracticePreview, PrayerPreview } from '@/features/books/libraryManager'
 import {
   useAvailableBooks,
   useDownloadBook,
   useInstalledBooks,
   useRemoveBook,
 } from '@/features/books/hooks'
+import type { BookPreview, PracticePreview, PrayerPreview } from '@/features/books/libraryManager'
 import { useAllSlots } from '@/features/plan-of-life'
 import { localizeBilingual, localizeContent } from '@/lib/i18n'
 import { usePreferencesStore } from '@/stores/preferencesStore'
