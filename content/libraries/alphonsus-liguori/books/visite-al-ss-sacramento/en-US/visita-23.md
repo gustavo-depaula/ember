@@ -1,0 +1,19 @@
+# Visit XXIII
+
+Many Christians undertake great labors and expose themselves to many dangers to visit the holy places of the Holy Land, where our most loving Savior was born, suffered, and died. We have no need to make so long a journey or to undertake so many dangers; the Lord himself is near us, dwelling in the church just a few steps from our homes. If pilgrims consider it a great fortune, says St. Paulinus, to bring back from those holy places a little dust from the manger or from the sepulcher where Jesus was buried, with what ardor ought we to visit the Blessed Sacrament, where Jesus himself is present in person, without so many labors and without so many dangers? A religious person to whom God gave a great love for the Blessed Sacrament wrote in a letter, among other things, these sentiments: I have seen, he says, that all my good comes to me from the Blessed Sacrament. I have given and consecrated myself entirely to Jesus in the Sacrament. I see an innumerable number of graces that are not given because people do not go to this divine Sacrament. I see a great desire that our Lord has to dispense his graces in the Sacrament. O holy mystery! O sacred Host! What is there, if not this Host, in which God makes his power more known? For this Host contains all that God has ever done for us. Let us not envy the blessed, for we have on earth the same Lord with even greater marvels of his love. Do all you can so that those to whom you speak may dedicate themselves entirely to the Blessed Sacrament. I speak thus because this Sacrament carries me out of myself. Nor can I cease speaking of the Blessed Sacrament, which so greatly deserves to be loved. I know not what to do for Jesus in the Sacrament. So ends the letter.
+
+O Seraphim, you who sweetly burn with love around your Lord and mine: and yet it was not for love of you but for love of me that this King of heaven wished to place himself in this Sacrament. Allow me, then, O loving angels, to burn as well, and do you set me on fire with your ardor, so that together with you I too may burn.
+
+Oh, my Jesus, make me know the greatness of the love you bear to men, so that at the sight of so great a love there may ever grow in me the desire to love you and to give you pleasure. I love you, most lovable Lord, and I wish to love you always, only to please you. -- My Jesus, in you I believe, in you I hope, you I love, to you I give myself.
+
+Spiritual Communion.
+
+## To Mary
+
+Most lovable Virgin, St. Bonaventure calls you *Mater orphanorum* -- the Mother of orphans -- and St. Ephrem goes further and calls you *Susceptio orphanorum* -- the welcome of orphans. Alas, these miserable orphans are none other than poor sinners who have lost God! Behold, then, I have recourse to you, Most Holy Mary: I have lost my Father, but you are the Mother who must help me find him again. In my great misfortune I call on you for help; come to my aid. Shall I remain unconsoled? No; Innocent III says of you: *Quis invocavit eam et non est exauditus ab ipsa?* Who has ever prayed to you and not been heard and helped? Who has ever been lost who had recourse to you? Only he is lost who does not have recourse to you. Therefore, my Queen, if you wish me to be saved, grant that I may always invoke you and trust in you. -- My Mary, give me confidence in you.
+
+Prayer of St. Augustine:
+
+Remember, O most compassionate Mary, that it has never been heard in the world that anyone has had recourse to your protection and was abandoned by you. St. Bernard therefore says: *Quaeramus gratiam, et per Mariam quaeramus, quia quod quaerit invenit et frustrari non potest.* Let us always seek graces through Mary, for she obtains whatever she asks, and her requests can never meet with refusal. O Mother of God, you pray for all; pray also for me, who being a greater sinner than others, have greater need of your intercession.
+
+*Sub tuum praesidium confugio, sancta Dei genitrix.*

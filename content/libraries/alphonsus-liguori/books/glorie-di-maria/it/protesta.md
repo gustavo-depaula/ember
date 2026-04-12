@@ -1,0 +1,5 @@
+# Protesta dell'autore
+
+Se mai alcuno stimasse qualche proposizione scritta nel libro esser troppo avanzata, mi protesto di averla detta ed intesa nel senso della santa Chiesa Cattolica, e della sana Teologia. Per esempio, chiamando Maria *Mediatrice* ho inteso chiamarla tale, solo come Mediatrice di Grazia, a differenza di Gesù Cristo, ch'è il primo e l'unico Mediatore di Giustizia. Chiamando Maria *Onnipotente* (siccome l'han chiamata ancora S. Giovan Damasceno, S. Pier Damiani, S. Bonaventura, Cosmo Gerosolimitano, ed altri), ho inteso nominarla tale, in quanto ella come Madre di Dio ottiene da Lui colle sue preghiere quanto dimanda a beneficio de' suoi divoti; poiché né di questo, né di altro Attributo Divino può esser mai capace una creatura, qual'è Maria. Chiamando Maria nostra *Speranza*, ho inteso di chiamarla tale, perché tutte le grazie (come tiene S. Bernardo[^1]) passano per le sue mani.
+
+[^1]: Le parole di S. Bernardo, come quelle degli altri autori sopra citati, possono leggersi nei cap. V e VI.

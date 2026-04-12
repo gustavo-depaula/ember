@@ -1,0 +1,225 @@
+{
+  "id": "glorie-di-maria",
+  "name": {
+    "it": "Le Glorie di Maria",
+    "en-US": "The Glories of Mary",
+    "pt-BR": "As Glorias de Maria"
+  },
+  "author": {
+    "it": "Sant'Alfonso Maria de Liguori",
+    "en-US": "St. Alphonsus Maria de Liguori",
+    "pt-BR": "Santo Afonso Maria de Ligorio"
+  },
+  "description": {
+    "it": "Trattato sulla devozione a Maria Santissima, strutturato come commento alla Salve Regina, con esempi, preghiere e discorsi sulle feste mariane.",
+    "en-US": "A treatise on devotion to the Blessed Virgin Mary, structured as a commentary on the Salve Regina, with examples, prayers, and discourses on Marian feasts.",
+    "pt-BR": "Tratado sobre a devocao a Virgem Maria, estruturado como comentario a Salve Rainha, com exemplos, oracoes e discursos sobre as festas marianas."
+  },
+  "composed": 1750,
+  "languages": ["it"],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.intratext.com/IXT/ITASA0013/",
+      "description": "Italian text from IntraText CT"
+    }
+  ],
+  "toc": [
+    {
+      "id": "supplica",
+      "title": {
+        "it": "Supplica dell'autore a Gesù ed a Maria"
+      }
+    },
+    {
+      "id": "protesta",
+      "title": {
+        "it": "Protesta dell'autore"
+      }
+    },
+    {
+      "id": "avvertimento",
+      "title": {
+        "it": "Avvertimento al lettore"
+      }
+    },
+    {
+      "id": "introduzione",
+      "title": {
+        "it": "Introduzione"
+      }
+    },
+    {
+      "id": "parte-prima",
+      "title": {
+        "it": "Parte Prima — Commento alla Salve Regina"
+      },
+      "children": [
+        {
+          "id": "capitolo-01",
+          "title": {
+            "it": "Capitolo I — Salve, Regina, Mater misericordiae"
+          }
+        },
+        {
+          "id": "capitolo-02",
+          "title": {
+            "it": "Capitolo II — Vita, dulcedo"
+          }
+        },
+        {
+          "id": "capitolo-03",
+          "title": {
+            "it": "Capitolo III — Spes nostra, salve"
+          }
+        },
+        {
+          "id": "capitolo-04",
+          "title": {
+            "it": "Capitolo IV — Ad te clamamus, exsules filii Hevae"
+          }
+        },
+        {
+          "id": "capitolo-05",
+          "title": {
+            "it": "Capitolo V — Ad te suspiramus gementes et flentes in hac lacrimarum valle"
+          }
+        },
+        {
+          "id": "capitolo-06",
+          "title": {
+            "it": "Capitolo VI — Eia ergo advocata nostra"
+          }
+        },
+        {
+          "id": "capitolo-07",
+          "title": {
+            "it": "Capitolo VII — Illos tuos misericordes oculos ad nos converte"
+          }
+        },
+        {
+          "id": "capitolo-08",
+          "title": {
+            "it": "Capitolo VIII — Et Iesum benedictum fructum ventris tui nobis post hoc exsilium ostende"
+          }
+        },
+        {
+          "id": "capitolo-09",
+          "title": {
+            "it": "Capitolo IX — O clemens, o pia"
+          }
+        },
+        {
+          "id": "capitolo-10",
+          "title": {
+            "it": "Capitolo X — O dulcis Virgo Maria"
+          }
+        }
+      ]
+    },
+    {
+      "id": "orazioni-santi",
+      "title": {
+        "it": "Orazioni molto divote di alcuni santi alla divina Madre"
+      }
+    },
+    {
+      "id": "parte-seconda",
+      "title": {
+        "it": "Parte Seconda — Discorsi sulle feste di Maria"
+      },
+      "children": [
+        {
+          "id": "discorso-01",
+          "title": {
+            "it": "Discorso I — Dell'Immacolata Concezione di Maria"
+          }
+        },
+        {
+          "id": "discorso-02",
+          "title": {
+            "it": "Discorso II — Della Nascita di Maria"
+          }
+        },
+        {
+          "id": "discorso-03",
+          "title": {
+            "it": "Discorso III — Della Presentazione di Maria"
+          }
+        },
+        {
+          "id": "discorso-04",
+          "title": {
+            "it": "Discorso IV — Dell'Annunziazione di Maria"
+          }
+        },
+        {
+          "id": "discorso-05",
+          "title": {
+            "it": "Discorso V — Della Visitazione di Maria"
+          }
+        },
+        {
+          "id": "discorso-06",
+          "title": {
+            "it": "Discorso VI — Della Purificazione di Maria"
+          }
+        },
+        {
+          "id": "discorso-07",
+          "title": {
+            "it": "Discorso VII — Dell'Assunzione di Maria"
+          }
+        },
+        {
+          "id": "discorso-08",
+          "title": {
+            "it": "Discorso VIII — Altro discorso dell'Assunzione di Maria"
+          }
+        },
+        {
+          "id": "discorso-09",
+          "title": {
+            "it": "Discorso IX — De' dolori di Maria"
+          }
+        }
+      ]
+    },
+    {
+      "id": "riflessioni-dolori",
+      "title": {
+        "it": "Riflessioni sopra ciascuno de' sette dolori di Maria in particolare"
+      }
+    },
+    {
+      "id": "virtu-di-maria",
+      "title": {
+        "it": "Delle virtù di Maria Santissima"
+      }
+    },
+    {
+      "id": "ossequi",
+      "title": {
+        "it": "Vari ossequi di divozione verso la divina Madre colle loro pratiche"
+      }
+    },
+    {
+      "id": "conclusione",
+      "title": {
+        "it": "Conclusione dell'opera"
+      }
+    },
+    {
+      "id": "esempi",
+      "title": {
+        "it": "Raccolta di vari esempi appartenenti a Maria Santissima"
+      }
+    },
+    {
+      "id": "orazioni-diverse",
+      "title": {
+        "it": "Orazioni diverse alla divina Madre"
+      }
+    }
+  ]
+}

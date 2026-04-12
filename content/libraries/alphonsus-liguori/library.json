@@ -1,20 +1,25 @@
 {
   "id": "alphonsus-liguori",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "name": {
     "pt-BR": "Santo Afonso de Ligório",
-    "en-US": "St. Alphonsus Liguori"
+    "en-US": "St. Alphonsus Liguori",
+    "it": "Sant'Alfonso Maria de Liguori"
   },
   "description": {
     "pt-BR": "As obras espirituais de Santo Afonso Maria de Ligório — Doutor da Oração, fundador dos Redentoristas e um dos maiores escritores ascéticos da Igreja.",
-    "en-US": "The spiritual works of St. Alphonsus Maria de Liguori — Doctor of Prayer, founder of the Redemptorists, and one of the greatest ascetical writers of the Church."
+    "en-US": "The spiritual works of St. Alphonsus Maria de Liguori — Doctor of Prayer, founder of the Redemptorists, and one of the greatest ascetical writers of the Church.",
+    "it": "Le opere spirituali di Sant'Alfonso Maria de Liguori — Dottore della Preghiera, fondatore dei Redentoristi e uno dei più grandi scrittori ascetici della Chiesa."
   },
   "author": {
     "pt-BR": "Santo Afonso Maria de Ligório",
-    "en-US": "St. Alphonsus Maria de Liguori"
+    "en-US": "St. Alphonsus Maria de Liguori",
+    "it": "Sant'Alfonso Maria de Liguori"
   },
   "languages": [
-    "pt-BR"
+    "pt-BR",
+    "it",
+    "fr-FR"
   ],
   "tags": [
     "meditation",
@@ -28,7 +33,14 @@
   ],
   "prayers": [],
   "books": [
-    "meditacoes-ligorio"
+    "meditacoes-ligorio",
+    "visite-al-ss-sacramento",
+    "pratica-di-amar-gesu-cristo",
+    "apparecchio-alla-morte",
+    "gran-mezzo-della-preghiera",
+    "esercizio-via-crucis",
+    "glorie-di-maria",
+    "plus-belles-prieres"
   ],
   "contents": [
     {
@@ -38,6 +50,34 @@
     {
       "type": "book",
       "id": "meditacoes-ligorio"
+    },
+    {
+      "type": "book",
+      "id": "visite-al-ss-sacramento"
+    },
+    {
+      "type": "book",
+      "id": "pratica-di-amar-gesu-cristo"
+    },
+    {
+      "type": "book",
+      "id": "apparecchio-alla-morte"
+    },
+    {
+      "type": "book",
+      "id": "gran-mezzo-della-preghiera"
+    },
+    {
+      "type": "book",
+      "id": "esercizio-via-crucis"
+    },
+    {
+      "type": "book",
+      "id": "glorie-di-maria"
+    },
+    {
+      "type": "book",
+      "id": "plus-belles-prieres"
     }
   ]
 }

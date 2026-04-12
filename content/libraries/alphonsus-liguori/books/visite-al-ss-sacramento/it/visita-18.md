@@ -1,0 +1,17 @@
+# Visita XVIII
+
+Un giorno nella valle di Giosafat sederà Gesù in trono di maestà; ma ora nel SS. Sacramento siede in trono d'amore. Se il re per dimostrare l'amore che porta ad un pastorello venisse ad abitare dentro il suo villaggio dov'egli sta, quale ingratitudine sarebbe se il villanello spesso non l'andasse a visitare, sapendo che il re tanto desidera di vederlo, e che per aver occasione di spesso vederlo, ivi si è portato? Ah Gesù mio, per mio amore, già intendo, voi siete venuto a starvene nel Sacramento dell'altare. Vorrei dunque notte e giorno, se mi fosse dato, starmene alla presenza vostra. Se gli angioli, o Signor mio, non lasciano di starvi intorno, stupiti dell'amore che ci portate, è ragione ch'io vedendovi per mia cagione in questo altare, vi contenti almeno collo starmene avanti di voi a lodar l'amore e la bontà, che avete per me: *In conspectu angelorum psallam tibi, adorabo ad templum sanctum tuum; et confitebor nomini tuo super misericordia tua et veritate* (Ps. CXXXVII, 1-2).
+
+O Dio sacramentato, o pane degli angioli, o cibo divino, io vi amo; ma né io né voi siete contento del mio amore. V'amo, ma v'amo troppo poco. Fate voi, Gesù mio, ch'io conosca la beltà, la bontà immensa che amo. Fate che il mio cuore cacci tutti gli affetti terreni e dia tutto il luogo al vostro divino amore. Voi per innamorarmi tutto di voi e per unirvi tutto a me scendete ogni giorno dal cielo sugli altari; è ragione ch'io non pensi ad altro che ad amarvi, ad adorarvi, e a darvi gusto. V'amo con tutta l'anima mia, v'amo con tutti gli affetti miei. Se mi volete pagar quest'amore, datemi più amore, più fiamme, che mi facciano sempre più amarvi e più desiderare di darvi gusto. - Gesù amore, datemi amore.
+
+La comunione spirituale.
+
+## A Maria
+
+Conforme que' poveri infermi che per le loro miserie sono abbominati da tutti e trovano solo ricovero ne' pubblici spedali; così i peccatori più miserabili, benché da tutti discacciati, non sono però discacciati dalla misericordia di Maria che Dio a questo fine ha posta nel mondo per esser il ricetto, lo spedale pubblico de' peccatori, siccome dice S. Basilio: *Aperuit Deus peccatoribus publicum valetudinarium.* Onde S. Efrem la nomina ancora *Diversorium peccatorum:* il ricettacolo de' peccatori. Dunque, Regina mia, se io ricorro a voi, voi non mi potete discacciare per li peccati miei; anzi quanto più misero io sono, tanto più ho ragione di essere accolto nella vostra protezione, giacché Dio per rifugio de' più miseri v'ha creata. Sicché a voi ricorro, o Maria; sotto del vostro manto io mi metto. Voi siete il rifugio de' peccatori; voi dunque siate la speranza della salute mia. Se voi mi cacciate dove ricorrerò? - Maria, rifugio mio, salvatemi.
+
+Orazione di S. Attanagio:
+
+O nostra principessa, a Voi Dio concede ogni sorte di grazie. Siete detta piena di grazia, perché ne siete stata colmata dallo Spirito Santo, ch'è disceso sopra di Voi. I ricchi perciò del popolo, che sono arrichiti coi vostri doni, vi pregano e vi invocano. Ascoltate, o santissima Vergine, le nostre preghiere e ricordatevi di noi. Dispensateci i doni di vostre ricchezze, e dell'abbondanza delle grazie, onde siete ripiena. L'Arcangelo vi saluta, e vi chiama piena di grazia; tutte le nazioni vi chiamano beata, tutte le gerarchie del cielo vi benedicono. E noi che siamo della gerarchia terrestre, ancora vi diciamo: Dio vi salvi, o piena di grazia, il Signore è con Voi; pregate per noi, o Madre di Dio, nostra Signora, e nostra Regina.
+
+O Maria, guardateci, e tirateci tutti a Dio.

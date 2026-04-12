@@ -1,0 +1,173 @@
+{
+  "id": "pratica-di-amar-gesu-cristo",
+  "name": {
+    "it": "Pratica di amar Gesù Cristo",
+    "en-US": "The Practice of the Love of Jesus Christ",
+    "pt-BR": "Pratica de Amar Jesus Cristo"
+  },
+  "author": {
+    "it": "Sant'Alfonso Maria de Liguori",
+    "en-US": "St. Alphonsus Maria de Liguori",
+    "pt-BR": "Santo Afonso Maria de Ligorio"
+  },
+  "description": {
+    "it": "Trattato sulla carita cristiana e le virtu secondo il capitolo 13 della Prima Lettera ai Corinzi di San Paolo.",
+    "en-US": "A treatise on Christian charity and the virtues according to chapter 13 of St. Paul's First Letter to the Corinthians.",
+    "pt-BR": "Tratado sobre a caridade crista e as virtudes segundo o capitulo 13 da Primeira Carta aos Corintios de Sao Paulo."
+  },
+  "composed": 1768,
+  "languages": ["it", "en-US", "pt-BR"],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.intratext.com/IXT/ITASA0000/",
+      "description": "Italian text from IntraText CT"
+    }
+  ],
+  "toc": [
+    {
+      "id": "capo-01",
+      "title": {
+        "it": "Capo I — Quanto merita Gesù Cristo di esser amato da noi per l'amore che ci ha dimostrato nella sua Passione",
+        "en-US": "Chapter I — How Much Jesus Christ Deserves to Be Loved by Us for the Love He Showed Us in His Passion",
+        "pt-BR": "Capítulo I — Quanto Jesus Cristo merece ser amado por nós pelo amor que nos demonstrou em sua Paixão"
+      }
+    },
+    {
+      "id": "capo-02",
+      "title": {
+        "it": "Capo II — Quanto merita Gesù Cristo d'esser amato da noi per l'amore che ci ha dimostrato nell'istituire il SS. Sagramento dell'altare",
+        "en-US": "Chapter II — How Much Jesus Christ Deserves to Be Loved by Us for the Love He Showed in Instituting the Most Holy Sacrament of the Altar",
+        "pt-BR": "Capítulo II — Quanto Jesus Cristo merece ser amado por nós pelo amor que nos demonstrou ao instituir o Santíssimo Sacramento do altar"
+      }
+    },
+    {
+      "id": "capo-03",
+      "title": {
+        "it": "Capo III — Della gran confidenza che dobbiamo mettere nell'amore che ci ha dimostrato Gesù Cristo",
+        "en-US": "Chapter III — On the Great Confidence We Should Place in the Love Jesus Christ Has Shown Us",
+        "pt-BR": "Capítulo III — Da grande confiança que devemos depositar no amor que Jesus Cristo nos demonstrou"
+      }
+    },
+    {
+      "id": "capo-04",
+      "title": {
+        "it": "Capo IV — Quanto noi siamo obbligati ad amar Gesù Cristo",
+        "en-US": "Chapter IV — How Much We Are Obliged to Love Jesus Christ",
+        "pt-BR": "Capítulo IV — Quanto somos obrigados a amar Jesus Cristo"
+      }
+    },
+    {
+      "id": "capo-05",
+      "title": {
+        "it": "Capo V — Caritas patiens est: L'anima che ama Gesù Cristo ama il patire",
+        "en-US": "Chapter V — Caritas patiens est: The Soul That Loves Jesus Christ Loves Suffering",
+        "pt-BR": "Capítulo V — Caritas patiens est: A alma que ama Jesus Cristo ama o sofrimento"
+      }
+    },
+    {
+      "id": "capo-06",
+      "title": {
+        "it": "Capo VI — Caritas benigna est: Chi ama Gesù Cristo ama la dolcezza",
+        "en-US": "Chapter VI — Caritas benigna est: He Who Loves Jesus Christ Loves Gentleness",
+        "pt-BR": "Capítulo VI — Caritas benigna est: Quem ama Jesus Cristo ama a doçura"
+      }
+    },
+    {
+      "id": "capo-07",
+      "title": {
+        "it": "Capo VII — Caritas non aemulatur: L'anima che ama Gesù Cristo non invidia i grandi del mondo",
+        "en-US": "Chapter VII — Caritas non aemulatur: The Soul That Loves Jesus Christ Does Not Envy the Great of This World",
+        "pt-BR": "Capítulo VII — Caritas non aemulatur: A alma que ama Jesus Cristo não inveja os grandes do mundo"
+      }
+    },
+    {
+      "id": "capo-08",
+      "title": {
+        "it": "Capo VIII — Caritas non agit perperam: Chi ama Gesù Cristo fugge la tepidezza ed ama la perfezione",
+        "en-US": "Chapter VIII — Caritas non agit perperam: He Who Loves Jesus Christ Flees Lukewarmness and Loves Perfection",
+        "pt-BR": "Capítulo VIII — Caritas non agit perperam: Quem ama Jesus Cristo foge da tepidez e ama a perfeição"
+      }
+    },
+    {
+      "id": "capo-09",
+      "title": {
+        "it": "Capo IX — Caritas non inflatur: Chi ama Gesù Cristo non s'invanisce de' propri pregi",
+        "en-US": "Chapter IX — Caritas non inflatur: He Who Loves Jesus Christ Does Not Become Vain about His Own Merits",
+        "pt-BR": "Capítulo IX — Caritas non inflatur: Quem ama Jesus Cristo não se envaidece de seus próprios méritos"
+      }
+    },
+    {
+      "id": "capo-10",
+      "title": {
+        "it": "Capo X — Caritas non est ambitiosa: Chi ama Gesù Cristo non ambisce altro che Gesù Cristo",
+        "en-US": "Chapter X — Caritas non est ambitiosa: He Who Loves Jesus Christ Desires Nothing but Jesus Christ",
+        "pt-BR": "Capítulo X — Caritas non est ambitiosa: Quem ama Jesus Cristo não ambiciona outro senão Jesus Cristo"
+      }
+    },
+    {
+      "id": "capo-11",
+      "title": {
+        "it": "Capo XI — Caritas non quaerit quae sua sunt: Chi ama Gesù Cristo cerca di staccarsi da tutto il creato",
+        "en-US": "Chapter XI — Caritas non quaerit quae sua sunt: He Who Loves Jesus Christ Seeks to Detach Himself from All Created Things",
+        "pt-BR": "Capítulo XI — Caritas non quaerit quae sua sunt: Quem ama Jesus Cristo procura desapegar-se de tudo o que é criado"
+      }
+    },
+    {
+      "id": "capo-12",
+      "title": {
+        "it": "Capo XII — Caritas non irritatur: Chi ama Gesù Cristo non mai si adira col prossimo",
+        "en-US": "Chapter XII — Caritas non irritatur: He Who Loves Jesus Christ Never Grows Angry with His Neighbor",
+        "pt-BR": "Capítulo XII — Caritas non irritatur: Quem ama Jesus Cristo nunca se ira contra o próximo"
+      }
+    },
+    {
+      "id": "capo-13",
+      "title": {
+        "it": "Capo XIII — Caritas non cogitat malum: Chi ama Gesù Cristo non vuol altro se non quel che vuole Gesù Cristo",
+        "en-US": "Chapter XIII — Caritas non cogitat malum: He Who Loves Jesus Christ Wills Nothing but What Jesus Christ Wills",
+        "pt-BR": "Capítulo XIII — Caritas non cogitat malum: Quem ama Jesus Cristo não quer senão o que Jesus Cristo quer"
+      }
+    },
+    {
+      "id": "capo-14",
+      "title": {
+        "it": "Capo XIV — Caritas omnia suffert: Chi ama Gesù Cristo soffre tutto per Gesù Cristo",
+        "en-US": "Chapter XIV — Caritas omnia suffert: He Who Loves Jesus Christ Suffers All Things for Jesus Christ",
+        "pt-BR": "Capítulo XIV — Caritas omnia suffert: Quem ama Jesus Cristo sofre tudo por Jesus Cristo"
+      }
+    },
+    {
+      "id": "capo-15",
+      "title": {
+        "it": "Capo XV — Caritas omnia credit: Chi ama Gesù Cristo crede a tutte le sue parole",
+        "en-US": "Chapter XV — Caritas omnia credit: He Who Loves Jesus Christ Believes All His Words",
+        "pt-BR": "Capítulo XV — Caritas omnia credit: Quem ama Jesus Cristo crê em todas as suas palavras"
+      }
+    },
+    {
+      "id": "capo-16",
+      "title": {
+        "it": "Capo XVI — Caritas omnia sperat: Chi ama Gesù Cristo spera tutto da Gesù Cristo",
+        "en-US": "Chapter XVI — Caritas omnia sperat: He Who Loves Jesus Christ Hopes All Things from Jesus Christ",
+        "pt-BR": "Capítulo XVI — Caritas omnia sperat: Quem ama Jesus Cristo espera tudo de Jesus Cristo"
+      }
+    },
+    {
+      "id": "capo-17",
+      "title": {
+        "it": "Capo XVII — Caritas omnia sustinet: Chi ama Gesù Cristo con amor forte non lascia di amarlo in mezzo a tutte le tentazioni",
+        "en-US": "Chapter XVII — Caritas omnia sustinet: He Who Loves Jesus Christ with a Strong Love Does Not Cease to Love Him amid All Temptations",
+        "pt-BR": "Capítulo XVII — Caritas omnia sustinet: Quem ama Jesus Cristo com amor forte não deixa de amá-lo em meio a todas as tentações"
+      }
+    },
+    {
+      "id": "ristretto-virtu",
+      "title": {
+        "it": "Ristretto delle virtù dichiarate nell'opera che dee praticare chi ama Gesù Cristo",
+        "en-US": "Summary of the Virtues Explained in This Work That Must Be Practiced by He Who Loves Jesus Christ",
+        "pt-BR": "Resumo das virtudes declaradas na obra que deve praticar quem ama Jesus Cristo"
+      }
+    }
+  ]
+}

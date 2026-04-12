@@ -1,0 +1,37 @@
+{
+  "id": "uniformita-alla-volonta-di-dio",
+  "name": {
+    "it": "Uniformità alla Volontà di Dio",
+    "en-US": "Uniformity with God's Will",
+    "pt-BR": "Conformidade com a Vontade de Deus"
+  },
+  "author": {
+    "it": "Sant'Alfonso Maria de Liguori",
+    "en-US": "St. Alphonsus Maria de Liguori",
+    "pt-BR": "Santo Afonso Maria de Ligorio"
+  },
+  "description": {
+    "it": "Trattato ascetico sulla perfezione cristiana attraverso la perfetta conformità alla volontà divina in tutte le circostanze della vita.",
+    "en-US": "An ascetical treatise on Christian perfection through perfect conformity to God's will in all circumstances of life.",
+    "pt-BR": "Tratado ascético sobre a perfeição cristã através da perfeita conformidade com a vontade divina em todas as circunstâncias da vida."
+  },
+  "composed": 1755,
+  "languages": ["it", "en-US", "pt-BR"],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.monasterovirtuale.it/s-alfonso-maria-de-liguori/uniformità-alla-volontà-di-dio.html",
+      "description": "Full Italian text from Monastero Virtuale"
+    }
+  ],
+  "toc": [
+    {
+      "id": "trattato",
+      "title": {
+        "it": "Uniformità alla Volontà di Dio",
+        "en-US": "Uniformity with God's Will",
+        "pt-BR": "Conformidade com a Vontade de Deus"
+      }
+    }
+  ]
+}
