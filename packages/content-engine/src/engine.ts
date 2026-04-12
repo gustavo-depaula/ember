@@ -500,17 +500,21 @@ function resolveSection(
       ]
 
     case 'options': {
-      const filtered = section.options.filter((opt) => !opt.lang || opt.lang === ec.contentLanguage)
-      if (filtered.length === 0) return []
+      const resolved = section.options
+        .filter((opt) => !opt.lang || opt.lang === ec.contentLanguage)
+        .map((opt) => ({
+          id: opt.id,
+          label: ec.localize(opt.label),
+          sections: opt.sections.flatMap((s) => resolveSection(s, context, ec)),
+        }))
+        .filter((opt) => opt.sections.length > 0)
+      if (resolved.length === 0) return []
+      if (resolved.length === 1) return resolved[0].sections
       return [
         {
           type: 'options',
           label: ec.localize(section.label),
-          options: filtered.map((opt) => ({
-            id: opt.id,
-            label: ec.localize(opt.label),
-            sections: opt.sections.flatMap((s) => resolveSection(s, context, ec)),
-          })),
+          options: resolved,
         },
       ]
     }
