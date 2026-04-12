@@ -5,6 +5,7 @@ export {
   useAllSlots,
   useArchivedPractices,
   useArchivePractice,
+  useBackfillMissedDays,
   useChangeSlotFlow,
   useCompletionRange,
   useCompletionsForDate,

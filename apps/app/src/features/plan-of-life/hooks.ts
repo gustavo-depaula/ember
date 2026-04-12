@@ -4,8 +4,8 @@ import type { ProgramConfig } from '@/content/types'
 import {
   addSlot,
   archivePractice,
+  backfillMissedDays,
   changeSlotFlow,
-  completeProgramCursor,
   createPracticeWithSlot,
   deletePractice,
   deleteSlot,
@@ -22,7 +22,6 @@ import {
   getProgramCursor,
   getSlotsForPractice,
   logCompletion,
-  parseProgramPosition,
   removeCompletion,
   reorderSlots,
   restartProgram,
@@ -123,7 +122,7 @@ export function useRestartNeededPractices() {
         if (!program || program.progressPolicy !== 'restart') continue
 
         const cursor = await getProgramCursor(slot.practice_id)
-        if (!cursor || parseProgramPosition(cursor).status === 'completed') continue
+        if (!cursor) continue
 
         const completionCount = await getCompletionCountSince(slot.practice_id, cursor.started_at)
         const calendarDay = resolveCalendarDay(
@@ -136,7 +135,6 @@ export function useRestartNeededPractices() {
           program,
           completionCount,
           calendarDay,
-          cursorStatus: 'active',
         })
 
         if (progress.shouldPromptRestart) result.add(slot.practice_id)
@@ -154,7 +152,6 @@ export function useProgramProgress(practiceId: string, program: ProgramConfig | 
       if (!program) return undefined
 
       const cursor = await getProgramCursor(practiceId)
-      const position = cursor ? parseProgramPosition(cursor) : { day: 0, status: 'active' as const }
 
       const completionCount = await getCompletionCountSince(
         practiceId,
@@ -179,7 +176,6 @@ export function useProgramProgress(practiceId: string, program: ProgramConfig | 
         program,
         completionCount,
         calendarDay,
-        cursorStatus: position.status,
       })
     },
     enabled: !!program,
@@ -199,7 +195,6 @@ export function useHandleProgramCompletion() {
       practiceId: string
       completionBehavior: 'auto-disable' | 'offer-restart' | 'keep'
     }) => {
-      await completeProgramCursor(practiceId)
       if (completionBehavior === 'auto-disable') {
         await archivePractice(practiceId)
       }
@@ -238,6 +233,23 @@ export function useRestartProgram() {
       queryClient.invalidateQueries({ queryKey: ['programProgress', practiceId] })
       queryClient.invalidateQueries({ queryKey: ['restartNeededPractices'] })
       queryClient.invalidateQueries({ queryKey: ['slots'] })
+    },
+  })
+}
+
+export function useBackfillMissedDays() {
+  const queryClient = useQueryClient()
+
+  return useMutation({
+    mutationFn: async ({ practiceId, dates }: { practiceId: string; dates: string[] }) => {
+      await backfillMissedDays(practiceId, dates)
+    },
+    onSuccess: (_data, { practiceId }) => {
+      queryClient.invalidateQueries({ queryKey: ['programProgress', practiceId] })
+      queryClient.invalidateQueries({ queryKey: ['restartNeededPractices'] })
+      queryClient.invalidateQueries({ queryKey: ['slots'] })
+      queryClient.invalidateQueries({ queryKey: ['completions'] })
+      queryClient.invalidateQueries({ queryKey: ['practiceStats'] })
     },
   })
 }

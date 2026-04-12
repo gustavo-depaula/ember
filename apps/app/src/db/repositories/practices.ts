@@ -330,6 +330,17 @@ export async function logCompletion(
   )
 }
 
+export async function backfillMissedDays(practiceId: string, dates: string[]): Promise<void> {
+  const db = getDb()
+  const ts = Date.now()
+  for (const date of dates) {
+    await db.runAsync(
+      'INSERT INTO completions (practice_id, sub_id, date, completed_at) VALUES (?, ?, ?, ?)',
+      [practiceId, 'backfill', date, ts],
+    )
+  }
+}
+
 export async function removeCompletion(id: number): Promise<void> {
   await getDb().runAsync('DELETE FROM completions WHERE id = ?', [id])
 }

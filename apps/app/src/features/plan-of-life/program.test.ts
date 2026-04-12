@@ -106,7 +106,6 @@ describe('computeProgramProgress', () => {
       program: waitProgram,
       completionCount: 3,
       calendarDay: 5,
-      cursorStatus: 'active',
     })
     expect(p.programDay).toBe(3)
     expect(p.missedDays).toBe(0)
@@ -118,7 +117,6 @@ describe('computeProgramProgress', () => {
       program: restartProgram,
       completionCount: 1,
       calendarDay: 3,
-      cursorStatus: 'active',
     })
     expect(p.programDay).toBe(3)
     expect(p.missedDays).toBe(2)
@@ -130,19 +128,28 @@ describe('computeProgramProgress', () => {
       program: restartProgram,
       completionCount: 2,
       calendarDay: 2,
-      cursorStatus: 'active',
     })
     expect(p.missedDays).toBe(0)
     expect(p.shouldPromptRestart).toBe(false)
   })
 
-  it('marks program complete when cursor status is completed', () => {
+  it('marks program complete when completionCount >= totalDays', () => {
     const p = computeProgramProgress({
       program: restartProgram,
       completionCount: 9,
       calendarDay: undefined,
-      cursorStatus: 'completed',
     })
+    expect(p.isComplete).toBe(true)
+    expect(p.shouldPromptRestart).toBe(false)
+  })
+
+  it('caps programDay at totalDays - 1', () => {
+    const p = computeProgramProgress({
+      program: restartProgram,
+      completionCount: 12,
+      calendarDay: undefined,
+    })
+    expect(p.programDay).toBe(8) // totalDays is 9, capped at 8
     expect(p.isComplete).toBe(true)
   })
 
@@ -151,7 +158,6 @@ describe('computeProgramProgress', () => {
       program: restartProgram,
       completionCount: 4,
       calendarDay: undefined,
-      cursorStatus: 'active',
     })
     expect(p.programDay).toBe(4)
     expect(p.missedDays).toBe(0)
@@ -166,7 +172,6 @@ describe('computeAllDayStates', () => {
       program: restartProgram,
       completionCount: 2,
       calendarDay: 2,
-      cursorStatus: 'active',
     })
     const states = computeAllDayStates(progress)
 
@@ -201,7 +206,6 @@ describe('computeAllDayStates', () => {
       program: restartProgram,
       completionCount: 1,
       calendarDay: 2,
-      cursorStatus: 'active',
     })
     const states = computeAllDayStates(progress)
 
@@ -217,7 +221,6 @@ describe('computeAllDayStates', () => {
       program: restartProgram,
       completionCount: 0,
       calendarDay: 3,
-      cursorStatus: 'active',
     })
     const states = computeAllDayStates(progress)
 
@@ -232,7 +235,6 @@ describe('computeAllDayStates', () => {
       program: restartProgram,
       completionCount: 9,
       calendarDay: undefined,
-      cursorStatus: 'completed',
     })
     const states = computeAllDayStates(progress)
 
@@ -248,7 +250,6 @@ describe('computeAllDayStates', () => {
       program: waitProgram,
       completionCount: 1,
       calendarDay: 5,
-      cursorStatus: 'active',
     })
     const states = computeAllDayStates(progress)
 
@@ -295,7 +296,6 @@ describe('First Fridays end-to-end scenarios', () => {
       program: restartProgram,
       completionCount,
       calendarDay,
-      cursorStatus: 'active',
     })
   }
 
@@ -345,7 +345,6 @@ describe('First Fridays end-to-end scenarios', () => {
       program: restartProgram,
       completionCount: 9,
       calendarDay: undefined,
-      cursorStatus: 'completed',
     })
     expect(p.isComplete).toBe(true)
     const states = computeAllDayStates(p)
@@ -358,7 +357,6 @@ describe('First Fridays end-to-end scenarios', () => {
       program: restartProgram,
       completionCount: 0,
       calendarDay,
-      cursorStatus: 'active',
     })
     // Feb 6 was day 0, now passed → calendarDay = 1, missed 1
     expect(p.programDay).toBe(1)

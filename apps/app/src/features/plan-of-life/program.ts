@@ -7,6 +7,7 @@ import { getOccurrenceBasedProgramDay, getProgramDay, type Schedule } from './sc
 export type ProgramProgress = {
   programDay: number
   totalDays: number
+  completionCount: number
   isComplete: boolean
   policy: ProgramConfig['progressPolicy']
   completionBehavior: ProgramConfig['completionBehavior']
@@ -40,9 +41,9 @@ export function computeProgramProgress(params: {
   program: ProgramConfig
   completionCount: number
   calendarDay: number | undefined
-  cursorStatus: 'active' | 'completed'
 }): ProgramProgress {
-  const { program, completionCount, calendarDay, cursorStatus } = params
+  const { program, completionCount, calendarDay } = params
+  const isComplete = completionCount >= program.totalDays
 
   let programDay = completionCount
   if (
@@ -51,18 +52,18 @@ export function computeProgramProgress(params: {
   ) {
     programDay = calendarDay
   }
+  programDay = Math.min(programDay, program.totalDays - 1)
 
   const missedDays = computeMissedDays(program.progressPolicy, calendarDay, completionCount)
-  const shouldPromptRestart = computeShouldRestart(
-    program.progressPolicy,
-    missedDays,
-    program.restartThreshold ?? 1,
-  )
+  const shouldPromptRestart = isComplete
+    ? false
+    : computeShouldRestart(program.progressPolicy, missedDays, program.restartThreshold ?? 1)
 
   return {
     programDay,
     totalDays: program.totalDays,
-    isComplete: cursorStatus === 'completed',
+    completionCount,
+    isComplete,
     policy: program.progressPolicy,
     completionBehavior: program.completionBehavior,
     missedDays,

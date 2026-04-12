@@ -76,11 +76,3 @@ export async function restartProgram(practiceId: string, today?: string): Promis
     [date, id],
   )
 }
-
-export async function completeProgramCursor(practiceId: string): Promise<void> {
-  const id = programCursorId(practiceId)
-  await getDb().runAsync(
-    "UPDATE cursors SET position = json_set(position, '$.status', 'completed') WHERE id = ?",
-    [id],
-  )
-}
