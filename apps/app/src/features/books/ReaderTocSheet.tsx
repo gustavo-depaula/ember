@@ -1,5 +1,5 @@
-import { X } from 'lucide-react-native'
-import { useCallback } from 'react'
+import { ChevronDown, ChevronRight, X } from 'lucide-react-native'
+import { useCallback, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Pressable, ScrollView } from 'react-native'
 import Animated, { FadeIn, FadeOut, SlideInRight, SlideOutRight } from 'react-native-reanimated'
@@ -15,6 +15,11 @@ type Props = {
   onClose: () => void
 }
 
+function hasCurrentChapter(node: TocNode, currentChapterId: string): boolean {
+  if (node.id === currentChapterId) return true
+  return node.children?.some((child) => hasCurrentChapter(child, currentChapterId)) ?? false
+}
+
 function TocItem({
   node,
   currentChapterId,
@@ -26,8 +31,11 @@ function TocItem({
   onSelect: (id: string) => void
   depth: number
 }) {
+  const theme = useTheme()
   const isLeaf = !node.children?.length
   const isCurrent = node.id === currentChapterId
+  const containsCurrent = !isLeaf && hasCurrentChapter(node, currentChapterId)
+  const [expanded, setExpanded] = useState(containsCurrent || depth === 0)
 
   return (
     <>
@@ -52,25 +60,34 @@ function TocItem({
         </AnimatedPressable>
       ) : (
         <YStack paddingTop={depth > 0 ? '$xs' : '$sm'}>
-          <Text
-            fontFamily="$heading"
-            fontSize="$2"
-            color="$colorSecondary"
-            paddingHorizontal="$md"
-            paddingLeft={16 + depth * 16}
-            paddingBottom="$xs"
-          >
-            {localizeContent(node.title)}
-          </Text>
-          {node.children?.map((child) => (
-            <TocItem
-              key={child.id}
-              node={child}
-              currentChapterId={currentChapterId}
-              onSelect={onSelect}
-              depth={depth + 1}
-            />
-          ))}
+          <Pressable onPress={() => setExpanded((v) => !v)}>
+            <XStack
+              alignItems="center"
+              gap="$xs"
+              paddingHorizontal="$md"
+              paddingLeft={16 + depth * 16}
+              paddingBottom="$xs"
+            >
+              {expanded ? (
+                <ChevronDown size={14} color={theme.colorSecondary.val} />
+              ) : (
+                <ChevronRight size={14} color={theme.colorSecondary.val} />
+              )}
+              <Text fontFamily="$heading" fontSize="$2" color="$colorSecondary" flex={1}>
+                {localizeContent(node.title)}
+              </Text>
+            </XStack>
+          </Pressable>
+          {expanded &&
+            node.children?.map((child) => (
+              <TocItem
+                key={child.id}
+                node={child}
+                currentChapterId={currentChapterId}
+                onSelect={onSelect}
+                depth={depth + 1}
+              />
+            ))}
         </YStack>
       )}
     </>
