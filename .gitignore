@@ -50,3 +50,6 @@ content/books/*/epubs/*/*.epub
 
 # Divinum Officium source (cloned for parser script)
 .divinum-officium/
+
+# Crawled source texts (not tracked)
+content/libraries/montfort-spirituality/sources/
