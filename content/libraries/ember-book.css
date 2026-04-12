@@ -3,9 +3,17 @@
  *
  * Shared across all Ember books. Copied by build-libraries.sh into each
  * book's language directory as style.css.
- * Matches the Ember app design system: EB Garamond body, Cinzel headings,
- * warm parchment palette.
+ * Uses CSS variables for theming (light/dark mode set by the reader shell).
  */
+
+:root {
+  --bg: #FAF6F0;
+  --text: #2C2418;
+  --heading: #2C2418;
+  --text-secondary: #6B5D4F;
+  --border: #D4C088;
+  --link: #3D5A80;
+}
 
 /* --- Page --- */
 
@@ -13,8 +21,8 @@ body {
   font-family: "EB Garamond", "Georgia", serif;
   font-size: 18px;
   line-height: 1.7;
-  color: #2C2418;
-  background-color: #FAF6F0;
+  color: var(--text);
+  background-color: var(--bg);
   margin: 1em;
   -webkit-hyphens: auto;
   hyphens: auto;
@@ -24,7 +32,7 @@ body {
 
 h1, h2, h3, h4 {
   font-family: "Cinzel", "Georgia", serif;
-  color: #6B1D2A;
+  color: var(--heading);
   letter-spacing: 0.03em;
   margin-top: 1.8em;
   margin-bottom: 0.6em;
@@ -77,9 +85,9 @@ ol li p {
 blockquote {
   margin: 1em 1.5em;
   padding-left: 1em;
-  border-left: 3px solid #D4C088;
+  border-left: 3px solid var(--border);
   font-style: italic;
-  color: #6B5D4F;
+  color: var(--text-secondary);
 }
 
 /* --- Images --- */
@@ -102,7 +110,7 @@ sup {
 p.footnote {
   font-size: 0.85em;
   line-height: 1.5;
-  color: #6B5D4F;
+  color: var(--text-secondary);
   margin-top: 0.3em;
 }
 
@@ -110,7 +118,7 @@ p.footnote {
 
 hr {
   border: none;
-  border-top: 1px solid #D4C088;
+  border-top: 1px solid var(--border);
   margin: 2em auto;
   width: 40%;
 }
@@ -118,7 +126,7 @@ hr {
 /* --- Links (scripture references, etc.) --- */
 
 a {
-  color: #3D5A80;
+  color: var(--link);
   text-decoration: none;
 }
 

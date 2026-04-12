@@ -1,0 +1,325 @@
+{
+  "id": "visite-al-ss-sacramento",
+  "name": {
+    "it": "Visite al SS. Sacramento ed a Maria Santissima",
+    "en-US": "Visits to the Blessed Sacrament and to the Blessed Virgin Mary",
+    "pt-BR": "Visitas ao Santissimo Sacramento e a Maria Santissima"
+  },
+  "author": {
+    "it": "Sant'Alfonso Maria de Liguori",
+    "en-US": "St. Alphonsus Maria de Liguori",
+    "pt-BR": "Santo Afonso Maria de Ligorio"
+  },
+  "description": {
+    "it": "Trenta-una visite al Santissimo Sacramento e alla Vergine Maria, con preghiere e atti di devozione eucaristica.",
+    "en-US": "Thirty-one visits to the Blessed Sacrament and to the Blessed Virgin Mary, with prayers and acts of Eucharistic devotion.",
+    "pt-BR": "Trinta e uma visitas ao Santissimo Sacramento e a Virgem Maria, com oracoes e atos de devocao eucaristica."
+  },
+  "composed": 1745,
+  "languages": ["it", "en-US", "pt-BR"],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.intratext.com/IXT/ITASA0000/",
+      "description": "Italian text from IntraText CT"
+    }
+  ],
+  "toc": [
+    {
+      "id": "dedica",
+      "title": {
+        "it": "Alla sempre Vergine ed Immacolata Madre di Dio Maria",
+        "en-US": "To the Ever-Virgin and Immaculate Mother of God, Mary",
+        "pt-BR": "À sempre Virgem e Imaculada Mãe de Deus Maria"
+      }
+    },
+    {
+      "id": "al-lettore",
+      "title": {
+        "it": "Al Lettore",
+        "en-US": "To the Reader",
+        "pt-BR": "Ao Leitor"
+      }
+    },
+    {
+      "id": "introduzione",
+      "title": {
+        "it": "Introduzione per la visita al SS. Sacramento",
+        "en-US": "Introduction to the Visit to the Blessed Sacrament",
+        "pt-BR": "Introdução para a Visita ao Santíssimo Sacramento"
+      }
+    },
+    {
+      "id": "comunione-spirituale",
+      "title": {
+        "it": "Della Comunione Spirituale",
+        "en-US": "On Spiritual Communion",
+        "pt-BR": "Da Comunhão Espiritual"
+      }
+    },
+    {
+      "id": "atto-comunione-spirituale",
+      "title": {
+        "it": "Atto per la Comunione Spirituale",
+        "en-US": "Act for Spiritual Communion",
+        "pt-BR": "Ato para a Comunhão Espiritual"
+      }
+    },
+    {
+      "id": "atti-principio-visita",
+      "title": {
+        "it": "Atti da farsi in principio d'ogni visita al SS. Sacramento",
+        "en-US": "Acts to Be Made at the Beginning of Every Visit to the Blessed Sacrament",
+        "pt-BR": "Atos a Serem Feitos no Início de Cada Visita ao Santíssimo Sacramento"
+      }
+    },
+    {
+      "id": "visita-01",
+      "title": {
+        "it": "Visita I",
+        "en-US": "Visit I",
+        "pt-BR": "Visita I"
+      }
+    },
+    {
+      "id": "visita-02",
+      "title": {
+        "it": "Visita II",
+        "en-US": "Visit II",
+        "pt-BR": "Visita II"
+      }
+    },
+    {
+      "id": "visita-03",
+      "title": {
+        "it": "Visita III",
+        "en-US": "Visit III",
+        "pt-BR": "Visita III"
+      }
+    },
+    {
+      "id": "visita-04",
+      "title": {
+        "it": "Visita IV",
+        "en-US": "Visit IV",
+        "pt-BR": "Visita IV"
+      }
+    },
+    {
+      "id": "visita-05",
+      "title": {
+        "it": "Visita V",
+        "en-US": "Visit V",
+        "pt-BR": "Visita V"
+      }
+    },
+    {
+      "id": "visita-06",
+      "title": {
+        "it": "Visita VI",
+        "en-US": "Visit VI",
+        "pt-BR": "Visita VI"
+      }
+    },
+    {
+      "id": "visita-07",
+      "title": {
+        "it": "Visita VII",
+        "en-US": "Visit VII",
+        "pt-BR": "Visita VII"
+      }
+    },
+    {
+      "id": "visita-08",
+      "title": {
+        "it": "Visita VIII",
+        "en-US": "Visit VIII",
+        "pt-BR": "Visita VIII"
+      }
+    },
+    {
+      "id": "visita-09",
+      "title": {
+        "it": "Visita IX",
+        "en-US": "Visit IX",
+        "pt-BR": "Visita IX"
+      }
+    },
+    {
+      "id": "visita-10",
+      "title": {
+        "it": "Visita X",
+        "en-US": "Visit X",
+        "pt-BR": "Visita X"
+      }
+    },
+    {
+      "id": "visita-11",
+      "title": {
+        "it": "Visita XI",
+        "en-US": "Visit XI",
+        "pt-BR": "Visita XI"
+      }
+    },
+    {
+      "id": "visita-12",
+      "title": {
+        "it": "Visita XII",
+        "en-US": "Visit XII",
+        "pt-BR": "Visita XII"
+      }
+    },
+    {
+      "id": "visita-13",
+      "title": {
+        "it": "Visita XIII",
+        "en-US": "Visit XIII",
+        "pt-BR": "Visita XIII"
+      }
+    },
+    {
+      "id": "visita-14",
+      "title": {
+        "it": "Visita XIV",
+        "en-US": "Visit XIV",
+        "pt-BR": "Visita XIV"
+      }
+    },
+    {
+      "id": "visita-15",
+      "title": {
+        "it": "Visita XV",
+        "en-US": "Visit XV",
+        "pt-BR": "Visita XV"
+      }
+    },
+    {
+      "id": "visita-16",
+      "title": {
+        "it": "Visita XVI",
+        "en-US": "Visit XVI",
+        "pt-BR": "Visita XVI"
+      }
+    },
+    {
+      "id": "visita-17",
+      "title": {
+        "it": "Visita XVII",
+        "en-US": "Visit XVII",
+        "pt-BR": "Visita XVII"
+      }
+    },
+    {
+      "id": "visita-18",
+      "title": {
+        "it": "Visita XVIII",
+        "en-US": "Visit XVIII",
+        "pt-BR": "Visita XVIII"
+      }
+    },
+    {
+      "id": "visita-19",
+      "title": {
+        "it": "Visita XIX",
+        "en-US": "Visit XIX",
+        "pt-BR": "Visita XIX"
+      }
+    },
+    {
+      "id": "visita-20",
+      "title": {
+        "it": "Visita XX",
+        "en-US": "Visit XX",
+        "pt-BR": "Visita XX"
+      }
+    },
+    {
+      "id": "visita-21",
+      "title": {
+        "it": "Visita XXI",
+        "en-US": "Visit XXI",
+        "pt-BR": "Visita XXI"
+      }
+    },
+    {
+      "id": "visita-22",
+      "title": {
+        "it": "Visita XXII",
+        "en-US": "Visit XXII",
+        "pt-BR": "Visita XXII"
+      }
+    },
+    {
+      "id": "visita-23",
+      "title": {
+        "it": "Visita XXIII",
+        "en-US": "Visit XXIII",
+        "pt-BR": "Visita XXIII"
+      }
+    },
+    {
+      "id": "visita-24",
+      "title": {
+        "it": "Visita XXIV",
+        "en-US": "Visit XXIV",
+        "pt-BR": "Visita XXIV"
+      }
+    },
+    {
+      "id": "visita-25",
+      "title": {
+        "it": "Visita XXV",
+        "en-US": "Visit XXV",
+        "pt-BR": "Visita XXV"
+      }
+    },
+    {
+      "id": "visita-26",
+      "title": {
+        "it": "Visita XXVI",
+        "en-US": "Visit XXVI",
+        "pt-BR": "Visita XXVI"
+      }
+    },
+    {
+      "id": "visita-27",
+      "title": {
+        "it": "Visita XXVII",
+        "en-US": "Visit XXVII",
+        "pt-BR": "Visita XXVII"
+      }
+    },
+    {
+      "id": "visita-28",
+      "title": {
+        "it": "Visita XXVIII",
+        "en-US": "Visit XXVIII",
+        "pt-BR": "Visita XXVIII"
+      }
+    },
+    {
+      "id": "visita-29",
+      "title": {
+        "it": "Visita XXIX",
+        "en-US": "Visit XXIX",
+        "pt-BR": "Visita XXIX"
+      }
+    },
+    {
+      "id": "visita-30",
+      "title": {
+        "it": "Visita XXX",
+        "en-US": "Visit XXX",
+        "pt-BR": "Visita XXX"
+      }
+    },
+    {
+      "id": "visita-31",
+      "title": {
+        "it": "Visita XXXI",
+        "en-US": "Visit XXXI",
+        "pt-BR": "Visita XXXI"
+      }
+    }
+  ]
+}

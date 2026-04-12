@@ -17,6 +17,13 @@
   },
   "composed": 1712,
   "languages": ["fr-FR", "en-US", "pt-BR"],
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://livres-mystiques.com/partieTEXTES/Montfort/Montfort.html",
+      "description": "French original from Livres Mystiques"
+    }
+  ],
   "toc": [
     {
       "id": "introduction",

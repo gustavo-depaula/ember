@@ -1,0 +1,157 @@
+{
+  "id": "esercizio-via-crucis",
+  "name": {
+    "it": "Esercizio della Via Crucis",
+    "en-US": "Exercise of the Way of the Cross",
+    "pt-BR": "Exercício da Via Sacra"
+  },
+  "author": {
+    "it": "Sant'Alfonso Maria de Liguori",
+    "en-US": "St. Alphonsus Maria de Liguori",
+    "pt-BR": "Santo Afonso Maria de Ligório"
+  },
+  "description": {
+    "it": "Meditazioni e preghiere per le quattordici stazioni della Via Crucis.",
+    "en-US": "Meditations and prayers for the fourteen stations of the Way of the Cross.",
+    "pt-BR": "Meditações e orações para as quatorze estações da Via Sacra."
+  },
+  "composed": 1760,
+  "languages": ["it", "en-US", "pt-BR"],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.intratext.com/IXT/ITASA0000/",
+      "description": "Italian text from IntraText CT"
+    }
+  ],
+  "toc": [
+    {
+      "id": "introduzione",
+      "title": {
+        "it": "Introduzione",
+        "en-US": "Introduction",
+        "pt-BR": "Introdução"
+      }
+    },
+    {
+      "id": "modo-di-praticare",
+      "title": {
+        "it": "Modo di praticare questo santo esercizio",
+        "en-US": "How to Practice This Holy Exercise",
+        "pt-BR": "Modo de praticar este santo exercício"
+      }
+    },
+    {
+      "id": "stazione-01",
+      "title": {
+        "it": "Stazione I — Gesù è condannato a morte",
+        "en-US": "Station I — Jesus Is Condemned to Death",
+        "pt-BR": "Estação I — Jesus é condenado à morte"
+      }
+    },
+    {
+      "id": "stazione-02",
+      "title": {
+        "it": "Stazione II — Gesù è caricato della croce",
+        "en-US": "Station II — Jesus Takes Up His Cross",
+        "pt-BR": "Estação II — Jesus é carregado com a cruz"
+      }
+    },
+    {
+      "id": "stazione-03",
+      "title": {
+        "it": "Stazione III — Gesù cade sotto la croce la prima volta",
+        "en-US": "Station III — Jesus Falls the First Time",
+        "pt-BR": "Estação III — Jesus cai sob a cruz pela primeira vez"
+      }
+    },
+    {
+      "id": "stazione-04",
+      "title": {
+        "it": "Stazione IV — Gesù incontra la sua afflitta Madre",
+        "en-US": "Station IV — Jesus Meets His Afflicted Mother",
+        "pt-BR": "Estação IV — Jesus encontra sua aflita Mãe"
+      }
+    },
+    {
+      "id": "stazione-05",
+      "title": {
+        "it": "Stazione V — Gesù è aiutato dal Cireneo a portare la croce",
+        "en-US": "Station V — Simon of Cyrene Helps Jesus Carry the Cross",
+        "pt-BR": "Estação V — Jesus é ajudado pelo Cireneu a carregar a cruz"
+      }
+    },
+    {
+      "id": "stazione-06",
+      "title": {
+        "it": "Stazione VI — Gesù asciugato dalla Veronica",
+        "en-US": "Station VI — Veronica Wipes the Face of Jesus",
+        "pt-BR": "Estação VI — Jesus é enxugado pela Verônica"
+      }
+    },
+    {
+      "id": "stazione-07",
+      "title": {
+        "it": "Stazione VII — Gesù cade la seconda volta",
+        "en-US": "Station VII — Jesus Falls the Second Time",
+        "pt-BR": "Estação VII — Jesus cai pela segunda vez"
+      }
+    },
+    {
+      "id": "stazione-08",
+      "title": {
+        "it": "Stazione VIII — Gesù parla alle donne che piangono",
+        "en-US": "Station VIII — Jesus Speaks to the Women Who Weep",
+        "pt-BR": "Estação VIII — Jesus fala às mulheres que choram"
+      }
+    },
+    {
+      "id": "stazione-09",
+      "title": {
+        "it": "Stazione IX — Gesù cade la terza volta",
+        "en-US": "Station IX — Jesus Falls the Third Time",
+        "pt-BR": "Estação IX — Jesus cai pela terceira vez"
+      }
+    },
+    {
+      "id": "stazione-10",
+      "title": {
+        "it": "Stazione X — Gesù è spogliato delle sue vesti",
+        "en-US": "Station X — Jesus Is Stripped of His Garments",
+        "pt-BR": "Estação X — Jesus é despojado de suas vestes"
+      }
+    },
+    {
+      "id": "stazione-11",
+      "title": {
+        "it": "Stazione XI — Gesù è inchiodato alla croce",
+        "en-US": "Station XI — Jesus Is Nailed to the Cross",
+        "pt-BR": "Estação XI — Jesus é pregado na cruz"
+      }
+    },
+    {
+      "id": "stazione-12",
+      "title": {
+        "it": "Stazione XII — Gesù muore in croce",
+        "en-US": "Station XII — Jesus Dies on the Cross",
+        "pt-BR": "Estação XII — Jesus morre na cruz"
+      }
+    },
+    {
+      "id": "stazione-13",
+      "title": {
+        "it": "Stazione XIII — Gesù è deposto dalla croce",
+        "en-US": "Station XIII — Jesus Is Taken Down from the Cross",
+        "pt-BR": "Estação XIII — Jesus é descido da cruz"
+      }
+    },
+    {
+      "id": "stazione-14",
+      "title": {
+        "it": "Stazione XIV — Gesù è posto nel sepolcro",
+        "en-US": "Station XIV — Jesus Is Laid in the Tomb",
+        "pt-BR": "Estação XIV — Jesus é posto no sepulcro"
+      }
+    }
+  ]
+}

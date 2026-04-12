@@ -1,0 +1,9 @@
+# Da Comunhão Espiritual
+
+Sendo que em cada Visita das seguintes ao SS. Sacramento se recomenda a Comunhão espiritual, é bom explicar o que ela seja e de quanto fruto. A Comunhão espiritual consiste, segundo São Tomás, em um desejo ardente de receber Jesus sacramentado e em um abraço amoroso como se já o tivesse recebido.
+
+Quanto depois são agradáveis a Deus estas comunhões espirituais e quantas graças ele por meio delas dispensa, o Senhor o deu a entender àquela sua serva, Irmã Paula Maresca, fundadora do mosteiro de Santa Catarina de Sena em Nápoles, quando lhe fez ver, como se narra na sua vida, dois vasos preciosos, um de ouro e outro de prata; e lhe disse que naquele de ouro ele conservava as suas comunhões sacramentais, e naquele de prata as suas comunhões espirituais. E à Beata Joana da Cruz disse que cada vez que ela se comunicava espiritualmente recebia uma graça semelhante à que receberia se tivesse comungado realmente. Sobretudo basta saber que o Santo Concílio de Trento muito louva a Comunhão espiritual e anima os fiéis a praticá-la.
+
+Por isso todas as almas devotas costumam praticar frequentemente este santo exercício da Comunhão espiritual. A Beata Ágata da Cruz fazia duzentas por dia. E o Pe. Pedro Fabro, primeiro companheiro de Santo Inácio, dizia que para fazer bem a comunhão sacramental ajuda sumamente comungar espiritualmente.
+
+Exorta-se, pois, quem deseja avançar no amor de Jesus Cristo a fazer a Comunhão espiritual ao menos uma vez em cada Visita ao SS. Sacramento e em cada Missa a que se assiste; e melhor seria repeti-la três vezes nestas ocasiões, isto é, no princípio, no meio e no fim. Esta é uma devoção de muito mais proveito do que julgam alguns, e ao mesmo tempo é tão fácil. Dizia a sobredita Beata Joana da Cruz que a Comunhão espiritual se pode fazer sem ser observado por ninguém, sem necessidade de jejum ou de licença do diretor: e podemos fazê-la a toda hora que nos agrade: com fazer um ato de amor se faz tudo.

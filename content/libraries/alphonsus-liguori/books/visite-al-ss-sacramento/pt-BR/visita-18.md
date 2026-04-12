@@ -1,0 +1,17 @@
+# Visita XVIII
+
+Um dia no vale de Josafá sentar-se-á Jesus em trono de majestade; mas agora no SS. Sacramento senta-se em trono de amor. Se o rei, para demonstrar o amor que tem a um pastorzinho, viesse habitar dentro da sua aldeia onde ele está, que ingratidão seria se o camponês frequentemente não o fosse visitar, sabendo que o rei tanto deseja vê-lo, e que para ter ocasião de frequentemente vê-lo ali se transportou? Ah meu Jesus, por meu amor, já entendo, vós viestes ficar no Sacramento do altar. Eu quisera, pois, noite e dia, se me fosse dado, ficar na vossa presença. Se os anjos, ó Senhor meu, não deixam de estar ao vosso redor, estupefatos do amor que nos tendes, é justo que eu, vendo-vos por minha causa neste altar, vos contente ao menos ficando diante de vós a louvar o amor e a bondade que tendes por mim: *In conspectu angelorum psallam tibi, adorabo ad templum sanctum tuum; et confitebor nomini tuo super misericordia tua et veritate* (Ps. CXXXVII, 1-2).
+
+Ó Deus sacramentado, ó pão dos anjos, ó alimento divino, eu vos amo; mas nem eu nem vós estais contente com o meu amor. Amo-vos, mas amo-vos muito pouco. Fazei vós, meu Jesus, que eu conheça a beleza, a bondade imensa que amo. Fazei que o meu coração expulse todos os afetos terrenos e dê todo o lugar ao vosso divino amor. Vós para me enamorar todo de vós e para vos unirdes todo a mim desceis cada dia do céu sobre os altares; é justo que eu não pense em outra coisa senão em amar-vos, em adorar-vos e em dar-vos gosto. Amo-vos com toda a minha alma, amo-vos com todos os meus afetos. Se me quereis pagar este amor, dai-me mais amor, mais chamas, que me façam sempre mais amar-vos e mais desejar dar-vos gosto. -- Jesus amor, dai-me amor.
+
+A comunhão espiritual.
+
+## A Maria
+
+Assim como aqueles pobres enfermos que pelas suas misérias são abominados por todos e encontram somente acolhida nos hospitais públicos; assim os pecadores mais miseráveis, embora por todos expulsos, não são porém expulsos da misericórdia de Maria, que Deus para este fim colocou no mundo para ser o abrigo, o hospital público dos pecadores, como diz São Basílio: *Aperuit Deus peccatoribus publicum valetudinarium.* Donde Santo Efrém a chama também *Diversorium peccatorum:* o abrigo dos pecadores. Pois, Rainha minha, se eu recorro a vós, vós não me podeis expulsar pelos meus pecados; antes, quanto mais miserável eu sou, tanto mais razão tenho de ser acolhido na vossa proteção, pois Deus como refúgio dos mais miseráveis vos criou. De modo que a vós recorro, ó Maria; sob o vosso manto eu me coloco. Vós sois o refúgio dos pecadores; vós, pois, sede a esperança da minha salvação. Se vós me expulsardes, a quem recorrerei? -- Maria, refúgio meu, salvai-me.
+
+Oração de Santo Atanásio:
+
+Ó nossa princesa, a Vós Deus concede toda sorte de graças. Sois chamada cheia de graça porque fostes cumulada pelo Espírito Santo, que desceu sobre Vós. Os ricos, por isso, do povo, que são enriquecidos com os vossos dons, vos rogam e vos invocam. Escutai, ó santíssima Virgem, as nossas preces e lembrai-vos de nós. Dispensai-nos os dons das vossas riquezas e da abundância das graças de que estais repleta. O Arcanjo vos saúda e vos chama cheia de graça; todas as nações vos chamam bem-aventurada, todas as hierarquias do céu vos bendizem. E nós que somos da hierarquia terrestre, também vos dizemos: Deus vos salve, ó cheia de graça, o Senhor está convosco; rogai por nós, ó Mãe de Deus, nossa Senhora e nossa Rainha.
+
+Ó Maria, olhai por nós e atraí-nos todos a Deus.

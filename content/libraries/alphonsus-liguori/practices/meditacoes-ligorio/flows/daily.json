@@ -101,12 +101,30 @@
       ]
     },
     {
-      "type": "prose",
-      "file": "meditation-primary"
-    },
-    {
-      "type": "prose",
-      "file": "meditation-temporal"
+      "type": "options",
+      "label": { "pt-BR": "Meditação" },
+      "options": [
+        {
+          "id": "feast",
+          "label": { "pt-BR": "{{feastLabel}}" },
+          "sections": [{ "type": "prose", "file": "meditation-feast" }]
+        },
+        {
+          "id": "feast-2",
+          "label": { "pt-BR": "{{feast2Label}}" },
+          "sections": [{ "type": "prose", "file": "meditation-feast-2" }]
+        },
+        {
+          "id": "temporal",
+          "label": { "pt-BR": "{{temporalLabel}}" },
+          "sections": [{ "type": "prose", "file": "meditation-temporal" }]
+        },
+        {
+          "id": "temporal-2",
+          "label": { "pt-BR": "{{temporal2Label}}" },
+          "sections": [{ "type": "prose", "file": "meditation-temporal-2" }]
+        }
+      ]
     },
     {
       "type": "prayer",

@@ -1,0 +1,17 @@
+# Visita XXII
+
+Andava a Esposa dos sagrados Cânticos procurando o seu dileto, e não o encontrando andava perguntando: *Num quem diligit anima mea vidistis?* (Cant. III, 3). Então não estava Jesus na terra: mas agora, se uma alma que ama a Jesus o vai buscando, encontra-o sempre no SS. Sacramento. Dizia o V.P. Mestre Ávila que entre todos os santuários não sabia encontrar nem desejar santuário mais amável do que uma igreja onde está o SS. Sacramento.
+
+Oh amor infinito do meu Deus, digno de infinito amor! Oh como pudestes, meu Jesus, chegar a rebaixar-vos tanto que, para vos deterdes com os homens e para vos unirdes aos seus corações, vos humilhastes até a esconder-vos sob as espécies de pão? Ó Verbo Encarnado, vós fostes sumo em vos humilhar, porque sois sumo em amar. Como posso eu não amar-vos com tudo quanto sou, sabendo quanto fizestes para cativar o meu amor? Eu vos amo muito, e por isso anteponho o vosso contentamento a todo meu interesse, a toda minha satisfação. O meu gosto é dar gosto a vós, meu Jesus, meu Deus, meu amor, meu tudo. Acendei em mim uma grande fome de estar continuamente na presença de vós sacramentado, e de receber-vos e fazer-vos companhia. Seria um ingrato se não aceitasse tão doce e cortês convite. Ah Senhor, destruí em mim todo o afeto às coisas criadas. Vós quereis que somente vós, meu Criador, sejais o alvo de todos os meus suspiros, de todos os meus amores. Amo-vos, bondade amabilíssima do meu Deus. Não busco de vós outra coisa senão vós. Não quero os meus contentamentos, quero e me basta o vosso contentamento. Aceitai, meu Jesus, este bom desejo de um pecador que vos quer amar. Ajudai-me com a vossa graça: fazei que eu, miserável escravo do inferno, seja de hoje em diante escravo feliz do vosso amor. -- Amo-vos, meu Jesus, meu bem, acima de todo bem.
+
+A comunhão espiritual.
+
+## A Maria
+
+Dulcíssima Senhora e mãe minha, eu sou um vil rebelde do vosso grande Filho; mas arrependido venho à vossa piedade para que me obtenhais o perdão. Não me digais que não podeis, pois São Bernardo vos chama a ministra do perdão: *Ministra propitiationis.* A vós também cabe ajudar quem está em perigo, chamando-vos Santo Efrém: *Opitulatrix periclitantium.* Minha Senhora, quem está mais em perigo do que eu? Eu perdi a Deus: é certo que fui condenado ao inferno: não sei se Deus ainda me perdoou: posso tornar a perdê-lo. Mas vós podeis obter-me tudo, e de vós eu espero todo bem, o perdão, a perseverança, o paraíso. Eu espero ser um daqueles no reino dos bem-aventurados que mais louvarão as vossas misericórdias, ó Maria, salvando-me pela vossa intercessão. -- *Misericordias Mariae in aeternum cantabo, in aeternum cantabo. Amen, amen.*
+
+Oração do mesmo Guilherme de Paris:
+
+Ó Mãe de Deus, a vossa benignidade nunca desprezou nenhum pecador, por mais enorme que fosse, que a Vós se recomendou. Eh será que falsamente ou em vão a Igreja vos chama a sua Advogada, o refúgio dos miseráveis? Nunca seja que as minhas culpas possam impedir-vos de cumprir o grande ofício de piedade que Vós tendes, pelo qual vos tornais a medianeira de paz, a única esperança, o abrigo seguríssimo dos miseráveis. Nunca seja que a Mãe de Deus, que deu à luz em benefício de todo o mundo a fonte da misericórdia, tenha de negar depois a sua piedade a algum miserável que a ela recorre. O vosso ofício é ser a pacificadora entre Deus e os homens. Que vos mova, pois, a socorrer-me a vossa grande piedade que é muito maior do que todos os meus pecados.
+
+Mãe minha querida, Vós me haveis de salvar.

@@ -1,0 +1,257 @@
+{
+  "id": "apparecchio-alla-morte",
+  "name": {
+    "it": "Apparecchio alla morte",
+    "en-US": "Preparation for Death",
+    "pt-BR": "Preparacao para a Morte"
+  },
+  "author": {
+    "it": "Sant'Alfonso Maria de Liguori",
+    "en-US": "St. Alphonsus Maria de Liguori",
+    "pt-BR": "Santo Afonso Maria de Ligorio"
+  },
+  "description": {
+    "it": "Trentasei considerazioni sulle verita eterne per prepararsi alla morte con meditazioni, affetti e preghiere.",
+    "en-US": "Thirty-six considerations on the eternal truths to prepare for death, with meditations, affections, and prayers.",
+    "pt-BR": "Trinta e seis consideracoes sobre as verdades eternas para se preparar para a morte, com meditacoes, afetos e oracoes."
+  },
+  "composed": 1758,
+  "languages": ["it"],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.intratext.com/IXT/ITASA0000/",
+      "description": "Italian text from IntraText CT"
+    }
+  ],
+  "toc": [
+    {
+      "id": "dedica",
+      "title": {
+        "it": "Dedica"
+      }
+    },
+    {
+      "id": "intento-opera",
+      "title": {
+        "it": "Intento dell'opera necessario a leggersi"
+      }
+    },
+    {
+      "id": "considerazione-01",
+      "title": {
+        "it": "Considerazione I - Ritratto d'un uomo da poco tempo passato all'altra vita"
+      }
+    },
+    {
+      "id": "considerazione-02",
+      "title": {
+        "it": "Considerazione II - Colla morte finisce tutto"
+      }
+    },
+    {
+      "id": "considerazione-03",
+      "title": {
+        "it": "Considerazione III - Brevita della vita"
+      }
+    },
+    {
+      "id": "considerazione-04",
+      "title": {
+        "it": "Considerazione IV - Certezza della morte"
+      }
+    },
+    {
+      "id": "considerazione-05",
+      "title": {
+        "it": "Considerazione V - Incertezza dell'ora della morte"
+      }
+    },
+    {
+      "id": "considerazione-06",
+      "title": {
+        "it": "Considerazione VI - Morte del peccatore"
+      }
+    },
+    {
+      "id": "considerazione-07",
+      "title": {
+        "it": "Considerazione VII - Sentimenti d'un moribondo trascurato, che poco ha pensato alla morte"
+      }
+    },
+    {
+      "id": "considerazione-08",
+      "title": {
+        "it": "Considerazione VIII - Morte de' giusti"
+      }
+    },
+    {
+      "id": "considerazione-09",
+      "title": {
+        "it": "Considerazione IX - Pace d'un giusto che muore"
+      }
+    },
+    {
+      "id": "considerazione-10",
+      "title": {
+        "it": "Considerazione X - Mezzi per apparecchiarsi alla morte"
+      }
+    },
+    {
+      "id": "considerazione-11",
+      "title": {
+        "it": "Considerazione XI - Prezzo del tempo"
+      }
+    },
+    {
+      "id": "considerazione-12",
+      "title": {
+        "it": "Considerazione XII - Importanza della salute"
+      }
+    },
+    {
+      "id": "considerazione-13",
+      "title": {
+        "it": "Considerazione XIII - Vanita del mondo"
+      }
+    },
+    {
+      "id": "considerazione-14",
+      "title": {
+        "it": "Considerazione XIV - La presente vita e viaggio all'eternita"
+      }
+    },
+    {
+      "id": "considerazione-15",
+      "title": {
+        "it": "Considerazione XV - Della malizia del peccato mortale"
+      }
+    },
+    {
+      "id": "considerazione-16",
+      "title": {
+        "it": "Considerazione XVI - Della misericordia di Dio"
+      }
+    },
+    {
+      "id": "considerazione-17",
+      "title": {
+        "it": "Considerazione XVII - Abuso della divina misericordia"
+      }
+    },
+    {
+      "id": "considerazione-18",
+      "title": {
+        "it": "Considerazione XVIII - Del numero de' peccati"
+      }
+    },
+    {
+      "id": "considerazione-19",
+      "title": {
+        "it": "Considerazione XIX - Che gran bene sia la grazia di Dio, e che male la disgrazia di Dio"
+      }
+    },
+    {
+      "id": "considerazione-20",
+      "title": {
+        "it": "Considerazione XX - Pazzia del peccatore"
+      }
+    },
+    {
+      "id": "considerazione-21",
+      "title": {
+        "it": "Considerazione XXI - Vita infelice del peccatore e vita felice di chi ama Dio"
+      }
+    },
+    {
+      "id": "considerazione-22",
+      "title": {
+        "it": "Considerazione XXII - Del mal'abito"
+      }
+    },
+    {
+      "id": "considerazione-23",
+      "title": {
+        "it": "Considerazione XXIII - Inganni che 'l demonio mette in mente a' peccatori"
+      }
+    },
+    {
+      "id": "considerazione-24",
+      "title": {
+        "it": "Considerazione XXIV - Del giudizio particolare"
+      }
+    },
+    {
+      "id": "considerazione-25",
+      "title": {
+        "it": "Considerazione XXV - Del giudizio universale"
+      }
+    },
+    {
+      "id": "considerazione-26",
+      "title": {
+        "it": "Considerazione XXVI - Delle pene dell'inferno"
+      }
+    },
+    {
+      "id": "considerazione-27",
+      "title": {
+        "it": "Considerazione XXVII - Dell'eternita dell'inferno"
+      }
+    },
+    {
+      "id": "considerazione-28",
+      "title": {
+        "it": "Considerazione XXVIII - Rimorsi del dannato"
+      }
+    },
+    {
+      "id": "considerazione-29",
+      "title": {
+        "it": "Considerazione XXIX - Del paradiso"
+      }
+    },
+    {
+      "id": "considerazione-30",
+      "title": {
+        "it": "Considerazione XXX - Della preghiera"
+      }
+    },
+    {
+      "id": "considerazione-31",
+      "title": {
+        "it": "Considerazione XXXI - Della perseveranza"
+      }
+    },
+    {
+      "id": "considerazione-32",
+      "title": {
+        "it": "Considerazione XXXII - Della confidenza nel patrocinio di Maria Santissima"
+      }
+    },
+    {
+      "id": "considerazione-33",
+      "title": {
+        "it": "Considerazione XXXIII - Dell'amore di Dio"
+      }
+    },
+    {
+      "id": "considerazione-34",
+      "title": {
+        "it": "Considerazione XXXIV - Della santa Comunione"
+      }
+    },
+    {
+      "id": "considerazione-35",
+      "title": {
+        "it": "Considerazione XXXV - Della dimora amorosa che fa Gesu' sugli altari nel SS. Sagramento"
+      }
+    },
+    {
+      "id": "considerazione-36",
+      "title": {
+        "it": "Considerazione XXXVI - Dell'uniformita alla volonta di Dio"
+      }
+    }
+  ]
+}

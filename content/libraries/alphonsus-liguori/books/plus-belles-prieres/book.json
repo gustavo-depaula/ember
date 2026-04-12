@@ -1,0 +1,249 @@
+{
+  "id": "plus-belles-prieres",
+  "name": {
+    "fr-FR": "Les Plus Belles Prières de Saint Alphonse de Liguori"
+  },
+  "author": {
+    "fr-FR": "Père Saint-Omer, C.SS.R."
+  },
+  "description": {
+    "fr-FR": "Manuel complet réunissant les plus belles prières de saint Alphonse de Liguori, tirées de ses œuvres complètes et organisées pour la vie quotidienne, hebdomadaire, mensuelle et les temps liturgiques. 170e édition."
+  },
+  "composed": 1878,
+  "languages": ["fr-FR"],
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://books.google.com.br/books/about/Les_plus_belles_pri%C3%A8res_de_Saint_Alphon.html?id=_gTLoH6Y7HQC&redir_esc=y",
+      "description": "Google Books digitization of the 170th edition"
+    }
+  ],
+  "toc": [
+    {
+      "id": "protestation-approbations",
+      "title": { "fr-FR": "Protestation de l'Auteur et Approbations" }
+    },
+    {
+      "id": "lettre-cardinal-dechamps",
+      "title": { "fr-FR": "Lettre de S. E. le Cardinal Dechamps" }
+    },
+    {
+      "id": "preface",
+      "title": { "fr-FR": "Priez... Priez... Priez..." }
+    },
+    {
+      "id": "calendrier",
+      "title": { "fr-FR": "Calendrier liturgique" }
+    },
+    {
+      "id": "premiere-partie",
+      "title": { "fr-FR": "Première Partie — Exercices de chaque Jour" },
+      "children": [
+        {
+          "id": "p1-lever-prieres-matin",
+          "title": { "fr-FR": "Le lever et Prières du Matin" }
+        },
+        {
+          "id": "p1-oraison-mentale",
+          "title": { "fr-FR": "L'Oraison mentale" }
+        },
+        {
+          "id": "p1-sainte-messe",
+          "title": { "fr-FR": "La Sainte Messe et Actes pour la Journée" }
+        },
+        {
+          "id": "p1-chemin-de-croix",
+          "title": { "fr-FR": "Exercice du Chemin de la Croix" }
+        },
+        {
+          "id": "p1-prieres-soir",
+          "title": { "fr-FR": "Prières du soir" }
+        },
+        {
+          "id": "p1-converser-avec-dieu",
+          "title": { "fr-FR": "Manière de converser continuellement avec Dieu" }
+        }
+      ]
+    },
+    {
+      "id": "deuxieme-partie",
+      "title": { "fr-FR": "Deuxième Partie — Exercices de chaque semaine" },
+      "children": [
+        {
+          "id": "p2-dimanche",
+          "title": { "fr-FR": "Le Dimanche — Prières pendant la Messe" }
+        },
+        {
+          "id": "p2-lundi",
+          "title": { "fr-FR": "Le Lundi — Saint-Esprit et Défunts" }
+        },
+        {
+          "id": "p2-mardi",
+          "title": { "fr-FR": "Le Mardi — Saints Anges" }
+        },
+        {
+          "id": "p2-mercredi",
+          "title": { "fr-FR": "Le Mercredi — Saint Joseph" }
+        },
+        {
+          "id": "p2-jeudi",
+          "title": { "fr-FR": "Le Jeudi — Saint-Sacrement" }
+        },
+        {
+          "id": "p2-vendredi",
+          "title": { "fr-FR": "Le Vendredi — La Passion et le Sacré-Cœur" }
+        },
+        {
+          "id": "p2-samedi",
+          "title": { "fr-FR": "Le Samedi — Notre-Dame du Perpétuel-Secours" }
+        },
+        {
+          "id": "p2-confession",
+          "title": { "fr-FR": "Exercices pieux pour la confession" }
+        },
+        {
+          "id": "p2-communion-1-2",
+          "title": { "fr-FR": "Exercices pour la sainte communion (1er-2e)" }
+        },
+        {
+          "id": "p2-communion-3-4",
+          "title": { "fr-FR": "Exercices pour la sainte communion (3e-4e)" }
+        },
+        {
+          "id": "p2-communion-5-6",
+          "title": { "fr-FR": "Exercices pour la sainte communion (5e-6e)" }
+        },
+        {
+          "id": "p2-communion-7-8",
+          "title": { "fr-FR": "Exercices pour la sainte communion (7e-8e)" }
+        },
+        {
+          "id": "p2-aspirations-soupirs",
+          "title": { "fr-FR": "Aspirations et Soupirs d'amour à Jésus" }
+        }
+      ]
+    },
+    {
+      "id": "troisieme-partie",
+      "title": { "fr-FR": "Troisième Partie — Exercices de chaque mois" },
+      "children": [
+        {
+          "id": "p3-visites-01-10",
+          "title": { "fr-FR": "Visites au Saint-Sacrement (I-X)" }
+        },
+        {
+          "id": "p3-visites-11-20",
+          "title": { "fr-FR": "Visites au Saint-Sacrement (XI-XX)" }
+        },
+        {
+          "id": "p3-visites-21-31",
+          "title": { "fr-FR": "Visites au Saint-Sacrement (XXI-XXXI)" }
+        },
+        {
+          "id": "p3-vertus-mois",
+          "title": { "fr-FR": "Prière pour obtenir la vertu du mois" }
+        },
+        {
+          "id": "p3-premier-vendredi",
+          "title": { "fr-FR": "Le premier vendredi du mois" }
+        },
+        {
+          "id": "p3-enfant-jesus-mensuel",
+          "title": { "fr-FR": "Le 25 de chaque mois — L'Enfant-Jésus" }
+        },
+        {
+          "id": "p3-preparation-mort",
+          "title": { "fr-FR": "Préparation à la mort" }
+        },
+        {
+          "id": "p3-retraite-mois",
+          "title": { "fr-FR": "Exercices pour la retraite du mois" }
+        }
+      ]
+    },
+    {
+      "id": "quatrieme-partie",
+      "title": { "fr-FR": "Quatrième Partie — Exercices pour divers temps de l'année" },
+      "children": [
+        {
+          "id": "p4-trinite",
+          "title": { "fr-FR": "Dévotion à la très sainte Trinité" }
+        },
+        {
+          "id": "p4-enfant-jesus",
+          "title": { "fr-FR": "Dévotion à l'Enfant-Jésus et au saint Nom de Jésus" }
+        },
+        {
+          "id": "p4-passion",
+          "title": { "fr-FR": "Dévotion à la Passion" }
+        },
+        {
+          "id": "p4-saint-sacrement",
+          "title": { "fr-FR": "Dévotion au très saint Sacrement" }
+        },
+        {
+          "id": "p4-sacre-coeur",
+          "title": { "fr-FR": "Dévotion au Sacré-Cœur de Jésus" }
+        },
+        {
+          "id": "p4-saint-esprit",
+          "title": { "fr-FR": "Dévotion au Saint-Esprit" }
+        },
+        {
+          "id": "p4-vierge-prieres",
+          "title": { "fr-FR": "Dévotion à la très sainte Vierge — Prières" }
+        },
+        {
+          "id": "p4-vierge-fetes",
+          "title": { "fr-FR": "Fêtes de Marie et Mois de Marie" }
+        },
+        {
+          "id": "p4-vierge-douleurs",
+          "title": { "fr-FR": "Notre-Dame des Douleurs et du Perpétuel-Secours" }
+        },
+        {
+          "id": "p4-saint-joseph",
+          "title": { "fr-FR": "Dévotion à saint Joseph" }
+        },
+        {
+          "id": "p4-anges",
+          "title": { "fr-FR": "Dévotion aux saints Anges" }
+        },
+        {
+          "id": "p4-saints",
+          "title": { "fr-FR": "Dévotion aux Saints" }
+        },
+        {
+          "id": "p4-ames-purgatoire",
+          "title": { "fr-FR": "Dévotion aux âmes du Purgatoire" }
+        }
+      ]
+    },
+    {
+      "id": "cinquieme-partie",
+      "title": { "fr-FR": "Cinquième Partie — Prières diverses" },
+      "children": [
+        {
+          "id": "p5-prieres-diverses-1",
+          "title": { "fr-FR": "Prières pour les états de vie" }
+        },
+        {
+          "id": "p5-prieres-diverses-2",
+          "title": { "fr-FR": "Prières pour les vertus" }
+        },
+        {
+          "id": "p5-prieres-diverses-3",
+          "title": { "fr-FR": "Prières pour l'Église et intentions diverses" }
+        }
+      ]
+    },
+    {
+      "id": "table-des-matieres",
+      "title": { "fr-FR": "Table des Matières" }
+    },
+    {
+      "id": "table-alphabetique",
+      "title": { "fr-FR": "Table Alphabétique" }
+    }
+  ]
+}

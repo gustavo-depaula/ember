@@ -13,6 +13,28 @@
   "languages": [
     "pt-BR"
   ],
+  "sources": [
+    {
+      "language": "pt-BR",
+      "url": "https://rumoasantidade.com.br/meditacoes-santo-afonso/",
+      "description": "Web transcription from Rumo à Santidade"
+    },
+    {
+      "language": "pt-BR",
+      "url": "file:///Users/gustavo/Downloads/Meditacoes%20Santo%20Affonso%20Maria%20de%20Ligorio%20Tomo%20I.pdf",
+      "description": "PDF scan of Herder & Cia edition, Tomo I"
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://onedrive.live.com/?authkey=!AK0t8MdV-IHwQvc&id=C66F182E3FF9E7AA!242&cid=C66F182E3FF9E7AA&parId=root&parQt=sharedby&o=OneUp",
+      "description": "OneDrive scan, Tomo I"
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://onedrive.live.com/?authkey=!ADrwBx9MK0incvk&id=C66F182E3FF9E7AA!240&cid=C66F182E3FF9E7AA&parId=root&parQt=sharedby&o=OneUp",
+      "description": "OneDrive scan, Tomo II"
+    }
+  ],
   "toc": [
     {
       "id": "titulo",

@@ -1,0 +1,17 @@
+# Visita XXII
+
+Andava la Sposa de' sacri Cantici trovando il suo diletto, e non trovandolo andava dimandando: *Num quem diligit anima mea vidistis?* (Cant. III, 3). Allora non vi era Gesù in terra: ma ora, se un'anima che ama Gesù lo va cercando, lo trova sempre nel SS. Sacramento. Diceva il V.P. Maestro Avila che fra tutt'i santuari non sapeva trovare né desiderare santuario più amabile, che una chiesa dove sta il SS. Sacramento.
+
+Oh amore infinito del mio Dio, degno d'infinito amore! Oh come avete potuto, Gesù mio, arrivar ad abbassarvi tanto che per trattenervi cogli uomini e per unirvi ai loro cuori vi siete umiliato fino a nascondervi sotto le specie di pane? O Verbo Incarnato, voi siete stato sommo nell'umiliarvi, perché siete sommo nell'amare. Come poss'io non amarvi con tutto me stesso, sapendo quanto avete fatto per cattivarvi il mio amore? Io v'amo assai, e perciò antepongo il vostro compiacimento ad ogni mio interesse, ad ogni mia soddisfazione. Il gusto mio è di dar gusto a voi, mio Gesù, mio Dio, mio amore, mio tutto. Accendete in me una gran fame di star continuamente alla presenza di voi sacramentato, e di ricevervi e tenervi compagnia. Sarei un ingrato se non accettassi così dolce e cortese invito. Ah Signore, distruggete in me tutto l'affetto alle cose create. Voi volete che solo voi, mio Creatore, siate il segno di tutti i miei sospiri, di tutti gli amori miei. V'amo, bontà amabilissima del mio Dio. Non cerco da voi altro che voi. Non voglio i contenti miei, voglio e mi basta il contento vostro. Accettate, Gesù mio, questo buon desiderio di un peccatore che vi vuol amare. Aiutatemi colla vostra grazia: fate ch'io misero schiavo dell'inferno sia da ogg'innanzi schiavo felice del vostro amore. - V'amo Gesù mio bene sopra ogni bene.
+
+La comunione spirituale.
+
+## A Maria
+
+Dolcissima Signora e madre mia, io sono un vile ribelle del vostro gran Figlio; ma pentito vengo alla vostra pietà acciocché mi otteniate il perdono. Non mi dite che non potete, mentre S. Bernardo vi chiama la ministra del perdono: *Ministra propitiationis.* A voi ancora tocca l'aiutare chi sta in pericolo, chiamandovi S. Efrem: *Opitulatrix periclitantium.* Signora mia, chi sta più in pericolo di me? Io ho perduto Dio: è certo che sono stato condannato all'inferno: non so se ancora Dio m'ha perdonato: posso tornare a perderlo. Ma voi potete ottenermi tutto, e da voi io spero ogni bene, il perdono, la perseveranza, il paradiso. Io spero d'essere uno di coloro nel regno de' beati che più loderanno le vostre misericordie, o Maria, salvandomi per la vostra intercessione. - *Misericordias Mariae in aeternum cantabo, in aeternum cantabo. Amen, amen.*
+
+Orazione dello stesso Guglielmo di Parigi:
+
+O Madre di Dio la vostra benignità non ha mai disprezzato alcun peccatore, quantunque enorme, che a Voi si è raccomandato. Eh che forse falsamente, o invano la Chiesa vi nomina la sua Avvocata, il rifugio de' miseri? Non sia mai che le mie colpe possano trattenervi di adempire il grande officio di pietà che Voi avete, col quale vi rendete la mezzana di pace, l'unica speranza, il ricovero sicurissimo de' miserabili. Non sia mai che la Madre di Dio, la quale partorì a beneficio di tutto il mondo il fonte della misericordia, abbia a negare poi la sua pietà ad alcun misero che a Lei ricorre. L'officio vostro è di esser la paciera fra Dio e gli uomini. Vi muova dunque a soccorrermi la vostra gran pietà ch'è assai maggiore che tutti i miei peccati.
+
+Madre mia cara, Voi m'avete da salvare.
