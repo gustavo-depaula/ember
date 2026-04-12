@@ -1,25 +1,28 @@
 import { useQuery } from '@tanstack/react-query'
 import { useLocalSearchParams, useRouter } from 'expo-router'
-import { ChevronLeft, List } from 'lucide-react-native'
+import { ChevronLeft, List, Type } from 'lucide-react-native'
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { ActivityIndicator, Pressable, useColorScheme } from 'react-native'
 import Animated, { FadeIn, FadeOut } from 'react-native-reanimated'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
-import { Text, useTheme, XStack, YStack } from 'tamagui'
-import { ScreenLayout } from '@/components'
+import { Text, useTheme, View, XStack, YStack } from 'tamagui'
+import { ReadingConfigModal, ScreenLayout } from '@/components'
 import { getBookDirUri, getBookEntry } from '@/content/registry'
 import { getCursor, setCursor } from '@/db/repositories/cursors'
 import {
+  buildConfigCss,
   buildReaderShell,
   buildTitleLookup,
   flattenTocLeaves,
   getChapterBody,
   loadBookContent,
+  type ReaderConfig,
 } from '@/features/books/bookReader'
 import { ReaderTocSheet } from '@/features/books/ReaderTocSheet'
 import type { ReaderMessage, ReaderWebViewHandle } from '@/features/books/ReaderWebView'
 import { ReaderWebView } from '@/features/books/ReaderWebView'
+import { readingScale } from '@/hooks/useReadingStyle'
 import { localizeContent } from '@/lib/i18n'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
@@ -37,7 +40,11 @@ export default function BookReaderScreen() {
   const insets = useSafeAreaInsets()
   const colorScheme = useColorScheme()
   const isDark = colorScheme === 'dark'
-  const { contentLanguage } = usePreferencesStore()
+  const contentLanguage = usePreferencesStore((s) => s.contentLanguage)
+  const fontSizeStep = usePreferencesStore((s) => s.fontSizeStep)
+  const lineHeightStep = usePreferencesStore((s) => s.lineHeightStep)
+  const textAlign = usePreferencesStore((s) => s.textAlign)
+  const margin = usePreferencesStore((s) => s.margin)
   const webViewRef = useRef<ReaderWebViewHandle>(null)
 
   const bookEntry = bookId && libraryId ? getBookEntry(bookId, libraryId) : undefined
@@ -65,6 +72,17 @@ export default function BookReaderScreen() {
   const [pageDisplay, setPageDisplay] = useState({ current: 0, total: 1 })
   const [positionLoaded, setPositionLoaded] = useState(false)
   const restoredPageRef = useRef(0)
+
+  const readerConfig = useMemo<ReaderConfig>(
+    () => ({
+      fontSizePx: readingScale.fontSize[fontSizeStep - 1],
+      lineHeightPx: readingScale.lineHeight[lineHeightStep - 1],
+      textAlign,
+      margin,
+    }),
+    [fontSizeStep, lineHeightStep, textAlign, margin],
+  )
+  const initialConfigRef = useRef(readerConfig)
 
   // Load saved reading position
   useEffect(() => {
@@ -113,9 +131,9 @@ export default function BookReaderScreen() {
 
   const { data: bookContent, isLoading } = useQuery({
     queryKey: ['book', bookId, lang],
-    // biome-ignore lint/style/noNonNullAssertion: guarded by enabled
     queryFn: () =>
       loadBookContent(
+        // biome-ignore lint/style/noNonNullAssertion: guarded by enabled
         bookDirUri!,
         lang,
         leaves.map((l) => l.id),
@@ -133,8 +151,24 @@ export default function BookReaderScreen() {
   const shellHtml = useMemo(() => {
     const chapterId = chapterForShellRef.current ?? initialChapterId
     if (!bookContent || !chapterId) return undefined
-    return buildReaderShell(bookContent, chapterId, isDark, titleLookup.get(chapterId))
+    return buildReaderShell(
+      bookContent,
+      chapterId,
+      isDark,
+      titleLookup.get(chapterId),
+      initialConfigRef.current,
+    )
   }, [bookContent, isDark, initialChapterId, titleLookup])
+
+  // Live style updates when preferences change (skip initial render)
+  const isFirstConfigRender = useRef(true)
+  useEffect(() => {
+    if (isFirstConfigRender.current) {
+      isFirstConfigRender.current = false
+      return
+    }
+    webViewRef.current?.updateStyles(buildConfigCss(readerConfig))
+  }, [readerConfig])
 
   const currentIndex = useMemo(
     () => leaves.findIndex((l) => l.id === currentChapterId),
@@ -145,25 +179,48 @@ export default function BookReaderScreen() {
   const hasNext = currentIndex < leaves.length - 1
 
   const navigateChapter = useCallback(
-    (id: string, startPage = 0) => {
+    (id: string, startPage = 0, direction?: 'next' | 'prev') => {
       savePosition()
       currentPageRef.current = startPage
       setPageDisplay({ current: 0, total: 1 })
       setCurrentChapterId(id)
       if (bookContent) {
         const body = getChapterBody(bookContent, id, titleLookup.get(id))
-        webViewRef.current?.loadChapter(body, startPage)
+        webViewRef.current?.loadChapter(body, startPage, direction)
       }
     },
     [savePosition, bookContent, titleLookup],
   )
 
   // Stable ref for values that change on every chapter nav, so callbacks stay identity-stable
-  const navRef = useRef({ currentIndex, hasNext, hasPrev, leaves, navigateChapter })
-  navRef.current = { currentIndex, hasNext, hasPrev, leaves, navigateChapter }
+  const goBack = useCallback(() => router.back(), [router])
+  const navRef = useRef({
+    currentIndex,
+    hasNext,
+    hasPrev,
+    leaves,
+    navigateChapter,
+    savePosition,
+    goBack,
+  })
+  navRef.current = {
+    currentIndex,
+    hasNext,
+    hasPrev,
+    leaves,
+    navigateChapter,
+    savePosition,
+    goBack,
+  }
 
   const [tocVisible, setTocVisible] = useState(false)
   const [chromeVisible, setChromeVisible] = useState(true)
+  const [configVisible, setConfigVisible] = useState(false)
+
+  const progress = useMemo(() => {
+    if (leaves.length === 0) return 0
+    return (currentIndex + pageDisplay.current / Math.max(1, pageDisplay.total)) / leaves.length
+  }, [leaves.length, currentIndex, pageDisplay])
 
   const handleMessage = useCallback((msg: ReaderMessage) => {
     if (msg.type === 'pageInfo') {
@@ -173,11 +230,15 @@ export default function BookReaderScreen() {
     if (msg.type === 'boundary') {
       const { hasNext, hasPrev, currentIndex, leaves, navigateChapter } = navRef.current
       if (msg.direction === 'next' && hasNext) {
-        navigateChapter(leaves[currentIndex + 1].id, 0)
+        navigateChapter(leaves[currentIndex + 1].id, 0, 'next')
       }
       if (msg.direction === 'prev' && hasPrev) {
-        navigateChapter(leaves[currentIndex - 1].id, -1)
+        navigateChapter(leaves[currentIndex - 1].id, -1, 'prev')
       }
+    }
+    if (msg.type === 'backSwipe') {
+      navRef.current.savePosition()
+      navRef.current.goBack()
     }
     if (msg.type === 'centerTap') {
       setChromeVisible((v) => !v)
@@ -243,12 +304,18 @@ export default function BookReaderScreen() {
                 {title}
               </Text>
             </YStack>
+            <Pressable onPress={() => setConfigVisible(true)} hitSlop={8}>
+              <Type size={20} color={theme.color.val} />
+            </Pressable>
             {bookEntry.toc && bookEntry.toc.length > 0 && (
               <Pressable onPress={() => setTocVisible(true)} hitSlop={8}>
                 <List size={22} color={theme.color.val} />
               </Pressable>
             )}
           </XStack>
+          <View height={2} backgroundColor="$borderColor">
+            <View height={2} backgroundColor="$accent" width={`${progress * 100}%`} />
+          </View>
         </Animated.View>
       )}
 
@@ -289,6 +356,8 @@ export default function BookReaderScreen() {
           onClose={() => setTocVisible(false)}
         />
       )}
+
+      <ReadingConfigModal visible={configVisible} onClose={() => setConfigVisible(false)} />
     </YStack>
   )
 }

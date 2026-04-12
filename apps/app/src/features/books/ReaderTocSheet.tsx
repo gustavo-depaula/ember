@@ -1,7 +1,7 @@
 import { ChevronDown, ChevronRight, X } from 'lucide-react-native'
-import { useCallback, useState } from 'react'
+import { useCallback, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { Pressable, ScrollView } from 'react-native'
+import { FlatList, Pressable } from 'react-native'
 import Animated, { FadeIn, FadeOut, SlideInRight, SlideOutRight } from 'react-native-reanimated'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 import { AnimatedPressable } from '@/components'
@@ -15,88 +15,67 @@ type Props = {
   onClose: () => void
 }
 
-function hasCurrentChapter(node: TocNode, currentChapterId: string): boolean {
-  if (node.id === currentChapterId) return true
-  return node.children?.some((child) => hasCurrentChapter(child, currentChapterId)) ?? false
+type FlatTocItem = {
+  node: TocNode
+  depth: number
+  isLeaf: boolean
+  isExpanded: boolean
 }
 
-function TocItem({
-  node,
-  currentChapterId,
-  onSelect,
-  depth,
-}: {
-  node: TocNode
-  currentChapterId: string
-  onSelect: (id: string) => void
-  depth: number
-}) {
-  const theme = useTheme()
-  const isLeaf = !node.children?.length
-  const isCurrent = node.id === currentChapterId
-  const containsCurrent = !isLeaf && hasCurrentChapter(node, currentChapterId)
-  const [expanded, setExpanded] = useState(containsCurrent || depth === 0)
+const itemHeight = 44
 
-  return (
-    <>
-      {isLeaf ? (
-        <AnimatedPressable onPress={() => onSelect(node.id)}>
-          <XStack
-            paddingVertical="$xs"
-            paddingHorizontal="$md"
-            paddingLeft={16 + depth * 16}
-            backgroundColor={isCurrent ? '$accentSubtle' : 'transparent'}
-            borderRadius="$sm"
-          >
-            <Text
-              fontFamily="$body"
-              fontSize="$2"
-              color={isCurrent ? '$accent' : '$color'}
-              numberOfLines={2}
-            >
-              {localizeContent(node.title)}
-            </Text>
-          </XStack>
-        </AnimatedPressable>
-      ) : (
-        <YStack paddingTop={depth > 0 ? '$xs' : '$sm'}>
-          <Pressable onPress={() => setExpanded((v) => !v)}>
-            <XStack
-              alignItems="center"
-              gap="$xs"
-              paddingHorizontal="$md"
-              paddingLeft={16 + depth * 16}
-              paddingBottom="$xs"
-            >
-              {expanded ? (
-                <ChevronDown size={14} color={theme.colorSecondary.val} />
-              ) : (
-                <ChevronRight size={14} color={theme.colorSecondary.val} />
-              )}
-              <Text fontFamily="$heading" fontSize="$2" color="$colorSecondary" flex={1}>
-                {localizeContent(node.title)}
-              </Text>
-            </XStack>
-          </Pressable>
-          {expanded &&
-            node.children?.map((child) => (
-              <TocItem
-                key={child.id}
-                node={child}
-                currentChapterId={currentChapterId}
-                onSelect={onSelect}
-                depth={depth + 1}
-              />
-            ))}
-        </YStack>
-      )}
-    </>
-  )
+function flattenToc(nodes: TocNode[], expandedIds: Set<string>, depth = 0): FlatTocItem[] {
+  const result: FlatTocItem[] = []
+  for (const node of nodes) {
+    const isLeaf = !node.children?.length
+    const isExpanded = !isLeaf && expandedIds.has(node.id)
+    result.push({ node, depth, isLeaf, isExpanded })
+    if (isExpanded && node.children) {
+      result.push(...flattenToc(node.children, expandedIds, depth + 1))
+    }
+  }
+  return result
+}
+
+function collectInitialExpanded(toc: TocNode[], currentChapterId: string): Set<string> {
+  const ids = new Set<string>()
+  for (const node of toc) {
+    if (node.children?.length) ids.add(node.id)
+  }
+  function findAncestors(nodes: TocNode[], path: string[]): boolean {
+    for (const node of nodes) {
+      if (node.id === currentChapterId) return true
+      if (node.children?.length) {
+        path.push(node.id)
+        if (findAncestors(node.children, path)) return true
+        path.pop()
+      }
+    }
+    return false
+  }
+  const path: string[] = []
+  findAncestors(toc, path)
+  for (const id of path) ids.add(id)
+  return ids
+}
+
+function getItemLayout(_: unknown, index: number) {
+  return { length: itemHeight, offset: itemHeight * index, index }
 }
 
 export function ReaderTocSheet({ toc, currentChapterId, onSelectChapter, onClose }: Props) {
   const theme = useTheme()
   const { t } = useTranslation()
+  const [expandedIds, setExpandedIds] = useState(() =>
+    collectInitialExpanded(toc, currentChapterId),
+  )
+
+  const flatItems = useMemo(() => flattenToc(toc, expandedIds), [toc, expandedIds])
+
+  const currentIndex = useMemo(
+    () => flatItems.findIndex((item) => item.node.id === currentChapterId),
+    [flatItems, currentChapterId],
+  )
 
   const handleSelect = useCallback(
     (id: string) => {
@@ -104,6 +83,74 @@ export function ReaderTocSheet({ toc, currentChapterId, onSelectChapter, onClose
       onClose()
     },
     [onSelectChapter, onClose],
+  )
+
+  const toggleExpand = useCallback((nodeId: string) => {
+    setExpandedIds((prev) => {
+      const next = new Set(prev)
+      if (next.has(nodeId)) next.delete(nodeId)
+      else next.add(nodeId)
+      return next
+    })
+  }, [])
+
+  const renderItem = useCallback(
+    ({ item }: { item: FlatTocItem }) => {
+      const { node, depth, isLeaf, isExpanded } = item
+      const isCurrent = node.id === currentChapterId
+
+      if (isLeaf) {
+        return (
+          <AnimatedPressable onPress={() => handleSelect(node.id)}>
+            <XStack
+              height={itemHeight}
+              alignItems="center"
+              paddingHorizontal="$md"
+              paddingLeft={16 + depth * 16}
+              backgroundColor={isCurrent ? '$accentSubtle' : 'transparent'}
+              borderRadius="$sm"
+            >
+              <Text
+                fontFamily="$body"
+                fontSize="$2"
+                color={isCurrent ? '$accent' : '$color'}
+                numberOfLines={2}
+              >
+                {localizeContent(node.title)}
+              </Text>
+            </XStack>
+          </AnimatedPressable>
+        )
+      }
+
+      return (
+        <Pressable onPress={() => toggleExpand(node.id)}>
+          <XStack
+            height={itemHeight}
+            alignItems="center"
+            gap="$xs"
+            paddingHorizontal="$md"
+            paddingLeft={16 + depth * 16}
+          >
+            {isExpanded ? (
+              <ChevronDown size={14} color={theme.colorSecondary.val} />
+            ) : (
+              <ChevronRight size={14} color={theme.colorSecondary.val} />
+            )}
+            <Text
+              fontFamily="$heading"
+              fontSize="$2"
+              color="$colorSecondary"
+              flex={1}
+              numberOfLines={2}
+            >
+              {localizeContent(node.title)}
+            </Text>
+          </XStack>
+        </Pressable>
+      )
+    },
+    [currentChapterId, handleSelect, toggleExpand, theme.colorSecondary.val],
   )
 
   return (
@@ -155,17 +202,14 @@ export function ReaderTocSheet({ toc, currentChapterId, onSelectChapter, onClose
             </Pressable>
           </XStack>
 
-          <ScrollView contentContainerStyle={{ paddingBottom: 32 }}>
-            {toc.map((node) => (
-              <TocItem
-                key={node.id}
-                node={node}
-                currentChapterId={currentChapterId}
-                onSelect={handleSelect}
-                depth={0}
-              />
-            ))}
-          </ScrollView>
+          <FlatList
+            data={flatItems}
+            renderItem={renderItem}
+            keyExtractor={(item) => item.node.id}
+            getItemLayout={getItemLayout}
+            initialScrollIndex={currentIndex > 0 ? currentIndex : undefined}
+            contentContainerStyle={{ paddingBottom: 32 }}
+          />
         </YStack>
       </Animated.View>
     </>

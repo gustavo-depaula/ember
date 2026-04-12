@@ -48,7 +48,7 @@ html, body {
 #ember-content {
   column-fill: auto;
   height: 100%;
-  padding: 1em 1.5em;
+  padding: 1em var(--reader-margin, 1.5em);
   box-sizing: border-box;
   transition: transform 300ms cubic-bezier(0.2, 0, 0, 1);
 }
@@ -56,8 +56,13 @@ html, body {
   max-height: 80vh;
   break-inside: avoid;
 }
-p, blockquote, ol, ul, h1, h2, h3, h4 {
+h1, h2, h3, h4 {
   break-inside: avoid;
+  break-after: avoid;
+}
+body {
+  orphans: 2;
+  widows: 2;
 }
 `
 
@@ -93,12 +98,16 @@ const paginationScript = `
   function goToPage(n) {
     if (n < 0) {
       el.style.transform = 'translateX(' + pageWidth + 'px)';
-      send({ type: 'boundary', direction: 'prev' });
+      setTimeout(function() {
+        send({ type: 'boundary', direction: 'prev' });
+      }, 300);
       return;
     }
     if (n >= totalPages) {
       el.style.transform = 'translateX(' + (-totalPages * pageWidth) + 'px)';
-      send({ type: 'boundary', direction: 'next' });
+      setTimeout(function() {
+        send({ type: 'boundary', direction: 'next' });
+      }, 300);
       return;
     }
     currentPage = n;
@@ -106,15 +115,29 @@ const paginationScript = `
     send({ type: 'pageInfo', currentPage: currentPage, totalPages: totalPages });
   }
 
-  function loadChapter(html, startPage) {
+  function loadChapter(html, startPage, direction) {
     el.style.transition = 'none';
     el.innerHTML = html;
     requestAnimationFrame(function() {
       measure();
       var page = startPage < 0 ? totalPages - 1 : startPage;
-      goToPage(page);
+      currentPage = page;
+      var target = -page * pageWidth;
+
+      if (direction === 'next') {
+        el.style.transform = 'translateX(' + (target + pageWidth) + 'px)';
+      } else if (direction === 'prev') {
+        el.style.transform = 'translateX(' + (target - pageWidth) + 'px)';
+      } else {
+        el.style.transform = 'translateX(' + target + 'px)';
+        send({ type: 'pageInfo', currentPage: page, totalPages: totalPages });
+        requestAnimationFrame(function() { el.style.transition = ''; });
+        return;
+      }
       requestAnimationFrame(function() {
         el.style.transition = '';
+        el.style.transform = 'translateX(' + target + 'px)';
+        send({ type: 'pageInfo', currentPage: page, totalPages: totalPages });
       });
     });
   }
@@ -125,6 +148,7 @@ const paginationScript = `
   var touchStartTime = 0;
   var isSwiping = false;
   var swipeBlocked = false;
+  var edgeSwipe = false;
 
   document.addEventListener('touchstart', function(e) {
     if (e.target.tagName === 'A') return;
@@ -133,11 +157,14 @@ const paginationScript = `
     touchStartTime = Date.now();
     isSwiping = false;
     swipeBlocked = false;
-    el.style.transition = 'none';
+    edgeSwipe = touchStartX < 20;
+    if (!edgeSwipe) {
+      el.style.transition = 'none';
+    }
   }, { passive: true });
 
   document.addEventListener('touchmove', function(e) {
-    if (swipeBlocked) return;
+    if (swipeBlocked || edgeSwipe) return;
     var dx = e.touches[0].clientX - touchStartX;
     var dy = e.touches[0].clientY - touchStartY;
 
@@ -156,6 +183,11 @@ const paginationScript = `
 
   document.addEventListener('touchend', function(e) {
     if (swipeBlocked) return;
+    if (edgeSwipe) {
+      var edgeDx = e.changedTouches[0].clientX - touchStartX;
+      if (edgeDx > 60) send({ type: 'backSwipe' });
+      return;
+    }
     var dx = e.changedTouches[0].clientX - touchStartX;
     var elapsed = Date.now() - touchStartTime;
     var velocity = Math.abs(dx) / elapsed;
@@ -204,7 +236,17 @@ const paginationScript = `
     try {
       var msg = typeof e.data === 'string' ? JSON.parse(e.data) : e.data;
       if (msg.type === 'goToPage') goToPage(msg.page < 0 ? totalPages - 1 : msg.page);
-      if (msg.type === 'loadChapter') loadChapter(msg.html, msg.startPage);
+      if (msg.type === 'loadChapter') loadChapter(msg.html, msg.startPage, msg.direction);
+      if (msg.type === 'updateStyles') {
+        var style = document.getElementById('reader-config');
+        if (style) style.textContent = msg.css;
+        el.style.transition = 'none';
+        requestAnimationFrame(function() {
+          measure();
+          goToPage(currentPage);
+          requestAnimationFrame(function() { el.style.transition = ''; });
+        });
+      }
     } catch(err) {}
   });
 
@@ -294,15 +336,36 @@ function extractBody(html: string): string {
   return bodyMatch ? bodyMatch[1].trim() : html
 }
 
+export type ReaderConfig = {
+  fontSizePx: number
+  lineHeightPx: number
+  textAlign: 'justify' | 'left'
+  margin: 'narrow' | 'normal' | 'wide'
+}
+
+const marginToCss = { narrow: '0.8em', normal: '1.5em', wide: '2.5em' } as const
+
+export function buildConfigCss(config: ReaderConfig): string {
+  const ratio = config.lineHeightPx / config.fontSizePx
+  return `:root {
+    --reader-font-size: ${config.fontSizePx}px;
+    --reader-line-height: ${ratio.toFixed(3)};
+    --reader-text-align: ${config.textAlign};
+    --reader-margin: ${marginToCss[config.margin]};
+  }`
+}
+
 /** Build the reader shell HTML — loaded once, chapters swapped via messages */
 export function buildReaderShell(
   content: BookContent,
   firstChapterId: string,
   isDark: boolean,
   firstChapterTitle?: string,
+  config?: ReaderConfig,
 ): string {
   const firstBody = getChapterBody(content, firstChapterId, firstChapterTitle)
   const darkStyle = isDark ? `<style>${darkModeOverrides}</style>` : ''
+  const configStyle = config ? `<style id="reader-config">${buildConfigCss(config)}</style>` : ''
 
   return `<!DOCTYPE html>
 <html>
@@ -312,6 +375,7 @@ export function buildReaderShell(
 <style>${content.css}</style>
 <style>${paginationCss}</style>
 ${darkStyle}
+${configStyle}
 </head>
 <body>
 <div id="ember-viewport">
