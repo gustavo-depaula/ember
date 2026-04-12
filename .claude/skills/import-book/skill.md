@@ -101,6 +101,7 @@ Key principles:
    - `id`, `name` (localized), `author` (localized), `description` (localized)
    - `composed` (year the work was written)
    - `languages` array (original language first)
+   - `sources` array — provenance for downloaded texts. Each entry: `{ "language": "xx", "url": "https://...", "description": "..." }`
    - `toc` tree matching the chapter file structure
    - Titles in all available languages
 

@@ -6,7 +6,7 @@
     "test": "turbo test",
     "lint": "turbo lint",
     "dev": "turbo dev",
-    "start": "cd apps/app && expo start",
+    "start": "pnpm --filter @ember/app run start",
     "start:web": "pnpm --filter @ember/app run web",
     "ios": "pnpm --filter @ember/app run ios",
     "android": "pnpm --filter @ember/app run android",
@@ -18,10 +18,24 @@
     "hearth": "scripts/build-libraries.sh && scripts/convert-webp.sh && serve content -p 4100 --cors",
     "serve:content": "serve content -p 4100 --cors",
     "build:preview": "pnpm --filter @ember/app exec eas build --profile preview --platform ios",
-    "build:production": "pnpm --filter @ember/app exec eas build --profile production --platform ios --auto-submit"
+    "build:production": "pnpm --filter @ember/app exec eas build --profile production --platform ios --auto-submit",
+    "prepare": "husky"
+  },
+  "dependencies": {
+    "date-fns": "^4.1.0"
   },
   "devDependencies": {
+    "@biomejs/biome": "^2.4.9",
+    "@types/react": "~19.2.2",
+    "husky": "^9.1.7",
+    "lint-staged": "^16.4.0",
     "serve": "^14.2.6",
-    "turbo": "^2"
+    "tsx": "^4.21.0",
+    "turbo": "^2",
+    "typescript": "~5.9.2",
+    "vitest": "^4.1.2"
+  },
+  "lint-staged": {
+    "*.{ts,tsx}": "biome check --write --no-errors-on-unmatched"
   }
 }

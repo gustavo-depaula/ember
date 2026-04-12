@@ -29,7 +29,6 @@
     "@tamagui/config": "2.0.0-rc.31",
     "@tamagui/core": "2.0.0-rc.31",
     "@tanstack/react-query": "^5.95.2",
-    "date-fns": "^4.1.0",
     "expo": "~55.0.8",
     "expo-constants": "~55.0.9",
     "expo-document-picker": "^55.0.13",
@@ -69,12 +68,7 @@
     "zustand": "^5.0.12"
   },
   "devDependencies": {
-    "@biomejs/biome": "^2.4.9",
-    "@types/react": "~19.2.2",
-    "expo-dev-client": "^55.0.18",
-    "tsx": "^4.21.0",
-    "typescript": "~5.9.2",
-    "vitest": "^4.1.2"
+    "expo-dev-client": "^55.0.18"
   },
   "expo-router": {
     "root": "src/app"

@@ -8,10 +8,6 @@
     "test": "vitest run"
   },
   "dependencies": {
-    "@ember/liturgical": "workspace:*",
-    "date-fns": "^4.1.0"
-  },
-  "devDependencies": {
-    "vitest": "^4.1.2"
+    "@ember/liturgical": "workspace:*"
   }
 }
