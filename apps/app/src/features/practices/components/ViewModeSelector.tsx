@@ -1,7 +1,7 @@
 import { useCallback, useEffect, useState } from 'react'
 import { type LayoutChangeEvent, Pressable } from 'react-native'
 import Animated, { useAnimatedStyle, useSharedValue, withSpring } from 'react-native-reanimated'
-import { Text, XStack } from 'tamagui'
+import { Text, XStack, YStack } from 'tamagui'
 
 import { calmSpring } from '@/config/animation'
 
@@ -62,8 +62,8 @@ export function ViewModeSelector({
               position: 'absolute',
               top: 3,
               left: 3,
+              bottom: 3,
               width: segmentWidth - 2,
-              height: '100%',
               borderRadius: 8,
             },
             indicatorStyle,
@@ -81,20 +81,22 @@ export function ViewModeSelector({
             onPress={() => handleSelect(mode.id, index)}
             style={{ flex: 1, zIndex: 1 }}
           >
-            <XStack
+            <YStack
               paddingVertical="$xs"
               paddingHorizontal="$sm"
               justifyContent="center"
               alignItems="center"
+              flex={1}
             >
               <Text
                 fontFamily="$heading"
                 fontSize="$1"
                 color={active ? '$background' : '$colorSecondary'}
+                textAlign="center"
               >
                 {mode.label}
               </Text>
-            </XStack>
+            </YStack>
           </Pressable>
         )
       })}

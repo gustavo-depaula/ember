@@ -35,7 +35,7 @@ export function useProperForSlot(
 
   const efQuery = useQuery({
     queryKey: ['ef-propers', dateKey, slot],
-    queryFn: () => getRawProperForSlot(today, slot, dayCalendar, propersData),
+    queryFn: async () => (await getRawProperForSlot(today, slot, dayCalendar, propersData)) ?? null,
     enabled: form === 'ef',
     staleTime: Number.POSITIVE_INFINITY,
     gcTime: 24 * 60 * 60 * 1000,

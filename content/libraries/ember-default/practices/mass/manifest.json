@@ -23,9 +23,31 @@
 	},
 	"flowMode": "scroll",
 	"completion": "manual",
+	"forms": {
+		"preference": "liturgicalCalendar",
+		"options": [
+			{
+				"id": "ordinary",
+				"name": {
+					"en-US": "Ordinary Form",
+					"pt-BR": "Forma Ordinária"
+				},
+				"preferenceValue": "of"
+			},
+			{
+				"id": "extraordinary",
+				"name": {
+					"en-US": "Extraordinary Form",
+					"pt-BR": "Forma Extraordinária"
+				},
+				"preferenceValue": "ef"
+			}
+		]
+	},
 	"flows": [
 		{
 			"id": "ordinary",
+			"form": "ordinary",
 			"name": {
 				"en-US": "Ordinary Form",
 				"pt-BR": "Forma Ordinária"
@@ -34,6 +56,7 @@
 		},
 		{
 			"id": "ordinary-propers",
+			"form": "ordinary",
 			"name": {
 				"en-US": "Propers",
 				"pt-BR": "Próprios"
@@ -43,6 +66,7 @@
 		},
 		{
 			"id": "ordinary-readings",
+			"form": "ordinary",
 			"name": {
 				"en-US": "Readings",
 				"pt-BR": "Leituras"
@@ -52,6 +76,7 @@
 		},
 		{
 			"id": "extraordinary",
+			"form": "extraordinary",
 			"name": {
 				"en-US": "Extraordinary Form",
 				"pt-BR": "Forma Extraordinária"
@@ -60,6 +85,7 @@
 		},
 		{
 			"id": "extraordinary-propers",
+			"form": "extraordinary",
 			"name": {
 				"en-US": "Propers",
 				"pt-BR": "Próprios"
@@ -69,6 +95,7 @@
 		},
 		{
 			"id": "extraordinary-readings",
+			"form": "extraordinary",
 			"name": {
 				"en-US": "Readings",
 				"pt-BR": "Leituras"
@@ -95,25 +122,6 @@
 					]
 				},
 				"tier": "essential"
-			},
-			{
-				"flowId": "ordinary",
-				"slotId": "holy-day",
-				"schedule": {
-					"type": "holy-days-of-obligation"
-				},
-				"tier": "essential"
-			},
-			{
-				"flowId": "extraordinary",
-				"schedule": {
-					"type": "days-of-week",
-					"days": [
-						0
-					]
-				},
-				"tier": "extra",
-				"enabled": false
 			}
 		]
 	}

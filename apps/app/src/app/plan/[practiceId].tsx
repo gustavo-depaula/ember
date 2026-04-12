@@ -136,7 +136,11 @@ export default function PracticeDetailScreen() {
               </Text>
             </YStack>
           </AnimatedPressable>
-        ) : hasFlow && practiceId && manifest && (manifest.flows?.length ?? 0) > 1 ? (
+        ) : hasFlow &&
+          practiceId &&
+          manifest &&
+          !manifest.forms &&
+          (manifest.flows?.length ?? 0) > 1 ? (
           <YStack gap="$sm">
             <FlowButtons practiceId={practiceId} flows={manifest.flows ?? []} />
           </YStack>
