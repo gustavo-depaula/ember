@@ -3,20 +3,20 @@
   "name": {
     "it": "Apparecchio alla morte",
     "en-US": "Preparation for Death",
-    "pt-BR": "Preparacao para a Morte"
+    "pt-BR": "Preparação para a Morte"
   },
   "author": {
     "it": "Sant'Alfonso Maria de Liguori",
     "en-US": "St. Alphonsus Maria de Liguori",
-    "pt-BR": "Santo Afonso Maria de Ligorio"
+    "pt-BR": "Santo Afonso Maria de Ligório"
   },
   "description": {
-    "it": "Trentasei considerazioni sulle verita eterne per prepararsi alla morte con meditazioni, affetti e preghiere.",
+    "it": "Trentasei considerazioni sulle verità eterne per prepararsi alla morte con meditazioni, affetti e preghiere.",
     "en-US": "Thirty-six considerations on the eternal truths to prepare for death, with meditations, affections, and prayers.",
-    "pt-BR": "Trinta e seis consideracoes sobre as verdades eternas para se preparar para a morte, com meditacoes, afetos e oracoes."
+    "pt-BR": "Trinta e seis considerações sobre as verdades eternas para se preparar para a morte, com meditações, afetos e orações."
   },
   "composed": 1758,
-  "languages": ["it"],
+  "languages": ["it", "en-US", "pt-BR"],
   "sources": [
     {
       "language": "it",
@@ -28,229 +28,305 @@
     {
       "id": "dedica",
       "title": {
-        "it": "Dedica"
+        "it": "Dedica",
+        "en-US": "Dedication",
+        "pt-BR": "Dedicatória"
       }
     },
     {
       "id": "intento-opera",
       "title": {
-        "it": "Intento dell'opera necessario a leggersi"
+        "it": "Intento dell'opera necessario a leggersi",
+        "en-US": "Purpose of the Work, Necessary to Read",
+        "pt-BR": "Intento da Obra, Necessário de Ler"
       }
     },
     {
       "id": "considerazione-01",
       "title": {
-        "it": "Considerazione I - Ritratto d'un uomo da poco tempo passato all'altra vita"
+        "it": "Considerazione I - Ritratto d'un uomo da poco tempo passato all'altra vita",
+        "en-US": "Consideration I — Portrait of a Man Who Has Recently Passed to the Other Life",
+        "pt-BR": "Consideração I — Retrato de um Homem que Há Pouco Passou para a Outra Vida"
       }
     },
     {
       "id": "considerazione-02",
       "title": {
-        "it": "Considerazione II - Colla morte finisce tutto"
+        "it": "Considerazione II - Colla morte finisce tutto",
+        "en-US": "Consideration II — With Death Everything Ends",
+        "pt-BR": "Consideração II — Com a Morte Tudo Acaba"
       }
     },
     {
       "id": "considerazione-03",
       "title": {
-        "it": "Considerazione III - Brevita della vita"
+        "it": "Considerazione III - Brevità della vita",
+        "en-US": "Consideration III — The Brevity of Life",
+        "pt-BR": "Consideração III — A Brevidade da Vida"
       }
     },
     {
       "id": "considerazione-04",
       "title": {
-        "it": "Considerazione IV - Certezza della morte"
+        "it": "Considerazione IV - Certezza della morte",
+        "en-US": "Consideration IV — The Certainty of Death",
+        "pt-BR": "Consideração IV — A Certeza da Morte"
       }
     },
     {
       "id": "considerazione-05",
       "title": {
-        "it": "Considerazione V - Incertezza dell'ora della morte"
+        "it": "Considerazione V - Incertezza dell'ora della morte",
+        "en-US": "Consideration V — The Uncertainty of the Hour of Death",
+        "pt-BR": "Consideração V — A Incerteza da Hora da Morte"
       }
     },
     {
       "id": "considerazione-06",
       "title": {
-        "it": "Considerazione VI - Morte del peccatore"
+        "it": "Considerazione VI - Morte del peccatore",
+        "en-US": "Consideration VI — The Death of the Sinner",
+        "pt-BR": "Consideração VI — A Morte do Pecador"
       }
     },
     {
       "id": "considerazione-07",
       "title": {
-        "it": "Considerazione VII - Sentimenti d'un moribondo trascurato, che poco ha pensato alla morte"
+        "it": "Considerazione VII - Sentimenti d'un moribondo trascurato, che poco ha pensato alla morte",
+        "en-US": "Consideration VII — Sentiments of a Neglected Dying Man Who Has Thought Little of Death",
+        "pt-BR": "Consideração VII — Sentimentos de um Moribundo Descuidado que Pouco Pensou na Morte"
       }
     },
     {
       "id": "considerazione-08",
       "title": {
-        "it": "Considerazione VIII - Morte de' giusti"
+        "it": "Considerazione VIII - Morte de' giusti",
+        "en-US": "Consideration VIII — The Death of the Just",
+        "pt-BR": "Consideração VIII — A Morte dos Justos"
       }
     },
     {
       "id": "considerazione-09",
       "title": {
-        "it": "Considerazione IX - Pace d'un giusto che muore"
+        "it": "Considerazione IX - Pace d'un giusto che muore",
+        "en-US": "Consideration IX — The Peace of a Just Man Who Dies",
+        "pt-BR": "Consideração IX — A Paz de um Justo que Morre"
       }
     },
     {
       "id": "considerazione-10",
       "title": {
-        "it": "Considerazione X - Mezzi per apparecchiarsi alla morte"
+        "it": "Considerazione X - Mezzi per apparecchiarsi alla morte",
+        "en-US": "Consideration X — Means to Prepare for Death",
+        "pt-BR": "Consideração X — Meios para se Preparar para a Morte"
       }
     },
     {
       "id": "considerazione-11",
       "title": {
-        "it": "Considerazione XI - Prezzo del tempo"
+        "it": "Considerazione XI - Prezzo del tempo",
+        "en-US": "Consideration XI — The Value of Time",
+        "pt-BR": "Consideração XI — O Valor do Tempo"
       }
     },
     {
       "id": "considerazione-12",
       "title": {
-        "it": "Considerazione XII - Importanza della salute"
+        "it": "Considerazione XII - Importanza della salute",
+        "en-US": "Consideration XII — The Importance of Salvation",
+        "pt-BR": "Consideração XII — A Importância da Salvação"
       }
     },
     {
       "id": "considerazione-13",
       "title": {
-        "it": "Considerazione XIII - Vanita del mondo"
+        "it": "Considerazione XIII - Vanità del mondo",
+        "en-US": "Consideration XIII — The Vanity of the World",
+        "pt-BR": "Consideração XIII — A Vaidade do Mundo"
       }
     },
     {
       "id": "considerazione-14",
       "title": {
-        "it": "Considerazione XIV - La presente vita e viaggio all'eternita"
+        "it": "Considerazione XIV - La presente vita è viaggio all'eternità",
+        "en-US": "Consideration XIV — The Present Life Is a Journey to Eternity",
+        "pt-BR": "Consideração XIV — A Vida Presente É Viagem para a Eternidade"
       }
     },
     {
       "id": "considerazione-15",
       "title": {
-        "it": "Considerazione XV - Della malizia del peccato mortale"
+        "it": "Considerazione XV - Della malizia del peccato mortale",
+        "en-US": "Consideration XV — On the Malice of Mortal Sin",
+        "pt-BR": "Consideração XV — Da Malícia do Pecado Mortal"
       }
     },
     {
       "id": "considerazione-16",
       "title": {
-        "it": "Considerazione XVI - Della misericordia di Dio"
+        "it": "Considerazione XVI - Della misericordia di Dio",
+        "en-US": "Consideration XVI — On the Mercy of God",
+        "pt-BR": "Consideração XVI — Da Misericórdia de Deus"
       }
     },
     {
       "id": "considerazione-17",
       "title": {
-        "it": "Considerazione XVII - Abuso della divina misericordia"
+        "it": "Considerazione XVII - Abuso della divina misericordia",
+        "en-US": "Consideration XVII — Abuse of Divine Mercy",
+        "pt-BR": "Consideração XVII — Abuso da Divina Misericórdia"
       }
     },
     {
       "id": "considerazione-18",
       "title": {
-        "it": "Considerazione XVIII - Del numero de' peccati"
+        "it": "Considerazione XVIII - Del numero de' peccati",
+        "en-US": "Consideration XVIII — On the Number of Sins",
+        "pt-BR": "Consideração XVIII — Do Número dos Pecados"
       }
     },
     {
       "id": "considerazione-19",
       "title": {
-        "it": "Considerazione XIX - Che gran bene sia la grazia di Dio, e che male la disgrazia di Dio"
+        "it": "Considerazione XIX - Che gran bene sia la grazia di Dio, e che male la disgrazia di Dio",
+        "en-US": "Consideration XIX — What a Great Good Is the Grace of God, and What an Evil Is the Disgrace of God",
+        "pt-BR": "Consideração XIX — Que Grande Bem É a Graça de Deus, e que Mal É a Desgraça de Deus"
       }
     },
     {
       "id": "considerazione-20",
       "title": {
-        "it": "Considerazione XX - Pazzia del peccatore"
+        "it": "Considerazione XX - Pazzia del peccatore",
+        "en-US": "Consideration XX — The Madness of the Sinner",
+        "pt-BR": "Consideração XX — A Loucura do Pecador"
       }
     },
     {
       "id": "considerazione-21",
       "title": {
-        "it": "Considerazione XXI - Vita infelice del peccatore e vita felice di chi ama Dio"
+        "it": "Considerazione XXI - Vita infelice del peccatore e vita felice di chi ama Dio",
+        "en-US": "Consideration XXI — The Unhappy Life of the Sinner and the Happy Life of One Who Loves God",
+        "pt-BR": "Consideração XXI — A Vida Infeliz do Pecador e a Vida Feliz de Quem Ama a Deus"
       }
     },
     {
       "id": "considerazione-22",
       "title": {
-        "it": "Considerazione XXII - Del mal'abito"
+        "it": "Considerazione XXII - Del mal'abito",
+        "en-US": "Consideration XXII — On Evil Habits",
+        "pt-BR": "Consideração XXII — Do Mau Hábito"
       }
     },
     {
       "id": "considerazione-23",
       "title": {
-        "it": "Considerazione XXIII - Inganni che 'l demonio mette in mente a' peccatori"
+        "it": "Considerazione XXIII - Inganni che 'l demonio mette in mente a' peccatori",
+        "en-US": "Consideration XXIII — Deceits the Devil Places in the Minds of Sinners",
+        "pt-BR": "Consideração XXIII — Enganos que o Demônio Põe na Mente dos Pecadores"
       }
     },
     {
       "id": "considerazione-24",
       "title": {
-        "it": "Considerazione XXIV - Del giudizio particolare"
+        "it": "Considerazione XXIV - Del giudizio particolare",
+        "en-US": "Consideration XXIV — On the Particular Judgment",
+        "pt-BR": "Consideração XXIV — Do Juízo Particular"
       }
     },
     {
       "id": "considerazione-25",
       "title": {
-        "it": "Considerazione XXV - Del giudizio universale"
+        "it": "Considerazione XXV - Del giudizio universale",
+        "en-US": "Consideration XXV — On the Universal Judgment",
+        "pt-BR": "Consideração XXV — Do Juízo Universal"
       }
     },
     {
       "id": "considerazione-26",
       "title": {
-        "it": "Considerazione XXVI - Delle pene dell'inferno"
+        "it": "Considerazione XXVI - Delle pene dell'inferno",
+        "en-US": "Consideration XXVI — On the Pains of Hell",
+        "pt-BR": "Consideração XXVI — Das Penas do Inferno"
       }
     },
     {
       "id": "considerazione-27",
       "title": {
-        "it": "Considerazione XXVII - Dell'eternita dell'inferno"
+        "it": "Considerazione XXVII - Dell'eternità dell'inferno",
+        "en-US": "Consideration XXVII — On the Eternity of Hell",
+        "pt-BR": "Consideração XXVII — Da Eternidade do Inferno"
       }
     },
     {
       "id": "considerazione-28",
       "title": {
-        "it": "Considerazione XXVIII - Rimorsi del dannato"
+        "it": "Considerazione XXVIII - Rimorsi del dannato",
+        "en-US": "Consideration XXVIII — The Remorse of the Damned",
+        "pt-BR": "Consideração XXVIII — Os Remorsos do Condenado"
       }
     },
     {
       "id": "considerazione-29",
       "title": {
-        "it": "Considerazione XXIX - Del paradiso"
+        "it": "Considerazione XXIX - Del paradiso",
+        "en-US": "Consideration XXIX — On Paradise",
+        "pt-BR": "Consideração XXIX — Do Paraíso"
       }
     },
     {
       "id": "considerazione-30",
       "title": {
-        "it": "Considerazione XXX - Della preghiera"
+        "it": "Considerazione XXX - Della preghiera",
+        "en-US": "Consideration XXX — On Prayer",
+        "pt-BR": "Consideração XXX — Da Oração"
       }
     },
     {
       "id": "considerazione-31",
       "title": {
-        "it": "Considerazione XXXI - Della perseveranza"
+        "it": "Considerazione XXXI - Della perseveranza",
+        "en-US": "Consideration XXXI — On Perseverance",
+        "pt-BR": "Consideração XXXI — Da Perseverança"
       }
     },
     {
       "id": "considerazione-32",
       "title": {
-        "it": "Considerazione XXXII - Della confidenza nel patrocinio di Maria Santissima"
+        "it": "Considerazione XXXII - Della confidenza nel patrocinio di Maria Santissima",
+        "en-US": "Consideration XXXII — On Confidence in the Patronage of the Most Blessed Mary",
+        "pt-BR": "Consideração XXXII — Da Confiança no Patrocínio de Maria Santíssima"
       }
     },
     {
       "id": "considerazione-33",
       "title": {
-        "it": "Considerazione XXXIII - Dell'amore di Dio"
+        "it": "Considerazione XXXIII - Dell'amore di Dio",
+        "en-US": "Consideration XXXIII — On the Love of God",
+        "pt-BR": "Consideração XXXIII — Do Amor de Deus"
       }
     },
     {
       "id": "considerazione-34",
       "title": {
-        "it": "Considerazione XXXIV - Della santa Comunione"
+        "it": "Considerazione XXXIV - Della santa Comunione",
+        "en-US": "Consideration XXXIV — On Holy Communion",
+        "pt-BR": "Consideração XXXIV — Da Santa Comunhão"
       }
     },
     {
       "id": "considerazione-35",
       "title": {
-        "it": "Considerazione XXXV - Della dimora amorosa che fa Gesu' sugli altari nel SS. Sagramento"
+        "it": "Considerazione XXXV - Della dimora amorosa che fa Gesù sugli altari nel SS. Sagramento",
+        "en-US": "Consideration XXXV — On the Loving Dwelling Jesus Makes on the Altars in the Blessed Sacrament",
+        "pt-BR": "Consideração XXXV — Da Amorosa Permanência que Jesus Faz nos Altares no Santíssimo Sacramento"
       }
     },
     {
       "id": "considerazione-36",
       "title": {
-        "it": "Considerazione XXXVI - Dell'uniformita alla volonta di Dio"
+        "it": "Considerazione XXXVI - Dell'uniformità alla volontà di Dio",
+        "en-US": "Consideration XXXVI — On Conformity to the Will of God",
+        "pt-BR": "Consideração XXXVI — Da Conformidade à Vontade de Deus"
       }
     }
   ]
