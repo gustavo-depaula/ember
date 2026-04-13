@@ -41,6 +41,27 @@
 | Missioni | Missions |
 | Intento dell'opera | Purpose of the Work |
 | Dedica | Dedication |
+| Inganni / Inganno del demonio | Deceits / Deceit of the devil |
+| Giudizio particolare | Particular Judgment |
+| Giudizio universale | General Judgment |
+| Pene dell'inferno | Pains of Hell |
+| Rimorso dei dannati | Remorse of the Damned |
+| Patrocinio di Maria | Patronage of Mary |
+| Santa Comunione | Holy Communion |
+| SS. Sagramento | Most Holy Sacrament |
+| Eucaristia | Eucharist |
+| Tabernacolo | Tabernacle |
+| Volontà di Dio | Will of God |
+| Uniformità / rassegnazione | Conformity / resignation |
+| Avvocata | Advocate |
+| Onnipotente (of Mary) | Omnipotent (by grace) |
+| Madre di misericordia | Mother of mercy |
+| Regina di misericordia | Queen of mercy |
+| Cella vinaria | Wine cellar |
+| Fiat voluntas tua | Thy will be done |
+| Sacra sposa | Sacred spouse |
+| Amor proprio | Self-love |
+| Beneplacito | Good pleasure / will |
 
 ## Translation Decisions
 
@@ -56,4 +77,12 @@
 
 6. **"Voi" address to God**: Rendered as "You" (capitalized) in prayers, maintaining the direct, intimate address style.
 
-7. **Structure**: Each consideration has a title, an opening Scripture quote, three Points (Punto I/II/III), each followed by "Affections and Prayers" sections.
+7. **Structure**: Each consideration has a title, an opening Scripture quote, three Points (Punto I/II/III), each followed by "Affections and Prayers" sections. Exception: Consideration XXIII has no opening biblical quote (it was added later in a third edition revision).
+
+8. **Patristic and medieval sources**: When Liguori cites Church Fathers, medieval doctors, or spiritual writers, names are rendered in their standard English form. Examples: Cosmas of Jerusalem, Richard of St. Lawrence, Denis the Carthusian, Cardinal Hugh, Abbot Guerric, Thomas à Kempis, Bernardine of Busti, Blessed Henry Suso.
+
+9. **Scripture reference format**: Updated to modern colon format (e.g., John 6:37 rather than Io. 6. 37) in the English translation for readability, while preserving the original verse numbering.
+
+10. **Marian titles**: Preserved the rich variety of Marian titles Liguori uses (Mother of mercy, Queen of mercy, Advocate, Virgin most powerful, etc.) as they are integral to his devotional theology.
+
+11. **Book titles within text**: When Liguori references a book title (e.g., St. Francis de Sales' *Philothea*), it is italicized and given its common English name where one exists.
