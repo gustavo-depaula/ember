@@ -15,12 +15,13 @@ export function parseInline(text: string): InlineNode[] {
 
   // Handle ***boldpart** ...rest...* (bold closes before italic)
   // Common in Liguori meditations: ***Sumário.** paragraph body.*
-  const nestedRe = /^\*\*\*(.+?)\*\*(.+)\*$/
+  // Trailing punctuation after closing * is allowed (e.g. *. or *,)
+  const nestedRe = /^\*\*\*(.+?)\*\*(.+)\*([\p{P}]?)$/u
   const nestedMatch = nestedRe.exec(text)
   if (nestedMatch) {
     nodes.push({ type: 'bolditalic', text: nestedMatch[1] })
     // Inner *...* pairs are italic-within-italic — strip the markers since already in italic context
-    const italicBody = nestedMatch[2].replace(/\*([^*]+)\*/g, '$1')
+    const italicBody = nestedMatch[2].replace(/\*([^*]+)\*/g, '$1') + nestedMatch[3]
     nodes.push({ type: 'italic', text: italicBody })
     return nodes
   }
