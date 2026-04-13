@@ -16,7 +16,7 @@
     "pt-BR": "Tratado sobre a devocao a Virgem Maria, estruturado como comentario a Salve Rainha, com exemplos, oracoes e discursos sobre as festas marianas."
   },
   "composed": 1750,
-  "languages": ["it"],
+  "languages": ["it", "en-US", "pt-BR"],
   "sources": [
     {
       "language": "it",
@@ -28,91 +28,121 @@
     {
       "id": "supplica",
       "title": {
-        "it": "Supplica dell'autore a Gesù ed a Maria"
+        "it": "Supplica dell'autore a Gesù ed a Maria",
+        "en-US": "The Author's Supplication to Jesus and Mary",
+        "pt-BR": "Súplica do autor a Jesus e a Maria"
       }
     },
     {
       "id": "protesta",
       "title": {
-        "it": "Protesta dell'autore"
+        "it": "Protesta dell'autore",
+        "en-US": "The Author's Protestation",
+        "pt-BR": "Protesto do autor"
       }
     },
     {
       "id": "avvertimento",
       "title": {
-        "it": "Avvertimento al lettore"
+        "it": "Avvertimento al lettore",
+        "en-US": "Notice to the Reader",
+        "pt-BR": "Advertência ao leitor"
       }
     },
     {
       "id": "introduzione",
       "title": {
-        "it": "Introduzione"
+        "it": "Introduzione",
+        "en-US": "Introduction",
+        "pt-BR": "Introdução"
       }
     },
     {
       "id": "parte-prima",
       "title": {
-        "it": "Parte Prima — Commento alla Salve Regina"
+        "it": "Parte Prima — Commento alla Salve Regina",
+        "en-US": "Part One — Commentary on the Salve Regina",
+        "pt-BR": "Parte Primeira — Comentário à Salve Rainha"
       },
       "children": [
         {
           "id": "capitolo-01",
           "title": {
-            "it": "Capitolo I — Salve, Regina, Mater misericordiae"
+            "it": "Capitolo I — Salve, Regina, Mater misericordiae",
+            "en-US": "Chapter I — Salve, Regina, Mater misericordiae",
+            "pt-BR": "Capítulo I — Salve, Regina, Mater misericordiae"
           }
         },
         {
           "id": "capitolo-02",
           "title": {
-            "it": "Capitolo II — Vita, dulcedo"
+            "it": "Capitolo II — Vita, dulcedo",
+            "en-US": "Chapter II — Vita, dulcedo",
+            "pt-BR": "Capítulo II — Vita, dulcedo"
           }
         },
         {
           "id": "capitolo-03",
           "title": {
-            "it": "Capitolo III — Spes nostra, salve"
+            "it": "Capitolo III — Spes nostra, salve",
+            "en-US": "Chapter III — Spes nostra, salve",
+            "pt-BR": "Capítulo III — Spes nostra, salve"
           }
         },
         {
           "id": "capitolo-04",
           "title": {
-            "it": "Capitolo IV — Ad te clamamus, exsules filii Hevae"
+            "it": "Capitolo IV — Ad te clamamus, exsules filii Hevae",
+            "en-US": "Chapter IV — Ad te clamamus, exsules filii Hevae",
+            "pt-BR": "Capítulo IV — Ad te clamamus, exsules filii Hevae"
           }
         },
         {
           "id": "capitolo-05",
           "title": {
-            "it": "Capitolo V — Ad te suspiramus gementes et flentes in hac lacrimarum valle"
+            "it": "Capitolo V — Ad te suspiramus gementes et flentes in hac lacrimarum valle",
+            "en-US": "Chapter V — Ad te suspiramus gementes et flentes in hac lacrimarum valle",
+            "pt-BR": "Capítulo V — Ad te suspiramus gementes et flentes in hac lacrimarum valle"
           }
         },
         {
           "id": "capitolo-06",
           "title": {
-            "it": "Capitolo VI — Eia ergo advocata nostra"
+            "it": "Capitolo VI — Eia ergo advocata nostra",
+            "en-US": "Chapter VI — Eia ergo advocata nostra",
+            "pt-BR": "Capítulo VI — Eia ergo advocata nostra"
           }
         },
         {
           "id": "capitolo-07",
           "title": {
-            "it": "Capitolo VII — Illos tuos misericordes oculos ad nos converte"
+            "it": "Capitolo VII — Illos tuos misericordes oculos ad nos converte",
+            "en-US": "Chapter VII — Illos tuos misericordes oculos ad nos converte",
+            "pt-BR": "Capítulo VII — Illos tuos misericordes oculos ad nos converte"
           }
         },
         {
           "id": "capitolo-08",
           "title": {
-            "it": "Capitolo VIII — Et Iesum benedictum fructum ventris tui nobis post hoc exsilium ostende"
+            "it": "Capitolo VIII — Et Iesum benedictum fructum ventris tui nobis post hoc exsilium ostende",
+            "en-US": "Chapter VIII — Et Iesum benedictum fructum ventris tui nobis post hoc exsilium ostende",
+            "pt-BR": "Capítulo VIII — Et Iesum benedictum fructum ventris tui nobis post hoc exsilium ostende"
           }
         },
         {
           "id": "capitolo-09",
           "title": {
-            "it": "Capitolo IX — O clemens, o pia"
+            "it": "Capitolo IX — O clemens, o pia",
+            "en-US": "Chapter IX — O clemens, o pia",
+            "pt-BR": "Capítulo IX — O clemens, o pia"
           }
         },
         {
           "id": "capitolo-10",
           "title": {
-            "it": "Capitolo X — O dulcis Virgo Maria"
+            "it": "Capitolo X — O dulcis Virgo Maria",
+            "en-US": "Chapter X — O dulcis Virgo Maria",
+            "pt-BR": "Capítulo X — O dulcis Virgo Maria"
           }
         }
       ]
@@ -120,67 +150,89 @@
     {
       "id": "orazioni-santi",
       "title": {
-        "it": "Orazioni molto divote di alcuni santi alla divina Madre"
+        "it": "Orazioni molto divote di alcuni santi alla divina Madre",
+        "en-US": "Very Devout Prayers of Several Saints to the Divine Mother",
+        "pt-BR": "Orações muito devotas de alguns santos à divina Mãe"
       }
     },
     {
       "id": "parte-seconda",
       "title": {
-        "it": "Parte Seconda — Discorsi sulle feste di Maria"
+        "it": "Parte Seconda — Discorsi sulle feste di Maria",
+        "en-US": "Part Two — Discourses on the Feasts of Mary",
+        "pt-BR": "Parte Segunda — Discursos sobre as festas de Maria"
       },
       "children": [
         {
           "id": "discorso-01",
           "title": {
-            "it": "Discorso I — Dell'Immacolata Concezione di Maria"
+            "it": "Discorso I — Dell'Immacolata Concezione di Maria",
+            "en-US": "Discourse I — On the Immaculate Conception of Mary",
+            "pt-BR": "Discurso I — Da Imaculada Conceição de Maria"
           }
         },
         {
           "id": "discorso-02",
           "title": {
-            "it": "Discorso II — Della Nascita di Maria"
+            "it": "Discorso II — Della Nascita di Maria",
+            "en-US": "Discourse II — On the Birth of Mary",
+            "pt-BR": "Discurso II — Do Nascimento de Maria"
           }
         },
         {
           "id": "discorso-03",
           "title": {
-            "it": "Discorso III — Della Presentazione di Maria"
+            "it": "Discorso III — Della Presentazione di Maria",
+            "en-US": "Discourse III — On the Presentation of Mary",
+            "pt-BR": "Discurso III — Da Apresentação de Maria"
           }
         },
         {
           "id": "discorso-04",
           "title": {
-            "it": "Discorso IV — Dell'Annunziazione di Maria"
+            "it": "Discorso IV — Dell'Annunziazione di Maria",
+            "en-US": "Discourse IV — On the Annunciation of Mary",
+            "pt-BR": "Discurso IV — Da Anunciação de Maria"
           }
         },
         {
           "id": "discorso-05",
           "title": {
-            "it": "Discorso V — Della Visitazione di Maria"
+            "it": "Discorso V — Della Visitazione di Maria",
+            "en-US": "Discourse V — On the Visitation of Mary",
+            "pt-BR": "Discurso V — Da Visitação de Maria"
           }
         },
         {
           "id": "discorso-06",
           "title": {
-            "it": "Discorso VI — Della Purificazione di Maria"
+            "it": "Discorso VI — Della Purificazione di Maria",
+            "en-US": "Discourse VI — On the Purification of Mary",
+            "pt-BR": "Discurso VI — Da Purificação de Maria"
           }
         },
         {
           "id": "discorso-07",
           "title": {
-            "it": "Discorso VII — Dell'Assunzione di Maria"
+            "it": "Discorso VII — Dell'Assunzione di Maria",
+            "en-US": "Discourse VII — On the Assumption of Mary",
+            "pt-BR": "Discurso VII — Da Assunção de Maria"
           }
         },
         {
           "id": "discorso-08",
           "title": {
-            "it": "Discorso VIII — Altro discorso dell'Assunzione di Maria"
+            "it": "Discorso VIII — Altro discorso dell'Assunzione di Maria",
+            "en-US": "Discourse VIII — Another Discourse on the Assumption of Mary",
+            "pt-BR": "Discurso VIII — Outro discurso sobre a Assunção de Maria"
           }
         },
         {
           "id": "discorso-09",
           "title": {
-            "it": "Discorso IX — De' dolori di Maria"
+            "it": "Discorso IX — De' dolori di Maria",
+            "en-US": "Discourse IX — On the Sorrows of Mary",
+            "pt-BR": "Discurso IX — Das dores de Maria"
           }
         }
       ]
@@ -188,37 +240,49 @@
     {
       "id": "riflessioni-dolori",
       "title": {
-        "it": "Riflessioni sopra ciascuno de' sette dolori di Maria in particolare"
+        "it": "Riflessioni sopra ciascuno de' sette dolori di Maria in particolare",
+        "en-US": "Reflections on Each of the Seven Sorrows of Mary in Particular",
+        "pt-BR": "Reflexões sobre cada uma das sete dores de Maria em particular"
       }
     },
     {
       "id": "virtu-di-maria",
       "title": {
-        "it": "Delle virtù di Maria Santissima"
+        "it": "Delle virtù di Maria Santissima",
+        "en-US": "On the Virtues of the Blessed Virgin Mary",
+        "pt-BR": "Das virtudes de Maria Santíssima"
       }
     },
     {
       "id": "ossequi",
       "title": {
-        "it": "Vari ossequi di divozione verso la divina Madre colle loro pratiche"
+        "it": "Vari ossequi di divozione verso la divina Madre colle loro pratiche",
+        "en-US": "Various Acts of Devotion toward the Divine Mother with Their Practices",
+        "pt-BR": "Vários obséquios de devoção para com a divina Mãe com suas práticas"
       }
     },
     {
       "id": "conclusione",
       "title": {
-        "it": "Conclusione dell'opera"
+        "it": "Conclusione dell'opera",
+        "en-US": "Conclusion of the Work",
+        "pt-BR": "Conclusão da obra"
       }
     },
     {
       "id": "esempi",
       "title": {
-        "it": "Raccolta di vari esempi appartenenti a Maria Santissima"
+        "it": "Raccolta di vari esempi appartenenti a Maria Santissima",
+        "en-US": "Collection of Various Examples Pertaining to the Blessed Virgin Mary",
+        "pt-BR": "Coletânea de vários exemplos referentes a Maria Santíssima"
       }
     },
     {
       "id": "orazioni-diverse",
       "title": {
-        "it": "Orazioni diverse alla divina Madre"
+        "it": "Orazioni diverse alla divina Madre",
+        "en-US": "Various Prayers to the Divine Mother",
+        "pt-BR": "Orações diversas à divina Mãe"
       }
     }
   ]

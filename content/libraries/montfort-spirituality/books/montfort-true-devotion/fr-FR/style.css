@@ -19,8 +19,8 @@
 
 body {
   font-family: "EB Garamond", "Georgia", serif;
-  font-size: 18px;
-  line-height: 1.7;
+  font-size: var(--reader-font-size, 18px);
+  line-height: var(--reader-line-height, 1.7);
   color: var(--text);
   background-color: var(--bg);
   margin: 1em;
@@ -62,7 +62,7 @@ h4 {
 
 p {
   margin: 0.6em 0;
-  text-align: justify;
+  text-align: var(--reader-text-align, justify);
 }
 
 /* --- Numbered paragraphs (Montfort-style) --- */
