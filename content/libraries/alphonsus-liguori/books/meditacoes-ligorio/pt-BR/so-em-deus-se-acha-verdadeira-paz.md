@@ -2,7 +2,7 @@
 
 > *Venit Iesus, et stetit in medio, et dixit eis: Pax vobis* – “Veio Jesus, e pôs-se no meio e disse-lhes: A paz seja convosco” (Jo 20, 9)
 
-***Sumário.** Assim é: só em Deus se acha a verdadeira paz; porque, tendo Deus criado o homem para si, o Bem infinito, só Ele pode fazê-lo contente. Quem quiser gozar esta paz, deve repelir de seu coração tudo que não seja Deus, que feche as portas dos sentidos a todas as criaturas e viva como que morto aos afetos terrestres. É isto exatamente o que o Senhor quis dar a entender aos apóstolos, quando, aparecendo para lhes anunciar a paz, quis ambas as vezes entrar aonde estavam os apóstolos, estando as portas fechadas.*.
+***Sumário.** Assim é: só em Deus se acha a verdadeira paz; porque, tendo Deus criado o homem para si, o Bem infinito, só Ele pode fazê-lo contente. Quem quiser gozar esta paz, deve repelir de seu coração tudo que não seja Deus, que feche as portas dos sentidos a todas as criaturas e viva como que morto aos afetos terrestres. É isto exatamente o que o Senhor quis dar a entender aos apóstolos, quando, aparecendo para lhes anunciar a paz, quis ambas as vezes entrar aonde estavam os apóstolos, estando as portas fechadas.*
 
 **I.** Refere São João que, achando-se os apóstolos juntos numa casa, Jesus Cristo ressuscitado entrou ali, posto que as portas estivessem fechadas, e pondo-se no meio, disse-lhes duas vezes: A paz seja convosco. Repetiu as mesmas palavras oito dias depois, aparecendo-lhes mais uma vez, estando fechadas as portas. *Pax vobis — “A paz seja convosco”*. — Com estas palavras quis Jesus Cristo dar-nos a entender “*que Ele é a nossa paz; Ele que dos dois fez um, desfazendo em sua carne, com o sacrifício de sua vida, o inconsistente muro de separação, as inimizades*”. [^1]
 
