@@ -10,13 +10,14 @@
     "splash": {
       "image": "./assets/splash-icon.png",
       "resizeMode": "contain",
-      "backgroundColor": "#1A1A2E"
+      "backgroundColor": "#F1E6C8"
     },
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "me.dpgu.ember",
       "infoPlist": {
         "ITSAppUsesNonExemptEncryption": false,
+        "LSSupportsOpeningDocumentsInPlace": true,
         "CFBundleDocumentTypes": [
           {
             "CFBundleTypeName": "Prayer Book",
@@ -39,7 +40,7 @@
     },
     "android": {
       "adaptiveIcon": {
-        "backgroundColor": "#1A1A2E",
+        "backgroundColor": "#F1E6C8",
         "foregroundImage": "./assets/android-icon-foreground.png",
         "backgroundImage": "./assets/android-icon-background.png",
         "monochromeImage": "./assets/android-icon-monochrome.png"
