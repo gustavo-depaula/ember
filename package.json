@@ -19,6 +19,8 @@
     "serve:content": "serve content -p 4100 --cors",
     "build:preview": "pnpm --filter @ember/app exec eas build --profile preview --platform ios",
     "build:production": "pnpm --filter @ember/app exec eas build --profile production --platform ios --auto-submit",
+    "build:production:local": "GIT_CLONE_PROTECTION_ACTIVE=false pnpm --filter @ember/app exec eas build --profile production --platform ios --local",
+    "submit:ios": "pnpm --filter @ember/app exec pnpm eas submit --platform ios",
     "prepare": "husky"
   },
   "dependencies": {
