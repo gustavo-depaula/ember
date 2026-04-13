@@ -50,6 +50,23 @@
 | fortezza | fortaleza | |
 | divozione | devoção | |
 | perdono | perdão | |
+| avvocata | advogada | |
+| paciera | pacificadora | |
+| mezzana / mediatrice | medianeira | |
+| calamita | ímã (calamita) | Metáfora mariana |
+| lioncorno | unicórnio | |
+| iride / arcobaleno | arco-íris | |
+| capretti | cabritos | Figura dos pecadores |
+| patibolo | patíbulo | |
+| sequestra | sequestra / árbitra | Termo jurídico |
+| fidanza / sicurtà | fiança / garantia | |
+| predestinazione | predestinação | |
+| scapolare | escapulário | |
+| nocchiera | timoneira | |
+| crapule | orgias | |
+| flutti | ondas | |
+| purga | purificação | Referência ao purgatório |
+| livrea | libré | Veste distinta |
 
 ## Convenções
 
@@ -72,14 +89,14 @@
 | capitolo-02.md | concluído | 85KB — 3 seções (§1-§3: Vita, dulcedo), cada uma com Exemplo e Oração |
 | capitolo-03.md | pendente | 75KB |
 | capitolo-04.md | pendente | 68KB |
-| capitolo-05.md | pendente | 129KB |
-| capitolo-06.md | pendente | 107KB |
+| capitolo-05.md | concluído | 129KB — 2 seções (§1-§2), cada uma com Exemplo e Oração; inclui apêndice "Resposta a um anônimo" |
+| capitolo-06.md | concluído | 107KB — 3 seções (§1-§3: Eia ergo advocata nostra), cada uma com Exemplo e Oração |
 | capitolo-07.md | pendente | 36KB |
-| capitolo-08.md | pendente | 104KB |
-| capitolo-09.md | pendente | 43KB |
-| capitolo-10.md | pendente | 63KB |
-| orazioni-santi.md | pendente | 36KB |
-| discorso-01.md | pendente | 43KB |
+| capitolo-08.md | concluído | 104KB — 3 seções (§1-§3: Et Iesum benedictum), cada uma com Exemplo e Oração |
+| capitolo-09.md | concluído | 43KB — "O clemens, o pia", § único, Exemplo, Oração |
+| capitolo-10.md | concluído | 63KB — "O dulcis Virgo Maria", § único, Exemplo, Oração |
+| orazioni-santi.md | concluído | 36KB — Orações de 13 santos a Maria |
+| discorso-01.md | concluído | 43KB — Discurso I sobre a Imaculada Conceição, 3 Pontos, Exemplo, Oração |
 | discorso-02.md | pendente | 30KB |
 | discorso-03.md | pendente | 22KB |
 | discorso-04.md | pendente | 33KB |
@@ -87,10 +104,10 @@
 | discorso-06.md | pendente | 24KB |
 | discorso-07.md | pendente | 29KB |
 | discorso-08.md | pendente | 26KB |
-| discorso-09.md | pendente | 316KB |
-| riflessioni-dolori.md | pendente | 161KB |
-| virtu-di-maria.md | pendente | 175KB |
-| ossequi.md | pendente | 112KB |
+| discorso-09.md | concluído | 316KB — Discurso IX sobre as dores de Maria, 2 Pontos, Exemplo, Oração; notas de rodapé removidas |
+| riflessioni-dolori.md | concluído | 161KB — 7 Dores de Maria (Simeão, Egito, Templo, Via Dolorosa, Morte, Lançada/Deposição, Sepultura), cada uma com Exemplo e Oração; notas removidas |
+| virtu-di-maria.md | concluído | 175KB — Introdução + 10 virtudes (Humildade, Caridade a Deus, Caridade ao próximo, Fé, Esperança, Castidade, Pobreza, Obediência, Paciência, Oração); notas removidas |
+| ossequi.md | concluído | 112KB — 9 Obséquios (Ave Maria, Novenas, Rosário/Ofício, Jejum, Imagens, Escapulário, Congregações, Esmolas, Recorrer a Maria) + Décimo obséquio final; notas removidas |
 | conclusione.md | pendente | |
-| esempi.md | pendente | 178KB |
-| orazioni-diverse.md | pendente | 40KB |
+| esempi.md | concluído | 178KB — 89 Exemplos de graças de Maria (confissões, rosário, jejum, congregações, imagens, escapulário, Ave Maria, morte santa, conversões, prodígios); notas removidas |
+| orazioni-diverse.md | concluído | 40KB — Orações diversas: Blósio, S. Efrém, S. Tomás, Coroa das Dores, Coroa Imaculada, Dedicação |

@@ -35,6 +35,14 @@
 | lode / lodi | praise / praises | |
 | paradiso | paradise / heaven | |
 | inferno | hell | |
+| purgatorio | purgatory | |
+| scapulare del Carmine | Scapular of Our Lady of Mount Carmel | |
+| predestinazione | predestination | |
+| rosario / SS. Rosario | Rosary / Most Holy Rosary | |
+| Charta libertatis | safe-conduct (literal) | Keep Latin inline |
+| Patrocinatrix damnatorum | protectress of the condemned | Keep Latin inline |
+| nocchiera | pilot (nautical) | |
+| flutti | waves | Purgatory metaphor in ch. 8 |
 
 ## Translation Log
 
@@ -51,7 +59,7 @@
 | capitolo-05.md | pending | |
 | capitolo-06.md | pending | |
 | capitolo-07.md | pending | |
-| capitolo-08.md | pending | |
+| capitolo-08.md | done | 3 sections (hell/purgatory/paradise) + 3 examples/prayers, ~1833 lines IT, footnotes dropped |
 | capitolo-09.md | pending | |
 | capitolo-10.md | pending | |
 | orazioni-santi.md | pending | |
@@ -63,10 +71,10 @@
 | discorso-06.md | pending | |
 | discorso-07.md | pending | |
 | discorso-08.md | pending | |
-| discorso-09.md | pending | ~316KB, extremely large |
-| riflessioni-dolori.md | pending | |
-| virtu-di-maria.md | pending | |
-| ossequi.md | pending | |
+| discorso-09.md | done | Sorrows of Mary, 2 points + example/prayer, ~5631 lines IT (vast footnotes dropped), main text ~505 lines |
+| riflessioni-dolori.md | done | 7 sorrows, each with reflection + example + prayer, ~1143 lines IT main text, footnotes dropped |
+| virtu-di-maria.md | done | 10 sections on Mary's virtues (humility, love of God, love of neighbor, faith, hope, chastity, poverty, obedience, patience, prayer), each with closing prayer, ~1037 lines IT main text, footnotes dropped |
+| ossequi.md | done | 9 devotions (Ave Maria, novenas, Rosary/Office, fasting, images, scapular, Congregations, almsgiving, recourse to Mary) + 10th miscellany, ~689 lines IT main text, footnotes dropped |
 | conclusione.md | pending | |
-| esempi.md | pending | |
+| esempi.md | done | 89 examples/miracle stories of Mary's intercession, ~1225 lines IT main text, footnotes dropped |
 | orazioni-diverse.md | pending | |
