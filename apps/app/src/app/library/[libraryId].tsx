@@ -3,7 +3,7 @@ import type { BilingualText, LocalizedText } from '@ember/content-engine'
 import { resolveFlow } from '@ember/content-engine'
 import { useLocalSearchParams, useRouter } from 'expo-router'
 import { Book, BookOpen, ChevronLeft, Download, Trash2 } from 'lucide-react-native'
-import { useCallback, useMemo, useState } from 'react'
+import { useCallback, useEffect, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Alert, Pressable, ScrollView, View } from 'react-native'
 import Animated, { useAnimatedStyle, useSharedValue, withTiming } from 'react-native-reanimated'
@@ -118,6 +118,16 @@ export default function LibraryDetailScreen() {
   const [prayerModalMounted, setPrayerModalMounted] = useState(false)
   const { contentLanguage, secondaryLanguage } = usePreferencesStore()
   const overlayOpacity = useSharedValue(0)
+  const downloadProgress = useSharedValue(0)
+
+  const currentProgress = registryEntry ? (downloadBook.progress[registryEntry.id] ?? 0) : 0
+  useEffect(() => {
+    downloadProgress.value = withTiming(currentProgress, { duration: 300 })
+  }, [currentProgress, downloadProgress])
+
+  const progressFillStyle = useAnimatedStyle(() => ({
+    width: `${downloadProgress.value * 100}%`,
+  }))
 
   const overlayStyle = useAnimatedStyle(() => ({
     opacity: overlayOpacity.value,
@@ -240,13 +250,29 @@ export default function LibraryDetailScreen() {
               disabled={downloadBook.isPending}
             >
               <XStack
-                backgroundColor="$accent"
+                backgroundColor={downloadBook.isPending ? '$borderColor' : '$accent'}
                 borderRadius="$lg"
                 padding="$md"
                 justifyContent="center"
                 alignItems="center"
                 gap="$sm"
+                overflow="hidden"
               >
+                {downloadBook.isPending && (
+                  <Animated.View
+                    style={[
+                      {
+                        position: 'absolute',
+                        top: 0,
+                        left: 0,
+                        bottom: 0,
+                        backgroundColor: theme.accent.val,
+                        borderRadius: 12,
+                      },
+                      progressFillStyle,
+                    ]}
+                  />
+                )}
                 <Download size={18} color="white" />
                 <Text fontFamily="$heading" fontSize="$3" color="white">
                   {downloadBook.isPending ? t('library.downloading') : t('library.download')}
