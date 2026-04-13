@@ -13,6 +13,7 @@ import { getCursor, setCursor } from '@/db/repositories/cursors'
 import {
   buildConfigCss,
   buildReaderShell,
+  buildSequenceBody,
   buildTitleLookup,
   flattenTocLeaves,
   getChapterBody,
@@ -151,14 +152,17 @@ export default function BookReaderScreen() {
   const shellHtml = useMemo(() => {
     const chapterId = chapterForShellRef.current ?? initialChapterId
     if (!bookContent || !chapterId) return undefined
+    const idx = leaves.findIndex((l) => l.id === chapterId)
+    const prevId = idx > 0 ? leaves[idx - 1].id : undefined
+    const nextId = idx < leaves.length - 1 ? leaves[idx + 1].id : undefined
     return buildReaderShell(
       bookContent,
-      chapterId,
+      { prev: prevId, current: chapterId, next: nextId },
       isDark,
-      titleLookup.get(chapterId),
+      titleLookup,
       initialConfigRef.current,
     )
-  }, [bookContent, isDark, initialChapterId, titleLookup])
+  }, [bookContent, isDark, initialChapterId, titleLookup, leaves])
 
   // Live style updates when preferences change (skip initial render)
   const isFirstConfigRender = useRef(true)
@@ -175,42 +179,44 @@ export default function BookReaderScreen() {
     [leaves, currentChapterId],
   )
 
-  const hasPrev = currentIndex > 0
-  const hasNext = currentIndex < leaves.length - 1
-
   const navigateChapter = useCallback(
-    (id: string, startPage = 0, direction?: 'next' | 'prev') => {
+    (id: string, startPage = 0) => {
       savePosition()
       currentPageRef.current = startPage
       setPageDisplay({ current: 0, total: 1 })
       setCurrentChapterId(id)
       if (bookContent) {
-        const body = getChapterBody(bookContent, id, titleLookup.get(id))
-        webViewRef.current?.loadChapter(body, startPage, direction)
+        const idx = leaves.findIndex((l) => l.id === id)
+        const prevId = idx > 0 ? leaves[idx - 1].id : undefined
+        const nextId = idx < leaves.length - 1 ? leaves[idx + 1].id : undefined
+        const html = buildSequenceBody(
+          bookContent,
+          { prev: prevId, current: id, next: nextId },
+          titleLookup,
+        )
+        webViewRef.current?.loadSequence(html, startPage)
       }
     },
-    [savePosition, bookContent, titleLookup],
+    [savePosition, bookContent, leaves, titleLookup],
   )
 
   // Stable ref for values that change on every chapter nav, so callbacks stay identity-stable
   const goBack = useCallback(() => router.back(), [router])
   const navRef = useRef({
     currentIndex,
-    hasNext,
-    hasPrev,
     leaves,
-    navigateChapter,
     savePosition,
     goBack,
+    bookContent,
+    titleLookup,
   })
   navRef.current = {
     currentIndex,
-    hasNext,
-    hasPrev,
     leaves,
-    navigateChapter,
     savePosition,
     goBack,
+    bookContent,
+    titleLookup,
   }
 
   const [tocVisible, setTocVisible] = useState(false)
@@ -227,13 +233,30 @@ export default function BookReaderScreen() {
       currentPageRef.current = msg.currentPage
       setPageDisplay({ current: msg.currentPage, total: msg.totalPages })
     }
-    if (msg.type === 'boundary') {
-      const { hasNext, hasPrev, currentIndex, leaves, navigateChapter } = navRef.current
-      if (msg.direction === 'next' && hasNext) {
-        navigateChapter(leaves[currentIndex + 1].id, 0, 'next')
+    if (msg.type === 'chapterCross') {
+      const {
+        currentIndex,
+        leaves,
+        savePosition,
+        bookContent: bc,
+        titleLookup: tl,
+      } = navRef.current
+      savePosition()
+      if (msg.direction === 'next' && currentIndex < leaves.length - 1) {
+        const newIndex = currentIndex + 1
+        setCurrentChapterId(leaves[newIndex].id)
+        currentPageRef.current = msg.page
+        const newNextId = newIndex + 1 < leaves.length ? leaves[newIndex + 1].id : undefined
+        const bodyHtml = newNextId && bc ? getChapterBody(bc, newNextId, tl.get(newNextId)) : ''
+        webViewRef.current?.refreshBuffer('next', bodyHtml)
       }
-      if (msg.direction === 'prev' && hasPrev) {
-        navigateChapter(leaves[currentIndex - 1].id, -1, 'prev')
+      if (msg.direction === 'prev' && currentIndex > 0) {
+        const newIndex = currentIndex - 1
+        setCurrentChapterId(leaves[newIndex].id)
+        currentPageRef.current = msg.page
+        const newPrevId = newIndex - 1 >= 0 ? leaves[newIndex - 1].id : undefined
+        const bodyHtml = newPrevId && bc ? getChapterBody(bc, newPrevId, tl.get(newPrevId)) : ''
+        webViewRef.current?.refreshBuffer('prev', bodyHtml)
       }
     }
     if (msg.type === 'backSwipe') {
