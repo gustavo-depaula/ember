@@ -39,8 +39,10 @@ export default function BookReaderScreen() {
   const theme = useTheme()
   const { t } = useTranslation()
   const insets = useSafeAreaInsets()
-  const colorScheme = useColorScheme()
-  const isDark = colorScheme === 'dark'
+  const systemScheme = useColorScheme()
+  const themePreference = usePreferencesStore((s) => s.theme)
+  const resolvedTheme = themePreference === 'system' ? (systemScheme ?? 'light') : themePreference
+  const isDark = resolvedTheme === 'dark'
   const contentLanguage = usePreferencesStore((s) => s.contentLanguage)
   const fontSizeStep = usePreferencesStore((s) => s.fontSizeStep)
   const lineHeightStep = usePreferencesStore((s) => s.lineHeightStep)
@@ -344,7 +346,12 @@ export default function BookReaderScreen() {
 
       <YStack flex={1}>
         {shellHtml ? (
-          <ReaderWebView key={lang} ref={webViewRef} html={shellHtml} onMessage={handleMessage} />
+          <ReaderWebView
+            key={`${lang}-${isDark}`}
+            ref={webViewRef}
+            html={shellHtml}
+            onMessage={handleMessage}
+          />
         ) : (
           <YStack flex={1} justifyContent="center" alignItems="center">
             <Text fontFamily="$body" color="$colorSecondary">
