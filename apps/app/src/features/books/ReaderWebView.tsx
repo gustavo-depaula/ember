@@ -3,13 +3,14 @@ import { Platform, View } from 'react-native'
 
 export type ReaderMessage =
   | { type: 'pageInfo'; currentPage: number; totalPages: number }
-  | { type: 'boundary'; direction: 'prev' | 'next' }
+  | { type: 'chapterCross'; direction: 'prev' | 'next'; page: number }
   | { type: 'ready' }
   | { type: 'centerTap' }
   | { type: 'backSwipe' }
 
 export type ReaderWebViewHandle = {
-  loadChapter: (html: string, startPage: number, direction?: 'next' | 'prev') => void
+  loadSequence: (html: string, startPage: number) => void
+  refreshBuffer: (direction: 'next' | 'prev', bodyHtml: string) => void
   goToPage: (page: number) => void
   updateStyles: (css: string) => void
 }
@@ -30,11 +31,16 @@ const NativeWebView = forwardRef<ReaderWebViewHandle, Props>(function NativeWebV
   const webViewRef = useRef<any>(null)
 
   useImperativeHandle(ref, () => ({
-    loadChapter(body: string, startPage: number, direction?: 'next' | 'prev') {
-      const escaped = JSON.stringify(body)
-      const dir = direction ? `"${direction}"` : 'undefined'
+    loadSequence(html: string, startPage: number) {
+      const escaped = JSON.stringify(html)
       webViewRef.current?.injectJavaScript(
-        `window.postMessage(JSON.stringify({ type: 'loadChapter', html: ${escaped}, startPage: ${startPage}, direction: ${dir} })); true;`,
+        `window.postMessage(JSON.stringify({ type: 'loadSequence', html: ${escaped}, startPage: ${startPage} })); true;`,
+      )
+    },
+    refreshBuffer(direction: 'next' | 'prev', bodyHtml: string) {
+      const escaped = JSON.stringify(bodyHtml)
+      webViewRef.current?.injectJavaScript(
+        `window.postMessage(JSON.stringify({ type: 'refreshBuffer', direction: "${direction}", html: ${escaped} })); true;`,
       )
     },
     goToPage(page: number) {
@@ -82,9 +88,15 @@ const WebIframe = forwardRef<ReaderWebViewHandle, Props>(function WebIframe(
   const iframeRef = useRef<HTMLIFrameElement>(null)
 
   useImperativeHandle(ref, () => ({
-    loadChapter(body: string, startPage: number, direction?: 'next' | 'prev') {
+    loadSequence(html: string, startPage: number) {
       iframeRef.current?.contentWindow?.postMessage(
-        JSON.stringify({ type: 'loadChapter', html: body, startPage, direction }),
+        JSON.stringify({ type: 'loadSequence', html, startPage }),
+        '*',
+      )
+    },
+    refreshBuffer(direction: 'next' | 'prev', bodyHtml: string) {
+      iframeRef.current?.contentWindow?.postMessage(
+        JSON.stringify({ type: 'refreshBuffer', direction, html: bodyHtml }),
         '*',
       )
     },

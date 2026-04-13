@@ -64,6 +64,9 @@ body {
   orphans: 2;
   widows: 2;
 }
+.ch-panel + .ch-panel {
+  break-before: column;
+}
 `
 
 // The WebView loads this shell once. Chapter content is swapped via postMessage
@@ -76,6 +79,7 @@ const paginationScript = `
   var viewport = document.getElementById('ember-viewport');
   var el = document.getElementById('ember-content');
   var pageWidth;
+  var chapterBounds = { curStart: 0, nextStart: 0, hasPrev: false, hasNext: false };
 
   function send(msg) {
     if (window.ReactNativeWebView) {
@@ -95,50 +99,66 @@ const paginationScript = `
     totalPages = Math.max(1, Math.round(el.scrollWidth / pageWidth));
   }
 
-  function goToPage(n) {
-    if (n < 0) {
-      el.style.transform = 'translateX(' + pageWidth + 'px)';
-      setTimeout(function() {
-        send({ type: 'boundary', direction: 'prev' });
-      }, 300);
-      return;
+  function findChapterBounds() {
+    var elLeft = el.getBoundingClientRect().left;
+    var padLeft = parseFloat(getComputedStyle(el).paddingLeft);
+    function startPage(panel) {
+      var r = panel.getClientRects();
+      if (!r.length) return 0;
+      return Math.round((r[0].left - elLeft - padLeft) / pageWidth);
     }
-    if (n >= totalPages) {
-      el.style.transform = 'translateX(' + (-totalPages * pageWidth) + 'px)';
-      setTimeout(function() {
-        send({ type: 'boundary', direction: 'next' });
-      }, 300);
-      return;
-    }
-    currentPage = n;
-    el.style.transform = 'translateX(' + (-n * pageWidth) + 'px)';
-    send({ type: 'pageInfo', currentPage: currentPage, totalPages: totalPages });
+    var cur = el.querySelector('[data-ch="cur"]');
+    var next = el.querySelector('[data-ch="next"]');
+    var prev = el.querySelector('[data-ch="prev"]');
+    chapterBounds.curStart = cur ? startPage(cur) : 0;
+    chapterBounds.nextStart = next ? startPage(next) : totalPages;
+    chapterBounds.hasPrev = !!prev;
+    chapterBounds.hasNext = !!next;
   }
 
-  function loadChapter(html, startPage, direction) {
+  function chapterRelativePage() {
+    return currentPage - chapterBounds.curStart;
+  }
+
+  function chapterPageCount() {
+    return chapterBounds.nextStart - chapterBounds.curStart;
+  }
+
+  function sendPageInfo() {
+    send({ type: 'pageInfo', currentPage: chapterRelativePage(), totalPages: chapterPageCount() });
+  }
+
+  function goToPage(n) {
+    // Clamp at true boundaries
+    if (n < 0) n = 0;
+    if (n >= totalPages) n = totalPages - 1;
+
+    currentPage = n;
+    el.style.transform = 'translateX(' + (-n * pageWidth) + 'px)';
+
+    // Detect chapter crossing — don't send pageInfo (bounds are stale until refreshBuffer)
+    if (chapterBounds.hasNext && n >= chapterBounds.nextStart) {
+      send({ type: 'chapterCross', direction: 'next', page: n - chapterBounds.nextStart });
+    } else if (chapterBounds.hasPrev && n < chapterBounds.curStart) {
+      send({ type: 'chapterCross', direction: 'prev', page: n });
+    } else {
+      sendPageInfo();
+    }
+  }
+
+  function loadSequence(html, startPage) {
     el.style.transition = 'none';
     el.innerHTML = html;
     requestAnimationFrame(function() {
       measure();
-      var page = startPage < 0 ? totalPages - 1 : startPage;
-      currentPage = page;
-      var target = -page * pageWidth;
-
-      if (direction === 'next') {
-        el.style.transform = 'translateX(' + (target + pageWidth) + 'px)';
-      } else if (direction === 'prev') {
-        el.style.transform = 'translateX(' + (target - pageWidth) + 'px)';
-      } else {
-        el.style.transform = 'translateX(' + target + 'px)';
-        send({ type: 'pageInfo', currentPage: page, totalPages: totalPages });
-        requestAnimationFrame(function() { el.style.transition = ''; });
-        return;
-      }
-      requestAnimationFrame(function() {
-        el.style.transition = '';
-        el.style.transform = 'translateX(' + target + 'px)';
-        send({ type: 'pageInfo', currentPage: page, totalPages: totalPages });
-      });
+      findChapterBounds();
+      var chapPages = chapterPageCount();
+      var relPage = startPage < 0 ? chapPages - 1 : Math.min(startPage, chapPages - 1);
+      currentPage = chapterBounds.curStart + relPage;
+      el.style.transform = 'translateX(' + (-currentPage * pageWidth) + 'px)';
+      sendPageInfo();
+      send({ type: 'ready' });
+      requestAnimationFrame(function() { el.style.transition = ''; });
     });
   }
 
@@ -195,17 +215,14 @@ const paginationScript = `
     el.style.transition = '';
 
     if (isSwiping) {
-      // Swipe: threshold 40px or fast flick
       if (dx < -40 || (velocity > 0.3 && dx < -10)) {
         goToPage(currentPage + 1);
       } else if (dx > 40 || (velocity > 0.3 && dx > 10)) {
         goToPage(currentPage - 1);
       } else {
-        // Snap back
         el.style.transform = 'translateX(' + (-currentPage * pageWidth) + 'px)';
       }
     } else if (elapsed < 300 && Math.abs(dx) < 10) {
-      // Tap — determine zone
       var x = touchStartX / window.innerWidth;
       if (x < 0.3) {
         goToPage(currentPage - 1);
@@ -220,7 +237,6 @@ const paginationScript = `
   // Click fallback for mouse/desktop
   document.addEventListener('click', function(e) {
     if (e.target.tagName === 'A') return;
-    // Skip if touch events are available (avoid double-fire)
     if ('ontouchstart' in window) return;
     var x = e.clientX / window.innerWidth;
     if (x < 0.3) {
@@ -235,14 +251,64 @@ const paginationScript = `
   window.addEventListener('message', function(e) {
     try {
       var msg = typeof e.data === 'string' ? JSON.parse(e.data) : e.data;
-      if (msg.type === 'goToPage') goToPage(msg.page < 0 ? totalPages - 1 : msg.page);
-      if (msg.type === 'loadChapter') loadChapter(msg.html, msg.startPage, msg.direction);
+      if (msg.type === 'goToPage') {
+        var absPage = chapterBounds.curStart + (msg.page < 0 ? chapterPageCount() - 1 : msg.page);
+        goToPage(absPage);
+      }
+      if (msg.type === 'loadSequence') loadSequence(msg.html, msg.startPage);
+      if (msg.type === 'refreshBuffer') {
+        requestAnimationFrame(function() {
+          el.style.transition = 'none';
+          var oldCurStart = chapterBounds.curStart;
+
+          if (msg.direction === 'next') {
+            var oldPrev = el.querySelector('[data-ch="prev"]');
+            if (oldPrev) el.removeChild(oldPrev);
+            var oldCur = el.querySelector('[data-ch="cur"]');
+            if (oldCur) oldCur.setAttribute('data-ch', 'prev');
+            var oldNext = el.querySelector('[data-ch="next"]');
+            if (oldNext) oldNext.setAttribute('data-ch', 'cur');
+            if (msg.html) {
+              var panel = document.createElement('div');
+              panel.className = 'ch-panel';
+              panel.setAttribute('data-ch', 'next');
+              panel.innerHTML = msg.html;
+              el.appendChild(panel);
+            }
+            measure();
+            findChapterBounds();
+            currentPage -= oldCurStart;
+          } else {
+            var oldNext2 = el.querySelector('[data-ch="next"]');
+            if (oldNext2) el.removeChild(oldNext2);
+            var oldCur2 = el.querySelector('[data-ch="cur"]');
+            if (oldCur2) oldCur2.setAttribute('data-ch', 'next');
+            var oldPrev2 = el.querySelector('[data-ch="prev"]');
+            if (oldPrev2) oldPrev2.setAttribute('data-ch', 'cur');
+            if (msg.html) {
+              var panel2 = document.createElement('div');
+              panel2.className = 'ch-panel';
+              panel2.setAttribute('data-ch', 'prev');
+              panel2.innerHTML = msg.html;
+              el.insertBefore(panel2, el.firstChild);
+            }
+            measure();
+            findChapterBounds();
+            currentPage += chapterBounds.curStart;
+          }
+
+          el.style.transform = 'translateX(' + (-currentPage * pageWidth) + 'px)';
+          sendPageInfo();
+          requestAnimationFrame(function() { el.style.transition = ''; });
+        });
+      }
       if (msg.type === 'updateStyles') {
         var style = document.getElementById('reader-config');
         if (style) style.textContent = msg.css;
         el.style.transition = 'none';
         requestAnimationFrame(function() {
           measure();
+          findChapterBounds();
           goToPage(currentPage);
           requestAnimationFrame(function() { el.style.transition = ''; });
         });
@@ -254,7 +320,10 @@ const paginationScript = `
   requestAnimationFrame(function() {
     el.style.transition = 'none';
     measure();
-    goToPage(0);
+    findChapterBounds();
+    currentPage = chapterBounds.curStart;
+    el.style.transform = 'translateX(' + (-currentPage * pageWidth) + 'px)';
+    sendPageInfo();
     send({ type: 'ready' });
     requestAnimationFrame(function() {
       el.style.transition = '';
@@ -263,8 +332,12 @@ const paginationScript = `
 
   window.addEventListener('resize', function() {
     el.style.transition = 'none';
+    var relPage = chapterRelativePage();
     measure();
-    goToPage(currentPage);
+    findChapterBounds();
+    currentPage = chapterBounds.curStart + Math.min(relPage, chapterPageCount() - 1);
+    el.style.transform = 'translateX(' + (-currentPage * pageWidth) + 'px)';
+    sendPageInfo();
     requestAnimationFrame(function() {
       el.style.transition = '';
     });
@@ -355,15 +428,32 @@ export function buildConfigCss(config: ReaderConfig): string {
   }`
 }
 
+/** Wrap chapter bodies in panel divs for three-panel pre-rendering */
+export function buildSequenceBody(
+  content: BookContent,
+  chapters: { prev?: string; current: string; next?: string },
+  titleLookup: Map<string, string>,
+): string {
+  let html = ''
+  if (chapters.prev) {
+    html += `<div class="ch-panel" data-ch="prev">${getChapterBody(content, chapters.prev, titleLookup.get(chapters.prev))}</div>`
+  }
+  html += `<div class="ch-panel" data-ch="cur">${getChapterBody(content, chapters.current, titleLookup.get(chapters.current))}</div>`
+  if (chapters.next) {
+    html += `<div class="ch-panel" data-ch="next">${getChapterBody(content, chapters.next, titleLookup.get(chapters.next))}</div>`
+  }
+  return html
+}
+
 /** Build the reader shell HTML — loaded once, chapters swapped via messages */
 export function buildReaderShell(
   content: BookContent,
-  firstChapterId: string,
+  chapters: { prev?: string; current: string; next?: string },
   isDark: boolean,
-  firstChapterTitle?: string,
+  titleLookup: Map<string, string>,
   config?: ReaderConfig,
 ): string {
-  const firstBody = getChapterBody(content, firstChapterId, firstChapterTitle)
+  const sequenceBody = buildSequenceBody(content, chapters, titleLookup)
   const darkStyle = isDark ? `<style>${darkModeOverrides}</style>` : ''
   const configStyle = config ? `<style id="reader-config">${buildConfigCss(config)}</style>` : ''
 
@@ -380,7 +470,7 @@ ${configStyle}
 <body>
 <div id="ember-viewport">
 <div id="ember-content">
-${firstBody}
+${sequenceBody}
 </div>
 </div>
 ${paginationScript}
