@@ -1172,6 +1172,39 @@
     },
     "01-10": {
       "primary": "vida-pobre-jesus-comecou-levar-desde-seu-nascimento"
+    },
+    "01-25": {
+      "primary": "necessidade-da-fe-para-contemplar-com-fruto-o-misterio-da-encarnacao"
+    },
+    "02-25": {
+      "primary": "motivos-para-esperar-em-jesus-cristo"
+    },
+    "03-25": {
+      "primary": "festa-anunciacao-maria-santissima-2"
+    },
+    "04-25": {
+      "primary": "jesus-o-medico-das-nossas-almas"
+    },
+    "05-25": {
+      "primary": "pobreza-do-menino-jesus"
+    },
+    "06-25": {
+      "primary": "o-filho-de-deus-tomou-sobre-si-as-nossas-iniquidades"
+    },
+    "07-25": {
+      "primary": "jesus-modelo-de-obediencia"
+    },
+    "08-25": {
+      "primary": "sublimidade-do-misterio-da-encarnacao"
+    },
+    "09-25": {
+      "primary": "o-menino-jesus-sobre-as-palhas-ensina-nos-mortificacao"
+    },
+    "10-25": {
+      "primary": "solidao-de-jesus-na-gruta-de-belem"
+    },
+    "11-25": {
+      "primary": "das-ocupacoes-do-menino-jesus-na-gruta-de-belem"
     }
   },
   "feasts": {
@@ -1410,126 +1443,57 @@
       "primary": "coracao-jesus-desprezado"
     }
   },
-  "appendix": {
-    "first-friday/1": {
+  "weekdaysOfMonths": {
+    "1st-friday-of-january": {
       "primary": "devocao-ao-sagrado-coracao-seta-reservada"
     },
-    "first-friday/2": {
+    "1st-friday-of-february": {
       "primary": "recompensa-devocao-sagrado-coracao-perseveranca"
     },
-    "first-friday/3": {
+    "1st-friday-of-march": {
       "primary": "meio-unirmos-sagrado-coracao-boa-intencao"
     },
-    "first-friday/4": {
+    "1st-friday-of-april": {
       "primary": "o-sagrado-coracao-reservatorio-de-gracas"
     },
-    "first-friday/5": {
+    "1st-friday-of-may": {
       "primary": "o-coracao-de-jesus-vitima-voluntaria"
     },
-    "first-friday/6": {
+    "1st-friday-of-june": {
       "primary": "apostolado-perpetuo-do-coracao-de-jesus"
     },
-    "first-friday/7": {
+    "1st-friday-of-july": {
       "primary": "coracao-jesus-modelo-humildade"
     },
-    "first-friday/8": {
+    "1st-friday-of-august": {
       "primary": "o-coracao-de-jesus-modelo-de-mansidao"
     },
-    "first-friday/9": {
+    "1st-friday-of-september": {
       "primary": "o-coracao-de-jesus-amigo-das-almas-castas"
     },
-    "first-friday/10": {
+    "1st-friday-of-october": {
       "primary": "o-coracao-de-jesus-centro-dos-coracoes"
     },
-    "first-friday/11": {
+    "1st-friday-of-november": {
       "primary": "o-coracao-de-jesus-modelo-de-conformidade-com-a-vontade-de-deus"
     },
-    "first-friday/12": {
+    "1st-friday-of-december": {
       "primary": "o-coracao-de-jesus-modelo-de-fidelidade"
     },
-    "25th-of-month/1": {
-      "primary": "necessidade-da-fe-para-contemplar-com-fruto-o-misterio-da-encarnacao"
-    },
-    "25th-of-month/2": {
-      "primary": "motivos-para-esperar-em-jesus-cristo"
-    },
-    "25th-of-month/3": {
-      "primary": "festa-anunciacao-maria-santissima-2"
-    },
-    "25th-of-month/4": {
-      "primary": "jesus-o-medico-das-nossas-almas"
-    },
-    "25th-of-month/5": {
-      "primary": "pobreza-do-menino-jesus"
-    },
-    "25th-of-month/6": {
-      "primary": "o-filho-de-deus-tomou-sobre-si-as-nossas-iniquidades"
-    },
-    "25th-of-month/7": {
-      "primary": "jesus-modelo-de-obediencia"
-    },
-    "25th-of-month/8": {
-      "primary": "sublimidade-do-misterio-da-encarnacao"
-    },
-    "25th-of-month/9": {
-      "primary": "o-menino-jesus-sobre-as-palhas-ensina-nos-mortificacao"
-    },
-    "25th-of-month/10": {
-      "primary": "solidao-de-jesus-na-gruta-de-belem"
-    },
-    "25th-of-month/11": {
-      "primary": "das-ocupacoes-do-menino-jesus-na-gruta-de-belem"
-    },
-    "march-wednesday/1": {
+    "1st-wednesday-of-march": {
       "primary": "da-viagem-de-sao-jose-e-maria-santissima-a-belem-onde-nasceu-jesus"
     },
-    "march-wednesday/2": {
+    "2nd-wednesday-of-march": {
       "primary": "fuga-para-o-egito-2"
     },
-    "march-wednesday/3": {
+    "3rd-wednesday-of-march": {
       "primary": "da-volta-do-egito-e-da-perda-de-jesus-no-templo"
     },
-    "march-wednesday/4": {
+    "4th-wednesday-of-march": {
       "primary": "da-dignidade-sao-jose-esposo-virgem-maria-2"
     },
-    "march-wednesday/5": {
+    "5th-wednesday-of-march": {
       "primary": "gloria-sao-jose-esposo-virgem-maria-2"
-    },
-    "virtue/1": {
-      "primary": "santo-afonso-modelo-de-fe-viva"
-    },
-    "virtue/2": {
-      "primary": "santo-afonso-modelo-de-firme-confianca"
-    },
-    "virtue/3": {
-      "primary": "santo-afonso-modelo-de-amor-a-deus"
-    },
-    "virtue/4": {
-      "primary": "santo-afonso-modelo-de-amor-para-com-o-proximo"
-    },
-    "virtue/5": {
-      "primary": "santo-afonso-modelo-de-pobreza-evangelica"
-    },
-    "virtue/6": {
-      "primary": "santo-afonso-modelo-de-castidade"
-    },
-    "virtue/7": {
-      "primary": "santo-afonso-modelo-de-obediencia"
-    },
-    "virtue/8": {
-      "primary": "santo-afonso-modelo-de-mansidao-e-de-humildade"
-    },
-    "virtue/9": {
-      "primary": "santo-afonso-modelo-de-mortificacao"
-    },
-    "virtue/10": {
-      "primary": "santo-afonso-modelo-de-paciencia-e-de-amor-a-cruz"
-    },
-    "virtue/11": {
-      "primary": "santo-afonso-modelo-de-oracao"
-    },
-    "virtue/12": {
-      "primary": "santo-afonso-modelo-de-paciencia-e-de-amor-a-cruz-2"
     }
   },
   "reserves": [
@@ -1554,6 +1518,18 @@
     "meios-para-se-preparar-para-a-morte",
     "protestacao-para-a-boa-morte",
     "meios-para-conservar-a-graca-de-deus",
-    "das-enfermidades"
+    "das-enfermidades",
+    "santo-afonso-modelo-de-fe-viva",
+    "santo-afonso-modelo-de-firme-confianca",
+    "santo-afonso-modelo-de-amor-a-deus",
+    "santo-afonso-modelo-de-amor-para-com-o-proximo",
+    "santo-afonso-modelo-de-pobreza-evangelica",
+    "santo-afonso-modelo-de-castidade",
+    "santo-afonso-modelo-de-obediencia",
+    "santo-afonso-modelo-de-mansidao-e-de-humildade",
+    "santo-afonso-modelo-de-mortificacao",
+    "santo-afonso-modelo-de-paciencia-e-de-amor-a-cruz",
+    "santo-afonso-modelo-de-oracao",
+    "santo-afonso-modelo-de-paciencia-e-de-amor-a-cruz-2"
   ]
 }

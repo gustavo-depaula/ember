@@ -6,11 +6,11 @@ export {
   getPostPentecostWeekMapping,
 } from './ef-position'
 export {
-  type LiturgicalMeditationMap,
-  type MeditationEntry,
-  type ResolvedMeditation,
-  resolveLiturgicalMeditation,
-} from './meditation-resolver'
+  type DayMapEntry,
+  type LiturgicalDayMap,
+  type ResolvedDayEntry,
+  resolveLiturgicalDay,
+} from './liturgical-day-resolver'
 export type OfficeHour = 'morning' | 'evening' | 'compline'
 export { buildYearCalendar, getCelebrationsForDate } from './calendar-builder'
 // Calendar

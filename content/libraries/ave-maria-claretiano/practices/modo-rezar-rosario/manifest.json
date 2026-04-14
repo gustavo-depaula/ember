@@ -24,24 +24,7 @@
 		"slots": [
 			{
 				"schedule": {
-					"type": "days-of-week",
-					"days": [1, 4]
-				},
-				"tier": "essential",
-				"enabled": false
-			},
-			{
-				"schedule": {
-					"type": "days-of-week",
-					"days": [2, 5]
-				},
-				"tier": "essential",
-				"enabled": false
-			},
-			{
-				"schedule": {
-					"type": "days-of-week",
-					"days": [0, 3, 6]
+					"type": "daily"
 				},
 				"tier": "essential",
 				"enabled": false

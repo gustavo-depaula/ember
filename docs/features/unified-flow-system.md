@@ -245,24 +245,24 @@ Entries flow into the `from` namespace. Template vars merge into the context. Se
 
 ### Strategy: `"liturgical-day"`
 
-Uses `resolveLiturgicalMeditation(date, map)` from `@ember/liturgical`. The data must conform to the `LiturgicalMeditationMap` structure:
+Uses `resolveLiturgicalDay(date, map)` from `@ember/liturgical`. The data must conform to the `LiturgicalDayMap` structure:
 
 ```typescript
-type LiturgicalMeditationMap = {
-  temporal: Record<string, MeditationEntry>    // "advent/1/0" → entry
-  fixedDates: Record<string, MeditationEntry>  // "12-25", "01-25", ...
-  feasts: Record<string, MeditationEntry>      // "01-06" or "movable/..." → entry
-  novenas: Record<string, MeditationEntry>     // "christmas/1", "holy-spirit/3" → entry
-  weekdaysOfMonths?: Record<string, MeditationEntry> // "1st-friday-of-january", "3rd-monday-of-february"
+type LiturgicalDayMap = {
+  temporal: Record<string, DayMapEntry>    // "advent/1/0" → entry
+  fixedDates: Record<string, DayMapEntry>  // "12-25", "01-25", ...
+  feasts: Record<string, DayMapEntry>      // "01-06" or "movable/..." → entry
+  novenas: Record<string, DayMapEntry>     // "christmas/1", "holy-spirit/3" → entry
+  weekdaysOfMonths?: Record<string, DayMapEntry> // "1st-friday-of-january", "3rd-monday-of-february"
   reserves: string[]
 }
 
-type MeditationEntry = { primary: string; secondary?: string }
+type DayMapEntry = { primary: string; secondary?: string }
 ```
 
-Resolution priority for the main temporal meditation: novenas (Christmas, Holy Spirit, Sacred Heart) → temporal cycle → reserves fallback → fixedDates fallback. Feast days are resolved separately (movable feasts first, then fixed-date). Additional meditations are merged from fixedDates (`MM-DD`) plus optional `weekdaysOfMonths` recurrence keys (`<ordinal>-<weekday>-of-<month>`). The algorithm handles Easter-relative computations, movable feasts, and multi-layer fallbacks.
+Resolution priority for the main temporal entry: novenas (Christmas, Holy Spirit, Sacred Heart) → temporal cycle → reserves fallback → fixedDates fallback. Feast days are resolved separately (movable feasts first, then fixed-date). Additional entries are merged from fixedDates (`MM-DD`) plus optional `weekdaysOfMonths` recurrence keys (`<ordinal>-<weekday>-of-<month>`). The algorithm handles Easter-relative computations, movable feasts, and multi-layer fallbacks.
 
-This algorithm already exists in `packages/liturgical/src/meditation-resolver.ts`. Moving it from a practice-specific hook into the engine makes it available to any practice that indexes content by liturgical day.
+This algorithm lives in `packages/liturgical/src/liturgical-day-resolver.ts`. It is practice-agnostic — any practice that indexes content by liturgical day can use it.
 
 **Output:** A flat array of entries — one per resolved chapter (0 to 4 items depending on the day). Each entry has `{ chapterId, category }` at minimum. When `book` is specified, the engine derives a `label` from the book's TOC for each entry. Template vars: `liturgicalLabel` (human-readable day name), `meditationTitle` (first entry's title).
 
@@ -781,7 +781,7 @@ Each practice defines its own flow with the right structure — no more clamping
 ```
 
 **How it works:**
-1. `resolve` runs before sections: calls `resolveLiturgicalMeditation(date, liturgicalMap)`
+1. `resolve` runs before sections: calls `resolveLiturgicalDay(date, liturgicalMap)`
 2. Output: a variable-length array named `"meditations"` — e.g., `[{ chapterId: "...", label: "A temeridade...", category: "feast" }, { chapterId: "...", label: "O amor de Deus...", category: "temporal" }]`
 3. Strategy auto-publishes `liturgicalLabel` and `meditationTitle` as template vars
 4. `options from: "meditations"` generates one tab per entry — each entry's `label` becomes the tab label
@@ -1198,7 +1198,7 @@ Note: `CycleData` continues to use array-indexed lookups (`indexBy: day-of-month
 4. Add `data?: Record<string, RepeatEntry[]>` to `FlowDefinition`
 5. Add `resolve?: ResolveStep[]` to `FlowDefinition`
 6. Add `executeResolveSteps()` — runs strategies, publishes arrays into `flowData`, merges template vars
-7. Add `runStrategy("liturgical-day", ...)` — calls `resolveLiturgicalMeditation`, returns `{ entries, templateVars }`
+7. Add `runStrategy("liturgical-day", ...)` — calls `resolveLiturgicalDay`, returns `{ entries, templateVars }`
 8. Add dynamic `prose` resolution — `book` + `chapter` form, template var substitution, chapter loading
 9. Add `from` to `repeat` and `options` — unified data iteration from named arrays
 10. Make `resolveFlow()` async (dynamic prose requires I/O)

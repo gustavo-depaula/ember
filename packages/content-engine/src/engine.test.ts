@@ -1,4 +1,7 @@
+import { getLiturgicalDayName } from '@ember/liturgical'
 import { describe, expect, it } from 'vitest'
+import liguoriLiturgicalMapFixture from '../../../content/libraries/alphonsus-liguori/practices/meditacoes-ligorio/data/liturgical-map.json'
+import liguoriFlowFixture from '../../../content/libraries/alphonsus-liguori/practices/meditacoes-ligorio/flow.json'
 import {
   type EngineContext,
   type FlowContext,
@@ -1034,6 +1037,45 @@ describe('resolveFlow — options from', () => {
   })
 })
 
+describe('resolveFlow — flowVersion', () => {
+  it('accepts flowVersion 1 and legacy flows without version', () => {
+    expect(
+      resolveFlow(
+        flowDef({
+          flowVersion: '1',
+          sections: [{ type: 'heading', text: { 'pt-BR': 'ok' } }],
+        }),
+        makeContext(),
+        makeEngineContext(),
+      ),
+    ).toEqual([{ type: 'heading', text: { primary: 'ok' } }])
+
+    expect(
+      resolveFlow(
+        flowDef({
+          sections: [{ type: 'heading', text: { 'pt-BR': 'legacy' } }],
+        }),
+        makeContext(),
+        makeEngineContext(),
+      ),
+    ).toEqual([{ type: 'heading', text: { primary: 'legacy' } }])
+  })
+
+  it('throws for unsupported flowVersion in sync and async resolvers', async () => {
+    const unsupported = {
+      flowVersion: '2',
+      sections: [{ type: 'heading', text: { 'pt-BR': 'x' } }],
+    } as unknown as FlowDefinition
+
+    expect(() => resolveFlow(unsupported, makeContext(), makeEngineContext())).toThrow(
+      'Unsupported flowVersion: 2',
+    )
+    await expect(resolveFlowAsync(unsupported, makeContext(), makeEngineContext())).rejects.toThrow(
+      'Unsupported flowVersion: 2',
+    )
+  })
+})
+
 describe('resolveFlowAsync — resolve strategy + dynamic prose', () => {
   it('hydrates flowData/template vars from resolve and loads dynamic prose chapters', async () => {
     const liturgicalMap = {
@@ -1047,7 +1089,6 @@ describe('resolveFlowAsync — resolve strategy + dynamic prose', () => {
         '04-12': { primary: 'feast-chapter' },
       },
       novenas: {},
-      appendix: {},
       reserves: [],
     }
 
@@ -1066,6 +1107,8 @@ describe('resolveFlowAsync — resolve strategy + dynamic prose', () => {
       flowDef({
         resolve: [
           {
+            source: 'liturgical',
+            dataType: 'liturgical-meditation-map',
             data: 'liturgical-map',
             strategy: 'liturgical-day',
             as: 'meditations',
@@ -1105,6 +1148,204 @@ describe('resolveFlowAsync — resolve strategy + dynamic prose', () => {
         ],
       },
     ])
+  })
+
+  it('includes fixed-date and weekdaysOfMonths additions in resolved entries', async () => {
+    const liturgicalMap = {
+      temporal: {},
+      fixedDates: {
+        '04-25': { primary: 'fixed-date-additional-chapter' },
+      },
+      feasts: {},
+      novenas: {},
+      weekdaysOfMonths: {
+        '4th-saturday-of-april': { primary: 'weekday-chapter' },
+      },
+      reserves: ['temporal-chapter'],
+    }
+
+    const context = makeContext({
+      date: new Date('2026-04-25T12:00:00Z'),
+      cycleData: { 'liturgical-map': liturgicalMap as never },
+      liturgicalCalendar: 'ef',
+    })
+
+    const engineContext: EngineContext = {
+      ...makeEngineContext(),
+      getBookChapterTitle: (_book, chapter) => `Title ${chapter}`,
+      loadBookChapterTextAsync: async (_book, chapter) => ({ 'pt-BR': `Text ${chapter}` }),
+    }
+
+    const result = await resolveFlowAsync(
+      flowDef({
+        resolve: [
+          {
+            source: 'liturgical',
+            dataType: 'liturgical-meditation-map',
+            data: 'liturgical-map',
+            strategy: 'liturgical-day',
+            as: 'meditations',
+            book: 'meditacoes-ligorio',
+          },
+        ],
+        sections: [
+          {
+            type: 'options',
+            label: { 'pt-BR': 'Meditação' },
+            from: 'meditations',
+            sections: [{ type: 'prose', book: 'meditacoes-ligorio', chapter: '{{chapterId}}' }],
+          },
+        ],
+      }),
+      context,
+      engineContext,
+    )
+
+    const meditationOptions = result.find((section) => section.type === 'options')
+    expect(meditationOptions).toBeDefined()
+    if (!meditationOptions || meditationOptions.type !== 'options') {
+      throw new Error('Expected options section')
+    }
+
+    const proseTexts = meditationOptions.options.flatMap((option) => {
+      const prose = option.sections[0]
+      if (!prose || prose.type !== 'prose') return []
+      return [prose.text.primary]
+    })
+    expect(proseTexts).toEqual(
+      expect.arrayContaining([
+        'Text temporal-chapter',
+        'Text fixed-date-additional-chapter',
+        'Text weekday-chapter',
+      ]),
+    )
+  })
+
+  it('uses resolve-step calendar override instead of context liturgicalCalendar', async () => {
+    const date = new Date('2026-02-10T12:00:00Z')
+    const liturgicalMap = {
+      temporal: {},
+      fixedDates: { '02-10': { primary: 'temporal-chapter' } },
+      feasts: {},
+      novenas: {},
+      reserves: [],
+    }
+
+    const context = makeContext({
+      date,
+      cycleData: { 'liturgical-map': liturgicalMap as never },
+      liturgicalCalendar: 'of',
+    })
+    const ec: EngineContext = {
+      ...makeEngineContext(),
+      t: (key, options) => `${key}:${JSON.stringify(options ?? {})}`,
+    }
+
+    const result = await resolveFlowAsync(
+      flowDef({
+        resolve: [
+          {
+            source: 'liturgical',
+            dataType: 'liturgical-meditation-map',
+            data: 'liturgical-map',
+            calendar: 'ef',
+            strategy: 'liturgical-day',
+            as: 'meditations',
+          },
+        ],
+        sections: [{ type: 'heading', text: { 'pt-BR': '{{liturgicalLabel}}' } }],
+      }),
+      context,
+      ec,
+    )
+
+    const expectedEf = getLiturgicalDayName(date, 'ef', { t: ec.t })
+    const expectedOf = getLiturgicalDayName(date, 'of', { t: ec.t })
+    expect(expectedEf).not.toBe(expectedOf)
+    expect(result).toEqual([{ type: 'heading', text: { primary: expectedEf } }])
+  })
+})
+
+describe('integration: meditacoes-ligorio canonical flow', () => {
+  it('uses resolve array data and renders prose without legacy fixed-slot placeholders', async () => {
+    const context = makeContext({
+      date: new Date('2026-04-12T12:00:00Z'),
+      cycleData: { 'liturgical-map': liguoriLiturgicalMapFixture as never },
+      liturgicalCalendar: 'ef',
+    })
+
+    const engineContext: EngineContext = {
+      ...makeEngineContext(),
+      language: 'en-US',
+      contentLanguage: 'en-US',
+      localize: (text) => {
+        if (typeof text === 'string') return { primary: text }
+        return { primary: text['en-US'] ?? text['pt-BR'] ?? '' }
+      },
+      getBookLanguages: () => ['pt-BR'],
+      getBookChapterTitle: (_book, chapter) => `Title ${chapter}`,
+      loadBookChapterTextAsync: async (_book, chapter, lang) =>
+        lang === 'pt-BR' ? { 'pt-BR': `Text ${chapter}` } : undefined,
+    }
+
+    const result = await resolveFlowAsync(
+      liguoriFlowFixture as unknown as FlowDefinition,
+      context,
+      engineContext,
+    )
+
+    const serialized = JSON.stringify(result)
+    expect(serialized).not.toContain('{{')
+    expect(serialized).not.toContain('feastLabel')
+    expect(serialized).not.toContain('meditation-feast')
+
+    const meditationOptions = result.find((section) => section.type === 'options')
+    if (meditationOptions?.type === 'options') {
+      expect(meditationOptions.options.length).toBeGreaterThan(0)
+      for (const option of meditationOptions.options) {
+        expect(option.sections.length).toBe(1)
+        const prose = option.sections[0]
+        expect(prose.type).toBe('prose')
+        if (prose.type !== 'prose') throw new Error('Expected prose option section')
+        expect(prose.text.primary).toContain('Text ')
+      }
+      return
+    }
+
+    const proseSections = result.filter((section) => section.type === 'prose')
+    expect(proseSections.length).toBeGreaterThan(0)
+    for (const section of proseSections) {
+      if (section.type !== 'prose') continue
+      expect(section.text.primary).toContain('Text ')
+    }
+  })
+
+  it('renders both temporal and monthly-25th meditations on May 25', async () => {
+    const context = makeContext({
+      date: new Date('2026-05-25T12:00:00Z'),
+      cycleData: { 'liturgical-map': liguoriLiturgicalMapFixture as never },
+      liturgicalCalendar: 'of',
+    })
+
+    const engineContext: EngineContext = {
+      ...makeEngineContext(),
+      language: 'pt-BR',
+      contentLanguage: 'pt-BR',
+      getBookChapterTitle: (_book, chapter) => `Title ${chapter}`,
+      loadBookChapterTextAsync: async (_book, chapter) => ({ 'pt-BR': `Text ${chapter}` }),
+    }
+
+    const result = await resolveFlowAsync(
+      liguoriFlowFixture as unknown as FlowDefinition,
+      context,
+      engineContext,
+    )
+    const meditationOptions = result.find((section) => section.type === 'options')
+    expect(meditationOptions).toBeDefined()
+    if (!meditationOptions || meditationOptions.type !== 'options') {
+      throw new Error('Expected options section with multiple meditations')
+    }
+    expect(meditationOptions.options.length).toBeGreaterThanOrEqual(2)
   })
 })
 
@@ -1202,10 +1443,14 @@ describe('resolveFlow — flow.data', () => {
 
 describe('resolveFlow — dynamic prose (book + chapter)', () => {
   function ecWithBookLoader(
-    loader: (book: string, chapter: string) => { 'pt-BR'?: string } | undefined,
+    loader: (book: string, chapter: string, lang: string) => { 'pt-BR'?: string } | undefined,
   ): EngineContext {
     const ec = makeEngineContext()
-    ;(ec as Record<string, unknown>).loadBookChapterText = loader
+    ;(ec as Record<string, unknown>).loadBookChapterText = (
+      book: string,
+      chapter: string,
+      lang: string,
+    ) => loader(book, chapter, lang)
     return ec
   }
 
@@ -1250,6 +1495,35 @@ describe('resolveFlow — dynamic prose (book + chapter)', () => {
         ecWithBookLoader(() => undefined),
       ),
     ).toEqual([])
+  })
+
+  it('supports book-default language fallback policy', () => {
+    const ec = makeEngineContext()
+    ec.language = 'en-US'
+    ec.contentLanguage = 'en-US'
+    ec.localize = (text) => {
+      if (typeof text === 'string') return { primary: text }
+      return { primary: text['en-US'] ?? text['pt-BR'] ?? '' }
+    }
+    ;(ec as Record<string, unknown>).getBookLanguages = () => ['pt-BR']
+    ;(ec as Record<string, unknown>).loadBookChapterText = (
+      _book: string,
+      _chapter: string,
+      lang: string,
+    ) => (lang === 'pt-BR' ? { 'pt-BR': 'Texto carregado' } : undefined)
+
+    expect(
+      resolveFlow(
+        flow({
+          type: 'prose',
+          book: 'meditacoes-ligorio',
+          chapter: 'capitulo',
+          langPolicy: 'book-default',
+        }),
+        makeContext(),
+        ec,
+      ),
+    ).toEqual([{ type: 'prose', text: { primary: 'Texto carregado' } }])
   })
 
   it('static prose still works alongside dynamic prose', () => {

@@ -5,24 +5,23 @@ import { computeEaster, normalizeDate } from './season'
 
 // ── Types ──
 
-export type MeditationEntry = {
+export type DayMapEntry = {
   primary: string
   secondary?: string
 }
 
-export type LiturgicalMeditationMap = {
-  temporal: Record<string, MeditationEntry>
-  fixedDates: Record<string, MeditationEntry>
-  feasts: Record<string, MeditationEntry>
-  novenas: Record<string, MeditationEntry>
-  appendix: Record<string, MeditationEntry>
+export type LiturgicalDayMap = {
+  temporal: Record<string, DayMapEntry>
+  fixedDates: Record<string, DayMapEntry>
+  feasts: Record<string, DayMapEntry>
+  novenas: Record<string, DayMapEntry>
+  weekdaysOfMonths?: Record<string, DayMapEntry>
   reserves: string[]
 }
 
-export type ResolvedMeditation = {
-  temporal?: { chapterId: string; secondary?: string }
-  feast?: { chapterId: string; secondary?: string }
-  source: 'temporal' | 'fixed-date' | 'feast' | 'novena'
+export type ResolvedDayEntry = {
+  id: string
+  category: 'feast' | 'temporal' | 'additional'
 }
 
 // ── Helpers ──
@@ -31,6 +30,47 @@ function formatDateKey(date: Date): string {
   const m = String(date.getMonth() + 1).padStart(2, '0')
   const d = String(date.getDate()).padStart(2, '0')
   return `${m}-${d}`
+}
+
+const ordinalLabels = ['1st', '2nd', '3rd', '4th', '5th'] as const
+const weekdayLabels = [
+  'sunday',
+  'monday',
+  'tuesday',
+  'wednesday',
+  'thursday',
+  'friday',
+  'saturday',
+] as const
+const monthLabels = [
+  'january',
+  'february',
+  'march',
+  'april',
+  'may',
+  'june',
+  'july',
+  'august',
+  'september',
+  'october',
+  'november',
+  'december',
+] as const
+
+function getWeekdayOfMonthKey(date: Date): string {
+  const ordinalIndex = Math.floor((date.getDate() - 1) / 7)
+  const ordinal = ordinalLabels[ordinalIndex]
+  const weekday = weekdayLabels[date.getDay()]
+  const month = monthLabels[date.getMonth()]
+  return `${ordinal}-${weekday}-of-${month}`
+}
+
+function getReserveFallbackChapter(date: Date, map: LiturgicalDayMap): string | undefined {
+  if (map.reserves.length === 0) return undefined
+  const yearStart = new Date(date.getFullYear(), 0, 1)
+  const dayOfYear = differenceInCalendarDays(normalizeDate(date), normalizeDate(yearStart))
+  const index = ((dayOfYear % map.reserves.length) + map.reserves.length) % map.reserves.length
+  return map.reserves[index]
 }
 
 /**
@@ -93,87 +133,105 @@ function is3rdSundayOfJuly(date: Date): boolean {
   return dayOfMonth >= 15 && dayOfMonth <= 21
 }
 
+function expandEntry(
+  entry: DayMapEntry | undefined,
+  category: ResolvedDayEntry['category'],
+): ResolvedDayEntry[] {
+  if (!entry) return []
+  const result: ResolvedDayEntry[] = [{ id: entry.primary, category }]
+  if (entry.secondary) result.push({ id: entry.secondary, category })
+  return result
+}
+
 // ── Main resolver ──
 
-export function resolveLiturgicalMeditation(
-  date: Date,
-  map: LiturgicalMeditationMap,
-): ResolvedMeditation {
+export function resolveLiturgicalDay(date: Date, map: LiturgicalDayMap): ResolvedDayEntry[] {
   const dateKey = formatDateKey(date)
 
-  // Step 1: Resolve the temporal meditation
+  // Step 1: Resolve the temporal entry
 
-  // 1a. Check fixed dates (Dec 16-31, Jan 1-10, etc.)
   const fixedEntry = map.fixedDates[dateKey]
-  let temporal: ResolvedMeditation['temporal']
-  let source: ResolvedMeditation['source'] = 'temporal'
+  let temporalEntry: DayMapEntry | undefined
 
-  if (fixedEntry) {
-    temporal = { chapterId: fixedEntry.primary, secondary: fixedEntry.secondary }
-    source = 'fixed-date'
-  } else {
-    // 1b. Check novenas (these replace temporal on their days)
-    const christmasDay = getChristmasNovenaDay(date)
-    if (christmasDay !== undefined) {
-      const novenaEntry = map.novenas[`christmas/${christmasDay}`]
-      if (novenaEntry) {
-        temporal = { chapterId: novenaEntry.primary, secondary: novenaEntry.secondary }
-        source = 'novena'
-      }
-    }
+  // 1a. Check novenas (these replace temporal on their days)
+  const christmasDay = getChristmasNovenaDay(date)
+  if (christmasDay !== undefined) {
+    temporalEntry = map.novenas[`christmas/${christmasDay}`]
+  }
 
-    if (!temporal) {
-      const holySpiritDay = getHolySpiritNovenaDay(date)
-      if (holySpiritDay !== undefined) {
-        const novenaEntry = map.novenas[`holy-spirit/${holySpiritDay}`]
-        if (novenaEntry) {
-          temporal = { chapterId: novenaEntry.primary, secondary: novenaEntry.secondary }
-          source = 'novena'
-        }
-      }
+  if (!temporalEntry) {
+    const holySpiritDay = getHolySpiritNovenaDay(date)
+    if (holySpiritDay !== undefined) {
+      temporalEntry = map.novenas[`holy-spirit/${holySpiritDay}`]
     }
+  }
 
-    if (!temporal) {
-      const sacredHeartDay = getSacredHeartNovenaDay(date)
-      if (sacredHeartDay !== undefined) {
-        const novenaEntry = map.novenas[`sacred-heart/${sacredHeartDay}`]
-        if (novenaEntry) {
-          temporal = { chapterId: novenaEntry.primary, secondary: novenaEntry.secondary }
-          source = 'novena'
-        }
-      }
+  if (!temporalEntry) {
+    const sacredHeartDay = getSacredHeartNovenaDay(date)
+    if (sacredHeartDay !== undefined) {
+      temporalEntry = map.novenas[`sacred-heart/${sacredHeartDay}`]
     }
+  }
 
-    // 1c. Fall back to temporal cycle
-    if (!temporal) {
-      const pos = getEfLiturgicalPosition(date)
-      const temporalEntry = map.temporal[pos.key]
-      if (temporalEntry) {
-        temporal = { chapterId: temporalEntry.primary, secondary: temporalEntry.secondary }
-      }
-    }
+  // 1b. Fall back to temporal cycle
+  if (!temporalEntry) {
+    const pos = getEfLiturgicalPosition(date)
+    temporalEntry = map.temporal[pos.key]
+  }
+
+  // 1c. Last-resort fallback from reserve pool for uncovered calendar holes.
+  if (!temporalEntry) {
+    const reserve = getReserveFallbackChapter(date, map)
+    if (reserve) temporalEntry = { primary: reserve }
+  }
+
+  // 1d. If temporal is still missing, use fixed-date content as fallback.
+  if (!temporalEntry && fixedEntry) {
+    temporalEntry = fixedEntry
   }
 
   // Step 2: Check for feast day
   // Movable feasts take precedence over fixed-date feasts
-  let feast: ResolvedMeditation['feast']
+  let feastEntry: DayMapEntry | undefined
 
   if (isSundayBeforeJun24(date)) {
-    const entry = map.feasts['movable/sunday-before-jun-24']
-    if (entry) feast = { chapterId: entry.primary, secondary: entry.secondary }
+    feastEntry = map.feasts['movable/sunday-before-jun-24']
   }
-  if (!feast && is3rdSundayOfJuly(date)) {
-    const entry = map.feasts['movable/3rd-sunday-july']
-    if (entry) feast = { chapterId: entry.primary, secondary: entry.secondary }
+  if (!feastEntry && is3rdSundayOfJuly(date)) {
+    feastEntry = map.feasts['movable/3rd-sunday-july']
   }
-
-  // Fixed-date feasts
-  if (!feast) {
-    const feastEntry = map.feasts[dateKey]
-    if (feastEntry) {
-      feast = { chapterId: feastEntry.primary, secondary: feastEntry.secondary }
-    }
+  if (!feastEntry) {
+    feastEntry = map.feasts[dateKey]
   }
 
-  return { temporal, feast, source }
+  // Step 3: Collect additional entries (deduplicated against temporal)
+  const additionalEntries: DayMapEntry[] = []
+  const pushAdditional = (entry: DayMapEntry | undefined): void => {
+    if (!entry) return
+    if (
+      temporalEntry &&
+      temporalEntry.primary === entry.primary &&
+      temporalEntry.secondary === entry.secondary
+    )
+      return
+    if (
+      additionalEntries.some(
+        (existing) => existing.primary === entry.primary && existing.secondary === entry.secondary,
+      )
+    )
+      return
+    additionalEntries.push(entry)
+  }
+
+  pushAdditional(fixedEntry)
+
+  const weekdayOfMonthKey = getWeekdayOfMonthKey(date)
+  pushAdditional(map.weekdaysOfMonths?.[weekdayOfMonthKey])
+
+  // Build flat array: feast first, then temporal, then additional
+  return [
+    ...expandEntry(feastEntry, 'feast'),
+    ...expandEntry(temporalEntry, 'temporal'),
+    ...additionalEntries.flatMap((e) => expandEntry(e, 'additional')),
+  ]
 }

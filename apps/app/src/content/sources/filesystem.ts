@@ -85,6 +85,13 @@ async function readJson<T>(path: string): Promise<T | undefined> {
   }
 }
 
+async function loadPracticeFlow(
+  base: string,
+  manifest: PracticeManifest,
+): Promise<FlowDefinition | undefined> {
+  return readJson<FlowDefinition>(`${base}/${manifest.flow}`)
+}
+
 async function loadPractice(
   bookDirUri: string,
   practiceId: string,
@@ -101,9 +108,12 @@ async function loadPractice(
   const promises: Promise<void>[] = []
 
   promises.push(
-    readJson<FlowDefinition>(`${base}/${manifest.flow}`).then((def) => {
-      if (def) flows.set(practiceId, def)
-    }),
+    (async () => {
+      const loadedFlow = await loadPracticeFlow(base, manifest)
+      if (!loadedFlow) return
+
+      flows.set(practiceId, loadedFlow)
+    })(),
   )
 
   if (manifest.data) {
