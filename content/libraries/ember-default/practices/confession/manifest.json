@@ -42,15 +42,6 @@
 				},
 				"tier": "ideal",
 				"enabled": false
-			},
-			{
-				"schedule": {
-					"type": "times-per",
-					"count": 1,
-					"period": "month"
-				},
-				"tier": "ideal",
-				"enabled": false
 			}
 		]
 	}

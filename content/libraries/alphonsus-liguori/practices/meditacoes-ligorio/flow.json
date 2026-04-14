@@ -1,7 +1,11 @@
 {
+	"flowVersion": "1",
 	"resolve": [
 		{
 			"data": "liturgical-map",
+			"source": "liturgical",
+			"dataType": "liturgical-meditation-map",
+			"calendar": "ef",
 			"strategy": "liturgical-day",
 			"as": "meditations",
 			"book": "meditacoes-ligorio"
@@ -116,7 +120,8 @@
 				{
 					"type": "prose",
 					"book": "meditacoes-ligorio",
-					"chapter": "{{chapterId}}"
+					"chapter": "{{chapterId}}",
+					"langPolicy": "book-default"
 				}
 			]
 		},

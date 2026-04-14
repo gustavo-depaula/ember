@@ -38,12 +38,16 @@ export type RepeatEntry = Record<string, string | LocalizedText | undefined>
 
 export type ResolveStep = {
   data: string
+  source?: string
+  dataType?: string
+  calendar?: 'ef' | 'of'
   strategy: string
   as: string
   book?: string
 }
 
 export type FlowDefinition = {
+  flowVersion?: '1'
   data?: Record<string, RepeatEntry[]>
   resolve?: ResolveStep[]
   sections: FlowSection[]
@@ -94,7 +98,12 @@ export type FlowSection =
   | { type: 'psalmody'; psalms: (number | string)[] }
   | { type: 'lectio'; track: string }
   | { type: 'prose'; file: string }
-  | { type: 'prose'; book: string; chapter: string }
+  | {
+      type: 'prose'
+      book: string
+      chapter: string
+      langPolicy?: 'active-language' | 'fallback-content-language' | 'book-default'
+    }
   | {
       type: 'select'
       on?: string

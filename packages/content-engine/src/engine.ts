@@ -1,9 +1,9 @@
 import {
   getLiturgicalDayName,
-  type LiturgicalMeditationMap,
+  type LiturgicalDayMap,
   type PsalmRef,
   type ReadingReference,
-  resolveLiturgicalMeditation,
+  resolveLiturgicalDay,
 } from '@ember/liturgical'
 import { getDate, getDay } from 'date-fns'
 import type {
@@ -54,6 +54,7 @@ export type EngineContext = {
     chapter: string,
     lang: string,
   ) => Promise<LocalizedContent | undefined>
+  getBookLanguages?: (book: string) => string[]
 }
 
 export type FlowContext = {
@@ -561,9 +562,13 @@ function resolveSection(
         const chapter = section.chapter
         if (!chapter) return []
         if (!ec.loadBookChapterText) return []
-        const text = ec.loadBookChapterText(section.book, chapter, ec.language)
-        if (!text) return []
-        return [{ type: 'prose', text: ec.localize(text) }]
+        const policy = section.langPolicy ?? 'active-language'
+        const languageCandidates = resolveLanguageCandidates(ec, section.book, policy)
+        for (const language of languageCandidates) {
+          const text = ec.loadBookChapterText(section.book, chapter, language)
+          if (text) return [{ type: 'prose', text: ec.localize(text) }]
+        }
+        return []
       }
       const proseText = context.resolvedProse?.[section.file] ?? ec.prose[section.file]
       if (!proseText) {
@@ -701,9 +706,9 @@ type ResolveExecutionResult = {
   dynamicBookChapters: { book: string; chapterId: string }[]
 }
 
-function isLiturgicalMeditationMap(value: unknown): value is LiturgicalMeditationMap {
+function isLiturgicalDayMap(value: unknown): value is LiturgicalDayMap {
   if (!value || typeof value !== 'object') return false
-  const map = value as Partial<LiturgicalMeditationMap>
+  const map = value as Partial<LiturgicalDayMap>
   return (
     typeof map.temporal === 'object' &&
     map.temporal !== null &&
@@ -713,8 +718,8 @@ function isLiturgicalMeditationMap(value: unknown): value is LiturgicalMeditatio
     map.feasts !== null &&
     typeof map.novenas === 'object' &&
     map.novenas !== null &&
-    typeof map.appendix === 'object' &&
-    map.appendix !== null &&
+    (map.weekdaysOfMonths === undefined ||
+      (typeof map.weekdaysOfMonths === 'object' && map.weekdaysOfMonths !== null)) &&
     Array.isArray(map.reserves)
   )
 }
@@ -724,27 +729,20 @@ function runResolveStrategy(
   context: FlowContext,
   ec: EngineContext,
 ): { entries: RepeatEntry[]; templateVars?: Record<string, string> } {
+  if (step.source && step.source !== 'liturgical') return { entries: [] }
+  if (step.dataType && step.dataType !== 'liturgical-meditation-map') return { entries: [] }
   if (step.strategy !== 'liturgical-day') return { entries: [] }
 
   const map = context.cycleData?.[step.data]
-  if (!isLiturgicalMeditationMap(map)) return { entries: [] }
+  if (!isLiturgicalDayMap(map)) return { entries: [] }
 
-  const resolved = resolveLiturgicalMeditation(context.date, map)
-  const entries: RepeatEntry[] = []
+  const entries: RepeatEntry[] = resolveLiturgicalDay(context.date, map).map((e) => ({
+    chapterId: e.id,
+    category: e.category,
+  }))
 
-  const pushEntry = (
-    category: 'feast' | 'temporal',
-    chapterId?: string,
-    secondary?: string,
-  ): void => {
-    if (chapterId) entries.push({ chapterId, category })
-    if (secondary) entries.push({ chapterId: secondary, category })
-  }
-
-  pushEntry('feast', resolved.feast?.chapterId, resolved.feast?.secondary)
-  pushEntry('temporal', resolved.temporal?.chapterId, resolved.temporal?.secondary)
-
-  const form = context.liturgicalCalendar === 'of' ? 'of' : 'ef'
+  // FIXME: fix at the root cause in FlowContext
+  const form = step.calendar || (context.liturgicalCalendar as 'ef' | 'of') || ('ef' as const)
   const liturgicalLabel = getLiturgicalDayName(context.date, form, { t: ec.t })
 
   return { entries, templateVars: { liturgicalLabel } }
@@ -800,6 +798,26 @@ function chapterCacheKey(book: string, chapter: string): string {
   return `${book}::${chapter}`
 }
 
+function assertSupportedFlowVersion(flow: FlowDefinition): void {
+  if (!flow.flowVersion || flow.flowVersion === '1') return
+  throw new Error(`Unsupported flowVersion: ${flow.flowVersion}`)
+}
+
+function resolveLanguageCandidates(
+  ec: EngineContext,
+  book: string,
+  policy: 'active-language' | 'fallback-content-language' | 'book-default',
+): string[] {
+  const candidates = [ec.language]
+  if (policy !== 'active-language') {
+    candidates.push(ec.contentLanguage)
+  }
+  if (policy === 'book-default') {
+    candidates.push(...(ec.getBookLanguages?.(book) ?? []))
+  }
+  return Array.from(new Set(candidates.filter((lang) => Boolean(lang))))
+}
+
 function resolveFlowWithContext(
   flow: FlowDefinition,
   ctx: FlowContext,
@@ -828,6 +846,8 @@ export function resolveFlow(
   context: FlowContext,
   engineContext: EngineContext,
 ): RenderedSection[] {
+  assertSupportedFlowVersion(flow)
+
   // Inject flow.data into flowData (flow.data is lower priority than context.flowData)
   let ctx = context
   if (flow.data) {
@@ -842,6 +862,8 @@ export async function resolveFlowAsync(
   context: FlowContext,
   engineContext: EngineContext,
 ): Promise<RenderedSection[]> {
+  assertSupportedFlowVersion(flow)
+
   let ctx = context
   if (flow.data) {
     ctx = { ...ctx, flowData: { ...flow.data, ...ctx.flowData } }
@@ -866,14 +888,26 @@ export async function resolveFlowAsync(
   )
 
   for (const request of uniqueRequests) {
-    const loaded = engineContext.loadBookChapterTextAsync
-      ? await engineContext.loadBookChapterTextAsync(
-          request.book,
-          request.chapterId,
-          engineContext.language,
-        )
-      : engineContext.loadBookChapterText?.(request.book, request.chapterId, engineContext.language)
-    if (loaded) chapterCache.set(chapterCacheKey(request.book, request.chapterId), loaded)
+    const cached: LocalizedContent = {}
+    const preloadLanguages = resolveLanguageCandidates(engineContext, request.book, 'book-default')
+
+    for (const preloadLanguage of preloadLanguages) {
+      const loaded = engineContext.loadBookChapterTextAsync
+        ? await engineContext.loadBookChapterTextAsync(
+            request.book,
+            request.chapterId,
+            preloadLanguage,
+          )
+        : engineContext.loadBookChapterText?.(request.book, request.chapterId, preloadLanguage)
+      if (!loaded) continue
+      for (const [lang, text] of Object.entries(loaded)) {
+        if (text) (cached as Record<string, string>)[lang] = text
+      }
+    }
+
+    if (Object.keys(cached).length > 0) {
+      chapterCache.set(chapterCacheKey(request.book, request.chapterId), cached)
+    }
   }
 
   const hydratedEngineContext: EngineContext = {

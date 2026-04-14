@@ -91,6 +91,10 @@ export function createEngineContext(
       if (!title) return undefined
       return title[lang] ?? title['pt-BR'] ?? title['en-US'] ?? Object.values(title)[0]
     },
+    getBookLanguages: (book) => {
+      if (!libraryId) return []
+      return getBookEntry(book, libraryId)?.languages ?? []
+    },
     loadBookChapterTextAsync: async (book, chapter, lang) => {
       if (!libraryId) return undefined
       const text = await loadBookChapterText(libraryId, book, chapter, lang)

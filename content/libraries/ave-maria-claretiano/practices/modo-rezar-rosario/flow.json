@@ -2,8 +2,18 @@
 	"sections": [
 		{
 			"type": "select",
+			"on": "dayOfWeek",
 			"label": {
 				"pt-BR": "Forma"
+			},
+			"map": {
+				"0": "gloriosos",
+				"1": "gozosos",
+				"2": "dolorosos",
+				"3": "gloriosos",
+				"4": "gozosos",
+				"5": "dolorosos",
+				"6": "gozosos"
 			},
 			"options": [
 				{
