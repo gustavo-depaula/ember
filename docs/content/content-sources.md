@@ -8,7 +8,7 @@
 | Bible (NABRE, RSV) | Bolls.life API | Free, no auth | REST API | Cached after first fetch |
 | Catechism (CCC) | `nossbigg/catechism-ccc-json` (GitHub) | Scraped from Vatican | JSON | Yes (bundled) |
 | Psalter & Hymns | `divinumofficium/divinum-officium` (GitHub) | MIT | Custom text -> JSON | Yes (bundled) |
-| EF Mass Propers | Missale Meum API (`missalemeum.com`) | Open source | REST JSON | Cached after fetch |
+| EF Mass Propers | Divinum Officium (bundled) | MIT | Bundled JSON | Yes (bundled) |
 | OF Daily Readings | Evangelizo (`feed.evangelizo.org`) | Free | HTTP | Cached after fetch |
 | Liturgical Calendar | Catholic Readings API (GitHub Pages) | MIT | REST JSON | Cached after fetch |
 
@@ -152,7 +152,9 @@ These are well-known prayers that don't need an external source — just bundle 
 
 **Cycles:** Sundays use a 3-year rotation (A/B/C, determined by `year % 3`). Weekdays use a 2-year rotation (I/II, odd/even years, affecting First Reading only). Sanctoral cycle runs simultaneously — higher-ranked feasts override weekday readings.
 
-### Missale Meum API (EF Complete Propers)
+### Missale Meum API (Historical Reference)
+
+> **Note:** EF propers are now bundled from Divinum Officium data parsed at build time (see Current Implementation below). The Missale Meum API was used previously and is documented here for reference.
 
 - **Base URL:** `https://www.missalemeum.com/{lang}/api/v5/proper/{YYYY-MM-DD}`
 - **Docs:** https://www.missalemeum.com/docs (Swagger) / https://www.missalemeum.com/redoc
@@ -243,7 +245,7 @@ The app should include an attribution/credits screen listing:
 2. "Online translations provided by Bolls.life."
 3. "Catechism of the Catholic Church, copyright Libreria Editrice Vaticana."
 4. "Liturgical texts from Divinum Officium (MIT License)."
-5. "Traditional Mass propers from Missale Meum (missalemeum.com), powered by Divinum Officium."
+5. "Traditional Mass propers parsed from Divinum Officium (MIT License)."
 6. "Liturgical calendar data from Catholic Readings API (MIT License)."
 7. "Daily readings provided by Evangelizo.org."
 8. Links to the GitHub repositories used.

@@ -250,17 +250,17 @@ Uses `resolveLiturgicalMeditation(date, map)` from `@ember/liturgical`. The data
 ```typescript
 type LiturgicalMeditationMap = {
   temporal: Record<string, MeditationEntry>    // "advent/1/0" → entry
-  fixedDates: Record<string, MeditationEntry>  // "12-25" → entry
+  fixedDates: Record<string, MeditationEntry>  // "12-25", "01-25", ...
   feasts: Record<string, MeditationEntry>      // "01-06" or "movable/..." → entry
   novenas: Record<string, MeditationEntry>     // "christmas/1", "holy-spirit/3" → entry
-  appendix: Record<string, MeditationEntry>
+  weekdaysOfMonths?: Record<string, MeditationEntry> // "1st-friday-of-january", "3rd-monday-of-february"
   reserves: string[]
 }
 
 type MeditationEntry = { primary: string; secondary?: string }
 ```
 
-Resolution priority: fixedDates → novenas (Christmas, Holy Spirit, Sacred Heart) → temporal cycle. Feast days are resolved separately (movable feasts first, then fixed-date). The algorithm handles Easter-relative computations, movable feasts, and multi-layer fallbacks.
+Resolution priority for the main temporal meditation: novenas (Christmas, Holy Spirit, Sacred Heart) → temporal cycle → reserves fallback → fixedDates fallback. Feast days are resolved separately (movable feasts first, then fixed-date). Additional meditations are merged from fixedDates (`MM-DD`) plus optional `weekdaysOfMonths` recurrence keys (`<ordinal>-<weekday>-of-<month>`). The algorithm handles Easter-relative computations, movable feasts, and multi-layer fallbacks.
 
 This algorithm already exists in `packages/liturgical/src/meditation-resolver.ts`. Moving it from a practice-specific hook into the engine makes it available to any practice that indexes content by liturgical day.
 
@@ -285,6 +285,7 @@ templateVars: {
   "resolve": [
     {
       "data": "liturgical-map",
+      "calendar": "ef",
       "strategy": "liturgical-day",
       "as": "meditations",
       "book": "meditacoes-ligorio"
@@ -305,6 +306,8 @@ templateVars: {
 ```
 
 No numbered suffixes, no brittle field mapping. The resolve produces a variable-length array; the options section generates one tab per entry. A day with no feast gets fewer tabs — no special casing needed.
+
+Resolve steps can also pin the liturgical form declaratively (`"calendar": "ef"` or `"calendar": "of"`), instead of inheriting user preference for strategy labels/behavior.
 
 ### Future strategies
 
@@ -748,6 +751,7 @@ Each practice defines its own flow with the right structure — no more clamping
   "resolve": [
     {
       "data": "liturgical-map",
+      "calendar": "ef",
       "strategy": "liturgical-day",
       "as": "meditations",
       "book": "meditacoes-ligorio"

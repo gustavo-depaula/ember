@@ -19,139 +19,214 @@
 | Bible text | Bundled JSON + Bolls.life API | Douay-Rheims offline, NABRE/RSV online with caching |
 | Catechism | Bundled JSON | From `nossbigg/catechism-ccc-json` |
 | Liturgical texts | Bundled JSON | Parsed from `divinumofficium/divinum-officium` (MIT) |
+| Content engine | `@ember/content-engine` | Practice-agnostic flow resolution — turns declarative JSON into renderable sections |
 
 ---
 
-## Screen Map
+## Content & Libraries
+
+All content in Ember — prayers, practices, books, chapters — is packaged into **libraries** distributed as `.pray` files. The app ships with no bundled practices; content is downloaded from Hearth on first launch. This is the core content architecture.
+
+### The `.pray` Format
+
+A `.pray` file is a zip archive containing a self-contained library. A library can hold any combination of:
+
+- **Prayers** — reusable prayer text assets (Our Father, Hail Mary, etc.)
+- **Practices** — schedulable prayer flows for the plan of life (Rosary, Morning Offering, Divine Office, etc.)
+- **Chapters** — read-only content rendered natively (saint bios, devotion history, formation guides)
+- **Books** — long-form prose rendered in a WebView with CSS column pagination (spiritual classics, Church documents)
 
 ```
-/                                    -> Home (greeting, time-block checklist, green wall, navigation medallions)
-/plan/                               -> Plan of Life (green wall overview + stats + practice checklist)
-/plan/[practiceId]                   -> Individual practice detail (green wall + stats)
-/pray/[practiceId]                   -> Prayer Flow (shared practice player)
-/pray/[practiceId]?hour=...          -> Prayer Flow for specific hour (office)
-/practices/                          -> Practice catalog (browse all available practices)
-/practices/[manifestId]              -> Practice catalog detail
-/practices/[manifestId]/program      -> Program detail (day navigation for novenas, etc.)
-/bible/                              -> Bible reader
-/catechism/                          -> Catechism reader
-/calendar/                           -> Liturgical calendar
-/saints/                             -> Saints feed (daily saints and commemorations)
-/settings/                           -> Settings (reading config, translation picker, theme toggle)
+montfort-spirituality-1.0.0.pray (zip)
+├── library.json                    # Library manifest
+├── prayers/
+│   └── act-of-consecration.json    # Prayer asset (title + body, multilingual)
+├── practices/
+│   └── total-consecration/
+│       ├── manifest.json           # PracticeManifest (metadata, schedule defaults)
+│       └── flow.json               # FlowDefinition (the prayer DSL)
+├── chapters/
+│   └── about-montfort/
+│       ├── chapter.json            # Chapter metadata
+│       ├── content.json            # FlowDefinition (same format as practices)
+│       ├── intro.en-US.md          # Prose sections per language
+│       └── intro.pt-BR.md
+└── books/
+    └── montfort-true-devotion/
+        ├── book.json               # Book metadata + TOC
+        ├── en-US/
+        │   ├── preface.md          # Chapter files (match TOC node IDs)
+        │   ├── part-1-ch-1.md
+        │   └── style.css           # Injected by build from ember-book.css
+        ├── pt-BR/
+        └── fr-FR/
 ```
 
-**Stack navigation** with home-as-hub: NavigationMedallion buttons on home screen, BackToHome on sub-screens
+### Library Manifest (`library.json`)
+
+```typescript
+type Library = {
+  id: string                        // Unique ID, kebab-case, matches folder name
+  version: string                   // Semver
+  name: LocalizedText
+  languages: string[]               // e.g. ["en-US", "pt-BR"]
+  practices: string[]               // Practice IDs (match dirs in practices/)
+  prayers: string[]                 // Prayer asset IDs (match files in prayers/)
+
+  description?: LocalizedText
+  author?: LocalizedText
+  tags?: string[]
+  icon?: string
+  image?: string
+  chapters?: string[]               // Chapter IDs (match dirs in chapters/)
+  books?: string[]                  // Book IDs (match dirs in books/)
+  contents?: ContentEntry[]         // Unified display ordering (interleaves all types)
+  dependencies?: string[]           // Library IDs for prayer resolution chain
+  defaults?: { autoSeed: boolean }  // If true, seed practices into plan on install
+}
+
+type ContentEntry = { type: 'chapter' | 'practice' | 'book'; id: string }
+```
+
+When `contents` is present, the library detail screen renders a unified table of contents in the specified order. When absent, it falls back to separate sections.
+
+### Book Manifest (`book.json`)
+
+```typescript
+type BookManifest = {
+  id: string
+  name: LocalizedText
+  author?: LocalizedText
+  description?: LocalizedText
+  composed?: number | string        // Year or "c. 1418", "15th century"
+  languages: string[]
+  sources?: { language: string; url: string; description: string }[]
+  toc: TocNode[]                    // Table of contents
+}
+
+type TocNode = {
+  id: string                        // Matches chapter filename (without extension)
+  title: LocalizedText
+  children?: TocNode[]              // Present = group node, absent = leaf (chapter file)
+}
+```
+
+Book chapters are raw `.md` or `.html` files in per-language directories. Markdown is converted at runtime via `marked` + `marked-footnote`. `ember-book.css` is copied to each language dir by the build script.
+
+### Three Library Archetypes
+
+| Archetype | Example | Contains |
+|-----------|---------|----------|
+| Pure practice | ember-default | prayers + practices (no books) |
+| Pure book | alphonsus-liguori | books + 1 practice |
+| Mixed | montfort-spirituality | books + chapters + practices + prayers |
+
+### Current Libraries
+
+| Library | Practices | Books | Chapters | Prayers | Languages |
+|---------|-----------|-------|----------|---------|-----------|
+| ember-default | 33 | — | — | 22 | EN, PT |
+| ember-extra | 21 | — | — | — | EN, PT |
+| ember-novenas | 14 | — | — | 1 | EN, PT |
+| alphonsus-liguori | 1 | 9 | — | — | PT, IT, FR |
+| montfort-spirituality | 1 | 7 | 1 | 1 | FR, EN, PT |
+| sacred-heart | 4 | — | 5 | 3 | EN, PT |
+| ave-maria-claretiano | 8 | — | 3 | 22 | PT |
+| litanies | 9 | — | 2 | — | EN, PT |
+| **Total** | **91** | **16** | **11** | **49** | |
+
+### Content Resolution
+
+`ContentRegistry` (`apps/app/src/content/registry.ts`) replaces direct imports. It aggregates all installed libraries into a unified view:
+
+```typescript
+import { getManifest, loadFlowForSlot } from '@/content/registry'
+```
+
+Prayer asset resolution follows a chain: **library-local** → **dependencies** → **global pool** (ember-default serves as the common prayer source).
+
+`EngineContext` (`apps/app/src/content/engineContext.ts`) wires app dependencies (prayer loader, localizer, content source) into the content engine for flow resolution.
+
+### Content Distribution (Hearth)
+
+Hearth is a GitHub Pages-hosted static file server that serves all downloadable content.
+
+**Base URL:** `https://ember.dpgu.me/hearth/`
+
+| Asset | Path | Format |
+|-------|------|--------|
+| Libraries (.pray) | `hearth/v1/libraries/` | .pray (zip) + `registry.json` |
+| Bible (DRB) | `hearth/v1/bible/drb/` | 74 JSON files |
+| EF Mass propers | `hearth/v1/propers/` | 634 JSON files |
+| Catechism (CCC) | `hearth/v1/catechism/ccc.json` | 1 JSON file |
+| Saints images | `hearth/v1/saints/` | PNG + WebP |
+
+**Build pipeline:** `scripts/build-libraries.sh` zips each `content/libraries/{id}/` into `{id}-{version}.pray`, generates `registry.json` with metadata and content hashes. `.github/workflows/deploy.yml` copies all assets and deploys to GitHub Pages.
+
+**First launch flow:** Fetch `registry.json` → download `ember-default` → install → seed practices into plan of life → navigate to home. Requires connectivity on first launch.
+
+**Source directories** (committed, copied to Hearth at deploy):
+
+| Source | Hearth destination |
+|--------|--------------------|
+| `content/libraries/` | `hearth/v1/libraries/` (zipped into .pray) |
+| `content/bible/drb/` | `hearth/v1/bible/drb/` |
+| `content/propers/` | `hearth/v1/propers/` |
+| `content/catechism/` | `hearth/v1/catechism/` |
+| `content/saints/` | `hearth/v1/saints/` (+ WebP conversion) |
+
+The `v1/` prefix allows future breaking schema changes without breaking old app versions.
 
 ---
 
-## Data Model (V2 — 4-table schema)
+## Data Model (8-table schema)
 
-All data in SQLite. No AsyncStorage. Manifests define content, the DB stores only user data.
+All user data in SQLite. No AsyncStorage. Manifests define content; the DB stores only what the user chose and did.
 
 | Table | Purpose |
 |-------|---------|
-| `user_practices` | Plan-of-life configuration (tier, time block, schedule as JSON, variant) |
+| `user_practices` | Thin practice definitions — custom name, icon, description, archived flag |
+| `user_practice_slots` | Per-slot configuration — enabled, sort order, tier, time block, schedule (JSON), notifications |
 | `completions` | Event log with `sub_id` for multi-hour/multi-day detail |
 | `cursors` | Schemaless JSON reading positions (Divine Office tracks, Bible, programs) |
 | `preferences` | KV store for all user settings |
 | `cached_translations` | Offline cache for online Bible translations |
+| `cache` | Generic cache for API responses and Hearth content |
+| `installed_books` | Installed library packages — version, manifest, content hash |
 
-Schedule is a discriminated union JSON field supporting 6 types: `daily`, `days-of-week`, `day-of-month`, `nth-weekday`, `times-per`, `fixed-program`. Any schedule can be season-gated.
+Schedule is a discriminated union JSON field on `user_practice_slots` supporting 6 types: `daily`, `days-of-week`, `day-of-month`, `nth-weekday`, `times-per`, `fixed-program`. Any schedule can be season-gated.
 
-See [features-overview.md](features/features-overview.md#data-model-v2) for full schema, design rationale, and schedule types.
+See `apps/app/src/db/migrations/0001_initial.sql` for the full schema.
 
 ---
 
 ## Storage Strategy
 
 ### expo-sqlite (all persistent data)
-- `user_practices` — plan-of-life configuration
+- `user_practices` + `user_practice_slots` — plan-of-life configuration
 - `completions` — practice completion event log
-- `cursors` — reading positions (Divine Office tracks, Bible position, Catechism position)
+- `cursors` — reading positions (Divine Office tracks, Bible, Catechism, programs)
 - `preferences` — all user settings (theme, translation, font config, etc.)
 - `cached_translations` — offline cache for online Bible translations
+- `cache` — Hearth content + API responses (propers, images, etc.)
+- `installed_books` — installed library tracking
 
-### Hearth Content (fetched on demand, cached in SQLite)
-- `content/bible/drb/` — Douay-Rheims JSON files (one per book, 73 files)
-- `content/catechism/ccc.json` — Full CCC structured by paragraphs
-- `content/propers/` — EF Mass propers (tempora + sancti, 634 files)
-- `content/saints/` — Saint PNG images (14 files, served as WebP)
-
-The app fetches these from Hearth (`https://ember.dpgu.me/hearth/v1/`) on demand via `apps/app/src/lib/hearth.ts` and caches them in the SQLite `cache` table. First access requires network.
+### Library files (expo-file-system)
+- `.pray` archives extracted to `documentDirectory/books/{libraryId}/`
+- Book chapters (`.md`/`.html`) read from disk at runtime
+- Prayer/practice/chapter JSON loaded from extracted library dirs
 
 ### Bundled Assets (read-only, app-only)
-- `apps/app/src/assets/prayers/` — Fixed prayer texts (Our Father, canticles, Marian antiphons, etc.)
 - `apps/app/assets/textures/` — Image-based ornament PNGs
 - `apps/app/assets/fonts/` — UnifrakturMaguntia bundled TTF
 
 ---
 
-## Hearth — Static Content Platform
+## Content Fetching & Stores
 
-Hearth is a GitHub Pages-hosted static file server that serves bundled content assets at stable URLs. The hearth sustains the ember — it's the content source that feeds the app.
+All content (Bible, Catechism, Mass propers, saints images) is fetched on demand from Hearth and cached in SQLite. Bolls.life API is used for non-DRB Bible translations. Cache aggressively — once fetched, it works offline.
 
-**Base URL:** `https://ember.dpgu.me/hearth/`
-
-### What Hearth serves
-
-| Asset | Path | Size | Files |
-|-------|------|------|-------|
-| Bible (DRB) | `hearth/v1/bible/drb/` | 4.7MB | 74 JSON (one per book + index) |
-| EF Mass propers | `hearth/v1/propers/tempora/`, `hearth/v1/propers/sancti/` | 6.2MB | 634 JSON |
-| Catechism (CCC) | `hearth/v1/catechism/ccc.json` | 1.8MB | 1 JSON |
-| Saints images | `hearth/v1/saints/` | ~50MB PNG, ~5MB WebP | 14 PNG + 14 WebP (generated) |
-
-A `manifest.json` at `hearth/manifest.json` provides a file inventory with SHA-256 hashes for cache validation.
-
-The `v1/` prefix allows future breaking schema changes without breaking old app versions.
-
-### How it works
-
-- `.github/workflows/deploy.yml` copies assets from their source locations in the app, converts saint PNGs to WebP, generates the manifest, and deploys to GitHub Pages
-- Triggers on push to `main` when asset paths change, or via manual `workflow_dispatch`
-- No npm install or build step — just file copies and `cwebp`. Runs in under a minute.
-
-### Source directories (copied to Hearth at deploy time)
-
-- `content/bible/drb/` → `hearth/v1/bible/drb/`
-- `content/propers/` → `hearth/v1/propers/`
-- `content/catechism/` → `hearth/v1/catechism/`
-- `content/saints/` → `hearth/v1/saints/` (+ WebP conversion)
-
-### App integration
-
-The app fetches from Hearth on demand via `apps/app/src/lib/hearth.ts` — a thin wrapper around `fetch()` + SQLite cache (`cache` table). First access requires network; subsequent reads serve from cache.
-
----
-
-## Content Fetching Strategy
-
-```
-User selects translation in settings
-  |
-  ├── DRB (Douay-Rheims) -> Fetch from Hearth, cache in SQLite
-  |
-  └── NABRE / RSV -> Fetch from Bolls.life API
-                                  |
-                                  ├── Online -> Fetch, cache in SQLite, display
-                                  └── Offline -> Show cached version, or fallback to DRB with notice
-```
-
-All content (Bible, Catechism, Mass propers, saints images) is fetched on demand from Hearth and cached in SQLite. Bolls.life API is used for non-DRB Bible translations. Cache aggressively — once fetched, store locally so it works offline on subsequent reads.
-
----
-
-## Stores
-
-### `preferencesStore` — all user preferences
-Hydrated from `preferences` SQLite table. Includes: translation, language, liturgicalCalendar, theme, fontFamily, fontSize, lineHeight, margin, textAlign, formPreferences.
-
-### `navigationStore` — ephemeral UI state
-Not persisted. Contains: selectedDate (shared across screens).
-
-### Thin wrappers
-- `bibleStore` — reads/writes `bible-book`/`bible-chapter` preferences
-- `catechismStore` — reads/writes `catechism-paragraph` preference
+See `apps/app/src/stores/` for Zustand stores and `apps/app/src/lib/hearth.ts` for the Hearth fetch + cache client.
 
 ---
 
@@ -161,45 +236,85 @@ This is a pnpm workspaces + turborepo monorepo.
 
 ```
 ember/
+  content/                            (source files — deployed to Hearth)
+    libraries/                        (THE content source of truth)
+      ember-default/                  (core daily prayers — 33 practices, 22 prayers)
+        library.json
+        practices/
+          morning-offering/
+            manifest.json
+            flow.json
+          rosary/
+            manifest.json
+            flow.json
+          ...
+        prayers/
+          our-father.json
+          hail-mary.json
+          ...
+      montfort-spirituality/          (mixed library — books + practice + chapter)
+        library.json
+        books/
+          montfort-true-devotion/
+            book.json
+            en-US/
+            pt-BR/
+            fr-FR/
+        practices/
+          total-consecration/
+        chapters/
+          about-montfort/
+        prayers/
+      ember-novenas/                  (14 novena programs)
+      alphonsus-liguori/              (9 books + 1 practice)
+      ember-extra/                    (21 additional practices)
+      sacred-heart/                   (4 practices + 5 chapters)
+      ave-maria-claretiano/           (Portuguese devocionário)
+      litanies/                       (9 litany practices + 2 chapters)
+      registry.json                   (generated — library catalog metadata)
+      ember-book.css                  (base stylesheet for all book rendering)
+      *.pray                          (generated — built .pray archives)
+    bible/drb/                        (Douay-Rheims JSON, 73 books + index)
+    propers/                          (EF Mass propers — tempora + sancti)
+    catechism/                        (CCC JSON)
+    saints/                           (saint PNG images)
   apps/
-    app/                          (Expo app — iOS/Android/web)
+    app/                              (Expo app — iOS/Android/web)
       src/
-        app/                      (Expo Router routes — Stack navigation)
-        features/                 (feature-specific logic)
-          plan-of-life/           (schedule, checklist, stats)
-          divine-office/          (cursor management, psalm loading)
-          practices/              (PracticeFlow player, catalog)
-          home/                   (LiturgicalHeader, SeasonalContext)
-          calendar/               (liturgical calendar views)
-          saints/                 (saints cards + data)
-          bible/                  (Bible reader)
-          catechism/              (Catechism reader)
-        components/               (shared UI components)
-        stores/                   (Zustand stores)
-        db/                       (SQLite schema, migrations, repositories)
-        content/                  (practice manifests, engineContext wiring)
-          practices/              (one folder per practice — manifests + flows)
-          engineContext.ts        (wires app deps into EngineContext)
-          manifest-types.ts       (PracticeManifest, SlotDefault — app-specific)
-        lib/                      (app-specific utilities)
-          liturgical/             (re-exports @ember/liturgical + useObligations hook)
-          mass-propers/           (re-exports @ember/mass-propers + hook + propers-data)
+        app/                          (Expo Router routes — file-based)
+        features/                     (feature-specific logic)
+          plan-of-life/               (schedule, checklist, stats)
+          practices/                  (PracticeFlow player, catalog)
+          books/                      (book reader, WebView pagination)
+          home/                       (LiturgicalHeader, SeasonalContext)
+          calendar/                   (liturgical calendar views)
+          saints/                     (saints cards + data)
+          bible/                      (Bible reader)
+          catechism/                  (Catechism reader)
+          divine-office/              (cursor management, psalm loading)
+        components/                   (shared UI components)
+        stores/                       (Zustand stores)
+        db/                           (SQLite schema, migrations, repositories)
+        content/                      (content resolution layer)
+          registry.ts                 (ContentRegistry — aggregates installed libraries)
+          engineContext.ts            (wires app deps into EngineContext)
+          manifest-types.ts           (PracticeManifest, SlotDefault — app-specific)
+          sources/
+            filesystem.ts             (loads libraries from disk)
+        lib/                          (app-specific utilities)
+          liturgical/                 (re-exports @ember/liturgical + useObligations hook)
+          mass-propers/               (re-exports @ember/mass-propers + hook + propers-data)
           i18n/
-          hearth.ts                 (Hearth fetch + SQLite cache client)
+          hearth.ts                   (Hearth fetch + SQLite cache client)
           bolls.ts, content.ts, catechism.ts, lectio.ts
-        config/                   (tamagui, tokens, themes, fonts)
-      assets/                     (textures, fonts)
-  content/                        (source files for Hearth — deployed to GitHub Pages)
-    bible/drb/                    (Douay-Rheims JSON, 73 books + index)
-    propers/                      (EF Mass propers — tempora + sancti)
-    catechism/                    (CCC JSON)
-    saints/                       (saint PNG images)
+        config/                       (tamagui, tokens, themes, fonts)
+      assets/                         (textures, fonts)
   packages/
-    liturgical/                   (pure TS — calendar, seasons, psalter, obligations)
-    mass-propers/                 (pure TS — propers resolution engine)
-    content-engine/               (pure TS — flow rendering engine + types)
+    content-engine/                   (pure TS — flow resolution engine + types)
+    liturgical/                       (pure TS — calendar, seasons, psalter, obligations)
+    mass-propers/                     (pure TS — propers resolution engine)
     hearth/
-      index.html                  (landing page for GitHub Pages)
+      index.html                      (landing page for GitHub Pages)
   docs/
   turbo.json
   pnpm-workspace.yaml
@@ -207,9 +322,9 @@ ember/
 
 ### Package boundaries
 
-- **`@ember/liturgical`** — Depends only on `date-fns`. Zero React/Expo deps.
+- **`@ember/content-engine`** — Practice-agnostic flow resolution. Depends on `@ember/liturgical` + `date-fns`. Accepts deps via `EngineContext` (prayers, localizer, parsers). Turns declarative flow JSON into renderable sections.
+- **`@ember/liturgical`** — Depends only on `date-fns`. Zero React/Expo deps. Calendar, seasons, psalter, obligations.
 - **`@ember/mass-propers`** — Depends on `@ember/liturgical` + `date-fns`. Accepts data via `PropersDataSource` interface.
-- **`@ember/content-engine`** — Depends on `@ember/liturgical` + `date-fns`. Accepts deps via `EngineContext` (prayers, localizer, parsers).
 
 The app's `src/lib/liturgical/` and `src/lib/mass-propers/` directories re-export from the packages and add React hooks.
 

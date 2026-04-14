@@ -34,18 +34,18 @@ Broad spectrum — from curious seekers to devout daily communicants. The app me
 
 ## What's Built
 
-Ember has a complete MVP (Phases 0–9a).
-
 ### Core Features
 
 | Feature | Description | Spec |
 |---------|-------------|------|
-| **Plan of Life** | 16 practices (essential/ideal/extra) + custom, fidelity wall, streaks, time blocks, notifications | [features-overview.md](features/features-overview.md#plan-of-life) |
-| **Divine Office** | Morning/Evening/Compline, 30-day DWDO psalter, lectio continua (OT + NT + CCC in a year) | [features-overview.md](features/features-overview.md#divine-office) |
+| **Content Libraries** | 8 downloadable `.pray` libraries (91 practices, 16 books, 49 prayer assets), content resolution engine | [ARCHITECTURE.md](ARCHITECTURE.md#content--libraries), [prayer-books.md](features/prayer-books.md) |
+| **Flow Engine** | Practice-agnostic DSL — select, repeat, cycle, prose, proper — describes any prayer from a simple devotion to the Mass | [features-overview.md](features/features-overview.md#practice-content-architecture) |
+| **Plan of Life** | Tier-based daily practice checklist, multi-hue fidelity wall, streaks, time blocks, notifications | [features-overview.md](features/features-overview.md#plan-of-life) |
 | **Bible Reader** | Bundled Douay-Rheims (73 books) + online translations via Bolls.life API | [features-overview.md](features/features-overview.md#other-features) |
 | **Catechism Reader** | Full CCC (2,865 paragraphs), 5-level collapsible TOC, segment navigation | [features-overview.md](features/features-overview.md#other-features) |
-| **Ordo Missae** | Complete Mass ordinary (OF + EF), bilingual Latin/English, proper slot placeholders | [features-overview.md](features/features-overview.md#other-features) |
-| **Liturgical Seasons** | OF + EF season calculation, user calendar preference, Marian antiphon rotation | [features-overview.md](features/features-overview.md#liturgical-seasons) |
+| **Ordo Missae** | Complete Mass ordinary (OF + EF), bilingual Latin/English, EF propers daily, OF propers (PT-BR complete, EN readings) | [features-overview.md](features/features-overview.md#other-features) |
+| **Book Reader** | Long-form prose from `.pray` libraries, WebView with CSS column pagination | [salty-book-format.md](content/salty-book-format.md) |
+| **Liturgical Seasons** | OF + EF season calculation, 347-entry sanctoral cycle, seasonal theming | [features-overview.md](features/features-overview.md#liturgical-seasons) |
 | **Saints Feed** | Daily saints and commemorations | — |
 
 ### Platform & UX
@@ -78,10 +78,10 @@ Ember has a complete MVP (Phases 0–9a).
 ### Wisdom (Content & Tradition)
 
 - **Formation guides** — how to pray the Rosary, mental prayer, examination of conscience, lectio divina
-- **Catholic library** — saints' writings, spiritual classics, devotional texts
+- **More spiritual classics** — expanding the library beyond Montfort and Liguori (see [prayer-books-roadmap.md](content/prayer-books-roadmap.md))
 - **Prayer history** — origin and tradition of each prayer and devotion
 - **Study Bible features** — commentary, cross-references, context
-- **Daily Mass readings** — EF ready via Missale Meum API; OF partially via Evangelizo (see [content-sources.md](content/content-sources.md#daily-mass-readings--propers))
+- **OF Mass readings (EN)** — English collects/antiphons blocked by ICEL copyright (see [content-sources.md](content/content-sources.md#daily-mass-readings--propers))
 
 ### Polish & Infrastructure
 
@@ -98,9 +98,12 @@ Ember has a complete MVP (Phases 0–9a).
 
 ### Specs & Architecture
 
-- [Architecture](ARCHITECTURE.md) — tech stack, data models, screen map, storage
+- [Architecture](ARCHITECTURE.md) — tech stack, content & libraries, data model, storage, folder structure
 - [Conventions](CONVENTIONS.md) — code style guide
+- [Features Overview](features/features-overview.md) — flow DSL, schedules, programs, plan of life, liturgical seasons
+- [Library System](features/prayer-books.md) — `.pray` format, library distribution, content resolution
+- [Salty Book Format](content/salty-book-format.md) — book manifest, chapter format, ID conventions
 - [Design System](design/design-system.md) — colors, typography, illuminated manuscript aesthetic
 - [Content Sources](content/content-sources.md) — Bible, CCC, hymns, daily readings — APIs, licensing, bundling
-- [Features Overview](features/features-overview.md) — domain knowledge, design rationale, and capabilities for all features
+- [Library Roadmap](content/prayer-books-roadmap.md) — planned content libraries
 - [Dev Journal](journal.md) — accumulated learnings (APIs, licensing, technical)
