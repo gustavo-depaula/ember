@@ -1,0 +1,46 @@
+{
+  "id": "st-michael-novena",
+  "icon": "prayer",
+  "name": {
+    "en-US": "Novena to St. Michael the Archangel",
+    "pt-BR": "Novena a São Miguel Arcanjo"
+  },
+  "categories": ["program", "devotion", "saints", "angels", "protection"],
+  "estimatedMinutes": 10,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 9,
+    "progressPolicy": "continue",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "michael-novena-days": "data/days.json"
+  },
+  "flow": "flow.json",
+  "description": {
+    "en-US": "A nine-day novena to St. Michael the Archangel, asking protection in spiritual battle and fidelity to Christ.",
+    "pt-BR": "Uma novena de nove dias a São Miguel Arcanjo, pedindo proteção no combate espiritual e fidelidade a Cristo."
+  },
+  "history": {
+    "en-US": "Devotion to St. Michael the Archangel is ancient in the Church, rooted in Scripture and in the traditional invocation of Michael as defender of God's people. This novena follows the Church's custom of nine days of persevering prayer, entrusting ourselves to his intercession for protection, courage, and faithful service.",
+    "pt-BR": "A devoção a São Miguel Arcanjo é antiga na Igreja, enraizada na Sagrada Escritura e na invocação tradicional de Miguel como defensor do povo de Deus. Esta novena segue o costume da Igreja de nove dias de oração perseverante, confiando-nos à sua intercessão por proteção, coragem e serviço fiel."
+  },
+  "howToPray": {
+    "en-US": "Pray once daily for nine consecutive days. Begin with the Sign of the Cross and opening prayer, read the meditation and intention for the day, then conclude with an Our Father, Hail Mary, Glory Be, and the closing prayer to St. Michael.",
+    "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, leia a meditação e a intenção do dia e conclua com um Pai-Nosso, Ave-Maria, Glória ao Pai e a oração final a São Miguel."
+  },
+  "tags": ["novena", "st-michael", "archangel", "9-days", "protection"],
+  "defaults": {
+    "sortOrder": 45,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

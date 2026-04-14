@@ -12,16 +12,7 @@
 	"estimatedMinutes": 1,
 	"flowMode": "scroll",
 	"completion": "flow-end",
-	"flows": [
-		{
-			"id": "default",
-			"name": {
-				"en-US": "Guardian Angel Prayer",
-				"pt-BR": "Oração ao Anjo da Guarda"
-			},
-			"file": "flow.json"
-		}
-	],
+	"flow": "flow.json",
 	"description": {
 		"en-US": "A short prayer invoking your Guardian Angel's protection and guidance throughout the day. The Church teaches that each person is entrusted to a guardian angel from birth.",
 		"pt-BR": "Uma breve oração invocando a proteção e orientação do seu Anjo da Guarda ao longo do dia. A Igreja ensina que cada pessoa é confiada a um anjo da guarda desde o nascimento."
@@ -44,7 +35,6 @@
 		"sortOrder": 14,
 		"slots": [
 			{
-				"flowId": "default",
 				"schedule": {
 					"type": "daily"
 				},

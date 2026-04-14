@@ -1,0 +1,133 @@
+{
+  "indexBy": "program-day",
+  "entries": {
+    "default": [
+      {
+        "dayTitle": {
+          "en-US": "Day 1: Mother and beauty of Carmel",
+          "pt-BR": "Dia 1: Mãe e beleza do Carmelo"
+        },
+        "meditation": {
+          "en-US": "Under the title of Mount Carmel, Mary is honored as the beauty of holiness and the Mother who leads us to Jesus. She invites us to begin this novena with trust and filial love.",
+          "pt-BR": "Sob o título do Carmo, Maria é honrada como beleza da santidade e Mãe que nos conduz a Jesus. Ela nos convida a iniciar esta novena com confiança e amor filial."
+        },
+        "intention": {
+          "en-US": "For a heart open to Mary's maternal guidance.",
+          "pt-BR": "Por um coração aberto à orientação maternal de Maria."
+        }
+      },
+      {
+        "dayTitle": {
+          "en-US": "Day 2: School of prayer and contemplation",
+          "pt-BR": "Dia 2: Escola de oração e contemplação"
+        },
+        "meditation": {
+          "en-US": "Carmel teaches silence, recollection, and attentive listening to God. With Mary we learn to treasure the Word in our hearts and remain faithful in daily prayer.",
+          "pt-BR": "O Carmelo ensina o silêncio, o recolhimento e a escuta atenta de Deus. Com Maria, aprendemos a guardar a Palavra no coração e permanecer fiéis na oração diária."
+        },
+        "intention": {
+          "en-US": "For perseverance in prayer and a contemplative spirit.",
+          "pt-BR": "Pela perseverança na oração e por um espírito contemplativo."
+        }
+      },
+      {
+        "dayTitle": {
+          "en-US": "Day 3: Fidelity to Christ through Mary",
+          "pt-BR": "Dia 3: Fidelidade a Cristo por Maria"
+        },
+        "meditation": {
+          "en-US": "True Marian devotion always leads to deeper union with Jesus. Our Lady of Mount Carmel forms disciples who obey the Gospel with humility and courage.",
+          "pt-BR": "Toda devoção mariana autêntica conduz a uma união mais profunda com Jesus. Nossa Senhora do Carmo forma discípulos que obedecem ao Evangelho com humildade e coragem."
+        },
+        "intention": {
+          "en-US": "For fidelity to Jesus Christ in every state of life.",
+          "pt-BR": "Pela fidelidade a Jesus Cristo em todo estado de vida."
+        }
+      },
+      {
+        "dayTitle": {
+          "en-US": "Day 4: The scapular as sign of consecration",
+          "pt-BR": "Dia 4: O escapulário como sinal de consagração"
+        },
+        "meditation": {
+          "en-US": "The Brown Scapular reminds us to belong to Mary and to live clothed in Christ. It is a call to conversion, sacramental life, and daily imitation of her virtues.",
+          "pt-BR": "O Escapulário marrom nos recorda que pertencemos a Maria e devemos viver revestidos de Cristo. Ele é um chamado à conversão, à vida sacramental e à imitação diária de suas virtudes."
+        },
+        "intention": {
+          "en-US": "For grace to live our Marian consecration with integrity.",
+          "pt-BR": "Pela graça de viver com integridade nossa consagração mariana."
+        }
+      },
+      {
+        "dayTitle": {
+          "en-US": "Day 5: Purity of heart and conversion",
+          "pt-BR": "Dia 5: Pureza de coração e conversão"
+        },
+        "meditation": {
+          "en-US": "Mary's Immaculate Heart reflects total openness to God. She helps us turn away from sin and seek purity in mind, speech, and action.",
+          "pt-BR": "O Imaculado Coração de Maria reflete total abertura a Deus. Ela nos ajuda a abandonar o pecado e buscar pureza nos pensamentos, palavras e ações."
+        },
+        "intention": {
+          "en-US": "For ongoing conversion and purity of life.",
+          "pt-BR": "Pela conversão constante e pureza de vida."
+        }
+      },
+      {
+        "dayTitle": {
+          "en-US": "Day 6: Strength in trials and darkness",
+          "pt-BR": "Dia 6: Força nas provações e na escuridão"
+        },
+        "meditation": {
+          "en-US": "In moments of suffering, Mary remains close and steadfast. Under her mantle we learn to endure trials with hope, trusting that God is present even in the night of faith.",
+          "pt-BR": "Nos momentos de sofrimento, Maria permanece próxima e firme. Sob seu manto, aprendemos a suportar as provações com esperança, confiando que Deus está presente mesmo na noite da fé."
+        },
+        "intention": {
+          "en-US": "For those who suffer, that they may receive hope and endurance.",
+          "pt-BR": "Pelos que sofrem, para que recebam esperança e perseverança."
+        }
+      },
+      {
+        "dayTitle": {
+          "en-US": "Day 7: Charity and service to neighbor",
+          "pt-BR": "Dia 7: Caridade e serviço ao próximo"
+        },
+        "meditation": {
+          "en-US": "Contemplation bears fruit in charity. Our Lady of Mount Carmel teaches us to recognize Christ in others and to serve with humility, gentleness, and generous love.",
+          "pt-BR": "A contemplação produz fruto na caridade. Nossa Senhora do Carmo nos ensina a reconhecer Cristo nos outros e a servir com humildade, mansidão e amor generoso."
+        },
+        "intention": {
+          "en-US": "For growth in charity and concrete works of mercy.",
+          "pt-BR": "Pelo crescimento na caridade e em obras concretas de misericórdia."
+        }
+      },
+      {
+        "dayTitle": {
+          "en-US": "Day 8: Comfort of the dying and hope for souls",
+          "pt-BR": "Dia 8: Consolo dos agonizantes e esperança pelas almas"
+        },
+        "meditation": {
+          "en-US": "The Church invokes Our Lady of Mount Carmel for the dying and for the souls in purgatory. She accompanies her children at life's final hour and leads them toward the mercy of Christ.",
+          "pt-BR": "A Igreja invoca Nossa Senhora do Carmo pelos agonizantes e pelas almas do purgatório. Ela acompanha seus filhos na hora final da vida e os conduz à misericórdia de Cristo."
+        },
+        "intention": {
+          "en-US": "For the dying, the souls in purgatory, and final perseverance.",
+          "pt-BR": "Pelos agonizantes, pelas almas do purgatório e pela perseverança final."
+        }
+      },
+      {
+        "dayTitle": {
+          "en-US": "Day 9: Perseverance in holiness",
+          "pt-BR": "Dia 9: Perseverança na santidade"
+        },
+        "meditation": {
+          "en-US": "We conclude this novena by entrusting our whole life to Mary of Carmel. With her intercession, may we remain faithful to Christ until the end and rejoice forever in God's presence.",
+          "pt-BR": "Concluímos esta novena entregando toda a nossa vida a Maria do Carmo. Por sua intercessão, que permaneçamos fiéis a Cristo até o fim e nos alegremos para sempre na presença de Deus."
+        },
+        "intention": {
+          "en-US": "For final perseverance and eternal union with God.",
+          "pt-BR": "Pela perseverança final e união eterna com Deus."
+        }
+      }
+    ]
+  }
+}

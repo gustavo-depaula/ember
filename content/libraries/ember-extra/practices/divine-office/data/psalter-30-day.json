@@ -1,6 +1,6 @@
 {
 	"indexBy": "day-of-month",
-	"variantKey": "numbering",
+	"contextKey": "numbering",
 	"entries": {
 		"mt": [
 			{

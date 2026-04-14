@@ -1,0 +1,41 @@
+{
+	"id": "seven-sorrows-scriptural",
+	"alternativeTo": "seven-sorrows",
+	"icon": "mary",
+	"name": {
+		"en-US": "Chaplet of the Seven Sorrows (Scriptural)",
+		"pt-BR": "Coroa das Sete Dores (Bíblica)"
+	},
+	"categories": [
+		"marian",
+		"chaplet",
+		"meditation",
+		"passion"
+	],
+	"estimatedMinutes": 25,
+	"description": {
+		"en-US": "A Marian devotion meditating on the seven great sorrows of the Blessed Virgin Mary, praying seven times seven Hail Marys, with Scripture-based meditations for each sorrow.",
+		"pt-BR": "Uma devoção mariana que medita sobre as sete grandes dores da Santíssima Virgem Maria, rezando sete vezes sete Ave Marias, com meditações baseadas nas Escrituras para cada dor."
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flow": "flow.json",
+	"tags": [
+		"marian",
+		"seven-sorrows",
+		"chaplet",
+		"passion"
+	],
+	"defaults": {
+		"sortOrder": 23,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
+}

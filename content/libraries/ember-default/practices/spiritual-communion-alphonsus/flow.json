@@ -1,0 +1,15 @@
+{
+	"sections": [
+		{
+			"type": "prayer",
+			"ref": "sign-of-cross"
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "My Jesus, I believe that You are present in the Most Holy Sacrament. I love You above all things, and I desire to receive You into my soul. Since I cannot at this moment receive You sacramentally, come at least spiritually into my heart.\n\nI embrace You as if You were already there and unite myself wholly to You. Never permit me to be separated from You. Amen.",
+				"pt-BR": "Meu Jesus, creio que estais presente no Santíssimo Sacramento. Amo-Vos sobre todas as coisas e desejo receber-Vos em minha alma. Como não posso agora receber-Vos sacramentalmente, vinde ao menos espiritualmente ao meu coração.\n\nAbraço-Vos como se já estivésseis nele e uno-me todo a Vós. Não permitais que me separe de Vós. Amém."
+			}
+		}
+	]
+}

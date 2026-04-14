@@ -6,6 +6,46 @@ Accumulated learnings, discoveries, and decisions from Ember development. Things
 
 ---
 
+## Architecture Decisions
+
+- **Unified flow system replaces variants, forms, and multiple flows (2026-04-12).** The content engine accumulated four content-selection mechanisms (variants, forms, multiple flows, setKeyOverride) each built for specific practices. Decision: collapse all four into one `select` section type — a conditional branch that reads context (day of week, time of day, user preference) and picks an option. One flow per practice. Different meditation traditions become separate practices grouped by `alternativeTo`. Full spec: `docs/features/unified-flow-system.md`. Key insight: all four mechanisms were just conditional content selection with different indirection layers. The `variant` DB column was never actually written — every user was on the default.
+
+- **DSL completeness: no practice should need custom app code (2026-04-12).** The flow JSON must be expressive enough that the app is a pure reader. The `useLiturgicalMeditation` hook (118 lines, meditacoes-ligorio only) was the clearest violation — calendar→chapter resolution hard-coded in React. Fix: `resolve` field on `FlowDefinition` with pluggable strategies (first: `"liturgical-day"`), and dynamic `prose` sections that load book chapters by template-variable chapter IDs. The resolution algorithm stays in `@ember/liturgical` but is invoked declaratively from the flow JSON, not from a practice-specific hook.
+
+- **Visible `select` blocks require explicit app-side rendering + override wiring (2026-04-14).** After migrating practices to unified flow, the "title-only, no body" symptom appeared only on practices whose main content lived under top-level visible `select` sections (e.g., Mass). The content engine was already emitting rendered `select` sections, but `SectionBlock` had no `select` case, so those branches rendered as `null`. Fix: add `SelectBlock` UI renderer and thread `selectOverrides` state through `PracticeFlow` so selector changes re-resolve flow content live. Silent/static patterns (e.g., Way of Light, Bible+Catechism) were unaffected.
+
+- **Large-flow `select` switching is fast only when non-selected branches are lazy (2026-04-14).** For visible `select`, eagerly resolving sections for every option on each pass caused noticeable delay on heavy flows like Mass. The UI only needs labels for all options and sections for the active option, so the engine now resolves sections only for the selected option and emits empty section arrays for non-selected options. This keeps behavior identical while removing most of the per-toggle work.
+
+- **Unified flow completed migration path for dynamic Liguori meditations (2026-04-14).** The old `useLiturgicalMeditation` hook was removed and replaced with declarative flow resolution: `resolveFlowAsync` executes flow-level `resolve` strategies (starting with `liturgical-day`), injects template vars, preloads dynamic prose chapter text, and then renders sections without practice-specific React logic. This made Liguori content a pure flow JSON concern and aligned slot naming previews to show the first visible select choice in Plan of Life.
+
+- **Legacy slot flow/variant plumbing removed from runtime writes (2026-04-14).** Slot creation/update no longer writes a `variant` field, and the unused `changeSlotFlow` mutation path was removed from repositories/hooks. The database column remains for backward compatibility, but runtime behavior now treats slots as practice-scoped schedules with unified-flow selection handled by the engine.
+
+- **54-Day Rosary Novena modeled as content-only program in a dedicated library (2026-04-13).** The implementation uses a new `ember-novenas` library that depends on `ember-default` for shared prayer refs, with a single practice `rosary-54-day-novena`. No app runtime changes were needed: `programDay` + `cycle` + `select` in flow JSON were enough to express petition/thanksgiving phases and the traditional Joyful→Sorrowful→Glorious 3-day cadence.
+
+- **Novenas consolidation direction: one library for all novenas (2026-04-13).** We decided `ember-novenas` should become the single destination for novena practices. Existing novenas in `ember-extra` are planned for migration first, then a broader expansion backlog (Divine Mercy, St. Joseph, St. Therese, Immaculate Conception, Christmas, and additional Marian/saint novenas) will be added in phased content-only batches.
+
+- **Divine Mercy Novena added to ember-novenas as a content-only 9-day program (2026-04-13).** New practice ID `divine-mercy-novena` includes `program` config (`totalDays: 9`, `progressPolicy: continue`, `completionBehavior: offer-restart`), day-indexed cycle data with EN/PT-BR parity, and a flow that combines day-specific intention/petition content with the chaplet structure using existing shared prayer refs from `ember-default`.
+
+- **St. Joseph Novena added to ember-novenas as a content-only 9-day program (2026-04-13).** New practice ID `st-joseph-novena` follows the same program policy (`continue` + `offer-restart`) with EN/PT-BR day-by-day parity (`data/days.json`) and a cycle-based flow using standard opening/closing prayers plus a St. Joseph closing invocation.
+
+- **Our Lady of Aparecida Novena added to ember-novenas as a content-only 9-day program (2026-04-13).** New practice ID `our-lady-aparecida-novena` uses the same program policy (`continue` + `offer-restart`) with EN/PT-BR parity in `data/days.json`, plus a cycle-based flow with opening and closing prayers in both languages.
+
+- **St. Jude Novena added to ember-novenas as a content-only 9-day program (2026-04-13).** New practice ID `st-jude-novena` follows the same program policy (`continue` + `offer-restart`) with EN/PT-BR day-by-day parity in `data/days.json`, plus a standard cycle-based flow with opening/closing prayers and daily intentions.
+
+- **St. Therese Novena added to ember-novenas as a content-only 9-day program (2026-04-13).** New practice ID `st-therese-novena` follows the same program policy (`continue` + `offer-restart`) with EN/PT-BR day-by-day parity (`data/days.json`) and a cycle-based flow (opening prayer, day meditation/intention, closing invocation) focused on the Little Way.
+
+- **St. Michael Novena added to ember-novenas as a content-only 9-day program (2026-04-13).** New practice ID `st-michael-novena` follows the same program policy (`continue` + `offer-restart`) with EN/PT-BR day-by-day parity (`data/days.json`) and a cycle-based flow using opening/closing prayers with daily meditation and intention.
+
+- **St. Anthony of Padua Novena added to ember-novenas as a content-only 9-day program (2026-04-13).** New practice ID `st-anthony-novena` follows the same program policy (`continue` + `offer-restart`) with EN/PT-BR parity in `data/days.json`, plus a standard cycle-based flow with opening/closing prayers and daily intentions.
+
+- **Our Lady of Perpetual Help Novena added to ember-novenas as a content-only 9-day program (2026-04-13).** New practice ID `perpetual-help-novena` follows the same program policy (`continue` + `offer-restart`) with EN/PT-BR parity in `data/days.json`, using a standard cycle flow with opening prayer, day meditation/intention, and closing prayers.
+
+- **Our Lady of Guadalupe Novena added to ember-novenas as a content-only 9-day program (2026-04-13).** New practice ID `guadalupe-novena` follows the same program policy (`continue` + `offer-restart`) with EN/PT-BR day-by-day parity in `data/days.json`, using the standard novena flow (opening prayer, day meditation/intention, and closing prayers).
+
+- **Our Lady of Mount Carmel Novena added to ember-novenas as a content-only 9-day program (2026-04-13).** New practice ID `mount-carmel-novena` follows the same program policy (`continue` + `offer-restart`) with EN/PT-BR day-by-day parity in `data/days.json`, using the standard novena flow (opening prayer, day meditation/intention, and closing prayers).
+
+---
+
 ## Infrastructure
 
 - **Hearth replaces the broken Expo web deploy on GitHub Pages.** The original `.github/workflows/deploy.yml` built and deployed the full Expo web app to GitHub Pages but broke after the monorepo restructure (missing `baseUrl` config). Instead of fixing it, we repurposed GitHub Pages as a static content server called Hearth. It copies Bible, propers, catechism, and saints images to `_site/hearth/v1/`, converts PNGs to WebP, and generates a `manifest.json` with SHA-256 hashes. No npm install or Metro — runs in under a minute. The `v1/` URL prefix allows future breaking changes without breaking old app versions. Base URL: `https://ember.dpgu.me/hearth/`.

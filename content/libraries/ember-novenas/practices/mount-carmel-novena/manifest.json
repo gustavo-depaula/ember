@@ -1,0 +1,46 @@
+{
+  "id": "mount-carmel-novena",
+  "icon": "mary",
+  "name": {
+    "en-US": "Novena to Our Lady of Mount Carmel",
+    "pt-BR": "Novena a Nossa Senhora do Carmo"
+  },
+  "categories": ["program", "devotion", "marian"],
+  "estimatedMinutes": 10,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 9,
+    "progressPolicy": "continue",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "mount-carmel-novena-days": "data/days.json"
+  },
+  "flow": "flow.json",
+  "description": {
+    "en-US": "A nine-day novena to Our Lady of Mount Carmel, asking for deeper prayer, fidelity to Christ, and perseverance under Mary's maternal protection.",
+    "pt-BR": "Uma novena de nove dias a Nossa Senhora do Carmo, pedindo oração mais profunda, fidelidade a Cristo e perseverança sob a proteção maternal de Maria."
+  },
+  "history": {
+    "en-US": "Devotion to Our Lady of Mount Carmel is rooted in the Carmelite tradition, which honors Mary as Mother, Patroness, and model of contemplative life. Under this title the faithful entrust themselves to her care, especially through the sign of the Brown Scapular, seeking to live in prayer, purity, and union with Jesus Christ.",
+    "pt-BR": "A devoção a Nossa Senhora do Carmo tem raízes na tradição carmelitana, que honra Maria como Mãe, Padroeira e modelo de vida contemplativa. Sob esse título, os fiéis se confiam ao seu cuidado, especialmente pelo sinal do Escapulário marrom, buscando viver na oração, na pureza e na união com Jesus Cristo."
+  },
+  "howToPray": {
+    "en-US": "Pray once daily for nine consecutive days. Begin with the Sign of the Cross and the opening prayer, meditate on the day theme, offer the intention, then conclude with an Our Father, Hail Mary, Glory Be, and the closing prayer to Our Lady of Mount Carmel.",
+    "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, medite o tema do dia, ofereça a intenção e conclua com um Pai-Nosso, Ave-Maria, Glória ao Pai e a oração final a Nossa Senhora do Carmo."
+  },
+  "tags": ["novena", "our-lady-mount-carmel", "marian", "scapular", "9-days"],
+  "defaults": {
+    "sortOrder": 49,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

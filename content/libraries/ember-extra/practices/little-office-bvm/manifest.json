@@ -26,80 +26,7 @@
 	},
 	"flowMode": "scroll",
 	"completion": "flow-end",
-	"flows": [
-		{
-			"id": "matins",
-			"name": {
-				"en-US": "Matins",
-				"pt-BR": "Matinas"
-			},
-			"file": "flows/matins.json",
-			"timeBlock": "morning"
-		},
-		{
-			"id": "lauds",
-			"name": {
-				"en-US": "Lauds",
-				"pt-BR": "Laudes"
-			},
-			"file": "flows/lauds.json",
-			"timeBlock": "morning"
-		},
-		{
-			"id": "prime",
-			"name": {
-				"en-US": "Prime",
-				"pt-BR": "Prima"
-			},
-			"file": "flows/prime.json",
-			"timeBlock": "morning"
-		},
-		{
-			"id": "terce",
-			"name": {
-				"en-US": "Terce",
-				"pt-BR": "Terça"
-			},
-			"file": "flows/terce.json",
-			"timeBlock": "daytime"
-		},
-		{
-			"id": "sext",
-			"name": {
-				"en-US": "Sext",
-				"pt-BR": "Sexta"
-			},
-			"file": "flows/sext.json",
-			"timeBlock": "daytime"
-		},
-		{
-			"id": "none",
-			"name": {
-				"en-US": "None",
-				"pt-BR": "Noa"
-			},
-			"file": "flows/none.json",
-			"timeBlock": "daytime"
-		},
-		{
-			"id": "vespers",
-			"name": {
-				"en-US": "Vespers",
-				"pt-BR": "Vésperas"
-			},
-			"file": "flows/vespers.json",
-			"timeBlock": "evening"
-		},
-		{
-			"id": "compline",
-			"name": {
-				"en-US": "Compline",
-				"pt-BR": "Completas"
-			},
-			"file": "flows/compline.json",
-			"timeBlock": "evening"
-		}
-	],
+	"flow": "flow.json",
 	"tags": [
 		"marian",
 		"office",
@@ -110,63 +37,6 @@
 		"sortOrder": 18,
 		"slots": [
 			{
-				"flowId": "matins",
-				"schedule": {
-					"type": "daily"
-				},
-				"tier": "extra",
-				"enabled": false
-			},
-			{
-				"flowId": "lauds",
-				"schedule": {
-					"type": "daily"
-				},
-				"tier": "extra",
-				"enabled": false
-			},
-			{
-				"flowId": "prime",
-				"schedule": {
-					"type": "daily"
-				},
-				"tier": "extra",
-				"enabled": false
-			},
-			{
-				"flowId": "terce",
-				"schedule": {
-					"type": "daily"
-				},
-				"tier": "extra",
-				"enabled": false
-			},
-			{
-				"flowId": "sext",
-				"schedule": {
-					"type": "daily"
-				},
-				"tier": "extra",
-				"enabled": false
-			},
-			{
-				"flowId": "none",
-				"schedule": {
-					"type": "daily"
-				},
-				"tier": "extra",
-				"enabled": false
-			},
-			{
-				"flowId": "vespers",
-				"schedule": {
-					"type": "daily"
-				},
-				"tier": "extra",
-				"enabled": false
-			},
-			{
-				"flowId": "compline",
 				"schedule": {
 					"type": "daily"
 				},

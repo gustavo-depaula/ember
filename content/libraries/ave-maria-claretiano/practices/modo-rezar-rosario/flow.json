@@ -1,0 +1,414 @@
+{
+	"sections": [
+		{
+			"type": "select",
+			"label": {
+				"pt-BR": "Forma"
+			},
+			"options": [
+				{
+					"id": "gozosos",
+					"label": {
+						"pt-BR": "Mistérios Gozosos"
+					},
+					"sections": [
+						{
+							"type": "subheading",
+							"text": { "pt-BR": "Orações Iniciais" }
+						},
+						{
+							"type": "prayer",
+							"ref": "sign-of-cross"
+						},
+						{
+							"type": "response",
+							"verses": [
+								{
+									"v": { "pt-BR": "Meu Deus, em meu favor e amparo atende." },
+									"r": { "pt-BR": "E de meus inimigos me defende." }
+								},
+								{
+									"v": { "pt-BR": "Glória ao Pai, ao Filho e ao Espírito Santo." },
+									"r": { "pt-BR": "Assim como era no princípio, agora e sempre e por todos os séculos dos séculos. Amém." }
+								}
+							]
+						},
+						{
+							"type": "subheading",
+							"text": { "pt-BR": "Oferecimento do Têrço" }
+						},
+						{
+							"type": "prayer",
+							"inline": {
+								"pt-BR": "Divino Jesus, eu vos ofereço êste Têrço que vou rezar, contemplando os mistérios de nossa Redenção. Concedei-me, pela intercessão de Maria, vossa Mãe Santíssima, a quem me dirijo, as virtudes que me são necessárias para bem rezá-lo e a graça de ganhar as indulgências anexas a esta santa devoção."
+							}
+						},
+						{
+							"type": "divider"
+						},
+						{
+							"type": "heading",
+							"text": { "pt-BR": "Mistérios Gozosos" }
+						},
+						{
+							"type": "rubric",
+							"text": { "pt-BR": "Segundas e quintas feiras e domingos do Advento até à Quaresma." }
+						},
+						{
+							"type": "divider"
+						},
+						{
+							"type": "subheading",
+							"text": { "pt-BR": "Primeiro Mistério" }
+						},
+						{
+							"type": "meditation",
+							"text": { "pt-BR": "No primeiro mistério contemplamos como a Virgem Maria foi saudada pelo Anjo e lhe foi anunciado que havia de conceber e dar à luz a Cristo, nosso Redentor." }
+						},
+						{ "type": "prayer", "ref": "our-father" },
+						{ "type": "repeat", "count": 10, "sections": [{ "type": "prayer", "ref": "hail-mary" }] },
+						{ "type": "prayer", "ref": "glory-be" },
+						{ "type": "divider" },
+						{
+							"type": "subheading",
+							"text": { "pt-BR": "Segundo Mistério" }
+						},
+						{
+							"type": "meditation",
+							"text": { "pt-BR": "No segundo mistério contemplamos como a Virgem Maria foi visitar sua prima Santa Isabel e ficou com ela três meses." }
+						},
+						{ "type": "prayer", "ref": "our-father" },
+						{ "type": "repeat", "count": 10, "sections": [{ "type": "prayer", "ref": "hail-mary" }] },
+						{ "type": "prayer", "ref": "glory-be" },
+						{ "type": "divider" },
+						{
+							"type": "subheading",
+							"text": { "pt-BR": "Terceiro Mistério" }
+						},
+						{
+							"type": "meditation",
+							"text": { "pt-BR": "No terceiro mistério contemplamos como a Virgem Maria deu à luz Jesus Cristo, em Belém, e, por não achar lugar na estalagem da cidade, reclinou-o num presépio." }
+						},
+						{ "type": "prayer", "ref": "our-father" },
+						{ "type": "repeat", "count": 10, "sections": [{ "type": "prayer", "ref": "hail-mary" }] },
+						{ "type": "prayer", "ref": "glory-be" },
+						{ "type": "divider" },
+						{
+							"type": "subheading",
+							"text": { "pt-BR": "Quarto Mistério" }
+						},
+						{
+							"type": "meditation",
+							"text": { "pt-BR": "No quarto mistério contemplamos como a Virgem Maria, no dia da sua purificação, apresentou seu filho no templo, onde estava o velho Simeão, que, tomando-o em seus braços, louvou e deu muitas graças a Deus." }
+						},
+						{ "type": "prayer", "ref": "our-father" },
+						{ "type": "repeat", "count": 10, "sections": [{ "type": "prayer", "ref": "hail-mary" }] },
+						{ "type": "prayer", "ref": "glory-be" },
+						{ "type": "divider" },
+						{
+							"type": "subheading",
+							"text": { "pt-BR": "Quinto Mistério" }
+						},
+						{
+							"type": "meditation",
+							"text": { "pt-BR": "No quinto mistério contemplamos como a Virgem Maria, tendo perdido o seu filho, que, sem ela o saber, ficara em Jerusalém, o encontrou ao terceiro dia no templo, entre os doutores, disputando com êles." }
+						},
+						{ "type": "prayer", "ref": "our-father" },
+						{ "type": "repeat", "count": 10, "sections": [{ "type": "prayer", "ref": "hail-mary" }] },
+						{ "type": "prayer", "ref": "glory-be" },
+						{ "type": "divider" },
+						{
+							"type": "subheading",
+							"text": { "pt-BR": "Agradecimento" }
+						},
+						{
+							"type": "prayer",
+							"inline": {
+								"pt-BR": "Infinitas graças vos damos, soberana Princesa, pelos benefícios que todos os dias recebemos de vossas mãos liberais. Dignai-vos, agora e para sempre, tomar-nos debaixo do vosso poderoso amparo e, para mais vos obrigar, vos saudamos com uma Salve Rainha."
+							}
+						},
+						{
+							"type": "prayer",
+							"ref": "hail-holy-queen"
+						},
+						{
+							"type": "divider"
+						},
+						{
+							"type": "prayer",
+							"ref": "ladainha-nossa-senhora"
+						}
+					]
+				},
+				{
+					"id": "dolorosos",
+					"label": {
+						"pt-BR": "Mistérios Dolorosos"
+					},
+					"sections": [
+						{
+							"type": "subheading",
+							"text": { "pt-BR": "Orações Iniciais" }
+						},
+						{
+							"type": "prayer",
+							"ref": "sign-of-cross"
+						},
+						{
+							"type": "response",
+							"verses": [
+								{
+									"v": { "pt-BR": "Meu Deus, em meu favor e amparo atende." },
+									"r": { "pt-BR": "E de meus inimigos me defende." }
+								},
+								{
+									"v": { "pt-BR": "Glória ao Pai, ao Filho e ao Espírito Santo." },
+									"r": { "pt-BR": "Assim como era no princípio, agora e sempre e por todos os séculos dos séculos. Amém." }
+								}
+							]
+						},
+						{
+							"type": "subheading",
+							"text": { "pt-BR": "Oferecimento do Têrço" }
+						},
+						{
+							"type": "prayer",
+							"inline": {
+								"pt-BR": "Divino Jesus, eu vos ofereço êste Têrço que vou rezar, contemplando os mistérios de nossa Redenção. Concedei-me, pela intercessão de Maria, vossa Mãe Santíssima, a quem me dirijo, as virtudes que me são necessárias para bem rezá-lo e a graça de ganhar as indulgências anexas a esta santa devoção."
+							}
+						},
+						{
+							"type": "divider"
+						},
+						{
+							"type": "heading",
+							"text": { "pt-BR": "Mistérios Dolorosos" }
+						},
+						{
+							"type": "rubric",
+							"text": { "pt-BR": "Têrças e sextas feiras e domingos da Quaresma até à Páscoa." }
+						},
+						{
+							"type": "divider"
+						},
+						{
+							"type": "subheading",
+							"text": { "pt-BR": "Primeiro Mistério" }
+						},
+						{
+							"type": "meditation",
+							"text": { "pt-BR": "No primeiro mistério contemplamos como Nosso Senhor Jesus Cristo, no horto, chorou e suou sangue em tanta quantidade, que chegou a correr pela terra." }
+						},
+						{ "type": "prayer", "ref": "our-father" },
+						{ "type": "repeat", "count": 10, "sections": [{ "type": "prayer", "ref": "hail-mary" }] },
+						{ "type": "prayer", "ref": "glory-be" },
+						{ "type": "divider" },
+						{
+							"type": "subheading",
+							"text": { "pt-BR": "Segundo Mistério" }
+						},
+						{
+							"type": "meditation",
+							"text": { "pt-BR": "No segundo mistério contemplamos como Nosso Senhor Jesus Cristo foi cruelmente açoitado em casa de Pilatos." }
+						},
+						{ "type": "prayer", "ref": "our-father" },
+						{ "type": "repeat", "count": 10, "sections": [{ "type": "prayer", "ref": "hail-mary" }] },
+						{ "type": "prayer", "ref": "glory-be" },
+						{ "type": "divider" },
+						{
+							"type": "subheading",
+							"text": { "pt-BR": "Terceiro Mistério" }
+						},
+						{
+							"type": "meditation",
+							"text": { "pt-BR": "No terceiro mistério contemplamos como Nosso Senhor Jesus Cristo foi coroado de agudos espinhos por seus algozes." }
+						},
+						{ "type": "prayer", "ref": "our-father" },
+						{ "type": "repeat", "count": 10, "sections": [{ "type": "prayer", "ref": "hail-mary" }] },
+						{ "type": "prayer", "ref": "glory-be" },
+						{ "type": "divider" },
+						{
+							"type": "subheading",
+							"text": { "pt-BR": "Quarto Mistério" }
+						},
+						{
+							"type": "meditation",
+							"text": { "pt-BR": "No quarto mistério contemplamos como Nosso Senhor Jesus Cristo, sendo condenado à morte, carregou com grande paciência a cruz que lhe puseram aos ombros." }
+						},
+						{ "type": "prayer", "ref": "our-father" },
+						{ "type": "repeat", "count": 10, "sections": [{ "type": "prayer", "ref": "hail-mary" }] },
+						{ "type": "prayer", "ref": "glory-be" },
+						{ "type": "divider" },
+						{
+							"type": "subheading",
+							"text": { "pt-BR": "Quinto Mistério" }
+						},
+						{
+							"type": "meditation",
+							"text": { "pt-BR": "No quinto mistério contemplamos como Nosso Senhor Jesus Cristo, chegando ao monte Calvário, foi despido e cravado na cruz, com duros pregos, à vista de sua aflita Mãe." }
+						},
+						{ "type": "prayer", "ref": "our-father" },
+						{ "type": "repeat", "count": 10, "sections": [{ "type": "prayer", "ref": "hail-mary" }] },
+						{ "type": "prayer", "ref": "glory-be" },
+						{ "type": "divider" },
+						{
+							"type": "subheading",
+							"text": { "pt-BR": "Agradecimento" }
+						},
+						{
+							"type": "prayer",
+							"inline": {
+								"pt-BR": "Infinitas graças vos damos, soberana Princesa, pelos benefícios que todos os dias recebemos de vossas mãos liberais. Dignai-vos, agora e para sempre, tomar-nos debaixo do vosso poderoso amparo e, para mais vos obrigar, vos saudamos com uma Salve Rainha."
+							}
+						},
+						{
+							"type": "prayer",
+							"ref": "hail-holy-queen"
+						},
+						{
+							"type": "divider"
+						},
+						{
+							"type": "prayer",
+							"ref": "ladainha-nossa-senhora"
+						}
+					]
+				},
+				{
+					"id": "gloriosos",
+					"label": {
+						"pt-BR": "Mistérios Gloriosos"
+					},
+					"sections": [
+						{
+							"type": "subheading",
+							"text": { "pt-BR": "Orações Iniciais" }
+						},
+						{
+							"type": "prayer",
+							"ref": "sign-of-cross"
+						},
+						{
+							"type": "response",
+							"verses": [
+								{
+									"v": { "pt-BR": "Meu Deus, em meu favor e amparo atende." },
+									"r": { "pt-BR": "E de meus inimigos me defende." }
+								},
+								{
+									"v": { "pt-BR": "Glória ao Pai, ao Filho e ao Espírito Santo." },
+									"r": { "pt-BR": "Assim como era no princípio, agora e sempre e por todos os séculos dos séculos. Amém." }
+								}
+							]
+						},
+						{
+							"type": "subheading",
+							"text": { "pt-BR": "Oferecimento do Têrço" }
+						},
+						{
+							"type": "prayer",
+							"inline": {
+								"pt-BR": "Divino Jesus, eu vos ofereço êste Têrço que vou rezar, contemplando os mistérios de nossa Redenção. Concedei-me, pela intercessão de Maria, vossa Mãe Santíssima, a quem me dirijo, as virtudes que me são necessárias para bem rezá-lo e a graça de ganhar as indulgências anexas a esta santa devoção."
+							}
+						},
+						{
+							"type": "divider"
+						},
+						{
+							"type": "heading",
+							"text": { "pt-BR": "Mistérios Gloriosos" }
+						},
+						{
+							"type": "rubric",
+							"text": { "pt-BR": "Quartas feiras, sábados e domingos da Páscoa até o Advento." }
+						},
+						{
+							"type": "divider"
+						},
+						{
+							"type": "subheading",
+							"text": { "pt-BR": "Primeiro Mistério" }
+						},
+						{
+							"type": "meditation",
+							"text": { "pt-BR": "No primeiro mistério contemplamos como Nosso Senhor Jesus Cristo, triunfando da morte e dos tormentos, ressuscitou ao terceiro dia, imortal e impassível." }
+						},
+						{ "type": "prayer", "ref": "our-father" },
+						{ "type": "repeat", "count": 10, "sections": [{ "type": "prayer", "ref": "hail-mary" }] },
+						{ "type": "prayer", "ref": "glory-be" },
+						{ "type": "divider" },
+						{
+							"type": "subheading",
+							"text": { "pt-BR": "Segundo Mistério" }
+						},
+						{
+							"type": "meditation",
+							"text": { "pt-BR": "No segundo mistério contemplamos como Nosso Senhor Jesus Cristo, quarenta dias depois de sua ressurreição, subiu ao céu, na presença de sua Mãe Santíssima e dos Apóstolos." }
+						},
+						{ "type": "prayer", "ref": "our-father" },
+						{ "type": "repeat", "count": 10, "sections": [{ "type": "prayer", "ref": "hail-mary" }] },
+						{ "type": "prayer", "ref": "glory-be" },
+						{ "type": "divider" },
+						{
+							"type": "subheading",
+							"text": { "pt-BR": "Terceiro Mistério" }
+						},
+						{
+							"type": "meditation",
+							"text": { "pt-BR": "No terceiro mistério contemplamos como Nosso Senhor Jesus Cristo, sentado à mão direita de seu eterno Pai, enviou o Espírito Santo sôbre os Apóstolos reunidos no cenáculo em companhia da Virgem Maria." }
+						},
+						{ "type": "prayer", "ref": "our-father" },
+						{ "type": "repeat", "count": 10, "sections": [{ "type": "prayer", "ref": "hail-mary" }] },
+						{ "type": "prayer", "ref": "glory-be" },
+						{ "type": "divider" },
+						{
+							"type": "subheading",
+							"text": { "pt-BR": "Quarto Mistério" }
+						},
+						{
+							"type": "meditation",
+							"text": { "pt-BR": "No quarto mistério contemplamos como a Virgem Maria, alguns anos depois da ressurreição de seu filho, passou desta vida e foi levada ao céu pelo mesmo Senhor, acompanhada de coros de Anjos." }
+						},
+						{ "type": "prayer", "ref": "our-father" },
+						{ "type": "repeat", "count": 10, "sections": [{ "type": "prayer", "ref": "hail-mary" }] },
+						{ "type": "prayer", "ref": "glory-be" },
+						{ "type": "divider" },
+						{
+							"type": "subheading",
+							"text": { "pt-BR": "Quinto Mistério" }
+						},
+						{
+							"type": "meditation",
+							"text": { "pt-BR": "No quinto mistério contemplamos como a Virgem Maria foi coroada por seu divino Filho no céu." }
+						},
+						{ "type": "prayer", "ref": "our-father" },
+						{ "type": "repeat", "count": 10, "sections": [{ "type": "prayer", "ref": "hail-mary" }] },
+						{ "type": "prayer", "ref": "glory-be" },
+						{ "type": "divider" },
+						{
+							"type": "subheading",
+							"text": { "pt-BR": "Agradecimento" }
+						},
+						{
+							"type": "prayer",
+							"inline": {
+								"pt-BR": "Infinitas graças vos damos, soberana Princesa, pelos benefícios que todos os dias recebemos de vossas mãos liberais. Dignai-vos, agora e para sempre, tomar-nos debaixo do vosso poderoso amparo e, para mais vos obrigar, vos saudamos com uma Salve Rainha."
+							}
+						},
+						{
+							"type": "prayer",
+							"ref": "hail-holy-queen"
+						},
+						{
+							"type": "divider"
+						},
+						{
+							"type": "prayer",
+							"ref": "ladainha-nossa-senhora"
+						}
+					]
+				}
+			]
+		}
+	]
+}

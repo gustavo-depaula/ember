@@ -22,16 +22,7 @@
 	"data": {
 		"triduum-days": "data/days.json"
 	},
-	"flows": [
-		{
-			"id": "default",
-			"name": {
-				"en-US": "Daily Prayer",
-				"pt-BR": "Oração Diária"
-			},
-			"file": "flow.json"
-		}
-	],
+	"flow": "flow.json",
 	"description": {
 		"en-US": "A three-day prayer to the Holy Spirit, asking for His presence, His gifts, and the fire of His divine love.",
 		"pt-BR": "Uma oração de três dias ao Espírito Santo, pedindo Sua presença, Seus dons e o fogo do Seu divino amor."
@@ -49,7 +40,6 @@
 		"sortOrder": 40,
 		"slots": [
 			{
-				"flowId": "default",
 				"schedule": {
 					"type": "daily"
 				},

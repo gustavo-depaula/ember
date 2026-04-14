@@ -5,16 +5,7 @@ import { getAllManifests } from '@/content/registry'
 import { deriveTimeBlock } from '@/features/plan-of-life/timeBlocks'
 import { composeSlotKey } from '@/lib/slotKey'
 import { getDb } from './client'
-import type { Tier, TimeBlock } from './schema'
-
-// --- Default times by time block ---
-
-const defaultTimes: Record<TimeBlock, string | undefined> = {
-  morning: '07:00',
-  daytime: '12:00',
-  evening: '20:00',
-  flexible: undefined,
-}
+import type { Tier } from './schema'
 
 // --- Simple practices (no manifest) ---
 
@@ -202,12 +193,8 @@ async function seedAllPractices(db: SQLiteDatabase, verb: 'INSERT' | 'INSERT OR 
     await db.runAsync(`${verb} INTO user_practices (practice_id) VALUES (?)`, [manifest.id])
 
     for (const slotDef of d.slots) {
-      const flow = manifest.flows.find((f) => f.id === slotDef.flowId)
-      const slotId = slotDef.slotId ?? slotDef.flowId
-      const time =
-        slotDef.time ??
-        (flow?.timeBlock ? defaultTimes[flow.timeBlock as TimeBlock] : undefined) ??
-        null
+      const slotId = slotDef.slotId ?? 'default'
+      const time = slotDef.time ?? null
       await insertSlot(db, verb, manifest.id, slotId, {
         enabled: 0,
         sortOrder: d.sortOrder,

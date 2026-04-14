@@ -25,24 +25,7 @@
 	},
 	"flowMode": "scroll",
 	"completion": "manual",
-	"flows": [
-		{
-			"id": "before",
-			"name": {
-				"en-US": "Before Meals",
-				"pt-BR": "Antes das Refeições"
-			},
-			"file": "flows/before.json"
-		},
-		{
-			"id": "after",
-			"name": {
-				"en-US": "After Meals",
-				"pt-BR": "Após as Refeições"
-			},
-			"file": "flows/after.json"
-		}
-	],
+	"flow": "flow.json",
 	"tags": [
 		"grace",
 		"meals",
@@ -54,15 +37,6 @@
 		"sortOrder": 32,
 		"slots": [
 			{
-				"flowId": "before",
-				"schedule": {
-					"type": "daily"
-				},
-				"tier": "extra",
-				"enabled": false
-			},
-			{
-				"flowId": "after",
 				"schedule": {
 					"type": "daily"
 				},

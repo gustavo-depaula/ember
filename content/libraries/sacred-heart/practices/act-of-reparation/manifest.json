@@ -9,16 +9,7 @@
   "estimatedMinutes": 5,
   "flowMode": "scroll",
   "completion": "flow-end",
-  "flows": [
-    {
-      "id": "default",
-      "name": {
-        "en-US": "Act of Reparation",
-        "pt-BR": "Ato de Desagravo"
-      },
-      "file": "flow.json"
-    }
-  ],
+  "flow": "flow.json",
   "description": {
     "en-US": "The Act of Reparation to the Sacred Heart of Jesus, a prayer of atonement for the sins and ingratitude of men toward the love of Christ. Especially recommended on First Fridays and during Eucharistic adoration.",
     "pt-BR": "O Ato de Desagravo ao Sagrado Coração de Jesus, uma oração de expiação pelos pecados e pela ingratidão dos homens diante do amor de Cristo. Especialmente recomendado nas Primeiras Sextas-feiras e durante a adoração eucarística."
@@ -36,7 +27,6 @@
     "sortOrder": 12,
     "slots": [
       {
-        "flowId": "default",
         "schedule": {
           "type": "nth-weekday",
           "n": 1,

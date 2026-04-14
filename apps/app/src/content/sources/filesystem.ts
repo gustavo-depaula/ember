@@ -1,4 +1,5 @@
 import { File } from 'expo-file-system'
+import { batchedLoad } from '@/lib/async'
 import type { ChapterManifest, PracticeManifest } from '../manifest-types'
 import type {
   CycleData,
@@ -7,7 +8,6 @@ import type {
   LectioTrackDef,
   LocalizedContent,
   LocalizedText,
-  Variant,
 } from '../types'
 
 export type PrayerAsset = {
@@ -59,9 +59,8 @@ export type ContentSource = {
   library: Library
   getManifest(practiceId: string): PracticeManifest | undefined
   getAllManifests(): PracticeManifest[]
-  loadFlow(practiceId: string, flowId: string): FlowDefinition | undefined
+  loadFlow(practiceId: string): FlowDefinition | undefined
   loadPerDayFlow(practiceId: string, day: number): FlowDefinition | undefined
-  loadVariant(practiceId: string, variantId: string): Variant | undefined
   loadData(practiceId: string): Record<string, CycleData> | undefined
   loadTracks(practiceId: string): Record<string, LectioTrackDef> | undefined
   getPrayer(ref: string): PrayerAsset | undefined
@@ -91,7 +90,6 @@ async function loadPractice(
   practiceId: string,
   manifests: Record<string, PracticeManifest>,
   flows: Map<string, FlowDefinition>,
-  variants: Map<string, Variant>,
   dataCache: Map<string, Record<string, CycleData>>,
   tracksCache: Map<string, Record<string, LectioTrackDef>>,
 ) {
@@ -102,23 +100,11 @@ async function loadPractice(
 
   const promises: Promise<void>[] = []
 
-  for (const flow of manifest.flows) {
-    promises.push(
-      readJson<FlowDefinition>(`${base}/${flow.file}`).then((def) => {
-        if (def) flows.set(`${practiceId}/${flow.id}`, def)
-      }),
-    )
-  }
-
-  if (manifest.variants?.length) {
-    for (const v of manifest.variants) {
-      promises.push(
-        readJson<Variant>(`${base}/${v.file}`).then((def) => {
-          if (def) variants.set(`${practiceId}/${v.id}`, def)
-        }),
-      )
-    }
-  }
+  promises.push(
+    readJson<FlowDefinition>(`${base}/${manifest.flow}`).then((def) => {
+      if (def) flows.set(practiceId, def)
+    }),
+  )
 
   if (manifest.data) {
     for (const [dataId, dataPath] of Object.entries(manifest.data)) {
@@ -164,11 +150,11 @@ async function loadPractice(
 function collectProseFiles(sections: FlowSection[]): string[] {
   const files: string[] = []
   for (const section of sections) {
-    if (section.type === 'prose') files.push(section.file)
+    if (section.type === 'prose' && 'file' in section) files.push(section.file)
     if ('sections' in section && Array.isArray(section.sections)) {
       files.push(...collectProseFiles(section.sections as FlowSection[]))
     }
-    if (section.type === 'options') {
+    if (section.type === 'options' && 'options' in section) {
       for (const opt of section.options) {
         files.push(...collectProseFiles(opt.sections))
       }
@@ -200,7 +186,7 @@ function rewriteImagePaths(sections: FlowSection[], baseUri: string): void {
     if (section.type === 'holy-card' && section.image && !section.image.startsWith('file://')) {
       section.image = `${baseUri}/${section.image}`
     }
-    if (section.type === 'options') {
+    if (section.type === 'options' && 'options' in section) {
       for (const opt of section.options) {
         rewriteImagePaths(opt.sections, baseUri)
       }
@@ -248,14 +234,11 @@ export async function createFileSystemSource(libraryDirUri: string): Promise<Con
 
   const manifests: Record<string, PracticeManifest> = {}
   const flows = new Map<string, FlowDefinition>()
-  const variants = new Map<string, Variant>()
   const dataCache = new Map<string, Record<string, CycleData>>()
   const tracksCache = new Map<string, Record<string, LectioTrackDef>>()
 
-  await Promise.all(
-    library.practices.map((pid) =>
-      loadPractice(libraryDirUri, pid, manifests, flows, variants, dataCache, tracksCache),
-    ),
+  await batchedLoad(library.practices, (pid) =>
+    loadPractice(libraryDirUri, pid, manifests, flows, dataCache, tracksCache),
   )
 
   const chapters: Record<string, ChapterManifest> = {}
@@ -263,20 +246,16 @@ export async function createFileSystemSource(libraryDirUri: string): Promise<Con
   const proseTexts = new Map<string, LocalizedContent>()
 
   if (library.chapters?.length) {
-    await Promise.all(
-      library.chapters.map((cid) =>
-        loadChapter(libraryDirUri, cid, library.languages, chapters, chapterFlows, proseTexts),
-      ),
+    await batchedLoad(library.chapters, (cid) =>
+      loadChapter(libraryDirUri, cid, library.languages, chapters, chapterFlows, proseTexts),
     )
   }
 
   const prayers: Record<string, PrayerAsset> = {}
-  await Promise.all(
-    library.prayers.map(async (prayerId) => {
-      const prayer = await readJson<PrayerAsset>(`${libraryDirUri}prayers/${prayerId}.json`)
-      if (prayer) prayers[prayerId] = prayer
-    }),
-  )
+  await batchedLoad(library.prayers, async (prayerId) => {
+    const prayer = await readJson<PrayerAsset>(`${libraryDirUri}prayers/${prayerId}.json`)
+    if (prayer) prayers[prayerId] = prayer
+  })
 
   const bookEntries: Record<string, BookEntry> = {}
   if (library.books?.length) {
@@ -305,9 +284,8 @@ export async function createFileSystemSource(libraryDirUri: string): Promise<Con
     library,
     getManifest: (id) => manifests[id],
     getAllManifests: () => allManifests,
-    loadFlow: (pid, fid) => flows.get(`${pid}/${fid}`),
+    loadFlow: (pid) => flows.get(pid),
     loadPerDayFlow: (pid, day) => flows.get(`${pid}/__day/${day}`),
-    loadVariant: (pid, vid) => variants.get(`${pid}/${vid}`),
     loadData: (pid) => dataCache.get(pid),
     loadTracks: (pid) => tracksCache.get(pid),
     getPrayer: (ref) => (canticleRefs.has(ref) ? undefined : prayers[ref]),

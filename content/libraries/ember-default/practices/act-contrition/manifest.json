@@ -25,54 +25,7 @@
 	},
 	"flowMode": "scroll",
 	"completion": "flow-end",
-	"flows": [
-		{
-			"id": "default",
-			"name": {
-				"en-US": "Act of Contrition",
-				"pt-BR": "Ato de Contrição"
-			},
-			"file": "flow.json"
-		}
-	],
-	"variants": [
-		{
-			"id": "traditional",
-			"name": {
-				"en-US": "Traditional",
-				"pt-BR": "Tradicional"
-			},
-			"description": {
-				"en-US": "The classic long-form Act of Contrition",
-				"pt-BR": "O Ato de Contrição clássico na forma longa"
-			},
-			"file": "variants/traditional.json"
-		},
-		{
-			"id": "short",
-			"name": {
-				"en-US": "Short Form",
-				"pt-BR": "Forma Curta"
-			},
-			"description": {
-				"en-US": "A brief Act of Contrition for daily use",
-				"pt-BR": "Um Ato de Contrição breve para uso diário"
-			},
-			"file": "variants/short.json"
-		},
-		{
-			"id": "perfect",
-			"name": {
-				"en-US": "Perfect Contrition",
-				"pt-BR": "Contrição Perfeita"
-			},
-			"description": {
-				"en-US": "An act of perfect contrition, arising from love of God",
-				"pt-BR": "Um ato de contrição perfeita, nascido do amor de Deus"
-			},
-			"file": "variants/perfect.json"
-		}
-	],
+	"flow": "flow.json",
 	"tags": [
 		"contrition",
 		"penance",
@@ -83,7 +36,6 @@
 		"sortOrder": 35,
 		"slots": [
 			{
-				"flowId": "default",
 				"schedule": {
 					"type": "daily"
 				},

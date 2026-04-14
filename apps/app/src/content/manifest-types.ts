@@ -2,28 +2,7 @@ import type { Tier } from '@/db/schema'
 import type { Schedule } from '@/features/plan-of-life/schedule'
 import type { LocalizedText } from './types'
 
-export type FlowEntry = {
-  id: string
-  name: LocalizedText
-  file: string
-  timeBlock?: string
-  group?: string
-  form?: string
-}
-
-export type FormOption = {
-  id: string
-  name: LocalizedText
-  preferenceValue: string
-}
-
-export type FormsConfig = {
-  preference: string
-  options: FormOption[]
-}
-
 export type SlotDefault = {
-  flowId: string
   slotId?: string
   schedule: Schedule
   tier?: Tier
@@ -65,14 +44,8 @@ export type PracticeManifest = {
   theme?: 'office'
   data?: Record<string, string>
   tracks?: Record<string, string>
-  forms?: FormsConfig
-  flows: FlowEntry[]
-  variants?: {
-    id: string
-    name: LocalizedText
-    description: LocalizedText
-    file: string
-  }[]
+  flow: string
+  alternativeTo?: string
   pack?: string
   tags: string[]
   defaults?: {

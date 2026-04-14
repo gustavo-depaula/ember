@@ -24,21 +24,11 @@
   "data": {
     "liturgical-map": "data/liturgical-map.json"
   },
-  "flows": [
-    {
-      "id": "default",
-      "name": {
-        "pt-BR": "Meditação do Dia",
-        "en-US": "Today's Meditation"
-      },
-      "file": "flows/daily.json"
-    }
-  ],
+  "flow": "flow.json",
   "defaults": {
     "sortOrder": 3,
     "slots": [
       {
-        "flowId": "default",
         "schedule": { "type": "daily" },
         "tier": "essential"
       }

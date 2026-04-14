@@ -99,13 +99,7 @@ export default function HomeScreen() {
         router.push({ pathname: '/plan/[practiceId]', params: { practiceId } })
         return
       }
-      if (manifest.flows.length > 1 && slotId !== 'default') {
-        router.push({ pathname: '/pray/[practiceId]', params: { practiceId, flow: slotId } })
-      } else if (manifest.flows.length > 1) {
-        router.push({ pathname: '/plan/[practiceId]', params: { practiceId } })
-      } else {
-        router.push({ pathname: '/pray/[practiceId]', params: { practiceId } })
-      }
+      router.push({ pathname: '/pray/[practiceId]', params: { practiceId } })
     },
     [router],
   )

@@ -12,16 +12,7 @@
 	"estimatedMinutes": 3,
 	"flowMode": "scroll",
 	"completion": "flow-end",
-	"flows": [
-		{
-			"id": "default",
-			"name": {
-				"en-US": "Angelus",
-				"pt-BR": "Angelus"
-			},
-			"file": "flow.json"
-		}
-	],
+	"flow": "flow.json",
 	"description": {
 		"en-US": "A devotion commemorating the Incarnation, prayed three times daily (morning, noon, evening) at the sound of the Angelus bell. It recalls the angel Gabriel's announcement to Mary and her fiat.",
 		"pt-BR": "Uma devoção que comemora a Encarnação, rezada três vezes ao dia (manhã, meio-dia, noite) ao som do sino do Angelus. Recorda o anúncio do anjo Gabriel a Maria e seu fiat."
@@ -45,7 +36,6 @@
 		"sortOrder": 7,
 		"slots": [
 			{
-				"flowId": "default",
 				"schedule": {
 					"type": "daily"
 				},

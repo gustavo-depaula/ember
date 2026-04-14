@@ -1,0 +1,146 @@
+{
+	"sections": [
+		{
+			"type": "select",
+			"label": {
+				"en-US": "Rite",
+				"pt-BR": "Rito"
+			},
+			"options": [
+				{
+					"id": "prepare",
+					"label": {
+						"en-US": "Preparation",
+						"pt-BR": "Preparação"
+					},
+					"sections": [
+						{
+							"type": "subheading",
+							"text": {
+								"en-US": "Preparation for Confession",
+								"pt-BR": "Preparação para a Confissão"
+							}
+						},
+						{
+							"type": "prayer",
+							"ref": "come-holy-spirit"
+						},
+						{
+							"type": "divider"
+						},
+						{
+							"type": "subheading",
+							"text": {
+								"en-US": "Examination of Conscience",
+								"pt-BR": "Exame de Consciência"
+							}
+						},
+						{
+							"type": "meditation",
+							"text": {
+								"en-US": "Review your life since your last confession. Consider what you have done and what you have failed to do — in your duties to God, your neighbor, and yourself. Be honest. Be specific. God already knows your heart; you are simply naming what He sees.",
+								"pt-BR": "Revise sua vida desde a última confissão. Considere o que fez e o que deixou de fazer — em seus deveres para com Deus, o próximo e você mesmo. Seja honesto. Seja específico. Deus já conhece seu coração; você está simplesmente nomeando o que Ele vê."
+							}
+						},
+						{
+							"type": "subheading",
+							"text": {
+								"en-US": "Toward God",
+								"pt-BR": "Para com Deus"
+							}
+						},
+						{
+							"type": "meditation",
+							"text": {
+								"en-US": "Have I prayed daily? Have I attended Mass on Sundays and holy days? Have I received Communion in a state of mortal sin? Have I used God's name irreverently or spoken of sacred things with contempt?",
+								"pt-BR": "Rezei diariamente? Fui à Missa nos domingos e dias santos? Recebi a Comunhão em estado de pecado mortal? Usei o nome de Deus irreverentemente ou falei das coisas sagradas com desprezo?"
+							}
+						},
+						{
+							"type": "subheading",
+							"text": {
+								"en-US": "Toward Others",
+								"pt-BR": "Para com os Outros"
+							}
+						},
+						{
+							"type": "meditation",
+							"text": {
+								"en-US": "Have I harmed anyone in body, reputation, or livelihood? Have I been uncharitable, unforgiving, or unjust? Have I been honest in my dealings? Have I failed in my duties as a spouse, parent, child, employer, or employee?",
+								"pt-BR": "Causei mal a alguém no corpo, reputação ou meios de vida? Fui caridoso, perdoei os outros, agi com justiça? Fui honesto em meus negócios? Falhei em meus deveres como cônjuge, pai/mãe, filho, empregador ou empregado?"
+							}
+						},
+						{
+							"type": "subheading",
+							"text": {
+								"en-US": "Toward Myself",
+								"pt-BR": "Para comigo Mesmo"
+							}
+						},
+						{
+							"type": "meditation",
+							"text": {
+								"en-US": "Have I been intemperate in food, drink, or the use of media? Have I been chaste in thought, word, and deed? Have I neglected the care of my soul — through laziness in prayer, avoidance of the sacraments, or failure to seek formation?",
+								"pt-BR": "Fui intemperado na comida, bebida ou uso da mídia? Fui casto em pensamentos, palavras e ações? Negligenciei o cuidado da minha alma — pela preguiça na oração, evitação dos sacramentos ou falta de busca de formação?"
+							}
+						},
+						{
+							"type": "divider"
+						},
+						{
+							"type": "subheading",
+							"text": {
+								"en-US": "Act of Contrition",
+								"pt-BR": "Ato de Contrição"
+							}
+						},
+						{
+							"type": "prayer",
+							"ref": "act-of-contrition"
+						}
+					]
+				},
+				{
+					"id": "thanksgiving",
+					"label": {
+						"en-US": "Thanksgiving",
+						"pt-BR": "Ação de Graças"
+					},
+					"sections": [
+						{
+							"type": "subheading",
+							"text": {
+								"en-US": "Thanksgiving After Confession",
+								"pt-BR": "Ação de Graças Após a Confissão"
+							}
+						},
+						{
+							"type": "meditation",
+							"text": {
+								"en-US": "You have received one of the greatest gifts God gives in this life: the forgiveness of sins. Every confession is a resurrection. The stain is removed; the grace is restored; the Father has run to embrace you. Receive this with gratitude.",
+								"pt-BR": "Você recebeu um dos maiores presentes que Deus concede nesta vida: o perdão dos pecados. Cada confissão é uma ressurreição. A mancha é removida; a graça é restaurada; o Pai correu para abraçá-lo. Receba isso com gratidão."
+							}
+						},
+						{
+							"type": "divider"
+						},
+						{
+							"type": "prayer",
+							"inline": {
+								"en-US": "Lord Jesus, I thank You for the Sacrament of Your mercy.\nThank You for the priest who stood in Your place\nand spoke Your absolution over my soul.\nI believe I am forgiven. I believe I am loved.\nHelp me to sin no more,\nand to avoid the occasions of sin.\nGive me the grace to use this new beginning well.\nMother Mary, keep me close to Your Son.\nAmen.",
+								"pt-BR": "Senhor Jesus, agradeço-Vos pelo Sacramento de Vossa misericórdia.\nObrigado pelo sacerdote que ocupou o Vosso lugar\ne pronunciou a Vossa absolvição sobre minha alma.\nCreio que sou perdoado. Creio que sou amado.\nAjudai-me a não pecar mais\ne a evitar as ocasiões de pecado.\nDai-me a graça de usar bem este novo começo.\nMãe Maria, mantenha-me perto de Seu Filho.\nAmém."
+							}
+						},
+						{
+							"type": "divider"
+						},
+						{
+							"type": "prayer",
+							"ref": "hail-mary"
+						}
+					]
+				}
+			]
+		}
+	]
+}

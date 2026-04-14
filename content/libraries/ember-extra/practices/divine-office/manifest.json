@@ -34,35 +34,7 @@
 	"flowMode": "scroll",
 	"completion": "flow-end",
 	"theme": "office",
-	"flows": [
-		{
-			"id": "morning",
-			"name": {
-				"en-US": "Morning Prayer",
-				"pt-BR": "Oração da Manhã"
-			},
-			"file": "flows/morning.json",
-			"timeBlock": "morning"
-		},
-		{
-			"id": "evening",
-			"name": {
-				"en-US": "Evening Prayer",
-				"pt-BR": "Oração da Tarde"
-			},
-			"file": "flows/evening.json",
-			"timeBlock": "evening"
-		},
-		{
-			"id": "compline",
-			"name": {
-				"en-US": "Night Prayer",
-				"pt-BR": "Oração da Noite"
-			},
-			"file": "flows/compline.json",
-			"timeBlock": "evening"
-		}
-	],
+	"flow": "flow.json",
 	"tags": [
 		"office",
 		"breviary",
@@ -72,30 +44,10 @@
 		"sortOrder": 17,
 		"slots": [
 			{
-				"flowId": "morning",
 				"schedule": {
 					"type": "daily"
 				},
-				"time": "07:00",
 				"tier": "essential",
-				"enabled": false
-			},
-			{
-				"flowId": "evening",
-				"schedule": {
-					"type": "daily"
-				},
-				"time": "20:00",
-				"tier": "essential",
-				"enabled": false
-			},
-			{
-				"flowId": "compline",
-				"schedule": {
-					"type": "daily"
-				},
-				"time": "21:00",
-				"tier": "ideal",
 				"enabled": false
 			}
 		]

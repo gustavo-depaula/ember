@@ -1,101 +1,646 @@
 {
+	"data": {
+		"joyful": [
+			{
+				"name": {
+					"en-US": "The Annunciation",
+					"pt-BR": "A Anunciação"
+				},
+				"meditation": {
+					"en-US": "The Angel Gabriel announces to the Virgin Mary that she is to be the Mother of God. Mary humbly accepts: 'Be it done unto me according to thy word.'",
+					"pt-BR": "O Anjo Gabriel anuncia à Virgem Maria que ela será a Mãe de Deus. Maria aceita humildemente: 'Faça-se em mim segundo a vossa palavra.'"
+				}
+			},
+			{
+				"name": {
+					"en-US": "The Visitation",
+					"pt-BR": "A Visitação"
+				},
+				"meditation": {
+					"en-US": "Mary visits her cousin Elizabeth, who is with child. Elizabeth cries out: 'Blessed art thou amongst women, and blessed is the fruit of thy womb!'",
+					"pt-BR": "Maria visita sua prima Isabel, que está grávida. Isabel exclama: 'Bendita sois vós entre as mulheres, e bendito é o fruto do vosso ventre!'"
+				}
+			},
+			{
+				"name": {
+					"en-US": "The Nativity",
+					"pt-BR": "O Nascimento de Jesus"
+				},
+				"meditation": {
+					"en-US": "Jesus is born in a stable in Bethlehem. The Blessed Virgin wraps Him in swaddling clothes and lays Him in a manger, for there was no room at the inn.",
+					"pt-BR": "Jesus nasce em um estábulo em Belém. A Virgem Maria O envolve em panos e O coloca numa manjedoura, pois não havia lugar na hospedaria."
+				}
+			},
+			{
+				"name": {
+					"en-US": "The Presentation",
+					"pt-BR": "A Apresentação no Templo"
+				},
+				"meditation": {
+					"en-US": "Mary and Joseph present the Child Jesus in the Temple. The aged Simeon takes Him in his arms and proclaims Him 'a light for revelation to the Gentiles.'",
+					"pt-BR": "Maria e José apresentam o Menino Jesus no Templo. O idoso Simeão O toma nos braços e O proclama 'luz para iluminar as nações.'"
+				}
+			},
+			{
+				"name": {
+					"en-US": "The Finding in the Temple",
+					"pt-BR": "A Perda e o Encontro de Jesus no Templo"
+				},
+				"meditation": {
+					"en-US": "After three days of searching, Mary and Joseph find the twelve-year-old Jesus in the Temple, sitting among the teachers. 'Did you not know that I must be about my Father's business?'",
+					"pt-BR": "Após três dias de busca, Maria e José encontram o menino Jesus de doze anos no Templo, sentado entre os doutores. 'Não sabíeis que devo estar na casa de meu Pai?'"
+				}
+			}
+		],
+		"sorrowful": [
+			{
+				"name": {
+					"en-US": "The Agony in the Garden",
+					"pt-BR": "A Agonia no Horto"
+				},
+				"meditation": {
+					"en-US": "Jesus prays in the Garden of Gethsemane. His sweat becomes like drops of blood falling to the ground. 'Father, if it be possible, let this chalice pass from me; yet not my will, but thine be done.'",
+					"pt-BR": "Jesus ora no Jardim do Getsêmani. Seu suor se torna como gotas de sangue caindo no chão. 'Pai, se for possível, afasta de mim este cálice; contudo, não se faça a minha vontade, mas a vossa.'"
+				}
+			},
+			{
+				"name": {
+					"en-US": "The Scourging at the Pillar",
+					"pt-BR": "A Flagelação"
+				},
+				"meditation": {
+					"en-US": "Jesus is bound to a pillar and cruelly scourged. By His stripes we are healed. He endures this suffering in silence, offering it for the sins of the world.",
+					"pt-BR": "Jesus é amarrado a uma coluna e cruelmente flagelado. Pelas Suas chagas fomos curados. Ele suporta este sofrimento em silêncio, oferecendo-o pelos pecados do mundo."
+				}
+			},
+			{
+				"name": {
+					"en-US": "The Crowning with Thorns",
+					"pt-BR": "A Coroação de Espinhos"
+				},
+				"meditation": {
+					"en-US": "The soldiers weave a crown of thorns and press it upon the head of Jesus. They mock Him, saying: 'Hail, King of the Jews!' Yet He is indeed the King of Kings.",
+					"pt-BR": "Os soldados tecem uma coroa de espinhos e a pressionam sobre a cabeça de Jesus. Zombam Dele, dizendo: 'Salve, Rei dos Judeus!' Porém Ele é verdadeiramente o Rei dos Reis."
+				}
+			},
+			{
+				"name": {
+					"en-US": "The Carrying of the Cross",
+					"pt-BR": "O Caminho do Calvário"
+				},
+				"meditation": {
+					"en-US": "Jesus takes up His Cross and begins the painful journey to Calvary. He falls three times under its weight, yet rises each time and continues forward for love of us.",
+					"pt-BR": "Jesus toma a Sua Cruz e começa a dolorosa caminhada até o Calvário. Cai três vezes sob o seu peso, mas levanta-se cada vez e continua adiante por amor a nós."
+				}
+			},
+			{
+				"name": {
+					"en-US": "The Crucifixion",
+					"pt-BR": "A Crucificação e Morte de Jesus"
+				},
+				"meditation": {
+					"en-US": "Jesus is nailed to the Cross and dies after three hours of agony. 'Father, forgive them, for they know not what they do.' He gives His Mother to us: 'Behold your Mother.'",
+					"pt-BR": "Jesus é pregado na Cruz e morre após três horas de agonia. 'Pai, perdoai-os, pois não sabem o que fazem.' Ele nos dá Sua Mãe: 'Eis a tua Mãe.'"
+				}
+			}
+		],
+		"glorious": [
+			{
+				"name": {
+					"en-US": "The Resurrection",
+					"pt-BR": "A Ressurreição"
+				},
+				"meditation": {
+					"en-US": "On the third day, Jesus rises gloriously from the dead. The tomb is empty. The angel proclaims: 'He is not here; He is risen, as He said.'",
+					"pt-BR": "No terceiro dia, Jesus ressuscita gloriosamente dos mortos. O túmulo está vazio. O anjo proclama: 'Ele não está aqui; ressuscitou, como havia dito.'"
+				}
+			},
+			{
+				"name": {
+					"en-US": "The Ascension",
+					"pt-BR": "A Ascensão"
+				},
+				"meditation": {
+					"en-US": "Forty days after the Resurrection, Jesus ascends into heaven in the sight of His disciples. 'I go to prepare a place for you, that where I am, you also may be.'",
+					"pt-BR": "Quarenta dias após a Ressurreição, Jesus sobe aos céus diante dos Seus discípulos. 'Vou preparar-vos um lugar, para que onde Eu estiver, vós também estejais.'"
+				}
+			},
+			{
+				"name": {
+					"en-US": "The Descent of the Holy Spirit",
+					"pt-BR": "A Vinda do Espírito Santo"
+				},
+				"meditation": {
+					"en-US": "The Holy Spirit descends upon the Apostles and the Blessed Virgin Mary in the form of tongues of fire. They are filled with courage and begin to preach the Gospel.",
+					"pt-BR": "O Espírito Santo desce sobre os Apóstolos e a Virgem Maria em forma de línguas de fogo. Ficam cheios de coragem e começam a pregar o Evangelho."
+				}
+			},
+			{
+				"name": {
+					"en-US": "The Assumption",
+					"pt-BR": "A Assunção de Nossa Senhora"
+				},
+				"meditation": {
+					"en-US": "At the end of her earthly life, the Blessed Virgin Mary is taken up body and soul into heavenly glory. The angels rejoice as their Queen enters paradise.",
+					"pt-BR": "Ao fim de sua vida terrena, a Virgem Maria é elevada de corpo e alma à glória celeste. Os anjos se alegram quando sua Rainha entra no paraíso."
+				}
+			},
+			{
+				"name": {
+					"en-US": "The Coronation of Mary",
+					"pt-BR": "A Coroação de Nossa Senhora"
+				},
+				"meditation": {
+					"en-US": "Mary is crowned Queen of Heaven and Earth. She reigns as Mother and Advocate for all her children, interceding for us before the throne of her Son.",
+					"pt-BR": "Maria é coroada Rainha do Céu e da Terra. Ela reina como Mãe e Advogada de todos os seus filhos, intercedendo por nós diante do trono de seu Filho."
+				}
+			}
+		],
+		"luminous": [
+			{
+				"name": {
+					"en-US": "The Baptism in the Jordan",
+					"pt-BR": "O Batismo de Jesus no Jordão"
+				},
+				"meditation": {
+					"en-US": "Jesus is baptized by John in the River Jordan. The heavens open, the Spirit descends like a dove, and the Father's voice proclaims: 'This is my beloved Son, in whom I am well pleased.'",
+					"pt-BR": "Jesus é batizado por João no Rio Jordão. Os céus se abrem, o Espírito desce como uma pomba, e a voz do Pai proclama: 'Este é o meu Filho amado, em quem me comprazo.'"
+				}
+			},
+			{
+				"name": {
+					"en-US": "The Wedding at Cana",
+					"pt-BR": "As Bodas de Caná"
+				},
+				"meditation": {
+					"en-US": "At the wedding feast in Cana, Mary tells Jesus: 'They have no wine.' At her intercession, Jesus works His first miracle, changing water into wine.",
+					"pt-BR": "Nas bodas de Caná, Maria diz a Jesus: 'Eles não têm vinho.' Por sua intercessão, Jesus realiza Seu primeiro milagre, transformando água em vinho."
+				}
+			},
+			{
+				"name": {
+					"en-US": "The Proclamation of the Kingdom",
+					"pt-BR": "O Anúncio do Reino de Deus"
+				},
+				"meditation": {
+					"en-US": "Jesus proclaims the Kingdom of God and calls all to conversion. 'The time is fulfilled, and the Kingdom of God is at hand. Repent, and believe in the Gospel.'",
+					"pt-BR": "Jesus proclama o Reino de Deus e chama todos à conversão. 'O tempo está cumprido e o Reino de Deus está próximo. Arrependei-vos e crede no Evangelho.'"
+				}
+			},
+			{
+				"name": {
+					"en-US": "The Transfiguration",
+					"pt-BR": "A Transfiguração"
+				},
+				"meditation": {
+					"en-US": "Jesus is transfigured on Mount Tabor. His face shines like the sun, and His garments become white as light. Moses and Elijah appear, and the Father's voice is heard again.",
+					"pt-BR": "Jesus se transfigura no Monte Tabor. Seu rosto brilha como o sol e Suas vestes se tornam brancas como a luz. Moisés e Elias aparecem, e a voz do Pai é ouvida novamente."
+				}
+			},
+			{
+				"name": {
+					"en-US": "The Institution of the Eucharist",
+					"pt-BR": "A Instituição da Eucaristia"
+				},
+				"meditation": {
+					"en-US": "At the Last Supper, Jesus takes bread and wine and gives us His Body and Blood. 'Do this in remembrance of me.' He gives Himself completely, remaining with us until the end of time.",
+					"pt-BR": "Na Última Ceia, Jesus toma o pão e o vinho e nos dá Seu Corpo e Sangue. 'Fazei isto em memória de mim.' Ele Se entrega completamente, permanecendo conosco até o fim dos tempos."
+				}
+			}
+		]
+	},
 	"sections": [
 		{
-			"type": "subheading",
-			"text": {
-				"en-US": "Opening Prayers",
-				"pt-BR": "Orações Iniciais"
-			}
-		},
-		{
-			"type": "prayer",
-			"ref": "sign-of-cross"
-		},
-		{
-			"type": "prayer",
-			"ref": "apostles-creed"
-		},
-		{
-			"type": "prayer",
-			"ref": "our-father"
-		},
-		{
-			"type": "repeat",
-			"count": 3,
-			"sections": [
-				{
-					"type": "prayer",
-					"ref": "hail-mary"
-				}
-			]
-		},
-		{
-			"type": "prayer",
-			"ref": "glory-be"
-		},
-		{
-			"type": "divider"
-		},
-		{
-			"type": "repeat",
-			"count": 5,
-			"variable": {
-				"source": "variant",
-				"key": "mysteries"
+			"type": "select",
+			"on": "dayOfWeek",
+			"as": "mysteries",
+			"label": {
+				"en-US": "Mysteries",
+				"pt-BR": "Mistérios"
 			},
-			"sections": [
+			"map": {
+				"0": "glorious",
+				"1": "joyful",
+				"2": "sorrowful",
+				"3": "glorious",
+				"4": "luminous",
+				"5": "sorrowful",
+				"6": "joyful"
+			},
+			"options": [
 				{
-					"type": "heading",
-					"text": {
-						"en-US": "{{ordinal}} Mystery: {{name}}",
-						"pt-BR": "{{ordinal}} Mistério: {{name}}"
-					}
-				},
-				{
-					"type": "meditation",
-					"text": "{{meditation}}"
-				},
-				{
-					"type": "prayer",
-					"ref": "our-father"
-				},
-				{
-					"type": "repeat",
-					"count": 10,
+					"id": "joyful",
+					"label": {
+						"en-US": "Joyful Mysteries",
+						"pt-BR": "Mistérios Gozosos"
+					},
 					"sections": [
 						{
+							"type": "subheading",
+							"text": {
+								"en-US": "Opening Prayers",
+								"pt-BR": "Orações Iniciais"
+							}
+						},
+						{
 							"type": "prayer",
-							"ref": "hail-mary"
+							"ref": "sign-of-cross"
+						},
+						{
+							"type": "prayer",
+							"ref": "apostles-creed"
+						},
+						{
+							"type": "prayer",
+							"ref": "our-father"
+						},
+						{
+							"type": "repeat",
+							"count": 3,
+							"sections": [
+								{
+									"type": "prayer",
+									"ref": "hail-mary"
+								}
+							]
+						},
+						{
+							"type": "prayer",
+							"ref": "glory-be"
+						},
+						{
+							"type": "divider"
+						},
+						{
+							"type": "repeat",
+							"count": 5,
+							"from": "joyful",
+							"sections": [
+								{
+									"type": "heading",
+									"text": {
+										"en-US": "{{ordinal}} Mystery: {{name}}",
+										"pt-BR": "{{ordinal}} Mistério: {{name}}"
+									}
+								},
+								{
+									"type": "meditation",
+									"text": "{{meditation}}"
+								},
+								{
+									"type": "prayer",
+									"ref": "our-father"
+								},
+								{
+									"type": "repeat",
+									"count": 10,
+									"sections": [
+										{
+											"type": "prayer",
+											"ref": "hail-mary"
+										}
+									]
+								},
+								{
+									"type": "prayer",
+									"ref": "glory-be"
+								},
+								{
+									"type": "prayer",
+									"ref": "fatima-prayer"
+								},
+								{
+									"type": "divider"
+								}
+							]
+						},
+						{
+							"type": "subheading",
+							"text": {
+								"en-US": "Closing Prayers",
+								"pt-BR": "Orações Finais"
+							}
+						},
+						{
+							"type": "prayer",
+							"ref": "hail-holy-queen"
+						},
+						{
+							"type": "prayer",
+							"ref": "sign-of-cross"
 						}
 					]
 				},
 				{
-					"type": "prayer",
-					"ref": "glory-be"
+					"id": "sorrowful",
+					"label": {
+						"en-US": "Sorrowful Mysteries",
+						"pt-BR": "Mistérios Dolorosos"
+					},
+					"sections": [
+						{
+							"type": "subheading",
+							"text": {
+								"en-US": "Opening Prayers",
+								"pt-BR": "Orações Iniciais"
+							}
+						},
+						{
+							"type": "prayer",
+							"ref": "sign-of-cross"
+						},
+						{
+							"type": "prayer",
+							"ref": "apostles-creed"
+						},
+						{
+							"type": "prayer",
+							"ref": "our-father"
+						},
+						{
+							"type": "repeat",
+							"count": 3,
+							"sections": [
+								{
+									"type": "prayer",
+									"ref": "hail-mary"
+								}
+							]
+						},
+						{
+							"type": "prayer",
+							"ref": "glory-be"
+						},
+						{
+							"type": "divider"
+						},
+						{
+							"type": "repeat",
+							"count": 5,
+							"from": "sorrowful",
+							"sections": [
+								{
+									"type": "heading",
+									"text": {
+										"en-US": "{{ordinal}} Mystery: {{name}}",
+										"pt-BR": "{{ordinal}} Mistério: {{name}}"
+									}
+								},
+								{
+									"type": "meditation",
+									"text": "{{meditation}}"
+								},
+								{
+									"type": "prayer",
+									"ref": "our-father"
+								},
+								{
+									"type": "repeat",
+									"count": 10,
+									"sections": [
+										{
+											"type": "prayer",
+											"ref": "hail-mary"
+										}
+									]
+								},
+								{
+									"type": "prayer",
+									"ref": "glory-be"
+								},
+								{
+									"type": "prayer",
+									"ref": "fatima-prayer"
+								},
+								{
+									"type": "divider"
+								}
+							]
+						},
+						{
+							"type": "subheading",
+							"text": {
+								"en-US": "Closing Prayers",
+								"pt-BR": "Orações Finais"
+							}
+						},
+						{
+							"type": "prayer",
+							"ref": "hail-holy-queen"
+						},
+						{
+							"type": "prayer",
+							"ref": "sign-of-cross"
+						}
+					]
 				},
 				{
-					"type": "prayer",
-					"ref": "fatima-prayer"
+					"id": "glorious",
+					"label": {
+						"en-US": "Glorious Mysteries",
+						"pt-BR": "Mistérios Gloriosos"
+					},
+					"sections": [
+						{
+							"type": "subheading",
+							"text": {
+								"en-US": "Opening Prayers",
+								"pt-BR": "Orações Iniciais"
+							}
+						},
+						{
+							"type": "prayer",
+							"ref": "sign-of-cross"
+						},
+						{
+							"type": "prayer",
+							"ref": "apostles-creed"
+						},
+						{
+							"type": "prayer",
+							"ref": "our-father"
+						},
+						{
+							"type": "repeat",
+							"count": 3,
+							"sections": [
+								{
+									"type": "prayer",
+									"ref": "hail-mary"
+								}
+							]
+						},
+						{
+							"type": "prayer",
+							"ref": "glory-be"
+						},
+						{
+							"type": "divider"
+						},
+						{
+							"type": "repeat",
+							"count": 5,
+							"from": "glorious",
+							"sections": [
+								{
+									"type": "heading",
+									"text": {
+										"en-US": "{{ordinal}} Mystery: {{name}}",
+										"pt-BR": "{{ordinal}} Mistério: {{name}}"
+									}
+								},
+								{
+									"type": "meditation",
+									"text": "{{meditation}}"
+								},
+								{
+									"type": "prayer",
+									"ref": "our-father"
+								},
+								{
+									"type": "repeat",
+									"count": 10,
+									"sections": [
+										{
+											"type": "prayer",
+											"ref": "hail-mary"
+										}
+									]
+								},
+								{
+									"type": "prayer",
+									"ref": "glory-be"
+								},
+								{
+									"type": "prayer",
+									"ref": "fatima-prayer"
+								},
+								{
+									"type": "divider"
+								}
+							]
+						},
+						{
+							"type": "subheading",
+							"text": {
+								"en-US": "Closing Prayers",
+								"pt-BR": "Orações Finais"
+							}
+						},
+						{
+							"type": "prayer",
+							"ref": "hail-holy-queen"
+						},
+						{
+							"type": "prayer",
+							"ref": "sign-of-cross"
+						}
+					]
 				},
 				{
-					"type": "divider"
+					"id": "luminous",
+					"label": {
+						"en-US": "Luminous Mysteries",
+						"pt-BR": "Mistérios Luminosos"
+					},
+					"sections": [
+						{
+							"type": "subheading",
+							"text": {
+								"en-US": "Opening Prayers",
+								"pt-BR": "Orações Iniciais"
+							}
+						},
+						{
+							"type": "prayer",
+							"ref": "sign-of-cross"
+						},
+						{
+							"type": "prayer",
+							"ref": "apostles-creed"
+						},
+						{
+							"type": "prayer",
+							"ref": "our-father"
+						},
+						{
+							"type": "repeat",
+							"count": 3,
+							"sections": [
+								{
+									"type": "prayer",
+									"ref": "hail-mary"
+								}
+							]
+						},
+						{
+							"type": "prayer",
+							"ref": "glory-be"
+						},
+						{
+							"type": "divider"
+						},
+						{
+							"type": "repeat",
+							"count": 5,
+							"from": "luminous",
+							"sections": [
+								{
+									"type": "heading",
+									"text": {
+										"en-US": "{{ordinal}} Mystery: {{name}}",
+										"pt-BR": "{{ordinal}} Mistério: {{name}}"
+									}
+								},
+								{
+									"type": "meditation",
+									"text": "{{meditation}}"
+								},
+								{
+									"type": "prayer",
+									"ref": "our-father"
+								},
+								{
+									"type": "repeat",
+									"count": 10,
+									"sections": [
+										{
+											"type": "prayer",
+											"ref": "hail-mary"
+										}
+									]
+								},
+								{
+									"type": "prayer",
+									"ref": "glory-be"
+								},
+								{
+									"type": "prayer",
+									"ref": "fatima-prayer"
+								},
+								{
+									"type": "divider"
+								}
+							]
+						},
+						{
+							"type": "subheading",
+							"text": {
+								"en-US": "Closing Prayers",
+								"pt-BR": "Orações Finais"
+							}
+						},
+						{
+							"type": "prayer",
+							"ref": "hail-holy-queen"
+						},
+						{
+							"type": "prayer",
+							"ref": "sign-of-cross"
+						}
+					]
 				}
 			]
-		},
-		{
-			"type": "subheading",
-			"text": {
-				"en-US": "Closing Prayers",
-				"pt-BR": "Orações Finais"
-			}
-		},
-		{
-			"type": "prayer",
-			"ref": "hail-holy-queen"
-		},
-		{
-			"type": "prayer",
-			"ref": "sign-of-cross"
 		}
 	]
 }

@@ -1,0 +1,133 @@
+{
+	"sections": [
+		{
+			"type": "select",
+			"label": {
+				"en-US": "Prayer",
+				"pt-BR": "Oração"
+			},
+			"options": [
+				{
+					"id": "before-study",
+					"label": {
+						"en-US": "Prayer Before Study",
+						"pt-BR": "Oração Antes do Estudo"
+					},
+					"sections": [
+						{
+							"type": "prayer",
+							"ref": "sign-of-cross"
+						},
+						{
+							"type": "divider"
+						},
+						{
+							"type": "prayer",
+							"inline": {
+								"en-US": "Creator of all things, true Source of light and wisdom, lofty origin of all being, graciously let a ray of Your brilliance penetrate into the darkness of my understanding and take from me the double darkness in which I have been born, an obscurity of both sin and ignorance. Give me a sharp sense of understanding, a retentive memory, and the ability to grasp things correctly and fundamentally. Grant me the talent of being exact in my explanations, and the ability to express myself with thoroughness and charm. Point out the beginning, direct the progress, and help in the completion; through Christ our Lord. Amen.",
+								"la": "Creator ineffabilis, qui de thesauris sapientiae tuae tres Angelorum hierarchias designasti et eas super caelum empyreum miro ordine collocasti atque universi partes elegantissime distribuisti: tu, inquam, qui verus fons luminis et sapientiae diceris ac supereminens principium, infundere digneris super intellectus mei tenebras tuae radium claritatis, duplices in quibus natus sum a me removens tenebras, peccatum scilicet et ignorantiam. Tu, qui linguas infantium facis disertas, linguam meam erudias atque in labiis meis gratiam tuae benedictionis infundas. Da mihi intelligendi acumen, retinendi capacitatem, addiscendi modum et facilitatem, interpretandi subtilitatem, loquendi gratiam copiosam. Ingressum instruas, progressum dirigas, egressum compleas; per Christum Dominum nostrum. Amen.",
+								"pt-BR": "Criador inefável, verdadeira Fonte de luz e sabedoria, origem sublime de todo ser, dignai-Vos derramar sobre as trevas da minha inteligência um raio da Vossa claridade, afastando de mim a dupla obscuridade em que nasci: o pecado e a ignorância. Vós, que tornais eloquentes as línguas das crianças, instruí a minha língua e derramai nos meus lábios a graça da Vossa bênção. Dai-me agudeza para entender, capacidade para reter, método e facilidade para aprender, sutileza para interpretar e graça copiosa para falar. Orientai o começo, dirigi o progresso e completai a conclusão; por Cristo nosso Senhor. Amém."
+							}
+						}
+					]
+				},
+				{
+					"id": "after-study",
+					"label": {
+						"en-US": "Prayer After Study",
+						"pt-BR": "Oração Depois do Estudo"
+					},
+					"sections": [
+						{
+							"type": "prayer",
+							"ref": "sign-of-cross"
+						},
+						{
+							"type": "divider"
+						},
+						{
+							"type": "prayer",
+							"inline": {
+								"en-US": "I thank You, Lord our God, for all the benefits which You have given me, O Almighty God, who lives and reigns world without end. May the souls of the faithful departed, through the mercy of God, rest in peace. Amen.",
+								"la": "Gratias tibi ago, Domine sancte, Pater omnipotens, aeterne Deus, pro universis beneficiis tuis, qui vivis et regnas in saecula saeculorum. Fidelium animae per misericordiam Dei requiescant in pace. Amen.",
+								"pt-BR": "Agradeço-Vos, Senhor nosso Deus, por todos os benefícios que me concedestes, ó Deus todo-poderoso, que viveis e reinais pelos séculos dos séculos. Que as almas dos fiéis defuntos, pela misericórdia de Deus, descansem em paz. Amém."
+							}
+						}
+					]
+				},
+				{
+					"id": "before-communion",
+					"label": {
+						"en-US": "Prayer Before Communion",
+						"pt-BR": "Oração Antes da Comunhão"
+					},
+					"sections": [
+						{
+							"type": "prayer",
+							"ref": "sign-of-cross"
+						},
+						{
+							"type": "divider"
+						},
+						{
+							"type": "prayer",
+							"inline": {
+								"en-US": "Almighty and ever-living God, I approach the sacrament of Your only-begotten Son, our Lord Jesus Christ. I come sick to the doctor of life, unclean to the fountain of mercy, blind to the radiance of eternal light, and poor and needy to the Lord of heaven and earth.\n\nLord, in Your great generosity, heal my sickness, wash away my defilement, enlighten my blindness, enrich my poverty, and clothe my nakedness.\n\nMay I receive the Bread of Angels, the King of kings and Lord of lords, with humble reverence, with the purity and faith, the repentance and love, and the determined purpose that will help to bring me to salvation.\n\nMay I receive the sacrament of the Lord's Body and Blood, and its reality and power.\n\nKind God, may I receive the Body of Your only-begotten Son, our Lord Jesus Christ, born from the womb of the Virgin Mary, and so be received into His mystical Body and numbered among His members.\n\nLoving Father, as on my earthly pilgrimage I now receive Your beloved Son under the veil of a sacrament, may I one day see Him face to face in glory, who lives and reigns with You for ever and ever. Amen.",
+								"la": "Omnipotens sempiterne Deus, ecce accedo ad sacramentum unigeniti Filii tui, Domini nostri Iesu Christi; accedo tamquam infirmus ad medicum vitae, immundus ad fontem misericordiae, caecus ad lumen claritatis aeternae, pauper et egenus ad Dominum caeli et terrae.\n\nRogo ergo immensae largitatis tuae abundantiam, quatenus meam curare digneris infirmitatem, lavare foeditatem, illuminare caecitatem, ditare paupertatem, vestire nuditatem.\n\nUt panem Angelorum, Regem regum et Dominum dominantium, tanta suscipiam reverentia et humilitate, tanta contritione et devotione, tanta puritate et fide, tali proposito et intentione, sicut expedit saluti animae meae.\n\nDa mihi, quaeso, Dominici Corporis et Sanguinis non solum suscipere sacramentum, sed etiam rem et virtutem sacramenti.\n\nO mitissime Deus, da mihi Corpus unigeniti Filii tui, Domini nostri Iesu Christi, quod traxit de Virgine Maria, sic suscipere, ut corpori suo mystico merear incorporari et inter eius membra connumerari.\n\nO amantissime Pater, concede mihi dilectum Filium tuum, quem nunc velatum in via suscipere propono, revelata tandem facie perpetuo contemplari, qui tecum vivit et regnat in saecula saeculorum. Amen.",
+								"pt-BR": "Deus todo-poderoso e eterno, eis que me aproximo do sacramento do Vosso Filho Unigênito, nosso Senhor Jesus Cristo. Aproximo-me como enfermo ao médico da vida, como impuro à fonte da misericórdia, como cego à luz da claridade eterna, e como pobre e necessitado ao Senhor do céu e da terra.\n\nRogo à abundância da Vossa imensa generosidade que Vos digneis curar a minha enfermidade, lavar a minha imundície, iluminar a minha cegueira, enriquecer a minha pobreza e vestir a minha nudez.\n\nQue eu receba o Pão dos Anjos, o Rei dos reis e Senhor dos senhores, com tanta reverência e humildade, tanta contrição e devoção, tanta pureza e fé, com tal propósito e intenção como convém à salvação da minha alma.\n\nConcedei-me, suplico-Vos, receber não só o sacramento do Corpo e do Sangue do Senhor, mas também a realidade e a virtude do sacramento.\n\nÓ Deus clementíssimo, concedei-me receber o Corpo do Vosso Filho Unigênito, nosso Senhor Jesus Cristo, nascido da Virgem Maria, de tal modo que eu mereça ser incorporado ao Seu Corpo Místico e contado entre os Seus membros.\n\nÓ Pai amorosíssimo, concedei-me contemplar um dia, face a face e para sempre, o Vosso Filho amado, que agora me proponho receber velado sob o sacramento nesta peregrinação terrena, e que convosco vive e reina pelos séculos dos séculos. Amém."
+							}
+						}
+					]
+				},
+				{
+					"id": "after-communion",
+					"label": {
+						"en-US": "Prayer After Communion",
+						"pt-BR": "Oração Depois da Comunhão"
+					},
+					"sections": [
+						{
+							"type": "prayer",
+							"ref": "sign-of-cross"
+						},
+						{
+							"type": "divider"
+						},
+						{
+							"type": "prayer",
+							"inline": {
+								"en-US": "Lord, Father all-powerful and ever-living God, I thank You, for even though I am a sinner, Your unprofitable servant, not because of my worth but because of Your mercy, You have fed me with the precious Body and Blood of Your Son, our Lord Jesus Christ.\n\nI pray that this Holy Communion may not bring me condemnation and punishment, but forgiveness and salvation. May it be a helmet of faith and a shield of good will. May it purify me from evil ways and put an end to my evil passions. May it bring me charity and patience, humility and obedience, and growth in the power to do good.\n\nMay it be my strong defense against all my enemies, both seen and unseen, and the perfect calming of all my evil impulses, bodily and spiritual. May it unite me more closely to You, the one true God, and lead me safely through death to everlasting happiness with You.\n\nAnd I pray that You will lead me, a sinner, to the banquet where You, with Your Son and Holy Spirit, are true and perfect light, total fulfillment, everlasting joy, gladness without end, and perfect happiness to Your saints. Grant this through Christ our Lord. Amen.",
+								"la": "Gratias tibi ago, Domine sancte, Pater omnipotens, aeterne Deus, qui me peccatorem, indignum famulum tuum, nullis meis meritis, sed sola dignatione misericordiae tuae, satiare dignatus es pretioso Corpore et Sanguine Filii tui, Domini nostri Iesu Christi.\n\nEt precor ut haec sancta Communio non sit mihi reatus ad poenam, sed intercessio salutaris ad veniam. Sit mihi armatura fidei et scutum bonae voluntatis. Sit vitiorum meorum evacuatio, concupiscentiae et libidinis exterminatio, caritatis et patientiae, humilitatis et obedientiae, omniumque virtutum augmentatio.\n\nContra insidias inimicorum omnium, tam visibilium quam invisibilium, firma defensio; motuum meorum, tam carnalium quam spiritualium, perfecta quietatio; in te uno ac vero Deo firma adhaesio; atque finis mei felix consummatio.\n\nEt precor te ut ad illud ineffabile convivium me peccatorem perducere digneris, ubi tu cum Filio tuo et Spiritu Sancto sanctis tuis es lux vera, satietas plena, gaudium sempiternum, iucunditas consummata et felicitas perfecta. Per eundem Christum Dominum nostrum. Amen.",
+								"pt-BR": "Agradeço-Vos, Senhor santo, Pai todo-poderoso, Deus eterno, porque, ainda que pecador e servo indigno, não por meus méritos, mas somente pela dignação da Vossa misericórdia, Vos dignastes saciar-me com o precioso Corpo e Sangue de Vosso Filho, nosso Senhor Jesus Cristo.\n\nE suplico-Vos que esta sagrada Comunhão não me seja causa de condenação, mas intercessão salutar para o perdão. Seja para mim a armadura da fé e o escudo da boa vontade. Seja a purificação dos meus vícios, a extinção da concupiscência e da luxúria, o aumento da caridade e da paciência, da humildade e da obediência, e de todas as virtudes.\n\nSeja firme defesa contra as ciladas de todos os inimigos, tanto visíveis como invisíveis; perfeita quietação dos meus movimentos carnais e espirituais; firme adesão a Vós, o único e verdadeiro Deus; e feliz consumação do meu fim.\n\nE suplico-Vos que Vos digneis conduzir-me, pecador, àquele inefável banquete, onde Vós, com o Vosso Filho e o Espírito Santo, sois para os Vossos santos a verdadeira luz, a plena saciedade, a alegria sempiterna, a felicidade consumada e a perfeita bem-aventurança. Por Cristo nosso Senhor. Amém."
+							}
+						}
+					]
+				},
+				{
+					"id": "adoro-te-devote",
+					"label": {
+						"en-US": "Adoro Te Devote",
+						"pt-BR": "Adoro Te Devote"
+					},
+					"sections": [
+						{
+							"type": "prayer",
+							"ref": "sign-of-cross"
+						},
+						{
+							"type": "divider"
+						},
+						{
+							"type": "prayer",
+							"inline": {
+								"en-US": "I devoutly adore You, O hidden Deity,\ntruly hidden beneath these appearances.\nMy whole heart submits to You,\nand in contemplating You, it surrenders itself completely.\n\nSight, touch, and taste are each deceived in You,\nbut hearing alone most safely is believed.\nI believe all that the Son of God has spoken;\nthere is nothing truer than this Word of Truth.\n\nOn the Cross was hidden but Your Deity;\nbut here likewise is hidden Your Humanity.\nBoth, however, I believe and profess;\nI ask for what the penitent thief asked.\n\nI do not see the wounds as Thomas did,\nbut I confess that You are my God.\nMake me believe more and more in You,\nhope in You, and love You.\n\nO memorial of our Lord's death!\nLiving Bread, giving life to man,\ngrant my soul to live on You,\nand always to savor Your sweetness.\n\nLoving Pelican, O Jesus Lord,\ncleanse me, unclean, with Your Blood,\nof which one drop can free\nthe entire world of all its sins.\n\nJesus, whom now I see hidden,\nI ask You to fulfill what I so desire:\nthat the sight of Your Face being unveiled,\nI may have the happiness of seeing Your glory. Amen.",
+								"la": "Adoro te devote, latens Deitas,\nquae sub his figuris vere latitas:\ntibi se cor meum totum subiicit,\nquia te contemplans totum deficit.\n\nVisus, tactus, gustus in te fallitur,\nsed auditu solo tuto creditur:\ncredo quidquid dixit Dei Filius;\nnil hoc verbo Veritatis verius.\n\nIn cruce latebat sola Deitas,\nat hic latet simul et humanitas:\nambo tamen credens atque confitens,\npeto quod petivit latro paenitens.\n\nPlagas, sicut Thomas, non intueor;\nDeum tamen meum te confiteor:\nfac me tibi semper magis credere,\nin te spem habere, te diligere.\n\nO memoriale mortis Domini!\nPanis vivus, vitam praestans homini!\nPraesta meae menti de te vivere\net te illi semper dulce sapere.\n\nPie pellicane, Iesu Domine,\nme immundum munda tuo sanguine,\ncuius una stilla salvum facere\ntotum mundum quit ab omni scelere.\n\nIesu, quem velatum nunc aspicio,\noro fiat illud quod tam sitio:\nut te revelata cernens facie,\nvisu sim beatus tuae gloriae. Amen.",
+								"pt-BR": "Eu Vos adoro devotamente, ó Divindade escondida,\nque verdadeiramente Vos ocultais sob estas aparências.\nMeu coração inteiro a Vós se submete,\nporque ao Vos contemplar, inteiramente se rende.\n\nA vista, o tato e o gosto em Vós se enganam,\nmas somente pelo ouvido com segurança se crê.\nCreio em tudo o que disse o Filho de Deus;\nnada há mais verdadeiro que esta Palavra de Verdade.\n\nNa Cruz escondia-se somente a Divindade,\nmas aqui se esconde também a Humanidade.\nEm ambas, porém, creio e confesso;\npeço o que pediu o ladrão arrependido.\n\nAs chagas, como Tomé, eu não vejo,\nmas confesso que sois meu Deus.\nFazei-me crer cada vez mais em Vós,\nesperar em Vós e amar-Vos.\n\nÓ memorial da morte do Senhor!\nPão vivo, que dais vida ao homem!\nConcedei à minha alma viver de Vós\ne sempre saborear a Vossa doçura.\n\nÓ piedoso Pelicano, Senhor Jesus,\npurificai-me, impuro, com o Vosso Sangue,\ndo qual uma só gota pode salvar\no mundo inteiro de todo pecado.\n\nJesus, a quem agora vejo velado,\npeço-Vos que se cumpra o que tanto desejo:\nque, ao contemplar Vossa face revelada,\neu seja feliz vendo a Vossa glória. Amém."
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}

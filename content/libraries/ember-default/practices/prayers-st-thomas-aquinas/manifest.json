@@ -25,48 +25,7 @@
 	},
 	"flowMode": "scroll",
 	"completion": "flow-end",
-	"flows": [
-		{
-			"id": "before-study",
-			"name": {
-				"en-US": "Prayer Before Study",
-				"pt-BR": "Oração Antes do Estudo"
-			},
-			"file": "flows/before-study.json"
-		},
-		{
-			"id": "after-study",
-			"name": {
-				"en-US": "Prayer After Study",
-				"pt-BR": "Oração Depois do Estudo"
-			},
-			"file": "flows/after-study.json"
-		},
-		{
-			"id": "before-communion",
-			"name": {
-				"en-US": "Prayer Before Communion",
-				"pt-BR": "Oração Antes da Comunhão"
-			},
-			"file": "flows/before-communion.json"
-		},
-		{
-			"id": "after-communion",
-			"name": {
-				"en-US": "Prayer After Communion",
-				"pt-BR": "Oração Depois da Comunhão"
-			},
-			"file": "flows/after-communion.json"
-		},
-		{
-			"id": "adoro-te-devote",
-			"name": {
-				"en-US": "Adoro Te Devote",
-				"pt-BR": "Adoro Te Devote"
-			},
-			"file": "flows/adoro-te-devote.json"
-		}
-	],
+	"flow": "flow.json",
 	"tags": [
 		"aquinas",
 		"thomas",
@@ -80,7 +39,6 @@
 		"sortOrder": 40,
 		"slots": [
 			{
-				"flowId": "before-study",
 				"schedule": {
 					"type": "daily"
 				},

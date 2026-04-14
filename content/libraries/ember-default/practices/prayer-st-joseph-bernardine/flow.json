@@ -1,0 +1,15 @@
+{
+	"sections": [
+		{
+			"type": "prayer",
+			"ref": "sign-of-cross"
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O Saint Joseph, whose protection is so great, so strong, so prompt before the throne of God, I place in thee all my interests and desires.\n\nO Saint Joseph, do assist me by thy powerful intercession, and obtain for me from thy Divine Son all spiritual blessings, through Jesus Christ, Our Lord; so that, having engaged here below thy heavenly power, I may offer my thanksgiving and homage to the most loving of Fathers.\n\nO Saint Joseph, I never weary contemplating thee and Jesus asleep in thine arms. I dare not approach while He reposes near thy heart. Press Him in my name and kiss His fine head for me, and ask Him to return the kiss when I draw my dying breath. Saint Joseph, Patron of departing souls, pray for us. Amen.",
+				"pt-BR": "Ó São José, cujo patrocínio é tão grande, tão forte, tão pronto perante o trono de Deus, em vós deposito todos os meus interesses e desejos.\n\nÓ São José, auxiliai-me com vossa poderosa intercessão e obtende-me de vosso Divino Filho todas as bênçãos espirituais, por Jesus Cristo, Nosso Senhor; para que, tendo empenhado aqui abaixo vosso poder celestial, possa oferecer a minha gratidão e homenagem ao mais amante dos Pais.\n\nÓ São José, nunca me canso de contemplar-vos a vós e a Jesus dormindo nos vossos braços. Não ouso aproximar-me enquanto Ele repousa perto do vosso coração. Apertai-O em meu nome e dai-Lhe um beijo na cabeça por mim, e pedi-Lhe que me devolva esse beijo quando chegar a minha última hora. São José, Padroeiro dos agonizantes, rogai por nós. Amém."
+			}
+		}
+	]
+}

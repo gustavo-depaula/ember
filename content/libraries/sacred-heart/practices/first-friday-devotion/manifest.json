@@ -18,16 +18,7 @@
   "data": {
     "first-fridays": "data/months.json"
   },
-  "flows": [
-    {
-      "id": "default",
-      "name": {
-        "en-US": "First Friday Devotion",
-        "pt-BR": "Devoção da Primeira Sexta-feira"
-      },
-      "file": "flow.json"
-    }
-  ],
+  "flow": "flow.json",
   "description": {
     "en-US": "The devotion of the Nine First Fridays, based on the Great Promise of the Sacred Heart to St. Margaret Mary Alacoque. Receive Holy Communion on the first Friday of nine consecutive months in reparation to the Sacred Heart.",
     "pt-BR": "A devoção das Nove Primeiras Sextas-feiras, baseada na Grande Promessa do Sagrado Coração a Santa Margarida Maria Alacoque. Receba a Sagrada Comunhão na primeira sexta-feira de nove meses consecutivos em reparação ao Sagrado Coração."
@@ -45,7 +36,6 @@
     "sortOrder": 10,
     "slots": [
       {
-        "flowId": "default",
         "schedule": {
           "type": "nth-weekday",
           "n": 1,

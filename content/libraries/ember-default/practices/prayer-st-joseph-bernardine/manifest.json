@@ -1,0 +1,34 @@
+{
+	"id": "prayer-st-joseph-bernardine",
+	"alternativeTo": "prayer-st-joseph",
+	"icon": "prayer",
+	"name": {
+		"en-US": "Prayer to St. Joseph (St. Bernardine)",
+		"pt-BR": "Oração a São José (São Bernardino)"
+	},
+	"categories": [
+		"saints",
+		"devotion",
+		"family"
+	],
+	"estimatedMinutes": 3,
+	"description": {
+		"en-US": "The prayer attributed to St. Bernardine of Siena",
+		"pt-BR": "A oração atribuída a São Bernardino de Siena"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flow": "flow.json",
+	"defaults": {
+		"sortOrder": 30,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
+}

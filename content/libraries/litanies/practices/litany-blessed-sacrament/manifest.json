@@ -21,22 +21,12 @@
 	},
 	"flowMode": "scroll",
 	"completion": "flow-end",
-	"flows": [
-		{
-			"id": "default",
-			"name": {
-				"en-US": "Litany of the Blessed Sacrament",
-				"pt-BR": "Ladainha do Santíssimo Sacramento"
-			},
-			"file": "flow.json"
-		}
-	],
+	"flow": "flow.json",
 	"tags": ["litany", "blessed-sacrament", "eucharist"],
 	"defaults": {
 		"sortOrder": 58,
 		"slots": [
 			{
-				"flowId": "default",
 				"schedule": {
 					"type": "daily"
 				},

@@ -1,0 +1,22 @@
+{
+	"id": "stations-cross-jpii",
+	"alternativeTo": "stations-cross",
+	"icon": "cross",
+	"name": {
+		"en-US": "John Paul II's Way of the Cross",
+		"pt-BR": "Via Sacra de João Paulo II"
+	},
+	"categories": ["devotion"],
+	"estimatedMinutes": 20,
+	"description": {
+		"en-US": "John Paul II's Way of the Cross of the Stations of the Cross",
+		"pt-BR": "Via Sacra de João Paulo II da Via Sacra"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flow": "flow.json",
+	"defaults": {
+		"sortOrder": 50,
+		"slots": [{ "schedule": { "type": "daily" }, "tier": "extra", "enabled": false }]
+	}
+}

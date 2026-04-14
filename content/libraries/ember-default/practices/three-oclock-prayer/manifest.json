@@ -24,16 +24,7 @@
 	},
 	"flowMode": "scroll",
 	"completion": "flow-end",
-	"flows": [
-		{
-			"id": "default",
-			"name": {
-				"en-US": "Three O'Clock Prayer",
-				"pt-BR": "Oração das Três da Tarde"
-			},
-			"file": "flow.json"
-		}
-	],
+	"flow": "flow.json",
 	"tags": [
 		"mercy",
 		"divine-mercy",
@@ -46,7 +37,6 @@
 		"sortOrder": 16,
 		"slots": [
 			{
-				"flowId": "default",
 				"schedule": {
 					"type": "daily"
 				},

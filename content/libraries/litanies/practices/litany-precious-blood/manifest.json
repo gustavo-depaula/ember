@@ -25,16 +25,7 @@
 	},
 	"flowMode": "scroll",
 	"completion": "flow-end",
-	"flows": [
-		{
-			"id": "default",
-			"name": {
-				"en-US": "Litany of the Precious Blood",
-				"pt-BR": "Ladainha do Preciosíssimo Sangue"
-			},
-			"file": "flow.json"
-		}
-	],
+	"flow": "flow.json",
 	"tags": [
 		"litany",
 		"precious-blood",
@@ -44,7 +35,6 @@
 		"sortOrder": 55,
 		"slots": [
 			{
-				"flowId": "default",
 				"schedule": {
 					"type": "daily"
 				},

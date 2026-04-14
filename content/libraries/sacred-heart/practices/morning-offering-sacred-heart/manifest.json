@@ -9,16 +9,7 @@
   "estimatedMinutes": 3,
   "flowMode": "scroll",
   "completion": "flow-end",
-  "flows": [
-    {
-      "id": "default",
-      "name": {
-        "en-US": "Morning Offering",
-        "pt-BR": "Oferecimento"
-      },
-      "file": "flow.json"
-    }
-  ],
+  "flow": "flow.json",
   "description": {
     "en-US": "A short morning offering dedicating the day to the Sacred Heart of Jesus through the Immaculate Heart of Mary, in union with the Mass throughout the world.",
     "pt-BR": "Um breve oferecimento matinal dedicando o dia ao Sagrado Coração de Jesus pelo Imaculado Coração de Maria, em união com a Missa no mundo inteiro."
@@ -36,7 +27,6 @@
     "sortOrder": 13,
     "slots": [
       {
-        "flowId": "default",
         "schedule": {
           "type": "daily"
         },

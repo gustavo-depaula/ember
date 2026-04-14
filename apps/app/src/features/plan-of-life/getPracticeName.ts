@@ -1,6 +1,7 @@
+import { type FlowContext, getContextValue, lookupMap } from '@ember/content-engine'
 import type { TFunction } from 'i18next'
 
-import { getManifest, getManifestIconKey } from '@/content/registry'
+import { getManifest, getManifestIconKey, loadFlow } from '@/content/registry'
 import type { UserPracticeSlot } from '@/db/schema'
 import { localizeContent } from '@/lib/i18n'
 import { getProgramDay, parseSchedule } from './schedule'
@@ -16,18 +17,43 @@ export function getSlotName(slot: UserPracticeSlot, t: TFunction): string {
   const manifest = getManifest(slot.practice_id)
 
   if (manifest) {
-    // Multi-flow: use the flow name from manifest (skip for form-based practices)
-    if (slot.slot_id !== 'default' && manifest.flows.length > 1 && !manifest.forms) {
-      const flow = manifest.flows.find((f) => f.id === slot.slot_id)
-      if (flow) return localizeContent(flow.name)
-    }
-
-    // Default slot: use manifest name
-    return localizeManifestName(manifest, slot.practice_id, t)
+    const baseName = localizeManifestName(manifest, slot.practice_id, t)
+    const variantLabel = previewSelectLabel(slot)
+    return variantLabel ? `${baseName} - ${variantLabel}` : baseName
   }
 
   // Custom practice — use custom_name from joined practice data
   return slot.custom_name ?? slot.practice_id
+}
+
+function previewSelectLabel(slot: UserPracticeSlot): string | undefined {
+  const flow = loadFlow(slot.practice_id)
+  if (!flow) return undefined
+
+  const selectSection = flow.sections.find(
+    (section) => section.type === 'select' && Boolean(section.label),
+  )
+  if (!selectSection || selectSection.type !== 'select') return undefined
+
+  const date = new Date()
+  if (slot.time) {
+    const [hour, minute] = slot.time.split(':').map((part) => Number(part))
+    if (!Number.isNaN(hour)) date.setHours(hour)
+    if (!Number.isNaN(minute)) date.setMinutes(minute)
+  }
+
+  const context: FlowContext = {
+    date,
+    programDay: getProgramDay(parseSchedule(slot.schedule), date),
+  }
+  const rawValue = selectSection.on ? getContextValue(context, selectSection.on) : undefined
+  const mappedValue =
+    rawValue !== undefined && selectSection.map ? lookupMap(selectSection.map, rawValue) : rawValue
+  const selectedId = mappedValue ?? selectSection.default ?? selectSection.options[0]?.id
+  if (!selectedId) return undefined
+  const selectedOption = selectSection.options.find((option) => option.id === selectedId)
+  if (!selectedOption) return undefined
+  return localizeContent(selectedOption.label)
 }
 
 function localizeManifestName(

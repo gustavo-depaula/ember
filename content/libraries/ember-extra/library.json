@@ -23,12 +23,14 @@
     "visit-blessed-sacrament",
     "act-consecration-sacred-heart",
     "little-office-bvm",
-    "novena-holy-spirit",
-    "novena-sacred-heart",
-    "miraculous-medal-novena",
     "veni-creator",
     "preces-opus-dei",
-    "triduum-holy-spirit"
+    "triduum-holy-spirit",
+    "stations-cross-scriptural",
+    "stations-cross-jpii",
+    "stations-cross-franciscan",
+    "seven-sorrows-scriptural",
+    "way-of-light-scriptural"
   ],
   "prayers": [],
   "defaults": {

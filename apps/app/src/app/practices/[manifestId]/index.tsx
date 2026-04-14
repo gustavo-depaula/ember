@@ -1,19 +1,13 @@
 import { useLocalSearchParams, useRouter } from 'expo-router'
 import { ChevronLeft } from 'lucide-react-native'
-import { useState } from 'react'
+import { useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Modal, Pressable } from 'react-native'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
-import {
-  AnimatedPressable,
-  FlowButtons,
-  PrayButton,
-  ScreenLayout,
-  SectionDivider,
-} from '@/components'
+import { AnimatedPressable, PrayButton, ScreenLayout, SectionDivider } from '@/components'
 import { PracticeIcon } from '@/components/PracticeIcon'
-import { getManifest, getManifestIconKey } from '@/content/registry'
+import { getAllManifests, getManifest, getManifestIconKey } from '@/content/registry'
 import { createProgramCursor } from '@/db/repositories'
 import {
   useCreatePractice,
@@ -28,7 +22,7 @@ import {
   type PracticeFormData,
 } from '@/features/plan-of-life/components/PracticeEditSheet'
 import { selectEnrollmentSchedule } from '@/features/plan-of-life/program'
-import { PracticeTeachingContent, VariantSelector } from '@/features/practices/components'
+import { PracticeTeachingContent } from '@/features/practices/components'
 import { localizeContent } from '@/lib/i18n'
 
 export default function CatalogDetailScreen() {
@@ -48,6 +42,19 @@ export default function CatalogDetailScreen() {
   const restartProgramMutation = useRestartProgram()
   const [showEditor, setShowEditor] = useState(false)
   const { data: programProgress } = useProgramProgress(manifest?.id ?? '', manifest?.program)
+  const alternatives = useMemo(() => {
+    if (!manifest) return []
+    const baseId = manifest.alternativeTo ?? manifest.id
+    const related = getAllManifests().filter(
+      (entry) => entry.id === baseId || entry.alternativeTo === baseId,
+    )
+    if (related.length < 2) return []
+    return related.sort((a, b) => {
+      if (a.id === baseId) return -1
+      if (b.id === baseId) return 1
+      return localizeContent(a.name).localeCompare(localizeContent(b.name))
+    })
+  }, [manifest])
 
   if (!manifestId || !manifest) {
     return (
@@ -174,15 +181,44 @@ export default function CatalogDetailScreen() {
           </YStack>
         </XStack>
 
-        {!isProgram && manifest.flows.length === 1 && <PrayButton practiceId={manifest.id} />}
+        {!isProgram && <PrayButton practiceId={manifest.id} />}
 
-        {!isProgram && manifest.flows.length > 1 && manifest.forms && (
-          <PrayButton practiceId={manifest.id} />
-        )}
-
-        {!isProgram && manifest.flows.length > 1 && !manifest.forms && (
+        {alternatives.length > 1 && (
           <YStack gap="$sm">
-            <FlowButtons practiceId={manifest.id} flows={manifest.flows} />
+            <XStack gap="$xs" flexWrap="wrap">
+              {alternatives.map((alternative) => {
+                const isActive = alternative.id === manifest.id
+                return (
+                  <AnimatedPressable
+                    key={alternative.id}
+                    onPress={() =>
+                      router.push({
+                        pathname: '/practices/[manifestId]',
+                        params: { manifestId: alternative.id },
+                      })
+                    }
+                    disabled={isActive}
+                  >
+                    <XStack
+                      paddingHorizontal="$sm"
+                      paddingVertical="$xs"
+                      borderRadius="$sm"
+                      borderWidth={1}
+                      borderColor={isActive ? '$accent' : '$borderColor'}
+                      backgroundColor={isActive ? '$accent' : 'transparent'}
+                    >
+                      <Text
+                        fontFamily="$heading"
+                        fontSize="$1"
+                        color={isActive ? '$background' : '$colorSecondary'}
+                      >
+                        {localizeContent(alternative.name)}
+                      </Text>
+                    </XStack>
+                  </AnimatedPressable>
+                )
+              })}
+            </XStack>
           </YStack>
         )}
 
@@ -314,16 +350,6 @@ export default function CatalogDetailScreen() {
         <SectionDivider />
 
         <PracticeTeachingContent manifest={manifest} defaultExpanded />
-
-        {manifest.variants && manifest.variants.length > 0 && (
-          <>
-            <SectionDivider />
-            <VariantSelector
-              manifest={manifest}
-              selectedVariantId={firstSlot?.variant ?? undefined}
-            />
-          </>
-        )}
       </YStack>
 
       <Modal

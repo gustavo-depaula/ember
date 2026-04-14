@@ -23,26 +23,7 @@
 	},
 	"flowMode": "scroll",
 	"completion": "manual",
-	"flows": [
-		{
-			"id": "prepare",
-			"name": {
-				"en-US": "Preparation",
-				"pt-BR": "Preparação"
-			},
-			"file": "flows/prepare.json",
-			"timeBlock": "flexible"
-		},
-		{
-			"id": "thanksgiving",
-			"name": {
-				"en-US": "Thanksgiving",
-				"pt-BR": "Ação de Graças"
-			},
-			"file": "flows/thanksgiving.json",
-			"timeBlock": "flexible"
-		}
-	],
+	"flow": "flow.json",
 	"tags": [
 		"sacrament",
 		"penance",
@@ -54,7 +35,6 @@
 		"sortOrder": 10,
 		"slots": [
 			{
-				"flowId": "prepare",
 				"schedule": {
 					"type": "times-per",
 					"count": 1,
@@ -64,7 +44,6 @@
 				"enabled": false
 			},
 			{
-				"flowId": "thanksgiving",
 				"schedule": {
 					"type": "times-per",
 					"count": 1,

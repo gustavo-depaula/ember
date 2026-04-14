@@ -20,7 +20,6 @@ export type UserPracticeSlot = {
   time_block: TimeBlock
   notify: string | null // JSON NotifyConfig
   schedule: string // JSON Schedule
-  variant: string | null
   // Joined from user_practices
   custom_name: string | null
   custom_icon: string | null

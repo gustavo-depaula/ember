@@ -1,4 +1,68 @@
 {
+	"data": {
+		"steps": [
+			{
+				"name": {
+					"en-US": "Remote Preparation",
+					"pt-BR": "Preparação Remota"
+				},
+				"meditation": {
+					"en-US": "Choose your subject: a mystery of Christ's life, a virtue you wish to grow in, or a truth of faith. Read a few lines about it — from the Gospel, a saint's reflection, or the Catechism. Carry the subject with you to prayer.",
+					"pt-BR": "Escolha seu tema: um mistério da vida de Cristo, uma virtude que deseja desenvolver ou uma verdade da fé. Leia algumas linhas sobre ele — do Evangelho, da reflexão de um santo ou do Catecismo. Leve o tema consigo para a oração."
+				}
+			},
+			{
+				"name": {
+					"en-US": "Composition of Place",
+					"pt-BR": "Composição de Lugar"
+				},
+				"meditation": {
+					"en-US": "Make the Sign of the Cross. Become aware of God's presence. Now place yourself imaginatively in the scene: if the subject is a Gospel event, see the place, the faces, the light. If it is a truth or a virtue, place yourself before God who is all goodness and truth. Do not hurry; this preparation matters.",
+					"pt-BR": "Faça o Sinal da Cruz. Tome consciência da presença de Deus. Coloque-se imaginativamente na cena: se o tema é um evento evangélico, veja o lugar, os rostos, a luz. Se é uma verdade ou uma virtude, coloque-se diante de Deus, que é toda bondade e verdade. Não tenha pressa; esta preparação é importante."
+				}
+			},
+			{
+				"name": {
+					"en-US": "First Point — Memory",
+					"pt-BR": "Primeiro Ponto — Memória"
+				},
+				"meditation": {
+					"en-US": "Apply your memory to the subject. What happened? What did Our Lord say and do? Recall the details with care, as though you were present. See Him, hear His voice, notice what stirs in you as you watch.",
+					"pt-BR": "Aplique a memória ao tema. O que aconteceu? O que Nosso Senhor disse e fez? Recorde os detalhes com cuidado, como se estivesse presente. Veja-O, ouça Sua voz, observe o que se move em você ao contemplar."
+				}
+			},
+			{
+				"name": {
+					"en-US": "Second Point — Intellect",
+					"pt-BR": "Segundo Ponto — Intelecto"
+				},
+				"meditation": {
+					"en-US": "Apply your intellect. What does this mean? What does God wish to show you through this mystery or truth today? What light does it cast on your life, your struggles, your vocation? Ask questions. Receive answers in silence.",
+					"pt-BR": "Aplique o intelecto. O que isso significa? O que Deus quer mostrar-lhe através deste mistério ou verdade hoje? Que luz lança sobre sua vida, suas lutas, sua vocação? Faça perguntas. Receba respostas no silêncio."
+				}
+			},
+			{
+				"name": {
+					"en-US": "Third Point — Will",
+					"pt-BR": "Terceiro Ponto — Vontade"
+				},
+				"meditation": {
+					"en-US": "This is the most important movement. Apply your will. Let love, gratitude, contrition, or resolution arise from within you. Speak to God from the heart — not with polished phrases, but with truth. Do not rush through this; remain here as long as grace sustains you.",
+					"pt-BR": "Este é o movimento mais importante. Aplique a vontade. Deixe surgir amor, gratidão, contrição ou resolução de dentro de você. Fale com Deus do coração — não com frases polidas, mas com verdade. Não se apresse; permaneça aqui enquanto a graça o sustentar."
+				}
+			},
+			{
+				"name": {
+					"en-US": "Colloquy & Resolution",
+					"pt-BR": "Colóquio e Resolução"
+				},
+				"meditation": {
+					"en-US": "Conclude with a personal colloquy — a heart-to-heart with Christ, Our Lady, or the Father. Speak to them as one friend speaks to another. Make one concrete resolution to carry into your day. Then close with an Our Father.",
+					"pt-BR": "Conclua com um colóquio pessoal — uma conversa íntima com Cristo, Nossa Senhora ou o Pai. Fale com eles como um amigo fala com outro. Faça uma resolução concreta para levar ao longo do dia. Depois, encerre com um Pai Nosso."
+				}
+			}
+		]
+	},
 	"sections": [
 		{
 			"type": "prayer",
@@ -10,10 +74,7 @@
 		{
 			"type": "repeat",
 			"count": 6,
-			"variable": {
-				"source": "variant",
-				"key": "steps"
-			},
+			"from": "steps",
 			"sections": [
 				{
 					"type": "heading",

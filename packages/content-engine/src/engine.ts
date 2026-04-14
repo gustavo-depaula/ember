@@ -1,4 +1,10 @@
-import type { PsalmRef, ReadingReference } from '@ember/liturgical'
+import {
+  getLiturgicalDayName,
+  type LiturgicalMeditationMap,
+  type PsalmRef,
+  type ReadingReference,
+  resolveLiturgicalMeditation,
+} from '@ember/liturgical'
 import { getDate, getDay } from 'date-fns'
 import type {
   BilingualText,
@@ -10,9 +16,9 @@ import type {
   LocalizedContent,
   LocalizedText,
   RenderedSection,
+  RepeatEntry,
   ResolvedProse,
-  Variant,
-  VariantEntry,
+  ResolveStep,
 } from './types'
 
 export type PrayerAsset = {
@@ -37,20 +43,31 @@ export type EngineContext = {
   prayers: Record<string, PrayerAsset>
   canticles: Record<string, PrayerAsset>
   prose: Record<string, { 'en-US'?: string; 'pt-BR'?: string }>
+  getBookChapterTitle?: (book: string, chapter: string, lang: string) => string | undefined
+  loadBookChapterText?: (
+    book: string,
+    chapter: string,
+    lang: string,
+  ) => LocalizedContent | undefined
+  loadBookChapterTextAsync?: (
+    book: string,
+    chapter: string,
+    lang: string,
+  ) => Promise<LocalizedContent | undefined>
 }
 
 export type FlowContext = {
   date: Date
-  variant?: Variant
   numbering?: string
   liturgicalCalendar?: string
   trackDefs?: Record<string, LectioTrackDef>
   trackState?: Record<string, { current_index: number }>
   cycleData?: Record<string, CycleData>
-  setKeyOverride?: string
   programDay?: number
   templateVars?: Record<string, string>
   resolvedProse?: ResolvedProse
+  flowData?: Record<string, RepeatEntry[]>
+  selectOverrides?: Record<string, string>
 }
 
 const ordinalsEn = [
@@ -128,16 +145,20 @@ function substituteInFlowSection(
   return deepSubstitute(section, vars) as FlowSection
 }
 
-function resolveVariantData(
-  variant: Variant,
-  context: FlowContext,
-): { entries: VariantEntry[]; setKey: string } | undefined {
-  const setKey =
-    context.setKeyOverride && variant.data[context.setKeyOverride]
-      ? context.setKeyOverride
-      : Object.keys(variant.data)[0]
-  if (!setKey || !variant.data[setKey]) return undefined
-  return { entries: variant.data[setKey], setKey }
+function resolveEntryVars(
+  entry: Record<string, string | LocalizedText | undefined>,
+  ec: EngineContext,
+): Record<string, string | undefined> {
+  const vars: Record<string, string | undefined> = {}
+  for (const [k, v] of Object.entries(entry)) {
+    vars[k] =
+      typeof v === 'object' && v !== null && ('en-US' in v || 'pt-BR' in v)
+        ? ec.localizeUI(v as LocalizedText)
+        : typeof v === 'string'
+          ? v
+          : undefined
+  }
+  return vars
 }
 
 const bilingualEmpty: BilingualText = { primary: '' }
@@ -248,51 +269,45 @@ function resolveRepeat(
   context: FlowContext,
   ec: EngineContext,
 ): RenderedSection[] {
-  const { count, variable, sections: templateSections } = section
+  if ('from' in section) {
+    const fromKey = substituteTemplateVars(section.from, context.templateVars ?? {})
+    const entries = context.flowData?.[fromKey]
+    if (!entries?.length) return []
 
-  let entries: VariantEntry[] | undefined
-  if (variable) {
-    if (!context.variant) {
-      return [{ type: 'rubric', label: bilingualOf('[No variant loaded for repeat variable]') }]
-    }
-    const resolved = resolveVariantData(context.variant, context)
-    if (!resolved) {
-      return [{ type: 'rubric', label: bilingualOf(`[No data for variant key: ${variable.key}]`) }]
-    }
-    entries = resolved.entries
+    const iterCount = section.count ? Math.min(section.count, entries.length) : entries.length
+    return Array.from({ length: iterCount }, (_, i) => {
+      const entry = entries[i]
+      const resolved = entry ? resolveEntryVars(entry, ec) : {}
+      const vars: Record<string, string | undefined> = {
+        ...context.templateVars,
+        ...resolved,
+        index: String(i),
+        ordinal: getOrdinal(i, ec.language),
+      }
+      return section.sections.flatMap((s) => {
+        const substituted = substituteInFlowSection(s, vars)
+        return resolveSection(substituted, context, ec)
+      })
+    }).flat()
   }
 
-  const iterCount = entries ? Math.min(count, entries.length) : count
+  const { count, sections: templateSections } = section
 
   // Collapse repeated single-prayer refs into one section with a count
   if (
-    !variable &&
     templateSections.length === 1 &&
     templateSections[0].type === 'prayer' &&
     'ref' in templateSections[0]
   ) {
     const resolved = resolvePrayerRef(templateSections[0].ref, context, ec)
     if (resolved.length === 1 && resolved[0].type === 'prayer') {
-      return [{ ...resolved[0], count: iterCount }]
+      return [{ ...resolved[0], count }]
     }
     return resolved
   }
 
-  const sections = Array.from({ length: iterCount }, (_, i) => {
-    const entry = entries?.[i]
-    const resolved: Record<string, string | undefined> = {}
-    if (entry) {
-      for (const [k, v] of Object.entries(entry)) {
-        resolved[k] =
-          typeof v === 'object' && v !== null && ('en-US' in v || 'pt-BR' in v)
-            ? ec.localizeUI(v as LocalizedText)
-            : typeof v === 'string'
-              ? v
-              : undefined
-      }
-    }
+  return Array.from({ length: count }, (_, i) => {
     const vars: Record<string, string | undefined> = {
-      ...resolved,
       index: String(i),
       ordinal: getOrdinal(i, ec.language),
     }
@@ -301,8 +316,6 @@ function resolveRepeat(
       return resolveSection(substituted, context, ec)
     })
   }).flat()
-
-  return sections
 }
 
 function getCycleIndex(indexBy: string, date: Date, length: number, context: FlowContext): number {
@@ -434,12 +447,12 @@ function resolveSection(
       const cycleData = context.cycleData?.[section.data]
       if (!cycleData) return []
 
-      const variantValue = cycleData.variantKey
-        ? String((context as Record<string, unknown>)[cycleData.variantKey] ?? '')
+      const contextValue = cycleData.contextKey
+        ? getContextValue(context, cycleData.contextKey)
         : undefined
       const entries = (
-        variantValue
-          ? (cycleData.entries[variantValue] ?? Object.values(cycleData.entries)[0])
+        contextValue
+          ? (cycleData.entries[contextValue] ?? Object.values(cycleData.entries)[0])
           : Object.values(cycleData.entries)[0]
       ) as unknown[]
       if (!entries?.length) return []
@@ -448,16 +461,10 @@ function resolveSection(
       const entry = entries[index]
 
       if (section.as === 'template' && section.sections) {
-        const entryObj = entry as Record<string, string | LocalizedText | undefined>
-        const vars: Record<string, string | undefined> = {}
-        for (const [k, v] of Object.entries(entryObj)) {
-          vars[k] =
-            typeof v === 'object' && v !== null && ('en-US' in v || 'pt-BR' in v)
-              ? ec.localizeUI(v as LocalizedText)
-              : typeof v === 'string'
-                ? v
-                : undefined
-        }
+        const vars = resolveEntryVars(
+          entry as Record<string, string | LocalizedText | undefined>,
+          ec,
+        )
         return section.sections.flatMap((s) => {
           const substituted = substituteInFlowSection(s, vars)
           return resolveSection(substituted, context, ec)
@@ -500,6 +507,35 @@ function resolveSection(
       ]
 
     case 'options': {
+      if ('from' in section) {
+        const fromKey = substituteTemplateVars(section.from, context.templateVars ?? {})
+        const entries = context.flowData?.[fromKey]
+        if (!entries?.length) return []
+
+        const resolved = entries
+          .map((entry, i) => {
+            const vars = resolveEntryVars(entry, ec)
+            const labelText = vars.label
+            if (!labelText) return undefined
+            const entryId = vars.id ?? String(i)
+            const allVars = { ...context.templateVars, ...vars, index: String(i) }
+            return {
+              id: entryId,
+              label: ec.localize({ 'pt-BR': labelText, 'en-US': labelText }),
+              sections: section.sections.flatMap((s) => {
+                const substituted = substituteInFlowSection(s, allVars)
+                return resolveSection(substituted, context, ec)
+              }),
+            }
+          })
+          .filter(
+            (opt): opt is NonNullable<typeof opt> => opt !== undefined && opt.sections.length > 0,
+          )
+
+        if (resolved.length === 0) return []
+        if (resolved.length === 1) return resolved[0].sections
+        return [{ type: 'options' as const, label: ec.localize(section.label), options: resolved }]
+      }
       const resolved = section.options
         .filter((opt) => !opt.lang || opt.lang === ec.contentLanguage)
         .map((opt) => ({
@@ -520,6 +556,15 @@ function resolveSection(
     }
 
     case 'prose': {
+      // Dynamic prose: load chapter from book
+      if ('book' in section) {
+        const chapter = section.chapter
+        if (!chapter) return []
+        if (!ec.loadBookChapterText) return []
+        const text = ec.loadBookChapterText(section.book, chapter, ec.language)
+        if (!text) return []
+        return [{ type: 'prose', text: ec.localize(text) }]
+      }
       const proseText = context.resolvedProse?.[section.file] ?? ec.prose[section.file]
       if (!proseText) {
         if (context.resolvedProse) return []
@@ -552,9 +597,230 @@ function resolveSection(
         },
       ]
 
+    case 'select': {
+      const { selectedId, overrideKey } = computeSelectedId(section, context)
+
+      const downstreamContext = section.as
+        ? { ...context, templateVars: { ...context.templateVars, [section.as]: selectedId } }
+        : context
+
+      if (section.label) {
+        // Visible picker: resolve only selected option sections for responsiveness.
+        return [
+          {
+            type: 'select' as const,
+            label: ec.localize(section.label),
+            overrideKey: overrideKey ?? '',
+            selectedId: selectedId ?? '',
+            options: section.options.map((opt) => ({
+              id: opt.id,
+              label: ec.localize(opt.label),
+              sections:
+                opt.id === selectedId
+                  ? (opt.sections ?? []).flatMap((s) => resolveSection(s, downstreamContext, ec))
+                  : [],
+            })),
+          },
+        ]
+      }
+      // Silent: resolve only the selected option
+      const selected = section.options.find((o) => o.id === selectedId) ?? section.options[0]
+      if (!selected?.sections?.length) return []
+      return selected.sections.flatMap((s) => resolveSection(s, downstreamContext, ec))
+    }
+
     default:
       return []
   }
+}
+
+export function getContextValue(context: FlowContext, key: string): string | undefined {
+  switch (key) {
+    case 'dayOfWeek':
+      return String(getDay(context.date))
+    case 'dayOfMonth':
+      return String(getDate(context.date))
+    case 'hour':
+      return String(context.date.getHours())
+    case 'timeOfDay': {
+      const h = context.date.getHours()
+      if (h >= 5 && h < 12) return 'morning'
+      if (h >= 12 && h < 17) return 'afternoon'
+      if (h >= 17 && h < 21) return 'evening'
+      return 'night'
+    }
+    case 'liturgicalCalendar':
+      return context.liturgicalCalendar
+    case 'numbering':
+      return context.numbering
+    case 'programDay':
+      return context.programDay !== undefined ? String(context.programDay) : undefined
+    case 'dateKey': {
+      const m = String(context.date.getMonth() + 1).padStart(2, '0')
+      const d = String(context.date.getDate()).padStart(2, '0')
+      return `${m}-${d}`
+    }
+    default:
+      return undefined
+  }
+}
+
+export function lookupMap(map: Record<string, string>, value: string): string | undefined {
+  // Exact match first
+  if (value in map) return map[value]
+  // Range match — iterate in declaration order, first match wins
+  const num = Number(value)
+  if (Number.isNaN(num)) return undefined
+  for (const [k, v] of Object.entries(map)) {
+    const dash = k.indexOf('-')
+    if (dash === -1) continue
+    const lo = Number(k.slice(0, dash))
+    const hi = Number(k.slice(dash + 1))
+    if (!Number.isNaN(lo) && !Number.isNaN(hi) && num >= lo && num <= hi) return v
+  }
+  return undefined
+}
+
+function computeSelectedId(
+  section: FlowSection & { type: 'select' },
+  context: FlowContext,
+): { selectedId: string; overrideKey?: string } {
+  const rawValue = section.on ? getContextValue(context, section.on) : undefined
+  const mappedValue =
+    rawValue !== undefined && section.map ? lookupMap(section.map, rawValue) : rawValue
+  const autoId = mappedValue ?? section.default ?? section.options[0]?.id
+  const overrideKey = section.as ?? autoId
+  return {
+    selectedId: (overrideKey && context.selectOverrides?.[overrideKey]) ?? autoId ?? '',
+    overrideKey,
+  }
+}
+
+type ResolveExecutionResult = {
+  context: FlowContext
+  dynamicBookChapters: { book: string; chapterId: string }[]
+}
+
+function isLiturgicalMeditationMap(value: unknown): value is LiturgicalMeditationMap {
+  if (!value || typeof value !== 'object') return false
+  const map = value as Partial<LiturgicalMeditationMap>
+  return (
+    typeof map.temporal === 'object' &&
+    map.temporal !== null &&
+    typeof map.fixedDates === 'object' &&
+    map.fixedDates !== null &&
+    typeof map.feasts === 'object' &&
+    map.feasts !== null &&
+    typeof map.novenas === 'object' &&
+    map.novenas !== null &&
+    typeof map.appendix === 'object' &&
+    map.appendix !== null &&
+    Array.isArray(map.reserves)
+  )
+}
+
+function runResolveStrategy(
+  step: ResolveStep,
+  context: FlowContext,
+  ec: EngineContext,
+): { entries: RepeatEntry[]; templateVars?: Record<string, string> } {
+  if (step.strategy !== 'liturgical-day') return { entries: [] }
+
+  const map = context.cycleData?.[step.data]
+  if (!isLiturgicalMeditationMap(map)) return { entries: [] }
+
+  const resolved = resolveLiturgicalMeditation(context.date, map)
+  const entries: RepeatEntry[] = []
+
+  const pushEntry = (
+    category: 'feast' | 'temporal',
+    chapterId?: string,
+    secondary?: string,
+  ): void => {
+    if (chapterId) entries.push({ chapterId, category })
+    if (secondary) entries.push({ chapterId: secondary, category })
+  }
+
+  pushEntry('feast', resolved.feast?.chapterId, resolved.feast?.secondary)
+  pushEntry('temporal', resolved.temporal?.chapterId, resolved.temporal?.secondary)
+
+  const form = context.liturgicalCalendar === 'of' ? 'of' : 'ef'
+  const liturgicalLabel = getLiturgicalDayName(context.date, form, { t: ec.t })
+
+  return { entries, templateVars: { liturgicalLabel } }
+}
+
+function executeResolveSteps(
+  flow: FlowDefinition,
+  context: FlowContext,
+  ec: EngineContext,
+): ResolveExecutionResult {
+  if (!flow.resolve?.length) return { context, dynamicBookChapters: [] }
+
+  let ctx = context
+  const dynamicBookChapters: { book: string; chapterId: string }[] = []
+
+  for (const step of flow.resolve) {
+    const strategyResult = runResolveStrategy(step, ctx, ec)
+    let entries = strategyResult.entries.map((entry) => ({ ...entry }))
+
+    const dynamicBook = step.book
+    if (dynamicBook) {
+      entries = entries.map((entry) => {
+        const chapterId = typeof entry.chapterId === 'string' ? entry.chapterId : undefined
+        if (!chapterId) return entry
+        dynamicBookChapters.push({ book: dynamicBook, chapterId })
+        if (typeof entry.label === 'string' && entry.label.length > 0) return entry
+        const title = ec.getBookChapterTitle?.(dynamicBook, chapterId, ec.language)
+        return { ...entry, label: title ?? chapterId }
+      })
+    }
+
+    const firstLabel = entries[0]?.label
+    const strategyVars = strategyResult.templateVars ?? {}
+    const mergedVars = {
+      ...strategyVars,
+      meditationTitle:
+        typeof firstLabel === 'string'
+          ? firstLabel
+          : (strategyVars.liturgicalLabel ?? ctx.templateVars?.meditationTitle),
+    }
+
+    ctx = {
+      ...ctx,
+      flowData: { ...ctx.flowData, [step.as]: entries },
+      templateVars: { ...ctx.templateVars, ...mergedVars },
+    }
+  }
+
+  return { context: ctx, dynamicBookChapters }
+}
+
+function chapterCacheKey(book: string, chapter: string): string {
+  return `${book}::${chapter}`
+}
+
+function resolveFlowWithContext(
+  flow: FlowDefinition,
+  ctx: FlowContext,
+  engineContext: EngineContext,
+): RenderedSection[] {
+  const vars = ctx.templateVars
+  const hasVars = vars && Object.keys(vars).length > 0
+  const sections = hasVars
+    ? flow.sections.map((s) => substituteInFlowSection(s, vars))
+    : flow.sections
+
+  // Process sequentially so select `as` variables propagate to subsequent sections
+  const result: RenderedSection[] = []
+  for (const section of sections) {
+    if (section.type === 'select' && section.as) {
+      const { selectedId } = computeSelectedId(section, ctx)
+      ctx = { ...ctx, templateVars: { ...ctx.templateVars, [section.as]: selectedId } }
+    }
+    result.push(...resolveSection(section, ctx, engineContext))
+  }
+  return result
 }
 
 export function resolveFlow(
@@ -562,7 +828,58 @@ export function resolveFlow(
   context: FlowContext,
   engineContext: EngineContext,
 ): RenderedSection[] {
-  const vars = context.templateVars
-  const sections = vars ? flow.sections.map((s) => substituteInFlowSection(s, vars)) : flow.sections
-  return sections.flatMap((section) => resolveSection(section, context, engineContext))
+  // Inject flow.data into flowData (flow.data is lower priority than context.flowData)
+  let ctx = context
+  if (flow.data) {
+    ctx = { ...ctx, flowData: { ...flow.data, ...ctx.flowData } }
+  }
+  ctx = executeResolveSteps(flow, ctx, engineContext).context
+  return resolveFlowWithContext(flow, ctx, engineContext)
+}
+
+export async function resolveFlowAsync(
+  flow: FlowDefinition,
+  context: FlowContext,
+  engineContext: EngineContext,
+): Promise<RenderedSection[]> {
+  let ctx = context
+  if (flow.data) {
+    ctx = { ...ctx, flowData: { ...flow.data, ...ctx.flowData } }
+  }
+
+  const { context: resolvedContext, dynamicBookChapters } = executeResolveSteps(
+    flow,
+    ctx,
+    engineContext,
+  )
+  ctx = resolvedContext
+
+  if (dynamicBookChapters.length === 0) {
+    return resolveFlowWithContext(flow, ctx, engineContext)
+  }
+
+  const chapterCache = new Map<string, LocalizedContent>()
+  const uniqueRequests = Array.from(
+    new Map(
+      dynamicBookChapters.map((item) => [chapterCacheKey(item.book, item.chapterId), item]),
+    ).values(),
+  )
+
+  for (const request of uniqueRequests) {
+    const loaded = engineContext.loadBookChapterTextAsync
+      ? await engineContext.loadBookChapterTextAsync(
+          request.book,
+          request.chapterId,
+          engineContext.language,
+        )
+      : engineContext.loadBookChapterText?.(request.book, request.chapterId, engineContext.language)
+    if (loaded) chapterCache.set(chapterCacheKey(request.book, request.chapterId), loaded)
+  }
+
+  const hydratedEngineContext: EngineContext = {
+    ...engineContext,
+    loadBookChapterText: (book, chapter) => chapterCache.get(chapterCacheKey(book, chapter)),
+  }
+
+  return resolveFlowWithContext(flow, ctx, hydratedEngineContext)
 }

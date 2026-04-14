@@ -1,7 +1,7 @@
 import { localizeContent } from '@/lib/i18n'
 import type { ChapterManifest, PracticeManifest } from './manifest-types'
 import type { BookEntry, ContentSource, PrayerAsset } from './sources/filesystem'
-import type { CycleData, FlowDefinition, LectioTrackDef, LocalizedContent, Variant } from './types'
+import type { CycleData, FlowDefinition, LectioTrackDef, LocalizedContent } from './types'
 
 const sources: ContentSource[] = []
 const practiceToLibrary = new Map<string, string>()
@@ -55,28 +55,8 @@ export function getAllManifests(): PracticeManifest[] {
   return sources.flatMap((s) => s.getAllManifests())
 }
 
-export function loadFlowForSlot(practiceId: string, flowId: string): FlowDefinition | undefined {
-  const source = findSource(practiceId)
-  if (!source) return undefined
-  const flow = source.loadFlow(practiceId, flowId)
-  if (flow) return flow
-  const manifest = source.getManifest(practiceId)
-  if (manifest?.flows.length) {
-    return source.loadFlow(practiceId, manifest.flows[0].id)
-  }
-  return undefined
-}
-
-export function loadVariant(manifestId: string, variantId: string): Variant | undefined {
-  return findSource(manifestId)?.loadVariant(manifestId, variantId)
-}
-
-export function getDefaultVariant(manifestId: string): Variant | undefined {
-  const source = findSource(manifestId)
-  if (!source) return undefined
-  const manifest = source.getManifest(manifestId)
-  if (!manifest?.variants?.length) return undefined
-  return source.loadVariant(manifestId, manifest.variants[0].id)
+export function loadFlow(practiceId: string): FlowDefinition | undefined {
+  return findSource(practiceId)?.loadFlow(practiceId)
 }
 
 export function loadPerDayFlow(practiceId: string, day: number): FlowDefinition | undefined {

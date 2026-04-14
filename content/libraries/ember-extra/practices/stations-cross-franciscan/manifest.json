@@ -1,0 +1,22 @@
+{
+	"id": "stations-cross-franciscan",
+	"alternativeTo": "stations-cross",
+	"icon": "cross",
+	"name": {
+		"en-US": "Franciscan Meditations",
+		"pt-BR": "Meditações Franciscanas"
+	},
+	"categories": ["devotion"],
+	"estimatedMinutes": 20,
+	"description": {
+		"en-US": "Franciscan Meditations of the Stations of the Cross",
+		"pt-BR": "Meditações Franciscanas da Via Sacra"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flow": "flow.json",
+	"defaults": {
+		"sortOrder": 50,
+		"slots": [{ "schedule": { "type": "daily" }, "tier": "extra", "enabled": false }]
+	}
+}

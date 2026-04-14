@@ -1,0 +1,46 @@
+{
+  "id": "st-anthony-novena",
+  "icon": "prayer",
+  "name": {
+    "en-US": "Novena to St. Anthony of Padua",
+    "pt-BR": "Novena a Santo Antônio de Pádua"
+  },
+  "categories": ["program", "devotion", "saints", "franciscan", "intercession"],
+  "estimatedMinutes": 10,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 9,
+    "progressPolicy": "continue",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "anthony-novena-days": "data/days.json"
+  },
+  "flow": "flow.json",
+  "description": {
+    "en-US": "A nine-day novena to St. Anthony of Padua, asking for deeper faith, charity, and trust in God's providence.",
+    "pt-BR": "Uma novena de nove dias a Santo Antônio de Pádua, pedindo fé mais profunda, caridade e confiança na providência de Deus."
+  },
+  "history": {
+    "en-US": "St. Anthony of Padua (1195–1231), Franciscan priest and Doctor of the Church, is loved for his Gospel preaching, care for the poor, and powerful intercession. Over time, Catholics also invoked him in lost causes and lost things, entrusting difficult needs to his prayer.",
+    "pt-BR": "Santo Antônio de Pádua (1195–1231), sacerdote franciscano e Doutor da Igreja, é amado por sua pregação evangélica, cuidado com os pobres e poderosa intercessão. Com o tempo, os católicos também passaram a invocá-lo nas causas e coisas perdidas, confiando-lhe necessidades difíceis."
+  },
+  "howToPray": {
+    "en-US": "Pray once daily for nine consecutive days. Begin with the Sign of the Cross and opening prayer, read the meditation and intention of the day, then conclude with one Our Father, one Hail Mary, one Glory Be, and the closing prayer to St. Anthony.",
+    "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, leia a meditação e a intenção do dia, e conclua com um Pai-Nosso, uma Ave-Maria, um Glória ao Pai e a oração final a Santo Antônio."
+  },
+  "tags": ["novena", "st-anthony", "padua", "9-days", "intercession"],
+  "defaults": {
+    "sortOrder": 46,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

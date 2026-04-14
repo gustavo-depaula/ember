@@ -1,0 +1,56 @@
+{
+	"id": "rosary-54-day-novena",
+	"icon": "rosary",
+	"name": {
+		"en-US": "54-Day Rosary Novena",
+		"pt-BR": "Novena de 54 Dias do Rosário"
+	},
+	"categories": [
+		"marian",
+		"program",
+		"devotion"
+	],
+	"estimatedMinutes": 30,
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"program": {
+		"totalDays": 54,
+		"progressPolicy": "continue",
+		"completionBehavior": "offer-restart"
+	},
+	"data": {
+		"novena-days": "data/days.json"
+	},
+	"flow": "flow.json",
+	"description": {
+		"en-US": "A traditional 54-day Rosary devotion prayed in two phases: 27 days in petition, then 27 days in thanksgiving.",
+		"pt-BR": "Uma devoção tradicional de 54 dias do Rosário, rezada em duas fases: 27 dias de petição e depois 27 dias de ação de graças."
+	},
+	"history": {
+		"en-US": "This devotion is traditionally linked to Our Lady of Pompeii and consists of six novenas of the Rosary prayed without interruption. Its spirituality emphasizes perseverance, trust in Mary's intercession, and thanksgiving even before visible answers.",
+		"pt-BR": "Esta devoção é tradicionalmente associada a Nossa Senhora de Pompeia e consiste em seis novenas do Rosário rezadas sem interrupção. Sua espiritualidade enfatiza a perseverança, a confiança na intercessão de Maria e a ação de graças mesmo antes de respostas visíveis."
+	},
+	"howToPray": {
+		"en-US": "Pray one Rosary each day for 54 consecutive days. Days 1–27 are offered in petition for your intention. Days 28–54 are prayed in thanksgiving. Follow the traditional mystery cycle: Joyful, Sorrowful, and Glorious, repeating every three days.",
+		"pt-BR": "Reze um Rosário por dia durante 54 dias consecutivos. Os dias 1–27 são oferecidos em petição por sua intenção. Os dias 28–54 são rezados em ação de graças. Siga o ciclo tradicional dos mistérios: Gozosos, Dolorosos e Gloriosos, repetindo a cada três dias."
+	},
+	"tags": [
+		"rosary",
+		"novena",
+		"54-days",
+		"marian",
+		"traditional"
+	],
+	"defaults": {
+		"sortOrder": 40,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
+}

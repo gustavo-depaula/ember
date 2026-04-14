@@ -17,33 +17,12 @@
 	},
 	"flowMode": "scroll",
 	"completion": "flow-end",
-	"flows": [
-		{
-			"id": "default",
-			"name": {
-				"pt-BR": "Via Sacra"
-			},
-			"file": "flow.json"
-		}
-	],
-	"variants": [
-		{
-			"id": "claretiano",
-			"name": {
-				"pt-BR": "Meditações Claretianas"
-			},
-			"description": {
-				"pt-BR": "Meditações do devocionário Ave Maria dos Padres Claretianos (1957)"
-			},
-			"file": "variants/claretiano.json"
-		}
-	],
+	"flow": "flow.json",
 	"tags": ["passion", "lent", "meditation", "friday"],
 	"defaults": {
 		"sortOrder": 9,
 		"slots": [
 			{
-				"flowId": "default",
 				"schedule": {
 					"type": "days-of-week",
 					"days": [5]

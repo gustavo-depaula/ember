@@ -25,16 +25,7 @@
 	},
 	"flowMode": "scroll",
 	"completion": "flow-end",
-	"flows": [
-		{
-			"id": "default",
-			"name": {
-				"en-US": "Act of Consecration",
-				"pt-BR": "Ato de Consagração"
-			},
-			"file": "flow.json"
-		}
-	],
+	"flow": "flow.json",
 	"tags": [
 		"sacred-heart",
 		"consecration",
@@ -45,7 +36,6 @@
 		"sortOrder": 25,
 		"slots": [
 			{
-				"flowId": "default",
 				"schedule": {
 					"type": "nth-weekday",
 					"n": 1,

@@ -1,0 +1,34 @@
+{
+	"id": "act-contrition-short",
+	"alternativeTo": "act-contrition",
+	"icon": "cross",
+	"name": {
+		"en-US": "Act of Contrition (Short Form)",
+		"pt-BR": "Ato de Contrição (Forma Curta)"
+	},
+	"categories": [
+		"daily",
+		"devotion",
+		"penance"
+	],
+	"estimatedMinutes": 2,
+	"description": {
+		"en-US": "A brief Act of Contrition for daily use",
+		"pt-BR": "Um Ato de Contrição breve para uso diário"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flow": "flow.json",
+	"defaults": {
+		"sortOrder": 36,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
+}

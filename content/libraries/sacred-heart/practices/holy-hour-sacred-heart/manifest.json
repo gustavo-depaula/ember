@@ -9,16 +9,7 @@
   "estimatedMinutes": 60,
   "flowMode": "scroll",
   "completion": "flow-end",
-  "flows": [
-    {
-      "id": "default",
-      "name": {
-        "en-US": "Holy Hour",
-        "pt-BR": "Hora Santa"
-      },
-      "file": "flow.json"
-    }
-  ],
+  "flow": "flow.json",
   "description": {
     "en-US": "A structured hour of prayer and adoration before the Sacred Heart of Jesus, including acts of adoration, reparation, meditation, and intercession. Ideal for First Fridays, Thursdays, or any time of Eucharistic adoration.",
     "pt-BR": "Uma hora estruturada de oração e adoração diante do Sagrado Coração de Jesus, incluindo atos de adoração, reparação, meditação e intercessão. Ideal para as Primeiras Sextas-feiras, quintas-feiras ou qualquer momento de adoração eucarística."
@@ -36,7 +27,6 @@
     "sortOrder": 11,
     "slots": [
       {
-        "flowId": "default",
         "schedule": {
           "type": "nth-weekday",
           "n": 1,
