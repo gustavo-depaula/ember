@@ -1,0 +1,46 @@
+{
+  "id": "our-lady-aparecida-novena",
+  "icon": "mary",
+  "name": {
+    "en-US": "Novena to Our Lady of Aparecida",
+    "pt-BR": "Novena a Nossa Senhora Aparecida"
+  },
+  "categories": ["program", "devotion", "marian"],
+  "estimatedMinutes": 10,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 9,
+    "progressPolicy": "continue",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "aparecida-novena-days": "data/days.json"
+  },
+  "flow": "flow.json",
+  "description": {
+    "en-US": "A nine-day novena honoring Our Lady of Aparecida, entrusting families, the poor, and the Church in Brazil to Mary's maternal intercession.",
+    "pt-BR": "Uma novena de nove dias em honra a Nossa Senhora Aparecida, confiando as famílias, os pobres e a Igreja no Brasil à intercessão maternal de Maria."
+  },
+  "history": {
+    "en-US": "In 1717, fishermen on the Paraíba do Sul River found a small image of the Blessed Virgin Mary in two pieces: first the body, then the head. After they placed it in the boat, their nets filled abundantly. Devotion spread from this sign of providence, and Our Lady of Aparecida became the principal patroness of Brazil.",
+    "pt-BR": "Em 1717, pescadores no Rio Paraíba do Sul encontraram uma pequena imagem da Santíssima Virgem Maria em duas partes: primeiro o corpo e depois a cabeça. Depois de colocá-la na barca, as redes se encheram abundantemente. A devoção se espalhou a partir desse sinal de providência, e Nossa Senhora Aparecida tornou-se a padroeira principal do Brasil."
+  },
+  "howToPray": {
+    "en-US": "Pray once each day for nine consecutive days. Begin with the Sign of the Cross and the opening prayer, meditate on the day, offer the intention, then conclude with an Our Father, Hail Mary, Glory Be, and the closing prayer to Our Lady of Aparecida.",
+    "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, medite o tema do dia, ofereça a intenção e conclua com um Pai-Nosso, Ave-Maria, Glória ao Pai e a oração final a Nossa Senhora Aparecida."
+  },
+  "tags": ["novena", "our-lady-aparecida", "marian", "9-days", "brazil"],
+  "defaults": {
+    "sortOrder": 43,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

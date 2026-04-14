@@ -1,0 +1,33 @@
+{
+	"id": "examination-by-beatitudes",
+	"alternativeTo": "examination-of-conscience",
+	"icon": "prayer",
+	"name": {
+		"en-US": "The Beatitudes",
+		"pt-BR": "As Bem-aventuranças"
+	},
+	"categories": [
+		"daily",
+		"contemplative"
+	],
+	"estimatedMinutes": 5,
+	"description": {
+		"en-US": "A positive, Gospel-centered examination that measures the day against the spirit of Christ's Beatitudes from the Sermon on the Mount.",
+		"pt-BR": "Um exame positivo, centrado no Evangelho, que mede o dia em relação ao espírito das Bem-aventuranças de Cristo no Sermão da Montanha."
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flow": "flow.json",
+	"defaults": {
+		"sortOrder": 6,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
+}

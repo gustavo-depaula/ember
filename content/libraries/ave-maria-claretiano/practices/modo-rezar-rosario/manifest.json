@@ -17,35 +17,12 @@
 	},
 	"flowMode": "scroll",
 	"completion": "flow-end",
-	"flows": [
-		{
-			"id": "gozosos",
-			"name": {
-				"pt-BR": "Mistérios Gozosos"
-			},
-			"file": "flows/gozosos.json"
-		},
-		{
-			"id": "dolorosos",
-			"name": {
-				"pt-BR": "Mistérios Dolorosos"
-			},
-			"file": "flows/dolorosos.json"
-		},
-		{
-			"id": "gloriosos",
-			"name": {
-				"pt-BR": "Mistérios Gloriosos"
-			},
-			"file": "flows/gloriosos.json"
-		}
-	],
+	"flow": "flow.json",
 	"tags": ["marian", "rosary", "meditation", "daily"],
 	"defaults": {
 		"sortOrder": 7,
 		"slots": [
 			{
-				"flowId": "gozosos",
 				"schedule": {
 					"type": "days-of-week",
 					"days": [1, 4]
@@ -54,7 +31,6 @@
 				"enabled": false
 			},
 			{
-				"flowId": "dolorosos",
 				"schedule": {
 					"type": "days-of-week",
 					"days": [2, 5]
@@ -63,7 +39,6 @@
 				"enabled": false
 			},
 			{
-				"flowId": "gloriosos",
 				"schedule": {
 					"type": "days-of-week",
 					"days": [0, 3, 6]

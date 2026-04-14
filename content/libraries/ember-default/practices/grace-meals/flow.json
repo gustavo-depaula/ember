@@ -1,0 +1,47 @@
+{
+	"sections": [
+		{
+			"type": "select",
+			"label": {
+				"en-US": "Prayer",
+				"pt-BR": "Oração"
+			},
+			"options": [
+				{
+					"id": "before",
+					"label": {
+						"en-US": "Before Meals",
+						"pt-BR": "Antes das Refeições"
+					},
+					"sections": [
+						{
+							"type": "prayer",
+							"ref": "sign-of-cross"
+						},
+						{
+							"type": "prayer",
+							"ref": "grace-before-meals"
+						}
+					]
+				},
+				{
+					"id": "after",
+					"label": {
+						"en-US": "After Meals",
+						"pt-BR": "Após as Refeições"
+					},
+					"sections": [
+						{
+							"type": "prayer",
+							"ref": "sign-of-cross"
+						},
+						{
+							"type": "prayer",
+							"ref": "grace-after-meals"
+						}
+					]
+				}
+			]
+		}
+	]
+}

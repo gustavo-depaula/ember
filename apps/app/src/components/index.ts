@@ -17,7 +17,7 @@ export {
 export { FloralCorner, FloralVineBorder, SeasonalIcon, WatercolorIcon } from './ornaments'
 export { PageBorder } from './PageBorder'
 export { PracticeIcon } from './PracticeIcon'
-export { FlowButtons, PrayButton } from './PrayActionButtons'
+export { PrayButton } from './PrayActionButtons'
 export { PrayerLines, PrayerText } from './PrayerText'
 export { ProgressBar } from './ProgressBar'
 export { type PsalmData, PsalmodyBlock } from './PsalmodyBlock'
@@ -30,6 +30,7 @@ export {
   PrayerTextBlock,
   ProperSlot,
   ResponseBlock,
+  SelectBlock,
 } from './prayer'
 export { ReadingConfigBadge, ReadingConfigModal } from './ReadingConfigModal'
 export { RubricLabel } from './RubricLabel'

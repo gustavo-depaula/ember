@@ -25,42 +25,7 @@
 	},
 	"flowMode": "scroll",
 	"completion": "flow-end",
-	"flows": [
-		{
-			"id": "default",
-			"name": {
-				"en-US": "Prayer to St. Joseph",
-				"pt-BR": "Oração a São José"
-			},
-			"file": "flow.json"
-		}
-	],
-	"variants": [
-		{
-			"id": "traditional",
-			"name": {
-				"en-US": "Traditional",
-				"pt-BR": "Tradicional"
-			},
-			"description": {
-				"en-US": "The traditional Catholic prayer to St. Joseph",
-				"pt-BR": "A oração católica tradicional a São José"
-			},
-			"file": "variants/traditional.json"
-		},
-		{
-			"id": "bernardine",
-			"name": {
-				"en-US": "St. Bernardine",
-				"pt-BR": "São Bernardino"
-			},
-			"description": {
-				"en-US": "The prayer attributed to St. Bernardine of Siena",
-				"pt-BR": "A oração atribuída a São Bernardino de Siena"
-			},
-			"file": "variants/bernardine.json"
-		}
-	],
+	"flow": "flow.json",
 	"tags": [
 		"joseph",
 		"patron",
@@ -72,7 +37,6 @@
 		"sortOrder": 29,
 		"slots": [
 			{
-				"flowId": "default",
 				"schedule": {
 					"type": "daily"
 				},

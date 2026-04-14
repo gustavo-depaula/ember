@@ -24,54 +24,7 @@
 	},
 	"flowMode": "step",
 	"completion": "flow-end",
-	"flows": [
-		{
-			"id": "default",
-			"name": {
-				"en-US": "Examination of Conscience",
-				"pt-BR": "Exame de Consciência"
-			},
-			"file": "flow.json"
-		}
-	],
-	"variants": [
-		{
-			"id": "ignatian-examen",
-			"name": {
-				"en-US": "Ignatian Examen",
-				"pt-BR": "Exame Inaciano"
-			},
-			"description": {
-				"en-US": "St. Ignatius's five-movement daily examen: gratitude, petition for light, review of the day, sorrow, and hope",
-				"pt-BR": "O exame diário de cinco movimentos de Santo Inácio: gratidão, petição de luz, revisão do dia, arrependimento e esperança"
-			},
-			"file": "variants/ignatian-examen.json"
-		},
-		{
-			"id": "ten-commandments",
-			"name": {
-				"en-US": "Ten Commandments",
-				"pt-BR": "Dez Mandamentos"
-			},
-			"description": {
-				"en-US": "A structured examination of conscience organized around our duties to God, neighbor, and self as revealed in the Decalogue",
-				"pt-BR": "Um exame de consciência estruturado em torno dos nossos deveres para com Deus, o próximo e nós mesmos, conforme revelado no Decálogo"
-			},
-			"file": "variants/ten-commandments.json"
-		},
-		{
-			"id": "beatitudes",
-			"name": {
-				"en-US": "The Beatitudes",
-				"pt-BR": "As Bem-aventuranças"
-			},
-			"description": {
-				"en-US": "A positive, Gospel-centered examination that measures the day against the spirit of Christ's Beatitudes from the Sermon on the Mount",
-				"pt-BR": "Um exame positivo, centrado no Evangelho, que mede o dia em relação ao espírito das Bem-aventuranças de Cristo no Sermão da Montanha"
-			},
-			"file": "variants/beatitudes.json"
-		}
-	],
+	"flow": "flow.json",
 	"tags": [
 		"evening",
 		"conscience",
@@ -84,7 +37,6 @@
 		"sortOrder": 5,
 		"slots": [
 			{
-				"flowId": "default",
 				"schedule": {
 					"type": "daily"
 				},

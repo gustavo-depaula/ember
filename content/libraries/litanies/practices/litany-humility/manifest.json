@@ -21,22 +21,12 @@
 	},
 	"flowMode": "scroll",
 	"completion": "flow-end",
-	"flows": [
-		{
-			"id": "default",
-			"name": {
-				"en-US": "Litany of Humility",
-				"pt-BR": "Ladainha da Humildade"
-			},
-			"file": "flow.json"
-		}
-	],
+	"flow": "flow.json",
 	"tags": ["litany", "humility", "virtue"],
 	"defaults": {
 		"sortOrder": 56,
 		"slots": [
 			{
-				"flowId": "default",
 				"schedule": {
 					"type": "daily"
 				},

@@ -1,0 +1,185 @@
+{
+	"resolve": [
+		{
+			"data": "liturgical-map",
+			"strategy": "liturgical-day",
+			"as": "meditations",
+			"book": "meditacoes-ligorio"
+		}
+	],
+	"sections": [
+		{
+			"type": "rubric",
+			"text": { "pt-BR": "{{liturgicalLabel}}" }
+		},
+		{
+			"type": "heading",
+			"text": { "pt-BR": "{{meditationTitle}}" }
+		},
+		{
+			"type": "prayer",
+			"title": { "pt-BR": "Preparação" },
+			"sections": [
+				{
+					"type": "rubric",
+					"text": { "pt-BR": "Na preparação fazem-se três atos:" }
+				},
+				{
+					"type": "subheading",
+					"text": { "pt-BR": "1º Ato de Fé na presença de Deus" }
+				},
+				{
+					"type": "prayer",
+					"inline": { "pt-BR": "Meu Deus, eu creio que estais aqui presente e Vos adoro com todo o meu afeto." }
+				},
+				{
+					"type": "subheading",
+					"text": { "pt-BR": "2º Ato de Humildade e Contrição" }
+				},
+				{
+					"type": "prayer",
+					"inline": { "pt-BR": "Senhor, nesta hora deveria eu estar no inferno por causa dos meus pecados; de todo o coração arrependo de Vos ter ofendido, ó Bondade infinita." }
+				},
+				{
+					"type": "subheading",
+					"text": { "pt-BR": "3º Ato de Petição de luzes" }
+				},
+				{
+					"type": "prayer",
+					"inline": { "pt-BR": "Meu Deus, pelo amor de Jesus e Maria, esclarecei-me nesta meditação, para que tire proveito dela." }
+				},
+				{
+					"type": "rubric",
+					"text": { "pt-BR": "Depois uma Ave Maria à Santíssima Virgem, afim de que nos obtenha esta luz; e na mesma intenção um Glória ao Pai a São José, ao Anjo da Guarda e ao nosso Santo Protetor." }
+				}
+			]
+		},
+		{
+			"type": "prayer",
+			"title": { "pt-BR": "Guia da Meditação" },
+			"sections": [
+				{
+					"type": "rubric",
+					"text": { "pt-BR": "Para a Meditação sirvamo-nos sempre de um livro, ao menos no começo, parando nas passagens que mais impressão nos fazem." }
+				},
+				{
+					"type": "rubric",
+					"text": { "pt-BR": "São três os frutos da meditação: afetos, súplicas e resoluções." }
+				},
+				{
+					"type": "subheading",
+					"text": { "pt-BR": "1º Pelos Afetos" }
+				},
+				{
+					"type": "rubric",
+					"text": { "pt-BR": "Atos de fé, agradecimento, adoração, louvor, humildade, e sobretudo de amor e de contrição. Exemplos:" }
+				},
+				{
+					"type": "prayer",
+					"inline": { "pt-BR": "Meu Deus, eu Vos amo sobre todas as coisas.\nEu Vos amo de todo o meu coração.\nFazei-me saber o que é de vosso agrado; quero fazer em tudo a vossa vontade.\nRegozijo-me por serdes infinitamente feliz." }
+				},
+				{
+					"type": "rubric",
+					"text": { "pt-BR": "Para o ato de contrição basta dizer:" }
+				},
+				{
+					"type": "prayer",
+					"inline": { "pt-BR": "Bondade infinita, pesa-me de Vos ter ofendido." }
+				},
+				{
+					"type": "subheading",
+					"text": { "pt-BR": "2º Pelas Súplicas" }
+				},
+				{
+					"type": "rubric",
+					"text": { "pt-BR": "Pedindo a Deus luzes, a humildade ou qualquer outra virtude, uma boa morte, a salvação eterna; mas principalmente o dom do seu santo amor e a santa perseverança. Se a alma está em grande aridez, basta dizer:" }
+				},
+				{
+					"type": "prayer",
+					"inline": { "pt-BR": "Meu Deus, socorrei-me. Senhor, tende compaixão de mim. Meu Jesus, misericórdia!" }
+				},
+				{
+					"type": "subheading",
+					"text": { "pt-BR": "3º Pelas Resoluções" }
+				},
+				{
+					"type": "rubric",
+					"text": { "pt-BR": "Antes de se terminar a oração, cumpre tomar alguma resolução particular — como por exemplo evitar com mais cuidado tal defeito, ou praticar melhor tal virtude." }
+				}
+			]
+		},
+		{
+			"type": "options",
+			"label": { "pt-BR": "Meditação" },
+			"from": "meditations",
+			"sections": [
+				{
+					"type": "prose",
+					"book": "meditacoes-ligorio",
+					"chapter": "{{chapterId}}"
+				}
+			]
+		},
+		{
+			"type": "prayer",
+			"title": { "pt-BR": "Conclusão" },
+			"sections": [
+				{
+					"type": "rubric",
+					"text": { "pt-BR": "A conclusão da oração compõe-se de três atos:" }
+				},
+				{
+					"type": "subheading",
+					"text": { "pt-BR": "1º Agradecimento e pedido de perdão" }
+				},
+				{
+					"type": "prayer",
+					"inline": { "pt-BR": "Senhor, eu Vos agradeço as luzes e os afetos que me destes nesta meditação e Vos peço perdão das faltas nela cometidas." }
+				},
+				{
+					"type": "subheading",
+					"text": { "pt-BR": "2º Oferecimento das resoluções" }
+				},
+				{
+					"type": "prayer",
+					"inline": { "pt-BR": "Meu Deus, eu Vos ofereço as resoluções que com a vossa graça acabo de tomar, e resolvido estou a executá-las, custe o que custar." }
+				},
+				{
+					"type": "subheading",
+					"text": { "pt-BR": "3º Súplica pela graça de cumpri-las" }
+				},
+				{
+					"type": "prayer",
+					"inline": { "pt-BR": "Meu Deus, pelos merecimentos de Jesus Cristo e pela intercessão de Maria Santíssima, dai-me a força de por fielmente em prática as resoluções que tomei." }
+				},
+				{
+					"type": "rubric",
+					"text": { "pt-BR": "Termina-se a oração recomendando a Deus a Santa Igreja, os seus Prelados, as Almas do Purgatório, os pecadores, e todos os nossos parentes, amigos e benfeitores, por um Pai Nosso e uma Ave Maria:" }
+				},
+				{
+					"type": "prayer",
+					"inline": { "pt-BR": "Senhor, eu Vos recomendo a Santa Igreja, com os seus Prelados, as Almas do Purgatório, a conversão dos pecadores, e todas as minhas necessidades espirituais e temporais bem como as dos meus parentes, amigos e benfeitores." }
+				},
+				{
+					"type": "divider"
+				},
+				{
+					"type": "subheading",
+					"text": { "pt-BR": "Depois da Meditação" }
+				},
+				{
+					"type": "rubric",
+					"text": { "pt-BR": "1º Imprimir bem na memória um ou dois pensamentos que mais impressão nos fizeram, para os recordarmos durante o dia." }
+				},
+				{
+					"type": "rubric",
+					"text": { "pt-BR": "2º Por logo em prática as resoluções tomadas, tanto nas ocasiões pequenas como nas grandes." }
+				},
+				{
+					"type": "rubric",
+					"text": { "pt-BR": "3º Por meio do silêncio e recolhimento, conservar o mais tempo possível os afetos excitados na oração." }
+				}
+			]
+		}
+	]
+}

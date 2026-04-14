@@ -29,16 +29,7 @@
 	},
 	"flowMode": "scroll",
 	"completion": "flow-end",
-	"flows": [
-		{
-			"id": "default",
-			"name": {
-				"en-US": "Daily Readings",
-				"pt-BR": "Leituras Diárias"
-			},
-			"file": "flow.json"
-		}
-	],
+	"flow": "flow.json",
 	"tags": [
 		"bible",
 		"catechism",
@@ -49,7 +40,6 @@
 		"sortOrder": 20,
 		"slots": [
 			{
-				"flowId": "default",
 				"schedule": {
 					"type": "daily"
 				},

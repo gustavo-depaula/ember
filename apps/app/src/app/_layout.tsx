@@ -22,7 +22,7 @@ import { Stack } from 'expo-router'
 import * as SplashScreen from 'expo-splash-screen'
 import { StatusBar } from 'expo-status-bar'
 import { useEffect, useState } from 'react'
-import { LogBox, useColorScheme } from 'react-native'
+import { InteractionManager, LogBox, useColorScheme } from 'react-native'
 import { GestureHandlerRootView } from 'react-native-gesture-handler'
 import { TamaguiProvider, Theme } from 'tamagui'
 
@@ -116,11 +116,13 @@ export default function RootLayout() {
       setupNotifications().then(() => rescheduleAllReminders())
 
       if (installed.length > 0) {
-        checkAndUpdateBooks()
-          .then(async (updated) => {
-            if (updated) await seedPractices()
-          })
-          .catch((err) => console.warn('Book update check failed:', err))
+        InteractionManager.runAfterInteractions(() => {
+          checkAndUpdateBooks()
+            .then(async (updated) => {
+              if (updated) await seedPractices()
+            })
+            .catch((err) => console.warn('Book update check failed:', err))
+        })
       }
     }
 

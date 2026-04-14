@@ -14,7 +14,6 @@ export {
   addSlot,
   archivePractice,
   backfillMissedDays,
-  changeSlotFlow,
   createPractice,
   createPracticeWithSlot,
   deletePractice,

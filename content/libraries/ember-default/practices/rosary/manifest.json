@@ -25,78 +25,7 @@
 	},
 	"flowMode": "scroll",
 	"completion": "flow-end",
-	"flows": [
-		{
-			"id": "joyful",
-			"name": {
-				"en-US": "Joyful Mysteries",
-				"pt-BR": "Mistérios Gozosos"
-			},
-			"file": "flow.json"
-		},
-		{
-			"id": "sorrowful",
-			"name": {
-				"en-US": "Sorrowful Mysteries",
-				"pt-BR": "Mistérios Dolorosos"
-			},
-			"file": "flow.json"
-		},
-		{
-			"id": "glorious",
-			"name": {
-				"en-US": "Glorious Mysteries",
-				"pt-BR": "Mistérios Gloriosos"
-			},
-			"file": "flow.json"
-		},
-		{
-			"id": "luminous",
-			"name": {
-				"en-US": "Luminous Mysteries",
-				"pt-BR": "Mistérios Luminosos"
-			},
-			"file": "flow.json"
-		}
-	],
-	"variants": [
-		{
-			"id": "traditional",
-			"name": {
-				"en-US": "Traditional Meditations",
-				"pt-BR": "Meditações Tradicionais"
-			},
-			"description": {
-				"en-US": "Classic mystery meditations following the traditional schedule",
-				"pt-BR": "Meditações clássicas dos mistérios seguindo o calendário tradicional"
-			},
-			"file": "variants/traditional.json"
-		},
-		{
-			"id": "scriptural",
-			"name": {
-				"en-US": "Scriptural Meditations",
-				"pt-BR": "Meditações Bíblicas"
-			},
-			"description": {
-				"en-US": "Scripture-based meditations for each mystery",
-				"pt-BR": "Meditações baseadas nas Escrituras para cada mistério"
-			},
-			"file": "variants/scriptural.json"
-		},
-		{
-			"id": "montfort",
-			"name": {
-				"en-US": "Montfort Meditations",
-				"pt-BR": "Meditações de Montfort"
-			},
-			"description": {
-				"en-US": "Rich meditations from St. Louis de Montfort's The Secret of the Rosary, each mystery paired with a virtue and grace to seek",
-				"pt-BR": "Meditações ricas de O Segredo do Rosário de São Luís Maria de Montfort, cada mistério ligado a uma virtude e graça a pedir"
-			},
-			"file": "variants/montfort.json"
-		}
-	],
+	"flow": "flow.json",
 	"tags": [
 		"marian",
 		"rosary",
@@ -107,45 +36,8 @@
 		"sortOrder": 4,
 		"slots": [
 			{
-				"flowId": "joyful",
 				"schedule": {
-					"type": "days-of-week",
-					"days": [
-						1,
-						6
-					]
-				},
-				"tier": "essential"
-			},
-			{
-				"flowId": "sorrowful",
-				"schedule": {
-					"type": "days-of-week",
-					"days": [
-						2,
-						5
-					]
-				},
-				"tier": "essential"
-			},
-			{
-				"flowId": "glorious",
-				"schedule": {
-					"type": "days-of-week",
-					"days": [
-						0,
-						3
-					]
-				},
-				"tier": "essential"
-			},
-			{
-				"flowId": "luminous",
-				"schedule": {
-					"type": "days-of-week",
-					"days": [
-						4
-					]
+					"type": "daily"
 				},
 				"tier": "essential"
 			}

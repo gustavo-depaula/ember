@@ -8,7 +8,6 @@ import { Text, useTheme, XStack, YStack } from 'tamagui'
 
 import {
   AnimatedPressable,
-  FlowButtons,
   GreenWall,
   PrayButton,
   ScreenLayout,
@@ -23,7 +22,6 @@ import {
   getPracticeIconKey,
   useAddSlot,
   useArchivePractice,
-  useChangeSlotFlow,
   useDeleteSlot,
   usePracticeCompletionStats,
   useProgramProgress,
@@ -43,13 +41,12 @@ export default function PracticeDetailScreen() {
   const { data: slots = [] } = useSlotsForPractice(practiceId)
   const manifest = practiceId ? getManifest(practiceId) : undefined
   const isProgram = !!manifest?.program
-  const hasFlow = (manifest?.flows?.length ?? 0) > 0
+  const hasFlow = !!manifest?.flow
   const updateSlot = useUpdateSlot()
   const addSlot = useAddSlot()
   const archivePractice = useArchivePractice()
   const unarchivePractice = useUnarchivePractice()
   const { data: programProgress } = useProgramProgress(practiceId ?? '', manifest?.program)
-  const changeSlotFlow = useChangeSlotFlow()
   const deleteSlot = useDeleteSlot()
 
   const firstSlot = slots[0]
@@ -136,14 +133,6 @@ export default function PracticeDetailScreen() {
               </Text>
             </YStack>
           </AnimatedPressable>
-        ) : hasFlow &&
-          practiceId &&
-          manifest &&
-          !manifest.forms &&
-          (manifest.flows?.length ?? 0) > 1 ? (
-          <YStack gap="$sm">
-            <FlowButtons practiceId={practiceId} flows={manifest.flows ?? []} />
-          </YStack>
         ) : hasFlow && practiceId ? (
           <PrayButton practiceId={practiceId} />
         ) : null}
@@ -179,18 +168,14 @@ export default function PracticeDetailScreen() {
 
         <SlotConfigurator
           slots={slots}
-          practiceId={practiceId}
           onUpdateSlot={(slotId, data) => updateSlot.mutate({ id: slotId, data })}
-          onAddSlot={(flowId) =>
+          onAddSlot={() =>
             addSlot.mutate({
               practiceId: practiceId,
-              data: { tier: firstSlot.tier, slotId: flowId },
+              data: { tier: firstSlot.tier, slotId: 'default' },
             })
           }
           onDeleteSlot={(slotId) => deleteSlot.mutate(slotId)}
-          onChangeSlotFlow={(slotId, flowId) =>
-            changeSlotFlow.mutate({ oldSlotKey: slotId, newFlowId: flowId })
-          }
         />
 
         {trackDefs && cursorRows.length > 0 && (

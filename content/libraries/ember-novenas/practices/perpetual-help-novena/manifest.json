@@ -1,0 +1,46 @@
+{
+  "id": "perpetual-help-novena",
+  "icon": "mary",
+  "name": {
+    "en-US": "Novena to Our Lady of Perpetual Help",
+    "pt-BR": "Novena a Nossa Senhora do Perpétuo Socorro"
+  },
+  "categories": ["program", "devotion", "marian"],
+  "estimatedMinutes": 10,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 9,
+    "progressPolicy": "continue",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "perpetual-help-novena-days": "data/days.json"
+  },
+  "flow": "flow.json",
+  "description": {
+    "en-US": "A nine-day novena to Our Lady of Perpetual Help, entrusting needs, trials, and perseverance in faith to Mary's maternal intercession.",
+    "pt-BR": "Uma novena de nove dias a Nossa Senhora do Perpétuo Socorro, confiando necessidades, provações e perseverança na fé à intercessão maternal de Maria."
+  },
+  "history": {
+    "en-US": "The icon of Our Lady of Perpetual Help is an ancient Byzantine image long venerated in the Church. In 1866, Pope Pius IX entrusted the icon to the Redemptorists with the mission to make Mary known under this title throughout the world. Since then, countless faithful have turned to Our Lady of Perpetual Help for consolation, conversion, and confidence in God's mercy.",
+    "pt-BR": "O ícone de Nossa Senhora do Perpétuo Socorro é uma antiga imagem bizantina venerada há séculos na Igreja. Em 1866, o Papa Pio IX confiou o ícone aos Redentoristas com a missão de tornar Maria conhecida sob esse título em todo o mundo. Desde então, incontáveis fiéis recorrem a Nossa Senhora do Perpétuo Socorro em busca de consolo, conversão e confiança na misericórdia de Deus."
+  },
+  "howToPray": {
+    "en-US": "Pray once each day for nine consecutive days. Begin with the Sign of the Cross and the opening prayer, meditate on the theme of the day, offer its intention, and conclude with an Our Father, Hail Mary, Glory Be, and the closing prayer to Our Lady of Perpetual Help.",
+    "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, medite o tema do dia, ofereça a intenção correspondente e conclua com um Pai-Nosso, Ave-Maria, Glória ao Pai e a oração final a Nossa Senhora do Perpétuo Socorro."
+  },
+  "tags": ["novena", "our-lady-perpetual-help", "marian", "9-days", "redemptorist"],
+  "defaults": {
+    "sortOrder": 47,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "st-joseph-novena",
+  "icon": "prayer",
+  "name": {
+    "en-US": "Novena to St. Joseph",
+    "pt-BR": "Novena a São José"
+  },
+  "categories": ["program", "devotion", "saints", "family"],
+  "estimatedMinutes": 10,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 9,
+    "progressPolicy": "continue",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "joseph-novena-days": "data/days.json"
+  },
+  "flow": "flow.json",
+  "description": {
+    "en-US": "A nine-day novena to St. Joseph, entrusting families, work, and the Church to his fatherly intercession.",
+    "pt-BR": "Uma novena de nove dias a São José, confiando as famílias, o trabalho e a Igreja à sua intercessão paterna."
+  },
+  "history": {
+    "en-US": "Devotion to St. Joseph has grown in the Church for centuries, especially as patron of the Universal Church, families, workers, and a happy death. The tradition of a nine-day novena follows the Church's custom of persevering prayer inspired by the Apostles in the days between Ascension and Pentecost.",
+    "pt-BR": "A devoção a São José cresceu na Igreja ao longo dos séculos, especialmente como padroeiro da Igreja Universal, das famílias, dos trabalhadores e da boa morte. A tradição da novena de nove dias segue o costume da Igreja de perseverar na oração, inspirado nos Apóstolos entre a Ascensão e Pentecostes."
+  },
+  "howToPray": {
+    "en-US": "Pray once daily for nine consecutive days. Begin with the Sign of the Cross, read the meditation and intention for the day, then conclude with an Our Father, Hail Mary, and Glory Be, entrusting your intentions to St. Joseph.",
+    "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz, leia a meditação e a intenção do dia e conclua com um Pai-Nosso, Ave-Maria e Glória ao Pai, confiando suas intenções a São José."
+  },
+  "tags": ["novena", "st-joseph", "9-days", "family", "workers"],
+  "defaults": {
+    "sortOrder": 42,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

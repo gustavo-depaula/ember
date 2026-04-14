@@ -2,7 +2,7 @@
 
 Prioritized plan for new content libraries in Ember, organized by type and impact. Each candidate is assessed for feasibility (public domain text availability, source quality), bilingual support (EN + PT-BR), and alignment with the three pillars (Fidelity, Devotion, Wisdom).
 
-> Status: planning phase. No content authoring started.
+> Status: active execution. `ember-novenas` now exists with the 54-Day Rosary Novena, and the next novena batches are prioritized below.
 
 ---
 
@@ -130,6 +130,32 @@ Doctor of the Church on prayer. Prolific public domain output. *Extremely* popul
 **Type:** Formation guide + enhanced practice content
 
 The Rosary already exists as a practice but lacks formation content. 54-Day Rosary Novena (issue #45) is a requested program. The Rosary is the universal Catholic devotion — deserves its own rich book.
+
+Status update: the 54-Day Rosary Novena was implemented as a standalone program practice in a dedicated novena library (`ember-novenas`).
+
+#### Novenas library expansion (approved direction)
+
+`ember-novenas` is now the intended **single home for all novenas**.
+
+Migration-first scope:
+- Move existing novenas from `ember-extra` into `ember-novenas`:
+  - `novena-holy-spirit`
+  - `novena-sacred-heart`
+  - `miraculous-medal-novena`
+
+Next additions (priority):
+1. Divine Mercy Novena ([spec](../features/divine-mercy-novena.md))
+2. Novena to St. Joseph ([spec](../features/st-joseph-novena.md))
+3. Novena to St. Therese ([spec](../features/st-therese-novena.md))
+4. Immaculate Conception Novena ([spec](../features/immaculate-conception-novena.md))
+5. Christmas Novena ([spec](../features/christmas-novena.md))
+6. Our Lady of Aparecida Novena
+7. St. Jude Novena
+8. St. Michael Novena
+9. St. Anthony Novena
+10. Our Lady of Perpetual Help Novena
+11. Our Lady of Guadalupe Novena
+12. Our Lady of Mount Carmel Novena
 
 | Component | Content |
 |-----------|---------|

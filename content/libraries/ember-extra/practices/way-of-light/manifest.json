@@ -25,42 +25,7 @@
 	},
 	"flowMode": "scroll",
 	"completion": "flow-end",
-	"flows": [
-		{
-			"id": "default",
-			"name": {
-				"en-US": "Way of Light",
-				"pt-BR": "Via Lucis"
-			},
-			"file": "flow.json"
-		}
-	],
-	"variants": [
-		{
-			"id": "traditional",
-			"name": {
-				"en-US": "Traditional Meditations",
-				"pt-BR": "Meditações Tradicionais"
-			},
-			"description": {
-				"en-US": "Classic meditations on the Resurrection appearances",
-				"pt-BR": "Meditações clássicas sobre as aparições da Ressurreição"
-			},
-			"file": "variants/traditional.json"
-		},
-		{
-			"id": "scriptural",
-			"name": {
-				"en-US": "Scriptural Meditations",
-				"pt-BR": "Meditações Bíblicas"
-			},
-			"description": {
-				"en-US": "Scripture-based meditations for each station",
-				"pt-BR": "Meditações baseadas nas Escrituras para cada estação"
-			},
-			"file": "variants/scriptural.json"
-		}
-	],
+	"flow": "flow.json",
 	"tags": [
 		"resurrection",
 		"easter",
@@ -72,7 +37,6 @@
 		"sortOrder": 36,
 		"slots": [
 			{
-				"flowId": "default",
 				"schedule": {
 					"type": "days-of-week",
 					"days": [

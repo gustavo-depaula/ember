@@ -1,0 +1,22 @@
+{
+	"id": "rosary-scriptural",
+	"alternativeTo": "rosary",
+	"icon": "rosary",
+	"name": {
+		"en-US": "Rosary — Scriptural Meditations",
+		"pt-BR": "Rosário — Meditações Bíblicas"
+	},
+	"categories": ["marian", "rosary"],
+	"estimatedMinutes": 20,
+	"description": {
+		"en-US": "The Holy Rosary prayed with Scripture-based meditations, grounding each mystery directly in the words of the Evangelists and Prophets.",
+		"pt-BR": "O Santo Rosário rezado com meditações baseadas nas Escrituras, ancorando cada mistério diretamente nas palavras dos Evangelistas e Profetas."
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flow": "flow.json",
+	"defaults": {
+		"sortOrder": 2,
+		"slots": [{ "schedule": { "type": "daily" }, "tier": "extra", "enabled": false }]
+	}
+}

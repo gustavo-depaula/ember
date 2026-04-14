@@ -1,0 +1,231 @@
+{
+	"data": {
+		"stations": [
+			{
+				"name": {
+					"en-US": "Jesus Is Condemned to Death",
+					"pt-BR": "Jesus é Condenado à Morte"
+				},
+				"meditation": {
+					"en-US": "'Pilate said to them, \"Then what shall I do with Jesus who is called Christ?\" They all said, \"Let him be crucified.\" And he said, \"Why, what evil has he done?\" But they shouted all the more, \"Let him be crucified.\"' (Mt 27:22-23)",
+					"pt-BR": "'Pilatos disse-lhes: \"Que farei então de Jesus, chamado Cristo?\" Todos responderam: \"Seja crucificado.\" Ele perguntou: \"Mas que mal fez ele?\" Eles, porém, gritavam ainda mais: \"Seja crucificado.\"' (Mt 27,22-23)"
+				}
+			},
+			{
+				"name": {
+					"en-US": "Jesus Takes Up His Cross",
+					"pt-BR": "Jesus Toma a Cruz"
+				},
+				"meditation": {
+					"en-US": "'And bearing his own cross, he went forth to what is called the place of the skull, which is called in Hebrew, Golgotha.' (Jn 19:17) 'If any man would come after me, let him deny himself and take up his cross and follow me.' (Mt 16:24)",
+					"pt-BR": "'E, carregando a sua própria cruz, saiu para o lugar chamado Calvário, que em hebraico se chama Gólgota.' (Jo 19,17) 'Se alguém quer vir após mim, negue-se a si mesmo, tome a sua cruz e siga-me.' (Mt 16,24)"
+				}
+			},
+			{
+				"name": {
+					"en-US": "Jesus Falls the First Time",
+					"pt-BR": "Jesus Cai pela Primeira Vez"
+				},
+				"meditation": {
+					"en-US": "'Surely he has borne our griefs and carried our sorrows; yet we esteemed him stricken, smitten by God, and afflicted.' (Is 53:4)",
+					"pt-BR": "'Verdadeiramente ele tomou sobre si as nossas enfermidades e carregou as nossas dores; e nós o reputávamos como ferido, batido por Deus e afligido.' (Is 53,4)"
+				}
+			},
+			{
+				"name": {
+					"en-US": "Jesus Meets His Mother",
+					"pt-BR": "Jesus Encontra Sua Mãe"
+				},
+				"meditation": {
+					"en-US": "'And Simeon blessed them and said to Mary his mother: Behold, this child is set for the fall and rising of many in Israel; and a sword will pierce through your own soul also.' (Lk 2:34-35)",
+					"pt-BR": "'Simeão abençoou-os e disse a Maria, sua mãe: Eis que este menino está posto para queda e elevação de muitos em Israel; e uma espada traspassará também a tua própria alma.' (Lc 2,34-35)"
+				}
+			},
+			{
+				"name": {
+					"en-US": "Simon of Cyrene Helps Jesus",
+					"pt-BR": "Simão Cireneu Ajuda Jesus"
+				},
+				"meditation": {
+					"en-US": "'And as they led him away, they seized one Simon of Cyrene, who was coming in from the country, and laid on him the cross, to carry it behind Jesus.' (Lk 23:26) 'Bear one another's burdens, and so fulfil the law of Christ.' (Gal 6:2)",
+					"pt-BR": "'Quando o levavam, tomaram um certo Simão de Cirene, que vinha do campo, e puseram-lhe a cruz às costas, para que a carregasse atrás de Jesus.' (Lc 23,26) 'Carregai os fardos uns dos outros, e assim cumprireis a lei de Cristo.' (Gl 6,2)"
+				}
+			},
+			{
+				"name": {
+					"en-US": "Veronica Wipes the Face of Jesus",
+					"pt-BR": "Verônica Enxuga o Rosto de Jesus"
+				},
+				"meditation": {
+					"en-US": "'He had no form or comeliness that we should look at him, and no beauty that we should desire him. He was despised and rejected by men; a man of sorrows, and acquainted with grief.' (Is 53:2-3)",
+					"pt-BR": "'Não tinha aparência nem formosura para que o olhássemos, nem beleza para que o desejássemos. Era desprezado e rejeitado pelos homens; homem de dores, experimentado no sofrimento.' (Is 53,2-3)"
+				}
+			},
+			{
+				"name": {
+					"en-US": "Jesus Falls the Second Time",
+					"pt-BR": "Jesus Cai pela Segunda Vez"
+				},
+				"meditation": {
+					"en-US": "'All we like sheep have gone astray; we have turned every one to his own way; and the Lord has laid on him the iniquity of us all.' (Is 53:6)",
+					"pt-BR": "'Todos nós andávamos desgarrados como ovelhas; cada um se desviava pelo seu caminho; mas o Senhor fez cair sobre ele a iniquidade de todos nós.' (Is 53,6)"
+				}
+			},
+			{
+				"name": {
+					"en-US": "Jesus Meets the Women of Jerusalem",
+					"pt-BR": "Jesus Encontra as Mulheres de Jerusalém"
+				},
+				"meditation": {
+					"en-US": "'And there followed him a great multitude of the people, and of women who bewailed and lamented him. But Jesus turning to them said, \"Daughters of Jerusalem, do not weep for me, but weep for yourselves and for your children.\"' (Lk 23:27-28)",
+					"pt-BR": "'Seguia-o uma grande multidão de povo e de mulheres que batiam no peito e o lamentavam. Jesus, porém, voltando-se para elas, disse: \"Filhas de Jerusalém, não choreis por mim; chorai por vós mesmas e por vossos filhos.\"' (Lc 23,27-28)"
+				}
+			},
+			{
+				"name": {
+					"en-US": "Jesus Falls the Third Time",
+					"pt-BR": "Jesus Cai pela Terceira Vez"
+				},
+				"meditation": {
+					"en-US": "'He was oppressed, and he was afflicted, yet he opened not his mouth; like a lamb that is led to the slaughter, and like a sheep that before its shearers is dumb, so he opened not his mouth.' (Is 53:7)",
+					"pt-BR": "'Ele foi oprimido e afligido, mas não abriu a boca; como um cordeiro que é levado ao matadouro, e como a ovelha que é muda perante os seus tosquiadores, assim ele não abriu a boca.' (Is 53,7)"
+				}
+			},
+			{
+				"name": {
+					"en-US": "Jesus Is Stripped of His Garments",
+					"pt-BR": "Jesus é Despojado de Suas Vestes"
+				},
+				"meditation": {
+					"en-US": "'They divided my garments among them, and for my raiment they cast lots.' (Ps 22:18) 'And when they had crucified him, they divided his garments among them by casting lots.' (Mt 27:35)",
+					"pt-BR": "'Repartiram entre si as minhas vestes, e sobre a minha túnica lançaram sortes.' (Sl 22,19) 'Depois de o crucificarem, repartiram as suas vestes, lançando sortes.' (Mt 27,35)"
+				}
+			},
+			{
+				"name": {
+					"en-US": "Jesus Is Nailed to the Cross",
+					"pt-BR": "Jesus é Pregado na Cruz"
+				},
+				"meditation": {
+					"en-US": "'They have pierced my hands and my feet; I can count all my bones.' (Ps 22:16-17) 'And Jesus said, \"Father, forgive them; for they know not what they do.\"' (Lk 23:34)",
+					"pt-BR": "'Traspassaram as minhas mãos e os meus pés; posso contar todos os meus ossos.' (Sl 22,17-18) 'E Jesus disse: \"Pai, perdoai-os, porque não sabem o que fazem.\"' (Lc 23,34)"
+				}
+			},
+			{
+				"name": {
+					"en-US": "Jesus Dies on the Cross",
+					"pt-BR": "Jesus Morre na Cruz"
+				},
+				"meditation": {
+					"en-US": "'And Jesus cried again with a loud voice and yielded up his spirit. And behold, the curtain of the temple was torn in two, from top to bottom; and the earth shook, and the rocks were split.' (Mt 27:50-51)",
+					"pt-BR": "'Jesus, clamando outra vez com grande voz, entregou o espírito. E eis que o véu do templo se rasgou em dois, de alto a baixo; a terra tremeu e as rochas se fenderam.' (Mt 27,50-51)"
+				}
+			},
+			{
+				"name": {
+					"en-US": "Jesus Is Taken Down from the Cross",
+					"pt-BR": "Jesus é Descido da Cruz"
+				},
+				"meditation": {
+					"en-US": "'After this Joseph of Arimathea, who was a disciple of Jesus, but secretly, for fear of the Jews, asked Pilate that he might take away the body of Jesus, and Pilate gave him leave.' (Jn 19:38)",
+					"pt-BR": "'Depois disto, José de Arimateia, que era discípulo de Jesus, mas em segredo por medo dos judeus, rogou a Pilatos que lhe permitisse tirar o corpo de Jesus, e Pilatos o permitiu.' (Jo 19,38)"
+				}
+			},
+			{
+				"name": {
+					"en-US": "Jesus Is Laid in the Tomb",
+					"pt-BR": "Jesus é Sepultado"
+				},
+				"meditation": {
+					"en-US": "'And Joseph took the body, and wrapped it in a clean linen shroud, and laid it in his own new tomb, which he had hewn in the rock; and he rolled a great stone to the door of the tomb, and departed.' (Mt 27:59-60)",
+					"pt-BR": "'José tomou o corpo, envolveu-o num lençol limpo e o depositou no seu túmulo novo, que havia escavado na rocha; e, rolando uma grande pedra para a porta do sepulcro, retirou-se.' (Mt 27,59-60)"
+				}
+			}
+		]
+	},
+	"sections": [
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "Opening Prayer",
+				"pt-BR": "Oração Inicial"
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "sign-of-cross"
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "My Lord Jesus Christ, You have made this journey to die for me with love beyond measure. I wish to accompany You on this journey with all my heart. Grant that I may walk this way with devotion and love, and that through the merits of Your Passion, I may arrive at the glory of heaven.\nAmen.",
+				"pt-BR": "Meu Senhor Jesus Cristo, Vós fizestes esta jornada para morrer por mim com amor sem medida. Desejo acompanhar-Vos nesta jornada de todo o meu coração. Concedei que eu percorra este caminho com devoção e amor, e que pelos méritos da Vossa Paixão, eu chegue à glória do céu.\nAmém."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "repeat",
+			"count": 14,
+			"from": "stations",
+			"sections": [
+				{
+					"type": "heading",
+					"text": {
+						"en-US": "Station {{ordinal}}: {{name}}",
+						"pt-BR": "{{ordinal}} Estação: {{name}}"
+					}
+				},
+				{
+					"type": "response",
+					"verses": [
+						{
+							"v": {
+								"en-US": "We adore You, O Christ, and we praise You,",
+								"pt-BR": "Nós Vos adoramos, ó Cristo, e Vos bendizemos,"
+							},
+							"r": {
+								"en-US": "Because by Your holy Cross You have redeemed the world.",
+								"pt-BR": "Porque pela Vossa santa Cruz remistes o mundo."
+							}
+						}
+					]
+				},
+				{
+					"type": "meditation",
+					"text": "{{meditation}}"
+				},
+				{
+					"type": "prayer",
+					"ref": "our-father"
+				},
+				{
+					"type": "prayer",
+					"ref": "hail-mary"
+				},
+				{
+					"type": "prayer",
+					"ref": "glory-be"
+				},
+				{
+					"type": "divider"
+				}
+			]
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "Closing Prayer",
+				"pt-BR": "Oração Final"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Lord Jesus Christ, Your Passion and Death is the sacrifice that unites earth and heaven and reconciles all people to You. May we who have faithfully reflected on these mysteries follow in Your footsteps and so come to share Your glory in heaven, where You live and reign with the Father and the Holy Spirit, one God, for ever and ever.\nAmen.",
+				"pt-BR": "Senhor Jesus Cristo, Vossa Paixão e Morte é o sacrifício que une a terra e o céu e reconcilia todos os povos convosco. Que nós, que fielmente meditamos estes mistérios, sigamos Vossos passos e assim cheguemos a partilhar Vossa glória no céu, onde viveis e reinais com o Pai e o Espírito Santo, um só Deus, pelos séculos dos séculos.\nAmém."
+			}
+		}
+	]
+}

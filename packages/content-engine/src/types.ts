@@ -17,7 +17,7 @@ export type LocalizedContent = { 'en-US'?: string; 'pt-BR'?: string; la?: string
 
 export type CycleData = {
   indexBy: 'day-of-month' | 'day-of-week' | 'fixed' | 'program-day'
-  variantKey?: string
+  contextKey?: string
   entries: Record<string, unknown[]>
 }
 
@@ -34,7 +34,20 @@ export type LectioTrackDef = {
 
 // --- Flow Definition (JSON input) ---
 
-export type FlowDefinition = { sections: FlowSection[] }
+export type RepeatEntry = Record<string, string | LocalizedText | undefined>
+
+export type ResolveStep = {
+  data: string
+  strategy: string
+  as: string
+  book?: string
+}
+
+export type FlowDefinition = {
+  data?: Record<string, RepeatEntry[]>
+  resolve?: ResolveStep[]
+  sections: FlowSection[]
+}
 
 export type FlowSection =
   | { type: 'rubric'; text: LocalizedText }
@@ -61,15 +74,40 @@ export type FlowSection =
       options: { id: string; label: LocalizedText; lang?: string; sections: FlowSection[] }[]
     }
   | {
+      type: 'options'
+      label: LocalizedText
+      from: string
+      sections: FlowSection[]
+    }
+  | {
       type: 'repeat'
       count: number
-      variable?: { source: 'variant'; key: string }
+      sections: FlowSection[]
+    }
+  | {
+      type: 'repeat'
+      count?: number
+      from: string
       sections: FlowSection[]
     }
   | { type: 'cycle'; data: string; key?: string; as: string; sections?: FlowSection[] }
   | { type: 'psalmody'; psalms: (number | string)[] }
   | { type: 'lectio'; track: string }
   | { type: 'prose'; file: string }
+  | { type: 'prose'; book: string; chapter: string }
+  | {
+      type: 'select'
+      on?: string
+      as?: string
+      label?: LocalizedText
+      map?: Record<string, string>
+      default?: string
+      options: {
+        id: string
+        label: LocalizedText
+        sections?: FlowSection[]
+      }[]
+    }
   | {
       type: 'gallery'
       items: {
@@ -119,6 +157,13 @@ export type RenderedSection =
       label: BilingualText
       options: { id: string; label: BilingualText; sections: RenderedSection[] }[]
     }
+  | {
+      type: 'select'
+      label: BilingualText
+      overrideKey: string
+      selectedId: string
+      options: { id: string; label: BilingualText; sections: RenderedSection[] }[]
+    }
   | { type: 'psalmody'; psalms: PsalmRef[] }
   | { type: 'reading'; reference: ReadingReference; trackId?: string }
   | { type: 'prose'; text: BilingualText }
@@ -138,13 +183,3 @@ export type RenderedSection =
       attribution?: BilingualText
       prayer?: BilingualText
     }
-
-// --- Variant ---
-
-export type Variant = {
-  id: string
-  name: LocalizedText
-  data: Record<string, VariantEntry[]>
-}
-
-export type VariantEntry = Record<string, string | LocalizedText | undefined>

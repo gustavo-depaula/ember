@@ -1,0 +1,22 @@
+{
+	"id": "rosary-montfort",
+	"alternativeTo": "rosary",
+	"icon": "rosary",
+	"name": {
+		"en-US": "Rosary — Montfort Meditations",
+		"pt-BR": "Rosário — Meditações de Montfort"
+	},
+	"categories": ["marian", "rosary"],
+	"estimatedMinutes": 20,
+	"description": {
+		"en-US": "The Holy Rosary with rich meditations from St. Louis de Montfort's The Secret of the Rosary, each mystery paired with a virtue and a grace to seek.",
+		"pt-BR": "O Santo Rosário com meditações ricas de O Segredo do Rosário de São Luís Maria de Montfort, cada mistério ligado a uma virtude e graça a pedir."
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flow": "flow.json",
+	"defaults": {
+		"sortOrder": 2,
+		"slots": [{ "schedule": { "type": "daily" }, "tier": "extra", "enabled": false }]
+	}
+}

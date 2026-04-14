@@ -4,6 +4,7 @@ import { getPracticeIdsForLibrary, registerSource, unregisterSource } from '@/co
 import { createFileSystemSource, type Library } from '@/content/sources/filesystem'
 import { getDb } from '@/db/client'
 import { deleteBookPractices } from '@/db/repositories/practices'
+import { yieldToUI } from '@/lib/async'
 import { fetchHearth, hearthUrl } from '@/lib/hearth'
 
 export type PracticePreview = {
@@ -81,6 +82,7 @@ function ensureDir(dir: Directory) {
 async function extractZip(zipData: ArrayBuffer, destDir: Directory) {
   const zip = await JSZip.loadAsync(zipData)
   const created = new Set<string>()
+  let fileCount = 0
 
   for (const [relativePath, zipEntry] of Object.entries(zip.files)) {
     if (zipEntry.dir) {
@@ -105,6 +107,9 @@ async function extractZip(zipData: ArrayBuffer, destDir: Directory) {
         const content = await zipEntry.async('string')
         new File(destDir, relativePath).write(content)
       }
+
+      fileCount++
+      if (fileCount % 5 === 0) await yieldToUI()
     }
   }
 }
@@ -240,7 +245,6 @@ export async function updateBook(
   entry: RegistryEntry,
   onProgress?: (progress: number) => void,
 ): Promise<void> {
-  unregisterSource(entry.id)
   await downloadAndInstallBook(entry, onProgress)
 }
 

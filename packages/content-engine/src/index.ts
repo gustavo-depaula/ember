@@ -1,8 +1,11 @@
 export {
   type EngineContext,
   type FlowContext,
+  getContextValue,
+  lookupMap,
   type PrayerAsset,
   resolveFlow,
+  resolveFlowAsync,
 } from './engine'
 export type {
   BilingualText,
@@ -14,7 +17,7 @@ export type {
   LocalizedContent,
   LocalizedText,
   RenderedSection,
+  RepeatEntry,
   ResolvedProse,
-  Variant,
-  VariantEntry,
+  ResolveStep,
 } from './types'

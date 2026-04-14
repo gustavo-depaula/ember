@@ -1,11 +1,11 @@
 // biome-ignore-all lint/suspicious/noArrayIndexKey: static prayer sections never reorder
 
-import { type FlowContext, resolveFlow } from '@ember/content-engine'
+import { type FlowContext, resolveFlowAsync } from '@ember/content-engine'
 import { useQueries, useQueryClient } from '@tanstack/react-query'
 import { format } from 'date-fns'
 import { useRouter } from 'expo-router'
 import { ChevronLeft } from 'lucide-react-native'
-import { useEffect, useMemo, useState } from 'react'
+import { useCallback, useEffect, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
 import { Spinner, Text, useTheme, XStack, YStack } from 'tamagui'
@@ -23,14 +23,12 @@ import {
 import { SectionBlock } from '@/components/SectionBlock'
 import { createEngineContext } from '@/content/engineContext'
 import {
-  getDefaultVariant,
   getLibraryIdForPractice,
   getManifest,
-  loadFlowForSlot,
+  loadFlow,
   loadPerDayFlow,
   loadPracticeData,
   loadPracticeTracks,
-  loadVariant,
 } from '@/content/registry'
 import type { RenderedSection } from '@/content/types'
 import {
@@ -47,8 +45,6 @@ import {
   useSlots,
 } from '@/features/plan-of-life'
 import { ProgramCompleteModal } from '@/features/practices/components/ProgramCompleteModal'
-import { ViewModeSelector } from '@/features/practices/components/ViewModeSelector'
-import { useLiturgicalMeditation } from '@/features/practices/hooks/useLiturgicalMeditation'
 import { useReadingMargin } from '@/hooks/useReadingStyle'
 import { useToday } from '@/hooks/useToday'
 import { getPsalmNumbering } from '@/lib/bolls'
@@ -105,11 +101,9 @@ function findTrackIds(sections: RenderedSection[]): string[] {
 
 export function PracticeFlow({
   practiceId,
-  flowId: flowIdProp,
   programDay: programDayProp,
 }: {
   practiceId: string
-  flowId?: string
   programDay?: number
 }) {
   const { t } = useTranslation()
@@ -122,6 +116,9 @@ export function PracticeFlow({
   const handleProgramCompletion = useHandleProgramCompletion()
   const restartProgramMutation = useRestartProgram()
   const [showCompleteModal, setShowCompleteModal] = useState(false)
+  const [selectOverrides, setSelectOverrides] = useState<Record<string, string>>({})
+  const [sections, setSections] = useState<RenderedSection[]>([])
+  const [isResolvingFlow, setIsResolvingFlow] = useState(false)
 
   const manifest = getManifest(practiceId)
   const { data: programProgress } = useProgramProgress(practiceId, manifest?.program)
@@ -129,54 +126,6 @@ export function PracticeFlow({
 
   const { data: slots = [] } = useSlots()
   const currentSlot = slots.find((s) => s.practice_id === practiceId)
-  const slotFlowId = flowIdProp ?? currentSlot?.slot_id ?? 'default'
-
-  // Form switching: when manifest declares forms, allow switching between them
-  const formsConfig = manifest?.forms
-  const preferenceValue = usePreferencesStore((s) =>
-    formsConfig ? (s as Record<string, unknown>)[formsConfig.preference] : undefined,
-  ) as string | undefined
-
-  const formModes = useMemo(() => {
-    if (!formsConfig) return []
-    return formsConfig.options.map((opt) => ({
-      id: opt.id,
-      label: localizeContent(opt.name),
-    }))
-  }, [formsConfig])
-
-  const defaultFormId = useMemo(() => {
-    if (!formsConfig) return undefined
-    const matched = formsConfig.options.find((opt) => opt.preferenceValue === preferenceValue)
-    return matched?.id ?? formsConfig.options[0]?.id
-  }, [formsConfig, preferenceValue])
-
-  const [activeFormId, setActiveFormId] = useState(defaultFormId)
-  useEffect(() => {
-    if (defaultFormId) setActiveFormId(defaultFormId)
-  }, [defaultFormId])
-
-  // Resolve the base flow ID: for form-based practices, use the active form's primary flow
-  const flowId = useMemo(() => {
-    if (activeFormId && manifest) {
-      const primaryFlow = manifest.flows.find((f) => f.form === activeFormId && !f.group)
-      if (primaryFlow) return primaryFlow.id
-    }
-    return slotFlowId
-  }, [activeFormId, manifest, slotFlowId])
-
-  const [activeFlowId, setActiveFlowId] = useState(flowId)
-  useEffect(() => setActiveFlowId(flowId), [flowId])
-
-  const viewModes = useMemo(() => {
-    if (!manifest) return []
-    const siblings = manifest.flows.filter((f) => f.group === flowId)
-    if (siblings.length === 0) return []
-    return [
-      { id: flowId, label: localizeContent({ 'en-US': 'Full', 'pt-BR': 'Completo' }) },
-      ...siblings.map((f) => ({ id: f.id, label: localizeContent(f.name) })),
-    ]
-  }, [manifest, flowId])
 
   const flow = useMemo(() => {
     if (!manifest) return undefined
@@ -184,16 +133,16 @@ export function PracticeFlow({
       const dayFlow = loadPerDayFlow(practiceId, programDay)
       if (dayFlow) return dayFlow
     }
-    return loadFlowForSlot(practiceId, activeFlowId)
-  }, [manifest, practiceId, activeFlowId, programDay])
+    return loadFlow(practiceId)
+  }, [manifest, practiceId, programDay])
 
-  const selectedVariantId = currentSlot?.variant
+  const selectOverrideResetKey = `${practiceId}:${programDay ?? 'default'}:${flow ? 'loaded' : 'missing'}`
 
-  const variant = useMemo(() => {
-    if (!manifest?.variants?.length) return undefined
-    if (selectedVariantId) return loadVariant(practiceId, selectedVariantId)
-    return getDefaultVariant(practiceId)
-  }, [practiceId, manifest, selectedVariantId])
+  useEffect(() => {
+    if (selectOverrideResetKey) {
+      setSelectOverrides({})
+    }
+  }, [selectOverrideResetKey])
 
   const now = useToday()
 
@@ -230,44 +179,71 @@ export function PracticeFlow({
     return state
   }, [cursorRows])
 
-  const {
-    templateVars: liturgicalTemplateVars,
-    resolvedProse: liturgicalProse,
-    isLoading: liturgicalLoading,
-  } = useLiturgicalMeditation(practiceId, now, cycleData)
+  const handleSelectOverride = useCallback((overrideKey: string, nextId: string) => {
+    setSelectOverrides((current) =>
+      current[overrideKey] === nextId ? current : { ...current, [overrideKey]: nextId },
+    )
+  }, [])
 
-  // biome-ignore lint/correctness/useExhaustiveDependencies: contentLanguage and secondaryLanguage are read inside createEngineContext() — listed here to trigger recomputation
-  const sections = useMemo(() => {
-    if (!flow) return []
-    const context: FlowContext = {
-      date: now,
-      variant,
-      numbering,
-      liturgicalCalendar,
-      trackDefs,
-      trackState,
-      cycleData,
-      setKeyOverride: activeFlowId,
-      programDay,
-      templateVars: liturgicalTemplateVars,
-      resolvedProse: liturgicalProse,
+  useEffect(() => {
+    let cancelled = false
+
+    const resolveSections = async () => {
+      if (!flow) {
+        if (!cancelled) {
+          setSections([])
+          setIsResolvingFlow(false)
+        }
+        return
+      }
+
+      setIsResolvingFlow(true)
+      try {
+        const context: FlowContext = {
+          date: now,
+          numbering,
+          liturgicalCalendar,
+          trackDefs,
+          trackState,
+          cycleData,
+          programDay,
+          selectOverrides,
+        }
+        const resolved = await resolveFlowAsync(
+          flow,
+          context,
+          createEngineContext(getLibraryIdForPractice(practiceId), undefined, {
+            contentLanguage,
+            secondaryLanguage,
+          }),
+        )
+        if (!cancelled) {
+          setSections(resolved)
+        }
+      } finally {
+        if (!cancelled) {
+          setIsResolvingFlow(false)
+        }
+      }
     }
-    return resolveFlow(flow, context, createEngineContext(getLibraryIdForPractice(practiceId)))
+
+    resolveSections()
+    return () => {
+      cancelled = true
+    }
   }, [
     flow,
     now,
-    variant,
     numbering,
     liturgicalCalendar,
     trackDefs,
     trackState,
     cycleData,
-    activeFlowId,
     programDay,
     contentLanguage,
     secondaryLanguage,
-    liturgicalTemplateVars,
-    liturgicalProse,
+    selectOverrides,
+    practiceId,
   ])
 
   // Load dynamic content (psalms, Bible readings, CCC)
@@ -313,8 +289,7 @@ export function PracticeFlow({
 
   const hasDynamicContent = psalmRefs.length > 0 || bibleKeys.length > 0 || cccKeys.length > 0
   const isDynamicLoading =
-    liturgicalLoading ||
-    (hasDynamicContent && (psalmResult.isLoading || bibleLoading || cccLoading))
+    isResolvingFlow || (hasDynamicContent && (psalmResult.isLoading || bibleLoading || cccLoading))
 
   const practiceName = manifest ? localizeContent(manifest.name) : practiceId
   const formattedDate = formatLocalized(now, 'EEEE, MMMM d, yyyy')
@@ -348,7 +323,7 @@ export function PracticeFlow({
 
   function handleComplete() {
     const today = format(new Date(), 'yyyy-MM-dd')
-    const subId = parseSlotKey(currentSlot?.id ?? `${practiceId}::${flowId}`).slotId
+    const subId = parseSlotKey(currentSlot?.id ?? `${practiceId}::default`).slotId
 
     logCompletionMutation.mutate(
       { practiceId, date: today, subId },
@@ -419,39 +394,18 @@ export function PracticeFlow({
             </Text>
           </YStack>
 
-          {formModes.length > 1 && activeFormId && (
-            <YStack paddingHorizontal={readingMargin} paddingBottom="$md">
-              <ViewModeSelector
-                modes={formModes}
-                activeId={activeFormId}
-                onSelect={setActiveFormId}
-              />
-            </YStack>
-          )}
-
-          {viewModes.length > 0 && (
-            <YStack paddingHorizontal={readingMargin} paddingBottom="$md">
-              <ViewModeSelector
-                modes={viewModes}
-                activeId={activeFlowId}
-                onSelect={setActiveFlowId}
-              />
-            </YStack>
-          )}
-
           <YStack gap="$md">
-            {(() => {
-              return sections.map((section, index) => (
-                <PracticeSectionBlock
-                  key={`${section.type}-${index}`}
-                  section={section}
-                  psalmData={psalmResult.data}
-                  bibleMap={bibleMap}
-                  cccMap={cccMap}
-                  officeTheme={manifest.theme === 'office'}
-                />
-              ))
-            })()}
+            {sections.map((section, index) => (
+              <PracticeSectionBlock
+                key={`${section.type}-${index}`}
+                section={section}
+                psalmData={psalmResult.data}
+                bibleMap={bibleMap}
+                cccMap={cccMap}
+                officeTheme={manifest.theme === 'office'}
+                onSelectOverride={handleSelectOverride}
+              />
+            ))}
           </YStack>
 
           <YStack paddingBottom="$lg" />
@@ -500,12 +454,14 @@ function PracticeSectionBlock({
   bibleMap,
   cccMap,
   officeTheme = false,
+  onSelectOverride,
 }: {
   section: RenderedSection
   psalmData: PsalmData[]
   bibleMap: Map<string, { verses: Verse[]; fallback?: boolean }>
   cccMap: Map<string, Array<{ number: number; text: string; section: string }>>
   officeTheme?: boolean
+  onSelectOverride: (overrideKey: string, nextId: string) => void
 }) {
   // Practice-specific section types
   switch (section.type) {
@@ -550,8 +506,10 @@ function PracticeSectionBlock({
               bibleMap={bibleMap}
               cccMap={cccMap}
               officeTheme={officeTheme}
+              onSelectOverride={onSelectOverride}
             />
           )}
+          onSelectOverride={onSelectOverride}
         />
       )
   }

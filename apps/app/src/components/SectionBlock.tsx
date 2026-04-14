@@ -13,6 +13,7 @@ import {
   PrayerTextBlock,
   ProseBlock,
   ResponseBlock,
+  SelectBlock,
 } from './prayer'
 import { RubricLabel } from './RubricLabel'
 
@@ -20,10 +21,12 @@ export function SectionBlock({
   section,
   officeTheme = false,
   renderSection,
+  onSelectOverride,
 }: {
   section: RenderedSection
   officeTheme?: boolean
   renderSection?: (section: RenderedSection, index: number) => React.ReactNode
+  onSelectOverride?: (overrideKey: string, nextId: string) => void
 }) {
   switch (section.type) {
     case 'rubric':
@@ -43,7 +46,12 @@ export function SectionBlock({
             renderSection={
               renderSection ??
               ((s, i) => (
-                <SectionBlock key={`${s.type}-${i}`} section={s} officeTheme={officeTheme} />
+                <SectionBlock
+                  key={`${s.type}-${i}`}
+                  section={s}
+                  officeTheme={officeTheme}
+                  onSelectOverride={onSelectOverride}
+                />
               ))
             }
           />
@@ -115,7 +123,33 @@ export function SectionBlock({
           renderSection={
             renderSection ??
             ((s, i) => (
-              <SectionBlock key={`${s.type}-${i}`} section={s} officeTheme={officeTheme} />
+              <SectionBlock
+                key={`${s.type}-${i}`}
+                section={s}
+                officeTheme={officeTheme}
+                onSelectOverride={onSelectOverride}
+              />
+            ))
+          }
+        />
+      )
+
+    case 'select':
+      return (
+        <SelectBlock
+          label={section.label.primary}
+          selectedId={section.selectedId}
+          options={section.options.map((o) => ({ ...o, label: o.label.primary }))}
+          onSelect={(nextId) => onSelectOverride?.(section.overrideKey, nextId)}
+          renderSection={
+            renderSection ??
+            ((s, i) => (
+              <SectionBlock
+                key={`${s.type}-${i}`}
+                section={s}
+                officeTheme={officeTheme}
+                onSelectOverride={onSelectOverride}
+              />
             ))
           }
         />

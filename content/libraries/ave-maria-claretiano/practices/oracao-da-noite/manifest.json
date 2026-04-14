@@ -17,21 +17,12 @@
 	},
 	"flowMode": "scroll",
 	"completion": "flow-end",
-	"flows": [
-		{
-			"id": "default",
-			"name": {
-				"pt-BR": "Oração da Noite"
-			},
-			"file": "flow.json"
-		}
-	],
+	"flow": "flow.json",
 	"tags": ["night", "daily", "traditional"],
 	"defaults": {
 		"sortOrder": 2,
 		"slots": [
 			{
-				"flowId": "default",
 				"schedule": {
 					"type": "daily"
 				},

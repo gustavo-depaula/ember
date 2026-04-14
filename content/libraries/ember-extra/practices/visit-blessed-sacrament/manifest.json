@@ -24,26 +24,7 @@
 	},
 	"flowMode": "scroll",
 	"completion": "flow-end",
-	"flows": [
-		{
-			"id": "short-visit",
-			"name": {
-				"en-US": "Short Visit",
-				"pt-BR": "Visita Breve"
-			},
-			"file": "flows/short-visit.json",
-			"timeBlock": "flexible"
-		},
-		{
-			"id": "holy-hour",
-			"name": {
-				"en-US": "Holy Hour",
-				"pt-BR": "Hora Santa"
-			},
-			"file": "flows/holy-hour.json",
-			"timeBlock": "flexible"
-		}
-	],
+	"flow": "flow.json",
 	"tags": [
 		"eucharist",
 		"adoration",
@@ -56,22 +37,10 @@
 		"sortOrder": 13,
 		"slots": [
 			{
-				"flowId": "short-visit",
 				"schedule": {
 					"type": "daily"
 				},
 				"tier": "ideal",
-				"enabled": false
-			},
-			{
-				"flowId": "holy-hour",
-				"schedule": {
-					"type": "days-of-week",
-					"days": [
-						4
-					]
-				},
-				"tier": "extra",
 				"enabled": false
 			}
 		]

@@ -1,0 +1,46 @@
+{
+  "id": "st-therese-novena",
+  "icon": "prayer",
+  "name": {
+    "en-US": "Novena to St. Therese",
+    "pt-BR": "Novena a Santa Teresinha"
+  },
+  "categories": ["program", "devotion", "saints", "carmelite"],
+  "estimatedMinutes": 10,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 9,
+    "progressPolicy": "continue",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "therese-novena-days": "data/days.json"
+  },
+  "flow": "flow.json",
+  "description": {
+    "en-US": "A nine-day novena to St. Therese of Lisieux, asking for childlike trust, hidden charity, and faithful love in ordinary life.",
+    "pt-BR": "Uma novena de nove dias a Santa Teresinha de Lisieux, pedindo confiança filial, caridade escondida e amor fiel na vida cotidiana."
+  },
+  "history": {
+    "en-US": "St. Therese of Lisieux (1873–1897), a Carmelite nun and Doctor of the Church, taught the 'Little Way' of holiness through trust, humility, and ordinary acts done with great love. This novena follows the Church's tradition of persevering prayer over nine days under her intercession.",
+    "pt-BR": "Santa Teresinha de Lisieux (1873–1897), carmelita e Doutora da Igreja, ensinou a 'Pequena Via' da santidade por meio da confiança, da humildade e dos atos comuns feitos com grande amor. Esta novena segue a tradição da Igreja de perseverar na oração durante nove dias sob sua intercessão."
+  },
+  "howToPray": {
+    "en-US": "Pray once daily for nine consecutive days. Begin with the Sign of the Cross and opening prayer, read the meditation and intention for the day, then conclude with an Our Father, Hail Mary, Glory Be, and the closing invocation to St. Therese.",
+    "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, leia a meditação e a intenção do dia e conclua com um Pai-Nosso, Ave-Maria, Glória ao Pai e a invocação final a Santa Teresinha."
+  },
+  "tags": ["novena", "st-therese", "little-flower", "9-days", "little-way"],
+  "defaults": {
+    "sortOrder": 44,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

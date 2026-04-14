@@ -1,0 +1,107 @@
+{
+	"sections": [
+		{
+			"type": "select",
+			"label": {
+				"en-US": "Prayer",
+				"pt-BR": "Oração"
+			},
+			"options": [
+				{
+					"id": "apostleship",
+					"label": {
+						"en-US": "Daily Offering",
+						"pt-BR": "Oferecimento Diário"
+					},
+					"sections": [
+						{
+							"type": "prayer",
+							"ref": "sign-of-cross"
+						},
+						{
+							"type": "divider"
+						},
+						{
+							"type": "prayer",
+							"inline": {
+								"en-US": "O Jesus, through the Immaculate Heart of Mary, I offer You my prayers, works, joys, and sufferings of this day, for all the intentions of Your Sacred Heart, in union with the Holy Sacrifice of the Mass throughout the world, for the salvation of souls, the reparation of sins, the reunion of all Christians, and in particular for the intentions of the Holy Father this month. Amen.",
+								"la": "Domine Iesu, per Cor Immaculatum Mariae, offero Tibi orationes, opera, gaudia et dolores huius diei, pro omnibus intentionibus Sacratissimi Cordis Tui, in unione cum Sancto Sacrificio Missae per totum orbem, in reparationem peccatorum, pro unione omnium Christianorum, et in particulari pro intentionibus Summi Pontificis huius mensis. Amen.",
+								"pt-BR": "Ó Jesus, pelo Coração Imaculado de Maria, eu Vos ofereço as orações, obras, alegrias e sofrimentos deste dia, por todas as intenções do Vosso Sagrado Coração, em união com o Santo Sacrifício da Missa em todo o mundo, pela salvação das almas, pela reparação dos pecados, pela reunião de todos os cristãos e em particular pelas intenções do Santo Padre neste mês. Amém."
+							}
+						}
+					]
+				},
+				{
+					"id": "traditional",
+					"label": {
+						"en-US": "Traditional Morning Prayer",
+						"pt-BR": "Oração da Manhã Tradicional"
+					},
+					"sections": [
+						{
+							"type": "prayer",
+							"ref": "sign-of-cross"
+						},
+						{
+							"type": "divider"
+						},
+						{
+							"type": "rubric",
+							"text": {
+								"en-US": "Having made the Sign of the Cross, kneel and pray:",
+								"pt-BR": "Tendo feito o sinal da cruz, ajoelha-te e reza:"
+							}
+						},
+						{
+							"type": "prayer",
+							"inline": {
+								"en-US": "O my God, I adore You and I love You with all my heart. I give You thanks for having created me, made me a Christian, and preserved me this night. I offer You all my thoughts, all my words, and all my works. May everything be for Your love.\n\nHumbly I beseech You, in the name of Jesus and through the intercession of Mary: preserve me from all evil. Amen.",
+								"pt-BR": "Ó! meu Deus, eu vos adoro e vos amo de todo o meu coração. Eu vos dou graças por me haverdes criado, feito cristão e conservado nesta noite. Eu vos ofereço todos os meus pensamentos, todas as minhas palavras e obras. Seja tudo por vosso amor.\n\nHumildemente vos peço, em nome de Jesus e pela intercessão de Maria: preservai-me de todo o mal. Amém."
+							}
+						},
+						{
+							"type": "divider"
+						},
+						{
+							"type": "rubric",
+							"text": {
+								"en-US": "Then pray:",
+								"pt-BR": "Depois reza:"
+							}
+						},
+						{
+							"type": "prayer",
+							"ref": "our-father"
+						},
+						{
+							"type": "prayer",
+							"ref": "hail-mary"
+						},
+						{
+							"type": "prayer",
+							"ref": "apostles-creed"
+						},
+						{
+							"type": "heading",
+							"text": {
+								"en-US": "Acts of Faith, Hope, and Charity",
+								"pt-BR": "Atos de Fé, Esperança e Caridade"
+							}
+						},
+						{
+							"type": "prayer",
+							"inline": {
+								"en-US": "O my God, I believe in You, because You are eternal truth; increase my faith.\nO my God, I hope in You, because You are always faithful to Your promises; strengthen my hope.\nO my God, I love You with all my heart, because You are infinitely good and lovable; for Your love I also love my neighbor as myself; inflame my love.\nIn this faith, in this hope, and in this love I wish to live and die. Amen.",
+								"pt-BR": "Ó! meu Deus, creio em vós, porque sois a verdade eterna; aumentai a minha fé.\nÓ! meu Deus, espero em vós, porque sois sempre fiel nas vossas promessas; fortificai a minha esperança.\nÓ! meu Deus, eu vos amo de todo o meu coração, porque sois infinitamente bom e amável; por vosso amor amo também ao meu próximo como a mim mesmo; inflamai o meu amor.\nNesta fé, nesta esperança e neste amor quero viver e morrer. Amém."
+							}
+						},
+						{
+							"type": "prayer",
+							"ref": "hail-holy-queen"
+						}
+					]
+				}
+			]
+		}
+	]
+}

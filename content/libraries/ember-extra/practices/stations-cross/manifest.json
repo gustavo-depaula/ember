@@ -25,66 +25,7 @@
 	},
 	"flowMode": "scroll",
 	"completion": "flow-end",
-	"flows": [
-		{
-			"id": "default",
-			"name": {
-				"en-US": "Stations of the Cross",
-				"pt-BR": "Via Sacra"
-			},
-			"file": "flow.json"
-		}
-	],
-	"variants": [
-		{
-			"id": "traditional",
-			"name": {
-				"en-US": "Traditional Meditations",
-				"pt-BR": "Meditações Tradicionais"
-			},
-			"description": {
-				"en-US": "Classic meditations based on St. Alphonsus Liguori",
-				"pt-BR": "Meditações clássicas baseadas em Santo Afonso de Ligório"
-			},
-			"file": "variants/traditional.json"
-		},
-		{
-			"id": "scriptural",
-			"name": {
-				"en-US": "Scriptural Meditations",
-				"pt-BR": "Meditações Bíblicas"
-			},
-			"description": {
-				"en-US": "Scripture-based meditations for each station",
-				"pt-BR": "Meditações baseadas nas Escrituras para cada estação"
-			},
-			"file": "variants/scriptural.json"
-		},
-		{
-			"id": "jpii",
-			"name": {
-				"en-US": "John Paul II's Way of the Cross",
-				"pt-BR": "Via Sacra de João Paulo II"
-			},
-			"description": {
-				"en-US": "Scriptural stations established by Pope John Paul II in 1991",
-				"pt-BR": "Estações bíblicas estabelecidas pelo Papa João Paulo II em 1991"
-			},
-			"file": "variants/jpii.json"
-		},
-		{
-			"id": "franciscan",
-			"name": {
-				"en-US": "Franciscan Meditations",
-				"pt-BR": "Meditações Franciscanas"
-			},
-			"description": {
-				"en-US": "Meditations in the Franciscan tradition, contemplating the Passion with compassion — through the eyes of Mary and the spirit of St. Francis",
-				"pt-BR": "Meditações na tradição franciscana, contemplando a Paixão com compaixão — pelos olhos de Maria e no espírito de São Francisco"
-			},
-			"file": "variants/franciscan.json"
-		}
-	],
+	"flow": "flow.json",
 	"tags": [
 		"passion",
 		"lent",
@@ -95,7 +36,6 @@
 		"sortOrder": 12,
 		"slots": [
 			{
-				"flowId": "default",
 				"schedule": {
 					"type": "days-of-week",
 					"days": [

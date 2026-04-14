@@ -11,16 +11,7 @@
 	"estimatedMinutes": 5,
 	"flowMode": "scroll",
 	"completion": "flow-end",
-	"flows": [
-		{
-			"id": "default",
-			"name": {
-				"en-US": "Preces (Opus Dei)",
-				"pt-BR": "Preces (Opus Dei)"
-			},
-			"file": "flow.json"
-		}
-	],
+	"flow": "flow.json",
 	"description": {
 		"en-US": "The daily prayer of the faithful of the Prelature of Opus Dei, composed by St. Josemaría Escrivá in December 1930. A series of versicles and responses addressed to the Holy Trinity, Our Lady, St. Joseph, the Guardian Angels, and St. Josemaría, followed by intercessions for the Church and Opus Dei.",
 		"pt-BR": "A oração diária dos fiéis da Prelatura do Opus Dei, composta por São Josemaria Escrivá em dezembro de 1930. Uma série de versículos e respostas dirigidos à Santíssima Trindade, Nossa Senhora, São José, os Anjos da Guarda e São Josemaria, seguida de intercessões pela Igreja e pelo Opus Dei."
@@ -44,7 +35,6 @@
 		"sortOrder": 8,
 		"slots": [
 			{
-				"flowId": "default",
 				"schedule": {
 					"type": "daily"
 				},

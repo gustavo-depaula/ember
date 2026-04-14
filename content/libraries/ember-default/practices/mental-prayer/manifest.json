@@ -24,54 +24,7 @@
 	},
 	"flowMode": "step",
 	"completion": "flow-end",
-	"flows": [
-		{
-			"id": "default",
-			"name": {
-				"en-US": "Mental Prayer",
-				"pt-BR": "Oração Mental"
-			},
-			"file": "flow.json"
-		}
-	],
-	"variants": [
-		{
-			"id": "ignatian",
-			"name": {
-				"en-US": "Ignatian Method",
-				"pt-BR": "Método Inaciano"
-			},
-			"description": {
-				"en-US": "St. Ignatius of Loyola's meditation from the Spiritual Exercises: composition of place, application of the three faculties, and a personal colloquy",
-				"pt-BR": "A meditação de Santo Inácio de Loyola nos Exercícios Espirituais: composição de lugar, aplicação das três faculdades e colóquio pessoal"
-			},
-			"file": "variants/ignatian.json"
-		},
-		{
-			"id": "carmelite",
-			"name": {
-				"en-US": "Carmelite Method",
-				"pt-BR": "Método Carmelita"
-			},
-			"description": {
-				"en-US": "St. Teresa of Ávila's method of recollection: gathering the senses inward to encounter God present within the soul, dwelling in loving simplicity",
-				"pt-BR": "O método de recolhimento de Santa Teresa de Ávila: recolher os sentidos para dentro, a fim de encontrar Deus presente na alma, permanecendo em amorosa simplicidade"
-			},
-			"file": "variants/carmelite.json"
-		},
-		{
-			"id": "simple",
-			"name": {
-				"en-US": "Simple Method",
-				"pt-BR": "Método Simples"
-			},
-			"description": {
-				"en-US": "A gentle approach for beginners and those who prefer simplicity: silence, a word from Scripture or prayer, attentive listening, and a brief colloquy",
-				"pt-BR": "Uma abordagem gentil para iniciantes e para quem prefere a simplicidade: silêncio, uma palavra das Escrituras ou da oração, escuta atenta e um breve colóquio"
-			},
-			"file": "variants/simple.json"
-		}
-	],
+	"flow": "flow.json",
 	"tags": [
 		"prayer",
 		"meditation",
@@ -86,7 +39,6 @@
 		"sortOrder": 2,
 		"slots": [
 			{
-				"flowId": "default",
 				"schedule": {
 					"type": "daily"
 				},

@@ -24,16 +24,7 @@
 	},
 	"flowMode": "scroll",
 	"completion": "manual",
-	"flows": [
-		{
-			"id": "default",
-			"name": {
-				"en-US": "Spiritual Reading",
-				"pt-BR": "Leitura Espiritual"
-			},
-			"file": "flow.json"
-		}
-	],
+	"flow": "flow.json",
 	"tags": [
 		"reading",
 		"formation",
@@ -46,7 +37,6 @@
 		"sortOrder": 9,
 		"slots": [
 			{
-				"flowId": "default",
 				"schedule": {
 					"type": "daily"
 				},

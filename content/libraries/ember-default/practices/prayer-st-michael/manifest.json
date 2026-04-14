@@ -26,24 +26,7 @@
 	},
 	"flowMode": "scroll",
 	"completion": "flow-end",
-	"flows": [
-		{
-			"id": "short",
-			"name": {
-				"en-US": "Short Prayer",
-				"pt-BR": "Oração Curta"
-			},
-			"file": "flows/short.json"
-		},
-		{
-			"id": "long",
-			"name": {
-				"en-US": "Exorcism Prayer (Leo XIII)",
-				"pt-BR": "Oração de Exorcismo (Leão XIII)"
-			},
-			"file": "flows/long.json"
-		}
-	],
+	"flow": "flow.json",
 	"tags": [
 		"michael",
 		"archangel",
@@ -55,7 +38,6 @@
 		"sortOrder": 27,
 		"slots": [
 			{
-				"flowId": "short",
 				"schedule": {
 					"type": "daily"
 				},

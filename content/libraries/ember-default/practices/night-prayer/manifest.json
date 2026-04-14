@@ -23,16 +23,7 @@
 	},
 	"flowMode": "scroll",
 	"completion": "flow-end",
-	"flows": [
-		{
-			"id": "default",
-			"name": {
-				"en-US": "Night Prayer",
-				"pt-BR": "Oração da Noite"
-			},
-			"file": "flow.json"
-		}
-	],
+	"flow": "flow.json",
 	"tags": [
 		"evening",
 		"night",
@@ -44,7 +35,6 @@
 		"sortOrder": 6,
 		"slots": [
 			{
-				"flowId": "default",
 				"schedule": {
 					"type": "daily"
 				},

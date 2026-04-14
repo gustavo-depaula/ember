@@ -25,16 +25,7 @@
 	},
 	"flowMode": "scroll",
 	"completion": "flow-end",
-	"flows": [
-		{
-			"id": "default",
-			"name": {
-				"en-US": "Regina Caeli",
-				"pt-BR": "Rainha do Céu"
-			},
-			"file": "flow.json"
-		}
-	],
+	"flow": "flow.json",
 	"tags": [
 		"marian",
 		"easter",
@@ -45,7 +36,6 @@
 		"sortOrder": 21,
 		"slots": [
 			{
-				"flowId": "default",
 				"schedule": {
 					"type": "daily",
 					"seasons": [

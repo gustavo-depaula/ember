@@ -1,0 +1,56 @@
+{
+  "id": "divine-mercy-novena",
+  "icon": "mercy",
+  "name": {
+    "en-US": "Divine Mercy Novena",
+    "pt-BR": "Novena da Divina Misericórdia"
+  },
+  "categories": [
+    "program",
+    "devotion",
+    "mercy"
+  ],
+  "estimatedMinutes": 15,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 9,
+    "progressPolicy": "continue",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "novena-days": "data/days.json"
+  },
+  "flow": "flow.json",
+  "description": {
+    "en-US": "A nine-day novena of Divine Mercy rooted in the devotion revealed to St. Faustina, with daily intentions offered together with the Chaplet.",
+    "pt-BR": "Uma novena de nove dias da Divina Misericórdia enraizada na devoção revelada a Santa Faustina, com intenções diárias oferecidas juntamente com o Terço."
+  },
+  "history": {
+    "en-US": "The Divine Mercy Novena is traditionally prayed from Good Friday through Holy Saturday, culminating in Divine Mercy Sunday. It grew from the spirituality of St. Faustina Kowalska and centers on trust in Jesus and intercession for souls most in need of mercy.",
+    "pt-BR": "A Novena da Divina Misericórdia é tradicionalmente rezada da Sexta-Feira Santa ao Sábado Santo, culminando no Domingo da Divina Misericórdia. Ela cresceu da espiritualidade de Santa Faustina Kowalska e se concentra na confiança em Jesus e na intercessão pelas almas que mais necessitam de misericórdia."
+  },
+  "howToPray": {
+    "en-US": "Pray once daily for nine consecutive days. Begin each day with the specific novena intention and prayer, then pray the Divine Mercy Chaplet for that intention. Although traditionally prayed before Divine Mercy Sunday, this novena may be started at any time.",
+    "pt-BR": "Reze uma vez ao dia durante nove dias consecutivos. Comece cada dia com a intenção e oração próprias da novena e, em seguida, reze o Terço da Misericórdia por essa intenção. Embora seja tradicionalmente rezada antes do Domingo da Divina Misericórdia, esta novena pode ser iniciada em qualquer época."
+  },
+  "tags": [
+    "novena",
+    "divine-mercy",
+    "9-days",
+    "faustina",
+    "chaplet"
+  ],
+  "defaults": {
+    "sortOrder": 41,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

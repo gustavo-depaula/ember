@@ -1,0 +1,47 @@
+{
+	"id": "way-of-light-scriptural",
+	"alternativeTo": "way-of-light",
+	"icon": "cross",
+	"name": {
+		"en-US": "Way of Light (Scriptural)",
+		"pt-BR": "Via Lucis (Bíblica)"
+	},
+	"categories": [
+		"resurrection",
+		"meditation",
+		"easter"
+	],
+	"estimatedMinutes": 30,
+	"description": {
+		"en-US": "The Way of Light (Via Lucis) meditating on the fourteen appearances and events from the Resurrection to Pentecost, with Scripture-based meditations for each station.",
+		"pt-BR": "A Via Lucis meditando sobre as quatorze aparições e eventos desde a Ressurreição até Pentecostes, com meditações baseadas nas Escrituras para cada estação."
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flow": "flow.json",
+	"tags": [
+		"resurrection",
+		"easter",
+		"meditation",
+		"pentecost",
+		"via-lucis"
+	],
+	"defaults": {
+		"sortOrder": 36,
+		"slots": [
+			{
+				"schedule": {
+					"type": "days-of-week",
+					"days": [
+						0
+					],
+					"seasons": [
+						"easter"
+					]
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
+}

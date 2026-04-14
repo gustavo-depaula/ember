@@ -24,16 +24,7 @@
 	},
 	"flowMode": "scroll",
 	"completion": "flow-end",
-	"flows": [
-		{
-			"id": "default",
-			"name": {
-				"en-US": "Litany of the Holy Name",
-				"pt-BR": "Ladainha do Santo Nome de Jesus"
-			},
-			"file": "flow.json"
-		}
-	],
+	"flow": "flow.json",
 	"tags": [
 		"litany",
 		"holy-name",
@@ -43,7 +34,6 @@
 		"sortOrder": 52,
 		"slots": [
 			{
-				"flowId": "default",
 				"schedule": {
 					"type": "daily"
 				},

@@ -25,16 +25,7 @@
 	},
 	"flowMode": "step",
 	"completion": "flow-end",
-	"flows": [
-		{
-			"id": "default",
-			"name": {
-				"en-US": "Lectio Divina",
-				"pt-BR": "Lectio Divina"
-			},
-			"file": "flow.json"
-		}
-	],
+	"flow": "flow.json",
 	"tags": [
 		"scripture",
 		"lectio",
@@ -47,7 +38,6 @@
 		"sortOrder": 19,
 		"slots": [
 			{
-				"flowId": "default",
 				"schedule": {
 					"type": "daily"
 				},

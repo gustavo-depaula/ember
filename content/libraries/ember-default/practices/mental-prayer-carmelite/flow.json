@@ -1,0 +1,93 @@
+{
+	"data": {
+		"steps": [
+			{
+				"name": {
+					"en-US": "Recollection",
+					"pt-BR": "Recolhimento"
+				},
+				"meditation": {
+					"en-US": "Withdraw gently from the noise of the world. Set aside your concerns one by one, placing them in God's hands. Close your eyes if it helps. Be still. You are about to enter within, where God already waits.",
+					"pt-BR": "Afaste-se gentilmente do barulho do mundo. Deixe de lado suas preocupações uma a uma, colocando-as nas mãos de Deus. Feche os olhos, se ajudar. Aquiete-se. Você está prestes a entrar dentro de si, onde Deus já aguarda."
+				}
+			},
+			{
+				"name": {
+					"en-US": "Awareness of God's Presence",
+					"pt-BR": "Consciência da Presença de Deus"
+				},
+				"meditation": {
+					"en-US": "God is within your soul, closer to you than you are to yourself. He is not distant; He is here, in the innermost chamber of your being. Make a simple act of faith: 'Lord, I believe You are here. You see me. You love me.' No effort is needed — only consent and attention.",
+					"pt-BR": "Deus está dentro de sua alma, mais próximo a você do que você é de si mesmo. Ele não está distante; está aqui, na câmara mais íntima do seu ser. Faça um simples ato de fé: 'Senhor, creio que estás aqui. Vês-me. Amas-me.' Nenhum esforço é necessário — apenas consentimento e atenção."
+				}
+			},
+			{
+				"name": {
+					"en-US": "The Loving Gaze",
+					"pt-BR": "O Olhar Amoroso"
+				},
+				"meditation": {
+					"en-US": "Do not labor with many words or elaborate thoughts. Turn the gaze of your soul quietly toward God. Let Him look at you. This simple, loving, attentive gaze is what St. Teresa calls the Prayer of Quiet. You are not achieving anything — you are receiving.",
+					"pt-BR": "Não trabalhe com muitas palavras ou pensamentos elaborados. Dirija o olhar de sua alma quietamente para Deus. Deixe que Ele o olhe. Este simples e amoroso olhar atento é o que Santa Teresa chama de Oração de Quietude. Você não está conquistando nada — está recebendo."
+				}
+			},
+			{
+				"name": {
+					"en-US": "Responding to Dryness",
+					"pt-BR": "Respondendo à Aridez"
+				},
+				"meditation": {
+					"en-US": "If dryness or distraction comes, do not be troubled — even the saints knew this. Return gently with a brief aspiration: 'Lord, I am here.' 'Increase my love.' 'Thy will be done.' Let these short acts stir the will back toward love. When you can, return to the loving gaze.",
+					"pt-BR": "Se vier aridez ou distração, não se perturbe — até os santos conheceram isso. Volte gentilmente com uma breve aspiração: 'Senhor, estou aqui.' 'Aumenta meu amor.' 'Faça-se a Vossa vontade.' Deixe esses breves atos mover a vontade de volta ao amor. Quando puder, retorne ao olhar amoroso."
+				}
+			},
+			{
+				"name": {
+					"en-US": "Resting in God",
+					"pt-BR": "Repouso em Deus"
+				},
+				"meditation": {
+					"en-US": "Let the soul rest in God's presence. What He gives — consolation or aridity, light or darkness, joy or stillness — receive as His gift. Silence is itself a form of prayer. You do not need to produce anything. To remain before God, in love, is enough.",
+					"pt-BR": "Deixe a alma repousar na presença de Deus. O que Ele dá — consolação ou aridez, luz ou escuridão, alegria ou quietude — receba como Seu dom. O silêncio em si é uma forma de oração. Você não precisa produzir nada. Permanecer diante de Deus, em amor, é suficiente."
+				}
+			},
+			{
+				"name": {
+					"en-US": "Closing",
+					"pt-BR": "Encerramento"
+				},
+				"meditation": {
+					"en-US": "Come gently out of prayer. Give thanks — whether the prayer felt fruitful or dry, it was time given to God. Carry one fruit into your day: a thought, an aspiration, a resolution. If you can, ask Our Lady to offer to God whatever was imperfect in your prayer.",
+					"pt-BR": "Saia gentilmente da oração. Dê graças — seja a oração parecido frutífera ou árida, foi tempo dado a Deus. Leve um fruto ao longo do dia: um pensamento, uma aspiração, uma resolução. Se puder, peça a Nossa Senhora que ofereça a Deus o que foi imperfeito em sua oração."
+				}
+			}
+		]
+	},
+	"sections": [
+		{
+			"type": "prayer",
+			"ref": "sign-of-cross"
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "repeat",
+			"count": 6,
+			"from": "steps",
+			"sections": [
+				{
+					"type": "heading",
+					"text": "{{name}}"
+				},
+				{
+					"type": "meditation",
+					"text": "{{meditation}}"
+				},
+				{
+					"type": "divider"
+				}
+			]
+		}
+	]
+}

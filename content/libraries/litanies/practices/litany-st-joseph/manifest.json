@@ -24,16 +24,7 @@
 	},
 	"flowMode": "scroll",
 	"completion": "flow-end",
-	"flows": [
-		{
-			"id": "default",
-			"name": {
-				"en-US": "Litany of St. Joseph",
-				"pt-BR": "Ladainha de S\u00e3o Jos\u00e9"
-			},
-			"file": "flow.json"
-		}
-	],
+	"flow": "flow.json",
 	"tags": [
 		"litany",
 		"joseph",
@@ -43,7 +34,6 @@
 		"sortOrder": 54,
 		"slots": [
 			{
-				"flowId": "default",
 				"schedule": {
 					"type": "daily"
 				},

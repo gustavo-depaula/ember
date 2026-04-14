@@ -17,21 +17,12 @@
 	},
 	"flowMode": "scroll",
 	"completion": "flow-end",
-	"flows": [
-		{
-			"id": "default",
-			"name": {
-				"pt-BR": "Oração para a Santa Missa"
-			},
-			"file": "flow.json"
-		}
-	],
+	"flow": "flow.json",
 	"tags": ["mass", "sacrament", "traditional"],
 	"defaults": {
 		"sortOrder": 3,
 		"slots": [
 			{
-				"flowId": "default",
 				"schedule": {
 					"type": "daily"
 				},

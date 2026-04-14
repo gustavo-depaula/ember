@@ -23,6 +23,7 @@
 	},
 	"flowMode": "scroll",
 	"completion": "manual",
+	"flow": "flow.json",
 	"forms": {
 		"preference": "liturgicalCalendar",
 		"options": [
@@ -44,66 +45,6 @@
 			}
 		]
 	},
-	"flows": [
-		{
-			"id": "ordinary",
-			"form": "ordinary",
-			"name": {
-				"en-US": "Ordinary Form",
-				"pt-BR": "Forma Ordinária"
-			},
-			"file": "flows/ordinary.json"
-		},
-		{
-			"id": "ordinary-propers",
-			"form": "ordinary",
-			"name": {
-				"en-US": "Propers",
-				"pt-BR": "Próprios"
-			},
-			"file": "flows/ordinary-propers.json",
-			"group": "ordinary"
-		},
-		{
-			"id": "ordinary-readings",
-			"form": "ordinary",
-			"name": {
-				"en-US": "Readings",
-				"pt-BR": "Leituras"
-			},
-			"file": "flows/ordinary-readings.json",
-			"group": "ordinary"
-		},
-		{
-			"id": "extraordinary",
-			"form": "extraordinary",
-			"name": {
-				"en-US": "Extraordinary Form",
-				"pt-BR": "Forma Extraordinária"
-			},
-			"file": "flows/extraordinary.json"
-		},
-		{
-			"id": "extraordinary-propers",
-			"form": "extraordinary",
-			"name": {
-				"en-US": "Propers",
-				"pt-BR": "Próprios"
-			},
-			"file": "flows/extraordinary-propers.json",
-			"group": "extraordinary"
-		},
-		{
-			"id": "extraordinary-readings",
-			"form": "extraordinary",
-			"name": {
-				"en-US": "Readings",
-				"pt-BR": "Leituras"
-			},
-			"file": "flows/extraordinary-readings.json",
-			"group": "extraordinary"
-		}
-	],
 	"tags": [
 		"mass",
 		"liturgy",
@@ -114,7 +55,6 @@
 		"sortOrder": 3,
 		"slots": [
 			{
-				"flowId": "ordinary",
 				"schedule": {
 					"type": "days-of-week",
 					"days": [

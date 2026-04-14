@@ -16,11 +16,8 @@ import { Text, useTheme, XStack, YStack } from 'tamagui'
 import { AnimatedPressable } from '@/components'
 import { calmSpring } from '@/config/animation'
 import { tierConfig } from '@/config/constants'
-import { getManifest } from '@/content/registry'
-import type { FlowEntry } from '@/content/types'
 import type { Tier, UserPracticeSlot } from '@/db/schema'
 import { lightTap, mediumTap } from '@/lib/haptics'
-import { localizeContent } from '@/lib/i18n'
 import { enrichSlot } from '../getPracticeName'
 import { parseSchedule } from '../schedule'
 import { deriveTimeBlock } from '../timeBlocks'
@@ -184,19 +181,15 @@ function TimeInput({
 
 function SlotRow({
   slot,
-  flows,
   expanded,
   onToggleExpand,
   onUpdate,
-  onChangeFlow,
   onDelete,
 }: {
   slot: UserPracticeSlot
-  flows?: FlowEntry[]
   expanded: boolean
   onToggleExpand: () => void
   onUpdate: (data: Record<string, unknown>) => void
-  onChangeFlow?: (flowId: string) => void
   onDelete?: () => void
 }) {
   const { t } = useTranslation()
@@ -246,11 +239,6 @@ function SlotRow({
                     {slot.time}
                   </Text>
                 )}
-                {slot.variant && (
-                  <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
-                    {slot.variant}
-                  </Text>
-                )}
               </XStack>
             </YStack>
             <Animated.View style={chevronStyle}>
@@ -280,52 +268,6 @@ function SlotRow({
                 </Text>
                 <TierSelector value={slot.tier} onChange={(tier) => onUpdate({ tier })} />
               </YStack>
-
-              {flows && flows.length > 1 && onChangeFlow && (
-                <>
-                  <YStack borderBottomWidth={0.5} borderColor="$borderColor" />
-                  <YStack gap="$sm">
-                    <Text fontFamily="$heading" fontSize="$2" color="$color">
-                      {t('editor.prayer')}
-                    </Text>
-                    <YStack gap="$sm">
-                      {flows.map((flow) => {
-                        const isActive = flow.id === slot.slot_id
-                        return (
-                          <AnimatedPressable
-                            key={flow.id}
-                            onPress={() => {
-                              if (!isActive) {
-                                lightTap()
-                                onChangeFlow(flow.id)
-                              }
-                            }}
-                          >
-                            <XStack
-                              paddingVertical="$sm"
-                              paddingHorizontal="$md"
-                              borderRadius="$md"
-                              borderWidth={1}
-                              borderColor={isActive ? '$accent' : '$borderColor'}
-                              backgroundColor={isActive ? '$accent' : 'transparent'}
-                              alignItems="center"
-                              minHeight={44}
-                            >
-                              <Text
-                                fontFamily="$body"
-                                fontSize="$3"
-                                color={isActive ? 'white' : '$color'}
-                              >
-                                {localizeContent(flow.name)}
-                              </Text>
-                            </XStack>
-                          </AnimatedPressable>
-                        )
-                      })}
-                    </YStack>
-                  </YStack>
-                </>
-              )}
 
               <YStack borderBottomWidth={0.5} borderColor="$borderColor" />
 
@@ -395,88 +337,21 @@ function SlotRow({
 
 export function SlotConfigurator({
   slots,
-  practiceId,
   onUpdateSlot,
   onAddSlot,
   onDeleteSlot,
-  onChangeSlotFlow,
 }: {
   slots: UserPracticeSlot[]
-  practiceId: string
   onUpdateSlot: (slotId: string, data: Record<string, unknown>) => void
-  onAddSlot: (flowId?: string) => void
+  onAddSlot: () => void
   onDeleteSlot: (slotId: string) => void
-  onChangeSlotFlow?: (slotId: string, flowId: string) => void
 }) {
   const { t } = useTranslation()
   const theme = useTheme()
-  const manifest = getManifest(practiceId)
-  const manifestFlowIds = new Set(manifest?.flows?.map((f) => f.id) ?? [])
   const [expandedIndex, setExpandedIndex] = useState<number | undefined>()
-  const [showFlowPicker, setShowFlowPicker] = useState(false)
-  const hasMultipleFlows = (manifest?.flows?.length ?? 0) > 1
 
   return (
     <YStack gap="$md">
-      {manifest?.variants && manifest.variants.length > 1 && (
-        <YStack gap="$sm" marginBottom="$lg">
-          <YStack gap="$xs">
-            <Text fontFamily="$heading" fontSize="$3" color="$color" letterSpacing={1}>
-              {t('editor.variant')}
-            </Text>
-            <YStack borderBottomWidth={1.5} borderColor="$accent" width={32} />
-          </YStack>
-          <YStack gap="$sm">
-            {manifest.variants.map((v) => {
-              const isActive = (slots[0]?.variant ?? manifest.variants?.[0].id) === v.id
-              return (
-                <AnimatedPressable
-                  key={v.id}
-                  onPress={() => {
-                    if (!isActive) {
-                      lightTap()
-                      for (const slot of slots) {
-                        onUpdateSlot(slot.id, { variant: v.id })
-                      }
-                    }
-                  }}
-                >
-                  <XStack
-                    paddingVertical="$md"
-                    paddingHorizontal="$md"
-                    borderRadius="$lg"
-                    borderWidth={1.5}
-                    borderColor={isActive ? '$accent' : '$borderColor'}
-                    backgroundColor={isActive ? '$accent' : '$backgroundSurface'}
-                    alignItems="center"
-                    gap="$md"
-                    minHeight={52}
-                  >
-                    <YStack flex={1} gap={2}>
-                      <Text
-                        fontFamily="$heading"
-                        fontSize="$3"
-                        color={isActive ? 'white' : '$color'}
-                      >
-                        {localizeContent(v.name)}
-                      </Text>
-                      <Text
-                        fontFamily="$body"
-                        fontSize="$2"
-                        color={isActive ? 'rgba(255,255,255,0.8)' : '$colorSecondary'}
-                        numberOfLines={2}
-                      >
-                        {localizeContent(v.description)}
-                      </Text>
-                    </YStack>
-                  </XStack>
-                </AnimatedPressable>
-              )
-            })}
-          </YStack>
-        </YStack>
-      )}
-
       <YStack gap="$xs">
         <Text fontFamily="$heading" fontSize="$3" color="$color" letterSpacing={1}>
           {slots.length > 1 ? t('editor.slots') : t('editor.settings')}
@@ -488,29 +363,17 @@ export function SlotConfigurator({
         <SlotRow
           key={slot.id}
           slot={slot}
-          flows={manifest?.flows}
           expanded={expandedIndex === i}
           onToggleExpand={() => setExpandedIndex(expandedIndex === i ? undefined : i)}
           onUpdate={(data) => onUpdateSlot(slot.id, data)}
-          onChangeFlow={
-            onChangeSlotFlow ? (flowId) => onChangeSlotFlow(slot.id, flowId) : undefined
-          }
-          onDelete={
-            !manifestFlowIds.has(slot.slot_id) && slot.slot_id !== 'default'
-              ? () => onDeleteSlot(slot.id)
-              : undefined
-          }
+          onDelete={slot.slot_id !== 'default' ? () => onDeleteSlot(slot.id) : undefined}
         />
       ))}
 
       <AnimatedPressable
         onPress={() => {
           lightTap()
-          if (hasMultipleFlows) {
-            setShowFlowPicker((v) => !v)
-          } else {
-            onAddSlot()
-          }
+          onAddSlot()
         }}
       >
         <XStack
@@ -531,42 +394,6 @@ export function SlotConfigurator({
           </Text>
         </XStack>
       </AnimatedPressable>
-
-      {showFlowPicker && manifest?.flows && (
-        <Animated.View entering={FadeIn.duration(200)} exiting={FadeOut.duration(150)}>
-          <YStack backgroundColor="$backgroundSurface" borderRadius="$lg" padding="$md" gap="$sm">
-            <Text fontFamily="$heading" fontSize="$2" color="$colorSecondary">
-              {t('editor.selectPrayer')}
-            </Text>
-            <YStack gap="$sm">
-              {manifest.flows.map((flow) => (
-                <AnimatedPressable
-                  key={flow.id}
-                  onPress={() => {
-                    lightTap()
-                    setShowFlowPicker(false)
-                    onAddSlot(flow.id)
-                  }}
-                >
-                  <XStack
-                    paddingVertical="$sm"
-                    paddingHorizontal="$md"
-                    borderRadius="$md"
-                    borderWidth={1}
-                    borderColor="$borderColor"
-                    alignItems="center"
-                    minHeight={44}
-                  >
-                    <Text fontFamily="$body" fontSize="$3" color="$color">
-                      {localizeContent(flow.name)}
-                    </Text>
-                  </XStack>
-                </AnimatedPressable>
-              ))}
-            </YStack>
-          </YStack>
-        </Animated.View>
-      )}
     </YStack>
   )
 }

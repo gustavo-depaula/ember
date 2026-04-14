@@ -1,5 +1,5 @@
 import { deriveTimeBlock } from '@/features/plan-of-life/timeBlocks'
-import { composeSlotKey, parseSlotKey } from '@/lib/slotKey'
+import { composeSlotKey } from '@/lib/slotKey'
 import { getDb } from '../client'
 import type { Completion, UserPractice, UserPracticeSlot } from '../schema'
 
@@ -164,7 +164,6 @@ export async function addSlot(
     tier?: string
     time?: string
     schedule?: string
-    variant?: string
   },
 ): Promise<string> {
   const db = getDb()
@@ -182,8 +181,8 @@ export async function addSlot(
   const timeBlock = deriveTimeBlock(time)
 
   await db.runAsync(
-    `INSERT INTO user_practice_slots (id, practice_id, slot_id, enabled, sort_order, tier, time, time_block, schedule, variant)
-     VALUES (?, ?, ?, 1, ?, ?, ?, ?, ?, ?)`,
+    `INSERT INTO user_practice_slots (id, practice_id, slot_id, enabled, sort_order, tier, time, time_block, schedule)
+     VALUES (?, ?, ?, 1, ?, ?, ?, ?, ?)`,
     [
       id,
       practiceId,
@@ -193,7 +192,6 @@ export async function addSlot(
       time,
       timeBlock,
       data.schedule ?? '{"type":"daily"}',
-      data.variant ?? null,
     ],
   )
 
@@ -216,7 +214,6 @@ const slotFieldMap: Record<string, string> = {
   timeBlock: 'time_block',
   notify: 'notify',
   schedule: 'schedule',
-  variant: 'variant',
 }
 
 export async function updateSlot(
@@ -229,7 +226,6 @@ export async function updateSlot(
     timeBlock: string
     notify: string | null
     schedule: string
-    variant: string | null
   }>,
 ): Promise<void> {
   if (data.time !== undefined && data.timeBlock === undefined) {
@@ -251,33 +247,6 @@ export async function updateSlot(
 
   values.push(slotId)
   await getDb().runAsync(`UPDATE user_practice_slots SET ${sets.join(', ')} WHERE id = ?`, values)
-}
-
-export async function changeSlotFlow(oldSlotKey: string, newFlowId: string): Promise<string> {
-  const db = getDb()
-  const { practiceId, slotId: oldFlowId } = parseSlotKey(oldSlotKey)
-  if (oldFlowId === newFlowId) return oldSlotKey
-
-  const newKey = composeSlotKey(practiceId, newFlowId)
-  const existing = await db.getFirstAsync<{ id: string }>(
-    'SELECT id FROM user_practice_slots WHERE id = ?',
-    [newKey],
-  )
-  if (existing) return oldSlotKey
-
-  await db.withTransactionAsync(async () => {
-    await db.runAsync('UPDATE user_practice_slots SET id = ?, slot_id = ? WHERE id = ?', [
-      newKey,
-      newFlowId,
-      oldSlotKey,
-    ])
-    await db.runAsync('UPDATE completions SET sub_id = ? WHERE practice_id = ? AND sub_id = ?', [
-      newFlowId,
-      practiceId,
-      oldFlowId,
-    ])
-  })
-  return newKey
 }
 
 export async function deleteSlot(slotId: string): Promise<void> {

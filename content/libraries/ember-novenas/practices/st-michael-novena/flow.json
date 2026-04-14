@@ -1,0 +1,111 @@
+{
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    },
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Novena to St. Michael the Archangel",
+        "pt-BR": "Novena a São Miguel Arcanjo"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Opening prayer:",
+        "pt-BR": "Oração inicial:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "St. Michael the Archangel, Prince of the heavenly hosts, defend us in the battle for holiness. Present our petitions before God, strengthen us against temptation, and lead us to faithful service of Christ and His Church. Amen.",
+        "pt-BR": "São Miguel Arcanjo, Príncipe da milícia celeste, defendei-nos no combate da santidade. Apresentai nossas súplicas diante de Deus, fortalecei-nos contra a tentação e conduzi-nos ao serviço fiel de Cristo e de Sua Igreja. Amém."
+      }
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Read the meditation and offer the intention of the day.",
+        "pt-BR": "Leia a meditação e ofereça a intenção do dia."
+      }
+    },
+    {
+      "type": "cycle",
+      "data": "michael-novena-days",
+      "as": "template",
+      "sections": [
+        {
+          "type": "subheading",
+          "text": "{{dayTitle}}"
+        },
+        {
+          "type": "meditation",
+          "text": "{{meditation}}"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "rubric",
+          "text": {
+            "en-US": "Today's intention:",
+            "pt-BR": "Intenção do dia:"
+          }
+        },
+        {
+          "type": "rubric",
+          "text": "{{intention}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Pray one Our Father, one Hail Mary, and one Glory Be.",
+        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Glória ao Pai."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "our-father"
+    },
+    {
+      "type": "prayer",
+      "ref": "hail-mary"
+    },
+    {
+      "type": "prayer",
+      "ref": "glory-be"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Closing prayer:",
+        "pt-BR": "Oração final:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "St. Michael the Archangel, defend us in battle and guard us from all evil. Obtain for us perseverance in grace, courage in trial, and the joy of serving God with a pure heart. Through your intercession, may we remain faithful until the end. Amen.",
+        "pt-BR": "São Miguel Arcanjo, defendei-nos no combate e guardai-nos de todo mal. Alcançai-nos perseverança na graça, coragem nas provações e a alegria de servir a Deus com coração puro. Por vossa intercessão, permaneçamos fiéis até o fim. Amém."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    }
+  ]
+}

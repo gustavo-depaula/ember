@@ -25,16 +25,7 @@
 	},
 	"flowMode": "scroll",
 	"completion": "flow-end",
-	"flows": [
-		{
-			"id": "default",
-			"name": {
-				"en-US": "Veni Creator Spiritus",
-				"pt-BR": "Veni Creator Spiritus"
-			},
-			"file": "flow.json"
-		}
-	],
+	"flow": "flow.json",
 	"tags": [
 		"holy-spirit",
 		"pentecost",
@@ -46,7 +37,6 @@
 		"sortOrder": 26,
 		"slots": [
 			{
-				"flowId": "default",
 				"schedule": {
 					"type": "daily"
 				},

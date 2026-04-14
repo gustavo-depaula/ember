@@ -24,16 +24,7 @@
 	},
 	"flowMode": "scroll",
 	"completion": "flow-end",
-	"flows": [
-		{
-			"id": "default",
-			"name": {
-				"en-US": "Acts of Faith, Hope & Charity",
-				"pt-BR": "Atos de Fé, Esperança e Caridade"
-			},
-			"file": "flow.json"
-		}
-	],
+	"flow": "flow.json",
 	"tags": [
 		"faith",
 		"hope",
@@ -45,7 +36,6 @@
 		"sortOrder": 33,
 		"slots": [
 			{
-				"flowId": "default",
 				"schedule": {
 					"type": "daily"
 				},

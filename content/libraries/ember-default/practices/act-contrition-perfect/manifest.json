@@ -1,0 +1,34 @@
+{
+	"id": "act-contrition-perfect",
+	"alternativeTo": "act-contrition",
+	"icon": "cross",
+	"name": {
+		"en-US": "Act of Perfect Contrition",
+		"pt-BR": "Ato de Contrição Perfeita"
+	},
+	"categories": [
+		"daily",
+		"devotion",
+		"penance"
+	],
+	"estimatedMinutes": 2,
+	"description": {
+		"en-US": "An act of perfect contrition, arising from love of God",
+		"pt-BR": "Um ato de contrição perfeita, nascido do amor de Deus"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flow": "flow.json",
+	"defaults": {
+		"sortOrder": 36,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
+}

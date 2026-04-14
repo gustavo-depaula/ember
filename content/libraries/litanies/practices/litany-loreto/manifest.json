@@ -24,16 +24,7 @@
 	},
 	"flowMode": "scroll",
 	"completion": "flow-end",
-	"flows": [
-		{
-			"id": "default",
-			"name": {
-				"en-US": "Litany of Our Lady",
-				"pt-BR": "Ladainha de Nossa Senhora"
-			},
-			"file": "flow.json"
-		}
-	],
+	"flow": "flow.json",
 	"tags": [
 		"marian",
 		"litany",
@@ -43,7 +34,6 @@
 		"sortOrder": 51,
 		"slots": [
 			{
-				"flowId": "default",
 				"schedule": {
 					"type": "daily"
 				},

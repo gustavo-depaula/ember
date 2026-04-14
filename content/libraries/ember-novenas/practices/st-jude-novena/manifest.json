@@ -1,0 +1,46 @@
+{
+  "id": "st-jude-novena",
+  "icon": "prayer",
+  "name": {
+    "en-US": "Novena to St. Jude",
+    "pt-BR": "Novena a São Judas Tadeu"
+  },
+  "categories": ["program", "devotion", "saints", "hope"],
+  "estimatedMinutes": 10,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 9,
+    "progressPolicy": "continue",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "jude-novena-days": "data/days.json"
+  },
+  "flow": "flow.json",
+  "description": {
+    "en-US": "A nine-day novena to St. Jude, asking his intercession in difficult needs and growing in hope, perseverance, and trust in Christ.",
+    "pt-BR": "Uma novena de nove dias a São Judas Tadeu, pedindo sua intercessão nas causas difíceis e crescendo na esperança, na perseverança e na confiança em Cristo."
+  },
+  "history": {
+    "en-US": "St. Jude Thaddeus, one of the Twelve Apostles and author of the Epistle of Jude, has long been invoked in the Church as a powerful intercessor in difficult and desperate circumstances. Popular devotion to his novena spread widely through preaching and parish life, especially as a prayer of steadfast hope in God's mercy.",
+    "pt-BR": "São Judas Tadeu, um dos Doze Apóstolos e autor da Epístola de Judas, é invocado há muito tempo na Igreja como poderoso intercessor nas causas difíceis e desesperadoras. A devoção à sua novena se difundiu amplamente pela pregação e pela vida paroquial, sobretudo como oração de esperança perseverante na misericórdia de Deus."
+  },
+  "howToPray": {
+    "en-US": "Pray once each day for nine consecutive days. Begin with the Sign of the Cross and opening prayer, meditate on the day, offer the intention, then pray an Our Father, Hail Mary, and Glory Be before the closing prayer to St. Jude.",
+    "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, medite o tema do dia, ofereça a intenção e, em seguida, reze um Pai-Nosso, uma Ave-Maria e um Glória ao Pai antes da oração final a São Judas Tadeu."
+  },
+  "tags": ["novena", "st-jude", "9-days", "saints", "hope"],
+  "defaults": {
+    "sortOrder": 44,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

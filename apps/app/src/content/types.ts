@@ -7,12 +7,11 @@ export type {
   LocalizedContent,
   LocalizedText,
   RenderedSection,
-  Variant,
-  VariantEntry,
+  RepeatEntry,
+  ResolveStep,
 } from '@ember/content-engine'
 export type {
   ChapterManifest,
-  FlowEntry,
   PracticeManifest,
   ProgramConfig,
   SlotDefault,

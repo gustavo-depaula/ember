@@ -1,6 +1,6 @@
 {
 	"indexBy": "day-of-week",
-	"variantKey": "numbering",
+	"contextKey": "numbering",
 	"entries": {
 		"mt": [
 			[

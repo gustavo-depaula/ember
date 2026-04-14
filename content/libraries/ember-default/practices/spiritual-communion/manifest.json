@@ -24,42 +24,7 @@
 	},
 	"flowMode": "scroll",
 	"completion": "flow-end",
-	"flows": [
-		{
-			"id": "default",
-			"name": {
-				"en-US": "Spiritual Communion",
-				"pt-BR": "Comunhão Espiritual"
-			},
-			"file": "flow.json"
-		}
-	],
-	"variants": [
-		{
-			"id": "alphonsus",
-			"name": {
-				"en-US": "St. Alphonsus Liguori",
-				"pt-BR": "Santo Afonso de Ligório"
-			},
-			"description": {
-				"en-US": "The classic form by St. Alphonsus Liguori, Doctor of the Church",
-				"pt-BR": "A forma clássica de Santo Afonso de Ligório, Doutor da Igreja"
-			},
-			"file": "variants/alphonsus.json"
-		},
-		{
-			"id": "traditional",
-			"name": {
-				"en-US": "Traditional",
-				"pt-BR": "Tradicional"
-			},
-			"description": {
-				"en-US": "A shorter traditional form",
-				"pt-BR": "Uma forma tradicional mais curta"
-			},
-			"file": "variants/traditional.json"
-		}
-	],
+	"flow": "flow.json",
 	"tags": [
 		"eucharist",
 		"communion",
@@ -70,7 +35,6 @@
 		"sortOrder": 30,
 		"slots": [
 			{
-				"flowId": "default",
 				"schedule": {
 					"type": "daily"
 				},

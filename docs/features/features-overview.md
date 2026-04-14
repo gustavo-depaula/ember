@@ -105,7 +105,8 @@ A flow is a JSON `{ sections: Section[] }`. Section types:
 - `response` — versicle/response pairs: `{ verses: [{ v, r }] }`
 
 **Structural:**
-- `repeat` — expand template N times with optional variant data per iteration
+- `repeat` — expand template N times, optionally iterating over flow-local data with `{{placeholder}}` substitution
+- `select` — conditional branching based on context (day of week, time of day, user preference, or manual choice). See `docs/features/unified-flow-system.md` for the full spec.
 
 **Dynamic sources (resolved at runtime):**
 - `cycle` — indexed data lookup by `day-of-month`, `day-of-week`, `fixed`, or `program-day`. Output modes: named type (`psalmody`, `hymn`) or `template` (substitutes `{{vars}}` into child sections)
@@ -113,74 +114,69 @@ A flow is a JSON `{ sections: Section[] }`. Section types:
 - `lectio` — reading from current progress (testament: `ot` | `nt` | `catechism`)
 - `seasonal` — content varying by liturgical season (hymns, Marian antiphons)
 
-### Variant System
+### Unified Flow System
 
-Variants provide interchangeable content for the same prayer structure. The data keys match flow IDs:
+> Full spec: `docs/features/unified-flow-system.md`
 
-```typescript
-type Variant = {
-  id: string
-  name: LocalizedText
-  data: Record<string, VariantEntry[]>  // flow ID → entries per repeat iteration
-}
-```
+Each practice has **one flow** — a self-contained JSON document with all conditional logic expressed via the `select` section type. The flow describes the complete prayer, including branches for different contexts (day of week, time of day, liturgical form, manual choice).
 
-**Runtime:** User selects variant → engine receives active flow ID as `setKeyOverride` → picks `variant.data[flowId]` → injects into repeat sections via `{{placeholder}}` substitution.
+**Key primitives:**
+- `select` — picks one option from a list, based on context or manual choice. Three modes: silent conditional (no UI), default+override (auto-picks but shows picker), manual (user must choose).
+- `repeat` with `data` — iterates over flow-local data arrays with template substitution.
+- `options` — shows ALL alternatives simultaneously (distinct from `select` which picks ONE).
+- `alternativeTo` on manifests — groups practices across libraries as content alternatives (e.g., Traditional vs Montfort Rosary meditations are separate practices).
+
+**Replaces:** variants, forms, multiple flows, `setKeyOverride`.
 
 ### Resolution Engine
 
 ```typescript
-function resolveFlow(flow: Flow, context: FlowContext): RenderedSection[]
-
-type FlowContext = {
-  date: Date
-  variant?: string
-  variantData?: Variant
-  setKeyOverride?: string
-  liturgicalCalendar?: 'of' | 'ef'
-  readingProgress?: ReadingProgress
-  psalterNumbering?: 'mt' | 'lxx'
-  programDay?: number
-}
+function resolveFlow(flow: FlowDefinition, context: FlowContext, ec: EngineContext): RenderedSection[]
 ```
 
-Steps: walk sections → resolve refs from asset dirs → expand repeats with variant data → resolve dynamic sources (psalter, lectio, seasonal, cycle) → flatten to `RenderedSection[]`.
+Steps: walk sections → resolve refs from asset dirs → evaluate `select` branches → expand `repeat` with flow-local data → resolve dynamic sources (cycle, lectio, psalmody) → flatten to `RenderedSection[]`.
 
-### Example: Rosary Manifest
+### Example: Rosary Flow
 
 ```json
 {
-  "id": "rosary",
-  "flows": [
-    { "id": "joyful",    "name": { "en": "Joyful Mysteries" },    "file": "flow.json" },
-    { "id": "sorrowful", "name": { "en": "Sorrowful Mysteries" }, "file": "flow.json" },
-    { "id": "glorious",  "name": { "en": "Glorious Mysteries" },  "file": "flow.json" },
-    { "id": "luminous",  "name": { "en": "Luminous Mysteries" },  "file": "flow.json" }
-  ],
-  "variants": [
-    { "id": "traditional", "name": { "en": "Traditional Meditations" }, "file": "variants/traditional.json" }
-  ],
-  "defaults": {
-    "sortOrder": 4,
-    "slots": [
-      { "flowId": "joyful",    "schedule": { "type": "days-of-week", "days": [1, 6] }, "tier": "essential" },
-      { "flowId": "sorrowful", "schedule": { "type": "days-of-week", "days": [2, 5] }, "tier": "essential" },
-      { "flowId": "glorious",  "schedule": { "type": "days-of-week", "days": [0, 3] }, "tier": "essential" },
-      { "flowId": "luminous",  "schedule": { "type": "days-of-week", "days": [4]    }, "tier": "essential" }
-    ]
-  }
+  "data": {
+    "joyful": [{ "name": "The Annunciation", "meditation": "..." }, "..."],
+    "sorrowful": ["..."], "glorious": ["..."], "luminous": ["..."]
+  },
+  "sections": [
+    { "type": "prayer", "ref": "sign-of-cross" },
+    "... opening prayers ...",
+    {
+      "type": "select",
+      "on": "dayOfWeek",
+      "as": "mysteries",
+      "label": { "en-US": "Mysteries" },
+      "map": { "0": "glorious", "1": "joyful", "2": "sorrowful", "3": "glorious", "4": "luminous", "5": "sorrowful", "6": "joyful" },
+      "options": [
+        { "id": "joyful", "label": { "en-US": "Joyful Mysteries" } },
+        { "id": "sorrowful", "label": { "en-US": "Sorrowful Mysteries" } },
+        { "id": "glorious", "label": { "en-US": "Glorious Mysteries" } },
+        { "id": "luminous", "label": { "en-US": "Luminous Mysteries" } }
+      ]
+    },
+    { "type": "repeat", "count": 5, "data": "{{mysteries}}", "sections": [
+      { "type": "heading", "text": "{{ordinal}} Mystery: {{name}}" },
+      { "type": "meditation", "text": "{{meditation}}" },
+      "... decade prayers ..."
+    ]},
+    "... closing prayers ..."
+  ]
 }
 ```
 
-Key: `flow.json` is the prayer skeleton (fixed structure with repeat section for mysteries). `variants/*.json` provide interchangeable meditation content keyed by flow ID. Day-of-week scheduling lives in `defaults.slots[]`, not in the variant.
-
 ### Current Capabilities
 
-Static prayers, repeat/variant patterns, dynamic sources (psalter, lectio, seasonal, cycle), multi-flow practices (Rosary, Divine Office), office theme with ornamental rendering.
+Static prayers, `select` branching, repeat with flow-local data, dynamic sources (cycle, lectio, psalmody), `alternativeTo` practice grouping, office theme with ornamental rendering.
 
 ### Future
 
-Seasonal/thematic practice packs, catalog search/filtering, more chaplets and devotions.
+Practice builder (authoring tool), seasonal/thematic practice packs, catalog search/filtering, more chaplets and devotions.
 
 ---
 
