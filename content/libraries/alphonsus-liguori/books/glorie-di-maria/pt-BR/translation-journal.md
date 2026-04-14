@@ -110,4 +110,9 @@
 | ossequi.md | concluído | 112KB — 9 Obséquios (Ave Maria, Novenas, Rosário/Ofício, Jejum, Imagens, Escapulário, Congregações, Esmolas, Recorrer a Maria) + Décimo obséquio final; notas removidas |
 | conclusione.md | pendente | |
 | esempi.md | concluído | 178KB — 89 Exemplos de graças de Maria (confissões, rosário, jejum, congregações, imagens, escapulário, Ave Maria, morte santa, conversões, prodígios); notas removidas |
-| orazioni-diverse.md | concluído | 40KB — Orações diversas: Blósio, S. Efrém, S. Tomás, Coroa das Dores, Coroa Imaculada, Dedicação |
+| orazioni-diverse.md | concluído | 40KB — Orações diversas completas: Blósio, S. Efrém, S. Tomás, Coroa das Dores, Coroa Imaculada, Dedicação pessoal e da família, Jaculatórias, conclusão |
+
+## Atualizações recentes
+
+- `orazioni-diverse.md` (pt-BR): acrescentadas as seções finais ausentes a partir de “Mãe minha Maria...” até “FIM DAS GLÓRIAS DE MARIA.”
+- Mantidas fórmulas latinas e estrutura de cabeçalhos; removidos os sinais editoriais de nota presentes no original italiano.

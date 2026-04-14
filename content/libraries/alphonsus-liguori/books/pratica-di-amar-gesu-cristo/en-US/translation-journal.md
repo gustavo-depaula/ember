@@ -47,3 +47,4 @@ Register: Dignified Catholic devotional prose — faithful but accessible
 - **Chapter subtitles**: Kept as the line after the heading, unformatted (as in source).
 - **Blockquote sections**: "Affetti e preghiere" → "Affections and Prayers" as ## subheading.
 - **Saints**: English standard forms throughout.
+- **Restoration (capo-14)**: Reinstated two missing concluding paragraphs from the Italian canonical source immediately before "Affections and Prayers"; dropped attached editor footnote apparatus.

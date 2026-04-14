@@ -49,3 +49,8 @@ Target: English (en-US)
 - Sets up the entire thesis: prayer is the necessary and sufficient means of salvation
 - Key argument: all other spiritual practices are useless without prayer
 - Drops footnotes [^1] and [^2]
+
+### parte-2-capo-4.md
+- Preserved Liguori's full theological argument structure across long paragraphs and patristic citations.
+- Kept Latin citations inline in italics and retained Scripture references verbatim.
+- Removed inline editor citation markers/footnote signals from the Italian source stream.

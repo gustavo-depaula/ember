@@ -73,3 +73,5 @@
 7. **Section structure** — The original uses "Per 1.", "Per 2.", etc. for the practical section. Translated as "Em 1.o lugar", "Em 2.o lugar", etc., following Portuguese convention.
 
 8. **"divoto/divota"** — Translated as "devoto/devota" (standard Portuguese).
+
+9. **Restoration (trattato ending)** — Reinstated the final concluding section from the Italian source (`In somma dobbiamo...`) to complete the treatise's closing exhortation.
