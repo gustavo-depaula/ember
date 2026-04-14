@@ -1,16 +1,29 @@
-# Ember — Catholic Prayer App
+# Ember & Salty
 
 ## Project Overview
 
 > A beautiful companion for the Catholic life of prayer — helping souls grow in holiness, one day at a time.
 
-Multilingual Catholic prayer app (English + Brazilian Portuguese) built with Expo (web + iOS + Android). Local storage only, no backend. Three pillars:
+**Ember** is a multilingual Catholic prayer app (English + Brazilian Portuguese) built with Expo (web + iOS + Android). **Salty** is the broader preservation and translation effort for the Catholic literary tradition — spiritual classics, Church Fathers, formation guides, liturgical texts — structured in open formats and freely available. Ember is Salty's first consumer app.
+
+Three pillars:
 
 1. **Fidelity** (Plan of Life) — help users build, keep, and grow their rule of life
 2. **Devotion** (Engagement) — saints cards, patron saint companion, liturgical milestones — meaningful collectibles that teach, not trophies
 3. **Wisdom** (Content & Tradition) — formation guides, Catholic library, prayer history, study tools
 
 See `docs/README.md` for the full mission, roadmap, and what's built.
+
+## Content Architecture
+
+All content is packaged into **libraries** distributed as `.pray` files (zip archives). A library can hold prayers, practices, chapters, and books. The app ships with no bundled practices — content downloads from Hearth on first launch.
+
+- **Practices are pure JSON.** Adding a practice means writing a `manifest.json` + `flow.json` — no app code. The flow DSL (`select`, `repeat`, `cycle`, `proper`) describes anything from a simple prayer to the Mass.
+- **Content resolution:** `apps/app/src/content/registry.ts` aggregates installed libraries. Prayer refs resolve via library-local → dependencies → global chain.
+- **Flow engine:** `packages/content-engine/` — practice-agnostic, turns declarative flow JSON into renderable sections. Accepts deps via `EngineContext`.
+- **Source of truth:** `content/libraries/` — all library source dirs, deployed to Hearth as `.pray` files via `scripts/build-libraries.sh`.
+
+See `docs/ARCHITECTURE.md` for the full content model and `docs/features/features-overview.md` for the flow DSL.
 
 ## Documentation — Docs-First Workflow
 
@@ -29,12 +42,14 @@ See `docs/README.md` for the full mission, roadmap, and what's built.
 
 ### Docs index:
 - `docs/README.md` — mission, pillars, roadmap, current state
-- `docs/ARCHITECTURE.md` — tech stack, data models, folder structure, storage strategy
+- `docs/ARCHITECTURE.md` — tech stack, content model, libraries, data model, folder structure
 - `docs/CONVENTIONS.md` — code style guide (READ THIS FIRST)
+- `docs/features/features-overview.md` — flow DSL, schedules, programs, plan of life, liturgical seasons
+- `docs/features/prayer-books.md` — `.pray` format, library distribution, content resolution
+- `docs/content/salty-book-format.md` — book manifest, chapter format, ID conventions
 - `docs/design/design-system.md` — colors, typography, layout, Tamagui config
 - `docs/content/content-sources.md` — Bible APIs, CCC, hymn sources, licensing
 - `docs/journal.md` — dev journal (accumulated learnings)
-- `docs/features/features-overview.md` — domain knowledge, design rationale, capabilities for all features
 
 ## Code Style (Quick Reference)
 
@@ -89,7 +104,7 @@ Work is organized into **independent tracks** on GitHub — each track advances 
 - Pick issues from any track — tracks are independent, not sequential
 - Use `gh issue list -m "Track Name"` to see a track's issues
 - When starting work on an issue, reference it in commits/PRs
-- Salty is the larger vision (Catholic heritage preservation); Ember is its first consumer app
+- Salty is the broader preservation/translation effort; Ember is its first consumer app
 
 ## Git
 
@@ -103,7 +118,7 @@ This is a pnpm workspaces + turborepo monorepo:
 - `apps/app/` — Expo app (iOS/Android/web)
 - `packages/` — shared libraries (liturgical, mass-propers, content-engine)
 - `apps/hearth/` — GitHub Pages landing page
-- `content/` — source files for Hearth (Bible, propers, catechism, saints images)
+- `content/` — source files for Hearth (libraries, Bible, propers, catechism, saints images)
 - Root: workspace config, turbo, biome
 
 ## Commands
@@ -130,7 +145,7 @@ pnpm test:watch          # test watch mode
 - DB types defined in `apps/app/src/db/schema.ts`, migrations in `apps/app/src/db/migrations/*.sql`, applied via `apps/app/src/db/client.ts`
 - DB queries encapsulated in `apps/app/src/db/repositories/` (office.ts, practices.ts)
 - Bible text: Douay-Rheims fetched from Hearth on demand (cached in SQLite), Bolls.life API for other translations
-- 30-day DWDO psalter cycle (see `docs/features/features-overview.md` for the full table)
+- 30-day DWDO psalter cycle (see `apps/app/src/assets/psalter/30-day.json` for the data)
 
 ## UI/UX Guidelines
 
