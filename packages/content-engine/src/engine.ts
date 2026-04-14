@@ -711,9 +711,34 @@ function computeSelectedId(
   section: FlowSection & { type: 'select' },
   context: FlowContext,
 ): { selectedId: string; overrideKey?: string } {
-  const rawValue = section.on ? getContextValue(context, section.on) : undefined
-  const mappedValue =
-    rawValue !== undefined && section.map ? lookupMap(section.map, rawValue) : rawValue
+  if (!section.on) {
+    const autoId = section.default ?? section.options[0]?.id
+    const overrideKey = section.as ?? autoId
+    return {
+      selectedId: (overrideKey && context.selectOverrides?.[overrideKey]) ?? autoId ?? '',
+      overrideKey,
+    }
+  }
+
+  const keys = Array.isArray(section.on) ? section.on : [section.on]
+  const values = keys.map((k) => getContextValue(context, k))
+
+  let mappedValue: string | undefined
+  if (section.map && values.every((v) => v !== undefined)) {
+    // Try compound key first (all values joined), then drop from right
+    for (let len = values.length; len >= 1; len--) {
+      const compoundKey = values.slice(0, len).join(':')
+      const result = lookupMap(section.map, compoundKey)
+      if (result !== undefined) {
+        mappedValue = result
+        break
+      }
+    }
+  }
+  if (mappedValue === undefined && !section.map) {
+    mappedValue = values[0]
+  }
+
   const autoId = mappedValue ?? section.default ?? section.options[0]?.id
   const overrideKey = section.as ?? autoId
   return {

@@ -62,7 +62,7 @@ If a practice needs code that no other practice uses, that's a signal the DSL is
 ```typescript
 type SelectSection = {
   type: 'select'
-  on?: string                    // context key to auto-select from
+  on?: string | string[]          // context key(s) to auto-select from
   as?: string                    // set a context variable to the selected option ID
   label?: LocalizedText          // if present: show UI picker for override
   map?: Record<string, string>   // map raw context values → option IDs
@@ -87,8 +87,11 @@ type SelectSection = {
 
 ```
 1. If `on` is present:
-   a. Read context[on] (e.g., dayOfWeek = 1)
-   b. If `map` exists, map the value: map["1"] → "joyful"
+   a. Resolve context values for each key in `on` (single string → one value, array → multiple)
+   b. If `map` exists, do cascading lookup:
+      - Try all values joined with ":" (e.g., "0:advent")
+      - Drop rightmost value and retry (e.g., "0")
+      - First match wins
    c. Find matching option by ID
    d. If no match, use `default` option, then fall back to first option
 
@@ -140,6 +143,35 @@ All context values are coerced to strings. `map` is `Record<string, string>` wit
 
 - **Exact match:** `"1": "joyful"` — matches when context value equals `"1"`
 - **Range match:** `"6-8": "lauds"` — matches when numeric context value falls in `[6, 8]` (inclusive). Ranges are checked in declaration order; first match wins.
+
+### Compound Context Keys
+
+When `on` is an array of context keys (e.g., `["dayOfWeek", "liturgicalSeason"]`), the engine resolves each key and does cascading lookup in `map`:
+
+1. Join all values with `:` → try `"0:advent"` (full compound key)
+2. Drop the rightmost value → try `"0"` (shorter key)
+3. Continue dropping until a match is found or all prefixes are exhausted
+
+This allows a single `select` to express compound conditionals with graceful fallback. Weekday entries use simple keys while only the cases that need the second dimension use compound keys:
+
+```json
+{
+  "type": "select",
+  "on": ["dayOfWeek", "liturgicalSeason"],
+  "label": { "pt-BR": "Mistérios" },
+  "map": {
+    "0:advent": "gozosos",
+    "0:lent": "dolorosos",
+    "0:easter": "gloriosos",
+    "0:post-pentecost": "gloriosos",
+    "1": "gozosos",
+    "2": "dolorosos",
+    "3": "gloriosos"
+  }
+}
+```
+
+Monday (`dayOfWeek=1`) → no compound `"1:*"` match → falls back to `"1"` → `"gozosos"`. Sunday in Lent (`dayOfWeek=0`, `liturgicalSeason=lent`) → compound `"0:lent"` matches → `"dolorosos"`.
 
 ---
 

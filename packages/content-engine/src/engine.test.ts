@@ -863,6 +863,111 @@ describe('resolveFlow — select: nested selects', () => {
   })
 })
 
+// --- select: compound on ---
+
+describe('resolveFlow — select: compound on', () => {
+  const compoundSelect: FlowSection = {
+    type: 'select',
+    on: ['dayOfWeek', 'liturgicalSeason'],
+    label: { 'pt-BR': 'Mistérios' },
+    map: {
+      '0:advent': 'gozosos',
+      '0:christmas': 'gozosos',
+      '0:lent': 'dolorosos',
+      '0:easter': 'gloriosos',
+      '0:post-pentecost': 'gloriosos',
+      '1': 'gozosos',
+      '2': 'dolorosos',
+      '3': 'gloriosos',
+    },
+    default: 'gozosos',
+    options: [
+      {
+        id: 'gozosos',
+        label: { 'pt-BR': 'Mistérios Gozosos' },
+        sections: [{ type: 'heading', text: { 'pt-BR': 'Gozosos' } }],
+      },
+      {
+        id: 'dolorosos',
+        label: { 'pt-BR': 'Mistérios Dolorosos' },
+        sections: [{ type: 'heading', text: { 'pt-BR': 'Dolorosos' } }],
+      },
+      {
+        id: 'gloriosos',
+        label: { 'pt-BR': 'Mistérios Gloriosos' },
+        sections: [{ type: 'heading', text: { 'pt-BR': 'Gloriosos' } }],
+      },
+    ],
+  }
+
+  it('compound match on Sunday + season', () => {
+    // Sunday in Lent → dolorosos (compound key "0:lent")
+    const result = resolveFlow(
+      flow(compoundSelect),
+      makeContext({ date: new Date(2026, 2, 1) }), // Sunday March 1 2026 = Lent
+      makeEngineContext(),
+    )
+    expect(result).toMatchObject([{ type: 'select', selectedId: 'dolorosos' }])
+  })
+
+  it('falls back to shorter key on weekday', () => {
+    // Monday → gozosos (simple key "1", no compound needed)
+    const result = resolveFlow(
+      flow(compoundSelect),
+      makeContext({ date: new Date(2026, 3, 13) }), // Monday April 13 2026
+      makeEngineContext(),
+    )
+    expect(result).toMatchObject([{ type: 'select', selectedId: 'gozosos' }])
+  })
+
+  it('falls to default when no key matches', () => {
+    // Saturday (6) has no map entry → falls to default "gozosos"
+    const result = resolveFlow(
+      flow(compoundSelect),
+      makeContext({ date: new Date(2026, 3, 11) }), // Saturday April 11 2026
+      makeEngineContext(),
+    )
+    expect(result).toMatchObject([{ type: 'select', selectedId: 'gozosos' }])
+  })
+
+  it('silent compound select emits only selected sections', () => {
+    const silent: FlowSection = {
+      type: 'select',
+      on: ['dayOfWeek', 'liturgicalSeason'],
+      map: {
+        '0:easter': 'gloriosos',
+        '0:lent': 'dolorosos',
+        '1': 'gozosos',
+      },
+      default: 'gozosos',
+      options: [
+        {
+          id: 'gozosos',
+          label: { 'pt-BR': 'G' },
+          sections: [{ type: 'heading', text: { 'pt-BR': 'Gozosos' } }],
+        },
+        {
+          id: 'dolorosos',
+          label: { 'pt-BR': 'D' },
+          sections: [{ type: 'heading', text: { 'pt-BR': 'Dolorosos' } }],
+        },
+        {
+          id: 'gloriosos',
+          label: { 'pt-BR': 'Gl' },
+          sections: [{ type: 'heading', text: { 'pt-BR': 'Gloriosos' } }],
+        },
+      ],
+    }
+    // Monday → gozosos, emitted directly (no label = silent)
+    const result = resolveFlow(
+      flow(silent),
+      makeContext({ date: new Date(2026, 3, 13) }),
+      makeEngineContext(),
+    )
+    expect(result).toEqual([{ type: 'heading', text: { primary: 'Gozosos' } }])
+  })
+})
+
 // --- repeat from ---
 
 describe('resolveFlow — repeat from', () => {
