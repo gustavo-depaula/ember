@@ -1,3 +1,8 @@
+---
+name: translate-book
+description: Translate canonical source-language book chapters into target-language markdown files.
+---
+
 # Translate Book — Original-Language to Target-Language Translation Pipeline
 
 Translate a book in the Ember content system from its original-language markdown source into one or more target languages.

@@ -1,3 +1,8 @@
+---
+name: import-book
+description: Import public domain Catholic works into the Ember library content pipeline.
+---
+
 # Import Book — Public Domain Text to Library Pipeline
 
 Import a public domain Catholic text from the web into the Ember content system as a markdown-sourced book inside a library.
