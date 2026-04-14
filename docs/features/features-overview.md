@@ -73,8 +73,9 @@ A flow is a JSON `{ sections: Section[] }`. The DSL is designed to be expressive
 
 **Structural:**
 - `repeat` — expand template N times, optionally iterating over flow-local data with `{{placeholder}}` substitution
-- `select` — conditional branching based on context (day of week, time of day, user preference, or manual choice). See `docs/features/unified-flow-system.md` for the full spec.
+- `select` — conditional branching based on context (day of week, time of day, liturgical season, user preference, or manual choice). See `docs/features/unified-flow-system.md` for the full spec.
 - `options` — shows ALL alternatives simultaneously (distinct from `select` which picks ONE)
+- `fragment` — `{ ref: "name" }` expands a reusable section block defined in the flow's `fragments` map. Fragments can reference other fragments for composition.
 
 **Dynamic sources (resolved at runtime):**
 - `cycle` — indexed data lookup by `day-of-month`, `day-of-week`, `fixed`, or `program-day`. Output modes: named type (`psalmody`, `hymn`) or `template` (substitutes `{{vars}}` into child sections)

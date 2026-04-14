@@ -1,5 +1,6 @@
 import {
   getLiturgicalDayName,
+  getLiturgicalSeason,
   type LiturgicalDayMap,
   type PsalmRef,
   type ReadingReference,
@@ -69,6 +70,7 @@ export type FlowContext = {
   resolvedProse?: ResolvedProse
   flowData?: Record<string, RepeatEntry[]>
   selectOverrides?: Record<string, string>
+  fragments?: Record<string, FlowSection[]>
 }
 
 const ordinalsEn = [
@@ -285,9 +287,13 @@ function resolveRepeat(
         index: String(i),
         ordinal: getOrdinal(i, ec.language),
       }
+      const definedVars = Object.fromEntries(
+        Object.entries(vars).filter((e): e is [string, string] => e[1] !== undefined),
+      )
+      const iterContext = { ...context, templateVars: definedVars }
       return section.sections.flatMap((s) => {
         const substituted = substituteInFlowSection(s, vars)
-        return resolveSection(substituted, context, ec)
+        return resolveSection(substituted, iterContext, ec)
       })
     }).flat()
   }
@@ -308,13 +314,15 @@ function resolveRepeat(
   }
 
   return Array.from({ length: count }, (_, i) => {
-    const vars: Record<string, string | undefined> = {
+    const vars: Record<string, string> = {
+      ...context.templateVars,
       index: String(i),
       ordinal: getOrdinal(i, ec.language),
     }
+    const iterContext = { ...context, templateVars: vars }
     return templateSections.flatMap((s) => {
       const substituted = substituteInFlowSection(s, vars)
-      return resolveSection(substituted, context, ec)
+      return resolveSection(substituted, iterContext, ec)
     })
   }).flat()
 }
@@ -634,6 +642,17 @@ function resolveSection(
       return selected.sections.flatMap((s) => resolveSection(s, downstreamContext, ec))
     }
 
+    case 'fragment': {
+      const frag = context.fragments?.[section.ref]
+      if (!frag) return []
+      const vars = context.templateVars
+      return frag.flatMap((s) => {
+        const substituted =
+          vars && Object.keys(vars).length > 0 ? substituteInFlowSection(s, vars) : s
+        return resolveSection(substituted, context, ec)
+      })
+    }
+
     default:
       return []
   }
@@ -665,6 +684,8 @@ export function getContextValue(context: FlowContext, key: string): string | und
       const d = String(context.date.getDate()).padStart(2, '0')
       return `${m}-${d}`
     }
+    case 'liturgicalSeason':
+      return getLiturgicalSeason(context.date, 'ef')
     default:
       return undefined
   }
@@ -853,6 +874,9 @@ export function resolveFlow(
   if (flow.data) {
     ctx = { ...ctx, flowData: { ...flow.data, ...ctx.flowData } }
   }
+  if (flow.fragments) {
+    ctx = { ...ctx, fragments: flow.fragments }
+  }
   ctx = executeResolveSteps(flow, ctx, engineContext).context
   return resolveFlowWithContext(flow, ctx, engineContext)
 }
@@ -867,6 +891,9 @@ export async function resolveFlowAsync(
   let ctx = context
   if (flow.data) {
     ctx = { ...ctx, flowData: { ...flow.data, ...ctx.flowData } }
+  }
+  if (flow.fragments) {
+    ctx = { ...ctx, fragments: flow.fragments }
   }
 
   const { context: resolvedContext, dynamicBookChapters } = executeResolveSteps(
