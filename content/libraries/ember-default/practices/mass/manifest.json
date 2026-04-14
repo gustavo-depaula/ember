@@ -24,27 +24,6 @@
 	"flowMode": "scroll",
 	"completion": "manual",
 	"flow": "flow.json",
-	"forms": {
-		"preference": "liturgicalCalendar",
-		"options": [
-			{
-				"id": "ordinary",
-				"name": {
-					"en-US": "Ordinary Form",
-					"pt-BR": "Forma Ordinária"
-				},
-				"preferenceValue": "of"
-			},
-			{
-				"id": "extraordinary",
-				"name": {
-					"en-US": "Extraordinary Form",
-					"pt-BR": "Forma Extraordinária"
-				},
-				"preferenceValue": "ef"
-			}
-		]
-	},
 	"tags": [
 		"mass",
 		"liturgy",
