@@ -70,10 +70,16 @@
 	"sections": [
 		{
 			"type": "select",
-			"on": "dayOfWeek",
-			"label": { "pt-BR": "Forma" },
+			"on": ["dayOfWeek", "liturgicalSeason"],
+			"label": { "pt-BR": "Mistérios" },
 			"map": {
-				"0": "sunday",
+				"0:advent": "gozosos",
+				"0:christmas": "gozosos",
+				"0:epiphany": "gozosos",
+				"0:septuagesima": "gozosos",
+				"0:lent": "dolorosos",
+				"0:easter": "gloriosos",
+				"0:post-pentecost": "gloriosos",
 				"1": "gozosos",
 				"2": "dolorosos",
 				"3": "gloriosos",
@@ -82,43 +88,6 @@
 				"6": "gloriosos"
 			},
 			"options": [
-				{
-					"id": "sunday",
-					"label": { "pt-BR": "Domingo" },
-					"sections": [
-						{
-							"type": "select",
-							"on": "liturgicalSeason",
-							"label": { "pt-BR": "Mistérios" },
-							"map": {
-								"advent": "gozosos-sun",
-								"christmas": "gozosos-sun",
-								"epiphany": "gozosos-sun",
-								"septuagesima": "gozosos-sun",
-								"lent": "dolorosos-sun",
-								"easter": "gloriosos-sun",
-								"post-pentecost": "gloriosos-sun"
-							},
-							"options": [
-								{
-									"id": "gozosos-sun",
-									"label": { "pt-BR": "Mistérios Gozosos" },
-									"sections": [{ "type": "fragment", "ref": "gozosos" }]
-								},
-								{
-									"id": "dolorosos-sun",
-									"label": { "pt-BR": "Mistérios Dolorosos" },
-									"sections": [{ "type": "fragment", "ref": "dolorosos" }]
-								},
-								{
-									"id": "gloriosos-sun",
-									"label": { "pt-BR": "Mistérios Gloriosos" },
-									"sections": [{ "type": "fragment", "ref": "gloriosos" }]
-								}
-							]
-						}
-					]
-				},
 				{
 					"id": "gozosos",
 					"label": { "pt-BR": "Mistérios Gozosos" },

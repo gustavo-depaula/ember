@@ -107,7 +107,7 @@ export type FlowSection =
     }
   | {
       type: 'select'
-      on?: string
+      on?: string | string[]
       as?: string
       label?: LocalizedText
       map?: Record<string, string>
