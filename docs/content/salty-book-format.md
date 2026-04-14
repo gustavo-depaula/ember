@@ -1,8 +1,26 @@
 # Salty Book Format
 
-The unified content system for all books in Ember — spiritual classics, prayer collections, and hybrid works. HTML/Markdown source files read directly from disk for prose rendering; manifest-based prayer collections for devotional content. One folder tree, one manifest type, one discovery system.
+The content system for books in Ember — spiritual classics, prayer collections, and hybrid works. HTML/Markdown source files read directly from disk for prose rendering; manifest-based prayer collections for devotional content. One folder tree, one manifest type, one discovery system.
 
-> See `docs/content/spiritual-books.md` for the full wishlist of titles. See `docs/features/prayer-books.md` for the library feature.
+> See `docs/content/spiritual-books.md` for the full wishlist of titles. See `docs/features/prayer-books.md` for the library feature. See `docs/ARCHITECTURE.md` for the library system overview.
+
+### Implementation Status
+
+| Feature | Status |
+|---------|--------|
+| Library manifest (`library.json`) with practices, prayers, chapters, books | **Implemented** |
+| Book manifest (`book.json`) with TOC, per-language dirs | **Implemented** |
+| `.pray` zip packaging + `build-libraries.sh` | **Implemented** |
+| Markdown/HTML chapters rendered in WebView | **Implemented** |
+| `ember-book.css` base stylesheet | **Implemented** |
+| 8 libraries, 16 books, 91 practices | **Implemented** |
+| `contents` array for unified display ordering | **Implemented** |
+| XHTML source format with semantic markup | **Aspirational** — current books use plain Markdown |
+| Annotation layers | **Aspirational** — declared in spec, format TBD |
+| `prayerCollection` browsing structure | **Aspirational** — not yet implemented |
+| `addressable` modes (paragraphs, articles) | **Aspirational** |
+| epub.js rendering | **Not used** — WebView with CSS column pagination instead |
+| EPUB packaging | **Not used** — `.pray` (zip) is the distribution format |
 
 ---
 
@@ -34,7 +52,7 @@ A pure spiritual classic like *Imitation of Christ* has only books. A library li
 |-------------|--------|---------------|-----------|-------------------|
 | Bible (DRB) | JSON per chapter | Verse | No (one translation at a time) | No — bundled Bible stays as-is |
 | Catechism | Flat JSON array | Paragraph number | No | Eventually — CCC becomes a book with `addressable: "paragraphs"` |
-| Libraries | Manifest + prayer assets | Section/prayer | Yes (bilingual display) | **Yes** — libraries with `prayerCollection` |
+| Libraries | Manifest + prayer assets | Section/prayer | Yes (bilingual display) | **Yes** — libraries with `contents` array |
 | **Books** | **Manifest + HTML/Markdown chapters** | **Chapter / paragraph / article** | **No (per-language directories)** | — |
 
 ---
@@ -261,38 +279,47 @@ There are two manifest levels:
 - **`book.json`** — one per book inside the library. Holds the book's TOC, metadata, and addressability.
 
 ```typescript
+// Actual library.json shape (implemented)
 type Library = {
-  id: string
+  id: string                        // Unique ID, kebab-case, matches folder name
+  version: string                   // Semver
   name: LocalizedText
-  description: LocalizedText
+  languages: string[]               // e.g. ["en-US", "pt-BR"]
+  practices: string[]               // Practice IDs (match dirs in practices/)
+  prayers: string[]                 // Prayer asset IDs (match files in prayers/)
+
+  description?: LocalizedText
   author?: LocalizedText
-  composed?: number | string
-  languages: ContentLanguage[]
   tags?: string[]
   icon?: string
   image?: string
+  chapters?: string[]               // Chapter IDs (match dirs in chapters/)
+  books?: string[]                  // Book IDs (match dirs in books/)
+  contents?: ContentEntry[]         // Unified display ordering (interleaves all types)
+  dependencies?: string[]           // Library IDs for prayer resolution chain
+  defaults?: { autoSeed: boolean }  // If true, seed practices into plan on install
 
-  // Books inside this library (optional — absent for pure prayer collections)
-  books?: string[]
-
-  // Devotional browsing structure (optional — absent for pure prose libraries)
-  prayerCollection?: PrayerCollectionSection[]
-
-  relatedEditions?: string[]
+  // Future (not yet implemented):
+  // prayerCollection?: PrayerCollectionSection[]  // Devotional browsing structure
+  // relatedEditions?: string[]
 }
 
+type ContentEntry = { type: 'chapter' | 'practice' | 'book'; id: string }
+
+// Actual book.json shape (implemented)
 type BookManifest = {
   id: string
   name: LocalizedText
-  description: LocalizedText
   author?: LocalizedText
+  description?: LocalizedText
   composed?: number | string
-  languages: ContentLanguage[]
+  languages: string[]
+  sources?: { language: string; url: string; description: string }[]
+  toc: TocNode[]
 
-  // Prose reading structure
-  toc?: TocNode[]
-  addressable?: 'chapters' | 'paragraphs' | 'articles' // default: 'chapters'
-  layers?: LayerDeclaration[]
+  // Future (not yet implemented):
+  // addressable?: 'chapters' | 'paragraphs' | 'articles'
+  // layers?: LayerDeclaration[]
 }
 
 type TocNode = {
@@ -307,10 +334,12 @@ type LayerDeclaration = {
 }
 ```
 
-Three optional content concerns, any combination:
-- **`books`** — "this library has prose you can read" (HTML/Markdown chapters read from disk)
-- **`prayerCollection`** — "this library has organized devotional content you can browse" (prayer sections, practice references)
-- **`practices/` folder** — "this library exports practices to the plan of life" (standard practice manifests)
+A library can hold any combination of content:
+- **`practices`** — schedulable prayer flows for the plan of life (standard practice manifests)
+- **`prayers`** — reusable prayer text assets referenced by flows
+- **`chapters`** — read-only content rendered natively (saint bios, formation guides)
+- **`books`** — long-form prose rendered in WebView with CSS column pagination
+- **`contents`** — unified display ordering that interleaves all types in a single table of contents
 
 ### Library ID generation
 
@@ -488,64 +517,43 @@ Example (4-level, deep hierarchy):
 }
 ```
 
-**Pure prayer collection** (Orações Básicas):
+**Pure practice library** (Ember Default — actual):
 
 ```json
 {
-  "id": "oracoes-basicas",
-  "name": { "en-US": "Basic Catholic Prayers", "pt-BR": "Orações Básicas" },
-  "description": { "en-US": "Essential prayers for daily Catholic life", "pt-BR": "Orações essenciais para a vida católica" },
+  "id": "ember-default",
+  "version": "1.0.0",
+  "name": { "en-US": "Catholic Daily Prayers", "pt-BR": "Orações Católicas Diárias" },
+  "description": { "en-US": "The essential Catholic prayer companion for your daily plan of life." },
   "languages": ["en-US", "pt-BR"],
-  "tags": ["devotional"],
-  "icon": "prayer",
-  "prayerCollection": [
-    {
-      "id": "oracoes-principais",
-      "name": { "en-US": "Main Prayers", "pt-BR": "Orações Principais" },
-      "entries": [
-        { "type": "prayer", "ref": "sign-of-cross" },
-        { "type": "prayer", "ref": "our-father" },
-        { "type": "prayer", "ref": "hail-mary" }
-      ]
-    },
-    {
-      "id": "oracoes-da-manha",
-      "name": { "en-US": "Morning Prayers", "pt-BR": "Orações da Manhã" },
-      "entries": [
-        { "type": "practice-ref", "practiceId": "book::oracoes-basicas::morning-prayers" }
-      ]
-    }
-  ]
+  "tags": ["default", "daily", "essential"],
+  "practices": ["morning-offering", "rosary", "divine-office", "..."],
+  "prayers": ["our-father", "hail-mary", "sign-of-cross", "..."],
+  "defaults": { "autoSeed": true }
 }
 ```
 
-**Mixed book** (Introduction to the Devout Life):
+**Mixed library** (Montfort Spirituality — actual):
 
 ```json
 {
-  "id": "francis-de-sales-devout-life",
-  "name": { "en-US": "Introduction to the Devout Life", "pt-BR": "Introdução à Vida Devota" },
-  "author": { "en-US": "St. Francis de Sales", "pt-BR": "São Francisco de Sales" },
-  "description": { "en-US": "A practical guide to holiness in everyday life" },
-  "composed": 1609,
-  "languages": ["en-US", "pt-BR"],
-  "tags": ["ascetical", "devotional"],
-  "image": "cover.jpg",
-  "toc": [
-    { "id": "part-1", "title": { "en-US": "Part I: Counsels and Exercises for the Soul" }, "children": [
-      { "id": "ch-01", "title": { "en-US": "What True Devotion Is" } },
-      { "id": "ch-12", "title": { "en-US": "The First Meditation: On Creation" } }
-    ]}
+  "id": "montfort-spirituality",
+  "version": "1.0.0",
+  "name": { "en-US": "Montfort Spirituality", "pt-BR": "Espiritualidade Montfortina" },
+  "author": { "en-US": "St. Louis de Montfort" },
+  "languages": ["fr-FR", "en-US", "pt-BR"],
+  "tags": ["marian", "montfort", "consecration"],
+  "practices": ["total-consecration"],
+  "prayers": ["act-of-consecration"],
+  "chapters": ["about-montfort"],
+  "books": ["montfort-true-devotion", "montfort-love-wisdom", "montfort-secret-rosary", "..."],
+  "contents": [
+    { "type": "chapter", "id": "about-montfort" },
+    { "type": "book", "id": "montfort-true-devotion" },
+    { "type": "book", "id": "montfort-love-wisdom" },
+    { "type": "practice", "id": "total-consecration" }
   ],
-  "prayerCollection": [
-    {
-      "id": "meditation-retreat",
-      "name": { "en-US": "7-Day Meditation Retreat" },
-      "entries": [
-        { "type": "practice-ref", "practiceId": "book::francis-de-sales-devout-life::meditation-retreat" }
-      ]
-    }
-  ]
+  "dependencies": ["ember-default"]
 }
 ```
 
@@ -563,7 +571,7 @@ Every chapter follows this structure:
       xmlns:epub="http://www.idpf.org/2007/ops">
 <head>
   <title>Chapter I — Of the Kinds or the Life of Monks</title>
-  <link rel="stylesheet" href="../shared/salty.css" type="text/css"/>
+  <link rel="stylesheet" href="style.css" type="text/css"/><!-- ember-book.css, injected by build -->
 </head>
 <body>
   <section id="ch-01" epub:type="chapter">
@@ -819,7 +827,7 @@ Multiple anchors per block — use the primary `id` on the element and `data-anc
       xmlns:epub="http://www.idpf.org/2007/ops">
 <head>
   <title>Chapter I — Of the Imitation of Christ</title>
-  <link rel="stylesheet" href="../shared/salty.css" type="text/css"/>
+  <link rel="stylesheet" href="style.css" type="text/css"/><!-- ember-book.css, injected by build -->
 </head>
 <body>
   <section id="ch-01" epub:type="chapter">
@@ -859,7 +867,7 @@ Multiple anchors per block — use the primary `id` on the element and `data-anc
       xmlns:epub="http://www.idpf.org/2007/ops">
 <head>
   <title>Article 12 — I Believe in Life Everlasting</title>
-  <link rel="stylesheet" href="../shared/salty.css" type="text/css"/>
+  <link rel="stylesheet" href="style.css" type="text/css"/><!-- ember-book.css, injected by build -->
 </head>
 <body>
   <section id="art-12" epub:type="chapter">
@@ -909,7 +917,7 @@ Multiple anchors per block — use the primary `id` on the element and `data-anc
       xmlns:epub="http://www.idpf.org/2007/ops">
 <head>
   <title>Genesis 2</title>
-  <link rel="stylesheet" href="../shared/salty.css" type="text/css"/>
+  <link rel="stylesheet" href="style.css" type="text/css"/><!-- ember-book.css, injected by build -->
 </head>
 <body>
   <section id="gen-2" epub:type="chapter">
@@ -1206,7 +1214,9 @@ Single-chapter books (Obadiah, Philemon, 2 John, 3 John, Jude) always include ch
 
 ---
 
-## epub.js Integration Conventions
+## epub.js Integration Conventions (Aspirational)
+
+> **Not implemented.** The current book reader uses a plain WebView with CSS column pagination and `ember-book.css`. The epub.js conventions below are for a future upgrade path if richer reader features (annotations, themes, full EPUB rendering) are needed.
 
 ### Link interception
 
@@ -1234,7 +1244,7 @@ For annotation layers, the app uses epub.js's `rendition.annotations` API to hig
 
 ### Fragment extraction
 
-For practice flows and cross-references that need to display a small fragment (not the full book), the app reads the XHTML source file directly and extracts elements by `id`. These fragments are rendered in a plain WebView with `salty.css` applied — epub.js is not needed for fragment display.
+For practice flows and cross-references that need to display a small fragment (not the full book), the app reads the XHTML source file directly and extracts elements by `id`. These fragments are rendered in a plain WebView with `ember-book.css` applied.
 
 ---
 
@@ -1314,63 +1324,35 @@ Chapter-level progress is sufficient for MVP. Sub-chapter scroll position is def
 
 ## Build Pipeline
 
-### Build script
+### Current: `build-libraries.sh`
 
-`packages/salty-epub-builder/` — a Node.js tool that packages XHTML source files into EPUB 3 bundles. No parsing or content transformation.
+`scripts/build-libraries.sh` packages each library into a `.pray` zip file:
 
-For each book with a `toc`:
+1. Copy `ember-book.css` to each book's language directories as `style.css`
+2. Zip each `content/libraries/{id}/` into `{id}-{version}.pray`
+3. Generate `registry.json` with metadata, content hashes, and previews
 
-1. Read `manifest.json`
-2. For each language in `manifest.languages`:
-   a. Walk the `toc` tree to collect leaf chapter IDs and their file paths
-   b. Generate `package.opf` from manifest metadata
-   c. Generate `nav.xhtml` from manifest `toc`
-3. Generate `container.xml` with one `rootfile` per language
-4. Copy shared assets (`salty.css`, images) to `shared/`
-5. Copy all XHTML chapter files per language
-6. Copy `salty/` directory (manifest.json, prayers, practices, layers)
-7. Zip everything into a valid EPUB 3 (mimetype first, uncompressed)
+No content transformation — source files ship as-is inside the `.pray`.
 
-Pure prayer collections (no `toc`) skip the build pipeline.
+```bash
+pnpm build:libraries                      # Build all libraries
+```
 
 ### Ingestion pipeline
 
 For importing existing public domain texts:
 
 ```
-Existing EPUB (Gutenberg, CCEL, Internet Archive)
-  → unzip, extract XHTML chapters
-  → clean HTML (strip non-semantic markup, normalize tags)
-  → add Salty semantic attributes (scripture refs, anchors, container classes)
-  → output: XHTML source files in sources/books/
+HTML source (Gutenberg, CCEL, Internet Archive)
+  → import-book script (clean HTML, add semantic attributes)
+  → chapter files in content/libraries/{libraryId}/books/{bookId}/{lang}/
+  → human review, corrections, bilingual alignment
+  → build-libraries.sh (copy CSS + zip into .pray)
 ```
 
-This is simpler than the old pipeline (XHTML → Markdown) because the source and target formats are both XHTML. The "cleaning" step normalizes heading levels, adds `epub:type` and `class` attributes, detects scripture references, adds `id` attributes for anchors, and ensures XHTML well-formedness.
+### Future: EPUB packaging
 
-### Build-time validations
-
-Prose validations (books with `toc`):
-
-- **XHTML well-formedness**: XML parse each source file
-- **Anchor uniqueness**: no duplicate `id` attributes within their scope (chapter-scoped or book-scoped)
-- **Layer reference validity**: every layer entry anchor resolves to an `id` in the base text
-- **Cross-book references**: target book and anchor exist
-- **TOC consistency**: every TOC leaf has a corresponding `.xhtml` file per language
-- **Language parity**: both language directories have the same chapter IDs
-- **Link validity**: all `href="#..."` internal links resolve to existing `id` attributes
-- **EPUB validation**: run `epubcheck` on the output
-
-Prayer collection validations (books with `prayerCollection`):
-
-- **Prayer ref resolution**: every `prayer` ref resolves to a file in `prayers/` or a global prayer asset
-- **Practice ref resolution**: every `practice-ref` practiceId resolves to a practice in `practices/`
-- **Practice manifest validity**: colocated practice manifests follow the standard `PracticeManifest` schema
-
-### Build command
-
-```bash
-pnpm build:libraries                      # Build all libraries
-```
+When books adopt the XHTML format (above), a build step will package XHTML source files into EPUB 3 bundles for offline reading in standard EPUB readers. This is not yet implemented — the current pipeline only creates `.pray` zip files.
 
 ---
 
@@ -1445,14 +1427,6 @@ When we have 10+ books, a lightweight `library.json` manifest listing all availa
 - **Tables**: for chronologies, comparison charts. Rare in spiritual classics.
 - **Red letter**: CSS class for Jesus's words. Major editorial effort.
 
-### Migration from libraries
+### Evolving from Markdown to XHTML
 
-The current library system (`content/libraries/`) is superseded by this unified book format. Migration:
-
-| Current | Unified |
-|---------|---------|
-| `Library` manifest | `BookManifest` with `prayerCollection` |
-| `sections` array | `prayerCollection` array |
-| Library `practice` field | Colocated practice in `practices/` + `practice-ref` entry |
-| `content/libraries/{id}/` | `sources/books/{id}/` (source) and book bundle (runtime) |
-| `book::{libraryId}::{sectionId}` practice IDs | `book::{bookId}::{practiceId}` (unchanged convention) |
+Current books use plain Markdown chapters. As the library grows, books with richer needs (footnotes, scripture cross-references, verse-level anchoring, annotation layers) will be authored in XHTML following the format described above. The transition is per-book, not all-at-once — Markdown books continue to work as-is.

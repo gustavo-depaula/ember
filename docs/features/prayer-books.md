@@ -8,14 +8,14 @@ Ember's content distribution system. A library is a self-contained package of pr
 
 ## Motivation
 
-Practices are currently bundled in the app binary via `require.context()`. This limits what's possible:
+Practices were originally bundled in the app binary. This limited what was possible:
 
-- **App size grows** with every practice added — all 41 practices ship to everyone
-- **No modularity** — users can't pick which collections they want
+- **App size grew** with every practice added — all practices shipped to everyone
+- **No modularity** — users couldn't pick which collections they wanted
 - **No sharing** — no way for communities to create and distribute their own prayer collections
-- **No updates without app releases** — fixing a typo in a prayer requires a new app build
+- **No updates without app releases** — fixing a typo in a prayer required a new app build
 
-Libraries solve this by packaging content into downloadable, shareable `.pray` files.
+Libraries solved this by packaging content into downloadable, shareable `.pray` files. This system is now implemented and is the primary content distribution mechanism. See `docs/ARCHITECTURE.md` for the current architecture.
 
 ---
 
@@ -333,7 +333,7 @@ Requires connectivity on first launch.
 
 ## Database
 
-New migration `0003_books.sql`:
+The `installed_books` table is part of the unified schema in `apps/app/src/db/migrations/0001_initial.sql`:
 
 ```sql
 CREATE TABLE IF NOT EXISTS installed_books (
@@ -341,7 +341,8 @@ CREATE TABLE IF NOT EXISTS installed_books (
   version      TEXT NOT NULL,
   installed_at INTEGER NOT NULL,
   updated_at   INTEGER NOT NULL,
-  manifest     TEXT NOT NULL
+  manifest     TEXT NOT NULL,
+  content_hash TEXT
 );
 ```
 
@@ -396,7 +397,6 @@ Register Ember as handler for `.pray` files (iOS UTI, Android intent filter). Ta
 
 ## Open Questions
 
-- **Offline first launch**: If no connectivity on first launch, show "No connection — try again" or bundle a minimal fallback?
+- **Offline first launch**: Currently requires connectivity on first launch. Should we bundle a minimal fallback library?
 - **Background updates**: Auto-check for library updates on launch, or only when user visits Library screen?
-- **Library removal protection**: Should the default library be unremovable?
-- **Cross-library practice references**: Can a flow in one library reference a practice from another?
+- **Library removal protection**: Should ember-default be unremovable?
