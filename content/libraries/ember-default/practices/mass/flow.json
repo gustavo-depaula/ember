@@ -8,10 +8,10 @@
 				"en-US": "Form",
 				"pt-BR": "Forma"
 			},
-			"default": "ordinary",
+			"default": "of",
 			"options": [
 				{
-					"id": "ordinary",
+					"id": "of",
 					"label": {
 						"en-US": "Ordinary Form",
 						"pt-BR": "Forma Ordinária"
@@ -2647,7 +2647,7 @@
 					]
 				},
 				{
-					"id": "extraordinary",
+					"id": "ef",
 					"label": {
 						"en-US": "Extraordinary Form",
 						"pt-BR": "Forma Extraordinária"
