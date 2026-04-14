@@ -129,7 +129,7 @@ type RenderedSelect = {
 | `dayOfMonth` | string | `Date` | `"1"` - `"31"` |
 | `timeOfDay` | string | current time | `"morning"` / `"afternoon"` / `"evening"` / `"night"` |
 | `liturgicalCalendar` | string | user preference | `"of"` / `"ef"` |
-| `liturgicalSeason` | string | computed from date | `"advent"` / `"christmas"` / `"lent"` / `"easter"` / `"ordinary"` |
+| `liturgicalSeason` | string | computed from date (EF calendar) | `"advent"` / `"christmas"` / `"epiphany"` / `"septuagesima"` / `"lent"` / `"easter"` / `"post-pentecost"` |
 | `programDay` | string | program state | `"0"` - `"N"` |
 | `numbering` | string | user preference | `"mt"` / `"lxx"` |
 | `hour` | string | current time | `"0"` - `"23"` |
@@ -140,6 +140,61 @@ All context values are coerced to strings. `map` is `Record<string, string>` wit
 
 - **Exact match:** `"1": "joyful"` — matches when context value equals `"1"`
 - **Range match:** `"6-8": "lauds"` — matches when numeric context value falls in `[6, 8]` (inclusive). Ranges are checked in declaration order; first match wins.
+
+---
+
+## Fragments
+
+`FlowDefinition` supports an optional `fragments` map — named, reusable section blocks that can be referenced anywhere via `{ "type": "fragment", "ref": "name" }`. Fragments can reference other fragments for composition.
+
+```json
+{
+  "sections": [
+    { "type": "fragment", "ref": "gozosos" }
+  ],
+  "fragments": {
+    "opening": [
+      { "type": "prayer", "ref": "sign-of-cross" },
+      { "type": "divider" }
+    ],
+    "gozosos": [
+      { "type": "fragment", "ref": "opening" },
+      { "type": "heading", "text": { "pt-BR": "Mistérios Gozosos" } },
+      { "type": "prayer", "ref": "our-father" }
+    ]
+  }
+}
+```
+
+Fragment resolution is recursive — when the engine encounters a `fragment` section, it looks up the named block and resolves all its sections (including nested fragment refs) inline. Unknown refs produce no output.
+
+### Parameterized Fragments
+
+Fragments inherit `templateVars` from their context, so they work as parameterized templates when combined with `repeat from`:
+
+```json
+{
+  "data": {
+    "mysteries": [
+      { "title": {"pt-BR": "First"}, "meditation": {"pt-BR": "We contemplate..."} }
+    ]
+  },
+  "sections": [
+    { "type": "repeat", "from": "mysteries", "sections": [
+      { "type": "fragment", "ref": "decade" }
+    ]}
+  ],
+  "fragments": {
+    "decade": [
+      { "type": "subheading", "text": {"pt-BR": "{{title}}"} },
+      { "type": "meditation", "text": {"pt-BR": "{{meditation}}"} },
+      { "type": "prayer", "ref": "our-father" }
+    ]
+  }
+}
+```
+
+The `repeat` iterates over data entries, setting each entry's fields as template variables. The `fragment` expands with those variables substituted into `{{placeholders}}`.
 
 ---
 
@@ -154,6 +209,7 @@ type FlowDefinition = {
   data?: Record<string, RepeatEntry[]>
   resolve?: ResolveStep[]
   sections: FlowSection[]
+  fragments?: Record<string, FlowSection[]>
 }
 ```
 

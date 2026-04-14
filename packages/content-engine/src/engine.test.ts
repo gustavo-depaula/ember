@@ -312,6 +312,33 @@ describe('getContextValue', () => {
     )
   })
 
+  it('returns liturgicalSeason using EF calendar', () => {
+    // Advent
+    expect(getContextValue(makeContext({ date: new Date(2025, 11, 10) }), 'liturgicalSeason')).toBe(
+      'advent',
+    )
+    // Christmas
+    expect(getContextValue(makeContext({ date: new Date(2025, 11, 26) }), 'liturgicalSeason')).toBe(
+      'christmas',
+    )
+    // Lent
+    expect(getContextValue(makeContext({ date: new Date(2025, 2, 10) }), 'liturgicalSeason')).toBe(
+      'lent',
+    )
+    // Easter
+    expect(getContextValue(makeContext({ date: new Date(2025, 3, 20) }), 'liturgicalSeason')).toBe(
+      'easter',
+    )
+    // Post-Pentecost (summer/fall — no ambiguity with EF)
+    expect(getContextValue(makeContext({ date: new Date(2025, 6, 15) }), 'liturgicalSeason')).toBe(
+      'post-pentecost',
+    )
+    // Epiphany (pre-Lent — no ambiguity with EF)
+    expect(getContextValue(makeContext({ date: new Date(2025, 1, 15) }), 'liturgicalSeason')).toBe(
+      'epiphany',
+    )
+  })
+
   it('returns undefined for unknown keys', () => {
     expect(getContextValue(makeContext(), 'nonExistentKey')).toBeUndefined()
   })
@@ -1721,5 +1748,143 @@ describe('integration: Confession — manual select', () => {
         ],
       },
     ])
+  })
+})
+
+// --- Fragments ---
+
+describe('resolveFlow — fragments', () => {
+  it('expands a fragment ref into its sections', () => {
+    const result = resolveFlow(
+      {
+        sections: [{ type: 'fragment', ref: 'greeting' }],
+        fragments: {
+          greeting: [{ type: 'heading', text: { 'pt-BR': 'Olá' } }, { type: 'divider' }],
+        },
+      },
+      makeContext(),
+      makeEngineContext(),
+    )
+    expect(result).toEqual([{ type: 'heading', text: { primary: 'Olá' } }, { type: 'divider' }])
+  })
+
+  it('returns empty for unknown fragment ref', () => {
+    const result = resolveFlow(
+      {
+        sections: [{ type: 'fragment', ref: 'nonexistent' }],
+        fragments: {},
+      },
+      makeContext(),
+      makeEngineContext(),
+    )
+    expect(result).toEqual([])
+  })
+
+  it('supports fragments referencing other fragments', () => {
+    const result = resolveFlow(
+      {
+        sections: [{ type: 'fragment', ref: 'full' }],
+        fragments: {
+          opening: [{ type: 'heading', text: { 'pt-BR': 'Início' } }],
+          closing: [{ type: 'heading', text: { 'pt-BR': 'Fim' } }],
+          full: [
+            { type: 'fragment', ref: 'opening' },
+            { type: 'divider' },
+            { type: 'fragment', ref: 'closing' },
+          ],
+        },
+      },
+      makeContext(),
+      makeEngineContext(),
+    )
+    expect(result).toEqual([
+      { type: 'heading', text: { primary: 'Início' } },
+      { type: 'divider' },
+      { type: 'heading', text: { primary: 'Fim' } },
+    ])
+  })
+
+  it('substitutes templateVars into fragment sections', () => {
+    const result = resolveFlow(
+      {
+        sections: [{ type: 'fragment', ref: 'greeting' }],
+        fragments: {
+          greeting: [{ type: 'heading', text: { 'pt-BR': 'Olá {{name}}' } }],
+        },
+      },
+      makeContext({ templateVars: { name: 'Maria' } }),
+      makeEngineContext(),
+    )
+    expect(result).toEqual([{ type: 'heading', text: { primary: 'Olá Maria' } }])
+  })
+
+  it('receives templateVars from repeat iterations', () => {
+    const result = resolveFlow(
+      {
+        data: {
+          mysteries: [
+            { title: { 'pt-BR': 'Primeiro' }, meditation: { 'pt-BR': 'Contemplamos...' } },
+            { title: { 'pt-BR': 'Segundo' }, meditation: { 'pt-BR': 'Meditamos...' } },
+          ],
+        },
+        sections: [
+          {
+            type: 'repeat',
+            from: 'mysteries',
+            sections: [{ type: 'fragment', ref: 'decade' }],
+          },
+        ],
+        fragments: {
+          decade: [
+            { type: 'subheading', text: { 'pt-BR': '{{title}}' } },
+            { type: 'meditation', text: { 'pt-BR': '{{meditation}}' } },
+            { type: 'divider' },
+          ],
+        },
+      },
+      makeContext(),
+      makeEngineContext(),
+    )
+    expect(result).toEqual([
+      { type: 'subheading', text: { primary: 'Primeiro' } },
+      { type: 'meditation', text: { primary: 'Contemplamos...' } },
+      { type: 'divider' },
+      { type: 'subheading', text: { primary: 'Segundo' } },
+      { type: 'meditation', text: { primary: 'Meditamos...' } },
+      { type: 'divider' },
+    ])
+  })
+
+  it('works inside select options', () => {
+    const result = resolveFlow(
+      {
+        sections: [
+          {
+            type: 'select',
+            on: 'dayOfWeek',
+            map: { '0': 'a', '1': 'b' },
+            options: [
+              {
+                id: 'a',
+                label: { 'pt-BR': 'A' },
+                sections: [{ type: 'fragment', ref: 'content-a' }],
+              },
+              {
+                id: 'b',
+                label: { 'pt-BR': 'B' },
+                sections: [{ type: 'fragment', ref: 'content-b' }],
+              },
+            ],
+          },
+        ],
+        fragments: {
+          'content-a': [{ type: 'heading', text: { 'pt-BR': 'Sunday' } }],
+          'content-b': [{ type: 'heading', text: { 'pt-BR': 'Monday' } }],
+        },
+      },
+      makeContext({ date: new Date(2026, 3, 13) }), // Monday
+      makeEngineContext(),
+    )
+    expect(result).toEqual([{ type: 'heading', text: { primary: 'Monday' } }])
   })
 })

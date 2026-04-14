@@ -51,6 +51,7 @@ export type FlowDefinition = {
   data?: Record<string, RepeatEntry[]>
   resolve?: ResolveStep[]
   sections: FlowSection[]
+  fragments?: Record<string, FlowSection[]>
 }
 
 export type FlowSection =
@@ -133,6 +134,7 @@ export type FlowSection =
       attribution?: LocalizedText
       prayer?: LocalizedText
     }
+  | { type: 'fragment'; ref: string }
 
 // --- Rendered Sections (engine output, consumed by renderer) ---
 
