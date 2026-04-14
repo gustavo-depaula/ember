@@ -91,3 +91,70 @@ Oremos
 ## Dedicação a Maria de si mesmo
 
 Santíssima Virgem Mãe de Deus Maria, eu N., embora indignissimo de ser vosso servo, movido contudo pela vossa admirável piedade e pelo desejo de vos servir, vos elejo hoje, na presença do meu anjo da guarda e de toda a corte celeste, por minha particular senhora, advogada e mãe; e firmemente proponho querer-vos sempre amar e servir para o futuro, e fazer quanto puder para que sejais também por outros amada e servida. Suplico-vos, Mãe de Deus e mãe minha piedosíssima e amabilíssima, pelo sangue do vosso divino Filho derramado por mim, que me recebais no número dos vossos devotos como filho e servo perpétuo vosso: assisti-me em todos os meus pensamentos, palavras e obras, em todos os momentos da minha vida, de modo que todos os meus passos e respirações sejam dirigidos à maior glória do meu Deus; e pela vossa poderosíssima intercessão, que eu nunca mais ofenda o meu amado Jesus, o glorifique e o ame nesta vida, e ame a vós, minha dilectíssima e cara mãe, para depois vos amar e gozar por todos os séculos no santo paraíso. Amém.
+
+Mãe minha Maria, eu vos recomendo a minha alma,
+sobretudo na hora da minha morte.
+
+## Dedicação a Maria da família
+
+Virgem bendita e imaculada, rainha e mãe nossa, refúgio e consolação de todos os miseráveis, eu, prostrado diante do vosso trono com toda a minha família, vos elejo por minha senhora, mãe e advogada junto de Deus. Eu, com todos os meus, me dedico para sempre ao vosso serviço; e vos peço, ó Mãe de Deus, que nos coloqueis no número dos vossos servos, tomando-nos todos sob a vossa proteção, socorrendo-nos em vida e, mais ainda, no tempo de nossa morte. Ó mãe de misericórdia, eu vos constituo senhora e governadora de toda a minha casa, de meus parentes, de meus interesses e de todos os meus negócios. Não vos digneis desprezar o cuidado deles; disponde de tudo como vos agradar. Abençoai, pois, a mim e a todos da minha família, e não permitais que algum de nós venha a ofender o vosso Filho. Defendei-nos nas tentações, livrai-nos dos perigos, providenciai-nos nas necessidades, aconselhai-nos nas dúvidas, consolai-nos nas aflições, assisti-nos nas enfermidades e principalmente nas angústias da morte. Não permitais que o demônio se glorie de ter em suas cadeias algum de nós já a vós consagrado; mas fazei que venhamos ao céu para vos agradecer e, juntamente convosco, louvar e amar o nosso Redentor Jesus por toda a eternidade. Amém. Assim seja.
+
+## Aspirações (Jaculatórias) à Maria Santíssima
+
+> Mãe de Deus, lembrai-vos de mim. — S. Francisco Xavier.
+
+> Virgem e Mãe, fazei que eu me lembre sempre de vós. — S. Filipe Néri.
+
+> Virgem Maria, Mãe de Deus, rogai a Jesus por mim. — O mesmo santo.
+
+> Ó Senhora, fazei que Jesus não me afaste de si. — S. Efrém.
+
+> Ó Maria, não cesse jamais meu coração de vos amar, nem minha língua de vos louvar. — S. Boaventura.
+
+> Ó Senhora, pelo amor que tendes a Jesus, ajudai-me a amá-lo. — S. Brígida.
+
+> Ó Maria, dignai-vos fazer-me vossa serva. — B. Joana de França.
+
+> Ó Maria, eu me dou todo a vós; vós aceitai-me e conservai-me. — S. Maria Madalena de' Pazzi.
+
+> Ó Senhora, não me abandoneis até a morte. — Pe. Spinelli, da Companhia de Jesus.
+
+> Ave Maria, mãe minha. — Pe. Francisco Brancaccio, da mesma Companhia.
+
+> Santa Maria, minha advogada, rogai por mim. — Pe. Sertorio Caputi.
+
+> Se eu amo Maria, estou seguro da perseverança e da salvação, e alcançarei de Deus aquilo que desejo. — Ir. João Berchmans.
+
+**Oração de Ludovico Blósio à Bem-Aventurada Virgem:**
+
+*Ave, desperantium spes, destitutorum adiutrix Maria, cuius honori tantum tribuit Filius, ut quidquid petieris, mox impetres, quidquid volueris, mox fiat. Tibi regni caelestis thesauri commissi sunt. Praesta, Domina, ut inter procellas huius vitae semper te attendam. Tuae pietati commendo animam et corpus meum. Dirige et protege me singulis horis atque momentis, o dulce praesidium meum.*
+
+**Exclamação do Irmão Afonso Rodrigues, da Companhia de Jesus:**
+
+*Iesus et Maria, amores mei dulcissimi, pro vobis patiar, pro vobis moriar: sim totus vester, sim nihil meus.*
+
+**Exclamações de S. Bernardo, ou de outro autor devoto, sobre a** *Salve Regina*:
+
+*Ad te clamamus, regina misericordiae, revertere, ut intueamur te largientem beneficia, conferentem remedia, ponentem fortitudinem. Ostende nobis faciem miserationum tuarum, et salvi erimus.*
+
+*Domina rerum, sancta sanctorum, virtus nostra et refugium, decus mundi, gloria caeli, agnosce te diligentes; audi nos, nam te Filius nihil negans honorat.*
+
+*Curre, festina, Domina, et tuum iniquissimum servum ad te clamantem parcendo adiuva, et eripe de manu hostis.*
+
+*Quis ad te non suspirabit? Amore suspiramus et dolore. Quomodo ergo ad te non suspiramus, solatium miserorum refugium expulsorum, liberatio captivorum? Non dubitamus, quin si nostras aspexeris miserias, non poterit tua miseratio suum retardare effectum.*
+
+*O Domina nostra, advocata nostra, tuo Filio nos commenda. Fac, o Benedicta, per gratiam quam meruisti, ut qui te mediante dignatus est fieri particeps infirmitatis et miseriae, te quoque intercedente, participes nos faciat beatitudinis et gloriae suae.*
+
+A Santíssima Virgem Maria revelou a uma alma sua devota que muito se agradava de ser honrada por seus servos com a seguinte devoção:
+
+> Eu vos agradeço, ó Pai Eterno, pela potência dada a Maria, vossa filha. *Pater, Ave, Gloria.*
+
+> Eu vos agradeço, ó Filho Eterno, pela sabedoria dada a Maria, vossa mãe. *Pater, Ave, Gloria.*
+
+> Eu vos agradeço, ó Espírito Santo Eterno, pelo amor dado a Maria, vossa esposa. *Pater, Ave, Gloria.*
+
+Viva Jesus, nosso amor, e Maria, nossa esperança.
+
+---
+
+FIM DAS GLÓRIAS DE MARIA.

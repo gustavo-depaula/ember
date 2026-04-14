@@ -56,6 +56,8 @@ Target: pt-BR (Brazilian Portuguese)
 - Saints' names in standard Portuguese forms.
 - Book of Job abbreviated as "Jó" (not "Jo").
 - Liguori's rhetorical, passionate style preserved — long sentences maintained where they serve his argumentative purpose.
+- Em `parte-2-capo-4.md`, mantive o fluxo argumentativo integral (autoridades, concílio, Escritura) sem resumir seções.
+- Em `parte-2-capo-4.md`, conservei citações latinas em itálico e removi marcadores editoriais numéricos do texto-fonte.
 
 ## Expressions & Idioms
 
