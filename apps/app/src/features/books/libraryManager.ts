@@ -132,7 +132,7 @@ async function upsertInstalledBook(
 const hearthLibrariesPath = 'libraries'
 
 export async function fetchRegistry(): Promise<Registry> {
-  return fetchHearth<Registry>(`${hearthLibrariesPath}/registry.json`)
+  return fetchHearth<Registry>(`${hearthLibrariesPath}/registry.json`, { networkFirst: true })
 }
 
 export async function getInstalledBooks(): Promise<InstalledBook[]> {
