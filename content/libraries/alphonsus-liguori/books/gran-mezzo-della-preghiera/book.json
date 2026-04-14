@@ -3,20 +3,20 @@
   "name": {
     "it": "Del gran mezzo della preghiera",
     "en-US": "The Great Means of Prayer",
-    "pt-BR": "O Grande Meio da Oracao"
+    "pt-BR": "O Grande Meio da Oração"
   },
   "author": {
     "it": "Sant'Alfonso Maria de Liguori",
     "en-US": "St. Alphonsus Maria de Liguori",
-    "pt-BR": "Santo Afonso Maria de Ligorio"
+    "pt-BR": "Santo Afonso Maria de Ligório"
   },
   "description": {
-    "it": "Trattato sulla necessita, il valore e le condizioni della preghiera come mezzo indispensabile di salvezza.",
+    "it": "Trattato sulla necessità, il valore e le condizioni della preghiera come mezzo indispensabile di salvezza.",
     "en-US": "A treatise on the necessity, value, and conditions of prayer as the indispensable means of salvation.",
-    "pt-BR": "Tratado sobre a necessidade, o valor e as condicoes da oracao como meio indispensavel de salvacao."
+    "pt-BR": "Tratado sobre a necessidade, o valor e as condições da oração como meio indispensável de salvação."
   },
   "composed": 1759,
-  "languages": ["it"],
+  "languages": ["it", "en-US", "pt-BR"],
   "sources": [
     {
       "language": "it",
@@ -27,62 +27,110 @@
   "toc": [
     {
       "id": "dedica",
-      "title": { "it": "Dedica" },
+      "title": {
+        "it": "Dedica",
+        "en-US": "Dedication",
+        "pt-BR": "Dedicatória"
+      },
       "file": { "it": "it/dedica.md" }
     },
     {
       "id": "parte-1",
-      "title": { "it": "Parte Prima" },
+      "title": {
+        "it": "Parte Prima",
+        "en-US": "Part One",
+        "pt-BR": "Parte Primeira"
+      },
       "children": [
         {
           "id": "parte-1-introduzione",
-          "title": { "it": "Introduzione" },
+          "title": {
+            "it": "Introduzione",
+            "en-US": "Introduction",
+            "pt-BR": "Introdução"
+          },
           "file": { "it": "it/parte-1-introduzione.md" }
         },
         {
           "id": "parte-1-capo-1",
-          "title": { "it": "Capo I - Della necessita della preghiera" },
+          "title": {
+            "it": "Capo I - Della necessità della preghiera",
+            "en-US": "Chapter I — On the Necessity of Prayer",
+            "pt-BR": "Capítulo I — Da Necessidade da Oração"
+          },
           "file": { "it": "it/parte-1-capo-1.md" }
         },
         {
           "id": "parte-1-capo-2",
-          "title": { "it": "Capo II - Del valore della preghiera" },
+          "title": {
+            "it": "Capo II - Del valore della preghiera",
+            "en-US": "Chapter II — On the Value of Prayer",
+            "pt-BR": "Capítulo II — Do Valor da Oração"
+          },
           "file": { "it": "it/parte-1-capo-2.md" }
         },
         {
           "id": "parte-1-capo-3",
-          "title": { "it": "Capo III - Delle condizioni della preghiera" },
+          "title": {
+            "it": "Capo III - Delle condizioni della preghiera",
+            "en-US": "Chapter III — On the Conditions of Prayer",
+            "pt-BR": "Capítulo III — Das Condições da Oração"
+          },
           "file": { "it": "it/parte-1-capo-3.md" }
         }
       ]
     },
     {
       "id": "parte-2",
-      "title": { "it": "Parte Seconda" },
+      "title": {
+        "it": "Parte Seconda",
+        "en-US": "Part Two",
+        "pt-BR": "Parte Segunda"
+      },
       "children": [
         {
           "id": "parte-2-introduzione",
-          "title": { "it": "Introduzione" },
+          "title": {
+            "it": "Introduzione",
+            "en-US": "Introduction",
+            "pt-BR": "Introdução"
+          },
           "file": { "it": "it/parte-2-introduzione.md" }
         },
         {
           "id": "parte-2-preliminare-1",
-          "title": { "it": "Preliminare I - Dio vuol tutti salvi" },
+          "title": {
+            "it": "Preliminare I - Dio vuol tutti salvi",
+            "en-US": "Preliminary I — God Wills All to Be Saved",
+            "pt-BR": "Preliminar I — Deus Quer Todos Salvos"
+          },
           "file": { "it": "it/parte-2-preliminare-1.md" }
         },
         {
           "id": "parte-2-preliminare-2",
-          "title": { "it": "Preliminare II - Dio dona la grazia necessaria a tutti" },
+          "title": {
+            "it": "Preliminare II - Dio dona la grazia necessaria a tutti",
+            "en-US": "Preliminary II — God Grants the Necessary Grace to All",
+            "pt-BR": "Preliminar II — Deus Concede a Graça Necessária a Todos"
+          },
           "file": { "it": "it/parte-2-preliminare-2.md" }
         },
         {
           "id": "parte-2-capo-3",
-          "title": { "it": "Capo III - Si confuta il sistema di Giansenio" },
+          "title": {
+            "it": "Capo III - Si confuta il sistema di Giansenio",
+            "en-US": "Chapter III — The System of Jansenius Is Refuted",
+            "pt-BR": "Capítulo III — Refuta-se o Sistema de Jansênio"
+          },
           "file": { "it": "it/parte-2-capo-3.md" }
         },
         {
           "id": "parte-2-capo-4",
-          "title": { "it": "Capo IV - Iddio dona a tutti la grazia di pregare" },
+          "title": {
+            "it": "Capo IV - Iddio dona a tutti la grazia di pregare",
+            "en-US": "Chapter IV — God Grants to All the Grace of Prayer",
+            "pt-BR": "Capítulo IV — Deus Concede a Todos a Graça de Rezar"
+          },
           "file": { "it": "it/parte-2-capo-4.md" }
         }
       ]
