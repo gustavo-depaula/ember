@@ -34,22 +34,33 @@ export function hearthUrl(path: string): string {
   return `${getBaseUrl()}/${path}`
 }
 
-export async function fetchHearth<T>(path: string): Promise<T> {
+export async function fetchHearth<T>(
+  path: string,
+  { networkFirst = false }: { networkFirst?: boolean } = {},
+): Promise<T> {
   const isLocal = __DEV__ && useLocal
+  const key = `hearth:${path}`
 
-  if (!isLocal) {
-    const key = `hearth:${path}`
+  if (!isLocal && !networkFirst) {
     const cached = await getCached<T>(key)
     if (cached) return cached
   }
 
-  const res = await fetch(`${getBaseUrl()}/${path}`)
-  if (!res.ok) throw new Error(`Hearth ${path}: ${res.status}`)
-  const data: T = await res.json()
+  try {
+    const res = await fetch(`${getBaseUrl()}/${path}`)
+    if (!res.ok) throw new Error(`Hearth ${path}: ${res.status}`)
+    const data: T = await res.json()
 
-  if (!isLocal) {
-    await setCache(`hearth:${path}`, data)
+    if (!isLocal) {
+      await setCache(key, data)
+    }
+
+    return data
+  } catch (err) {
+    if (networkFirst && !isLocal) {
+      const cached = await getCached<T>(key)
+      if (cached) return cached
+    }
+    throw err
   }
-
-  return data
 }
