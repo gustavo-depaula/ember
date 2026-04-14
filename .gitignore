@@ -53,3 +53,4 @@ content/books/*/epubs/*/*.epub
 
 # Crawled source texts (not tracked)
 content/libraries/montfort-spirituality/sources/
+content/libraries/alphonsus-liguori/sources/
