@@ -145,6 +145,7 @@ export function PracticeFlow({
   }, [selectOverrideResetKey])
 
   const now = useToday()
+  const todayKey = now.getTime()
 
   // Dynamic context for cycle/lectio sections
   const translation = usePreferencesStore((s) => s.translation)
@@ -200,7 +201,7 @@ export function PracticeFlow({
       setIsResolvingFlow(true)
       try {
         const context: FlowContext = {
-          date: now,
+          date: new Date(todayKey),
           numbering,
           liturgicalCalendar,
           trackDefs,
@@ -233,7 +234,7 @@ export function PracticeFlow({
     }
   }, [
     flow,
-    now,
+    todayKey,
     numbering,
     liturgicalCalendar,
     trackDefs,
