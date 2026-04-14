@@ -53,7 +53,11 @@ export function localizeBilingual(
   secondary: ContentLanguage | undefined,
 ): BilingualText {
   if (typeof text === 'string') return { primary: text }
-  const primaryText = resolveLanguage(text, primary) ?? resolveLanguage(text, 'en-US') ?? ''
+  const primaryText =
+    resolveLanguage(text, primary) ??
+    resolveLanguage(text, 'en-US') ??
+    Object.values(text).find(Boolean) ??
+    ''
 
   if (!secondary) return { primary: primaryText }
 
