@@ -1,0 +1,72 @@
+{
+	"sections": [
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "Christian joy is deeper than happiness — it springs from the presence of God himself. Let these passages fill you with gladness.",
+				"pt-BR": "A alegria cristã é mais profunda que a felicidade — brota da presença do próprio Deus. Deixe estas passagens enchê-lo de alegria."
+			}
+		},
+		{
+			"type": "select",
+			"label": {
+				"en-US": "Passage",
+				"pt-BR": "Passagem"
+			},
+			"options": [
+				{
+					"id": "ps-16",
+					"label": {
+						"en-US": "Psalm 16 — Fullness of Joy",
+						"pt-BR": "Salmo 16 — Plenitude de Alegria"
+					},
+					"sections": [
+						{
+							"type": "lectio",
+							"reference": "ps 16"
+						}
+					]
+				},
+				{
+					"id": "ps-98",
+					"label": {
+						"en-US": "Psalm 98 — Sing a New Song",
+						"pt-BR": "Salmo 98 — Cantai um Cântico Novo"
+					},
+					"sections": [
+						{
+							"type": "lectio",
+							"reference": "ps 98"
+						}
+					]
+				},
+				{
+					"id": "john-15-9-12",
+					"label": {
+						"en-US": "John 15:9-12 — My Joy May Be in You",
+						"pt-BR": "João 15:9-12 — Minha Alegria Esteja em Vós"
+					},
+					"sections": [
+						{
+							"type": "lectio",
+							"reference": "john 15:9-12"
+						}
+					]
+				},
+				{
+					"id": "rom-15-13",
+					"label": {
+						"en-US": "Romans 15:13 — God of Hope Fill You with Joy",
+						"pt-BR": "Romanos 15:13 — O Deus da Esperança Vos Encha de Alegria"
+					},
+					"sections": [
+						{
+							"type": "lectio",
+							"reference": "romans 15:13"
+						}
+					]
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,72 @@
+{
+	"sections": [
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "God is love, and whoever abides in love abides in God. Choose a passage and contemplate the depths of divine love.",
+				"pt-BR": "Deus é amor, e quem permanece no amor permanece em Deus. Escolha uma passagem e contemple as profundezas do amor divino."
+			}
+		},
+		{
+			"type": "select",
+			"label": {
+				"en-US": "Passage",
+				"pt-BR": "Passagem"
+			},
+			"options": [
+				{
+					"id": "1-corinthians-13",
+					"label": {
+						"en-US": "1 Corinthians 13 — The Hymn of Love",
+						"pt-BR": "1 Coríntios 13 — O Hino do Amor"
+					},
+					"sections": [
+						{
+							"type": "lectio",
+							"reference": "1-corinthians 13"
+						}
+					]
+				},
+				{
+					"id": "john-3",
+					"label": {
+						"en-US": "John 3:16-17 — God So Loved the World",
+						"pt-BR": "João 3:16-17 — Deus Amou Tanto o Mundo"
+					},
+					"sections": [
+						{
+							"type": "lectio",
+							"reference": "john 3:16-17"
+						}
+					]
+				},
+				{
+					"id": "1-john-4",
+					"label": {
+						"en-US": "1 John 4:7-12 — God Is Love",
+						"pt-BR": "1 João 4:7-12 — Deus É Amor"
+					},
+					"sections": [
+						{
+							"type": "lectio",
+							"reference": "1-john 4:7-12"
+						}
+					]
+				},
+				{
+					"id": "canticles-2",
+					"label": {
+						"en-US": "Song of Songs 2:10-14 — Arise, My Love",
+						"pt-BR": "Cântico dos Cânticos 2:10-14 — Levanta-te, Meu Amor"
+					},
+					"sections": [
+						{
+							"type": "lectio",
+							"reference": "canticles 2:10-14"
+						}
+					]
+				}
+			]
+		}
+	]
+}

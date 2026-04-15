@@ -1,7 +1,6 @@
 import { useTranslation } from 'react-i18next'
 import { Text, YStack } from 'tamagui'
 
-import { OrnamentalRule } from '@/components'
 import { useReadingMargin, useReadingStyle } from '@/hooks/useReadingStyle'
 import type { Verse } from '@/lib/content'
 
@@ -31,7 +30,6 @@ export function ChapterContent({
         <Text fontFamily="$heading" fontSize="$4" color="$colorSecondary">
           {t('position.chapter', { n: chapter })}
         </Text>
-        <OrnamentalRule />
       </YStack>
 
       {fallback ? (
@@ -53,8 +51,6 @@ export function ChapterContent({
           {v.text}
         </Text>
       ))}
-
-      <OrnamentalRule />
     </YStack>
   )
 }

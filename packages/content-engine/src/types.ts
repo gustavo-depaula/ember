@@ -98,6 +98,7 @@ export type FlowSection =
   | { type: 'cycle'; data: string; key?: string; as: string; sections?: FlowSection[] }
   | { type: 'psalmody'; psalms: (number | string)[] }
   | { type: 'lectio'; track: string }
+  | { type: 'lectio'; reference: string }
   | { type: 'prose'; file: string }
   | {
       type: 'prose'

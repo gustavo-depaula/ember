@@ -379,6 +379,13 @@ export default {
   bible: {
     showingFallback: 'Showing Douay-Rheims (offline)',
     chapterAbbr: 'Ch. {{n}}',
+    discovery: {
+      title: 'Sacred Scripture',
+      gospelOfTheDay: 'Gospel of the Day',
+      themedReadings: 'Find Something to Read',
+      continueReading: 'Continue Reading',
+      openBible: 'Browse the Bible',
+    },
   },
 
   catechism: {
@@ -608,6 +615,7 @@ export default {
     mercy: 'Mercy',
     rosary: 'Rosary',
     seasonal: 'Seasonal',
+    scripture: 'Scripture',
   },
 
   program: {
@@ -809,6 +817,15 @@ export default {
     'oracao-santa-missa': 'Prayer for Holy Mass',
     'para-confissao': 'For Confession',
     'preparacao-comunhao': 'Preparation for Communion',
+    'gospel-of-the-day': 'Gospel of the Day',
+    'scripture-anxiety': 'When Anxious',
+    'scripture-gratitude': 'Gratitude',
+    'scripture-suffering': 'In Suffering',
+    'scripture-joy': 'Joy',
+    'scripture-forgiveness': 'Forgiveness',
+    'scripture-courage': 'Courage',
+    'scripture-trust': 'Trust in God',
+    'scripture-love': 'Love',
     'total-consecration': 'Total Consecration to Mary',
     'via-sacra': 'Way of the Cross',
     'via-sacra-claretiano': 'Claretian Way of the Cross',

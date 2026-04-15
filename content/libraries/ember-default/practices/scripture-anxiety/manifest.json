@@ -1,0 +1,38 @@
+{
+	"id": "scripture-anxiety",
+	"icon": "cloud-rain",
+	"name": {
+		"en-US": "When Anxious",
+		"pt-BR": "Quando Ansioso"
+	},
+	"categories": [
+		"scripture"
+	],
+	"estimatedMinutes": 10,
+	"description": {
+		"en-US": "When worry weighs on your heart, turn to these passages. Scripture speaks peace into the storm and reminds you that God holds all things.",
+		"pt-BR": "Quando a preocupação pesa em seu coração, volte-se a estas passagens. A Escritura fala paz na tempestade e lembra que Deus sustenta todas as coisas."
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flow": "flow.json",
+	"tags": [
+		"anxiety",
+		"peace",
+		"trust",
+		"scripture",
+		"comfort"
+	],
+	"defaults": {
+		"sortOrder": 51,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
+}

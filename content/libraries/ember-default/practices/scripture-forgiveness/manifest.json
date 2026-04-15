@@ -1,0 +1,37 @@
+{
+	"id": "scripture-forgiveness",
+	"icon": "book",
+	"name": {
+		"en-US": "Forgiveness",
+		"pt-BR": "Perdão"
+	},
+	"categories": [
+		"scripture"
+	],
+	"estimatedMinutes": 10,
+	"description": {
+		"en-US": "To forgive is to set a prisoner free and discover that the prisoner was you. These passages reveal God's boundless mercy and call us to extend it to others.",
+		"pt-BR": "Perdoar é libertar um prisioneiro e descobrir que o prisioneiro era você. Estas passagens revelam a misericórdia sem limites de Deus e nos chamam a estendê-la aos outros."
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flow": "flow.json",
+	"tags": [
+		"forgiveness",
+		"mercy",
+		"repentance",
+		"scripture"
+	],
+	"defaults": {
+		"sortOrder": 51,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
+}

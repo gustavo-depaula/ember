@@ -1,0 +1,37 @@
+{
+	"id": "scripture-joy",
+	"icon": "sparkles",
+	"name": {
+		"en-US": "Joy",
+		"pt-BR": "Alegria"
+	},
+	"categories": [
+		"scripture"
+	],
+	"estimatedMinutes": 10,
+	"description": {
+		"en-US": "Christian joy is deeper than happiness — it springs from the presence of God himself. These passages invite you into the gladness that nothing can take away.",
+		"pt-BR": "A alegria cristã é mais profunda que a felicidade — brota da presença do próprio Deus. Estas passagens convidam à alegria que ninguém pode tirar."
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flow": "flow.json",
+	"tags": [
+		"joy",
+		"gladness",
+		"praise",
+		"scripture"
+	],
+	"defaults": {
+		"sortOrder": 51,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
+}

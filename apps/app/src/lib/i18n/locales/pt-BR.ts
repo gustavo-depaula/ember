@@ -381,6 +381,13 @@ export default {
   bible: {
     showingFallback: 'Mostrando Douay-Rheims (offline)',
     chapterAbbr: 'Cap. {{n}}',
+    discovery: {
+      title: 'Sagrada Escritura',
+      gospelOfTheDay: 'Evangelho do Dia',
+      themedReadings: 'Encontre Algo para Ler',
+      continueReading: 'Continuar Leitura',
+      openBible: 'Navegar na Bíblia',
+    },
   },
 
   catechism: {
@@ -609,6 +616,7 @@ export default {
     mercy: 'Misericórdia',
     rosary: 'Rosário',
     seasonal: 'Sazonal',
+    scripture: 'Escritura',
   },
 
   program: {
@@ -810,6 +818,15 @@ export default {
     'oracao-santa-missa': 'Oração para a Santa Missa',
     'para-confissao': 'Para a Confissão',
     'preparacao-comunhao': 'Preparação para a Comunhão',
+    'gospel-of-the-day': 'Evangelho do Dia',
+    'scripture-anxiety': 'Quando Ansioso',
+    'scripture-gratitude': 'Gratidão',
+    'scripture-suffering': 'No Sofrimento',
+    'scripture-joy': 'Alegria',
+    'scripture-forgiveness': 'Perdão',
+    'scripture-courage': 'Coragem',
+    'scripture-trust': 'Confiança em Deus',
+    'scripture-love': 'Amor',
     'total-consecration': 'Consagração Total a Maria',
     'via-sacra': 'Via Sacra',
     'via-sacra-claretiano': 'Via Sacra Claretiana',

@@ -1,0 +1,72 @@
+{
+	"sections": [
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "When worry weighs on your heart, turn to these passages. Let Scripture speak peace into the storm.",
+				"pt-BR": "Quando a preocupação pesa em seu coração, volte-se a estas passagens. Deixe a Escritura falar paz na tempestade."
+			}
+		},
+		{
+			"type": "select",
+			"label": {
+				"en-US": "Passage",
+				"pt-BR": "Passagem"
+			},
+			"options": [
+				{
+					"id": "ps-23",
+					"label": {
+						"en-US": "Psalm 23 — The Lord is My Shepherd",
+						"pt-BR": "Salmo 23 — O Senhor é meu Pastor"
+					},
+					"sections": [
+						{
+							"type": "lectio",
+							"reference": "ps 23"
+						}
+					]
+				},
+				{
+					"id": "matt-6-25-34",
+					"label": {
+						"en-US": "Matthew 6:25-34 — Do Not Worry",
+						"pt-BR": "Mateus 6:25-34 — Não Vos Inquieteis"
+					},
+					"sections": [
+						{
+							"type": "lectio",
+							"reference": "matt 6:25-34"
+						}
+					]
+				},
+				{
+					"id": "phil-4-6-7",
+					"label": {
+						"en-US": "Philippians 4:6-7 — Peace of God",
+						"pt-BR": "Filipenses 4:6-7 — A Paz de Deus"
+					},
+					"sections": [
+						{
+							"type": "lectio",
+							"reference": "philippians 4:6-7"
+						}
+					]
+				},
+				{
+					"id": "isaias-41-10",
+					"label": {
+						"en-US": "Isaiah 41:10 — Fear Not, I Am with You",
+						"pt-BR": "Isaías 41:10 — Não Temas, Estou Contigo"
+					},
+					"sections": [
+						{
+							"type": "lectio",
+							"reference": "isaias 41:10"
+						}
+					]
+				}
+			]
+		}
+	]
+}

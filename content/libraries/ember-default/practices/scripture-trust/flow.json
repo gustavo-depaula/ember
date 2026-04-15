@@ -1,0 +1,72 @@
+{
+	"sections": [
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "Trust in the Lord with all your heart. Choose a passage and surrender your plans and anxieties to the One who holds the future.",
+				"pt-BR": "Confia no Senhor de todo o teu coração. Escolha uma passagem e entregue seus planos e ansiedades Àquele que tem o futuro em suas mãos."
+			}
+		},
+		{
+			"type": "select",
+			"label": {
+				"en-US": "Passage",
+				"pt-BR": "Passagem"
+			},
+			"options": [
+				{
+					"id": "proverbs-3",
+					"label": {
+						"en-US": "Proverbs 3:5-6 — Trust in the Lord",
+						"pt-BR": "Provérbios 3:5-6 — Confia no Senhor"
+					},
+					"sections": [
+						{
+							"type": "lectio",
+							"reference": "proverbs 3:5-6"
+						}
+					]
+				},
+				{
+					"id": "ps-37",
+					"label": {
+						"en-US": "Psalm 37:1-9 — Do Not Fret",
+						"pt-BR": "Salmo 37:1-9 — Não Te Irrites"
+					},
+					"sections": [
+						{
+							"type": "lectio",
+							"reference": "ps 37:1-9"
+						}
+					]
+				},
+				{
+					"id": "jeremias-29",
+					"label": {
+						"en-US": "Jeremiah 29:11-14 — Plans for Your Welfare",
+						"pt-BR": "Jeremias 29:11-14 — Planos de Paz"
+					},
+					"sections": [
+						{
+							"type": "lectio",
+							"reference": "jeremias 29:11-14"
+						}
+					]
+				},
+				{
+					"id": "romans-8",
+					"label": {
+						"en-US": "Romans 8:28-39 — Nothing Can Separate Us",
+						"pt-BR": "Romanos 8:28-39 — Nada Nos Separará"
+					},
+					"sections": [
+						{
+							"type": "lectio",
+							"reference": "romans 8:28-39"
+						}
+					]
+				}
+			]
+		}
+	]
+}

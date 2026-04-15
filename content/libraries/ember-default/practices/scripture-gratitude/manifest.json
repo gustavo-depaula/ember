@@ -1,0 +1,37 @@
+{
+	"id": "scripture-gratitude",
+	"icon": "sun",
+	"name": {
+		"en-US": "Gratitude",
+		"pt-BR": "Gratidão"
+	},
+	"categories": [
+		"scripture"
+	],
+	"estimatedMinutes": 10,
+	"description": {
+		"en-US": "Let your heart overflow with thanksgiving. These passages turn the soul toward praise and help you see God's goodness in all things.",
+		"pt-BR": "Deixe seu coração transbordar de ação de graças. Estas passagens voltam a alma ao louvor e ajudam a ver a bondade de Deus em todas as coisas."
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flow": "flow.json",
+	"tags": [
+		"gratitude",
+		"thanksgiving",
+		"praise",
+		"scripture"
+	],
+	"defaults": {
+		"sortOrder": 51,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
+}

@@ -1,0 +1,72 @@
+{
+	"sections": [
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "To forgive is to set a prisoner free and discover that the prisoner was you. Choose a passage and let God's mercy speak to your heart.",
+				"pt-BR": "Perdoar é libertar um prisioneiro e descobrir que o prisioneiro era você. Escolha uma passagem e deixe a misericórdia de Deus falar ao seu coração."
+			}
+		},
+		{
+			"type": "select",
+			"label": {
+				"en-US": "Passage",
+				"pt-BR": "Passagem"
+			},
+			"options": [
+				{
+					"id": "ps-51",
+					"label": {
+						"en-US": "Psalm 51 — Have Mercy on Me, O God",
+						"pt-BR": "Salmo 51 — Tende Piedade de Mim, ó Deus"
+					},
+					"sections": [
+						{
+							"type": "lectio",
+							"reference": "ps 51"
+						}
+					]
+				},
+				{
+					"id": "matt-18",
+					"label": {
+						"en-US": "Matthew 18:21-35 — Seventy Times Seven",
+						"pt-BR": "Mateus 18:21-35 — Setenta Vezes Sete"
+					},
+					"sections": [
+						{
+							"type": "lectio",
+							"reference": "matt 18:21-35"
+						}
+					]
+				},
+				{
+					"id": "luke-15",
+					"label": {
+						"en-US": "Luke 15:11-32 — The Prodigal Son",
+						"pt-BR": "Lucas 15:11-32 — O Filho Pródigo"
+					},
+					"sections": [
+						{
+							"type": "lectio",
+							"reference": "luke 15:11-32"
+						}
+					]
+				},
+				{
+					"id": "1-john-1",
+					"label": {
+						"en-US": "1 John 1:8-9 — If We Confess Our Sins",
+						"pt-BR": "1 João 1:8-9 — Se Confessarmos os Nossos Pecados"
+					},
+					"sections": [
+						{
+							"type": "lectio",
+							"reference": "1-john 1:8-9"
+						}
+					]
+				}
+			]
+		}
+	]
+}

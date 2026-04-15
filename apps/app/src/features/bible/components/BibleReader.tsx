@@ -1,3 +1,5 @@
+import { useRouter } from 'expo-router'
+import { Home } from 'lucide-react-native'
 import { useCallback, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Pressable, StyleSheet, useWindowDimensions } from 'react-native'
@@ -11,7 +13,7 @@ import Animated, {
   withSpring,
 } from 'react-native-reanimated'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
-import { ScrollView, Text, View, YStack } from 'tamagui'
+import { ScrollView, Text, useTheme, View, YStack } from 'tamagui'
 
 import { ReadingConfigBadge, ReadingConfigModal, ScreenLayout } from '@/components'
 import type { Book } from '@/lib/content'
@@ -29,6 +31,8 @@ const springConfig = { damping: 24, stiffness: 200, mass: 0.8 }
 
 export function BibleReader() {
   const { t } = useTranslation()
+  const router = useRouter()
+  const theme = useTheme()
   const { width: screenWidth } = useWindowDimensions()
   const bookDrawerWidth = Math.min(screenWidth * 0.7, 340)
   const chapterDrawerWidth = Math.min(screenWidth * 0.22, 80)
@@ -199,6 +203,16 @@ export function BibleReader() {
                   onBookPress={openBookDrawer}
                   onChapterPress={openChapterDrawer}
                 />
+                <YStack alignItems="center">
+                  <Pressable
+                    onPress={() => router.push('/')}
+                    hitSlop={12}
+                    accessibilityRole="link"
+                    accessibilityLabel="Home"
+                  >
+                    <Home size={20} color={theme.colorSecondary.val} />
+                  </Pressable>
+                </YStack>
                 {renderContent()}
               </YStack>
             </ScreenLayout>

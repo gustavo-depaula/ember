@@ -488,6 +488,11 @@ function resolveSection(
       return [{ type: 'psalmody', psalms: section.psalms.map(ec.parsePsalmRef) }]
 
     case 'lectio': {
+      if ('reference' in section) {
+        const resolveBookName = (slug: string) => ec.t(`bookName.${slug}`, { defaultValue: slug })
+        const refs = ec.parseTrackEntry('bible', section.reference, resolveBookName)
+        return refs.map((ref) => ({ type: 'reading' as const, reference: ref }))
+      }
       const def = context.trackDefs?.[section.track]
       const state = context.trackState?.[section.track]
       if (!def || !state)

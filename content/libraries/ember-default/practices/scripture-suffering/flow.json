@@ -1,0 +1,72 @@
+{
+	"sections": [
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "In the valley of suffering, you are not alone. Christ walks with you. Let Scripture console those who carry a heavy cross.",
+				"pt-BR": "No vale do sofrimento, você não está sozinho. Cristo caminha com você. Deixe a Escritura consolar os que carregam uma cruz pesada."
+			}
+		},
+		{
+			"type": "select",
+			"label": {
+				"en-US": "Passage",
+				"pt-BR": "Passagem"
+			},
+			"options": [
+				{
+					"id": "ps-22-1-21",
+					"label": {
+						"en-US": "Psalm 22:1-21 — My God, Why Have You Forsaken Me?",
+						"pt-BR": "Salmo 22:1-21 — Meu Deus, Por Que Me Abandonastes?"
+					},
+					"sections": [
+						{
+							"type": "lectio",
+							"reference": "ps 22:1-21"
+						}
+					]
+				},
+				{
+					"id": "rom-8-18-28",
+					"label": {
+						"en-US": "Romans 8:18-28 — Sufferings of the Present",
+						"pt-BR": "Romanos 8:18-28 — Os Sofrimentos do Presente"
+					},
+					"sections": [
+						{
+							"type": "lectio",
+							"reference": "romans 8:18-28"
+						}
+					]
+				},
+				{
+					"id": "2-cor-4-16-18",
+					"label": {
+						"en-US": "2 Corinthians 4:16-18 — Light Momentary Affliction",
+						"pt-BR": "2 Coríntios 4:16-18 — Leve e Momentânea Tribulação"
+					},
+					"sections": [
+						{
+							"type": "lectio",
+							"reference": "2-corinthians 4:16-18"
+						}
+					]
+				},
+				{
+					"id": "isaias-53-3-6",
+					"label": {
+						"en-US": "Isaiah 53:3-6 — Man of Sorrows",
+						"pt-BR": "Isaías 53:3-6 — Homem de Dores"
+					},
+					"sections": [
+						{
+							"type": "lectio",
+							"reference": "isaias 53:3-6"
+						}
+					]
+				}
+			]
+		}
+	]
+}

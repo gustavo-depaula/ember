@@ -1,0 +1,72 @@
+{
+	"sections": [
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "Be strong and courageous. The Lord your God is with you wherever you go. Choose a passage and let it strengthen your heart.",
+				"pt-BR": "Sê forte e corajoso. O Senhor teu Deus está contigo por onde quer que fores. Escolha uma passagem e deixe-a fortalecer seu coração."
+			}
+		},
+		{
+			"type": "select",
+			"label": {
+				"en-US": "Passage",
+				"pt-BR": "Passagem"
+			},
+			"options": [
+				{
+					"id": "josue-1",
+					"label": {
+						"en-US": "Joshua 1:9 — Be Strong and Courageous",
+						"pt-BR": "Josué 1:9 — Sê Forte e Corajoso"
+					},
+					"sections": [
+						{
+							"type": "lectio",
+							"reference": "josue 1:9"
+						}
+					]
+				},
+				{
+					"id": "isaias-41",
+					"label": {
+						"en-US": "Isaiah 41:10 — Fear Not, I Am with You",
+						"pt-BR": "Isaías 41:10 — Não Temas, Estou Contigo"
+					},
+					"sections": [
+						{
+							"type": "lectio",
+							"reference": "isaias 41:10"
+						}
+					]
+				},
+				{
+					"id": "ps-27",
+					"label": {
+						"en-US": "Psalm 27 — The Lord Is My Light",
+						"pt-BR": "Salmo 27 — O Senhor É Minha Luz"
+					},
+					"sections": [
+						{
+							"type": "lectio",
+							"reference": "ps 27"
+						}
+					]
+				},
+				{
+					"id": "2-timothy-1",
+					"label": {
+						"en-US": "2 Timothy 1:7 — Spirit of Power and Love",
+						"pt-BR": "2 Timóteo 1:7 — Espírito de Poder e Amor"
+					},
+					"sections": [
+						{
+							"type": "lectio",
+							"reference": "2-timothy 1:7"
+						}
+					]
+				}
+			]
+		}
+	]
+}

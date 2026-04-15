@@ -1,0 +1,47 @@
+{
+	"id": "gospel-of-the-day",
+	"icon": "book",
+	"name": {
+		"en-US": "Gospel of the Day",
+		"pt-BR": "Evangelho do Dia"
+	},
+	"categories": [
+		"scripture",
+		"daily"
+	],
+	"estimatedMinutes": 5,
+	"description": {
+		"en-US": "Read today's Gospel from the Mass of the day. A brief encounter with Christ's words as they are proclaimed in churches around the world.",
+		"pt-BR": "Leia o Evangelho de hoje da Missa do dia. Um breve encontro com as palavras de Cristo proclamadas nas igrejas ao redor do mundo."
+	},
+	"history": {
+		"en-US": "The reading of the Gospel is the summit of the Liturgy of the Word. From the earliest centuries, the Church has assigned specific Gospel passages to each day of the liturgical year, so that the faithful might walk with Christ through the mysteries of salvation.",
+		"pt-BR": "A leitura do Evangelho é o ápice da Liturgia da Palavra. Desde os primeiros séculos, a Igreja designou passagens específicas do Evangelho para cada dia do ano litúrgico, para que os fiéis caminhem com Cristo pelos mistérios da salvação."
+	},
+	"howToPray": {
+		"en-US": "Read the Gospel slowly. Let the words sink in. You may wish to read it a second time, pausing where something strikes you. Consider what our Lord is saying to you today through this passage.",
+		"pt-BR": "Leia o Evangelho devagar. Deixe as palavras penetrarem. Você pode querer lê-lo uma segunda vez, parando onde algo lhe tocar. Considere o que Nosso Senhor está lhe dizendo hoje através desta passagem."
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flow": "flow.json",
+	"tags": [
+		"gospel",
+		"scripture",
+		"daily",
+		"mass",
+		"lectionary"
+	],
+	"defaults": {
+		"sortOrder": 50,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
+}

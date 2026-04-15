@@ -1,0 +1,37 @@
+{
+	"id": "scripture-love",
+	"icon": "book",
+	"name": {
+		"en-US": "Love",
+		"pt-BR": "Amor"
+	},
+	"categories": [
+		"scripture"
+	],
+	"estimatedMinutes": 10,
+	"description": {
+		"en-US": "God is love, and whoever abides in love abides in God. These passages contemplate the depths of divine love and its call upon our hearts.",
+		"pt-BR": "Deus é amor, e quem permanece no amor permanece em Deus. Estas passagens contemplam as profundezas do amor divino e seu chamado em nossos corações."
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flow": "flow.json",
+	"tags": [
+		"love",
+		"charity",
+		"devotion",
+		"scripture"
+	],
+	"defaults": {
+		"sortOrder": 51,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
+}

@@ -1,0 +1,37 @@
+{
+	"id": "scripture-trust",
+	"icon": "book",
+	"name": {
+		"en-US": "Trust in God",
+		"pt-BR": "Confiança em Deus"
+	},
+	"categories": [
+		"scripture"
+	],
+	"estimatedMinutes": 10,
+	"description": {
+		"en-US": "Trust in the Lord with all your heart. These passages invite you to surrender your plans and anxieties to the One who holds the future.",
+		"pt-BR": "Confia no Senhor de todo o teu coração. Estas passagens convidam a entregar seus planos e ansiedades Àquele que tem o futuro em suas mãos."
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flow": "flow.json",
+	"tags": [
+		"trust",
+		"surrender",
+		"providence",
+		"scripture"
+	],
+	"defaults": {
+		"sortOrder": 51,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
+}

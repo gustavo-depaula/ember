@@ -1,0 +1,20 @@
+{
+	"sections": [
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "Gospel of the Day",
+				"pt-BR": "Evangelho do Dia"
+			}
+		},
+		{
+			"type": "proper",
+			"slot": "gospel",
+			"form": "of",
+			"description": {
+				"en-US": "Today's Gospel",
+				"pt-BR": "Evangelho de Hoje"
+			}
+		}
+	]
+}

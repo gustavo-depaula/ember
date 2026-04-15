@@ -1,0 +1,38 @@
+{
+	"id": "scripture-suffering",
+	"icon": "cross",
+	"name": {
+		"en-US": "In Suffering",
+		"pt-BR": "No Sofrimento"
+	},
+	"categories": [
+		"scripture"
+	],
+	"estimatedMinutes": 10,
+	"description": {
+		"en-US": "In the valley of suffering, you are not alone. Christ walks with you. These passages offer the consolation of Scripture for those who carry a heavy cross.",
+		"pt-BR": "No vale do sofrimento, você não está sozinho. Cristo caminha com você. Estas passagens oferecem a consolação da Escritura para os que carregam uma cruz pesada."
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flow": "flow.json",
+	"tags": [
+		"suffering",
+		"consolation",
+		"cross",
+		"scripture",
+		"hope"
+	],
+	"defaults": {
+		"sortOrder": 51,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
+}

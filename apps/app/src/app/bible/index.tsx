@@ -1,5 +1,5 @@
-import { BibleReader } from '@/features/bible'
+import { BibleDiscovery } from '@/features/bible'
 
 export default function BibleScreen() {
-  return <BibleReader />
+  return <BibleDiscovery />
 }

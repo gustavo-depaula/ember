@@ -1,0 +1,72 @@
+{
+	"sections": [
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "Let your heart overflow with thanksgiving. Turn your soul toward praise and see God's goodness in all things.",
+				"pt-BR": "Deixe seu coração transbordar de ação de graças. Volte sua alma ao louvor e veja a bondade de Deus em todas as coisas."
+			}
+		},
+		{
+			"type": "select",
+			"label": {
+				"en-US": "Passage",
+				"pt-BR": "Passagem"
+			},
+			"options": [
+				{
+					"id": "ps-100",
+					"label": {
+						"en-US": "Psalm 100 — Shout Joyfully to the Lord",
+						"pt-BR": "Salmo 100 — Aclamai o Senhor"
+					},
+					"sections": [
+						{
+							"type": "lectio",
+							"reference": "ps 100"
+						}
+					]
+				},
+				{
+					"id": "ps-136-1-9",
+					"label": {
+						"en-US": "Psalm 136:1-9 — His Mercy Endures Forever",
+						"pt-BR": "Salmo 136:1-9 — Sua Misericórdia é Eterna"
+					},
+					"sections": [
+						{
+							"type": "lectio",
+							"reference": "ps 136:1-9"
+						}
+					]
+				},
+				{
+					"id": "1-thess-5-16-18",
+					"label": {
+						"en-US": "1 Thessalonians 5:16-18 — Rejoice Always",
+						"pt-BR": "1 Tessalonicenses 5:16-18 — Alegrai-vos Sempre"
+					},
+					"sections": [
+						{
+							"type": "lectio",
+							"reference": "1-thessalonians 5:16-18"
+						}
+					]
+				},
+				{
+					"id": "col-3-15-17",
+					"label": {
+						"en-US": "Colossians 3:15-17 — Be Thankful",
+						"pt-BR": "Colossenses 3:15-17 — Sede Agradecidos"
+					},
+					"sections": [
+						{
+							"type": "lectio",
+							"reference": "colossians 3:15-17"
+						}
+					]
+				}
+			]
+		}
+	]
+}

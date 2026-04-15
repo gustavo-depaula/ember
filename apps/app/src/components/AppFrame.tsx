@@ -1,7 +1,9 @@
 import { Image } from 'expo-image'
-import { memo } from 'react'
+import { usePathname } from 'expo-router'
 import { Dimensions, StyleSheet } from 'react-native'
 import { useThemeName, View } from 'tamagui'
+
+const hiddenRoutes = ['/bible/reader', '/pray/']
 
 const flourishLight = require('../../assets/textures/notch_flourish.png')
 const flourishDark = require('../../assets/textures/notch_flourish_dark.png')
@@ -13,11 +15,14 @@ const imageHeight = imageWidth / aspectRatio
 
 const darkOffset = -imageWidth * 0.05
 
-export const AppFrame = memo(function AppFrame() {
+export function AppFrame() {
+  const pathname = usePathname()
   const themeName = useThemeName()
   const isDark = themeName.startsWith('dark')
   const source = isDark ? flourishDark : flourishLight
   const offset = isDark ? darkOffset : 0
+
+  if (hiddenRoutes.some((r) => pathname.startsWith(r))) return null
 
   return (
     <View
@@ -44,7 +49,7 @@ export const AppFrame = memo(function AppFrame() {
       />
     </View>
   )
-})
+}
 
 const styles = StyleSheet.create({
   left: {

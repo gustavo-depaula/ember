@@ -1,0 +1,37 @@
+{
+	"id": "scripture-courage",
+	"icon": "book",
+	"name": {
+		"en-US": "Courage",
+		"pt-BR": "Coragem"
+	},
+	"categories": [
+		"scripture"
+	],
+	"estimatedMinutes": 10,
+	"description": {
+		"en-US": "Be strong and courageous. The Lord your God is with you wherever you go. These passages strengthen the heart when fear threatens to hold you back.",
+		"pt-BR": "Sê forte e corajoso. O Senhor teu Deus está contigo por onde quer que fores. Estas passagens fortalecem o coração quando o medo ameaça te impedir."
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flow": "flow.json",
+	"tags": [
+		"courage",
+		"strength",
+		"faith",
+		"scripture"
+	],
+	"defaults": {
+		"sortOrder": 51,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
+}
