@@ -82,7 +82,7 @@ Broad spectrum — from curious seekers to devout daily communicants. The app me
 ### Wisdom (Content & Tradition)
 
 - **Formation guides** — how to pray the Rosary, mental prayer, examination of conscience, lectio divina
-- **More spiritual classics** — expanding the library beyond Montfort and Liguori (see [prayer-books-roadmap.md](content/prayer-books-roadmap.md))
+- **More spiritual classics** — expanding the library beyond Montfort and Liguori (see [PIPELINE.md](content/PIPELINE.md))
 - **Prayer history** — origin and tradition of each prayer and devotion
 - **Study Bible features** — commentary, cross-references, context
 - **OF Mass readings (EN)** — English collects/antiphons blocked by ICEL copyright (see [content-sources.md](content/content-sources.md#daily-mass-readings--propers))
@@ -109,5 +109,5 @@ Broad spectrum — from curious seekers to devout daily communicants. The app me
 - [Salty Book Format](content/salty-book-format.md) — book manifest, chapter format, ID conventions
 - [Design System](design/design-system.md) — colors, typography, illuminated manuscript aesthetic
 - [Content Sources](content/content-sources.md) — Bible, CCC, hymns, daily readings — APIs, licensing, bundling
-- [Library Roadmap](content/prayer-books-roadmap.md) — planned content libraries
+- [Content Pipeline](content/PIPELINE.md) — what's published, in progress, and planned
 - [Dev Journal](journal.md) — accumulated learnings (APIs, licensing, technical)

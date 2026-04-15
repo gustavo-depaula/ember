@@ -2,6 +2,8 @@
 
 > A beautiful companion for the Catholic life of prayer — helping souls grow in holiness, one day at a time.
 
+> **We need your help!** We're preserving and translating the Catholic literary tradition — spiritual classics, Church Fathers, liturgical texts — and making it all free and open. You can help by [sponsoring the project](https://github.com/sponsors/gustavo-depaula), contributing translations, or even running our AI-assisted pipeline with your own tokens. See the [content pipeline](docs/content/PIPELINE.md) for what's published, what's in progress, and how to get involved.
+
 <!-- TODO: Add hero screenshot or GIF here -->
 <!-- ![Ember screenshot](docs/assets/hero.png) -->
 

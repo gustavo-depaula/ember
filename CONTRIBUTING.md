@@ -44,6 +44,7 @@ To understand the content model:
 - [Library system & .pray format](docs/features/prayer-books.md)
 - [Salty book format](docs/content/salty-book-format.md)
 - [Content sources & licensing](docs/content/content-sources.md)
+- [Content pipeline](docs/content/PIPELINE.md) — see what's published, in progress, and where help is needed
 
 Content lives in `content/libraries/`. Each library has its own directory with a `library.json` manifest.
 
