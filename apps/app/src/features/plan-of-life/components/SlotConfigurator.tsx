@@ -16,7 +16,8 @@ import { Text, useTheme, XStack, YStack } from 'tamagui'
 import { AnimatedPressable } from '@/components'
 import { calmSpring } from '@/config/animation'
 import { tierConfig } from '@/config/constants'
-import type { Tier, UserPracticeSlot } from '@/db/schema'
+import type { SlotState } from '@/db/events'
+import type { Tier } from '@/db/schema'
 import { lightTap, mediumTap } from '@/lib/haptics'
 import { enrichSlot } from '../getPracticeName'
 import { parseSchedule } from '../schedule'
@@ -186,7 +187,7 @@ function SlotRow({
   onUpdate,
   onDelete,
 }: {
-  slot: UserPracticeSlot
+  slot: SlotState
   expanded: boolean
   onToggleExpand: () => void
   onUpdate: (data: Record<string, unknown>) => void
@@ -341,7 +342,7 @@ export function SlotConfigurator({
   onAddSlot,
   onDeleteSlot,
 }: {
-  slots: UserPracticeSlot[]
+  slots: SlotState[]
   onUpdateSlot: (slotId: string, data: Record<string, unknown>) => void
   onAddSlot: () => void
   onDeleteSlot: (slotId: string) => void
@@ -366,7 +367,7 @@ export function SlotConfigurator({
           expanded={expandedIndex === i}
           onToggleExpand={() => setExpandedIndex(expandedIndex === i ? undefined : i)}
           onUpdate={(data) => onUpdateSlot(slot.id, data)}
-          onDelete={slot.slot_id !== 'default' ? () => onDeleteSlot(slot.id) : undefined}
+          onDelete={slots.length > 1 ? () => onDeleteSlot(slot.id) : undefined}
         />
       ))}
 

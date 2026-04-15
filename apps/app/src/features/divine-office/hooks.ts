@@ -1,6 +1,9 @@
-import { useMutation, useQueries, useQuery, useQueryClient } from '@tanstack/react-query'
+import { useMutation, useQueries, useQuery } from '@tanstack/react-query'
+import { useShallow } from 'zustand/react/shallow'
 
-import { advanceIndex, ensureCursor, getCursorsWithPrefix, setIndex } from '@/db/repositories'
+import { useEventStore } from '@/db/events'
+import { advanceIndex, ensureCursor, setIndex } from '@/db/repositories'
+import type { Cursor } from '@/db/schema'
 import { getCccParagraphs } from '@/lib/catechism'
 import { getChapter } from '@/lib/content'
 
@@ -8,39 +11,31 @@ import type { PsalmRef } from './psalter'
 
 // --- Cursor hooks (replaces practice reading tracks) ---
 
-export function useCursorsForPractice(practiceId: string | undefined) {
-  return useQuery({
-    queryKey: ['cursors', practiceId],
-    queryFn: () => getCursorsWithPrefix(`${practiceId}/`),
-    enabled: !!practiceId,
-  })
+export function useCursorsForPractice(practiceId: string | undefined): Cursor[] {
+  return useEventStore(
+    useShallow((s) => {
+      if (!practiceId) return []
+      const prefix = `${practiceId}/`
+      const result: Cursor[] = []
+      for (const [id, cursor] of s.cursors) {
+        if (id.startsWith(prefix)) result.push(cursor)
+      }
+      return result
+    }),
+  )
 }
 
 export function useAdvanceCursor() {
-  const queryClient = useQueryClient()
-
   return useMutation({
-    mutationFn: async ({ cursorId, entryCount }: { cursorId: string; entryCount: number }) => {
-      await advanceIndex(cursorId, entryCount)
-    },
-    onSuccess: (_data, { cursorId }) => {
-      const prefix = cursorId.split('/').slice(0, -1).join('/')
-      queryClient.invalidateQueries({ queryKey: ['cursors', prefix] })
-    },
+    mutationFn: ({ cursorId, entryCount }: { cursorId: string; entryCount: number }) =>
+      advanceIndex(cursorId, entryCount),
   })
 }
 
 export function useSetCursorIndex() {
-  const queryClient = useQueryClient()
-
   return useMutation({
-    mutationFn: async ({ cursorId, index }: { cursorId: string; index: number }) => {
-      await setIndex(cursorId, index)
-    },
-    onSuccess: (_data, { cursorId }) => {
-      const prefix = cursorId.split('/').slice(0, -1).join('/')
-      queryClient.invalidateQueries({ queryKey: ['cursors', prefix] })
-    },
+    mutationFn: ({ cursorId, index }: { cursorId: string; index: number }) =>
+      setIndex(cursorId, index),
   })
 }
 

@@ -42,7 +42,7 @@ export default function ProgramDetailScreen() {
   const theme = useTheme()
 
   const manifest = manifestId ? getManifest(manifestId) : undefined
-  const { data: progress } = useProgramProgress(manifest?.id ?? '', manifest?.program)
+  const progress = useProgramProgress(manifest?.id ?? '', manifest?.program)
   const restartProgramMutation = useRestartProgram()
   const backfillMutation = useBackfillMissedDays()
 

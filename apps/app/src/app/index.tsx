@@ -74,7 +74,7 @@ export default function HomeScreen() {
   const anchorDate = persistedTimeTravelDate ?? realToday
   const setTimeTravelEphemeral = usePreferencesStore((s) => s.setTimeTravelDateEphemeral)
   const router = useRouter()
-  const { data: slots = [] } = useSlots()
+  const slots = useSlots()
 
   const { season, themeName } = useMemo(() => {
     const s = getLiturgicalSeason(now, liturgicalCalendar)
@@ -88,12 +88,12 @@ export default function HomeScreen() {
     return { season: s, themeName: isRose ? ('rose' as const) : s }
   }, [now, liturgicalCalendar])
 
-  const { data: todayCompletions = [] } = useCompletionsForDate(selectedDate)
+  const todayCompletions = useCompletionsForDate(selectedDate)
   const toggle = useToggleSlot()
-  const { data: restartNeededIds = new Set<string>() } = useRestartNeededPractices()
+  const restartNeededIds = useRestartNeededPractices()
 
   const handlePressItem = useCallback(
-    (practiceId: string, slotId: string) => {
+    (practiceId: string) => {
       const manifest = getManifest(practiceId)
       if (!manifest) {
         router.push({ pathname: '/plan/[practiceId]', params: { practiceId } })
@@ -104,7 +104,7 @@ export default function HomeScreen() {
     [router],
   )
   const wallStart = format(subWeeks(now, 9), 'yyyy-MM-dd')
-  const { data: wallLogs = [] } = useCompletionRange(wallStart, selectedDate)
+  const wallLogs = useCompletionRange(wallStart, selectedDate)
   const { data: yearCalendar } = useYearCalendar(now.getFullYear())
   const obligations = useObligations(now)
 

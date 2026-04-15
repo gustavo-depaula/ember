@@ -1,0 +1,76 @@
+import { enableMapSet } from 'immer'
+import { create } from 'zustand'
+import { immer } from 'zustand/middleware/immer'
+
+enableMapSet()
+
+import type { Completion, Cursor, Tier, TimeBlock, UserPractice } from '../schema'
+import { applyEvent } from './projections'
+import type { AppEvent } from './types'
+
+export type SlotState = {
+  id: string
+  practice_id: string
+  enabled: number
+  sort_order: number
+  tier: Tier
+  time: string | null
+  time_block: TimeBlock
+  notify: string | null
+  schedule: string
+  variant: string | null
+}
+
+export type EventStoreState = {
+  // Practices
+  practices: Map<string, UserPractice>
+  slots: Map<string, SlotState>
+
+  // Completions
+  completions: Map<number, Completion>
+  completionsByDate: Map<string, Set<number>>
+  completionsByPractice: Map<string, Set<number>>
+
+  // Cursors
+  cursors: Map<string, Cursor>
+
+  // Completion ID counter (for generating IDs during replay/emit)
+  nextCompletionId: number
+
+  // Actions
+  apply: (event: AppEvent) => void
+  applyBatch: (events: AppEvent[]) => void
+  reset: () => void
+}
+
+function emptyState() {
+  return {
+    practices: new Map<string, UserPractice>(),
+    slots: new Map<string, SlotState>(),
+    completions: new Map<number, Completion>(),
+    completionsByDate: new Map<string, Set<number>>(),
+    completionsByPractice: new Map<string, Set<number>>(),
+    cursors: new Map<string, Cursor>(),
+    nextCompletionId: 1,
+  }
+}
+
+export const useEventStore = create<EventStoreState>()(
+  immer((set) => ({
+    ...emptyState(),
+
+    apply: (event: AppEvent) =>
+      set((draft) => {
+        applyEvent(draft, event)
+      }),
+
+    applyBatch: (events: AppEvent[]) =>
+      set((draft) => {
+        for (const event of events) {
+          applyEvent(draft, event)
+        }
+      }),
+
+    reset: () => set(() => emptyState()),
+  })),
+)

@@ -1,10 +1,9 @@
-import { format } from 'date-fns'
-import type { SQLiteDatabase } from 'expo-sqlite'
-
 import { getAllManifests } from '@/content/registry'
 import { deriveTimeBlock } from '@/features/plan-of-life/timeBlocks'
 import { composeSlotKey } from '@/lib/slotKey'
-import { getDb } from './client'
+
+import { emitBatch, useEventStore } from './events'
+import type { AppEvent } from './events/types'
 import type { Tier } from './schema'
 
 // --- Simple practices (no manifest) ---
@@ -15,7 +14,6 @@ type SimplePracticeSeed = {
   customIcon: string
   customDesc: string
   slots: {
-    slotId: string
     sortOrder: number
     tier: Tier
     time?: string
@@ -32,7 +30,6 @@ const simplePractices: SimplePracticeSeed[] = [
     customDesc: "Brief review of the day's actions and failings",
     slots: [
       {
-        slotId: 'default',
         sortOrder: 5,
         tier: 'essential',
         time: '21:00',
@@ -48,7 +45,6 @@ const simplePractices: SimplePracticeSeed[] = [
     customDesc: 'Time spent before the Blessed Sacrament',
     slots: [
       {
-        slotId: 'default',
         sortOrder: 10,
         tier: 'ideal',
         schedule: '{"type":"daily"}',
@@ -63,7 +59,6 @@ const simplePractices: SimplePracticeSeed[] = [
     customDesc: 'Brief prayer at the Hour of Mercy',
     slots: [
       {
-        slotId: 'default',
         sortOrder: 16,
         tier: 'extra',
         time: '15:00',
@@ -72,7 +67,6 @@ const simplePractices: SimplePracticeSeed[] = [
       },
     ],
   },
-  // Eastern Catholic practices
   {
     id: 'jesus-prayer',
     customName: 'Jesus Prayer',
@@ -80,7 +74,6 @@ const simplePractices: SimplePracticeSeed[] = [
     customDesc: 'Lord Jesus Christ, Son of God, have mercy on me, a sinner',
     slots: [
       {
-        slotId: 'default',
         sortOrder: 19,
         tier: 'essential',
         schedule: '{"type":"daily"}',
@@ -95,7 +88,6 @@ const simplePractices: SimplePracticeSeed[] = [
     customDesc: 'Standing hymn of praise to Christ or the Theotokos',
     slots: [
       {
-        slotId: 'default',
         sortOrder: 20,
         tier: 'ideal',
         schedule: '{"type":"days-of-week","days":[6]}',
@@ -110,7 +102,6 @@ const simplePractices: SimplePracticeSeed[] = [
     customDesc: 'Holy God, Holy Mighty, Holy Immortal, have mercy on us',
     slots: [
       {
-        slotId: 'default',
         sortOrder: 21,
         tier: 'ideal',
         time: '07:00',
@@ -126,7 +117,6 @@ const simplePractices: SimplePracticeSeed[] = [
     customDesc: 'Supplicatory canon to the Theotokos',
     slots: [
       {
-        slotId: 'default',
         sortOrder: 22,
         tier: 'extra',
         schedule: '{"type":"daily"}',
@@ -141,7 +131,6 @@ const simplePractices: SimplePracticeSeed[] = [
     customDesc: 'Prayer with metanias (bows)',
     slots: [
       {
-        slotId: 'default',
         sortOrder: 23,
         tier: 'extra',
         time: '07:00',
@@ -152,109 +141,100 @@ const simplePractices: SimplePracticeSeed[] = [
   },
 ]
 
-// --- Shared seed helpers ---
+// --- Seed logic ---
 
-function insertSlot(
-  db: SQLiteDatabase,
-  verb: 'INSERT' | 'INSERT OR IGNORE',
+function seedSlots(
   practiceId: string,
-  slotId: string,
-  fields: {
-    enabled: number
-    sortOrder: number
-    tier: string
-    time: string | null
-    schedule: string
-  },
+  slots: { tier?: string; time?: string; schedule: string; sortOrder: number }[],
+  store: ReturnType<typeof useEventStore.getState>,
+  events: AppEvent[],
 ) {
-  const timeBlock = deriveTimeBlock(fields.time)
-  return db.runAsync(
-    `${verb} INTO user_practice_slots (id, practice_id, slot_id, enabled, sort_order, tier, time, time_block, schedule)
-     VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)`,
-    [
-      composeSlotKey(practiceId, slotId),
+  for (let i = 0; i < slots.length; i++) {
+    const def = slots[i]
+    const slotKey = composeSlotKey(practiceId, String(i + 1))
+    if (store.slots.has(slotKey)) continue
+    const time = def.time ?? null
+    events.push({
+      type: 'SlotAdded',
       practiceId,
-      slotId,
-      fields.enabled,
-      fields.sortOrder,
-      fields.tier,
-      fields.time,
-      timeBlock,
-      fields.schedule,
-    ],
-  )
+      slotKey,
+      tier: (def.tier ?? 'essential') as Tier,
+      time,
+      timeBlock: deriveTimeBlock(time),
+      schedule: def.schedule,
+      sortOrder: def.sortOrder,
+      enabled: 0,
+    })
+  }
 }
 
-async function seedAllPractices(db: SQLiteDatabase, verb: 'INSERT' | 'INSERT OR IGNORE') {
+function collectSeedEvents(): AppEvent[] {
+  const store = useEventStore.getState()
+  const events: AppEvent[] = []
+
   for (const manifest of getAllManifests()) {
     if (!manifest.defaults) continue
     const d = manifest.defaults
 
-    await db.runAsync(`${verb} INTO user_practices (practice_id) VALUES (?)`, [manifest.id])
-
-    for (const slotDef of d.slots) {
-      const slotId = slotDef.slotId ?? 'default'
-      const time = slotDef.time ?? null
-      await insertSlot(db, verb, manifest.id, slotId, {
-        enabled: 0,
-        sortOrder: d.sortOrder,
-        tier: slotDef.tier ?? 'essential',
-        time,
-        schedule: JSON.stringify(slotDef.schedule),
-      })
+    if (!store.practices.has(manifest.id)) {
+      events.push({ type: 'PracticeCreated', practiceId: manifest.id })
     }
+
+    seedSlots(
+      manifest.id,
+      d.slots.map((s) => ({ ...s, schedule: JSON.stringify(s.schedule), sortOrder: d.sortOrder })),
+      store,
+      events,
+    )
   }
 
   for (const p of simplePractices) {
-    await db.runAsync(
-      `${verb} INTO user_practices (practice_id, custom_name, custom_icon, custom_desc) VALUES (?, ?, ?, ?)`,
-      [p.id, p.customName, p.customIcon, p.customDesc],
-    )
-
-    for (const s of p.slots) {
-      await insertSlot(db, verb, p.id, s.slotId, {
-        enabled: 0,
-        sortOrder: s.sortOrder,
-        tier: s.tier,
-        time: s.time ?? null,
-        schedule: s.schedule,
+    if (!store.practices.has(p.id)) {
+      events.push({
+        type: 'PracticeCreated',
+        practiceId: p.id,
+        customName: p.customName,
+        customIcon: p.customIcon,
+        customDesc: p.customDesc,
       })
     }
+
+    seedSlots(p.id, p.slots, store, events)
   }
+
+  return events
 }
 
-// --- Seeding ---
-
-export async function seedPractices() {
-  const db = getDb()
-  const result = await db.getFirstAsync<{ total: number }>(
-    'SELECT count(*) as total FROM user_practices',
-  )
-  if (result && result.total > 0) {
-    await seedAllPractices(db, 'INSERT OR IGNORE')
-    return
-  }
-
-  await db.withTransactionAsync(() => seedAllPractices(db, 'INSERT'))
+export async function seedPractices(): Promise<void> {
+  const events = collectSeedEvents()
+  if (events.length > 0) await emitBatch(events)
 }
 
 // --- Reading cursors ---
 
-const defaultCursors = [
-  { id: 'divine-office/ot-readings', position: '{"index":0}' },
-  { id: 'divine-office/nt-readings', position: '{"index":0}' },
-  { id: 'divine-office/ccc-readings', position: '{"index":0}' },
-] as const
+export async function seedCursors(): Promise<void> {
+  const store = useEventStore.getState()
+  const { format } = await import('date-fns')
+  const { getToday } = await import('@/hooks/useToday')
+  const today = format(getToday(), 'yyyy-MM-dd')
 
-export async function seedCursors() {
-  const db = getDb()
-  const today = format(new Date(), 'yyyy-MM-dd')
+  const defaultCursors = [
+    { id: 'divine-office/ot-readings', position: '{"index":0}' },
+    { id: 'divine-office/nt-readings', position: '{"index":0}' },
+    { id: 'divine-office/ccc-readings', position: '{"index":0}' },
+  ] as const
 
+  const events: AppEvent[] = []
   for (const cursor of defaultCursors) {
-    await db.runAsync('INSERT OR IGNORE INTO cursors (id, position, started_at) VALUES (?, ?, ?)', [
-      cursor.id,
-      cursor.position,
-      today,
-    ])
+    if (!store.cursors.has(cursor.id)) {
+      events.push({
+        type: 'CursorSet',
+        cursorId: cursor.id,
+        position: cursor.position,
+        startedAt: today,
+      })
+    }
   }
+
+  if (events.length > 0) await emitBatch(events)
 }

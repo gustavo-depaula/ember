@@ -40,7 +40,7 @@ export default function LibraryDetailScreen() {
   const downloadBook = useDownloadBook()
   const { data: installed = [] } = useInstalledBooks()
   const { data: available = [] } = useAvailableBooks()
-  const { data: allSlots = [] } = useAllSlots()
+  const allSlots = useAllSlots()
 
   const installedRow = installed.find((b) => b.book_id === libraryId)
   const registryEntry = available.find((b) => b.id === libraryId)

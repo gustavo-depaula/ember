@@ -1,48 +1,47 @@
 import { format } from 'date-fns'
 
-import { getDb } from '../client'
+import { getToday } from '@/hooks/useToday'
+import { emit, useEventStore } from '../events'
 import type { Cursor } from '../schema'
 
-export function getCursor(id: string): Promise<Cursor | null> {
-  return getDb().getFirstAsync<Cursor>('SELECT * FROM cursors WHERE id = ?', [id])
+// --- Reads (from in-memory state) ---
+
+export function getCursor(id: string): Cursor | undefined {
+  return useEventStore.getState().cursors.get(id)
 }
 
-export function getCursorsWithPrefix(prefix: string): Promise<Cursor[]> {
-  return getDb().getAllAsync<Cursor>("SELECT * FROM cursors WHERE id LIKE ? || '%'", [prefix])
+export function getCursorsWithPrefix(prefix: string): Cursor[] {
+  const result: Cursor[] = []
+  for (const [id, cursor] of useEventStore.getState().cursors) {
+    if (id.startsWith(prefix)) result.push(cursor)
+  }
+  return result
 }
+
+// --- Mutations (emit events) ---
 
 export async function setCursor(id: string, position: string): Promise<void> {
-  const today = format(new Date(), 'yyyy-MM-dd')
-  await getDb().runAsync(
-    `INSERT INTO cursors (id, position, started_at) VALUES (?, ?, ?)
-     ON CONFLICT (id) DO UPDATE SET position = excluded.position`,
-    [id, position, today],
-  )
+  const today = format(getToday(), 'yyyy-MM-dd')
+  await emit({ type: 'CursorSet', cursorId: id, position, startedAt: today })
 }
 
 export async function ensureCursor(id: string, defaultPosition: string): Promise<void> {
-  const today = format(new Date(), 'yyyy-MM-dd')
-  await getDb().runAsync(
-    'INSERT OR IGNORE INTO cursors (id, position, started_at) VALUES (?, ?, ?)',
-    [id, defaultPosition, today],
-  )
+  if (useEventStore.getState().cursors.has(id)) return
+  const today = format(getToday(), 'yyyy-MM-dd')
+  await emit({ type: 'CursorSet', cursorId: id, position: defaultPosition, startedAt: today })
 }
 
 export async function advanceIndex(id: string, entryCount: number): Promise<void> {
   if (entryCount <= 0) return
-  await getDb().runAsync(
-    `UPDATE cursors SET position = json_set(position, '$.index',
-       (json_extract(position, '$.index') + 1) % ?)
-     WHERE id = ?`,
-    [entryCount, id],
-  )
+  const cursor = useEventStore.getState().cursors.get(id)
+  if (!cursor) return
+  const pos = JSON.parse(cursor.position)
+  const newIndex = ((pos.index ?? 0) + 1) % entryCount
+  await emit({ type: 'CursorAdvanced', cursorId: id, newIndex })
 }
 
 export async function setIndex(id: string, index: number): Promise<void> {
-  await getDb().runAsync(
-    "UPDATE cursors SET position = json_set(position, '$.index', ?) WHERE id = ?",
-    [index, id],
-  )
+  await emit({ type: 'CursorIndexSet', cursorId: id, index })
 }
 
 // --- Program cursors ---
@@ -56,7 +55,7 @@ function programCursorId(practiceId: string): string {
   return `program/${practiceId}`
 }
 
-export function getProgramCursor(practiceId: string): Promise<Cursor | null> {
+export function getProgramCursor(practiceId: string): Cursor | undefined {
   return getCursor(programCursorId(practiceId))
 }
 
@@ -69,10 +68,11 @@ export async function createProgramCursor(practiceId: string): Promise<void> {
 }
 
 export async function restartProgram(practiceId: string, today?: string): Promise<void> {
-  const id = programCursorId(practiceId)
-  const date = today ?? format(new Date(), 'yyyy-MM-dd')
-  await getDb().runAsync(
-    "UPDATE cursors SET position = json_set(json_set(position, '$.day', 0), '$.status', 'active'), started_at = ? WHERE id = ?",
-    [date, id],
-  )
+  const date = today ?? format(getToday(), 'yyyy-MM-dd')
+  await emit({
+    type: 'ProgramRestarted',
+    cursorId: programCursorId(practiceId),
+    practiceId,
+    startDate: date,
+  })
 }

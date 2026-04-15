@@ -29,7 +29,7 @@ export function TimeBlockSection({
   total: number
   onToggle: (item: ChecklistItem, completed: boolean) => void
   onToggleCollapse: () => void
-  onPressItem?: (practiceId: string, slotId: string) => void
+  onPressItem?: (practiceId: string) => void
 }) {
   const { t } = useTranslation()
   const theme = useTheme()
@@ -110,7 +110,7 @@ export function TimeBlockSection({
         return (
           <Pressable
             key={item.id}
-            onPress={() => onPressItem?.(item.practice_id, item.slot_id)}
+            onPress={() => onPressItem?.(item.practice_id)}
             accessibilityRole="button"
             accessibilityLabel={t('a11y.viewPractice', { name: item.name })}
           >

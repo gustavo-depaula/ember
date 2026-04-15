@@ -6,9 +6,8 @@ import { AnimatedCheckbox, PracticeIcon } from '@/components'
 import { lightTap } from '@/lib/haptics'
 
 export type ChecklistItem = {
-  id: string // slot composite ID: "rosary::default" or "divine-office::morning"
+  id: string // slot composite key: "rosary::1" or "divine-office::2"
   practice_id: string
-  slot_id: string
   name: string
   icon: string
   subtitle?: string

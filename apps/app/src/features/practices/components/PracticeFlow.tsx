@@ -1,7 +1,7 @@
 // biome-ignore-all lint/suspicious/noArrayIndexKey: static prayer sections never reorder
 
 import { type FlowContext, resolveFlowAsync } from '@ember/content-engine'
-import { useQueries, useQueryClient } from '@tanstack/react-query'
+import { useQueries } from '@tanstack/react-query'
 import { format } from 'date-fns'
 import { useRouter } from 'expo-router'
 import { ChevronLeft } from 'lucide-react-native'
@@ -110,7 +110,6 @@ export function PracticeFlow({
   const router = useRouter()
   const theme = useTheme()
   const readingMargin = useReadingMargin()
-  const queryClient = useQueryClient()
   const logCompletionMutation = useLogCompletion()
   const advanceCursor = useAdvanceCursor()
   const handleProgramCompletion = useHandleProgramCompletion()
@@ -121,10 +120,10 @@ export function PracticeFlow({
   const [isResolvingFlow, setIsResolvingFlow] = useState(false)
 
   const manifest = getManifest(practiceId)
-  const { data: programProgress } = useProgramProgress(practiceId, manifest?.program)
+  const programProgress = useProgramProgress(practiceId, manifest?.program)
   const programDay = programDayProp ?? programProgress?.programDay
 
-  const { data: slots = [] } = useSlots()
+  const slots = useSlots()
   const currentSlot = slots.find((s) => s.practice_id === practiceId)
 
   const flow = useMemo(() => {
@@ -155,15 +154,13 @@ export function PracticeFlow({
   const numbering = getPsalmNumbering(translation)
   const cycleData = useMemo(() => loadPracticeData(practiceId), [practiceId])
   const trackDefs = useMemo(() => loadPracticeTracks(practiceId), [practiceId])
-  const { data: cursorRows } = useCursorsForPractice(trackDefs ? practiceId : undefined)
+  const cursorRows = useCursorsForPractice(trackDefs ? practiceId : undefined)
 
   useEffect(() => {
     if (trackDefs) {
-      ensurePracticeCursors(practiceId, Object.keys(trackDefs)).then(() =>
-        queryClient.invalidateQueries({ queryKey: ['cursors', practiceId] }),
-      )
+      ensurePracticeCursors(practiceId, Object.keys(trackDefs))
     }
-  }, [practiceId, trackDefs, queryClient])
+  }, [practiceId, trackDefs])
 
   // Transform cursors to trackState format expected by engine
   const trackState = useMemo(() => {
@@ -353,7 +350,6 @@ export function PracticeFlow({
               setShowCompleteModal(true)
               return
             }
-            queryClient.invalidateQueries({ queryKey: ['programProgress', practiceId] })
           }
           router.back()
         },

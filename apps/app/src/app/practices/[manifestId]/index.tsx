@@ -8,13 +8,14 @@ import { Text, useTheme, XStack, YStack } from 'tamagui'
 import { AnimatedPressable, PrayButton, ScreenLayout, SectionDivider } from '@/components'
 import { PracticeIcon } from '@/components/PracticeIcon'
 import { getAllManifests, getManifest, getManifestIconKey } from '@/content/registry'
-import { createProgramCursor } from '@/db/repositories'
+import { createProgramCursor, getPractice } from '@/db/repositories'
 import {
   useCreatePractice,
   useEnableSlotsForPractice,
   useProgramProgress,
   useRestartProgram,
   useSlotsForPractice,
+  useUnarchivePractice,
   useUpdateSlot,
 } from '@/features/plan-of-life'
 import {
@@ -32,16 +33,17 @@ export default function CatalogDetailScreen() {
   const theme = useTheme()
 
   const manifest = manifestId ? getManifest(manifestId) : undefined
-  const { data: slotsForManifest = [] } = useSlotsForPractice(manifestId)
+  const slotsForManifest = useSlotsForPractice(manifestId)
   const firstSlot = slotsForManifest[0]
   const isInPlan = slotsForManifest.some((s) => s.enabled === 1)
 
   const createPractice = useCreatePractice()
   const updateSlot = useUpdateSlot()
   const enableSlots = useEnableSlotsForPractice()
+  const unarchivePractice = useUnarchivePractice()
   const restartProgramMutation = useRestartProgram()
   const [showEditor, setShowEditor] = useState(false)
-  const { data: programProgress } = useProgramProgress(manifest?.id ?? '', manifest?.program)
+  const programProgress = useProgramProgress(manifest?.id ?? '', manifest?.program)
   const alternatives = useMemo(() => {
     if (!manifest) return []
     const baseId = manifest.alternativeTo ?? manifest.id
@@ -72,7 +74,10 @@ export default function CatalogDetailScreen() {
   const isProgram = !!manifest.program
 
   function handleAddToPlan() {
-    if (firstSlot && !firstSlot.enabled) {
+    const practice = manifestId ? getPractice(manifestId) : undefined
+    if (practice?.archived) {
+      unarchivePractice.mutate(manifestId)
+    } else if (firstSlot && !firstSlot.enabled) {
       enableSlots.mutate(manifestId)
     } else {
       setShowEditor(true)

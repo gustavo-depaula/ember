@@ -15,6 +15,7 @@ import {
 } from '@/components'
 import { PracticeIcon } from '@/components/PracticeIcon'
 import { getManifest, loadPracticeTracks } from '@/content/registry'
+import { getPractice } from '@/db/repositories'
 import { useCursorsForPractice } from '@/features/divine-office'
 import {
   enrichSlot,
@@ -38,7 +39,7 @@ export default function PracticeDetailScreen() {
   const router = useRouter()
   const theme = useTheme()
 
-  const { data: slots = [] } = useSlotsForPractice(practiceId)
+  const slots = useSlotsForPractice(practiceId)
   const manifest = practiceId ? getManifest(practiceId) : undefined
   const isProgram = !!manifest?.program
   const hasFlow = !!manifest?.flow
@@ -46,18 +47,19 @@ export default function PracticeDetailScreen() {
   const addSlot = useAddSlot()
   const archivePractice = useArchivePractice()
   const unarchivePractice = useUnarchivePractice()
-  const { data: programProgress } = useProgramProgress(practiceId ?? '', manifest?.program)
+  const programProgress = useProgramProgress(practiceId ?? '', manifest?.program)
   const deleteSlot = useDeleteSlot()
 
   const firstSlot = slots[0]
-  const isArchived = firstSlot?.archived === 1
+  const practice = practiceId ? getPractice(practiceId) : undefined
+  const isArchived = practice?.archived === 1
 
-  const { data: practiceStats } = usePracticeCompletionStats(practiceId ?? '')
+  const practiceStats = usePracticeCompletionStats(practiceId ?? '')
   const trackDefs = useMemo(
     () => (practiceId ? loadPracticeTracks(practiceId) : undefined),
     [practiceId],
   )
-  const { data: cursorRows = [] } = useCursorsForPractice(trackDefs ? practiceId : undefined)
+  const cursorRows = useCursorsForPractice(trackDefs ? practiceId : undefined)
 
   const wallData = useMemo(() => {
     if (!practiceStats?.completedDates) return []
@@ -172,7 +174,7 @@ export default function PracticeDetailScreen() {
           onAddSlot={() =>
             addSlot.mutate({
               practiceId: practiceId,
-              data: { tier: firstSlot.tier, slotId: 'default' },
+              data: { tier: firstSlot.tier },
             })
           }
           onDeleteSlot={(slotId) => deleteSlot.mutate(slotId)}

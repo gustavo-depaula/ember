@@ -1,18 +1,19 @@
-import type { TimeBlock, UserPracticeSlot } from '@/db/schema'
+import type { SlotState } from '@/db/events'
+import type { TimeBlock } from '@/db/schema'
 
 export type { TimeBlock }
 export type BlockState = 'collapsed' | 'expanded' | 'preview'
 
 type BlockDefinition = {
   label: string
-  slots: UserPracticeSlot[]
+  slots: SlotState[]
 }
 
 export const blockOrder: TimeBlock[] = ['morning', 'daytime', 'evening', 'flexible']
 
-export function groupByTimeBlock(slots: UserPracticeSlot[]): Record<TimeBlock, BlockDefinition> {
+export function groupByTimeBlock(slots: SlotState[]): Record<TimeBlock, BlockDefinition> {
   const groups = Object.fromEntries(
-    blockOrder.map((block) => [block, { label: block, slots: [] as UserPracticeSlot[] }]),
+    blockOrder.map((block) => [block, { label: block, slots: [] as SlotState[] }]),
   ) as Record<TimeBlock, BlockDefinition>
 
   for (const s of slots) {
@@ -23,9 +24,7 @@ export function groupByTimeBlock(slots: UserPracticeSlot[]): Record<TimeBlock, B
   return groups
 }
 
-export function getActiveBlocks(
-  slots: UserPracticeSlot[],
-): { block: TimeBlock; def: BlockDefinition }[] {
+export function getActiveBlocks(slots: SlotState[]): { block: TimeBlock; def: BlockDefinition }[] {
   const groups = groupByTimeBlock(slots)
   return blockOrder
     .filter((block) => groups[block].slots.length > 0)
