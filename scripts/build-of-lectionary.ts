@@ -467,7 +467,7 @@ function generateOutput(
     const response = checkpoint.responses[dateStr]
     if (!response) continue
 
-    const date = new Date(dateStr)
+    const date = new Date(dateStr + 'T00:00:00')
     const pos = getOfLiturgicalPosition(date)
     const litYear = getLiturgicalYear(date)
     const isSunday = pos.dayOfWeek === 0
