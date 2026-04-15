@@ -13,6 +13,7 @@ export function applyEvent(draft: WritableDraft<EventStoreState>, event: AppEven
         custom_name: event.customName ?? null,
         custom_icon: event.customIcon ?? null,
         custom_desc: event.customDesc ?? null,
+        active_variant: event.activeVariant ?? null,
         archived: 0,
       })
       break
@@ -24,6 +25,7 @@ export function applyEvent(draft: WritableDraft<EventStoreState>, event: AppEven
       if (event.customName !== undefined) practice.custom_name = event.customName ?? null
       if (event.customIcon !== undefined) practice.custom_icon = event.customIcon ?? null
       if (event.customDesc !== undefined) practice.custom_desc = event.customDesc ?? null
+      if (event.activeVariant !== undefined) practice.active_variant = event.activeVariant ?? null
       break
     }
 

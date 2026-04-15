@@ -11,7 +11,6 @@
   },
   "languages": ["en-US", "pt-BR"],
   "tags": ["sacred-heart", "devotion", "first-friday", "reparation"],
-  "dependencies": ["ember-default"],
   "practices": ["first-friday-devotion", "holy-hour-sacred-heart", "act-of-reparation", "morning-offering-sacred-heart"],
   "prayers": ["act-of-reparation", "offering-to-sacred-heart", "prayer-of-st-margaret-mary"],
   "chapters": [

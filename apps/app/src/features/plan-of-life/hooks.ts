@@ -321,6 +321,7 @@ export function useCreatePractice() {
       customName?: string
       customIcon?: string
       customDesc?: string
+      activeVariant?: string
       slot?: Parameters<typeof addSlot>[1]
     }) => createPracticeWithSlot(data, data.slot ?? {}),
     onSuccess: () => rescheduleAllReminders().catch(console.warn),

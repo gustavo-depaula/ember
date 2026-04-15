@@ -1,6 +1,11 @@
 {
 	"id": "mental-prayer",
 	"icon": "prayer",
+	"alternativeTo": {
+		"id": "mental-prayer",
+		"label": { "en-US": "Ignatian Method", "pt-BR": "Método Inaciano" },
+		"description": { "en-US": "The structured Ignatian method of mental prayer" }
+	},
 	"name": {
 		"en-US": "Mental Prayer",
 		"pt-BR": "Oração Mental"

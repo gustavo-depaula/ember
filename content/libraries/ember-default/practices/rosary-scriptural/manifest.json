@@ -1,10 +1,14 @@
 {
 	"id": "rosary-scriptural",
-	"alternativeTo": "rosary",
 	"icon": "rosary",
+	"alternativeTo": {
+		"id": "rosary",
+		"label": { "en-US": "Scriptural Meditations", "pt-BR": "Meditações Bíblicas" },
+		"description": { "en-US": "Each mystery grounded in the words of the Evangelists" }
+	},
 	"name": {
-		"en-US": "Rosary — Scriptural Meditations",
-		"pt-BR": "Rosário — Meditações Bíblicas"
+		"en-US": "Holy Rosary",
+		"pt-BR": "Santo Rosário"
 	},
 	"categories": ["marian", "rosary"],
 	"estimatedMinutes": 20,

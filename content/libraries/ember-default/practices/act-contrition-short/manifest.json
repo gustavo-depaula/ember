@@ -1,10 +1,14 @@
 {
 	"id": "act-contrition-short",
-	"alternativeTo": "act-contrition",
 	"icon": "cross",
+	"alternativeTo": {
+		"id": "act-contrition",
+		"label": { "en-US": "Short Form", "pt-BR": "Forma Curta" },
+		"description": { "en-US": "A brief Act of Contrition for daily use" }
+	},
 	"name": {
-		"en-US": "Act of Contrition (Short Form)",
-		"pt-BR": "Ato de Contrição (Forma Curta)"
+		"en-US": "Act of Contrition",
+		"pt-BR": "Ato de Contrição"
 	},
 	"categories": [
 		"daily",

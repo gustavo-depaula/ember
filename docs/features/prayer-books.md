@@ -98,7 +98,6 @@ type Library = {
   icon?: string                 // Path to icon in assets/ (e.g. "assets/icon.png")
   image?: string                // Path to cover image in assets/ (e.g. "assets/cover.jpg")
   tags?: string[]               // Searchable tags (e.g. ["marian", "devotion"])
-  dependencies?: string[]       // Library IDs this library depends on (for prayer asset resolution)
   chapters?: string[]           // Ordered chapter IDs (matches directory names in chapters/)
   books?: string[]              // Ordered book IDs (matches directory names in books/)
   contents?: { type: 'chapter' | 'practice' | 'book'; id: string }[]  // Unified table of contents
@@ -195,13 +194,12 @@ The chapter reader resolves content through `resolveFlow()` with a simplified co
 
 ## Prayer Asset Resolution
 
-When the content engine encounters `{ "type": "prayer", "ref": "our-father" }`:
+Each `.pray` package is **self-contained**. Cross-library prayer refs use qualified IDs in source flow.json — e.g., `"ref": "ember-default:sign-of-cross"`. At build time, `scripts/vendor-prayers.py` resolves these: copies the prayer file into the package and strips the library prefix so the built package has bare refs.
 
-1. **Library-local** — current library's `prayers/`
-2. **Dependencies** — each dependency library's `prayers/`, in order
-3. **Global pool** — common prayers available to all libraries
+At runtime, when the content engine encounters `{ "type": "prayer", "ref": "our-father" }`:
 
-The global pool is itself a library (e.g. `common-prayers`) that all libraries implicitly depend on, containing universal Catholic prayers (Sign of the Cross, Our Father, Hail Mary, Glory Be, etc.).
+1. **Library-local** — current library's `prayers/` (includes vendored prayers)
+2. **Global pool** — fallback across all installed libraries
 
 ---
 
@@ -279,18 +277,7 @@ The registry aggregates all installed libraries into a unified view. `getAllMani
 
 ### EngineContext
 
-`createEngineContext()` accepts a `libraryId` for scoped prayer resolution:
-
-```typescript
-function createEngineContext(libraryId?: string): EngineContext {
-  const prayers = {
-    ...getGlobalPrayers(),
-    ...getDependencyPrayers(libraryId),
-    ...getLibraryPrayers(libraryId),
-  }
-  return { ...currentFields, prayers }
-}
-```
+`createEngineContext()` accepts a `libraryId` for scoped prayer resolution. Since packages are self-contained, library-local prayers include vendored ones. The global pool is a fallback across all installed libraries.
 
 ---
 

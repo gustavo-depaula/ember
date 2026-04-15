@@ -81,7 +81,6 @@ type Library = {
   chapters?: string[]               // Chapter IDs (match dirs in chapters/)
   books?: string[]                  // Book IDs (match dirs in books/)
   contents?: ContentEntry[]         // Unified display ordering (interleaves all types)
-  dependencies?: string[]           // Library IDs for prayer resolution chain
   defaults?: { autoSeed: boolean }  // If true, seed practices into plan on install
 }
 
@@ -143,9 +142,9 @@ Book chapters are raw `.md` or `.html` files in per-language directories. Markdo
 import { getManifest, loadFlowForSlot } from '@/content/registry'
 ```
 
-Prayer asset resolution follows a chain: **library-local** → **dependencies** → **global pool** (ember-default serves as the common prayer source).
+Each `.pray` package is self-contained. Cross-library prayer refs use qualified IDs (`libraryId:prayerId`) in source flow.json files — e.g., `"ref": "ember-default:sign-of-cross"`. At build time, `scripts/vendor-prayers.py` resolves these: copies the prayer into the package and strips the prefix. Runtime resolution is **library-local** → **global pool** (no dependency chain).
 
-`EngineContext` (`apps/app/src/content/engineContext.ts`) wires app dependencies (prayer loader, localizer, content source) into the content engine for flow resolution.
+`EngineContext` (`apps/app/src/content/engineContext.ts`) wires app services (prayer loader, localizer, content source) into the content engine for flow resolution.
 
 ### Content Distribution (Hearth)
 

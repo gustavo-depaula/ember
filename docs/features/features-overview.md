@@ -106,7 +106,7 @@ function resolveFlow(flow: FlowDefinition, context: FlowContext, ec: EngineConte
 
 Steps: walk sections → resolve refs from prayer assets → evaluate `select` branches → expand `repeat` with flow-local data → resolve dynamic sources (cycle, lectio, psalmody, proper) → flatten to `RenderedSection[]`.
 
-The engine is in `packages/content-engine/`. The app wires dependencies via `EngineContext` (`apps/app/src/content/engineContext.ts`).
+The engine is in `packages/content-engine/`. The app wires app services via `EngineContext` (`apps/app/src/content/engineContext.ts`). Each `.pray` package is self-contained — cross-library prayer refs are vendored at build time.
 
 ### Example: Rosary Flow
 

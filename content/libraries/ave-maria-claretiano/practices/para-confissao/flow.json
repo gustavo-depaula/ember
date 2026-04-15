@@ -1,146 +1,146 @@
 {
-	"sections": [
-		{
-			"type": "select",
-			"label": {
-				"pt-BR": "Rito"
-			},
-			"options": [
-				{
-					"id": "prepare",
-					"label": {
-						"pt-BR": "Preparação"
-					},
-					"sections": [
-						{
-							"type": "subheading",
-							"text": {
-								"pt-BR": "Oração preparatória"
-							}
-						},
-						{
-							"type": "prayer",
-							"inline": {
-								"pt-BR": "Deus de bondade, Pai de misericórdia, eis aqui aos vossos pés um pobre pecador que, humilhado e contrito, deseja fazer uma boa confissão para alcançar o perdão de seus grandes pecados. Tende compaixão de mim e concedei-me o auxílio de vossa graça, para que me lembre do número e da malícia dos meus pecados e sinceramente os confesse com verdadeira contrição e com o firme propósito de evitá-los e de resistir a tôdas as tentações.\nÓ Maria, refúgio e esperança dos pecadores, mostrai hoje que sois minha Mãe, sede minha salvação nesta hora bendita."
-							}
-						},
-						{
-							"type": "divider"
-						},
-						{
-							"type": "subheading",
-							"text": {
-								"pt-BR": "Exame de consciência"
-							}
-						},
-						{
-							"type": "rubric",
-							"text": {
-								"pt-BR": "Pecados mais comuns contra os mandamentos da lei de Deus:"
-							}
-						},
-						{
-							"type": "meditation",
-							"text": {
-								"pt-BR": "1.° mand.: Não rezar; rezar sem recolhimento, com distração voluntária; duvidar de alguma verdade revelada por Deus; ler, propagar livros, folhetos contrários à religião; dar ouvidos a conversas ímpias, à doutrina diabólica dos espíritas, à pregação herética dos protestantes, assistir às sessões dos espíritas ou ao culto dos hereges; abandonar a Igreja de Deus para tornar-se protestante, espírita ou incrédulo."
-							}
-						},
-						{
-							"type": "meditation",
-							"text": {
-								"pt-BR": "2.° mand.: Desrespeitar o nome de Deus; blasfemar, jurar sem necessidade, jurar falso; não cumprir promessas feitas a Deus."
-							}
-						},
-						{
-							"type": "meditation",
-							"text": {
-								"pt-BR": "3.° mand.: Deixar de assistir à missa nos domingos e dias santos sem grave motivo; portar-se mal na igreja; apresentar-se na igreja com decote contrário à modéstia cristã; trabalhar nos domingos e dias santos sem justo motivo."
-							}
-						},
-						{
-							"type": "meditation",
-							"text": {
-								"pt-BR": "4.° mand.: Desobedecer aos pais, aos superiores; responder-lhes mal; falar-lhes àsperamente; contrariá-los na doença, pobreza, velhice; envergonhar-se dêles."
-							}
-						},
-						{
-							"type": "meditation",
-							"text": {
-								"pt-BR": "5.° mand.: Odiar o próximo; rogar pragas, tirar vingança; perseguir, maltratar o próximo, principalmente crianças, pobres, órfãos, viúvas; escandalizar o próximo, induzindo-o ao pecado por palavras, promessas, mau exemplo, modas imodestas."
-							}
-						},
-						{
-							"type": "meditation",
-							"text": {
-								"pt-BR": "6.° e 9.° mand.: Consentir em meus pensamentos, maus desejos; ter olhares indiscretos e maliciosos; falar palavras indecentes; fazer alguma coisa indecente; ter intimidade com pessoas de costumes levianos; assistir a espetáculos ou cinemas, ler livros ou revistas imorais."
-							}
-						},
-						{
-							"type": "meditation",
-							"text": {
-								"pt-BR": "7.° e 10.° mand.: Roubar; achar, emprestar alguma coisa e não restituí-la ao dono; não pagar as dívidas; causar prejuízo injusto e não querer indenizar; ser jogador; ter desejo de roubar."
-							}
-						},
-						{
-							"type": "meditation",
-							"text": {
-								"pt-BR": "8.° mand.: Mentir, falar da vida alheia sem necessidade; levantar falso testemunho; fingir doença, piedade ou caridade para enganar o próximo; revelar segredos."
-							}
-						},
-						{
-							"type": "meditation",
-							"text": {
-								"pt-BR": "Contra os mandamentos da Igreja: Deixar passar mais de um ano sem se confessar; não comungar pelo tempo pascal; comer carne nos dias proibidos; não guardar jejum e abstinência nos dias prescritos."
-							}
-						},
-						{
-							"type": "meditation",
-							"text": {
-								"pt-BR": "Os pecados capitais: Orgulho, avareza, impureza, inveja, gula (comer demais, embriagar-se), ira (raiva, impaciência), preguiça (perder o tempo sem cumprir as obrigações do trabalho ou da religião)."
-							}
-						},
-						{
-							"type": "divider"
-						},
-						{
-							"type": "rubric",
-							"text": {
-								"pt-BR": "Tendo examinado a tua consciência, procura excitar em tua alma um grande arrependimento de tantos pecados cometidos. Considera quanto foste infeliz e ingrato, pecando contra Deus. Em seguida, reza o Ato de Contrição."
-							}
-						},
-						{
-							"type": "prayer",
-							"ref": "act-of-contrition"
-						}
-					]
-				},
-				{
-					"id": "thanksgiving",
-					"label": {
-						"pt-BR": "Ação de Graças"
-					},
-					"sections": [
-						{
-							"type": "subheading",
-							"text": {
-								"pt-BR": "Depois da Confissão"
-							}
-						},
-						{
-							"type": "prayer",
-							"inline": {
-								"pt-BR": "Ó! bondade infinita de meu Deus! Tive a felicidade de ouvir a palavra de Jesus: \"Filho, tem confiança, os teus pecados te são perdoados\". Eu vos agradeço, meu bom Jesus, Maria Santíssima, Anjos e Santos e tôdas as criaturas, bendizei ao Senhor, porque êle é bom e sua misericórdia permanece eternamente. Não permitais, meu amado Jesus, que eu vos seja ingrato. De novo detesto a minha ingratidão passada e vos prometo ainda uma vez não mais vos ofender, evitando de hoje em diante as más companhias e as ocasiões que possam levar-me a pecar.\nDoce Coração de Jesus, fazei que eu vos ame cada vez mais.\nDoce Coração de Maria, sede minha salvação. Amém."
-							}
-						},
-						{
-							"type": "rubric",
-							"text": {
-								"pt-BR": "Agora, agradece a Deus mais uma vez o benefício inestimável do perdão, promete-lhe seguir os bons conselhos dados por seu ministro e reza a penitência."
-							}
-						}
-					]
-				}
-			]
-		}
-	]
+  "sections": [
+    {
+      "type": "select",
+      "label": {
+        "pt-BR": "Rito"
+      },
+      "options": [
+        {
+          "id": "prepare",
+          "label": {
+            "pt-BR": "Preparação"
+          },
+          "sections": [
+            {
+              "type": "subheading",
+              "text": {
+                "pt-BR": "Oração preparatória"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "pt-BR": "Deus de bondade, Pai de misericórdia, eis aqui aos vossos pés um pobre pecador que, humilhado e contrito, deseja fazer uma boa confissão para alcançar o perdão de seus grandes pecados. Tende compaixão de mim e concedei-me o auxílio de vossa graça, para que me lembre do número e da malícia dos meus pecados e sinceramente os confesse com verdadeira contrição e com o firme propósito de evitá-los e de resistir a tôdas as tentações.\nÓ Maria, refúgio e esperança dos pecadores, mostrai hoje que sois minha Mãe, sede minha salvação nesta hora bendita."
+              }
+            },
+            {
+              "type": "divider"
+            },
+            {
+              "type": "subheading",
+              "text": {
+                "pt-BR": "Exame de consciência"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "pt-BR": "Pecados mais comuns contra os mandamentos da lei de Deus:"
+              }
+            },
+            {
+              "type": "meditation",
+              "text": {
+                "pt-BR": "1.° mand.: Não rezar; rezar sem recolhimento, com distração voluntária; duvidar de alguma verdade revelada por Deus; ler, propagar livros, folhetos contrários à religião; dar ouvidos a conversas ímpias, à doutrina diabólica dos espíritas, à pregação herética dos protestantes, assistir às sessões dos espíritas ou ao culto dos hereges; abandonar a Igreja de Deus para tornar-se protestante, espírita ou incrédulo."
+              }
+            },
+            {
+              "type": "meditation",
+              "text": {
+                "pt-BR": "2.° mand.: Desrespeitar o nome de Deus; blasfemar, jurar sem necessidade, jurar falso; não cumprir promessas feitas a Deus."
+              }
+            },
+            {
+              "type": "meditation",
+              "text": {
+                "pt-BR": "3.° mand.: Deixar de assistir à missa nos domingos e dias santos sem grave motivo; portar-se mal na igreja; apresentar-se na igreja com decote contrário à modéstia cristã; trabalhar nos domingos e dias santos sem justo motivo."
+              }
+            },
+            {
+              "type": "meditation",
+              "text": {
+                "pt-BR": "4.° mand.: Desobedecer aos pais, aos superiores; responder-lhes mal; falar-lhes àsperamente; contrariá-los na doença, pobreza, velhice; envergonhar-se dêles."
+              }
+            },
+            {
+              "type": "meditation",
+              "text": {
+                "pt-BR": "5.° mand.: Odiar o próximo; rogar pragas, tirar vingança; perseguir, maltratar o próximo, principalmente crianças, pobres, órfãos, viúvas; escandalizar o próximo, induzindo-o ao pecado por palavras, promessas, mau exemplo, modas imodestas."
+              }
+            },
+            {
+              "type": "meditation",
+              "text": {
+                "pt-BR": "6.° e 9.° mand.: Consentir em meus pensamentos, maus desejos; ter olhares indiscretos e maliciosos; falar palavras indecentes; fazer alguma coisa indecente; ter intimidade com pessoas de costumes levianos; assistir a espetáculos ou cinemas, ler livros ou revistas imorais."
+              }
+            },
+            {
+              "type": "meditation",
+              "text": {
+                "pt-BR": "7.° e 10.° mand.: Roubar; achar, emprestar alguma coisa e não restituí-la ao dono; não pagar as dívidas; causar prejuízo injusto e não querer indenizar; ser jogador; ter desejo de roubar."
+              }
+            },
+            {
+              "type": "meditation",
+              "text": {
+                "pt-BR": "8.° mand.: Mentir, falar da vida alheia sem necessidade; levantar falso testemunho; fingir doença, piedade ou caridade para enganar o próximo; revelar segredos."
+              }
+            },
+            {
+              "type": "meditation",
+              "text": {
+                "pt-BR": "Contra os mandamentos da Igreja: Deixar passar mais de um ano sem se confessar; não comungar pelo tempo pascal; comer carne nos dias proibidos; não guardar jejum e abstinência nos dias prescritos."
+              }
+            },
+            {
+              "type": "meditation",
+              "text": {
+                "pt-BR": "Os pecados capitais: Orgulho, avareza, impureza, inveja, gula (comer demais, embriagar-se), ira (raiva, impaciência), preguiça (perder o tempo sem cumprir as obrigações do trabalho ou da religião)."
+              }
+            },
+            {
+              "type": "divider"
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "pt-BR": "Tendo examinado a tua consciência, procura excitar em tua alma um grande arrependimento de tantos pecados cometidos. Considera quanto foste infeliz e ingrato, pecando contra Deus. Em seguida, reza o Ato de Contrição."
+              }
+            },
+            {
+              "type": "prayer",
+              "ref": "ember-default:act-of-contrition"
+            }
+          ]
+        },
+        {
+          "id": "thanksgiving",
+          "label": {
+            "pt-BR": "Ação de Graças"
+          },
+          "sections": [
+            {
+              "type": "subheading",
+              "text": {
+                "pt-BR": "Depois da Confissão"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "pt-BR": "Ó! bondade infinita de meu Deus! Tive a felicidade de ouvir a palavra de Jesus: \"Filho, tem confiança, os teus pecados te são perdoados\". Eu vos agradeço, meu bom Jesus, Maria Santíssima, Anjos e Santos e tôdas as criaturas, bendizei ao Senhor, porque êle é bom e sua misericórdia permanece eternamente. Não permitais, meu amado Jesus, que eu vos seja ingrato. De novo detesto a minha ingratidão passada e vos prometo ainda uma vez não mais vos ofender, evitando de hoje em diante as más companhias e as ocasiões que possam levar-me a pecar.\nDoce Coração de Jesus, fazei que eu vos ame cada vez mais.\nDoce Coração de Maria, sede minha salvação. Amém."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "pt-BR": "Agora, agradece a Deus mais uma vez o benefício inestimável do perdão, promete-lhe seguir os bons conselhos dados por seu ministro e reza a penitência."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

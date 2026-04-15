@@ -1,512 +1,512 @@
 {
-	"sections": [
-		{
-			"type": "prayer",
-			"ref": "sign-of-cross"
-		},
-		{
-			"type": "divider"
-		},
-		{
-			"type": "response",
-			"verses": [
-				{
-					"v": {
-						"en-US": "Lord, have mercy.",
-						"pt-BR": "Senhor, tende piedade."
-					},
-					"r": {
-						"en-US": "Lord, have mercy.",
-						"pt-BR": "Senhor, tende piedade."
-					}
-				},
-				{
-					"v": {
-						"en-US": "Christ, have mercy.",
-						"pt-BR": "Cristo, tende piedade."
-					},
-					"r": {
-						"en-US": "Christ, have mercy.",
-						"pt-BR": "Cristo, tende piedade."
-					}
-				},
-				{
-					"v": {
-						"en-US": "Lord, have mercy.",
-						"pt-BR": "Senhor, tende piedade."
-					},
-					"r": {
-						"en-US": "Lord, have mercy.",
-						"pt-BR": "Senhor, tende piedade."
-					}
-				},
-				{
-					"v": {
-						"en-US": "Christ, hear us.",
-						"pt-BR": "Cristo, ouvi-nos."
-					},
-					"r": {
-						"en-US": "Christ, graciously hear us.",
-						"pt-BR": "Cristo, atendei-nos."
-					}
-				}
-			]
-		},
-		{
-			"type": "divider"
-		},
-		{
-			"type": "response",
-			"verses": [
-				{
-					"v": {
-						"en-US": "God the Father of Heaven,",
-						"pt-BR": "Deus Pai do C\u00e9u,"
-					},
-					"r": {
-						"en-US": "Have mercy on us.",
-						"pt-BR": "Tende piedade de n\u00f3s."
-					}
-				},
-				{
-					"v": {
-						"en-US": "God the Son, Redeemer of the world,",
-						"pt-BR": "Deus Filho, Redentor do mundo,"
-					},
-					"r": {
-						"en-US": "Have mercy on us.",
-						"pt-BR": "Tende piedade de n\u00f3s."
-					}
-				},
-				{
-					"v": {
-						"en-US": "God the Holy Spirit,",
-						"pt-BR": "Deus Esp\u00edrito Santo,"
-					},
-					"r": {
-						"en-US": "Have mercy on us.",
-						"pt-BR": "Tende piedade de n\u00f3s."
-					}
-				},
-				{
-					"v": {
-						"en-US": "Holy Trinity, one God,",
-						"pt-BR": "Sant\u00edssima Trindade, um s\u00f3 Deus,"
-					},
-					"r": {
-						"en-US": "Have mercy on us.",
-						"pt-BR": "Tende piedade de n\u00f3s."
-					}
-				}
-			]
-		},
-		{
-			"type": "divider"
-		},
-		{
-			"type": "response",
-			"verses": [
-				{
-					"v": {
-						"en-US": "Holy Mary,",
-						"pt-BR": "Santa Maria,"
-					},
-					"r": {
-						"en-US": "Pray for us.",
-						"pt-BR": "Rogai por n\u00f3s."
-					}
-				},
-				{
-					"v": {
-						"en-US": "St. Joseph,",
-						"pt-BR": "S\u00e3o Jos\u00e9,"
-					},
-					"r": {
-						"en-US": "Pray for us.",
-						"pt-BR": "Rogai por n\u00f3s."
-					}
-				},
-				{
-					"v": {
-						"en-US": "St. Joseph, renowned offspring of David,",
-						"pt-BR": "S\u00e3o Jos\u00e9, ilustre descendente de David,"
-					},
-					"r": {
-						"en-US": "Pray for us.",
-						"pt-BR": "Rogai por n\u00f3s."
-					}
-				},
-				{
-					"v": {
-						"en-US": "St. Joseph, light of patriarchs,",
-						"pt-BR": "S\u00e3o Jos\u00e9, luz dos patriarcas,"
-					},
-					"r": {
-						"en-US": "Pray for us.",
-						"pt-BR": "Rogai por n\u00f3s."
-					}
-				},
-				{
-					"v": {
-						"en-US": "St. Joseph, spouse of the Mother of God,",
-						"pt-BR": "S\u00e3o Jos\u00e9, esposo da M\u00e3e de Deus,"
-					},
-					"r": {
-						"en-US": "Pray for us.",
-						"pt-BR": "Rogai por n\u00f3s."
-					}
-				},
-				{
-					"v": {
-						"en-US": "St. Joseph, chaste guardian of the Virgin,",
-						"pt-BR": "S\u00e3o Jos\u00e9, casto guardi\u00e3o da Virgem,"
-					},
-					"r": {
-						"en-US": "Pray for us.",
-						"pt-BR": "Rogai por n\u00f3s."
-					}
-				},
-				{
-					"v": {
-						"en-US": "St. Joseph, foster-father of the Son of God,",
-						"pt-BR": "S\u00e3o Jos\u00e9, pai adotivo do Filho de Deus,"
-					},
-					"r": {
-						"en-US": "Pray for us.",
-						"pt-BR": "Rogai por n\u00f3s."
-					}
-				},
-				{
-					"v": {
-						"en-US": "St. Joseph, diligent protector of Christ,",
-						"pt-BR": "S\u00e3o Jos\u00e9, zeloso defensor de Cristo,"
-					},
-					"r": {
-						"en-US": "Pray for us.",
-						"pt-BR": "Rogai por n\u00f3s."
-					}
-				},
-				{
-					"v": {
-						"en-US": "St. Joseph, Guardian of the Redeemer,",
-						"pt-BR": "S\u00e3o Jos\u00e9, Guardi\u00e3o do Redentor,"
-					},
-					"r": {
-						"en-US": "Pray for us.",
-						"pt-BR": "Rogai por n\u00f3s."
-					}
-				},
-				{
-					"v": {
-						"en-US": "St. Joseph, Servant of Christ,",
-						"pt-BR": "S\u00e3o Jos\u00e9, Servo de Cristo,"
-					},
-					"r": {
-						"en-US": "Pray for us.",
-						"pt-BR": "Rogai por n\u00f3s."
-					}
-				},
-				{
-					"v": {
-						"en-US": "St. Joseph, Minister of salvation,",
-						"pt-BR": "S\u00e3o Jos\u00e9, Ministro da salva\u00e7\u00e3o,"
-					},
-					"r": {
-						"en-US": "Pray for us.",
-						"pt-BR": "Rogai por n\u00f3s."
-					}
-				},
-				{
-					"v": {
-						"en-US": "St. Joseph, head of the Holy Family,",
-						"pt-BR": "S\u00e3o Jos\u00e9, chefe da Sagrada Fam\u00edlia,"
-					},
-					"r": {
-						"en-US": "Pray for us.",
-						"pt-BR": "Rogai por n\u00f3s."
-					}
-				},
-				{
-					"v": {
-						"en-US": "St. Joseph, most just,",
-						"pt-BR": "S\u00e3o Jos\u00e9, justíssimo,"
-					},
-					"r": {
-						"en-US": "Pray for us.",
-						"pt-BR": "Rogai por n\u00f3s."
-					}
-				},
-				{
-					"v": {
-						"en-US": "St. Joseph, most chaste,",
-						"pt-BR": "S\u00e3o Jos\u00e9, cast\u00edssimo,"
-					},
-					"r": {
-						"en-US": "Pray for us.",
-						"pt-BR": "Rogai por n\u00f3s."
-					}
-				},
-				{
-					"v": {
-						"en-US": "St. Joseph, most prudent,",
-						"pt-BR": "S\u00e3o Jos\u00e9, prudent\u00edssimo,"
-					},
-					"r": {
-						"en-US": "Pray for us.",
-						"pt-BR": "Rogai por n\u00f3s."
-					}
-				},
-				{
-					"v": {
-						"en-US": "St. Joseph, most courageous,",
-						"pt-BR": "S\u00e3o Jos\u00e9, fort\u00edssimo,"
-					},
-					"r": {
-						"en-US": "Pray for us.",
-						"pt-BR": "Rogai por n\u00f3s."
-					}
-				},
-				{
-					"v": {
-						"en-US": "St. Joseph, most obedient,",
-						"pt-BR": "S\u00e3o Jos\u00e9, obedient\u00edssimo,"
-					},
-					"r": {
-						"en-US": "Pray for us.",
-						"pt-BR": "Rogai por n\u00f3s."
-					}
-				},
-				{
-					"v": {
-						"en-US": "St. Joseph, most faithful,",
-						"pt-BR": "S\u00e3o Jos\u00e9, fidel\u00edssimo,"
-					},
-					"r": {
-						"en-US": "Pray for us.",
-						"pt-BR": "Rogai por n\u00f3s."
-					}
-				},
-				{
-					"v": {
-						"en-US": "St. Joseph, mirror of patience,",
-						"pt-BR": "S\u00e3o Jos\u00e9, espelho de paci\u00eancia,"
-					},
-					"r": {
-						"en-US": "Pray for us.",
-						"pt-BR": "Rogai por n\u00f3s."
-					}
-				},
-				{
-					"v": {
-						"en-US": "St. Joseph, lover of poverty,",
-						"pt-BR": "S\u00e3o Jos\u00e9, amante da pobreza,"
-					},
-					"r": {
-						"en-US": "Pray for us.",
-						"pt-BR": "Rogai por n\u00f3s."
-					}
-				},
-				{
-					"v": {
-						"en-US": "St. Joseph, model of artisans,",
-						"pt-BR": "S\u00e3o Jos\u00e9, modelo dos oper\u00e1rios,"
-					},
-					"r": {
-						"en-US": "Pray for us.",
-						"pt-BR": "Rogai por n\u00f3s."
-					}
-				},
-				{
-					"v": {
-						"en-US": "St. Joseph, glory of home life,",
-						"pt-BR": "S\u00e3o Jos\u00e9, gl\u00f3ria da vida dom\u00e9stica,"
-					},
-					"r": {
-						"en-US": "Pray for us.",
-						"pt-BR": "Rogai por n\u00f3s."
-					}
-				},
-				{
-					"v": {
-						"en-US": "St. Joseph, guardian of virgins,",
-						"pt-BR": "S\u00e3o Jos\u00e9, guardi\u00e3o das virgens,"
-					},
-					"r": {
-						"en-US": "Pray for us.",
-						"pt-BR": "Rogai por n\u00f3s."
-					}
-				},
-				{
-					"v": {
-						"en-US": "St. Joseph, pillar of families,",
-						"pt-BR": "S\u00e3o Jos\u00e9, sustent\u00e1culo das fam\u00edlias,"
-					},
-					"r": {
-						"en-US": "Pray for us.",
-						"pt-BR": "Rogai por n\u00f3s."
-					}
-				},
-				{
-					"v": {
-						"en-US": "St. Joseph, Support in difficulties,",
-						"pt-BR": "S\u00e3o Jos\u00e9, Amparo nas dificuldades,"
-					},
-					"r": {
-						"en-US": "Pray for us.",
-						"pt-BR": "Rogai por n\u00f3s."
-					}
-				},
-				{
-					"v": {
-						"en-US": "St. Joseph, solace of the wretched,",
-						"pt-BR": "S\u00e3o Jos\u00e9, cons\u00f3lo dos desgraçados,"
-					},
-					"r": {
-						"en-US": "Pray for us.",
-						"pt-BR": "Rogai por n\u00f3s."
-					}
-				},
-				{
-					"v": {
-						"en-US": "St. Joseph, hope of the sick,",
-						"pt-BR": "S\u00e3o Jos\u00e9, esperan\u00e7a dos enfermos,"
-					},
-					"r": {
-						"en-US": "Pray for us.",
-						"pt-BR": "Rogai por n\u00f3s."
-					}
-				},
-				{
-					"v": {
-						"en-US": "St. Joseph, patron of exiles,",
-						"pt-BR": "S\u00e3o Jos\u00e9, patrono dos exilados,"
-					},
-					"r": {
-						"en-US": "Pray for us.",
-						"pt-BR": "Rogai por n\u00f3s."
-					}
-				},
-				{
-					"v": {
-						"en-US": "St. Joseph, patron of the afflicted,",
-						"pt-BR": "S\u00e3o Jos\u00e9, patrono dos aflitos,"
-					},
-					"r": {
-						"en-US": "Pray for us.",
-						"pt-BR": "Rogai por n\u00f3s."
-					}
-				},
-				{
-					"v": {
-						"en-US": "St. Joseph, patron of the poor,",
-						"pt-BR": "S\u00e3o Jos\u00e9, patrono dos pobres,"
-					},
-					"r": {
-						"en-US": "Pray for us.",
-						"pt-BR": "Rogai por n\u00f3s."
-					}
-				},
-				{
-					"v": {
-						"en-US": "St. Joseph, patron of the dying,",
-						"pt-BR": "S\u00e3o Jos\u00e9, patrono dos moribundos,"
-					},
-					"r": {
-						"en-US": "Pray for us.",
-						"pt-BR": "Rogai por n\u00f3s."
-					}
-				},
-				{
-					"v": {
-						"en-US": "St. Joseph, terror of demons,",
-						"pt-BR": "S\u00e3o Jos\u00e9, terror dos dem\u00f4nios,"
-					},
-					"r": {
-						"en-US": "Pray for us.",
-						"pt-BR": "Rogai por n\u00f3s."
-					}
-				},
-				{
-					"v": {
-						"en-US": "St. Joseph, protector of Holy Church,",
-						"pt-BR": "S\u00e3o Jos\u00e9, protetor da Santa Igreja,"
-					},
-					"r": {
-						"en-US": "Pray for us.",
-						"pt-BR": "Rogai por n\u00f3s."
-					}
-				}
-			]
-		},
-		{
-			"type": "divider"
-		},
-		{
-			"type": "response",
-			"verses": [
-				{
-					"v": {
-						"en-US": "Lamb of God, who takest away the sins of the world,",
-						"pt-BR": "Cordeiro de Deus, que tirais os pecados do mundo,"
-					},
-					"r": {
-						"en-US": "Spare us, O Lord.",
-						"pt-BR": "Perdoai-nos, Senhor."
-					}
-				},
-				{
-					"v": {
-						"en-US": "Lamb of God, who takest away the sins of the world,",
-						"pt-BR": "Cordeiro de Deus, que tirais os pecados do mundo,"
-					},
-					"r": {
-						"en-US": "Graciously hear us, O Lord.",
-						"pt-BR": "Ouvi-nos, Senhor."
-					}
-				},
-				{
-					"v": {
-						"en-US": "Lamb of God, who takest away the sins of the world,",
-						"pt-BR": "Cordeiro de Deus, que tirais os pecados do mundo,"
-					},
-					"r": {
-						"en-US": "Have mercy on us.",
-						"pt-BR": "Tende piedade de n\u00f3s."
-					}
-				}
-			]
-		},
-		{
-			"type": "divider"
-		},
-		{
-			"type": "response",
-			"verses": [
-				{
-					"v": {
-						"en-US": "He made him the lord of his household.",
-						"pt-BR": "Ele o constituiu senhor de sua casa."
-					},
-					"r": {
-						"en-US": "And ruler of all his possessions.",
-						"pt-BR": "E pr\u00edncipe de todos os seus bens."
-					}
-				}
-			]
-		},
-		{
-			"type": "rubric",
-			"text": {
-				"en-US": "Let us pray.",
-				"pt-BR": "Oremos."
-			}
-		},
-		{
-			"type": "prayer",
-			"inline": {
-				"en-US": "O God, who in Thine ineffable providence didst choose Blessed Joseph to be the spouse of Thy most holy Mother, grant, we beseech Thee, that we may be worthy to receive him for our intercessor in heaven, whom on earth we venerate as our protector. Who livest and reignest world without end. Amen.",
-				"pt-BR": "Ó Deus, que na Vossa inefável providência Vos dignastes escolher o Bem-aventurado José para esposo de Vossa Santíssima Mãe, concedei-nos, Vos suplicamos, que mereçamos tê-lo por intercessor no céu, a quem na terra veneramos como protetor. Que viveis e reinais pelos séculos dos séculos. Amém."
-			}
-		}
-	]
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "ember-default:sign-of-cross"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "en-US": "Lord, have mercy.",
+            "pt-BR": "Senhor, tende piedade."
+          },
+          "r": {
+            "en-US": "Lord, have mercy.",
+            "pt-BR": "Senhor, tende piedade."
+          }
+        },
+        {
+          "v": {
+            "en-US": "Christ, have mercy.",
+            "pt-BR": "Cristo, tende piedade."
+          },
+          "r": {
+            "en-US": "Christ, have mercy.",
+            "pt-BR": "Cristo, tende piedade."
+          }
+        },
+        {
+          "v": {
+            "en-US": "Lord, have mercy.",
+            "pt-BR": "Senhor, tende piedade."
+          },
+          "r": {
+            "en-US": "Lord, have mercy.",
+            "pt-BR": "Senhor, tende piedade."
+          }
+        },
+        {
+          "v": {
+            "en-US": "Christ, hear us.",
+            "pt-BR": "Cristo, ouvi-nos."
+          },
+          "r": {
+            "en-US": "Christ, graciously hear us.",
+            "pt-BR": "Cristo, atendei-nos."
+          }
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "en-US": "God the Father of Heaven,",
+            "pt-BR": "Deus Pai do Céu,"
+          },
+          "r": {
+            "en-US": "Have mercy on us.",
+            "pt-BR": "Tende piedade de nós."
+          }
+        },
+        {
+          "v": {
+            "en-US": "God the Son, Redeemer of the world,",
+            "pt-BR": "Deus Filho, Redentor do mundo,"
+          },
+          "r": {
+            "en-US": "Have mercy on us.",
+            "pt-BR": "Tende piedade de nós."
+          }
+        },
+        {
+          "v": {
+            "en-US": "God the Holy Spirit,",
+            "pt-BR": "Deus Espírito Santo,"
+          },
+          "r": {
+            "en-US": "Have mercy on us.",
+            "pt-BR": "Tende piedade de nós."
+          }
+        },
+        {
+          "v": {
+            "en-US": "Holy Trinity, one God,",
+            "pt-BR": "Santíssima Trindade, um só Deus,"
+          },
+          "r": {
+            "en-US": "Have mercy on us.",
+            "pt-BR": "Tende piedade de nós."
+          }
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "en-US": "Holy Mary,",
+            "pt-BR": "Santa Maria,"
+          },
+          "r": {
+            "en-US": "Pray for us.",
+            "pt-BR": "Rogai por nós."
+          }
+        },
+        {
+          "v": {
+            "en-US": "St. Joseph,",
+            "pt-BR": "São José,"
+          },
+          "r": {
+            "en-US": "Pray for us.",
+            "pt-BR": "Rogai por nós."
+          }
+        },
+        {
+          "v": {
+            "en-US": "St. Joseph, renowned offspring of David,",
+            "pt-BR": "São José, ilustre descendente de David,"
+          },
+          "r": {
+            "en-US": "Pray for us.",
+            "pt-BR": "Rogai por nós."
+          }
+        },
+        {
+          "v": {
+            "en-US": "St. Joseph, light of patriarchs,",
+            "pt-BR": "São José, luz dos patriarcas,"
+          },
+          "r": {
+            "en-US": "Pray for us.",
+            "pt-BR": "Rogai por nós."
+          }
+        },
+        {
+          "v": {
+            "en-US": "St. Joseph, spouse of the Mother of God,",
+            "pt-BR": "São José, esposo da Mãe de Deus,"
+          },
+          "r": {
+            "en-US": "Pray for us.",
+            "pt-BR": "Rogai por nós."
+          }
+        },
+        {
+          "v": {
+            "en-US": "St. Joseph, chaste guardian of the Virgin,",
+            "pt-BR": "São José, casto guardião da Virgem,"
+          },
+          "r": {
+            "en-US": "Pray for us.",
+            "pt-BR": "Rogai por nós."
+          }
+        },
+        {
+          "v": {
+            "en-US": "St. Joseph, foster-father of the Son of God,",
+            "pt-BR": "São José, pai adotivo do Filho de Deus,"
+          },
+          "r": {
+            "en-US": "Pray for us.",
+            "pt-BR": "Rogai por nós."
+          }
+        },
+        {
+          "v": {
+            "en-US": "St. Joseph, diligent protector of Christ,",
+            "pt-BR": "São José, zeloso defensor de Cristo,"
+          },
+          "r": {
+            "en-US": "Pray for us.",
+            "pt-BR": "Rogai por nós."
+          }
+        },
+        {
+          "v": {
+            "en-US": "St. Joseph, Guardian of the Redeemer,",
+            "pt-BR": "São José, Guardião do Redentor,"
+          },
+          "r": {
+            "en-US": "Pray for us.",
+            "pt-BR": "Rogai por nós."
+          }
+        },
+        {
+          "v": {
+            "en-US": "St. Joseph, Servant of Christ,",
+            "pt-BR": "São José, Servo de Cristo,"
+          },
+          "r": {
+            "en-US": "Pray for us.",
+            "pt-BR": "Rogai por nós."
+          }
+        },
+        {
+          "v": {
+            "en-US": "St. Joseph, Minister of salvation,",
+            "pt-BR": "São José, Ministro da salvação,"
+          },
+          "r": {
+            "en-US": "Pray for us.",
+            "pt-BR": "Rogai por nós."
+          }
+        },
+        {
+          "v": {
+            "en-US": "St. Joseph, head of the Holy Family,",
+            "pt-BR": "São José, chefe da Sagrada Família,"
+          },
+          "r": {
+            "en-US": "Pray for us.",
+            "pt-BR": "Rogai por nós."
+          }
+        },
+        {
+          "v": {
+            "en-US": "St. Joseph, most just,",
+            "pt-BR": "São José, justíssimo,"
+          },
+          "r": {
+            "en-US": "Pray for us.",
+            "pt-BR": "Rogai por nós."
+          }
+        },
+        {
+          "v": {
+            "en-US": "St. Joseph, most chaste,",
+            "pt-BR": "São José, castíssimo,"
+          },
+          "r": {
+            "en-US": "Pray for us.",
+            "pt-BR": "Rogai por nós."
+          }
+        },
+        {
+          "v": {
+            "en-US": "St. Joseph, most prudent,",
+            "pt-BR": "São José, prudentíssimo,"
+          },
+          "r": {
+            "en-US": "Pray for us.",
+            "pt-BR": "Rogai por nós."
+          }
+        },
+        {
+          "v": {
+            "en-US": "St. Joseph, most courageous,",
+            "pt-BR": "São José, fortíssimo,"
+          },
+          "r": {
+            "en-US": "Pray for us.",
+            "pt-BR": "Rogai por nós."
+          }
+        },
+        {
+          "v": {
+            "en-US": "St. Joseph, most obedient,",
+            "pt-BR": "São José, obedientíssimo,"
+          },
+          "r": {
+            "en-US": "Pray for us.",
+            "pt-BR": "Rogai por nós."
+          }
+        },
+        {
+          "v": {
+            "en-US": "St. Joseph, most faithful,",
+            "pt-BR": "São José, fidelíssimo,"
+          },
+          "r": {
+            "en-US": "Pray for us.",
+            "pt-BR": "Rogai por nós."
+          }
+        },
+        {
+          "v": {
+            "en-US": "St. Joseph, mirror of patience,",
+            "pt-BR": "São José, espelho de paciência,"
+          },
+          "r": {
+            "en-US": "Pray for us.",
+            "pt-BR": "Rogai por nós."
+          }
+        },
+        {
+          "v": {
+            "en-US": "St. Joseph, lover of poverty,",
+            "pt-BR": "São José, amante da pobreza,"
+          },
+          "r": {
+            "en-US": "Pray for us.",
+            "pt-BR": "Rogai por nós."
+          }
+        },
+        {
+          "v": {
+            "en-US": "St. Joseph, model of artisans,",
+            "pt-BR": "São José, modelo dos operários,"
+          },
+          "r": {
+            "en-US": "Pray for us.",
+            "pt-BR": "Rogai por nós."
+          }
+        },
+        {
+          "v": {
+            "en-US": "St. Joseph, glory of home life,",
+            "pt-BR": "São José, glória da vida doméstica,"
+          },
+          "r": {
+            "en-US": "Pray for us.",
+            "pt-BR": "Rogai por nós."
+          }
+        },
+        {
+          "v": {
+            "en-US": "St. Joseph, guardian of virgins,",
+            "pt-BR": "São José, guardião das virgens,"
+          },
+          "r": {
+            "en-US": "Pray for us.",
+            "pt-BR": "Rogai por nós."
+          }
+        },
+        {
+          "v": {
+            "en-US": "St. Joseph, pillar of families,",
+            "pt-BR": "São José, sustentáculo das famílias,"
+          },
+          "r": {
+            "en-US": "Pray for us.",
+            "pt-BR": "Rogai por nós."
+          }
+        },
+        {
+          "v": {
+            "en-US": "St. Joseph, Support in difficulties,",
+            "pt-BR": "São José, Amparo nas dificuldades,"
+          },
+          "r": {
+            "en-US": "Pray for us.",
+            "pt-BR": "Rogai por nós."
+          }
+        },
+        {
+          "v": {
+            "en-US": "St. Joseph, solace of the wretched,",
+            "pt-BR": "São José, consólo dos desgraçados,"
+          },
+          "r": {
+            "en-US": "Pray for us.",
+            "pt-BR": "Rogai por nós."
+          }
+        },
+        {
+          "v": {
+            "en-US": "St. Joseph, hope of the sick,",
+            "pt-BR": "São José, esperança dos enfermos,"
+          },
+          "r": {
+            "en-US": "Pray for us.",
+            "pt-BR": "Rogai por nós."
+          }
+        },
+        {
+          "v": {
+            "en-US": "St. Joseph, patron of exiles,",
+            "pt-BR": "São José, patrono dos exilados,"
+          },
+          "r": {
+            "en-US": "Pray for us.",
+            "pt-BR": "Rogai por nós."
+          }
+        },
+        {
+          "v": {
+            "en-US": "St. Joseph, patron of the afflicted,",
+            "pt-BR": "São José, patrono dos aflitos,"
+          },
+          "r": {
+            "en-US": "Pray for us.",
+            "pt-BR": "Rogai por nós."
+          }
+        },
+        {
+          "v": {
+            "en-US": "St. Joseph, patron of the poor,",
+            "pt-BR": "São José, patrono dos pobres,"
+          },
+          "r": {
+            "en-US": "Pray for us.",
+            "pt-BR": "Rogai por nós."
+          }
+        },
+        {
+          "v": {
+            "en-US": "St. Joseph, patron of the dying,",
+            "pt-BR": "São José, patrono dos moribundos,"
+          },
+          "r": {
+            "en-US": "Pray for us.",
+            "pt-BR": "Rogai por nós."
+          }
+        },
+        {
+          "v": {
+            "en-US": "St. Joseph, terror of demons,",
+            "pt-BR": "São José, terror dos demônios,"
+          },
+          "r": {
+            "en-US": "Pray for us.",
+            "pt-BR": "Rogai por nós."
+          }
+        },
+        {
+          "v": {
+            "en-US": "St. Joseph, protector of Holy Church,",
+            "pt-BR": "São José, protetor da Santa Igreja,"
+          },
+          "r": {
+            "en-US": "Pray for us.",
+            "pt-BR": "Rogai por nós."
+          }
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "en-US": "Lamb of God, who takest away the sins of the world,",
+            "pt-BR": "Cordeiro de Deus, que tirais os pecados do mundo,"
+          },
+          "r": {
+            "en-US": "Spare us, O Lord.",
+            "pt-BR": "Perdoai-nos, Senhor."
+          }
+        },
+        {
+          "v": {
+            "en-US": "Lamb of God, who takest away the sins of the world,",
+            "pt-BR": "Cordeiro de Deus, que tirais os pecados do mundo,"
+          },
+          "r": {
+            "en-US": "Graciously hear us, O Lord.",
+            "pt-BR": "Ouvi-nos, Senhor."
+          }
+        },
+        {
+          "v": {
+            "en-US": "Lamb of God, who takest away the sins of the world,",
+            "pt-BR": "Cordeiro de Deus, que tirais os pecados do mundo,"
+          },
+          "r": {
+            "en-US": "Have mercy on us.",
+            "pt-BR": "Tende piedade de nós."
+          }
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "en-US": "He made him the lord of his household.",
+            "pt-BR": "Ele o constituiu senhor de sua casa."
+          },
+          "r": {
+            "en-US": "And ruler of all his possessions.",
+            "pt-BR": "E príncipe de todos os seus bens."
+          }
+        }
+      ]
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Let us pray.",
+        "pt-BR": "Oremos."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "O God, who in Thine ineffable providence didst choose Blessed Joseph to be the spouse of Thy most holy Mother, grant, we beseech Thee, that we may be worthy to receive him for our intercessor in heaven, whom on earth we venerate as our protector. Who livest and reignest world without end. Amen.",
+        "pt-BR": "Ó Deus, que na Vossa inefável providência Vos dignastes escolher o Bem-aventurado José para esposo de Vossa Santíssima Mãe, concedei-nos, Vos suplicamos, que mereçamos tê-lo por intercessor no céu, a quem na terra veneramos como protetor. Que viveis e reinais pelos séculos dos séculos. Amém."
+      }
+    }
+  ]
 }

@@ -1,280 +1,280 @@
 {
-	"sections": [
-		{
-			"type": "prayer",
-			"ref": "sign-of-cross"
-		},
-		{
-			"type": "divider"
-		},
-		{
-			"type": "response",
-			"verses": [
-				{
-					"v": {
-						"en-US": "O Jesus, meek and humble of heart,",
-						"pt-BR": "Ó Jesus, manso e humilde de coração,"
-					},
-					"r": {
-						"en-US": "Hear me.",
-						"pt-BR": "Ouvi-me."
-					}
-				}
-			]
-		},
-		{
-			"type": "divider"
-		},
-		{
-			"type": "response",
-			"verses": [
-				{
-					"v": {
-						"en-US": "From the desire of being esteemed,",
-						"pt-BR": "Do desejo de ser estimado,"
-					},
-					"r": {
-						"en-US": "Deliver me, Jesus.",
-						"pt-BR": "Livrai-me, Jesus."
-					}
-				},
-				{
-					"v": {
-						"en-US": "From the desire of being loved,",
-						"pt-BR": "Do desejo de ser amado,"
-					},
-					"r": {
-						"en-US": "Deliver me, Jesus.",
-						"pt-BR": "Livrai-me, Jesus."
-					}
-				},
-				{
-					"v": {
-						"en-US": "From the desire of being extolled,",
-						"pt-BR": "Do desejo de ser exaltado,"
-					},
-					"r": {
-						"en-US": "Deliver me, Jesus.",
-						"pt-BR": "Livrai-me, Jesus."
-					}
-				},
-				{
-					"v": {
-						"en-US": "From the desire of being honored,",
-						"pt-BR": "Do desejo de ser honrado,"
-					},
-					"r": {
-						"en-US": "Deliver me, Jesus.",
-						"pt-BR": "Livrai-me, Jesus."
-					}
-				},
-				{
-					"v": {
-						"en-US": "From the desire of being praised,",
-						"pt-BR": "Do desejo de ser louvado,"
-					},
-					"r": {
-						"en-US": "Deliver me, Jesus.",
-						"pt-BR": "Livrai-me, Jesus."
-					}
-				},
-				{
-					"v": {
-						"en-US": "From the desire of being preferred to others,",
-						"pt-BR": "Do desejo de ser preferido aos outros,"
-					},
-					"r": {
-						"en-US": "Deliver me, Jesus.",
-						"pt-BR": "Livrai-me, Jesus."
-					}
-				},
-				{
-					"v": {
-						"en-US": "From the desire of being consulted,",
-						"pt-BR": "Do desejo de ser consultado,"
-					},
-					"r": {
-						"en-US": "Deliver me, Jesus.",
-						"pt-BR": "Livrai-me, Jesus."
-					}
-				},
-				{
-					"v": {
-						"en-US": "From the desire of being approved,",
-						"pt-BR": "Do desejo de ser aprovado,"
-					},
-					"r": {
-						"en-US": "Deliver me, Jesus.",
-						"pt-BR": "Livrai-me, Jesus."
-					}
-				}
-			]
-		},
-		{
-			"type": "divider"
-		},
-		{
-			"type": "response",
-			"verses": [
-				{
-					"v": {
-						"en-US": "From the fear of being humiliated,",
-						"pt-BR": "Do medo de ser humilhado,"
-					},
-					"r": {
-						"en-US": "Deliver me, Jesus.",
-						"pt-BR": "Livrai-me, Jesus."
-					}
-				},
-				{
-					"v": {
-						"en-US": "From the fear of being despised,",
-						"pt-BR": "Do medo de ser desprezado,"
-					},
-					"r": {
-						"en-US": "Deliver me, Jesus.",
-						"pt-BR": "Livrai-me, Jesus."
-					}
-				},
-				{
-					"v": {
-						"en-US": "From the fear of suffering rebukes,",
-						"pt-BR": "Do medo de ser repreendido,"
-					},
-					"r": {
-						"en-US": "Deliver me, Jesus.",
-						"pt-BR": "Livrai-me, Jesus."
-					}
-				},
-				{
-					"v": {
-						"en-US": "From the fear of being calumniated,",
-						"pt-BR": "Do medo de ser caluniado,"
-					},
-					"r": {
-						"en-US": "Deliver me, Jesus.",
-						"pt-BR": "Livrai-me, Jesus."
-					}
-				},
-				{
-					"v": {
-						"en-US": "From the fear of being forgotten,",
-						"pt-BR": "Do medo de ser esquecido,"
-					},
-					"r": {
-						"en-US": "Deliver me, Jesus.",
-						"pt-BR": "Livrai-me, Jesus."
-					}
-				},
-				{
-					"v": {
-						"en-US": "From the fear of being ridiculed,",
-						"pt-BR": "Do medo de ser ridicularizado,"
-					},
-					"r": {
-						"en-US": "Deliver me, Jesus.",
-						"pt-BR": "Livrai-me, Jesus."
-					}
-				},
-				{
-					"v": {
-						"en-US": "From the fear of being wronged,",
-						"pt-BR": "Do medo de ser injustiçado,"
-					},
-					"r": {
-						"en-US": "Deliver me, Jesus.",
-						"pt-BR": "Livrai-me, Jesus."
-					}
-				},
-				{
-					"v": {
-						"en-US": "From the fear of being suspected,",
-						"pt-BR": "Do medo de ser suspeito,"
-					},
-					"r": {
-						"en-US": "Deliver me, Jesus.",
-						"pt-BR": "Livrai-me, Jesus."
-					}
-				}
-			]
-		},
-		{
-			"type": "divider"
-		},
-		{
-			"type": "response",
-			"verses": [
-				{
-					"v": {
-						"en-US": "That others may be loved more than I,",
-						"pt-BR": "Que os outros sejam mais amados do que eu,"
-					},
-					"r": {
-						"en-US": "Jesus, grant me the grace to desire it.",
-						"pt-BR": "Jesus, dai-me a graça de desejá-lo."
-					}
-				},
-				{
-					"v": {
-						"en-US": "That others may be esteemed more than I,",
-						"pt-BR": "Que os outros sejam mais estimados do que eu,"
-					},
-					"r": {
-						"en-US": "Jesus, grant me the grace to desire it.",
-						"pt-BR": "Jesus, dai-me a graça de desejá-lo."
-					}
-				},
-				{
-					"v": {
-						"en-US": "That, in the opinion of the world, others may increase and I may decrease,",
-						"pt-BR": "Que, na opinião do mundo, os outros cresçam e eu diminua,"
-					},
-					"r": {
-						"en-US": "Jesus, grant me the grace to desire it.",
-						"pt-BR": "Jesus, dai-me a graça de desejá-lo."
-					}
-				},
-				{
-					"v": {
-						"en-US": "That others may be chosen and I set aside,",
-						"pt-BR": "Que os outros sejam escolhidos e eu posto de lado,"
-					},
-					"r": {
-						"en-US": "Jesus, grant me the grace to desire it.",
-						"pt-BR": "Jesus, dai-me a graça de desejá-lo."
-					}
-				},
-				{
-					"v": {
-						"en-US": "That others may be praised and I go unnoticed,",
-						"pt-BR": "Que os outros sejam louvados e eu passe despercebido,"
-					},
-					"r": {
-						"en-US": "Jesus, grant me the grace to desire it.",
-						"pt-BR": "Jesus, dai-me a graça de desejá-lo."
-					}
-				},
-				{
-					"v": {
-						"en-US": "That others may be preferred to me in everything,",
-						"pt-BR": "Que os outros sejam preferidos a mim em tudo,"
-					},
-					"r": {
-						"en-US": "Jesus, grant me the grace to desire it.",
-						"pt-BR": "Jesus, dai-me a graça de desejá-lo."
-					}
-				},
-				{
-					"v": {
-						"en-US": "That others may become holier than I, provided that I may become as holy as I should,",
-						"pt-BR": "Que os outros se tornem mais santos do que eu, contanto que eu me torne tão santo quanto devo,"
-					},
-					"r": {
-						"en-US": "Jesus, grant me the grace to desire it.",
-						"pt-BR": "Jesus, dai-me a graça de desejá-lo."
-					}
-				}
-			]
-		}
-	]
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "ember-default:sign-of-cross"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "en-US": "O Jesus, meek and humble of heart,",
+            "pt-BR": "Ó Jesus, manso e humilde de coração,"
+          },
+          "r": {
+            "en-US": "Hear me.",
+            "pt-BR": "Ouvi-me."
+          }
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "en-US": "From the desire of being esteemed,",
+            "pt-BR": "Do desejo de ser estimado,"
+          },
+          "r": {
+            "en-US": "Deliver me, Jesus.",
+            "pt-BR": "Livrai-me, Jesus."
+          }
+        },
+        {
+          "v": {
+            "en-US": "From the desire of being loved,",
+            "pt-BR": "Do desejo de ser amado,"
+          },
+          "r": {
+            "en-US": "Deliver me, Jesus.",
+            "pt-BR": "Livrai-me, Jesus."
+          }
+        },
+        {
+          "v": {
+            "en-US": "From the desire of being extolled,",
+            "pt-BR": "Do desejo de ser exaltado,"
+          },
+          "r": {
+            "en-US": "Deliver me, Jesus.",
+            "pt-BR": "Livrai-me, Jesus."
+          }
+        },
+        {
+          "v": {
+            "en-US": "From the desire of being honored,",
+            "pt-BR": "Do desejo de ser honrado,"
+          },
+          "r": {
+            "en-US": "Deliver me, Jesus.",
+            "pt-BR": "Livrai-me, Jesus."
+          }
+        },
+        {
+          "v": {
+            "en-US": "From the desire of being praised,",
+            "pt-BR": "Do desejo de ser louvado,"
+          },
+          "r": {
+            "en-US": "Deliver me, Jesus.",
+            "pt-BR": "Livrai-me, Jesus."
+          }
+        },
+        {
+          "v": {
+            "en-US": "From the desire of being preferred to others,",
+            "pt-BR": "Do desejo de ser preferido aos outros,"
+          },
+          "r": {
+            "en-US": "Deliver me, Jesus.",
+            "pt-BR": "Livrai-me, Jesus."
+          }
+        },
+        {
+          "v": {
+            "en-US": "From the desire of being consulted,",
+            "pt-BR": "Do desejo de ser consultado,"
+          },
+          "r": {
+            "en-US": "Deliver me, Jesus.",
+            "pt-BR": "Livrai-me, Jesus."
+          }
+        },
+        {
+          "v": {
+            "en-US": "From the desire of being approved,",
+            "pt-BR": "Do desejo de ser aprovado,"
+          },
+          "r": {
+            "en-US": "Deliver me, Jesus.",
+            "pt-BR": "Livrai-me, Jesus."
+          }
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "en-US": "From the fear of being humiliated,",
+            "pt-BR": "Do medo de ser humilhado,"
+          },
+          "r": {
+            "en-US": "Deliver me, Jesus.",
+            "pt-BR": "Livrai-me, Jesus."
+          }
+        },
+        {
+          "v": {
+            "en-US": "From the fear of being despised,",
+            "pt-BR": "Do medo de ser desprezado,"
+          },
+          "r": {
+            "en-US": "Deliver me, Jesus.",
+            "pt-BR": "Livrai-me, Jesus."
+          }
+        },
+        {
+          "v": {
+            "en-US": "From the fear of suffering rebukes,",
+            "pt-BR": "Do medo de ser repreendido,"
+          },
+          "r": {
+            "en-US": "Deliver me, Jesus.",
+            "pt-BR": "Livrai-me, Jesus."
+          }
+        },
+        {
+          "v": {
+            "en-US": "From the fear of being calumniated,",
+            "pt-BR": "Do medo de ser caluniado,"
+          },
+          "r": {
+            "en-US": "Deliver me, Jesus.",
+            "pt-BR": "Livrai-me, Jesus."
+          }
+        },
+        {
+          "v": {
+            "en-US": "From the fear of being forgotten,",
+            "pt-BR": "Do medo de ser esquecido,"
+          },
+          "r": {
+            "en-US": "Deliver me, Jesus.",
+            "pt-BR": "Livrai-me, Jesus."
+          }
+        },
+        {
+          "v": {
+            "en-US": "From the fear of being ridiculed,",
+            "pt-BR": "Do medo de ser ridicularizado,"
+          },
+          "r": {
+            "en-US": "Deliver me, Jesus.",
+            "pt-BR": "Livrai-me, Jesus."
+          }
+        },
+        {
+          "v": {
+            "en-US": "From the fear of being wronged,",
+            "pt-BR": "Do medo de ser injustiçado,"
+          },
+          "r": {
+            "en-US": "Deliver me, Jesus.",
+            "pt-BR": "Livrai-me, Jesus."
+          }
+        },
+        {
+          "v": {
+            "en-US": "From the fear of being suspected,",
+            "pt-BR": "Do medo de ser suspeito,"
+          },
+          "r": {
+            "en-US": "Deliver me, Jesus.",
+            "pt-BR": "Livrai-me, Jesus."
+          }
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "en-US": "That others may be loved more than I,",
+            "pt-BR": "Que os outros sejam mais amados do que eu,"
+          },
+          "r": {
+            "en-US": "Jesus, grant me the grace to desire it.",
+            "pt-BR": "Jesus, dai-me a graça de desejá-lo."
+          }
+        },
+        {
+          "v": {
+            "en-US": "That others may be esteemed more than I,",
+            "pt-BR": "Que os outros sejam mais estimados do que eu,"
+          },
+          "r": {
+            "en-US": "Jesus, grant me the grace to desire it.",
+            "pt-BR": "Jesus, dai-me a graça de desejá-lo."
+          }
+        },
+        {
+          "v": {
+            "en-US": "That, in the opinion of the world, others may increase and I may decrease,",
+            "pt-BR": "Que, na opinião do mundo, os outros cresçam e eu diminua,"
+          },
+          "r": {
+            "en-US": "Jesus, grant me the grace to desire it.",
+            "pt-BR": "Jesus, dai-me a graça de desejá-lo."
+          }
+        },
+        {
+          "v": {
+            "en-US": "That others may be chosen and I set aside,",
+            "pt-BR": "Que os outros sejam escolhidos e eu posto de lado,"
+          },
+          "r": {
+            "en-US": "Jesus, grant me the grace to desire it.",
+            "pt-BR": "Jesus, dai-me a graça de desejá-lo."
+          }
+        },
+        {
+          "v": {
+            "en-US": "That others may be praised and I go unnoticed,",
+            "pt-BR": "Que os outros sejam louvados e eu passe despercebido,"
+          },
+          "r": {
+            "en-US": "Jesus, grant me the grace to desire it.",
+            "pt-BR": "Jesus, dai-me a graça de desejá-lo."
+          }
+        },
+        {
+          "v": {
+            "en-US": "That others may be preferred to me in everything,",
+            "pt-BR": "Que os outros sejam preferidos a mim em tudo,"
+          },
+          "r": {
+            "en-US": "Jesus, grant me the grace to desire it.",
+            "pt-BR": "Jesus, dai-me a graça de desejá-lo."
+          }
+        },
+        {
+          "v": {
+            "en-US": "That others may become holier than I, provided that I may become as holy as I should,",
+            "pt-BR": "Que os outros se tornem mais santos do que eu, contanto que eu me torne tão santo quanto devo,"
+          },
+          "r": {
+            "en-US": "Jesus, grant me the grace to desire it.",
+            "pt-BR": "Jesus, dai-me a graça de desejá-lo."
+          }
+        }
+      ]
+    }
+  ]
 }

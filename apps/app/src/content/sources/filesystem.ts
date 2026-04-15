@@ -46,7 +46,7 @@ export type Library = {
   icon?: string
   image?: string
   tags?: string[]
-  dependencies?: string[]
+
   defaults?: { autoSeed: boolean }
   chapters?: string[]
   books?: string[]

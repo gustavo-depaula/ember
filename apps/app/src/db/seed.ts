@@ -1,4 +1,4 @@
-import { getAllManifests } from '@/content/registry'
+import { getAllManifests, parseQualifiedId } from '@/content/registry'
 import { deriveTimeBlock } from '@/features/plan-of-life/timeBlocks'
 import { composeSlotKey } from '@/lib/slotKey'
 
@@ -174,10 +174,21 @@ function collectSeedEvents(): AppEvent[] {
 
   for (const manifest of getAllManifests()) {
     if (!manifest.defaults) continue
+
+    // Only seed the primary member of each alternative group
+    if (manifest.alternativeTo) {
+      const { practiceId: unqualified } = parseQualifiedId(manifest.id)
+      if (unqualified !== manifest.alternativeTo.id) continue
+    }
+
     const d = manifest.defaults
 
     if (!store.practices.has(manifest.id)) {
-      events.push({ type: 'PracticeCreated', practiceId: manifest.id })
+      events.push({
+        type: 'PracticeCreated',
+        practiceId: manifest.id,
+        activeVariant: manifest.id,
+      })
     }
 
     seedSlots(

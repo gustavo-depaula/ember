@@ -1,10 +1,14 @@
 {
 	"id": "examination-by-commandments",
-	"alternativeTo": "examination-of-conscience",
 	"icon": "prayer",
+	"alternativeTo": {
+		"id": "examination-of-conscience",
+		"label": { "en-US": "Ten Commandments", "pt-BR": "Dez Mandamentos" },
+		"description": { "en-US": "Examination organized around the Decalogue" }
+	},
 	"name": {
-		"en-US": "Ten Commandments",
-		"pt-BR": "Dez Mandamentos"
+		"en-US": "Examination of Conscience",
+		"pt-BR": "Exame de Consciência"
 	},
 	"categories": [
 		"daily",

@@ -1,10 +1,14 @@
 {
 	"id": "mental-prayer-simple",
-	"alternativeTo": "mental-prayer",
 	"icon": "prayer",
+	"alternativeTo": {
+		"id": "mental-prayer",
+		"label": { "en-US": "Simple Method", "pt-BR": "Método Simples" },
+		"description": { "en-US": "A gentle approach for beginners who prefer simplicity" }
+	},
 	"name": {
-		"en-US": "Simple Method",
-		"pt-BR": "Método Simples"
+		"en-US": "Mental Prayer",
+		"pt-BR": "Oração Mental"
 	},
 	"categories": [
 		"daily",

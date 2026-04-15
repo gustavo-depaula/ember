@@ -1,10 +1,14 @@
 {
 	"id": "prayer-st-joseph-bernardine",
-	"alternativeTo": "prayer-st-joseph",
 	"icon": "prayer",
+	"alternativeTo": {
+		"id": "prayer-st-joseph",
+		"label": { "en-US": "St. Bernardine of Siena", "pt-BR": "São Bernardino de Siena" },
+		"description": { "en-US": "The prayer attributed to St. Bernardine of Siena" }
+	},
 	"name": {
-		"en-US": "Prayer to St. Joseph (St. Bernardine)",
-		"pt-BR": "Oração a São José (São Bernardino)"
+		"en-US": "Prayer to St. Joseph",
+		"pt-BR": "Oração a São José"
 	},
 	"categories": [
 		"saints",

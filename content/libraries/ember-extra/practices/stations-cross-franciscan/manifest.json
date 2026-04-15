@@ -1,10 +1,14 @@
 {
 	"id": "stations-cross-franciscan",
-	"alternativeTo": "stations-cross",
 	"icon": "cross",
+	"alternativeTo": {
+		"id": "stations-cross",
+		"label": { "en-US": "Franciscan Meditations", "pt-BR": "Meditações Franciscanas" },
+		"description": { "en-US": "Meditations from the Franciscan tradition" }
+	},
 	"name": {
-		"en-US": "Franciscan Meditations",
-		"pt-BR": "Meditações Franciscanas"
+		"en-US": "Stations of the Cross",
+		"pt-BR": "Via Sacra"
 	},
 	"categories": ["devotion"],
 	"estimatedMinutes": 20,

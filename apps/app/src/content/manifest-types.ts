@@ -2,6 +2,12 @@ import type { Tier } from '@/db/schema'
 import type { Schedule } from '@/features/plan-of-life/schedule'
 import type { LocalizedText } from './types'
 
+export type AlternativeToRef = {
+  id: string // unqualified grouping key shared by all peers
+  label: LocalizedText
+  description: LocalizedText
+}
+
 export type SlotDefault = {
   slotId?: string
   schedule: Schedule
@@ -45,7 +51,7 @@ export type PracticeManifest = {
   data?: Record<string, string>
   tracks?: Record<string, string>
   flow: string
-  alternativeTo?: string
+  alternativeTo?: AlternativeToRef
   pack?: string
   tags: string[]
   defaults?: {

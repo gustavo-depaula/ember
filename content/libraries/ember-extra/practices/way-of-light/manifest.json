@@ -1,6 +1,11 @@
 {
 	"id": "way-of-light",
 	"icon": "cross",
+	"alternativeTo": {
+		"id": "way-of-light",
+		"label": { "en-US": "Traditional", "pt-BR": "Tradicional" },
+		"description": { "en-US": "The traditional Way of Light devotion" }
+	},
 	"name": {
 		"en-US": "Way of Light",
 		"pt-BR": "Via Lucis"

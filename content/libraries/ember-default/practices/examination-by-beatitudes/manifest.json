@@ -1,10 +1,14 @@
 {
 	"id": "examination-by-beatitudes",
-	"alternativeTo": "examination-of-conscience",
 	"icon": "prayer",
+	"alternativeTo": {
+		"id": "examination-of-conscience",
+		"label": { "en-US": "The Beatitudes", "pt-BR": "As Bem-aventuranças" },
+		"description": { "en-US": "A positive, Gospel-centered review based on the Beatitudes" }
+	},
 	"name": {
-		"en-US": "The Beatitudes",
-		"pt-BR": "As Bem-aventuranças"
+		"en-US": "Examination of Conscience",
+		"pt-BR": "Exame de Consciência"
 	},
 	"categories": [
 		"daily",

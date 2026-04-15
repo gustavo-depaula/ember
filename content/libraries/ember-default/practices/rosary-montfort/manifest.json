@@ -1,10 +1,14 @@
 {
 	"id": "rosary-montfort",
-	"alternativeTo": "rosary",
 	"icon": "rosary",
+	"alternativeTo": {
+		"id": "rosary",
+		"label": { "en-US": "Montfort Meditations", "pt-BR": "Meditações de Montfort" },
+		"description": { "en-US": "From St. Louis de Montfort's Secret of the Rosary" }
+	},
 	"name": {
-		"en-US": "Rosary — Montfort Meditations",
-		"pt-BR": "Rosário — Meditações de Montfort"
+		"en-US": "Holy Rosary",
+		"pt-BR": "Santo Rosário"
 	},
 	"categories": ["marian", "rosary"],
 	"estimatedMinutes": 20,

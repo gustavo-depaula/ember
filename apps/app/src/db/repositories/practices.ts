@@ -52,6 +52,7 @@ export async function createPractice(data: {
   customName?: string
   customIcon?: string
   customDesc?: string
+  activeVariant?: string
 }): Promise<void> {
   if (useEventStore.getState().practices.has(data.id)) return
   await emit({
@@ -60,6 +61,7 @@ export async function createPractice(data: {
     customName: data.customName,
     customIcon: data.customIcon,
     customDesc: data.customDesc,
+    activeVariant: data.activeVariant,
   })
 }
 
@@ -69,6 +71,7 @@ export async function updatePractice(
     customName: string | null
     customIcon: string | null
     customDesc: string | null
+    activeVariant: string | null
   }>,
 ): Promise<void> {
   await emit({ type: 'PracticeUpdated', practiceId, ...data })
@@ -98,7 +101,13 @@ function buildSlotAddedEvent(
 }
 
 export async function createPracticeWithSlot(
-  practice: { id: string; customName?: string; customIcon?: string; customDesc?: string },
+  practice: {
+    id: string
+    customName?: string
+    customIcon?: string
+    customDesc?: string
+    activeVariant?: string
+  },
   slotData: Parameters<typeof addSlot>[1],
 ): Promise<string> {
   const events = []
@@ -110,6 +119,7 @@ export async function createPracticeWithSlot(
       customName: practice.customName,
       customIcon: practice.customIcon,
       customDesc: practice.customDesc,
+      activeVariant: practice.activeVariant,
     })
   }
 

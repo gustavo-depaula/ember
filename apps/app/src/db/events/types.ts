@@ -8,6 +8,7 @@ type PracticeCreated = {
   customName?: string
   customIcon?: string
   customDesc?: string
+  activeVariant?: string
 }
 
 type PracticeUpdated = {
@@ -16,6 +17,7 @@ type PracticeUpdated = {
   customName?: string | null
   customIcon?: string | null
   customDesc?: string | null
+  activeVariant?: string | null
 }
 
 type PracticeArchived = {

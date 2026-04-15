@@ -7,7 +7,13 @@ import { Text, useTheme, XStack, YStack } from 'tamagui'
 
 import { AnimatedPressable, PrayButton, ScreenLayout, SectionDivider } from '@/components'
 import { PracticeIcon } from '@/components/PracticeIcon'
-import { getAllManifests, getManifest, getManifestIconKey } from '@/content/registry'
+import {
+  findGroupMemberInSet,
+  getAlternativeGroup,
+  getManifest,
+  getManifestIconKey,
+} from '@/content/registry'
+import { useEventStore } from '@/db/events'
 import { createProgramCursor, getPractice } from '@/db/repositories'
 import {
   useCreatePractice,
@@ -35,7 +41,16 @@ export default function CatalogDetailScreen() {
   const manifest = manifestId ? getManifest(manifestId) : undefined
   const slotsForManifest = useSlotsForPractice(manifestId)
   const firstSlot = slotsForManifest[0]
-  const isInPlan = slotsForManifest.some((s) => s.enabled === 1)
+  const isDirectlyInPlan = slotsForManifest.some((s) => s.enabled === 1)
+
+  // Check if any member of the same alternative group is already in the plan
+  const practiceIds = useEventStore((s) => s.practices)
+  const groupMemberInPlan = useMemo(() => {
+    if (!manifestId || isDirectlyInPlan) return undefined
+    return findGroupMemberInSet(manifestId, practiceIds)
+  }, [manifestId, isDirectlyInPlan, practiceIds])
+  const isInPlan = isDirectlyInPlan || !!groupMemberInPlan
+  const planPracticeId = groupMemberInPlan ?? manifestId
 
   const createPractice = useCreatePractice()
   const updateSlot = useUpdateSlot()
@@ -44,19 +59,10 @@ export default function CatalogDetailScreen() {
   const restartProgramMutation = useRestartProgram()
   const [showEditor, setShowEditor] = useState(false)
   const programProgress = useProgramProgress(manifest?.id ?? '', manifest?.program)
-  const alternatives = useMemo(() => {
-    if (!manifest) return []
-    const baseId = manifest.alternativeTo ?? manifest.id
-    const related = getAllManifests().filter(
-      (entry) => entry.id === baseId || entry.alternativeTo === baseId,
-    )
-    if (related.length < 2) return []
-    return related.sort((a, b) => {
-      if (a.id === baseId) return -1
-      if (b.id === baseId) return 1
-      return localizeContent(a.name).localeCompare(localizeContent(b.name))
-    })
-  }, [manifest])
+  const group = useMemo(
+    () => (manifestId ? getAlternativeGroup(manifestId) : undefined),
+    [manifestId],
+  )
 
   if (!manifestId || !manifest) {
     return (
@@ -144,6 +150,7 @@ export default function CatalogDetailScreen() {
     } else if (manifest) {
       createPractice.mutate({
         id: manifest.id,
+        activeVariant: manifest.id,
         slot: {
           tier: data.tier,
           schedule: JSON.stringify(data.schedule),
@@ -188,18 +195,18 @@ export default function CatalogDetailScreen() {
 
         {!isProgram && <PrayButton practiceId={manifest.id} />}
 
-        {alternatives.length > 1 && (
+        {group && (
           <YStack gap="$sm">
             <XStack gap="$xs" flexWrap="wrap">
-              {alternatives.map((alternative) => {
-                const isActive = alternative.id === manifest.id
+              {group.members.map((member) => {
+                const isActive = member.manifest.id === manifest.id
                 return (
                   <AnimatedPressable
-                    key={alternative.id}
+                    key={member.manifest.id}
                     onPress={() =>
                       router.push({
                         pathname: '/practices/[manifestId]',
-                        params: { manifestId: alternative.id },
+                        params: { manifestId: member.manifest.id },
                       })
                     }
                     disabled={isActive}
@@ -217,7 +224,7 @@ export default function CatalogDetailScreen() {
                         fontSize="$1"
                         color={isActive ? '$background' : '$colorSecondary'}
                       >
-                        {localizeContent(alternative.name)}
+                        {member.label}
                       </Text>
                     </XStack>
                   </AnimatedPressable>
@@ -316,7 +323,7 @@ export default function CatalogDetailScreen() {
             </AnimatedPressable>
           )
         ) : isInPlan ? (
-          <Pressable onPress={() => router.push(`/plan/${manifest.id}`)}>
+          <Pressable onPress={() => router.push(`/plan/${planPracticeId}`)}>
             <XStack
               backgroundColor="$backgroundSurface"
               borderRadius="$md"

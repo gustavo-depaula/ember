@@ -1,9 +1,13 @@
 {
 	"id": "via-sacra-claretiano",
-	"alternativeTo": "via-sacra",
 	"icon": "cross",
+	"alternativeTo": {
+		"id": "via-sacra",
+		"label": { "pt-BR": "Claretiana" },
+		"description": { "pt-BR": "A Via Sacra com meditações claretianas" }
+	},
 	"name": {
-		"pt-BR": "Via Sacra Claretiana"
+		"pt-BR": "Via Sacra"
 	},
 	"categories": ["lenten", "meditation", "passion"],
 	"estimatedMinutes": 30,

@@ -1,509 +1,509 @@
 {
-	"sections": [
-		{
-			"type": "prayer",
-			"ref": "sign-of-cross"
-		},
-		{
-			"type": "response",
-			"verses": [
-				{
-					"v": {
-						"en-US": "Lord, have mercy.",
-						"pt-BR": "Senhor, tende piedade."
-					},
-					"r": {
-						"en-US": "Lord, have mercy.",
-						"pt-BR": "Senhor, tende piedade."
-					}
-				},
-				{
-					"v": {
-						"en-US": "Christ, have mercy.",
-						"pt-BR": "Cristo, tende piedade."
-					},
-					"r": {
-						"en-US": "Christ, have mercy.",
-						"pt-BR": "Cristo, tende piedade."
-					}
-				},
-				{
-					"v": {
-						"en-US": "Lord, have mercy.",
-						"pt-BR": "Senhor, tende piedade."
-					},
-					"r": {
-						"en-US": "Lord, have mercy.",
-						"pt-BR": "Senhor, tende piedade."
-					}
-				}
-			]
-		},
-		{
-			"type": "divider"
-		},
-		{
-			"type": "response",
-			"verses": [
-				{
-					"v": {
-						"en-US": "Christ, hear us.",
-						"pt-BR": "Cristo, ouvi-nos."
-					},
-					"r": {
-						"en-US": "Christ, graciously hear us.",
-						"pt-BR": "Cristo, atendei-nos."
-					}
-				},
-				{
-					"v": {
-						"en-US": "God the Father of Heaven,",
-						"pt-BR": "Deus Pai do Céu,"
-					},
-					"r": {
-						"en-US": "Have mercy on us.",
-						"pt-BR": "Tende piedade de nós."
-					}
-				},
-				{
-					"v": {
-						"en-US": "God the Son, Redeemer of the world,",
-						"pt-BR": "Deus Filho, Redentor do mundo,"
-					},
-					"r": {
-						"en-US": "Have mercy on us.",
-						"pt-BR": "Tende piedade de nós."
-					}
-				},
-				{
-					"v": {
-						"en-US": "God the Holy Spirit,",
-						"pt-BR": "Deus Espírito Santo,"
-					},
-					"r": {
-						"en-US": "Have mercy on us.",
-						"pt-BR": "Tende piedade de nós."
-					}
-				},
-				{
-					"v": {
-						"en-US": "Holy Trinity, one God,",
-						"pt-BR": "Santíssima Trindade, um só Deus,"
-					},
-					"r": {
-						"en-US": "Have mercy on us.",
-						"pt-BR": "Tende piedade de nós."
-					}
-				}
-			]
-		},
-		{
-			"type": "divider"
-		},
-		{
-			"type": "response",
-			"verses": [
-				{
-					"v": {
-						"en-US": "Heart of Jesus, Son of the Eternal Father,",
-						"pt-BR": "Coração de Jesus, Filho do Eterno Pai,"
-					},
-					"r": {
-						"en-US": "Have mercy on us.",
-						"pt-BR": "Tende piedade de nós."
-					}
-				},
-				{
-					"v": {
-						"en-US": "Heart of Jesus, formed by the Holy Spirit in the womb of the Virgin Mother,",
-						"pt-BR": "Coração de Jesus, formado pelo Espírito Santo no seio da Virgem Mãe,"
-					},
-					"r": {
-						"en-US": "Have mercy on us.",
-						"pt-BR": "Tende piedade de nós."
-					}
-				},
-				{
-					"v": {
-						"en-US": "Heart of Jesus, substantially united to the Word of God,",
-						"pt-BR": "Coração de Jesus, substancialmente unido ao Verbo de Deus,"
-					},
-					"r": {
-						"en-US": "Have mercy on us.",
-						"pt-BR": "Tende piedade de nós."
-					}
-				},
-				{
-					"v": {
-						"en-US": "Heart of Jesus, of infinite majesty,",
-						"pt-BR": "Coração de Jesus, de infinita majestade,"
-					},
-					"r": {
-						"en-US": "Have mercy on us.",
-						"pt-BR": "Tende piedade de nós."
-					}
-				},
-				{
-					"v": {
-						"en-US": "Heart of Jesus, holy temple of God,",
-						"pt-BR": "Coração de Jesus, templo sagrado de Deus,"
-					},
-					"r": {
-						"en-US": "Have mercy on us.",
-						"pt-BR": "Tende piedade de nós."
-					}
-				},
-				{
-					"v": {
-						"en-US": "Heart of Jesus, tabernacle of the Most High,",
-						"pt-BR": "Coração de Jesus, tabernáculo do Altíssimo,"
-					},
-					"r": {
-						"en-US": "Have mercy on us.",
-						"pt-BR": "Tende piedade de nós."
-					}
-				},
-				{
-					"v": {
-						"en-US": "Heart of Jesus, house of God and gate of heaven,",
-						"pt-BR": "Coração de Jesus, casa de Deus e porta do céu,"
-					},
-					"r": {
-						"en-US": "Have mercy on us.",
-						"pt-BR": "Tende piedade de nós."
-					}
-				},
-				{
-					"v": {
-						"en-US": "Heart of Jesus, burning furnace of charity,",
-						"pt-BR": "Coração de Jesus, ardente fornalha de caridade,"
-					},
-					"r": {
-						"en-US": "Have mercy on us.",
-						"pt-BR": "Tende piedade de nós."
-					}
-				},
-				{
-					"v": {
-						"en-US": "Heart of Jesus, vessel of justice and love,",
-						"pt-BR": "Coração de Jesus, vaso de justiça e amor,"
-					},
-					"r": {
-						"en-US": "Have mercy on us.",
-						"pt-BR": "Tende piedade de nós."
-					}
-				},
-				{
-					"v": {
-						"en-US": "Heart of Jesus, full of goodness and love,",
-						"pt-BR": "Coração de Jesus, cheio de bondade e amor,"
-					},
-					"r": {
-						"en-US": "Have mercy on us.",
-						"pt-BR": "Tende piedade de nós."
-					}
-				},
-				{
-					"v": {
-						"en-US": "Heart of Jesus, abyss of all virtues,",
-						"pt-BR": "Coração de Jesus, abismo de todas as virtudes,"
-					},
-					"r": {
-						"en-US": "Have mercy on us.",
-						"pt-BR": "Tende piedade de nós."
-					}
-				},
-				{
-					"v": {
-						"en-US": "Heart of Jesus, most worthy of all praise,",
-						"pt-BR": "Coração de Jesus, digníssimo de todo louvor,"
-					},
-					"r": {
-						"en-US": "Have mercy on us.",
-						"pt-BR": "Tende piedade de nós."
-					}
-				},
-				{
-					"v": {
-						"en-US": "Heart of Jesus, King and center of all hearts,",
-						"pt-BR": "Coração de Jesus, Rei e centro de todos os corações,"
-					},
-					"r": {
-						"en-US": "Have mercy on us.",
-						"pt-BR": "Tende piedade de nós."
-					}
-				},
-				{
-					"v": {
-						"en-US": "Heart of Jesus, in whom are all the treasures of wisdom and knowledge,",
-						"pt-BR": "Coração de Jesus, em quem estão todos os tesouros da sabedoria e da ciência,"
-					},
-					"r": {
-						"en-US": "Have mercy on us.",
-						"pt-BR": "Tende piedade de nós."
-					}
-				},
-				{
-					"v": {
-						"en-US": "Heart of Jesus, in whom dwells all the fullness of the Godhead,",
-						"pt-BR": "Coração de Jesus, em quem habita toda a plenitude da Divindade,"
-					},
-					"r": {
-						"en-US": "Have mercy on us.",
-						"pt-BR": "Tende piedade de nós."
-					}
-				},
-				{
-					"v": {
-						"en-US": "Heart of Jesus, in whom the Father is well pleased,",
-						"pt-BR": "Coração de Jesus, em quem o Pai se compraz,"
-					},
-					"r": {
-						"en-US": "Have mercy on us.",
-						"pt-BR": "Tende piedade de nós."
-					}
-				},
-				{
-					"v": {
-						"en-US": "Heart of Jesus, of whose fullness we have all received,",
-						"pt-BR": "Coração de Jesus, da cuja plenitude todos nós recebemos,"
-					},
-					"r": {
-						"en-US": "Have mercy on us.",
-						"pt-BR": "Tende piedade de nós."
-					}
-				},
-				{
-					"v": {
-						"en-US": "Heart of Jesus, desire of the everlasting hills,",
-						"pt-BR": "Coração de Jesus, desejo dos eternos outeiros,"
-					},
-					"r": {
-						"en-US": "Have mercy on us.",
-						"pt-BR": "Tende piedade de nós."
-					}
-				},
-				{
-					"v": {
-						"en-US": "Heart of Jesus, patient and most merciful,",
-						"pt-BR": "Coração de Jesus, paciente e misericordiosíssimo,"
-					},
-					"r": {
-						"en-US": "Have mercy on us.",
-						"pt-BR": "Tende piedade de nós."
-					}
-				},
-				{
-					"v": {
-						"en-US": "Heart of Jesus, enriching all who invoke Thee,",
-						"pt-BR": "Coração de Jesus, que enriqueceis todos os que Vos invocam,"
-					},
-					"r": {
-						"en-US": "Have mercy on us.",
-						"pt-BR": "Tende piedade de nós."
-					}
-				},
-				{
-					"v": {
-						"en-US": "Heart of Jesus, fountain of life and holiness,",
-						"pt-BR": "Coração de Jesus, fonte de vida e santidade,"
-					},
-					"r": {
-						"en-US": "Have mercy on us.",
-						"pt-BR": "Tende piedade de nós."
-					}
-				},
-				{
-					"v": {
-						"en-US": "Heart of Jesus, propitiation for our sins,",
-						"pt-BR": "Coração de Jesus, propiciação pelos nossos pecados,"
-					},
-					"r": {
-						"en-US": "Have mercy on us.",
-						"pt-BR": "Tende piedade de nós."
-					}
-				},
-				{
-					"v": {
-						"en-US": "Heart of Jesus, loaded down with opprobrium,",
-						"pt-BR": "Coração de Jesus, carregado de opróbrios,"
-					},
-					"r": {
-						"en-US": "Have mercy on us.",
-						"pt-BR": "Tende piedade de nós."
-					}
-				},
-				{
-					"v": {
-						"en-US": "Heart of Jesus, bruised for our offenses,",
-						"pt-BR": "Coração de Jesus, esmagado pelas nossas ofensas,"
-					},
-					"r": {
-						"en-US": "Have mercy on us.",
-						"pt-BR": "Tende piedade de nós."
-					}
-				},
-				{
-					"v": {
-						"en-US": "Heart of Jesus, obedient unto death,",
-						"pt-BR": "Coração de Jesus, obediente até à morte,"
-					},
-					"r": {
-						"en-US": "Have mercy on us.",
-						"pt-BR": "Tende piedade de nós."
-					}
-				},
-				{
-					"v": {
-						"en-US": "Heart of Jesus, pierced with a lance,",
-						"pt-BR": "Coração de Jesus, traspassado por uma lança,"
-					},
-					"r": {
-						"en-US": "Have mercy on us.",
-						"pt-BR": "Tende piedade de nós."
-					}
-				},
-				{
-					"v": {
-						"en-US": "Heart of Jesus, source of all consolation,",
-						"pt-BR": "Coração de Jesus, fonte de toda consolação,"
-					},
-					"r": {
-						"en-US": "Have mercy on us.",
-						"pt-BR": "Tende piedade de nós."
-					}
-				},
-				{
-					"v": {
-						"en-US": "Heart of Jesus, our life and resurrection,",
-						"pt-BR": "Coração de Jesus, nossa vida e ressurreição,"
-					},
-					"r": {
-						"en-US": "Have mercy on us.",
-						"pt-BR": "Tende piedade de nós."
-					}
-				},
-				{
-					"v": {
-						"en-US": "Heart of Jesus, our peace and reconciliation,",
-						"pt-BR": "Coração de Jesus, nossa paz e reconciliação,"
-					},
-					"r": {
-						"en-US": "Have mercy on us.",
-						"pt-BR": "Tende piedade de nós."
-					}
-				},
-				{
-					"v": {
-						"en-US": "Heart of Jesus, victim for our sins,",
-						"pt-BR": "Coração de Jesus, vítima pelos nossos pecados,"
-					},
-					"r": {
-						"en-US": "Have mercy on us.",
-						"pt-BR": "Tende piedade de nós."
-					}
-				},
-				{
-					"v": {
-						"en-US": "Heart of Jesus, salvation of those who hope in Thee,",
-						"pt-BR": "Coração de Jesus, salvação dos que em Vós esperam,"
-					},
-					"r": {
-						"en-US": "Have mercy on us.",
-						"pt-BR": "Tende piedade de nós."
-					}
-				},
-				{
-					"v": {
-						"en-US": "Heart of Jesus, hope of those who die in Thee,",
-						"pt-BR": "Coração de Jesus, esperança dos que morrem em Vós,"
-					},
-					"r": {
-						"en-US": "Have mercy on us.",
-						"pt-BR": "Tende piedade de nós."
-					}
-				},
-				{
-					"v": {
-						"en-US": "Heart of Jesus, delight of all the Saints,",
-						"pt-BR": "Coração de Jesus, delícia de todos os Santos,"
-					},
-					"r": {
-						"en-US": "Have mercy on us.",
-						"pt-BR": "Tende piedade de nós."
-					}
-				}
-			]
-		},
-		{
-			"type": "divider"
-		},
-		{
-			"type": "response",
-			"verses": [
-				{
-					"v": {
-						"en-US": "Lamb of God, who takest away the sins of the world,",
-						"pt-BR": "Cordeiro de Deus, que tirais os pecados do mundo,"
-					},
-					"r": {
-						"en-US": "Spare us, O Lord.",
-						"pt-BR": "Perdoai-nos, Senhor."
-					}
-				},
-				{
-					"v": {
-						"en-US": "Lamb of God, who takest away the sins of the world,",
-						"pt-BR": "Cordeiro de Deus, que tirais os pecados do mundo,"
-					},
-					"r": {
-						"en-US": "Graciously hear us, O Lord.",
-						"pt-BR": "Ouvi-nos, Senhor."
-					}
-				},
-				{
-					"v": {
-						"en-US": "Lamb of God, who takest away the sins of the world,",
-						"pt-BR": "Cordeiro de Deus, que tirais os pecados do mundo,"
-					},
-					"r": {
-						"en-US": "Have mercy on us.",
-						"pt-BR": "Tende piedade de nós."
-					}
-				}
-			]
-		},
-		{
-			"type": "divider"
-		},
-		{
-			"type": "response",
-			"verses": [
-				{
-					"v": {
-						"en-US": "Jesus, meek and humble of heart,",
-						"pt-BR": "Jesus, manso e humilde de coração,"
-					},
-					"r": {
-						"en-US": "Make our hearts like unto Thine.",
-						"pt-BR": "Tornai o nosso coração semelhante ao Vosso."
-					}
-				}
-			]
-		},
-		{
-			"type": "rubric",
-			"text": {
-				"en-US": "Let us pray.",
-				"pt-BR": "Oremos."
-			}
-		},
-		{
-			"type": "prayer",
-			"inline": {
-				"en-US": "Almighty and eternal God, look upon the Heart of Thy most beloved Son and upon the praises and satisfaction which He offers Thee in the name of sinners; and to those who implore Thy mercy, in Thy great goodness, grant forgiveness in the name of the same Jesus Christ, Thy Son, who liveth and reigneth with Thee forever and ever. Amen.",
-				"pt-BR": "Deus onipotente e eterno, olhai para o Coração de Vosso Filho amantíssimo e para os louvores e satisfações que Ele Vos oferece em nome dos pecadores; e a quantos imploram a Vossa misericórdia, pela Vossa grande bondade, concedei o perdão, em nome do mesmo Jesus Cristo, Vosso Filho, que convosco vive e reina pelos séculos dos séculos. Amém."
-			}
-		}
-	]
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "ember-default:sign-of-cross"
+    },
+    {
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "en-US": "Lord, have mercy.",
+            "pt-BR": "Senhor, tende piedade."
+          },
+          "r": {
+            "en-US": "Lord, have mercy.",
+            "pt-BR": "Senhor, tende piedade."
+          }
+        },
+        {
+          "v": {
+            "en-US": "Christ, have mercy.",
+            "pt-BR": "Cristo, tende piedade."
+          },
+          "r": {
+            "en-US": "Christ, have mercy.",
+            "pt-BR": "Cristo, tende piedade."
+          }
+        },
+        {
+          "v": {
+            "en-US": "Lord, have mercy.",
+            "pt-BR": "Senhor, tende piedade."
+          },
+          "r": {
+            "en-US": "Lord, have mercy.",
+            "pt-BR": "Senhor, tende piedade."
+          }
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "en-US": "Christ, hear us.",
+            "pt-BR": "Cristo, ouvi-nos."
+          },
+          "r": {
+            "en-US": "Christ, graciously hear us.",
+            "pt-BR": "Cristo, atendei-nos."
+          }
+        },
+        {
+          "v": {
+            "en-US": "God the Father of Heaven,",
+            "pt-BR": "Deus Pai do Céu,"
+          },
+          "r": {
+            "en-US": "Have mercy on us.",
+            "pt-BR": "Tende piedade de nós."
+          }
+        },
+        {
+          "v": {
+            "en-US": "God the Son, Redeemer of the world,",
+            "pt-BR": "Deus Filho, Redentor do mundo,"
+          },
+          "r": {
+            "en-US": "Have mercy on us.",
+            "pt-BR": "Tende piedade de nós."
+          }
+        },
+        {
+          "v": {
+            "en-US": "God the Holy Spirit,",
+            "pt-BR": "Deus Espírito Santo,"
+          },
+          "r": {
+            "en-US": "Have mercy on us.",
+            "pt-BR": "Tende piedade de nós."
+          }
+        },
+        {
+          "v": {
+            "en-US": "Holy Trinity, one God,",
+            "pt-BR": "Santíssima Trindade, um só Deus,"
+          },
+          "r": {
+            "en-US": "Have mercy on us.",
+            "pt-BR": "Tende piedade de nós."
+          }
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "en-US": "Heart of Jesus, Son of the Eternal Father,",
+            "pt-BR": "Coração de Jesus, Filho do Eterno Pai,"
+          },
+          "r": {
+            "en-US": "Have mercy on us.",
+            "pt-BR": "Tende piedade de nós."
+          }
+        },
+        {
+          "v": {
+            "en-US": "Heart of Jesus, formed by the Holy Spirit in the womb of the Virgin Mother,",
+            "pt-BR": "Coração de Jesus, formado pelo Espírito Santo no seio da Virgem Mãe,"
+          },
+          "r": {
+            "en-US": "Have mercy on us.",
+            "pt-BR": "Tende piedade de nós."
+          }
+        },
+        {
+          "v": {
+            "en-US": "Heart of Jesus, substantially united to the Word of God,",
+            "pt-BR": "Coração de Jesus, substancialmente unido ao Verbo de Deus,"
+          },
+          "r": {
+            "en-US": "Have mercy on us.",
+            "pt-BR": "Tende piedade de nós."
+          }
+        },
+        {
+          "v": {
+            "en-US": "Heart of Jesus, of infinite majesty,",
+            "pt-BR": "Coração de Jesus, de infinita majestade,"
+          },
+          "r": {
+            "en-US": "Have mercy on us.",
+            "pt-BR": "Tende piedade de nós."
+          }
+        },
+        {
+          "v": {
+            "en-US": "Heart of Jesus, holy temple of God,",
+            "pt-BR": "Coração de Jesus, templo sagrado de Deus,"
+          },
+          "r": {
+            "en-US": "Have mercy on us.",
+            "pt-BR": "Tende piedade de nós."
+          }
+        },
+        {
+          "v": {
+            "en-US": "Heart of Jesus, tabernacle of the Most High,",
+            "pt-BR": "Coração de Jesus, tabernáculo do Altíssimo,"
+          },
+          "r": {
+            "en-US": "Have mercy on us.",
+            "pt-BR": "Tende piedade de nós."
+          }
+        },
+        {
+          "v": {
+            "en-US": "Heart of Jesus, house of God and gate of heaven,",
+            "pt-BR": "Coração de Jesus, casa de Deus e porta do céu,"
+          },
+          "r": {
+            "en-US": "Have mercy on us.",
+            "pt-BR": "Tende piedade de nós."
+          }
+        },
+        {
+          "v": {
+            "en-US": "Heart of Jesus, burning furnace of charity,",
+            "pt-BR": "Coração de Jesus, ardente fornalha de caridade,"
+          },
+          "r": {
+            "en-US": "Have mercy on us.",
+            "pt-BR": "Tende piedade de nós."
+          }
+        },
+        {
+          "v": {
+            "en-US": "Heart of Jesus, vessel of justice and love,",
+            "pt-BR": "Coração de Jesus, vaso de justiça e amor,"
+          },
+          "r": {
+            "en-US": "Have mercy on us.",
+            "pt-BR": "Tende piedade de nós."
+          }
+        },
+        {
+          "v": {
+            "en-US": "Heart of Jesus, full of goodness and love,",
+            "pt-BR": "Coração de Jesus, cheio de bondade e amor,"
+          },
+          "r": {
+            "en-US": "Have mercy on us.",
+            "pt-BR": "Tende piedade de nós."
+          }
+        },
+        {
+          "v": {
+            "en-US": "Heart of Jesus, abyss of all virtues,",
+            "pt-BR": "Coração de Jesus, abismo de todas as virtudes,"
+          },
+          "r": {
+            "en-US": "Have mercy on us.",
+            "pt-BR": "Tende piedade de nós."
+          }
+        },
+        {
+          "v": {
+            "en-US": "Heart of Jesus, most worthy of all praise,",
+            "pt-BR": "Coração de Jesus, digníssimo de todo louvor,"
+          },
+          "r": {
+            "en-US": "Have mercy on us.",
+            "pt-BR": "Tende piedade de nós."
+          }
+        },
+        {
+          "v": {
+            "en-US": "Heart of Jesus, King and center of all hearts,",
+            "pt-BR": "Coração de Jesus, Rei e centro de todos os corações,"
+          },
+          "r": {
+            "en-US": "Have mercy on us.",
+            "pt-BR": "Tende piedade de nós."
+          }
+        },
+        {
+          "v": {
+            "en-US": "Heart of Jesus, in whom are all the treasures of wisdom and knowledge,",
+            "pt-BR": "Coração de Jesus, em quem estão todos os tesouros da sabedoria e da ciência,"
+          },
+          "r": {
+            "en-US": "Have mercy on us.",
+            "pt-BR": "Tende piedade de nós."
+          }
+        },
+        {
+          "v": {
+            "en-US": "Heart of Jesus, in whom dwells all the fullness of the Godhead,",
+            "pt-BR": "Coração de Jesus, em quem habita toda a plenitude da Divindade,"
+          },
+          "r": {
+            "en-US": "Have mercy on us.",
+            "pt-BR": "Tende piedade de nós."
+          }
+        },
+        {
+          "v": {
+            "en-US": "Heart of Jesus, in whom the Father is well pleased,",
+            "pt-BR": "Coração de Jesus, em quem o Pai se compraz,"
+          },
+          "r": {
+            "en-US": "Have mercy on us.",
+            "pt-BR": "Tende piedade de nós."
+          }
+        },
+        {
+          "v": {
+            "en-US": "Heart of Jesus, of whose fullness we have all received,",
+            "pt-BR": "Coração de Jesus, da cuja plenitude todos nós recebemos,"
+          },
+          "r": {
+            "en-US": "Have mercy on us.",
+            "pt-BR": "Tende piedade de nós."
+          }
+        },
+        {
+          "v": {
+            "en-US": "Heart of Jesus, desire of the everlasting hills,",
+            "pt-BR": "Coração de Jesus, desejo dos eternos outeiros,"
+          },
+          "r": {
+            "en-US": "Have mercy on us.",
+            "pt-BR": "Tende piedade de nós."
+          }
+        },
+        {
+          "v": {
+            "en-US": "Heart of Jesus, patient and most merciful,",
+            "pt-BR": "Coração de Jesus, paciente e misericordiosíssimo,"
+          },
+          "r": {
+            "en-US": "Have mercy on us.",
+            "pt-BR": "Tende piedade de nós."
+          }
+        },
+        {
+          "v": {
+            "en-US": "Heart of Jesus, enriching all who invoke Thee,",
+            "pt-BR": "Coração de Jesus, que enriqueceis todos os que Vos invocam,"
+          },
+          "r": {
+            "en-US": "Have mercy on us.",
+            "pt-BR": "Tende piedade de nós."
+          }
+        },
+        {
+          "v": {
+            "en-US": "Heart of Jesus, fountain of life and holiness,",
+            "pt-BR": "Coração de Jesus, fonte de vida e santidade,"
+          },
+          "r": {
+            "en-US": "Have mercy on us.",
+            "pt-BR": "Tende piedade de nós."
+          }
+        },
+        {
+          "v": {
+            "en-US": "Heart of Jesus, propitiation for our sins,",
+            "pt-BR": "Coração de Jesus, propiciação pelos nossos pecados,"
+          },
+          "r": {
+            "en-US": "Have mercy on us.",
+            "pt-BR": "Tende piedade de nós."
+          }
+        },
+        {
+          "v": {
+            "en-US": "Heart of Jesus, loaded down with opprobrium,",
+            "pt-BR": "Coração de Jesus, carregado de opróbrios,"
+          },
+          "r": {
+            "en-US": "Have mercy on us.",
+            "pt-BR": "Tende piedade de nós."
+          }
+        },
+        {
+          "v": {
+            "en-US": "Heart of Jesus, bruised for our offenses,",
+            "pt-BR": "Coração de Jesus, esmagado pelas nossas ofensas,"
+          },
+          "r": {
+            "en-US": "Have mercy on us.",
+            "pt-BR": "Tende piedade de nós."
+          }
+        },
+        {
+          "v": {
+            "en-US": "Heart of Jesus, obedient unto death,",
+            "pt-BR": "Coração de Jesus, obediente até à morte,"
+          },
+          "r": {
+            "en-US": "Have mercy on us.",
+            "pt-BR": "Tende piedade de nós."
+          }
+        },
+        {
+          "v": {
+            "en-US": "Heart of Jesus, pierced with a lance,",
+            "pt-BR": "Coração de Jesus, traspassado por uma lança,"
+          },
+          "r": {
+            "en-US": "Have mercy on us.",
+            "pt-BR": "Tende piedade de nós."
+          }
+        },
+        {
+          "v": {
+            "en-US": "Heart of Jesus, source of all consolation,",
+            "pt-BR": "Coração de Jesus, fonte de toda consolação,"
+          },
+          "r": {
+            "en-US": "Have mercy on us.",
+            "pt-BR": "Tende piedade de nós."
+          }
+        },
+        {
+          "v": {
+            "en-US": "Heart of Jesus, our life and resurrection,",
+            "pt-BR": "Coração de Jesus, nossa vida e ressurreição,"
+          },
+          "r": {
+            "en-US": "Have mercy on us.",
+            "pt-BR": "Tende piedade de nós."
+          }
+        },
+        {
+          "v": {
+            "en-US": "Heart of Jesus, our peace and reconciliation,",
+            "pt-BR": "Coração de Jesus, nossa paz e reconciliação,"
+          },
+          "r": {
+            "en-US": "Have mercy on us.",
+            "pt-BR": "Tende piedade de nós."
+          }
+        },
+        {
+          "v": {
+            "en-US": "Heart of Jesus, victim for our sins,",
+            "pt-BR": "Coração de Jesus, vítima pelos nossos pecados,"
+          },
+          "r": {
+            "en-US": "Have mercy on us.",
+            "pt-BR": "Tende piedade de nós."
+          }
+        },
+        {
+          "v": {
+            "en-US": "Heart of Jesus, salvation of those who hope in Thee,",
+            "pt-BR": "Coração de Jesus, salvação dos que em Vós esperam,"
+          },
+          "r": {
+            "en-US": "Have mercy on us.",
+            "pt-BR": "Tende piedade de nós."
+          }
+        },
+        {
+          "v": {
+            "en-US": "Heart of Jesus, hope of those who die in Thee,",
+            "pt-BR": "Coração de Jesus, esperança dos que morrem em Vós,"
+          },
+          "r": {
+            "en-US": "Have mercy on us.",
+            "pt-BR": "Tende piedade de nós."
+          }
+        },
+        {
+          "v": {
+            "en-US": "Heart of Jesus, delight of all the Saints,",
+            "pt-BR": "Coração de Jesus, delícia de todos os Santos,"
+          },
+          "r": {
+            "en-US": "Have mercy on us.",
+            "pt-BR": "Tende piedade de nós."
+          }
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "en-US": "Lamb of God, who takest away the sins of the world,",
+            "pt-BR": "Cordeiro de Deus, que tirais os pecados do mundo,"
+          },
+          "r": {
+            "en-US": "Spare us, O Lord.",
+            "pt-BR": "Perdoai-nos, Senhor."
+          }
+        },
+        {
+          "v": {
+            "en-US": "Lamb of God, who takest away the sins of the world,",
+            "pt-BR": "Cordeiro de Deus, que tirais os pecados do mundo,"
+          },
+          "r": {
+            "en-US": "Graciously hear us, O Lord.",
+            "pt-BR": "Ouvi-nos, Senhor."
+          }
+        },
+        {
+          "v": {
+            "en-US": "Lamb of God, who takest away the sins of the world,",
+            "pt-BR": "Cordeiro de Deus, que tirais os pecados do mundo,"
+          },
+          "r": {
+            "en-US": "Have mercy on us.",
+            "pt-BR": "Tende piedade de nós."
+          }
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "en-US": "Jesus, meek and humble of heart,",
+            "pt-BR": "Jesus, manso e humilde de coração,"
+          },
+          "r": {
+            "en-US": "Make our hearts like unto Thine.",
+            "pt-BR": "Tornai o nosso coração semelhante ao Vosso."
+          }
+        }
+      ]
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Let us pray.",
+        "pt-BR": "Oremos."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Almighty and eternal God, look upon the Heart of Thy most beloved Son and upon the praises and satisfaction which He offers Thee in the name of sinners; and to those who implore Thy mercy, in Thy great goodness, grant forgiveness in the name of the same Jesus Christ, Thy Son, who liveth and reigneth with Thee forever and ever. Amen.",
+        "pt-BR": "Deus onipotente e eterno, olhai para o Coração de Vosso Filho amantíssimo e para os louvores e satisfações que Ele Vos oferece em nome dos pecadores; e a quantos imploram a Vossa misericórdia, pela Vossa grande bondade, concedei o perdão, em nome do mesmo Jesus Cristo, Vosso Filho, que convosco vive e reina pelos séculos dos séculos. Amém."
+      }
+    }
+  ]
 }

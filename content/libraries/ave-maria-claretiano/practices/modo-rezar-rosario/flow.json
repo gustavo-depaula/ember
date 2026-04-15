@@ -1,180 +1,410 @@
 {
-	"data": {
-		"misterios-gozosos": [
-			{
-				"title": { "pt-BR": "Primeiro Mistério" },
-				"meditation": { "pt-BR": "No primeiro mistério contemplamos como a Virgem Maria foi saudada pelo Anjo e lhe foi anunciado que havia de conceber e dar à luz a Cristo, nosso Redentor." }
-			},
-			{
-				"title": { "pt-BR": "Segundo Mistério" },
-				"meditation": { "pt-BR": "No segundo mistério contemplamos como a Virgem Maria foi visitar sua prima Santa Isabel e ficou com ela três meses." }
-			},
-			{
-				"title": { "pt-BR": "Terceiro Mistério" },
-				"meditation": { "pt-BR": "No terceiro mistério contemplamos como a Virgem Maria deu à luz Jesus Cristo, em Belém, e, por não achar lugar na estalagem da cidade, reclinou-o num presépio." }
-			},
-			{
-				"title": { "pt-BR": "Quarto Mistério" },
-				"meditation": { "pt-BR": "No quarto mistério contemplamos como a Virgem Maria, no dia da sua purificação, apresentou seu filho no templo, onde estava o velho Simeão, que, tomando-o em seus braços, louvou e deu muitas graças a Deus." }
-			},
-			{
-				"title": { "pt-BR": "Quinto Mistério" },
-				"meditation": { "pt-BR": "No quinto mistério contemplamos como a Virgem Maria, tendo perdido o seu filho, que, sem ela o saber, ficara em Jerusalém, o encontrou ao terceiro dia no templo, entre os doutores, disputando com êles." }
-			}
-		],
-		"misterios-dolorosos": [
-			{
-				"title": { "pt-BR": "Primeiro Mistério" },
-				"meditation": { "pt-BR": "No primeiro mistério contemplamos como Nosso Senhor Jesus Cristo, no horto, chorou e suou sangue em tanta quantidade, que chegou a correr pela terra." }
-			},
-			{
-				"title": { "pt-BR": "Segundo Mistério" },
-				"meditation": { "pt-BR": "No segundo mistério contemplamos como Nosso Senhor Jesus Cristo foi cruelmente açoitado em casa de Pilatos." }
-			},
-			{
-				"title": { "pt-BR": "Terceiro Mistério" },
-				"meditation": { "pt-BR": "No terceiro mistério contemplamos como Nosso Senhor Jesus Cristo foi coroado de agudos espinhos por seus algozes." }
-			},
-			{
-				"title": { "pt-BR": "Quarto Mistério" },
-				"meditation": { "pt-BR": "No quarto mistério contemplamos como Nosso Senhor Jesus Cristo, sendo condenado à morte, carregou com grande paciência a cruz que lhe puseram aos ombros." }
-			},
-			{
-				"title": { "pt-BR": "Quinto Mistério" },
-				"meditation": { "pt-BR": "No quinto mistério contemplamos como Nosso Senhor Jesus Cristo, chegando ao monte Calvário, foi despido e cravado na cruz, com duros pregos, à vista de sua aflita Mãe." }
-			}
-		],
-		"misterios-gloriosos": [
-			{
-				"title": { "pt-BR": "Primeiro Mistério" },
-				"meditation": { "pt-BR": "No primeiro mistério contemplamos como Nosso Senhor Jesus Cristo, triunfando da morte e dos tormentos, ressuscitou ao terceiro dia, imortal e impassível." }
-			},
-			{
-				"title": { "pt-BR": "Segundo Mistério" },
-				"meditation": { "pt-BR": "No segundo mistério contemplamos como Nosso Senhor Jesus Cristo, quarenta dias depois de sua ressurreição, subiu ao céu, na presença de sua Mãe Santíssima e dos Apóstolos." }
-			},
-			{
-				"title": { "pt-BR": "Terceiro Mistério" },
-				"meditation": { "pt-BR": "No terceiro mistério contemplamos como Nosso Senhor Jesus Cristo, sentado à mão direita de seu eterno Pai, enviou o Espírito Santo sôbre os Apóstolos reunidos no cenáculo em companhia da Virgem Maria." }
-			},
-			{
-				"title": { "pt-BR": "Quarto Mistério" },
-				"meditation": { "pt-BR": "No quarto mistério contemplamos como a Virgem Maria, alguns anos depois da ressurreição de seu filho, passou desta vida e foi levada ao céu pelo mesmo Senhor, acompanhada de coros de Anjos." }
-			},
-			{
-				"title": { "pt-BR": "Quinto Mistério" },
-				"meditation": { "pt-BR": "No quinto mistério contemplamos como a Virgem Maria foi coroada por seu divino Filho no céu." }
-			}
-		]
-	},
-	"sections": [
-		{
-			"type": "select",
-			"on": ["dayOfWeek", "liturgicalSeason"],
-			"label": { "pt-BR": "Mistérios" },
-			"map": {
-				"0:advent": "gozosos",
-				"0:christmas": "gozosos",
-				"0:epiphany": "gozosos",
-				"0:septuagesima": "gozosos",
-				"0:lent": "dolorosos",
-				"0:easter": "gloriosos",
-				"0:post-pentecost": "gloriosos",
-				"1": "gozosos",
-				"2": "dolorosos",
-				"3": "gloriosos",
-				"4": "gozosos",
-				"5": "dolorosos",
-				"6": "gloriosos"
-			},
-			"options": [
-				{
-					"id": "gozosos",
-					"label": { "pt-BR": "Mistérios Gozosos" },
-					"sections": [{ "type": "fragment", "ref": "gozosos" }]
-				},
-				{
-					"id": "dolorosos",
-					"label": { "pt-BR": "Mistérios Dolorosos" },
-					"sections": [{ "type": "fragment", "ref": "dolorosos" }]
-				},
-				{
-					"id": "gloriosos",
-					"label": { "pt-BR": "Mistérios Gloriosos" },
-					"sections": [{ "type": "fragment", "ref": "gloriosos" }]
-				}
-			]
-		}
-	],
-	"fragments": {
-		"opening": [
-			{ "type": "subheading", "text": { "pt-BR": "Orações Iniciais" } },
-			{ "type": "prayer", "ref": "sign-of-cross" },
-			{
-				"type": "response",
-				"verses": [
-					{
-						"v": { "pt-BR": "Meu Deus, em meu favor e amparo atende." },
-						"r": { "pt-BR": "E de meus inimigos me defende." }
-					},
-					{
-						"v": { "pt-BR": "Glória ao Pai, ao Filho e ao Espírito Santo." },
-						"r": { "pt-BR": "Assim como era no princípio, agora e sempre e por todos os séculos dos séculos. Amém." }
-					}
-				]
-			},
-			{ "type": "subheading", "text": { "pt-BR": "Oferecimento do Têrço" } },
-			{
-				"type": "prayer",
-				"inline": {
-					"pt-BR": "Divino Jesus, eu vos ofereço êste Têrço que vou rezar, contemplando os mistérios de nossa Redenção. Concedei-me, pela intercessão de Maria, vossa Mãe Santíssima, a quem me dirijo, as virtudes que me são necessárias para bem rezá-lo e a graça de ganhar as indulgências anexas a esta santa devoção."
-				}
-			},
-			{ "type": "divider" }
-		],
-		"closing": [
-			{ "type": "subheading", "text": { "pt-BR": "Agradecimento" } },
-			{
-				"type": "prayer",
-				"inline": {
-					"pt-BR": "Infinitas graças vos damos, soberana Princesa, pelos benefícios que todos os dias recebemos de vossas mãos liberais. Dignai-vos, agora e para sempre, tomar-nos debaixo do vosso poderoso amparo e, para mais vos obrigar, vos saudamos com uma Salve Rainha."
-				}
-			},
-			{ "type": "prayer", "ref": "hail-holy-queen" },
-			{ "type": "divider" },
-			{ "type": "prayer", "ref": "ladainha-nossa-senhora" }
-		],
-		"decade": [
-			{ "type": "subheading", "text": { "pt-BR": "{{title}}" } },
-			{ "type": "meditation", "text": { "pt-BR": "{{meditation}}" } },
-			{ "type": "prayer", "ref": "our-father" },
-			{ "type": "repeat", "count": 10, "sections": [{ "type": "prayer", "ref": "hail-mary" }] },
-			{ "type": "prayer", "ref": "glory-be" },
-			{ "type": "divider" }
-		],
-		"gozosos": [
-			{ "type": "fragment", "ref": "opening" },
-			{ "type": "heading", "text": { "pt-BR": "Mistérios Gozosos" } },
-			{ "type": "rubric", "text": { "pt-BR": "Segundas e quintas feiras e domingos do Advento até à Quaresma." } },
-			{ "type": "divider" },
-			{ "type": "repeat", "from": "misterios-gozosos", "sections": [{ "type": "fragment", "ref": "decade" }] },
-			{ "type": "fragment", "ref": "closing" }
-		],
-		"dolorosos": [
-			{ "type": "fragment", "ref": "opening" },
-			{ "type": "heading", "text": { "pt-BR": "Mistérios Dolorosos" } },
-			{ "type": "rubric", "text": { "pt-BR": "Têrças e sextas feiras e domingos da Quaresma até à Páscoa." } },
-			{ "type": "divider" },
-			{ "type": "repeat", "from": "misterios-dolorosos", "sections": [{ "type": "fragment", "ref": "decade" }] },
-			{ "type": "fragment", "ref": "closing" }
-		],
-		"gloriosos": [
-			{ "type": "fragment", "ref": "opening" },
-			{ "type": "heading", "text": { "pt-BR": "Mistérios Gloriosos" } },
-			{ "type": "rubric", "text": { "pt-BR": "Quartas feiras, sábados e domingos da Páscoa até o Advento." } },
-			{ "type": "divider" },
-			{ "type": "repeat", "from": "misterios-gloriosos", "sections": [{ "type": "fragment", "ref": "decade" }] },
-			{ "type": "fragment", "ref": "closing" }
-		]
-	}
+  "data": {
+    "misterios-gozosos": [
+      {
+        "title": {
+          "pt-BR": "Primeiro Mistério"
+        },
+        "meditation": {
+          "pt-BR": "No primeiro mistério contemplamos como a Virgem Maria foi saudada pelo Anjo e lhe foi anunciado que havia de conceber e dar à luz a Cristo, nosso Redentor."
+        }
+      },
+      {
+        "title": {
+          "pt-BR": "Segundo Mistério"
+        },
+        "meditation": {
+          "pt-BR": "No segundo mistério contemplamos como a Virgem Maria foi visitar sua prima Santa Isabel e ficou com ela três meses."
+        }
+      },
+      {
+        "title": {
+          "pt-BR": "Terceiro Mistério"
+        },
+        "meditation": {
+          "pt-BR": "No terceiro mistério contemplamos como a Virgem Maria deu à luz Jesus Cristo, em Belém, e, por não achar lugar na estalagem da cidade, reclinou-o num presépio."
+        }
+      },
+      {
+        "title": {
+          "pt-BR": "Quarto Mistério"
+        },
+        "meditation": {
+          "pt-BR": "No quarto mistério contemplamos como a Virgem Maria, no dia da sua purificação, apresentou seu filho no templo, onde estava o velho Simeão, que, tomando-o em seus braços, louvou e deu muitas graças a Deus."
+        }
+      },
+      {
+        "title": {
+          "pt-BR": "Quinto Mistério"
+        },
+        "meditation": {
+          "pt-BR": "No quinto mistério contemplamos como a Virgem Maria, tendo perdido o seu filho, que, sem ela o saber, ficara em Jerusalém, o encontrou ao terceiro dia no templo, entre os doutores, disputando com êles."
+        }
+      }
+    ],
+    "misterios-dolorosos": [
+      {
+        "title": {
+          "pt-BR": "Primeiro Mistério"
+        },
+        "meditation": {
+          "pt-BR": "No primeiro mistério contemplamos como Nosso Senhor Jesus Cristo, no horto, chorou e suou sangue em tanta quantidade, que chegou a correr pela terra."
+        }
+      },
+      {
+        "title": {
+          "pt-BR": "Segundo Mistério"
+        },
+        "meditation": {
+          "pt-BR": "No segundo mistério contemplamos como Nosso Senhor Jesus Cristo foi cruelmente açoitado em casa de Pilatos."
+        }
+      },
+      {
+        "title": {
+          "pt-BR": "Terceiro Mistério"
+        },
+        "meditation": {
+          "pt-BR": "No terceiro mistério contemplamos como Nosso Senhor Jesus Cristo foi coroado de agudos espinhos por seus algozes."
+        }
+      },
+      {
+        "title": {
+          "pt-BR": "Quarto Mistério"
+        },
+        "meditation": {
+          "pt-BR": "No quarto mistério contemplamos como Nosso Senhor Jesus Cristo, sendo condenado à morte, carregou com grande paciência a cruz que lhe puseram aos ombros."
+        }
+      },
+      {
+        "title": {
+          "pt-BR": "Quinto Mistério"
+        },
+        "meditation": {
+          "pt-BR": "No quinto mistério contemplamos como Nosso Senhor Jesus Cristo, chegando ao monte Calvário, foi despido e cravado na cruz, com duros pregos, à vista de sua aflita Mãe."
+        }
+      }
+    ],
+    "misterios-gloriosos": [
+      {
+        "title": {
+          "pt-BR": "Primeiro Mistério"
+        },
+        "meditation": {
+          "pt-BR": "No primeiro mistério contemplamos como Nosso Senhor Jesus Cristo, triunfando da morte e dos tormentos, ressuscitou ao terceiro dia, imortal e impassível."
+        }
+      },
+      {
+        "title": {
+          "pt-BR": "Segundo Mistério"
+        },
+        "meditation": {
+          "pt-BR": "No segundo mistério contemplamos como Nosso Senhor Jesus Cristo, quarenta dias depois de sua ressurreição, subiu ao céu, na presença de sua Mãe Santíssima e dos Apóstolos."
+        }
+      },
+      {
+        "title": {
+          "pt-BR": "Terceiro Mistério"
+        },
+        "meditation": {
+          "pt-BR": "No terceiro mistério contemplamos como Nosso Senhor Jesus Cristo, sentado à mão direita de seu eterno Pai, enviou o Espírito Santo sôbre os Apóstolos reunidos no cenáculo em companhia da Virgem Maria."
+        }
+      },
+      {
+        "title": {
+          "pt-BR": "Quarto Mistério"
+        },
+        "meditation": {
+          "pt-BR": "No quarto mistério contemplamos como a Virgem Maria, alguns anos depois da ressurreição de seu filho, passou desta vida e foi levada ao céu pelo mesmo Senhor, acompanhada de coros de Anjos."
+        }
+      },
+      {
+        "title": {
+          "pt-BR": "Quinto Mistério"
+        },
+        "meditation": {
+          "pt-BR": "No quinto mistério contemplamos como a Virgem Maria foi coroada por seu divino Filho no céu."
+        }
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "select",
+      "on": [
+        "dayOfWeek",
+        "liturgicalSeason"
+      ],
+      "label": {
+        "pt-BR": "Mistérios"
+      },
+      "map": {
+        "0:advent": "gozosos",
+        "0:christmas": "gozosos",
+        "0:epiphany": "gozosos",
+        "0:septuagesima": "gozosos",
+        "0:lent": "dolorosos",
+        "0:easter": "gloriosos",
+        "0:post-pentecost": "gloriosos",
+        "1": "gozosos",
+        "2": "dolorosos",
+        "3": "gloriosos",
+        "4": "gozosos",
+        "5": "dolorosos",
+        "6": "gloriosos"
+      },
+      "options": [
+        {
+          "id": "gozosos",
+          "label": {
+            "pt-BR": "Mistérios Gozosos"
+          },
+          "sections": [
+            {
+              "type": "fragment",
+              "ref": "gozosos"
+            }
+          ]
+        },
+        {
+          "id": "dolorosos",
+          "label": {
+            "pt-BR": "Mistérios Dolorosos"
+          },
+          "sections": [
+            {
+              "type": "fragment",
+              "ref": "dolorosos"
+            }
+          ]
+        },
+        {
+          "id": "gloriosos",
+          "label": {
+            "pt-BR": "Mistérios Gloriosos"
+          },
+          "sections": [
+            {
+              "type": "fragment",
+              "ref": "gloriosos"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "fragments": {
+    "opening": [
+      {
+        "type": "subheading",
+        "text": {
+          "pt-BR": "Orações Iniciais"
+        }
+      },
+      {
+        "type": "prayer",
+        "ref": "ember-default:sign-of-cross"
+      },
+      {
+        "type": "response",
+        "verses": [
+          {
+            "v": {
+              "pt-BR": "Meu Deus, em meu favor e amparo atende."
+            },
+            "r": {
+              "pt-BR": "E de meus inimigos me defende."
+            }
+          },
+          {
+            "v": {
+              "pt-BR": "Glória ao Pai, ao Filho e ao Espírito Santo."
+            },
+            "r": {
+              "pt-BR": "Assim como era no princípio, agora e sempre e por todos os séculos dos séculos. Amém."
+            }
+          }
+        ]
+      },
+      {
+        "type": "subheading",
+        "text": {
+          "pt-BR": "Oferecimento do Têrço"
+        }
+      },
+      {
+        "type": "prayer",
+        "inline": {
+          "pt-BR": "Divino Jesus, eu vos ofereço êste Têrço que vou rezar, contemplando os mistérios de nossa Redenção. Concedei-me, pela intercessão de Maria, vossa Mãe Santíssima, a quem me dirijo, as virtudes que me são necessárias para bem rezá-lo e a graça de ganhar as indulgências anexas a esta santa devoção."
+        }
+      },
+      {
+        "type": "divider"
+      }
+    ],
+    "closing": [
+      {
+        "type": "subheading",
+        "text": {
+          "pt-BR": "Agradecimento"
+        }
+      },
+      {
+        "type": "prayer",
+        "inline": {
+          "pt-BR": "Infinitas graças vos damos, soberana Princesa, pelos benefícios que todos os dias recebemos de vossas mãos liberais. Dignai-vos, agora e para sempre, tomar-nos debaixo do vosso poderoso amparo e, para mais vos obrigar, vos saudamos com uma Salve Rainha."
+        }
+      },
+      {
+        "type": "prayer",
+        "ref": "ember-default:hail-holy-queen"
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "prayer",
+        "ref": "ladainha-nossa-senhora"
+      }
+    ],
+    "decade": [
+      {
+        "type": "subheading",
+        "text": {
+          "pt-BR": "{{title}}"
+        }
+      },
+      {
+        "type": "meditation",
+        "text": {
+          "pt-BR": "{{meditation}}"
+        }
+      },
+      {
+        "type": "prayer",
+        "ref": "ember-default:our-father"
+      },
+      {
+        "type": "repeat",
+        "count": 10,
+        "sections": [
+          {
+            "type": "prayer",
+            "ref": "ember-default:hail-mary"
+          }
+        ]
+      },
+      {
+        "type": "prayer",
+        "ref": "ember-default:glory-be"
+      },
+      {
+        "type": "divider"
+      }
+    ],
+    "gozosos": [
+      {
+        "type": "fragment",
+        "ref": "opening"
+      },
+      {
+        "type": "heading",
+        "text": {
+          "pt-BR": "Mistérios Gozosos"
+        }
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "pt-BR": "Segundas e quintas feiras e domingos do Advento até à Quaresma."
+        }
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "repeat",
+        "from": "misterios-gozosos",
+        "sections": [
+          {
+            "type": "fragment",
+            "ref": "decade"
+          }
+        ]
+      },
+      {
+        "type": "fragment",
+        "ref": "closing"
+      }
+    ],
+    "dolorosos": [
+      {
+        "type": "fragment",
+        "ref": "opening"
+      },
+      {
+        "type": "heading",
+        "text": {
+          "pt-BR": "Mistérios Dolorosos"
+        }
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "pt-BR": "Têrças e sextas feiras e domingos da Quaresma até à Páscoa."
+        }
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "repeat",
+        "from": "misterios-dolorosos",
+        "sections": [
+          {
+            "type": "fragment",
+            "ref": "decade"
+          }
+        ]
+      },
+      {
+        "type": "fragment",
+        "ref": "closing"
+      }
+    ],
+    "gloriosos": [
+      {
+        "type": "fragment",
+        "ref": "opening"
+      },
+      {
+        "type": "heading",
+        "text": {
+          "pt-BR": "Mistérios Gloriosos"
+        }
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "pt-BR": "Quartas feiras, sábados e domingos da Páscoa até o Advento."
+        }
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "repeat",
+        "from": "misterios-gloriosos",
+        "sections": [
+          {
+            "type": "fragment",
+            "ref": "decade"
+          }
+        ]
+      },
+      {
+        "type": "fragment",
+        "ref": "closing"
+      }
+    ]
+  }
 }

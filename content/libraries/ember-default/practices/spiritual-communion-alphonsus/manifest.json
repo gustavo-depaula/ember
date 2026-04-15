@@ -1,10 +1,14 @@
 {
 	"id": "spiritual-communion-alphonsus",
-	"alternativeTo": "spiritual-communion",
 	"icon": "eucharist",
+	"alternativeTo": {
+		"id": "spiritual-communion",
+		"label": { "en-US": "St. Alphonsus Liguori", "pt-BR": "Santo Afonso de Ligório" },
+		"description": { "en-US": "The classic form by St. Alphonsus Liguori, Doctor of the Church" }
+	},
 	"name": {
-		"en-US": "Spiritual Communion (St. Alphonsus Liguori)",
-		"pt-BR": "Comunhão Espiritual (Santo Afonso de Ligório)"
+		"en-US": "Act of Spiritual Communion",
+		"pt-BR": "Ato de Comunhão Espiritual"
 	},
 	"categories": [
 		"eucharist",

@@ -17,6 +17,7 @@ import {
 } from '@/components'
 import { getSeasonalSymbol } from '@/components/SectionDivider'
 import { getManifest } from '@/content/registry'
+import { useEventStore } from '@/db/events'
 import { useYearCalendar } from '@/features/calendar'
 import {
   CelebrationOfDay,
@@ -94,12 +95,14 @@ export default function HomeScreen() {
 
   const handlePressItem = useCallback(
     (practiceId: string) => {
-      const manifest = getManifest(practiceId)
+      const practice = useEventStore.getState().practices.get(practiceId)
+      const resolvedId = practice?.active_variant ?? practiceId
+      const manifest = getManifest(resolvedId)
       if (!manifest) {
         router.push({ pathname: '/plan/[practiceId]', params: { practiceId } })
         return
       }
-      router.push({ pathname: '/pray/[practiceId]', params: { practiceId } })
+      router.push({ pathname: '/pray/[practiceId]', params: { practiceId: resolvedId } })
     },
     [router],
   )

@@ -1,60 +1,60 @@
 {
-	"sections": [
-		{
-			"type": "prayer",
-			"ref": "sign-of-cross"
-		},
-		{
-			"type": "divider"
-		},
-		{
-			"type": "rubric",
-			"text": {
-				"pt-BR": "Tendo feito o sinal da cruz, ajoelha-te e reza:"
-			}
-		},
-		{
-			"type": "prayer",
-			"inline": {
-				"pt-BR": "Ó! meu Deus, eu vos adoro e vos amo de todo o meu coração. Eu vos dou graças por me haverdes criado, feito cristão e conservado nesta noite. Eu vos ofereço todos os meus pensamentos, todas as minhas palavras e obras. Seja tudo por vosso amor.\nHumildemente vos peço, em nome de Jesus e pela intercessão de Maria: preservai-me de todo o mal. Amém."
-			}
-		},
-		{
-			"type": "divider"
-		},
-		{
-			"type": "rubric",
-			"text": {
-				"pt-BR": "Depois reza o Pai Nosso, a Ave Maria, o Creio em Deus Pai, os atos de fé, esperança, caridade e a Salve Rainha."
-			}
-		},
-		{
-			"type": "prayer",
-			"ref": "our-father"
-		},
-		{
-			"type": "prayer",
-			"ref": "hail-mary"
-		},
-		{
-			"type": "prayer",
-			"ref": "apostles-creed"
-		},
-		{
-			"type": "subheading",
-			"text": {
-				"pt-BR": "Atos de Fé, Esperança e Caridade"
-			}
-		},
-		{
-			"type": "prayer",
-			"inline": {
-				"pt-BR": "Ó! meu Deus, creio em vós, porque sois a verdade eterna; aumentai a minha fé.\nÓ! meu Deus, espero em vós, porque sois sempre fiel nas vossas promessas; fortificai a minha esperança.\nÓ! meu Deus, eu vos amo de todo o meu coração, porque sois infinitamente bom e amável; por vosso amor amo também ao meu próximo como a mim mesmo; inflamai o meu amor.\nNesta fé, nesta esperança e neste amor quero viver e morrer. Amém."
-			}
-		},
-		{
-			"type": "prayer",
-			"ref": "hail-holy-queen"
-		}
-	]
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "ember-default:sign-of-cross"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "pt-BR": "Tendo feito o sinal da cruz, ajoelha-te e reza:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "pt-BR": "Ó! meu Deus, eu vos adoro e vos amo de todo o meu coração. Eu vos dou graças por me haverdes criado, feito cristão e conservado nesta noite. Eu vos ofereço todos os meus pensamentos, todas as minhas palavras e obras. Seja tudo por vosso amor.\nHumildemente vos peço, em nome de Jesus e pela intercessão de Maria: preservai-me de todo o mal. Amém."
+      }
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "pt-BR": "Depois reza o Pai Nosso, a Ave Maria, o Creio em Deus Pai, os atos de fé, esperança, caridade e a Salve Rainha."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "ember-default:our-father"
+    },
+    {
+      "type": "prayer",
+      "ref": "ember-default:hail-mary"
+    },
+    {
+      "type": "prayer",
+      "ref": "ember-default:apostles-creed"
+    },
+    {
+      "type": "subheading",
+      "text": {
+        "pt-BR": "Atos de Fé, Esperança e Caridade"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "pt-BR": "Ó! meu Deus, creio em vós, porque sois a verdade eterna; aumentai a minha fé.\nÓ! meu Deus, espero em vós, porque sois sempre fiel nas vossas promessas; fortificai a minha esperança.\nÓ! meu Deus, eu vos amo de todo o meu coração, porque sois infinitamente bom e amável; por vosso amor amo também ao meu próximo como a mim mesmo; inflamai o meu amor.\nNesta fé, nesta esperança e neste amor quero viver e morrer. Amém."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "ember-default:hail-holy-queen"
+    }
+  ]
 }

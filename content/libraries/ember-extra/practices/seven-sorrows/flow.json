@@ -1,155 +1,155 @@
 {
-	"data": {
-		"sorrow": [
-			{
-				"name": {
-					"en-US": "The Prophecy of Simeon",
-					"pt-BR": "A Profecia de Simeão"
-				},
-				"meditation": {
-					"en-US": "When the holy elder Simeon took the Child Jesus in his arms and announced that He would be a sign of contradiction and that a sword of sorrow would pierce Mary's heart, her joy as Mother was overshadowed by grief. She accepted this prophetic sorrow in union with her Son's redeeming mission.",
-					"pt-BR": "Quando o santo ancião Simeão tomou o Menino Jesus nos braços e anunciou que Ele seria sinal de contradição e que uma espada de dor traspassaria o coração de Maria, a alegria de Mãe foi ofuscada pela tristeza. Ela aceitou essa dor profética em união com a missão redentora de seu Filho."
-				}
-			},
-			{
-				"name": {
-					"en-US": "The Flight into Egypt",
-					"pt-BR": "A Fuga para o Egito"
-				},
-				"meditation": {
-					"en-US": "An angel warns Joseph to flee with Mary and the Child to Egypt to escape Herod's massacre. Mary, far from her homeland, is a refugee carrying God Himself. She trusted in Providence even in exile and uncertainty.",
-					"pt-BR": "Um anjo avisa José para fugir com Maria e o Menino para o Egito a fim de escapar do massacre de Herodes. Maria, longe de sua pátria, é refugiada carregando o próprio Deus. Confiou na Providência mesmo no exílio e na incerteza."
-				}
-			},
-			{
-				"name": {
-					"en-US": "The Loss of Jesus in the Temple",
-					"pt-BR": "A Perda de Jesus no Templo"
-				},
-				"meditation": {
-					"en-US": "On returning from Jerusalem, Mary and Joseph discover that the twelve-year-old Jesus is not in their company. For three days they search in grief and anxiety, until they find Him in the Temple. This sorrow purified their faith and trust.",
-					"pt-BR": "Ao retornar de Jerusalém, Maria e José descobrem que Jesus, com doze anos, não está em sua companhia. Por três dias buscam com angústia e tristeza, até encontrá-Lo no Templo. Essa dor purificou a fé e a confiança deles."
-				}
-			},
-			{
-				"name": {
-					"en-US": "Mary Meets Jesus on the Way to Calvary",
-					"pt-BR": "Maria Encontra Jesus no Caminho do Calvário"
-				},
-				"meditation": {
-					"en-US": "Mary encounters her Son as He carries the Cross through the streets of Jerusalem. Their eyes meet, sharing a love deeper than words. She walks with Him on the way of sorrow, uniting her maternal suffering to His redemptive Passion.",
-					"pt-BR": "Maria encontra seu Filho carregando a Cruz pelas ruas de Jerusalém. Seus olhares se cruzam, partilhando um amor mais profundo que palavras. Ela caminha com Ele no caminho da dor, unindo seu sofrimento materno à Paixão redentora."
-				}
-			},
-			{
-				"name": {
-					"en-US": "The Crucifixion and Death of Jesus",
-					"pt-BR": "A Crucificação e a Morte de Jesus"
-				},
-				"meditation": {
-					"en-US": "Mary stands at the foot of the Cross as her Son is crucified. She does not flee; she remains, offering her own soul in union with the sacrifice of Calvary. No human suffering has ever equaled the compassion of the Mother of God at the Cross.",
-					"pt-BR": "Maria fica ao pé da Cruz enquanto seu Filho é crucificado. Ela não foge; permanece, oferecendo sua própria alma em união com o sacrifício do Calvário. Nenhum sofrimento humano jamais igualou a compaixão da Mãe de Deus diante da Cruz."
-				}
-			},
-			{
-				"name": {
-					"en-US": "Jesus Is Taken Down from the Cross",
-					"pt-BR": "Jesus É Descido da Cruz"
-				},
-				"meditation": {
-					"en-US": "When Jesus is taken down from the Cross, His lifeless body is placed in Mary's arms. This moment — the Pietà — is the consummation of all her sorrows. She holds in her arms the same body she bore in her womb, now broken for our salvation.",
-					"pt-BR": "Quando Jesus é descido da Cruz, Seu corpo sem vida é colocado nos braços de Maria. Esse momento — a Pietà — é o cume de todas as suas dores. Ela segura nos braços o mesmo corpo que carregou em seu seio, agora partido por nossa salvação."
-				}
-			},
-			{
-				"name": {
-					"en-US": "The Burial of Jesus",
-					"pt-BR": "A Sepultação de Jesus"
-				},
-				"meditation": {
-					"en-US": "Mary watches as the body of her Son is wrapped in a shroud and placed in the sealed tomb. She is left in the silence of Holy Saturday — stripped of everything, clinging only to faith and hope. Her perseverance in this darkness is a model for all who suffer.",
-					"pt-BR": "Maria observa enquanto o corpo de seu Filho é envolto em mortalha e colocado no túmulo selado. Ela fica no silêncio do Sábado Santo — despojada de tudo, agarrada apenas à fé e à esperança. Sua perseverança nessa escuridão é modelo para todos que sofrem."
-				}
-			}
-		]
-	},
-	"sections": [
-		{
-			"type": "prayer",
-			"ref": "sign-of-cross"
-		},
-		{
-			"type": "rubric",
-			"text": {
-				"en-US": "We begin with three Hail Marys in memory of the tears of the Blessed Virgin Mary.",
-				"pt-BR": "Começamos com três Ave-Marias em memória das lágrimas da Virgem Maria."
-			}
-		},
-		{
-			"type": "repeat",
-			"count": 3,
-			"sections": [
-				{
-					"type": "prayer",
-					"ref": "hail-mary"
-				}
-			]
-		},
-		{
-			"type": "divider"
-		},
-		{
-			"type": "repeat",
-			"count": 7,
-			"from": "sorrow",
-			"sections": [
-				{
-					"type": "heading",
-					"text": {
-						"en-US": "{{ordinal}} Sorrow: {{name}}",
-						"pt-BR": "{{ordinal}} Dor: {{name}}"
-					}
-				},
-				{
-					"type": "response",
-					"verses": [
-						{
-							"v": {
-								"en-US": "We grieve for thee, O Mary, for this thy sorrow,",
-								"pt-BR": "Condoemo-nos contigo, ó Maria, por esta tua dor,"
-							},
-							"r": {
-								"en-US": "Have mercy on us and on the souls in Purgatory.",
-								"pt-BR": "Tende piedade de nós e das almas do Purgatório."
-							}
-						}
-					]
-				},
-				{
-					"type": "meditation",
-					"text": "{{meditation}}"
-				},
-				{
-					"type": "repeat",
-					"count": 7,
-					"sections": [
-						{
-							"type": "prayer",
-							"ref": "hail-mary"
-						}
-					]
-				},
-				{
-					"type": "divider"
-				}
-			]
-		},
-		{
-			"type": "prayer",
-			"inline": {
-				"en-US": "Queen of Martyrs, whose heart suffered so incomprehensible a sorrow, assist me in the trials of my life and at the hour of my death. Give me a tender compassion for the sufferings of others, and the grace of final perseverance. Amen.",
-				"pt-BR": "Rainha dos Mártires, cujo coração sofreu uma dor tão incompreensível, assisti-me nas tribulações desta vida e na hora da minha morte. Dai-me uma terna compaixão pelos sofrimentos alheios e a graça da perseverança final. Amém."
-			}
-		}
-	]
+  "data": {
+    "sorrow": [
+      {
+        "name": {
+          "en-US": "The Prophecy of Simeon",
+          "pt-BR": "A Profecia de Simeão"
+        },
+        "meditation": {
+          "en-US": "When the holy elder Simeon took the Child Jesus in his arms and announced that He would be a sign of contradiction and that a sword of sorrow would pierce Mary's heart, her joy as Mother was overshadowed by grief. She accepted this prophetic sorrow in union with her Son's redeeming mission.",
+          "pt-BR": "Quando o santo ancião Simeão tomou o Menino Jesus nos braços e anunciou que Ele seria sinal de contradição e que uma espada de dor traspassaria o coração de Maria, a alegria de Mãe foi ofuscada pela tristeza. Ela aceitou essa dor profética em união com a missão redentora de seu Filho."
+        }
+      },
+      {
+        "name": {
+          "en-US": "The Flight into Egypt",
+          "pt-BR": "A Fuga para o Egito"
+        },
+        "meditation": {
+          "en-US": "An angel warns Joseph to flee with Mary and the Child to Egypt to escape Herod's massacre. Mary, far from her homeland, is a refugee carrying God Himself. She trusted in Providence even in exile and uncertainty.",
+          "pt-BR": "Um anjo avisa José para fugir com Maria e o Menino para o Egito a fim de escapar do massacre de Herodes. Maria, longe de sua pátria, é refugiada carregando o próprio Deus. Confiou na Providência mesmo no exílio e na incerteza."
+        }
+      },
+      {
+        "name": {
+          "en-US": "The Loss of Jesus in the Temple",
+          "pt-BR": "A Perda de Jesus no Templo"
+        },
+        "meditation": {
+          "en-US": "On returning from Jerusalem, Mary and Joseph discover that the twelve-year-old Jesus is not in their company. For three days they search in grief and anxiety, until they find Him in the Temple. This sorrow purified their faith and trust.",
+          "pt-BR": "Ao retornar de Jerusalém, Maria e José descobrem que Jesus, com doze anos, não está em sua companhia. Por três dias buscam com angústia e tristeza, até encontrá-Lo no Templo. Essa dor purificou a fé e a confiança deles."
+        }
+      },
+      {
+        "name": {
+          "en-US": "Mary Meets Jesus on the Way to Calvary",
+          "pt-BR": "Maria Encontra Jesus no Caminho do Calvário"
+        },
+        "meditation": {
+          "en-US": "Mary encounters her Son as He carries the Cross through the streets of Jerusalem. Their eyes meet, sharing a love deeper than words. She walks with Him on the way of sorrow, uniting her maternal suffering to His redemptive Passion.",
+          "pt-BR": "Maria encontra seu Filho carregando a Cruz pelas ruas de Jerusalém. Seus olhares se cruzam, partilhando um amor mais profundo que palavras. Ela caminha com Ele no caminho da dor, unindo seu sofrimento materno à Paixão redentora."
+        }
+      },
+      {
+        "name": {
+          "en-US": "The Crucifixion and Death of Jesus",
+          "pt-BR": "A Crucificação e a Morte de Jesus"
+        },
+        "meditation": {
+          "en-US": "Mary stands at the foot of the Cross as her Son is crucified. She does not flee; she remains, offering her own soul in union with the sacrifice of Calvary. No human suffering has ever equaled the compassion of the Mother of God at the Cross.",
+          "pt-BR": "Maria fica ao pé da Cruz enquanto seu Filho é crucificado. Ela não foge; permanece, oferecendo sua própria alma em união com o sacrifício do Calvário. Nenhum sofrimento humano jamais igualou a compaixão da Mãe de Deus diante da Cruz."
+        }
+      },
+      {
+        "name": {
+          "en-US": "Jesus Is Taken Down from the Cross",
+          "pt-BR": "Jesus É Descido da Cruz"
+        },
+        "meditation": {
+          "en-US": "When Jesus is taken down from the Cross, His lifeless body is placed in Mary's arms. This moment — the Pietà — is the consummation of all her sorrows. She holds in her arms the same body she bore in her womb, now broken for our salvation.",
+          "pt-BR": "Quando Jesus é descido da Cruz, Seu corpo sem vida é colocado nos braços de Maria. Esse momento — a Pietà — é o cume de todas as suas dores. Ela segura nos braços o mesmo corpo que carregou em seu seio, agora partido por nossa salvação."
+        }
+      },
+      {
+        "name": {
+          "en-US": "The Burial of Jesus",
+          "pt-BR": "A Sepultação de Jesus"
+        },
+        "meditation": {
+          "en-US": "Mary watches as the body of her Son is wrapped in a shroud and placed in the sealed tomb. She is left in the silence of Holy Saturday — stripped of everything, clinging only to faith and hope. Her perseverance in this darkness is a model for all who suffer.",
+          "pt-BR": "Maria observa enquanto o corpo de seu Filho é envolto em mortalha e colocado no túmulo selado. Ela fica no silêncio do Sábado Santo — despojada de tudo, agarrada apenas à fé e à esperança. Sua perseverança nessa escuridão é modelo para todos que sofrem."
+        }
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "ember-default:sign-of-cross"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "We begin with three Hail Marys in memory of the tears of the Blessed Virgin Mary.",
+        "pt-BR": "Começamos com três Ave-Marias em memória das lágrimas da Virgem Maria."
+      }
+    },
+    {
+      "type": "repeat",
+      "count": 3,
+      "sections": [
+        {
+          "type": "prayer",
+          "ref": "ember-default:hail-mary"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "repeat",
+      "count": 7,
+      "from": "sorrow",
+      "sections": [
+        {
+          "type": "heading",
+          "text": {
+            "en-US": "{{ordinal}} Sorrow: {{name}}",
+            "pt-BR": "{{ordinal}} Dor: {{name}}"
+          }
+        },
+        {
+          "type": "response",
+          "verses": [
+            {
+              "v": {
+                "en-US": "We grieve for thee, O Mary, for this thy sorrow,",
+                "pt-BR": "Condoemo-nos contigo, ó Maria, por esta tua dor,"
+              },
+              "r": {
+                "en-US": "Have mercy on us and on the souls in Purgatory.",
+                "pt-BR": "Tende piedade de nós e das almas do Purgatório."
+              }
+            }
+          ]
+        },
+        {
+          "type": "meditation",
+          "text": "{{meditation}}"
+        },
+        {
+          "type": "repeat",
+          "count": 7,
+          "sections": [
+            {
+              "type": "prayer",
+              "ref": "ember-default:hail-mary"
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        }
+      ]
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Queen of Martyrs, whose heart suffered so incomprehensible a sorrow, assist me in the trials of my life and at the hour of my death. Give me a tender compassion for the sufferings of others, and the grace of final perseverance. Amen.",
+        "pt-BR": "Rainha dos Mártires, cujo coração sofreu uma dor tão incompreensível, assisti-me nas tribulações desta vida e na hora da minha morte. Dai-me uma terna compaixão pelos sofrimentos alheios e a graça da perseverança final. Amém."
+      }
+    }
+  ]
 }

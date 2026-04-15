@@ -1,10 +1,14 @@
 {
 	"id": "act-contrition-perfect",
-	"alternativeTo": "act-contrition",
 	"icon": "cross",
+	"alternativeTo": {
+		"id": "act-contrition",
+		"label": { "en-US": "Perfect Contrition", "pt-BR": "Contrição Perfeita" },
+		"description": { "en-US": "An act of perfect contrition, arising from love of God" }
+	},
 	"name": {
-		"en-US": "Act of Perfect Contrition",
-		"pt-BR": "Ato de Contrição Perfeita"
+		"en-US": "Act of Contrition",
+		"pt-BR": "Ato de Contrição"
 	},
 	"categories": [
 		"daily",

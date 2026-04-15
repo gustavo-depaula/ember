@@ -6,6 +6,7 @@ export type UserPractice = {
   custom_name: string | null
   custom_icon: string | null
   custom_desc: string | null
+  active_variant: string | null
   archived: number
 }
 

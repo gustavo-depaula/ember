@@ -19,7 +19,7 @@ See `docs/README.md` for the full mission, roadmap, and what's built.
 All content is packaged into **libraries** distributed as `.pray` files (zip archives). A library can hold prayers, practices, chapters, and books. The app ships with no bundled practices — content downloads from Hearth on first launch.
 
 - **Practices are pure JSON.** Adding a practice means writing a `manifest.json` + `flow.json` — no app code. The flow DSL (`select`, `repeat`, `cycle`, `proper`) describes anything from a simple prayer to the Mass.
-- **Content resolution:** `apps/app/src/content/registry.ts` aggregates installed libraries. Prayer refs resolve via library-local → dependencies → global chain.
+- **Content resolution:** `apps/app/src/content/registry.ts` aggregates installed libraries. Prayer refs resolve library-local → global. Each `.pray` package is self-contained; cross-library prayer refs use qualified IDs (`libraryId:prayerId`) in source flow.json files and are vendored at build time by `scripts/vendor-prayers.py`.
 - **Flow engine:** `packages/content-engine/` — practice-agnostic, turns declarative flow JSON into renderable sections. Accepts deps via `EngineContext`.
 - **Source of truth:** `content/libraries/` — all library source dirs, deployed to Hearth as `.pray` files via `scripts/build-libraries.sh`.
 

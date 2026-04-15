@@ -18,9 +18,6 @@
     "devotion",
     "marian"
   ],
-  "dependencies": [
-    "ember-default"
-  ],
   "practices": [
     "rosary-54-day-novena",
     "divine-mercy-novena",

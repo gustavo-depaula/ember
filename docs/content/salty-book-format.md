@@ -296,7 +296,6 @@ type Library = {
   chapters?: string[]               // Chapter IDs (match dirs in chapters/)
   books?: string[]                  // Book IDs (match dirs in books/)
   contents?: ContentEntry[]         // Unified display ordering (interleaves all types)
-  dependencies?: string[]           // Library IDs for prayer resolution chain
   defaults?: { autoSeed: boolean }  // If true, seed practices into plan on install
 
   // Future (not yet implemented):
@@ -552,8 +551,7 @@ Example (4-level, deep hierarchy):
     { "type": "book", "id": "montfort-true-devotion" },
     { "type": "book", "id": "montfort-love-wisdom" },
     { "type": "practice", "id": "total-consecration" }
-  ],
-  "dependencies": ["ember-default"]
+  ]
 }
 ```
 

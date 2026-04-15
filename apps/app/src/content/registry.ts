@@ -3,81 +3,146 @@ import type { ChapterManifest, PracticeManifest } from './manifest-types'
 import type { BookEntry, ContentSource, PrayerAsset } from './sources/filesystem'
 import type { CycleData, FlowDefinition, LectioTrackDef, LocalizedContent } from './types'
 
+// --- Qualified ID helpers ---
+
+export function qualifyId(libraryId: string, practiceId: string): string {
+  return `${libraryId}:${practiceId}`
+}
+
+export function parseQualifiedId(qualifiedId: string): { libraryId: string; practiceId: string } {
+  const idx = qualifiedId.indexOf(':')
+  if (idx === -1) return { libraryId: '', practiceId: qualifiedId }
+  return { libraryId: qualifiedId.slice(0, idx), practiceId: qualifiedId.slice(idx + 1) }
+}
+
+// --- Internal state ---
+
+type QualifiedEntry = { manifest: PracticeManifest; libraryId: string; practiceId: string }
+
 const sources: ContentSource[] = []
-const practiceToLibrary = new Map<string, string>()
 const libraryIdToSource = new Map<string, ContentSource>()
+const qualifiedEntries = new Map<string, QualifiedEntry>()
+// groupId → qualified IDs of members (built at registration time)
+const groupIndex = new Map<string, string[]>()
+
+// --- Registration ---
 
 export function registerSource(source: ContentSource) {
   const existing = sources.findIndex((s) => s.libraryId === source.libraryId)
-  if (existing !== -1) sources.splice(existing, 1)
+  if (existing !== -1) {
+    for (const [qid, entry] of qualifiedEntries) {
+      if (entry.libraryId === source.libraryId) qualifiedEntries.delete(qid)
+    }
+    sources.splice(existing, 1)
+  }
   sources.push(source)
   libraryIdToSource.set(source.libraryId, source)
+
   for (const m of source.getAllManifests()) {
-    practiceToLibrary.set(m.id, source.libraryId)
+    const qid = qualifyId(source.libraryId, m.id)
+    qualifiedEntries.set(qid, {
+      manifest: { ...m, id: qid },
+      libraryId: source.libraryId,
+      practiceId: m.id,
+    })
+    if (m.alternativeTo) {
+      const groupId = m.alternativeTo.id
+      const list = groupIndex.get(groupId)
+      if (list) list.push(qid)
+      else groupIndex.set(groupId, [qid])
+    }
   }
 }
 
 export function unregisterSource(libraryId: string) {
   const idx = sources.findIndex((s) => s.libraryId === libraryId)
   if (idx === -1) return
-  const source = sources[idx]
-  for (const m of source.getAllManifests()) {
-    practiceToLibrary.delete(m.id)
+  for (const [qid, entry] of qualifiedEntries) {
+    if (entry.libraryId === libraryId) {
+      qualifiedEntries.delete(qid)
+      removeFromGroupIndex(entry.manifest.alternativeTo?.id, qid)
+    }
   }
   sources.splice(idx, 1)
   libraryIdToSource.delete(libraryId)
 }
 
+function removeFromGroupIndex(groupId: string | undefined, qid: string) {
+  if (!groupId) return
+  const list = groupIndex.get(groupId)
+  if (!list) return
+  const i = list.indexOf(qid)
+  if (i !== -1) list.splice(i, 1)
+  if (list.length === 0) groupIndex.delete(groupId)
+}
+
 export function clearSources() {
   sources.length = 0
-  practiceToLibrary.clear()
   libraryIdToSource.clear()
+  qualifiedEntries.clear()
+  groupIndex.clear()
 }
 
-function findSource(practiceId: string): ContentSource | undefined {
-  const libraryId = practiceToLibrary.get(practiceId)
-  if (libraryId) return libraryIdToSource.get(libraryId)
-  for (const source of sources) {
-    if (source.getManifest(practiceId)) return source
-  }
-  return undefined
+// --- Lookups (all accept qualified IDs) ---
+
+function findSourceForQualified(qualifiedId: string):
+  | {
+      source: ContentSource
+      practiceId: string
+    }
+  | undefined {
+  const entry = qualifiedEntries.get(qualifiedId)
+  if (!entry) return undefined
+  const source = libraryIdToSource.get(entry.libraryId)
+  if (!source) return undefined
+  return { source, practiceId: entry.practiceId }
 }
 
-export function getLibraryIdForPractice(practiceId: string): string | undefined {
-  return practiceToLibrary.get(practiceId)
+export function getLibraryIdForPractice(qualifiedId: string): string | undefined {
+  return qualifiedEntries.get(qualifiedId)?.libraryId
 }
 
-export function getManifest(id: string): PracticeManifest | undefined {
-  return findSource(id)?.getManifest(id)
+export function getManifest(qualifiedId: string): PracticeManifest | undefined {
+  return qualifiedEntries.get(qualifiedId)?.manifest
 }
 
 export function getAllManifests(): PracticeManifest[] {
-  return sources.flatMap((s) => s.getAllManifests())
+  return [...qualifiedEntries.values()].map((e) => e.manifest)
 }
 
-export function loadFlow(practiceId: string): FlowDefinition | undefined {
-  return findSource(practiceId)?.loadFlow(practiceId)
+export function loadFlow(qualifiedId: string): FlowDefinition | undefined {
+  const found = findSourceForQualified(qualifiedId)
+  if (!found) return undefined
+  return found.source.loadFlow(found.practiceId)
 }
 
-export function loadPerDayFlow(practiceId: string, day: number): FlowDefinition | undefined {
-  return findSource(practiceId)?.loadPerDayFlow(practiceId, day)
+export function loadPerDayFlow(qualifiedId: string, day: number): FlowDefinition | undefined {
+  const found = findSourceForQualified(qualifiedId)
+  if (!found) return undefined
+  return found.source.loadPerDayFlow(found.practiceId, day)
 }
 
-export function loadPracticeData(practiceId: string): Record<string, CycleData> | undefined {
-  return findSource(practiceId)?.loadData(practiceId)
+export function loadPracticeData(qualifiedId: string): Record<string, CycleData> | undefined {
+  const found = findSourceForQualified(qualifiedId)
+  if (!found) return undefined
+  return found.source.loadData(found.practiceId)
 }
 
-export function loadPracticeTracks(practiceId: string): Record<string, LectioTrackDef> | undefined {
-  return findSource(practiceId)?.loadTracks(practiceId)
+export function loadPracticeTracks(
+  qualifiedId: string,
+): Record<string, LectioTrackDef> | undefined {
+  const found = findSourceForQualified(qualifiedId)
+  if (!found) return undefined
+  return found.source.loadTracks(found.practiceId)
 }
 
-export function getManifestIconKey(manifestId: string): string {
-  return getManifest(manifestId)?.icon ?? 'prayer'
+export function getManifestIconKey(qualifiedId: string): string {
+  return getManifest(qualifiedId)?.icon ?? 'prayer'
 }
 
 export function getManifestCategories(): string[] {
   const cats = new Set<string>()
-  for (const m of getAllManifests()) {
+  for (const { manifest: m } of qualifiedEntries.values()) {
     for (const c of m.categories) cats.add(c)
   }
   return Array.from(cats).sort()
@@ -93,18 +158,61 @@ export function searchManifests(query: string): PracticeManifest[] {
   })
 }
 
+// --- Alternative groups ---
+
+export type AlternativeGroup = {
+  groupId: string // unqualified, from alternativeTo.id
+  members: Array<{
+    manifest: PracticeManifest // with qualified id
+    label: string // localized alternativeTo.label
+    description: string // localized alternativeTo.description
+  }>
+}
+
+export function getAlternativeGroup(qualifiedId: string): AlternativeGroup | undefined {
+  const entry = qualifiedEntries.get(qualifiedId)
+  if (!entry?.manifest.alternativeTo) return undefined
+
+  const groupId = entry.manifest.alternativeTo.id
+  const qids = groupIndex.get(groupId)
+  if (!qids || qids.length < 2) return undefined
+
+  const members: AlternativeGroup['members'] = []
+  for (const qid of qids) {
+    const e = qualifiedEntries.get(qid)
+    if (!e?.manifest.alternativeTo) continue
+    members.push({
+      manifest: e.manifest,
+      label: localizeContent(e.manifest.alternativeTo.label),
+      description: localizeContent(e.manifest.alternativeTo.description),
+    })
+  }
+
+  members.sort((a, b) => a.label.localeCompare(b.label))
+  return { groupId, members }
+}
+
+/** Check if any member of a practice's alternative group is already in a collection of practice IDs */
+export function findGroupMemberInSet(
+  qualifiedId: string,
+  practiceIds: { has(key: string): boolean },
+): string | undefined {
+  const group = getAlternativeGroup(qualifiedId)
+  if (!group) return undefined
+  for (const member of group.members) {
+    if (practiceIds.has(member.manifest.id)) return member.manifest.id
+  }
+  return undefined
+}
+
+// --- Prayer / canticle resolution ---
+
 export function resolvePrayer(ref: string, libraryId?: string): PrayerAsset | undefined {
   if (libraryId) {
     const source = libraryIdToSource.get(libraryId)
     if (source) {
       const prayer = source.getPrayer(ref)
       if (prayer) return prayer
-      if (source.library.dependencies) {
-        for (const depId of source.library.dependencies) {
-          const depPrayer = libraryIdToSource.get(depId)?.getPrayer(ref)
-          if (depPrayer) return depPrayer
-        }
-      }
     }
   }
   for (const s of sources) {
@@ -122,10 +230,14 @@ export function resolveCanticle(ref: string): PrayerAsset | undefined {
   return undefined
 }
 
+// --- Library-scoped lookups ---
+
 export function getPracticeIdsForLibrary(libraryId: string): string[] {
-  const source = libraryIdToSource.get(libraryId)
-  if (!source) return []
-  return source.getAllManifests().map((m) => m.id)
+  const result: string[] = []
+  for (const [qid, entry] of qualifiedEntries) {
+    if (entry.libraryId === libraryId) result.push(qid)
+  }
+  return result
 }
 
 export function getInstalledLibraryIds(): string[] {

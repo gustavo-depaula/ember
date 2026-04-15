@@ -14,8 +14,7 @@ import {
   SectionDivider,
 } from '@/components'
 import { PracticeIcon } from '@/components/PracticeIcon'
-import { getManifest, loadPracticeTracks } from '@/content/registry'
-import { getPractice } from '@/db/repositories'
+import { getAlternativeGroup, getManifest, loadPracticeTracks } from '@/content/registry'
 import { useCursorsForPractice } from '@/features/divine-office'
 import {
   enrichSlot,
@@ -24,13 +23,16 @@ import {
   useAddSlot,
   useArchivePractice,
   useDeleteSlot,
+  usePractice,
   usePracticeCompletionStats,
   useProgramProgress,
   useSlotsForPractice,
   useUnarchivePractice,
+  useUpdatePractice,
   useUpdateSlot,
 } from '@/features/plan-of-life'
 import { SlotConfigurator } from '@/features/plan-of-life/components/SlotConfigurator'
+import { VariantSelector } from '@/features/plan-of-life/components/VariantSelector'
 import { PracticeTeachingContent, TrackPicker } from '@/features/practices/components'
 
 export default function PracticeDetailScreen() {
@@ -40,26 +42,34 @@ export default function PracticeDetailScreen() {
   const theme = useTheme()
 
   const slots = useSlotsForPractice(practiceId)
-  const manifest = practiceId ? getManifest(practiceId) : undefined
-  const isProgram = !!manifest?.program
-  const hasFlow = !!manifest?.flow
+  const practice = usePractice(practiceId)
+  const activeVariant = practice?.active_variant ?? practiceId
+  const manifest = activeVariant ? getManifest(activeVariant) : undefined
+  const baseManifest = practiceId ? getManifest(practiceId) : undefined
+  const displayManifest = manifest ?? baseManifest
+  const isProgram = !!displayManifest?.program
+  const hasFlow = !!displayManifest?.flow
   const updateSlot = useUpdateSlot()
+  const updatePractice = useUpdatePractice()
   const addSlot = useAddSlot()
   const archivePractice = useArchivePractice()
   const unarchivePractice = useUnarchivePractice()
-  const programProgress = useProgramProgress(practiceId ?? '', manifest?.program)
+  const programProgress = useProgramProgress(practiceId ?? '', displayManifest?.program)
   const deleteSlot = useDeleteSlot()
+  const group = useMemo(
+    () => (practiceId ? getAlternativeGroup(practiceId) : undefined),
+    [practiceId],
+  )
 
   const firstSlot = slots[0]
-  const practice = practiceId ? getPractice(practiceId) : undefined
   const isArchived = practice?.archived === 1
 
   const practiceStats = usePracticeCompletionStats(practiceId ?? '')
   const trackDefs = useMemo(
-    () => (practiceId ? loadPracticeTracks(practiceId) : undefined),
-    [practiceId],
+    () => (activeVariant ? loadPracticeTracks(activeVariant) : undefined),
+    [activeVariant],
   )
-  const cursorRows = useCursorsForPractice(trackDefs ? practiceId : undefined)
+  const cursorRows = useCursorsForPractice(trackDefs ? activeVariant : undefined)
 
   const wallData = useMemo(() => {
     if (!practiceStats?.completedDates) return []
@@ -110,12 +120,22 @@ export default function PracticeDetailScreen() {
           </Text>
         </XStack>
 
-        {isProgram && practiceId ? (
+        {group && activeVariant && (
+          <VariantSelector
+            group={group}
+            activeVariant={activeVariant}
+            onSelect={(id) =>
+              updatePractice.mutate({ id: practiceId!, data: { activeVariant: id } })
+            }
+          />
+        )}
+
+        {isProgram && activeVariant ? (
           <AnimatedPressable
             onPress={() =>
               router.push({
                 pathname: '/practices/[manifestId]/program',
-                params: { manifestId: practiceId },
+                params: { manifestId: activeVariant },
               })
             }
           >
@@ -135,8 +155,8 @@ export default function PracticeDetailScreen() {
               </Text>
             </YStack>
           </AnimatedPressable>
-        ) : hasFlow && practiceId ? (
-          <PrayButton practiceId={practiceId} />
+        ) : hasFlow && activeVariant ? (
+          <PrayButton practiceId={activeVariant} />
         ) : null}
 
         <YStack alignItems="center">
@@ -188,13 +208,13 @@ export default function PracticeDetailScreen() {
                 {t('plan.readingTracks')}
               </Text>
               {Object.entries(trackDefs).map(([trackName, def]) => {
-                const cursor = cursorRows.find((r) => r.id === `${practiceId}/${trackName}`)
+                const cursor = cursorRows.find((r) => r.id === `${activeVariant}/${trackName}`)
                 if (!cursor) return null
                 const position = JSON.parse(cursor.position)
                 return (
                   <TrackPicker
                     key={trackName}
-                    practiceId={practiceId}
+                    practiceId={activeVariant!}
                     trackDef={def}
                     trackState={{ track: trackName, current_index: position.index ?? 0 }}
                   />
@@ -204,10 +224,10 @@ export default function PracticeDetailScreen() {
           </>
         )}
 
-        {manifest && (
+        {displayManifest && (
           <>
             <SectionDivider />
-            <PracticeTeachingContent manifest={manifest} />
+            <PracticeTeachingContent manifest={displayManifest} />
           </>
         )}
 

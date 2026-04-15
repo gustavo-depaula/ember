@@ -1,10 +1,14 @@
 {
 	"id": "mental-prayer-carmelite",
-	"alternativeTo": "mental-prayer",
 	"icon": "prayer",
+	"alternativeTo": {
+		"id": "mental-prayer",
+		"label": { "en-US": "Carmelite Method", "pt-BR": "Método Carmelita" },
+		"description": { "en-US": "St. Teresa of Avila's method of interior recollection" }
+	},
 	"name": {
-		"en-US": "Carmelite Method",
-		"pt-BR": "Método Carmelita"
+		"en-US": "Mental Prayer",
+		"pt-BR": "Oração Mental"
 	},
 	"categories": [
 		"daily",

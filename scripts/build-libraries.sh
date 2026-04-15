@@ -13,6 +13,12 @@ BOOK_CSS="$LIBRARIES_SRC/ember-book.css"
 
 mkdir -p "$LIBRARIES_OUT"
 
+STAGING_DIR=$(mktemp -d)
+trap 'rm -rf "$STAGING_DIR"' EXIT
+
+# Phase 0: Vendor cross-library prayer dependencies into staging
+python3 "$REPO_ROOT/scripts/vendor-prayers.py" "$LIBRARIES_SRC" "$STAGING_DIR"
+
 # Phase 1: Copy shared stylesheet to each book's language directories
 python3 -c "
 import json, os, glob, shutil
@@ -42,13 +48,20 @@ else:
 for lib_dir in "$LIBRARIES_SRC"/*/; do
   [ -f "$lib_dir/library.json" ] || continue
   lib_id=$(basename "$lib_dir")
-  version=$(python3 -c "import json; print(json.load(open('$lib_dir/library.json'))['version'])")
+
+  # Use staged (vendored) copy if it exists, otherwise use source
+  build_dir="$lib_dir"
+  if [ -d "$STAGING_DIR/$lib_id" ]; then
+    build_dir="$STAGING_DIR/$lib_id"
+  fi
+
+  version=$(python3 -c "import json; print(json.load(open('$build_dir/library.json'))['version'])")
   filename="${lib_id}-${version}.pray"
 
   rm -f "$LIBRARIES_OUT/$filename"
 
   # Include everything; exclude dot-files
-  (cd "$lib_dir" && zip -r "$LIBRARIES_OUT/$filename" . \
+  (cd "$build_dir" && zip -r "$LIBRARIES_OUT/$filename" . \
     -x '.*' \
     > /dev/null)
   echo "  $filename ($(wc -c < "$LIBRARIES_OUT/$filename" | tr -d ' ') bytes)"
@@ -58,11 +71,18 @@ done
 python3 -c "
 import json, os, glob, hashlib
 
+staging_dir = '$STAGING_DIR'
 libraries = []
 for lib_dir in sorted(glob.glob('$LIBRARIES_SRC/*/')):
     mp = os.path.join(lib_dir, 'library.json')
     if not os.path.exists(mp):
         continue
+    # Use staged (vendored) copy if it exists
+    lid_check = os.path.basename(lib_dir.rstrip('/'))
+    staged = os.path.join(staging_dir, lid_check)
+    if os.path.isdir(staged):
+        lib_dir = staged + '/'
+        mp = os.path.join(staged, 'library.json')
     m = json.load(open(mp))
     lid, ver = m['id'], m['version']
     fn = f'{lid}-{ver}.pray'

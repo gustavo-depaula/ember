@@ -1,10 +1,14 @@
 {
 	"id": "stations-cross-scriptural",
-	"alternativeTo": "stations-cross",
 	"icon": "cross",
+	"alternativeTo": {
+		"id": "stations-cross",
+		"label": { "en-US": "Scriptural Meditations", "pt-BR": "Meditações Bíblicas" },
+		"description": { "en-US": "Stations meditated through Scripture passages" }
+	},
 	"name": {
-		"en-US": "Scriptural Meditations",
-		"pt-BR": "Meditações Bíblicas"
+		"en-US": "Stations of the Cross",
+		"pt-BR": "Via Sacra"
 	},
 	"categories": ["devotion"],
 	"estimatedMinutes": 20,

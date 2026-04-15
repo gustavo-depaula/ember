@@ -1,596 +1,596 @@
 {
-	"data": {
-		"joyful-mysteries": [
-			{
-				"name": {
-					"en-US": "The Annunciation",
-					"pt-BR": "A Anunciação"
-				},
-				"meditation": {
-					"en-US": "Mary receives the angel's message with humble faith: “Be it done unto me according to thy word.”",
-					"pt-BR": "Maria recebe a mensagem do anjo com fé humilde: “Faça-se em mim segundo a tua palavra.”"
-				},
-				"closingPetition": {
-					"en-US": "I bind this decade with a petition for humility and lay it at your feet, O Mother.",
-					"pt-BR": "Uno esta dezena a um pedido de humildade e a deposito aos vossos pés, ó Mãe."
-				}
-			},
-			{
-				"name": {
-					"en-US": "The Visitation",
-					"pt-BR": "A Visitação"
-				},
-				"meditation": {
-					"en-US": "Mary carries Christ to Elizabeth and teaches us charity in action.",
-					"pt-BR": "Maria leva Cristo a Isabel e nos ensina a caridade em ação."
-				},
-				"closingPetition": {
-					"en-US": "I bind this decade with a petition for charity and lay it at your feet, O Mother.",
-					"pt-BR": "Uno esta dezena a um pedido de caridade e a deposito aos vossos pés, ó Mãe."
-				}
-			},
-			{
-				"name": {
-					"en-US": "The Nativity",
-					"pt-BR": "O Nascimento de Jesus"
-				},
-				"meditation": {
-					"en-US": "Christ is born in poverty; teach us holy detachment from worldly vanity.",
-					"pt-BR": "Cristo nasce na pobreza; ensinai-nos o santo desapego das vaidades do mundo."
-				},
-				"closingPetition": {
-					"en-US": "I bind this decade with a petition for detachment from the world and lay it at your feet, O Mother.",
-					"pt-BR": "Uno esta dezena a um pedido de desapego do mundo e a deposito aos vossos pés, ó Mãe."
-				}
-			},
-			{
-				"name": {
-					"en-US": "The Presentation",
-					"pt-BR": "A Apresentação no Templo"
-				},
-				"meditation": {
-					"en-US": "Mary and Joseph offer Jesus to the Father; may our hearts be offered in purity.",
-					"pt-BR": "Maria e José oferecem Jesus ao Pai; que nossos corações também se ofereçam em pureza."
-				},
-				"closingPetition": {
-					"en-US": "I bind this decade with a petition for purity and lay it at your feet, O Mother.",
-					"pt-BR": "Uno esta dezena a um pedido de pureza e a deposito aos vossos pés, ó Mãe."
-				}
-			},
-			{
-				"name": {
-					"en-US": "The Finding in the Temple",
-					"pt-BR": "A Perda e o Encontro de Jesus no Templo"
-				},
-				"meditation": {
-					"en-US": "After sorrowful searching, Jesus is found in the Father's house; teach us to seek God first.",
-					"pt-BR": "Após a busca dolorosa, Jesus é encontrado na casa do Pai; ensinai-nos a buscar Deus em primeiro lugar."
-				},
-				"closingPetition": {
-					"en-US": "I bind this decade with a petition for true wisdom and lay it at your feet, O Mother.",
-					"pt-BR": "Uno esta dezena a um pedido de verdadeira sabedoria e a deposito aos vossos pés, ó Mãe."
-				}
-			}
-		],
-		"sorrowful-mysteries": [
-			{
-				"name": {
-					"en-US": "The Agony in the Garden",
-					"pt-BR": "A Agonia no Horto"
-				},
-				"meditation": {
-					"en-US": "Jesus accepts the Father's will in anguish; grant us resignation to God's will.",
-					"pt-BR": "Jesus aceita a vontade do Pai em angústia; concedei-nos resignação à vontade de Deus."
-				},
-				"closingPetition": {
-					"en-US": "I bind this decade with a petition for resignation to the will of God and lay it at your feet, O Mother.",
-					"pt-BR": "Uno esta dezena a um pedido de resignação à vontade de Deus e a deposito aos vossos pés, ó Mãe."
-				}
-			},
-			{
-				"name": {
-					"en-US": "The Scourging at the Pillar",
-					"pt-BR": "A Flagelação"
-				},
-				"meditation": {
-					"en-US": "Christ is scourged for our sins; teach us penance and mortification.",
-					"pt-BR": "Cristo é flagelado por nossos pecados; ensinai-nos a penitência e a mortificação."
-				},
-				"closingPetition": {
-					"en-US": "I bind this decade with a petition for mortification and lay it at your feet, O Mother.",
-					"pt-BR": "Uno esta dezena a um pedido de mortificação e a deposito aos vossos pés, ó Mãe."
-				}
-			},
-			{
-				"name": {
-					"en-US": "The Crowning with Thorns",
-					"pt-BR": "A Coroação de Espinhos"
-				},
-				"meditation": {
-					"en-US": "The King of Heaven is mocked and crowned with thorns; teach us humility of heart.",
-					"pt-BR": "O Rei do Céu é escarnecido e coroado de espinhos; ensinai-nos a humildade de coração."
-				},
-				"closingPetition": {
-					"en-US": "I bind this decade with a petition for humility and lay it at your feet, O Mother.",
-					"pt-BR": "Uno esta dezena a um pedido de humildade e a deposito aos vossos pés, ó Mãe."
-				}
-			},
-			{
-				"name": {
-					"en-US": "The Carrying of the Cross",
-					"pt-BR": "O Caminho do Calvário"
-				},
-				"meditation": {
-					"en-US": "Jesus carries the Cross in love; grant us patience in adversity.",
-					"pt-BR": "Jesus carrega a Cruz por amor; concedei-nos paciência na adversidade."
-				},
-				"closingPetition": {
-					"en-US": "I bind this decade with a petition for patience in adversity and lay it at your feet, O Mother.",
-					"pt-BR": "Uno esta dezena a um pedido de paciência na adversidade e a deposito aos vossos pés, ó Mãe."
-				}
-			},
-			{
-				"name": {
-					"en-US": "The Crucifixion",
-					"pt-BR": "A Crucificação e Morte de Jesus"
-				},
-				"meditation": {
-					"en-US": "At Calvary, Jesus gives all for our salvation; teach us love, even of enemies.",
-					"pt-BR": "No Calvário, Jesus entrega tudo por nossa salvação; ensinai-nos o amor, até aos inimigos."
-				},
-				"closingPetition": {
-					"en-US": "I bind this decade with a petition for love of enemies and lay it at your feet, O Mother.",
-					"pt-BR": "Uno esta dezena a um pedido de amor aos inimigos e a deposito aos vossos pés, ó Mãe."
-				}
-			}
-		],
-		"glorious-mysteries": [
-			{
-				"name": {
-					"en-US": "The Resurrection",
-					"pt-BR": "A Ressurreição"
-				},
-				"meditation": {
-					"en-US": "Christ rises in glory; strengthen us in living faith.",
-					"pt-BR": "Cristo ressuscita em glória; fortalecei-nos na fé viva."
-				},
-				"closingPetition": {
-					"en-US": "I bind this decade with a petition for faith and lay it at your feet, O Mother.",
-					"pt-BR": "Uno esta dezena a um pedido de fé e a deposito aos vossos pés, ó Mãe."
-				}
-			},
-			{
-				"name": {
-					"en-US": "The Ascension",
-					"pt-BR": "A Ascensão"
-				},
-				"meditation": {
-					"en-US": "Jesus ascends to prepare a place for us; increase our hope in heaven.",
-					"pt-BR": "Jesus sobe ao Céu para nos preparar um lugar; aumentai nossa esperança na pátria celeste."
-				},
-				"closingPetition": {
-					"en-US": "I bind this decade with a petition for hope and lay it at your feet, O Mother.",
-					"pt-BR": "Uno esta dezena a um pedido de esperança e a deposito aos vossos pés, ó Mãe."
-				}
-			},
-			{
-				"name": {
-					"en-US": "The Descent of the Holy Spirit",
-					"pt-BR": "A Vinda do Espírito Santo"
-				},
-				"meditation": {
-					"en-US": "The Spirit descends upon the Church; inflame us with divine charity.",
-					"pt-BR": "O Espírito desce sobre a Igreja; inflamai-nos com a caridade divina."
-				},
-				"closingPetition": {
-					"en-US": "I bind this decade with a petition for charity and lay it at your feet, O Mother.",
-					"pt-BR": "Uno esta dezena a um pedido de caridade e a deposito aos vossos pés, ó Mãe."
-				}
-			},
-			{
-				"name": {
-					"en-US": "The Assumption",
-					"pt-BR": "A Assunção de Nossa Senhora"
-				},
-				"meditation": {
-					"en-US": "Mary is assumed body and soul into glory; draw us to deeper union with Christ.",
-					"pt-BR": "Maria é assumpta em corpo e alma à glória; atraí-nos a uma união mais profunda com Cristo."
-				},
-				"closingPetition": {
-					"en-US": "I bind this decade with a petition for union with Christ and lay it at your feet, O Mother.",
-					"pt-BR": "Uno esta dezena a um pedido de união com Cristo e a deposito aos vossos pés, ó Mãe."
-				}
-			},
-			{
-				"name": {
-					"en-US": "The Coronation of Mary",
-					"pt-BR": "A Coroação de Nossa Senhora"
-				},
-				"meditation": {
-					"en-US": "Mary is crowned Queen of Heaven and Earth; teach us constant trust in your intercession.",
-					"pt-BR": "Maria é coroada Rainha do Céu e da Terra; ensinai-nos a confiança constante em vossa intercessão."
-				},
-				"closingPetition": {
-					"en-US": "I bind this decade with a petition for trust in your maternal intercession and lay it at your feet, O Mother.",
-					"pt-BR": "Uno esta dezena a um pedido de confiança em vossa intercessão maternal e a deposito aos vossos pés, ó Mãe."
-				}
-			}
-		]
-	},
-	"sections": [
-		{
-			"type": "prayer",
-			"ref": "sign-of-cross"
-		},
-		{
-			"type": "heading",
-			"text": {
-				"en-US": "54-Day Rosary Novena",
-				"pt-BR": "Novena de 54 Dias do Rosário"
-			}
-		},
-		{
-			"type": "select",
-			"on": "programDay",
-			"as": "phase",
-			"map": {
-				"0-26": "petition",
-				"27-53": "thanksgiving"
-			},
-			"options": [
-				{
-					"id": "petition",
-					"label": {
-						"en-US": "Petition",
-						"pt-BR": "Petição"
-					}
-				},
-				{
-					"id": "thanksgiving",
-					"label": {
-						"en-US": "Thanksgiving",
-						"pt-BR": "Ação de Graças"
-					}
-				}
-			]
-		},
-		{
-			"type": "cycle",
-			"data": "novena-days",
-			"as": "template",
-			"sections": [
-				{
-					"type": "subheading",
-					"text": {
-						"en-US": "{{mysteryLabel}} Mysteries",
-						"pt-BR": "Mistérios {{mysteryLabel}}"
-					}
-				},
-				{
-					"type": "select",
-					"default": "{{phase}}",
-					"options": [
-						{
-							"id": "petition",
-							"label": {
-								"en-US": "Petition",
-								"pt-BR": "Petição"
-							},
-							"sections": [
-								{
-									"type": "rubric",
-									"text": {
-										"en-US": "Days 1–27 are prayed in petition. Present your intention with confidence.",
-										"pt-BR": "Os dias 1–27 são rezados em petição. Apresente sua intenção com confiança."
-									}
-								}
-							]
-						},
-						{
-							"id": "thanksgiving",
-							"label": {
-								"en-US": "Thanksgiving",
-								"pt-BR": "Ação de Graças"
-							},
-							"sections": [
-								{
-									"type": "rubric",
-									"text": {
-										"en-US": "Days 28–54 are prayed in thanksgiving, even before visible answers.",
-										"pt-BR": "Os dias 28–54 são rezados em ação de graças, mesmo antes de respostas visíveis."
-									}
-								}
-							]
-						}
-					]
-				},
-				{
-					"type": "select",
-					"default": "{{mysteryId}}",
-					"options": [
-						{
-							"id": "joyful",
-							"label": {
-								"en-US": "Joyful",
-								"pt-BR": "Gozosos"
-							},
-							"sections": [
-								{
-									"type": "select",
-									"default": "{{phase}}",
-									"options": [
-										{
-											"id": "petition",
-											"label": {
-												"en-US": "Petition",
-												"pt-BR": "Petição"
-											},
-											"sections": [
-												{
-													"type": "prayer",
-													"inline": {
-														"en-US": "Hail, Queen of the Most Holy Rosary, my Mother Mary, hail. I offer this crown of snow-white roses in petition, recalling your joys and begging your maternal intercession.",
-														"pt-BR": "Salve, Rainha do Santíssimo Rosário, minha Mãe Maria. Ofereço esta coroa de rosas brancas em petição, recordando vossas alegrias e suplicando vossa intercessão maternal."
-													}
-												}
-											]
-										},
-										{
-											"id": "thanksgiving",
-											"label": {
-												"en-US": "Thanksgiving",
-												"pt-BR": "Ação de Graças"
-											},
-											"sections": [
-												{
-													"type": "prayer",
-													"inline": {
-														"en-US": "Hail, Queen of the Most Holy Rosary, my Mother Mary, hail. Gratefully I offer this crown of snow-white roses in thanksgiving for your loving intercession.",
-														"pt-BR": "Salve, Rainha do Santíssimo Rosário, minha Mãe Maria. Com gratidão ofereço esta coroa de rosas brancas em ação de graças por vossa amorosa intercessão."
-													}
-												}
-											]
-										}
-									]
-								}
-							]
-						},
-						{
-							"id": "sorrowful",
-							"label": {
-								"en-US": "Sorrowful",
-								"pt-BR": "Dolorosos"
-							},
-							"sections": [
-								{
-									"type": "select",
-									"default": "{{phase}}",
-									"options": [
-										{
-											"id": "petition",
-											"label": {
-												"en-US": "Petition",
-												"pt-BR": "Petição"
-											},
-											"sections": [
-												{
-													"type": "prayer",
-													"inline": {
-														"en-US": "Hail, Queen of the Most Holy Rosary, my Mother Mary, hail. I offer this crown of red roses in petition, united to the Passion of your Son and to your sorrowful heart.",
-														"pt-BR": "Salve, Rainha do Santíssimo Rosário, minha Mãe Maria. Ofereço esta coroa de rosas vermelhas em petição, unido à Paixão de vosso Filho e ao vosso coração doloroso."
-													}
-												}
-											]
-										},
-										{
-											"id": "thanksgiving",
-											"label": {
-												"en-US": "Thanksgiving",
-												"pt-BR": "Ação de Graças"
-											},
-											"sections": [
-												{
-													"type": "prayer",
-													"inline": {
-														"en-US": "Hail, Queen of the Most Holy Rosary, my Mother Mary, hail. Gratefully I offer this crown of red roses in thanksgiving, remembering the saving Passion of your Son.",
-														"pt-BR": "Salve, Rainha do Santíssimo Rosário, minha Mãe Maria. Com gratidão ofereço esta coroa de rosas vermelhas em ação de graças, recordando a Paixão salvadora de vosso Filho."
-													}
-												}
-											]
-										}
-									]
-								}
-							]
-						},
-						{
-							"id": "glorious",
-							"label": {
-								"en-US": "Glorious",
-								"pt-BR": "Gloriosos"
-							},
-							"sections": [
-								{
-									"type": "select",
-									"default": "{{phase}}",
-									"options": [
-										{
-											"id": "petition",
-											"label": {
-												"en-US": "Petition",
-												"pt-BR": "Petição"
-											},
-											"sections": [
-												{
-													"type": "prayer",
-													"inline": {
-														"en-US": "Hail, Queen of the Most Holy Rosary, my Mother Mary, hail. I offer this crown of white roses tinged with red in petition, contemplating the triumph of Christ and your glory.",
-														"pt-BR": "Salve, Rainha do Santíssimo Rosário, minha Mãe Maria. Ofereço esta coroa de rosas brancas tingidas de vermelho em petição, contemplando o triunfo de Cristo e vossa glória."
-													}
-												}
-											]
-										},
-										{
-											"id": "thanksgiving",
-											"label": {
-												"en-US": "Thanksgiving",
-												"pt-BR": "Ação de Graças"
-											},
-											"sections": [
-												{
-													"type": "prayer",
-													"inline": {
-														"en-US": "Hail, Queen of the Most Holy Rosary, my Mother Mary, hail. Gratefully I offer this crown of white roses in thanksgiving for the graces received through your intercession.",
-														"pt-BR": "Salve, Rainha do Santíssimo Rosário, minha Mãe Maria. Com gratidão ofereço esta coroa de rosas brancas em ação de graças pelas graças recebidas por vossa intercessão."
-													}
-												}
-											]
-										}
-									]
-								}
-							]
-						}
-					]
-				},
-				{
-					"type": "prayer",
-					"ref": "apostles-creed"
-				},
-				{
-					"type": "prayer",
-					"ref": "our-father"
-				},
-				{
-					"type": "repeat",
-					"count": 3,
-					"sections": [
-						{
-							"type": "prayer",
-							"ref": "hail-mary"
-						}
-					]
-				},
-				{
-					"type": "prayer",
-					"ref": "glory-be"
-				},
-				{
-					"type": "divider"
-				},
-				{
-					"type": "repeat",
-					"count": 5,
-					"from": "{{mysteryId}}-mysteries",
-					"sections": [
-						{
-							"type": "heading",
-							"text": {
-								"en-US": "{{ordinal}} Mystery: {{name}}",
-								"pt-BR": "{{ordinal}} Mistério: {{name}}"
-							}
-						},
-						{
-							"type": "meditation",
-							"text": "{{meditation}}"
-						},
-						{
-							"type": "prayer",
-							"ref": "our-father"
-						},
-						{
-							"type": "repeat",
-							"count": 10,
-							"sections": [
-								{
-									"type": "prayer",
-									"ref": "hail-mary"
-								}
-							]
-						},
-						{
-							"type": "prayer",
-							"ref": "glory-be"
-						},
-						{
-							"type": "prayer",
-							"ref": "fatima-prayer"
-						},
-						{
-							"type": "rubric",
-							"text": "{{closingPetition}}"
-						},
-						{
-							"type": "divider"
-						}
-					]
-				},
-				{
-					"type": "prayer",
-					"ref": "hail-holy-queen"
-				},
-				{
-					"type": "prayer",
-					"inline": {
-						"en-US": "Let us pray. O God, whose only-begotten Son, by His life, death, and resurrection, has purchased for us the rewards of eternal life, grant, we beseech Thee, that meditating upon these mysteries of the most holy Rosary of the Blessed Virgin Mary, we may imitate what they contain and obtain what they promise, through the same Christ our Lord. Amen.",
-						"pt-BR": "Oremos. Ó Deus, cujo Filho unigênito, por sua vida, morte e ressurreição, nos mereceu os bens da salvação eterna, concedei-nos, nós vos pedimos, que, meditando estes mistérios do Santíssimo Rosário da Bem-Aventurada Virgem Maria, imitemos o que contêm e alcancemos o que prometem. Por Cristo, nosso Senhor. Amém."
-					}
-				},
-				{
-					"type": "prayer",
-					"inline": {
-						"en-US": "My Jesus, I believe that You are present in the Most Holy Sacrament. I love You above all things and desire to receive You into my soul. Since I cannot now receive You sacramentally, come at least spiritually into my heart. I embrace You as if You were already there and unite myself wholly to You. Never permit me to be separated from You. Amen.",
-						"pt-BR": "Meu Jesus, creio que estais presente no Santíssimo Sacramento. Amo-vos sobre todas as coisas e desejo receber-vos em minha alma. Como agora não posso receber-vos sacramentalmente, vinde ao menos espiritualmente ao meu coração. Abraço-vos como se já estivésseis comigo e uno-me inteiramente a Vós. Nunca permitais que eu me separe de Vós. Amém."
-					}
-				},
-				{
-					"type": "select",
-					"default": "{{phase}}",
-					"options": [
-						{
-							"id": "petition",
-							"label": {
-								"en-US": "Petition",
-								"pt-BR": "Petição"
-							},
-							"sections": [
-								{
-									"type": "rubric",
-									"text": {
-										"en-US": "Sweet Mother Mary, present my petition to your Son and obtain for me the grace I seek, if it be for God's glory and my salvation.",
-										"pt-BR": "Doce Mãe Maria, apresentai minha petição a vosso Filho e alcançai para mim a graça que peço, se for para a glória de Deus e minha salvação."
-									}
-								}
-							]
-						},
-						{
-							"id": "thanksgiving",
-							"label": {
-								"en-US": "Thanksgiving",
-								"pt-BR": "Ação de Graças"
-							},
-							"sections": [
-								{
-									"type": "rubric",
-									"text": {
-										"en-US": "Sweet Mother Mary, I thank you for your intercession and entrust all things to Divine Providence.",
-										"pt-BR": "Doce Mãe Maria, agradeço vossa intercessão e entrego todas as coisas à Divina Providência."
-									}
-								}
-							]
-						}
-					]
-				},
-				{
-					"type": "prayer",
-					"ref": "ladainha-nossa-senhora"
-				},
-				{
-					"type": "divider"
-				}
-			]
-		},
-		{
-			"type": "prayer",
-			"ref": "sign-of-cross"
-		}
-	]
+  "data": {
+    "joyful-mysteries": [
+      {
+        "name": {
+          "en-US": "The Annunciation",
+          "pt-BR": "A Anunciação"
+        },
+        "meditation": {
+          "en-US": "Mary receives the angel's message with humble faith: “Be it done unto me according to thy word.”",
+          "pt-BR": "Maria recebe a mensagem do anjo com fé humilde: “Faça-se em mim segundo a tua palavra.”"
+        },
+        "closingPetition": {
+          "en-US": "I bind this decade with a petition for humility and lay it at your feet, O Mother.",
+          "pt-BR": "Uno esta dezena a um pedido de humildade e a deposito aos vossos pés, ó Mãe."
+        }
+      },
+      {
+        "name": {
+          "en-US": "The Visitation",
+          "pt-BR": "A Visitação"
+        },
+        "meditation": {
+          "en-US": "Mary carries Christ to Elizabeth and teaches us charity in action.",
+          "pt-BR": "Maria leva Cristo a Isabel e nos ensina a caridade em ação."
+        },
+        "closingPetition": {
+          "en-US": "I bind this decade with a petition for charity and lay it at your feet, O Mother.",
+          "pt-BR": "Uno esta dezena a um pedido de caridade e a deposito aos vossos pés, ó Mãe."
+        }
+      },
+      {
+        "name": {
+          "en-US": "The Nativity",
+          "pt-BR": "O Nascimento de Jesus"
+        },
+        "meditation": {
+          "en-US": "Christ is born in poverty; teach us holy detachment from worldly vanity.",
+          "pt-BR": "Cristo nasce na pobreza; ensinai-nos o santo desapego das vaidades do mundo."
+        },
+        "closingPetition": {
+          "en-US": "I bind this decade with a petition for detachment from the world and lay it at your feet, O Mother.",
+          "pt-BR": "Uno esta dezena a um pedido de desapego do mundo e a deposito aos vossos pés, ó Mãe."
+        }
+      },
+      {
+        "name": {
+          "en-US": "The Presentation",
+          "pt-BR": "A Apresentação no Templo"
+        },
+        "meditation": {
+          "en-US": "Mary and Joseph offer Jesus to the Father; may our hearts be offered in purity.",
+          "pt-BR": "Maria e José oferecem Jesus ao Pai; que nossos corações também se ofereçam em pureza."
+        },
+        "closingPetition": {
+          "en-US": "I bind this decade with a petition for purity and lay it at your feet, O Mother.",
+          "pt-BR": "Uno esta dezena a um pedido de pureza e a deposito aos vossos pés, ó Mãe."
+        }
+      },
+      {
+        "name": {
+          "en-US": "The Finding in the Temple",
+          "pt-BR": "A Perda e o Encontro de Jesus no Templo"
+        },
+        "meditation": {
+          "en-US": "After sorrowful searching, Jesus is found in the Father's house; teach us to seek God first.",
+          "pt-BR": "Após a busca dolorosa, Jesus é encontrado na casa do Pai; ensinai-nos a buscar Deus em primeiro lugar."
+        },
+        "closingPetition": {
+          "en-US": "I bind this decade with a petition for true wisdom and lay it at your feet, O Mother.",
+          "pt-BR": "Uno esta dezena a um pedido de verdadeira sabedoria e a deposito aos vossos pés, ó Mãe."
+        }
+      }
+    ],
+    "sorrowful-mysteries": [
+      {
+        "name": {
+          "en-US": "The Agony in the Garden",
+          "pt-BR": "A Agonia no Horto"
+        },
+        "meditation": {
+          "en-US": "Jesus accepts the Father's will in anguish; grant us resignation to God's will.",
+          "pt-BR": "Jesus aceita a vontade do Pai em angústia; concedei-nos resignação à vontade de Deus."
+        },
+        "closingPetition": {
+          "en-US": "I bind this decade with a petition for resignation to the will of God and lay it at your feet, O Mother.",
+          "pt-BR": "Uno esta dezena a um pedido de resignação à vontade de Deus e a deposito aos vossos pés, ó Mãe."
+        }
+      },
+      {
+        "name": {
+          "en-US": "The Scourging at the Pillar",
+          "pt-BR": "A Flagelação"
+        },
+        "meditation": {
+          "en-US": "Christ is scourged for our sins; teach us penance and mortification.",
+          "pt-BR": "Cristo é flagelado por nossos pecados; ensinai-nos a penitência e a mortificação."
+        },
+        "closingPetition": {
+          "en-US": "I bind this decade with a petition for mortification and lay it at your feet, O Mother.",
+          "pt-BR": "Uno esta dezena a um pedido de mortificação e a deposito aos vossos pés, ó Mãe."
+        }
+      },
+      {
+        "name": {
+          "en-US": "The Crowning with Thorns",
+          "pt-BR": "A Coroação de Espinhos"
+        },
+        "meditation": {
+          "en-US": "The King of Heaven is mocked and crowned with thorns; teach us humility of heart.",
+          "pt-BR": "O Rei do Céu é escarnecido e coroado de espinhos; ensinai-nos a humildade de coração."
+        },
+        "closingPetition": {
+          "en-US": "I bind this decade with a petition for humility and lay it at your feet, O Mother.",
+          "pt-BR": "Uno esta dezena a um pedido de humildade e a deposito aos vossos pés, ó Mãe."
+        }
+      },
+      {
+        "name": {
+          "en-US": "The Carrying of the Cross",
+          "pt-BR": "O Caminho do Calvário"
+        },
+        "meditation": {
+          "en-US": "Jesus carries the Cross in love; grant us patience in adversity.",
+          "pt-BR": "Jesus carrega a Cruz por amor; concedei-nos paciência na adversidade."
+        },
+        "closingPetition": {
+          "en-US": "I bind this decade with a petition for patience in adversity and lay it at your feet, O Mother.",
+          "pt-BR": "Uno esta dezena a um pedido de paciência na adversidade e a deposito aos vossos pés, ó Mãe."
+        }
+      },
+      {
+        "name": {
+          "en-US": "The Crucifixion",
+          "pt-BR": "A Crucificação e Morte de Jesus"
+        },
+        "meditation": {
+          "en-US": "At Calvary, Jesus gives all for our salvation; teach us love, even of enemies.",
+          "pt-BR": "No Calvário, Jesus entrega tudo por nossa salvação; ensinai-nos o amor, até aos inimigos."
+        },
+        "closingPetition": {
+          "en-US": "I bind this decade with a petition for love of enemies and lay it at your feet, O Mother.",
+          "pt-BR": "Uno esta dezena a um pedido de amor aos inimigos e a deposito aos vossos pés, ó Mãe."
+        }
+      }
+    ],
+    "glorious-mysteries": [
+      {
+        "name": {
+          "en-US": "The Resurrection",
+          "pt-BR": "A Ressurreição"
+        },
+        "meditation": {
+          "en-US": "Christ rises in glory; strengthen us in living faith.",
+          "pt-BR": "Cristo ressuscita em glória; fortalecei-nos na fé viva."
+        },
+        "closingPetition": {
+          "en-US": "I bind this decade with a petition for faith and lay it at your feet, O Mother.",
+          "pt-BR": "Uno esta dezena a um pedido de fé e a deposito aos vossos pés, ó Mãe."
+        }
+      },
+      {
+        "name": {
+          "en-US": "The Ascension",
+          "pt-BR": "A Ascensão"
+        },
+        "meditation": {
+          "en-US": "Jesus ascends to prepare a place for us; increase our hope in heaven.",
+          "pt-BR": "Jesus sobe ao Céu para nos preparar um lugar; aumentai nossa esperança na pátria celeste."
+        },
+        "closingPetition": {
+          "en-US": "I bind this decade with a petition for hope and lay it at your feet, O Mother.",
+          "pt-BR": "Uno esta dezena a um pedido de esperança e a deposito aos vossos pés, ó Mãe."
+        }
+      },
+      {
+        "name": {
+          "en-US": "The Descent of the Holy Spirit",
+          "pt-BR": "A Vinda do Espírito Santo"
+        },
+        "meditation": {
+          "en-US": "The Spirit descends upon the Church; inflame us with divine charity.",
+          "pt-BR": "O Espírito desce sobre a Igreja; inflamai-nos com a caridade divina."
+        },
+        "closingPetition": {
+          "en-US": "I bind this decade with a petition for charity and lay it at your feet, O Mother.",
+          "pt-BR": "Uno esta dezena a um pedido de caridade e a deposito aos vossos pés, ó Mãe."
+        }
+      },
+      {
+        "name": {
+          "en-US": "The Assumption",
+          "pt-BR": "A Assunção de Nossa Senhora"
+        },
+        "meditation": {
+          "en-US": "Mary is assumed body and soul into glory; draw us to deeper union with Christ.",
+          "pt-BR": "Maria é assumpta em corpo e alma à glória; atraí-nos a uma união mais profunda com Cristo."
+        },
+        "closingPetition": {
+          "en-US": "I bind this decade with a petition for union with Christ and lay it at your feet, O Mother.",
+          "pt-BR": "Uno esta dezena a um pedido de união com Cristo e a deposito aos vossos pés, ó Mãe."
+        }
+      },
+      {
+        "name": {
+          "en-US": "The Coronation of Mary",
+          "pt-BR": "A Coroação de Nossa Senhora"
+        },
+        "meditation": {
+          "en-US": "Mary is crowned Queen of Heaven and Earth; teach us constant trust in your intercession.",
+          "pt-BR": "Maria é coroada Rainha do Céu e da Terra; ensinai-nos a confiança constante em vossa intercessão."
+        },
+        "closingPetition": {
+          "en-US": "I bind this decade with a petition for trust in your maternal intercession and lay it at your feet, O Mother.",
+          "pt-BR": "Uno esta dezena a um pedido de confiança em vossa intercessão maternal e a deposito aos vossos pés, ó Mãe."
+        }
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "ember-default:sign-of-cross"
+    },
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "54-Day Rosary Novena",
+        "pt-BR": "Novena de 54 Dias do Rosário"
+      }
+    },
+    {
+      "type": "select",
+      "on": "programDay",
+      "as": "phase",
+      "map": {
+        "0-26": "petition",
+        "27-53": "thanksgiving"
+      },
+      "options": [
+        {
+          "id": "petition",
+          "label": {
+            "en-US": "Petition",
+            "pt-BR": "Petição"
+          }
+        },
+        {
+          "id": "thanksgiving",
+          "label": {
+            "en-US": "Thanksgiving",
+            "pt-BR": "Ação de Graças"
+          }
+        }
+      ]
+    },
+    {
+      "type": "cycle",
+      "data": "novena-days",
+      "as": "template",
+      "sections": [
+        {
+          "type": "subheading",
+          "text": {
+            "en-US": "{{mysteryLabel}} Mysteries",
+            "pt-BR": "Mistérios {{mysteryLabel}}"
+          }
+        },
+        {
+          "type": "select",
+          "default": "{{phase}}",
+          "options": [
+            {
+              "id": "petition",
+              "label": {
+                "en-US": "Petition",
+                "pt-BR": "Petição"
+              },
+              "sections": [
+                {
+                  "type": "rubric",
+                  "text": {
+                    "en-US": "Days 1–27 are prayed in petition. Present your intention with confidence.",
+                    "pt-BR": "Os dias 1–27 são rezados em petição. Apresente sua intenção com confiança."
+                  }
+                }
+              ]
+            },
+            {
+              "id": "thanksgiving",
+              "label": {
+                "en-US": "Thanksgiving",
+                "pt-BR": "Ação de Graças"
+              },
+              "sections": [
+                {
+                  "type": "rubric",
+                  "text": {
+                    "en-US": "Days 28–54 are prayed in thanksgiving, even before visible answers.",
+                    "pt-BR": "Os dias 28–54 são rezados em ação de graças, mesmo antes de respostas visíveis."
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "select",
+          "default": "{{mysteryId}}",
+          "options": [
+            {
+              "id": "joyful",
+              "label": {
+                "en-US": "Joyful",
+                "pt-BR": "Gozosos"
+              },
+              "sections": [
+                {
+                  "type": "select",
+                  "default": "{{phase}}",
+                  "options": [
+                    {
+                      "id": "petition",
+                      "label": {
+                        "en-US": "Petition",
+                        "pt-BR": "Petição"
+                      },
+                      "sections": [
+                        {
+                          "type": "prayer",
+                          "inline": {
+                            "en-US": "Hail, Queen of the Most Holy Rosary, my Mother Mary, hail. I offer this crown of snow-white roses in petition, recalling your joys and begging your maternal intercession.",
+                            "pt-BR": "Salve, Rainha do Santíssimo Rosário, minha Mãe Maria. Ofereço esta coroa de rosas brancas em petição, recordando vossas alegrias e suplicando vossa intercessão maternal."
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "thanksgiving",
+                      "label": {
+                        "en-US": "Thanksgiving",
+                        "pt-BR": "Ação de Graças"
+                      },
+                      "sections": [
+                        {
+                          "type": "prayer",
+                          "inline": {
+                            "en-US": "Hail, Queen of the Most Holy Rosary, my Mother Mary, hail. Gratefully I offer this crown of snow-white roses in thanksgiving for your loving intercession.",
+                            "pt-BR": "Salve, Rainha do Santíssimo Rosário, minha Mãe Maria. Com gratidão ofereço esta coroa de rosas brancas em ação de graças por vossa amorosa intercessão."
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "sorrowful",
+              "label": {
+                "en-US": "Sorrowful",
+                "pt-BR": "Dolorosos"
+              },
+              "sections": [
+                {
+                  "type": "select",
+                  "default": "{{phase}}",
+                  "options": [
+                    {
+                      "id": "petition",
+                      "label": {
+                        "en-US": "Petition",
+                        "pt-BR": "Petição"
+                      },
+                      "sections": [
+                        {
+                          "type": "prayer",
+                          "inline": {
+                            "en-US": "Hail, Queen of the Most Holy Rosary, my Mother Mary, hail. I offer this crown of red roses in petition, united to the Passion of your Son and to your sorrowful heart.",
+                            "pt-BR": "Salve, Rainha do Santíssimo Rosário, minha Mãe Maria. Ofereço esta coroa de rosas vermelhas em petição, unido à Paixão de vosso Filho e ao vosso coração doloroso."
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "thanksgiving",
+                      "label": {
+                        "en-US": "Thanksgiving",
+                        "pt-BR": "Ação de Graças"
+                      },
+                      "sections": [
+                        {
+                          "type": "prayer",
+                          "inline": {
+                            "en-US": "Hail, Queen of the Most Holy Rosary, my Mother Mary, hail. Gratefully I offer this crown of red roses in thanksgiving, remembering the saving Passion of your Son.",
+                            "pt-BR": "Salve, Rainha do Santíssimo Rosário, minha Mãe Maria. Com gratidão ofereço esta coroa de rosas vermelhas em ação de graças, recordando a Paixão salvadora de vosso Filho."
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "glorious",
+              "label": {
+                "en-US": "Glorious",
+                "pt-BR": "Gloriosos"
+              },
+              "sections": [
+                {
+                  "type": "select",
+                  "default": "{{phase}}",
+                  "options": [
+                    {
+                      "id": "petition",
+                      "label": {
+                        "en-US": "Petition",
+                        "pt-BR": "Petição"
+                      },
+                      "sections": [
+                        {
+                          "type": "prayer",
+                          "inline": {
+                            "en-US": "Hail, Queen of the Most Holy Rosary, my Mother Mary, hail. I offer this crown of white roses tinged with red in petition, contemplating the triumph of Christ and your glory.",
+                            "pt-BR": "Salve, Rainha do Santíssimo Rosário, minha Mãe Maria. Ofereço esta coroa de rosas brancas tingidas de vermelho em petição, contemplando o triunfo de Cristo e vossa glória."
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "thanksgiving",
+                      "label": {
+                        "en-US": "Thanksgiving",
+                        "pt-BR": "Ação de Graças"
+                      },
+                      "sections": [
+                        {
+                          "type": "prayer",
+                          "inline": {
+                            "en-US": "Hail, Queen of the Most Holy Rosary, my Mother Mary, hail. Gratefully I offer this crown of white roses in thanksgiving for the graces received through your intercession.",
+                            "pt-BR": "Salve, Rainha do Santíssimo Rosário, minha Mãe Maria. Com gratidão ofereço esta coroa de rosas brancas em ação de graças pelas graças recebidas por vossa intercessão."
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ref": "ember-default:apostles-creed"
+        },
+        {
+          "type": "prayer",
+          "ref": "ember-default:our-father"
+        },
+        {
+          "type": "repeat",
+          "count": 3,
+          "sections": [
+            {
+              "type": "prayer",
+              "ref": "ember-default:hail-mary"
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ref": "ember-default:glory-be"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "repeat",
+          "count": 5,
+          "from": "{{mysteryId}}-mysteries",
+          "sections": [
+            {
+              "type": "heading",
+              "text": {
+                "en-US": "{{ordinal}} Mystery: {{name}}",
+                "pt-BR": "{{ordinal}} Mistério: {{name}}"
+              }
+            },
+            {
+              "type": "meditation",
+              "text": "{{meditation}}"
+            },
+            {
+              "type": "prayer",
+              "ref": "ember-default:our-father"
+            },
+            {
+              "type": "repeat",
+              "count": 10,
+              "sections": [
+                {
+                  "type": "prayer",
+                  "ref": "ember-default:hail-mary"
+                }
+              ]
+            },
+            {
+              "type": "prayer",
+              "ref": "ember-default:glory-be"
+            },
+            {
+              "type": "prayer",
+              "ref": "ember-default:fatima-prayer"
+            },
+            {
+              "type": "rubric",
+              "text": "{{closingPetition}}"
+            },
+            {
+              "type": "divider"
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ref": "ember-default:hail-holy-queen"
+        },
+        {
+          "type": "prayer",
+          "inline": {
+            "en-US": "Let us pray. O God, whose only-begotten Son, by His life, death, and resurrection, has purchased for us the rewards of eternal life, grant, we beseech Thee, that meditating upon these mysteries of the most holy Rosary of the Blessed Virgin Mary, we may imitate what they contain and obtain what they promise, through the same Christ our Lord. Amen.",
+            "pt-BR": "Oremos. Ó Deus, cujo Filho unigênito, por sua vida, morte e ressurreição, nos mereceu os bens da salvação eterna, concedei-nos, nós vos pedimos, que, meditando estes mistérios do Santíssimo Rosário da Bem-Aventurada Virgem Maria, imitemos o que contêm e alcancemos o que prometem. Por Cristo, nosso Senhor. Amém."
+          }
+        },
+        {
+          "type": "prayer",
+          "inline": {
+            "en-US": "My Jesus, I believe that You are present in the Most Holy Sacrament. I love You above all things and desire to receive You into my soul. Since I cannot now receive You sacramentally, come at least spiritually into my heart. I embrace You as if You were already there and unite myself wholly to You. Never permit me to be separated from You. Amen.",
+            "pt-BR": "Meu Jesus, creio que estais presente no Santíssimo Sacramento. Amo-vos sobre todas as coisas e desejo receber-vos em minha alma. Como agora não posso receber-vos sacramentalmente, vinde ao menos espiritualmente ao meu coração. Abraço-vos como se já estivésseis comigo e uno-me inteiramente a Vós. Nunca permitais que eu me separe de Vós. Amém."
+          }
+        },
+        {
+          "type": "select",
+          "default": "{{phase}}",
+          "options": [
+            {
+              "id": "petition",
+              "label": {
+                "en-US": "Petition",
+                "pt-BR": "Petição"
+              },
+              "sections": [
+                {
+                  "type": "rubric",
+                  "text": {
+                    "en-US": "Sweet Mother Mary, present my petition to your Son and obtain for me the grace I seek, if it be for God's glory and my salvation.",
+                    "pt-BR": "Doce Mãe Maria, apresentai minha petição a vosso Filho e alcançai para mim a graça que peço, se for para a glória de Deus e minha salvação."
+                  }
+                }
+              ]
+            },
+            {
+              "id": "thanksgiving",
+              "label": {
+                "en-US": "Thanksgiving",
+                "pt-BR": "Ação de Graças"
+              },
+              "sections": [
+                {
+                  "type": "rubric",
+                  "text": {
+                    "en-US": "Sweet Mother Mary, I thank you for your intercession and entrust all things to Divine Providence.",
+                    "pt-BR": "Doce Mãe Maria, agradeço vossa intercessão e entrego todas as coisas à Divina Providência."
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ref": "ladainha-nossa-senhora"
+        },
+        {
+          "type": "divider"
+        }
+      ]
+    },
+    {
+      "type": "prayer",
+      "ref": "ember-default:sign-of-cross"
+    }
+  ]
 }
