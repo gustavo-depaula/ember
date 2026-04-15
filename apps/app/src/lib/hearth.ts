@@ -3,16 +3,15 @@ import { clearCache, getCached, setCache } from '@/db/repositories/cache'
 import { getPreference, setPreference } from '@/db/repositories/preferences'
 
 const remoteUrl = 'https://ember.dpgu.me/hearth/v1'
-const localUrl = 'http://192.168.15.189:4100'
+const localUrl = Platform.OS === 'web' ? 'http://localhost:4100' : 'http://192.168.15.189:4100'
 
-// Local Hearth only works on native (same-network device); web always uses remote
-let useLocal = __DEV__ && Platform.OS !== 'web'
+let useLocal = __DEV__
 let initialized = false
 
 export async function initHearth() {
   if (initialized) return
   initialized = true
-  if (__DEV__ && Platform.OS !== 'web') {
+  if (__DEV__) {
     const pref = await getPreference('hearth-local')
     useLocal = pref !== 'false'
   }
