@@ -11,6 +11,7 @@
     "ios": "pnpm --filter @ember/app run ios",
     "android": "pnpm --filter @ember/app run android",
     "parse-propers": "pnpm --filter @ember/app run parse-propers",
+    "build:lectionary": "tsx scripts/build-of-lectionary.ts",
     "build:libraries": "scripts/build-libraries.sh",
     "hearth:clean": "rm -f content/libraries/*.pray content/libraries/registry.json && find content/libraries -path '*/books/*/style.css' -delete",
     "build:webp": "scripts/convert-webp.sh",
