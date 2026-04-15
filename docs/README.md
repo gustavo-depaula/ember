@@ -4,7 +4,13 @@
 
 ## Mission
 
-Ember meets Catholics where they are — from first steps in prayer to deep devotion — and walks with them daily. The app is multilingual (currently English and Brazilian Portuguese) and makes the richness of Catholic tradition accessible, beautiful, and practical through three pillars:
+Ember exists to preserve, translate, and freely distribute the richness of Catholic tradition — Sacred Scripture, the Church Fathers, spiritual classics, catechisms, liturgical books, sacred art — and to put it in the hands of the faithful as a daily companion for prayer. We believe these treasures should be lavishly open, overcoming the language barriers, copyright restrictions, and practical obstacles that keep them hidden and fragmented.
+
+The app meets Catholics where they are — from first steps in prayer to deep devotion — and walks with them daily, multilingual (English and Brazilian Portuguese), through three pillars:
+
+### Wisdom — "Learn from 2000 years of prayer"
+
+We provide the rich content that grounds spiritual growth and formation. Formation guides teach how to pray. A Catholic library offers saints' writings, spiritual classics, and hagiographies. Study tools deepen understanding of Scripture and the Catechism. Every prayer comes with its history and tradition.
 
 ### Fidelity — "Build and keep your rule of life"
 
@@ -14,11 +20,9 @@ The heart of Ember and our apostolate. We help users build, maintain, and grow t
 
 We keep users engaged and inspired through meaningful encounters with the saints. Collectible holy cards earned through sustained practice carry real hagiographic content — not trophies, but introductions to holy lives that inspire your own. A patron saint companion walks with you on your journey. Fun, but not vain: always a nudge toward deeper prayer grounded in formation and tradition.
 
-### Wisdom — "Learn from 2000 years of prayer"
+**Wisdom is the foundation — the tradition we preserve and share. Fidelity puts it into daily practice. Devotion keeps you inspired along the way.**
 
-We provide the rich content that grounds spiritual growth and formation. Formation guides teach how to pray. A Catholic library offers saints' writings, spiritual classics, and hagiographies. Study tools deepen understanding of Scripture and the Catechism. Every prayer comes with its history and tradition.
-
-**Fidelity is essential — it's why the app exists. Devotion is how we attract and retain users. Wisdom is what fuels the growth that Fidelity tracks.**
+> **Unapologetically Catholic** · **Against artificial barriers of intellectual property** · **Integrity and beauty**
 
 ---
 
