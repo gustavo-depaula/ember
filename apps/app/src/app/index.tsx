@@ -226,6 +226,7 @@ export default function HomeScreen() {
               <Text
                 fontFamily="$heading"
                 fontSize="$4"
+                fontWeight="bold"
                 color="$accent"
                 textAlign="center"
                 letterSpacing={1}
