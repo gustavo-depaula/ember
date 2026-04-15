@@ -23,16 +23,42 @@
             "CFBundleTypeName": "Prayer Book",
             "CFBundleTypeRole": "Viewer",
             "LSHandlerRank": "Owner",
-            "LSItemContentTypes": ["me.dpgu.ember.pray"]
+            "LSItemContentTypes": [
+              "me.dpgu.ember.pray"
+            ]
+          },
+          {
+            "CFBundleTypeName": "Prayer Book",
+            "CFBundleTypeRole": "Viewer",
+            "LSHandlerRank": "Owner",
+            "LSItemContentTypes": [
+              "me.dpgu.ember.pray"
+            ]
           }
         ],
         "UTExportedTypeDeclarations": [
           {
             "UTTypeIdentifier": "me.dpgu.ember.pray",
             "UTTypeDescription": "Prayer Book",
-            "UTTypeConformsTo": ["public.zip-archive"],
+            "UTTypeConformsTo": [
+              "public.zip-archive"
+            ],
             "UTTypeTagSpecification": {
-              "public.filename-extension": ["pray"]
+              "public.filename-extension": [
+                "pray"
+              ]
+            }
+          },
+          {
+            "UTTypeIdentifier": "me.dpgu.ember.pray",
+            "UTTypeDescription": "Prayer Book",
+            "UTTypeConformsTo": [
+              "public.zip-archive"
+            ],
+            "UTTypeTagSpecification": {
+              "public.filename-extension": [
+                "pray"
+              ]
             }
           }
         ]
@@ -49,7 +75,23 @@
       "intentFilters": [
         {
           "action": "VIEW",
-          "category": ["DEFAULT", "BROWSABLE"],
+          "category": [
+            "DEFAULT",
+            "BROWSABLE"
+          ],
+          "data": [
+            {
+              "mimeType": "application/octet-stream",
+              "pathPattern": ".*\\.pray"
+            }
+          ]
+        },
+        {
+          "action": "VIEW",
+          "category": [
+            "DEFAULT",
+            "BROWSABLE"
+          ],
           "data": [
             {
               "mimeType": "application/octet-stream",
@@ -78,6 +120,12 @@
       "eas": {
         "projectId": "4f282c90-7689-4b7e-b8c0-707279d09c5c"
       }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/4f282c90-7689-4b7e-b8c0-707279d09c5c"
     }
   }
 }
