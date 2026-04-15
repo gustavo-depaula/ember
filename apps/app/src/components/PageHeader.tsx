@@ -8,14 +8,14 @@ export function PageHeader({ title }: { title: string }) {
   const theme = useTheme()
 
   return (
-    <YStack alignItems="center" gap="$xs">
+    <YStack alignItems="center" gap="$md">
       <Pressable
         onPress={() => router.push('/')}
-        hitSlop={12}
+        hitSlop={16}
         accessibilityRole="link"
         accessibilityLabel="Home"
       >
-        <Home size={20} color={theme.colorSecondary.val} />
+        <Home size={24} color={theme.accent.val} />
       </Pressable>
       <Text fontFamily="$display" fontSize="$4" color="$color" textAlign="center">
         {title}
