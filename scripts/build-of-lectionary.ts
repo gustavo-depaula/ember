@@ -25,7 +25,7 @@ import { getFirstSundayOfAdvent } from '../packages/liturgical/src/season'
 
 // ── Config ──
 
-const yearRange = { start: 2010, end: 2040 }
+const yearRange = { start: 2024, end: 2027 }
 const rateLimitMs = 1000
 const maxRetries = 3
 const contentDir = path.resolve(__dirname, '../content/lectionary/of')
