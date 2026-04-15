@@ -4,7 +4,7 @@ import { AlertTriangle } from 'lucide-react-native'
 import { useCallback, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
-import { Text, useTheme, View, XStack, YStack } from 'tamagui'
+import { Text, useTheme, XStack, YStack } from 'tamagui'
 
 import {
   AnimatedPressable,
@@ -15,7 +15,6 @@ import {
   ScreenLayout,
   SectionDivider,
 } from '@/components'
-import { getSeasonalSymbol } from '@/components/SectionDivider'
 import { getManifest } from '@/content/registry'
 import { useEventStore } from '@/db/events'
 import { useYearCalendar } from '@/features/calendar'
@@ -78,7 +77,7 @@ export default function HomeScreen() {
   const router = useRouter()
   const slots = useSlots()
 
-  const { season, themeName } = useMemo(() => {
+  const { season } = useMemo(() => {
     const s = getLiturgicalSeason(now, liturgicalCalendar)
     const year = now.getFullYear()
     const easter = computeEaster(year)
