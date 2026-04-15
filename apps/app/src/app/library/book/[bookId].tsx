@@ -90,30 +90,29 @@ export default function BookReaderScreen() {
   // Load saved reading position
   useEffect(() => {
     if (!libraryId || !bookId || leaves.length === 0) return
-    getCursor(cursorId(libraryId, bookId)).then((cursor) => {
-      if (cursor) {
-        try {
-          const pos = JSON.parse(cursor.position) as ReadingPosition
-          const valid = leaves.some((l) => l.id === pos.chapterId)
-          if (valid) {
-            setCurrentChapterId(pos.chapterId)
-            setInitialChapterId((prev) => prev ?? pos.chapterId)
-            restoredPageRef.current = pos.page
-            currentPageRef.current = pos.page
-          } else {
-            setCurrentChapterId(leaves[0].id)
-            setInitialChapterId((prev) => prev ?? leaves[0].id)
-          }
-        } catch {
+    const cursor = getCursor(cursorId(libraryId, bookId))
+    if (cursor) {
+      try {
+        const pos = JSON.parse(cursor.position) as ReadingPosition
+        const valid = leaves.some((l) => l.id === pos.chapterId)
+        if (valid) {
+          setCurrentChapterId(pos.chapterId)
+          setInitialChapterId((prev) => prev ?? pos.chapterId)
+          restoredPageRef.current = pos.page
+          currentPageRef.current = pos.page
+        } else {
           setCurrentChapterId(leaves[0].id)
           setInitialChapterId((prev) => prev ?? leaves[0].id)
         }
-      } else {
+      } catch {
         setCurrentChapterId(leaves[0].id)
         setInitialChapterId((prev) => prev ?? leaves[0].id)
       }
-      setPositionLoaded(true)
-    })
+    } else {
+      setCurrentChapterId(leaves[0].id)
+      setInitialChapterId((prev) => prev ?? leaves[0].id)
+    }
+    setPositionLoaded(true)
   }, [libraryId, bookId, leaves])
 
   // Save reading position
