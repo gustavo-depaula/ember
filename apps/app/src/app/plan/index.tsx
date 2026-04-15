@@ -24,7 +24,9 @@ import {
 import { PracticeIcon } from '@/components/PracticeIcon'
 import { calmSpring } from '@/config/animation'
 import { getManifest } from '@/content/registry'
-import type { Tier, UserPractice, UserPracticeSlot } from '@/db/schema'
+import type { SlotState } from '@/db/events'
+import { useEventStore } from '@/db/events'
+import type { Tier, UserPractice } from '@/db/schema'
 import {
   buildTieredWallData,
   type DayCompletion,
@@ -50,17 +52,18 @@ type PracticeGroup = {
 }
 
 function getPracticeDisplayName(
-  practice: { practice_id: string; custom_name: string | null },
+  practiceId: string,
+  practice: UserPractice | undefined,
   t: ReturnType<typeof useTranslation>['t'],
 ): string {
-  const manifest = getManifest(practice.practice_id)
+  const manifest = getManifest(practiceId)
   if (manifest) {
-    const key = `practice.${practice.practice_id}`
+    const key = `practice.${practiceId}`
     const translated = t(key)
     if (translated !== key) return translated
     return localizeContent(manifest.name)
   }
-  return practice.custom_name ?? practice.practice_id
+  return practice?.custom_name ?? practiceId
 }
 
 export default function PlanScreen() {
@@ -68,11 +71,12 @@ export default function PlanScreen() {
   const router = useRouter()
   const theme = useTheme()
 
-  const { data: slots = [] } = useSlots()
-  const { data: restartNeededIds = new Set<string>() } = useRestartNeededPractices()
+  const slots = useSlots()
+  const practices = useEventStore((s) => s.practices)
+  const restartNeededIds = useRestartNeededPractices()
   const rangeStart = useMemo(() => format(subWeeks(new Date(), 20), 'yyyy-MM-dd'), [])
   const today = useMemo(() => format(new Date(), 'yyyy-MM-dd'), [])
-  const { data: rangeLogs = [] } = useCompletionRange(rangeStart, today)
+  const rangeLogs = useCompletionRange(rangeStart, today)
 
   const { wallData, stats } = useMemo(() => {
     const wd = buildTieredWallData(rangeLogs, slots)
@@ -99,7 +103,7 @@ export default function PlanScreen() {
 
   // Group slots into practices
   const practiceGroups = useMemo(() => {
-    const byPractice = new Map<string, UserPracticeSlot[]>()
+    const byPractice = new Map<string, SlotState[]>()
     for (const s of slots) {
       const existing = byPractice.get(s.practice_id) ?? []
       existing.push(s)
@@ -111,7 +115,7 @@ export default function PlanScreen() {
       const first = practiceSlots[0]
       groups.push({
         practiceId,
-        name: getPracticeDisplayName(first, t),
+        name: getPracticeDisplayName(practiceId, practices.get(practiceId), t),
         icon: getPracticeIconKey(first),
         tier: first.tier,
         slotCount: practiceSlots.length,
@@ -120,7 +124,7 @@ export default function PlanScreen() {
     }
 
     return groups
-  }, [slots, t])
+  }, [slots, practices, t])
 
   const grouped = useMemo(() => {
     const groups: Record<Tier, PracticeGroup[]> = { essential: [], ideal: [], extra: [] }
@@ -132,7 +136,7 @@ export default function PlanScreen() {
 
   const tierSections: Tier[] = ['essential', 'ideal', 'extra']
 
-  const { data: archivedPractices = [] } = useArchivedPractices()
+  const archivedPractices = useArchivedPractices()
   const [archivedExpanded, setArchivedExpanded] = useState(false)
   const chevronRotation = useSharedValue(0)
   const chevronStyle = useAnimatedStyle(() => ({
@@ -316,39 +320,37 @@ export default function PlanScreen() {
                 </AnimatedPressable>
 
                 {archivedExpanded &&
-                  archivedPractices.map(
-                    (p: UserPractice & { slot_id: string | null }, index: number) => {
-                      const name = getPracticeDisplayName(p, t)
-                      const iconKey = p.slot_id ?? 'default'
+                  archivedPractices.map((p, index) => {
+                    const name = getPracticeDisplayName(p.practice_id, p, t)
+                    const iconKey = p.custom_icon ?? 'prayer'
 
-                      return (
-                        <Animated.View
-                          key={p.practice_id}
-                          entering={FadeIn.duration(200).delay(index * 50)}
-                          exiting={FadeOut.duration(150)}
-                        >
-                          <AnimatedPressable onPress={() => router.push(`/plan/${p.practice_id}`)}>
-                            <XStack
-                              backgroundColor="$backgroundSurface"
-                              borderRadius="$lg"
-                              padding="$md"
-                              alignItems="center"
-                              gap="$md"
-                              opacity={0.5}
-                            >
-                              <PracticeIcon name={iconKey} size={20} />
-                              <Text flex={1} fontFamily="$body" fontSize="$3" color="$color">
-                                {name}
-                              </Text>
-                              <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
-                                ›
-                              </Text>
-                            </XStack>
-                          </AnimatedPressable>
-                        </Animated.View>
-                      )
-                    },
-                  )}
+                    return (
+                      <Animated.View
+                        key={p.practice_id}
+                        entering={FadeIn.duration(200).delay(index * 50)}
+                        exiting={FadeOut.duration(150)}
+                      >
+                        <AnimatedPressable onPress={() => router.push(`/plan/${p.practice_id}`)}>
+                          <XStack
+                            backgroundColor="$backgroundSurface"
+                            borderRadius="$lg"
+                            padding="$md"
+                            alignItems="center"
+                            gap="$md"
+                            opacity={0.5}
+                          >
+                            <PracticeIcon name={iconKey} size={20} />
+                            <Text flex={1} fontFamily="$body" fontSize="$3" color="$color">
+                              {name}
+                            </Text>
+                            <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
+                              ›
+                            </Text>
+                          </XStack>
+                        </AnimatedPressable>
+                      </Animated.View>
+                    )
+                  })}
               </YStack>
             </Animated.View>
           </>

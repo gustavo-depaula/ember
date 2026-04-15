@@ -1,9 +1,10 @@
 import * as Notifications from 'expo-notifications'
 import { Platform } from 'react-native'
-
+import type { SlotState } from '@/db/events'
 import { getEnabledSlots, getPractice } from '@/db/repositories'
-import type { NotifyConfig, UserPractice, UserPracticeSlot } from '@/db/schema'
+import type { NotifyConfig, UserPractice } from '@/db/schema'
 import { parseSchedule, type Schedule } from '@/features/plan-of-life/schedule'
+import { parseSlotKey } from '@/lib/slotKey'
 
 Notifications.setNotificationHandler({
   handleNotification: async () => ({
@@ -49,7 +50,7 @@ function getScheduledDays(schedule: Schedule): number[] | undefined {
 }
 
 function scheduleRemindersForSlot(
-  slot: UserPracticeSlot,
+  slot: SlotState,
   practice: UserPractice | undefined,
 ): Promise<string[]> {
   if (!slot.time) return Promise.resolve([])
@@ -64,7 +65,7 @@ function scheduleRemindersForSlot(
   const content = {
     title: 'Practice Reminder',
     body,
-    data: { practiceId: slot.practice_id, slotId: slot.slot_id },
+    data: { practiceId: slot.practice_id, slotId: parseSlotKey(slot.id).slotId },
   }
   const androidChannel = Platform.OS === 'android' ? { channelId: 'practice-reminders' } : {}
 

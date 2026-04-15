@@ -1,26 +1,28 @@
 import type { TFunction } from 'i18next'
 
 import { getManifest, getManifestIconKey } from '@/content/registry'
-import type { UserPracticeSlot } from '@/db/schema'
+import type { SlotState } from '@/db/events'
+import { getPractice } from '@/db/repositories'
 import { localizeContent } from '@/lib/i18n'
 import { getProgramDay, parseSchedule } from './schedule'
 
-export function getPracticeIconKey(slot: UserPracticeSlot): string {
-  if (slot.custom_icon) return slot.custom_icon
+export function getPracticeIconKey(slot: SlotState): string {
+  const practice = getPractice(slot.practice_id)
+  if (practice?.custom_icon) return practice.custom_icon
   const manifest = getManifest(slot.practice_id)
   if (manifest) return getManifestIconKey(slot.practice_id)
   return 'prayer'
 }
 
-export function getSlotName(slot: UserPracticeSlot, t: TFunction): string {
+export function getSlotName(slot: SlotState, t: TFunction): string {
   const manifest = getManifest(slot.practice_id)
 
   if (manifest) {
     return localizeManifestName(manifest, slot.practice_id, t)
   }
 
-  // Custom practice — use custom_name from joined practice data
-  return slot.custom_name ?? slot.practice_id
+  const practice = getPractice(slot.practice_id)
+  return practice?.custom_name ?? slot.practice_id
 }
 
 function localizeManifestName(
@@ -35,10 +37,10 @@ function localizeManifestName(
 }
 
 export function enrichSlot(
-  slot: UserPracticeSlot,
+  slot: SlotState,
   t: TFunction,
   programDayOverride?: number,
-): UserPracticeSlot & { name: string; icon: string; subtitle?: string } {
+): SlotState & { name: string; icon: string; subtitle?: string } {
   const manifest = getManifest(slot.practice_id)
   const subtitle = (() => {
     if (!manifest?.program) return undefined

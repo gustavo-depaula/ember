@@ -1,15 +1,51 @@
 import { deriveTimeBlock } from '@/features/plan-of-life/timeBlocks'
-import { composeSlotKey } from '@/lib/slotKey'
-import { getDb } from '../client'
-import type { Completion, UserPractice, UserPracticeSlot } from '../schema'
+import { composeSlotKey, parseSlotKey } from '@/lib/slotKey'
+import { emit, emitBatch, resolveCompletions, useEventStore } from '../events'
+import type { SlotState } from '../events/state'
+import type { Completion, Tier, TimeBlock, UserPractice } from '../schema'
 
-// --- User practices (thin definition table) ---
-
-export function getPractice(practiceId: string): Promise<UserPractice | null> {
-  return getDb().getFirstAsync<UserPractice>('SELECT * FROM user_practices WHERE practice_id = ?', [
-    practiceId,
-  ])
+function getSortedSlots(): SlotState[] {
+  const store = useEventStore.getState()
+  return [...store.slots.values()].sort((a, b) => a.sort_order - b.sort_order)
 }
+
+function nextSlotUniqueId(practiceId: string): string {
+  const store = useEventStore.getState()
+  let max = 0
+  for (const [key, slot] of store.slots) {
+    if (slot.practice_id === practiceId) {
+      const num = Number.parseInt(parseSlotKey(key).slotId, 10)
+      if (!Number.isNaN(num) && num > max) max = num
+    }
+  }
+  return String(max + 1)
+}
+
+function maxSortOrder(): number {
+  const store = useEventStore.getState()
+  let max = 0
+  for (const slot of store.slots.values()) {
+    if (slot.sort_order > max) max = slot.sort_order
+  }
+  return max
+}
+
+// --- Practice reads ---
+
+export function getPractice(practiceId: string): UserPractice | undefined {
+  return useEventStore.getState().practices.get(practiceId)
+}
+
+export function getArchivedPractices(): UserPractice[] {
+  const store = useEventStore.getState()
+  const result: UserPractice[] = []
+  for (const practice of store.practices.values()) {
+    if (practice.archived) result.push(practice)
+  }
+  return result
+}
+
+// --- Practice mutations ---
 
 export async function createPractice(data: {
   id: string
@@ -17,10 +53,14 @@ export async function createPractice(data: {
   customIcon?: string
   customDesc?: string
 }): Promise<void> {
-  await getDb().runAsync(
-    'INSERT OR IGNORE INTO user_practices (practice_id, custom_name, custom_icon, custom_desc) VALUES (?, ?, ?, ?)',
-    [data.id, data.customName ?? null, data.customIcon ?? null, data.customDesc ?? null],
-  )
+  if (useEventStore.getState().practices.has(data.id)) return
+  await emit({
+    type: 'PracticeCreated',
+    practiceId: data.id,
+    customName: data.customName,
+    customIcon: data.customIcon,
+    customDesc: data.customDesc,
+  })
 }
 
 export async function updatePractice(
@@ -31,189 +71,115 @@ export async function updatePractice(
     customDesc: string | null
   }>,
 ): Promise<void> {
-  const fieldMap: Record<string, string> = {
-    customName: 'custom_name',
-    customIcon: 'custom_icon',
-    customDesc: 'custom_desc',
+  await emit({ type: 'PracticeUpdated', practiceId, ...data })
+}
+
+function buildSlotAddedEvent(
+  practiceId: string,
+  data: { tier?: Tier; time?: string; schedule?: string },
+) {
+  const uniqueId = nextSlotUniqueId(practiceId)
+  const slotKey = composeSlotKey(practiceId, uniqueId)
+  const time = data.time ?? null
+  return {
+    event: {
+      type: 'SlotAdded' as const,
+      practiceId,
+      slotKey,
+      tier: data.tier ?? 'ideal',
+      time,
+      timeBlock: deriveTimeBlock(time),
+      schedule: data.schedule ?? '{"type":"daily"}',
+      sortOrder: maxSortOrder() + 1,
+      enabled: 1,
+    },
+    slotKey,
   }
-
-  const sets: string[] = []
-  const values: (string | null)[] = []
-
-  for (const [key, column] of Object.entries(fieldMap)) {
-    const val = data[key as keyof typeof data]
-    if (val !== undefined) {
-      sets.push(`${column} = ?`)
-      values.push(val)
-    }
-  }
-
-  if (sets.length === 0) return
-
-  values.push(practiceId)
-  await getDb().runAsync(
-    `UPDATE user_practices SET ${sets.join(', ')} WHERE practice_id = ?`,
-    values,
-  )
 }
 
 export async function createPracticeWithSlot(
   practice: { id: string; customName?: string; customIcon?: string; customDesc?: string },
   slotData: Parameters<typeof addSlot>[1],
 ): Promise<string> {
-  const db = getDb()
-  let slotKey = ''
-  await db.withTransactionAsync(async () => {
-    await db.runAsync(
-      'INSERT OR IGNORE INTO user_practices (practice_id, custom_name, custom_icon, custom_desc) VALUES (?, ?, ?, ?)',
-      [
-        practice.id,
-        practice.customName ?? null,
-        practice.customIcon ?? null,
-        practice.customDesc ?? null,
-      ],
-    )
-    slotKey = await addSlot(practice.id, slotData)
-  })
+  const events = []
+
+  if (!useEventStore.getState().practices.has(practice.id)) {
+    events.push({
+      type: 'PracticeCreated' as const,
+      practiceId: practice.id,
+      customName: practice.customName,
+      customIcon: practice.customIcon,
+      customDesc: practice.customDesc,
+    })
+  }
+
+  const { event, slotKey } = buildSlotAddedEvent(practice.id, slotData)
+  events.push(event)
+
+  await emitBatch(events)
   return slotKey
+}
+
+export async function deletePractice(practiceId: string): Promise<void> {
+  await emit({ type: 'PracticeDeleted', practiceId })
 }
 
 export async function deleteBookPractices(practiceIds: string[]): Promise<void> {
   if (practiceIds.length === 0) return
-  const db = getDb()
-  await db.withTransactionAsync(async () => {
-    for (const id of practiceIds) {
-      await db.runAsync('DELETE FROM completions WHERE practice_id = ?', [id])
-      await db.runAsync('DELETE FROM user_practice_slots WHERE practice_id = ?', [id])
-      await db.runAsync('DELETE FROM user_practices WHERE practice_id = ?', [id])
-    }
-  })
-}
-
-export async function deletePractice(practiceId: string): Promise<void> {
-  const db = getDb()
-  await db.withTransactionAsync(async () => {
-    await db.runAsync('DELETE FROM completions WHERE practice_id = ?', [practiceId])
-    await db.runAsync('DELETE FROM user_practice_slots WHERE practice_id = ?', [practiceId])
-    await db.runAsync('DELETE FROM user_practices WHERE practice_id = ?', [practiceId])
-  })
+  const events = practiceIds.map((id) => ({
+    type: 'PracticeDeleted' as const,
+    practiceId: id,
+  }))
+  await emitBatch(events)
 }
 
 // --- Archive ---
 
 export async function archivePractice(practiceId: string): Promise<void> {
-  const db = getDb()
-  await db.withTransactionAsync(async () => {
-    await db.runAsync('UPDATE user_practices SET archived = 1 WHERE practice_id = ?', [practiceId])
-    await db.runAsync('UPDATE user_practice_slots SET enabled = 0 WHERE practice_id = ?', [
-      practiceId,
-    ])
-  })
+  await emit({ type: 'PracticeArchived', practiceId })
 }
 
 export async function unarchivePractice(practiceId: string): Promise<void> {
-  const db = getDb()
-  await db.withTransactionAsync(async () => {
-    await db.runAsync('UPDATE user_practices SET archived = 0 WHERE practice_id = ?', [practiceId])
-    await db.runAsync('UPDATE user_practice_slots SET enabled = 1 WHERE practice_id = ?', [
-      practiceId,
-    ])
+  await emit({ type: 'PracticeUnarchived', practiceId })
+}
+
+// --- Slot reads ---
+
+export function getEnabledSlots(): SlotState[] {
+  const store = useEventStore.getState()
+  return getSortedSlots().filter((slot) => {
+    if (!slot.enabled) return false
+    const practice = store.practices.get(slot.practice_id)
+    return !practice?.archived
   })
 }
 
-export async function getArchivedPractices(): Promise<
-  (UserPractice & { slot_id: string | null })[]
-> {
-  return getDb().getAllAsync(
-    `SELECT p.*, s.slot_id
-     FROM user_practices p
-     LEFT JOIN user_practice_slots s ON s.practice_id = p.practice_id
-       AND s.id = (SELECT id FROM user_practice_slots WHERE practice_id = p.practice_id ORDER BY sort_order LIMIT 1)
-     WHERE p.archived = 1`,
-  )
+export function getAllSlots(): SlotState[] {
+  return getSortedSlots()
 }
 
-// --- Slots ---
-
-const slotJoinQuery = `
-  SELECT s.*, p.custom_name, p.custom_icon, p.custom_desc, p.archived
-  FROM user_practice_slots s
-  LEFT JOIN user_practices p ON s.practice_id = p.practice_id`
-
-export function getEnabledSlots(): Promise<UserPracticeSlot[]> {
-  return getDb().getAllAsync<UserPracticeSlot>(
-    `${slotJoinQuery} WHERE s.enabled = 1 AND p.archived = 0 ORDER BY s.sort_order`,
-  )
+export function getSlotsForPractice(practiceId: string): SlotState[] {
+  const store = useEventStore.getState()
+  const result: SlotState[] = []
+  for (const slot of store.slots.values()) {
+    if (slot.practice_id === practiceId) result.push(slot)
+  }
+  return result.sort((a, b) => a.sort_order - b.sort_order)
 }
 
-export function getAllSlots(): Promise<UserPracticeSlot[]> {
-  return getDb().getAllAsync<UserPracticeSlot>(`${slotJoinQuery} ORDER BY s.sort_order`)
-}
-
-export function getSlotsForPractice(practiceId: string): Promise<UserPracticeSlot[]> {
-  return getDb().getAllAsync<UserPracticeSlot>(
-    `${slotJoinQuery} WHERE s.practice_id = ? ORDER BY s.sort_order`,
-    [practiceId],
-  )
-}
+// --- Slot mutations ---
 
 export async function addSlot(
   practiceId: string,
   data: {
-    slotId?: string
-    tier?: string
+    tier?: Tier
     time?: string
     schedule?: string
   },
 ): Promise<string> {
-  const db = getDb()
-
-  const slotId = data.slotId ?? 'default'
-  const uniqueId = await nextSlotId(db, practiceId)
-  const id = composeSlotKey(practiceId, uniqueId)
-
-  const maxOrder = await db.getFirstAsync<{ max_order: number | null }>(
-    'SELECT MAX(sort_order) as max_order FROM user_practice_slots',
-  )
-  const sortOrder = (maxOrder?.max_order ?? 0) + 1
-
-  const time = data.time ?? null
-  const timeBlock = deriveTimeBlock(time)
-
-  await db.runAsync(
-    `INSERT INTO user_practice_slots (id, practice_id, slot_id, enabled, sort_order, tier, time, time_block, schedule)
-     VALUES (?, ?, ?, 1, ?, ?, ?, ?, ?)`,
-    [
-      id,
-      practiceId,
-      slotId,
-      sortOrder,
-      data.tier ?? 'ideal',
-      time,
-      timeBlock,
-      data.schedule ?? '{"type":"daily"}',
-    ],
-  )
-
-  return id
-}
-
-async function nextSlotId(db: ReturnType<typeof getDb>, practiceId: string): Promise<string> {
-  const row = await db.getFirstAsync<{ max_id: number | null }>(
-    "SELECT MAX(CAST(slot_id AS INTEGER)) as max_id FROM user_practice_slots WHERE practice_id = ? AND slot_id GLOB '[0-9]*'",
-    [practiceId],
-  )
-  return String((row?.max_id ?? 0) + 1)
-}
-
-const slotFieldMap: Record<string, string> = {
-  enabled: 'enabled',
-  sortOrder: 'sort_order',
-  tier: 'tier',
-  time: 'time',
-  timeBlock: 'time_block',
-  notify: 'notify',
-  schedule: 'schedule',
+  const { event, slotKey } = buildSlotAddedEvent(practiceId, data)
+  await emit(event)
+  return slotKey
 }
 
 export async function updateSlot(
@@ -221,9 +187,9 @@ export async function updateSlot(
   data: Partial<{
     enabled: number
     sortOrder: number
-    tier: string
+    tier: Tier
     time: string | null
-    timeBlock: string
+    timeBlock: TimeBlock
     notify: string | null
     schedule: string
   }>,
@@ -232,57 +198,34 @@ export async function updateSlot(
     data.timeBlock = deriveTimeBlock(data.time)
   }
 
-  const sets: string[] = []
-  const values: (string | number | null)[] = []
-
-  for (const [key, column] of Object.entries(slotFieldMap)) {
-    const val = data[key as keyof typeof data]
-    if (val !== undefined) {
-      sets.push(`${column} = ?`)
-      values.push(val as string | number | null)
-    }
-  }
-
-  if (sets.length === 0) return
-
-  values.push(slotId)
-  await getDb().runAsync(`UPDATE user_practice_slots SET ${sets.join(', ')} WHERE id = ?`, values)
+  await emit({
+    type: 'SlotUpdated',
+    slotKey: slotId,
+    changes: data,
+  })
 }
 
 export async function deleteSlot(slotId: string): Promise<void> {
-  const db = getDb()
   const { practiceId, slotId: subId } = parseSlotKey(slotId)
-  await db.withTransactionAsync(async () => {
-    await db.runAsync('DELETE FROM completions WHERE practice_id = ? AND sub_id = ?', [
-      practiceId,
-      subId,
-    ])
-    await db.runAsync('DELETE FROM user_practice_slots WHERE id = ?', [slotId])
-  })
+  await emit({ type: 'SlotDeleted', slotKey: slotId, practiceId, slotId: subId })
 }
 
-export async function enableSlotsForPractice(practiceId: string): Promise<void> {
-  await getDb().runAsync('UPDATE user_practice_slots SET enabled = 1 WHERE practice_id = ?', [
-    practiceId,
-  ])
+async function setSlotsEnabled(practiceId: string, enabled: 0 | 1): Promise<void> {
+  const store = useEventStore.getState()
+  const events = []
+  for (const [key, slot] of store.slots) {
+    if (slot.practice_id === practiceId && slot.enabled !== enabled) {
+      events.push({ type: 'SlotUpdated' as const, slotKey: key, changes: { enabled } })
+    }
+  }
+  if (events.length > 0) await emitBatch(events)
 }
 
-export async function disableSlotsForPractice(practiceId: string): Promise<void> {
-  await getDb().runAsync('UPDATE user_practice_slots SET enabled = 0 WHERE practice_id = ?', [
-    practiceId,
-  ])
-}
+export const enableSlotsForPractice = (id: string) => setSlotsEnabled(id, 1)
+export const disableSlotsForPractice = (id: string) => setSlotsEnabled(id, 0)
 
 export async function reorderSlots(orderedIds: string[]): Promise<void> {
-  const db = getDb()
-  await db.withTransactionAsync(async () => {
-    for (let i = 0; i < orderedIds.length; i++) {
-      await db.runAsync('UPDATE user_practice_slots SET sort_order = ? WHERE id = ?', [
-        i + 1,
-        orderedIds[i],
-      ])
-    }
-  })
+  await emit({ type: 'SlotsReordered', orderedSlotKeys: orderedIds })
 }
 
 // --- Completions ---
@@ -292,52 +235,70 @@ export async function logCompletion(
   date: string,
   subId: string,
 ): Promise<void> {
-  const ts = Date.now()
-  await getDb().runAsync(
-    'INSERT INTO completions (practice_id, sub_id, date, completed_at) VALUES (?, ?, ?, ?)',
-    [practiceId, subId, date, ts],
-  )
+  const completionId = useEventStore.getState().nextCompletionId
+  await emit({
+    type: 'CompletionLogged',
+    completionId,
+    practiceId,
+    subId,
+    date,
+    completedAt: Date.now(),
+  })
 }
 
 export async function backfillMissedDays(practiceId: string, dates: string[]): Promise<void> {
-  const db = getDb()
   const ts = Date.now()
-  for (const date of dates) {
-    await db.runAsync(
-      'INSERT INTO completions (practice_id, sub_id, date, completed_at) VALUES (?, ?, ?, ?)',
-      [practiceId, 'backfill', date, ts],
-    )
-  }
+  const store = useEventStore.getState()
+  let nextId = store.nextCompletionId
+  const entries = dates.map((date) => ({
+    completionId: nextId++,
+    date,
+    subId: 'backfill',
+    completedAt: ts,
+  }))
+  await emit({ type: 'CompletionsBatchLogged', practiceId, entries })
 }
 
 export async function removeCompletion(id: number): Promise<void> {
-  await getDb().runAsync('DELETE FROM completions WHERE id = ?', [id])
+  const completion = useEventStore.getState().completions.get(id)
+  if (!completion) return
+  await emit({
+    type: 'CompletionRemoved',
+    completionId: id,
+    practiceId: completion.practice_id,
+    date: completion.date,
+    subId: completion.sub_id,
+  })
 }
 
-export function getCompletionsForDate(date: string): Promise<Completion[]> {
-  return getDb().getAllAsync<Completion>('SELECT * FROM completions WHERE date = ?', [date])
+function resolve(ids: Set<number> | undefined): Completion[] {
+  return resolveCompletions(ids, useEventStore.getState().completions)
 }
 
-export function getCompletionsForPractice(practiceId: string, date: string): Promise<Completion[]> {
-  return getDb().getAllAsync<Completion>(
-    'SELECT * FROM completions WHERE practice_id = ? AND date = ?',
-    [practiceId, date],
+export function getCompletionsForDate(date: string): Completion[] {
+  return resolve(useEventStore.getState().completionsByDate.get(date))
+}
+
+export function getCompletionsForPractice(practiceId: string, date: string): Completion[] {
+  return resolve(useEventStore.getState().completionsByDate.get(date)).filter(
+    (c) => c.practice_id === practiceId,
   )
 }
 
-export async function getCompletionDates(practiceId: string): Promise<string[]> {
-  const rows = await getDb().getAllAsync<{ date: string }>(
-    'SELECT DISTINCT date FROM completions WHERE practice_id = ?',
-    [practiceId],
-  )
-  return rows.map((r) => r.date)
+export function getCompletionDates(practiceId: string): string[] {
+  const completions = resolve(useEventStore.getState().completionsByPractice.get(practiceId))
+  return [...new Set(completions.map((c) => c.date))]
 }
 
-export function getCompletionRange(startDate: string, endDate: string): Promise<Completion[]> {
-  return getDb().getAllAsync<Completion>('SELECT * FROM completions WHERE date BETWEEN ? AND ?', [
-    startDate,
-    endDate,
-  ])
+export function getCompletionRange(startDate: string, endDate: string): Completion[] {
+  const store = useEventStore.getState()
+  const result: Completion[] = []
+  for (const [date, ids] of store.completionsByDate) {
+    if (date >= startDate && date <= endDate) {
+      for (const c of resolve(ids)) result.push(c)
+    }
+  }
+  return result
 }
 
 export async function toggleCompletion(
@@ -346,36 +307,27 @@ export async function toggleCompletion(
   completed: boolean,
   subId: string,
 ): Promise<void> {
-  const db = getDb()
   if (completed) {
     await logCompletion(practiceId, date, subId)
   } else {
-    await db.runAsync('DELETE FROM completions WHERE practice_id = ? AND date = ? AND sub_id = ?', [
-      practiceId,
-      date,
-      subId,
-    ])
+    const match = resolve(useEventStore.getState().completionsByDate.get(date)).find(
+      (c) => c.practice_id === practiceId && c.sub_id === subId,
+    )
+    if (match) await removeCompletion(match.id)
   }
 }
 
-export async function getCompletionCountSince(
-  practiceId: string,
-  startDate: string,
-): Promise<number> {
-  const row = await getDb().getFirstAsync<{ cnt: number }>(
-    'SELECT COUNT(DISTINCT date) as cnt FROM completions WHERE practice_id = ? AND date >= ?',
-    [practiceId, startDate],
-  )
-  return row?.cnt ?? 0
+export function getCompletionCountSince(practiceId: string, startDate: string): number {
+  const completions = resolve(useEventStore.getState().completionsByPractice.get(practiceId))
+  const dates = new Set<string>()
+  for (const c of completions) {
+    if (c.date >= startDate) dates.add(c.date)
+  }
+  return dates.size
 }
 
-export async function isPracticeCompletedOnDate(
-  practiceId: string,
-  date: string,
-): Promise<boolean> {
-  const row = await getDb().getFirstAsync<{ cnt: number }>(
-    'SELECT EXISTS(SELECT 1 FROM completions WHERE practice_id = ? AND date = ?) as cnt',
-    [practiceId, date],
+export function isPracticeCompletedOnDate(practiceId: string, date: string): boolean {
+  return resolve(useEventStore.getState().completionsByDate.get(date)).some(
+    (c) => c.practice_id === practiceId,
   )
-  return row?.cnt === 1
 }

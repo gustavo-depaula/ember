@@ -3,6 +3,8 @@ import { Directory, Paths } from 'expo-file-system'
 import type { SQLiteDatabase } from 'expo-sqlite'
 import { deleteDatabaseAsync, openDatabaseAsync } from 'expo-sqlite'
 import { useEffect, useReducer } from 'react'
+
+import { createEventsTable, replayAll } from './events'
 import initialMigration from './migrations/0001_initial.sql'
 
 let _db: SQLiteDatabase | undefined
@@ -30,6 +32,10 @@ export function useDbInit() {
       try {
         _db = await openDatabaseAsync('ember.db')
         await _db.execAsync(initialMigration)
+
+        // Event sourcing: create events table + replay into memory
+        await createEventsTable(_db)
+        await replayAll()
 
         if (!cancelled) dispatch({ type: 'done' })
       } catch (err) {

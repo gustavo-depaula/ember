@@ -177,7 +177,7 @@ export default function PracticeCatalogScreen() {
   }
 
   const categories = useMemo(() => getManifestCategories(), [])
-  const { data: allSlots = [] } = useAllSlots()
+  const allSlots = useAllSlots()
   const enabledManifestIds = useMemo(
     () => new Set(allSlots.filter((s) => s.enabled).map((s) => s.practice_id)),
     [allSlots],
