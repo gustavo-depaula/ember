@@ -9,11 +9,11 @@ import Animated, {
   withTiming,
 } from 'react-native-reanimated'
 import { Text, XStack, YStack } from 'tamagui'
-
-import { AnimatedPressable, ManuscriptFrame } from '@/components'
 import { calmSpring } from '@/config/animation'
 import { lightTap } from '@/lib/haptics'
 import type { AbstinenceLevel } from '@/lib/liturgical'
+import { AnimatedPressable } from './AnimatedPressable'
+import { ManuscriptFrame } from './ManuscriptFrame'
 
 type Badge = { key: string; label: string; note: string; explanation: string }
 

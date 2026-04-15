@@ -1,18 +1,18 @@
-import { reloadAppAsync } from 'expo'
-import { Directory, Paths } from 'expo-file-system'
-import type { SQLiteDatabase } from 'expo-sqlite'
 import { deleteDatabaseAsync, openDatabaseAsync } from 'expo-sqlite'
 import { useEffect, useReducer } from 'react'
+import { Platform } from 'react-native'
 
 import { createEventsTable, replayAll } from './events'
+import { getDb, setDb } from './instance'
 import initialMigration from './migrations/0001_initial.sql'
 
-let _db: SQLiteDatabase | undefined
+// Native-only imports
+// biome-ignore lint: conditional require for platform compat
+const nativeFs = Platform.OS !== 'web' ? (require('expo-file-system') as any) : undefined
+// biome-ignore lint: conditional require for platform compat
+const expo = Platform.OS !== 'web' ? (require('expo') as any) : undefined
 
-export function getDb(): SQLiteDatabase {
-  if (!_db) throw new Error('Database not initialized — call useDbInit first')
-  return _db
-}
+export { getDb }
 
 type DbState = { success: boolean; error: unknown }
 
@@ -30,15 +30,20 @@ export function useDbInit() {
 
     async function init() {
       try {
-        _db = await openDatabaseAsync('ember.db')
+        console.log('[db] opening…')
+        const _db = await openDatabaseAsync('ember.db')
+        setDb(_db)
+        console.log('[db] running migrations…')
         await _db.execAsync(initialMigration)
-
-        // Event sourcing: create events table + replay into memory
+        console.log('[db] creating events table…')
         await createEventsTable(_db)
+        console.log('[db] replaying events…')
         await replayAll()
+        console.log('[db] ready')
 
         if (!cancelled) dispatch({ type: 'done' })
       } catch (err) {
+        console.error('[db] init failed:', err)
         if (!cancelled) dispatch({ type: 'error', error: err })
       }
     }
@@ -53,13 +58,23 @@ export function useDbInit() {
 }
 
 export async function resetDatabase() {
-  if (_db) {
-    await _db.closeAsync()
-    _db = undefined
+  try {
+    const db = getDb()
+    await db.closeAsync()
+  } catch {
+    // db not initialized, nothing to close
   }
+  setDb(undefined)
   await deleteDatabaseAsync('ember.db')
-  const booksDir = new Directory(Paths.document, 'books/')
-  if (booksDir.exists) booksDir.delete()
 
-  await reloadAppAsync('Database reset')
+  if (Platform.OS === 'web') {
+    const { idbClearAll } = await import('@/lib/idb-fs')
+    await idbClearAll()
+    window.location.reload()
+  } else {
+    const { Directory, Paths } = nativeFs
+    const booksDir = new Directory(Paths.document, 'books/')
+    if (booksDir.exists) booksDir.delete()
+    await expo.reloadAppAsync('Database reset')
+  }
 }

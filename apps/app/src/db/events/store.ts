@@ -1,6 +1,6 @@
 import type { SQLiteDatabase } from 'expo-sqlite'
 
-import { getDb } from '../client'
+import { getDb } from '../instance'
 import { useEventStore } from './state'
 import type { AppEvent, StoredEvent } from './types'
 

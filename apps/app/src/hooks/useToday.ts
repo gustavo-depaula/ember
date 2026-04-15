@@ -1,6 +1,5 @@
+import { normalizeDate } from '@ember/liturgical'
 import { parseISO } from 'date-fns'
-
-import { normalizeDate } from '@/lib/liturgical'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
 /**
