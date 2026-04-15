@@ -17,7 +17,7 @@
 | Fonts | expo-font | Custom typefaces (UnifrakturMaguntia, Cinzel, EB Garamond, Pinyon Script) via @expo-google-fonts + bundled TTF |
 | Dates | date-fns | Lightweight, tree-shakeable, no Moment.js bloat |
 | Bible text | Bundled JSON + Bolls.life API | Douay-Rheims offline, NABRE/RSV online with caching |
-| Catechism | Bundled JSON | From `nossbigg/catechism-ccc-json` |
+| Catechism | Fetched at deploy | From `nossbigg/catechism-ccc-json`, processed during Hearth build |
 | Liturgical texts | Bundled JSON | Parsed from `divinumofficium/divinum-officium` (MIT) |
 | Content engine | `@ember/content-engine` | Practice-agnostic flow resolution — turns declarative JSON into renderable sections |
 
@@ -157,10 +157,10 @@ Hearth is a GitHub Pages-hosted static file server that serves all downloadable 
 | Libraries (.pray) | `hearth/v1/libraries/` | .pray (zip) + `registry.json` |
 | Bible (DRB) | `hearth/v1/bible/drb/` | 74 JSON files |
 | EF Mass propers | `hearth/v1/propers/` | 634 JSON files |
-| Catechism (CCC) | `hearth/v1/catechism/ccc.json` | 1 JSON file |
+| Catechism (CCC) | `hearth/v1/catechism/ccc.json` | 1 JSON file (fetched at build time) |
 | Saints images | `hearth/v1/saints/` | PNG + WebP |
 
-**Build pipeline:** `scripts/build-libraries.sh` zips each `content/libraries/{id}/` into `{id}-{version}.pray`, generates `registry.json` with metadata and content hashes. `.github/workflows/deploy.yml` copies all assets and deploys to GitHub Pages.
+**Build pipeline:** `scripts/build-libraries.sh` zips each `content/libraries/{id}/` into `{id}-{version}.pray`, generates `registry.json` with metadata and content hashes. `scripts/fetch-ccc.ts` fetches and processes the CCC from upstream at build time. `.github/workflows/deploy.yml` copies all assets and deploys to GitHub Pages.
 
 **First launch flow:** Fetch `registry.json` → download `ember-default` → install → seed practices into plan of life → navigate to home. Requires connectivity on first launch.
 
@@ -171,7 +171,7 @@ Hearth is a GitHub Pages-hosted static file server that serves all downloadable 
 | `content/libraries/` | `hearth/v1/libraries/` (zipped into .pray) |
 | `content/bible/drb/` | `hearth/v1/bible/drb/` |
 | `content/propers/` | `hearth/v1/propers/` |
-| `content/catechism/` | `hearth/v1/catechism/` |
+| _(fetched at build time)_ | `hearth/v1/catechism/` |
 | `content/saints/` | `hearth/v1/saints/` (+ WebP conversion) |
 
 The `v1/` prefix allows future breaking schema changes without breaking old app versions.
@@ -275,7 +275,7 @@ ember/
       *.pray                          (generated — built .pray archives)
     bible/drb/                        (Douay-Rheims JSON, 73 books + index)
     propers/                          (EF Mass propers — tempora + sancti)
-    catechism/                        (CCC JSON)
+    catechism/                        (CCC JSON — generated at deploy, not committed)
     saints/                           (saint PNG images)
   apps/
     app/                              (Expo app — iOS/Android/web)

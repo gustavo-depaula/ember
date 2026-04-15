@@ -43,6 +43,7 @@ apps/app/android
 .turbo/
 
 # Generated hearth assets (build:hearth output)
+content/catechism/
 content/saints/*.webp
 content/books/*/*.pray
 content/books/registry.json

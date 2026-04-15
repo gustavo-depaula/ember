@@ -6,7 +6,7 @@
 |---------|--------|---------|--------|----------|
 | Bible (Douay-Rheims) | `xxruyle/Bible-DouayRheims` (GitHub) | MIT / Public Domain | JSON | Yes (bundled) |
 | Bible (NABRE, RSV) | Bolls.life API | Free, no auth | REST API | Cached after first fetch |
-| Catechism (CCC) | `nossbigg/catechism-ccc-json` (GitHub) | Scraped from Vatican | JSON | Yes (bundled) |
+| Catechism (CCC) | `nossbigg/catechism-ccc-json` (GitHub) | Scraped from Vatican | JSON | Fetched at deploy time |
 | Psalter & Hymns | `divinumofficium/divinum-officium` (GitHub) | MIT | Custom text -> JSON | Yes (bundled) |
 | EF Mass Propers | Divinum Officium (bundled) | MIT | Bundled JSON | Yes (bundled) |
 | OF Daily Readings | Evangelizo (`feed.evangelizo.org`) | Free | HTTP | Cached after fetch |

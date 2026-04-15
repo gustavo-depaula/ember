@@ -1,10 +1,11 @@
 import { mkdirSync, writeFileSync } from 'node:fs'
 import { join } from 'node:path'
 
-const outDir = join(__dirname, '..', '..', '..', 'content', 'catechism')
+const outDir = join(__dirname, '..', 'content', 'catechism')
 mkdirSync(outDir, { recursive: true })
 
-const sourceUrl = 'https://github.com/nossbigg/catechism-ccc-json/releases/download/v0.0.2/ccc.json'
+const sourceUrl =
+  'https://github.com/nossbigg/catechism-ccc-json/releases/download/v0.0.2/ccc.json'
 
 type Element = {
   type: string
@@ -71,8 +72,9 @@ function flattenPages(
 
       if (pageNode) {
         for (const para of pageNode.paragraphs) {
-          // Find the CCC paragraph number from ref-ccc elements
-          const refEl = para.elements.find((el) => el.type === 'ref-ccc' && el.ref_number)
+          const refEl = para.elements.find(
+            (el) => el.type === 'ref-ccc' && el.ref_number,
+          )
           if (!refEl?.ref_number) continue
 
           const text = extractText(para.elements)
@@ -98,7 +100,7 @@ function flattenPages(
 }
 
 async function main() {
-  console.log('Downloading Catechism of the Catholic Church...')
+  console.log('Fetching Catechism of the Catholic Church...')
 
   const res = await fetch(sourceUrl)
   if (!res.ok) throw new Error(`Failed to fetch CCC: ${res.status}`)
@@ -107,12 +109,14 @@ async function main() {
   console.log(`  toc_nodes: ${Object.keys(data.toc_nodes).length}`)
   console.log(`  page_nodes: ${Object.keys(data.page_nodes).length}`)
 
-  const paragraphs = flattenPages(data.toc_link_tree, data.toc_nodes, data.page_nodes)
+  const paragraphs = flattenPages(
+    data.toc_link_tree,
+    data.toc_nodes,
+    data.page_nodes,
+  )
 
-  // Sort by paragraph number
   paragraphs.sort((a, b) => a.number - b.number)
 
-  // Remove duplicates (same paragraph can appear in multiple sections)
   const seen = new Set<number>()
   const unique = paragraphs.filter((p) => {
     if (seen.has(p.number)) return false
@@ -121,12 +125,12 @@ async function main() {
   })
 
   console.log(`  Extracted ${unique.length} numbered paragraphs`)
-  console.log(`  Range: CCC ${unique[0]?.number} - ${unique[unique.length - 1]?.number}`)
-  console.log(`  ~${Math.ceil(unique.length / 365)} paragraphs/day for 365-day completion`)
+  console.log(
+    `  Range: CCC ${unique[0]?.number} - ${unique[unique.length - 1]?.number}`,
+  )
 
   writeFileSync(join(outDir, 'ccc.json'), JSON.stringify(unique))
-
-  console.log(`\nDone! Saved to src/assets/catechism/ccc.json`)
+  console.log('Done! Saved to content/catechism/ccc.json')
 }
 
 main().catch((err) => {

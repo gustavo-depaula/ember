@@ -27,6 +27,13 @@ jobs:
       - name: Install image tools
         run: sudo apt-get update && sudo apt-get install -y webp
 
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Fetch CCC from upstream
+        run: npx tsx scripts/fetch-ccc.ts
+
       - name: Stage Hearth files
         run: |
           cp -r content _site_hearth
