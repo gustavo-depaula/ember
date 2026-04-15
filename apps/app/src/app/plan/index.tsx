@@ -17,7 +17,7 @@ import { Text, useTheme, XStack, YStack } from 'tamagui'
 import { AnimatedPressable, GreenWall, ScreenLayout, SectionDivider } from '@/components'
 import { PracticeIcon } from '@/components/PracticeIcon'
 import { calmSpring } from '@/config/animation'
-import { getManifest } from '@/content/registry'
+import { getManifest, parseQualifiedId } from '@/content/registry'
 import type { SlotState } from '@/db/events'
 import { useEventStore } from '@/db/events'
 import type { Tier, UserPractice } from '@/db/schema'
@@ -52,7 +52,8 @@ function getPracticeDisplayName(
 ): string {
   const manifest = getManifest(practiceId)
   if (manifest) {
-    const key = `practice.${practiceId}`
+    const { practiceId: unqualified } = parseQualifiedId(practiceId)
+    const key = `practice.${unqualified}`
     const translated = t(key)
     if (translated !== key) return translated
     return localizeContent(manifest.name)

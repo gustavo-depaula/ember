@@ -1,6 +1,6 @@
 import type { TFunction } from 'i18next'
 
-import { getManifest, getManifestIconKey } from '@/content/registry'
+import { getManifest, getManifestIconKey, parseQualifiedId } from '@/content/registry'
 import type { SlotState } from '@/db/events'
 import { getPractice } from '@/db/repositories'
 import { localizeContent } from '@/lib/i18n'
@@ -30,7 +30,9 @@ function localizeManifestName(
   practiceId: string,
   t: TFunction,
 ): string {
-  const key = `practice.${practiceId}`
+  // Translation keys use unqualified IDs (e.g. "practice.morning-offering")
+  const { practiceId: unqualified } = parseQualifiedId(practiceId)
+  const key = `practice.${unqualified}`
   const translated = t(key)
   if (translated !== key) return translated
   return localizeContent(manifest.name)

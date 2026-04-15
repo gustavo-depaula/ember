@@ -22,6 +22,8 @@ type QualifiedEntry = { manifest: PracticeManifest; libraryId: string; practiceI
 const sources: ContentSource[] = []
 const libraryIdToSource = new Map<string, ContentSource>()
 const qualifiedEntries = new Map<string, QualifiedEntry>()
+// unqualified practiceId → qualified ID (fallback for legacy data)
+const unqualifiedIndex = new Map<string, string>()
 // groupId → qualified IDs of members (built at registration time)
 const groupIndex = new Map<string, string[]>()
 
@@ -45,6 +47,7 @@ export function registerSource(source: ContentSource) {
       libraryId: source.libraryId,
       practiceId: m.id,
     })
+    unqualifiedIndex.set(m.id, qid)
     if (m.alternativeTo) {
       const groupId = m.alternativeTo.id
       const list = groupIndex.get(groupId)
@@ -60,6 +63,7 @@ export function unregisterSource(libraryId: string) {
   for (const [qid, entry] of qualifiedEntries) {
     if (entry.libraryId === libraryId) {
       qualifiedEntries.delete(qid)
+      unqualifiedIndex.delete(entry.practiceId)
       removeFromGroupIndex(entry.manifest.alternativeTo?.id, qid)
     }
   }
@@ -80,30 +84,37 @@ export function clearSources() {
   sources.length = 0
   libraryIdToSource.clear()
   qualifiedEntries.clear()
+  unqualifiedIndex.clear()
   groupIndex.clear()
 }
 
-// --- Lookups (all accept qualified IDs) ---
+// --- Lookups (accept qualified or unqualified IDs) ---
 
-function findSourceForQualified(qualifiedId: string):
+/** Resolve an ID that may be qualified or unqualified to the canonical qualified ID */
+function resolveQualifiedId(id: string): string {
+  if (qualifiedEntries.has(id)) return id
+  return unqualifiedIndex.get(id) ?? id
+}
+
+function findSourceForQualified(id: string):
   | {
       source: ContentSource
       practiceId: string
     }
   | undefined {
-  const entry = qualifiedEntries.get(qualifiedId)
+  const entry = qualifiedEntries.get(resolveQualifiedId(id))
   if (!entry) return undefined
   const source = libraryIdToSource.get(entry.libraryId)
   if (!source) return undefined
   return { source, practiceId: entry.practiceId }
 }
 
-export function getLibraryIdForPractice(qualifiedId: string): string | undefined {
-  return qualifiedEntries.get(qualifiedId)?.libraryId
+export function getLibraryIdForPractice(id: string): string | undefined {
+  return qualifiedEntries.get(resolveQualifiedId(id))?.libraryId
 }
 
-export function getManifest(qualifiedId: string): PracticeManifest | undefined {
-  return qualifiedEntries.get(qualifiedId)?.manifest
+export function getManifest(id: string): PracticeManifest | undefined {
+  return qualifiedEntries.get(resolveQualifiedId(id))?.manifest
 }
 
 export function getAllManifests(): PracticeManifest[] {
@@ -169,8 +180,8 @@ export type AlternativeGroup = {
   }>
 }
 
-export function getAlternativeGroup(qualifiedId: string): AlternativeGroup | undefined {
-  const entry = qualifiedEntries.get(qualifiedId)
+export function getAlternativeGroup(id: string): AlternativeGroup | undefined {
+  const entry = qualifiedEntries.get(resolveQualifiedId(id))
   if (!entry?.manifest.alternativeTo) return undefined
 
   const groupId = entry.manifest.alternativeTo.id
