@@ -30,20 +30,16 @@ export function useDbInit() {
 
     async function init() {
       try {
-        console.log('[db] opening…')
         const _db = await openDatabaseAsync('ember.db')
         setDb(_db)
-        console.log('[db] running migrations…')
         await _db.execAsync(initialMigration)
-        console.log('[db] creating events table…')
+
+        // Event sourcing: create events table + replay into memory
         await createEventsTable(_db)
-        console.log('[db] replaying events…')
         await replayAll()
-        console.log('[db] ready')
 
         if (!cancelled) dispatch({ type: 'done' })
       } catch (err) {
-        console.error('[db] init failed:', err)
         if (!cancelled) dispatch({ type: 'error', error: err })
       }
     }
