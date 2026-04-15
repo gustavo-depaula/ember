@@ -3,6 +3,8 @@ import { Pressable } from 'react-native'
 import { Text, XStack, YStack } from 'tamagui'
 
 import { AnimatedCheckbox, PracticeIcon } from '@/components'
+import { tierConfig } from '@/config/constants'
+import type { Tier } from '@/db/schema'
 import { lightTap } from '@/lib/haptics'
 
 export type ChecklistItem = {
@@ -11,6 +13,7 @@ export type ChecklistItem = {
   name: string
   icon: string
   subtitle?: string
+  tier: Tier
 }
 
 export function PracticeChecklist({
@@ -45,6 +48,8 @@ export function PracticeChecklist({
               padding="$md"
               alignItems="center"
               gap="$md"
+              borderLeftWidth={3}
+              borderLeftColor={tierConfig[item.tier].color}
             >
               <PracticeIcon name={item.icon} size={20} />
               <YStack flex={1} gap={1}>
@@ -57,6 +62,16 @@ export function PracticeChecklist({
                   </Text>
                 )}
               </YStack>
+              {item.tier === 'essential' && (
+                <Text fontFamily="$body" fontSize={28} color="#EF4444">
+                  !!
+                </Text>
+              )}
+              {item.tier === 'ideal' && (
+                <Text fontFamily="$body" fontSize={28} color="$colorMutedBlue">
+                  !
+                </Text>
+              )}
               {readOnly ? (
                 <Text fontSize="$2" fontFamily="$body" color={done ? '$accent' : '$colorSecondary'}>
                   {done ? '✓' : '–'}

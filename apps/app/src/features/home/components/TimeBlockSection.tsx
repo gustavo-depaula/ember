@@ -4,6 +4,7 @@ import { Pressable } from 'react-native'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
 import { AnimatedCheckbox, PracticeIcon } from '@/components'
+import { tierConfig } from '@/config/constants'
 import type { ChecklistItem } from '@/features/plan-of-life/components/PracticeChecklist'
 import type { BlockState } from '@/features/plan-of-life/timeBlocks'
 import { lightTap } from '@/lib/haptics'
@@ -122,7 +123,7 @@ export function TimeBlockSection({
               gap="$md"
               opacity={done ? 0.6 : 1}
               borderLeftWidth={3}
-              borderLeftColor={needsRestart ? '$colorSecondary' : '$accent'}
+              borderLeftColor={needsRestart ? '$colorSecondary' : tierConfig[item.tier].color}
             >
               <PracticeIcon name={item.icon} size={20} />
               <YStack flex={1}>
@@ -138,6 +139,16 @@ export function TimeBlockSection({
                   </XStack>
                 )}
               </YStack>
+              {item.tier === 'essential' && (
+                <Text fontFamily="$body" fontSize={28} color="#EF4444">
+                  !!
+                </Text>
+              )}
+              {item.tier === 'ideal' && (
+                <Text fontFamily="$body" fontSize={28} color="$colorMutedBlue">
+                  !
+                </Text>
+              )}
               {needsRestart ? (
                 <AlertTriangle size={18} color={theme.accent?.val} />
               ) : (

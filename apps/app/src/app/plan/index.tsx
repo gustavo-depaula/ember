@@ -17,6 +17,7 @@ import { Text, useTheme, XStack, YStack } from 'tamagui'
 import { AnimatedPressable, GreenWall, ScreenLayout, SectionDivider } from '@/components'
 import { PracticeIcon } from '@/components/PracticeIcon'
 import { calmSpring } from '@/config/animation'
+import { tierConfig } from '@/config/constants'
 import { getManifest, parseQualifiedId } from '@/content/registry'
 import type { SlotState } from '@/db/events'
 import { useEventStore } from '@/db/events'
@@ -266,6 +267,8 @@ export default function PlanScreen() {
                     padding="$md"
                     alignItems="center"
                     gap="$md"
+                    borderLeftWidth={3}
+                    borderLeftColor={tierConfig[group.tier].color}
                   >
                     <PracticeIcon name={group.icon} size={20} />
                     <YStack flex={1} gap={2}>
@@ -287,6 +290,16 @@ export default function PlanScreen() {
                         )
                       )}
                     </YStack>
+                    {group.tier === 'essential' && (
+                      <Text fontFamily="$body" fontSize={28} color="#EF4444">
+                        !!
+                      </Text>
+                    )}
+                    {group.tier === 'ideal' && (
+                      <Text fontFamily="$body" fontSize={28} color="$colorMutedBlue">
+                        !
+                      </Text>
+                    )}
                     <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
                       ›
                     </Text>
