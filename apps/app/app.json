@@ -26,29 +26,9 @@
             "LSItemContentTypes": [
               "me.dpgu.ember.pray"
             ]
-          },
-          {
-            "CFBundleTypeName": "Prayer Book",
-            "CFBundleTypeRole": "Viewer",
-            "LSHandlerRank": "Owner",
-            "LSItemContentTypes": [
-              "me.dpgu.ember.pray"
-            ]
           }
         ],
         "UTExportedTypeDeclarations": [
-          {
-            "UTTypeIdentifier": "me.dpgu.ember.pray",
-            "UTTypeDescription": "Prayer Book",
-            "UTTypeConformsTo": [
-              "public.zip-archive"
-            ],
-            "UTTypeTagSpecification": {
-              "public.filename-extension": [
-                "pray"
-              ]
-            }
-          },
           {
             "UTTypeIdentifier": "me.dpgu.ember.pray",
             "UTTypeDescription": "Prayer Book",
@@ -73,19 +53,6 @@
       },
       "package": "me.dpgu.ember",
       "intentFilters": [
-        {
-          "action": "VIEW",
-          "category": [
-            "DEFAULT",
-            "BROWSABLE"
-          ],
-          "data": [
-            {
-              "mimeType": "application/octet-stream",
-              "pathPattern": ".*\\.pray"
-            }
-          ]
-        },
         {
           "action": "VIEW",
           "category": [
