@@ -14,10 +14,10 @@ export const tokens = createTokens({
 
     // Dark mode (Tenebrae — gothic cathedral)
     espresso: '#0E0D0C',
-    espressoSurface: '#1A1816',
+    espressoSurface: '#252220',
     creamSoft: '#EDE4D8',
-    creamMuted: '#918880',
-    borderDark: '#2A2622',
+    creamMuted: '#A89A8C',
+    borderDark: '#5C5248',
 
     // Secondary accents
     burgundy: '#6B1D2A',
@@ -26,7 +26,7 @@ export const tokens = createTokens({
     mutedBlueLight: '#7A9EC8',
     cloisterGreen: '#2D6A4F',
     cloisterGreenLight: '#52A878',
-    goldMuted: '#5C4D2A',
+    goldMuted: '#6E5C32',
     goldBright: '#D4A63A',
 
     // Ornament palette (Book of Hours)
@@ -54,7 +54,7 @@ export const tokens = createTokens({
     wallFullLight: '#2D6A4F',
 
     // Green wall — dark
-    wallEmptyDark: '#1A1816',
+    wallEmptyDark: '#252220',
     wallLowDark: '#1E3A2E',
     wallMediumDark: '#286848',
     wallHighDark: '#388A58',

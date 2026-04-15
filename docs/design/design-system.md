@@ -46,13 +46,13 @@ Inspired by Gothic architecture stained glass (Sainte-Chapelle), memento mori, c
 | Role | Color | Hex |
 |------|-------|-----|
 | Background | Cathedral void (near-black stone) | `#0E0D0C` |
-| Surface (cards) | Shadowed stone | `#1A1816` |
+| Surface (cards) | Candlelit stone | `#252220` |
 | Text (primary) | Bone white (aged vellum) | `#EDE4D8` |
-| Text (secondary) | Catacomb dust | `#918880` |
+| Text (secondary) | Sandstone | `#A89A8C` |
 | Accent (gold) | Reliquary gold | `#D4A63A` |
 | Accent (hover) | Burnished gold | `#B8902A` |
-| Accent (subtle) | Ember gold | `#5C4D2A` |
-| Dividers / borders | Shadow line (stone mortar) | `#2A2622` |
+| Accent (subtle) | Ember gold | `#6E5C32` |
+| Dividers / borders | Mortar line | `#5C5248` |
 | Burgundy | Garnet (stained glass) | `#C75B6B` |
 | Muted blue | Sapphire (stained glass) | `#7A9EC8` |
 | Cloister green | Verdigris (aged bronze) | `#52A878` |
@@ -70,7 +70,7 @@ The fidelity wall uses 4 color families based on practice tier completion:
 
 | Level | Tier | Light Mode | Dark Mode |
 |-------|------|------------|-----------|
-| Empty | None | `#E8E4D9` | `#1A1816` |
+| Empty | None | `#E8E4D9` | `#252220` |
 | Extra (partial) | Extra only | `#E8D9A0` | `#3A3018` |
 | Extra (full) | Extra done | `#C9A84C` | `#D4A63A` |
 | Ideal (partial) | Ideal done, essentials missed | `#A8C4D9` | `#1E3448` |
@@ -83,7 +83,7 @@ Individual practice detail views use a legacy single-color green wall:
 
 | Intensity | Light Mode | Dark Mode |
 |-----------|------------|-----------|
-| Empty (0%) | `#E8E4D9` | `#1A1816` |
+| Empty (0%) | `#E8E4D9` | `#252220` |
 | Low (1-25%) | `#C5D5C0` | `#1E3A2E` |
 | Medium (26-50%) | `#8FB88A` | `#286848` |
 | High (51-75%) | `#5A9A55` | `#388A58` |

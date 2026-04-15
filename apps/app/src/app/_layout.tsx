@@ -28,6 +28,7 @@ import { TamaguiProvider, Theme } from 'tamagui'
 
 import { AppFrame } from '@/components/AppFrame'
 import { config } from '@/config/tamagui.config'
+import { darkTheme, lightTheme } from '@/config/themes'
 import { useDbInit } from '@/db/client'
 import { seedCursors, seedPractices } from '@/db/seed'
 import {
@@ -140,18 +141,24 @@ export default function RootLayout() {
 
   const resolvedTheme = themePreference === 'system' ? (systemScheme ?? 'light') : themePreference
   const { themeName } = useLiturgicalTheme()
+  const rootBg = resolvedTheme === 'dark' ? darkTheme.background : lightTheme.background
 
   if (!ready) return undefined
 
   return (
-    <GestureHandlerRootView style={{ flex: 1 }}>
+    <GestureHandlerRootView style={{ flex: 1, backgroundColor: rootBg }}>
       <QueryClientProvider client={queryClient}>
         <TamaguiProvider config={config} defaultTheme={resolvedTheme}>
           {/* biome-ignore lint/suspicious/noExplicitAny: Tamagui sub-theme names are dynamically composed */}
           <Theme name={themeName as any}>
             <StatusBar hidden />
             <Stack
-              screenOptions={{ headerShown: false, animation: 'fade', animationDuration: 200 }}
+              screenOptions={{
+                headerShown: false,
+                animation: 'fade',
+                animationDuration: 200,
+                contentStyle: { backgroundColor: rootBg },
+              }}
             >
               <Stack.Screen name="index" options={{ title: 'Home' }} />
               <Stack.Screen name="plan" options={{ title: 'Plan of Life' }} />
