@@ -26,7 +26,7 @@ import { getFirstSundayOfAdvent } from '../packages/liturgical/src/season'
 // ── Config ──
 
 const yearRange = { start: 2024, end: 2027 }
-const rateLimitMs = 1000
+const rateLimitMs = 50
 const maxRetries = 3
 const contentDir = path.resolve(__dirname, '../content/lectionary/of')
 const checkpointPath = path.resolve(__dirname, '.lectionary-checkpoint.json')
@@ -226,7 +226,8 @@ function computeYearSelection(entries: LiturgicalEntry[]) {
 
   console.log(`\nSelected ${selectedYears.length} years: [${selectedYears.join(', ')}]`)
   console.log(`Total days to fetch: ${totalDays}`)
-  console.log(`Estimated time: ${Math.ceil(totalDays * rateLimitMs / 60000)} minutes`)
+  const estSeconds = totalDays * rateLimitMs / 1000
+  console.log(`Estimated time: ${estSeconds < 60 ? `${Math.round(estSeconds)}s` : `${Math.ceil(estSeconds / 60)}m`} (at ${rateLimitMs}ms delay)`)
 
   return { selectedYears, universe, sanctoralOccasions }
 }
@@ -362,9 +363,24 @@ async function fetchYears(
   const checkpoint = loadCheckpoint()
   let fetched = 0
   let skipped = 0
+  let failed = 0
+
+  // Compute total days across all selected years
+  let totalDays = 0
+  for (const y of selectedYears) {
+    const isLeap = (y % 4 === 0 && y % 100 !== 0) || y % 400 === 0
+    totalDays += isLeap ? 366 : 365
+  }
+
+  let processed = 0
+  const startTime = Date.now()
 
   for (const year of selectedYears) {
-    console.log(`\nFetching ${year}...`)
+    const isLeap = (year % 4 === 0 && year % 100 !== 0) || year % 400 === 0
+    const daysInYear = isLeap ? 366 : 365
+    let yearDay = 0
+
+    console.log(`\n── ${year} (${daysInYear} days) ──`)
     const calendar = buildYearCalendar({ year, form: 'of', entries, jurisdiction: 'BR' })
 
     const start = new Date(year, 0, 1)
@@ -373,6 +389,8 @@ async function fetchYears(
 
     while (current <= end) {
       const dateStr = format(current, 'yyyy-MM-dd')
+      yearDay++
+      processed++
 
       if (checkpoint.fetched[dateStr]) {
         skipped++
@@ -390,21 +408,48 @@ async function fetchYears(
         checkpoint.responses[dateStr] = data
         fetched++
 
-        if (fetched % 50 === 0) {
-          saveCheckpoint(checkpoint)
-          console.log(`  Checkpoint saved (${fetched} fetched, ${skipped} skipped)`)
+        // Progress log every 10 fetches
+        if (fetched % 10 === 0) {
+          const elapsed = (Date.now() - startTime) / 1000
+          const rate = fetched / elapsed
+          const remaining = totalDays - processed
+          const eta = remaining / rate
+          const pct = ((processed / totalDays) * 100).toFixed(1)
+          process.stdout.write(
+            `\r  [${pct}%] ${dateStr} | ${fetched} fetched, ${skipped} skipped, ${failed} failed | ${rate.toFixed(1)} req/s | ETA ${formatDuration(eta)}`,
+          )
         }
+      } else {
+        failed++
+      }
+
+      // Checkpoint every 100 fetches
+      if (fetched > 0 && fetched % 100 === 0) {
+        saveCheckpoint(checkpoint)
       }
 
       await sleep(rateLimitMs)
       current = addDays(current, 1)
     }
+
+    // End-of-year summary
+    const elapsed = (Date.now() - startTime) / 1000
+    console.log(`\n  ${year} done: ${yearDay} days processed in ${formatDuration(elapsed)}`)
   }
 
   saveCheckpoint(checkpoint)
-  console.log(`\nFetching complete: ${fetched} new, ${skipped} from checkpoint`)
+  const totalElapsed = (Date.now() - startTime) / 1000
+  console.log(`\n✓ Fetching complete in ${formatDuration(totalElapsed)}`)
+  console.log(`  ${fetched} fetched, ${skipped} from checkpoint, ${failed} failed`)
 
   return checkpoint
+}
+
+function formatDuration(seconds: number): string {
+  if (seconds < 60) return `${Math.round(seconds)}s`
+  const mins = Math.floor(seconds / 60)
+  const secs = Math.round(seconds % 60)
+  return `${mins}m${secs}s`
 }
 
 // ── Phase 3: Output generation ──
