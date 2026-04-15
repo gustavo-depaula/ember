@@ -5,7 +5,6 @@ import { Text, YStack } from 'tamagui'
 import {
   AnimatedPressable,
   FadeInView,
-  HeaderFlourish,
   ManuscriptFrame,
   OrnamentalRule,
   ScreenLayout,
@@ -28,10 +27,6 @@ export function ProgramRestartModal({
     <Modal animationType="fade" visible onRequestClose={onContinue}>
       <ScreenLayout>
         <YStack flex={1} justifyContent="center" paddingVertical="$lg">
-          <FadeInView index={0}>
-            <HeaderFlourish />
-          </FadeInView>
-
           <ManuscriptFrame>
             <YStack alignItems="center" gap="$md" paddingVertical="$lg" paddingHorizontal="$md">
               <FadeInView index={1}>

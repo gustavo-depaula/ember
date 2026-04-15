@@ -13,7 +13,6 @@ import {
   AnimatedPressable,
   BibleReadingBlock,
   CccReadingBlock,
-  HeaderFlourish,
   ManuscriptFrame,
   ProperSlot,
   type PsalmData,
@@ -376,9 +375,7 @@ export function PracticeFlow({
             paddingVertical="$md"
             paddingHorizontal={readingMargin}
           >
-            {manifest.theme === 'office' ? (
-              <HeaderFlourish />
-            ) : (
+            {manifest.theme !== 'office' && (
               <Text fontFamily="$display" fontSize="$5" color="$accent">
                 ✠
               </Text>

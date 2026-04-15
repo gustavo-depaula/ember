@@ -10,13 +10,7 @@ import Animated, {
 } from 'react-native-reanimated'
 import { Text, YStack } from 'tamagui'
 
-import {
-  AnimatedPressable,
-  HeaderFlourish,
-  ManuscriptFrame,
-  OrnamentalRule,
-  ScreenLayout,
-} from '@/components'
+import { AnimatedPressable, ManuscriptFrame, OrnamentalRule, ScreenLayout } from '@/components'
 import { calmSpring } from '@/config/animation'
 import { successBuzz } from '@/lib/haptics'
 
@@ -64,10 +58,6 @@ export function ProgramCompleteModal({
     <Modal animationType="fade" visible onRequestClose={onDone}>
       <ScreenLayout>
         <YStack flex={1} justifyContent="center" paddingVertical="$lg">
-          <ModalFadeIn index={0}>
-            <HeaderFlourish />
-          </ModalFadeIn>
-
           <Animated.View style={frameStyle}>
             <ManuscriptFrame>
               <YStack alignItems="center" gap="$md" paddingVertical="$lg" paddingHorizontal="$md">

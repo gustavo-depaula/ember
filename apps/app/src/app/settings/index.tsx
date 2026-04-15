@@ -5,7 +5,7 @@ import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Alert, Platform, Pressable, Switch } from 'react-native'
 import { Text, XStack, YStack } from 'tamagui'
-import { HeaderFlourish, ScreenLayout, SectionDivider } from '@/components'
+import { ScreenLayout, SectionDivider } from '@/components'
 import { ReadingConfig } from '@/components/ReadingConfigModal'
 import { resetDatabase } from '@/db/client'
 import { TranslationModal } from '@/features/bible/components/TranslationModal'
@@ -108,7 +108,6 @@ export default function SettingsScreen() {
     <ScreenLayout>
       <YStack gap="$lg" paddingVertical="$lg">
         <YStack alignItems="center" gap="$xs">
-          <HeaderFlourish />
           <Text fontFamily="$display" fontSize="$4" color="$color">
             {t('settings.title')}
           </Text>

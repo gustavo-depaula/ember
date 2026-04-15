@@ -9,7 +9,6 @@ export { ManuscriptFrame } from './ManuscriptFrame'
 export { ObligationBadges } from './ObligationBadges'
 export {
   CornerFlourish,
-  HeaderFlourish,
   OrnamentalRule,
   PageBreakOrnament,
   VineBar,

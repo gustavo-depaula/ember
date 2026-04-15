@@ -26,11 +26,13 @@ function weekAndDay(from: Date, to: Date): { week: number; dayOfWeek: number } {
 function formatWeekday(t: Localizer['t'], from: Date, date: Date, seasonKey: string): string {
   const { week, dayOfWeek } = weekAndDay(from, date)
   const ordinal = t(`ordinal.${week}`)
+  const ordinalFem = t(`ordinalFem.${week}`, { defaultValue: ordinal })
   const season = t(`home.liturgicalDay.seasons.${seasonKey}`)
   if (dayOfWeek === 0) return t('home.liturgicalDay.sundayOf', { ordinal, season })
   return t('home.liturgicalDay.weekdayOf', {
     day: t(`home.liturgicalDay.days.${dayOfWeek}`),
     ordinal,
+    ordinalFem,
     season,
   })
 }

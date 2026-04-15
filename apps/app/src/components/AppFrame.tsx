@@ -1,52 +1,57 @@
 import { Image } from 'expo-image'
 import { memo } from 'react'
-import { View } from 'tamagui'
+import { Dimensions, StyleSheet } from 'react-native'
+import { useThemeName, View } from 'tamagui'
 
-const cornerLeft = require('../../assets/textures/corner_top_left.png')
+const flourishLight = require('../../assets/textures/notch_flourish.png')
+const flourishDark = require('../../assets/textures/notch_flourish_dark.png')
 
-export const frameColor = '#FFFFFF'
-
-const sideWidth = 12
-const topHeight = 64
-const bottomHeight = 14
-
-export const appFrameInsets = {
-  top: topHeight,
-  left: sideWidth,
-  right: sideWidth,
-  bottom: bottomHeight,
-}
-
-function FrameStrip({ style }: { style: Record<string, number | string> }) {
-  return <View position="absolute" pointerEvents="none" backgroundColor={frameColor} {...style} />
-}
+const aspectRatio = 2048 / 896
+const screenWidth = Dimensions.get('window').width
+const imageWidth = screenWidth * 0.7
+const imageHeight = imageWidth / aspectRatio
 
 export const AppFrame = memo(function AppFrame() {
+  const themeName = useThemeName()
+  const isDark = themeName.startsWith('dark')
+  const source = isDark ? flourishDark : flourishLight
+
   return (
     <View
       position="absolute"
       top={0}
       left={0}
       right={0}
-      bottom={0}
       zIndex={9999}
       pointerEvents="none"
+      accessible={false}
+      importantForAccessibility="no-hide-descendants"
     >
-      <FrameStrip style={{ top: 0, left: 0, right: 0, height: topHeight }} />
-      <FrameStrip style={{ bottom: 0, left: 0, right: 0, height: bottomHeight }} />
-      <FrameStrip style={{ top: 0, left: 0, bottom: 0, width: sideWidth }} />
-      <FrameStrip style={{ top: 0, right: 0, bottom: 0, width: sideWidth }} />
+      <Image source={source} style={styles.left} contentFit="contain" accessibilityElementsHidden />
       <Image
-        source={cornerLeft}
-        style={{
-          position: 'absolute',
-          top: topHeight - 40,
-          left: sideWidth - 10,
-          width: 180,
-          height: 180,
-        }}
+        source={source}
+        style={styles.right}
         contentFit="contain"
+        accessibilityElementsHidden
       />
     </View>
   )
+})
+
+const styles = StyleSheet.create({
+  left: {
+    position: 'absolute',
+    top: 0,
+    left: 0,
+    width: imageWidth,
+    height: imageHeight,
+  },
+  right: {
+    position: 'absolute',
+    top: 0,
+    right: 0,
+    width: imageWidth,
+    height: imageHeight,
+    transform: [{ scaleX: -1 }],
+  },
 })
