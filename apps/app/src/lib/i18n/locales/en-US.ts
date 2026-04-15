@@ -383,17 +383,6 @@ export default {
     proper: 'Proper of the day',
   },
 
-  nav: {
-    home: 'Home',
-    divineOffice: 'Divine Office',
-    planOfLife: 'Plan of Life',
-    sacredScripture: 'Sacred Scripture',
-    catechism: 'Catechism',
-    holyMass: 'Holy Mass',
-    saints: 'Saints',
-    settings: 'Settings',
-  },
-
   saints: {
     title: 'Saints',
     doubleTapToFlip: 'Double-tap to flip',
@@ -807,8 +796,6 @@ export default {
     noCelebrations: 'No celebrations',
   },
   a11y: {
-    openMenu: 'Open navigation menu',
-    closeMenu: 'Close navigation menu',
     togglePractice: 'Mark {{name}} as complete',
     untogglePractice: 'Unmark {{name}}',
     expandBlock: 'Expand {{name}}',

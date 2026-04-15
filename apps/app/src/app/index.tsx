@@ -4,7 +4,7 @@ import { AlertTriangle } from 'lucide-react-native'
 import { useCallback, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
-import { Text, useTheme, XStack, YStack } from 'tamagui'
+import { Text, useTheme, View, XStack, YStack } from 'tamagui'
 
 import {
   AnimatedPressable,
@@ -20,6 +20,7 @@ import { getManifest } from '@/content/registry'
 import { useEventStore } from '@/db/events'
 import { useYearCalendar } from '@/features/calendar'
 import {
+  AppShortcuts,
   CelebrationOfDay,
   LiturgicalHeader,
   SeasonalContext,
@@ -143,31 +144,37 @@ export default function HomeScreen() {
 
   return (
     <ScreenLayout>
-      <YStack gap="$lg" paddingVertical="$lg">
-        <LiturgicalHeader date={now} season={season} themeName={themeName} />
+      <YStack gap="$lg" paddingTop="$xs" paddingBottom="$lg">
+        <YStack gap="$md">
+          <LiturgicalHeader date={now} season={season} />
 
-        <DayCarousel
-          today={anchorDate}
-          onSelectDate={(date) => setTimeTravelEphemeral(date === anchorDate ? undefined : date)}
-        />
+          <DayCarousel
+            today={anchorDate}
+            onSelectDate={(date) => setTimeTravelEphemeral(date === anchorDate ? undefined : date)}
+          />
 
-        <FadeInView>
-          <SeasonalContext date={now} season={season} />
-        </FadeInView>
-
-        <FadeInView>
-          <CelebrationOfDay date={now} />
-        </FadeInView>
-
-        {obligations && (obligations.fast || obligations.abstinence !== 'none') && (
           <FadeInView>
-            <YStack paddingHorizontal="$md">
-              <ObligationBadges fast={obligations.fast} abstinence={obligations.abstinence} />
-            </YStack>
+            <SeasonalContext date={now} season={season} />
           </FadeInView>
-        )}
 
-        <SectionDivider symbol={getSeasonalSymbol(themeName)} />
+          <FadeInView>
+            <CelebrationOfDay date={now} />
+          </FadeInView>
+
+          {obligations && (obligations.fast || obligations.abstinence !== 'none') && (
+            <FadeInView>
+              <YStack paddingHorizontal="$md">
+                <ObligationBadges fast={obligations.fast} abstinence={obligations.abstinence} />
+              </YStack>
+            </FadeInView>
+          )}
+        </YStack>
+
+        <FadeInView>
+          <YStack paddingVertical="$sm" paddingBottom="$md">
+            <AppShortcuts />
+          </YStack>
+        </FadeInView>
 
         {restartNeededIds.size > 0 && (
           <YStack gap="$sm">

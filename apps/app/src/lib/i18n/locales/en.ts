@@ -46,6 +46,16 @@ export default {
       ordinary: 'Ordinary Time',
       'post-pentecost': 'Time after Pentecost',
     },
+    seasonName: {
+      advent: 'Advent',
+      christmas: 'Christmas',
+      epiphany: 'Epiphany',
+      septuagesima: 'Septuagesima',
+      lent: 'Lent',
+      easter: 'Easter',
+      ordinary: 'Ordinary Time',
+      'post-pentecost': 'Pentecost',
+    },
     liturgicalDay: {
       sundayOf: '{{ordinal}} Sunday of {{season}}',
       weekdayOf: '{{day}} of the {{ordinal}} Week of {{season}}',
@@ -367,17 +377,6 @@ export default {
     ordinaryForm: 'Ordinary Form',
     extraordinaryForm: 'Extraordinary Form',
     proper: 'Proper of the day',
-  },
-
-  nav: {
-    home: 'Home',
-    divineOffice: 'Divine Office',
-    planOfLife: 'Plan of Life',
-    sacredScripture: 'Sacred Scripture',
-    catechism: 'Catechism',
-    holyMass: 'Holy Mass',
-    saints: 'Saints',
-    settings: 'Settings',
   },
 
   saints: {
@@ -760,8 +759,6 @@ export default {
     noCelebrations: 'No celebrations',
   },
   a11y: {
-    openMenu: 'Open navigation menu',
-    closeMenu: 'Close navigation menu',
     togglePractice: 'Mark {{name}} as complete',
     untogglePractice: 'Unmark {{name}}',
     expandBlock: 'Expand {{name}}',

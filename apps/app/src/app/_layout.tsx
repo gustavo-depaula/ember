@@ -26,7 +26,7 @@ import { InteractionManager, LogBox, useColorScheme } from 'react-native'
 import { GestureHandlerRootView } from 'react-native-gesture-handler'
 import { TamaguiProvider, Theme } from 'tamagui'
 
-import { TasselPull } from '@/components/TasselPull'
+import { AppFrame } from '@/components/AppFrame'
 import { config } from '@/config/tamagui.config'
 import { useDbInit } from '@/db/client'
 import { seedCursors, seedPractices } from '@/db/seed'
@@ -163,7 +163,7 @@ export default function RootLayout() {
               <Stack.Screen name="practices" options={{ title: 'Practices' }} />
               <Stack.Screen name="library" options={{ title: 'Library', gestureEnabled: false }} />
             </Stack>
-            <TasselPull />
+            <AppFrame />
           </Theme>
         </TamaguiProvider>
       </QueryClientProvider>
