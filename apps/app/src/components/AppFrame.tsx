@@ -11,10 +11,13 @@ const screenWidth = Dimensions.get('window').width
 const imageWidth = screenWidth * 0.7
 const imageHeight = imageWidth / aspectRatio
 
+const darkOffset = -imageWidth * 0.05
+
 export const AppFrame = memo(function AppFrame() {
   const themeName = useThemeName()
   const isDark = themeName.startsWith('dark')
   const source = isDark ? flourishDark : flourishLight
+  const offset = isDark ? darkOffset : 0
 
   return (
     <View
@@ -27,10 +30,15 @@ export const AppFrame = memo(function AppFrame() {
       accessible={false}
       importantForAccessibility="no-hide-descendants"
     >
-      <Image source={source} style={styles.left} contentFit="contain" accessibilityElementsHidden />
       <Image
         source={source}
-        style={styles.right}
+        style={[styles.left, { left: offset }]}
+        contentFit="contain"
+        accessibilityElementsHidden
+      />
+      <Image
+        source={source}
+        style={[styles.right, { right: offset }]}
         contentFit="contain"
         accessibilityElementsHidden
       />
