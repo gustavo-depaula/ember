@@ -1,11 +1,11 @@
 import { useRouter } from 'expo-router'
-import { ChevronLeft, Plus, Search } from 'lucide-react-native'
+import { Plus, Search } from 'lucide-react-native'
 import { useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Modal, Pressable, ScrollView } from 'react-native'
 import { Input, Text, useTheme, XStack, YStack } from 'tamagui'
 
-import { ScreenLayout } from '@/components'
+import { PageHeader, ScreenLayout } from '@/components'
 import { PracticeIcon } from '@/components/PracticeIcon'
 import {
   getAllManifests,
@@ -199,14 +199,7 @@ export default function PracticeCatalogScreen() {
   return (
     <ScreenLayout>
       <YStack gap="$lg" paddingVertical="$lg">
-        <XStack alignItems="center" gap="$md">
-          <Pressable onPress={() => router.back()} hitSlop={8}>
-            <ChevronLeft size={24} color={theme.color.val} />
-          </Pressable>
-          <Text flex={1} fontFamily="$heading" fontSize="$5" color="$color">
-            {t('catalog.title')}
-          </Text>
-        </XStack>
+        <PageHeader title={t('catalog.title')} />
 
         <XStack
           backgroundColor="$backgroundSurface"

@@ -1,6 +1,7 @@
 import { useCallback, useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { Text, YStack } from 'tamagui'
+import { YStack } from 'tamagui'
+import { PageHeader } from '@/components'
 import { ScreenLayout } from '@/components/ScreenLayout'
 import { SaintCardGrid, SaintCardViewer } from '@/features/saints/components'
 
@@ -18,10 +19,8 @@ export default function SaintsScreen() {
 
   return (
     <ScreenLayout scroll={false}>
-      <YStack gap="$md" flex={1} paddingTop="$lg">
-        <Text fontFamily="$display" fontSize="$5" color="$accent" textAlign="center">
-          {t('saints.title')}
-        </Text>
+      <YStack gap="$lg" flex={1} paddingVertical="$lg">
+        <PageHeader title={t('saints.title')} />
 
         <SaintCardGrid onSelectSaint={handleSelectSaint} />
       </YStack>

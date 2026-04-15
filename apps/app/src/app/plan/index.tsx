@@ -14,7 +14,13 @@ import Animated, {
 } from 'react-native-reanimated'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
-import { AnimatedPressable, GreenWall, ScreenLayout, SectionDivider } from '@/components'
+import {
+  AnimatedPressable,
+  GreenWall,
+  PageHeader,
+  ScreenLayout,
+  SectionDivider,
+} from '@/components'
 import { PracticeIcon } from '@/components/PracticeIcon'
 import { calmSpring } from '@/config/animation'
 import { tierConfig } from '@/config/constants'
@@ -149,11 +155,7 @@ export default function PlanScreen() {
   return (
     <ScreenLayout>
       <YStack gap="$lg" paddingVertical="$lg">
-        <YStack alignItems="center" gap="$xs">
-          <Text fontFamily="$display" fontSize="$4" color="$color">
-            {t('plan.title')}
-          </Text>
-        </YStack>
+        <PageHeader title={t('plan.title')} />
 
         <YStack alignItems="center">
           <GreenWall data={wallData} tiered />

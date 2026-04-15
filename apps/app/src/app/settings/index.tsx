@@ -5,7 +5,7 @@ import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Alert, Platform, Pressable, Switch } from 'react-native'
 import { Text, XStack, YStack } from 'tamagui'
-import { ScreenLayout, SectionDivider } from '@/components'
+import { PageHeader, ScreenLayout, SectionDivider } from '@/components'
 import { ReadingConfig } from '@/components/ReadingConfigModal'
 import { resetDatabase } from '@/db/client'
 import { TranslationModal } from '@/features/bible/components/TranslationModal'
@@ -107,11 +107,7 @@ export default function SettingsScreen() {
   return (
     <ScreenLayout>
       <YStack gap="$lg" paddingVertical="$lg">
-        <YStack alignItems="center" gap="$xs">
-          <Text fontFamily="$display" fontSize="$4" color="$color">
-            {t('settings.title')}
-          </Text>
-        </YStack>
+        <PageHeader title={t('settings.title')} />
 
         <YStack gap="$md">
           <Text fontFamily="$heading" fontSize="$3" color="$color">

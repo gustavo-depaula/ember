@@ -1,11 +1,11 @@
 import * as DocumentPicker from 'expo-document-picker'
 import { useRouter } from 'expo-router'
-import { Book, ChevronLeft, FileDown } from 'lucide-react-native'
+import { Book, FileDown } from 'lucide-react-native'
 import { useTranslation } from 'react-i18next'
 import { Alert, Pressable } from 'react-native'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
-import { AnimatedPressable, ScreenLayout } from '@/components'
+import { AnimatedPressable, PageHeader, ScreenLayout } from '@/components'
 import { useAvailableBooks, useImportBook, useInstalledBooks } from '@/features/books/hooks'
 import { localizeContent } from '@/lib/i18n'
 
@@ -83,14 +83,7 @@ export default function LibraryScreen() {
   return (
     <ScreenLayout>
       <YStack gap="$lg" paddingVertical="$lg">
-        <XStack alignItems="center" gap="$md">
-          <Pressable onPress={() => router.back()} hitSlop={8}>
-            <ChevronLeft size={24} color={theme.color.val} />
-          </Pressable>
-          <Text flex={1} fontFamily="$heading" fontSize="$5" color="$color">
-            {t('library.title')}
-          </Text>
-        </XStack>
+        <PageHeader title={t('library.title')} />
 
         {installed.length > 0 && (
           <YStack gap="$sm">

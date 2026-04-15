@@ -4,11 +4,11 @@ import { type FlowContext, resolveFlowAsync } from '@ember/content-engine'
 import { useQueries } from '@tanstack/react-query'
 import { format } from 'date-fns'
 import { useRouter } from 'expo-router'
-import { ChevronLeft } from 'lucide-react-native'
+import { Home } from 'lucide-react-native'
 import { useCallback, useEffect, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
-import { Spinner, Text, useTheme, XStack, YStack } from 'tamagui'
+import { Spinner, Text, useTheme, YStack } from 'tamagui'
 import {
   AnimatedPressable,
   BibleReadingBlock,
@@ -358,15 +358,17 @@ export function PracticeFlow({
 
   return (
     <ScreenLayout>
-      <YStack gap="$lg" paddingVertical="$md">
-        <Pressable onPress={() => router.back()}>
-          <XStack alignItems="center" gap="$sm">
-            <ChevronLeft size={20} color={theme.accent.val} />
-            <Text fontFamily="$body" fontSize="$2" color="$accent">
-              {t('common.back')}
-            </Text>
-          </XStack>
-        </Pressable>
+      <YStack gap="$lg" paddingVertical="$lg">
+        <YStack alignItems="center">
+          <Pressable
+            onPress={() => router.push('/')}
+            hitSlop={12}
+            accessibilityRole="link"
+            accessibilityLabel="Home"
+          >
+            <Home size={20} color={theme.colorSecondary.val} />
+          </Pressable>
+        </YStack>
 
         <ManuscriptFrame>
           <YStack

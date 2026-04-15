@@ -15,6 +15,7 @@ export {
 } from './Ornament'
 export { FloralCorner, FloralVineBorder, SeasonalIcon, WatercolorIcon } from './ornaments'
 export { PageBorder } from './PageBorder'
+export { PageHeader } from './PageHeader'
 export { PracticeIcon } from './PracticeIcon'
 export { PrayButton } from './PrayActionButtons'
 export { PrayerLines, PrayerText } from './PrayerText'
