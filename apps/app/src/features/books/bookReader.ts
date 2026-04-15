@@ -1,7 +1,10 @@
-import { Directory, File } from 'expo-file-system'
 import { Marked } from 'marked'
 import markedFootnote from 'marked-footnote'
+import { Platform } from 'react-native'
 import type { TocNode } from '@/content/sources/filesystem'
+
+// biome-ignore lint: conditional require for platform compat
+const nativeFs = Platform.OS !== 'web' ? (require('expo-file-system') as any) : undefined
 
 const md = new Marked().use(markedFootnote())
 
@@ -360,12 +363,24 @@ export async function loadBookContent(
   lang: string,
   chapterIds: string[],
 ): Promise<BookContent> {
+  if (Platform.OS === 'web') {
+    return loadBookContentWeb(bookDirUri, lang, chapterIds)
+  }
+  return loadBookContentNative(bookDirUri, lang, chapterIds)
+}
+
+async function loadBookContentNative(
+  bookDirUri: string,
+  lang: string,
+  chapterIds: string[],
+): Promise<BookContent> {
+  const { Directory: Dir, File: NativeFile } = nativeFs
   const langDir = `${bookDirUri}${lang}/`
 
   // Read stylesheet
   let css = ''
   try {
-    css = await new File(`${langDir}style.css`).text()
+    css = await new NativeFile(`${langDir}style.css`).text()
   } catch {}
 
   // Read chapters (.html preferred, .md fallback with runtime conversion)
@@ -373,11 +388,11 @@ export async function loadBookContent(
   await Promise.all(
     chapterIds.map(async (id) => {
       try {
-        const text = await new File(`${langDir}${id}.html`).text()
+        const text = await new NativeFile(`${langDir}${id}.html`).text()
         chapters.set(id, text)
       } catch {
         try {
-          const raw = await new File(`${langDir}${id}.md`).text()
+          const raw = await new NativeFile(`${langDir}${id}.md`).text()
           const html = await md.parse(raw)
           chapters.set(id, html)
         } catch {}
@@ -388,18 +403,58 @@ export async function loadBookContent(
   // Read images
   const images = new Map<string, string>()
   try {
-    const imagesDir = new Directory(`${langDir}images`)
+    const imagesDir = new Dir(`${langDir}images`)
     const entries = imagesDir.list()
     await Promise.all(
       entries
-        .filter((entry): entry is File => entry instanceof File)
-        .map(async (file) => {
+        .filter((entry: any) => entry instanceof NativeFile)
+        .map(async (file: any) => {
           const b64 = await file.base64()
           const dataUri = `data:${mimeForExt(file.name)};base64,${b64}`
           images.set(`images/${file.name}`, dataUri)
         }),
     )
   } catch {}
+
+  return { css, chapters, images }
+}
+
+async function loadBookContentWeb(
+  bookDirUri: string,
+  lang: string,
+  chapterIds: string[],
+): Promise<BookContent> {
+  const { idbReadText } = await import('@/lib/idb-fs')
+
+  // bookDirUri is like "idb://books/libraryId/" — strip the idb:// prefix
+  const basePath = bookDirUri.replace(/^idb:\/\//, '')
+  const langDir = `${basePath}${lang}/`
+
+  let css = ''
+  try {
+    css = (await idbReadText(`${langDir}style.css`)) ?? ''
+  } catch {}
+
+  const chapters = new Map<string, string>()
+  await Promise.all(
+    chapterIds.map(async (id) => {
+      const html = await idbReadText(`${langDir}${id}.html`)
+      if (html) {
+        chapters.set(id, html)
+      } else {
+        const raw = await idbReadText(`${langDir}${id}.md`)
+        if (raw) {
+          const parsed = await md.parse(raw)
+          chapters.set(id, parsed)
+        }
+      }
+    }),
+  )
+
+  // Images: read from IDB as binary, convert to data URIs
+  // We don't have a directory listing in IDB, so we skip image preloading on web
+  // Images referenced in HTML will need to be resolved differently
+  const images = new Map<string, string>()
 
   return { css, chapters, images }
 }

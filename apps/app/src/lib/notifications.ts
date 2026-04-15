@@ -1,4 +1,3 @@
-import * as Notifications from 'expo-notifications'
 import { Platform } from 'react-native'
 import type { SlotState } from '@/db/events'
 import { getEnabledSlots, getPractice } from '@/db/repositories'
@@ -6,17 +5,24 @@ import type { NotifyConfig, UserPractice } from '@/db/schema'
 import { parseSchedule, type Schedule } from '@/features/plan-of-life/schedule'
 import { parseSlotKey } from '@/lib/slotKey'
 
-Notifications.setNotificationHandler({
-  handleNotification: async () => ({
-    shouldShowAlert: true,
-    shouldShowBanner: true,
-    shouldShowList: true,
-    shouldPlaySound: true,
-    shouldSetBadge: false,
-  }),
-})
+// expo-notifications is native-only
+// biome-ignore lint: conditional require for platform compat
+const Notifications: any = Platform.OS !== 'web' ? require('expo-notifications') : undefined
+
+if (Notifications) {
+  Notifications.setNotificationHandler({
+    handleNotification: async () => ({
+      shouldShowAlert: true,
+      shouldShowBanner: true,
+      shouldShowList: true,
+      shouldPlaySound: true,
+      shouldSetBadge: false,
+    }),
+  })
+}
 
 export async function requestNotificationPermission(): Promise<boolean> {
+  if (!Notifications) return false
   const { status: existing } = await Notifications.getPermissionsAsync()
   if (existing === 'granted') return true
 
@@ -25,6 +31,7 @@ export async function requestNotificationPermission(): Promise<boolean> {
 }
 
 export async function setupNotifications() {
+  if (!Notifications) return
   if (Platform.OS === 'android') {
     await Notifications.setNotificationChannelAsync('practice-reminders', {
       name: 'Practice Reminders',
@@ -94,10 +101,11 @@ function scheduleRemindersForSlot(
       minute: minutes,
       ...androidChannel,
     },
-  }).then((id) => [id])
+  }).then((id: string) => [id])
 }
 
 export async function cancelPracticeReminder(practiceId: string): Promise<void> {
+  if (!Notifications) return
   const scheduled = await Notifications.getAllScheduledNotificationsAsync()
   for (const notification of scheduled) {
     if (notification.content.data?.practiceId === practiceId) {
@@ -107,6 +115,7 @@ export async function cancelPracticeReminder(practiceId: string): Promise<void> 
 }
 
 export async function rescheduleAllReminders(): Promise<void> {
+  if (!Notifications) return
   const slots = await getEnabledSlots()
   const notifiable = slots.filter((s) => parseNotifyConfig(s.notify)?.enabled && s.time)
 

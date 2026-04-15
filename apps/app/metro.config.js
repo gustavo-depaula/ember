@@ -21,7 +21,7 @@ config.server = {
 	enhanceMiddleware: (middleware, server) => {
 		return (req, res, next) => {
 			res.setHeader('Cross-Origin-Opener-Policy', 'same-origin')
-			res.setHeader('Cross-Origin-Embedder-Policy', 'require-corp')
+			res.setHeader('Cross-Origin-Embedder-Policy', 'credentialless')
 			middleware(req, res, next)
 		}
 	},

@@ -1,10 +1,5 @@
-import { Platform } from 'react-native'
 import { batchedLoad } from '@/lib/async'
-
-// expo-file-system is native-only — this module is only used on iOS/Android
-// biome-ignore lint: conditional require for platform compat
-const { File: NativeFile } = (Platform.OS !== 'web' ? require('expo-file-system') : {}) as any
-
+import { idbReadText } from '@/lib/idb-fs'
 import type { ChapterManifest, PracticeManifest } from '../manifest-types'
 import type {
   CycleData,
@@ -12,78 +7,13 @@ import type {
   FlowSection,
   LectioTrackDef,
   LocalizedContent,
-  LocalizedText,
 } from '../types'
-
-export type PrayerAsset = {
-  title: LocalizedText
-  body: FlowSection[]
-  subtitle?: LocalizedText
-  source?: LocalizedText
-}
-
-export type TocNode = {
-  id: string
-  title: LocalizedText
-  children?: TocNode[]
-}
-
-export type BookEntry = {
-  id: string
-  name: LocalizedText
-  author?: LocalizedText
-  description?: LocalizedText
-  composed?: number | string
-  languages: string[]
-  image?: string
-  toc?: TocNode[]
-}
-
-export type Library = {
-  id: string
-  version: string
-  name: LocalizedText
-  languages: string[]
-  practices: string[]
-  prayers: string[]
-  description?: LocalizedText
-  author?: LocalizedText
-  icon?: string
-  image?: string
-  tags?: string[]
-
-  defaults?: { autoSeed: boolean }
-  chapters?: string[]
-  books?: string[]
-  contents?: { type: 'chapter' | 'practice' | 'book'; id: string }[]
-}
-
-export type ContentSource = {
-  libraryId: string
-  libraryDirUri: string
-  library: Library
-  getManifest(practiceId: string): PracticeManifest | undefined
-  getAllManifests(): PracticeManifest[]
-  loadFlow(practiceId: string): FlowDefinition | undefined
-  loadPerDayFlow(practiceId: string, day: number): FlowDefinition | undefined
-  loadData(practiceId: string): Record<string, CycleData> | undefined
-  loadTracks(practiceId: string): Record<string, LectioTrackDef> | undefined
-  getPrayer(ref: string): PrayerAsset | undefined
-  getCanticle(ref: string): PrayerAsset | undefined
-  getChapterManifest(id: string): ChapterManifest | undefined
-  getAllChapterManifests(): ChapterManifest[]
-  loadChapterContent(id: string): FlowDefinition | undefined
-  getProseText(filePath: string): LocalizedContent | undefined
-  getBookEntry(id: string): BookEntry | undefined
-  getAllBookEntries(): BookEntry[]
-  loadBookChapterText(bookId: string, chapterId: string, lang: string): Promise<string | undefined>
-}
-
-const canticleRefs = new Set(['benedictus', 'magnificat', 'nunc-dimittis'])
+import type { BookEntry, ContentSource, Library, PrayerAsset } from './filesystem'
 
 async function readJson<T>(path: string): Promise<T | undefined> {
   try {
-    const raw = await new NativeFile!(path).text()
+    const raw = await idbReadText(path)
+    if (!raw) return undefined
     return JSON.parse(raw) as T
   } catch {
     return undefined
@@ -98,14 +28,14 @@ async function loadPracticeFlow(
 }
 
 async function loadPractice(
-  bookDirUri: string,
+  bookDirPath: string,
   practiceId: string,
   manifests: Record<string, PracticeManifest>,
   flows: Map<string, FlowDefinition>,
   dataCache: Map<string, Record<string, CycleData>>,
   tracksCache: Map<string, Record<string, LectioTrackDef>>,
 ) {
-  const base = `${bookDirUri}practices/${practiceId}`
+  const base = `${bookDirPath}practices/${practiceId}`
   const manifest = await readJson<PracticeManifest>(`${base}/manifest.json`)
   if (!manifest) return
   manifests[practiceId] = manifest
@@ -116,7 +46,6 @@ async function loadPractice(
     (async () => {
       const loadedFlow = await loadPracticeFlow(base, manifest)
       if (!loadedFlow) return
-
       flows.set(practiceId, loadedFlow)
     })(),
   )
@@ -178,46 +107,39 @@ function collectProseFiles(sections: FlowSection[]): string[] {
   return files
 }
 
-async function readTextFile(path: string): Promise<string | undefined> {
-  try {
-    return await new NativeFile!(path).text()
-  } catch {
-    return undefined
-  }
-}
-
-function rewriteImagePaths(sections: FlowSection[], baseUri: string): void {
+function rewriteImagePaths(sections: FlowSection[], basePath: string): void {
   for (const section of sections) {
-    if (section.type === 'image' && section.src && !section.src.startsWith('file://')) {
-      section.src = `${baseUri}/${section.src}`
+    if (section.type === 'image' && section.src && !section.src.startsWith('data:')) {
+      // On web/IDB we'll resolve images at render time via blob URLs
+      section.src = `idb://${basePath}/${section.src}`
     }
     if (section.type === 'gallery') {
       for (const item of section.items) {
-        if (item.src && !item.src.startsWith('file://')) {
-          item.src = `${baseUri}/${item.src}`
+        if (item.src && !item.src.startsWith('data:')) {
+          item.src = `idb://${basePath}/${item.src}`
         }
       }
     }
-    if (section.type === 'holy-card' && section.image && !section.image.startsWith('file://')) {
-      section.image = `${baseUri}/${section.image}`
+    if (section.type === 'holy-card' && section.image && !section.image.startsWith('data:')) {
+      section.image = `idb://${basePath}/${section.image}`
     }
     if (section.type === 'options' && 'options' in section) {
       for (const opt of section.options) {
-        rewriteImagePaths(opt.sections, baseUri)
+        rewriteImagePaths(opt.sections, basePath)
       }
     }
   }
 }
 
 async function loadChapter(
-  bookDirUri: string,
+  bookDirPath: string,
   chapterId: string,
   languages: string[],
   chapters: Record<string, ChapterManifest>,
   chapterFlows: Map<string, FlowDefinition>,
   proseTexts: Map<string, LocalizedContent>,
 ) {
-  const base = `${bookDirUri}chapters/${chapterId}`
+  const base = `${bookDirPath}chapters/${chapterId}`
   const manifest = await readJson<ChapterManifest>(`${base}/chapter.json`)
   if (!manifest) return
   chapters[chapterId] = manifest
@@ -234,7 +156,7 @@ async function loadChapter(
       const text: LocalizedContent = {}
       await Promise.all(
         languages.map(async (lang) => {
-          const content = await readTextFile(`${base}/${file}.${lang}.md`)
+          const content = await idbReadText(`${base}/${file}.${lang}.md`)
           if (content) (text as Record<string, string>)[lang] = content
         }),
       )
@@ -243,9 +165,10 @@ async function loadChapter(
   )
 }
 
-export async function createFileSystemSource(libraryDirUri: string): Promise<ContentSource> {
-  const library = await readJson<Library>(`${libraryDirUri}library.json`)
-  if (!library) throw new Error(`No library.json found in ${libraryDirUri}`)
+export async function createIdbSource(libraryId: string): Promise<ContentSource> {
+  const bookDirPath = `books/${libraryId}/`
+  const library = await readJson<Library>(`${bookDirPath}library.json`)
+  if (!library) throw new Error(`No library.json found in IDB for ${libraryId}`)
 
   const manifests: Record<string, PracticeManifest> = {}
   const flows = new Map<string, FlowDefinition>()
@@ -253,7 +176,7 @@ export async function createFileSystemSource(libraryDirUri: string): Promise<Con
   const tracksCache = new Map<string, Record<string, LectioTrackDef>>()
 
   await batchedLoad(library.practices, (pid) =>
-    loadPractice(libraryDirUri, pid, manifests, flows, dataCache, tracksCache),
+    loadPractice(bookDirPath, pid, manifests, flows, dataCache, tracksCache),
   )
 
   const chapters: Record<string, ChapterManifest> = {}
@@ -262,13 +185,13 @@ export async function createFileSystemSource(libraryDirUri: string): Promise<Con
 
   if (library.chapters?.length) {
     await batchedLoad(library.chapters, (cid) =>
-      loadChapter(libraryDirUri, cid, library.languages, chapters, chapterFlows, proseTexts),
+      loadChapter(bookDirPath, cid, library.languages, chapters, chapterFlows, proseTexts),
     )
   }
 
   const prayers: Record<string, PrayerAsset> = {}
   await batchedLoad(library.prayers, async (prayerId) => {
-    const prayer = await readJson<PrayerAsset>(`${libraryDirUri}prayers/${prayerId}.json`)
+    const prayer = await readJson<PrayerAsset>(`${bookDirPath}prayers/${prayerId}.json`)
     if (prayer) prayers[prayerId] = prayer
   })
 
@@ -276,7 +199,7 @@ export async function createFileSystemSource(libraryDirUri: string): Promise<Con
   if (library.books?.length) {
     await Promise.all(
       library.books.map(async (bookId) => {
-        const entry = await readJson<BookEntry>(`${libraryDirUri}books/${bookId}/book.json`)
+        const entry = await readJson<BookEntry>(`${bookDirPath}books/${bookId}/book.json`)
         if (entry) bookEntries[bookId] = entry
       }),
     )
@@ -292,6 +215,9 @@ export async function createFileSystemSource(libraryDirUri: string): Promise<Con
   const allChapterManifests = (library.chapters ?? [])
     .map((id) => chapters[id])
     .filter((m): m is ChapterManifest => m !== undefined)
+
+  // Use a placeholder URI — on web content is in IDB not filesystem
+  const libraryDirUri = `idb://books/${libraryId}/`
 
   return {
     libraryId: library.id,
@@ -312,6 +238,8 @@ export async function createFileSystemSource(libraryDirUri: string): Promise<Con
     getBookEntry: (id) => bookEntries[id],
     getAllBookEntries: () => allBookEntries,
     loadBookChapterText: (bookId, chapterId, lang) =>
-      readTextFile(`${libraryDirUri}books/${bookId}/${lang}/${chapterId}.md`),
+      idbReadText(`${bookDirPath}books/${bookId}/${lang}/${chapterId}.md`),
   }
 }
+
+const canticleRefs = new Set(['benedictus', 'magnificat', 'nunc-dimittis'])

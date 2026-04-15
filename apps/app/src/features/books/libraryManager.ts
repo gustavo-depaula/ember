@@ -1,11 +1,22 @@
-import { Directory, File, Paths } from 'expo-file-system'
 import JSZip from 'jszip'
+import { Platform } from 'react-native'
 import { getPracticeIdsForLibrary, registerSource, unregisterSource } from '@/content/registry'
-import { createFileSystemSource, type Library } from '@/content/sources/filesystem'
+import { createIdbSource } from '@/content/sources/idb'
 import { getDb } from '@/db/client'
 import { deleteBookPractices } from '@/db/repositories/practices'
 import { yieldToUI } from '@/lib/async'
 import { fetchHearth, hearthUrl } from '@/lib/hearth'
+import { idbDeletePrefix, idbWriteBatch } from '@/lib/idb-fs'
+
+// expo-file-system is native-only — conditionally import on iOS/Android
+const nativeFs =
+  Platform.OS !== 'web'
+    ? (require('expo-file-system') as typeof import('expo-file-system'))
+    : undefined
+const nativeSource =
+  Platform.OS !== 'web'
+    ? (require('@/content/sources/filesystem') as typeof import('@/content/sources/filesystem'))
+    : undefined
 
 export type PracticePreview = {
   id: string
@@ -62,11 +73,15 @@ export type InstalledBook = {
   content_hash: string | undefined
 }
 
-function librariesDir(): Directory {
+// --- Native-only filesystem helpers ---
+
+function librariesDir() {
+  const { Directory, Paths } = nativeFs!
   return new Directory(Paths.document, 'books/')
 }
 
-function libraryDir(libraryId: string): Directory {
+function libraryDir(libraryId: string) {
+  const { Directory, Paths } = nativeFs!
   return new Directory(Paths.document, 'books/', `${libraryId}/`)
 }
 
@@ -75,11 +90,13 @@ function ensureLibrariesDir() {
   if (!dir.exists) dir.create()
 }
 
-function ensureDir(dir: Directory) {
+function ensureDir(dir: { exists: boolean; create: () => void }) {
   if (!dir.exists) dir.create()
 }
 
-async function extractZip(zipData: ArrayBuffer, destDir: Directory) {
+// biome-ignore lint: native-only, typed via expo-file-system Directory
+async function extractZipToFs(zipData: ArrayBuffer, destDir: any) {
+  const { Directory: Dir, File: NativeFile } = nativeFs!
   const zip = await JSZip.loadAsync(zipData)
   const created = new Set<string>()
   let fileCount = 0
@@ -87,7 +104,7 @@ async function extractZip(zipData: ArrayBuffer, destDir: Directory) {
   for (const [relativePath, zipEntry] of Object.entries(zip.files)) {
     if (zipEntry.dir) {
       if (!created.has(relativePath)) {
-        ensureDir(new Directory(destDir, relativePath))
+        ensureDir(new Dir(destDir, relativePath))
         created.add(relativePath)
       }
     } else {
@@ -95,23 +112,44 @@ async function extractZip(zipData: ArrayBuffer, destDir: Directory) {
       if (parts.length > 1) {
         const parentPath = parts.slice(0, -1).join('/')
         if (!created.has(parentPath)) {
-          ensureDir(new Directory(destDir, parentPath))
+          ensureDir(new Dir(destDir, parentPath))
           created.add(parentPath)
         }
       }
       const isBinary = /\.(jpg|jpeg|png|webp|gif|mp3|ogg|wav|pdf)$/i.test(relativePath)
       if (isBinary) {
         const bytes = await zipEntry.async('uint8array')
-        new File(destDir, relativePath).write(bytes)
+        new NativeFile(destDir, relativePath).write(bytes)
       } else {
         const content = await zipEntry.async('string')
-        new File(destDir, relativePath).write(content)
+        new NativeFile(destDir, relativePath).write(content)
       }
 
       fileCount++
       if (fileCount % 5 === 0) await yieldToUI()
     }
   }
+}
+
+// --- Web: extract zip into IndexedDB ---
+
+async function extractZipToIdb(zipData: ArrayBuffer, prefix: string) {
+  const zip = await JSZip.loadAsync(zipData)
+  const entries: [string, string | Uint8Array][] = []
+
+  for (const [relativePath, zipEntry] of Object.entries(zip.files)) {
+    if (zipEntry.dir) continue
+    const isBinary = /\.(jpg|jpeg|png|webp|gif|mp3|ogg|wav|pdf)$/i.test(relativePath)
+    if (isBinary) {
+      const bytes = await zipEntry.async('uint8array')
+      entries.push([`${prefix}${relativePath}`, bytes])
+    } else {
+      const content = await zipEntry.async('string')
+      entries.push([`${prefix}${relativePath}`, content])
+    }
+  }
+
+  await idbWriteBatch(entries)
 }
 
 async function upsertInstalledBook(
@@ -151,10 +189,7 @@ export async function downloadAndInstallBook(
   entry: RegistryEntry,
   onProgress?: (progress: number) => void,
 ): Promise<void> {
-  ensureLibrariesDir()
-
   const url = hearthUrl(`${hearthLibrariesPath}/${entry.file}`)
-  const dest = libraryDir(entry.id)
 
   if (onProgress) onProgress(0.1)
   const response = await fetch(url)
@@ -162,35 +197,56 @@ export async function downloadAndInstallBook(
   const zipData = await response.arrayBuffer()
   if (onProgress) onProgress(0.6)
 
-  if (dest.exists) dest.delete()
-  dest.create()
+  if (Platform.OS === 'web') {
+    const prefix = `books/${entry.id}/`
+    await idbDeletePrefix(prefix)
+    await extractZipToIdb(zipData, prefix)
+    if (onProgress) onProgress(0.9)
 
-  await extractZip(zipData, dest)
-  if (onProgress) onProgress(0.9)
+    const zip = await JSZip.loadAsync(zipData)
+    const libraryJson = await zip.file('library.json')!.async('string')
+    await upsertInstalledBook(entry.id, entry.version, libraryJson, entry.contentHash)
 
-  const libraryJsonFile = new File(dest, 'library.json')
-  const libraryJson = await libraryJsonFile.text()
+    const source = await createIdbSource(entry.id)
+    registerSource(source)
+  } else {
+    ensureLibrariesDir()
+    const dest = libraryDir(entry.id)
+    if (dest.exists) dest.delete()
+    dest.create()
 
-  await upsertInstalledBook(entry.id, entry.version, libraryJson, entry.contentHash)
+    await extractZipToFs(zipData, dest)
+    if (onProgress) onProgress(0.9)
 
-  const source = await createFileSystemSource(dest.uri)
-  registerSource(source)
+    const { File: NativeFile } = nativeFs!
+    const libraryJson = await new NativeFile(dest, 'library.json').text()
+    await upsertInstalledBook(entry.id, entry.version, libraryJson, entry.contentHash)
+
+    const source = await nativeSource!.createFileSystemSource(dest.uri)
+    registerSource(source)
+  }
+
   if (onProgress) onProgress(1)
 }
 
-export async function installFromLocalFile(filePath: string): Promise<Library> {
+export async function installFromLocalFile(filePath: string) {
+  if (Platform.OS === 'web') {
+    throw new Error('installFromLocalFile is not supported on web')
+  }
+
+  const { Directory: Dir, File: NativeFile, Paths } = nativeFs!
   ensureLibrariesDir()
 
-  const file = new File(filePath)
+  const file = new NativeFile(filePath)
   const zipData = await file.arrayBuffer()
 
-  const tempDir = new Directory(Paths.cache, 'pray-import/')
+  const tempDir = new Dir(Paths.cache, 'pray-import/')
   if (tempDir.exists) tempDir.delete()
   tempDir.create()
-  await extractZip(zipData, tempDir)
+  await extractZipToFs(zipData, tempDir)
 
-  const libraryJson = await new File(tempDir, 'library.json').text()
-  const library = JSON.parse(libraryJson) as Library
+  const libraryJson = await new NativeFile(tempDir, 'library.json').text()
+  const library = JSON.parse(libraryJson) as import('@/content/sources/filesystem').Library
 
   const dest = libraryDir(library.id)
   if (dest.exists) dest.delete()
@@ -198,7 +254,7 @@ export async function installFromLocalFile(filePath: string): Promise<Library> {
 
   await upsertInstalledBook(library.id, library.version, libraryJson, '')
 
-  const source = await createFileSystemSource(dest.uri)
+  const source = await nativeSource!.createFileSystemSource(dest.uri)
   registerSource(source)
 
   return library
@@ -208,18 +264,28 @@ export async function removeBook(libraryId: string): Promise<void> {
   const practiceIds = getPracticeIdsForLibrary(libraryId)
   await deleteBookPractices(practiceIds)
   unregisterSource(libraryId)
-  const dest = libraryDir(libraryId)
-  if (dest.exists) dest.delete()
+
+  if (Platform.OS === 'web') {
+    await idbDeletePrefix(`books/${libraryId}/`)
+  } else {
+    const dest = libraryDir(libraryId)
+    if (dest.exists) dest.delete()
+  }
+
   await getDb().runAsync('DELETE FROM installed_books WHERE book_id = ?', [libraryId])
 }
 
 export async function loadInstalledBooks(): Promise<void> {
-  ensureLibrariesDir()
+  if (Platform.OS !== 'web') ensureLibrariesDir()
+
   const installed = await getInstalledBooks()
   const results = await Promise.all(
     installed.map(async (row) => {
       try {
-        return await createFileSystemSource(libraryDir(row.book_id).uri)
+        if (Platform.OS === 'web') {
+          return await createIdbSource(row.book_id)
+        }
+        return await nativeSource!.createFileSystemSource(libraryDir(row.book_id).uri)
       } catch {
         return undefined
       }
