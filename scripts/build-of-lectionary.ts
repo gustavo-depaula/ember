@@ -26,8 +26,6 @@ import { getFirstSundayOfAdvent } from '../packages/liturgical/src/season'
 // ── Config ──
 
 const yearRange = { start: 2024, end: 2027 }
-const rateLimitMs = 50
-const maxRetries = 3
 const contentDir = path.resolve(__dirname, '../content/lectionary/of')
 const checkpointPath = path.resolve(__dirname, '.lectionary-checkpoint.json')
 const entriesPath = path.resolve(__dirname, '../content/liturgical/entries.json')
@@ -226,8 +224,7 @@ function computeYearSelection(entries: LiturgicalEntry[]) {
 
   console.log(`\nSelected ${selectedYears.length} years: [${selectedYears.join(', ')}]`)
   console.log(`Total days to fetch: ${totalDays}`)
-  const estSeconds = totalDays * rateLimitMs / 1000
-  console.log(`Estimated time: ${estSeconds < 60 ? `${Math.round(estSeconds)}s` : `${Math.ceil(estSeconds / 60)}m`} (at ${rateLimitMs}ms delay)`)
+  console.log(`Fetching: all ${selectedYears.length} years in parallel, no delay`)
 
   return { selectedYears, universe, sanctoralOccasions }
 }
@@ -246,38 +243,19 @@ function saveCheckpoint(data: CheckpointData) {
   fs.writeFileSync(checkpointPath, JSON.stringify(data), 'utf-8')
 }
 
-async function fetchWithRetry(date: Date): Promise<LiturgiaDiariaResponse | undefined> {
+async function fetchDate(date: Date): Promise<LiturgiaDiariaResponse | undefined> {
   const dia = String(date.getDate()).padStart(2, '0')
   const mes = String(date.getMonth() + 1).padStart(2, '0')
   const ano = String(date.getFullYear())
   const url = `https://liturgia.up.railway.app/v2/?dia=${dia}&mes=${mes}&ano=${ano}`
 
-  for (let attempt = 0; attempt <= maxRetries; attempt++) {
-    try {
-      const res = await fetch(url)
-      if (!res.ok) {
-        if (attempt < maxRetries) {
-          const delay = 2000 * 2 ** attempt
-          console.log(`  HTTP ${res.status} for ${ano}-${mes}-${dia}, retrying in ${delay}ms...`)
-          await sleep(delay)
-          continue
-        }
-        console.log(`  FAILED: HTTP ${res.status} for ${ano}-${mes}-${dia} after ${maxRetries + 1} attempts`)
-        return undefined
-      }
-      return await res.json()
-    } catch (err) {
-      if (attempt < maxRetries) {
-        const delay = 2000 * 2 ** attempt
-        console.log(`  Error for ${ano}-${mes}-${dia}: ${err}, retrying in ${delay}ms...`)
-        await sleep(delay)
-        continue
-      }
-      console.log(`  FAILED: ${err} for ${ano}-${mes}-${dia} after ${maxRetries + 1} attempts`)
-      return undefined
-    }
+  try {
+    const res = await fetch(url)
+    if (!res.ok) return undefined
+    return await res.json()
+  } catch {
+    return undefined
   }
-  return undefined
 }
 
 function normalizeLiturgiaDiaria(data: LiturgiaDiariaResponse): ProperDay {
@@ -330,7 +308,7 @@ async function testApiAvailability(selectedYears: number[]): Promise<boolean> {
   // Test with a date from the first selected year
   const testYear = selectedYears[0]
   const testDate = new Date(testYear, 11, 25) // Christmas — always has data
-  const data = await fetchWithRetry(testDate)
+  const data = await fetchDate(testDate)
 
   if (!data) {
     console.log(`  FAILED: API did not return data for ${testYear}-12-25`)
@@ -344,7 +322,7 @@ async function testApiAvailability(selectedYears: number[]): Promise<boolean> {
   // Also test the last selected year
   const lastYear = selectedYears[selectedYears.length - 1]
   if (lastYear !== testYear) {
-    const data2 = await fetchWithRetry(new Date(lastYear, 0, 1))
+    const data2 = await fetchDate(new Date(lastYear, 0, 1))
     if (!data2) {
       console.log(`  WARNING: API did not return data for ${lastYear}-01-01`)
       console.log('  Some years in the selection may not be available.')
@@ -356,91 +334,94 @@ async function testApiAvailability(selectedYears: number[]): Promise<boolean> {
   return true
 }
 
+async function fetchYear(
+  year: number,
+  entries: LiturgicalEntry[],
+  checkpoint: CheckpointData,
+  stats: { fetched: number; skipped: number; failed: number; processed: number },
+  totalDays: number,
+  startTime: number,
+) {
+  const isLeap = (year % 4 === 0 && year % 100 !== 0) || year % 400 === 0
+  const daysInYear = isLeap ? 366 : 365
+  const calendar = buildYearCalendar({ year, form: 'of', entries, jurisdiction: 'BR' })
+  const failedDates: string[] = []
+
+  const start = new Date(year, 0, 1)
+  const end = new Date(year, 11, 31)
+  let current = start
+
+  while (current <= end) {
+    const dateStr = format(current, 'yyyy-MM-dd')
+    stats.processed++
+
+    if (checkpoint.fetched[dateStr]) {
+      stats.skipped++
+      current = addDays(current, 1)
+      continue
+    }
+
+    const { full: occasionKey } = getOccasionKey(current)
+    const sanctoral = isSuppressed(dateStr, calendar)
+    const cycleKey = sanctoral ? 'sanctoral' : occasionKey
+
+    const data = await fetchDate(current)
+    if (data) {
+      checkpoint.fetched[dateStr] = { occasionKey, cycleKey }
+      checkpoint.responses[dateStr] = data
+      stats.fetched++
+    } else {
+      stats.failed++
+      failedDates.push(dateStr)
+    }
+
+    // Progress every 20 fetches
+    if ((stats.fetched + stats.failed) % 20 === 0) {
+      const elapsed = (Date.now() - startTime) / 1000
+      const done = stats.fetched + stats.failed + stats.skipped
+      const rate = (stats.fetched + stats.failed) / elapsed
+      const eta = rate > 0 ? (totalDays - done) / rate : 0
+      const pct = ((done / totalDays) * 100).toFixed(1)
+      process.stdout.write(
+        `\r  [${pct}%] ${stats.fetched} ok, ${stats.failed} gaps, ${stats.skipped} cached | ${rate.toFixed(1)} req/s | ETA ${formatDuration(eta)}   `,
+      )
+    }
+
+    current = addDays(current, 1)
+  }
+
+  if (failedDates.length > 0) {
+    console.log(`\n  ${year}: ${daysInYear - failedDates.length}/${daysInYear} days fetched (${failedDates.length} gaps)`)
+  } else {
+    console.log(`\n  ${year}: all ${daysInYear} days fetched`)
+  }
+}
+
 async function fetchYears(
   selectedYears: number[],
   entries: LiturgicalEntry[],
 ): Promise<CheckpointData> {
   const checkpoint = loadCheckpoint()
-  let fetched = 0
-  let skipped = 0
-  let failed = 0
+  const stats = { fetched: 0, skipped: 0, failed: 0, processed: 0 }
 
-  // Compute total days across all selected years
   let totalDays = 0
   for (const y of selectedYears) {
     const isLeap = (y % 4 === 0 && y % 100 !== 0) || y % 400 === 0
     totalDays += isLeap ? 366 : 365
   }
 
-  let processed = 0
   const startTime = Date.now()
+  console.log(`\nFetching ${selectedYears.length} years in parallel: [${selectedYears.join(', ')}]\n`)
 
-  for (const year of selectedYears) {
-    const isLeap = (year % 4 === 0 && year % 100 !== 0) || year % 400 === 0
-    const daysInYear = isLeap ? 366 : 365
-    let yearDay = 0
-
-    console.log(`\n── ${year} (${daysInYear} days) ──`)
-    const calendar = buildYearCalendar({ year, form: 'of', entries, jurisdiction: 'BR' })
-
-    const start = new Date(year, 0, 1)
-    const end = new Date(year, 11, 31)
-    let current = start
-
-    while (current <= end) {
-      const dateStr = format(current, 'yyyy-MM-dd')
-      yearDay++
-      processed++
-
-      if (checkpoint.fetched[dateStr]) {
-        skipped++
-        current = addDays(current, 1)
-        continue
-      }
-
-      const { full: occasionKey } = getOccasionKey(current)
-      const isSanctoral = isSuppressed(dateStr, calendar)
-      const cycleKey = isSanctoral ? 'sanctoral' : occasionKey
-
-      const data = await fetchWithRetry(current)
-      if (data) {
-        checkpoint.fetched[dateStr] = { occasionKey, cycleKey }
-        checkpoint.responses[dateStr] = data
-        fetched++
-
-        // Progress log every 10 fetches
-        if (fetched % 10 === 0) {
-          const elapsed = (Date.now() - startTime) / 1000
-          const rate = fetched / elapsed
-          const remaining = totalDays - processed
-          const eta = remaining / rate
-          const pct = ((processed / totalDays) * 100).toFixed(1)
-          process.stdout.write(
-            `\r  [${pct}%] ${dateStr} | ${fetched} fetched, ${skipped} skipped, ${failed} failed | ${rate.toFixed(1)} req/s | ETA ${formatDuration(eta)}`,
-          )
-        }
-      } else {
-        failed++
-      }
-
-      // Checkpoint every 100 fetches
-      if (fetched > 0 && fetched % 100 === 0) {
-        saveCheckpoint(checkpoint)
-      }
-
-      await sleep(rateLimitMs)
-      current = addDays(current, 1)
-    }
-
-    // End-of-year summary
-    const elapsed = (Date.now() - startTime) / 1000
-    console.log(`\n  ${year} done: ${yearDay} days processed in ${formatDuration(elapsed)}`)
-  }
+  // Fetch all years concurrently
+  await Promise.all(
+    selectedYears.map((year) => fetchYear(year, entries, checkpoint, stats, totalDays, startTime)),
+  )
 
   saveCheckpoint(checkpoint)
   const totalElapsed = (Date.now() - startTime) / 1000
   console.log(`\n✓ Fetching complete in ${formatDuration(totalElapsed)}`)
-  console.log(`  ${fetched} fetched, ${skipped} from checkpoint, ${failed} failed`)
+  console.log(`  ${stats.fetched} fetched, ${stats.skipped} from checkpoint, ${stats.failed} gaps`)
 
   return checkpoint
 }
@@ -597,9 +578,6 @@ function generateOutput(
 
 // ── Helpers ──
 
-function sleep(ms: number): Promise<void> {
-  return new Promise((resolve) => setTimeout(resolve, ms))
-}
 
 // ── Main ──
 
