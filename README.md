@@ -62,8 +62,7 @@ Ember and Salty are built in the open and dedicated to the public domain. The tr
 
 If you believe this work matters, consider sponsoring the project.
 
-<!-- TODO: Add sponsorship link -->
-<!-- [GitHub Sponsors](https://github.com/sponsors/gustavo-depaula) -->
+[GitHub Sponsors](https://github.com/sponsors/gustavo-depaula)
 
 ---
 
@@ -106,11 +105,12 @@ pnpm test           # Run all tests
 - [Design system](docs/design/design-system.md) — colors, typography, layout
 - [Content sources](docs/content/content-sources.md) — Bible, CCC, hymns, daily readings
 - [Dev journal](docs/journal.md) — accumulated learnings
+- [Contributing](CONTRIBUTING.md) — how to contribute code and content
 
 ---
 
 ## License
 
-Everything here — code, content, prayers, liturgical data — is [dedicated to the public domain](LICENSE). In jurisdictions where that is not recognized, content falls back to CC BY 4.0 and software to 0BSD.
+Everything here — code, content, prayers, liturgical data — is [dedicated to the public domain](LICENSE). In jurisdictions where that is not recognized, code falls back to [0BSD](https://opensource.org/license/0bsd) and content to [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [CONTRIBUTING.md](CONTRIBUTING.md) for contributor licensing details.
 
 *Ad maiorem Dei gloriam.*
