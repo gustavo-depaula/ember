@@ -16,10 +16,12 @@ export function ManuscriptFrame({
   children,
   light = false,
   contentPadding,
+  backgroundColor,
 }: {
   children: ReactNode
   light?: boolean
   contentPadding?: number | string
+  backgroundColor?: string
 }) {
   const { showCorners, outerBorder, innerBorder, innerPadding } = (() => {
     if (light) {
@@ -36,6 +38,7 @@ export function ManuscriptFrame({
       padding={innerPadding}
       position="relative"
       overflow="visible"
+      backgroundColor={backgroundColor}
     >
       {showCorners && (
         <>

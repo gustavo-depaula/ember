@@ -826,6 +826,16 @@ export default {
     abstinenceNote: 'Sem carne',
     partialAbstinenceNote: 'Carne apenas na refeição principal',
     penanceNote: 'Alguma forma de penitência é necessária',
+    fastExplanation:
+      'Católicos entre 18 e 59 anos são obrigados a jejuar. O jejum consiste em apenas uma refeição completa durante o dia. Duas refeições menores são permitidas, mas juntas não devem equivaler a uma refeição completa. Não é permitido comer entre as refeições.\n\nEsta obrigação é grave e não pode ser substituída por outra forma de penitência. Estão dispensados os doentes, gestantes, lactantes e os que realizam trabalho físico pesado.',
+    abstinenceExplanation:
+      'Católicos a partir de 14 anos devem abster-se de carne hoje. Isso inclui carne bovina, suína, de aves e outras carnes. Peixes, ovos, laticínios e frutos do mar são permitidos.\n\nDurante a Quaresma, a abstinência na Quarta-feira de Cinzas e em todas as sextas-feiras é obrigatória e não pode ser comutada. Fora da Quaresma, a CNBB permite que os fiéis substituam a abstinência por outra penitência ou obra de caridade.',
+    partialAbstinenceExplanation:
+      'Católicos a partir de 14 anos devem limitar o consumo de carne à refeição principal do dia. Peixes, ovos, laticínios e frutos do mar não são restritos.\n\nEsta é uma forma mais leve da disciplina de abstinência. A CNBB permite que os fiéis substituam por outra forma de penitência ou obra de caridade.',
+    penanceExplanation:
+      'Toda sexta-feira é dia de penitência em memória da Paixão de Nosso Senhor. A forma tradicional é a abstinência de carne, mas fora da Quaresma a CNBB permite que os fiéis escolham uma penitência alternativa: uma oração extra, um ato de esmola, uma obra de misericórdia ou outro sacrifício voluntário.\n\nO importante é que alguma penitência real seja oferecida \u2014 a obrigação é fazer penitência, não necessariamente abster-se de carne.',
+    tapToLearnMore: 'Toque para saber mais sobre esta obrigação',
+    dismiss: 'Fechar',
   },
 
   calendar: {

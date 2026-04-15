@@ -778,6 +778,16 @@ export default {
     abstinenceNote: 'No meat',
     partialAbstinenceNote: 'Meat only at the principal meal',
     penanceNote: 'Some form of penance is required',
+    fastExplanation:
+      'Catholics aged 18\u201359 are required to fast. Fasting means eating only one full meal during the day. Two smaller meals may be taken, but together they should not equal a full meal. Snacking between meals is not permitted.\n\nThis obligation binds under pain of serious sin and cannot be substituted for another form of penance. Those who are ill, pregnant, nursing, or engaged in heavy physical labor are excused.',
+    abstinenceExplanation:
+      'Catholics aged 14 and older must abstain from meat today. This includes beef, pork, poultry, and other flesh meats. Fish, eggs, dairy, and shellfish are permitted.\n\nDuring Lent, abstinence on Ash Wednesday and all Fridays is obligatory and cannot be commuted. Outside of Lent, the USCCB permits the faithful to substitute another penance or act of charity in place of Friday abstinence.',
+    partialAbstinenceExplanation:
+      'Catholics aged 14 and older should limit meat to the principal meal of the day. Fish, eggs, dairy, and shellfish are not restricted.\n\nThis is a lighter form of the abstinence discipline. The USCCB permits the faithful to substitute another form of penance or an act of charity.',
+    penanceExplanation:
+      'Every Friday is a day of penance in memory of Our Lord\u2019s Passion. The traditional form is abstinence from meat, but outside of Lent the USCCB allows the faithful to choose an alternative penance: an extra prayer, an act of almsgiving, a work of mercy, or another voluntary sacrifice.\n\nWhat matters is that some real penance is offered \u2014 the obligation is to do penance, not necessarily to abstain from meat.',
+    tapToLearnMore: 'Tap to learn more about this obligation',
+    dismiss: 'Close',
   },
 
   calendar: {
