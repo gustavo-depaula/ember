@@ -11,6 +11,14 @@ export {
   type ResolvedDayEntry,
   resolveLiturgicalDay,
 } from './liturgical-day-resolver'
+export {
+  getLiturgicalYear,
+  getOfLiturgicalPosition,
+  getSundayCycle,
+  getWeekdayCycle,
+  type OfLiturgicalPosition,
+  type OfSeason,
+} from './of-position'
 export type OfficeHour = 'morning' | 'evening' | 'compline'
 export { buildYearCalendar, getCelebrationsForDate } from './calendar-builder'
 // Calendar
