@@ -8,7 +8,7 @@ import { hyphenate } from '@/lib/hyphenate'
 
 export function PrayerText(props: ComponentProps<typeof Text>) {
   const style = useReadingStyle()
-  return <Text selectable color="$color" {...style} {...props} />
+  return <Text userSelect="text" color="$color" {...style} {...props} />
 }
 
 export function PrayerLines({
