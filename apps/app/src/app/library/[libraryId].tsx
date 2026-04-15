@@ -17,6 +17,7 @@ import {
   getAllBookEntries,
   getAllChapterManifestsForLibrary,
   getManifest,
+  qualifyId,
   resolvePrayer,
 } from '@/content/registry'
 import type { Library } from '@/content/sources/filesystem'
@@ -55,8 +56,9 @@ export default function LibraryDetailScreen() {
   const practiceList: PracticePreview[] = useMemo(() => {
     if (library) {
       return library.practices.map((pid) => {
-        const m = getManifest(pid)
-        return { id: pid, name: m?.name ?? { 'en-US': pid }, icon: m?.icon ?? 'prayer' }
+        const qid = qualifyId(library.id, pid)
+        const m = getManifest(qid)
+        return { id: qid, name: m?.name ?? { 'en-US': pid }, icon: m?.icon ?? 'prayer' }
       })
     }
     if (registryEntry) return registryEntry.practices
