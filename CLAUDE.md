@@ -1,10 +1,10 @@
-# Ember & Salty
+# Ember
 
 ## Project Overview
 
 > A beautiful companion for the Catholic life of prayer — helping souls grow in holiness, one day at a time.
 
-**Ember** is a multilingual Catholic prayer app (English + Brazilian Portuguese) built with Expo (web + iOS + Android). **Salty** is the broader preservation and translation effort for the Catholic literary tradition — spiritual classics, Church Fathers, formation guides, liturgical texts — structured in open formats and freely available. Ember is Salty's first consumer app.
+**Ember** is a multilingual Catholic prayer app (English + Brazilian Portuguese) built with Expo (web + iOS + Android). Beyond prayer, Ember also serves as a platform for preserving and distributing the Catholic literary tradition — spiritual classics, Church Fathers, formation guides, liturgical texts — structured in open formats and freely available.
 
 Three pillars:
 
@@ -98,13 +98,12 @@ Work is organized into **independent tracks** on GitHub — each track advances 
 | Breviary | Real Liturgy of the Hours — distinct from the personalized office |
 | New Practices | Devotionary, more prayers, translation review, Rosary, Lectio Divina, etc. |
 | Sacred Art | Browsable gallery + contextual art throughout the app |
-| Content Platform / Salty | Catholic library, spiritual classics, Church Fathers, formation guides |
+| Content Platform | Catholic library, spiritual classics, Church Fathers, formation guides |
 
 ### Workflow
 - Pick issues from any track — tracks are independent, not sequential
 - Use `gh issue list -m "Track Name"` to see a track's issues
 - When starting work on an issue, reference it in commits/PRs
-- Salty is the broader preservation/translation effort; Ember is its first consumer app
 
 ## Git
 
