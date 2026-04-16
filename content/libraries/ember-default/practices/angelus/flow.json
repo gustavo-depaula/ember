@@ -1,16 +1,32 @@
 {
 	"sections": [
 		{
+			"type": "rubric",
+			"text": {
+				"en-US": "Traditionally prayed standing. During Eastertide (Easter Sunday through Pentecost Sunday), the Regina Caeli replaces the Angelus.",
+				"pt-BR": "Tradicionalmente rezado de pé. Durante o Tempo Pascal (do Domingo de Páscoa ao Domingo de Pentecostes), a Rainha do Céu (Regina Caeli) substitui o Angelus."
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "sign-of-cross"
+		},
+		{
+			"type": "divider"
+		},
+		{
 			"type": "response",
 			"verses": [
 				{
 					"v": {
 						"en-US": "The Angel of the Lord declared unto Mary,",
-						"pt-BR": "O Anjo do Senhor anunciou a Maria,"
+						"pt-BR": "O Anjo do Senhor anunciou a Maria,",
+						"la": "Ángelus Dómini nuntiávit Maríæ,"
 					},
 					"r": {
 						"en-US": "And she conceived of the Holy Spirit.",
-						"pt-BR": "E ela concebeu do Espírito Santo."
+						"pt-BR": "E ela concebeu do Espírito Santo.",
+						"la": "Et concépit de Spíritu Sancto."
 					}
 				}
 			]
@@ -28,11 +44,13 @@
 				{
 					"v": {
 						"en-US": "Behold the handmaid of the Lord,",
-						"pt-BR": "Eis aqui a serva do Senhor,"
+						"pt-BR": "Eis aqui a serva do Senhor,",
+						"la": "Ecce ancílla Dómini,"
 					},
 					"r": {
 						"en-US": "Be it done unto me according to Thy word.",
-						"pt-BR": "Faça-se em mim segundo a Vossa palavra."
+						"pt-BR": "Faça-se em mim segundo a Vossa palavra.",
+						"la": "Fiat mihi secúndum verbum tuum."
 					}
 				}
 			]
@@ -45,16 +63,25 @@
 			"type": "divider"
 		},
 		{
+			"type": "rubric",
+			"text": {
+				"en-US": "At the following verse, all bow profoundly. On the Annunciation (25 March) and on Christmas (25 December), all genuflect.",
+				"pt-BR": "No versículo seguinte, todos se inclinam profundamente. Na Anunciação (25 de março) e no Natal (25 de dezembro), todos se ajoelham."
+			}
+		},
+		{
 			"type": "response",
 			"verses": [
 				{
 					"v": {
 						"en-US": "And the Word was made flesh,",
-						"pt-BR": "E o Verbo se fez carne,"
+						"pt-BR": "E o Verbo se fez carne,",
+						"la": "Et Verbum caro factum est,"
 					},
 					"r": {
 						"en-US": "And dwelt among us.",
-						"pt-BR": "E habitou entre nós."
+						"pt-BR": "E habitou entre nós.",
+						"la": "Et habitávit in nobis."
 					}
 				}
 			]
@@ -72,11 +99,13 @@
 				{
 					"v": {
 						"en-US": "Pray for us, O holy Mother of God,",
-						"pt-BR": "Rogai por nós, Santa Mãe de Deus,"
+						"pt-BR": "Rogai por nós, Santa Mãe de Deus,",
+						"la": "Ora pro nobis, sancta Dei Génetrix,"
 					},
 					"r": {
 						"en-US": "That we may be made worthy of the promises of Christ.",
-						"pt-BR": "Para que sejamos dignos das promessas de Cristo."
+						"pt-BR": "Para que sejamos dignos das promessas de Cristo.",
+						"la": "Ut digni efficiámur promissiónibus Christi."
 					}
 				}
 			]
@@ -88,16 +117,24 @@
 			"type": "rubric",
 			"text": {
 				"en-US": "Let us pray.",
-				"pt-BR": "Oremos."
+				"pt-BR": "Oremos.",
+				"la": "Orémus."
 			}
 		},
 		{
 			"type": "prayer",
 			"inline": {
 				"en-US": "Pour forth, we beseech Thee, O Lord, Thy grace into our hearts, that we, to whom the Incarnation of Christ Thy Son was made known by the message of an angel, may by His Passion and Cross be brought to the glory of His Resurrection. Through the same Christ our Lord. Amen.",
-				"la": "Gratiam tuam, quaesumus, Domine, mentibus nostris infunde; ut qui, Angelo nuntiante, Christi Filii tui incarnationem cognovimus, per passionem eius et crucem ad resurrectionis gloriam perducamur. Per eundem Christum Dominum nostrum. Amen.",
+				"la": "Grátiam tuam, quǽsumus, Dómine, méntibus nostris infúnde; ut qui, Ángelo nuntiánte, Christi Fílii tui incarnatiónem cognóvimus, per passiónem eius et crucem ad resurrectiónis glóriam perducámur. Per eúndem Christum Dóminum nostrum. Amen.",
 				"pt-BR": "Derramai, Senhor, a Vossa graça em nossas almas, para que nós, que pela anunciação do Anjo conhecemos a Encarnação de Cristo, Vosso Filho, pela Sua Paixão e Cruz sejamos levados à glória da Ressurreição. Pelo mesmo Cristo, Senhor nosso. Amém."
 			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "prayer",
+			"ref": "sign-of-cross"
 		}
 	]
 }
