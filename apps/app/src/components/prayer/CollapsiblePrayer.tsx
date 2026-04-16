@@ -36,7 +36,7 @@ export function CollapsiblePrayer({
             color={theme.colorSecondary.val}
             style={{ transform: [{ rotate: expanded ? '90deg' : '0deg' }] }}
           />
-          <Text fontFamily="$heading" fontSize="$2" color="$color" flex={1}>
+          <Text fontFamily="$heading" fontSize="$2" color="$color">
             {title.primary}
           </Text>
           {count !== undefined && count > 1 && (
