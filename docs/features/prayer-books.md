@@ -2,7 +2,7 @@
 
 Ember's content distribution system. A library is a self-contained package of prayers and practices, distributed as a `.pray` file (zip archive). The app ships with no bundled practices — content downloads from hearth on first launch.
 
-> See `docs/features/features-overview.md` for practice content architecture. See `docs/content/salty-book-format.md` for the broader Salty book format (will be updated to align with this spec).
+> See `docs/features/features-overview.md` for practice content architecture. See `docs/content/book-format.md` for the book format spec.
 
 ---
 

@@ -46,7 +46,7 @@ See `docs/ARCHITECTURE.md` for the full content model and `docs/features/feature
 - `docs/CONVENTIONS.md` — code style guide (READ THIS FIRST)
 - `docs/features/features-overview.md` — flow DSL, schedules, programs, plan of life, liturgical seasons
 - `docs/features/prayer-books.md` — `.pray` format, library distribution, content resolution
-- `docs/content/salty-book-format.md` — book manifest, chapter format, ID conventions
+- `docs/content/book-format.md` — book manifest, chapter format, ID conventions
 - `docs/design/design-system.md` — colors, typography, layout, Tamagui config
 - `docs/content/content-sources.md` — Bible APIs, CCC, hymn sources, licensing
 - `docs/journal.md` — dev journal (accumulated learnings)

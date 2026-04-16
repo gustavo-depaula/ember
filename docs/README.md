@@ -48,7 +48,7 @@ Broad spectrum — from curious seekers to devout daily communicants. The app me
 | **Bible Reader** | Bundled Douay-Rheims (73 books) + online translations via Bolls.life API | [features-overview.md](features/features-overview.md#other-features) |
 | **Catechism Reader** | Full CCC (2,865 paragraphs), 5-level collapsible TOC, segment navigation | [features-overview.md](features/features-overview.md#other-features) |
 | **Ordo Missae** | Complete Mass ordinary (OF + EF), bilingual Latin/English, EF propers daily, OF propers (PT-BR complete, EN readings) | [features-overview.md](features/features-overview.md#other-features) |
-| **Book Reader** | Long-form prose from `.pray` libraries, WebView with CSS column pagination | [salty-book-format.md](content/salty-book-format.md) |
+| **Book Reader** | Long-form prose from `.pray` libraries, WebView with CSS column pagination | [book-format.md](content/book-format.md) |
 | **Liturgical Seasons** | OF + EF season calculation, 347-entry sanctoral cycle, seasonal theming | [features-overview.md](features/features-overview.md#liturgical-seasons) |
 | **Saints Feed** | Daily saints and commemorations | — |
 
@@ -106,7 +106,7 @@ Broad spectrum — from curious seekers to devout daily communicants. The app me
 - [Conventions](CONVENTIONS.md) — code style guide
 - [Features Overview](features/features-overview.md) — flow DSL, schedules, programs, plan of life, liturgical seasons
 - [Library System](features/prayer-books.md) — `.pray` format, library distribution, content resolution
-- [Salty Book Format](content/salty-book-format.md) — book manifest, chapter format, ID conventions
+- [Book Format](content/book-format.md) — book manifest, chapter format, ID conventions
 - [Design System](design/design-system.md) — colors, typography, illuminated manuscript aesthetic
 - [Content Sources](content/content-sources.md) — Bible, CCC, hymns, daily readings — APIs, licensing, bundling
 - [Content Pipeline](content/PIPELINE.md) — what's published, in progress, and planned

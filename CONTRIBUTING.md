@@ -42,7 +42,7 @@ Content in this project is packaged into **libraries** — self-contained `.pray
 
 To understand the content model:
 - [Library system & .pray format](docs/features/prayer-books.md)
-- [Salty book format](docs/content/salty-book-format.md)
+- [Book format](docs/content/book-format.md)
 - [Content sources & licensing](docs/content/content-sources.md)
 - [Content pipeline](docs/content/PIPELINE.md) — see what's published, in progress, and where help is needed
 
