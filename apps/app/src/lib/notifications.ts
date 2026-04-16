@@ -1,8 +1,10 @@
 import { Platform } from 'react-native'
+import { getManifest } from '@/content/registry'
 import type { SlotState } from '@/db/events'
 import { getEnabledSlots, getPractice } from '@/db/repositories'
 import type { NotifyConfig, UserPractice } from '@/db/schema'
 import { parseSchedule, type Schedule } from '@/features/plan-of-life/schedule'
+import { localizeContent } from '@/lib/i18n'
 import { parseSlotKey } from '@/lib/slotKey'
 
 // expo-notifications is native-only
@@ -67,11 +69,13 @@ function scheduleRemindersForSlot(
 
   const schedule = parseSchedule(slot.schedule)
   const scheduledDays = getScheduledDays(schedule)
-  const body = practice?.custom_name ?? slot.practice_id
+  const manifest = getManifest(slot.practice_id)
+  const practiceName =
+    practice?.custom_name ?? (manifest ? localizeContent(manifest.name) : slot.practice_id)
 
   const content = {
-    title: 'Practice Reminder',
-    body,
+    title: practiceName,
+    body: 'Time for prayer',
     data: { practiceId: slot.practice_id, slotId: parseSlotKey(slot.id).slotId },
   }
   const androidChannel = Platform.OS === 'android' ? { channelId: 'practice-reminders' } : {}
