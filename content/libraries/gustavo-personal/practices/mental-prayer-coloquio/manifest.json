@@ -1,0 +1,70 @@
+{
+	"id": "mental-prayer-coloquio",
+	"icon": "prayer",
+	"alternativeTo": {
+		"id": "mental-prayer",
+		"label": {
+			"en-US": "Colloquy Method",
+			"pt-BR": "Método do Colóquio"
+		},
+		"description": {
+			"en-US": "A heart-centered method uniting intimate colloquy, structured meditation, and an examen of the prayer itself.",
+			"pt-BR": "Um método centrado no coração que une colóquio íntimo, meditação estruturada e exame da própria oração."
+		}
+	},
+	"name": {
+		"en-US": "Mental Prayer",
+		"pt-BR": "Oração Mental"
+	},
+	"categories": [
+		"daily",
+		"contemplative"
+	],
+	"estimatedMinutes": 20,
+	"description": {
+		"en-US": "A personal method of mental prayer in three movements: an intimate colloquy with God the Father, a structured meditation on a chosen subject (preparation, body, conclusion), and a brief examen of the prayer itself.",
+		"pt-BR": "Um método pessoal de oração mental em três movimentos: um colóquio íntimo com Deus Pai, uma meditação estruturada sobre um tema escolhido (preparação, corpo, conclusão) e um breve exame da própria oração."
+	},
+	"history": {
+		"en-US": "This method draws from the Ignatian Spiritual Exercises (preparation, considerations, affects, resolutions) and from the Carmelite tradition of familiar conversation with God as with a friend. It adds a preliminary colloquy to first open the heart in filial trust, and closes with an examen modeled on St. Ignatius — not of the day, but of the prayer itself, so that fidelity to method is itself examined before God.",
+		"pt-BR": "Este método bebe dos Exercícios Espirituais de Santo Inácio (preparação, considerações, afetos, resoluções) e da tradição carmelita do trato familiar com Deus como com um amigo. Acrescenta um colóquio preliminar para primeiro abrir o coração em confiança filial, e encerra com um exame nos moldes inacianos — não do dia, mas da própria oração, para que a fidelidade ao método seja ela mesma examinada diante de Deus."
+	},
+	"howToPray": {
+		"en-US": "Choose a quiet place and a subject for meditation — a Gospel passage, a mystery of Christ, a virtue, a truth of faith. Begin with the opening Colloquy: a child's conversation with the Father. Then enter the structured Meditation: prepare, consider, be moved, resolve. Close with the Examen of the prayer itself. Pray twice daily, morning and evening.",
+		"pt-BR": "Escolha um lugar tranquilo e um tema para a meditação — uma passagem do Evangelho, um mistério de Cristo, uma virtude, uma verdade da fé. Comece com o Colóquio de abertura: uma conversa de criança com o Pai. Depois entre na Meditação estruturada: prepare-se, considere, deixe-se mover, resolva. Encerre com o Exame da própria oração. Reze duas vezes ao dia, de manhã e à noite."
+	},
+	"flowMode": "step",
+	"completion": "flow-end",
+	"flow": "flow.json",
+	"tags": [
+		"prayer",
+		"meditation",
+		"contemplation",
+		"mental",
+		"colloquy",
+		"ignatian",
+		"daily",
+		"morning",
+		"evening",
+		"personal"
+	],
+	"defaults": {
+		"sortOrder": 2,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"time": "07:00",
+				"tier": "essential"
+			},
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"time": "21:00",
+				"tier": "essential"
+			}
+		]
+	}
+}

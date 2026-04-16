@@ -1,0 +1,23 @@
+{
+	"id": "gustavo-personal",
+	"version": "1.0.0",
+	"name": {
+		"en-US": "Personal Library",
+		"pt-BR": "Biblioteca Pessoal"
+	},
+	"description": {
+		"en-US": "A personal library of practices.",
+		"pt-BR": "Uma biblioteca pessoal de práticas."
+	},
+	"languages": [
+		"en-US",
+		"pt-BR"
+	],
+	"tags": [
+		"personal"
+	],
+	"practices": [
+		"mental-prayer-coloquio"
+	],
+	"prayers": []
+}
