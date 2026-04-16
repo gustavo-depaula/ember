@@ -1,140 +1,236 @@
 {
 	"sections": [
 		{
-			"type": "rubric",
-			"text": {
-				"en-US": "Traditionally prayed standing. During Eastertide (Easter Sunday through Pentecost Sunday), the Regina Caeli replaces the Angelus.",
-				"pt-BR": "Tradicionalmente rezado de pé. Durante o Tempo Pascal (do Domingo de Páscoa ao Domingo de Pentecostes), a Rainha do Céu (Regina Caeli) substitui o Angelus."
-			}
-		},
-		{
-			"type": "prayer",
-			"ref": "sign-of-cross"
-		},
-		{
-			"type": "divider"
-		},
-		{
-			"type": "response",
-			"verses": [
+			"type": "select",
+			"on": "liturgicalSeason",
+			"map": {
+				"easter": "regina-caeli"
+			},
+			"default": "angelus",
+			"options": [
 				{
-					"v": {
-						"en-US": "The Angel of the Lord declared unto Mary,",
-						"pt-BR": "O Anjo do Senhor anunciou a Maria,",
-						"la": "Ángelus Dómini nuntiávit Maríæ,"
+					"id": "angelus",
+					"label": {
+						"en-US": "Angelus",
+						"pt-BR": "Angelus"
 					},
-					"r": {
-						"en-US": "And she conceived of the Holy Spirit.",
-						"pt-BR": "E ela concebeu do Espírito Santo.",
-						"la": "Et concépit de Spíritu Sancto."
-					}
+					"sections": [
+						{
+							"type": "rubric",
+							"text": {
+								"en-US": "Traditionally prayed standing.",
+								"pt-BR": "Tradicionalmente rezado de pé."
+							}
+						},
+						{
+							"type": "prayer",
+							"ref": "sign-of-cross"
+						},
+						{
+							"type": "divider"
+						},
+						{
+							"type": "response",
+							"verses": [
+								{
+									"v": {
+										"en-US": "The Angel of the Lord declared unto Mary,",
+										"pt-BR": "O Anjo do Senhor anunciou a Maria,",
+										"la": "Ángelus Dómini nuntiávit Maríæ,"
+									},
+									"r": {
+										"en-US": "And she conceived of the Holy Spirit.",
+										"pt-BR": "E ela concebeu do Espírito Santo.",
+										"la": "Et concépit de Spíritu Sancto."
+									}
+								}
+							]
+						},
+						{
+							"type": "prayer",
+							"ref": "hail-mary"
+						},
+						{
+							"type": "divider"
+						},
+						{
+							"type": "response",
+							"verses": [
+								{
+									"v": {
+										"en-US": "Behold the handmaid of the Lord,",
+										"pt-BR": "Eis aqui a serva do Senhor,",
+										"la": "Ecce ancílla Dómini,"
+									},
+									"r": {
+										"en-US": "Be it done unto me according to Thy word.",
+										"pt-BR": "Faça-se em mim segundo a Vossa palavra.",
+										"la": "Fiat mihi secúndum verbum tuum."
+									}
+								}
+							]
+						},
+						{
+							"type": "prayer",
+							"ref": "hail-mary"
+						},
+						{
+							"type": "divider"
+						},
+						{
+							"type": "rubric",
+							"text": {
+								"en-US": "At the following verse, all bow profoundly. On the Annunciation (25 March) and Christmas (25 December), all genuflect.",
+								"pt-BR": "No versículo seguinte, todos se inclinam profundamente. Na Anunciação (25 de março) e no Natal (25 de dezembro), todos se ajoelham."
+							}
+						},
+						{
+							"type": "response",
+							"verses": [
+								{
+									"v": {
+										"en-US": "And the Word was made flesh,",
+										"pt-BR": "E o Verbo se fez carne,",
+										"la": "Et Verbum caro factum est,"
+									},
+									"r": {
+										"en-US": "And dwelt among us.",
+										"pt-BR": "E habitou entre nós.",
+										"la": "Et habitávit in nobis."
+									}
+								}
+							]
+						},
+						{
+							"type": "prayer",
+							"ref": "hail-mary"
+						},
+						{
+							"type": "divider"
+						},
+						{
+							"type": "response",
+							"verses": [
+								{
+									"v": {
+										"en-US": "Pray for us, O holy Mother of God,",
+										"pt-BR": "Rogai por nós, Santa Mãe de Deus,",
+										"la": "Ora pro nobis, sancta Dei Génetrix,"
+									},
+									"r": {
+										"en-US": "That we may be made worthy of the promises of Christ.",
+										"pt-BR": "Para que sejamos dignos das promessas de Cristo.",
+										"la": "Ut digni efficiámur promissiónibus Christi."
+									}
+								}
+							]
+						},
+						{
+							"type": "divider"
+						},
+						{
+							"type": "rubric",
+							"text": {
+								"en-US": "Let us pray.",
+								"pt-BR": "Oremos.",
+								"la": "Orémus."
+							}
+						},
+						{
+							"type": "prayer",
+							"inline": {
+								"en-US": "Pour forth, we beseech Thee, O Lord, Thy grace into our hearts, that we, to whom the Incarnation of Christ Thy Son was made known by the message of an angel, may by His Passion and Cross be brought to the glory of His Resurrection. Through the same Christ our Lord. Amen.",
+								"la": "Grátiam tuam, quǽsumus, Dómine, méntibus nostris infúnde; ut qui, Ángelo nuntiánte, Christi Fílii tui incarnatiónem cognóvimus, per passiónem eius et crucem ad resurrectiónis glóriam perducámur. Per eúndem Christum Dóminum nostrum. Amen.",
+								"pt-BR": "Derramai, Senhor, a Vossa graça em nossas almas, para que nós, que pela anunciação do Anjo conhecemos a Encarnação de Cristo, Vosso Filho, pela Sua Paixão e Cruz sejamos levados à glória da Ressurreição. Pelo mesmo Cristo, Senhor nosso. Amém."
+							}
+						},
+						{
+							"type": "divider"
+						},
+						{
+							"type": "prayer",
+							"ref": "sign-of-cross"
+						}
+					]
+				},
+				{
+					"id": "regina-caeli",
+					"label": {
+						"en-US": "Regina Caeli",
+						"pt-BR": "Rainha do Céu"
+					},
+					"sections": [
+						{
+							"type": "rubric",
+							"text": {
+								"en-US": "During Eastertide, the Regina Caeli replaces the Angelus. Prayed standing — not kneeling — as a sign of Resurrection joy.",
+								"pt-BR": "No Tempo Pascal, a Rainha do Céu (Regina Caeli) substitui o Angelus. Rezada de pé — não ajoelhado — como sinal da alegria da Ressurreição."
+							}
+						},
+						{
+							"type": "prayer",
+							"ref": "sign-of-cross"
+						},
+						{
+							"type": "divider"
+						},
+						{
+							"type": "prayer",
+							"inline": {
+								"en-US": "Queen of Heaven, rejoice, alleluia:\nFor He whom thou wast made worthy to bear, alleluia,\nIs risen, as He said, alleluia.\nPray for us to God, alleluia.",
+								"la": "Regína cæli, lætáre, allelúia:\nQuia quem meruísti portáre, allelúia,\nResurréxit, sicut dixit, allelúia.\nOra pro nobis Deum, allelúia.",
+								"pt-BR": "Rainha do Céu, alegra-te, aleluia:\nPois aquele que mereceste trazer no teu seio, aleluia,\nRessuscitou como disse, aleluia.\nRoga por nós a Deus, aleluia."
+							}
+						},
+						{
+							"type": "divider"
+						},
+						{
+							"type": "response",
+							"verses": [
+								{
+									"v": {
+										"en-US": "Rejoice and be glad, O Virgin Mary, alleluia.",
+										"pt-BR": "Alegra-te e exulta, Virgem Maria, aleluia.",
+										"la": "Gaude et lætáre, Virgo María, allelúia."
+									},
+									"r": {
+										"en-US": "For the Lord is truly risen, alleluia.",
+										"pt-BR": "Porque o Senhor ressuscitou verdadeiramente, aleluia.",
+										"la": "Quia surréxit Dóminus vere, allelúia."
+									}
+								}
+							]
+						},
+						{
+							"type": "divider"
+						},
+						{
+							"type": "rubric",
+							"text": {
+								"en-US": "Let us pray.",
+								"pt-BR": "Oremos.",
+								"la": "Orémus."
+							}
+						},
+						{
+							"type": "prayer",
+							"inline": {
+								"en-US": "O God, who gave joy to the world through the resurrection of Thy Son, our Lord Jesus Christ, grant, we beseech Thee, that through His Mother, the Virgin Mary, we may obtain the joys of everlasting life. Through the same Christ our Lord. Amen.",
+								"la": "Deus, qui per resurrectiónem Fílii tui, Dómini nostri Iesu Christi, mundum lætificáre dignátus es: præsta, quǽsumus; ut per eius Genetrícem Vírginem Maríam, perpétuæ capiámus gáudia vitæ. Per eúndem Christum Dóminum nostrum. Amen.",
+								"pt-BR": "Ó Deus, que pela ressurreição de Vosso Filho, Nosso Senhor Jesus Cristo, destes alegria ao mundo inteiro, concedei-nos, por intercessão de Sua Mãe, a Virgem Maria, alcançar a alegria da vida eterna. Pelo mesmo Cristo Nosso Senhor. Amém."
+							}
+						},
+						{
+							"type": "divider"
+						},
+						{
+							"type": "prayer",
+							"ref": "sign-of-cross"
+						}
+					]
 				}
 			]
-		},
-		{
-			"type": "prayer",
-			"ref": "hail-mary"
-		},
-		{
-			"type": "divider"
-		},
-		{
-			"type": "response",
-			"verses": [
-				{
-					"v": {
-						"en-US": "Behold the handmaid of the Lord,",
-						"pt-BR": "Eis aqui a serva do Senhor,",
-						"la": "Ecce ancílla Dómini,"
-					},
-					"r": {
-						"en-US": "Be it done unto me according to Thy word.",
-						"pt-BR": "Faça-se em mim segundo a Vossa palavra.",
-						"la": "Fiat mihi secúndum verbum tuum."
-					}
-				}
-			]
-		},
-		{
-			"type": "prayer",
-			"ref": "hail-mary"
-		},
-		{
-			"type": "divider"
-		},
-		{
-			"type": "rubric",
-			"text": {
-				"en-US": "At the following verse, all bow profoundly. On the Annunciation (25 March) and on Christmas (25 December), all genuflect.",
-				"pt-BR": "No versículo seguinte, todos se inclinam profundamente. Na Anunciação (25 de março) e no Natal (25 de dezembro), todos se ajoelham."
-			}
-		},
-		{
-			"type": "response",
-			"verses": [
-				{
-					"v": {
-						"en-US": "And the Word was made flesh,",
-						"pt-BR": "E o Verbo se fez carne,",
-						"la": "Et Verbum caro factum est,"
-					},
-					"r": {
-						"en-US": "And dwelt among us.",
-						"pt-BR": "E habitou entre nós.",
-						"la": "Et habitávit in nobis."
-					}
-				}
-			]
-		},
-		{
-			"type": "prayer",
-			"ref": "hail-mary"
-		},
-		{
-			"type": "divider"
-		},
-		{
-			"type": "response",
-			"verses": [
-				{
-					"v": {
-						"en-US": "Pray for us, O holy Mother of God,",
-						"pt-BR": "Rogai por nós, Santa Mãe de Deus,",
-						"la": "Ora pro nobis, sancta Dei Génetrix,"
-					},
-					"r": {
-						"en-US": "That we may be made worthy of the promises of Christ.",
-						"pt-BR": "Para que sejamos dignos das promessas de Cristo.",
-						"la": "Ut digni efficiámur promissiónibus Christi."
-					}
-				}
-			]
-		},
-		{
-			"type": "divider"
-		},
-		{
-			"type": "rubric",
-			"text": {
-				"en-US": "Let us pray.",
-				"pt-BR": "Oremos.",
-				"la": "Orémus."
-			}
-		},
-		{
-			"type": "prayer",
-			"inline": {
-				"en-US": "Pour forth, we beseech Thee, O Lord, Thy grace into our hearts, that we, to whom the Incarnation of Christ Thy Son was made known by the message of an angel, may by His Passion and Cross be brought to the glory of His Resurrection. Through the same Christ our Lord. Amen.",
-				"la": "Grátiam tuam, quǽsumus, Dómine, méntibus nostris infúnde; ut qui, Ángelo nuntiánte, Christi Fílii tui incarnatiónem cognóvimus, per passiónem eius et crucem ad resurrectiónis glóriam perducámur. Per eúndem Christum Dóminum nostrum. Amen.",
-				"pt-BR": "Derramai, Senhor, a Vossa graça em nossas almas, para que nós, que pela anunciação do Anjo conhecemos a Encarnação de Cristo, Vosso Filho, pela Sua Paixão e Cruz sejamos levados à glória da Ressurreição. Pelo mesmo Cristo, Senhor nosso. Amém."
-			}
-		},
-		{
-			"type": "divider"
-		},
-		{
-			"type": "prayer",
-			"ref": "sign-of-cross"
 		}
 	]
 }
