@@ -1,6 +1,6 @@
 import { useMemo } from 'react'
 import { useTranslation } from 'react-i18next'
-import { Text, View, YStack } from 'tamagui'
+import { Text, useThemeName, View, YStack } from 'tamagui'
 
 import { formatLocalized } from '@/lib/i18n/dateLocale'
 import {
@@ -47,6 +47,9 @@ export function LiturgicalHeader({ date, season }: { date: Date; season: Liturgi
     return dayName
   }, [dayName, seasonDisplay, t])
 
+  const themeName = useThemeName()
+  const isDark = themeName.startsWith('dark')
+
   return (
     <YStack gap="$xs" alignItems="center">
       <Text fontFamily="$script" fontSize="$4" color="$colorSecondary" paddingTop="$sm">
@@ -58,7 +61,7 @@ export function LiturgicalHeader({ date, season }: { date: Date; season: Liturgi
         fontSize="$3"
         color="$color"
         textAlign="center"
-        paddingHorizontal="$xxl"
+        maxWidth={isDark ? '60%' : '45%'}
       >
         {prefix}
       </Text>

@@ -1,10 +1,11 @@
 import { format, subWeeks } from 'date-fns'
+import { Image } from 'expo-image'
 import { useRouter } from 'expo-router'
 import { AlertTriangle } from 'lucide-react-native'
 import { useCallback, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { Pressable } from 'react-native'
-import { Text, useTheme, XStack, YStack } from 'tamagui'
+import { Dimensions, Pressable } from 'react-native'
+import { Text, useTheme, useThemeName, View, XStack, YStack } from 'tamagui'
 
 import {
   AnimatedPressable,
@@ -57,6 +58,13 @@ import {
 } from '@/lib/liturgical'
 import { parseSlotKey } from '@/lib/slotKey'
 import { usePreferencesStore } from '@/stores/preferencesStore'
+
+const frameCornerDark = require('../../assets/textures/frame_corner_dark.png')
+const frameCornerLight = require('../../assets/textures/frame_corner_light.png')
+const screenWidth = Dimensions.get('window').width
+const cornerWidth = screenWidth
+const darkCornerHeight = cornerWidth / (1023 / 456)
+const lightCornerHeight = cornerWidth / (1584 / 672)
 
 export default function HomeScreen() {
   const { t } = useTranslation()
@@ -141,9 +149,26 @@ export default function HomeScreen() {
   const totalSlots = todaySlots.length
   const completedCount = todaySlots.filter((s) => completedIds.has(s.id)).length
 
+  const themeName = useThemeName()
+  const isDark = themeName.startsWith('dark')
+
   return (
     <ScreenLayout>
-      <YStack gap="$lg" paddingTop="$xs" paddingBottom="$lg">
+      <View
+        position="absolute"
+        top={isDark ? -12 : -63}
+        {...(isDark ? { right: -16 } : { left: -16 })}
+        pointerEvents="none"
+        zIndex={1}
+      >
+        <Image
+          source={isDark ? frameCornerDark : frameCornerLight}
+          style={{ width: cornerWidth, height: isDark ? darkCornerHeight : lightCornerHeight }}
+          contentFit="contain"
+          accessibilityElementsHidden
+        />
+      </View>
+      <YStack gap="$lg" paddingTop={20} paddingBottom="$lg">
         <YStack gap="$md">
           <LiturgicalHeader date={now} season={season} />
 
