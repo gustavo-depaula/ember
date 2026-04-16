@@ -154,13 +154,7 @@ export default function HomeScreen() {
 
   return (
     <ScreenLayout>
-      <View
-        position="absolute"
-        top={isDark ? -12 : -63}
-        {...(isDark ? { right: -16 } : { left: -16 })}
-        pointerEvents="none"
-        zIndex={1}
-      >
+      <View position="absolute" top={-63} left={-16} pointerEvents="none" zIndex={1}>
         <Image
           source={isDark ? frameCornerDark : frameCornerLight}
           style={{ width: cornerWidth, height: isDark ? darkCornerHeight : lightCornerHeight }}

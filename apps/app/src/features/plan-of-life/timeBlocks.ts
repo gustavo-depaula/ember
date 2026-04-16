@@ -21,6 +21,15 @@ export function groupByTimeBlock(slots: SlotState[]): Record<TimeBlock, BlockDef
     groups[block].slots.push(s)
   }
 
+  for (const block of blockOrder) {
+    groups[block].slots.sort((a, b) => {
+      if (!a.time && !b.time) return 0
+      if (!a.time) return 1
+      if (!b.time) return -1
+      return a.time.localeCompare(b.time)
+    })
+  }
+
   return groups
 }
 
