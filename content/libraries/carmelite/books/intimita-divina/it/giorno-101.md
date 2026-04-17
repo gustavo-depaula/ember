@@ -1,0 +1,129 @@
+## 101 — L'ESAME DI COSCIENZA
+
+### Presenza di Dio
+
+— O Signore, proietta sull'anima mia un raggio della tua luce, affinchè io possa vedermi come Tu stesso mi vedi e mi giudichi.
+
+### Meditazione
+
+1 — Per assicurare alia vita spirituale un ben ordinato
+e progressivo sviluppo, è necessario prendere coscienza
+delle proprie posizioni, ossia dei propri peccati, dei punti
+deboli, delle tendenze cattive, come pure dei progressi
+realizzati, dei buoni risultati ottenuti, delle tendenze al
+bene. Questa presa di coscienza del proprio stato interiore
+si fa appunto per mezzo dell'esame di coscienza che, così
+considerato, costituisce uno dei più importanti esercizi
+della vita spirituale, giacchè ha lo scopo di aiutare l’anima
+ad eliminare tutto pr che può ostacolare o ritardare il suo
+cammino verso Dio e di spronarla ad accelerare il passo
+verso di lui. Come non si può muover guerra ad un nemico
+ignoto e non si può conquistare una regione sconosciuta,
+così non si può combattere in noi il male, se prima non
+l'abbiamo individuato, e non si può conquistare la santità
+senza aver studiato il piano più adatto per conseguirla. In
+altre parole, l'esame di coscienza raggiunge il suo scopo
+uo l’anima che vi si è applicata può dire a se stessa:
+queste sono le tendenze che devo maggiormente sorvegliare per non cadere nel peccato, questi i punti deboli
+
+
+27 + L'ESAME DI COSCIENZA 97
+
+
+che devo rafforzare e, d’altra parte, queste sono le tendenze buone che devo coltivare, queste le virtù in cui devo
+maggiormente esercitarmi. In val modo l’anima potrà formulare propositi pratici ben determinati, che diventeranno
+poi particolare oggetto dei suoi ulteriori esami.
+
+chiaro che anzitutto dovranno essere ben conosciute e combattute le tendenze che possono portare al
+peccato mortale, ma poi anche quelle che conducono al
+peccato veniale o a semplici imperfezioni volontarie. Tutto
+ciò che è mancanza volontaria va progressivamente, ma
+decisamente, eliminato da un’anima che vuol giungere all'unione con Dio.
+
+
+2 — Nei suoi esami di coscienza, un’anima di vita
+interiore — supponendo che sia ormai libera dal peccato
+mortale — più che andare in cerca di tutte Je mancanze
+commesse, dota fissare la sua attenzione sul grado di volontarietà che vi è in esse, anche quando si trattasse di
+semplici imperfezioni, perchè sono appunto le mancanze
+deliberate che più impediscono il progresso spirituale e
+l’unione con Dio. Di tali mancanze dovrà cercare accuratamente la causa, il motivo, ed in tal modo spesso si
+renderà conto che, mentre le sue colpe esterne sono di
+vario genere — per esempio mancanze di carità, di pazienza, di obbedienza, di sincerità — tutte però proven-
+fono da un'unica causa; ad esempio dall’orgoglio o dal-
+
+‘accidia, che ne è Ja comune radice. Ed è proprio contro
+este ultime radici dei nostri peccati e imperfezioni che
+obbiamo puntare gli sforzi: bisogna combatterle direttamente non solo cercando di rintuzzarle con Ja mortifi-
+cazione, ma anche sviluppando in noi le virtù contrarie.
+i tratta, in altri termini, della lotta contro il difetto: 0 la
+ione dominante; lotta importantissima, perchè, mirando a distruggere il male nella sua radice, viene di per sè
+‘ad eliminare tante mancanze attuali.
+
+Quando poi l’anima non ha più da rimproverarsi peccati ed imperfezioni propriamente deliberati, deve rivol-
+
+
+gere la sua attenzione a quelli semiavvertiti, di cui, pur
+avendo una semicoscienza o coscienza confusa, non riesce
+ancora a liberarsi, malgrado i sinceri e ripetuti propositi
+di correggersi. In questi casi, oltre che continuare a combattere contro le radici delle proprie mancanze, è molto
+utile rafforzare sempre più il Jprgpostto di vincersi, perchè
+a misura in cui la volontà è decisa a correggersi, le mancanze che ancora sfuggono perdono di volontarietà e
+gue diventano sempre più evi, anzi spesso non sono
+
+e residui puramente naturali di abitudini contratte, ma
+già detestate.
+
+Altro punto importante da tener sempre presente nell'esame di coscienza è quello di sorvegliare e tener desta
+la tendenza verso la santità, il desiderio di far sempre quel
+che più piace a Dio, perchè questa è la molla della vita
+spirituale, della generosità. Come pure è ottimo metodo
+quello di esaminarsi più dal punto di vista di Dio che dal
+nostro, ossia domandarsi se il Signore può essere contento
+di noi e quale sarà il suo giudizio sulla nostra condotta.
+
+### Colloquio
+
+«O Dio dell'anima mia, chi sono io e quale? C'è colpa
+che non sia stata nelle mie azioni o, se non nelle mie azioni, nelle mie parole 0, se non nelle mie parole, nella miu
+volontà? Ma Tu, o Signore, sei buono e misericordiosa è
+la tua destra.
+
+«O Medico dell'anima mia, rivelami i frutti della mia
+confessione, Io mi confesso, perchè la confessione de’ miei
+mali... risvegli il mio cuore, che non s'addormenti; ma pur
+dicendo mon mi sento capace; si ridesti nell'amore della
+tua misericordia e nella dolcezza della tua grazia, per la
+quale ogni spirito infermo si sente forte e diviene consapevole della sua debolezza.
+
+«Ti amerò, o Signore, e ti renderò grazie ed esalterò
+il tuo nome; perchè mi perdonasti tante cattive azioni, Fu
+opera della tua grazia e della tua misericordia, se i miei
+
+
+27) L'ESAME DI COSCIENZA 7 9
+
+
+peccati sciogliesti come ghiaccio. Opera della tua grazia
+è pure tutto il male che non ho fatto. C'era peccato che
+io non sapessi commettere, i0 che ho amato la colpa perfino gratuitamente? E confesso che tutti i peccati mi fu-
+rono perdonati e quelli che spontaneamente commisi, e
+quelli che, col tuo aiuto, non commisi » (S. Agostino).
+© mio Dio, che con un solo atto della tua volontà
+‘hai creato la luce e la luce fu, ripeti su di me la tua onniportato parola creatrice: « fiat lux» e si farà luce nel-
+‘anima mia e nella luce tua potrò vedermi quale realmente
+sono al tuo tto. Ma la luce non basta a me, tanto
+debole e fiacco; ho bisogno di forza, o Signore; ho bisogno
+di volontà forte e decisa per detestare ogni forma di male,
+per detestare il mio egoismo, il mio orgoglio, la mia accidia, per rinnovare e rafforzare il proposito di vincermi
+per amor tuo. Sì, o Signore, col tuo aiuto voglio vincermi,
+non per la vana soddisfazione di sentirmi migliore, ma
+unicamente per farti piacere, per evitare la più piccola
+cosa che a te dispiaccia, per crescere nel tuo amore, per
+addentrarmi sempre più nella tua unione. O mio Dio, Perfezione infinita, avvolgi e penetra l’anima mia col riflesso
+della tua santità e come il sole col suo raggio illumina,
+purifica e feconda la terra, così. Tu illumina, urifica,
+santifica tutto il mio essere. Insegnami a guardarmi in
+te, a conoscermi in te, a considerare Je mie miserie al
+riflesso delle tue perfezioni infinite, a spalancare l’anima
+mia all’invasione della tua luce purificatrice, santificatrice.

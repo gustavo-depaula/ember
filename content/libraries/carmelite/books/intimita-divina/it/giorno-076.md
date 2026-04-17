@@ -1,0 +1,103 @@
+## 76 — CORRISPONDENZA ALLA VOCAZIONE
+
+### Presenza di Dio
+
+O Signore, che incessantemente mi chiami attirandomi a te, fa' che incessantemente io ti risponda con rinnovata generosità.
+
+### Meditazione
+
+1 — Dio chiama, ma non costringe, lascia all'uomo la
+piena libertà di dare il suo consenso, di accettare il suo
+invito divino. « Se vuoi essere perfetto... vieni e seguimi »
+(Mt. 19, 21), dice il Signore ad ogni anima prescelta, lasciando ad essa, come al giovane del Vangelo, la responsabilità di rispondere o no alla sua chiamata. Tuttavia,
+quando Dio chiama, è terribile chiudere il cuore alla sua
+voce e respingere il suo invito. Chi oserà allontanare da
+sè lo sguardo di predilezione che l'Altissimo gli ha rivolto
+chiamandolo alla sua sequela?
+
+Alla voce divina che chiama, deve rispondere la voce
+della creatura che con umiltà e gioia, con gratitudine e
+prontezza dice il suo sì pieno, totale: Ecce venio, «ecco
+io vengo per compiere, o Dio, la tua volontà » (Ebr. 10, 7).
+Alla scelta di Dio che per primo l'ha raggiunta, deve seguire la scelta della creatura che a sua volta elegge Dio
+quale sua unica porzione, unico possesso, unico amore, al
+di sopra di tutte le cose e di tutti gli affetti terreni. « Chi
+ama il padre o la madre più di me, non è degno di me»
+(Mt. 10, 37): Dio, nostro Creatore e Padrone assoluto, ha
+tutto il diritto di chiederci la rinuncia agli affetti più santi,
+di esigere che per amor suo si abbandonino il padre e la
+madre, i fratelli e le sorelle, la casa ed i beni. Del resto,
+se Dio ha stabilito che «l'uomo lasci suo padre e sua
+madre per unirsi con sua moglie» (cfr. Gen. 2, 24), perchè si penserà che sia troppo far questo, quando si tratta
+di darsi non ad una creatura, ma al Creatore?
+
+Il primo dovere che s'impone all'anima chiamata è
+dunque quello di rinunciare agli affetti, ai beni, ai godimenti terreni per seguire Dio, libera da ogni legame. In
+pratica, la misura della rinuncia effettiva non sarà uguale
+per tutti; molto più sarà chiesto al religioso che al semplice sacerdote, molto più alla claustrale che all'anima
+consacrata a Dio nel mondo, ma dal punto di vista dell'affetto la rinuncia o, meglio, il distacco del cuore deve
+essere uguale per tutti ed è sufficiente solo quando è totale
+e senza alcuna riserva.
+
+
+2 — Per corrispondere alla vocazione non basta lasciare il mondo, entrare in seminario o in religione, non
+basta essere ordinati sacerdoti o emettere i voti, ma bisogna
+studiarsi, giorno per giorno, di vivere all'altezza della propria vocazione, ossia di adeguare sempre più la propria vita
+alle esigenze della chiamata divina. Tutto nell'uomo è progressivo, tutto in noi, finchè viviamo quaggiù, è suscettibile
+di perfezionamento. In questo senso si può dire che anche
+la consacrazione a Dio, benchè resa stabile dagli Ordini
+sacri o dal legame dei voti, è soggetta a progresso, ossia
+deve diventare sempre più profonda e perfetta. In genere,
+l'anima, nel momento in cui si lega a Dio, pur intendendo
+sinceramente di darsi a lui in modo definitivo, non ha ancora realizzato la consacrazione piena e totale; in pratica,
+quell'anima non è ancora tutta « consacrata », in lei vi sono
+ancora tendenze, movimenti, affetti che sfuggono al pieno
+dominio di Dio: c'è ancora dell'io, dell'umano non interamente sottomesso al Signore, non del tutto « consacrato »,
+ossia non del tutto sacrificato all'Amore ed impegnato nel
+servizio di lui. Ebbene, ogni giorno che passa deve segnare
+un progresso nella realizzazione della propria vocazione,
+fino a che nell'anima non rimanga una sola fibra che non
+sia interamente di Dio.
+
+Del resto, la vocazione non è qualche cosa di statico
+neppure da parte di Dio, giacchè Egli, adattandosi alla
+nostra natura, chiama l'anima in modo progressivo, ossia,
+al primo invito, se essa è fedele, ne fa seguire altri più
+incalzanti e più concreti che impegnano l'anima sempre più
+a fondo. Fondamentalmente si tratta di un'unica chiamata
+— chiamata al sacerdozio, alla vita religiosa, alla consacrazione a Dio nel mondo — ma che, attraverso le varie circostanze della vita e soprattutto attraverso le nuove occasioni di sacrificio, Dio rivolge all'anima in modo sempre
+più preciso, più determinato, facendole vedere meglio fin
+dove deve spingere il dono di sè per raggiungere la pienezza della sua consacrazione. Se l'anima è fedele e risponde con generosità alla progressiva chiamata divina, Dio non
+cesserà di rivolgerle inviti sempre nuovi che le schiuderanno orizzonti sempre più vasti e luminosi, sì da farle
+vivere la sua consacrazione in una perenne giovinezza di
+fervore e di amore.
+
+### Colloquio
+
+«Ti possiedo per amore, o Gesù amantissimo, nè più ti
+lascerò. O Verbo di Dio, amore e vita vivificante, vivificami riparando in me tutto ciò che perdetti per mancanza
+d'amore. O Dio che mi creasti, creami di nuovo nell'amor
+tuo. O Dio che mi hai redento, supplisci Tu stesso a ciò
+che in me è decaduto nell'amore, redimendomi nuovamente. O Dio che mi hai acquistato nel Sangue di Cristo, santificami nella carità. O Dio amorevole che mi adottasti per
+figlia, sostenta l'anima mia secondo la generosità del tuo
+cuore. O Dio che mi scegliesti per te e non per altri, fa'
+che non sia d'altri, ma appartenga soltanto a te. O Dio che
+mi amasti gratuitamente e gratuitamente mi eleggesti, fa'
+che ti ami con tutto il cuore, con tutta l'anima, con tutte
+le forze.
+
+«O mio Fratello e Sposo Gesù, Re supremo, poni un
+tale sigillo sulla faccia dell'anima mia, che niente elegga in
+questo mondo, niente desideri, niente ami fuori di te. A
+tutto e a tutti ti preferisca per amore e per amore ti serva.
+
+«In te, che desidero amare sopra tutte le cose, io tutto
+ritrovi, e per amore sappia sempre mantenere ciò che ho
+promesso.
+
+« Fa' che io sia ammessa nel numero delle vergini sapienti e rimanga in aspettativa della tua venuta con la lampada accesa e ripiena d'olio, affinchè non mi turbi al tuo
+arrivo improvviso, ma sicura e lieta segua lo stuolo delle
+vergini che mi hanno preceduta. O Agnello senza macchia,
+fa' che io non sia esclusa dalla sala del banchetto insieme
+con le vergini stolte, ma ammessa con le sapienti al tuo
+seguito, per il merito di una perfetta fedeltà » (S. Geltrude).

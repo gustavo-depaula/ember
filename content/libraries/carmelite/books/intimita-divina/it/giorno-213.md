@@ -1,0 +1,100 @@
+## 213 — DALL'EUCARISTIA ALLA TRINITÀ
+
+### Presenza di Dio
+
+O Gesù eucaristico, guidami alla Trinità, aiutami a vivere con la Trinità.
+
+### Meditazione
+
+1. — Gesù è venuto a noi dal seno del Padre per condurci alla Trinità: questo è il fine dell'Incarnazione ed è
+pure il fine dell'Eucaristia che prolunga nel tempo il mistero dell’Incarnazione. Gesù nell'Eucaristia continua ad
+essere il Mediatore tra noi e la Trinità, continua a tenderci
+la mano per condurci ad essa e, venendo in noi nella S.
+Comunione, ci mette in contatto sempre più diretto con
+le tre Persone divine. Gesù, infatti, non viene in noi soltanto con la sua SS.ma Umanità, ma anche con la sua
+Divinità; viene in noi nell’integrità della sua Persona di
+Uomo-Dio e, come Dio, come Verbo, è sempre indissolubilmente unito al Padre ed allo Spirito Santo. Dall'Ostia consa-
+crata Gesù ci potrebbe ripetere quel che diceva un giorno sulla
+terra: «Chi mi ha mandato è con me e non mi ha lasciato
+solo» e più esplicitamente: «Io sono nel Padre e il Padre
+è in me» (Gv. 8, 29; 14, 10). Perciò, quando viene in
+noi nella S. Comunione, non viene solo, ma con lui viene
+il Padre e quindi anche lo Spirito Santo, appunto perchè
+le tre Persone divine, pur essendo distinte, sono indissolubili. La presenza della Trinità nell'anima nostra non
+si limita ai momenti in cui portiamo in noi Gesù Sacramentato, perchè le tre Persone divine inabitano in modo
+permanente nell'anima in grazia. Però, è ben vero che la
+
+Trinità è presente in un modo tutto particolare in Cristo,
+il Verbo incarnato, l’unico Uomo unito personalmente alla
+Trinità ed in cui abita tutta Ja pienezza della divinità, « in
+quo habitat omnis plenitudo divinitatis» (Lit. S. Cuore);
+quindi è certo che dove è Cristo, e perciò nell'anima no.
+stra nel momento della Comunione, lì la Trinità è presente in un modo speciale.
+
+2.—La SS.ma Trinità non è mai così presente nell'anima
+nostra come nei brevi momenti în cui abbiamo in noi Gesù
+Sacramentato; e non solo vi è presente ma vi dimora con compiacenza. Il Padre si compiace nel suo Figlio diletto che abita
+in noi e che Egli ci ha donato mediante l'Eucaristia; il Verbo si
+compiace nell'Umanità santissima di Gesù che è tutta e per
+sempre, sua; lo Spirito Santo si compiace in Cristo, suo
+tempio preferito e, a motivo di lui, gode di abitare in noi.
+Trovando in noi Gesù, tutta la SS.ma Trinità può finalmente rallegrarsi di dimorare nell'anima nostra e, ralle-
+grandosi, ci guarda con particolare amore e si effonde in
+noi con maggiore pienezza. Ogni Comunione viene. così
+at alimentare la nostra vita di unione non solo con Gesù,
+ma anche con la SS.ma Trinità; ogni Comunione aumenta
+la nostra capacità di accogliere in noi le tre Persone divine,
+di vivere ein società» con loro mediante rapporti sempre
+più intimi e profondi. La preghiera di Gesù: «Come Tu,
+Padre, sei in me e io sono in te, anch'essi siano uno in noi...
+Io in loro e Tu in me, affinchè siano perfetti nell'unità »
+(Gv. 17, 21 e 23) trova la sua massima realizzazione pro:
+prio in quei preziosi istanti în cui Gesù Sacramentato palpita in noi; ma anche quando la sua presenza sacramen-
+tale vien meno, non ne scompare l’effetto, ossia, questa
+più intima unione con la SS.ma Trinità.
+
+D'altra parte, mai così bene, come nei momenti in cui Gesù
+Sacramentato è presente nell'anima nostra, noi siamo în grado di offrire alla Trinità una dimora degna di lei, e non
+solo una dimora, ma anche dei doni, delle lodi, delle sup-
+
+ì
+
+pliche e delle adorazioni degne della sua maestà infinita.
+Possiamo infatti offrirle Gesù che è in noi, che è nostro,
+perchè la Trinità stessa ce l'ha donato ed Egli si è dato a
+noi con tutta la sua sostanza: Gesù, lode perfetta della
+SS.ma Trinità, Figlio diletto in cui le Persone divine ripongono tutta la Jesi compiacenza; e insieme con lui of
+friamo l'amore, le adorazioni, le suppliche, le lodi, le ri
+parazioni del suo Sacro Cuore. Come siamo ricchi quando
+Gesù è in noil Come iamo per lui e in lui onorare,
+esaltare, glorificare la 5S.ma Trinità!
+
+### Colloquio
+
+«O Gesù Cristo, vero Dio e vero Uomo! L'anima mia gioisce di ritrovare nel SS.mo Sacramento te, Dio increato, che ti
+fai uomo, che ti fai creatura! In questo Sacramento, o Cristo, io
+trovo congiunte la tua Umanità e la tua Divinità; dall'Umanità salgo alla Divi e da questa ridiscendo al
+l'Umanità. Vedo la Divinità ineffabile nella quale si contengono tutti i tesori della sapienza, della scienza, delle
+ricchezze incorruttibili. Vedo la fonte inesauribile delle
+delizie che solo saziano Ja mente nostra. Vedo la tua preziosissima Anima, o Gesù, con tutte le virtù e i doni dello
+Spirito Santo, oblazione santissima e immacolata; vedo il
+tuo Corpo santissimo, prezzo della nostra redenzione; vedo
+il Sangue tuo che ci purifica e vivifica; insomma, vi trovo
+preziosissimi tesori che non posso ridire per la loro gran
+dezza. "
+
+« Veramente questo Sacramento contiene te, o mio Dio,
+che gli Angeli ‘adorano, al cui cospetto tremano gli Spiriti
+e le Potestà formidabili. Oh, se noi potessimo vederti con
+terso occhio come essi ti vedono, con quanta riverenza ci
+accosteremmo a questo Sacramento, con quanta umiltà l'accoglieremmo dentro di noi! a
+
+O Santissima Trinità, Tu hai ordinato questo Sacramento per stringere a te l'oggetto del tuo amore, ossia per
+attirare a te l'anima della tua creatura e, staccandola da
+
+tutte le cose terrene, congiungerla a te, Dio increato, e così
+farla morire al peccato e darle vita spirituale ed eterna. O
+Santa Trinità, questo sacramento fu istituito dalla tua bontà
+infinita, affinchè noi fossimo uniti a te, e Tu a noi, affinchè nello stesso tempo, ti accogliessimo dentro di noi e
+fossimo da te accolti, ti portassimo in noi e fossimo da te
+portati!» (B. Angela da Foligno).

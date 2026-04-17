@@ -1,0 +1,123 @@
+## 177 — LA PREGHIERA DI MARIA
+
+### Presenza di Dio
+
+O Maria, che sei stata la fedele adoratrice di Dio, insegnami a vivere in continua preghiera.
+
+### Meditazione
+
+1. — Per comprendere qualche cosa della preghiera di
+Maria bisogna cercare di penetrare nel santuario della sua intima unione con Dio. Nessuno come lei ha vissuto in intimità
+col Signore. Intimità di madre anzitutto: chi potrà intuire
+gli stretti rapporti di Maria col Verbo Incamato, durante
+i mesi che lo portò nel suo seno verginale? Benchè all'esterno
+nulla la distingua dalle donne della sua condizione, pure
+nel segreto del suo cuore si svolge la più stretta vita di
+
+xv - LA PREGHIERA DI MARIA : 159
+unione che può esistere fra Dio e una pura creatura.
+«Omnis gloria ejus ab intus> (Sal. 44, 15), tutta la gloria
+e la grandezza di Maria è nel suo interno, vero santuario che
+cela il Santo dei Santi; Maria è il ciborio vivente del Verbo
+Incarnato, ciborio tutto palpitante d'amore, tutto immerso
+nell’adorazione. Portando in sè la «fornace ardente della
+carità», come potrà Maria non rimanerne tutta infiammata? E più s'infiamma d'amore più intuisce il mistero
+d'amore che si compie in lei: nessuno più di Maria ha
+to i segreti del Cuore di Cristo, nessuno più di
+lei ha avuto il senso della divinità di Gesù, delle suc
+grandezze infinite. Parimenti, nessuno più di lei ha sentito il bisogno struggente di darsi tutta a Lui, di perdersi
+in Lui come una tenue goccia nell'immensità dell'oceano.
+Ecco la preghiera incessante di Maria: adorazione perenne
+«el Verbo Umanato che porta nel suo seno; unione profonda con Cristo, continuo inabissarsi in Lui e trasformarsi
+in Lui per amore; continuo associarsi agli omaggi e alle
+lodi infinite che dal Cuore di Cristo salgono alla Trinità
+e continua offerta alla Trinità di queste lodi, le uniche
+degne della Maestà divina. Maria vive nell’adorazione del
+suo Gesù e, in unione a Lui, nell'adorazione della Trinità.
+C'è un momento della giornata in cui anche noi possiamo partecipare nel modo più pieno a questa preghiera
+di Maria, il momento della Comunione Eucaristica, quando
+anche a noi è dato di stringere Gesù vivo e vero nel
+nostro cuore. Come abbiamo bisogno che la Madonna
+c'insegni ad approfittare di sì gran dono! Che c'insegni ad
+inabissarci con lei nel suo e nostro Gesù fino a trasformarci in lui, che c'insegni ad associarci alle adorazioni che
+dal Cuore di Gesù salgono alla Trinità e che le offra con
+noi al Padre per supplire alle deficienze delle nostre!
+
+2. — Da Betlemme a Nazareth, Maria visse per trentanni nella dolce intimità famigliare con Gesù. Gesù è
+sempre il centro della sua attrazione, il centro dei suoi
+
+affetti, dei suoi pensieri, delle sue cure. Maria si muove
+intorno a Lui, guarda a Lui, cercando sempre di scoprire
+nuovi mezzi per fargli piacere, per servirlo ed amarlo con
+la massima dedizione. La sua volontà si muove all'unisono
+con la volontà di Gesù, il suo cuore palpita in perfetta
+armonia con quello di Lui; ella «è partecipe dei pensieri
+di Cristo, dei suoi nascosti desideri, di modo che si può
+dire che viva la vita stessa del Figlio» (Pio X, Enc. Ad
+diem illum). Come la vita di Maria, così la sua preghiera
+continua ad essere cristocentrica, ma Cristo la porta alla
+Trinità. E' stato proprio il mistero dell’Incarnazione che
+ha introdotto Maria nella pienezza della vita  trinitaria;
+le sue particolarissime relazioni con le tre Persone divine
+s'iniziano quando l'Angelo le annunzia che sarà la madre
+del Figlio dell’Altissimo e lo sarà per virtù dello Spirito
+Santo. Ecco la figlia diletta del Padre, la sposa dello Spirito
+Santo, la madre del Verbo, e queste relazioni non si restringono al periodo in cui Maria porta in sè il Verbo
+Incarnato, ma si estendono a tutta la sua vita. Ecco Maria
+«tempio della Trinità » (S. Caterina da Siena), Maria che,
+«dopo Gesù, e indubbiamente con la distanza che corre
+dall’infinito al finito, è la grande lode di gloria della
+SS.ma Trinità » (E.T. II, 15).
+
+Maria si presenta così come il modello più perfetto
+delle anime che aspirano all'intimità con Dio e nello
+stesso tempo ne è la guida più sicura. Ella ci guida a
+Gesù. e c’insegna a concentrare in Lui tutti i nostri affetti,
+a darci totalmente a Lui, fino a perderci ed a trasformarci
+in Lui; ma, per mezzo di Gesù, ci guida pure alla vita
+di unione con la Trinità. Anche l’anima nostra è, per
+la grazia che l’investe, tempio della Trinità e Maria
+c’insegna a vivere in questo tempio come perenni adoratori
+delle Persone divine che vi dimorano. « Non devo fare
+nessuno sforzo — diceva Suor Elisabetta della Trinità —
+per penetrare in questo mistero dell’inabitazione divina
+nella Vergine Santa; mi sembra di trovarvi il movimento
+
+abituale dell'anima mia che fu pure il suo: adorare in me
+il Dio nascosto» (Lettere). Dietro la guida di Maria, sia
+dato anche a noi di vivere in questo atteggiamento d’incessante adorazione della Trinità inabitante nell'anima. nostra.
+
+### Colloquio
+
+«Penso, o Maria, che cosa dovevi provare quando,
+dopo l’Incarnazione, possedevi in te il Verbo Umanato, il
+dono di Dio! Con quale silenzio, con quale raccolta adorazione dovevi inabissarti nel profondo dell'anima tua, per
+stringere in te quel Dio di cui eri Madre! Mi sembra; o
+Vergine santa, che il tuo atteggiamento durantè i mesi
+che precedettero la Natività di Gesù, sia il modello della
+anîme interiori, degli esseri che Dio ha scelto vivere
+al ‘di dentro’ in fondo all’abisso senza fondo. Èon quale
+pace, con quale raccoglimento ti recavi e ti portavi ad
+ogni cosa! ie divinizzavi anche le più ordinarie, poichè
+attraverso tutto Tu rimanevi l’adoratrice del dono di Dio!»
+(cfr. E.T. Lettere; I, 10).
+
+«O Maria, Tu sei il trono di Dio, l’ostensorio del suo
+amore. Sei l'ostensorio vivente di Gesù e quando io adoro
+Gesù in te è proprio un'adorazione del Santo Sacramento
+esposto, adoratio in ostensorio. O Maria, tutta la teologia
+conferma questo tuo bel nome: ostensorio di Cristo! Ostensorio di Cristo in Betlemme, nella Presentazione, in Cana,
+sulla Croce, nell’Eucaristia, in cielo. Sì, anche in cielo;
+non ti diciamo forse: «Dopo questo esilio, mostraci —
+ostende — Gesù, il frutto benedetto del tuo ventre? »... O
+Maria, insegnami a guardare, ad amare Gesù come lo
+guardi e lo ami Tu, insegnami a desiderarlo col tuo amore,
+a donarmi a Lui, ad essere tutto suo come Tu sei sua,
+insegnami ad adorare Gesù con i tuoi stessi sentimenti.
+© Madre dolcissima insegnami a trovare ed a pregare
+Gesù; riempimi di Gesù, trasformami in lui. O Maria,
+introducimi nella contemplazione della vita, dell’opera e
+della divinità del Figlio tuo. Sii Tu la via che mi conduce a
+Gesù, il vincolo che mi unisce a lui e che, con lui ed
+in lui, mi unisce alla SS.ma Trinità» (cfr. D. Edoardo
+Poppe).

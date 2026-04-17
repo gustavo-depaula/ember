@@ -1,0 +1,124 @@
+## 45 — «IO SONO LA VITA »
+
+### Presenza di Dio
+
+— O Gesù, fonte di vita, infondi sempre più la tua vita nell'anima mia.
+
+### Meditazione
+
+1 — Gesù ha annunciato così la sua missione: « Sono
+venuto, perchè abbiano la vita e l'abbiano più abbondantemente » (Gv. 10, 10). E qual'è la vita che Egli ci dona? È
+la vita della grazia, la quale è una partecipazione della vita
+divina.
+
+Gesù è il Verbo Incarnato, e in quanto Verbo possiede
+per natura la vita divina nell’identico modo e misura del
+
+Padre: « Come il Padre ha la vita in se stesso, così ha concesso anche al Figliolo di averla in sè » (Gv. 5, 26).
+Questa pienezza di vita divina, a motivo dell’unione
+ipostatica, si riverbera sull’Umanità di Cristo. Posta in contatto diretto con la Divinità, a cui è personalmente unita,
+
+
+l'Umanità santissima di Gesù viene inondata dalla vita divina, ossia ne riceve la massima partecipazione per mezzo di
+una «tale pienezza di grazia da non potersene concepire
+una maggiore » (Myst. Corp.). La grazia santificante che
+invade l’Anima di Gesù è così piena, perfetta, intensa, sovrabbondante che i teologi non esitano a chiamarla « grazia
+
+
+« infinita ». In Cristo, afferma S. Paolo, « piacque (al Padre)
+che abitasse ogni pienezza » (Col. 1, 19), e San Giovanni ce
+lo presenta «pienò di grazia e di verità» (Gv. 1,14). Ma
+Gesù non vuol tenere unicamente per sè queste immense
+ricchezze: Egli vuole avere dei fratelli a cui farne parte;
+per questo motivo abbraccia la sua dolorosissima Passione e
+morendo sulla Croce merita per noi, suoi membri, quella
+grazia che Egli possiede con tanta pienezza. Cristo diventa
+così per noi la fonte, e l’unica fonte, di grazia e di vita
+soprannaturale : Egli è talmente « pieno di grazia e di verità», che «della pienezza di lui tutti abbiamo ricevuto »
+(Gv. 1,14 e 16). Ecco dunque come giunge a noi la vita
+divina: dal Padre al Verbo, dal Verbo all’Umanità che
+Egli ha assunto nella sua Incarnazione, da questa Umanità, che è l'Umanità santa di Cristo, alle anime nostre.
+
+
+2 — Come tutto ciò che esiste fuori di Dio, così anche
+la grazia è creata da Dio. In quanto Dio, ossia come Verbo,
+Gesù è, insieme col Padre e con lo Spirito Santo, il creatore
+della grazia. Ma ora noi consideriamo Gesù in quanto, nostro Redentore, perciò come Uomo, e come tale Egli è il
+Mediatore della grazia, ossia Colui che ce l’ha meritata e
+ce la dispensa. Infatti Gesù, mediante l’infinito tesoro di
+grazia che possiede, ha potuto meritarla anche per noi. È
+non solo l'ha meritata una volta per sempre morendo per
+noi sulla Croce, ma continuamente l’applica alle anime nostre, la produce in noi: la grazia viene infusa e si sviluppa
+in noi per la sua azione viva ed attuale. In tal modo Gesù
+ci dà la vita, è per noi vita, unica fonte della nostra vita
+soprannaturale. Per questo motivo la grazia di Gesù si
+
+
+chiama «grazia capitale », ossia la grazia del Capo che la
+merita e la depone alle membra.
+
+Ed ecco due preziosissime conseguenze pratiche. Chi
+vuol avere la grazia, la vita soprannaturale, deve andare a
+Cristo, essere incorporato a lui e vivere in lui: « Chi ha il
+Figliolo ha la vita — insegna l’Evangelista — chi non ha il
+Figliolo non ha la vita » (/ Gv. 5, 12).
+
+La grazia che santifica le anime nostre è, nella sua essenza, identica a quella che orna la santissima Anima di
+Gesù (cfr. S. Tommaso, II°, q. 8, a. 5); senza dubbio
+la misura e la perfezione sono immensamente diverse, ma
+la natura è la medesima. Quindi la grazia ha in noi la stessa
+potenza santificatrice, le stesse tendenze che ha nell’Anima
+di Gesù: essa tende a santificarci, facendoci vivere in unione con Dio e per la sua gloria; Gesù, adunque, dandoci la
+grazia, ci ha veramente comunicato la sua vita, ha posto in
+noi il germe della sua santità e noi possiamo vivere una
+vita simile alla sua.
+
+### Colloquio
+
+© Gesù come è dolce per me contemplare la tua santissima Umanità ripiena di tutti i tesori della vita divina!
+Fissare il mio sguardo direttamente sulla tua Divinità di
+Verbo eterno è per me assai difficile, ma considerarla partecipata alla tua Umanità è più agevole e facile; qui il
+pensiero si riposa e non finisce di ammirare la tua grandezza, O Gesù, la tua Anima è talmente ricca di grazia, tal-
+mente luminosa, e piena di vita divina che in essa si riflette
+tutta la tua gloria di Unigenito del Padre e la tua Umanità mi appare quale unica mediatrice e fonte di tutta la
+grazia, di tutta la vita divina che può essere partecipata
+agli uomini. Ma poi questa Umanità, così santa, così glo-
+
+
+riosa, così unita a Dio, la contemplo straziata nel duro tormento della Croce: tutto ciò che è gloria è nascosto, non
+si vede che dolore, morte, annientamento totale. Ma dalle
+ferite sanguinanti ecco sgorgare una splendida fonte di vita :
+
+
+con la tua morte, o Gesù, hai meritato di comunicare a noi la
+grazia e ne sei diventato Tu stesso la nostra unica fonte.
+
+O Gesù, corro a te, a te mi accosto come l’assetato
+corre e si accosta alla sorgente delle acque. « Dammi, o Si-
+
+gnore, della tua acqua e non avrò sete in eterno, perchè
+L'acqua che Tu mi dai diventerà in me una fontana che
+zampillerà fino alla vita eterna » (cfr. Gv.4,13 e 14). O
+Gesù, i tuoi Apostoli, non volendo in alcun modo lasciarti,
+ti dicevano un giorno: « Tu solo hai parole di vita eterna »
+(ivi, 6,69); oh, ben più che parole di vita, Tu hai, anzi,
+sei la vita stessa, ed a noi la dispensi!
+
+Ma, Gesù, permettimi una domanda: se quella grazia
+santificante che mi viene da te e vivifica l’anima mia è,
+nella sua natura, la stessa che inonda la tua santissima Anima, perchè mai io sono così dissimile da te, così lontano
+dalla santità?
+
+Lo comprendo: se gratuitamente mi dai la tua grazia,
+non vuoi però che questa cresca in me senza il concorso
+della mia libera e buona volontà. Molto spesso c'è in me
+una dura lotta fra le esigenze della tua grazia e quelle della
+mia cattiva natura e, purtroppo, quante volte la natura ha
+il sopravvento sulla grazia! Signore, dammi forza per
+vincere e rinnegare me stesso ad ogni costo. Che la tua
+grazia, che la tua vita trionfi in me per la tua gloria, per la
+gloria della tua Opera redentrice.
+
+«Tutto il mio spirito, tutto il mio cuore, tutto il mio
+corpo; tutta la mia vita viva a te, mia dolce vita. T'amerò,
+Signore, mia virtù; t'amerò e vivrò non a me, ma a te».

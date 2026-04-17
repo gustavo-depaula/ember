@@ -1,0 +1,106 @@
+## 61 — LE OPERE DI GESÙ
+
+### Presenza di Dio
+
+Concedimi, o Gesù, di penetrare l'immensità delle tue opere.
+
+### Meditazione
+
+1 — «Le opere che il Padre mi ha dato da compiere,
+queste opere... io compio. — Bisogna che io compia le
+opere di Colui che mi ha mandato » (Gv. 5, 36; 9, 4). Gesù
+non ha altra mira che compiere la missione affidatagli dal
+Padre per la gloria del Padre stesso, per la redenzione dell'umanità. Egli arde dal desiderio — « desiderio desidera-
+vi» (Lc.22,15) — di adempiere fino in fondo tale opera
+e con questo vivo desiderio va incontro alla Passione ed
+abbraccia la croce.
+
+A ciascuno di noi Dio ha affidato una parte nella grande opera redentiva di Gesù: anime consacrate a Dio, noi
+siamo espressamente chiamate a collaborare all'opera di
+Cristo. Anzitutto dobbiamo collaborare con la grazia, affinchè i frutti della Redenzione vengano applicati in pieno
+alle anime nostre: questa è l'opera della nostra santificazione personale. Ma non basta, siamo chiamati a santifi-
+carci per santificare; ciascuno di noi ha una missione da
+compiere per il bene, per la santificazione di altre anime: si tratta di collaborare con Cristo per estendere
+al maggior numero possibile di anime i frutti della Redenzione. Questa è l'opera che il Padre celeste ci affida;
+dobbiamo applicarci ad essa con gli stessi sentimenti di
+Gesù: dedizione totale, generosa, esclusiva, capace di abbracciare anche i più grandi sacrifici. Ogni nostra azione
+vale in quanto ci porta alla realizzazione di quest'opera;
+tutto quello che non serve alla nostra santificazione o alla
+santificazione altrui, è inutile, è perdita di tempo, e perciò deve essere coraggiosamente eliminato.
+
+Ripetiamo assieme a Gesù: conviene che io adempia
+l'opera che il Padre mi ha affidato.
+
+
+2 — «Non sono solo, perchè il Padre è con me. Il
+Padre mio opera... ed io lavoro come lui... Come io intendo [dal Padre], giudico... Non faccio nulla da me, ma
+parlo sempre in conformità a quanto mi ha insegnato il
+Padre mio » (Gv. 16, 32; 5, 17-30; 8, 28).
+
+Gesù non solo si dà completamente alla missione affidatagli dal Padre, ma nel compiere tale missione, e in
+ogni particolare, agisce sempre in unione col Padre, in
+perfetta armonia con lui, sempre dipendendo da lui, unicamente secondo quanto da lui ascolta ed in lui vede. Le
+azioni di Gesù non fanno che tradurre in modo umano,
+tangibile, l'invisibile ed incessante opera del Padre: « quello che vede fare dal Padre, lo fa parimenti il Figlio » (ivi,
+5,19); «Le cose che io dico — afferma Gesù — le dico
+come il Padre me le ha dette » (ivi, 12, 50).
+
+Ogni anima in grazia può dire: non sono sola, perchè
+la Trinità è in me; in me il Padre, il Figlio, lo Spirito
+Santo. A somiglianza di quello di Gesù, il nostro atteggiamento deve essere: operare in continua dipendenza da
+Dio presente in noi. Ascoltare la sua voce intima, il movimento interiore della grazia e, secondo questa, agire; cer-
+care di giudicare secondo i giudizi di Dio, vedere tutte le
+cose nella sua luce e poi operare in modo che le nostre
+azioni siano sempre in armonia con le vedute, i disegni,
+il beneplacito di Dio. Anche noi, di ogni nostra azione,
+dovremmo poter dire: non faccio nulla da solo, agisco
+secondo quello che Dio m'ispira interiormente, secondo
+quel che in lui vedo e che a lui piace. Tutte le opere, anche
+le più grandi, che escono da questo quadro sono vane e sterili.
+
+### Colloquio
+
+O Gesù, metto la mia povera anima davanti alla tua:
+degnati di infonderle i tuoi sentimenti di zelo per le opere
+del Padre, di dedizione piena, incondizionata alla missione
+da lui ricevuta. Come vorrei compiere col tuo stesso zelo
+ed amore la piccolissima parte che mi è stata assegnata
+nella tua grandiosa opera redentrice! Ma ho bisogno che
+Tu m'insegni in che cosa deve consistere questo zelo per
+essere vero e fecondo.
+
+Mi fai capire che, anzitutto, devo impegnarmi per santificare me stesso, per correggere i miei difetti, per vincere
+le mie cattive tendenze; questo è il primo campo che additi al mio zelo. E poi m'insegni a darmi con generosità
+per il bene delle anime: preghiera e sacrificio sono le
+grandi armi che mi mostri, quelle stesse che Tu hai usato.
+Ma non ti accontenti che io pensi un po' in astratto ad
+aiutare anime lontane, vuoi anzitutto che mi occupi in
+concreto del bene di coloro che mi vivono accanto. O
+Gesù, dammi zelo e forza per sacrificarmi con generosità
+a favore del mio prossimo, dammi forza per rinunciare ai
+miei gusti ed ai miei comodi, onde adattarmi ai gusti altrui
+e mettermi a disposizione e a servizio degli altri. O Gesù,
+dolce ed umile di cuore, rendi il mio cuore simile al tuo,
+perchè solo con l'umiltà, con la dolcezza e la pazienza
+potrò compiere un vero apostolato.
+
+E poi mi dici ancora che il tuo zelo non vuole opere
+puramente umane, intraprese più per naturale inclinazione all'attività che per mozione della grazia. O Gesù, come
+in tutte le tue opere Tu dipendevi dal Padre e operavi secondo quel che in lui vedevi e da lui ascoltavi, così fa' che
+tutte le mie opere dipendano dalla luce e dall'ispirazione
+divina. Questa luce, quest'ispirazione sei Tu che me la dai,
+Tu che, come Verbo, sei in me insieme col Padre e con
+lo Spirito Santo. E poichè sei Verbo, Parola del Padre,
+non puoi essere muto, ma sei in me perchè io ti ascolti.
+«O Verbo eterno, Parola del mio Dio, voglio passar la mia
+vita ad ascoltarti! » (E.T. El.): ascoltarti per operare secondo i tuoi insegnamenti. O Verbo, Tu sei la luce in cui
+io devo tutto giudicare, tutto considerare; sei la parola che
+deve dirigere ogni mia azione. Tu sei il Maestro interiore
+sempre pronto ad istruirmi, purchè io t'ascolti! O sì, fa'
+che anche in mezzo all'attività, la mia anima sappia rimanere in ascolto della tua voce interiore. Io non sono solo,
+perchè Tu sei sempre con me, in me; fa' che io non agisca
+come se fossi solo, ma aiutami ad agire sempre con te,
+sempre dipendendo dalla tua luce, dalla tua parola.
+
+O Gesù, come Tu sempre guardavi e ascoltavi il Padre, così io voglio sempre guardare ed ascoltare te ed
+operare secondo quello che in te vedo e da te sento.

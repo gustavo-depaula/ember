@@ -1,0 +1,98 @@
+## 200 — IL SACRAMENTO DELL'UNIONE
+
+### Presenza di Dio
+
+O Gesù, che mi nutri col tuo Corpo e col tuo Sangue, fa' che io viva di te, della tua vita.
+
+### Meditazione
+
+1. — Nel suo discorso sul « pane di vita» Gesù stesso
+ci ha presentato l'Eucaristia come il sacramento della no-
+
+stra unione con lui: « Chi mangia la mia carne e beve il
+mio sangue rimane in me ed io in lui» (Gv. 6, 57). E' una
+vera compenetrazione di Cristo in noi e di noi in Cristo.
+Evidentemente, la vita di Gesù e la nostra, la Persona sua
+e la nostra restano distinte e, tuttavia, Egli penetra talmente
+in noi con la sua vita, col suo spirito, con la sua Divinità
+che noi rimaniamo immersi in lui e lui in noi. «Il Corpo
+e il Sangue di Cristo che noi mangiamo — afferma S. Ilario Vescovo — fanno sì che noi siamo in Cristo e Cristo
+in noi. Lui stesso, dunque, è in noi e noi in lui per la sua
+Carne e — conclusione meravigliosa — con lui è in Dio
+tutto ciò che noi siamo». Mai come nel momento della
+Comunione sacramentale noi siamo uniti a Gesù, da lui
+compenetrati, trasformati, deificati e tuffati nella Divinità:
+«con lui è in Dio tutto ciò che noi siamo».
+
+E' vero, anche mediante la fede e la grazia noi siamo
+uniti a Cristo ed inseriti in lui come suoi membri, ma
+questa unione, iniziata col battesimo, raggiunge la massima pienezza con l'Eucaristia. Per questo sacramento Gesù esi unisce a noi così che noi diventiamo uno stesso corpo
+con lui, e non solo mediante la fede, ma effettivamente
+e in realtà» (S. Giovanni Crisostomo). Anche l'unione a
+Cristo per la fede e per la grazia è unione effettiva, reale,
+ma nella Comunione abbiamo di più l'unione fisica con Cristo; allora, sia pure per brevi istanti, lo portiamo in noi
+come Maria SS.ma lo portò per nove mesi nel suo seno
+purissimo. E se a questa unione fisica si congiunge l'unione
+morale, che consiste nella piena conformità della nostra
+volontà, delle nostre aspirazioni alla volontà di Dio, al suo
+beneplacito, la Comunione diventa davvero per noi il momento della massima unione con Dio che possiamo rag:
+giungere su questa terra,
+
+2. — Ma Gesù va più oltre e, per spiegarci meglio la
+profonda unione che si stabilisce tra lui e l'anima del comunicante, non esita a paragonarla all'unione che esiste fra
+lui e il Padre suo. « Come il Padre, che vive, ha inviato
+me, ed io vivo per il Padre, così chi mangia me, vivrà per
+me» (Gv. 6, 57). Gesù vive perchè il Padre gli comunica
+la vita: tutta la vita di Gesù viene unicamente dal Padre,
+Egli non ha altra vita se non quella che il Padre gli partecipa. Parimenti, chi si nutre dell'Eucaristia vive della vita
+che Gesù gli comunica, ossia vive della vita di lui; vita che,
+senza dubbio, ha già ricevuto per mezzo del battesimo o
+della penitenza, ma che nella Comunione riceve con maggiore immediatezza da Gesù, poichè Egli stesso, in persona, viene a portarla in lui, anzi viene a viverla in lui.
+Gesù vive per il Padre, perchè il Padre è l’unica fonte della
+sua vita; e il comunicante vive per Gesù, perchè Gesù, facendosi suo cibo, diventa nel modo più diretto, più intimo, più profondo la sorgente della sua vita. Ma possiamo
+intendere le parole di Gesù anche sotto un altro aspetto:
+avendo ricevuto tutta la vita e tutto l'essere del Padre, Gesù
+vive per il Padre anche nel senso che vive unicamente per
+la sua gloria, impiegando tutto quel che ha ricevuto da lui
+per compiere la missione che Egli gli ha affidata, per fare
+la sua santa volontà. Così deve essere del comunicante: non
+deve più vivere per sè, non deve più vivere una vita egoistica, una vita ristretta a cure e ad interessi terreni, ma
+deve vivere per Gesù, per i suoi interessi, per la sua gloria.
+Deve vivere di Gesù, fonte della sua vita; deve vivere in
+Gesù che, nutrendolo ogni giorno con la sua Carne, lo stringe, l’unisce più intimamente a sè; deve vivere per Gesù
+impiegando per lui tutte le sue forze e le sue capacità, dandosi totalmente al suo servi Quella vita divina che Ge-
+
+sù ci comunica deve trovare nell'anima nostra il terreno
+adatto per svilupparsi appieno — terreno sgombro dalla superbia, dall’egoismo, dagli attacchi alle creature — e così
+produrre opere degne di Gesù ed a lui gradite. Come Gesù
+ha vissuto per la gloria del Padre «che lo ha mandato»
+(Gv. 7, 18), così noi dobbiamo vivere per la gloria di Cristo che, facendosi nostro cibo, ci partecipa la sua vita.
+
+### Colloquio
+
+«O Signore, fin dove ti conduce il tuo amore? Ti conduce fino a lasciare te stesso alla tua creatura, fino a Jasciarle il Corpo e Sangue tuo in cibo e bevanda. E per
+quanto? Oh, Dio mio, Tu stesso l'hai detto: fino alla consumazione dei secoli! Afinchè noi ti possiamo avere non
+una volta sola, non ogni anno, non ogni mese, non ogni
+settimana, no; ma ogni dì, ogni mattina ti possiamo ricevere e, ogni volta che vogliamo, ti possiamo avere dentro
+di noi e starcene con te a nostro piacere. O gran bontà del
+mio Sposo Verbo! O misera me, che ho tante ricchezze e
+ne faccio così poco frutto! Ma è più infelice chi non conosce questo dono e non si cura d'esserne privo per molti
+e molti anni, o chi lo riceve stando in peccato mortale, sì
+che quel Pane di vita diventa per lui cibo di morte. Per
+queste anime ti prego, Signore: non guardare ai loro de
+meriti, ma alla bontà tua; convertile affinchè riconoscano
+il torto grandissimo che fanno a se stesse, ed all’infinita bontà tua.
+
+«Ma quando l'anima, o Signore, ti riceve con le dovute disposizioni si può dire di lei quel che si dice di Maria SS.ma: “beata te, poichè porti nel tuo seno Colui che
+i cieli non possono contenere!’ E, siccome Maria è vestita
+di sole, così quest'anima che ti riceve in sè è vestita di sole,
+poichè Sole sei Tu, o Sole di giustizia, Cristo Dio nostro.
+
+«In quanto a me, o Signore, mi par d'esserti più obbligata per avermi lasciato te stesso in cibo, che per avermi
+creata, perchè se mi avessi creata e non m/avessi lasciato
+te che farei? E così mi mostri quanto hai voluto comunicarti a noi, poichè non ti sei contentato di comunicarti agli
+uomini stando in terra trent'anni, ma inoltre volesti Jasciarci il Corpo e il Sangue tuo, affinchè noi potessimo stare
+continuamente in te, e Tu in noi. E così, stando nell'anima, Tu la vai, per così dire, deificando, trasformando in
+te, continuamente la vai comunicando e la tieni unita a te »
+
+(S. M. Maddalena de’ Pazzi),

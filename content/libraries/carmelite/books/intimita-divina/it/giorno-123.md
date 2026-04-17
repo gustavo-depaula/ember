@@ -1,0 +1,111 @@
+## 123 — DIFFICOLTÀ DELL'OBBEDIENZA
+
+### Presenza di Dio
+
+— Insegnami, o Gesù, il segreto dell'obbedienza umile che si sottomette a qualsiasi superiore ed a qualsiasi comando.
+
+### Meditazione
+
+1 — Benchè l'obbedienza sia così preziosa da mettere
+tutta la vita nella volontà di Dio, tuttavia presenta anch'essa
+le sue difficoltà, le quali derivano in gran parte dal fatto
+che l'obbedienza stessa non ci viene immediatamente da
+Dio, bensì attraverso î suoi rappresentanti. Accade così
+che troppo spesso ci dimentichiamo. di vedere Dio nei
+superiori e di riconoscere nella loro la sua autorità, Quando, ad esempio — cosa che accade facilmente nella vita
+religiosa — ci sì trova ad avere come superiore un antico
+collega o forse anche un antico discepolo, più giovane e
+meno sperimentato di noi, di cui si conoscono molto bene
+le lacune e i difetti, si può esser tentati a non aver abbastanza stima della sua autorità, a non dare abbastanza yalore ai suoi ordini. Allora la vita di obbedienza diventa
+particolarmente difficile, si stenta a sottomettersi, non si
+ricorre al superiore con fiducia filiale e, quel che è peggio,
+si crede di avere ragione. Vi è invece un grosso sbaglio
+di prospettiva; si è dimenticato che il superiore, chiunque
+sia, riveste sempre un'autorità che viene da Dio e che si è
+posata su di lui unicamente perchè è stato chiamato a tale
+ufficio. Quest’autorità è invariabile ed ha lo stesso valore
+sia nel superiore anziano che in quello giovane, tanto in
+quello sperimentato e virtuoso come in chi lo è meno.
+In fondo, se ci troviamo in queste difficoltà, dobbiamo
+accusare la nostra mancanza di spirito soprannaturale, di
+spirito di fede, Giudichiamo le cose spirituali secondo le
+vedute naturali, dal punto di vista dei valori umani ed in
+tal modo ci è impossibile entrare bene nella yita di obbe-
+
+
+dienza, che è invece tutta basata su valori e motivi soprannaturali. Bisogna saper evadere dalle considerazioni umane
+sulla persona del superiore, dal pensiero delle sue qualità o
+dei suoi difetti, di quel che è stato în passato, ecc., per
+vedere in lui unicamente il rappresentante di Dio, l’autorità divina, È vero, ciò talvolta può richiedere lotta
+e sforzo veramente grandi e che tuttavia è assolutamente necessario intraprendere se non si vuol perdere il
+frutto della vita di obbedienza. È certo che quanto più
+ci sforzeremo di considerare nei superiori l'autorità che
+viene da Dio, tanto più la nostra obbedienza sarà perfetta
+e meritoria, è Dio stesso s'incaricherà di guidarci attraverso il loro governo.
+
+
+2 — Molte volte, per non dire sempre, alla mancanza
+di spirito so) tr si accoppia la mancanza di umiltà. Costa all’amor proprio dipen e sottomettersi; costa
+sottoporre le proprie cose al giudizio ed al governo di
+un’altra persona e rimettersi alle sue decisioni. Costa soprattutto quando il superiore può apparirci, almeno sotto
+certi aspetti, quasi inferiore a noi, inferiore per età, per
+cultura, Res esperienza, per capacità; ed ecco che l'io,
+punto nel suo orgoglio, recalcitra fortemente, mascherando la propria resistenza con mille scuse. Eppure anche qui
+vi è un grosso sbaglio, perchè, i sedie re che in
+realtà vi possano essere nel superiore alcune di queste inferiorità, non su di esse dobbiamo fermarci, ma solo sul
+fatto che il superiore è sempre tale nei nostri confronti
+erchè così Dio l’ha costituito. Superiore perchè Dio
+ha preposto al nostro governo, superiore perchè Dio gli
+ha dato la missione di dirigerci in suo luogo; le sue qualità
+o deficienze personali non incidono sulla superiorità che
+Dio gli ha conferita. Certamente il superiore, da parte sua,
+deve studiarsi di acquistare, qualora non Je possedesse, le
+virtà e le capacità necessarie all'esercizio dell'ufficio che
+ricopre, ma questo è affare suo; da parte nostra — da
+parte dei sudditi cioè — c'è da fare una cosa sola: sotto-
+
+
+mettersi con umiltà filiale, lasciarsi guidare, lasciarsi governare. È proprio questione di umiltà, perchè in fondo umiliarsi vuol dire abbassarsi, vuol dire mettersi al proprio
+posto e il posto del suddito di fronte ai superiori è sempre
+uello di un’umile dipendenza. Consideriamo. l'obbedienza
+di Gesù e vedremo in essa questo atteggiamento di umiltà
+portato al massimo: pur essendo Dio, « annichilì se stesso,
+assumendo la natura di schiavo e facendosi simile all’uomo; ... umiliò se stesso, fattosi obbediente sino alla, morte,
+e alla morte di croce » (Fil. 2, 7 e 8). Che cos'è il nostro
+abbassarci, che cos'è il nostro sottometterci e dipendere
+dai superiori in confronto ai profondi abbassamenti di
+Gesù che, essendo Dio, ha voluto farsi uomo, ha voluto
+vivere come un uomo qualsiasi, sottomettendosi alle sue
+stesse creature?
+Persuadiamoci che, se la nostra obbedienza è difettosa, quasi sempre ciò dipende da mancanza di umiltà.
+
+### Colloquio
+
+« Mio dolce Salvatore, potrò vederti obbediente, per
+amor mio, alle tue creature, e ricusare d'’esserlo io, per
+amor tuo, a coloro che ti rappresentano? Potrò vederti
+obbediente per amor mio fino alla morte, alla morte di
+croce, senza abbracciare amorosamente questa virtù e la
+croce in cui Tu la consumasti?
+
+«Voglio sforzarmi, quanto più posso, per imitare i
+tuoi esempi, obbedendo per amor tuo ad ogni creatura 0
+superiore o uguale o inferiore che sia, in tutte le cose,
+senza replica, mormorazione o ritardo, ma allegramente ed
+amorosamente. Perciò non voglio indagare per qual:motivo mi venga ordinata don 0 quella cosa, molto meno
+voglio considerare il modo in cui mi viene comandata o la
+persona che me la comanda, ma nel comando voglio considerare solo la tua volontà, lasciandomi, a tua imitazione,
+muovere in qualunque direzione, da qualsiasi persona, in
+
+
+cose piacevoli o penose, convenienti o disdicevoli. Non
+importa! Faccia di me l'obbedienza ciò che vuole.
+
+«O Gesù, che a prezzo della tua vita hai voluto riparare la disobbedienza di Adamo e la mia; o Gesù, che
+mediante la tua morte mi hai acquistato la grazia di saper
+obbedire, io non voglio più vita se non per sacrificarla a re
+mediante una continua e perfetta obbedienza » (S. Francesco di Sales).
+
+«O Signore, Tu vuoi, è vero, infondere l'obbedienza
+nei nostri cuori, ma ciò che l’impedisce è il non voler
+riconoscere che Tu parli ed operi nei su eriori; ed è ancora l'essere attaccati alla propria volontà » (S. M. Maddalena de’ Pazzi).

@@ -1,0 +1,2938 @@
+[
+  {
+    "index": 1,
+    "title": "IL SIGNORE VIENE DA LONTANO",
+    "liturgical_ref": "I domenica d'Avvento",
+    "file": "giorno-001.md",
+    "med_words": 480,
+    "col_words": 475
+  },
+  {
+    "index": 2,
+    "title": "26 1 SETTIMANA D'AVVENTO INVITO ALLA SANTITÀ",
+    "liturgical_ref": "",
+    "file": "giorno-002.md",
+    "med_words": 598,
+    "col_words": 529
+  },
+  {
+    "index": 3,
+    "title": "SANTITÀ PIENEZZA DELLA GRAZIA",
+    "liturgical_ref": "desti finalmente a maggiore generosità, a propositi più",
+    "file": "giorno-003.md",
+    "med_words": 516,
+    "col_words": 493
+  },
+  {
+    "index": 4,
+    "title": "LA CARITÀ ESSENZA DELLA SANTITÀ",
+    "liturgical_ref": "",
+    "file": "giorno-004.md",
+    "med_words": 615,
+    "col_words": 570
+  },
+  {
+    "index": 5,
+    "title": "SANTITÀ E VOLONTÀ DI DIO",
+    "liturgical_ref": "",
+    "file": "giorno-005.md",
+    "med_words": 646,
+    "col_words": 523
+  },
+  {
+    "index": 6,
+    "title": "LA SANTITÀ E I PROPRI DOVERI",
+    "liturgical_ref": "",
+    "file": "giorno-006.md",
+    "med_words": 505,
+    "col_words": 550
+  },
+  {
+    "index": 7,
+    "title": "IL MONTE DELLA PERFEZIONE",
+    "liturgical_ref": "",
+    "file": "giorno-007.md",
+    "med_words": 698,
+    "col_words": 501
+  },
+  {
+    "index": 8,
+    "title": "PRESTO IL SIGNORE VERRÀ",
+    "liturgical_ref": "II domenica d'Avvento",
+    "file": "giorno-008.md",
+    "med_words": 537,
+    "col_words": 473
+  },
+  {
+    "index": 9,
+    "title": "L’IMMACOLATA CONCEZIONE",
+    "liturgical_ref": "",
+    "file": "giorno-009.md",
+    "med_words": 582,
+    "col_words": 528
+  },
+  {
+    "index": 10,
+    "title": "54 Il SETTIMANA D'AVVENTO INVITO ALL’INTIMITÀ DIVINA",
+    "liturgical_ref": "",
+    "file": "giorno-010.md",
+    "med_words": 532,
+    "col_words": 502
+  },
+  {
+    "index": 11,
+    "title": "IN CERCA DI DIO",
+    "liturgical_ref": "",
+    "file": "giorno-011.md",
+    "med_words": 583,
+    "col_words": 556
+  },
+  {
+    "index": 12,
+    "title": "CERCARE DIO NELL’ ORAZIONE",
+    "liturgical_ref": "",
+    "file": "giorno-012.md",
+    "med_words": 562,
+    "col_words": 459
+  },
+  {
+    "index": 13,
+    "title": "64 Il SETTIMANA D'AVVENTO LA RICERCA DI DIO E I DOVERI QUOTIDIANI",
+    "liturgical_ref": "",
+    "file": "giorno-013.md",
+    "med_words": 559,
+    "col_words": 502
+  },
+  {
+    "index": 14,
+    "title": "LA VERGINE DELL’ INCARNAZIONE",
+    "liturgical_ref": "",
+    "file": "giorno-014.md",
+    "med_words": 561,
+    "col_words": 458
+  },
+  {
+    "index": 15,
+    "title": "",
+    "liturgical_ref": "III domenica d'Avvento",
+    "file": "giorno-015.md",
+    "med_words": 603,
+    "col_words": 527
+  },
+  {
+    "index": 16,
+    "title": "LA CUSTODIA DEI SENSI",
+    "liturgical_ref": "",
+    "file": "giorno-016.md",
+    "med_words": 664,
+    "col_words": 506
+  },
+  {
+    "index": 17,
+    "title": "17 + IL SILENZIO INTERIORE IL SILENZIO INTERIORE",
+    "liturgical_ref": "",
+    "file": "giorno-017.md",
+    "med_words": 550,
+    "col_words": 427
+  },
+  {
+    "index": 18,
+    "title": "80 Ill SETTIMANA D'AVVENTO CERCARE DIO IN FEDE",
+    "liturgical_ref": "",
+    "file": "giorno-018.md",
+    "med_words": 629,
+    "col_words": 513
+  },
+  {
+    "index": 19,
+    "title": "CERCARE DIO IN AMORE",
+    "liturgical_ref": "",
+    "file": "giorno-019.md",
+    "med_words": 1101,
+    "col_words": 0
+  },
+  {
+    "index": 20,
+    "title": "CERCARE DIO NELLE CREATURE",
+    "liturgical_ref": "",
+    "file": "giorno-020.md",
+    "med_words": 548,
+    "col_words": 453
+  },
+  {
+    "index": 21,
+    "title": "CERCARE DIO NELL’'ATTIVIT",
+    "liturgical_ref": "",
+    "file": "giorno-021.md",
+    "med_words": 486,
+    "col_words": 567
+  },
+  {
+    "index": 22,
+    "title": "ECCO VIENE IL SALVATORE",
+    "liturgical_ref": "IV domenica d'Avvento",
+    "file": "giorno-022.md",
+    "med_words": 480,
+    "col_words": 373
+  },
+  {
+    "index": 23,
+    "title": "INVITO ALL’APOSTOLATO",
+    "liturgical_ref": "",
+    "file": "giorno-023.md",
+    "med_words": 582,
+    "col_words": 414
+  },
+  {
+    "index": 24,
+    "title": "APOSTOLATO INTERIORE",
+    "liturgical_ref": "",
+    "file": "giorno-024.md",
+    "med_words": 607,
+    "col_words": 515
+  },
+  {
+    "index": 25,
+    "title": "L'AZIONE APOSTOLICA",
+    "liturgical_ref": "",
+    "file": "giorno-025.md",
+    "med_words": 515,
+    "col_words": 576
+  },
+  {
+    "index": 26,
+    "title": "IL MISTERO DELL’INCARNAZIONE",
+    "liturgical_ref": "dicembre",
+    "file": "giorno-026.md",
+    "med_words": 570,
+    "col_words": 506
+  },
+  {
+    "index": 27,
+    "title": "IL VERBO SI È FATTO CARNE",
+    "liturgical_ref": "dicembre",
+    "file": "giorno-027.md",
+    "med_words": 643,
+    "col_words": 424
+  },
+  {
+    "index": 28,
+    "title": "SI COMPIE IL GRAN MISTERO",
+    "liturgical_ref": "dicembre",
+    "file": "giorno-028.md",
+    "med_words": 562,
+    "col_words": 431
+  },
+  {
+    "index": 29,
+    "title": "È APPARSO IL SALVATORE",
+    "liturgical_ref": "dicembre",
+    "file": "giorno-029.md",
+    "med_words": 603,
+    "col_words": 427
+  },
+  {
+    "index": 30,
+    "title": "CREDERE ALL’AMORE",
+    "liturgical_ref": "dicembre",
+    "file": "giorno-030.md",
+    "med_words": 558,
+    "col_words": 468
+  },
+  {
+    "index": 31,
+    "title": "RICAMBIARE L'AMORE",
+    "liturgical_ref": "dicembre",
+    "file": "giorno-031.md",
+    "med_words": 508,
+    "col_words": 479
+  },
+  {
+    "index": 32,
+    "title": "GLORIA A DIO",
+    "liturgical_ref": "dicembre",
+    "file": "giorno-032.md",
+    "med_words": 587,
+    "col_words": 463
+  },
+  {
+    "index": 33,
+    "title": "PACE AGLI UOMINI",
+    "liturgical_ref": "dicembre",
+    "file": "giorno-033.md",
+    "med_words": 523,
+    "col_words": 521
+  },
+  {
+    "index": 34,
+    "title": "SEGNO DI CONTRADIZIONE ’",
+    "liturgical_ref": "domenica fra l'ottava della Natività",
+    "file": "giorno-034.md",
+    "med_words": 576,
+    "col_words": 484
+  },
+  {
+    "index": 35,
+    "title": "TRAFFICHIAMO IL TEMPO",
+    "liturgical_ref": "dicembre",
+    "file": "giorno-035.md",
+    "med_words": 1057,
+    "col_words": 0
+  },
+  {
+    "index": 36,
+    "title": "LA CIRCONCISIONE DEL SIGNORE",
+    "liturgical_ref": "gennaio",
+    "file": "giorno-036.md",
+    "med_words": 563,
+    "col_words": 424
+  },
+  {
+    "index": 37,
+    "title": "IL NOME DI GESÙ !",
+    "liturgical_ref": "gennaio",
+    "file": "giorno-037.md",
+    "med_words": 632,
+    "col_words": 375
+  },
+  {
+    "index": 38,
+    "title": "GESÙ MEDIATORE",
+    "liturgical_ref": "gennaio",
+    "file": "giorno-038.md",
+    "med_words": 623,
+    "col_words": 377
+  },
+  {
+    "index": 39,
+    "title": "",
+    "liturgical_ref": "",
+    "file": "giorno-039.md",
+    "med_words": 624,
+    "col_words": 453
+  },
+  {
+    "index": 40,
+    "title": "",
+    "liturgical_ref": "gennaio",
+    "file": "giorno-040.md",
+    "med_words": 601,
+    "col_words": 372
+  },
+  {
+    "index": 41,
+    "title": "154 TEMPO DI NATALE EPIFANIA",
+    "liturgical_ref": "gennaio",
+    "file": "giorno-041.md",
+    "med_words": 584,
+    "col_words": 428
+  },
+  {
+    "index": 42,
+    "title": "LA SACRA FAMIGLIA '",
+    "liturgical_ref": "I domenica dopo l'Epifania",
+    "file": "giorno-042.md",
+    "med_words": 606,
+    "col_words": 404
+  },
+  {
+    "index": 43,
+    "title": "GESÙ VITE VERA",
+    "liturgical_ref": "",
+    "file": "giorno-043.md",
+    "med_words": 632,
+    "col_words": 396
+  },
+  {
+    "index": 44,
+    "title": "IL CORPO MISTICO DI CRISTO",
+    "liturgical_ref": "",
+    "file": "giorno-044.md",
+    "med_words": 659,
+    "col_words": 471
+  },
+  {
+    "index": 45,
+    "title": "«IO SONO LA VITA »",
+    "liturgical_ref": "",
+    "file": "giorno-045.md",
+    "med_words": 675,
+    "col_words": 489
+  },
+  {
+    "index": 46,
+    "title": "L'INFLUSSO DI GESÙ",
+    "liturgical_ref": "",
+    "file": "giorno-046.md",
+    "med_words": 612,
+    "col_words": 454
+  },
+  {
+    "index": 47,
+    "title": "LO SPIRITO DI GESÙ",
+    "liturgical_ref": "",
+    "file": "giorno-047.md",
+    "med_words": 529,
+    "col_words": 424
+  },
+  {
+    "index": 48,
+    "title": "VIVERE IN CRISTO",
+    "liturgical_ref": "",
+    "file": "giorno-048.md",
+    "med_words": 553,
+    "col_words": 453
+  },
+  {
+    "index": 49,
+    "title": "IL PRIMO MIRACOLO DI GESÙ",
+    "liturgical_ref": "Il domenica dopo l'Epifania",
+    "file": "giorno-049.md",
+    "med_words": 541,
+    "col_words": 375
+  },
+  {
+    "index": 50,
+    "title": "«IO SONO LA VERITÀ »",
+    "liturgical_ref": "",
+    "file": "giorno-050.md",
+    "med_words": 445,
+    "col_words": 449
+  },
+  {
+    "index": 51,
+    "title": "LA DOTTRINA DI GESÙ",
+    "liturgical_ref": "",
+    "file": "giorno-051.md",
+    "med_words": 604,
+    "col_words": 431
+  },
+  {
+    "index": 52,
+    "title": "GESÙ CI RIVELA IL PADRE",
+    "liturgical_ref": "",
+    "file": "giorno-052.md",
+    "med_words": 634,
+    "col_words": 469
+  },
+  {
+    "index": 53,
+    "title": "GESÙ MAESTRO DI SANTITÀ",
+    "liturgical_ref": "",
+    "file": "giorno-053.md",
+    "med_words": 645,
+    "col_words": 434
+  },
+  {
+    "index": 54,
+    "title": "54 . LE ESIGENZE DELL'INSEGNAMENTO DI GESÙ LE ESIGENZE DELL’ INSEGNAMENTO DI GESÙ",
+    "liturgical_ref": "",
+    "file": "giorno-054.md",
+    "med_words": 578,
+    "col_words": 464
+  },
+  {
+    "index": 55,
+    "title": "LA POTENZA DEL MAESTRO DIVINO",
+    "liturgical_ref": "",
+    "file": "giorno-055.md",
+    "med_words": 610,
+    "col_words": 351
+  },
+  {
+    "index": 56,
+    "title": "GESÙ ACCOGLIE TUTTI",
+    "liturgical_ref": "TM domenica dopo l’Epifania",
+    "file": "giorno-056.md",
+    "med_words": 591,
+    "col_words": 439
+  },
+  {
+    "index": 57,
+    "title": "«IO SONO LA VIA»",
+    "liturgical_ref": "",
+    "file": "giorno-057.md",
+    "med_words": 567,
+    "col_words": 473
+  },
+  {
+    "index": 58,
+    "title": "«IO SONO NEL PADRE»",
+    "liturgical_ref": "",
+    "file": "giorno-058.md",
+    "med_words": 656,
+    "col_words": 414
+  },
+  {
+    "index": 59,
+    "title": "LA PREGHIERA DI GESÙ",
+    "liturgical_ref": "",
+    "file": "giorno-059.md",
+    "med_words": 550,
+    "col_words": 465
+  },
+  {
+    "index": 60,
+    "title": "GESÙ E LA VOLONTA DEL PADRE",
+    "liturgical_ref": "",
+    "file": "giorno-060.md",
+    "med_words": 616,
+    "col_words": 450
+  },
+  {
+    "index": 61,
+    "title": "LE OPERE DI GESÙ",
+    "liturgical_ref": "",
+    "file": "giorno-061.md",
+    "med_words": 578,
+    "col_words": 525
+  },
+  {
+    "index": 62,
+    "title": "GESÙ E LA GLORIA DEL PADRE",
+    "liturgical_ref": "",
+    "file": "giorno-062.md",
+    "med_words": 542,
+    "col_words": 448
+  },
+  {
+    "index": 63,
+    "title": "LA TEMPESTA SEDATA",
+    "liturgical_ref": "IV domenica dopo l'Epifania",
+    "file": "giorno-063.md",
+    "med_words": 573,
+    "col_words": 363
+  },
+  {
+    "index": 64,
+    "title": "GESÙ E GLI UOMINI",
+    "liturgical_ref": "",
+    "file": "giorno-064.md",
+    "med_words": 596,
+    "col_words": 350
+  },
+  {
+    "index": 65,
+    "title": "VIVERE CRISTO",
+    "liturgical_ref": "",
+    "file": "giorno-065.md",
+    "med_words": 614,
+    "col_words": 420
+  },
+  {
+    "index": 66,
+    "title": "GESÙ NOSTRO TUTTO",
+    "liturgical_ref": "",
+    "file": "giorno-066.md",
+    "med_words": 562,
+    "col_words": 427
+  },
+  {
+    "index": 67,
+    "title": "LA CHIESA",
+    "liturgical_ref": "",
+    "file": "giorno-067.md",
+    "med_words": 808,
+    "col_words": 300
+  },
+  {
+    "index": 68,
+    "title": "IL SACERDOZIO",
+    "liturgical_ref": "",
+    "file": "giorno-068.md",
+    "med_words": 761,
+    "col_words": 321
+  },
+  {
+    "index": 69,
+    "title": "I SACRAMENTI",
+    "liturgical_ref": "",
+    "file": "giorno-069.md",
+    "med_words": 720,
+    "col_words": 305
+  },
+  {
+    "index": 70,
+    "title": "IL VINCOLO DELLA PERFEZIONE",
+    "liturgical_ref": "V domenica dopo l'Epifania",
+    "file": "giorno-070.md",
+    "med_words": 803,
+    "col_words": 332
+  },
+  {
+    "index": 71,
+    "title": "IL BATTESIMO IL BATTESIMO",
+    "liturgical_ref": "",
+    "file": "giorno-071.md",
+    "med_words": 779,
+    "col_words": 339
+  },
+  {
+    "index": 72,
+    "title": "LA CRESIMA",
+    "liturgical_ref": "",
+    "file": "giorno-072.md",
+    "med_words": 783,
+    "col_words": 328
+  },
+  {
+    "index": 73,
+    "title": "LA PENITENZA ‘",
+    "liturgical_ref": "",
+    "file": "giorno-073.md",
+    "med_words": 780,
+    "col_words": 358
+  },
+  {
+    "index": 74,
+    "title": "L'ESTREMA UNZIONE",
+    "liturgical_ref": "",
+    "file": "giorno-074.md",
+    "med_words": 720,
+    "col_words": 322
+  },
+  {
+    "index": 75,
+    "title": "LA VOCAZIONE",
+    "liturgical_ref": "",
+    "file": "giorno-075.md",
+    "med_words": 765,
+    "col_words": 347
+  },
+  {
+    "index": 76,
+    "title": "CORRISPONDENZA ALLA VOCAZIONE",
+    "liturgical_ref": "",
+    "file": "giorno-076.md",
+    "med_words": 755,
+    "col_words": 1407
+  },
+  {
+    "index": 77,
+    "title": "LA PASSIONE DI GESÙ NUOVO PROGRAMMA",
+    "liturgical_ref": "domenica di Settuagesima",
+    "file": "giorno-077.md",
+    "med_words": 607,
+    "col_words": 433
+  },
+  {
+    "index": 78,
+    "title": "NECESSITÀ DELLA PURIFICAZIONE INTERIORE",
+    "liturgical_ref": "",
+    "file": "giorno-078.md",
+    "med_words": 682,
+    "col_words": 427
+  },
+  {
+    "index": 79,
+    "title": "GLI ATTACCHI VOLONTARI",
+    "liturgical_ref": "",
+    "file": "giorno-079.md",
+    "med_words": 763,
+    "col_words": 376
+  },
+  {
+    "index": 80,
+    "title": "L'ESSENZA DEL DISTACCO",
+    "liturgical_ref": "",
+    "file": "giorno-080.md",
+    "med_words": 683,
+    "col_words": 519
+  },
+  {
+    "index": 81,
+    "title": "LA VIA DEL NULLA",
+    "liturgical_ref": "",
+    "file": "giorno-081.md",
+    "med_words": 645,
+    "col_words": 382
+  },
+  {
+    "index": 82,
+    "title": "REGOLE DI SPOGLIAMENTO",
+    "liturgical_ref": "",
+    "file": "giorno-082.md",
+    "med_words": 721,
+    "col_words": 397
+  },
+  {
+    "index": 83,
+    "title": "LA NOTTE DEI SENSI",
+    "liturgical_ref": "",
+    "file": "giorno-083.md",
+    "med_words": 736,
+    "col_words": 401
+  },
+  {
+    "index": 84,
+    "title": "IL SEME DIVINO",
+    "liturgical_ref": "domenica di Sessagesima",
+    "file": "giorno-084.md",
+    "med_words": 647,
+    "col_words": 396
+  },
+  {
+    "index": 85,
+    "title": "",
+    "liturgical_ref": "",
+    "file": "giorno-085.md",
+    "med_words": 1028,
+    "col_words": 0
+  },
+  {
+    "index": 86,
+    "title": "LA POVERTÀ VOLONTARIA",
+    "liturgical_ref": "",
+    "file": "giorno-086.md",
+    "med_words": 570,
+    "col_words": 384
+  },
+  {
+    "index": 87,
+    "title": "LO SPIRITO DI POVERTÀ",
+    "liturgical_ref": "",
+    "file": "giorno-087.md",
+    "med_words": 731,
+    "col_words": 377
+  },
+  {
+    "index": 88,
+    "title": "LA CASTITÀ CAO I n",
+    "liturgical_ref": "",
+    "file": "giorno-088.md",
+    "med_words": 649,
+    "col_words": 436
+  },
+  {
+    "index": 89,
+    "title": "LA MODESTIA",
+    "liturgical_ref": "",
+    "file": "giorno-089.md",
+    "med_words": 614,
+    "col_words": 440
+  },
+  {
+    "index": 90,
+    "title": "cal SETTIMANA DI SESSAGESIMA LA CASTITÀ DEL CUORE",
+    "liturgical_ref": "",
+    "file": "giorno-090.md",
+    "med_words": 678,
+    "col_words": 426
+  },
+  {
+    "index": 91,
+    "title": "LA PREDIZIONE DELLA PASSIONE",
+    "liturgical_ref": "domenica di Quinquagesima",
+    "file": "giorno-091.md",
+    "med_words": 618,
+    "col_words": 351
+  },
+  {
+    "index": 92,
+    "title": "LA MORTIFICAZIONE CORPORALE",
+    "liturgical_ref": "maggior bene. Forza per non lasciarmi impressionare dalle",
+    "file": "giorno-092.md",
+    "med_words": 622,
+    "col_words": 1407
+  },
+  {
+    "index": 93,
+    "title": "LE CENERI",
+    "liturgical_ref": "",
+    "file": "giorno-093.md",
+    "med_words": 699,
+    "col_words": 370
+  },
+  {
+    "index": 94,
+    "title": "LA MORTE",
+    "liturgical_ref": "",
+    "file": "giorno-094.md",
+    "med_words": 784,
+    "col_words": 315
+  },
+  {
+    "index": 95,
+    "title": "PROVA DI AMORE",
+    "liturgical_ref": "",
+    "file": "giorno-095.md",
+    "med_words": 647,
+    "col_words": 364
+  },
+  {
+    "index": 96,
+    "title": "LO SPIRITO DI MORTIFICAZIONE",
+    "liturgical_ref": "",
+    "file": "giorno-096.md",
+    "med_words": 591,
+    "col_words": 1454
+  },
+  {
+    "index": 97,
+    "title": "LA CONVERSIONE",
+    "liturgical_ref": "",
+    "file": "giorno-097.md",
+    "med_words": 697,
+    "col_words": 333
+  },
+  {
+    "index": 98,
+    "title": "IL PECCATO",
+    "liturgical_ref": "",
+    "file": "giorno-098.md",
+    "med_words": 719,
+    "col_words": 402
+  },
+  {
+    "index": 99,
+    "title": "IL PECCATO VENIALE",
+    "liturgical_ref": "",
+    "file": "giorno-099.md",
+    "med_words": 651,
+    "col_words": 409
+  },
+  {
+    "index": 100,
+    "title": "L’ IMPERFEZIONE",
+    "liturgical_ref": "",
+    "file": "giorno-100.md",
+    "med_words": 625,
+    "col_words": 392
+  },
+  {
+    "index": 101,
+    "title": "L'ESAME DI COSCIENZA",
+    "liturgical_ref": "",
+    "file": "giorno-101.md",
+    "med_words": 692,
+    "col_words": 457
+  },
+  {
+    "index": 102,
+    "title": "LA CONFESSIONE",
+    "liturgical_ref": "",
+    "file": "giorno-102.md",
+    "med_words": 685,
+    "col_words": 377
+  },
+  {
+    "index": 103,
+    "title": "LA TRASFIGURAZIONE",
+    "liturgical_ref": "IT domenica di Quaresima",
+    "file": "giorno-103.md",
+    "med_words": 809,
+    "col_words": 316
+  },
+  {
+    "index": 104,
+    "title": "30. L'UMILTÀ È L'UMILTÀ",
+    "liturgical_ref": "",
+    "file": "giorno-104.md",
+    "med_words": 708,
+    "col_words": 383
+  },
+  {
+    "index": 105,
+    "title": "IL NOSTRO POSTO",
+    "liturgical_ref": "",
+    "file": "giorno-105.md",
+    "med_words": 777,
+    "col_words": 429
+  },
+  {
+    "index": 106,
+    "title": "UMILTÀ E FIDUCIA",
+    "liturgical_ref": "",
+    "file": "giorno-106.md",
+    "med_words": 1149,
+    "col_words": 0
+  },
+  {
+    "index": 107,
+    "title": "UMILTÀ NELLE CADUTE",
+    "liturgical_ref": "",
+    "file": "giorno-107.md",
+    "med_words": 715,
+    "col_words": 313
+  },
+  {
+    "index": 108,
+    "title": "LE UMILIAZIONI",
+    "liturgical_ref": "",
+    "file": "giorno-108.md",
+    "med_words": 631,
+    "col_words": 420
+  },
+  {
+    "index": 109,
+    "title": "L'UMILTÀ DEL CUORE",
+    "liturgical_ref": "",
+    "file": "giorno-109.md",
+    "med_words": 704,
+    "col_words": 394
+  },
+  {
+    "index": 110,
+    "title": "LA FORZA DI GESÙ",
+    "liturgical_ref": "IM domenica di Quaresima",
+    "file": "giorno-110.md",
+    "med_words": 768,
+    "col_words": 129
+  },
+  {
+    "index": 111,
+    "title": "L'ULTIMO POSTO",
+    "liturgical_ref": "",
+    "file": "giorno-111.md",
+    "med_words": 661,
+    "col_words": 335
+  },
+  {
+    "index": 112,
+    "title": "LA VITA NASCOSTA",
+    "liturgical_ref": "",
+    "file": "giorno-112.md",
+    "med_words": 661,
+    "col_words": 418
+  },
+  {
+    "index": 113,
+    "title": "NASCONDERSI A SE STESSI",
+    "liturgical_ref": "",
+    "file": "giorno-113.md",
+    "med_words": 716,
+    "col_words": 479
+  },
+  {
+    "index": 114,
+    "title": "NASCONDERSI CON CRISTO IN DIO",
+    "liturgical_ref": "",
+    "file": "giorno-114.md",
+    "med_words": 840,
+    "col_words": 414
+  },
+  {
+    "index": 115,
+    "title": "144 Il SETTIMANA DI QUARESIMA LA VERA GLORIA",
+    "liturgical_ref": "",
+    "file": "giorno-115.md",
+    "med_words": 708,
+    "col_words": 389
+  },
+  {
+    "index": 116,
+    "title": "NON SCUSARSI",
+    "liturgical_ref": "",
+    "file": "giorno-116.md",
+    "med_words": 719,
+    "col_words": 370
+  },
+  {
+    "index": 117,
+    "title": "Tu? » (T.G. Com. 15,5 € 6) LA MOLTIPLICAZIONE DEI PANI",
+    "liturgical_ref": "IV domenica di Quaresima",
+    "file": "giorno-117.md",
+    "med_words": 684,
+    "col_words": 392
+  },
+  {
+    "index": 118,
+    "title": "IL VALORE DELL’ OBBEDIENZA",
+    "liturgical_ref": "",
+    "file": "giorno-118.md",
+    "med_words": 702,
+    "col_words": 378
+  },
+  {
+    "index": 119,
+    "title": "VIENI E SEGUIMI",
+    "liturgical_ref": "",
+    "file": "giorno-119.md",
+    "med_words": 689,
+    "col_words": 365
+  },
+  {
+    "index": 120,
+    "title": "LIBERA IMMOLAZIONE DELLA LIBERTÀ",
+    "liturgical_ref": "",
+    "file": "giorno-120.md",
+    "med_words": 749,
+    "col_words": 367
+  },
+  {
+    "index": 121,
+    "title": "OBBEDIENZA SOPRANNATURALE",
+    "liturgical_ref": "",
+    "file": "giorno-121.md",
+    "med_words": 721,
+    "col_words": 401
+  },
+  {
+    "index": 122,
+    "title": "OBBEDIENZA CIECA",
+    "liturgical_ref": "",
+    "file": "giorno-122.md",
+    "med_words": 677,
+    "col_words": 327
+  },
+  {
+    "index": 123,
+    "title": "49.- DIFFICOLTA DELL'OBBEDIENZA DIFFICOLTÀ DELL’ OBBEDIENZA",
+    "liturgical_ref": "",
+    "file": "giorno-123.md",
+    "med_words": 766,
+    "col_words": 288
+  },
+  {
+    "index": 124,
+    "title": "GESÙ PERSEGUITATO",
+    "liturgical_ref": "tua. Risurrezione.",
+    "file": "giorno-124.md",
+    "med_words": 723,
+    "col_words": 340
+  },
+  {
+    "index": 125,
+    "title": "IL VALORE DELLA SOFFERENZA",
+    "liturgical_ref": "",
+    "file": "giorno-125.md",
+    "med_words": 738,
+    "col_words": 342
+  },
+  {
+    "index": 126,
+    "title": "LA PAZIENZA",
+    "liturgical_ref": "",
+    "file": "giorno-126.md",
+    "med_words": 701,
+    "col_words": 396
+  },
+  {
+    "index": 127,
+    "title": "LA CROCE QUOTIDIANA",
+    "liturgical_ref": "",
+    "file": "giorno-127.md",
+    "med_words": 698,
+    "col_words": 387
+  },
+  {
+    "index": 128,
+    "title": "SOFFERENZA E ABBANDONI",
+    "liturgical_ref": "",
+    "file": "giorno-128.md",
+    "med_words": 777,
+    "col_words": 289
+  },
+  {
+    "index": 129,
+    "title": "I SETTE DOLORI DI MARIA",
+    "liturgical_ref": "venerdì della settimana di Passione",
+    "file": "giorno-129.md",
+    "med_words": 679,
+    "col_words": 369
+  },
+  {
+    "index": 130,
+    "title": "L'AMORE ALLA CROCE",
+    "liturgical_ref": "",
+    "file": "giorno-130.md",
+    "med_words": 713,
+    "col_words": 366
+  },
+  {
+    "index": 131,
+    "title": "IL TRIONFO DI GESÙ",
+    "liturgical_ref": "domenica delle Palme",
+    "file": "giorno-131.md",
+    "med_words": 713,
+    "col_words": 434
+  },
+  {
+    "index": 132,
+    "title": "LA CENA DI BETANIA",
+    "liturgical_ref": "lunedì santo",
+    "file": "giorno-132.md",
+    "med_words": 777,
+    "col_words": 410
+  },
+  {
+    "index": 133,
+    "title": "L' AGNELLO MANSUETO",
+    "liturgical_ref": "martedì santo",
+    "file": "giorno-133.md",
+    "med_words": 777,
+    "col_words": 318
+  },
+  {
+    "index": 134,
+    "title": "60. L'UOMO DEI DOLORI L’UOMO DEI DOLORI",
+    "liturgical_ref": "mercoledì. santo",
+    "file": "giorno-134.md",
+    "med_words": 874,
+    "col_words": 314
+  },
+  {
+    "index": 135,
+    "title": "IL DONO DELL’AMORE",
+    "liturgical_ref": "giovedì santo",
+    "file": "giorno-135.md",
+    "med_words": 825,
+    "col_words": 385
+  },
+  {
+    "index": 136,
+    "title": "IL MISTERO DELLA CROCE",
+    "liturgical_ref": "venerdì santo",
+    "file": "giorno-136.md",
+    "med_words": 971,
+    "col_words": 402
+  },
+  {
+    "index": 137,
+    "title": "LA VITTORIA DELLA CROCE",
+    "liturgical_ref": "sabato santo",
+    "file": "giorno-137.md",
+    "med_words": 886,
+    "col_words": 363
+  },
+  {
+    "index": 138,
+    "title": "FES'TE FISSE LA PURIFICAZIONE DI MARIA",
+    "liturgical_ref": "febbraio",
+    "file": "giorno-138.md",
+    "med_words": 569,
+    "col_words": 356
+  },
+  {
+    "index": 139,
+    "title": "S. GIUSEPPE PATRONO DELLA CHIESA",
+    "liturgical_ref": "marzo",
+    "file": "giorno-139.md",
+    "med_words": 736,
+    "col_words": 361
+  },
+  {
+    "index": 140,
+    "title": "VITA DI FEDE IN S, GIUSEPPE",
+    "liturgical_ref": "",
+    "file": "giorno-140.md",
+    "med_words": 595,
+    "col_words": 394
+  },
+  {
+    "index": 141,
+    "title": "L'’ANNUNCIAZIONE DI MARIA",
+    "liturgical_ref": "marzo",
+    "file": "giorno-141.md",
+    "med_words": 766,
+    "col_words": 1836
+  },
+  {
+    "index": 142,
+    "title": "LA PASQUA DEL SIGNORE",
+    "liturgical_ref": "Domenica di Risurrezione",
+    "file": "giorno-142.md",
+    "med_words": 727,
+    "col_words": 328
+  },
+  {
+    "index": 143,
+    "title": "RESTA CON NOI",
+    "liturgical_ref": "Lunedì di Pasqua",
+    "file": "giorno-143.md",
+    "med_words": 665,
+    "col_words": 322
+  },
+  {
+    "index": 144,
+    "title": "CHI CERCHI ?",
+    "liturgical_ref": "Martedì di Pasqua",
+    "file": "giorno-144.md",
+    "med_words": 775,
+    "col_words": 261
+  },
+  {
+    "index": 145,
+    "title": "L'ACQUA VIVA",
+    "liturgical_ref": "",
+    "file": "giorno-145.md",
+    "med_words": 753,
+    "col_words": 1528
+  },
+  {
+    "index": 146,
+    "title": "LA NOSTRA PREPARAZIONE",
+    "liturgical_ref": "",
+    "file": "giorno-146.md",
+    "med_words": 730,
+    "col_words": 374
+  },
+  {
+    "index": 147,
+    "title": "LA PREGHIERA",
+    "liturgical_ref": "",
+    "file": "giorno-147.md",
+    "med_words": 691,
+    "col_words": 355
+  },
+  {
+    "index": 148,
+    "title": "FRUTTI PASQUALI",
+    "liturgical_ref": "Domenica in Albis",
+    "file": "giorno-148.md",
+    "med_words": 692,
+    "col_words": 1406
+  },
+  {
+    "index": 149,
+    "title": "LA LETTURA MEDITATA",
+    "liturgical_ref": "",
+    "file": "giorno-149.md",
+    "med_words": 611,
+    "col_words": 366
+  },
+  {
+    "index": 150,
+    "title": "LA MEDITAZIONE",
+    "liturgical_ref": "",
+    "file": "giorno-150.md",
+    "med_words": 659,
+    "col_words": 1573
+  },
+  {
+    "index": 151,
+    "title": "ORAZIONE DI RACCOGLIMENTO",
+    "liturgical_ref": "",
+    "file": "giorno-151.md",
+    "med_words": 1825,
+    "col_words": 353
+  },
+  {
+    "index": 152,
+    "title": "IL BUON PASTORE",
+    "liturgical_ref": "II Domenica dopo Pasqua",
+    "file": "giorno-152.md",
+    "med_words": 735,
+    "col_words": 1427
+  },
+  {
+    "index": 153,
+    "title": "DECISIONE RISOLUTA",
+    "liturgical_ref": "",
+    "file": "giorno-153.md",
+    "med_words": 703,
+    "col_words": 462
+  },
+  {
+    "index": 154,
+    "title": "PATROCINIO DI S. GIUSEPPE",
+    "liturgical_ref": "Mercoledì della II sett. dopo Pasqua",
+    "file": "giorno-154.md",
+    "med_words": 767,
+    "col_words": 383
+  },
+  {
+    "index": 155,
+    "title": "ARIDITÀ E CONTEMPLAZIONE",
+    "liturgical_ref": "",
+    "file": "giorno-155.md",
+    "med_words": 745,
+    "col_words": 1568
+  },
+  {
+    "index": 156,
+    "title": "CONDOTTA PRATICA",
+    "liturgical_ref": "",
+    "file": "giorno-156.md",
+    "med_words": 1055,
+    "col_words": 0
+  },
+  {
+    "index": 157,
+    "title": "PELLEGRINI DI DIO",
+    "liturgical_ref": "III Domenica dopo Pasqua",
+    "file": "giorno-157.md",
+    "med_words": 793,
+    "col_words": 374
+  },
+  {
+    "index": 158,
+    "title": "INI SETTIMANA DOPO PASQUA VITA DI ORAZIONE",
+    "liturgical_ref": "",
+    "file": "giorno-158.md",
+    "med_words": 662,
+    "col_words": 366
+  },
+  {
+    "index": 159,
+    "title": "",
+    "liturgical_ref": "",
+    "file": "giorno-159.md",
+    "med_words": 769,
+    "col_words": 376
+  },
+  {
+    "index": 160,
+    "title": "SPIRITO DI FEDE",
+    "liturgical_ref": "",
+    "file": "giorno-160.md",
+    "med_words": 712,
+    "col_words": 388
+  },
+  {
+    "index": 161,
+    "title": "LA PREGHIERA LITURGICA",
+    "liturgical_ref": "",
+    "file": "giorno-161.md",
+    "med_words": 687,
+    "col_words": 367
+  },
+  {
+    "index": 162,
+    "title": "LA S. MESSA",
+    "liturgical_ref": "",
+    "file": "giorno-162.md",
+    "med_words": 685,
+    "col_words": 1608
+  },
+  {
+    "index": 163,
+    "title": "LA GRANDE PROMESSA",
+    "liturgical_ref": "IV Domenica dopo Pasqua",
+    "file": "giorno-163.md",
+    "med_words": 658,
+    "col_words": 399
+  },
+  {
+    "index": 164,
+    "title": "L'UFFICIO DIVINO",
+    "liturgical_ref": "",
+    "file": "giorno-164.md",
+    "med_words": 717,
+    "col_words": 1428
+  },
+  {
+    "index": 165,
+    "title": "ANCELLA DEL SIGNORE",
+    "liturgical_ref": "",
+    "file": "giorno-165.md",
+    "med_words": 705,
+    "col_words": 410
+  },
+  {
+    "index": 166,
+    "title": "SPOSA DELLO SPIRITO SANTO",
+    "liturgical_ref": "",
+    "file": "giorno-166.md",
+    "med_words": 681,
+    "col_words": 363
+  },
+  {
+    "index": 167,
+    "title": "MADRE DI DIO",
+    "liturgical_ref": "",
+    "file": "giorno-167.md",
+    "med_words": 729,
+    "col_words": 369
+  },
+  {
+    "index": 168,
+    "title": "MADRE NOSTRA",
+    "liturgical_ref": "",
+    "file": "giorno-168.md",
+    "med_words": 714,
+    "col_words": 447
+  },
+  {
+    "index": 169,
+    "title": "LA PREGHIERA EFFICACE",
+    "liturgical_ref": "V Domenica dopo Pasqua",
+    "file": "giorno-169.md",
+    "med_words": 693,
+    "col_words": 367
+  },
+  {
+    "index": 170,
+    "title": "VITA MARIANA VII - VITA MARIANA",
+    "liturgical_ref": "",
+    "file": "giorno-170.md",
+    "med_words": 695,
+    "col_words": 349
+  },
+  {
+    "index": 171,
+    "title": "L'UMILTÀ DI MARIA",
+    "liturgical_ref": "",
+    "file": "giorno-171.md",
+    "med_words": 734,
+    "col_words": 356
+  },
+  {
+    "index": 172,
+    "title": "1X - LA FEDE DI MARIA LA FEDE DI MARIA",
+    "liturgical_ref": "",
+    "file": "giorno-172.md",
+    "med_words": 676,
+    "col_words": 336
+  },
+  {
+    "index": 173,
+    "title": "L’ASCENSIONE DEL SIGNORE",
+    "liturgical_ref": "",
+    "file": "giorno-173.md",
+    "med_words": 708,
+    "col_words": 392
+  },
+  {
+    "index": 174,
+    "title": "(T.G. Es. 15) LA SPERANZA DI MARIA",
+    "liturgical_ref": "",
+    "file": "giorno-174.md",
+    "med_words": 680,
+    "col_words": 337
+  },
+  {
+    "index": 175,
+    "title": "LO SVILUPPO DELLA CARITÀ IN MARIA",
+    "liturgical_ref": "",
+    "file": "giorno-175.md",
+    "med_words": 701,
+    "col_words": 789
+  },
+  {
+    "index": 176,
+    "title": "MARIA E LA CARITÀ FRATERNA",
+    "liturgical_ref": "",
+    "file": "giorno-176.md",
+    "med_words": 694,
+    "col_words": 379
+  },
+  {
+    "index": 177,
+    "title": "LA PREGHIERA DI MARIA",
+    "liturgical_ref": "",
+    "file": "giorno-177.md",
+    "med_words": 827,
+    "col_words": 337
+  },
+  {
+    "index": 178,
+    "title": "L’APOSTOLATO DI MARIA",
+    "liturgical_ref": "in lui; mi unisce alla SS.ma Trinità» (cfr. D. Edoardo",
+    "file": "giorno-178.md",
+    "med_words": 795,
+    "col_words": 421
+  },
+  {
+    "index": 179,
+    "title": "LO SPIRITO SANTO",
+    "liturgical_ref": "",
+    "file": "giorno-179.md",
+    "med_words": 805,
+    "col_words": 396
+  },
+  {
+    "index": 180,
+    "title": "LO SPIRITO DI CRISTO",
+    "liturgical_ref": "",
+    "file": "giorno-180.md",
+    "med_words": 692,
+    "col_words": 372
+  },
+  {
+    "index": 181,
+    "title": "XIX - DOLCE OSPITE DELL'ANIMA DOLCE OSPITE DELL'ANIMA",
+    "liturgical_ref": "",
+    "file": "giorno-181.md",
+    "med_words": 739,
+    "col_words": 326
+  },
+  {
+    "index": 182,
+    "title": "LA DISCESA DELLO SPIRITO SANTO",
+    "liturgical_ref": "Domenica di Pentecoste",
+    "file": "giorno-182.md",
+    "med_words": 693,
+    "col_words": 406
+  },
+  {
+    "index": 183,
+    "title": "L’ AZIONE DELLO SPIRITO SANTO",
+    "liturgical_ref": "",
+    "file": "giorno-183.md",
+    "med_words": 759,
+    "col_words": 300
+  },
+  {
+    "index": 184,
+    "title": "XXNl - LE INIZIATIVE DELLO SPIRITO SANTO LE INIZIATIVE DELLO SPIRITO SANTO",
+    "liturgical_ref": "",
+    "file": "giorno-184.md",
+    "med_words": 720,
+    "col_words": 300
+  },
+  {
+    "index": 185,
+    "title": "LA NOSTRA COLLABORAZIONE",
+    "liturgical_ref": "",
+    "file": "giorno-185.md",
+    "med_words": 665,
+    "col_words": 346
+  },
+  {
+    "index": 186,
+    "title": "LO SPIRITO SANTO CI CONFORMA A CRISTO",
+    "liturgical_ref": "",
+    "file": "giorno-186.md",
+    "med_words": 820,
+    "col_words": 283
+  },
+  {
+    "index": 187,
+    "title": "LA VIA DELLA CROCE",
+    "liturgical_ref": "",
+    "file": "giorno-187.md",
+    "med_words": 781,
+    "col_words": 324
+  },
+  {
+    "index": 188,
+    "title": "I DONI DELLO SPIRITO SANTO",
+    "liturgical_ref": "",
+    "file": "giorno-188.md",
+    "med_words": 692,
+    "col_words": 367
+  },
+  {
+    "index": 189,
+    "title": "FESTA DELLA SS.MA TRINITÀ",
+    "liturgical_ref": "enssenza Di pio. — Rendo grazie a te, o Dio, Trinità una e",
+    "file": "giorno-189.md",
+    "med_words": 630,
+    "col_words": 354
+  },
+  {
+    "index": 190,
+    "title": "LE VIRTÙ E I DONI",
+    "liturgical_ref": "",
+    "file": "giorno-190.md",
+    "med_words": 737,
+    "col_words": 419
+  },
+  {
+    "index": 191,
+    "title": "LO SPIRITO SANTO E LA PREGHIERA",
+    "liturgical_ref": "",
+    "file": "giorno-191.md",
+    "med_words": 658,
+    "col_words": 347
+  },
+  {
+    "index": 192,
+    "title": "XXX - LO SPIRITO SANTO E L'ATTIVITÀ LO SPIRITO SANTO E L'ATTIVITÀ",
+    "liturgical_ref": "",
+    "file": "giorno-192.md",
+    "med_words": 691,
+    "col_words": 294
+  },
+  {
+    "index": 193,
+    "title": "WWW... {«x<=——————1@i@@ ‘0000000 MARIA MEDIATRICE",
+    "liturgical_ref": "",
+    "file": "giorno-193.md",
+    "med_words": 704,
+    "col_words": 1312
+  },
+  {
+    "index": 194,
+    "title": "FESTA DEL «CORPUS DOMINI»",
+    "liturgical_ref": "Giovedì dopo la I Dom. dopo Pentecoste",
+    "file": "giorno-194.md",
+    "med_words": 459,
+    "col_words": 350
+  },
+  {
+    "index": 195,
+    "title": "",
+    "liturgical_ref": "",
+    "file": "giorno-195.md",
+    "med_words": 594,
+    "col_words": 285
+  },
+  {
+    "index": 196,
+    "title": "MISTERO DI FEDE",
+    "liturgical_ref": "",
+    "file": "giorno-196.md",
+    "med_words": 718,
+    "col_words": 398
+  },
+  {
+    "index": 197,
+    "title": "IV - L'INVITO AL BANCHETTO L'INVITO AL BANCHETTO",
+    "liturgical_ref": "Domenica fra l'ottava del Corpus Domini",
+    "file": "giorno-197.md",
+    "med_words": 733,
+    "col_words": 317
+  },
+  {
+    "index": 198,
+    "title": "MISTERO DI SPERANZA",
+    "liturgical_ref": "",
+    "file": "giorno-198.md",
+    "med_words": 751,
+    "col_words": 375
+  },
+  {
+    "index": 199,
+    "title": "MISTERO D'AMORE",
+    "liturgical_ref": "",
+    "file": "giorno-199.md",
+    "med_words": 709,
+    "col_words": 364
+  },
+  {
+    "index": 200,
+    "title": "IL SACRAMENTO DELL'UNIO",
+    "liturgical_ref": "",
+    "file": "giorno-200.md",
+    "med_words": 792,
+    "col_words": 401
+  },
+  {
+    "index": 201,
+    "title": "Il SETTIMANA DOPO PENTECOSTE DISPONIAMOCI ALL'UNIONE",
+    "liturgical_ref": "",
+    "file": "giorno-201.md",
+    "med_words": 741,
+    "col_words": 375
+  },
+  {
+    "index": 202,
+    "title": "FESTA DEL SACRO CUORE DI GESU",
+    "liturgical_ref": "Venerdì dopo l'ottava del Corpus Domini",
+    "file": "giorno-202.md",
+    "med_words": 674,
+    "col_words": 382
+  },
+  {
+    "index": 203,
+    "title": "LA DEVOZIONE AL CUORE DI GESÙ *",
+    "liturgical_ref": "",
+    "file": "giorno-203.md",
+    "med_words": 784,
+    "col_words": 351
+  },
+  {
+    "index": 204,
+    "title": "L'AMORE MISERICORDIOSO",
+    "liturgical_ref": "Domenica fra l'ottava del S. Cuore di Gesù",
+    "file": "giorno-204.md",
+    "med_words": 698,
+    "col_words": 384
+  },
+  {
+    "index": 205,
+    "title": "RIAMARE L'AMORE",
+    "liturgical_ref": "",
+    "file": "giorno-205.md",
+    "med_words": 613,
+    "col_words": 364
+  },
+  {
+    "index": 206,
+    "title": "LA CONSACRAZIONE AL CUORE DI GESÙ",
+    "liturgical_ref": "",
+    "file": "giorno-206.md",
+    "med_words": 720,
+    "col_words": 358
+  },
+  {
+    "index": 207,
+    "title": "LA RIPARAZIONE",
+    "liturgical_ref": "",
+    "file": "giorno-207.md",
+    "med_words": 682,
+    "col_words": 414
+  },
+  {
+    "index": 208,
+    "title": "IL CUORE DI GESÙ NOSTRO MODELLO",
+    "liturgical_ref": "",
+    "file": "giorno-208.md",
+    "med_words": 693,
+    "col_words": 364
+  },
+  {
+    "index": 209,
+    "title": "IL GUORE DI GESÙ NOSTRO RIFUGIO",
+    "liturgical_ref": "",
+    "file": "giorno-209.md",
+    "med_words": 711,
+    "col_words": 393
+  },
+  {
+    "index": 210,
+    "title": "IL SACRO CUORE E L’EUCARISTIA",
+    "liturgical_ref": "",
+    "file": "giorno-210.md",
+    "med_words": 1017,
+    "col_words": 0
+  },
+  {
+    "index": 211,
+    "title": "FIDUCIA INCROLLABILE",
+    "liturgical_ref": "IV Domenica dopo Pentecoste",
+    "file": "giorno-211.md",
+    "med_words": 698,
+    "col_words": 378
+  },
+  {
+    "index": 212,
+    "title": "RIMANERE IN CRISTO",
+    "liturgical_ref": "",
+    "file": "giorno-212.md",
+    "med_words": 736,
+    "col_words": 366
+  },
+  {
+    "index": 213,
+    "title": "DALL’EUCARISTIA ALLA TRINITÀ",
+    "liturgical_ref": "",
+    "file": "giorno-213.md",
+    "med_words": 696,
+    "col_words": 317
+  },
+  {
+    "index": 214,
+    "title": "IL MISTERO TRINITARIO",
+    "liturgical_ref": "mrEsenza Di pio. — O mio Dio, Trinità che adoro, insegnami",
+    "file": "giorno-214.md",
+    "med_words": 864,
+    "col_words": 2571
+  },
+  {
+    "index": 215,
+    "title": "LE EFFUSIONI DELLA TR! [TÀ NELI NIMA",
+    "liturgical_ref": "",
+    "file": "giorno-215.md",
+    "med_words": 752,
+    "col_words": 377
+  },
+  {
+    "index": 216,
+    "title": "",
+    "liturgical_ref": "V Domenica dopo Pentecoste",
+    "file": "giorno-216.md",
+    "med_words": 717,
+    "col_words": 1453
+  },
+  {
+    "index": 217,
+    "title": "LA GLORIA DELLA $S.MA TRINITÀ",
+    "liturgical_ref": "RE RAI Boo 43) o Santissima Trinità, che mi hai creato",
+    "file": "giorno-217.md",
+    "med_words": 721,
+    "col_words": 361
+  },
+  {
+    "index": 218,
+    "title": "LE PERFEZIONI DIVINE",
+    "liturgical_ref": "",
+    "file": "giorno-218.md",
+    "med_words": 772,
+    "col_words": 438
+  },
+  {
+    "index": 219,
+    "title": "XXIX - FESTA DEI SS. PIETRO E PAOLO FESTA DEI SS. PIETRO E PAOLO",
+    "liturgical_ref": "",
+    "file": "giorno-219.md",
+    "med_words": 762,
+    "col_words": 386
+  },
+  {
+    "index": 220,
+    "title": "L'ESSENZA DIVINA",
+    "liturgical_ref": "",
+    "file": "giorno-220.md",
+    "med_words": 782,
+    "col_words": 424
+  },
+  {
+    "index": 221,
+    "title": "IL PREZIOSISSIMO SANGUE",
+    "liturgical_ref": "",
+    "file": "giorno-221.md",
+    "med_words": 743,
+    "col_words": 369
+  },
+  {
+    "index": 222,
+    "title": "LA VISITA DI MARIA AD ELISABETTA",
+    "liturgical_ref": "",
+    "file": "giorno-222.md",
+    "med_words": 873,
+    "col_words": 335
+  },
+  {
+    "index": 223,
+    "title": "LA COMPASSIONE DI GESU'",
+    "liturgical_ref": "VI Domenica dopo Pentecoste",
+    "file": "giorno-223.md",
+    "med_words": 780,
+    "col_words": 364
+  },
+  {
+    "index": 224,
+    "title": "LA SEMPLICITÀ DIVINA",
+    "liturgical_ref": "",
+    "file": "giorno-224.md",
+    "med_words": 707,
+    "col_words": 375
+  },
+  {
+    "index": 225,
+    "title": "LA BONTÀ INFINITA",
+    "liturgical_ref": "",
+    "file": "giorno-225.md",
+    "med_words": 1122,
+    "col_words": 0
+  },
+  {
+    "index": 226,
+    "title": "LA BONTÀ INFINITA SI DIFFONDE",
+    "liturgical_ref": "",
+    "file": "giorno-226.md",
+    "med_words": 739,
+    "col_words": 368
+  },
+  {
+    "index": 227,
+    "title": "LA SAPIENZA INFINITA",
+    "liturgical_ref": "",
+    "file": "giorno-227.md",
+    "med_words": 809,
+    "col_words": 353
+  },
+  {
+    "index": 228,
+    "title": "L'AMORE INFINITO",
+    "liturgical_ref": "",
+    "file": "giorno-228.md",
+    "med_words": 766,
+    "col_words": 361
+  },
+  {
+    "index": 229,
+    "title": "LA MISERICORDIA INFINITA",
+    "liturgical_ref": "",
+    "file": "giorno-229.md",
+    "med_words": 732,
+    "col_words": 309
+  },
+  {
+    "index": 230,
+    "title": "FRUTTI DI VITA",
+    "liturgical_ref": "VII Domenica dopo Pentecoste",
+    "file": "giorno-230.md",
+    "med_words": 712,
+    "col_words": 383
+  },
+  {
+    "index": 231,
+    "title": "LA GIUSTIZIA INFINITA",
+    "liturgical_ref": "",
+    "file": "giorno-231.md",
+    "med_words": 1077,
+    "col_words": 0
+  },
+  {
+    "index": 232,
+    "title": "PRESE) io Di",
+    "liturgical_ref": "",
+    "file": "giorno-232.md",
+    "med_words": 1152,
+    "col_words": 0
+  },
+  {
+    "index": 233,
+    "title": "L'ONNIPOTENZA",
+    "liturgical_ref": "",
+    "file": "giorno-233.md",
+    "med_words": 689,
+    "col_words": 1463
+  },
+  {
+    "index": 234,
+    "title": "IL CHIARO-OSCURO DELLA FEDE",
+    "liturgical_ref": "",
+    "file": "giorno-234.md",
+    "med_words": 800,
+    "col_words": 425
+  },
+  {
+    "index": 235,
+    "title": "LA MADONNA DEL CARMELO",
+    "liturgical_ref": "",
+    "file": "giorno-235.md",
+    "med_words": 799,
+    "col_words": 289
+  },
+  {
+    "index": 236,
+    "title": "XVII - LE NOSTRE RICCHEZZE LE NOSTRE RICCHEZZE",
+    "liturgical_ref": "VII Domenica dopo Pentecoste",
+    "file": "giorno-236.md",
+    "med_words": 765,
+    "col_words": 347
+  },
+  {
+    "index": 237,
+    "title": "LA POTENZA DELLA FEDE",
+    "liturgical_ref": "",
+    "file": "giorno-237.md",
+    "med_words": 730,
+    "col_words": 386
+  },
+  {
+    "index": 238,
+    "title": "FEDE VISSUTA",
+    "liturgical_ref": "",
+    "file": "giorno-238.md",
+    "med_words": 752,
+    "col_words": 366
+  },
+  {
+    "index": 239,
+    "title": "LA SPERANZA",
+    "liturgical_ref": "",
+    "file": "giorno-239.md",
+    "med_words": 738,
+    "col_words": 407
+  },
+  {
+    "index": 240,
+    "title": "IL MOTIVO DELLA SPERANZA",
+    "liturgical_ref": "",
+    "file": "giorno-240.md",
+    "med_words": 804,
+    "col_words": 403
+  },
+  {
+    "index": 241,
+    "title": "LA PROVA DELLA SPERANZA",
+    "liturgical_ref": "",
+    "file": "giorno-241.md",
+    "med_words": 780,
+    "col_words": 327
+  },
+  {
+    "index": 242,
+    "title": "XXUI SPERARE SENZA MISURA",
+    "liturgical_ref": "",
+    "file": "giorno-242.md",
+    "med_words": 725,
+    "col_words": 344
+  },
+  {
+    "index": 243,
+    "title": "CORRISPONDENZA ALLA GRAZIA",
+    "liturgical_ref": "IX Domenica dopo Pentecoste",
+    "file": "giorno-243.md",
+    "med_words": 729,
+    "col_words": 335
+  },
+  {
+    "index": 244,
+    "title": "LA CARITÀ",
+    "liturgical_ref": "",
+    "file": "giorno-244.md",
+    "med_words": 774,
+    "col_words": 345
+  },
+  {
+    "index": 245,
+    "title": "AMORE DI AMICIZIA",
+    "liturgical_ref": "",
+    "file": "giorno-245.md",
+    "med_words": 733,
+    "col_words": 370
+  },
+  {
+    "index": 246,
+    "title": "IL PRECETTO DELLA CARITÀ",
+    "liturgical_ref": "",
+    "file": "giorno-246.md",
+    "med_words": 760,
+    "col_words": 415
+  },
+  {
+    "index": 247,
+    "title": "L'ECCELLENZA DELLA CARITÀ",
+    "liturgical_ref": "",
+    "file": "giorno-247.md",
+    "med_words": 847,
+    "col_words": 334
+  },
+  {
+    "index": 248,
+    "title": "L'ATTO DELL'AMORE",
+    "liturgical_ref": "",
+    "file": "giorno-248.md",
+    "med_words": 809,
+    "col_words": 333
+  },
+  {
+    "index": 249,
+    "title": "VITA DI AMORE",
+    "liturgical_ref": "",
+    "file": "giorno-249.md",
+    "med_words": 773,
+    "col_words": 342
+  },
+  {
+    "index": 250,
+    "title": "CARITÀ E UMILTÀ",
+    "liturgical_ref": "X Domenica dopo Pentecoste",
+    "file": "giorno-250.md",
+    "med_words": 803,
+    "col_words": 1456
+  },
+  {
+    "index": 251,
+    "title": "CARITÀ FRATERNA",
+    "liturgical_ref": "",
+    "file": "giorno-251.md",
+    "med_words": 718,
+    "col_words": 334
+  },
+  {
+    "index": 252,
+    "title": "È \"OE Pe See SOS) NI LT E ET ee IL MOTIVO DELLA CARITÀ FRATERNA",
+    "liturgical_ref": "",
+    "file": "giorno-252.md",
+    "med_words": 775,
+    "col_words": 363
+  },
+  {
+    "index": 253,
+    "title": "L'ESTENSIONE DELLA CARITÀ FRATERNA",
+    "liturgical_ref": "",
+    "file": "giorno-253.md",
+    "med_words": 733,
+    "col_words": 1511
+  },
+  {
+    "index": 254,
+    "title": "IL COMANDAMENTO NUOVO",
+    "liturgical_ref": "",
+    "file": "giorno-254.md",
+    "med_words": 847,
+    "col_words": 329
+  },
+  {
+    "index": 255,
+    "title": "NON GIUDICATE",
+    "liturgical_ref": "",
+    "file": "giorno-255.md",
+    "med_words": 778,
+    "col_words": 281
+  },
+  {
+    "index": 256,
+    "title": "LA GRAZIA DEL BATTESIMO",
+    "liturgical_ref": "XI Domenica dopo Pentecoste",
+    "file": "giorno-256.md",
+    "med_words": 802,
+    "col_words": 362
+  },
+  {
+    "index": 257,
+    "title": "SIATE MISERICORDIOSI",
+    "liturgical_ref": "",
+    "file": "giorno-257.md",
+    "med_words": 770,
+    "col_words": 357
+  },
+  {
+    "index": 258,
+    "title": "IL MANTO DELLA CARITÀ",
+    "liturgical_ref": "",
+    "file": "giorno-258.md",
+    "med_words": 772,
+    "col_words": 384
+  },
+  {
+    "index": 259,
+    "title": "PORTARE GLI UNI I PESI DEGLI ALTRI",
+    "liturgical_ref": "",
+    "file": "giorno-259.md",
+    "med_words": 825,
+    "col_words": 310
+  },
+  {
+    "index": 260,
+    "title": "LA CARITÀ NON È EGOISTA",
+    "liturgical_ref": "Za; proprio in ciò acquisterò maggior merito, consistendo in",
+    "file": "giorno-260.md",
+    "med_words": 799,
+    "col_words": 304
+  },
+  {
+    "index": 261,
+    "title": "XI - LA CARITÀ SI ACCOMODA A TUTTO LA CARITÀ SI ACCOMODA A TUTTO",
+    "liturgical_ref": "",
+    "file": "giorno-261.md",
+    "med_words": 780,
+    "col_words": 331
+  },
+  {
+    "index": 262,
+    "title": "LA DOLCEZZA",
+    "liturgical_ref": "",
+    "file": "giorno-262.md",
+    "med_words": 783,
+    "col_words": 332
+  },
+  {
+    "index": 263,
+    "title": "IL BUON S$AMARITANO",
+    "liturgical_ref": "XII Domenica dopo Pentecoste",
+    "file": "giorno-263.md",
+    "med_words": 769,
+    "col_words": 319
+  },
+  {
+    "index": 264,
+    "title": "L'ASSUNZIONE DI MARIA",
+    "liturgical_ref": "",
+    "file": "giorno-264.md",
+    "med_words": 706,
+    "col_words": 348
+  },
+  {
+    "index": 265,
+    "title": "AMORE DEL PROSSIMO E AMORE DI DIO",
+    "liturgical_ref": "",
+    "file": "giorno-265.md",
+    "med_words": 718,
+    "col_words": 292
+  },
+  {
+    "index": 266,
+    "title": "xvi - LA PRODENZA LA PRUDENZA",
+    "liturgical_ref": "",
+    "file": "giorno-266.md",
+    "med_words": 727,
+    "col_words": 274
+  },
+  {
+    "index": 267,
+    "title": "64 XIT SETTIMANA DOPO PENTECOSTE IL GIUDIZIO PRUDENTE",
+    "liturgical_ref": "",
+    "file": "giorno-267.md",
+    "med_words": 705,
+    "col_words": 314
+  },
+  {
+    "index": 268,
+    "title": "XIX - PRUDENZA E RETTITUDINE PRUDENZA E RETTITUDINE",
+    "liturgical_ref": "",
+    "file": "giorno-268.md",
+    "med_words": 738,
+    "col_words": 252
+  },
+  {
+    "index": 269,
+    "title": "LA DILIGENZA",
+    "liturgical_ref": "",
+    "file": "giorno-269.md",
+    "med_words": 683,
+    "col_words": 285
+  },
+  {
+    "index": 270,
+    "title": "XXI - I DIECI LEBBROSI I DIECI LEBBROSI",
+    "liturgical_ref": "XII Domenica dopo Pentecoste",
+    "file": "giorno-270.md",
+    "med_words": 716,
+    "col_words": 310
+  },
+  {
+    "index": 271,
+    "title": "LA GIUSTIZIA",
+    "liturgical_ref": "",
+    "file": "giorno-271.md",
+    "med_words": 747,
+    "col_words": 227
+  },
+  {
+    "index": 272,
+    "title": "XXIII - FAME E SETE DI GIUSTIZIA FAME E SETE DI GIUSTIZIA",
+    "liturgical_ref": "",
+    "file": "giorno-272.md",
+    "med_words": 706,
+    "col_words": 1353
+  },
+  {
+    "index": 273,
+    "title": "GIUSTIZIA E RELIGIONE",
+    "liturgical_ref": "",
+    "file": "giorno-273.md",
+    "med_words": 734,
+    "col_words": 422
+  },
+  {
+    "index": 274,
+    "title": "PIETÀ E DEVOZIONE",
+    "liturgical_ref": "",
+    "file": "giorno-274.md",
+    "med_words": 893,
+    "col_words": 302
+  },
+  {
+    "index": 275,
+    "title": "LA GRATITUDINE",
+    "liturgical_ref": "",
+    "file": "giorno-275.md",
+    "med_words": 795,
+    "col_words": 334
+  },
+  {
+    "index": 276,
+    "title": "XXVII - I DUE REGNI I DUE REGNI",
+    "liturgical_ref": "XIV Domenica dopo Pentecoste",
+    "file": "giorno-276.md",
+    "med_words": 774,
+    "col_words": 320
+  },
+  {
+    "index": 277,
+    "title": "LA SINCERITÀ",
+    "liturgical_ref": "",
+    "file": "giorno-277.md",
+    "med_words": 824,
+    "col_words": 313
+  },
+  {
+    "index": 278,
+    "title": "ILA SEMPLICITÀ",
+    "liturgical_ref": "",
+    "file": "giorno-278.md",
+    "med_words": 766,
+    "col_words": 332
+  },
+  {
+    "index": 279,
+    "title": "XXXI - LA FORTEZZA : LA FORTEZZA",
+    "liturgical_ref": "",
+    "file": "giorno-279.md",
+    "med_words": 751,
+    "col_words": 312
+  },
+  {
+    "index": 280,
+    "title": "SETTEMBRE IL CORAGGIO",
+    "liturgical_ref": "",
+    "file": "giorno-280.md",
+    "med_words": 728,
+    "col_words": 262
+  },
+  {
+    "index": 281,
+    "title": "LA MAGNANIMITÀ",
+    "liturgical_ref": "",
+    "file": "giorno-281.md",
+    "med_words": 717,
+    "col_words": 284
+  },
+  {
+    "index": 282,
+    "title": "IN - LA GENEROSITÀ LA GENEROSITÀ",
+    "liturgical_ref": "",
+    "file": "giorno-282.md",
+    "med_words": 696,
+    "col_words": 394
+  },
+  {
+    "index": 283,
+    "title": "GESÙ VITA NOSTRA",
+    "liturgical_ref": "XV Domenica dopo Pentecoste",
+    "file": "giorno-283.md",
+    "med_words": 744,
+    "col_words": 322
+  },
+  {
+    "index": 284,
+    "title": "FORTEZZA E PAZIENZA",
+    "liturgical_ref": "",
+    "file": "giorno-284.md",
+    "med_words": 785,
+    "col_words": 265
+  },
+  {
+    "index": 285,
+    "title": "L'ESERCIZIO DELLA PAZIENZA",
+    "liturgical_ref": "",
+    "file": "giorno-285.md",
+    "med_words": 751,
+    "col_words": 312
+  },
+  {
+    "index": 286,
+    "title": "LA PERSEVERANZA",
+    "liturgical_ref": "",
+    "file": "giorno-286.md",
+    "med_words": 729,
+    "col_words": 335
+  },
+  {
+    "index": 287,
+    "title": "VIII - LA NATIVITÀ DI MARIA SANTISSIMA LA NATIVITÀ DI MARIA SANTISSIMA",
+    "liturgical_ref": "",
+    "file": "giorno-287.md",
+    "med_words": 779,
+    "col_words": 261
+  },
+  {
+    "index": 288,
+    "title": "PERSEVERANZA E FIDUCIA",
+    "liturgical_ref": "",
+    "file": "giorno-288.md",
+    "med_words": 802,
+    "col_words": 290
+  },
+  {
+    "index": 289,
+    "title": "LA TEMPERANZA",
+    "liturgical_ref": "",
+    "file": "giorno-289.md",
+    "med_words": 766,
+    "col_words": 326
+  },
+  {
+    "index": 290,
+    "title": "LE CARATTERISTICHE DELL'ANIMA CRISTIANA",
+    "liturgical_ref": "XVI Domenica dupo Pentecoste",
+    "file": "giorno-290.md",
+    "med_words": 795,
+    "col_words": 306
+  },
+  {
+    "index": 291,
+    "title": "XxVÎ SETTIMANA DOPO PENTECOSTE LA MANSUETUDINE",
+    "liturgical_ref": "",
+    "file": "giorno-291.md",
+    "med_words": 682,
+    "col_words": 345
+  },
+  {
+    "index": 292,
+    "title": "IL PROGRESSO SPIRITUALE",
+    "liturgical_ref": "",
+    "file": "giorno-292.md",
+    "med_words": 702,
+    "col_words": 279
+  },
+  {
+    "index": 293,
+    "title": "(G.C. AM. 12-14) IL DONO DEL TIMORE",
+    "liturgical_ref": "",
+    "file": "giorno-293.md",
+    "med_words": 706,
+    "col_words": 343
+  },
+  {
+    "index": 294,
+    "title": "BEATI I POVERI IN SPIRITO",
+    "liturgical_ref": "",
+    "file": "giorno-294.md",
+    "med_words": 695,
+    "col_words": 341
+  },
+  {
+    "index": 295,
+    "title": "IL DONO DELLA FORTEZZA",
+    "liturgical_ref": "",
+    "file": "giorno-295.md",
+    "med_words": 762,
+    "col_words": 360
+  },
+  {
+    "index": 296,
+    "title": "BEATI I FAMELICI",
+    "liturgical_ref": "",
+    "file": "giorno-296.md",
+    "med_words": 764,
+    "col_words": 280
+  },
+  {
+    "index": 297,
+    "title": "L’UNIONE FRATERNA",
+    "liturgical_ref": "XVII Domenica dopo Pentecoste",
+    "file": "giorno-297.md",
+    "med_words": 725,
+    "col_words": 323
+  },
+  {
+    "index": 298,
+    "title": "IL DONO DELLA PIETÀ",
+    "liturgical_ref": "",
+    "file": "giorno-298.md",
+    "med_words": 751,
+    "col_words": 339
+  },
+  {
+    "index": 299,
+    "title": "BEATI I MITI",
+    "liturgical_ref": "",
+    "file": "giorno-299.md",
+    "med_words": 720,
+    "col_words": 321
+  },
+  {
+    "index": 300,
+    "title": "IL DONO DEL CONSIGLIO",
+    "liturgical_ref": "",
+    "file": "giorno-300.md",
+    "med_words": 726,
+    "col_words": 298
+  },
+  {
+    "index": 301,
+    "title": "BEATI I MISERICORDIOSI",
+    "liturgical_ref": "",
+    "file": "giorno-301.md",
+    "med_words": 707,
+    "col_words": 358
+  },
+  {
+    "index": 302,
+    "title": "IL DONO DELLA SCIENZA",
+    "liturgical_ref": "",
+    "file": "giorno-302.md",
+    "med_words": 887,
+    "col_words": 269
+  },
+  {
+    "index": 303,
+    "title": "BEATI COLORO CHE PIANGONO",
+    "liturgical_ref": "",
+    "file": "giorno-303.md",
+    "med_words": 809,
+    "col_words": 352
+  },
+  {
+    "index": 304,
+    "title": "LA POTENZA E L’AMORE DI GESÙ",
+    "liturgical_ref": "XVII Domenica dopo Pentecoste",
+    "file": "giorno-304.md",
+    "med_words": 800,
+    "col_words": 244
+  },
+  {
+    "index": 305,
+    "title": "",
+    "liturgical_ref": "",
+    "file": "giorno-305.md",
+    "med_words": 715,
+    "col_words": 315
+  },
+  {
+    "index": 306,
+    "title": "BEATI 1 PURI DI CUORE",
+    "liturgical_ref": "",
+    "file": "giorno-306.md",
+    "med_words": 754,
+    "col_words": 363
+  },
+  {
+    "index": 307,
+    "title": "XXVIII - IL DONO DELLA SAPIENZA IL DONO DELLA SAPIENZA",
+    "liturgical_ref": "",
+    "file": "giorno-307.md",
+    "med_words": 782,
+    "col_words": 288
+  },
+  {
+    "index": 308,
+    "title": "BEATI I PACIFICI",
+    "liturgical_ref": "",
+    "file": "giorno-308.md",
+    "med_words": 808,
+    "col_words": 322
+  },
+  {
+    "index": 309,
+    "title": "INCONTRO ALLO SPIRITO SANTO",
+    "liturgical_ref": "",
+    "file": "giorno-309.md",
+    "med_words": 760,
+    "col_words": 1489
+  },
+  {
+    "index": 310,
+    "title": "LUPPO DELL’ AMORE, UNIONE DI VOLONTA, UNIONE TOTALE LO ZELO PER LE ANIME",
+    "liturgical_ref": "",
+    "file": "giorno-310.md",
+    "med_words": 793,
+    "col_words": 368
+  },
+  {
+    "index": 311,
+    "title": "IL DOVERE DELL'APOSTOLATO",
+    "liturgical_ref": "",
+    "file": "giorno-311.md",
+    "med_words": 786,
+    "col_words": 332
+  },
+  {
+    "index": 312,
+    "title": "18 XVIIL SETTIMANA DOPO PENTECOSTE COLLABORATORI DI DIO",
+    "liturgical_ref": "",
+    "file": "giorno-312.md",
+    "med_words": 743,
+    "col_words": 320
+  },
+  {
+    "index": 313,
+    "title": "SENTIRE CON CRISTO",
+    "liturgical_ref": "",
+    "file": "giorno-313.md",
+    "med_words": 768,
+    "col_words": 375
+  },
+  {
+    "index": 314,
+    "title": "L'ANIMA DELL’ APOSTOLATO",
+    "liturgical_ref": "",
+    "file": "giorno-314.md",
+    "med_words": 731,
+    "col_words": 318
+  },
+  {
+    "index": 315,
+    "title": "L'INVITO DIVINO",
+    "liturgical_ref": "XIX domenica dopo Pentecoste",
+    "file": "giorno-315.md",
+    "med_words": 826,
+    "col_words": 284
+  },
+  {
+    "index": 316,
+    "title": "IDEALE APOSTOLICO",
+    "liturgical_ref": "",
+    "file": "giorno-316.md",
+    "med_words": 745,
+    "col_words": 360
+  },
+  {
+    "index": 317,
+    "title": "Vi. 32,6; Es. 11, 3; RS.6,7) LE VARIE FORME DI APOSTOLATO",
+    "liturgical_ref": "",
+    "file": "giorno-317.md",
+    "med_words": 756,
+    "col_words": 299
+  },
+  {
+    "index": 318,
+    "title": "LA PREGHIERA APOSTOLICA",
+    "liturgical_ref": "",
+    "file": "giorno-318.md",
+    "med_words": 813,
+    "col_words": 354
+  },
+  {
+    "index": 319,
+    "title": "L'IMMOLAZIONE APOSTOLICA",
+    "liturgical_ref": "",
+    "file": "giorno-319.md",
+    "med_words": 804,
+    "col_words": 294
+  },
+  {
+    "index": 320,
+    "title": "L’APOSTOLATO DELL’ ESEMPIO",
+    "liturgical_ref": "",
+    "file": "giorno-320.md",
+    "med_words": 853,
+    "col_words": 290
+  },
+  {
+    "index": 321,
+    "title": "LE OPERE APOSTOLICHE",
+    "liturgical_ref": "",
+    "file": "giorno-321.md",
+    "med_words": 784,
+    "col_words": 310
+  },
+  {
+    "index": 322,
+    "title": "VERSO LA PATRIA",
+    "liturgical_ref": "XX domenica dopo Pentecoste",
+    "file": "giorno-322.md",
+    "med_words": 851,
+    "col_words": 318
+  },
+  {
+    "index": 323,
+    "title": "LA FORMAZIONE DEGLI APOSTOLI",
+    "liturgical_ref": "",
+    "file": "giorno-323.md",
+    "med_words": 1076,
+    "col_words": 0
+  },
+  {
+    "index": 324,
+    "title": "SANTIFICARSI NELL'APOSTOLATO",
+    "liturgical_ref": "",
+    "file": "giorno-324.md",
+    "med_words": 854,
+    "col_words": 332
+  },
+  {
+    "index": 325,
+    "title": "RETTITUDINE D’ INTENZIONI",
+    "liturgical_ref": "",
+    "file": "giorno-325.md",
+    "med_words": 814,
+    "col_words": 338
+  },
+  {
+    "index": 326,
+    "title": "DIMENTICANZA E ABNEGAZIONE DI SÈ",
+    "liturgical_ref": "",
+    "file": "giorno-326.md",
+    "med_words": 835,
+    "col_words": 298
+  },
+  {
+    "index": 327,
+    "title": "(T.B.G.St. 10) UMILTÀ NELL’ APOSTOLATO",
+    "liturgical_ref": "",
+    "file": "giorno-327.md",
+    "med_words": 875,
+    "col_words": 328
+  },
+  {
+    "index": 328,
+    "title": "UMANITÀ PERFETTA E CARITA APOSTOLICA",
+    "liturgical_ref": "",
+    "file": "giorno-328.md",
+    "med_words": 836,
+    "col_words": 278
+  },
+  {
+    "index": 329,
+    "title": "IL PERDONO",
+    "liturgical_ref": "XXI domenica dopo Pentecoste",
+    "file": "giorno-329.md",
+    "med_words": 851,
+    "col_words": 350
+  },
+  {
+    "index": 330,
+    "title": "VALORI UMANI AI SERVIZIO DELL' APOSTOLATO",
+    "liturgical_ref": "",
+    "file": "giorno-330.md",
+    "med_words": 780,
+    "col_words": 1491
+  },
+  {
+    "index": 331,
+    "title": "1 PROGRESSI NELL'APOSTOLATO I PROGRESSI NELL’ APOSTOLATO",
+    "liturgical_ref": "",
+    "file": "giorno-331.md",
+    "med_words": 790,
+    "col_words": 329
+  },
+  {
+    "index": 332,
+    "title": "MATURITÀ APOSTOLICA",
+    "liturgical_ref": "",
+    "file": "giorno-332.md",
+    "med_words": 751,
+    "col_words": 308
+  },
+  {
+    "index": 333,
+    "title": "9% XXI SETTIMANA DOPO PENTECOSTE PATERNITÀ E MATERNITÀ SPIRITUALE",
+    "liturgical_ref": "",
+    "file": "giorno-333.md",
+    "med_words": 842,
+    "col_words": 340
+  },
+  {
+    "index": 334,
+    "title": "MARTA E MARIA",
+    "liturgical_ref": "",
+    "file": "giorno-334.md",
+    "med_words": 817,
+    "col_words": 304
+  },
+  {
+    "index": 335,
+    "title": "1 NOSTRI DOVERI",
+    "liturgical_ref": "XXII domenica dopo Pentecoste",
+    "file": "giorno-335.md",
+    "med_words": 875,
+    "col_words": 356
+  },
+  {
+    "index": 336,
+    "title": "LO SPIRITO SANTO E L'APOSTOLATO",
+    "liturgical_ref": "",
+    "file": "giorno-336.md",
+    "med_words": 788,
+    "col_words": 333
+  },
+  {
+    "index": 337,
+    "title": "L'UNIONE CON DIO",
+    "liturgical_ref": "",
+    "file": "giorno-337.md",
+    "med_words": 808,
+    "col_words": 339
+  },
+  {
+    "index": 338,
+    "title": "LA VIA DELL'UNIONE",
+    "liturgical_ref": "",
+    "file": "giorno-338.md",
+    "med_words": 725,
+    "col_words": 313
+  },
+  {
+    "index": 339,
+    "title": "LA NOTTE DELLO SPIRITO",
+    "liturgical_ref": "maggior coraggio, perchè sappia di buon cuore accettare la tua",
+    "file": "giorno-339.md",
+    "med_words": 775,
+    "col_words": 343
+  },
+  {
+    "index": 340,
+    "title": "L'AMORE PURIFICANTE",
+    "liturgical_ref": "",
+    "file": "giorno-340.md",
+    "med_words": 842,
+    "col_words": 327
+  },
+  {
+    "index": 341,
+    "title": "VERSO UNA COMPLETA PURIFICAZIONE",
+    "liturgical_ref": "",
+    "file": "giorno-341.md",
+    "med_words": 883,
+    "col_words": 309
+  },
+  {
+    "index": 342,
+    "title": "DISEGNI DI PACE E DI AMORE",
+    "liturgical_ref": "XXIII domenica dopo Pentecoste",
+    "file": "giorno-342.md",
+    "med_words": 865,
+    "col_words": 327
+  },
+  {
+    "index": 343,
+    "title": "PURIFICAZIONE PASSIVA è",
+    "liturgical_ref": "",
+    "file": "giorno-343.md",
+    "med_words": 1166,
+    "col_words": 0
+  },
+  {
+    "index": 344,
+    "title": "PROVE INTERIORI",
+    "liturgical_ref": "",
+    "file": "giorno-344.md",
+    "med_words": 866,
+    "col_words": 317
+  },
+  {
+    "index": 345,
+    "title": "ANGOSCE E TENEBRE",
+    "liturgical_ref": "",
+    "file": "giorno-345.md",
+    "med_words": 818,
+    "col_words": 259
+  },
+  {
+    "index": 346,
+    "title": "FIDUCIA E ABBANDONO",
+    "liturgical_ref": "",
+    "file": "giorno-346.md",
+    "med_words": 1208,
+    "col_words": 0
+  },
+  {
+    "index": 347,
+    "title": "LO SVILUPPO DELL’AMORE",
+    "liturgical_ref": "",
+    "file": "giorno-347.md",
+    "med_words": 756,
+    "col_words": 374
+  },
+  {
+    "index": 348,
+    "title": "AMORE ESTIMATIVO",
+    "liturgical_ref": "",
+    "file": "giorno-348.md",
+    "med_words": 1527,
+    "col_words": 0
+  },
+  {
+    "index": 349,
+    "title": "",
+    "liturgical_ref": "",
+    "file": "giorno-349.md",
+    "med_words": 559,
+    "col_words": 1472
+  },
+  {
+    "index": 350,
+    "title": "AMORE UMILE E RIVERENTE",
+    "liturgical_ref": "",
+    "file": "giorno-350.md",
+    "med_words": 892,
+    "col_words": 308
+  },
+  {
+    "index": 351,
+    "title": "AMORE OPEROSO E FORTE",
+    "liturgical_ref": "",
+    "file": "giorno-351.md",
+    "med_words": 883,
+    "col_words": 347
+  },
+  {
+    "index": 352,
+    "title": "AMORE UNITIVO",
+    "liturgical_ref": "",
+    "file": "giorno-352.md",
+    "med_words": 839,
+    "col_words": 313
+  },
+  {
+    "index": 353,
+    "title": "L'UNIONE DI VOLONTA",
+    "liturgical_ref": "",
+    "file": "giorno-353.md",
+    "med_words": 786,
+    "col_words": 320
+  },
+  {
+    "index": 354,
+    "title": "L'AIUTO DIVINO",
+    "liturgical_ref": "",
+    "file": "giorno-354.md",
+    "med_words": 758,
+    "col_words": 357
+  },
+  {
+    "index": 355,
+    "title": "LA FINE DEL TEMPO",
+    "liturgical_ref": "ultima domenica dopo Pentecoste",
+    "file": "giorno-355.md",
+    "med_words": 852,
+    "col_words": 328
+  },
+  {
+    "index": 356,
+    "title": "IL SÌ PERFETTO",
+    "liturgical_ref": "",
+    "file": "giorno-356.md",
+    "med_words": 785,
+    "col_words": 300
+  },
+  {
+    "index": 357,
+    "title": "IL DONO SCAMBIEVOLE",
+    "liturgical_ref": "",
+    "file": "giorno-357.md",
+    "med_words": 862,
+    "col_words": 314
+  },
+  {
+    "index": 358,
+    "title": "ULTIMA SETTIMANA DOPO PENTECOSTE L'UNIONE TOTALE",
+    "liturgical_ref": "",
+    "file": "giorno-358.md",
+    "med_words": 734,
+    "col_words": 306
+  },
+  {
+    "index": 359,
+    "title": "IL TRIONFO DELL'AMORE",
+    "liturgical_ref": "",
+    "file": "giorno-359.md",
+    "med_words": 867,
+    "col_words": 385
+  },
+  {
+    "index": 360,
+    "title": "L'AMORE TRASFORMANTE L'AMORE TRASFORMANTE",
+    "liturgical_ref": "",
+    "file": "giorno-360.md",
+    "med_words": 871,
+    "col_words": 307
+  },
+  {
+    "index": 361,
+    "title": "INTIMITÀ DIVINA",
+    "liturgical_ref": "",
+    "file": "giorno-361.md",
+    "med_words": 832,
+    "col_words": 348
+  },
+  {
+    "index": 362,
+    "title": "LA MADONNA DEL ROSARIO",
+    "liturgical_ref": "ottobre",
+    "file": "giorno-362.md",
+    "med_words": 773,
+    "col_words": 303
+  },
+  {
+    "index": 363,
+    "title": "LA MATERNITA DI MARIA",
+    "liturgical_ref": "Il ottobre",
+    "file": "giorno-363.md",
+    "med_words": 776,
+    "col_words": 359
+  },
+  {
+    "index": 364,
+    "title": "210 PESTE FISSE FESTA DI CRISTO RE",
+    "liturgical_ref": "ultima domenica di ottobre",
+    "file": "giorno-364.md",
+    "med_words": 845,
+    "col_words": 367
+  },
+  {
+    "index": 365,
+    "title": "I SANTI",
+    "liturgical_ref": "novembre",
+    "file": "giorno-365.md",
+    "med_words": 741,
+    "col_words": 352
+  },
+  {
+    "index": 366,
+    "title": "COMMEMORAZIONE DEI FEDELI DEFUNTI COMMEMORAZIONE DEI FEDELI. DEFUNTI",
+    "liturgical_ref": "novembre",
+    "file": "giorno-366.md",
+    "med_words": 850,
+    "col_words": 289
+  },
+  {
+    "index": 367,
+    "title": "PRESENTAZIONE DI MARIA AL TEMPIO",
+    "liturgical_ref": "novembre",
+    "file": "giorno-367.md",
+    "med_words": 856,
+    "col_words": 2781
+  }
+]

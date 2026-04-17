@@ -1,0 +1,103 @@
+## 189 — FESTA DELLA SS.MA TRINITÀ
+*I Domenica dopo Pentecoste*
+
+### Presenza di Dio
+
+Rendo grazie a te, o Dio, Trinità una e vera, Divinità una e somma, santa ed unica Unità (BR.).
+
+### Meditazione
+
+1. — Dall'Avvento fino ad oggi la Chiesa ci ha condotto
+a considerare le magnifiche manifestazioni della misericordia di Dio per gli uomini: l’Incarnazione, la Redenzione,
+la Pentecoste; ed ora indirizza i nostri sguardi alla fonte
+di tali doni, alla SS.ma Trinità da cui tutto proviene, sì
+che spontaneo sgorga dal labbro l’inno di riconoscenza
+espresso nell’Introito della Messa: «Sia benedetta la Santa
+Trinità e l’indivisa Unità: noì la canteremo poichè ha
+riversato su di noi la sua misericordia ». Misericordia di
+Dio Padre «che ha talmente amato il mondo da dare per
+esso il suo Unigenito» (cfr. Gv. 3, 16); misericordia di Dio
+Figlio che per la nostra redenzione si è incarnato ed è
+morto in croce; misericordia dello Spirito Santo che si è
+
+SR DELA ES
+
+degnato scendere nei nostri cuori per comunicarci la carità
+di Dio, per farci partecipi della vita divina. Ben a proposito, nell'ufficiatura del giorno, la Chiesa ha inserito la
+bella antifona d'ispirazione paolina: «Charitas Pater est,
+gratia Filius, communicatio Spiritus Sanctus, beata Trinitas! » (cfx. IL. Cor. 13, 13); il Padre è carità, il Figlio è grazia
+e lo Spirito Santo ne è la comunicazione, ossia la carità
+del Padre e la grazia del Figlio ci vengono comunicate dallo
+Spirito Santo che le diffonde nei nostri cuori (cfr.Rom. 5, 5).
+Non si potrebbe meglio sintetizzare la meravigliosa opera
+della Trinità a benilicio delle anime nostre. L'Ufficio divino e la Messa del giorno sono dunque un vero inno di
+lode e di riconoscenza verso la S$S.ma Trinità, sono come
+un «Gloria Patri» ed un Te Deum prolungati. E questi
+due inni, l'uno nella sua compendiosa brevità e l’altro nel
+suo maestoso alternarsi di lodi, sono veramente gli inni
+del giorno, destinati a destare nei nostri cuori una profonda
+eco di lode, di ringraziamento, di adorazione.
+
+2. — Ma la festa odierna ci porta a lodare ed a magnificare la SS.ma Trinità non solo per le immense misericordie che ha elargito agli uomini, ma anche e soprattutto in Se stessa e per Se stessa. Per il suo Essere supremo
+che mai ha avuto principio e mai avrà fine; per le sue
+perfezioni infinite, per la sua maestà, bellezza e bontà
+essenziale; per la sublime fecondità di vita per cui inces
+santemente il Padre genera il Verbo e dal Padre e dal
+Verbo procede lo Spirito Santo e tuttavia il Padre non è
+anteriore, nè superiore al Verbo, nè il Padre ed il Verbo
+sono prima dello Spirito Santo od a Lui maggiori, ma
+le Persone divine sono tutte e, tre coeterne ed uguali fra
+loro; per la Divinità e tutte le ‘ezioni ed attributi divini
+che sono unici ed identici nel Padre come nel Figlio e
+nello Spirito Santo. Che cosa può dire e comprendere
+luomo di fronte ad un così sublime mistero? Nulla!
+Eppure quel che ne sappiamo è certo, perchè lo stesso
+
+Figlio di Dio el'Unigenito, che è nel seno del Padre,
+ce l'ha fatto conoscere» (Gv. 1, 18), ma il mistero è
+talmente sublime e superiore alla nostra comprensione per
+cui non possiamo che chinare il capo ed adorare in silenzio. «O profondità della ricchezza e sapienza e conoscenza di Dio! come sono imperserutabili i suoi il e
+impenetrabili le sue vie!» esclama S. Paolo nel l'Epistola
+del giorno, lui che, essendo stato rapito «sino al terzo
+cielo», non ha saputo nè potuto dir altro fuorchè di
+aver udito « parole ineffabili che non è lecito ad uomo di
+proferire» (I Cor. 12, 24). Di fronte all'altissimo mistero
+della Trinità si sente realmente che la lode più bella è
+il silenzio, il silenzio dell'anima che adora, riconoscendosi
+incapace di esprimere una lode adeguata alla Maestà divina.
+
+### Colloquio
+
+«O Trinità eterna, Tu sci un mare profondo, nel
+quale quanto più cerco, tanto più trovo, e quanto più
+trovo, tanto più cerco di te. Tu sazi in un modo insaziabile, perchè Tu sazi così l’anima nel tuo abisso, che lei
+rimane sempre famelica; e, affamata di te, o Trinità
+eterna, desidera di vedere il tuo lume nella tua luce.
+Come il cervo desidera la fonte dell'acqua viva, così l'anima
+mia desidera di uscire da questo corpo tenebroso, e vedere
+te in verità come Tu sei.
+
+«O abisso! O Deità eterna! O mare profondo! E che
+potevi darmi di più, che darmi te stesso? Tu sei fuoco
+che sempre ardi; Tu consumi e non sei consumato; Tu
+sei che consumi col tuo calore ogni amore proprio dell’anima. Tu sei fuoco, che togli i freddezza, e illumini le
+menti col tuo lume, col quale lume mi hai fatto conoscere
+la tua Verità. Veramente questo lume è un mare che
+nutrisce l’anima, fino a che sia tutta immersa in te, o
+Mare pacifico, Trinità eterna! L'acqua di questo mare non
+è torbida, e perciò non dà timore, ma dà conoscenza della
+Verità. Quest'acqua è trasparente e manifesta le cose
+
+Pn
+occulte, onde, dove abbonda l’abbondantissimo lume della
+tua fede, l’anima è quasi fatta certa di quello che crede.
+
+«Tu sei il sommo e infinito Bene: bene sopra ogni
+bene, bene felice, bene incomprensibile, bene inéstimabile; Bellezza sopra ogni bellezza, Sapienza sopra ogni
+sapienza, perchè Tu sei la sapienza stessa. Tu, cibo degli
+Angeli, ti sei dato con fuoco d'amore agli uomini; Tu,
+vestimento che ricopre la mia nudità, pàsci noi, affamati,
+con la tua dolcezza, perchè sci tutto dolce senza nulla di
+amaro. Rivestimi, o Trinità eterna, rivestimi di te stessa, perchè io passi questa vita mortale nella vera obbedienza e nel
+lume della fede santissima di cui hai inebriata l'anima
+mia» (S. Caterina da Siena).

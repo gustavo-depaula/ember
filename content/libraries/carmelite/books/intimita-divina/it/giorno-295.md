@@ -1,0 +1,114 @@
+## 295 — IL DONO DELLA FORTEZZA
+
+### Presenza di Dio
+
+O Spirito Santo, che conosci la mia debolezza, rendimi forte della tua fortezza divina.
+
+### Meditazione
+
+1. — Accanto al dono del timore, sotto! il cui influsso
+
+
+l’anima si mette interamente nelle mani di Dio con l’unico
+desiderio di non separarsi giammai da lui, vi è il dono della fortezza che ha il compito di irrobustirla per renderla
+sempre più coraggiosa nel servizio divino.
+
+misura che avanza nella vita spirituale, l’anima, più
+che procedere con le sue iniziative, deve seguire quelle
+di Dio, deve lasciarsi guidare dallo Spirito Santo, eppure
+anche qui occorre la sua attività, la quale deve consistere nell'adesione docile e pronta alle mozioni divine. Ebbene, il
+dono della fortezza le darà la forza di dire sempre il suo sì
+alle ispirazioni ed agli inviti del divino Paraclito, di accettare e di volere tutto quello che Egli fa per lei ed in
+lei. Questo dono viene così ad aiutare ed a perfezionare la
+virtù della fortezza che, malgrado la nostra buona volontà;
+è sempre debole e troppe volte ancora vien meno, soprattutto di fronte alle esigenze di una vita spirituale più perfetta.
+Se occorre coraggio per essere fedeli, anche a costoi di gra
+
+
+vi sacrifici, alla legge di Dio e ai doveri del proprio stato
+€ per sopportare pazientemente tutte le difficoltà della vita,
+ce ne vuole forse ancora di più per assecondare l’azione del
+Signore nell'anima nostra, per non spaventarci di fronte
+alle prove attraverso le quali ci fa passare, seguire con
+fedeltà gli impulsi dello Spirito Santo, Maestro dolce e
+soave, ma nello stesso tempo esigente perchè non può condurci alla santità senza chiederci tutto. Ed è proprio in
+questo campo che, in modo particolare, sperimentiamo la
+nostra Sa intuiamo ciò che Dio vuole da noi, forse
+lo vediamo anche molto chiaro e tuttavia non siamo capaci,
+non abbiamo la forza di farlo. E' il grande tormento dell'anima di buona volontà, ma non ancora matura; è la
+condizione della debolezza umana che la grazia attuale e
+la virtù infusa della fortezza possono migliorare di molto,
+ma che, agendo esse attraverso le nostre facoltà limitate, non pessono sanare sino in fondo. Occorre l'intervento
+diretto di Dio stesso e Dio interviene mettendo in atto il
+dono della fortezza.
+
+
+— La virtù della fortezza e il dono della fortezza hanno l’identico oggetto: renderci forti nella vita spirituale,
+ma differiscono nel modo di agire. La virtù agisce in noi
+mediante i nostri sforzi, sostenuti bensì dalla grazia, ma
+che tuttavia sono sempre sforzi umani, perciò, pur essendo
+soprannaturale, deve necessariamente adattarsi al nostro
+modo umano di agire e quindi risente sempre della nostra
+limitatezza. Il dono invece — come tutti i doni dello Spirito
+Santo — è soprannaturale non solo in sè, ma anche nel
+suo modo di agire; infatti, anzichè essere messo in atto da
+noi — come accade per la virtù — viene messo in atto da
+Dio stesso. Mediante la virtù siamo noi che con la nostra
+buona volontà, sorretta dalla grazia, cerchiamo di acquistare la fortezza, di renderci forti; mediante il dono, invece,
+è lo Spirito Santo che ci fortifica interiormente comunicandoci qualche cosa della sua onnipotenza, della sua fortezza
+
+
+infinita. Tra la fortezza acquistata con i nostri sforzi e quella
+infusa in noi dallo Spirito Santo vi è una differenza simile
+a quella che corre tra l’opera di uno scolaretto inesperto
+e quella di un abile artista o, meglio, vi è la differenza che
+passa tra la capacità e la potenza dell’uomo e la capacità e la
+potenza di Dio. e Voi — disse Gesù agli Apostoli — riceverete forza di Spirito Santo, quando verrà su di voi; e mi sa-
+rete testimoni in Gerusalemme» (At. 1, 8); infatti quei poveri tori pieni di paura, che non avevano avuto il corae-
+gio accompagnare Cesù al Calvario, dopo la discesa dello
+
+pirito Santo, divennero forti come leoni, capaci di affrontare qualsiasi pericolo e perfino la morte. dii ci dice
+quanto è necessario il dono della fortezza; senza di esso noi
+saremmo sempre vacillanti, sempre incerti, sempre incostanti. Ma lo Spirito Santo vuole che ci disponiamo a ricevere
+questo dono mediante l'esercizio della virtù: i nostri sforzi,
+ripetuti con umiltà e con costanza, sono di per sè una tacita
+invocazione del dono della fortezza; mediante lo sforzo tendiamo le vele dell'anima nostra al soffio dello Spirito Santo:
+spetta a lui scegliere il momento in cui spirare, ma non spirerà în noi, se non ci troverà disposti ad accogliere il suo im-
+pulso, ossia se non ci troverà applicati ad esercitare la virtù.
+
+### Colloquio
+
+«O Dio eterno, Tu sei fortezza e dai fortezza all'anima sì
+che questa diventa tanto forte che nè demonio, nè creatura
+le può togliere la sua fortezza, se lei non vuole. E mai non
+vuole quando si riveste della tua volontà, perchè solo la volontà sua è quella che la fa indebolire. O Dio eterno, amore
+inestimabile, tutta è impastata con te la tua creatura, e Tu
+con lei per la creazione, per la fortezza della volontà, per
+l'amore con il quale la creasti!» (S. Caterina da Siena).
+
+«Veni, Spiritus fortitudinis, robora me! Vieni, Spirito di
+fortezza e rendimi forte! Concedimi il dono della fortezza
+per affrontare con coraggio, per sopportare con pazienza le
+cose difficili e gravi, superando tutti gli ostacoli. Ho grande
+
+
+bisogno di questo tuo dono perchè sono piccola, debole e mi
+stanco presto come i bambini. ‘Ma Tu non ti stanchi nè ti
+affatichi ed è imperscrutabile la tua sapienza. Dai forza a chi
+è stanco ed a quelli che vengono meno accresci robustezza
+e vigore. I fanciulli vengono meno e si affaticano, i giovani
+cadono per debolezza. Ma quelli che confidano in te acqui
+steranno nuova forza, prenderanno ali come di aquila, correranno senza fatica, cammineranno senza stancarsi’ (cfr. Is.
+40, 28:31).
+
+<O Spirito Santo, sostienimi e allora diventerò forte della
+tua fortezza. Se Tu sarai la mia forza e la mia salvezza, che
+cosa temerò? To non posso sostenermi con la mia fortezza, ma
+tutto posso in te che mi dai forza! Se Tu mi soccorri, nonostante la mia debolezza supererò le tentazioni, non mi arre-
+sterò davanti agli ostacoli, compirò opere grandi e, rinvigorita dalla tua fortezza, sopporterò con pazienza e con gioia
+la sofferenza.
+
+«O Spirito Santo, invoco con tutto il cuore questo tuo
+dono; fa' che esso mi rende generosa, intrepida, amante del
+sacrificio, virile, desiderosa e risoluta nel tendere alla perfezione con vero spirito di totalità» (Sr. Carmela d. Spi
+rito S. c. s.).

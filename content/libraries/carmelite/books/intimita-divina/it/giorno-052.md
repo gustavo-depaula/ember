@@ -1,0 +1,110 @@
+## 52 — GESÙ CI RIVELA IL PADRE
+
+### Presenza di Dio
+
+O Gesù, Tu sei il Verbo rivelatore del Padre, Tu solo dunque mi puoi insegnare chi sia il mio Dio. Parla, o Signore, il tuo servo ti ascolta!
+
+### Meditazione
+
+1 — «La vita eterna è questa, che conoscano te, solo
+vero Dio » (Gv. 17, 3), ha affermato Gesù. E S. Giovanni
+evangelista osserva: « Nessuno ha mai veduto Dio; il Figlio
+unigenito, che è nel seno del Padre, ce lo ha rivelato »
+(Gv. 1, 18). Solo il Figlio di Dio, può farci conoscere Dio: soltanto lui, nella sua qualità di Verbo,
+può essere il Rivelatore di Dio.
+Come la nostra parola esprime il nostro pensiero, così
+il Verbo, Parola del Padre, esprime il Padre,
+rivela la natura di Dio. Quando il Verbo s'incarna rimane
+quello che è, e ciò continua ad essere la Parola, lo
+splendore, il rivelatore di Dio; incarnandosi non fa che
+rendersi sensibile a noi uomini, accessibile alle nostre capacità umane, ma non diminuisce in nessun modo la sua
+qualità di Verbo.
+
+Anche quando Gesù non parla, con la sola sua Persona e con qualsiasi suo atto, ci mostra, ci rivela Dio. Più
+volte, e con un certo rimpianto perchè non era capito,
+Gesù ha ripetuto: «se conosceste me, conoscereste anche il Padre mio» (Gv.8,19; 14,7). Ed a Filippo che,
+durante l'ultima Cena, gli chiedeva ancora di fargli vedere
+il Padre, rispondeva in tono di dolce rimprovero: «Da
+tanto tempo sono con voi, e non mi avete conosciuto?
+Filippo, chi vede me, vede anche il Padre... Non credi tu
+che io sono nel Padre e il Padre in me? » (ivi, 14,9 10).
+
+Gesù «è l'immagine dell'invisibile Dio » (Col.1,15):
+basta guardare lui con fede ed amore per conoscere Dio.
+Da nessun altro maestro, in nessun altro modo potremo apprendere tale conoscenza, indispensabile per la vita eterna,
+« Nessuno conosce perfettamente il Padre tranne il Figlio
+e colui al quale il Figlio avrà voluto rivelarlo » (Mt. 11,27).
+
+
+2 — L'uomo può, con la sua ragione e risalendo dalle
+cose create alla loro causa prima, conoscere l'esistenza di
+Dio come creatore e padrone dell'universo, tuttavia si
+tratta sempre di una conoscenza mediata, indiretta, assai
+imperfetta, raggiunta con molta fatica e spesso anche attraverso molti errori.
+
+Ma vi sono altre verità divine assolutamente irraggiungibili dall'intelligenza umana, come, ad esempio, la Tri-
+nità di Dio, l'Incarnazione del Verbo, la Paternità divina
+nei nostri riguardi, la nostra incorporazione a Cristo e la
+nostra elevazione allo stato soprannaturale. Queste verità,
+che sono le più profonde, le più rivelatrici di Dio e della
+sua vita intima e che nello stesso tempo riguardano i nostri
+supremi destini, non avremmo mai potuto conoscerle se
+Gesù non fosse venuto a rivelarcele. Ed Egli ce le rivela
+con la più grande autorità: «Io parlo di quel che so e
+attesto quello che ho veduto... Io dico quello che ho veduto presso il Padre mio... Voi non conoscete il Padre,
+ma io lo conosco perchè sono da lui » (cfr. Gv. 3,11; 8,
+38; 7,28 e 29). Con la parabola del figliol prodigo e della
+pecorella smarrita, con le sue commoventi espressioni sulla
+bontà del Padre celeste che «fa sorgere il sole sui buoni
+e sui cattivi » (Mt. 5,45), che « nutre gli uccelli dell'aria
+e riveste i gigli del campo » (cfr. ivi, 6, 26-30), Gesù ci rivela la misericordia infinita, la provvidenza paterna di Dio
+che ci accoglie e ci nutre come suoi figli. Ma ce la rivela
+ancor più con le sue opere: con la sua sollecitudine per
+tutte le miserie materiali e spirituali, con l'amore che lo
+spinge continuamente in cerca di anime da salvare fino a
+dare la vita per loro. La buona novella portata da Gesù al
+mondo consiste soprattutto in questa rivelazione di Dio,
+carità infinita, di Dio, Padre nostro amantissimo, e su tale
+rivelazione si basa tutto il nuovo testamento, tutta la vita
+cristiana.
+
+### Colloquio
+
+«O Gesù Cristo, Figliolo di Dio, Verbo e Sapienza del
+Padre, Tu sei il libro della vita: Tu sei apparso in questo
+mondo per ammaestrarci con la vita, morte e dottrina tua...
+O Dio increato, fammi degna di conoscere come questo tuo
+Figliolo rivelò a noi te, suo Padre » (B. Angela da Foligno).
+
+O Gesù, anch'io ti prego con Filippo: « Mostrami il
+Padre », ma soggiungo subito : mostramelo in te, perchè il
+Padre è in te e Tu in lui, sì che, guardando te, vedo e trovo
+il Padre tuo. La tua Umanità è un velo che nasconde
+e cela la Divinità del Padre, Divinità che è pure la tua perchè Tu sei Dio come il Padre e come lo Spirito Santo. Tu
+sei il Verbo, o Gesù, ma il Verbo incarnato, e nella tua
+carne è, per così dire, scritta la Parola del Padre, sicchè
+io posso leggerla in te, unico vero libro della Vita. Con
+tutto il tuo Essere, con la tua Persona, le azioni e parole tue
+Tu mi riveli Dio; e sempre e in tutti i modi mi ripeti una
+grande cosa: Dio è carità. La vita eterna è conoscere te, o
+Gesù, e per mezzo tuo conoscere Dio, e questa conoscenza
+Tu solo puoi darmela, solo da te posso apprenderla; come
+è necessario dunque, e come desidero che Tu m'istruisca.
+« O Signore e mio vero Dio, chi non ti conosce non ti ama.
+
+Oh! grande verità! Ma che sventura, che sventura, Signore,
+per coloro che non ti vogliono conoscere! », (T.G.Es.14, I)
+O Gesù, che i mondani non si preoccupino di conoscere te
+e il Padre tuo è certo cosa deplorevole, ma che agisca così
+o si accontenti di conoscerti solo superficialmente un'anima a te consacrata, sarebbe un'enormità impensabile.
+O Signore, rivelati all'anima mia perchè io desidero conoscerti; conoscerti per amarti, per servirti, per regolare la
+mia vita secondo i tuoi desideri. «O Dio, forse che nel
+mondo quando si tratta di contrar matrimonio, non si
+cerca prima di conoscere chi sia quegli che si vuol sposare,
+le sue qualità, le sue sostanze? È noi che siamo già sposate, non dovremmo... conoscere chi sia il nostro Sposo,
+chi sia il Padre suo, quale il paese in cui ci deve condurre,
+quali le ricchezze che ci promette, che carattere abbia,
+in che cosa si debba fare per meglio accontentarlo, in che
+cosa potremmo fargli piacere e studiare il modo di conformare il nostro carattere col suo? Ma, o mio Sposo, sarà
+forse maì vero che, trattandosi di voi, si debba far meno
+conto che degli uomini?» (TG. Cam. 22,7e 8).

@@ -1,0 +1,112 @@
+## 319 — L'IMMOLAZIONE APOSTOLICA
+
+### Presenza di Dio
+
+O Gesù, immolato per la mia salvezza, fa’ ch’io sia degno d’immolarmi con te per la salvezza dei miei fratelli.
+
+### Meditazione
+
+! — La preghiera apostolica deve essere accompagnata dal sacrificio ad imitazione della preghiera che Ge-
+sù inalzò per noi al Padre nell’orto degli olivi e sulla Croce. L'amore deve spingere gli oranti « al sacrificio attivo
+che non si vinquilà nella preghiera finchè la pena e la
+
+
+sofferenza non abbiano quasi toccato il limite delle forze.
+In quei momenti, consumati dall’ardore della carità e dalla veemenza del desiderio, essi non saranto più dei preganti,
+ma preghiere viventi » (Pio XII, 17-1-43). Preghiera e sacrificio sono intimamente connessi perchè sgorgano da
+un’unica fiamma: l’amore che spinge all’orazione e all’immolazione incessante per la gloria di Dio e per la salvez-
+za delle anime. Vita contemplativa è quindi sinonimo di
+vita austera e penitente, sì da essere un continuo «sacrificio di lode ». Più la preghiera è nutrita, impastata di s
+crificio e più è efficace, anzi raggiunge la massima efficacia proprio quando il sacrificio è massimo.
+
+Ogni anima contemplativa deve « essere degno altare
+dove. possa risiedere la Divina Maestà » (G.C.S.I, 5,7),
+altare da cui s'inalza la preghiera e su cui s'immola il
+crificio, L’apostolato di Gesù è culminato e si è compiuto nell’annientamento della morte di croce e per mez-
+zo di essa; solo dopo essere stato maciullato dai flagelli
+trafitto dai chiodi, abbandonato da Dio e dagli uomini il
+Salvatore ha potuto dire; « Consummatum est», tutto è
+finito (Gv. 19,30). Così sarà di noi; soltanto quando ci
+saremo davvero sacrificati per le anime, soltanto quando
+avremo accettato con Gesù di immolarci totalmente per
+la loro salvezza, potremo con lui ripetere: tutto è compiuto. La nostra partecipazione all’apostolato di Gesù tro-
+va il suo compimento nel sacrificio di noi stessi: sacrificio non fantastico e ipotetico, ma reale e concreto, di cui
+Dio stesso ci indica la forma e la misura attraverso le
+circostanze della vita, le permissioni della sua divina Provvidenza, le disposizioni dei superiori, i doveri del nostro
+stato. Quando un'anima è disposta, per la salvezza dci fratelli, a vivere nel continuo sacrificio della propria volon-
+tà, nel continuo rinnegamento di sè; quando è disposta a
+lasciarsi crocifiggere in qualsiasi modo dalla santa volontà
+di Dio pur di conquistare al Suo amore altre anime, allora raggiunge il vertice dell’apostolato e quindi della fe-
+condità apostolica,
+
+
+2 — Molti non si salvano perchè non c’è chi prega
+e si sacrifica per essi. Senza le lacrime e le sofferenze di
+Monica molto probabilmente la Chiesa non avrebbe avuto
+S. Agostino. Benedette, dunque, quelle anime che dell’immolazione apostolica fanno la ragion d'essere e il fine del-
+la loro vita. « Mie sorelle in Cristo — scrive S. Teresa
+di Gesù alle sue figlie — unitevi con me nel domandare
+a Dio pia grazia [la salvezza delle anime). Per questo
+Egli vi
+ste le vostre incombenze e le brame vostre, questo il soggetto delle vostre lacrime e delle vostre preghiere... Il
+giorno in cui le vostre orazioni, le discipline, i desideri e
+1 digiuni vostri non fossero impiegati per ciò, non ragpiungerene — sappiatelo — il fine per cui il Signore vi
+
+a qui raccolte » (Ca. 1,5; 3,10), 1 contemplativi e le
+contemplative, non avendo mansioni di apostolato esterno,
+sono massimamente tenuti a concentrare tutte le loro forze nella preghiera e nel sacrificio, chè solo così corrispon-
+deranno alle grandi speranze che la Chiesa ripone in essi
+e realizzeranno la loro vocazione. Mediante le penitenze
+che provengono dal vivere in comune € dall’osservanza di
+una vita austera, umile, sottomessa in tutto all’obbedienza
+e priva di ogni soddisfazione umana, essi sono chiamati
+in modo speciale a compiere generosamente nella loro carne ciò che manca alla Passione di Cristo, in favore del
+suo Corpo mistico che è la Chiesa (cfr. Cost. Ap. Sporsa
+Christi).
+
+«Sono venuta al Carmelo per salvare le anime », aveva dichiarato S. Teresa del B. G. e, dopo aver consumato
+cd offerto a tale scopo tutte le sue energie, durante gli
+strazi dell'ultima malattia offriva per i peccatori anche
+quelle preghiere che si facevano per otternerle un po’ di
+sollievo.
+
+Ma se i contemplativi devono essere gli «specializzati» dell'apostolato del sacrificio, questo non può e non
+deve mancare, benchè in forma diversa, nella vita di ogni
+apostolo, Come Gesù ha comprato le anime nostre a prezzo del suo Sangue, così chiunque vuol collaborare con lui
+alla salvezza dell'umanità, deve essere disposto ad unire al
+Sangue prez mo di Cristo qualche goccia del proprio.
+Le anime costano care e |’ posalo deve pagare del suo
+uelle che vuol conquistare. L'apostolato è vero e fecon-
+"n a misura che è intriso di sofferenza, che è frutto di
+immolazione.
+
+### Colloquio
+
+«Signore, il mio cuore esulta pensando che ti sei degnato di scegliermi per associarmi alla grande opera della
+Redenzione e per soffrire in me quasi un prolungamento
+della tua Passione. Mi hai preso e vuoi che io sia per te
+quasi un'umanità aggiunta in cui Tu possa soffrire per la
+gloria del Padre, per i bisogni della tua Chiesa.
+
+«Come sarei felice, Maestro adorato, se mi chiedessi
+anche di versare il sangue per te. Ma ciò che bramo so-
+
+rattutto è il martirio d'amore che ha consumato i santi.
+poichè Tu hai detto che la più grande prova d'amore
+lar la vita per chi si ama, io ti do la mia, perchè Tu
+ne faccia ciò che vuoi; se non sono martire di sangue,
+voglio essere martire d'amore. /
+
+«Quanto mi rallegro pensando che, fin dall’eternità,
+noi siamo stati conosciuti dal Padre c che Egli vuol ritrovare in noi la tua immagine, o Cristo crocifisso! Co-
+m'è dunque necessario il dolore, perchè l’opera tua si
+compia in me! ‘Tu brami arricchirmi delle tue grazie, mi
+sono io che limito il tuo dono, che ne determino Ja misura in proporzione alla generosità con cui mi lascio im-
+molare da te.
+
+«O Signore, Tu chiamavi l'ora della tua Passione */x
+tua ora*, quella per la quale eri venuto, quella che tutti
+i tuoi desideri oa Quando una grande sofferenza, 0 anche un sacrificio piccolissimo mi si presenta, vo-
+glio pensare subito che quella è ‘l'ora wa”, l'ora in cui
+posso dar prova del mio amore a te che tanto mi hai
+amato » (E.T. Lt.).

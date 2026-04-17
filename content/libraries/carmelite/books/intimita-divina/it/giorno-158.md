@@ -1,0 +1,126 @@
+## 158 — VITA DI ORAZIONE
+
+### Presenza di Dio
+
+— O Signore, che io ti cerchi non solo in qualche ora o momento del giorno, ma in tutti i momenti della mia vita.
+
+### Meditazione
+
+a L'anima che anela ad una vita d’intimità con
+Dio, non si accontenta di limitare i suoi rapporti con
+Lui al tempo della preghiera, ma cerca di prolungarli
+durante tutta la giornata. E' questo un desiderio più che
+legittimo, perchè chi ama tende a rapporti sempre più
+stabili e continui con la persona amata. Così accade per
+l'anima che ama Dio; e ciò è tanto più possibile per
+il fatto che Dio stesso è sempre con noi, è sempre presente
+e operante in noi; si tratta, è vero, di una presenza spirituale, invisibile, ma reale e non soltanto affettiva e morale,
+come può essere quella della persona amata nella mente
+e nel cuore dell'amante,
+
+Se Dio è sempre con noi, perchè noi non potremo
+‘mantenerci in continuo contatto con Lui? Questo contatto si realizza mediante il pensiero e l'affetto, ma assai
+più con questo che con quello. Infatti, non è possibile
+pensare sempre a Dio, e perchè la mente si stanca, e perchè
+molte occupazioni richiedono tutta l'applicazione dell’intelligenza e questa non può attendere, nello stesso tempo,
+a due oggetti diversi. Invece, anche mentre il pensiero è
+occupato altrove, il cuore può sempre amare, nè mai si
+stanca di tendere all'oggetto del suo amore. Siccome l'amore
+soprannaturale non consiste nel sentimento, ma in un
+intimo orientamento della volontà verso Dio, noi vediamo
+che questo orientamento è ibile anche durante il di
+simpegno di doveri che assorbono tutta l'intelligenza. Anzi,
+la volontà potrà rafforzare questo suo orientamento verso
+
+
+XXIIT - VITA DI ORAZIONE 85
+Dio proprio col desiderio di compiere ogni dovere per amor
+suo, per fargli piacere, per dargli gloria. S. Tommaso,
+insegna appunto che il cuore può tendere sempre a Dio
+mediante <il desiderio della carità», ossia mediante il
+desiderio di amarlo, di servirlo e di unirsi a Lui in ogni
+azione. «La preghiera non è altro che un desiderio el
+cuore; se il vostro desiderio è continuo, la vostra preghiera
+è continua. Volete dunque non cessar mai di pregare?
+Non cessate mai di desiderare » (S. Agostino).
+
+
+2. — Come l’orazione non consiste nel molto pensare,
+ma nel molto amare, così la vita di continua preghiera
+consiste assai più nell'amore che nel pensiero. Tuttavia
+una certa attività del pensiero è necessaria, sia per orientare
+il cuore verso Dio, sia per mantenerlo in tale direzione.
+
+L'anima che si applica bene alla sua orazione mentale,
+facilmente raccoglierà in essa dei buoni pensieri che potranno servirle nella giornata per mantenere il suo cuore indirizzato a Dio; sarà quindi utile che spesso, fra le sue occupazioni, cerchi di ridestare tali pensieri e di agganciarli alla
+sua vita pratica.
+
+Se, ad esempio, nell’orazione abbiamo considerato l'infinita misericordia di Dio nei nostri riguardi, cercheremo
+che questo pensiero ci segua anche in mezzo alle nostre
+occupazioni, riconoscendo ‘nelle varie circostanze in cui
+ci veniamo a trovare altrettanti tratti di questa misericordia. Infatti, tanti avvenimenti, che da un punto di vista
+umano sono spiacevoli e penosi, nascondono in realtà delle
+vere misericordie del Signore che, mediante î dolori, le
+fatiche e le noie della vita, vuol distaccarci dalle creature,
+farci esercitare la virtù e progredire verso il bene. D'altra
+parte, nei nostri contatti col prossimo cercheremo di imitare la misericordia del Signore: «Siate misericordiosi,
+‘come è misericordioso il Padre vostro » (Lc. 6, 36). Se poi
+la nostra orazione si sarà svolta nell’aridità senza lasciarci
+alcun pensiero determinato, ma solo un senso più pro-
+
+
+fondo del nostro nulla e dell’infinita grandezza di Dio,
+ne faremo tesoro cercando, durante il iorno, di compiere
+i nostri doveri in spirito di umiltà e di omaggio a Dio,
+lieti se si presenterà qualche occasione di umiliarei e di
+riconoscere la nostra pochezza anche di fronte alle creature
+e di esaltare invece le grandezze del Signore,
+
+In tal modo l’orazione non rimarrà un fatto isolato
+nella nostra giornata, ma la penetrerà tutta, conferendo
+
+
+ad ogni azione e circostanza un tono di continua pre
+ghiera.
+
+### Colloquio
+
+«O Signore, fa' che Ja mia vita sia orazione continua,
+alla quale è obbligata ogni creatura ragionevole. Questa
+orazione nasce dall'amore, è fuoco e vero desiderio fondato
+nella carità che spinge l'anima a fare tutte le sue opera
+zioni per onor tuo. Desta in me, o Signore, la carità,
+affinchè io sempre ti desideri e, sempre desiderandoti, continuamente preghi. In ogni luogo, in ogni tempo, in tutto
+ciò che faccio, l'anima mia sempre preghi dinanzi a te per
+l'affetto della carità » (cfr. S. Caterina da Siena).
+
+«Mio Dio, se io fossi inebriato d’amore per te, niente
+altro cercherei in tutte le cose, se non come servirti con
+maggior diligenza e perfezione e, rinnegando la mia volontà in tutto e per tutto, mi sforzerei, con slancio di cuore,
+di fare soltanto quello che è di tuo maggior gusto.
+
+«Dammi, o Signore, sì grande fervore e smisurato
+amore che io non faccia differenza tra vita e vita, stato
+€ stato, persona © persona, tempo e tempo, luogo e luogo,
+ma comunque ed in qualunque ora mi adopri a compiere
+mei che a te più piace, sempre tendendo a te con l'affetto
+ell'anima. Fa' che io veda tutte le cose in te e in tutte
+le cose non veda altro che te, sempre sospiroso, sempre
+bramoso di servirti in ogni cosa; e, tutto acceso, tutto
+ardente d'amore, non consideri quel che a me è più
+facile e soave, ma soltanto ciò che a te torna più gradito.
+
+
+NZ 87
+XXIù - ESERCIZIO DELLA PRESENZA DI DIO
+
+
+«Concedimi, o Signore, d’'imitare gli angelici spiriti
+che, mentre stanno con noi, non cessano. però dalla divina
+contemplazione. Fa’ che tratti e serva i miei el con
+siderando e godendo te in loro e pra AS Tosi;
+porgendo il cuore a te. E quando mi avv ; ca or D:
+narmi da questo nobile esercizio, aiutami è rl De T i
+subito facendo ogni sforzo per riuscirvi, sì che, co dae
+divino soccorso, possa sempre vivere col cuore fisso in te»
+{cfr. S. Bonaventura).

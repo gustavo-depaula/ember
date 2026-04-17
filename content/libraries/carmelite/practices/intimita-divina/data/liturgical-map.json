@@ -1,0 +1,1169 @@
+{
+  "temporal": {
+    "advent/1/0": {
+      "primary": "giorno-001"
+    },
+    "advent/1/1": {
+      "primary": "giorno-002"
+    },
+    "advent/1/2": {
+      "primary": "giorno-003"
+    },
+    "advent/1/3": {
+      "primary": "giorno-004"
+    },
+    "advent/1/4": {
+      "primary": "giorno-005"
+    },
+    "advent/1/5": {
+      "primary": "giorno-006"
+    },
+    "advent/1/6": {
+      "primary": "giorno-007"
+    },
+    "advent/2/0": {
+      "primary": "giorno-008"
+    },
+    "advent/2/1": {
+      "primary": "giorno-009"
+    },
+    "advent/2/2": {
+      "primary": "giorno-010"
+    },
+    "advent/2/3": {
+      "primary": "giorno-011"
+    },
+    "advent/2/4": {
+      "primary": "giorno-012"
+    },
+    "advent/2/5": {
+      "primary": "giorno-013"
+    },
+    "advent/2/6": {
+      "primary": "giorno-014"
+    },
+    "advent/3/0": {
+      "primary": "giorno-015"
+    },
+    "advent/3/1": {
+      "primary": "giorno-016"
+    },
+    "advent/3/2": {
+      "primary": "giorno-017"
+    },
+    "advent/3/3": {
+      "primary": "giorno-018"
+    },
+    "advent/3/4": {
+      "primary": "giorno-019"
+    },
+    "christmas/sunday-after-circumcision/0": {
+      "primary": "giorno-033"
+    },
+    "christmas/epiphany-octave-saturday/6": {
+      "primary": "giorno-037"
+    },
+    "epiphany/1/0": {
+      "primary": "giorno-042"
+    },
+    "epiphany/1/1": {
+      "primary": "giorno-043"
+    },
+    "epiphany/1/2": {
+      "primary": "giorno-044"
+    },
+    "epiphany/1/3": {
+      "primary": "giorno-045"
+    },
+    "epiphany/1/4": {
+      "primary": "giorno-046"
+    },
+    "epiphany/1/5": {
+      "primary": "giorno-047"
+    },
+    "epiphany/1/6": {
+      "primary": "giorno-048"
+    },
+    "epiphany/2/0": {
+      "primary": "giorno-049"
+    },
+    "epiphany/2/1": {
+      "primary": "giorno-050"
+    },
+    "epiphany/2/2": {
+      "primary": "giorno-051"
+    },
+    "epiphany/2/3": {
+      "primary": "giorno-052"
+    },
+    "epiphany/2/4": {
+      "primary": "giorno-053"
+    },
+    "epiphany/2/5": {
+      "primary": "giorno-054"
+    },
+    "epiphany/2/6": {
+      "primary": "giorno-055"
+    },
+    "epiphany/3/0": {
+      "primary": "giorno-056"
+    },
+    "epiphany/3/1": {
+      "primary": "giorno-057"
+    },
+    "epiphany/3/2": {
+      "primary": "giorno-058"
+    },
+    "epiphany/3/3": {
+      "primary": "giorno-059"
+    },
+    "epiphany/3/4": {
+      "primary": "giorno-060"
+    },
+    "epiphany/3/5": {
+      "primary": "giorno-061"
+    },
+    "epiphany/3/6": {
+      "primary": "giorno-062"
+    },
+    "epiphany/4/0": {
+      "primary": "giorno-063"
+    },
+    "epiphany/4/1": {
+      "primary": "giorno-064"
+    },
+    "epiphany/4/2": {
+      "primary": "giorno-065"
+    },
+    "epiphany/4/3": {
+      "primary": "giorno-066"
+    },
+    "epiphany/4/4": {
+      "primary": "giorno-067"
+    },
+    "epiphany/4/5": {
+      "primary": "giorno-068"
+    },
+    "epiphany/4/6": {
+      "primary": "giorno-069"
+    },
+    "epiphany/5/0": {
+      "primary": "giorno-070"
+    },
+    "epiphany/5/1": {
+      "primary": "giorno-071"
+    },
+    "epiphany/5/2": {
+      "primary": "giorno-072"
+    },
+    "epiphany/5/3": {
+      "primary": "giorno-073"
+    },
+    "epiphany/5/4": {
+      "primary": "giorno-074"
+    },
+    "epiphany/5/5": {
+      "primary": "giorno-075"
+    },
+    "epiphany/5/6": {
+      "primary": "giorno-076"
+    },
+    "epiphany-leftover/3/0": {
+      "primary": "giorno-056"
+    },
+    "epiphany-leftover/3/1": {
+      "primary": "giorno-057"
+    },
+    "epiphany-leftover/3/2": {
+      "primary": "giorno-058"
+    },
+    "epiphany-leftover/3/3": {
+      "primary": "giorno-059"
+    },
+    "epiphany-leftover/3/4": {
+      "primary": "giorno-060"
+    },
+    "epiphany-leftover/3/5": {
+      "primary": "giorno-061"
+    },
+    "epiphany-leftover/3/6": {
+      "primary": "giorno-062"
+    },
+    "epiphany-leftover/4/0": {
+      "primary": "giorno-063"
+    },
+    "epiphany-leftover/4/1": {
+      "primary": "giorno-064"
+    },
+    "epiphany-leftover/4/2": {
+      "primary": "giorno-065"
+    },
+    "epiphany-leftover/4/3": {
+      "primary": "giorno-066"
+    },
+    "epiphany-leftover/4/4": {
+      "primary": "giorno-067"
+    },
+    "epiphany-leftover/4/5": {
+      "primary": "giorno-068"
+    },
+    "epiphany-leftover/4/6": {
+      "primary": "giorno-069"
+    },
+    "epiphany-leftover/5/0": {
+      "primary": "giorno-070"
+    },
+    "epiphany-leftover/5/1": {
+      "primary": "giorno-071"
+    },
+    "epiphany-leftover/5/2": {
+      "primary": "giorno-072"
+    },
+    "epiphany-leftover/5/3": {
+      "primary": "giorno-073"
+    },
+    "epiphany-leftover/5/4": {
+      "primary": "giorno-074"
+    },
+    "epiphany-leftover/5/5": {
+      "primary": "giorno-075"
+    },
+    "epiphany-leftover/5/6": {
+      "primary": "giorno-076"
+    },
+    "septuagesima/1/0": {
+      "primary": "giorno-077"
+    },
+    "septuagesima/1/1": {
+      "primary": "giorno-078"
+    },
+    "septuagesima/1/2": {
+      "primary": "giorno-079"
+    },
+    "septuagesima/1/3": {
+      "primary": "giorno-080"
+    },
+    "septuagesima/1/4": {
+      "primary": "giorno-081"
+    },
+    "septuagesima/1/5": {
+      "primary": "giorno-082"
+    },
+    "septuagesima/1/6": {
+      "primary": "giorno-083"
+    },
+    "septuagesima/2/0": {
+      "primary": "giorno-084"
+    },
+    "septuagesima/2/1": {
+      "primary": "giorno-085"
+    },
+    "septuagesima/2/2": {
+      "primary": "giorno-086"
+    },
+    "septuagesima/2/3": {
+      "primary": "giorno-087"
+    },
+    "septuagesima/2/4": {
+      "primary": "giorno-088"
+    },
+    "septuagesima/2/5": {
+      "primary": "giorno-089"
+    },
+    "septuagesima/2/6": {
+      "primary": "giorno-090"
+    },
+    "septuagesima/3/0": {
+      "primary": "giorno-091"
+    },
+    "septuagesima/3/1": {
+      "primary": "giorno-092"
+    },
+    "septuagesima/3/2": {
+      "primary": "giorno-093"
+    },
+    "septuagesima/3/3": {
+      "primary": "giorno-094"
+    },
+    "septuagesima/3/4": {
+      "primary": "giorno-095"
+    },
+    "septuagesima/3/5": {
+      "primary": "giorno-096"
+    },
+    "septuagesima/3/6": {
+      "primary": "giorno-097"
+    },
+    "lent/1/0": {
+      "primary": "giorno-098"
+    },
+    "lent/1/1": {
+      "primary": "giorno-099"
+    },
+    "lent/1/2": {
+      "primary": "giorno-100"
+    },
+    "lent/1/3": {
+      "primary": "giorno-101"
+    },
+    "lent/1/4": {
+      "primary": "giorno-102"
+    },
+    "lent/2/0": {
+      "primary": "giorno-103"
+    },
+    "lent/2/1": {
+      "primary": "giorno-104"
+    },
+    "lent/2/2": {
+      "primary": "giorno-105"
+    },
+    "lent/2/3": {
+      "primary": "giorno-106"
+    },
+    "lent/2/4": {
+      "primary": "giorno-107"
+    },
+    "lent/2/5": {
+      "primary": "giorno-108"
+    },
+    "lent/2/6": {
+      "primary": "giorno-109"
+    },
+    "lent/3/0": {
+      "primary": "giorno-110"
+    },
+    "lent/3/1": {
+      "primary": "giorno-111"
+    },
+    "lent/3/2": {
+      "primary": "giorno-112"
+    },
+    "lent/3/3": {
+      "primary": "giorno-113"
+    },
+    "lent/3/4": {
+      "primary": "giorno-114"
+    },
+    "lent/3/5": {
+      "primary": "giorno-115"
+    },
+    "lent/3/6": {
+      "primary": "giorno-116"
+    },
+    "lent/4/0": {
+      "primary": "giorno-117"
+    },
+    "lent/4/1": {
+      "primary": "giorno-118"
+    },
+    "lent/4/2": {
+      "primary": "giorno-119"
+    },
+    "lent/4/3": {
+      "primary": "giorno-120"
+    },
+    "lent/4/4": {
+      "primary": "giorno-121"
+    },
+    "lent/4/5": {
+      "primary": "giorno-122"
+    },
+    "lent/4/6": {
+      "primary": "giorno-123"
+    },
+    "lent/5/0": {
+      "primary": "giorno-124"
+    },
+    "lent/5/1": {
+      "primary": "giorno-125"
+    },
+    "lent/5/2": {
+      "primary": "giorno-126"
+    },
+    "lent/5/3": {
+      "primary": "giorno-127"
+    },
+    "lent/5/4": {
+      "primary": "giorno-128"
+    },
+    "lent/5/5": {
+      "primary": "giorno-129"
+    },
+    "lent/5/6": {
+      "primary": "giorno-130"
+    },
+    "holy-week/1/0": {
+      "primary": "giorno-131"
+    },
+    "holy-week/1/1": {
+      "primary": "giorno-132"
+    },
+    "holy-week/1/2": {
+      "primary": "giorno-133"
+    },
+    "holy-week/1/3": {
+      "primary": "giorno-134"
+    },
+    "holy-week/1/4": {
+      "primary": "giorno-135"
+    },
+    "holy-week/1/5": {
+      "primary": "giorno-136"
+    },
+    "holy-week/1/6": {
+      "primary": "giorno-137"
+    },
+    "easter/1/0": {
+      "primary": "giorno-142"
+    },
+    "easter/1/1": {
+      "primary": "giorno-143"
+    },
+    "easter/1/2": {
+      "primary": "giorno-144"
+    },
+    "easter/1/3": {
+      "primary": "giorno-145"
+    },
+    "easter/1/4": {
+      "primary": "giorno-146"
+    },
+    "easter/1/5": {
+      "primary": "giorno-147"
+    },
+    "easter/2/0": {
+      "primary": "giorno-148"
+    },
+    "easter/2/1": {
+      "primary": "giorno-149"
+    },
+    "easter/2/2": {
+      "primary": "giorno-150"
+    },
+    "easter/2/3": {
+      "primary": "giorno-151"
+    },
+    "easter/3/0": {
+      "primary": "giorno-152"
+    },
+    "easter/3/1": {
+      "primary": "giorno-153"
+    },
+    "easter/3/2": {
+      "primary": "giorno-154"
+    },
+    "easter/3/3": {
+      "primary": "giorno-155"
+    },
+    "easter/3/4": {
+      "primary": "giorno-156"
+    },
+    "easter/4/0": {
+      "primary": "giorno-157"
+    },
+    "easter/4/1": {
+      "primary": "giorno-158"
+    },
+    "easter/4/2": {
+      "primary": "giorno-159"
+    },
+    "easter/4/3": {
+      "primary": "giorno-160"
+    },
+    "easter/4/4": {
+      "primary": "giorno-161"
+    },
+    "easter/4/5": {
+      "primary": "giorno-162"
+    },
+    "easter/5/0": {
+      "primary": "giorno-163"
+    },
+    "easter/5/1": {
+      "primary": "giorno-164"
+    },
+    "easter/5/2": {
+      "primary": "giorno-165"
+    },
+    "easter/5/3": {
+      "primary": "giorno-166"
+    },
+    "easter/5/4": {
+      "primary": "giorno-167"
+    },
+    "easter/5/5": {
+      "primary": "giorno-168"
+    },
+    "easter/6/0": {
+      "primary": "giorno-169"
+    },
+    "easter/6/1": {
+      "primary": "giorno-170"
+    },
+    "easter/6/2": {
+      "primary": "giorno-171"
+    },
+    "easter/6/3": {
+      "primary": "giorno-172"
+    },
+    "easter/6/4": {
+      "primary": "giorno-173"
+    },
+    "easter/6/5": {
+      "primary": "giorno-174"
+    },
+    "easter/6/6": {
+      "primary": "giorno-175"
+    },
+    "easter/7/0": {
+      "primary": "giorno-176"
+    },
+    "easter/7/1": {
+      "primary": "giorno-177"
+    },
+    "easter/7/2": {
+      "primary": "giorno-178"
+    },
+    "easter/7/3": {
+      "primary": "giorno-179"
+    },
+    "easter/7/4": {
+      "primary": "giorno-180"
+    },
+    "easter/7/5": {
+      "primary": "giorno-181"
+    },
+    "easter/8/0": {
+      "primary": "giorno-182"
+    },
+    "easter/8/1": {
+      "primary": "giorno-183"
+    },
+    "easter/8/2": {
+      "primary": "giorno-184"
+    },
+    "easter/8/3": {
+      "primary": "giorno-185"
+    },
+    "easter/8/4": {
+      "primary": "giorno-186"
+    },
+    "easter/8/5": {
+      "primary": "giorno-187"
+    },
+    "easter/8/6": {
+      "primary": "giorno-188"
+    },
+    "post-pentecost/1/0": {
+      "primary": "giorno-189"
+    },
+    "post-pentecost/1/1": {
+      "primary": "giorno-190"
+    },
+    "post-pentecost/1/2": {
+      "primary": "giorno-191"
+    },
+    "post-pentecost/1/3": {
+      "primary": "giorno-192"
+    },
+    "post-pentecost/1/4": {
+      "primary": "giorno-193"
+    },
+    "post-pentecost/1/5": {
+      "primary": "giorno-194"
+    },
+    "post-pentecost/1/6": {
+      "primary": "giorno-195"
+    },
+    "post-pentecost/2/0": {
+      "primary": "giorno-197"
+    },
+    "post-pentecost/2/1": {
+      "primary": "giorno-198"
+    },
+    "post-pentecost/2/2": {
+      "primary": "giorno-199"
+    },
+    "post-pentecost/2/3": {
+      "primary": "giorno-200"
+    },
+    "post-pentecost/2/4": {
+      "primary": "giorno-201"
+    },
+    "post-pentecost/2/5": {
+      "primary": "giorno-202"
+    },
+    "post-pentecost/2/6": {
+      "primary": "giorno-203"
+    },
+    "post-pentecost/3/0": {
+      "primary": "giorno-204"
+    },
+    "post-pentecost/3/1": {
+      "primary": "giorno-205"
+    },
+    "post-pentecost/3/2": {
+      "primary": "giorno-206"
+    },
+    "post-pentecost/3/3": {
+      "primary": "giorno-207"
+    },
+    "post-pentecost/3/4": {
+      "primary": "giorno-208"
+    },
+    "post-pentecost/3/5": {
+      "primary": "giorno-209"
+    },
+    "post-pentecost/3/6": {
+      "primary": "giorno-210"
+    },
+    "post-pentecost/4/0": {
+      "primary": "giorno-211"
+    },
+    "post-pentecost/4/1": {
+      "primary": "giorno-212"
+    },
+    "post-pentecost/4/2": {
+      "primary": "giorno-213"
+    },
+    "post-pentecost/4/3": {
+      "primary": "giorno-214"
+    },
+    "post-pentecost/4/4": {
+      "primary": "giorno-215"
+    },
+    "post-pentecost/5/0": {
+      "primary": "giorno-216"
+    },
+    "post-pentecost/5/1": {
+      "primary": "giorno-217"
+    },
+    "post-pentecost/5/2": {
+      "primary": "giorno-218"
+    },
+    "post-pentecost/5/3": {
+      "primary": "giorno-219"
+    },
+    "post-pentecost/5/4": {
+      "primary": "giorno-220"
+    },
+    "post-pentecost/5/5": {
+      "primary": "giorno-221"
+    },
+    "post-pentecost/5/6": {
+      "primary": "giorno-222"
+    },
+    "post-pentecost/6/0": {
+      "primary": "giorno-223"
+    },
+    "post-pentecost/6/1": {
+      "primary": "giorno-224"
+    },
+    "post-pentecost/6/2": {
+      "primary": "giorno-225"
+    },
+    "post-pentecost/6/3": {
+      "primary": "giorno-226"
+    },
+    "post-pentecost/6/4": {
+      "primary": "giorno-227"
+    },
+    "post-pentecost/6/5": {
+      "primary": "giorno-228"
+    },
+    "post-pentecost/6/6": {
+      "primary": "giorno-229"
+    },
+    "post-pentecost/7/0": {
+      "primary": "giorno-230"
+    },
+    "post-pentecost/7/1": {
+      "primary": "giorno-231"
+    },
+    "post-pentecost/7/2": {
+      "primary": "giorno-232"
+    },
+    "post-pentecost/7/3": {
+      "primary": "giorno-233"
+    },
+    "post-pentecost/7/4": {
+      "primary": "giorno-234"
+    },
+    "post-pentecost/7/5": {
+      "primary": "giorno-235"
+    },
+    "post-pentecost/8/0": {
+      "primary": "giorno-236"
+    },
+    "post-pentecost/8/1": {
+      "primary": "giorno-237"
+    },
+    "post-pentecost/8/2": {
+      "primary": "giorno-238"
+    },
+    "post-pentecost/8/3": {
+      "primary": "giorno-239"
+    },
+    "post-pentecost/8/4": {
+      "primary": "giorno-240"
+    },
+    "post-pentecost/8/5": {
+      "primary": "giorno-241"
+    },
+    "post-pentecost/8/6": {
+      "primary": "giorno-242"
+    },
+    "post-pentecost/9/0": {
+      "primary": "giorno-243"
+    },
+    "post-pentecost/9/1": {
+      "primary": "giorno-244"
+    },
+    "post-pentecost/9/2": {
+      "primary": "giorno-245"
+    },
+    "post-pentecost/9/3": {
+      "primary": "giorno-246"
+    },
+    "post-pentecost/9/4": {
+      "primary": "giorno-247"
+    },
+    "post-pentecost/9/5": {
+      "primary": "giorno-248"
+    },
+    "post-pentecost/9/6": {
+      "primary": "giorno-249"
+    },
+    "post-pentecost/10/0": {
+      "primary": "giorno-250"
+    },
+    "post-pentecost/10/1": {
+      "primary": "giorno-251"
+    },
+    "post-pentecost/10/2": {
+      "primary": "giorno-252"
+    },
+    "post-pentecost/10/3": {
+      "primary": "giorno-253"
+    },
+    "post-pentecost/10/4": {
+      "primary": "giorno-254"
+    },
+    "post-pentecost/10/5": {
+      "primary": "giorno-255"
+    },
+    "post-pentecost/11/0": {
+      "primary": "giorno-256"
+    },
+    "post-pentecost/11/1": {
+      "primary": "giorno-257"
+    },
+    "post-pentecost/11/2": {
+      "primary": "giorno-258"
+    },
+    "post-pentecost/11/3": {
+      "primary": "giorno-259"
+    },
+    "post-pentecost/11/4": {
+      "primary": "giorno-260"
+    },
+    "post-pentecost/11/5": {
+      "primary": "giorno-261"
+    },
+    "post-pentecost/11/6": {
+      "primary": "giorno-262"
+    },
+    "post-pentecost/12/0": {
+      "primary": "giorno-263"
+    },
+    "post-pentecost/12/1": {
+      "primary": "giorno-264"
+    },
+    "post-pentecost/12/2": {
+      "primary": "giorno-265"
+    },
+    "post-pentecost/12/3": {
+      "primary": "giorno-266"
+    },
+    "post-pentecost/12/4": {
+      "primary": "giorno-267"
+    },
+    "post-pentecost/12/5": {
+      "primary": "giorno-268"
+    },
+    "post-pentecost/12/6": {
+      "primary": "giorno-269"
+    },
+    "post-pentecost/13/0": {
+      "primary": "giorno-270"
+    },
+    "post-pentecost/13/1": {
+      "primary": "giorno-271"
+    },
+    "post-pentecost/13/2": {
+      "primary": "giorno-272"
+    },
+    "post-pentecost/13/3": {
+      "primary": "giorno-273"
+    },
+    "post-pentecost/13/4": {
+      "primary": "giorno-274"
+    },
+    "post-pentecost/13/5": {
+      "primary": "giorno-275"
+    },
+    "post-pentecost/14/0": {
+      "primary": "giorno-276"
+    },
+    "post-pentecost/14/1": {
+      "primary": "giorno-277"
+    },
+    "post-pentecost/14/2": {
+      "primary": "giorno-278"
+    },
+    "post-pentecost/14/3": {
+      "primary": "giorno-279"
+    },
+    "post-pentecost/14/4": {
+      "primary": "giorno-280"
+    },
+    "post-pentecost/14/5": {
+      "primary": "giorno-281"
+    },
+    "post-pentecost/14/6": {
+      "primary": "giorno-282"
+    },
+    "post-pentecost/15/0": {
+      "primary": "giorno-283"
+    },
+    "post-pentecost/15/1": {
+      "primary": "giorno-284"
+    },
+    "post-pentecost/15/2": {
+      "primary": "giorno-285"
+    },
+    "post-pentecost/15/3": {
+      "primary": "giorno-286"
+    },
+    "post-pentecost/15/4": {
+      "primary": "giorno-287"
+    },
+    "post-pentecost/15/5": {
+      "primary": "giorno-288"
+    },
+    "post-pentecost/15/6": {
+      "primary": "giorno-289"
+    },
+    "post-pentecost/16/0": {
+      "primary": "giorno-290"
+    },
+    "post-pentecost/16/1": {
+      "primary": "giorno-291"
+    },
+    "post-pentecost/16/2": {
+      "primary": "giorno-292"
+    },
+    "post-pentecost/16/3": {
+      "primary": "giorno-293"
+    },
+    "post-pentecost/16/4": {
+      "primary": "giorno-294"
+    },
+    "post-pentecost/16/5": {
+      "primary": "giorno-295"
+    },
+    "post-pentecost/16/6": {
+      "primary": "giorno-296"
+    },
+    "post-pentecost/17/0": {
+      "primary": "giorno-297"
+    },
+    "post-pentecost/17/1": {
+      "primary": "giorno-298"
+    },
+    "post-pentecost/17/2": {
+      "primary": "giorno-299"
+    },
+    "post-pentecost/17/3": {
+      "primary": "giorno-300"
+    },
+    "post-pentecost/17/4": {
+      "primary": "giorno-301"
+    },
+    "post-pentecost/17/5": {
+      "primary": "giorno-302"
+    },
+    "post-pentecost/17/6": {
+      "primary": "giorno-303"
+    },
+    "post-pentecost/18/0": {
+      "primary": "giorno-304"
+    },
+    "post-pentecost/18/1": {
+      "primary": "giorno-305"
+    },
+    "post-pentecost/18/2": {
+      "primary": "giorno-306"
+    },
+    "post-pentecost/18/3": {
+      "primary": "giorno-307"
+    },
+    "post-pentecost/18/4": {
+      "primary": "giorno-308"
+    },
+    "post-pentecost/18/5": {
+      "primary": "giorno-309"
+    },
+    "post-pentecost/18/6": {
+      "primary": "giorno-310"
+    },
+    "post-pentecost/19/0": {
+      "primary": "giorno-315"
+    },
+    "post-pentecost/19/1": {
+      "primary": "giorno-316"
+    },
+    "post-pentecost/19/2": {
+      "primary": "giorno-317"
+    },
+    "post-pentecost/19/3": {
+      "primary": "giorno-318"
+    },
+    "post-pentecost/19/4": {
+      "primary": "giorno-319"
+    },
+    "post-pentecost/19/5": {
+      "primary": "giorno-320"
+    },
+    "post-pentecost/19/6": {
+      "primary": "giorno-321"
+    },
+    "post-pentecost/20/0": {
+      "primary": "giorno-322"
+    },
+    "post-pentecost/20/1": {
+      "primary": "giorno-323"
+    },
+    "post-pentecost/20/2": {
+      "primary": "giorno-324"
+    },
+    "post-pentecost/20/3": {
+      "primary": "giorno-325"
+    },
+    "post-pentecost/20/4": {
+      "primary": "giorno-326"
+    },
+    "post-pentecost/20/5": {
+      "primary": "giorno-327"
+    },
+    "post-pentecost/20/6": {
+      "primary": "giorno-328"
+    },
+    "post-pentecost/21/0": {
+      "primary": "giorno-329"
+    },
+    "post-pentecost/21/1": {
+      "primary": "giorno-330"
+    },
+    "post-pentecost/21/2": {
+      "primary": "giorno-331"
+    },
+    "post-pentecost/21/3": {
+      "primary": "giorno-332"
+    },
+    "post-pentecost/21/4": {
+      "primary": "giorno-333"
+    },
+    "post-pentecost/21/5": {
+      "primary": "giorno-334"
+    },
+    "post-pentecost/22/0": {
+      "primary": "giorno-335"
+    },
+    "post-pentecost/22/1": {
+      "primary": "giorno-336"
+    },
+    "post-pentecost/22/2": {
+      "primary": "giorno-337"
+    },
+    "post-pentecost/22/3": {
+      "primary": "giorno-338"
+    },
+    "post-pentecost/22/4": {
+      "primary": "giorno-339"
+    },
+    "post-pentecost/22/5": {
+      "primary": "giorno-340"
+    },
+    "post-pentecost/22/6": {
+      "primary": "giorno-341"
+    },
+    "post-pentecost/23/0": {
+      "primary": "giorno-342"
+    },
+    "post-pentecost/23/1": {
+      "primary": "giorno-343"
+    },
+    "post-pentecost/23/2": {
+      "primary": "giorno-344"
+    },
+    "post-pentecost/23/3": {
+      "primary": "giorno-345"
+    },
+    "post-pentecost/23/4": {
+      "primary": "giorno-346"
+    },
+    "post-pentecost/23/5": {
+      "primary": "giorno-347"
+    },
+    "post-pentecost/23/6": {
+      "primary": "giorno-348"
+    },
+    "post-pentecost/24/0": {
+      "primary": "giorno-349"
+    },
+    "post-pentecost/24/1": {
+      "primary": "giorno-350"
+    },
+    "post-pentecost/24/2": {
+      "primary": "giorno-351"
+    },
+    "post-pentecost/24/3": {
+      "primary": "giorno-352"
+    },
+    "post-pentecost/24/4": {
+      "primary": "giorno-353"
+    },
+    "post-pentecost/24/5": {
+      "primary": "giorno-354"
+    },
+    "post-pentecost/25/0": {
+      "primary": "giorno-355"
+    },
+    "post-pentecost/25/1": {
+      "primary": "giorno-356"
+    },
+    "post-pentecost/25/2": {
+      "primary": "giorno-357"
+    },
+    "post-pentecost/25/3": {
+      "primary": "giorno-358"
+    },
+    "post-pentecost/25/4": {
+      "primary": "giorno-359"
+    },
+    "post-pentecost/25/5": {
+      "primary": "giorno-360"
+    },
+    "post-pentecost/25/6": {
+      "primary": "giorno-361"
+    }
+  },
+  "fixedDates": {
+    "12-20": {
+      "primary": "giorno-020"
+    },
+    "12-21": {
+      "primary": "giorno-021"
+    },
+    "12-22": {
+      "primary": "giorno-022"
+    },
+    "12-23": {
+      "primary": "giorno-023"
+    },
+    "12-24": {
+      "primary": "giorno-024"
+    },
+    "12-25": {
+      "primary": "giorno-025"
+    },
+    "12-26": {
+      "primary": "giorno-026"
+    },
+    "12-27": {
+      "primary": "giorno-027"
+    },
+    "12-28": {
+      "primary": "giorno-028"
+    },
+    "12-29": {
+      "primary": "giorno-029"
+    },
+    "12-30": {
+      "primary": "giorno-030"
+    },
+    "12-31": {
+      "primary": "giorno-031"
+    },
+    "01-01": {
+      "primary": "giorno-032"
+    },
+    "01-02": {
+      "primary": "giorno-033"
+    },
+    "01-03": {
+      "primary": "giorno-034"
+    },
+    "01-04": {
+      "primary": "giorno-035"
+    },
+    "01-05": {
+      "primary": "giorno-036"
+    },
+    "01-06": {
+      "primary": "giorno-037"
+    },
+    "01-07": {
+      "primary": "giorno-038"
+    },
+    "01-08": {
+      "primary": "giorno-039"
+    },
+    "01-09": {
+      "primary": "giorno-040"
+    },
+    "01-10": {
+      "primary": "giorno-041"
+    },
+    "02-02": {
+      "primary": "giorno-138"
+    },
+    "03-19": {
+      "primary": "giorno-139"
+    },
+    "03-20": {
+      "primary": "giorno-140"
+    },
+    "03-25": {
+      "primary": "giorno-141"
+    },
+    "10-07": {
+      "primary": "giorno-362"
+    },
+    "10-11": {
+      "primary": "giorno-363"
+    },
+    "11-01": {
+      "primary": "giorno-365"
+    },
+    "11-02": {
+      "primary": "giorno-366"
+    },
+    "11-21": {
+      "primary": "giorno-367"
+    }
+  },
+  "feasts": {},
+  "novenas": {},
+  "weekdaysOfMonths": {},
+  "reserves": [
+    "giorno-196",
+    "giorno-311",
+    "giorno-312",
+    "giorno-313",
+    "giorno-314",
+    "giorno-364"
+  ]
+}

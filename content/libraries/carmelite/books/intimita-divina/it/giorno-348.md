@@ -1,0 +1,98 @@
+## 348 — AMORE ESTIMATIVO
+
+### Presenza di Dio
+
+Dio mio, Bene sommo ed infinito, fa' che nulla stimi più di te e nulla preferisca a te.
+
+### Meditazione
+
+1 — «Sai tu cosa vuol dire amarmi per davvero? —
+diceva il Signore a S. Teresa di Gesù — Persuadersi che
+è menzogna tutto quello che a me non piace » (Vi. 40, 1).
+Benchè senza suono di parole, lo Spirito Santo imparte
+questa lezione ad ogni anima che si lascia da lui plasmare e purificare; quanto più Egli la illumina sulla verità
+della sua miseria e della miseria di tutte le creature, tanto più l'anima ne resta svogliata e ritrae da esse ogni speranza, giungendo davvero a stimare Dio al di sopra di
+tutto, preferendolo ad ogni altro. L'atteggiamento di quest'anima diventa così molto simile a quello di S. Paolo
+che esclamava: «Credo che tutte le cose siano una perdita di fronte a... Cristo Gesù Signor mio, per amore del
+quale mi son privato di tutto e tutto tengo in conto di
+spazzatura, allo scopo di guadagnarmi Cristo » (Fil.3, 8).
+
+L'amore estimativo che lo Spirito Santo infonde nell'anima attraverso le tenebre purificatrici è così forte che
+essa è disposta a compiere qualsiasi sacrificio, ad affrontare qualsiasi ostacolo, a subire qualsiasi umiliazione e sofferenza pur di conquistare il suo Dio. «Invero — dice
+S. Giovanni della Croce — è tanto grande l'amore estimativo che gli porta, benchè all'oscuro e senza sentirlo,
+che non solo sopporta lieta i suoi patimenti, ma ben volentieri darebbe mille volte la vita per compiacerlo » (N.
+II, 13, 5). Notiamo che l'anima non sente e non gode il
+suo amore; esso non è accompagnato da dolcezza e soavità, tuttavia è un amore così reale che la conduce effettivamente a compiere anche le cose più difficili « pur
+di andare incontro al suo Amato» (ivi). Notiamo pure
+che non si tratta di velleità, di desideri inoperosi che subito crollano di fronte ai casi concreti di sacrificio, ma
+si tratta invece di una decisione così forte della volontà
+che nulla vale a smuovere. Quando quest'anima ha capito che per unirsi a Dio è necessario decidersi ad un determinato passo, non bada più a nulla, nè alle ripugnanze della natura, nè alle voci dell'amor proprio o dell'egoismo, nè a quello che gli altri potranno dire o pensare
+di lei, ma si slancia a capofitto, con grande ardire.
+
+2 — Altro effetto del grande amore estimativo per
+Iddio è «che il più grave tra i patimenti [che l'anima
+possa soffrire] consiste nel dubbio tormentoso di aver perduto Dio e di esserne stata abbandonata » (G.C. N. II, 13,
+5). Come non si preoccupa di nessun acquisto che non
+sia l'acquisto di Dio, così l'anima non si preoccupa di
+nessuna perdita che non sia la perdita di lui. Tutto le si
+può togliere: la salute, le ricchezze, gli onori, la stima,
+la fiducia, l'affetto delle creature più care e queste stesse
+creature, ma giammai sopporterebbe che le fosse tolto
+Dio o le venisse impedito di amarlo. Così pensavano ed
+agivano i santi. Così pensava S. Teresa Margherita del
+Cuore di Gesù, la quale nel suo immenso desiderio di
+amare Dio protestava di essere disposta a soffrire anche
+le pene dell'inferno pur di ottenere tale grazia; e a chi
+le domandava come avrebbe potuto sopportare tormenti
+tanto indicibili, rispondeva senza esitare: « Credo che l'amore ce li renderebbe tollerabili e forse anche dolci, perchè il solo amore fa superare tutto» (Sp. p. 347). Così
+pensava S. Teresa di Gesù che ha lasciato alle sue figlie
+il bellissimo ricordo: «Il tuo desiderio sia di vedere Iddio; il tuo timore, di perderlo; il tuo dolore, di non possederlo; la tua gioia, in quello che ti può condurre a lui»
+(A. 69). Questa è la caratteristica del vero amore: creare
+nell'anima un'unica preoccupazione, un unico timore, un
+unico desiderio, un'unica gioia che si accentrino in Dio
+solo.
+
+Se vuoi vedere fino a qual punto giunge il tuo amore estimativo per Iddio esamina la tua condotta e cerca
+di scoprire il motivo ultimo delle tue preoccupazioni, dei
+tuoi timori, dei tuoi desideri, delle tue gioie; se questo
+motivo non è Dio, ma lo sono invece le creature, i tuoi
+interessi e la tua soddisfazione, devi convenire umilmente
+che non sei ancora giunto a stimare Dio al di sopra di
+tutte le cose, perchè metti «in una stessa bilancia Dio e
+quello che dista infinitamente da lui» (G.C. S.I, 5, 4).
+Scrutando più a fondo il tuo cuore vedrai che non di
+rado metti sullo stesso piano la tua volontà e la volontà
+di Dio, i tuoi gusti ed il suo beneplacito, i tuoi interessi
+e la sua gloria, il tuo comodo ed il suo servizio, non solo,
+ma, mentre in teoria protesti di stimare Dio al di sopra
+di tutte le cose, molto spesso in pratica dai la preferenza
+non ai suoi voleri, ai suoi gusti, ai suoi interessi, ma ai
+tuoi e appunto così cadi in tante imperfezioni.
+
+Persuaditi: « dov'è vero amor di Dio non entra amore
+di se stesso, nè delle proprie cose » (G.C. N.II, 21,10).
+
+### Colloquio
+
+«Confesso a te, amabilissimo Figliolo di Dio, la colpa mia; non so con che giudizio lasciai tirare il mio cuore, creato per te, dagli affetti delle creature e lo imbrattai con la conversazione profana della terra. Non la realtà, ma l'apparenza dell'amore artificiosamente dipinto m'ingannò e mi allontanò da te e dalla dolcissima legge del
+vero ed unico amor tuo. Ma ormai che con la luce tua
+scacciasti le mie tenebre, rifiuto ogni bellezza mondana
+ed eleggo te, Figliolo di Dio e della beatissima Vergine,
+per amarti con un patto di amore eterno.
+
+«Senza di te, Bontà e Bellezza infinita, nessuna creatura può avere veri beni, nè fuori di te l'anima mia può
+trovare soddisfazione alcuna, poichè Tu le desti tanta capacità e fame d'infinito che per viva forza bisogna che
+non voglia nè cerchi altro bene fuori di te. Volgo lo
+sguardo alla terra, o Figlio dell'Altissimo, e tutte le cose
+mi sembrano piccole ed imperfette in confronto a te. Se
+mi fossero date tutte le dignità del mondo, tutte le bellezze del creato, tutte le comodità della vita; se fosse dato in mio potere tutto quello che di grande, onorevole,
+ricco ed ammirabile vi è nel mondo e potessi avere tutti questi beni riuniti insieme per tutta eternità, non muterei giammai la mia scelta, ma con affetto ardentissimo
+canterei: cerco e cercherò sempre il tuo volto, o Signore.
+
+« Chiudi, o Signore, il mio cuore affinchè non vi entrino affetti umani e fa' che io non veda, non senta, nè
+gusti alcuna cosa creata, nè alcuna creatura si attacchi a
+me con detrimento del puro amore tuo. Basti Tu, Bene
+infinito, per colmare tutti i miei desideri e saziare questa
+fame che mi crucia; nessun altro bene, neppure tutti gli
+altri beni riuniti insieme mi bastano; anzi, dopo averli gustati tutti, resterò morto di fame e languirò in un estremo
+abbandono, privo di te» (Ven. Giovanni di G.M., O.c.d.).

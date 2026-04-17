@@ -1,0 +1,125 @@
+## 190 — LE VIRTÙ E I DONI
+
+### Presenza di Dio
+
+Insegnami, o Spirito Santo, a mantenermi in atteggiamento di continuo ascolto delle tue ispirazioni, di continua dipendenza dai tuoi impulsi.
+
+### Meditazione
+
+1. — S. Tommaso insegna che i doni dello Spirito
+Santo ci sono dati in aiuto delle virtù: «dona sunt in
+adjutorium virtutum>. L'espressione è molto profonda:
+i doni ci sono dati per aiutare le virtù, quindi non per
+sostituirle; ciò vuol dire che l’anima deve fare da parte
+sua tutto quello che può, applicandosi seriamente all'esercizio delle virtù, ed allora lo Spirito Santo, mediante i
+doni, compirà da parte sua quel di l’anima non può fare.
+
+Quindi il primo atteggiamento pratico che l'anima deve
+prendere, affinchè lo Spirito Santo si degni di porre in
+atto i suoi doni, è quello di mettersi in cammino verso la
+santità mediante i suoi sforzi. Tutta la tradizione cattolica
+
+pone come punto di za questa attività ed appli
+cazione personale, perchè ese l’anima cerca Dio, molto
+più il suo amato Signore cerca lei... l’attrae e la fa correre
+verso di Lui» (G.C. F. 3, 28). E l'anima cerca Dio ap
+punto attraverso l'esercizio assiduo delle virtù che, pur
+non essendo sufficiente a condurla alla meta, è però ne
+cessario per dimostrare al Signore la sua buona volontà.
+Come il marinaio che vuol giungere al porto non aspetta
+oziosamente il soffio del vento, ma nell'attesa si pone a
+remare con vigore, così l'anima che desidera trovare il
+Signore, nell'attesa che Egli stesso venga ad attirarla a sè,
+non si abbandona all’ozio, ma si applica di lena a cercarlo
+con le sue iniziative personali: sono sforzi per vincere i
+pri difetti, per distaccarsi dalle creature, per praticare
+le virtù. per attuare il raccoglimento interiore, ecc. E pro
+prio in questi sforzi lo Spirito Santo inserirà la sua azione,
+mettendo in atto i suoi doni. Vediamo, quindi, quanto è
+sbagliato l'atteggiamento di certe anime che rimangono
+troppo passive nella loro vita spirituale, non rendendo
+sufficienti iniziative personali per avanzare nel bene, per
+andare incontro a Dio. Queste anime perdono il loro tempo
+e si espongono a facili illusioni. Soprattutto agli inizi della
+vita spirituale, è necessario mettersi attivamente all'opera:
+solo così possiamo sperare nel soccorso dello Spirito Santo.
+
+2. — In genere, nel primo periodo della vita spirituale,
+l'influsso dei doni dello Spirito Santo, pur non mancando
+mai, è piuttosto nascosto « raro; naturalmente, perciò, in
+questo pe prevale l'iniziativa dell'anima, ossia l'esercizio
+attivo delle virtù e dell’orazione. Ma, a misura che la vita
+spirituale si sviluppa, ossia a misura che la carità cresce,
+viene a crescere anche l'influsso dei doni, anzi, quando
+l'anima è fedele, quest'influsso si fa gradatamente più forte
+e frequente fino a prendere la prevalenza sulle iniziative
+dell'anima stessa; ed è proprio così che, sotto la direzione
+dello Spirito Santo, l’anima giunge alla santità.
+
+Per poter approfittare dei doni dello Spirito Santo, occorre
+che l’anima, fin dagli inizi della sua vita spirituale, si abitui ad
+essere insieme attiva e passiva, cioè, pur prendendo le sue
+iniziative, cerchi, nello stesso tempo, di mantenersi attenta
+e docile alle ispirazioni dello Spirito Santo. Infatti, se vi sono
+delle anime troppo passive, ve ne sono anche di troppo
+attive che fanno consistere tutto nei loro piani di riforma
+spirituale, nei loro propositi, nei loro esercizi, come se la
+santità dipendesse unicamente dalle loro industrie; in fondo,
+esse contano troppo sulle loro forze e troppo poco sull'aiuto
+divino. Queste anime corrono il rischio di non saper cogliere le ispirazioni dello Spirito Santo, di soffocare i suoi
+impulsi e, quindi, di affaticarsi senza raggiungere la meta.
+Occorre più docibilità e docilità, occorre -più abbandono.
+Docibilità della mente per riconoscere le ispirazioni interiori
+dello Spirito Santo, docilità della volontà per assecondarle,
+abbandono per lasciarsi condurre anche per vie oscure ed
+ignote e contrarie ai propri gusti. Nessuno può essere a se
+stesso maestro di santità, il Maia è unico: è lo Spirito
+Santo; bisogna tenersi sempre alla sua scuola, alla sua dipendenza, perciò, pur lavorando attivamente per la correzione
+dei difetti e per l'acquisto delle virtù, bisogna mantenere
+l'orecchio interiore sempre attento agli impulsi dello Spirito
+Santo: proprio per renderci capaci di ciò Egli ci ha dato i
+suoi doni. «Il Signore mi ridesta le orecchie, affinchè io
+l’ascolti come maestro -— dice Isaia —. Il Signore mi ha
+aperto l'orecchio ed io non contraddico, nè mi sono mai
+tirato indietro» (50, 4 e 5). Questo deve essere l’atteggiamento interiore di un'anima che vuol lasciarsi guidare dallo
+Spirito Santo.
+
+### Colloquio
+
+«O Spirito Santo, Dio Amore, nodo della Santa Trinità
+per via dell'amore, Tu riposi e poni le tue delizie tra i figli
+degli uomini, nella santa castità che, per l'influsso della tua
+fo za e dei tuoi incanti, fiorisce quaggiù come la rosa tra le
+
+spine. Spirito Santo! Amore! Amore! Dimmi qual via conduce
+ad un sì delizioso soggiorno, dov'è il sentiero della vita, che
+mena a queste praterie fecondate dalla divina rugiada, dove
+si dissetano i cuori arsi dalla sete. O Amore, Tu solo conosci
+questa strada che mena alla vita e alla verità. In te si compie
+il connubio pieno di delizie, che unisce fra loro le divine
+Persone della Trinità santa. Per mezzo tuo, o Spirito Santo,
+sono sparsi sopra di noi i più preziosi doni. Da te procedono
+i semi fecondi che producono i frutti della vita. Da te emana
+il miele così dolce delle delizie che sono solamente in Dio.
+Per te scendono sopra di noi le acque fertilizzanti delle
+divine benedizioni, doni sì cari dello Spirito, ma, purtroppo,
+così rari nella nostra regione.
+
+«O Spirito Santo, Tu sei il fonte cui anelo, il desiderio
+del mio cuore. Oceano riboccante di acque, assorbi questa
+minima goccia errante che desidera uscire da se stessa per
+entrare in te. Tu sei l'intera unica sostanza del cuor mio ed
+a te aderisco con tutto il fervore. Oh, che amabile unione!
+Veramente questa familiarità con te è più apprezzabile della
+stessa vita; il tuo profumo è come un balsamo di propizia.
+zione e di pace.
+
+«O Spirito Santo Amore, tu sei il soavissimo bacio della
+SS.ma Trinità che unisce il Padre ed il Figlio. Tu sei quel
+benedetto bacio che la regale divinità donò all'umanità per
+mezzo del Figlio di Dio. O bacio dolcissimo, il tuo vi
+colo non abbandoni me, atomo di polvere; i tuoi amplessi
+mi stringano, finchè io non sia una cosa sola con Dio. Fammi sperimentare quali delizie siano in te, Dio vivente; dolcissimo amor mio, fa' che ti abbracci, che mi unisca a te.
+O Dio Amore, Tu sei la carissima mia possessione, senza la
+quale niente altro io spero, voglio e desidero in cielo ed in
+terra » (S. Geltrude).

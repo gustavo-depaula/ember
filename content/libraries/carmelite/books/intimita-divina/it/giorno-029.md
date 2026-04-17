@@ -1,0 +1,99 @@
+## 29 — È APPARSO IL SALVATORE
+*25 dicembre*
+
+### Presenza di Dio
+
+Dio mio, che mi hai creato per te, fa' ch'io possa ritornare a te ed a te unirmi per amore.
+
+### Meditazione
+
+i — Dio è carità, Dio ci ha amato di amore eterno!
+«Pare che il Signore dicesse: l'uomo non mi ama perchè non mi vede, voglio farmi da lui vedere e così farmi
+amare. L’amore divino verso l’uomo era troppo grande e
+tale era sempre stato ab aetermo; ma quest'amore non era
+ancora apparso... Allora veramente apparve quando il Figlio di Dio si fe’ vedere pargoletto in una stalla, su poca
+paglia » (S. Alfonso). Ecco il mistero natalizio; ecco il grido esultante di S. Paolo: «La grazia di Dio, Salvatore no-
+stro, s'è mostrata a tutti gli uomini... Apparve la bontà e
+l'amore verso gli uomini di Dio Salvatore nostro » (Ep.Ie
+II Messa: Tit. 2; 11-15; 3, 4-7). Ecco il beato annunzio
+«della grande allegrezza » che l’Angelo porta ai pastori:
+«Oggi vi è nato un Salvatore, che è il Cristo Signore »
+(Vg. I Messa: Lc.2, 1-11). Nella litùrgia odierna i testi
+si susseguono in tono di esultanza crescente per inneggiare
+al dolcissimo Bambino Gesù, il Verbo umanato, vivo, palpitante in mezzo a noi: «Chi avete visto, pastori? Ditelo,
+annunziatelo a noi: chi è apparso sulla terra? Il Bambino
+abbiam visto e schiere d’angeli che lodavano in coro il
+Signore » (BR.). «Si rallegrino i cieli, ed esulti la terra
+tutta alla presenza del Signore! » (MR.). Il nostro Dio è
+qui, in mezzo a noi, fatto uno di noi: «È nato a noi un
+Bambino, ci è stato dato un figlio... il suo nome è: Ammirabile, Dio, Principe della pace, Padre del futuro se-
+colo... Esulta figlia di Sion, canta figlia di Gerusalemme...
+Giubilate al Signore, abitanti della terra! Venite, o genti,
+e adorate il Signore » (BR.).
+
+Sù, venite, adorate, ascoltate, giubilate: Gesù, il Verbo
+del Padre, ci dice una grande parola: Dio vi ama!
+
+
+2 — Le tre Messe natalizie ci pongono innanzi un
+quadro maestoso: la commovente descrizione della nascita
+di Gesù in quanto uomo, si alterna con quella sublime della
+nascita eterna del Verbo nel seno del Padre e non mancano
+allusioni alla nascita del Cristo nelle anime per mezzo della
+grazia. Ma questa triplice nascita non è che un'unica manifestazione di Dio-Carità. Nessuno, in questa terra, poteva
+conoscere l’amore di Dio, ma il Verbo, che è nel seno del
+Padre, lo conosce e può rivelarcelo. Il Verbo si è fatto carne e ci ha mostrato l'amore di Dio; per lui la sua incom-
+prensibile ed invisibile carità si è resa evidente, palpabile in
+quel dolce Bambino che dal presepe ci tende le braccia. Il
+Prefazio odierno lo dichiara espressamente: « Eterno Dio,
+col mistero dell’Incarnazione del Verbo un nuovo raggio
+della tua luce viene a risplendere davanti agli occhi della nostra mente affinchè, conoscendo sensibilmente Dio,
+veniamo rapiti all'amore delle cose invisibili ». Sì, quel
+« Bambino fasciato e giacente in una mangiatoia » è il nostro Dio, fattosi a noi sensibile, visibile, il nostro Dio che ci
+mostra nel modo più concreto la sua carità infinita. Non si
+può contemplare il piccolo Gesù senza sentirsi presi, rapiti
+dall'amore infinito che ce l'ha donato; Gesù Bambino ci
+rivela l’amore di Dio, ce lo manifesta nella forma più chiara e più commovente.
+
+S. Paolo nell’Epistola (Ebr. 1, 1-11) della terza Messa
+natalizia dice: « Dio... in questi ultimi tempi parlò a noi a
+mezzo del Figlio suo... riflesso della gloria di lui e impronta della sua sostanza ». Gesù, Verbo Incarnato, nel suo
+silenzio di bambino impotente, ci parla e ci rivela la
+sostanza di Dio: la carità di Dio.
+
+### Colloquio
+
+«O potente ed eterna Trinità! 0 dolcissima ed ineffabile Carità! chi non s’infiammerebbe a tanto amore? Qual
+cuore potrebbe difendersi dal consumarsi per te?
+
+«O abisso di carità! Tu sei dunque così perdutamente
+attaccato alle tue creature, che sembra che non possa vivere senza di loro! Eppure sei nostro Dio! Tu non hai biso-
+gno di noi. Il nostro bene non aggiunge nulla alla tua grandezza, poichè sei immutabile. Il nostro male non potrebbe
+cagionar danno a te, che sei la sovrana ed eterna bontà!
+Chi dunque ti stimola a tanta misericordia? L'amore, Perchè Tu non hai alcun obbligo verso di noi e non hai di noi
+bisogno alcuno. Chi porta te, Dio infinito, verso di me, piccola creatura? Nessun altro che Tu stesso, 0 Fuoco d’A-
+more, sempre l'Amore solo ti spinse e ti spinge! —
+
+«Tu, somma dolcezza, ti sei degnato di unirti con la
+nostra amaritudine; Tu, splendore, con le tenebre; Tu, sa-
+
+
+pienza, con la stoltezza; Tu, vita, con la morte; Tu, infinito, con noi finiti! » (S. Caterina da Siena).
+
+O dolcissimo Verbo Incarnato, 0 amabilissimo Bambino Gesù, eccomi finalmente ai tuoi piedi: lasciami contemplare, permettimi di bearmi della tua bellezza, della tua
+bontà, della tua carità immensa! Il tuo amore infinito si
+presenta a me vivo e palpitante in questo tenero Bimbo
+che mi sorride e mi tende le sue piccole braccia e questo
+Bimbo sei Tu stesso, o mio Dio! Come potrò ringraziarti
+del tuo eccessivo amore? Come potrò ricambiarti?
+
+« Tu, essendo grande e ricco, per noi ti sei fatto piccolo e povero, hai scelto di nascere fuori di casa in una
+stalla, d'esser fasciato nei pannicelli, di succhiare latte verginale, di essere deposto nel presepio tra il bue e l’asinello.
+“Oggi rifulse per noi il giorno della redenzione nuova,
+della restaurazione antica, della felicità eterna; 0; gi per
+tutto il mondo i cieli hanno stillato miele! *  Abbraccia
+adesso, dunque, anima mia, quel divino presepio, premi le
+labbra sui piedini del Bimbo, baciali tutt'e due. Medita,
+inoltre, le veglie dei pastori, mira l’accorrente esercito degli angeli, unisciti a far le tue parti nella celeste melodia,
+cantando con la bocca e con il cuore: Gloria a Dio nel
+più alto dei cieli e pace in terra agli uomini di buona volontà » (S. Bonaventura).

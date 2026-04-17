@@ -1,0 +1,120 @@
+## 124 — GESÙ PERSEGUITATO
+*tua. Risurrezione.*
+
+### Presenza di Dio
+
+O Gesù, introducimi nel mistero della tua Passione, associami ad essa, affinchè possa poi partecipare alla tua Risurrezione.
+
+### Meditazione
+
+1 — Oggi comincia il «tempo di Passione », tempo
+
+icolarmente consacrato al ricordo ed all'amorosa contemplazione dei dolori di Gesù. La croce e i quadri velati,
+la sospensione del Gloria nella Messa ei nei responsori dell'Ufficio divino, l'assenza del Salmo «Iudica me » all’inizio
+della Messa, sono tutti segni di lutto con cui la Chiesa
+commemora la Passione del Signore. Nelle lezioni dell’Ufficio divino, S. Leone Papa ci esorta a partecipare « alla
+Croce di Cristo, affinchè facciamo anche noi qualche cosa
+che ci unisca a quel che Egli ha fatto per noi, come dice
+l'Apostolo: "se soffriamo con lui, saremo glorificati con
+lui*». Non si tratta quindi solo di meditare i dolori di
+Gesù, ma di prendervi parte, di portare la sua Passione
+
+
+nel nostro cuore e nel nostro corpo (cfr. JI Cor. 4, 10),
+perchè solo così potremo partecipare ai frutti di essa.
+Ecco perchè, nell’ufficiatura del tempo, la Chiesa ripete
+con pia insistenza l'invito: «allorchè sentirete la
+voce del Signore, non vogliate chiudere i vostri cuori ».
+In questi giorni la voce del Signore si fa udire non per
+mezzo di parole, ma mediante l’eloquente testimonianza
+dei fatti, mediante il grande fatto della Passione, che è
+il mistero più convincente del suo infinito amore per
+noi. Apriamo dunque il nostro cuore alle sublimi lezioni
+della ione: impariamo quanto ci ha amato e quanto
+noi dobbiamo riamarlo; impariamo che anche a noi, se
+vogliamo seguirlo, è necessario patire, è necessario portare la croce con lui e dietro di lui. E nello stesso tempo
+apriamo il cuore alla più viva speranza perchè nella Passione di Gesù è la nostra salvezza. S. Paolo nell’Epistola
+odierna (Ebr. 9, 11-15) ci presenta la figura maestosa
+di Cristo, Sommo Sacerdote che, « mediante il proprio
+
+
+sangue, è entrato una volta per sempre nel santuario
+
+
+[ossia nel cielo] ottenendoci una redenzione eterna ». La
+Passione di Gesù ci ha redenti, ci ha riaperto la casa
+del Padre; la Passione di Gesù è la ragione della nostra
+speranza.
+
+
+2 — Nel Vangelo odierno (Gv. 8, 46-59) abbiamo un
+tratto delle serrate ostilità dei giudei, chiaro preludio della
+Passione di Gesù. Quei cuori induriti non vogliono in
+nessun modo ammettere la missione del Salvatore e s'industriano in mille maniere di controbattere i suoi insegna-
+
+
+menti, per denigrarlo di fronte al popolo, presentandolo
+
+
+come un mentitore, un indemoniato; infine, il loro livore
+giunge al punto che decidono di lapidarlo: «allora presero delle pietre per scagliarglicle contro ». La morte di
+Gesù è già decretata dai giudei, ma, non essendo venuta
+l’ora fissata dal Padre, « Gesù si nascose e uscì dal tempio ».
+
+Questo brano ev: ico ci permette di considerare
+la condotta di Gesù di fronte ai suoi persecutori: mansue-
+
+tudine, zelo per le loro anime, disinteresse personale e totale abbandono in Dio. S. Gregorio Magno scrive: « Considerate, fratelli carissimi, la. mansuetudine del Signore.
+Egli, che era venuto a rimettere i peccati, diceva: ‘Chi
+di voi mi convincerà di peccato? ‘ Egli, che in virtù della
+sua divinità poteva giustificare i peccatori, non di: a
+di mostrare col ragionamento che non è peccatore » (BR.).
+Seguono le calunnie: «sei un samaritano e hai un
+demonio », Il Maestro divino risponde, ma sempre mansueto e solo; quel tanto che è necessario per testimoniare
+la verità: « lo non ho un demonio, ma onoro il Padre mio
+e voi.mi vituperate». Quanto al resto, affida la sua riputazione e la sua causa nelle mani di Dio: «Io però non
+cerco la mia. gloria; v'è chi la cerca e giudica », È tanto,
+attraverso il. dibattito, non cessa d’istruirè e di illuminare
+le menti Npsr cercare. di strapparle all’errore; sempre noncurante di sè, pensa solo al bene delle anime. Così, proprio
+in questa Jpensa circostanza, Gesù ci dà reziosi insegnamenti; « Chi è da Dio, ascolta le parole di Dio. Se alcuno
+custodirà Ja mia parola, non vedrà la morte in eterno ».
+Dalla bocca del Maestro perseguitato raccogliamo questi
+moniti e conserviamoli LE nostro cuore con cura gelosa.
+Ancora oggi il mondo è pieno dei suoi nemici, di chi combatte la sua dottrina, di chi disprezza la sua Passione. Almeno noi crediamo in lui e siamogli amici fedeli.
+
+### Colloquio
+
+« Sia lode a te, Dio misericordiosissimo che, essendo
+noi miseri, sbanditi, prigioni e condannati, hai voluto redimerci ed esaltarci mediante la Passione; il dolore, il dispregio e la povertà del Figlio tuo. Io corro dunque alla
+tua Croce, o Cristo, al dolore, al dispregio ed alla povertà e
+con tutte le mie forze desidero trasformarmi in te, 0 DioUomo passionato, che tanto mi hai amato fino a voler
+patire una vergognosa e orrenda morte, e questo al solo
+fine di salvarmi e di darmi esempio a patire, per amor tuo,
+
+
+Si -- IL VALORE DELLA SOFFERENZA 177
+le avversità. È perfezione e vero segno di amòre conformarmi a te, Crocifisso, che per le mie colpe hai voluto
+spietatamente. moriré, dandoti tutto in preda ai tormenti.
+© mio Dio passionato, solo leggendo nel libro della vita
+e morte tua mi sarà dato conoscerti e penetrare il tuo
+mistero. Concedimi dunque un profondo spirito di orazione, un'orazione devota, umile, attenta, fatta non sola-
+
+
+mente con la bocca, ma col cuore e con la mente per poter
+
+
+«comprendere le lezioni della tua Passione!
+
+«In questo libro vedo la tua infinita bontà e pietà
+per cui hai preferito prendere sopra di te la. nostra condanna, il nostro dispregio e dolore, anzichè lasciar noi in
+così miserabile stato. Vedo la tua infinita bontà; diligenza
+e cura che hai avuto nel salvarci e ricondurci alla. patria
+del cielo. Vedo l’infinita sapienza con la quale, in modo
+ineffabile, ci hai redenti, salvati ed esaltati per misericordia, senza fare ingiuria alla giustizia. E così hai saputo
+fare che, mentre penosamente morivi, vivificavi tutte le
+cose e distruggevi la morte comune.
+
+«Di più; nel libro della Croce vedo la tua infinità
+mansuetudine per la quale, essendo Tu maledetto, non
+maledicevi, nè ti vendicavi, anzi perdonavi e acquistavi il
+cielo ai tuoi stessi crocifissori » (cfr. B. Angela da Foligno).

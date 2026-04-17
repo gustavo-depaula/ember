@@ -1,0 +1,37 @@
+{
+  "flowVersion": "1",
+  "resolve": [
+    {
+      "data": "liturgical-map",
+      "source": "liturgical",
+      "dataType": "liturgical-meditation-map",
+      "calendar": "ef",
+      "strategy": "liturgical-day",
+      "as": "meditations",
+      "book": "intimita-divina"
+    }
+  ],
+  "sections": [
+    {
+      "type": "rubric",
+      "text": { "it": "{{liturgicalLabel}}" }
+    },
+    {
+      "type": "heading",
+      "text": { "it": "{{meditationTitle}}" }
+    },
+    {
+      "type": "options",
+      "label": { "it": "Meditazione" },
+      "from": "meditations",
+      "sections": [
+        {
+          "type": "prose",
+          "book": "intimita-divina",
+          "chapter": "{{chapterId}}",
+          "langPolicy": "book-default"
+        }
+      ]
+    }
+  ]
+}

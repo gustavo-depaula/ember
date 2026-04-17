@@ -1,0 +1,89 @@
+## 280 — IL CORAGGIO
+
+### Presenza di Dio
+
+— O Signore, fammi diventare un soldato forte e coraggioso nel tuo servizio,
+
+### Meditazione
+
+1. — Quanto più un’anima ama il Signore, tanto più sarà coraggiosa nell’intraprendere per amor suo qualsiasi opera
+per quanto ardua possa essere. La paura della fatica, della
+sofferenza, del rischio è il grande nemico della fortezza: paralizza l’anima e la fa indietreggiare di fronte al dovere, Il
+coraggio invece la slancia, facendole affrontare qualsiasi cosa pur di essere fedele a Dio. In questo senso il coraggio spinge ad abbracciare anche la morte, anche il martirio quando è necessario per non venir meno al dovere. Il martirio
+è il massimo atto della fortezza cristiana, atto che non viene
+richiesto a tutti e che tuttavia è bene non escludere dalla
+nostra visuale. Ogni cristiano è, per così dire, un martire
+in potenza, nel senso che la virtù della fortezza, infusagli
+nel battesimo e nella cresima, lo rende capace, in caso di
+necessità, di sacrificare anche la propria vita per amor di Dio.
+E se di fatto non tutti i cristiani sono chiamati a rendere al
+Signore questa suprema testimonianza, tutti però devono vivere da soldati coraggiosi, abituandosi a non disertare mai —
+nè in poco nè in molto — il proprio dovere per timore del
+sacrificio.
+
+E' vero, la virtù della fortezza non ci esenta dalla paura
+e dallo sgomento che invadono la nostra natura di fronte ai
+sacrifici, ai pericoli e soprattutto di fronte al pericolo della
+morte; però la fortezza — come tutte le altre virtù — si
+esercita con la volontà, quindi è possibile compiere atti di coraggio malgrado la paura che invade la parte sensibile. In
+questi casi il coraggio adempie una duplice funzione: vince
+la paura ed affronta il dovere difficile. Tale fu il supremo atto
+di fortezza compiuto da Gesù nell'orto degli ulivi quando,
+
+
+nonostante lo sgomento della sua umanità, accettò di bere
+l'amarissimo calice della sua Passione. Proprio associandoci
+a quest’atto del Salvatore, troveremo la forza per abbracciare
+qualsiasi dovere sacrificante.
+
+
+2. — Anche chi è timido per natura può diventare coraggioso per grazia; ma non bisogna pretendere che la grazia
+agisca senza la nostra collaborazione. La virtù della fortezza
+è stata data a tutti i cristiani, e in questo senso è virtù infusa,
+ma spetta a noi metterla in atto mediante l'esercizio, e in
+questo senso deve diventare virtù acquisita. Così, del resto,
+è per tutte le virtù teologali e morali infuse nell'anima assieme alla grazia: sono capitali che fruttano solo se li sappiamo impiegare con buona volontà.
+
+Come si diventa umili facendo atti di umiltà, così si diventa forti e coraggiosi facendo atti di coraggio. Non sta a
+noi evitare la paura sensibile che, derivando dal temperamento, subiamo nostro malgrado, ma sta a noi impedire che
+invada la volontà, paralizzando i nostri movimenti. Occorre
+
+perciò reagire energicamente buttandoci in nome di Dio a fare quanto dobbiamo, senza fermarci a discutere con la paura. « Molte anime dicono: io non ho forza per compiere il
+tale sacrificio. Ma, suvvia, facciano, degli sforzil Dio non rifiuta mai la prima grazia che conferisce il coraggio di agire,
+dopo di che il cuore si fortifica e si va di vittoria in vittoria »
+bisogna decidersi ad operare malgrado gli sgomenti ed i
+timori della natura. Ciò è particolarmente necessario in quelle circostanze in cui, o per la debolezza fisica o per la privazione del sostegno sensibile della grazia, anche le più piccole
+difficoltà ci sembrano montagne e tutto ci spaventa; chè, se
+aspettassimo ad agire solo quando sentissimo di averne il coraggio, non verremmo mai a capo di nulla. « Che importa —
+diceva la Santa di Lisieux ad una novizia — se non ha coraggio, purchè agisca come se l'avesse?» (CR.). Gli atti
+di coraggio compiuti senza averne la forza sono più puri e
+.
+
+
+più soprannaturali: più puri perchè non danno luogo a sentimenti di orgoglio, più soprannaturali perchè si basano non
+sulle risorse della natura, ma unicamente su quelle della grazia. Invece gli atti di coraggio compiuti per disposizione naturale rimangono molto spesso semplici atti umani e sono facile esca all’amor proprio. Perciò, chi è forte per natura deve
+abituarsi a non fidarsi della sua fortezza, ma ad appoggiarsi
+a Dio ed alla sua grazia, senza di che ogni fortezza umana è
+estrema debolezza.
+
+### Colloquio
+
+«0 Signore, Dio degli eserciti, che nel tuo Vangelo
+dicesti: NNon sono venuto a portare la pace, ma la guerra’,
+dammi la forza e le armi per la lotta. Io ardo dal desiderio di
+combattere per la tua gloria, ma, te ne supplico, fortifica il mio coraggio. Allora col santo re Davide potrò esclamare: “Tu
+solo sei il mio scudo; sei Tu, Signore, che addestri le mie mani alla guerra”.
+
+«O mio Gesù, combatterò per amor tuo sino alla fine
+della mia vita e la mia spada sarà l'amore.
+
+«La mia impotenza non mi deve sgomentare; quando al
+mattino mi sento priva di coraggio e di ogni forza per praticare la virtù, devo considerare ciò come una grazia, perchè
+Tu mi insegni che proprio quello è il momento di porre la
+scure alla radice dell'albero, contando solo sul tuo aiuto,
+
+«Dove sarebbe il mio merito se dovessi combattere unicamente quando ne sento il coraggio? Che importa se non
+ne ho, purchè agisca come se l'avessi? O Gesù, fammi ben
+comprendere che, se mi sentissi troppo debole anche per raccattare una sola gugliata di filo e, tuttavia, lo facessi per amor
+tuo, meriterei molto di più che se compissi un'azione consi
+derevole in un momento di fervore. Dunque, invece di rattristarmi, devo rallegrarmi vedendo che Tu, lasciandomi sentire la mia debolezza, mi dai occasione di salvarti un maggior numero di anime» (T.B.G. Preghiera; Lt; CR.).

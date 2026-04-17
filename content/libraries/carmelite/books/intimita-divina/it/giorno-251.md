@@ -1,0 +1,101 @@
+## 251 — CARITÀ FRATERNA
+
+### Presenza di Dio
+
+— O Signore, concedimi di penetrare il profondo significato del precetto della carità fraterna.
+
+### Meditazione
+
+1. — Gesù ci ha proposto come fondamento di tutta la
+legge non solo il precetto dell'amore di Dio, «il più grande e
+il primo comandamento », ma anche il precetto dell'amore del
+rossimo, dichiarandolo espressamente «simile» al primo
+Mt. 22, 38 e 39). Che il precetto dell'amore di Dio sia la base di tutta la vita cristiana è facile comprenderlo, ma non è
+altrettanto facile comprendere che tale sia anche il precetto
+della carità fraterna. Eppure Gesù ha connesso così strettamente questi due comandamenti da farci DOSE, che l'uno
+non può sussistere senza l’altro e viceversa; Egli non ha detto
+che tutto si fonda sul primo comandamento, quello dell'amore di Dio, bensì: «su questi due comandamenti [dell’amor
+di Dio e dell'amore del prossimo] si fondano tutta la legge e
+i profeti » (ivi, 40). Ma perchè mettere l’amore del prossimo
+così vicino all'amore di Dio, perchè farne con esso l'unica
+base di tutto il cristianesimo? Perchè la virtù della carità fraterna non è amore della creatura in se stessa e per se stessa,
+ma è amore della creatura « propter Deum», ossia in vista di
+Dio, a motivo delle sue relazioni con Dio. In altre parole,
+dobbiamo ben comprendere che Dio ci comanda di amarlo
+non solo in se stesso, ma anche nelle sue creature ragionevoli
+che Egli si è compiaciuto di creare a sua immagine e somiglianza. Come un padre desidera di essere amato e rispettato
+non solo nella sua persona, ma anche nei suoi figli, così Dio
+desidera di essere amato non solo in se stesso, ma anche nelle
+sue creature e lo desidera a tal punto che considera come fatto e sè tutto ciò che viene fatto a qualsiasi uomo. «In verità
+vi dico — ha detto Gesù — che tutte le volte che avete
+fatto qualche cosa a uno di questi minimi tra i miei fratelli,
+
+
+l’avete fatta a me» (Mt. 25, 40). La carità fraterna è tanto
+importante perchè non è altro che un'estensione della carità
+verso Dio, estensione che abbraccia tutti gli uomini in vista
+di Dio, loro Creatore e loro Padre. Proprio per questo motivo
+il precetto dell'amore del prossimo è inseparabile da quello
+dell'amore di Dio.
+
+
+2. — Dio ci tiene talmente ad essere amato nel prossimo,
+che pone questo amore come condizione essenziale della nostra salvezza eterna. Quando Gesù ci parla del giudizio finale non porta altro motivo della giustificazione dei buoni
+e della dannazione dei reprobi che le opere di misericordia
+compiute o tralasciate verso il prossimo. « Venite, o benedetti
+dal Padre mio; possedete il regno che vi è stato preparato
+fin dalla fondazione del mondo». Ma perchè? « Perchè io
+ebbi fame e mi deste da mangiare; ebbi sete e mi deste da
+bere...» (Mt. 25, 34 e 35). Ebbi fame nei poveri, ebbi sete
+nel vostro prossimo. Se è molto consolante pensare che Dio
+ritiene e premia come fatte a sè le opere di carità esercitate
+verso il prossimo, è altrettanto grave pensare che Egli ritiene
+e a come rivolte a sè le mancanze di carità commesse
+verso il prossimo stesso. Gesù, che è la personificazione della
+bontà e della misericordia infinita del Padre celeste, non esita
+a pronunciare la sentenza di condanna eterna per coloro che
+non hanno amato, non hanno soccorso, non hanno consolato
+il prossimo, Perchè? Perchè: «Io vi dico in verità che tutte
+le volte che voi non avete fatto [tali cose] a uno di questi
+minimi tra i miei fratelli, non l'avete fatto a me» (Mt. 25,
+45). Dio esige la riprova concreta del nostro amore verso di
+lui nel nostro modo di comportarci verso il prossimo. Non
+possiamo illuderci di amare Dio quando non amiamo i nostri simili che, al pari di noi, sono l’immagine vivente del
+Padre celeste. E che importa se talvolta questa immagine è
+sfigurata dai difetti, dal peccato e forse anche dai vizi? Resta
+pur sempre immagine di Dio, immagine che la carità deve
+
+farci riconoscere, venerare e amare in qualsiasi uomo ed in
+qualsiasi condizione possa trovarsi. Non possiamo accontentarci di amare Dio idealmente, ma dobbiamo amarlo realisticamente, nella concretezza dei nostri rapporti col prossimo:
+qui è la prova più sicura del nostro amore per Iddio.
+
+### Colloquio
+
+«O carità, sei grande quanto il mio stesso Dio, perchè
+Dio è carità. Tu voli tanto in alto che te ne vai al trono della
+SS.ma Trinità e quivi entri nel seno dell'Eterno Padre e dal
+seno del Padre te ne vai al Cuore del Verbo Incarnato e lì
+ti riposi e cavi il nutrimento. Così l’anima che ti possiede
+cerca di nutrirsi solo di Dio e di riposarsi in lui; e, dopo essersi quivi nutrita e riposata, se ne scende giù in terra, perchè
+tu, o carità, ti estendi ancora ai prossimi amandoli non solo
+come creature, ma come esseri creati da Dio ad immagine e
+similitudine sua. Non ti fermi ad amare i corpi che sono la
+scorza, ma penetri nell'interno delle anime e quelle ami soprattutto; non ti fermi ai doni di Dio, ma risali al Donatore
+e tutti ami unicamente in lui.
+
+«O carità, tu sei tanto sublime che ci unisci a Dio! Tu
+puoi ogni cosa e nella Chiesa produci una specie di Trinità
+a similitudine della SS.ma Trinità; perchè, siccome il Padre
+è Dio, il Figlio è Dio, lo Spirito Santo è Dio e tutti e tre
+sono uniti e sono una stessa cosa, così mediante la tua virtù,
+o carità, deriva a noi questa unione perchè tu unisci l'anima a Dio e un prossimo all'altro e così formi nella Chiesa,
+in modo invisibile, una specie di trinità.
+
+«Chi ti possiede, o carità, nutre se stesso di Dio, al
+punto che diventa simile a lui per grazia e partecipazione.
+
+«Concedimi, Dio mio, una carità così perfetta che io
+sappia accondiscendere, aiutare, sollevare il prossimo mio in
+tutti i suoi bisogni, infermità e fatiche e sappia con somma
+prudenza compatire i difetti altrui» (cfr. S. M. Maddalena
+de’ Pazzi).

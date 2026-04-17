@@ -1,0 +1,101 @@
+## 297 — L’UNIONE FRATERNA
+*XVII Domenica dopo Pentecoste*
+
+### Presenza di Dio
+
+Dio mio, dammi grazia di conservare l'unione col prossimo, nel vincolo della carità e della pace.
+
+### Meditazione
+
+1. — Come Gesù nella sua vita terrena non ha cessato
+di raccomandare la carità e l'unione fraterna, così la Chiesa
+
+
+nelle Messe domenicali, continua ad inculcarci questa virtù.
+Oggi lo fa servendosi di un brano della lettera di S. Paolo
+agli Efesini. « Vi esorto di condurvi in modo degno della
+chiamata che avete ricevuto, con tutta umiltà e mansuetudine e con longanimità, tollerandovi a vicenda con amore,
+sforzandovi di conservare l’unità dello spirito nel vincolo
+della pace» (Ep.). La chiamata che abbiamo ricevuto è la
+vocazione al cristianesimo, che è quanto dire vocazione all'amore. Dio, carità infinita, ci adotta quali figli suoi, affinchè
+emuliamo la sua carità e l'emuliamo al punto che l’amore sia
+il vincolo che ci unisca tutti in un sol cuore, come il Padre
+ed il Figlio sono uniti in un'unica Deità nel vincolo dello
+Spirito Santo. e Come Tu, Padre, sei in me, e io sono in te,
+E siano uno in noi», ha chiesto per noi Gesù (Gv.
+17; 21).
+
+« Conservare l’unità nel vincolo della pace»: ecco una
+cosa facile e difficile ad un tempo. E' facile perchè, quando
+il cuore è davvero umile, mansueto, longanime, si sopporta tutto con amore, avendo cura di adattarsi ai gusti ed alla menta-
+lità altrui piuttosto che di far valere i propri. Ma è difficile
+perchè, finchè siamo quaggiù, l'amor proprio, anche se mortificato, tenta sempre di risorgere e di affermarsi creando
+continue occasioni di urti reciproci, per schivare le quali occorre tanta rinuncia di sè e tanta delicatezza per gli altri. Dob-
+biamo persuaderci che tutto ciò che disturba, affievolisce 0,
+peggio, distrugge l'unione non piace a Dio e non gli piace
+neppure se lo facciamo sotto pretesto di zelo. Salvo l'adem:
+pimento del dovere ed il rispetto alla legge di Dio, dobbiamo
+sempre preferire di rinunciare alle nostre idee, anche buone,
+piuttosto che contrastare col prossimo. Dà molto più gloria
+a Dio un atto di umile rinuncia in vista dell'unione, dà mol
+to più gloria a Dio la pace tra fratelli che un'opera grandiosa, la quale fosse causa di disaccordo e di disarmonia.
+
+
+2. — Molto spesso la causa delle divisioni fra i buoni è
+il personalismo eccessivo, il troppo voler fare le cose a modo
+
+
+proprio. Data la nostra limitatezza, non vi può essere nulla
+di così assoluto nelle nostre idee da non poter far posto alle
+idee altrui. Se le nostre vedute sono buone, rette, luminose,
+accanto ad esse possono esservene altre ugualmente buone
+ed anche migliori, perciò è molto più io, umile e caritatevole accettare le vedute altrui, SEGR conciliare con
+esse le nostre, anzichè scartarle per non saper rinunciare a
+
+articolari ed a sfumature troppo personali. Questo personafismo è nemico dell'unione, è ostacolo ad una migliore riusci-
+ta delle opere ed anche al nostro progresso spirituale.
+
+Nell'epistola odierna S. Paolo ci mette davanti tutti i mo-
+
++ tivi che abbiamo per mantenerci uniti: « [siete] un corpo
+solo, un solo spirito, come in un'unica speranza siete stati
+chiamati; uno è il Signore, una la fede, uno il battesimo; uno
+Iddio e padre di tutti». Se Dio ha voluto salvarci e santificarci tutti uniti in Cristo, conglutinandoci in lui in un sol
+corpo, dandoci un'unica vocazione, un'unica fede, un'unica
+speranza ed essendo Egli il Padre di tutti, come pretenderemo noi di salvarci e santificarci separandoci fi uni dagli al-
+tri? Se non vogliamo frustrare il piano di Dio, se non vogliamo mettere in pericolo la nostra salvezza e la nostra san-
+tificazione, dobbiamo essere pronti a qualsiasi sacrificio personale pur di mantenere e rinsaldare l'unione. Ricordiamo che
+Gesù ha chiesto per noi non solo l'unione, ma l'unione per-
+‘fetta: «siano fetti nell'unità» (Gv. 17, 23).
+
+Anche il Vangelo di oggi viene a rafforzare questa spinta all'unione, giacchè in esso Gesù ci ripete che il comand:
+mento dell'amore del prossimo è, insieme con quello dell’amore di Dio, il fondamento di «tutta la legge», ossia di
+tutto il cristianesimo. Non lasciamo cadere invano questi continui richiami alla carità ed all'unione; la Chiesa insiste su
+questi punti perchè su di essi ha insistito. Gesù, perchè la
+carità «è il precetto del Signore; e se questo solo sarà osservato, basta» (S. Giov. Ev.).
+
+
+### Colloquio
+
+«O Verbo Figlio di Dio, Tu guardi con maggior compiacenza un'opera Sira in unione e carità fraterna che mille
+in disunione; ti piace di più un'azione minima, come un batter d'occhio, fatta in unione e carità che se io patissi il mar-
+tirio in disunione e senza carità. Dov'è unione sei Tu, perchè ti chiami carità: ‘Deus charitas est’. Ti chiami Dio
+di pace e di unione: ‘Deus pacis’. Sei quello che metti ogni
+
+ce e senza di te non vi può essere vera pace, nè unione.
+
+inta è la pace e l'unione tra i peccatori, nè può durare lungo tempo, perchè, essendo i loro cuori signoreggiati dalla ti-
+rannia del peccato e dalle passioni, subito si rom quel vincolo che è fra di loro, vincolo debole più che un fil di sto) pa.
+Sicchè da te solo, o Dio, viene la pelon unione e dove è disunione, ivi è confusione a causa del peccato e del demonio.
+Con quanto desiderio dovremmo cercare questa unione e con
+quanta volontà amarla! Dov'è unione ivi è ogni bene, vi è
+l'abbondanza di ogni cosa, di tutte le ricchezze celesti e terrestri,
+«O Santissima Trinità, dacci, dunque, grazia di vivere
+sempre uniti gli uni agli altri, conservando l'unione di spirito, avendo un medesimo volere e sentire, emulando quella
+indivisibile unità che è fra le tre Persone divine » (S. M. Maddalena de' Pazzi).
+
+«Dove c'è l’amore, la carità, ivi sei Tu, o Signore! L'amore tuo, 0 Cristo, ci ha riunito in un sol corpo ed in un sol
+cuore, concedici dunque di amarci con animo sincero. Tieni
+lontano da noi le contese e le liti; fa' che i nostri cuori siano
+sempre uniti in te e Tu sta sempre in mezzo a noi» (dalla
+Liturgia).

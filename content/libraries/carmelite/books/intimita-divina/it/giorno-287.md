@@ -1,0 +1,104 @@
+## 287 — LA NATIVITÀ DI MARIA SANTISSIMA
+
+### Presenza di Dio
+
+O Maria, Madre mia, insegnami a vivere nascosto con te all'ombra di Dio.
+
+### Meditazione
+
+1. — La liturgia celebra con entusiasmo la nascita di Maria e ne fa una delle feste più popolari della devozione ma-
+riana. «La tua natività, o tati Madre di Dio — canta
+oggi l'Ufficio — annunziò la gioia al mondo intero; perchè
+da te è sorto il Sole di giustizia, Cristo Dio nostro», Il natale di Maria è il preludio del natale di Gesù, perchè pro-
+prio in esso ha il suo primo inizio la realizzazione del grande
+mistero del Figlio di Dio fatto uomo per la salvezza dell'umanità. Come potrebbe passare inosservato al cuore dei re-
+denti il giorno natalizio della Madre del Redentore? La Madre preannuncia il Figlio, dice che il Figlio sta per venire,
+che le promesse divine, preconizzate da secoli, stanno per
+avverarsi. La nascita di Maria è l'aurora della nostra Redenzione; il suo apparire proietta una luce nuova su tutta l'u-
+manità: luce d'innocenza, di purezza, di grazia, anticipo
+splendente della grande luce che inonderà la terra quando
+apparirà Cristo, ‘lux mundi’. Maria, preservata dal peccato
+in Ialia dei meriti di Cristo, non solo annuncia che la
+Redenzione è vicina, ma ne porta in sè le primizie, lei, la
+prima redenta dal suo Figlio divino. E per lei, tutta pura e
+tutta piena di grazia, la SS.ma Trinità finalmente sulla
+terra uno sguardo di compiacenza, poichè finalmente vi trova una creatura in cui può riflettere la sua bellezza infinita.
+
+Dopo la nascita di Gesù, nessuna nascita è stata tanto ©
+importante agli occhi di Dio e tanto importante per il bene
+dell'umanità, quanto quella di Maria. Eppure questa nascita
+rimane completamente nell'ombra: nulla ce ne dicono le
+Sacre Scritture e, quando nel Vangelo cerchiamo la genealogia di Gesù, troviamo solo quella a si riferisce a Giuseppe,
+
+
+mentre, fuorchè l’accenno alla di lei discendenza da David,
+nulla di esplicito troviamo circa la genealogia di Maria. Le
+origini della Madonna scompaiono nel silenzio, come è scomparsa nel silenzio tutta la sua vita. La natività di Maria ci
+parla di umiltà: più vogliamo crescere agli occhi di Dio, più
+dobbiamo nasconderci a quelli delle creature; più vogliamo
+fare cose grandi per Iddio, più dobbiamo lavorare nel silenzio e nel nascondimento.
+
+
+2. — Nel Vangelo la figura di Maria è quasi completamente nascosta da quella del suo Figlio divino; di lei gli
+Evangelisti ci dicono quel tanto che è necessario per presentare la Madre del Redentore e difatti entra in scena solo
+quando s'inizia il racconto dell’incarnazione del Verbo. La
+vita di Maria si confonde, si perde in quella di Gesù: Marîa ha vissuto veramente nascosta con Cristo in Dio. E no
+tiamo che ha vissuto nell'ombra non solo negli anni della
+sua infanzia, ma anche nei giorni della sua maternità divina,
+anche nei momenti di Giona del Figlio suo, anche quando
+una donna, entusiasta per le mirabili cose che Gesù compiva,
+alzò la voce in mezzo alla folla gridando: « Beato il seno che
+ti ha portato e le mammelle che hai succhiate! » (Le. 11, 27).
+
+La ricorrenza mariana che oggi festeggiamo sia dunque
+per noi un invito alla vita nascosta, a nasconderci con Maria
+in Cristo e con Cristo in Dio. Molte volte è Dio stesso che,
+attraverso le circostanze o le disposizioni dei superiori, s'incarica di farci vivere nell'ombra: dobbiamo allora essergliene
+molto grati e valerci di queste occasioni per progredire sempre più nella pratica dell’umiltà e del nascondimento. Al-
+tre volte, invece, il Signore può affidarci incarichi, uffici, ope-
+
+* re di apostolato che ci mettono un po' în evidenza; ebbene,
+anche in tali circostanze dobbiamo cercare di scomparire il
+più possibile, Non dobbiamo certo rifiutare di agire, ma dobbiamo agire in modo da saperci eclissare non appena la nostra
+parola non è più strettamente necessaria per la buona riuscita delle opere affidateci. Tutto il resto: le lodi, gli applausi,
+
+
+la relazione dei successi o la difesa degli insuccessi, non ci
+deve interessare; di fronte a ciò la nostra tattica deve essere
+quella di ritirarci con santa disinvoltura. Un'anima di vita
+
+
+‘ interiore deve avere l'ansia di nascondersi quanto più può
+
+
+sotto l'ombra di Dio perchè, se qualche cosa di bene ha potuto fare, è convinta che tutto è stato opera di Dio e perciò
+cerca con delicata premura che tutto ridondi unicamente alla
+sua gloria,
+
+La vita umile e nascosta di Maria sia il modello della nostra e se, per emularla, dobbiamo lottare contro le tendenze
+sempre rinascenti dell'orgoglio, ricorriamo fiduciosi al di lei
+aiuto materno e Maria ci farà trionfare di ogni vana gloria.
+
+### Colloquio
+
+«Mentre nel mare di questo mondo mi sento sballottare tra procelle e tempeste, tengo gli occhi fissi a te, o Ma-
+ria, fulgente stella, per non essere sommerso dai flutti.
+
+«Quando insorgono i venti delle tentazioni, quando urto
+negli scogli delle tribolazioni, innalzo lo sguardo a te e t'invoco, 0 Maria. Quando sono agitato dalle onde della super-
+bia, dell'ambizione, della maldicenza, della gelosia innalzo lo
+sguardo a te e t'invoco, o Maria. Quando la collera o l’avarizia o le seduzioni della carne agitano la fragile navicella
+dell'anima mia, sempre guardo a te, o Maria. È se, turbato
+per l’enormità delle colpe, confuso per la laidezza della coscienza, atterrito per la severità del giudizio, mi sentissi tra-
+scinare nella voragine della tristezza, nell'abiss8 della disperazione, ancora innalzerei lo sguardo a te, sempre invocandoti,
+© Maria!
+
+«Nei pericoli, nelle angustie, nelle perplessità sempre
+penserò a te, o Maria, sempre t'invocherò. Non partirti, o
+Vergine, dalla mia bocca, non partirti dal mio cuore; per ottenere l'appoggio delle tue preghiere, fa' che io non perda
+mai di vista gli esempi della tua vita. Seguendo te, o Maria,
+non devio, pensando a te non erro, se Tu mi sostieni non
+cado, se Tu mi proteggi non ho da temere, se Tu mi accom-
+
+
+pagni non mi affatico, se Tu mi sei propizia giungerò al termine» (cfr. S. Bernardo).

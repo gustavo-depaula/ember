@@ -1,0 +1,102 @@
+## 79 — GLI ATTACCHI VOLONTARI
+
+### Presenza di Dio
+
+O Signore, mi metto alla tua presenza pregandoti d'illuminare l'anima mia, affinchè io possa vedere quali sono gli ostacoli alla mia unione con te.
+
+### Meditazione
+
+1 — « Affinchè l'anima venga ad unirsi perfettamente
+con Dio per volontà d'amore, è necessario soprattutto che
+si vuoti di ogni appetito di volontà, per piccolo che sia »
+(S. I, 11, 3). Nel linguaggio di S. Giovanni della Croce, gli
+appetiti sono le inclinazioni o affetti disordinati verso se
+stessi o verso le creature, inclinazioni, quindi, più o meno,
+secondo la loro gravità, difformi dalla volontà di Dio, il
+quale vuole che amiamo noi stessi e tutte le creature nella
+misura da lui segnata, sempre in ordine a lui, e non per la
+nostra egoistica soddisfazione. Quando queste inclinazioni
+o appetiti sono volontariamente assecondati, benchè in cose
+lievi, danno sempre origine a peccati veniali o almeno ad
+imperfezioni deliberate. L'anima che ammette tali mancanze volontariamente, anche se lievissime, ha la volontà imbrattata di cose contrarie alla volontà di Dio e perciò non
+vi può essere perfetta unione fra la volontà sua e la volontà
+di Dio. Se poi queste inclinazioni difettose sono abituali e
+l'anima non si sforza di correggersene, allora costituiscono
+un maggiore ostacolo all'unione divina, anzi, dice il Santo,
+«non solo impediscono l'unione divina, ma anche il progresso nella perfezione » (ivi). E porta alcuni esempi di
+questi « abiti imperfetti » non mortificati: l'abitudine di
+parlare troppo, la curiosità non frenata, l'attacco a piccole
+cose, come a oggetti, a persone, a certi cibi ecc. a cui l'anima non si decide di rinunziare; così pure l'attacco al proprio comodo, a certe soddisfazioni sensibili, a piccole vanità, a sciocche compiacenze di se stessi, al proprio parere e
+al punto d'onore. È tutta una fungaia di «appetiti », d'inclinazioni disordinate da cui l'anima non si libera, appunto
+perchè è « attaccata » a quel po' di soddisfazione egoistica
+che trova in queste miserie; vi è « attaccata » e perciò non
+si decide a rinunziarvi del tutto. Sono proprio questi gli
+«appetiti volontari abituali » di cui S. Giovanni della Croce dice che «basta un solo appetito immortificato per impedire l'anima » (ivi).
+
+Quando, invece, si tratta d'inclinazioni difettose derivanti unicamente dalla debolezza umana e che rimangono
+allo stato di « primi moti », in cui la volontà non ha parte
+«nè prima, nè dopo », ma anzi, appena li avverte cerca di
+reprimerli, allora questi « non impediscono di conseguire la
+divina unione » (ivi, 2). È la volontà che conta, e questa
+deve essere del tutto libera da ogni minimo attacco.
+
+
+2 — «Se l'anima porta affetto abituale a qualsiasi imperfezione, incontra maggiore ostacolo a crescere in virtù,
+che se cadesse ogni giorno in molte altre imperfezioni e
+peccati veniali saltuari, i quali non procedessero da mala
+consuetudine » (G.C. S. I, 11, 4). Non sono tanto le cosiddette cadute sporadiche di sorpresa o di fragilità che trattengono l'anima dal progredire, quanto le piccole, le minime venialità ed anche le semplici imperfezioni provenienti da attacchi abituali e volontari che l'anima non si
+cura di spezzare fino in fondo. Per piccoli che siano, sono
+sempre lacci che la legano alla terra. « Che importa se un
+uccellino stia legato ad un filo sottile, piuttosto che ad
+uno grosso? Per quanto il filo sia sottile, è sempre vero
+che l'uccellino è legato e, sino a che non lo spezzi, non
+potrà volare... Così avviene all'anima unita con l'affetto a
+qualche cosa: benchè fornita di molte virtù, non giungerà alla libertà dell'unione divina» (ivi).
+
+Quindi, riguardo alla rinuncia, al distacco S. Giovanni
+della Croce ha una parola sola: rinunciare a tutto, distaccarsi da tutto. Se ci sembra troppo, pensiamo che questa
+è pura dottrina evangelica, niente di più di quanto Gesù
+ci propone col suo: « rinnega te stesso » (Mt. 16, 24). Con
+questa parola Egli ci chiede di rinnegarci non solo in
+qualche cosa, ma in tutto quello che ci può impedire di
+seguirlo. « Perchè chi vorrà salvare la sua vita, la perderà;
+chi invece avrà perduto la sua vita per amor mio, la
+ritroverà... Ora, se la tua mano o il tuo piede è per te
+occasione di scandalo, taglialo via e gettalo lontano da
+te» (ivi, 16, 25; 18, 8). In tal modo Gesù c'insegna che per
+la salvezza e la santità dell'anima, dobbiamo saper rinunciare a qualsiasi cosa che ci possa essere d'inciampo e che
+proprio in questo profondo rinnegare e «perdere » se
+stessi in tutto, anche nelle cose più care e perfino nella
+vita terrena, se fosse necessario, sta la via della salvezza
+e della santità.
+
+### Colloquio
+
+« Tardi ti ho amato, o Bellezza sempre antica e sempre nuova, tardi ti ho amato. Ed ecco, Tu eri dentro
+di me, ed io stavo fuori e ti cercavo qui, gettandomi laidamente su queste cose belle, che sono pur tue creature.
+Tu eri con me, ed io non ero con te; mi trattenevano
+lontano da te le creature che, se non avessero consistenza
+in te, nemmeno sarebbero. Tu hai chiamato e gridato,
+fino a rompere la mia sordità. Tu hai balenato e risplenduto, fino a fugare la mia cecità. Tu hai sparso la tua
+fragranza, ed io l'ho respirata ed ora anelo a te. Ti ho
+gustato, ed ora ho fame e sete di te. Mi hai toccato, e
+ardo dal desiderio della tua pace» (S. Agostino).
+
+Mio Dio, dammi luce per riconoscere in me tutto
+quel che m'impedisce di giungere a te. Dammi luce per
+riconoscere tutti quegli attacchi che mi tengono ancora
+prigioniero delle creature e di me stesso; e soprattutto
+quegli attacchi che più ti dispiacciono perchè derivano
+direttamente dall'orgoglio, dall'amor proprio. Nel segreto
+del cuore, Tu mi ammaestri con dolcezza e soavità e mi
+mostri chiaramente che sono ancora lontano dall'avere la
+volontà in tutto e per tutto conforme alla volontà tua.
+Amo e voglio tante cosette, tante imperfezioni che Tu
+non puoi assolutamente amare, nè volere, perchè contrarie alla tua perfezione infinita. Dammi la forza di iniziare contro di esse una lotta coraggiosa e costante. Tu
+lo sai, o Signore, che ho immenso bisogno del tuo aiuto,
+perchè sono troppo attaccato a me stesso per essere capace
+di lottare contro i miei affetti disordinati, per rinunciare
+a tante piccole soddisfazioni di cui il mio egoismo è
+avido. Mi amo troppo per togliere da me ciò che da te
+mi separa. Ecco, o Signore, mi presento a te come l'ammalato al chirurgo, immergi il ferro nell'anima mia, immergilo quanto è necessario per strapparne tutto quel
+che a te non piace e che Tu non puoi volere in me.

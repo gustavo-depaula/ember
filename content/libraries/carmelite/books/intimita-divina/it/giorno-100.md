@@ -1,0 +1,117 @@
+## 100 — L’ IMPERFEZIONE
+
+### Presenza di Dio
+
+### Meditazione
+
+1 — Mentre il peccato veniale include sempre una
+tras; ione più o meno lieve ad una legge di Dio, l’im-
+
+fezione è l’omissione di un bene migliore a cui non si
+è obbligati per alcuna legge, ma che tuttavia sarebbe conveniente compiere. Quando, nel caso concreto, mi si pre
+senta con chiarezza la possibilità di compiere un’azione
+migliore, che è conveniente e proporzionata al mio stato,
+alle mie possibilità attuali, che è in armonia con i miei
+doveri, per cui posso ragionevolmente pensare essermi
+ispirata dallo Spirito Santo, e tuttavia rifiuto deliberatamente di compierla, ciò non può essere senza vera e pro-
+pria imperfezione. In questo caso il mio rifiuto del meglio
+non può essere considerato buono, nè può essere giusti»
+ficato dal pensiero che, non esistendo alcuna legge 0 comando che m’impone quell’azione migliore, possa omet-
+terla unicamente per usare la mia libertà; questo sarebbe
+un abuso della libertà, la quale mi è stata data da Dio non
+altro che per rendermi capace di aderire al bene, senza
+lasciarmi influenzare dalle passioni. E infatti, in ultima
+analisi, il mio rifiuto del meglio include sempre una mancanza di generosità, motivata da un po’ di egoismo, di
+pigrizia, di grettezza, di attaccamento al mio comodo, e
+tutto ciò è evidentemente contrario alla perfezione.
+
+Considerata così, è chiaro che l’imperfezione volontaria non può mai essere conforme alla volontà di Dio,
+quindi anch'essa, come il peccato, va nella direzione opposta della carità, la quale tende alla piena conformità
+con la volontà divina. Ecco quindi l’importanza, per l’aliminare dalla sua
+
+
+condotta qualsiasi imperfezione volontaria. È proprio in
+questo senso che S. Giovanni della Croce avverte: « Affinchè l’anima venga ad unirsi perfettamente con Dio per
+volontà ed amore... si richiede che non consenta con cognizione ed avvertenza a veruna imperfezione » e insegna
+che basta l’attacco ad una imperfezione volontaria abituale per impedire « non soltanto l’unione divina, ma an-
+che il progresso nella perfezione » (S.I, 11,3).
+
+
+2 — Volendo scendere più al concreto si possono considerare altri tipi d’imperfezione e anzitutto la trasgres-
+sione di una legge che di per sè non obbliga sotto peccato,
+come sono in genere le costituzioni o gli statuti dei vari
+Ordini ed Istituti religiosi. A proposito di ciò bisogna
+notare che se non vi è un motivo ragionevole, proporzionato e sufficiente per venir meno ad una di queste leggi,
+molto facilmente tali trasgressioni diventeranno peccato
+veniale per mancanza di fine moralmente buono. Infatti,
+come insegna S. Tommaso, l’uomo è tenuto ad agire sem-
+
+re pe un motivo ragionevole, per un fine buono. Se il
+
+ine è viziato — come sarebbe per esempio trasgredire la
+legge del silenzio, del ritiro o della modestia religiosa per
+curiosità, per comodo proprio e simili — l’azione diventa
+per ciò stesso peccaminosa; e in genere si tratterà di « peccati, almeno leggeri, di pigrizia spirituale, d’incostanza, di
+ingratitudine e di una certa durezza di cuore che non
+apprezza sufficientemente il soccorso che Dio ci dà per le
+opere migliori » (Salmzart.). Altro genere d’imperfezione
+è una certa mancanza di compiutezza che si verifica in un
+atto sostanzialmente buono, ma eseguito, per esempio, con
+un po’ di grettezza, o senza impiegare in esso tutta la
+buona volontà e lo slancio di cui si è capaci.
+
+In fondo, qualsiasi genere d’imperfezione volontaria
+deriva sempre da mancanza di sforzo, di vigore, di slancio
+nella vita spirituale. È sempre l'egoismo che, in un modo
+© in un altro, toglie qualche cosa a Dio per accontentare
+l'io. Siamo troppo calcolatori, abbiamo paura di dare
+
+
+troppo e così l'egoismo ci tarpa le ali e ci impedisce di
+giungere alla piena unione con Dio.
+
+### Colloquio
+
+Ti supplico, o mio Dio, di concedermi una carità
+forte, generosa, capace di distruggere sino in fondo il mio
+egoismo. Oh, come lo EE che è proprio questo
+egoismo la causa di tante mie piccole infedeltà, di tante
+imperfezioni in cui cado abitualmente e delle quali non
+mi ene di correggermi col pretesto che non sono
+
+‘cati!
+
+Ma tali mancanze non sono senza importanza per
+un’anima che, essendo a te consacrata, ha il dovere di
+tendere alla perfezione, per un’anima quindi che Tu chiami alla santità, che Tu inviti alla piena unione con te.
+Come posso pretendere di unirmi a te, Perfezione infinita,
+io che ammetto volontariamente nella mia vita tante e
+tante imperfezioni? Come può la mia volontà essere del
+tutto conforme alla tua, quando io voglio e amo ciò che
+Tu non vuoi e non puoi assolutamente amare?
+
+© Signore, come sento il peso del mio egoismo che
+mi trascina verso il basso, che vorrebbe raggiungere il
+massimo col minimo sforzo, che sfugge a tutto potere la
+fatica, la rinuncia, la dedizione piena e generosa! Come
+sento la pesantezza della carne che cerca sempre di ridurre un po’ Ja misura della mia donazione, che rimanda
+al domani ciò che mi costa 0 mi ripugna, che mi presenta
+mille pretesti per sottrarsi ad un atto di generosità!
+
+Sì, o Signore, tutto questo lo sento e Tu sai meglio
+di me fin dove arrivano i rinirghi i compromessi del mio
+egoismo. Ma sai anche che vo; amarti con tutto il
+‘cuore, che voglio darmi interamente a te, sai che i miei
+poveri desideri sono sinceri, benchè inefficaci. Ebbene,
+donami Tu un amore reale, operativo, capace di vincere
+tutte le resistenze dell’egoismo, di smantellarne tutti i
+
+
+piani. Tu che sei carità infinita, fuoco consumante, infondi
+
+
+nell'anima mia una scintilla del tuo amore, affinchè distrugga e bruci ogni mia tendenza cgoistica. Se l'egoismo
+è il peso che tenta di rallentare il mio slancio verso di te,
+fa’ che il tuo amore sia un peso ancor più forte che mi
+trascini incessantemente in te, per mezzo di una dedizione
+totale, senza riserva, senza misura.

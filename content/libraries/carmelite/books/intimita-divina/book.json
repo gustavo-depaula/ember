@@ -1,0 +1,2281 @@
+{
+  "id": "intimita-divina",
+  "name": {
+    "it": "Intimità Divina",
+    "en-US": "Divine Intimacy",
+    "pt-BR": "Intimidade Divina"
+  },
+  "author": {
+    "it": "P. Gabriele di S. Maria Maddalena, O.C.D.",
+    "en-US": "Fr. Gabriel of St. Mary Magdalen, O.C.D.",
+    "pt-BR": "P. Gabriel de Santa Maria Madalena, O.C.D."
+  },
+  "description": {
+    "it": "Meditazioni sulla vita interiore per tutti i giorni dell'anno. Terza edizione, Monastero S. Giuseppe, Roma, 1957.",
+    "en-US": "Meditations on the interior life for every day of the year. Third edition, Monastery of St. Joseph, Rome, 1957.",
+    "pt-BR": "Meditações sobre a vida interior para todos os dias do ano. Terceira edição, Mosteiro de São José, Roma, 1957."
+  },
+  "composed": 1953,
+  "languages": [
+    "it"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://archive.org/details/id_20211227",
+      "description": "Terza Edizione (1957), 6 volumi, Monastero S. Giuseppe, Carmelitane Scalze, Roma. OCR text from Internet Archive."
+    }
+  ],
+  "toc": [
+    {
+      "id": "volume-1",
+      "title": {
+        "it": "Volume I — Dall'Avvento alla V dopo l'Epifania"
+      },
+      "children": [
+        {
+          "id": "giorno-001",
+          "title": {
+            "it": "IL SIGNORE VIENE DA LONTANO"
+          }
+        },
+        {
+          "id": "giorno-002",
+          "title": {
+            "it": "INVITO ALLA SANTITÀ"
+          }
+        },
+        {
+          "id": "giorno-003",
+          "title": {
+            "it": "SANTITÀ PIENEZZA DELLA GRAZIA"
+          }
+        },
+        {
+          "id": "giorno-004",
+          "title": {
+            "it": "LA CARITÀ ESSENZA DELLA SANTITÀ"
+          }
+        },
+        {
+          "id": "giorno-005",
+          "title": {
+            "it": "SANTITÀ E VOLONTÀ DI DIO"
+          }
+        },
+        {
+          "id": "giorno-006",
+          "title": {
+            "it": "LA SANTITÀ E I PROPRI DOVERI"
+          }
+        },
+        {
+          "id": "giorno-007",
+          "title": {
+            "it": "IL MONTE DELLA PERFEZIONE"
+          }
+        },
+        {
+          "id": "giorno-008",
+          "title": {
+            "it": "PRESTO IL SIGNORE VERRÀ"
+          }
+        },
+        {
+          "id": "giorno-009",
+          "title": {
+            "it": "L'IMMACOLATA CONCEZIONE"
+          }
+        },
+        {
+          "id": "giorno-010",
+          "title": {
+            "it": "INVITO ALL'INTIMITÀ DIVINA"
+          }
+        },
+        {
+          "id": "giorno-011",
+          "title": {
+            "it": "IN CERCA DI DIO"
+          }
+        },
+        {
+          "id": "giorno-012",
+          "title": {
+            "it": "CERCARE DIO NELL'ORAZIONE"
+          }
+        },
+        {
+          "id": "giorno-013",
+          "title": {
+            "it": "LA RICERCA DI DIO E I DOVERI QUOTIDIANI"
+          }
+        },
+        {
+          "id": "giorno-014",
+          "title": {
+            "it": "LA VERGINE DELL'INCARNAZIONE"
+          }
+        },
+        {
+          "id": "giorno-015",
+          "title": {
+            "it": "IL SIGNORE È VICINO"
+          }
+        },
+        {
+          "id": "giorno-016",
+          "title": {
+            "it": "LA CUSTODIA DEI SENSI"
+          }
+        },
+        {
+          "id": "giorno-017",
+          "title": {
+            "it": "IL SILENZIO INTERIORE"
+          }
+        },
+        {
+          "id": "giorno-018",
+          "title": {
+            "it": "CERCARE DIO IN FEDE"
+          }
+        },
+        {
+          "id": "giorno-019",
+          "title": {
+            "it": "CERCARE DIO IN AMORE"
+          }
+        },
+        {
+          "id": "giorno-020",
+          "title": {
+            "it": "CERCARE DIO NELLE CREATURE"
+          }
+        },
+        {
+          "id": "giorno-021",
+          "title": {
+            "it": "CERCARE DIO NELL’ATTIVITÀ"
+          }
+        },
+        {
+          "id": "giorno-022",
+          "title": {
+            "it": "ECCO VIENE IL SALVATORE"
+          }
+        },
+        {
+          "id": "giorno-023",
+          "title": {
+            "it": "INVITO ALL’APOSTOLATO"
+          }
+        },
+        {
+          "id": "giorno-024",
+          "title": {
+            "it": "APOSTOLATO INTERIORE"
+          }
+        },
+        {
+          "id": "giorno-025",
+          "title": {
+            "it": "L'AZIONE APOSTOLICA"
+          }
+        },
+        {
+          "id": "giorno-026",
+          "title": {
+            "it": "IL MISTERO DELL’INCARNAZIONE"
+          }
+        },
+        {
+          "id": "giorno-027",
+          "title": {
+            "it": "IL VERBO SI È FATTO CARNE"
+          }
+        },
+        {
+          "id": "giorno-028",
+          "title": {
+            "it": "SI COMPIE IL GRAN MISTERO"
+          }
+        },
+        {
+          "id": "giorno-029",
+          "title": {
+            "it": "È APPARSO IL SALVATORE"
+          }
+        },
+        {
+          "id": "giorno-030",
+          "title": {
+            "it": "CREDERE ALL’AMORE"
+          }
+        },
+        {
+          "id": "giorno-031",
+          "title": {
+            "it": "RICAMBIARE L'AMORE"
+          }
+        },
+        {
+          "id": "giorno-032",
+          "title": {
+            "it": "GLORIA A DIO"
+          }
+        },
+        {
+          "id": "giorno-033",
+          "title": {
+            "it": "PACE AGLI UOMINI"
+          }
+        },
+        {
+          "id": "giorno-034",
+          "title": {
+            "it": "SEGNO DI CONTRADIZIONE"
+          }
+        },
+        {
+          "id": "giorno-035",
+          "title": {
+            "it": "TRAFFICHIAMO IL TEMPO"
+          }
+        },
+        {
+          "id": "giorno-036",
+          "title": {
+            "it": "LA CIRCONCISIONE DEL SIGNORE"
+          }
+        },
+        {
+          "id": "giorno-037",
+          "title": {
+            "it": "IL NOME DI GESÙ"
+          }
+        },
+        {
+          "id": "giorno-038",
+          "title": {
+            "it": "GESÙ MEDIATORE"
+          }
+        },
+        {
+          "id": "giorno-039",
+          "title": {
+            "it": "GESÙ PRIMOGENITO DI TUTTE LE CREATURE"
+          }
+        },
+        {
+          "id": "giorno-040",
+          "title": {
+            "it": "GESÙ RE UNIVERSALE"
+          }
+        },
+        {
+          "id": "giorno-041",
+          "title": {
+            "it": "EPIFANIA"
+          }
+        },
+        {
+          "id": "giorno-042",
+          "title": {
+            "it": "LA SACRA FAMIGLIA"
+          }
+        },
+        {
+          "id": "giorno-043",
+          "title": {
+            "it": "GESÙ VITE VERA"
+          }
+        },
+        {
+          "id": "giorno-044",
+          "title": {
+            "it": "IL CORPO MISTICO DI CRISTO"
+          }
+        },
+        {
+          "id": "giorno-045",
+          "title": {
+            "it": "«IO SONO LA VITA »"
+          }
+        },
+        {
+          "id": "giorno-046",
+          "title": {
+            "it": "L'INFLUSSO DI GESÙ"
+          }
+        },
+        {
+          "id": "giorno-047",
+          "title": {
+            "it": "LO SPIRITO DI GESÙ"
+          }
+        },
+        {
+          "id": "giorno-048",
+          "title": {
+            "it": "VIVERE IN CRISTO"
+          }
+        },
+        {
+          "id": "giorno-049",
+          "title": {
+            "it": "IL PRIMO MIRACOLO DI GESÙ"
+          }
+        },
+        {
+          "id": "giorno-050",
+          "title": {
+            "it": "«IO SONO LA VERITÀ »"
+          }
+        },
+        {
+          "id": "giorno-051",
+          "title": {
+            "it": "LA DOTTRINA DI GESÙ"
+          }
+        },
+        {
+          "id": "giorno-052",
+          "title": {
+            "it": "GESÙ CI RIVELA IL PADRE"
+          }
+        },
+        {
+          "id": "giorno-053",
+          "title": {
+            "it": "GESÙ MAESTRO DI SANTITÀ"
+          }
+        },
+        {
+          "id": "giorno-054",
+          "title": {
+            "it": "LE ESIGENZE DELL'INSEGNAMENTO DI GESÙ"
+          }
+        },
+        {
+          "id": "giorno-055",
+          "title": {
+            "it": "LA POTENZA DEL MAESTRO DIVINO"
+          }
+        },
+        {
+          "id": "giorno-056",
+          "title": {
+            "it": "GESÙ ACCOGLIE TUTTI"
+          }
+        },
+        {
+          "id": "giorno-057",
+          "title": {
+            "it": "«IO SONO LA VIA»"
+          }
+        },
+        {
+          "id": "giorno-058",
+          "title": {
+            "it": "«IO SONO NEL PADRE»"
+          }
+        },
+        {
+          "id": "giorno-059",
+          "title": {
+            "it": "LA PREGHIERA DI GESÙ"
+          }
+        },
+        {
+          "id": "giorno-060",
+          "title": {
+            "it": "GESÙ E LA VOLONTÀ DEL PADRE"
+          }
+        },
+        {
+          "id": "giorno-061",
+          "title": {
+            "it": "LE OPERE DI GESÙ"
+          }
+        },
+        {
+          "id": "giorno-062",
+          "title": {
+            "it": "GESÙ E LA GLORIA DEL PADRE"
+          }
+        },
+        {
+          "id": "giorno-063",
+          "title": {
+            "it": "LA TEMPESTA SEDATA"
+          }
+        },
+        {
+          "id": "giorno-064",
+          "title": {
+            "it": "GESÙ E GLI UOMINI"
+          }
+        },
+        {
+          "id": "giorno-065",
+          "title": {
+            "it": "VIVERE CRISTO"
+          }
+        },
+        {
+          "id": "giorno-066",
+          "title": {
+            "it": "GESÙ NOSTRO TUTTO"
+          }
+        },
+        {
+          "id": "giorno-067",
+          "title": {
+            "it": "LA CHIESA"
+          }
+        },
+        {
+          "id": "giorno-068",
+          "title": {
+            "it": "IL SACERDOZIO"
+          }
+        },
+        {
+          "id": "giorno-069",
+          "title": {
+            "it": "I SACRAMENTI"
+          }
+        },
+        {
+          "id": "giorno-070",
+          "title": {
+            "it": "IL VINCOLO DELLA PERFEZIONE"
+          }
+        },
+        {
+          "id": "giorno-071",
+          "title": {
+            "it": "IL BATTESIMO"
+          }
+        },
+        {
+          "id": "giorno-072",
+          "title": {
+            "it": "LA CRESIMA"
+          }
+        },
+        {
+          "id": "giorno-073",
+          "title": {
+            "it": "LA PENITENZA"
+          }
+        },
+        {
+          "id": "giorno-074",
+          "title": {
+            "it": "L'ESTREMA UNZIONE"
+          }
+        },
+        {
+          "id": "giorno-075",
+          "title": {
+            "it": "LA VOCAZIONE"
+          }
+        },
+        {
+          "id": "giorno-076",
+          "title": {
+            "it": "CORRISPONDENZA ALLA VOCAZIONE"
+          }
+        }
+      ]
+    },
+    {
+      "id": "volume-2",
+      "title": {
+        "it": "Volume II — Dalla Settuagesima al Sabato Santo"
+      },
+      "children": [
+        {
+          "id": "giorno-077",
+          "title": {
+            "it": "NUOVO PROGRAMMA"
+          }
+        },
+        {
+          "id": "giorno-078",
+          "title": {
+            "it": "NECESSITÀ DELLA PURIFICAZIONE INTERIORE"
+          }
+        },
+        {
+          "id": "giorno-079",
+          "title": {
+            "it": "GLI ATTACCHI VOLONTARI"
+          }
+        },
+        {
+          "id": "giorno-080",
+          "title": {
+            "it": "L'ESSENZA DEL DISTACCO"
+          }
+        },
+        {
+          "id": "giorno-081",
+          "title": {
+            "it": "LA VIA DEL NULLA"
+          }
+        },
+        {
+          "id": "giorno-082",
+          "title": {
+            "it": "REGOLE DI SPOGLIAMENTO"
+          }
+        },
+        {
+          "id": "giorno-083",
+          "title": {
+            "it": "LA NOTTE DEI SENSI"
+          }
+        },
+        {
+          "id": "giorno-084",
+          "title": {
+            "it": "IL SEME DIVINO"
+          }
+        },
+        {
+          "id": "giorno-085",
+          "title": {
+            "it": "LA POVERTÀ EVANGELICA"
+          }
+        },
+        {
+          "id": "giorno-086",
+          "title": {
+            "it": "LA POVERTÀ VOLONTARIA"
+          }
+        },
+        {
+          "id": "giorno-087",
+          "title": {
+            "it": "LO SPIRITO DI POVERTÀ"
+          }
+        },
+        {
+          "id": "giorno-088",
+          "title": {
+            "it": "LA CASTITÀ"
+          }
+        },
+        {
+          "id": "giorno-089",
+          "title": {
+            "it": "LA MODESTIA"
+          }
+        },
+        {
+          "id": "giorno-090",
+          "title": {
+            "it": "LA CASTITÀ DEL CUORE"
+          }
+        },
+        {
+          "id": "giorno-091",
+          "title": {
+            "it": "LA PREDIZIONE DELLA PASSIONE"
+          }
+        },
+        {
+          "id": "giorno-092",
+          "title": {
+            "it": "LA MORTIFICAZIONE CORPORALE"
+          }
+        },
+        {
+          "id": "giorno-093",
+          "title": {
+            "it": "LE CENERI"
+          }
+        },
+        {
+          "id": "giorno-094",
+          "title": {
+            "it": "LA MORTE"
+          }
+        },
+        {
+          "id": "giorno-095",
+          "title": {
+            "it": "PROVA DI AMORE"
+          }
+        },
+        {
+          "id": "giorno-096",
+          "title": {
+            "it": "LO SPIRITO DI MORTIFICAZIONE"
+          }
+        },
+        {
+          "id": "giorno-097",
+          "title": {
+            "it": "LA CONVERSIONE"
+          }
+        },
+        {
+          "id": "giorno-098",
+          "title": {
+            "it": "IL PECCATO"
+          }
+        },
+        {
+          "id": "giorno-099",
+          "title": {
+            "it": "IL PECCATO VENIALE"
+          }
+        },
+        {
+          "id": "giorno-100",
+          "title": {
+            "it": "L’ IMPERFEZIONE"
+          }
+        },
+        {
+          "id": "giorno-101",
+          "title": {
+            "it": "L'ESAME DI COSCIENZA"
+          }
+        },
+        {
+          "id": "giorno-102",
+          "title": {
+            "it": "LA CONFESSIONE"
+          }
+        },
+        {
+          "id": "giorno-103",
+          "title": {
+            "it": "LA TRASFIGURAZIONE"
+          }
+        },
+        {
+          "id": "giorno-104",
+          "title": {
+            "it": "L'UMILTÀ"
+          }
+        },
+        {
+          "id": "giorno-105",
+          "title": {
+            "it": "IL NOSTRO POSTO"
+          }
+        },
+        {
+          "id": "giorno-106",
+          "title": {
+            "it": "UMILTÀ E FIDUCIA"
+          }
+        },
+        {
+          "id": "giorno-107",
+          "title": {
+            "it": "UMILTÀ NELLE CADUTE"
+          }
+        },
+        {
+          "id": "giorno-108",
+          "title": {
+            "it": "LE UMILIAZIONI"
+          }
+        },
+        {
+          "id": "giorno-109",
+          "title": {
+            "it": "L'UMILTÀ DEL CUORE"
+          }
+        },
+        {
+          "id": "giorno-110",
+          "title": {
+            "it": "LA FORZA DI GESÙ"
+          }
+        },
+        {
+          "id": "giorno-111",
+          "title": {
+            "it": "L'ULTIMO POSTO"
+          }
+        },
+        {
+          "id": "giorno-112",
+          "title": {
+            "it": "LA VITA NASCOSTA"
+          }
+        },
+        {
+          "id": "giorno-113",
+          "title": {
+            "it": "NASCONDERSI A SE STESSI"
+          }
+        },
+        {
+          "id": "giorno-114",
+          "title": {
+            "it": "NASCONDERSI CON CRISTO IN DIO"
+          }
+        },
+        {
+          "id": "giorno-115",
+          "title": {
+            "it": "LA VERA GLORIA"
+          }
+        },
+        {
+          "id": "giorno-116",
+          "title": {
+            "it": "NON SCUSARSI"
+          }
+        },
+        {
+          "id": "giorno-117",
+          "title": {
+            "it": "LA MOLTIPLICAZIONE DEI PANI"
+          }
+        },
+        {
+          "id": "giorno-118",
+          "title": {
+            "it": "IL VALORE DELL’ OBBEDIENZA"
+          }
+        },
+        {
+          "id": "giorno-119",
+          "title": {
+            "it": "VIENI E SEGUIMI"
+          }
+        },
+        {
+          "id": "giorno-120",
+          "title": {
+            "it": "LIBERA IMMOLAZIONE DELLA LIBERTÀ"
+          }
+        },
+        {
+          "id": "giorno-121",
+          "title": {
+            "it": "OBBEDIENZA SOPRANNATURALE"
+          }
+        },
+        {
+          "id": "giorno-122",
+          "title": {
+            "it": "OBBEDIENZA CIECA"
+          }
+        },
+        {
+          "id": "giorno-123",
+          "title": {
+            "it": "DIFFICOLTÀ DELL'OBBEDIENZA"
+          }
+        },
+        {
+          "id": "giorno-124",
+          "title": {
+            "it": "GESÙ PERSEGUITATO"
+          }
+        },
+        {
+          "id": "giorno-125",
+          "title": {
+            "it": "IL VALORE DELLA SOFFERENZA"
+          }
+        },
+        {
+          "id": "giorno-126",
+          "title": {
+            "it": "LA PAZIENZA"
+          }
+        },
+        {
+          "id": "giorno-127",
+          "title": {
+            "it": "LA CROCE QUOTIDIANA"
+          }
+        },
+        {
+          "id": "giorno-128",
+          "title": {
+            "it": "SOFFERENZA E ABBANDONO"
+          }
+        },
+        {
+          "id": "giorno-129",
+          "title": {
+            "it": "I SETTE DOLORI DI MARIA"
+          }
+        },
+        {
+          "id": "giorno-130",
+          "title": {
+            "it": "L'AMORE ALLA CROCE"
+          }
+        },
+        {
+          "id": "giorno-131",
+          "title": {
+            "it": "IL TRIONFO DI GESÙ"
+          }
+        },
+        {
+          "id": "giorno-132",
+          "title": {
+            "it": "LA CENA DI BETANIA"
+          }
+        },
+        {
+          "id": "giorno-133",
+          "title": {
+            "it": "L'AGNELLO MANSUETO"
+          }
+        },
+        {
+          "id": "giorno-134",
+          "title": {
+            "it": "L'UOMO DEI DOLORI"
+          }
+        },
+        {
+          "id": "giorno-135",
+          "title": {
+            "it": "IL DONO DELL'AMORE"
+          }
+        },
+        {
+          "id": "giorno-136",
+          "title": {
+            "it": "IL MISTERO DELLA CROCE"
+          }
+        },
+        {
+          "id": "giorno-137",
+          "title": {
+            "it": "LA VITTORIA DELLA CROCE"
+          }
+        },
+        {
+          "id": "giorno-138",
+          "title": {
+            "it": "LA PURIFICAZIONE DI MARIA"
+          }
+        },
+        {
+          "id": "giorno-139",
+          "title": {
+            "it": "S. GIUSEPPE PATRONO DELLA CHIESA"
+          }
+        },
+        {
+          "id": "giorno-140",
+          "title": {
+            "it": "VITA DI FEDE IN S. GIUSEPPE"
+          }
+        },
+        {
+          "id": "giorno-141",
+          "title": {
+            "it": "L'ANNUNCIAZIONE DI MARIA"
+          }
+        }
+      ]
+    },
+    {
+      "id": "volume-3",
+      "title": {
+        "it": "Volume III — Dalla Risurrezione alla SS.ma Trinità"
+      },
+      "children": [
+        {
+          "id": "giorno-142",
+          "title": {
+            "it": "LA PASQUA DEL SIGNORE"
+          }
+        },
+        {
+          "id": "giorno-143",
+          "title": {
+            "it": "RESTA CON NOI"
+          }
+        },
+        {
+          "id": "giorno-144",
+          "title": {
+            "it": "CHI CERCHI?"
+          }
+        },
+        {
+          "id": "giorno-145",
+          "title": {
+            "it": "L'ACQUA VIVA"
+          }
+        },
+        {
+          "id": "giorno-146",
+          "title": {
+            "it": "LA NOSTRA PREPARAZIONE"
+          }
+        },
+        {
+          "id": "giorno-147",
+          "title": {
+            "it": "LA PREGHIERA"
+          }
+        },
+        {
+          "id": "giorno-148",
+          "title": {
+            "it": "FRUTTI PASQUALI"
+          }
+        },
+        {
+          "id": "giorno-149",
+          "title": {
+            "it": "LA LETTURA MEDITATA"
+          }
+        },
+        {
+          "id": "giorno-150",
+          "title": {
+            "it": "LA MEDITAZIONE"
+          }
+        },
+        {
+          "id": "giorno-151",
+          "title": {
+            "it": "ORAZIONE DI RACCOGLIMENTO"
+          }
+        },
+        {
+          "id": "giorno-152",
+          "title": {
+            "it": "IL BUON PASTORE"
+          }
+        },
+        {
+          "id": "giorno-153",
+          "title": {
+            "it": "DECISIONE RISOLUTA"
+          }
+        },
+        {
+          "id": "giorno-154",
+          "title": {
+            "it": "PATROCINIO DI S. GIUSEPPE"
+          }
+        },
+        {
+          "id": "giorno-155",
+          "title": {
+            "it": "ARIDITÀ E CONTEMPLAZIONE"
+          }
+        },
+        {
+          "id": "giorno-156",
+          "title": {
+            "it": "CONDOTTA PRATICA"
+          }
+        },
+        {
+          "id": "giorno-157",
+          "title": {
+            "it": "PELLEGRINI DI DIO"
+          }
+        },
+        {
+          "id": "giorno-158",
+          "title": {
+            "it": "VITA DI ORAZIONE"
+          }
+        },
+        {
+          "id": "giorno-159",
+          "title": {
+            "it": "ESERCIZIO DELLA PRESENZA DI DIO"
+          }
+        },
+        {
+          "id": "giorno-160",
+          "title": {
+            "it": "SPIRITO DI FEDE"
+          }
+        },
+        {
+          "id": "giorno-161",
+          "title": {
+            "it": "LA PREGHIERA LITURGICA"
+          }
+        },
+        {
+          "id": "giorno-162",
+          "title": {
+            "it": "LA S. MESSA"
+          }
+        },
+        {
+          "id": "giorno-163",
+          "title": {
+            "it": "LA GRANDE PROMESSA"
+          }
+        },
+        {
+          "id": "giorno-164",
+          "title": {
+            "it": "L'UFFICIO DIVINO"
+          }
+        },
+        {
+          "id": "giorno-165",
+          "title": {
+            "it": "ANCELLA DEL SIGNORE"
+          }
+        },
+        {
+          "id": "giorno-166",
+          "title": {
+            "it": "SPOSA DELLO SPIRITO SANTO"
+          }
+        },
+        {
+          "id": "giorno-167",
+          "title": {
+            "it": "MADRE DI DIO"
+          }
+        },
+        {
+          "id": "giorno-168",
+          "title": {
+            "it": "MADRE NOSTRA"
+          }
+        },
+        {
+          "id": "giorno-169",
+          "title": {
+            "it": "LA PREGHIERA EFFICACE"
+          }
+        },
+        {
+          "id": "giorno-170",
+          "title": {
+            "it": "VITA MARIANA"
+          }
+        },
+        {
+          "id": "giorno-171",
+          "title": {
+            "it": "L'UMILTÀ DI MARIA"
+          }
+        },
+        {
+          "id": "giorno-172",
+          "title": {
+            "it": "LA FEDE DI MARIA"
+          }
+        },
+        {
+          "id": "giorno-173",
+          "title": {
+            "it": "L’ASCENSIONE DEL SIGNORE"
+          }
+        },
+        {
+          "id": "giorno-174",
+          "title": {
+            "it": "LA SPERANZA DI MARIA"
+          }
+        },
+        {
+          "id": "giorno-175",
+          "title": {
+            "it": "LO SVILUPPO DELLA CARITÀ IN MARIA"
+          }
+        },
+        {
+          "id": "giorno-176",
+          "title": {
+            "it": "MARIA E LA CARITÀ FRATERNA"
+          }
+        },
+        {
+          "id": "giorno-177",
+          "title": {
+            "it": "LA PREGHIERA DI MARIA"
+          }
+        },
+        {
+          "id": "giorno-178",
+          "title": {
+            "it": "L’APOSTOLATO DI MARIA"
+          }
+        },
+        {
+          "id": "giorno-179",
+          "title": {
+            "it": "LO SPIRITO SANTO"
+          }
+        },
+        {
+          "id": "giorno-180",
+          "title": {
+            "it": "LO SPIRITO DI CRISTO"
+          }
+        },
+        {
+          "id": "giorno-181",
+          "title": {
+            "it": "DOLCE OSPITE DELL'ANIMA"
+          }
+        },
+        {
+          "id": "giorno-182",
+          "title": {
+            "it": "LA DISCESA DELLO SPIRITO SANTO"
+          }
+        },
+        {
+          "id": "giorno-183",
+          "title": {
+            "it": "L’ AZIONE DELLO SPIRITO SANTO"
+          }
+        },
+        {
+          "id": "giorno-184",
+          "title": {
+            "it": "LE INIZIATIVE DELLO SPIRITO SANTO"
+          }
+        },
+        {
+          "id": "giorno-185",
+          "title": {
+            "it": "LA NOSTRA COLLABORAZIONE"
+          }
+        },
+        {
+          "id": "giorno-186",
+          "title": {
+            "it": "LO SPIRITO SANTO CI CONFORMA A CRISTO"
+          }
+        },
+        {
+          "id": "giorno-187",
+          "title": {
+            "it": "LA VIA DELLA CROCE"
+          }
+        },
+        {
+          "id": "giorno-188",
+          "title": {
+            "it": "I DONI DELLO SPIRITO SANTO"
+          }
+        },
+        {
+          "id": "giorno-189",
+          "title": {
+            "it": "FESTA DELLA SS.MA TRINITÀ"
+          }
+        },
+        {
+          "id": "giorno-190",
+          "title": {
+            "it": "LE VIRTÙ E I DONI"
+          }
+        },
+        {
+          "id": "giorno-191",
+          "title": {
+            "it": "LO SPIRITO SANTO E LA PREGHIERA"
+          }
+        },
+        {
+          "id": "giorno-192",
+          "title": {
+            "it": "LO SPIRITO SANTO E L'ATTIVITÀ"
+          }
+        },
+        {
+          "id": "giorno-193",
+          "title": {
+            "it": "MARIA MEDIATRICE"
+          }
+        },
+        {
+          "id": "giorno-194",
+          "title": {
+            "it": "FESTA DEL «CORPUS DOMINI»"
+          }
+        },
+        {
+          "id": "giorno-195",
+          "title": {
+            "it": "LA PRESENZA REALE"
+          }
+        },
+        {
+          "id": "giorno-196",
+          "title": {
+            "it": "MISTERO DI FEDE"
+          }
+        },
+        {
+          "id": "giorno-197",
+          "title": {
+            "it": "L'INVITO AL BANCHETTO"
+          }
+        }
+      ]
+    },
+    {
+      "id": "volume-4",
+      "title": {
+        "it": "Volume IV — Dal Corpus Domini alla IX dopo Pentecoste"
+      },
+      "children": [
+        {
+          "id": "giorno-198",
+          "title": {
+            "it": "MISTERO DI SPERANZA"
+          }
+        },
+        {
+          "id": "giorno-199",
+          "title": {
+            "it": "MISTERO D'AMORE"
+          }
+        },
+        {
+          "id": "giorno-200",
+          "title": {
+            "it": "IL SACRAMENTO DELL'UNIONE"
+          }
+        },
+        {
+          "id": "giorno-201",
+          "title": {
+            "it": "DISPONIAMOCI ALL'UNIONE"
+          }
+        },
+        {
+          "id": "giorno-202",
+          "title": {
+            "it": "FESTA DEL SACRO CUORE DI GESÙ"
+          }
+        },
+        {
+          "id": "giorno-203",
+          "title": {
+            "it": "LA DEVOZIONE AL CUORE DI GESÙ"
+          }
+        },
+        {
+          "id": "giorno-204",
+          "title": {
+            "it": "L'AMORE MISERICORDIOSO"
+          }
+        },
+        {
+          "id": "giorno-205",
+          "title": {
+            "it": "RIAMARE L'AMORE"
+          }
+        },
+        {
+          "id": "giorno-206",
+          "title": {
+            "it": "LA CONSACRAZIONE AL CUORE DI GESÙ"
+          }
+        },
+        {
+          "id": "giorno-207",
+          "title": {
+            "it": "LA RIPARAZIONE"
+          }
+        },
+        {
+          "id": "giorno-208",
+          "title": {
+            "it": "IL CUORE DI GESÙ NOSTRO MODELLO"
+          }
+        },
+        {
+          "id": "giorno-209",
+          "title": {
+            "it": "IL CUORE DI GESÙ NOSTRO RIFUGIO"
+          }
+        },
+        {
+          "id": "giorno-210",
+          "title": {
+            "it": "IL SACRO CUORE E L'EUCARISTIA"
+          }
+        },
+        {
+          "id": "giorno-211",
+          "title": {
+            "it": "FIDUCIA INCROLLABILE"
+          }
+        },
+        {
+          "id": "giorno-212",
+          "title": {
+            "it": "RIMANERE IN CRISTO"
+          }
+        },
+        {
+          "id": "giorno-213",
+          "title": {
+            "it": "DALL'EUCARISTIA ALLA TRINITÀ"
+          }
+        },
+        {
+          "id": "giorno-214",
+          "title": {
+            "it": "IL MISTERO TRINITARIO"
+          }
+        },
+        {
+          "id": "giorno-215",
+          "title": {
+            "it": "LE EFFUSIONI DELLA TRINITÀ NELL'ANIMA"
+          }
+        },
+        {
+          "id": "giorno-216",
+          "title": {
+            "it": "CONCORDIA FRATERNA"
+          }
+        },
+        {
+          "id": "giorno-217",
+          "title": {
+            "it": "LA GLORIA DELLA SS.MA TRINITÀ"
+          }
+        },
+        {
+          "id": "giorno-218",
+          "title": {
+            "it": "LE PERFEZIONI DIVINE"
+          }
+        },
+        {
+          "id": "giorno-219",
+          "title": {
+            "it": "FESTA DEI SS. PIETRO E PAOLO"
+          }
+        },
+        {
+          "id": "giorno-220",
+          "title": {
+            "it": "L'ESSENZA DIVINA"
+          }
+        },
+        {
+          "id": "giorno-221",
+          "title": {
+            "it": "IL PREZIOSISSIMO SANGUE"
+          }
+        },
+        {
+          "id": "giorno-222",
+          "title": {
+            "it": "LA VISITA DI MARIA AD ELISABETTA"
+          }
+        },
+        {
+          "id": "giorno-223",
+          "title": {
+            "it": "LA COMPASSIONE DI GESÙ"
+          }
+        },
+        {
+          "id": "giorno-224",
+          "title": {
+            "it": "LA SEMPLICITÀ DIVINA"
+          }
+        },
+        {
+          "id": "giorno-225",
+          "title": {
+            "it": "LA BONTÀ INFINITA"
+          }
+        },
+        {
+          "id": "giorno-226",
+          "title": {
+            "it": "LA BONTÀ INFINITA SI DIFFONDE"
+          }
+        },
+        {
+          "id": "giorno-227",
+          "title": {
+            "it": "LA SAPIENZA INFINITA"
+          }
+        },
+        {
+          "id": "giorno-228",
+          "title": {
+            "it": "L'AMORE INFINITO"
+          }
+        },
+        {
+          "id": "giorno-229",
+          "title": {
+            "it": "LA MISERICORDIA INFINITA"
+          }
+        },
+        {
+          "id": "giorno-230",
+          "title": {
+            "it": "FRUTTI DI VITA"
+          }
+        },
+        {
+          "id": "giorno-231",
+          "title": {
+            "it": "LA GIUSTIZIA INFINITA"
+          }
+        },
+        {
+          "id": "giorno-232",
+          "title": {
+            "it": "LA DIVINA PROVVIDENZA"
+          }
+        },
+        {
+          "id": "giorno-233",
+          "title": {
+            "it": "L'ONNIPOTENZA"
+          }
+        },
+        {
+          "id": "giorno-234",
+          "title": {
+            "it": "IL CHIARO-OSCURO DELLA FEDE"
+          }
+        },
+        {
+          "id": "giorno-235",
+          "title": {
+            "it": "LA MADONNA DEL CARMELO"
+          }
+        },
+        {
+          "id": "giorno-236",
+          "title": {
+            "it": "LE NOSTRE RICCHEZZE"
+          }
+        },
+        {
+          "id": "giorno-237",
+          "title": {
+            "it": "LA POTENZA DELLA FEDE"
+          }
+        },
+        {
+          "id": "giorno-238",
+          "title": {
+            "it": "FEDE VISSUTA"
+          }
+        },
+        {
+          "id": "giorno-239",
+          "title": {
+            "it": "LA SPERANZA"
+          }
+        },
+        {
+          "id": "giorno-240",
+          "title": {
+            "it": "IL MOTIVO DELLA SPERANZA"
+          }
+        },
+        {
+          "id": "giorno-241",
+          "title": {
+            "it": "LA PROVA DELLA SPERANZA"
+          }
+        },
+        {
+          "id": "giorno-242",
+          "title": {
+            "it": "SPERARE SENZA MISURA"
+          }
+        },
+        {
+          "id": "giorno-243",
+          "title": {
+            "it": "CORRISPONDENZA ALLA GRAZIA"
+          }
+        },
+        {
+          "id": "giorno-244",
+          "title": {
+            "it": "LA CARITÀ"
+          }
+        },
+        {
+          "id": "giorno-245",
+          "title": {
+            "it": "AMORE DI AMICIZIA"
+          }
+        },
+        {
+          "id": "giorno-246",
+          "title": {
+            "it": "IL PRECETTO DELLA CARITÀ"
+          }
+        },
+        {
+          "id": "giorno-247",
+          "title": {
+            "it": "L'ECCELLENZA DELLA CARITÀ"
+          }
+        },
+        {
+          "id": "giorno-248",
+          "title": {
+            "it": "L'ATTO DELL'AMORE"
+          }
+        },
+        {
+          "id": "giorno-249",
+          "title": {
+            "it": "VITA DI AMORE"
+          }
+        },
+        {
+          "id": "giorno-250",
+          "title": {
+            "it": "CARITÀ E UMILTÀ"
+          }
+        },
+        {
+          "id": "giorno-251",
+          "title": {
+            "it": "CARITÀ FRATERNA"
+          }
+        },
+        {
+          "id": "giorno-252",
+          "title": {
+            "it": "IL MOTIVO DELLA CARITÀ FRATERNA"
+          }
+        },
+        {
+          "id": "giorno-253",
+          "title": {
+            "it": "L'ESTENSIONE DELLA CARITÀ FRATERNA"
+          }
+        },
+        {
+          "id": "giorno-254",
+          "title": {
+            "it": "IL COMANDAMENTO NUOVO"
+          }
+        },
+        {
+          "id": "giorno-255",
+          "title": {
+            "it": "NON GIUDICATE"
+          }
+        },
+        {
+          "id": "giorno-256",
+          "title": {
+            "it": "LA GRAZIA DEL BATTESIMO"
+          }
+        },
+        {
+          "id": "giorno-257",
+          "title": {
+            "it": "SIATE MISERICORDIOSI"
+          }
+        }
+      ]
+    },
+    {
+      "id": "volume-5",
+      "title": {
+        "it": "Volume V — Dalla X alla XVIII dopo Pentecoste"
+      },
+      "children": [
+        {
+          "id": "giorno-258",
+          "title": {
+            "it": "IL MANTO DELLA CARITÀ"
+          }
+        },
+        {
+          "id": "giorno-259",
+          "title": {
+            "it": "PORTARE GLI UNI I PESI DEGLI ALTRI"
+          }
+        },
+        {
+          "id": "giorno-260",
+          "title": {
+            "it": "LA CARITÀ NON È EGOISTA"
+          }
+        },
+        {
+          "id": "giorno-261",
+          "title": {
+            "it": "LA CARITÀ SI ACCOMODA A TUTTO"
+          }
+        },
+        {
+          "id": "giorno-262",
+          "title": {
+            "it": "LA DOLCEZZA"
+          }
+        },
+        {
+          "id": "giorno-263",
+          "title": {
+            "it": "IL BUON SAMARITANO"
+          }
+        },
+        {
+          "id": "giorno-264",
+          "title": {
+            "it": "L'ASSUNZIONE DI MARIA"
+          }
+        },
+        {
+          "id": "giorno-265",
+          "title": {
+            "it": "AMORE DEL PROSSIMO E AMORE DI DIO"
+          }
+        },
+        {
+          "id": "giorno-266",
+          "title": {
+            "it": "LA PRUDENZA"
+          }
+        },
+        {
+          "id": "giorno-267",
+          "title": {
+            "it": "IL GIUDIZIO PRUDENTE"
+          }
+        },
+        {
+          "id": "giorno-268",
+          "title": {
+            "it": "PRUDENZA E RETTITUDINE"
+          }
+        },
+        {
+          "id": "giorno-269",
+          "title": {
+            "it": "LA DILIGENZA"
+          }
+        },
+        {
+          "id": "giorno-270",
+          "title": {
+            "it": "I DIECI LEBBROSI"
+          }
+        },
+        {
+          "id": "giorno-271",
+          "title": {
+            "it": "LA GIUSTIZIA"
+          }
+        },
+        {
+          "id": "giorno-272",
+          "title": {
+            "it": "FAME E SETE DI GIUSTIZIA"
+          }
+        },
+        {
+          "id": "giorno-273",
+          "title": {
+            "it": "GIUSTIZIA E RELIGIONE"
+          }
+        },
+        {
+          "id": "giorno-274",
+          "title": {
+            "it": "PIETÀ E DEVOZIONE"
+          }
+        },
+        {
+          "id": "giorno-275",
+          "title": {
+            "it": "LA GRATITUDINE"
+          }
+        },
+        {
+          "id": "giorno-276",
+          "title": {
+            "it": "I DUE REGNI"
+          }
+        },
+        {
+          "id": "giorno-277",
+          "title": {
+            "it": "LA SINCERITÀ"
+          }
+        },
+        {
+          "id": "giorno-278",
+          "title": {
+            "it": "LA SEMPLICITÀ"
+          }
+        },
+        {
+          "id": "giorno-279",
+          "title": {
+            "it": "LA FORTEZZA"
+          }
+        },
+        {
+          "id": "giorno-280",
+          "title": {
+            "it": "IL CORAGGIO"
+          }
+        },
+        {
+          "id": "giorno-281",
+          "title": {
+            "it": "LA MAGNANIMITÀ"
+          }
+        },
+        {
+          "id": "giorno-282",
+          "title": {
+            "it": "LA GENEROSITÀ"
+          }
+        },
+        {
+          "id": "giorno-283",
+          "title": {
+            "it": "GESÙ VITA NOSTRA"
+          }
+        },
+        {
+          "id": "giorno-284",
+          "title": {
+            "it": "FORTEZZA E PAZIENZA"
+          }
+        },
+        {
+          "id": "giorno-285",
+          "title": {
+            "it": "L'ESERCIZIO DELLA PAZIENZA"
+          }
+        },
+        {
+          "id": "giorno-286",
+          "title": {
+            "it": "LA PERSEVERANZA"
+          }
+        },
+        {
+          "id": "giorno-287",
+          "title": {
+            "it": "LA NATIVITÀ DI MARIA SANTISSIMA"
+          }
+        },
+        {
+          "id": "giorno-288",
+          "title": {
+            "it": "PERSEVERANZA E FIDUCIA"
+          }
+        },
+        {
+          "id": "giorno-289",
+          "title": {
+            "it": "LA TEMPERANZA"
+          }
+        },
+        {
+          "id": "giorno-290",
+          "title": {
+            "it": "LE CARATTERISTICHE DELL'ANIMA CRISTIANA"
+          }
+        },
+        {
+          "id": "giorno-291",
+          "title": {
+            "it": "LA MANSUETUDINE"
+          }
+        },
+        {
+          "id": "giorno-292",
+          "title": {
+            "it": "IL PROGRESSO SPIRITUALE"
+          }
+        },
+        {
+          "id": "giorno-293",
+          "title": {
+            "it": "IL DONO DEL TIMORE"
+          }
+        },
+        {
+          "id": "giorno-294",
+          "title": {
+            "it": "BEATI I POVERI IN SPIRITO"
+          }
+        },
+        {
+          "id": "giorno-295",
+          "title": {
+            "it": "IL DONO DELLA FORTEZZA"
+          }
+        },
+        {
+          "id": "giorno-296",
+          "title": {
+            "it": "BEATI I FAMELICI"
+          }
+        },
+        {
+          "id": "giorno-297",
+          "title": {
+            "it": "L’UNIONE FRATERNA"
+          }
+        },
+        {
+          "id": "giorno-298",
+          "title": {
+            "it": "IL DONO DELLA PIETÀ"
+          }
+        },
+        {
+          "id": "giorno-299",
+          "title": {
+            "it": "BEATI I MITI"
+          }
+        },
+        {
+          "id": "giorno-300",
+          "title": {
+            "it": "IL DONO DEL CONSIGLIO"
+          }
+        },
+        {
+          "id": "giorno-301",
+          "title": {
+            "it": "BEATI I MISERICORDIOSI"
+          }
+        },
+        {
+          "id": "giorno-302",
+          "title": {
+            "it": "IL DONO DELLA SCIENZA"
+          }
+        },
+        {
+          "id": "giorno-303",
+          "title": {
+            "it": "BEATI COLORO CHE PIANGONO"
+          }
+        },
+        {
+          "id": "giorno-304",
+          "title": {
+            "it": "LA POTENZA E L’AMORE DI GESÙ"
+          }
+        },
+        {
+          "id": "giorno-305",
+          "title": {
+            "it": "IL DONO DELL’INTELLETTO"
+          }
+        },
+        {
+          "id": "giorno-306",
+          "title": {
+            "it": "BEATI 1 PURI DI CUORE"
+          }
+        },
+        {
+          "id": "giorno-307",
+          "title": {
+            "it": "IL DONO DELLA SAPIENZA"
+          }
+        },
+        {
+          "id": "giorno-308",
+          "title": {
+            "it": "BEATI I PACIFICI"
+          }
+        },
+        {
+          "id": "giorno-309",
+          "title": {
+            "it": "INCONTRO ALLO SPIRITO SANTO"
+          }
+        },
+        {
+          "id": "giorno-310",
+          "title": {
+            "it": "LO ZELO PER LE ANIME"
+          }
+        },
+        {
+          "id": "giorno-311",
+          "title": {
+            "it": "IL DOVERE DELL'APOSTOLATO"
+          }
+        },
+        {
+          "id": "giorno-312",
+          "title": {
+            "it": "COLLABORATORI DI DIO"
+          }
+        },
+        {
+          "id": "giorno-313",
+          "title": {
+            "it": "SENTIRE CON CRISTO"
+          }
+        },
+        {
+          "id": "giorno-314",
+          "title": {
+            "it": "L'ANIMA DELL’ APOSTOLATO"
+          }
+        },
+        {
+          "id": "giorno-315",
+          "title": {
+            "it": "L'INVITO DIVINO"
+          }
+        },
+        {
+          "id": "giorno-316",
+          "title": {
+            "it": "IDEALE APOSTOLICO"
+          }
+        },
+        {
+          "id": "giorno-317",
+          "title": {
+            "it": "LE VARIE FORME DI APOSTOLATO"
+          }
+        },
+        {
+          "id": "giorno-318",
+          "title": {
+            "it": "LA PREGHIERA APOSTOLICA"
+          }
+        }
+      ]
+    },
+    {
+      "id": "volume-6",
+      "title": {
+        "it": "Volume VI — Dalla XIX all'ultima dopo Pentecoste"
+      },
+      "children": [
+        {
+          "id": "giorno-319",
+          "title": {
+            "it": "L'IMMOLAZIONE APOSTOLICA"
+          }
+        },
+        {
+          "id": "giorno-320",
+          "title": {
+            "it": "L’APOSTOLATO DELL’ESEMPIO"
+          }
+        },
+        {
+          "id": "giorno-321",
+          "title": {
+            "it": "LE OPERE APOSTOLICHE"
+          }
+        },
+        {
+          "id": "giorno-322",
+          "title": {
+            "it": "VERSO LA PATRIA"
+          }
+        },
+        {
+          "id": "giorno-323",
+          "title": {
+            "it": "LA FORMAZIONE DEGLI APOSTOLI"
+          }
+        },
+        {
+          "id": "giorno-324",
+          "title": {
+            "it": "SANTIFICARSI NELL'APOSTOLATO"
+          }
+        },
+        {
+          "id": "giorno-325",
+          "title": {
+            "it": "RETTITUDINE D'INTENZIONE"
+          }
+        },
+        {
+          "id": "giorno-326",
+          "title": {
+            "it": "DIMENTICANZA E ABNEGAZIONE DI SE"
+          }
+        },
+        {
+          "id": "giorno-327",
+          "title": {
+            "it": "UMILTA NELL'APOSTOLATO"
+          }
+        },
+        {
+          "id": "giorno-328",
+          "title": {
+            "it": "UMANITA PERFETTA E CARITA APOSTOLICA"
+          }
+        },
+        {
+          "id": "giorno-329",
+          "title": {
+            "it": "IL PERDONO"
+          }
+        },
+        {
+          "id": "giorno-330",
+          "title": {
+            "it": "VALORI UMANI AL SERVIZIO DELL'APOSTOLATO"
+          }
+        },
+        {
+          "id": "giorno-331",
+          "title": {
+            "it": "I PROGRESSI NELL'APOSTOLATO"
+          }
+        },
+        {
+          "id": "giorno-332",
+          "title": {
+            "it": "MATURITA APOSTOLICA"
+          }
+        },
+        {
+          "id": "giorno-333",
+          "title": {
+            "it": "PATERNITA E MATERNITA SPIRITUALE"
+          }
+        },
+        {
+          "id": "giorno-334",
+          "title": {
+            "it": "MARTA E MARIA"
+          }
+        },
+        {
+          "id": "giorno-335",
+          "title": {
+            "it": "I NOSTRI DOVERI"
+          }
+        },
+        {
+          "id": "giorno-336",
+          "title": {
+            "it": "LO SPIRITO SANTO E L'APOSTOLATO"
+          }
+        },
+        {
+          "id": "giorno-337",
+          "title": {
+            "it": "L'UNIONE CON DIO"
+          }
+        },
+        {
+          "id": "giorno-338",
+          "title": {
+            "it": "LA VIA DELL'UNIONE"
+          }
+        },
+        {
+          "id": "giorno-339",
+          "title": {
+            "it": "LA NOTTE DELLO SPIRITO"
+          }
+        },
+        {
+          "id": "giorno-340",
+          "title": {
+            "it": "L'AMORE PURIFICANTE"
+          }
+        },
+        {
+          "id": "giorno-341",
+          "title": {
+            "it": "VERSO UNA COMPLETA PURIFICAZIONE"
+          }
+        },
+        {
+          "id": "giorno-342",
+          "title": {
+            "it": "DISEGNI DI PACE E DI AMORE"
+          }
+        },
+        {
+          "id": "giorno-343",
+          "title": {
+            "it": "PURIFICAZIONE PASSIVA"
+          }
+        },
+        {
+          "id": "giorno-344",
+          "title": {
+            "it": "PROVE INTERIORI"
+          }
+        },
+        {
+          "id": "giorno-345",
+          "title": {
+            "it": "ANGOSCE E TENEBRE"
+          }
+        },
+        {
+          "id": "giorno-346",
+          "title": {
+            "it": "FIDUCIA E ABBANDONO"
+          }
+        },
+        {
+          "id": "giorno-347",
+          "title": {
+            "it": "LO SVILUPPO DELL'AMORE"
+          }
+        },
+        {
+          "id": "giorno-348",
+          "title": {
+            "it": "AMORE ESTIMATIVO"
+          }
+        },
+        {
+          "id": "giorno-349",
+          "title": {
+            "it": "IL GRANELLO DI SENAPA"
+          }
+        },
+        {
+          "id": "giorno-350",
+          "title": {
+            "it": "AMORE UMILE E RIVERENTE"
+          }
+        },
+        {
+          "id": "giorno-351",
+          "title": {
+            "it": "AMORE OPEROSO E FORTE"
+          }
+        },
+        {
+          "id": "giorno-352",
+          "title": {
+            "it": "AMORE UNITIVO"
+          }
+        },
+        {
+          "id": "giorno-353",
+          "title": {
+            "it": "L'UNIONE DI VOLONTA"
+          }
+        },
+        {
+          "id": "giorno-354",
+          "title": {
+            "it": "L'AIUTO DIVINO"
+          }
+        },
+        {
+          "id": "giorno-355",
+          "title": {
+            "it": "LA FINE DEL TEMPO"
+          }
+        },
+        {
+          "id": "giorno-356",
+          "title": {
+            "it": "IL SI PERFETTO"
+          }
+        },
+        {
+          "id": "giorno-357",
+          "title": {
+            "it": "IL DONO SCAMBIEVOLE"
+          }
+        },
+        {
+          "id": "giorno-358",
+          "title": {
+            "it": "L'UNIONE TOTALE"
+          }
+        },
+        {
+          "id": "giorno-359",
+          "title": {
+            "it": "IL TRIONFO DELL'AMORE"
+          }
+        },
+        {
+          "id": "giorno-360",
+          "title": {
+            "it": "L'AMORE TRASFORMANTE"
+          }
+        },
+        {
+          "id": "giorno-361",
+          "title": {
+            "it": "INTIMITA DIVINA"
+          }
+        },
+        {
+          "id": "giorno-362",
+          "title": {
+            "it": "LA MADONNA DEL ROSARIO"
+          }
+        },
+        {
+          "id": "giorno-363",
+          "title": {
+            "it": "LA MATERNITA DI MARIA"
+          }
+        },
+        {
+          "id": "giorno-364",
+          "title": {
+            "it": "FESTA DI CRISTO RE"
+          }
+        },
+        {
+          "id": "giorno-365",
+          "title": {
+            "it": "I SANTI"
+          }
+        },
+        {
+          "id": "giorno-366",
+          "title": {
+            "it": "COMMEMORAZIONE DEI FEDELI DEFUNTI"
+          }
+        },
+        {
+          "id": "giorno-367",
+          "title": {
+            "it": "PRESENTAZIONE DI MARIA AL TEMPIO"
+          }
+        }
+      ]
+    }
+  ]
+}

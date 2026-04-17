@@ -1,0 +1,41 @@
+{
+  "id": "intimita-divina",
+  "name": {
+    "it": "Intimità Divina",
+    "en-US": "Divine Intimacy",
+    "pt-BR": "Intimidade Divina"
+  },
+  "categories": ["daily", "meditation"],
+  "estimatedMinutes": 15,
+  "description": {
+    "it": "Meditazioni sulle vie dell'orazione per tutti i giorni dell'anno liturgico, di P. Gabriele di S. Maria Maddalena, O.C.D. Ogni meditazione comprende la presenza di Dio, due punti di riflessione e un colloquio.",
+    "en-US": "Meditations on the ways of prayer for every day of the liturgical year, by Fr. Gabriel of St. Mary Magdalen, O.C.D. Each meditation includes the presence of God, two points of reflection, and a colloquy.",
+    "pt-BR": "Meditações sobre os caminhos da oração para todos os dias do ano litúrgico, de P. Gabriel de Santa Maria Madalena, O.C.D. Cada meditação inclui a presença de Deus, dois pontos de reflexão e um colóquio."
+  },
+  "history": {
+    "it": "Pubblicata postuma nel 1955 dal Monastero S. Giuseppe delle Carmelitane Scalze di Roma, quest'opera del P. Gabriele di S. Maria Maddalena (1893-1953), professore di teologia spirituale, guida l'anima attraverso l'anno liturgico verso l'unione trasformante con Dio, secondo la spiritualità carmelitana di S. Teresa d'Avila e S. Giovanni della Croce.",
+    "en-US": "Published posthumously in 1955 by the Monastery of St. Joseph of the Discalced Carmelites in Rome, this work by Fr. Gabriel of St. Mary Magdalen (1893-1953), professor of spiritual theology, guides the soul through the liturgical year toward transforming union with God, according to the Carmelite spirituality of St. Teresa of Ávila and St. John of the Cross.",
+    "pt-BR": "Publicada postumamente em 1955 pelo Mosteiro de São José das Carmelitas Descalças de Roma, esta obra do P. Gabriel de Santa Maria Madalena (1893-1953), professor de teologia espiritual, guia a alma através do ano litúrgico rumo à união transformante com Deus, segundo a espiritualidade carmelita de Santa Teresa d'Ávila e São João da Cruz."
+  },
+  "howToPray": {
+    "it": "Leggi con calma la meditazione del giorno, soffermandoti sui punti che più colpiscono l'anima. Dopo la lettura, entra in un colloquio personale con il Signore, esprimendo atti di fede, amore, ringraziamento e proponimenti.",
+    "en-US": "Read the day's meditation calmly, pausing on the points that most strike the soul. After reading, enter into a personal colloquy with the Lord, expressing acts of faith, love, thanksgiving, and resolutions.",
+    "pt-BR": "Leia com calma a meditação do dia, detendo-se nos pontos que mais tocam a alma. Após a leitura, entre em um colóquio pessoal com o Senhor, expressando atos de fé, amor, agradecimento e propósitos."
+  },
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "tags": ["meditation", "carmelite", "daily", "liturgical"],
+  "data": {
+    "liturgical-map": "data/liturgical-map.json"
+  },
+  "flow": "flow.json",
+  "defaults": {
+    "sortOrder": 3,
+    "slots": [
+      {
+        "schedule": { "type": "daily" },
+        "tier": "essential"
+      }
+    ]
+  }
+}
