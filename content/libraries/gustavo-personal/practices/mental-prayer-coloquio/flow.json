@@ -1,0 +1,373 @@
+{
+	"sections": [
+		{
+			"type": "prayer",
+			"ref": "ember-default:sign-of-cross"
+		},
+		{
+			"type": "divider"
+		},
+
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "Colloquy",
+				"pt-BR": "Colóquio"
+			}
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "Place Yourself in the Presence of the Father",
+				"pt-BR": "Põe-te na Presença do Pai"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "Place yourself in the presence of God the Father. Trust Him as a child trusts. Turn your filial love toward Him — He sees you, He loves you, He is already here.",
+				"pt-BR": "Põe-te na presença de Deus Pai, confiando como uma criança, e endereçando o seu amor filial. Ele te vê, Ele te ama, Ele já está aqui."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "Intimate and Vulnerable Conversation",
+				"pt-BR": "Conversa Íntima e Vulnerável"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "Speak to the Father about your state right now — what is moving in you at this moment. Let the heart speak.\n\n• Feelings, thoughts, worries, joys, sorrows, trust, anguish…\n• Do not stay on the surface.\n• Say what is true, even if ugly, even if small.",
+				"pt-BR": "Fala ao Pai sobre o teu estado atual — o que está te movendo neste momento. Deixa o coração falar.\n\n• Sentimentos, pensamentos, preocupações, felicidades, tristezas, confiança, angústia…\n• Não fiques na superfície.\n• Diz o que é verdadeiro, mesmo que feio, mesmo que pequeno."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "Disorders, Wounds, Sins",
+				"pt-BR": "Desordens, Machucados, Pecados"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "When you find disorder, wound, or sin — do not fight it with your own strength.\n\n• Bring it into the light; name it.\n• Hand it directly to Jesus, the One who heals.\n• Keep silence, and repeat the Jesus Prayer:",
+				"pt-BR": "Ao encontrar desordens, machucados ou pecados — não lutes contra eles por tua própria força.\n\n• Traz-os à luz; nomeia-os.\n• Entrega-os diretamente a Jesus, Aquele que os cura.\n• Guarda silêncio, e repete a Oração de Jesus:"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Lord Jesus Christ, Son of God, have mercy on me, a sinner.",
+				"pt-BR": "Senhor Jesus Cristo, Filho de Deus, tem piedade de mim, pecador."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "Simple Acts of Faith, Hope, and Charity",
+				"pt-BR": "Atos Simples de Fé, Esperança e Caridade"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "Offer three simple acts, from the heart — no formulas needed.\n\n• Faith: 'My God, I believe in You.'\n• Hope: 'My God, I hope in You.'\n• Charity: 'My God, I love You above all things.'",
+				"pt-BR": "Oferece três atos simples, do coração — sem fórmulas necessárias.\n\n• Fé: 'Meu Deus, creio em Vós.'\n• Esperança: 'Meu Deus, espero em Vós.'\n• Caridade: 'Meu Deus, amo-Vos sobre todas as coisas.'"
+			}
+		},
+		{
+			"type": "divider"
+		},
+
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "Meditation — Preparation",
+				"pt-BR": "Meditação — Preparação"
+			}
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "Recall God's Presence",
+				"pt-BR": "Relembra-te da Presença de Deus"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "Call to mind who God is, and respond to Him under each title:\n\n• Creator — adore Him with profound humility.\n• Saviour and Judge — ask pardon for your offenses.\n• Benefactor — give Him thanks.\n• Father — invoke Him wholly with filial trust.",
+				"pt-BR": "Relembra-te de quem Deus é, e responde-Lhe sob cada título:\n\n• Criador — adora-O com profunda humildade.\n• Salvador e Juiz — pede perdão das tuas ofensas.\n• Benfeitor — agradece-Lhe.\n• Pai — invoca-O inteiramente com uma confiança filial."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "Petition for Light and Grace",
+				"pt-BR": "Petição de Luzes e Graças"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "Ask for the light and grace to make this meditation well. Invoke:\n\n• the Holy Spirit,\n• the Most Blessed Virgin Mary,\n• the Holy Angels,\n• your Patron Saints.",
+				"pt-BR": "Pede as luzes e graças para bem fazer esta meditação. Invoca:\n\n• o Espírito Santo,\n• a Santíssima Virgem Maria,\n• os Santos Anjos,\n• os Santos Patronos."
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "ember-default:come-holy-spirit"
+		},
+		{
+			"type": "divider"
+		},
+
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "Meditation — Body",
+				"pt-BR": "Meditação — Corpo"
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "Reading → Considerations → Affects → Petitions → Silence → Colloquy → Resolutions",
+				"pt-BR": "Leitura → Considerações → Afetos → Súplicas → Silêncio → Colóquio → Resoluções"
+			}
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "Reading",
+				"pt-BR": "Leitura"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "Open your chosen text — a Gospel passage, a mystery of Christ, a line from the Fathers, a truth of the faith. Read slowly, without hurry. When a word or phrase strikes you, stop there. That is where the Holy Spirit wishes to work today.",
+				"pt-BR": "Abre o teu texto escolhido — uma passagem do Evangelho, um mistério de Cristo, uma linha dos Padres, uma verdade da fé. Lê devagar, sem pressa. Quando uma palavra ou frase te tocar, pára aí. É onde o Espírito Santo quer trabalhar hoje."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "Considerations",
+				"pt-BR": "Considerações"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "Apply the intellect to what you have read. Ask, without hurry:\n\n1. What is the literal meaning?\n2. Who is speaking?\n3. What is being asked?\n4. What does this reveal about me?\n5. How have I been acting?",
+				"pt-BR": "Aplica o intelecto ao que leste. Pergunta, sem pressa:\n\n1. Qual o significado literal?\n2. Quem diz?\n3. O que se pede?\n4. O que isso revela sobre mim?\n5. Como tenho agido?"
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "Affects",
+				"pt-BR": "Afetos"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "Let the will be moved. Do not force; receive. Let arise within you:\n\n• Humility, fear, sorrow, and gratitude;\n• Fervour, love, and holy desire;\n• Hope, trust, submission to the divine will, and good promises.",
+				"pt-BR": "Deixa a vontade mover-se. Não forces; recebe. Deixa surgir em ti:\n\n• Humildade, medo, arrependimento e gratidão;\n• Fervor, amor e santo desejo;\n• Esperança, confiança, submissão à vontade divina e boas promessas."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "Petitions",
+				"pt-BR": "Súplicas"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "From what has risen in your heart, beg the Lord for what you need. Ask for the virtue considered, the grace to change, the strength to persevere. Be specific. Be bold — He is a Father.",
+				"pt-BR": "Do que surgiu em teu coração, suplica ao Senhor o que precisas. Pede a virtude considerada, a graça de mudar, a força para perseverar. Sê específico. Sê ousado — Ele é Pai."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "Silence",
+				"pt-BR": "Silêncio"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "Now be still. Do not produce anything. Let the Lord speak, or let Him simply be with you. Silence is itself a form of prayer. Remain as long as grace sustains you.",
+				"pt-BR": "Agora, aquieta-te. Não produzas nada. Deixa o Senhor falar, ou deixa-O simplesmente estar contigo. O silêncio é ele mesmo uma forma de oração. Permanece enquanto a graça te sustentar."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "Colloquy",
+				"pt-BR": "Colóquio"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "Speak again with the Father, heart to heart, about what has been stirred in you. Not polished phrases — truth. As a friend speaks to a friend; as a child speaks to a father.",
+				"pt-BR": "Fala de novo com o Pai, de coração para coração, sobre o que se moveu em ti. Não frases polidas — verdade. Como um amigo fala a um amigo; como uma criança fala a um pai."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "Resolutions",
+				"pt-BR": "Resoluções"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "Make the fruit practical. Two questions:\n\n1. How must I change?\n2. What can I change today?\n\nBe concrete. For example:\n\n• A daily examination of conscience.\n• Seek acts and practices that grow trust in Providence.\n• Work in the name of Jesus, with frequent acts of thanksgiving and recollection throughout the day.",
+				"pt-BR": "Torna o fruto prático. Duas perguntas:\n\n1. Como devo mudar?\n2. O que posso mudar hoje?\n\nSê concreto. Por exemplo:\n\n• Fazer o exame de consciência diário.\n• Procurar atos e práticas para aumentar a esperança na Providência.\n• Fazer o meu trabalho em nome de Jesus, e fazer múltiplas ações de graça e recolhimento ao longo do dia."
+			}
+		},
+		{
+			"type": "divider"
+		},
+
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "Meditation — Conclusion",
+				"pt-BR": "Meditação — Conclusão"
+			}
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "Thanksgiving, Contrition, Renewal",
+				"pt-BR": "Agradecimento, Contrição, Renovação"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "Before closing, briefly:\n\n• Give thanks for the graces received during this prayer.\n• Make an act of contrition for the faults committed during it — distractions, tepidity, resistance.\n• Renew your resolutions.",
+				"pt-BR": "Antes de encerrar, brevemente:\n\n• Agradece pelas graças concedidas durante esta oração.\n• Faz um ato de contrição pelas faltas cometidas nela — distrações, tepidez, resistências.\n• Renova os teus propósitos."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "Spiritual Bouquet",
+				"pt-BR": "Buquê Espiritual"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "Choose a short aspiration to carry through the day — an arrow of love to return to in quiet moments. For example:\n\n• 'My God, I thank You for my work.'",
+				"pt-BR": "Escolhe uma curta jaculatória para levar ao longo do dia — uma seta de amor a que voltar nos momentos tranquilos. Por exemplo:\n\n• 'Meu Deus, eu te agradeço pelo meu trabalho.'"
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "Prayers for Others",
+				"pt-BR": "Orações a Terceiros"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "Carry to the Lord those entrusted to you:\n\n• family;\n• friends, colleagues, godparents, and benefactors;\n• Holy Mother Church, and her unity;\n• the Holy Father, the Pope;\n• civil authorities;\n• the clergy;\n• for the conversion of sinners;\n• the souls in purgatory;\n• those who have asked for our prayers;\n• specific persons on your heart today.",
+				"pt-BR": "Leva ao Senhor aqueles que te são confiados:\n\n• a família;\n• amigos, colegas, padrinhos e benfeitores;\n• a Santa Igreja, e sua união;\n• o Santo Padre, o Papa;\n• os governantes seculares;\n• o clero;\n• a conversão dos pecadores;\n• as almas do purgatório;\n• aqueles que nos pediram orações;\n• pessoas específicas em teu coração hoje."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "Vocal Prayers",
+				"pt-BR": "Orações Vocais"
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "ember-default:our-father"
+		},
+		{
+			"type": "prayer",
+			"ref": "ember-default:hail-mary"
+		},
+		{
+			"type": "divider"
+		},
+
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "Examen of the Prayer",
+				"pt-BR": "Exame da Oração"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "Briefly examine the prayer itself — not the day, but how you prayed. Ask honestly:\n\n1. Was I sincere, vulnerable, and deep in my conversation with God?\n2. Did I make sincere acts in the preparation?\n3. Did I read the text slowly and attentively, drawing specific considerations?\n4. Did I apply what I learned to my life?\n5. Did I make many and fervent affects and petitions?\n6. Did I make practical, specific resolutions that withdraw a vice or lead to a virtue?\n7. Did I perform all the acts of the conclusion?",
+				"pt-BR": "Examina brevemente a própria oração — não o dia, mas o modo como rezaste. Pergunta com honestidade:\n\n1. Fui sincero, vulnerável e profundo em minha conversa com Deus?\n2. Fiz atos sinceros na preparação?\n3. Fiz uma leitura lenta e aplicada do texto, colhendo considerações específicas?\n4. Apliquei estes aprendizados à minha vida?\n5. Fiz muitos e fervorosos afetos e súplicas?\n6. Fiz resoluções práticas e específicas que afastam algum vício ou conduzem a uma virtude?\n7. Fiz todos os atos da conclusão?"
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "prayer",
+			"ref": "ember-default:sign-of-cross"
+		}
+	]
+}
