@@ -1,0 +1,789 @@
+{
+	"data": {
+		"joyful-mysteries": [
+			{
+				"name": {
+					"en-US": "The Annunciation",
+					"pt-BR": "A Anunciação"
+				},
+				"meditation": {
+					"en-US": "The Angel Gabriel announces to the Virgin Mary that she is to be the Mother of God. Mary humbly accepts: 'Be it done unto me according to thy word.'",
+					"pt-BR": "O Anjo Gabriel anuncia à Virgem Maria que ela será a Mãe de Deus. Maria aceita humildemente: 'Faça-se em mim segundo a vossa palavra.'"
+				},
+				"meditationScriptural": {
+					"en-US": "'The angel Gabriel was sent from God to a city of Galilee named Nazareth, to a virgin betrothed to a man whose name was Joseph, of the house of David; and the virgin's name was Mary.' (Lk 1:26-27)",
+					"pt-BR": "'O anjo Gabriel foi enviado por Deus a uma cidade da Galileia chamada Nazaré, a uma virgem desposada com um homem chamado José, da casa de Davi; e o nome da virgem era Maria.' (Lc 1,26-27)"
+				},
+				"meditationMontfort": {
+					"en-US": "God sends the archangel Gabriel to ask Mary's consent to the Incarnation of His Son. In her 'Fiat' — 'Be it done unto me according to thy word' — the Word becomes flesh. Mary's humility wins heaven to earth. Let us ask for true humility: to acknowledge our nothingness before God and our total dependence on His grace.",
+					"pt-BR": "Deus envia o arcanjo Gabriel para pedir o consentimento de Maria à Encarnação do Seu Filho. Em seu 'Fiat' — 'Faça-se em mim segundo a vossa palavra' — o Verbo se faz carne. A humildade de Maria conquista o céu para a terra. Peçamos a verdadeira humildade: reconhecer o nosso nada diante de Deus e a nossa total dependência da Sua graça."
+				},
+				"closingPetition": {
+					"en-US": "I bind this decade with a petition for humility and lay it at your feet, O Mother.",
+					"pt-BR": "Uno esta dezena a um pedido de humildade e a deposito aos vossos pés, ó Mãe."
+				}
+			},
+			{
+				"name": {
+					"en-US": "The Visitation",
+					"pt-BR": "A Visitação"
+				},
+				"meditation": {
+					"en-US": "Mary visits her cousin Elizabeth, who is with child. Elizabeth cries out: 'Blessed art thou amongst women, and blessed is the fruit of thy womb!'",
+					"pt-BR": "Maria visita sua prima Isabel, que está grávida. Isabel exclama: 'Bendita sois vós entre as mulheres, e bendito é o fruto do vosso ventre!'"
+				},
+				"meditationScriptural": {
+					"en-US": "'And when Elizabeth heard the greeting of Mary, the babe leaped in her womb; and Elizabeth was filled with the Holy Spirit and she exclaimed with a loud cry: Blessed art thou among women, and blessed is the fruit of thy womb!' (Lk 1:41-42)",
+					"pt-BR": "'Quando Isabel ouviu a saudação de Maria, a criança saltou em seu ventre; e Isabel ficou cheia do Espírito Santo e exclamou em alta voz: Bendita sois vós entre as mulheres, e bendito é o fruto do vosso ventre!' (Lc 1,41-42)"
+				},
+				"meditationMontfort": {
+					"en-US": "Mary, carrying the Word made flesh, hastens to serve her cousin Elizabeth. At the sound of her greeting, the Baptist leaps in the womb and Elizabeth is filled with the Holy Spirit. The visit of Mary brings Christ Himself. Let us ask for burning charity — the love that forgets itself to serve the needs of others.",
+					"pt-BR": "Maria, carregando o Verbo feito carne, apressa-se a servir sua prima Isabel. Ao som de sua saudação, o Batista salta no ventre e Isabel é cheia do Espírito Santo. A visita de Maria traz o próprio Cristo. Peçamos a caridade ardente — o amor que se esquece de si mesmo para servir as necessidades dos outros."
+				},
+				"closingPetition": {
+					"en-US": "I bind this decade with a petition for charity and lay it at your feet, O Mother.",
+					"pt-BR": "Uno esta dezena a um pedido de caridade e a deposito aos vossos pés, ó Mãe."
+				}
+			},
+			{
+				"name": {
+					"en-US": "The Nativity",
+					"pt-BR": "O Nascimento de Jesus"
+				},
+				"meditation": {
+					"en-US": "Jesus is born in a stable in Bethlehem. The Blessed Virgin wraps Him in swaddling clothes and lays Him in a manger, for there was no room at the inn.",
+					"pt-BR": "Jesus nasce em um estábulo em Belém. A Virgem Maria O envolve em panos e O coloca numa manjedoura, pois não havia lugar na hospedaria."
+				},
+				"meditationScriptural": {
+					"en-US": "'And she gave birth to her first-born son and wrapped him in swaddling cloths, and laid him in a manger, because there was no place for them in the inn.' (Lk 2:7)",
+					"pt-BR": "'E deu à luz o seu filho primogênito, envolveu-o em faixas e deitou-o numa manjedoura, porque não havia lugar para eles na hospedaria.' (Lc 2,7)"
+				},
+				"meditationMontfort": {
+					"en-US": "The King of kings is born in a stable, laid in a manger on the straw of poverty. He who fills heaven and earth is wrapped in swaddling cloths, dependent on Mary and Joseph. God becomes small and poor so that we might become great and rich. Let us ask for detachment from the goods of this world and a heart that finds its wealth in God alone.",
+					"pt-BR": "O Rei dos reis nasce num estábulo, colocado numa manjedoura sobre a palha da pobreza. Aquele que enche o céu e a terra é envolto em panos, dependente de Maria e José. Deus torna-se pequeno e pobre para que nos tornemos grandes e ricos. Peçamos o desapego dos bens deste mundo e um coração que encontra sua riqueza somente em Deus."
+				},
+				"closingPetition": {
+					"en-US": "I bind this decade with a petition for detachment from the world and lay it at your feet, O Mother.",
+					"pt-BR": "Uno esta dezena a um pedido de desapego do mundo e a deposito aos vossos pés, ó Mãe."
+				}
+			},
+			{
+				"name": {
+					"en-US": "The Presentation",
+					"pt-BR": "A Apresentação no Templo"
+				},
+				"meditation": {
+					"en-US": "Mary and Joseph present the Child Jesus in the Temple. The aged Simeon takes Him in his arms and proclaims Him 'a light for revelation to the Gentiles.'",
+					"pt-BR": "Maria e José apresentam o Menino Jesus no Templo. O idoso Simeão O toma nos braços e O proclama 'luz para iluminar as nações.'"
+				},
+				"meditationScriptural": {
+					"en-US": "'And when the time came for their purification according to the law of Moses, they brought him up to Jerusalem to present him to the Lord. Now there was a man in Jerusalem, whose name was Simeon, and this man was righteous and devout.' (Lk 2:22,25)",
+					"pt-BR": "'Quando se completaram os dias da purificação, segundo a lei de Moisés, levaram-no a Jerusalém para apresentá-lo ao Senhor. Havia em Jerusalém um homem chamado Simeão, homem justo e piedoso.' (Lc 2,22.25)"
+				},
+				"meditationMontfort": {
+					"en-US": "Mary and Joseph present the Child Jesus in the Temple, fulfilling the Law. Simeon declares him 'a light for revelation to the Gentiles' and prophesies that a sword shall pierce Mary's soul. The Redemption begins; the Passion is already announced. Let us ask for the spirit of sacrifice — the willingness to offer ourselves to God without reserve.",
+					"pt-BR": "Maria e José apresentam o Menino Jesus no Templo, cumprindo a Lei. Simeão O proclama 'luz para iluminar as nações' e profetiza que uma espada traspassará a alma de Maria. A Redenção começa; a Paixão já é anunciada. Peçamos o espírito de sacrifício — a disposição de nos oferecer a Deus sem reservas."
+				},
+				"closingPetition": {
+					"en-US": "I bind this decade with a petition for purity and lay it at your feet, O Mother.",
+					"pt-BR": "Uno esta dezena a um pedido de pureza e a deposito aos vossos pés, ó Mãe."
+				}
+			},
+			{
+				"name": {
+					"en-US": "The Finding in the Temple",
+					"pt-BR": "A Perda e o Encontro de Jesus no Templo"
+				},
+				"meditation": {
+					"en-US": "After three days of searching, Mary and Joseph find the twelve-year-old Jesus in the Temple, sitting among the teachers. 'Did you not know that I must be about my Father's business?'",
+					"pt-BR": "Após três dias de busca, Maria e José encontram o menino Jesus de doze anos no Templo, sentado entre os doutores. 'Não sabíeis que devo estar na casa de meu Pai?'"
+				},
+				"meditationScriptural": {
+					"en-US": "'After three days they found him in the temple, sitting among the teachers, listening to them and asking them questions; and all who heard him were amazed at his understanding and his answers.' (Lk 2:46-47)",
+					"pt-BR": "'Depois de três dias, encontraram-no no Templo, sentado entre os doutores, ouvindo-os e interrogando-os; e todos os que o ouviam ficavam admirados com a sua inteligência e as suas respostas.' (Lc 2,46-47)"
+				},
+				"meditationMontfort": {
+					"en-US": "After three days of anxious searching, Mary and Joseph find the twelve-year-old Jesus in the Temple — about His Father's business. He had never been lost; He was always in His Father's house. Let us ask for zeal for the glory of God: a heart that desires above all that God be known, loved, and served.",
+					"pt-BR": "Após três dias de ansiosa busca, Maria e José encontram o menino Jesus de doze anos no Templo — ocupado nas coisas do Pai. Ele nunca se perdera; estava sempre na casa do Seu Pai. Peçamos o zeal pela glória de Deus: um coração que deseja acima de tudo que Deus seja conhecido, amado e servido."
+				},
+				"closingPetition": {
+					"en-US": "I bind this decade with a petition for true wisdom and lay it at your feet, O Mother.",
+					"pt-BR": "Uno esta dezena a um pedido de verdadeira sabedoria e a deposito aos vossos pés, ó Mãe."
+				}
+			}
+		],
+		"sorrowful-mysteries": [
+			{
+				"name": {
+					"en-US": "The Agony in the Garden",
+					"pt-BR": "A Agonia no Horto"
+				},
+				"meditation": {
+					"en-US": "Jesus prays in the Garden of Gethsemane. His sweat becomes like drops of blood falling to the ground. 'Father, if it be possible, let this chalice pass from me; yet not my will, but thine be done.'",
+					"pt-BR": "Jesus ora no Jardim do Getsêmani. Seu suor se torna como gotas de sangue caindo no chão. 'Pai, se for possível, afasta de mim este cálice; contudo, não se faça a minha vontade, mas a vossa.'"
+				},
+				"meditationScriptural": {
+					"en-US": "'And being in an agony he prayed more earnestly; and his sweat became like great drops of blood falling down upon the ground.' (Lk 22:44)",
+					"pt-BR": "'E, estando em agonia, orava mais intensamente; e o seu suor tornou-se como gotas de sangue que caíam por terra.' (Lc 22,44)"
+				},
+				"meditationMontfort": {
+					"en-US": "Jesus kneels in the Garden of Gethsemane. Seeing the sins of all mankind, He is overwhelmed with sorrow: 'My soul is sorrowful unto death.' Yet He rises from prayer and goes forward: 'Father, not my will but Thine.' His agony purchases for us true contrition. Let us ask for heartfelt sorrow for our sins and the courage to face our own Gethsemane.",
+					"pt-BR": "Jesus ajoelha-se no Jardim do Getsêmani. Ao ver os pecados de toda a humanidade, é oprimido pela tristeza: 'Minha alma está triste até a morte.' Mas levanta-se da oração e avança: 'Pai, não a minha vontade, mas a Tua.' Sua agonia nos adquire a verdadeira contrição. Peçamos sincero arrependimento dos nossos pecados e coragem para enfrentar nosso próprio Getsêmani."
+				},
+				"closingPetition": {
+					"en-US": "I bind this decade with a petition for resignation to the will of God and lay it at your feet, O Mother.",
+					"pt-BR": "Uno esta dezena a um pedido de resignação à vontade de Deus e a deposito aos vossos pés, ó Mãe."
+				}
+			},
+			{
+				"name": {
+					"en-US": "The Scourging at the Pillar",
+					"pt-BR": "A Flagelação"
+				},
+				"meditation": {
+					"en-US": "Jesus is bound to a pillar and cruelly scourged. By His stripes we are healed. He endures this suffering in silence, offering it for the sins of the world.",
+					"pt-BR": "Jesus é amarrado a uma coluna e cruelmente flagelado. Pelas Suas chagas fomos curados. Ele suporta este sofrimento em silêncio, oferecendo-o pelos pecados do mundo."
+				},
+				"meditationScriptural": {
+					"en-US": "'Then Pilate took Jesus and scourged him. He was wounded for our transgressions, he was bruised for our iniquities; upon him was the chastisement that made us whole, and with his stripes we are healed.' (Jn 19:1; Is 53:5)",
+					"pt-BR": "'Então Pilatos mandou açoitar Jesus. Ele foi ferido por causa das nossas transgressões, esmagado por causa das nossas iniquidades; o castigo que nos traz a paz estava sobre ele, e pelas suas chagas fomos curados.' (Jo 19,1; Is 53,5)"
+				},
+				"meditationMontfort": {
+					"en-US": "Jesus is bound to the pillar and scourged. His sacred flesh is torn and bloodied for our sins of the flesh. He endures this torment in silence, offering each blow for our healing. 'By His stripes we are healed.' Let us ask for the grace of mortification — the courage to deny our disordered appetites and discipline our bodies for the glory of God.",
+					"pt-BR": "Jesus é amarrado à coluna e flagelado. Sua sagrada carne é rasgada e ensanguentada pelos nossos pecados da carne. Ele suporta esse tormento em silêncio, oferecendo cada golpe pela nossa cura. 'Pelas Suas chagas fomos curados.' Peçamos a graça da mortificação — a coragem de negar nossos apetites desordenados e disciplinar nossos corpos para a glória de Deus."
+				},
+				"closingPetition": {
+					"en-US": "I bind this decade with a petition for mortification and lay it at your feet, O Mother.",
+					"pt-BR": "Uno esta dezena a um pedido de mortificação e a deposito aos vossos pés, ó Mãe."
+				}
+			},
+			{
+				"name": {
+					"en-US": "The Crowning with Thorns",
+					"pt-BR": "A Coroação de Espinhos"
+				},
+				"meditation": {
+					"en-US": "The soldiers weave a crown of thorns and press it upon the head of Jesus. They mock Him, saying: 'Hail, King of the Jews!' Yet He is indeed the King of Kings.",
+					"pt-BR": "Os soldados tecem uma coroa de espinhos e a pressionam sobre a cabeça de Jesus. Zombam Dele, dizendo: 'Salve, Rei dos Judeus!' Porém Ele é verdadeiramente o Rei dos Reis."
+				},
+				"meditationScriptural": {
+					"en-US": "'And the soldiers plaited a crown of thorns, and put it on his head, and arrayed him in a purple robe; they came up to him, saying, \"Hail, King of the Jews!\" and struck him with their hands.' (Jn 19:2-3)",
+					"pt-BR": "'Os soldados teceram uma coroa de espinhos e a puseram na sua cabeça, e o vestiram com um manto de púrpura; e vinham a ele dizendo: \"Salve, Rei dos Judeus!\" e davam-lhe bofetadas.' (Jo 19,2-3)"
+				},
+				"meditationMontfort": {
+					"en-US": "The soldiers mock the King of kings: they press a crown of thorns onto His head, dress Him in a purple robe, and strike Him. He who is 'King of kings and Lord of lords' accepts mockery and humiliation to heal our pride and our contempt for God. Let us ask for courage — the strength to confess our faith before the world, even at the cost of ridicule.",
+					"pt-BR": "Os soldados zombam do Rei dos reis: pressionam uma coroa de espinhos em Sua cabeça, vestem-nO com um manto púrpura e batem nEle. Aquele que é 'Rei dos reis e Senhor dos senhores' aceita a zombaria e a humilhação para curar nosso orgulho e nosso desprezo por Deus. Peçamos coragem — a força de confessar nossa fé diante do mundo, mesmo ao custo do ridículo."
+				},
+				"closingPetition": {
+					"en-US": "I bind this decade with a petition for humility and lay it at your feet, O Mother.",
+					"pt-BR": "Uno esta dezena a um pedido de humildade e a deposito aos vossos pés, ó Mãe."
+				}
+			},
+			{
+				"name": {
+					"en-US": "The Carrying of the Cross",
+					"pt-BR": "O Caminho do Calvário"
+				},
+				"meditation": {
+					"en-US": "Jesus takes up His Cross and begins the painful journey to Calvary. He falls three times under its weight, yet rises each time and continues forward for love of us.",
+					"pt-BR": "Jesus toma a Sua Cruz e começa a dolorosa caminhada até o Calvário. Cai três vezes sob o seu peso, mas levanta-se cada vez e continua adiante por amor a nós."
+				},
+				"meditationScriptural": {
+					"en-US": "'So they took Jesus, and he went out, bearing his own cross, to the place called the place of a skull, which is called in Hebrew Golgotha.' (Jn 19:17)",
+					"pt-BR": "'Tomaram então a Jesus, e ele, carregando a sua própria cruz, saiu para o lugar chamado Calvário, que em hebraico se chama Gólgota.' (Jo 19,17)"
+				},
+				"meditationMontfort": {
+					"en-US": "Jesus takes up the Cross — the instrument of our redemption — and carries it toward Calvary. He falls three times beneath its weight. Each fall is an invitation: to rise, to continue, to love. 'Whoever wishes to come after me must take up his cross daily.' Let us ask for patience in suffering: the willingness to carry our cross without complaint, following Christ toward resurrection.",
+					"pt-BR": "Jesus toma a Cruz — o instrumento da nossa redenção — e a carrega em direção ao Calvário. Ele cai três vezes sob o seu peso. Cada queda é um convite: a levantar-se, a continuar, a amar. 'Quem quiser vir após Mim, tome a sua cruz cada dia.' Peçamos paciência no sofrimento: a disposição de carregar nossa cruz sem reclamar, seguindo Cristo em direção à ressurreição."
+				},
+				"closingPetition": {
+					"en-US": "I bind this decade with a petition for patience in adversity and lay it at your feet, O Mother.",
+					"pt-BR": "Uno esta dezena a um pedido de paciência na adversidade e a deposito aos vossos pés, ó Mãe."
+				}
+			},
+			{
+				"name": {
+					"en-US": "The Crucifixion",
+					"pt-BR": "A Crucificação e Morte de Jesus"
+				},
+				"meditation": {
+					"en-US": "Jesus is nailed to the Cross and dies after three hours of agony. 'Father, forgive them, for they know not what they do.' He gives His Mother to us: 'Behold your Mother.'",
+					"pt-BR": "Jesus é pregado na Cruz e morre após três horas de agonia. 'Pai, perdoai-os, pois não sabem o que fazem.' Ele nos dá Sua Mãe: 'Eis a tua Mãe.'"
+				},
+				"meditationScriptural": {
+					"en-US": "'And Jesus said, \"Father, forgive them; for they know not what they do.\" When Jesus had received the vinegar, he said, \"It is finished\"; and he bowed his head and gave up his spirit.' (Lk 23:34; Jn 19:30)",
+					"pt-BR": "'E Jesus disse: \"Pai, perdoai-os, pois não sabem o que fazem.\" Quando Jesus tomou o vinagre, disse: \"Está consumado\"; e, inclinando a cabeça, entregou o espírito.' (Lc 23,34; Jo 19,30)"
+				},
+				"meditationMontfort": {
+					"en-US": "Jesus is nailed to the Cross. For three hours He hangs between earth and heaven, making the supreme sacrifice of love. His last words are of forgiveness, compassion, and total self-giving: 'Father, into Thy hands I commend my spirit.' The price of our sins is paid in full. Let us ask for the grace of a good death: to die as Jesus died — in love, in trust, in the arms of the Father.",
+					"pt-BR": "Jesus é pregado na Cruz. Por três horas Ele fica suspenso entre a terra e o céu, fazendo o supremo sacrifício de amor. Suas últimas palavras são de perdão, compaixão e total entrega: 'Pai, nas Vossas mãos entrego o meu espírito.' O preço dos nossos pecados é pago por completo. Peçamos a graça de uma boa morte: morrer como Jesus morreu — em amor, em confiança, nos braços do Pai."
+				},
+				"closingPetition": {
+					"en-US": "I bind this decade with a petition for love of enemies and lay it at your feet, O Mother.",
+					"pt-BR": "Uno esta dezena a um pedido de amor aos inimigos e a deposito aos vossos pés, ó Mãe."
+				}
+			}
+		],
+		"glorious-mysteries": [
+			{
+				"name": {
+					"en-US": "The Resurrection",
+					"pt-BR": "A Ressurreição"
+				},
+				"meditation": {
+					"en-US": "On the third day, Jesus rises gloriously from the dead. The tomb is empty. The angel proclaims: 'He is not here; He is risen, as He said.'",
+					"pt-BR": "No terceiro dia, Jesus ressuscita gloriosamente dos mortos. O túmulo está vazio. O anjo proclama: 'Ele não está aqui; ressuscitou, como havia dito.'"
+				},
+				"meditationScriptural": {
+					"en-US": "'He is not here; for he has risen, as he said. Come, see the place where the Lord lay. Then go quickly and tell his disciples that he has risen from the dead.' (Mt 28:6-7)",
+					"pt-BR": "'Ele não está aqui; ressuscitou como havia dito. Vinde ver o lugar onde o Senhor jazia. Ide depressa dizer aos seus discípulos que ele ressuscitou dos mortos.' (Mt 28,6-7)"
+				},
+				"meditationMontfort": {
+					"en-US": "On the third day, Christ rises from the dead — the firstborn from among the dead, the conqueror of sin and death. 'He is not here; He has risen, as He said.' Mary Magdalene, the apostles, the disciples on the road to Emmaus — all encounter the Risen Lord. Death is destroyed; eternal life is opened to all. Let us ask for living faith: a faith so real it transforms our daily lives.",
+					"pt-BR": "No terceiro dia, Cristo ressuscita dos mortos — o primogênito de entre os mortos, o conquistador do pecado e da morte. 'Não está aqui; ressuscitou, como tinha dito.' Maria Madalena, os apóstolos, os discípulos de Emaús — todos encontram o Senhor Ressuscitado. A morte é destruída; a vida eterna é aberta a todos. Peçamos a fé viva: uma fé tão real que transforma nossas vidas diárias."
+				},
+				"closingPetition": {
+					"en-US": "I bind this decade with a petition for faith and lay it at your feet, O Mother.",
+					"pt-BR": "Uno esta dezena a um pedido de fé e a deposito aos vossos pés, ó Mãe."
+				}
+			},
+			{
+				"name": {
+					"en-US": "The Ascension",
+					"pt-BR": "A Ascensão"
+				},
+				"meditation": {
+					"en-US": "Forty days after the Resurrection, Jesus ascends into heaven in the sight of His disciples. 'I go to prepare a place for you, that where I am, you also may be.'",
+					"pt-BR": "Quarenta dias após a Ressurreição, Jesus sobe aos céus diante dos Seus discípulos. 'Vou preparar-vos um lugar, para que onde Eu estiver, vós também estejais.'"
+				},
+				"meditationScriptural": {
+					"en-US": "'So then the Lord Jesus, after he had spoken to them, was taken up into heaven, and sat down at the right hand of God.' (Mk 16:19)",
+					"pt-BR": "'Então o Senhor Jesus, depois de lhes ter falado, foi elevado ao céu e sentou-se à direita de Deus.' (Mc 16,19)"
+				},
+				"meditationMontfort": {
+					"en-US": "Forty days after the Resurrection, Jesus leads His disciples to Bethany. He blesses them and is taken up into heaven. His humanity — our humanity — is now at the right hand of the Father. Where the Head has gone, the members will follow. 'Where I am going, you know the way.' Let us ask for Christian hope: a burning desire for heaven that relativizes all earthly goods.",
+					"pt-BR": "Quarenta dias após a Ressurreição, Jesus conduz os discípulos a Betânia. Ele os abençoa e é elevado ao céu. Sua humanidade — a nossa humanidade — está agora à direita do Pai. Onde foi a Cabeça, seguirão os membros. 'Para onde Eu vou, vós sabeis o caminho.' Peçamos a esperança cristã: um ardente desejo do céu que relativize todos os bens terrenos."
+				},
+				"closingPetition": {
+					"en-US": "I bind this decade with a petition for hope and lay it at your feet, O Mother.",
+					"pt-BR": "Uno esta dezena a um pedido de esperança e a deposito aos vossos pés, ó Mãe."
+				}
+			},
+			{
+				"name": {
+					"en-US": "The Descent of the Holy Spirit",
+					"pt-BR": "A Vinda do Espírito Santo"
+				},
+				"meditation": {
+					"en-US": "The Holy Spirit descends upon the Apostles and the Blessed Virgin Mary in the form of tongues of fire. They are filled with courage and begin to preach the Gospel.",
+					"pt-BR": "O Espírito Santo desce sobre os Apóstolos e a Virgem Maria em forma de línguas de fogo. Ficam cheios de coragem e começam a pregar o Evangelho."
+				},
+				"meditationScriptural": {
+					"en-US": "'And suddenly a sound came from heaven like the rush of a mighty wind, and it filled all the house where they were sitting. And there appeared to them tongues as of fire, and they were all filled with the Holy Spirit.' (Acts 2:2-4)",
+					"pt-BR": "'De repente, veio do céu um ruído como de um vento impetuoso, e encheu toda a casa onde estavam sentados. Apareceram-lhes línguas como de fogo, e todos ficaram cheios do Espírito Santo.' (At 2,2-4)"
+				},
+				"meditationMontfort": {
+					"en-US": "Mary and the apostles pray together in the upper room for nine days. On Pentecost, the Holy Spirit descends as tongues of fire. The Church is born; the timid become bold; the confused begin to proclaim the Gospel with power. The same Spirit lives in every baptized soul. Let us ask for the gifts of the Holy Spirit, especially wisdom — the taste for divine things that comes from love.",
+					"pt-BR": "Maria e os apóstolos oram juntos no Cenáculo por nove dias. No Pentecostes, o Espírito Santo desce como línguas de fogo. A Igreja nasce; os tímidos tornam-se corajosos; os confusos começam a proclamar o Evangelho com poder. O mesmo Espírito vive em cada alma batizada. Peçamos os dons do Espírito Santo, especialmente a sabedoria — o gosto pelas coisas divinas que vem do amor."
+				},
+				"closingPetition": {
+					"en-US": "I bind this decade with a petition for charity and lay it at your feet, O Mother.",
+					"pt-BR": "Uno esta dezena a um pedido de caridade e a deposito aos vossos pés, ó Mãe."
+				}
+			},
+			{
+				"name": {
+					"en-US": "The Assumption",
+					"pt-BR": "A Assunção de Nossa Senhora"
+				},
+				"meditation": {
+					"en-US": "At the end of her earthly life, the Blessed Virgin Mary is taken up body and soul into heavenly glory. The angels rejoice as their Queen enters paradise.",
+					"pt-BR": "Ao fim de sua vida terrena, a Virgem Maria é elevada de corpo e alma à glória celeste. Os anjos se alegram quando sua Rainha entra no paraíso."
+				},
+				"meditationScriptural": {
+					"en-US": "'Henceforth all generations will call me blessed; for he who is mighty has done great things for me, and holy is his name.' (Lk 1:48-49) Mary is taken up body and soul into the glory of heaven.",
+					"pt-BR": "'Todas as gerações me chamarão bem-aventurada; pois o Todo-Poderoso fez grandes coisas em meu favor, e santo é o seu nome.' (Lc 1,48-49) Maria é elevada de corpo e alma à glória do céu."
+				},
+				"meditationMontfort": {
+					"en-US": "At the end of her earthly life, the Virgin Mary is taken up body and soul into heavenly glory. She who carried the Word in her womb, who stood at the foot of the Cross, who gathered the first community of the Church — is now in heaven, interceding for her children. She is the image of the Church's destiny. Let us ask for persevering devotion to Our Lady and confidence in her maternal intercession.",
+					"pt-BR": "No fim de sua vida terrena, a Virgem Maria é elevada corpo e alma à glória celestial. Ela que carregou o Verbo em seu ventre, que ficou ao pé da Cruz, que reuniu a primeira comunidade da Igreja — está agora no céu, intercedendo por seus filhos. Ela é a imagem do destino da Igreja. Peçamos devoção perseverante a Nossa Senhora e confiança em sua intercessão materna."
+				},
+				"closingPetition": {
+					"en-US": "I bind this decade with a petition for union with Christ and lay it at your feet, O Mother.",
+					"pt-BR": "Uno esta dezena a um pedido de união com Cristo e a deposito aos vossos pés, ó Mãe."
+				}
+			},
+			{
+				"name": {
+					"en-US": "The Coronation of Mary",
+					"pt-BR": "A Coroação de Nossa Senhora"
+				},
+				"meditation": {
+					"en-US": "Mary is crowned Queen of Heaven and Earth. She reigns as Mother and Advocate for all her children, interceding for us before the throne of her Son.",
+					"pt-BR": "Maria é coroada Rainha do Céu e da Terra. Ela reina como Mãe e Advogada de todos os seus filhos, intercedendo por nós diante do trono de seu Filho."
+				},
+				"meditationScriptural": {
+					"en-US": "'And a great sign appeared in heaven, a woman clothed with the sun, with the moon under her feet, and on her head a crown of twelve stars.' (Rev 12:1)",
+					"pt-BR": "'Apareceu no céu um grande sinal: uma mulher vestida de sol, com a lua debaixo dos pés e uma coroa de doze estrelas na cabeça.' (Ap 12,1)"
+				},
+				"meditationMontfort": {
+					"en-US": "Mary is crowned Queen of heaven and earth — Queen of Angels, Queen of Patriarchs, Queen of the Apostles, Queen of Martyrs, Queen of All Saints. The lowly handmaid who sang the Magnificat is exalted above all creatures. 'Behold, from henceforth all generations shall call me blessed.' She reigns now at the side of her Son, Queen of Mercy, Mother of the whole Church. Let us ask for perseverance to the end: to remain faithful to the very last, and to receive our crown.",
+					"pt-BR": "Maria é coroada Rainha do céu e da terra — Rainha dos Anjos, Rainha dos Patriarcas, Rainha dos Apóstolos, Rainha dos Mártires, Rainha de Todos os Santos. A humilde serva que cantou o Magnificat é exaltada acima de todas as criaturas. 'Doravante todas as gerações me chamarão bem-aventurada.' Ela reina agora ao lado de Seu Filho, Rainha da Misericórdia, Mãe de toda a Igreja. Peçamos perseverança até o fim: permanecer fiéis até o último momento e receber nossa coroa."
+				},
+				"closingPetition": {
+					"en-US": "I bind this decade with a petition for trust in your maternal intercession and lay it at your feet, O Mother.",
+					"pt-BR": "Uno esta dezena a um pedido de confiança em vossa intercessão maternal e a deposito aos vossos pés, ó Mãe."
+				}
+			}
+		]
+	},
+	"sections": [
+		{
+			"type": "prayer",
+			"ref": "ember-default:sign-of-cross"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "Perpetual Rosary Novena",
+				"pt-BR": "Novena Perpétua do Rosário"
+			}
+		},
+		{
+			"type": "response",
+			"verses": [
+				{
+					"v": {
+						"en-US": "O God, come to my assistance.",
+						"pt-BR": "Ó Deus, vinde em meu auxílio.",
+						"la": "Deus, in adiutorium meum intende."
+					},
+					"r": {
+						"en-US": "O Lord, make haste to help me.",
+						"pt-BR": "Senhor, socorrei-me sem demora.",
+						"la": "Domine, ad adiuvandum me festina."
+					}
+				}
+			]
+		},
+		{
+			"type": "select",
+			"on": "programDay",
+			"as": "phase",
+			"map": {
+				"0-8": "petition",
+				"9-17": "thanksgiving"
+			},
+			"options": [
+				{
+					"id": "petition",
+					"label": {
+						"en-US": "Petition",
+						"pt-BR": "Petição"
+					}
+				},
+				{
+					"id": "thanksgiving",
+					"label": {
+						"en-US": "Thanksgiving",
+						"pt-BR": "Ação de Graças"
+					}
+				}
+			]
+		},
+		{
+			"type": "cycle",
+			"data": "novena-days",
+			"as": "template",
+			"sections": [
+				{
+					"type": "subheading",
+					"text": {
+						"en-US": "{{mysteryLabel}} Mysteries",
+						"pt-BR": "Mistérios {{mysteryLabel}}"
+					}
+				},
+				{
+					"type": "select",
+					"default": "{{phase}}",
+					"options": [
+						{
+							"id": "petition",
+							"label": {
+								"en-US": "Petition",
+								"pt-BR": "Petição"
+							},
+							"sections": [
+								{
+									"type": "rubric",
+									"text": {
+										"en-US": "Days 1–9 are prayed in petition. Before you begin, bring to mind your three intentions:\n\n1. A grace for your soul\n2. A grace for those you love\n3. A grace for the Church or the world\n\nPresent them with confidence to Our Lady.",
+										"pt-BR": "Os dias 1–9 são rezados em petição. Antes de começar, traga à mente suas três intenções:\n\n1. Uma graça para sua alma\n2. Uma graça para quem você ama\n3. Uma graça para a Igreja ou o mundo\n\nApresente-as com confiança a Nossa Senhora."
+									}
+								}
+							]
+						},
+						{
+							"id": "thanksgiving",
+							"label": {
+								"en-US": "Thanksgiving",
+								"pt-BR": "Ação de Graças"
+							},
+							"sections": [
+								{
+									"type": "rubric",
+									"text": {
+										"en-US": "Days 10–18 are prayed in thanksgiving, even before visible answers. Before you begin, bring to mind three reasons for gratitude:\n\n1. A grace received in your soul\n2. A grace received by those you love\n3. A grace in the Church or the world\n\nOffer thanks with a generous heart.",
+										"pt-BR": "Os dias 10–18 são rezados em ação de graças, mesmo antes de respostas visíveis. Antes de começar, traga à mente três razões de gratidão:\n\n1. Uma graça recebida em sua alma\n2. Uma graça recebida por quem você ama\n3. Uma graça na Igreja ou no mundo\n\nOfereça graças com coração generoso."
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "select",
+					"default": "{{mysteryId}}",
+					"options": [
+						{
+							"id": "joyful",
+							"label": {
+								"en-US": "Joyful",
+								"pt-BR": "Gozosos"
+							},
+							"sections": [
+								{
+									"type": "select",
+									"default": "{{phase}}",
+									"options": [
+										{
+											"id": "petition",
+											"label": {
+												"en-US": "Petition",
+												"pt-BR": "Petição"
+											},
+											"sections": [
+												{
+													"type": "prayer",
+													"inline": {
+														"en-US": "Hail, Queen of the Most Holy Rosary, my Mother Mary, hail. I offer this crown of snow-white roses in petition, recalling your joys and begging your maternal intercession.",
+														"pt-BR": "Salve, Rainha do Santíssimo Rosário, minha Mãe Maria. Ofereço esta coroa de rosas brancas em petição, recordando vossas alegrias e suplicando vossa intercessão maternal."
+													}
+												}
+											]
+										},
+										{
+											"id": "thanksgiving",
+											"label": {
+												"en-US": "Thanksgiving",
+												"pt-BR": "Ação de Graças"
+											},
+											"sections": [
+												{
+													"type": "prayer",
+													"inline": {
+														"en-US": "Hail, Queen of the Most Holy Rosary, my Mother Mary, hail. Gratefully I offer this crown of snow-white roses in thanksgiving for your loving intercession.",
+														"pt-BR": "Salve, Rainha do Santíssimo Rosário, minha Mãe Maria. Com gratidão ofereço esta coroa de rosas brancas em ação de graças por vossa amorosa intercessão."
+													}
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"id": "sorrowful",
+							"label": {
+								"en-US": "Sorrowful",
+								"pt-BR": "Dolorosos"
+							},
+							"sections": [
+								{
+									"type": "select",
+									"default": "{{phase}}",
+									"options": [
+										{
+											"id": "petition",
+											"label": {
+												"en-US": "Petition",
+												"pt-BR": "Petição"
+											},
+											"sections": [
+												{
+													"type": "prayer",
+													"inline": {
+														"en-US": "Hail, Queen of the Most Holy Rosary, my Mother Mary, hail. I offer this crown of red roses in petition, united to the Passion of your Son and to your sorrowful heart.",
+														"pt-BR": "Salve, Rainha do Santíssimo Rosário, minha Mãe Maria. Ofereço esta coroa de rosas vermelhas em petição, unido à Paixão de vosso Filho e ao vosso coração doloroso."
+													}
+												}
+											]
+										},
+										{
+											"id": "thanksgiving",
+											"label": {
+												"en-US": "Thanksgiving",
+												"pt-BR": "Ação de Graças"
+											},
+											"sections": [
+												{
+													"type": "prayer",
+													"inline": {
+														"en-US": "Hail, Queen of the Most Holy Rosary, my Mother Mary, hail. Gratefully I offer this crown of red roses in thanksgiving, remembering the saving Passion of your Son.",
+														"pt-BR": "Salve, Rainha do Santíssimo Rosário, minha Mãe Maria. Com gratidão ofereço esta coroa de rosas vermelhas em ação de graças, recordando a Paixão salvadora de vosso Filho."
+													}
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"id": "glorious",
+							"label": {
+								"en-US": "Glorious",
+								"pt-BR": "Gloriosos"
+							},
+							"sections": [
+								{
+									"type": "select",
+									"default": "{{phase}}",
+									"options": [
+										{
+											"id": "petition",
+											"label": {
+												"en-US": "Petition",
+												"pt-BR": "Petição"
+											},
+											"sections": [
+												{
+													"type": "prayer",
+													"inline": {
+														"en-US": "Hail, Queen of the Most Holy Rosary, my Mother Mary, hail. I offer this crown of white roses tinged with red in petition, contemplating the triumph of Christ and your glory.",
+														"pt-BR": "Salve, Rainha do Santíssimo Rosário, minha Mãe Maria. Ofereço esta coroa de rosas brancas tingidas de vermelho em petição, contemplando o triunfo de Cristo e vossa glória."
+													}
+												}
+											]
+										},
+										{
+											"id": "thanksgiving",
+											"label": {
+												"en-US": "Thanksgiving",
+												"pt-BR": "Ação de Graças"
+											},
+											"sections": [
+												{
+													"type": "prayer",
+													"inline": {
+														"en-US": "Hail, Queen of the Most Holy Rosary, my Mother Mary, hail. Gratefully I offer this crown of white roses in thanksgiving for the graces received through your intercession.",
+														"pt-BR": "Salve, Rainha do Santíssimo Rosário, minha Mãe Maria. Com gratidão ofereço esta coroa de rosas brancas em ação de graças pelas graças recebidas por vossa intercessão."
+													}
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "prayer",
+					"ref": "ember-default:apostles-creed"
+				},
+				{
+					"type": "prayer",
+					"ref": "ember-default:our-father"
+				},
+				{
+					"type": "repeat",
+					"count": 3,
+					"sections": [
+						{
+							"type": "prayer",
+							"ref": "ember-default:hail-mary"
+						}
+					]
+				},
+				{
+					"type": "prayer",
+					"ref": "ember-default:glory-be"
+				},
+				{
+					"type": "divider"
+				},
+				{
+					"type": "repeat",
+					"count": 5,
+					"from": "{{mysteryId}}-mysteries",
+					"sections": [
+						{
+							"type": "heading",
+							"text": {
+								"en-US": "{{ordinal}} Mystery: {{name}}",
+								"pt-BR": "{{ordinal}} Mistério: {{name}}"
+							}
+						},
+						{
+							"type": "select",
+							"label": {
+								"en-US": "Meditation",
+								"pt-BR": "Meditação"
+							},
+							"options": [
+								{
+									"id": "traditional",
+									"label": {
+										"en-US": "Traditional",
+										"pt-BR": "Tradicional"
+									},
+									"sections": [
+										{
+											"type": "meditation",
+											"text": "{{meditation}}"
+										}
+									]
+								},
+								{
+									"id": "scriptural",
+									"label": {
+										"en-US": "Scriptural",
+										"pt-BR": "Bíblica"
+									},
+									"sections": [
+										{
+											"type": "meditation",
+											"text": "{{meditationScriptural}}"
+										}
+									]
+								},
+								{
+									"id": "montfort",
+									"label": {
+										"en-US": "Montfort",
+										"pt-BR": "Montfort"
+									},
+									"sections": [
+										{
+											"type": "meditation",
+											"text": "{{meditationMontfort}}"
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "prayer",
+							"ref": "ember-default:our-father"
+						},
+						{
+							"type": "repeat",
+							"count": 10,
+							"sections": [
+								{
+									"type": "prayer",
+									"ref": "ember-default:hail-mary"
+								}
+							]
+						},
+						{
+							"type": "prayer",
+							"ref": "ember-default:glory-be"
+						},
+						{
+							"type": "prayer",
+							"ref": "ember-default:fatima-prayer"
+						},
+						{
+							"type": "rubric",
+							"text": "{{closingPetition}}"
+						},
+						{
+							"type": "divider"
+						}
+					]
+				},
+				{
+					"type": "prayer",
+					"ref": "ember-default:hail-holy-queen"
+				},
+				{
+					"type": "prayer",
+					"inline": {
+						"en-US": "Let us pray. O God, whose only-begotten Son, by His life, death, and resurrection, has purchased for us the rewards of eternal life, grant, we beseech Thee, that meditating upon these mysteries of the most holy Rosary of the Blessed Virgin Mary, we may imitate what they contain and obtain what they promise, through the same Christ our Lord. Amen.",
+						"pt-BR": "Oremos. Ó Deus, cujo Filho unigênito, por sua vida, morte e ressurreição, nos mereceu os bens da salvação eterna, concedei-nos, nós vos pedimos, que, meditando estes mistérios do Santíssimo Rosário da Bem-Aventurada Virgem Maria, imitemos o que contêm e alcancemos o que prometem. Por Cristo, nosso Senhor. Amém."
+					}
+				},
+				{
+					"type": "select",
+					"default": "{{phase}}",
+					"options": [
+						{
+							"id": "petition",
+							"label": {
+								"en-US": "Petition",
+								"pt-BR": "Petição"
+							},
+							"sections": [
+								{
+									"type": "rubric",
+									"text": {
+										"en-US": "Sweet Mother Mary, present my petition to your Son and obtain for me the grace I seek, if it be for God's glory and my salvation.",
+										"pt-BR": "Doce Mãe Maria, apresentai minha petição a vosso Filho e alcançai para mim a graça que peço, se for para a glória de Deus e minha salvação."
+									}
+								}
+							]
+						},
+						{
+							"id": "thanksgiving",
+							"label": {
+								"en-US": "Thanksgiving",
+								"pt-BR": "Ação de Graças"
+							},
+							"sections": [
+								{
+									"type": "rubric",
+									"text": {
+										"en-US": "Sweet Mother Mary, I thank you for your intercession and entrust all things to Divine Providence.",
+										"pt-BR": "Doce Mãe Maria, agradeço vossa intercessão e entrego todas as coisas à Divina Providência."
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "prayer",
+					"ref": "ember-default:sub-tuum-praesidium"
+				},
+				{
+					"type": "prayer",
+					"ref": "ember-default:st-michael"
+				},
+				{
+					"type": "subheading",
+					"text": {
+						"en-US": "For the Intentions of the Holy Father",
+						"pt-BR": "Pelas Intenções do Santo Padre"
+					}
+				},
+				{
+					"type": "prayer",
+					"ref": "ember-default:our-father"
+				},
+				{
+					"type": "prayer",
+					"ref": "ember-default:hail-mary"
+				},
+				{
+					"type": "divider"
+				}
+			]
+		},
+		{
+			"type": "prayer",
+			"ref": "ember-default:sign-of-cross"
+		}
+	]
+}

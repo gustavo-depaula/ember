@@ -1,0 +1,17 @@
+{
+	"title": {
+		"en-US": "Sub Tuum Praesidium",
+		"pt-BR": "Sub Tuum Praesidium",
+		"la": "Sub Tuum Praesidium"
+	},
+	"body": [
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "We fly to thy patronage, O holy Mother of God. Despise not our petitions in our necessities, but deliver us always from all dangers, O glorious and blessed Virgin. Amen.",
+				"pt-BR": "A vossa proteção recorremos, Santa Mãe de Deus. Não desprezeis as nossas súplicas em nossas necessidades, mas livrai-nos sempre de todos os perigos, ó Virgem gloriosa e bendita. Amém.",
+				"la": "Sub tuum praesidium confugimus, sancta Dei Genitrix. Nostras deprecationes ne despicias in necessitatibus, sed a periculis cunctis libera nos semper, Virgo gloriosa et benedicta. Amen."
+			}
+		}
+	]
+}

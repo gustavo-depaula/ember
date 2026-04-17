@@ -1,0 +1,44 @@
+{
+	"id": "rosary-perpetual-novena",
+	"icon": "rosary",
+	"name": {
+		"en-US": "Perpetual Rosary Novena",
+		"pt-BR": "Novena Perpétua do Rosário"
+	},
+	"categories": ["marian", "program", "devotion"],
+	"estimatedMinutes": 30,
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"program": {
+		"totalDays": 18,
+		"progressPolicy": "continue",
+		"completionBehavior": "offer-restart"
+	},
+	"data": {
+		"novena-days": "data/days.json"
+	},
+	"flow": "flow.json",
+	"description": {
+		"en-US": "A perpetual Rosary novena prayed in two phases: 9 days in petition, then 9 days in thanksgiving, repeating indefinitely.",
+		"pt-BR": "Uma novena perpétua do Rosário rezada em duas fases: 9 dias de petição, depois 9 dias de ação de graças, repetindo indefinidamente."
+	},
+	"history": {
+		"en-US": "Inspired by the traditional 54-day Rosary Novena linked to Our Lady of Pompeii, this shorter form preserves the essential rhythm of petition and thanksgiving in a single novena cycle of 18 days, meant to be prayed perpetually.",
+		"pt-BR": "Inspirada na tradicional Novena de 54 Dias do Rosário ligada a Nossa Senhora de Pompeia, esta forma mais curta preserva o ritmo essencial de petição e ação de graças em um único ciclo de novena de 18 dias, destinado a ser rezado perpetuamente."
+	},
+	"howToPray": {
+		"en-US": "Pray one Rosary each day for 18 days. Days 1–9 are offered in petition for your intentions. Days 10–18 are prayed in thanksgiving. Follow the traditional mystery cycle: Joyful, Sorrowful, and Glorious, repeating every three days. When the 18 days are complete, begin again.",
+		"pt-BR": "Reze um Rosário por dia durante 18 dias. Os dias 1–9 são oferecidos em petição por suas intenções. Os dias 10–18 são rezados em ação de graças. Siga o ciclo tradicional dos mistérios: Gozosos, Dolorosos e Gloriosos, repetindo a cada três dias. Quando os 18 dias forem completados, comece novamente."
+	},
+	"tags": ["rosary", "novena", "18-days", "marian", "traditional", "perpetual", "personal"],
+	"defaults": {
+		"sortOrder": 10,
+		"slots": [
+			{
+				"schedule": { "type": "daily" },
+				"tier": "essential",
+				"enabled": true
+			}
+		]
+	}
+}

@@ -1,0 +1,28 @@
+{
+	"indexBy": "program-day",
+	"entries": {
+		"default": [
+			{
+				"mysteryId": "joyful",
+				"mysteryLabel": {
+					"en-US": "Joyful",
+					"pt-BR": "Gozosos"
+				}
+			},
+			{
+				"mysteryId": "sorrowful",
+				"mysteryLabel": {
+					"en-US": "Sorrowful",
+					"pt-BR": "Dolorosos"
+				}
+			},
+			{
+				"mysteryId": "glorious",
+				"mysteryLabel": {
+					"en-US": "Glorious",
+					"pt-BR": "Gloriosos"
+				}
+			}
+		]
+	}
+}
