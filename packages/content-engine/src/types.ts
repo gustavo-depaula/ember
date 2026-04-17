@@ -54,7 +54,7 @@ export type FlowDefinition = {
   fragments?: Record<string, FlowSection[]>
 }
 
-export type FlowSection =
+export type FlowSection = { lang?: string } & (
   | { type: 'rubric'; text: LocalizedText }
   | { type: 'divider' }
   | { type: 'heading'; text: LocalizedText }
@@ -136,6 +136,7 @@ export type FlowSection =
       prayer?: LocalizedText
     }
   | { type: 'fragment'; ref: string }
+)
 
 // --- Rendered Sections (engine output, consumed by renderer) ---
 

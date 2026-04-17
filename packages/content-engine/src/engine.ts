@@ -361,6 +361,8 @@ function resolveSection(
   context: FlowContext,
   ec: EngineContext,
 ): RenderedSection[] {
+  if (section.lang && section.lang !== ec.contentLanguage) return []
+
   switch (section.type) {
     case 'rubric':
       return [{ type: 'rubric', label: ec.localize(section.text) }]
