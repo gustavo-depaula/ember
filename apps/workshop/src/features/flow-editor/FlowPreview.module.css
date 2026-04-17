@@ -1,0 +1,397 @@
+.preview {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.controls {
+  display: flex;
+  gap: var(--sp-sm);
+  padding: var(--sp-sm) var(--sp-md);
+  border-bottom: 1px solid var(--border);
+  flex-shrink: 0;
+}
+
+.control {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  font-size: 11px;
+  font-weight: 500;
+  color: var(--text-muted);
+}
+
+.controlInput {
+  padding: 3px 6px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  background: var(--bg-input);
+  font-size: var(--text-xs);
+}
+
+.controlInput:focus {
+  border-color: var(--accent);
+  outline: none;
+}
+
+/* ── Rendered content area ── */
+
+.rendered {
+  flex: 1;
+  overflow-y: auto;
+  padding: var(--sp-lg) var(--sp-xl);
+  max-width: 640px;
+}
+
+.empty {
+  color: var(--text-muted);
+  font-family: var(--font-ui);
+  font-size: var(--text-sm);
+  text-align: center;
+  padding: var(--sp-xl);
+}
+
+/* ── Bilingual text ── */
+
+.bilingualPrimary {
+  font-family: var(--font-body);
+  font-size: var(--text-xl);
+  line-height: 1.45;
+  color: var(--text);
+  white-space: pre-line;
+}
+
+.bilingualSecondary {
+  font-family: var(--font-body);
+  font-size: var(--text-lg);
+  line-height: 1.4;
+  color: var(--text-secondary);
+  opacity: 0.75;
+  white-space: pre-line;
+}
+
+/* ── Divider ── */
+
+.divider {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: var(--sp-md) 0;
+}
+
+.dividerLine {
+  width: 40%;
+  height: 0.5px;
+  background: var(--accent-subtle);
+}
+
+/* ── Heading / Subheading ── */
+
+.heading {
+  font-family: var(--font-display);
+  font-size: var(--text-2xl);
+  font-weight: 400;
+  letter-spacing: 0.5px;
+  color: var(--burgundy);
+  margin: var(--sp-md) 0 var(--sp-sm);
+  text-transform: uppercase;
+}
+
+.subheading {
+  font-family: var(--font-display);
+  font-size: var(--text-lg);
+  font-weight: 400;
+  letter-spacing: 0.5px;
+  color: var(--burgundy);
+  margin: var(--sp-sm) 0 var(--sp-xs);
+  text-transform: uppercase;
+}
+
+/* ── Rubric ── */
+
+.rubric {
+  font-family: var(--font-body);
+  font-size: var(--text-lg);
+  font-style: italic;
+  color: var(--accent);
+  margin: var(--sp-sm) 0;
+}
+
+/* ── Meditation ── */
+
+.meditation {
+  font-family: var(--font-body);
+  font-size: var(--text-xl);
+  font-style: italic;
+  line-height: 1.45;
+  color: var(--text);
+  margin: var(--sp-sm) 0;
+  padding-left: var(--sp-md);
+  border-left: 3px solid var(--accent-subtle);
+}
+
+/* ── Prayer block ── */
+
+.prayerBlock {
+  margin: var(--sp-sm) 0;
+  display: flex;
+  flex-direction: column;
+  gap: var(--sp-xs);
+}
+
+.prayerHeader {
+  display: flex;
+  align-items: center;
+  gap: var(--sp-sm);
+  cursor: pointer;
+  user-select: none;
+}
+
+.prayerChevron {
+  font-size: 10px;
+  color: var(--text-muted);
+  width: 14px;
+  flex-shrink: 0;
+  transition: transform var(--transition);
+}
+
+.prayerTitle {
+  font-family: var(--font-display);
+  font-size: var(--text-base);
+  font-weight: 400;
+  color: var(--text);
+  letter-spacing: 0.3px;
+}
+
+.prayerCount {
+  font-family: var(--font-ui);
+  font-size: var(--text-xs);
+  color: var(--text-muted);
+}
+
+.prayerBody {
+  padding-left: var(--sp-lg);
+  display: flex;
+  flex-direction: column;
+  gap: var(--sp-sm);
+}
+
+.prayerText {
+  font-family: var(--font-body);
+  font-size: var(--text-xl);
+  line-height: 1.45;
+  color: var(--text);
+  white-space: pre-line;
+}
+
+.liturgicalSpeaker {
+  font-family: var(--font-display);
+  font-size: var(--text-xs);
+  color: var(--accent);
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+}
+
+.liturgicalPeople {
+  padding-left: var(--sp-md);
+}
+
+.liturgicalBold {
+  font-weight: 600;
+}
+
+/* ── Response block (℣. / ℟.) ── */
+
+.responseBlock {
+  margin: var(--sp-sm) 0;
+  display: flex;
+  flex-direction: column;
+  gap: var(--sp-sm);
+}
+
+.versePair {
+  display: flex;
+  flex-direction: column;
+  gap: var(--sp-xs);
+}
+
+.versicleRow,
+.responseRow {
+  display: flex;
+  gap: 4px;
+  align-items: baseline;
+}
+
+.versicleSymbol {
+  font-family: var(--font-body);
+  font-size: var(--text-base);
+  color: var(--burgundy);
+  width: 22px;
+  flex-shrink: 0;
+}
+
+.responseSymbol {
+  font-family: var(--font-body);
+  font-size: var(--text-base);
+  color: var(--accent);
+  font-weight: 600;
+  width: 22px;
+  flex-shrink: 0;
+}
+
+.responseText {
+  font-weight: 600;
+}
+
+/* ── Select block ── */
+
+.selectBlock {
+  margin: var(--sp-sm) 0;
+  display: flex;
+  flex-direction: column;
+  gap: var(--sp-sm);
+}
+
+.selectLabel {
+  font-family: var(--font-display);
+  font-size: var(--text-base);
+  color: var(--accent);
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+}
+
+.selectTabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--sp-xs);
+}
+
+.selectTab {
+  padding: var(--sp-xs) var(--sp-sm);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  font-family: var(--font-display);
+  font-size: var(--text-xs);
+  color: var(--text-muted);
+  cursor: default;
+  transition: all var(--transition);
+}
+
+.selectTabActive {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: var(--text-inverse);
+}
+
+.selectContent {
+  display: flex;
+  flex-direction: column;
+  gap: var(--sp-sm);
+}
+
+/* ── Options block ── */
+
+.optionsBlock {
+  margin: var(--sp-sm) 0;
+  display: flex;
+  flex-direction: column;
+  gap: var(--sp-sm);
+}
+
+.optionGroup {
+  margin-bottom: var(--sp-md);
+}
+
+.optionLabel {
+  font-family: var(--font-display);
+  font-size: var(--text-base);
+  color: var(--accent);
+  letter-spacing: 0.3px;
+  margin-bottom: var(--sp-xs);
+}
+
+/* ── Prose ── */
+
+.proseBlock {
+  font-family: var(--font-body);
+  font-size: var(--text-xl);
+  line-height: 1.45;
+  white-space: pre-line;
+  margin: var(--sp-sm) 0;
+}
+
+/* ── Image ── */
+
+.imageBlock {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--sp-xs);
+  margin: var(--sp-sm) 0;
+  padding: var(--sp-sm) 0;
+}
+
+.imagePlaceholder {
+  font-family: var(--font-ui);
+  font-size: var(--text-sm);
+  color: var(--text-muted);
+  background: var(--bg-panel);
+  padding: var(--sp-md) var(--sp-xl);
+  border-radius: var(--radius-md);
+  text-align: center;
+}
+
+.caption {
+  font-family: var(--font-body);
+  font-size: var(--text-lg);
+  color: var(--text);
+  font-style: italic;
+  text-align: center;
+}
+
+.attribution {
+  font-family: var(--font-body);
+  font-size: var(--text-base);
+  color: var(--text-muted);
+  text-align: center;
+}
+
+/* ── Psalmody ── */
+
+.psalmBlock {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--sp-sm);
+  margin: var(--sp-sm) 0;
+}
+
+.psalmRef {
+  padding: var(--sp-xs) var(--sp-sm);
+  background: var(--accent-bg);
+  border-radius: var(--radius-sm);
+  font-family: var(--font-ui);
+  font-size: var(--text-sm);
+}
+
+/* ── Reading / Proper (placeholder blocks) ── */
+
+.readingBlock,
+.properBlock {
+  font-family: var(--font-ui);
+  font-size: var(--text-sm);
+  color: var(--text-muted);
+  background: var(--bg-panel);
+  padding: var(--sp-sm) var(--sp-md);
+  border-radius: var(--radius-md);
+  margin: var(--sp-sm) 0;
+}
+
+/* ── Unknown ── */
+
+.unknown {
+  font-family: var(--font-ui);
+  font-size: var(--text-sm);
+  color: var(--text-muted);
+  font-style: italic;
+  margin: var(--sp-xs) 0;
+}

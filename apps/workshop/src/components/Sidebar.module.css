@@ -1,0 +1,154 @@
+.sidebar {
+  width: 280px;
+  min-width: 280px;
+  height: 100vh;
+  background: var(--bg-panel);
+  border-right: 1px solid var(--border);
+  display: flex;
+  flex-direction: column;
+  overflow-y: auto;
+}
+
+.header {
+  padding: var(--sp-md) var(--sp-md) var(--sp-sm);
+  border-bottom: 1px solid var(--border);
+  flex-shrink: 0;
+}
+
+.title {
+  font-family: var(--font-display);
+  font-size: var(--text-xl);
+  font-weight: 400;
+  color: var(--text);
+  letter-spacing: 0.02em;
+}
+
+.libraryList {
+  flex: 1;
+  overflow-y: auto;
+}
+
+.loading {
+  padding: var(--sp-md);
+  color: var(--text-muted);
+  font-size: var(--text-sm);
+}
+
+/* Library accordion item */
+.libGroup {
+  border-bottom: 1px solid var(--border);
+}
+
+.libItem {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--sp-sm);
+  padding: var(--sp-sm) var(--sp-md);
+  text-align: left;
+  transition: background var(--transition);
+  width: 100%;
+}
+
+.libItem:hover {
+  background: var(--bg-hover);
+}
+
+.libItem.expanded {
+  background: var(--bg-selected);
+}
+
+.libChevron {
+  font-size: 10px;
+  color: var(--text-muted);
+  margin-top: 3px;
+  flex-shrink: 0;
+  width: 12px;
+}
+
+.libInfo {
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  min-width: 0;
+}
+
+.libName {
+  font-size: var(--text-sm);
+  font-weight: 500;
+  color: var(--text);
+}
+
+.libMeta {
+  font-size: var(--text-xs);
+  color: var(--text-muted);
+}
+
+/* Expanded library contents */
+.contents {
+  padding-bottom: var(--sp-xs);
+}
+
+.contentSection {
+  padding-top: var(--sp-xs);
+}
+
+.contentHeader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--sp-xs) var(--sp-md) var(--sp-xs) calc(var(--sp-md) + 20px);
+}
+
+.contentTitle {
+  font-size: 10px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--text-muted);
+}
+
+.addBtn {
+  width: 20px;
+  height: 20px;
+  border-radius: var(--radius-sm);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--text-base);
+  color: var(--text-muted);
+  transition: all var(--transition);
+}
+
+.addBtn:hover {
+  background: var(--bg-hover);
+  color: var(--text);
+}
+
+.entityItem {
+  display: flex;
+  align-items: center;
+  gap: var(--sp-sm);
+  padding: 4px var(--sp-md) 4px calc(var(--sp-md) + 20px);
+  text-align: left;
+  width: 100%;
+  transition: background var(--transition);
+  border-left: 2px solid transparent;
+}
+
+.entityItem:hover {
+  background: var(--bg-hover);
+  border-left-color: var(--accent);
+}
+
+.entityIcon {
+  font-size: var(--text-sm);
+  flex-shrink: 0;
+}
+
+.entityName {
+  font-size: var(--text-sm);
+  color: var(--text);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

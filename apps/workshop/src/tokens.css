@@ -1,0 +1,97 @@
+:root {
+  /* Light mode — Ember parchment palette */
+  --bg: #faf6f0;
+  --bg-surface: #fffdf9;
+  --bg-panel: #f5f0e8;
+  --bg-hover: #f0ebe2;
+  --bg-selected: #ebe4d8;
+  --bg-input: #ffffff;
+
+  --text: #2c2418;
+  --text-secondary: #6b5d4f;
+  --text-muted: #9a8d7f;
+  --text-inverse: #faf6f0;
+
+  --accent: #c9a84c;
+  --accent-hover: #a8872e;
+  --accent-subtle: #d4c088;
+  --accent-bg: #faf3e0;
+
+  --border: #e5ddd2;
+  --border-strong: #cfc5b5;
+
+  --burgundy: #6b1d2a;
+  --blue: #3d5a80;
+  --green: #2d6a4f;
+  --green-light: #52a878;
+  --red: #b83a3a;
+  --orange: #d4883a;
+
+  /* Shadows */
+  --shadow-sm: 0 1px 2px rgba(44, 36, 24, 0.06);
+  --shadow-md: 0 2px 8px rgba(44, 36, 24, 0.08);
+  --shadow-lg: 0 4px 16px rgba(44, 36, 24, 0.1);
+
+  /* Radius */
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-lg: 12px;
+
+  /* Spacing */
+  --sp-xs: 4px;
+  --sp-sm: 8px;
+  --sp-md: 16px;
+  --sp-lg: 24px;
+  --sp-xl: 32px;
+
+  /* Typography */
+  --font-display: 'Cinzel', serif;
+  --font-body: 'EB Garamond', serif;
+  --font-ui: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+
+  --text-xs: 12px;
+  --text-sm: 13px;
+  --text-base: 14px;
+  --text-lg: 16px;
+  --text-xl: 19px;
+  --text-2xl: 22px;
+  --text-3xl: 28px;
+
+  /* Transitions */
+  --transition: 150ms ease;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0e0d0c;
+    --bg-surface: #1a1816;
+    --bg-panel: #252220;
+    --bg-hover: #2f2b28;
+    --bg-selected: #3a3530;
+    --bg-input: #1a1816;
+
+    --text: #ede4d8;
+    --text-secondary: #a89a8c;
+    --text-muted: #6b5d4f;
+    --text-inverse: #0e0d0c;
+
+    --accent: #d4a63a;
+    --accent-hover: #b8902a;
+    --accent-subtle: #6e5c32;
+    --accent-bg: #2a2418;
+
+    --border: #3a3530;
+    --border-strong: #5c5248;
+
+    --burgundy: #c75b6b;
+    --blue: #7a9ec8;
+    --green: #52a878;
+    --green-light: #6fc090;
+    --red: #d4706f;
+    --orange: #e8b87a;
+
+    --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.2);
+    --shadow-md: 0 2px 8px rgba(0, 0, 0, 0.3);
+    --shadow-lg: 0 4px 16px rgba(0, 0, 0, 0.4);
+  }
+}

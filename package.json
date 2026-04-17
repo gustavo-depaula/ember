@@ -6,6 +6,7 @@
     "test": "turbo test",
     "lint": "turbo lint",
     "dev": "turbo dev",
+    "workshop": "pnpm --filter @ember/workshop run dev",
     "start": "pnpm --filter @ember/app run start",
     "start:web": "pnpm --filter @ember/app run web",
     "ios": "pnpm --filter @ember/app run ios",

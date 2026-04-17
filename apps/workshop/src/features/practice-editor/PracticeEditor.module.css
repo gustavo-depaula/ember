@@ -1,0 +1,89 @@
+.editor {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.loading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  color: var(--text-muted);
+}
+
+.toolbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--sp-sm) var(--sp-md);
+  border-bottom: 1px solid var(--border);
+  background: var(--bg-surface);
+  flex-shrink: 0;
+}
+
+.viewTabs {
+  display: flex;
+  gap: 2px;
+  background: var(--bg-panel);
+  border-radius: var(--radius-md);
+  padding: 2px;
+}
+
+.viewTab {
+  padding: 5px var(--sp-md);
+  border-radius: 6px;
+  font-size: var(--text-sm);
+  font-weight: 500;
+  color: var(--text-secondary);
+  transition: all var(--transition);
+}
+
+.viewTab:hover {
+  color: var(--text);
+}
+
+.activeView {
+  background: var(--bg-surface);
+  color: var(--text);
+  box-shadow: var(--shadow-sm);
+}
+
+.toolbarRight {
+  display: flex;
+  align-items: center;
+  gap: var(--sp-md);
+}
+
+.practiceId {
+  font-family: monospace;
+  font-size: var(--text-xs);
+  color: var(--text-muted);
+  background: var(--bg-panel);
+  padding: 2px 8px;
+  border-radius: var(--radius-sm);
+}
+
+.saveBtn {
+  padding: 5px var(--sp-md);
+  border-radius: var(--radius-md);
+  font-size: var(--text-sm);
+  font-weight: 500;
+  background: var(--accent);
+  color: var(--text-inverse);
+  transition: background var(--transition);
+}
+
+.saveBtn:hover {
+  background: var(--accent-hover);
+}
+
+.saveBtn:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.body {
+  flex: 1;
+  overflow: auto;
+}

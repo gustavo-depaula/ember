@@ -1,0 +1,110 @@
+.container {
+  display: flex;
+  height: 100%;
+}
+
+.treePane {
+  width: 320px;
+  min-width: 280px;
+  border-right: 1px solid var(--border);
+  display: flex;
+  flex-direction: column;
+  background: var(--bg-surface);
+}
+
+.treePaneHeader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--sp-sm) var(--sp-md);
+  border-bottom: 1px solid var(--border);
+}
+
+.treePaneTitle {
+  font-size: var(--text-xs);
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--text-muted);
+}
+
+.topLevelBtns {
+  display: flex;
+  gap: 4px;
+}
+
+.topBtn {
+  padding: 2px 8px;
+  font-size: 10px;
+  border-radius: var(--radius-sm);
+  background: var(--bg-panel);
+  color: var(--text-muted);
+  border: 1px solid var(--border);
+  transition: all var(--transition);
+}
+
+.topBtn:hover {
+  color: var(--text);
+}
+
+.topBtnActive {
+  background: var(--accent-bg);
+  border-color: var(--accent-subtle);
+  color: var(--accent);
+}
+
+.topBadge {
+  padding: 2px 8px;
+  font-size: 10px;
+  border-radius: var(--radius-sm);
+  background: var(--bg-panel);
+  color: var(--text-muted);
+  border: 1px solid var(--border);
+}
+
+.treeScrollArea {
+  flex: 1;
+  overflow-y: auto;
+  padding: var(--sp-sm) 0;
+}
+
+.addRootBtn {
+  margin: var(--sp-sm) var(--sp-md);
+  padding: var(--sp-sm) var(--sp-md);
+  border: 1px dashed var(--border);
+  border-radius: var(--radius-md);
+  font-size: var(--text-sm);
+  color: var(--text-muted);
+  width: calc(100% - 2 * var(--sp-md));
+  text-align: center;
+  transition: all var(--transition);
+}
+
+.addRootBtn:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+  background: var(--accent-bg);
+}
+
+.editPane {
+  flex: 1;
+  overflow-y: auto;
+  min-width: 0;
+}
+
+.previewPane {
+  width: 400px;
+  min-width: 300px;
+  border-left: 1px solid var(--border);
+  overflow-y: auto;
+  background: var(--bg-surface);
+}
+
+.placeholder {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  color: var(--text-muted);
+  font-size: var(--text-sm);
+}
