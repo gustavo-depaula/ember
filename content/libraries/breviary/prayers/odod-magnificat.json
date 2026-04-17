@@ -1,0 +1,23 @@
+{
+  "title": { "en-US": "Magnificat" },
+  "body": [
+    {
+      "type": "versicle",
+      "inline": {
+        "en-US": "Ant. All * that the Father hath given me shall come to me: and him that cometh unto me, I will in no wise cast out."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "My ✠ soul doth magnify the Lord:\nand my spirit hath rejoiced in God my Saviour.\nFor he hath regarded:\nthe lowliness of his handmaiden.\nFor behold, from henceforth:\nall generations shall call me blessed.\nFor he that is mighty hath magnified me:\nand holy is his Name.\nAnd his mercy is on them that fear him:\nthroughout all generations.\nHe hath showed strength with his arm:\nhe hath scattered the proud in the imagination of their hearts.\nHe hath put down the mighty from their seat:\nand hath exalted the humble and meek.\nHe hath filled the hungry with good things:\nand the rich he hath sent empty away.\nHe remembering his mercy hath holpen his servant Israel:\nas he promised to our forefathers, Abraham and his seed, for ever."
+      }
+    },
+    {
+      "type": "versicle",
+      "inline": {
+        "en-US": "Rest eternal grant unto them, O Lord:\nAnd let light perpetual shine upon them.\n\nAnt. All * that the Father hath given me shall come to me: and him that cometh unto me, I will in no wise cast out."
+      }
+    }
+  ]
+}

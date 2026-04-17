@@ -1,0 +1,23 @@
+{
+  "title": { "en-US": "Psalm 6" },
+  "body": [
+    {
+      "type": "versicle",
+      "inline": {
+        "en-US": "Ant. Turn thee, O Lord, and deliver my soul, * for in death no man remembereth thee."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "O Lord, rebuke me not in thine indignation:\nneither chasten me in thy displeasure.\nHave mercy upon me, O Lord, for I am weak:\nO Lord, heal me, for my bones are vexed.\nMy soul also is sore troubled:\nbut, Lord, how long wilt thou punish me?\nTurn thee, O Lord, and deliver my soul:\nO save me for thy mercy's sake.\nFor in death no man remembereth thee:\nand who will give thee thanks in the pit?\nI am weary of my groaning; every night wash I my bed:\nand water my couch with my tears.\nMy beauty is gone for very trouble:\nand worn away because of all mine enemies.\nAway from me, all ye that work vanity:\nfor the Lord hath heard the voice of my weeping.\nThe Lord hath heard my petition:\nthe Lord will receive my prayer.\nAll mine enemies shall be confounded, and sore vexed:\nthey shall be turned back, and put to shame suddenly."
+      }
+    },
+    {
+      "type": "versicle",
+      "inline": {
+        "en-US": "Rest eternal grant unto them, O Lord:\nAnd let light perpetual shine upon them.\n\nAnt. Turn thee, O Lord, and deliver my soul, * for in death no man remembereth thee."
+      }
+    }
+  ]
+}

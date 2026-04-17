@@ -1,0 +1,17 @@
+{
+  "title": { "en-US": "De profundis (Psalm 130)" },
+  "body": [
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Out of the deep have I called unto thee, O Lord:\nLord, hear my voice.\nO let thine ears consider well:\nthe voice of my complaint.\nIf thou, Lord, wilt be extreme to mark what is done amiss:\nO Lord, who may abide it?\nFor there is mercy with thee:\ntherefore shalt thou be feared.\nI look for the Lord; my soul doth wait for him:\nin his word is my trust.\nMy soul fleeth unto the Lord:\nbefore the morning watch, I say, before the morning watch.\nO Israel, trust in the Lord, for with the Lord there is mercy:\nand with him is plenteous redemption.\nAnd he shall redeem Israel:\nfrom all his sins."
+      }
+    },
+    {
+      "type": "versicle",
+      "inline": {
+        "en-US": "Rest eternal grant unto them, O Lord:\nAnd let light perpetual shine upon them."
+      }
+    }
+  ]
+}

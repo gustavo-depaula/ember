@@ -1,0 +1,11 @@
+{
+  "title": { "en-US": "The Lord's Prayer" },
+  "body": [
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Our Father, who art in heaven,\nhallowed be thy Name,\nthy kingdom come,\nthy will be done,\non earth as it is in heaven.\nGive us this day our daily bread.\nAnd forgive us our trespasses,\nas we forgive those who trespass against us.\nAnd lead us not into temptation,\nbut deliver us from evil.\nAmen."
+      }
+    }
+  ]
+}

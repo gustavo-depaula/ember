@@ -1,0 +1,108 @@
+{
+  "flowVersion": "1",
+  "sections": [
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "At the Office of the Dead the usual introductory responses are omitted. The Psalmody is said immediately."
+      }
+    },
+    {
+      "type": "select",
+      "on": "hour",
+      "label": { "en-US": "Hour" },
+      "map": {
+        "5-11": "mattins",
+        "12-23": "evensong",
+        "0-4": "mattins"
+      },
+      "options": [
+        {
+          "id": "mattins",
+          "label": { "en-US": "Mattins of the Dead" },
+          "sections": [
+            { "type": "subheading", "text": { "en-US": "Invitatory" } },
+            { "type": "prayer", "ref": "odod-venite" },
+            { "type": "divider" },
+            { "type": "subheading", "text": { "en-US": "Psalmody" } },
+            { "type": "prayer", "ref": "odod-psalm-5" },
+            { "type": "prayer", "ref": "odod-psalm-6" },
+            { "type": "prayer", "ref": "odod-psalm-7" },
+            { "type": "divider" },
+            { "type": "subheading", "text": { "en-US": "First Lesson" } },
+            { "type": "lectio", "reference": "wis 4:7-end" },
+            { "type": "divider" },
+            { "type": "subheading", "text": { "en-US": "Song of Hezekiah" } },
+            { "type": "prayer", "ref": "odod-song-hezekiah" },
+            { "type": "divider" },
+            { "type": "subheading", "text": { "en-US": "Second Lesson" } },
+            { "type": "lectio", "reference": "1cor 15:35-end" },
+            { "type": "divider" },
+            { "type": "prayer", "ref": "odod-versicles-reading" },
+            { "type": "divider" },
+            { "type": "subheading", "text": { "en-US": "Benedictus" } },
+            { "type": "prayer", "ref": "odod-benedictus" },
+            { "type": "divider" },
+            { "type": "subheading", "text": { "en-US": "The Lord's Prayer" } },
+            { "type": "prayer", "ref": "our-father-bcp" },
+            { "type": "divider" },
+            {
+              "type": "rubric",
+              "text": { "en-US": "This Psalm is then said, except on the day of death or burial." }
+            },
+            { "type": "prayer", "ref": "odod-de-profundis" },
+            { "type": "divider" },
+            { "type": "prayer", "ref": "odod-versicles-closing" },
+            { "type": "divider" },
+            { "type": "subheading", "text": { "en-US": "Collect" } },
+            { "type": "prayer", "ref": "odod-collect" },
+            { "type": "divider" },
+            { "type": "prayer", "ref": "odod-dismissal" }
+          ]
+        },
+        {
+          "id": "evensong",
+          "label": { "en-US": "Evensong of the Dead" },
+          "sections": [
+            { "type": "subheading", "text": { "en-US": "Psalmody" } },
+            { "type": "prayer", "ref": "odod-psalm-116" },
+            { "type": "prayer", "ref": "odod-psalm-120" },
+            { "type": "prayer", "ref": "odod-psalm-121" },
+            { "type": "prayer", "ref": "odod-psalm-130" },
+            { "type": "prayer", "ref": "odod-psalm-138" },
+            { "type": "divider" },
+            { "type": "subheading", "text": { "en-US": "First Lesson" } },
+            { "type": "lectio", "reference": "job 19:21-27" },
+            { "type": "divider" },
+            { "type": "prayer", "ref": "odod-versicles-reading" },
+            { "type": "divider" },
+            { "type": "subheading", "text": { "en-US": "Magnificat" } },
+            { "type": "prayer", "ref": "odod-magnificat" },
+            { "type": "divider" },
+            { "type": "subheading", "text": { "en-US": "Second Lesson" } },
+            { "type": "lectio", "reference": "1thess 4:13-end" },
+            { "type": "divider" },
+            { "type": "subheading", "text": { "en-US": "Nunc Dimittis" } },
+            { "type": "prayer", "ref": "odod-nunc-dimittis" },
+            { "type": "divider" },
+            { "type": "subheading", "text": { "en-US": "The Lord's Prayer" } },
+            { "type": "prayer", "ref": "our-father-bcp" },
+            { "type": "divider" },
+            {
+              "type": "rubric",
+              "text": { "en-US": "This Psalm is then said, except on the day of death or burial." }
+            },
+            { "type": "prayer", "ref": "odod-lauda-anima-mea" },
+            { "type": "divider" },
+            { "type": "prayer", "ref": "odod-versicles-closing" },
+            { "type": "divider" },
+            { "type": "subheading", "text": { "en-US": "Collect" } },
+            { "type": "prayer", "ref": "odod-collect" },
+            { "type": "divider" },
+            { "type": "prayer", "ref": "odod-dismissal" }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": { "en-US": "Versicle" },
+  "body": [
+    {
+      "type": "versicle",
+      "inline": {
+        "en-US": "℣ I heard a voice from heaven saying unto me.\n℟ Blessed are the dead which die in the Lord."
+      }
+    }
+  ]
+}

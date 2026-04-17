@@ -746,6 +746,8 @@ export default {
     'divine-mercy': 'Terço da Misericórdia',
     'divine-mercy-novena': 'Novena da Divina Misericórdia',
     'divine-office': 'Ofício Divino',
+    dwdo: 'Daily Office (DWDO)',
+    odod: 'Office of the Dead',
     'examination-by-beatitudes': 'As Bem-aventuranças',
     'examination-by-commandments': 'Dez Mandamentos',
     'examination-of-conscience': 'Exame de Consciência',

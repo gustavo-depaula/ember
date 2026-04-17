@@ -1,0 +1,17 @@
+{
+  "title": { "en-US": "Lauda, anima mea (Psalm 146)" },
+  "body": [
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Praise the Lord, O my soul; while I live will I praise the Lord:\nyea, as long as I have any being, I will sing praises unto my God.\nO put not your trust in princes, nor in any child of man:\nfor there is no help in them.\nFor when the breath of man goeth forth he shall turn again to his earth:\nand then all his thoughts perish.\nBlessed is he that hath the God of Jacob for his help:\nand whose hope is in the Lord his God;\nWho made heaven and earth, the sea, and all that therein is:\nwho keepeth his promise for ever;\nWho helpeth them to right that suffer wrong:\nwho feedeth the hungry.\nThe Lord looseth men out of prison:\nthe Lord giveth sight to the blind.\nThe Lord helpeth them that are fallen:\nthe Lord careth for the righteous.\nThe Lord careth for the strangers, he defendeth the fatherless and widow:\nas for the way of the ungodly, he turneth it upside down.\nThe Lord thy God, O Sion, shall be King for evermore:\nand throughout all generations."
+      }
+    },
+    {
+      "type": "versicle",
+      "inline": {
+        "en-US": "Rest eternal grant unto them, O Lord:\nAnd let light perpetual shine upon them."
+      }
+    }
+  ]
+}

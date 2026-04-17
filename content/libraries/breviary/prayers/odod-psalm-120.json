@@ -1,0 +1,23 @@
+{
+  "title": { "en-US": "Psalm 120" },
+  "body": [
+    {
+      "type": "versicle",
+      "inline": {
+        "en-US": "Ant. Woe is me, O Lord, * that I am constrained to dwell with Mesech."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "When I was in trouble I called upon the Lord:\nand he heard me.\nDeliver my soul, O Lord, from lying lips:\nand from a deceitful tongue.\nWhat reward shall be given or done unto thee, thou false tongue:\neven mighty and sharp arrows, with hot burning coals.\nWoe is me, that I am constrained to dwell with Mesech:\nand to have my habitation among the tents of Kedar.\nMy soul hath long dwelt among them:\nthat are enemies unto peace.\nI labour for peace, but when I speak unto them thereof:\nthey make them ready to battle."
+      }
+    },
+    {
+      "type": "versicle",
+      "inline": {
+        "en-US": "Rest eternal grant unto them, O Lord:\nAnd let light perpetual shine upon them.\n\nAnt. Woe is me, O Lord, * that I am constrained to dwell with Mesech."
+      }
+    }
+  ]
+}

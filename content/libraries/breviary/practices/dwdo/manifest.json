@@ -1,0 +1,40 @@
+{
+  "id": "dwdo",
+  "icon": "prayer",
+  "name": {
+    "en-US": "Daily Office (DWDO)"
+  },
+  "categories": ["liturgy"],
+  "estimatedMinutes": 20,
+  "description": {
+    "en-US": "The Divine Worship: Daily Office — the Anglican Ordinariate's breviary, drawing on the Coverdale Psalter, Cranmer's collects, and the 1961 Table of Lessons. Three hours: Mattins, Evensong, and Compline."
+  },
+  "history": {
+    "en-US": "The Daily Office of the Anglican patrimony descends from the medieval monastic hours as reformed by Archbishop Cranmer in the 1549 Book of Common Prayer. Cranmer condensed eight hours into two — Mattins and Evensong — making the Office accessible to clergy and laity alike. The Coverdale Psalter (1535) and the collects he composed remain among the finest examples of liturgical English prose. The 1961 Table of Lessons provides a comprehensive lectionary following the traditional liturgical calendar."
+  },
+  "howToPray": {
+    "en-US": "Pray Mattins in the morning, Evensong in the evening, and Compline before bed. Each office follows the BCP structure: opening versicles, psalmody from the 30-day cycle, Scripture lessons from the 1961 lectionary, canticles, creed, preces, and collects. The readings change daily according to the liturgical calendar."
+  },
+  "data": {
+    "psalter-30-day": "data/psalter-30-day.json",
+    "mp-first-lesson-map": "data/mp-first-lesson-map.json",
+    "mp-second-lesson-map": "data/mp-second-lesson-map.json",
+    "ep-first-lesson-map": "data/ep-first-lesson-map.json",
+    "ep-second-lesson-map": "data/ep-second-lesson-map.json"
+  },
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "theme": "office",
+  "flow": "flow.json",
+  "tags": ["office", "breviary", "ordinariate", "bcp", "anglican-patrimony"],
+  "defaults": {
+    "sortOrder": 18,
+    "slots": [
+      {
+        "schedule": { "type": "daily" },
+        "tier": "essential",
+        "enabled": false
+      }
+    ]
+  }
+}

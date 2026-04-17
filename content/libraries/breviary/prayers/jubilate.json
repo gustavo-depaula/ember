@@ -1,0 +1,11 @@
+{
+  "title": { "en-US": "Jubilate Deo" },
+  "body": [
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "O be joyful in the Lord, all ye lands:\nserve the Lord with gladness, and come before his presence with a song.\nBe ye sure that the Lord he is God:\nit is he that hath made us, and not we ourselves; we are his people, and the sheep of his pasture.\nO go your way into his gates with thanksgiving, and into his courts with praise:\nbe thankful unto him, and speak good of his Name.\nFor the Lord is gracious, his mercy is everlasting:\nand his truth endureth from generation to generation.\nGlory be to the Father, and to the Son, and to the Holy Ghost;\nAs it was in the beginning, is now, and ever shall be, world without end. Amen."
+      }
+    }
+  ]
+}

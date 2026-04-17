@@ -1,0 +1,23 @@
+{
+  "title": { "en-US": "Psalm 116" },
+  "body": [
+    {
+      "type": "versicle",
+      "inline": {
+        "en-US": "Ant. Lest he devour my soul * like a lion, and tear it in pieces, while there is none to help."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "I am well pleased:\nthat the Lord hath heard the voice of my prayer.\nThat he hath inclined his ear unto me:\ntherefore will I call upon him as long as I live.\nThe snares of death compassed me round about:\nand the pains of hell gat hold upon me.\nI shall find trouble and heaviness, and I will call upon the Name of the Lord:\nO Lord, I beseech thee, deliver my soul.\nGracious is the Lord, and righteous:\nyea, our God is merciful.\nThe Lord preserveth the simple:\nI was in misery, and he helped me.\nTurn again then unto thy rest, O my soul:\nfor the Lord hath rewarded thee.\nAnd why? thou hast delivered my soul from death:\nmine eyes from tears, and my feet from falling.\nI will walk before the Lord:\nin the land of the living.\nI believed, and therefore will I speak; but I was sore troubled:\nI said in my haste, All men are liars.\nWhat reward shall I give unto the Lord:\nfor all the benefits that he hath done unto me?\nI will receive the cup of salvation:\nand call upon the Name of the Lord.\nI will pay my vows now in the presence of all his people:\nright dear in the sight of the Lord is the death of his saints.\nBehold, O Lord, how that I am thy servant:\nI am thy servant, and the son of thine handmaid; thou hast broken my bonds in sunder.\nI will offer to thee the sacrifice of thanksgiving:\nand will call upon the Name of the Lord.\nI will pay my vows unto the Lord, in the sight of all his people:\nin the courts of the Lord's house, even in the midst of thee, O Jerusalem. Praise the Lord."
+      }
+    },
+    {
+      "type": "versicle",
+      "inline": {
+        "en-US": "Rest eternal grant unto them, O Lord:\nAnd let light perpetual shine upon them.\n\nAnt. Lest he devour my soul * like a lion, and tear it in pieces, while there is none to help."
+      }
+    }
+  ]
+}

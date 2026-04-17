@@ -1,0 +1,17 @@
+{
+  "title": { "en-US": "Nunc Dimittis" },
+  "body": [
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Lord, ✠ now lettest thou thy servant depart in peace:\naccording to thy word.\nFor mine eyes have seen thy salvation,\nWhich thou hast prepared before the face of all people;\nTo be a light to lighten the Gentiles:\nand to be the glory of thy people Israel."
+      }
+    },
+    {
+      "type": "versicle",
+      "inline": {
+        "en-US": "Rest eternal grant unto them, O Lord:\nAnd let light perpetual shine upon them."
+      }
+    }
+  ]
+}

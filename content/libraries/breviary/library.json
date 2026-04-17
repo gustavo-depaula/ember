@@ -1,0 +1,61 @@
+{
+  "id": "breviary",
+  "version": "1.1.0",
+  "name": {
+    "en-US": "Breviary"
+  },
+  "description": {
+    "en-US": "The Divine Office in the Anglican patrimony tradition — drawing on the Coverdale Psalter, Cranmer's collects, and the Book of Common Prayer."
+  },
+  "languages": ["en-US"],
+  "tags": ["office", "breviary", "ordinariate", "bcp", "anglican-patrimony"],
+  "practices": ["dwdo", "odod"],
+  "prayers": [
+    "opening-verse-dwdo",
+    "venite",
+    "te-deum",
+    "jubilate",
+    "benedictus-bcp",
+    "magnificat-bcp",
+    "nunc-dimittis-bcp",
+    "apostles-creed-bcp",
+    "our-father-bcp",
+    "te-lucis-ante-terminum",
+    "confession-compline",
+    "preces-morning",
+    "preces-evening",
+    "collect-peace-morning",
+    "collect-grace",
+    "collect-peace-evening",
+    "collect-aid-against-perils",
+    "odod-venite",
+    "odod-psalm-5",
+    "odod-psalm-6",
+    "odod-psalm-7",
+    "odod-song-hezekiah",
+    "odod-benedictus",
+    "odod-magnificat",
+    "odod-nunc-dimittis",
+    "odod-de-profundis",
+    "odod-lauda-anima-mea",
+    "odod-psalm-116",
+    "odod-psalm-120",
+    "odod-psalm-121",
+    "odod-psalm-130",
+    "odod-psalm-138",
+    "odod-versicles-reading",
+    "odod-versicles-closing",
+    "odod-collect",
+    "odod-dismissal"
+  ],
+  "contents": [
+    {
+      "type": "practice",
+      "id": "dwdo"
+    },
+    {
+      "type": "practice",
+      "id": "odod"
+    }
+  ]
+}

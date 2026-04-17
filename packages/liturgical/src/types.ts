@@ -6,5 +6,6 @@ export type ReadingReference =
       chapter: number
       startVerse?: number
       endVerse?: number
+      toEnd?: boolean
     }
   | { type: 'catechism'; startParagraph: number; count: number }

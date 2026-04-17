@@ -1,0 +1,1324 @@
+{
+  "temporal": {
+    "advent/1/0": {
+      "primary": "isa 2:10-end"
+    },
+    "advent/1/1": {
+      "primary": "isa 4:2-end"
+    },
+    "advent/1/2": {
+      "primary": "isa 5:18-end"
+    },
+    "advent/1/3": {
+      "primary": "isa 8:16-end;isa 9:1-7"
+    },
+    "advent/1/4": {
+      "primary": "isa 10:5-23"
+    },
+    "advent/1/5": {
+      "primary": "isa 11:10-end;isa 12"
+    },
+    "advent/1/6": {
+      "primary": "isa 14:3-27"
+    },
+    "advent/2/0": {
+      "primary": "isa 5:18-end"
+    },
+    "advent/2/1": {
+      "primary": "isa 18"
+    },
+    "advent/2/2": {
+      "primary": "isa 19:18-end"
+    },
+    "advent/2/3": {
+      "primary": "isa 22:1-14"
+    },
+    "advent/2/4": {
+      "primary": "isa 28:1-13"
+    },
+    "advent/2/5": {
+      "primary": "isa 29:1-14"
+    },
+    "advent/2/6": {
+      "primary": "isa 30:1-18"
+    },
+    "advent/3/0": {
+      "primary": "isa 26:1-13"
+    },
+    "advent/3/1": {
+      "primary": "isa 31"
+    },
+    "advent/3/2": {
+      "primary": "isa 40:1-11"
+    },
+    "advent/3/3": {
+      "primary": "isa 41"
+    },
+    "advent/3/4": {
+      "primary": "isa 42:18-end;isa 43:1-13"
+    },
+    "advent/3/5": {
+      "primary": "isa 44:6-23"
+    },
+    "advent/3/6": {
+      "primary": "isa 45:14-end"
+    },
+    "advent/4/0": {
+      "primary": "isa 40:1-11"
+    },
+    "advent/4/1": {
+      "primary": "isa 47"
+    },
+    "advent/4/2": {
+      "primary": "isa 50:4-10"
+    },
+    "advent/4/3": {
+      "primary": "isa 51:17-end;isa 52:1-12"
+    },
+    "advent/4/4": {
+      "primary": "isa 54"
+    },
+    "advent/4/5": {
+      "primary": "isa 57:15-end"
+    },
+    "christmas/1/0": {
+      "primary": "isa 7:10-14"
+    },
+    "fixed/12-26": {
+      "primary": "2chr 24:15-22"
+    },
+    "fixed/12-27": {
+      "primary": "isa 6:1-8"
+    },
+    "fixed/12-28": {
+      "primary": "bar 4:21-27"
+    },
+    "fixed/12-29": {
+      "primary": "isa 60:1-12"
+    },
+    "fixed/12-30": {
+      "primary": "isa 61"
+    },
+    "fixed/12-31": {
+      "primary": "deut 10:12-end;deut 11:1-1"
+    },
+    "fixed/01-01": {
+      "primary": "deut 30"
+    },
+    "fixed/01-02": {
+      "primary": "isa 63:7-end"
+    },
+    "fixed/01-03": {
+      "primary": "isa 65:1-16"
+    },
+    "fixed/01-04": {
+      "primary": "isa 66:1-9"
+    },
+    "fixed/01-05": {
+      "primary": "isa 60:1-7"
+    },
+    "fixed/01-06": {
+      "primary": "isa 60:9-end"
+    },
+    "epiphany/0/1": {
+      "primary": "hos 4:1-11"
+    },
+    "epiphany/0/2": {
+      "primary": "hos 8"
+    },
+    "epiphany/0/3": {
+      "primary": "hos 10"
+    },
+    "epiphany/0/4": {
+      "primary": "hos 12"
+    },
+    "epiphany/0/5": {
+      "primary": "hos 14"
+    },
+    "epiphany/0/6": {
+      "primary": "joel 2:1-14"
+    },
+    "epiphany/1/0": {
+      "primary": "isa 61"
+    },
+    "epiphany/1/1": {
+      "primary": "joel 3"
+    },
+    "epiphany/1/2": {
+      "primary": "amos 2"
+    },
+    "epiphany/1/3": {
+      "primary": "amos 4"
+    },
+    "epiphany/1/4": {
+      "primary": "amos 6"
+    },
+    "epiphany/1/5": {
+      "primary": "amos 8"
+    },
+    "epiphany/1/6": {
+      "primary": "obad 1"
+    },
+    "epiphany/2/0": {
+      "primary": "isa 44:6-23"
+    },
+    "epiphany/2/1": {
+      "primary": "jonah 3;jonah 4"
+    },
+    "epiphany/2/2": {
+      "primary": "mic 2"
+    },
+    "epiphany/2/3": {
+      "primary": "mic 4:1-end;mic 5:1-1"
+    },
+    "epiphany/2/4": {
+      "primary": "mic 6"
+    },
+    "epiphany/2/5": {
+      "primary": "nah 1"
+    },
+    "epiphany/2/6": {
+      "primary": "nah 3"
+    },
+    "epiphany/3/0": {
+      "primary": "isa 46:3-end"
+    },
+    "epiphany/3/1": {
+      "primary": "hab 2"
+    },
+    "epiphany/3/2": {
+      "primary": "zeph 1"
+    },
+    "epiphany/3/3": {
+      "primary": "zeph 3"
+    },
+    "epiphany/3/4": {
+      "primary": "zech 13"
+    },
+    "epiphany/3/5": {
+      "primary": "mal 2:1-16"
+    },
+    "epiphany/3/6": {
+      "primary": "mal 3:13-end;mal 4"
+    },
+    "epiphany/4/0": {
+      "primary": "isa 54:1-14"
+    },
+    "epiphany/4/1": {
+      "primary": "jer 2:1-13"
+    },
+    "epiphany/4/2": {
+      "primary": "jer 5:1-19"
+    },
+    "epiphany/4/3": {
+      "primary": "jer 6:1-21"
+    },
+    "epiphany/4/4": {
+      "primary": "jer 8"
+    },
+    "epiphany/4/5": {
+      "primary": "jer 10"
+    },
+    "epiphany/4/6": {
+      "primary": "jer 15"
+    },
+    "epiphany/5/0": {
+      "primary": "isa 60"
+    },
+    "epiphany/5/1": {
+      "primary": "jer 17:19-end"
+    },
+    "epiphany/5/2": {
+      "primary": "jer 20"
+    },
+    "epiphany/5/3": {
+      "primary": "jer 30:1-22"
+    },
+    "epiphany/5/4": {
+      "primary": "jer 31:23-end"
+    },
+    "epiphany/5/5": {
+      "primary": "jer 33:14-end"
+    },
+    "epiphany/5/6": {
+      "primary": "jer 35:12-end"
+    },
+    "epiphany/6/0": {
+      "primary": "isa 64"
+    },
+    "epiphany/6/1": {
+      "primary": "tob 13"
+    },
+    "epiphany/6/2": {
+      "primary": "bar 2:11-end"
+    },
+    "epiphany/6/3": {
+      "primary": "bar 3:9-end"
+    },
+    "epiphany/6/4": {
+      "primary": "bar 4:36-end;bar 5"
+    },
+    "epiphany/6/5": {
+      "primary": "2mac 6:12-end"
+    },
+    "epiphany/6/6": {
+      "primary": "2mac 7:20-41"
+    },
+    "septuagesima/1/0": {
+      "primary": "gen 2:4-end"
+    },
+    "septuagesima/1/1": {
+      "primary": "gen 4:1-16"
+    },
+    "septuagesima/1/2": {
+      "primary": "gen 7"
+    },
+    "septuagesima/1/3": {
+      "primary": "gen 8:15-end;gen 9:1-17"
+    },
+    "septuagesima/1/4": {
+      "primary": "gen 11:27-end;gen 12:1-10"
+    },
+    "septuagesima/1/5": {
+      "primary": "gen 14"
+    },
+    "septuagesima/1/6": {
+      "primary": "gen 16"
+    },
+    "septuagesima/2/0": {
+      "primary": "gen 4:1-16"
+    },
+    "septuagesima/2/1": {
+      "primary": "gen 18"
+    },
+    "septuagesima/2/2": {
+      "primary": "gen 21"
+    },
+    "septuagesima/2/3": {
+      "primary": "gen 23"
+    },
+    "septuagesima/2/4": {
+      "primary": "gen 24:29-end"
+    },
+    "septuagesima/2/5": {
+      "primary": "gen 27:1-40"
+    },
+    "septuagesima/2/6": {
+      "primary": "gen 29:1-20"
+    },
+    "septuagesima/3/0": {
+      "primary": "gen 6:5-end"
+    },
+    "septuagesima/3/1": {
+      "primary": "gen 31:22-end;gen 32:1-2"
+    },
+    "septuagesima/3/2": {
+      "primary": "gen 33"
+    },
+    "septuagesima/3/3": {
+      "primary": "dan 9:3-19"
+    },
+    "septuagesima/3/4": {
+      "primary": "gen 37"
+    },
+    "septuagesima/3/5": {
+      "primary": "gen 40"
+    },
+    "septuagesima/3/6": {
+      "primary": "gen 41:41-end"
+    },
+    "lent/1/0": {
+      "primary": "gen 8:15-end;gen 9:1-17"
+    },
+    "lent/1/1": {
+      "primary": "gen 43"
+    },
+    "lent/1/2": {
+      "primary": "gen 45:1-15"
+    },
+    "lent/1/3": {
+      "primary": "gen 46:26-end;gen 47:1-12"
+    },
+    "lent/1/4": {
+      "primary": "gen 48"
+    },
+    "lent/1/5": {
+      "primary": "gen 49:33-end;gen 50"
+    },
+    "lent/1/6": {
+      "primary": "ex 2:11-22"
+    },
+    "lent/2/0": {
+      "primary": "gen 11:1-9"
+    },
+    "lent/2/1": {
+      "primary": "ex 4:1-23"
+    },
+    "lent/2/2": {
+      "primary": "ex 6:2-13;ex 7:1-7"
+    },
+    "lent/2/3": {
+      "primary": "ex 8:1-19"
+    },
+    "lent/2/4": {
+      "primary": "ex 9:13-end"
+    },
+    "lent/2/5": {
+      "primary": "ex 10:21-end;ex 11"
+    },
+    "lent/2/6": {
+      "primary": "ex 12:21-36"
+    },
+    "lent/3/0": {
+      "primary": "gen 24:1-28"
+    },
+    "lent/3/1": {
+      "primary": "ex 13:1-16"
+    },
+    "lent/3/2": {
+      "primary": "ex 14:15-end"
+    },
+    "lent/3/3": {
+      "primary": "ex 15:27-end;ex 16:1-35"
+    },
+    "lent/3/4": {
+      "primary": "ex 18"
+    },
+    "lent/3/5": {
+      "primary": "ex 20:1-21"
+    },
+    "lent/3/6": {
+      "primary": "ex 23:20-end"
+    },
+    "lent/4/0": {
+      "primary": "gen 24:29-end"
+    },
+    "lent/4/1": {
+      "primary": "ex 25:1-22"
+    },
+    "lent/4/2": {
+      "primary": "ex 29:38-end;ex 30:1-16"
+    },
+    "lent/4/3": {
+      "primary": "ex 33"
+    },
+    "lent/4/4": {
+      "primary": "ex 35:20-end;ex 36:1-7"
+    },
+    "lent/4/5": {
+      "primary": "lev 6:8-end"
+    },
+    "lent/4/6": {
+      "primary": "lev 25:1-24"
+    },
+    "lent/5/0": {
+      "primary": "ex 4:27-end;ex 5;ex 6:1-1"
+    },
+    "lent/5/1": {
+      "primary": "num 9:15-end;num 10:29-end"
+    },
+    "lent/5/2": {
+      "primary": "num 12"
+    },
+    "lent/5/3": {
+      "primary": "num 14:1-25"
+    },
+    "lent/5/4": {
+      "primary": "num 16:36-end;num 17"
+    },
+    "lent/5/5": {
+      "primary": "num 22:1-35"
+    },
+    "lent/5/6": {
+      "primary": "num 23:27-end;num 24"
+    },
+    "holy-week/1/0": {
+      "primary": "isa 52:13-end;isa 53"
+    },
+    "holy-week/1/1": {
+      "primary": "lam 2:8-19"
+    },
+    "holy-week/1/2": {
+      "primary": "lam 3:40-51"
+    },
+    "holy-week/1/3": {
+      "primary": "num 21:4-9"
+    },
+    "holy-week/1/4": {
+      "primary": "lev 16:2-24"
+    },
+    "holy-week/1/5": {
+      "primary": "isa 50:4-10"
+    },
+    "holy-week/1/6": {
+      "primary": "job 19:21-27"
+    },
+    "easter/1/0": {
+      "primary": "ex 14:5-end"
+    },
+    "easter/1/1": {
+      "primary": "isa 12"
+    },
+    "easter/1/2": {
+      "primary": "isa 26:1-19"
+    },
+    "easter/1/3": {
+      "primary": "song 2:8-end"
+    },
+    "easter/1/4": {
+      "primary": "dan 12"
+    },
+    "easter/1/5": {
+      "primary": "2kgs 4:8-37"
+    },
+    "easter/1/6": {
+      "primary": "mic 7:7-end"
+    },
+    "easter/2/0": {
+      "primary": "ex 15:1-18"
+    },
+    "easter/2/1": {
+      "primary": "deut 1:19-end"
+    },
+    "easter/2/2": {
+      "primary": "deut 2:26-end;deut 3:1-5"
+    },
+    "easter/2/3": {
+      "primary": "deut 4:1-24"
+    },
+    "easter/2/4": {
+      "primary": "deut 5:1-21"
+    },
+    "easter/2/5": {
+      "primary": "deut 6"
+    },
+    "easter/2/6": {
+      "primary": "deut 7:12-end"
+    },
+    "easter/3/0": {
+      "primary": "ex 24"
+    },
+    "easter/3/1": {
+      "primary": "deut 9:1-10"
+    },
+    "easter/3/2": {
+      "primary": "deut 10"
+    },
+    "easter/3/3": {
+      "primary": "deut 11:13-end"
+    },
+    "easter/3/4": {
+      "primary": "deut 15:1-18"
+    },
+    "easter/3/5": {
+      "primary": "deut 17:8-end"
+    },
+    "easter/3/6": {
+      "primary": "deut 19"
+    },
+    "easter/4/0": {
+      "primary": "ex 33:7-end"
+    },
+    "easter/4/1": {
+      "primary": "deut 24:5-end"
+    },
+    "easter/4/2": {
+      "primary": "deut 28:58-end"
+    },
+    "easter/4/3": {
+      "primary": "deut 30"
+    },
+    "easter/4/4": {
+      "primary": "deut 31:14-29"
+    },
+    "easter/4/5": {
+      "primary": "deut 32:15-47"
+    },
+    "easter/4/6": {
+      "primary": "deut 32:48-end;deut 34"
+    },
+    "easter/5/0": {
+      "primary": "ex 35:30-end;ex 36:1-1"
+    },
+    "easter/5/1": {
+      "primary": "josh 2"
+    },
+    "easter/5/2": {
+      "primary": "josh 4:1-end;josh 5:1-1"
+    },
+    "easter/5/3": {
+      "primary": "josh 7"
+    },
+    "easter/5/4": {
+      "primary": "josh 10:1-15"
+    },
+    "easter/5/5": {
+      "primary": "josh 22:9-end"
+    },
+    "easter/5/6": {
+      "primary": "josh 24:1-28"
+    },
+    "easter/6/0": {
+      "primary": "deut 6"
+    },
+    "easter/6/1": {
+      "primary": "deut 8"
+    },
+    "easter/6/2": {
+      "primary": "1kgs 8:22-43"
+    },
+    "easter/6/4": {
+      "primary": "dan 7:9-10;dan 7:13-14"
+    },
+    "easter/6/5": {
+      "primary": "judg 4"
+    },
+    "easter/6/6": {
+      "primary": "judg 6:1-24"
+    },
+    "easter/7/0": {
+      "primary": "jer 31:1-13"
+    },
+    "easter/7/1": {
+      "primary": "judg 7"
+    },
+    "easter/7/2": {
+      "primary": "judg 11:29-end;judg 12:1-7"
+    },
+    "easter/7/3": {
+      "primary": "judg 14"
+    },
+    "easter/7/4": {
+      "primary": "ruth 1"
+    },
+    "easter/7/5": {
+      "primary": "ruth 3"
+    },
+    "easter/7/6": {
+      "primary": "deut 16:9-12"
+    },
+    "easter/8/0": {
+      "primary": "isa 11:1-9"
+    },
+    "easter/8/1": {
+      "primary": "wis 1:1-7"
+    },
+    "easter/8/2": {
+      "primary": "wis 7:15-end;wis 8:1-1"
+    },
+    "easter/8/3": {
+      "primary": "wis 9"
+    },
+    "easter/8/4": {
+      "primary": "ex 35:30-end;ex 36:1-1"
+    },
+    "easter/8/5": {
+      "primary": "jer 31:31-34"
+    },
+    "easter/8/6": {
+      "primary": "isa 61"
+    },
+    "post-pentecost/1/0": {
+      "primary": "isa 40:12-end"
+    },
+    "post-pentecost/1/1": {
+      "primary": "1sam 2:1-21"
+    },
+    "post-pentecost/1/2": {
+      "primary": "1sam 3"
+    },
+    "post-pentecost/1/3": {
+      "primary": "1sam 7"
+    },
+    "post-pentecost/1/4": {
+      "primary": "1sam 9:1-25"
+    },
+    "post-pentecost/1/5": {
+      "primary": "1sam 10:17-end"
+    },
+    "post-pentecost/1/6": {
+      "primary": "1sam 12"
+    },
+    "post-pentecost/2/0": {
+      "primary": "hos 6:1-6"
+    },
+    "post-pentecost/2/1": {
+      "primary": "1sam 14:1-23"
+    },
+    "post-pentecost/2/2": {
+      "primary": "1sam 15"
+    },
+    "post-pentecost/2/3": {
+      "primary": "1sam 17:1-30"
+    },
+    "post-pentecost/2/4": {
+      "primary": "1sam 17:55-end;1sam 18:1-16"
+    },
+    "post-pentecost/2/5": {
+      "primary": "1sam 20:1-17"
+    },
+    "post-pentecost/2/6": {
+      "primary": "1sam 21:1-end;1sam 22:1-5"
+    },
+    "post-pentecost/3/0": {
+      "primary": "hos 11:1-9a"
+    },
+    "post-pentecost/3/1": {
+      "primary": "1sam 23"
+    },
+    "post-pentecost/3/2": {
+      "primary": "1sam 25:2-42"
+    },
+    "post-pentecost/3/3": {
+      "primary": "1sam 28:3-end"
+    },
+    "post-pentecost/3/4": {
+      "primary": "2sam 1"
+    },
+    "post-pentecost/3/5": {
+      "primary": "2sam 3:17-end"
+    },
+    "post-pentecost/3/6": {
+      "primary": "2sam 6"
+    },
+    "post-pentecost/4/0": {
+      "primary": "hos 14"
+    },
+    "post-pentecost/4/1": {
+      "primary": "2sam 9"
+    },
+    "post-pentecost/4/2": {
+      "primary": "2sam 12:1-23"
+    },
+    "post-pentecost/4/3": {
+      "primary": "2sam 14:25-end;2sam 15:1-12"
+    },
+    "post-pentecost/4/4": {
+      "primary": "2sam 16:1-19"
+    },
+    "post-pentecost/4/5": {
+      "primary": "2sam 17:24-end;2sam 18:1-18"
+    },
+    "post-pentecost/4/6": {
+      "primary": "2sam 19:1-23"
+    },
+    "post-pentecost/5/0": {
+      "primary": "joel 2:1-14"
+    },
+    "post-pentecost/5/1": {
+      "primary": "2sam 23:1-17"
+    },
+    "post-pentecost/5/2": {
+      "primary": "1kgs 1:5-31"
+    },
+    "post-pentecost/5/3": {
+      "primary": "1chr 22:2-end"
+    },
+    "post-pentecost/5/4": {
+      "primary": "1chr 28:20-end;1chr 29:1-9"
+    },
+    "post-pentecost/5/5": {
+      "primary": "1kgs 3"
+    },
+    "post-pentecost/5/6": {
+      "primary": "1kgs 5"
+    },
+    "post-pentecost/6/0": {
+      "primary": "joel 2:15-27"
+    },
+    "post-pentecost/6/1": {
+      "primary": "1kgs 8:1-21"
+    },
+    "post-pentecost/6/2": {
+      "primary": "1kgs 8:54-end;1kgs 9:1-9"
+    },
+    "post-pentecost/6/3": {
+      "primary": "1kgs 11:1-13"
+    },
+    "post-pentecost/6/4": {
+      "primary": "1kgs 12:1-24"
+    },
+    "post-pentecost/6/5": {
+      "primary": "1kgs 13:11-end"
+    },
+    "post-pentecost/6/6": {
+      "primary": "2chr 12"
+    },
+    "post-pentecost/7/0": {
+      "primary": "zech 2"
+    },
+    "post-pentecost/7/1": {
+      "primary": "2chr 14"
+    },
+    "post-pentecost/7/2": {
+      "primary": "2chr 16"
+    },
+    "post-pentecost/7/3": {
+      "primary": "1kgs 17"
+    },
+    "post-pentecost/7/4": {
+      "primary": "1kgs 18:17-end"
+    },
+    "post-pentecost/7/5": {
+      "primary": "1kgs 21"
+    },
+    "post-pentecost/7/6": {
+      "primary": "2chr 20:1-30"
+    },
+    "post-pentecost/8/0": {
+      "primary": "zech 8:1-17"
+    },
+    "post-pentecost/8/1": {
+      "primary": "2kgs 2:1-22"
+    },
+    "post-pentecost/8/2": {
+      "primary": "2kgs 5"
+    },
+    "post-pentecost/8/3": {
+      "primary": "2kgs 6:24-end;2kgs 7:1-2"
+    },
+    "post-pentecost/8/4": {
+      "primary": "2kgs 8:1-15"
+    },
+    "post-pentecost/8/5": {
+      "primary": "2kgs 11:1-20"
+    },
+    "post-pentecost/8/6": {
+      "primary": "2kgs 13"
+    },
+    "post-pentecost/9/0": {
+      "primary": "jonah 1;jonah 2"
+    },
+    "post-pentecost/9/1": {
+      "primary": "2chr 26"
+    },
+    "post-pentecost/9/2": {
+      "primary": "2kgs 16"
+    },
+    "post-pentecost/9/3": {
+      "primary": "isa 8:1-18"
+    },
+    "post-pentecost/9/4": {
+      "primary": "2kgs 17:24-end"
+    },
+    "post-pentecost/9/5": {
+      "primary": "2chr 30"
+    },
+    "post-pentecost/9/6": {
+      "primary": "2kgs 19"
+    },
+    "post-pentecost/10/0": {
+      "primary": "jonah 3;jonah 4"
+    },
+    "post-pentecost/10/1": {
+      "primary": "2chr 33"
+    },
+    "post-pentecost/10/2": {
+      "primary": "2kgs 23:1-20"
+    },
+    "post-pentecost/10/3": {
+      "primary": "2kgs 23:36-end;2kgs 24:1-17"
+    },
+    "post-pentecost/10/4": {
+      "primary": "2kgs 25:8-end"
+    },
+    "post-pentecost/10/5": {
+      "primary": "jer 21:1-10"
+    },
+    "post-pentecost/10/6": {
+      "primary": "jer 24"
+    },
+    "post-pentecost/11/0": {
+      "primary": "prov 1:20-end"
+    },
+    "post-pentecost/11/1": {
+      "primary": "jer 27:2-end"
+    },
+    "post-pentecost/11/2": {
+      "primary": "jer 29:1-20"
+    },
+    "post-pentecost/11/3": {
+      "primary": "jer 32:26-end"
+    },
+    "post-pentecost/11/4": {
+      "primary": "jer 34:8-end"
+    },
+    "post-pentecost/11/5": {
+      "primary": "jer 38:1-13"
+    },
+    "post-pentecost/11/6": {
+      "primary": "jer 39"
+    },
+    "post-pentecost/12/0": {
+      "primary": "prov 8:1-17"
+    },
+    "post-pentecost/12/1": {
+      "primary": "jer 41"
+    },
+    "post-pentecost/12/2": {
+      "primary": "jer 43"
+    },
+    "post-pentecost/12/3": {
+      "primary": "jer 44:15-end"
+    },
+    "post-pentecost/12/4": {
+      "primary": "ezek 2:1-end;ezek 3:1-3"
+    },
+    "post-pentecost/12/5": {
+      "primary": "ezek 8"
+    },
+    "post-pentecost/12/6": {
+      "primary": "ezek 12:17-end"
+    },
+    "post-pentecost/13/0": {
+      "primary": "prov 8:22-end"
+    },
+    "post-pentecost/13/1": {
+      "primary": "ezek 14:1-11"
+    },
+    "post-pentecost/13/2": {
+      "primary": "ezek 20:1-20"
+    },
+    "post-pentecost/13/3": {
+      "primary": "ezek 33:21-end"
+    },
+    "post-pentecost/13/4": {
+      "primary": "ezek 34:17-end"
+    },
+    "post-pentecost/13/5": {
+      "primary": "ezek 37:1-14"
+    },
+    "post-pentecost/13/6": {
+      "primary": "ezek 47:1-12"
+    },
+    "post-pentecost/14/0": {
+      "primary": "prov 14:31-end;prov 15:1-17"
+    },
+    "post-pentecost/14/1": {
+      "primary": "ezra 3"
+    },
+    "post-pentecost/14/2": {
+      "primary": "hag 1:1-end;hag 2:1-9"
+    },
+    "post-pentecost/14/3": {
+      "primary": "zech 1:18-end;zech 2"
+    },
+    "post-pentecost/14/4": {
+      "primary": "zech 4"
+    },
+    "post-pentecost/14/5": {
+      "primary": "hag 2:10-end"
+    },
+    "post-pentecost/14/6": {
+      "primary": "ezra 6"
+    },
+    "post-pentecost/15/0": {
+      "primary": "prov 31:10-end"
+    },
+    "post-pentecost/15/1": {
+      "primary": "zech 8"
+    },
+    "post-pentecost/15/2": {
+      "primary": "ezra 8:15-end"
+    },
+    "post-pentecost/15/3": {
+      "primary": "ezra 10:1-19"
+    },
+    "post-pentecost/15/4": {
+      "primary": "neh 2"
+    },
+    "post-pentecost/15/5": {
+      "primary": "neh 5"
+    },
+    "post-pentecost/15/6": {
+      "primary": "neh 8"
+    },
+    "post-pentecost/16/0": {
+      "primary": "job 1"
+    },
+    "post-pentecost/16/1": {
+      "primary": "neh 9:24-end"
+    },
+    "post-pentecost/16/2": {
+      "primary": "dan 1"
+    },
+    "post-pentecost/16/3": {
+      "primary": "dan 2:25-end"
+    },
+    "post-pentecost/16/4": {
+      "primary": "dan 4:19-end"
+    },
+    "post-pentecost/16/5": {
+      "primary": "dan 9"
+    },
+    "post-pentecost/16/6": {
+      "primary": "dan 12"
+    },
+    "post-pentecost/17/0": {
+      "primary": "job 2"
+    },
+    "post-pentecost/17/1": {
+      "primary": "esth 2:5-11;esth 15-end"
+    },
+    "post-pentecost/17/2": {
+      "primary": "esth 4"
+    },
+    "post-pentecost/17/3": {
+      "primary": "esth 6;esth 7"
+    },
+    "post-pentecost/17/4": {
+      "primary": "1mac 1:20-40"
+    },
+    "post-pentecost/17/5": {
+      "primary": "1mac 2:1-28"
+    },
+    "post-pentecost/17/6": {
+      "primary": "1mac 2:49-end"
+    },
+    "post-pentecost/18/0": {
+      "primary": "job 4:1;job 5:6-end"
+    },
+    "post-pentecost/18/1": {
+      "primary": "1mac 3:27-41"
+    },
+    "post-pentecost/18/2": {
+      "primary": "1mac 4:1-25"
+    },
+    "post-pentecost/18/3": {
+      "primary": "1mac 4:36-end"
+    },
+    "post-pentecost/18/4": {
+      "primary": "1mac 6:18-47"
+    },
+    "post-pentecost/18/5": {
+      "primary": "1mac 7:21-end"
+    },
+    "post-pentecost/18/6": {
+      "primary": "1mac 13:41-end;1mac 14:4-15"
+    },
+    "post-pentecost/19/0": {
+      "primary": "job 19:1-27a"
+    },
+    "post-pentecost/19/1": {
+      "primary": "job 2"
+    },
+    "post-pentecost/19/2": {
+      "primary": "job 4"
+    },
+    "post-pentecost/19/3": {
+      "primary": "job 6"
+    },
+    "post-pentecost/19/4": {
+      "primary": "job 8"
+    },
+    "post-pentecost/19/5": {
+      "primary": "job 10"
+    },
+    "post-pentecost/19/6": {
+      "primary": "job 12"
+    },
+    "post-pentecost/20/0": {
+      "primary": "job 28"
+    },
+    "post-pentecost/20/1": {
+      "primary": "job 14"
+    },
+    "post-pentecost/20/2": {
+      "primary": "job 16:1-end;job 17:1-2"
+    },
+    "post-pentecost/20/3": {
+      "primary": "job 18"
+    },
+    "post-pentecost/20/4": {
+      "primary": "job 21"
+    },
+    "post-pentecost/20/5": {
+      "primary": "job 23"
+    },
+    "post-pentecost/20/6": {
+      "primary": "job 25;job 26"
+    },
+    "post-pentecost/21/0": {
+      "primary": "job 38;job 42:1-6"
+    },
+    "post-pentecost/21/1": {
+      "primary": "job 28"
+    },
+    "post-pentecost/21/2": {
+      "primary": "job 31:13-end"
+    },
+    "post-pentecost/21/3": {
+      "primary": "job 33"
+    },
+    "post-pentecost/21/4": {
+      "primary": "job 38:22-end"
+    },
+    "post-pentecost/21/5": {
+      "primary": "job 40"
+    },
+    "post-pentecost/21/6": {
+      "primary": "job 42"
+    },
+    "post-pentecost/22/0": {
+      "primary": "bar 3:1-14"
+    },
+    "post-pentecost/22/1": {
+      "primary": "prov 1:20-end"
+    },
+    "post-pentecost/22/2": {
+      "primary": "prov 3:1-26"
+    },
+    "post-pentecost/22/3": {
+      "primary": "prov 4:20-end;prov 5:1-14"
+    },
+    "post-pentecost/22/4": {
+      "primary": "prov 8"
+    },
+    "post-pentecost/22/5": {
+      "primary": "prov 10:1-22"
+    },
+    "post-pentecost/22/6": {
+      "primary": "prov 12:10-end"
+    },
+    "post-pentecost/23/0": {
+      "primary": "bar 4:36-end;bar 5"
+    },
+    "post-pentecost/23/1": {
+      "primary": "prov 15:18-end"
+    },
+    "post-pentecost/23/2": {
+      "primary": "prov 18:10-end"
+    },
+    "post-pentecost/23/3": {
+      "primary": "prov 22:1-16"
+    },
+    "post-pentecost/23/4": {
+      "primary": "prov 25"
+    },
+    "post-pentecost/23/5": {
+      "primary": "prov 27:1-22"
+    },
+    "post-pentecost/23/6": {
+      "primary": "prov 31:10-end"
+    },
+    "post-pentecost/24/1": {
+      "primary": "sir 1:11-end"
+    },
+    "post-pentecost/24/2": {
+      "primary": "sir 3:17-29"
+    },
+    "post-pentecost/24/3": {
+      "primary": "sir 4:29-end;sir 5;sir 6:1-1"
+    },
+    "post-pentecost/24/4": {
+      "primary": "sir 7:27-end"
+    },
+    "post-pentecost/24/5": {
+      "primary": "sir 11:7-28"
+    },
+    "post-pentecost/24/6": {
+      "primary": "sir 15:11-end"
+    },
+    "epiphany-leftover/3/1": {
+      "primary": "sir 17:1-24"
+    },
+    "epiphany-leftover/3/2": {
+      "primary": "sir 19:13-end"
+    },
+    "epiphany-leftover/3/3": {
+      "primary": "sir 22:6-22"
+    },
+    "epiphany-leftover/3/4": {
+      "primary": "sir 24:1-22"
+    },
+    "epiphany-leftover/3/5": {
+      "primary": "sir 27:30-end;sir 28:1-9"
+    },
+    "epiphany-leftover/3/6": {
+      "primary": "sir 34:9-end"
+    },
+    "epiphany-leftover/4/0": {
+      "primary": "sir 18:1-13"
+    },
+    "epiphany-leftover/4/1": {
+      "primary": "sir 37:7-15"
+    },
+    "epiphany-leftover/4/2": {
+      "primary": "sir 38:24-end"
+    },
+    "epiphany-leftover/4/3": {
+      "primary": "sir 39:13-end"
+    },
+    "epiphany-leftover/4/4": {
+      "primary": "sir 43:1-12"
+    },
+    "epiphany-leftover/4/5": {
+      "primary": "sir 50:1-24"
+    },
+    "epiphany-leftover/4/6": {
+      "primary": "sir 51:13-end"
+    },
+    "epiphany-leftover/5/0": {
+      "primary": "sir 38:24-end"
+    },
+    "epiphany-leftover/5/1": {
+      "primary": "eccl 2:1-23"
+    },
+    "epiphany-leftover/5/2": {
+      "primary": "eccl 3:16-end;eccl 4:1-6"
+    },
+    "epiphany-leftover/5/3": {
+      "primary": "eccl 5"
+    },
+    "epiphany-leftover/5/4": {
+      "primary": "eccl 7:1-14"
+    },
+    "epiphany-leftover/5/5": {
+      "primary": "eccl 8"
+    },
+    "epiphany-leftover/5/6": {
+      "primary": "eccl 10:5-18"
+    },
+    "post-pentecost/25/0": {
+      "primary": "mal 3:1-6;mal 4"
+    },
+    "post-pentecost/25/1": {
+      "primary": "wis 2"
+    },
+    "post-pentecost/25/2": {
+      "primary": "wis 4:7-end"
+    },
+    "post-pentecost/25/3": {
+      "primary": "wis 6:1-21"
+    },
+    "post-pentecost/25/4": {
+      "primary": "wis 8:5-18"
+    },
+    "post-pentecost/25/5": {
+      "primary": "wis 10:15-end;wis 11:1-10"
+    },
+    "post-pentecost/25/6": {
+      "primary": "wis 12:21-21"
+    }
+  },
+  "fixedDates": {
+    "12-24": {
+      "primary": "zech 2:10-end"
+    }
+  },
+  "feasts": {
+    "11-30": {
+      "primary": "ezek 47:1-12"
+    },
+    "12-21": {
+      "primary": "sir 2"
+    },
+    "01-25": {
+      "primary": "sir 39:1-10"
+    },
+    "02-02": {
+      "primary": "hag 2:1-9"
+    },
+    "02-24": {
+      "primary": "1sam 16:1-13"
+    },
+    "03-25": {
+      "primary": "1sam 2:1-10"
+    },
+    "04-25": {
+      "primary": "isa 62:6-end"
+    },
+    "05-01": {
+      "primary": "job 23:1-12"
+    },
+    "06-11": {
+      "primary": "job 29:11-16"
+    },
+    "06-24": {
+      "primary": "mal 4"
+    },
+    "06-29": {
+      "primary": "ezek 34:11-16"
+    },
+    "07-22": {
+      "primary": "zeph 3:14-end"
+    },
+    "07-25": {
+      "primary": "jer 45"
+    },
+    "08-06": {
+      "primary": "sir 48:1-10"
+    },
+    "08-24": {
+      "primary": "isa 49:1-13"
+    },
+    "09-21": {
+      "primary": "1chr 29:9-18"
+    },
+    "09-29": {
+      "primary": "dan 12:1-4"
+    },
+    "10-18": {
+      "primary": "sir 38:1-14"
+    },
+    "10-28": {
+      "primary": "wis 5:1-16"
+    },
+    "11-01": {
+      "primary": "sir 44:1-15"
+    }
+  },
+  "novenas": {},
+  "reserves": [
+    "gen 1",
+    "gen 2",
+    "gen 3",
+    "gen 4",
+    "gen 5",
+    "gen 6",
+    "gen 7",
+    "gen 8",
+    "gen 9",
+    "gen 10",
+    "gen 11",
+    "gen 12",
+    "gen 13",
+    "gen 14",
+    "gen 15",
+    "gen 16",
+    "gen 17",
+    "gen 18",
+    "gen 19",
+    "gen 20",
+    "gen 21",
+    "gen 22",
+    "gen 23",
+    "gen 24",
+    "gen 25",
+    "gen 26",
+    "gen 27",
+    "gen 28",
+    "gen 29",
+    "gen 30",
+    "gen 31",
+    "gen 32",
+    "gen 33",
+    "gen 34",
+    "gen 35",
+    "gen 36",
+    "gen 37",
+    "gen 38",
+    "gen 39",
+    "gen 40",
+    "gen 41",
+    "gen 42",
+    "gen 43",
+    "gen 44",
+    "gen 45",
+    "gen 46",
+    "gen 47",
+    "gen 48",
+    "gen 49",
+    "gen 50"
+  ]
+}

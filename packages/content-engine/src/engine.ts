@@ -783,7 +783,12 @@ function runResolveStrategy(
   ec: EngineContext,
 ): { entries: RepeatEntry[]; templateVars?: Record<string, string> } {
   if (step.source && step.source !== 'liturgical') return { entries: [] }
-  if (step.dataType && step.dataType !== 'liturgical-meditation-map') return { entries: [] }
+  if (
+    step.dataType &&
+    step.dataType !== 'liturgical-meditation-map' &&
+    step.dataType !== 'liturgical-lectionary-map'
+  )
+    return { entries: [] }
   if (step.strategy !== 'liturgical-day') return { entries: [] }
 
   const map = context.cycleData?.[step.data]
@@ -829,12 +834,17 @@ function executeResolveSteps(
 
     const firstLabel = entries[0]?.label
     const strategyVars = strategyResult.templateVars ?? {}
-    const mergedVars = {
+    const mergedVars: Record<string, string> = {
       ...strategyVars,
       meditationTitle:
         typeof firstLabel === 'string'
           ? firstLabel
-          : (strategyVars.liturgicalLabel ?? ctx.templateVars?.meditationTitle),
+          : (strategyVars.liturgicalLabel ?? ctx.templateVars?.meditationTitle ?? ''),
+    }
+
+    const firstRef = entries[0]?.chapterId
+    if (typeof firstRef === 'string') {
+      mergedVars[`${step.as}Ref`] = firstRef
     }
 
     ctx = {

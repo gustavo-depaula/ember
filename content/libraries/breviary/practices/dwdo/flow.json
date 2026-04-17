@@ -1,0 +1,247 @@
+{
+  "flowVersion": "1",
+  "resolve": [
+    {
+      "data": "mp-first-lesson-map",
+      "source": "liturgical",
+      "dataType": "liturgical-lectionary-map",
+      "calendar": "ef",
+      "strategy": "liturgical-day",
+      "as": "mpOt"
+    },
+    {
+      "data": "mp-second-lesson-map",
+      "source": "liturgical",
+      "dataType": "liturgical-lectionary-map",
+      "calendar": "ef",
+      "strategy": "liturgical-day",
+      "as": "mpNt"
+    },
+    {
+      "data": "ep-first-lesson-map",
+      "source": "liturgical",
+      "dataType": "liturgical-lectionary-map",
+      "calendar": "ef",
+      "strategy": "liturgical-day",
+      "as": "epOt"
+    },
+    {
+      "data": "ep-second-lesson-map",
+      "source": "liturgical",
+      "dataType": "liturgical-lectionary-map",
+      "calendar": "ef",
+      "strategy": "liturgical-day",
+      "as": "epNt"
+    }
+  ],
+  "sections": [
+    {
+      "type": "rubric",
+      "text": { "en-US": "{{liturgicalLabel}}" }
+    },
+    {
+      "type": "select",
+      "on": "hour",
+      "label": { "en-US": "Hour" },
+      "map": {
+        "5-11": "morning",
+        "12-19": "evening",
+        "20-23": "compline",
+        "0-4": "compline"
+      },
+      "options": [
+        {
+          "id": "morning",
+          "label": { "en-US": "Mattins" },
+          "sections": [
+            {
+              "type": "select",
+              "as": "introduction",
+              "label": { "en-US": "Introduction" },
+              "default": "omit",
+              "options": [
+                {
+                  "id": "include",
+                  "label": { "en-US": "Include" },
+                  "sections": [
+                    { "type": "subheading", "text": { "en-US": "Introduction" } },
+                    { "type": "prayer", "ref": "opening-verse-dwdo" },
+                    { "type": "divider" }
+                  ]
+                },
+                {
+                  "id": "omit",
+                  "label": { "en-US": "Omit" },
+                  "sections": []
+                }
+              ]
+            },
+            { "type": "subheading", "text": { "en-US": "Invitatory" } },
+            { "type": "prayer", "ref": "venite" },
+            { "type": "divider" },
+            { "type": "subheading", "text": { "en-US": "Psalmody" } },
+            {
+              "type": "cycle",
+              "data": "psalter-30-day",
+              "key": "morning",
+              "as": "psalmody"
+            },
+            { "type": "divider" },
+            { "type": "subheading", "text": { "en-US": "First Lesson" } },
+            { "type": "lectio", "reference": "{{mpOtRef}}" },
+            { "type": "divider" },
+            { "type": "subheading", "text": { "en-US": "Te Deum" } },
+            { "type": "prayer", "ref": "te-deum" },
+            { "type": "divider" },
+            { "type": "subheading", "text": { "en-US": "Second Lesson" } },
+            { "type": "lectio", "reference": "{{mpNtRef}}" },
+            { "type": "divider" },
+            { "type": "subheading", "text": { "en-US": "Benedictus" } },
+            { "type": "prayer", "ref": "benedictus-bcp" },
+            { "type": "divider" },
+            { "type": "subheading", "text": { "en-US": "The Apostles' Creed" } },
+            { "type": "prayer", "ref": "apostles-creed-bcp" },
+            { "type": "divider" },
+            { "type": "subheading", "text": { "en-US": "The Lord's Prayer" } },
+            { "type": "prayer", "ref": "our-father-bcp" },
+            { "type": "divider" },
+            { "type": "subheading", "text": { "en-US": "Preces" } },
+            { "type": "prayer", "ref": "preces-morning" },
+            { "type": "divider" },
+            { "type": "subheading", "text": { "en-US": "The Collects" } },
+            { "type": "prayer", "ref": "collect-peace-morning" },
+            { "type": "prayer", "ref": "collect-grace" }
+          ]
+        },
+        {
+          "id": "evening",
+          "label": { "en-US": "Evensong" },
+          "sections": [
+            {
+              "type": "select",
+              "as": "introduction",
+              "label": { "en-US": "Introduction" },
+              "default": "omit",
+              "options": [
+                {
+                  "id": "include",
+                  "label": { "en-US": "Include" },
+                  "sections": [
+                    { "type": "subheading", "text": { "en-US": "Introduction" } },
+                    { "type": "prayer", "ref": "opening-verse-dwdo" },
+                    { "type": "divider" }
+                  ]
+                },
+                {
+                  "id": "omit",
+                  "label": { "en-US": "Omit" },
+                  "sections": []
+                }
+              ]
+            },
+            { "type": "subheading", "text": { "en-US": "Psalmody" } },
+            {
+              "type": "cycle",
+              "data": "psalter-30-day",
+              "key": "evening",
+              "as": "psalmody"
+            },
+            { "type": "divider" },
+            { "type": "subheading", "text": { "en-US": "First Lesson" } },
+            { "type": "lectio", "reference": "{{epOtRef}}" },
+            { "type": "divider" },
+            { "type": "subheading", "text": { "en-US": "Magnificat" } },
+            { "type": "prayer", "ref": "magnificat-bcp" },
+            { "type": "divider" },
+            { "type": "subheading", "text": { "en-US": "Second Lesson" } },
+            { "type": "lectio", "reference": "{{epNtRef}}" },
+            { "type": "divider" },
+            { "type": "subheading", "text": { "en-US": "Nunc Dimittis" } },
+            { "type": "prayer", "ref": "nunc-dimittis-bcp" },
+            { "type": "divider" },
+            { "type": "subheading", "text": { "en-US": "The Apostles' Creed" } },
+            { "type": "prayer", "ref": "apostles-creed-bcp" },
+            { "type": "divider" },
+            { "type": "subheading", "text": { "en-US": "The Lord's Prayer" } },
+            { "type": "prayer", "ref": "our-father-bcp" },
+            { "type": "divider" },
+            { "type": "subheading", "text": { "en-US": "Preces" } },
+            { "type": "prayer", "ref": "preces-evening" },
+            { "type": "divider" },
+            { "type": "subheading", "text": { "en-US": "The Collects" } },
+            { "type": "prayer", "ref": "collect-peace-evening" },
+            { "type": "prayer", "ref": "collect-aid-against-perils" }
+          ]
+        },
+        {
+          "id": "compline",
+          "label": { "en-US": "Compline" },
+          "sections": [
+            {
+              "type": "select",
+              "as": "introduction",
+              "label": { "en-US": "Introduction" },
+              "default": "omit",
+              "options": [
+                {
+                  "id": "include",
+                  "label": { "en-US": "Include" },
+                  "sections": [
+                    { "type": "subheading", "text": { "en-US": "Introduction" } },
+                    { "type": "prayer", "ref": "opening-verse-dwdo" },
+                    { "type": "divider" }
+                  ]
+                },
+                {
+                  "id": "omit",
+                  "label": { "en-US": "Omit" },
+                  "sections": []
+                }
+              ]
+            },
+            { "type": "subheading", "text": { "en-US": "Confession" } },
+            { "type": "prayer", "ref": "confession-compline" },
+            { "type": "divider" },
+            { "type": "subheading", "text": { "en-US": "Psalmody" } },
+            { "type": "psalmody", "psalms": [4, "31:1-6", 91, 134] },
+            { "type": "divider" },
+            { "type": "subheading", "text": { "en-US": "Short Reading" } },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Thou, O Lord, art in the midst of us, and we are called by thy Name: leave us not, O Lord our God."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": { "en-US": "Jeremiah 14:9" }
+            },
+            { "type": "divider" },
+            { "type": "subheading", "text": { "en-US": "Hymn" } },
+            { "type": "prayer", "ref": "te-lucis-ante-terminum" },
+            { "type": "divider" },
+            { "type": "subheading", "text": { "en-US": "Nunc Dimittis" } },
+            { "type": "prayer", "ref": "nunc-dimittis-bcp" },
+            { "type": "divider" },
+            { "type": "subheading", "text": { "en-US": "The Lord's Prayer" } },
+            { "type": "prayer", "ref": "our-father-bcp" },
+            { "type": "divider" },
+            { "type": "subheading", "text": { "en-US": "Collect" } },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Visit, we beseech thee, O Lord, this habitation, and drive far from it all the snares of the enemy; let thy holy angels dwell herein to preserve us in peace; and let thy blessing be upon us through Jesus Christ our Lord. Amen."
+              }
+            },
+            { "type": "divider" },
+            { "type": "subheading", "text": { "en-US": "Final Antiphon" } },
+            { "type": "prayer", "ref": "ember-default:sub-tuum-praesidium" },
+            { "type": "divider" },
+            { "type": "subheading", "text": { "en-US": "Closing" } },
+            { "type": "prayer", "ref": "ember-default:glory-be" }
+          ]
+        }
+      ]
+    }
+  ]
+}

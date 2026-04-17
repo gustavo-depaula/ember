@@ -99,15 +99,25 @@ type BibleReference = Extract<ReadingReference, { type: 'bible' }>
 
 function parseBiblePassage(passage: string, resolve: BookNameResolver): BibleReference {
   const trimmed = passage.trim()
-  const match = trimmed.match(/^([\w-]+)\s+(\d+)(?::(\d+)(?:-(\d+))?)?$/)
+  const match = trimmed.match(/^([\w-]+)\s+(\d+)(?::(\d+)(?:-(\d+|end))?)?$/)
   if (!match) {
     return { type: 'bible', book: trimmed, bookName: trimmed, chapter: 1 }
   }
   const slug = resolveBookSlug(match[1])
   const chapter = Number(match[2])
   const startVerse = match[3] ? Number(match[3]) : undefined
-  const endVerse = match[4] ? Number(match[4]) : undefined
-  return { type: 'bible', book: slug, bookName: resolve(slug), chapter, startVerse, endVerse }
+  const endRaw = match[4]
+  const toEnd = endRaw === 'end' ? true : undefined
+  const endVerse = endRaw && endRaw !== 'end' ? Number(endRaw) : undefined
+  return {
+    type: 'bible',
+    book: slug,
+    bookName: resolve(slug),
+    chapter,
+    startVerse,
+    endVerse,
+    toEnd,
+  }
 }
 
 export function parseTrackEntry(
@@ -122,8 +132,9 @@ export function parseTrackEntry(
   return entry.split(';').map((p) => parseBiblePassage(p, bookName))
 }
 
-export function formatVerseRange(startVerse?: number, endVerse?: number): string {
+export function formatVerseRange(startVerse?: number, endVerse?: number, toEnd?: boolean): string {
   if (startVerse === undefined) return ''
+  if (toEnd) return `:${startVerse}-end`
   if (endVerse !== undefined) return `:${startVerse}-${endVerse}`
   return `:${startVerse}`
 }
@@ -141,7 +152,7 @@ export function formatTrackEntry(
     .split(';')
     .map((p) => {
       const ref = parseBiblePassage(p.trim(), bookName)
-      return `${ref.bookName} ${ref.chapter}${formatVerseRange(ref.startVerse, ref.endVerse)}`
+      return `${ref.bookName} ${ref.chapter}${formatVerseRange(ref.startVerse, ref.endVerse, ref.toEnd)}`
     })
     .join('; ')
 }

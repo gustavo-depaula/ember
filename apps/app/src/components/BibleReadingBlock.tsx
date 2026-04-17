@@ -18,6 +18,7 @@ export function BibleReadingBlock({
     chapter: number
     startVerse?: number
     endVerse?: number
+    toEnd?: boolean
   }
   verses: Verse[] | undefined
   fallback?: boolean
@@ -25,7 +26,7 @@ export function BibleReadingBlock({
   const { t } = useTranslation()
   if (!verses) return undefined
 
-  const { startVerse, endVerse } = reference
+  const { startVerse, endVerse, toEnd } = reference
   const filtered =
     startVerse !== undefined
       ? verses.filter(
@@ -44,7 +45,7 @@ export function BibleReadingBlock({
       )}
       <Text fontFamily="$body" fontSize="$2" color="$colorMutedBlue" fontWeight="500">
         {t(`bookName.${reference.book}`, { defaultValue: reference.bookName })} {reference.chapter}
-        {formatVerseRange(startVerse, endVerse)}
+        {formatVerseRange(startVerse, endVerse, toEnd)}
       </Text>
       {filtered.map((v) => (
         <PrayerText key={v.verse}>{v.text}</PrayerText>

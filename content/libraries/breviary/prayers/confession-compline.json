@@ -1,0 +1,17 @@
+{
+  "title": { "en-US": "Confession" },
+  "body": [
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "I confess to God Almighty, the Father, the Son, and the Holy Ghost, that I have sinned in thought, word, and deed, through my own grievous fault. Wherefore I pray God Almighty to have mercy upon me, forgive me all my sins, and bring me to everlasting life. Amen."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "The Almighty and merciful Lord grant us pardon and remission of all our sins, time for amendment of life, and the grace and comfort of the Holy Spirit. Amen."
+      }
+    }
+  ]
+}

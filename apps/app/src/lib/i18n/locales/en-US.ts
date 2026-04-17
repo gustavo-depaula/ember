@@ -745,6 +745,8 @@ export default {
     'divine-mercy': 'Divine Mercy Chaplet',
     'divine-mercy-novena': 'Divine Mercy Novena',
     'divine-office': 'Divine Office',
+    dwdo: 'Daily Office (DWDO)',
+    odod: 'Office of the Dead',
     'examination-by-beatitudes': 'The Beatitudes',
     'examination-by-commandments': 'Ten Commandments',
     'examination-of-conscience': 'Examination of Conscience',

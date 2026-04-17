@@ -1,0 +1,27 @@
+{
+  "id": "odod",
+  "icon": "prayer",
+  "name": {
+    "en-US": "Office of the Dead"
+  },
+  "categories": ["liturgy", "intercession"],
+  "estimatedMinutes": 15,
+  "description": {
+    "en-US": "The Office of the Dead — Mattins and Evensong — prayed for the faithful departed. A traditional devotion with fixed psalms, antiphons, and lessons, offered in suffrage for the souls in Purgatory."
+  },
+  "history": {
+    "en-US": "The Office of the Dead (Officium Defunctorum) is one of the oldest parts of the Divine Office, attested from the 8th century. It consists of Vespers (First Evensong), Mattins, and Lauds, prayed in suffrage for the departed. The form here is the Anglican Ordinariate's Divine Worship: Daily Office arrangement, with the traditional fixed psalms of the Roman Rite — Psalms 5, 6, 7 at Mattins; Psalms 116, 120, 121, 130, 138 at Evensong — each concluding with the antiphon 'Rest eternal grant unto them, O Lord: and let light perpetual shine upon them.' in place of the Gloria Patri."
+  },
+  "howToPray": {
+    "en-US": "The Office of the Dead may be prayed at any time, but is especially offered on All Souls' Day, on the day of death or burial, on anniversaries of the departed, and throughout November. At this Office the usual introductory responses are omitted; the Psalmody is said immediately. Each psalm concludes with 'Rest eternal' in place of the Gloria Patri."
+  },
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "theme": "office",
+  "flow": "flow.json",
+  "tags": ["office", "breviary", "ordinariate", "dead", "all-souls", "purgatory"],
+  "defaults": {
+    "sortOrder": 19,
+    "slots": []
+  }
+}
