@@ -71,30 +71,31 @@ function TapToSwitch({
   const secondaryLanguage = usePreferencesStore((s) => s.secondaryLanguage)
   const [showSecondary, setShowSecondary] = useState(false)
   const activeText = showSecondary ? secondary : primary
-  const toggleTargetLang = showSecondary ? contentLanguage : secondaryLanguage
-  const switchLabel = toggleTargetLang ? languageLabel[toggleTargetLang] : '↔'
-  const switchLanguageName = toggleTargetLang ? t(`languages.${toggleTargetLang}`) : switchLabel
+  // secondaryLanguage is guaranteed defined here: localizeBilingual only emits
+  // content.secondary when a secondary language is set.
+  const toggleTargetLang = (showSecondary ? contentLanguage : secondaryLanguage) as ContentLanguage
 
   return (
     <YStack>
-      <XStack justifyContent="flex-end">
-        <Pressable
-          onPress={() => setShowSecondary((v) => !v)}
-          accessibilityRole="button"
-          accessibilityLabel={t('a11y.switchLanguage', { language: switchLanguageName })}
-          hitSlop={8}
+      <Pressable
+        onPress={() => setShowSecondary((v) => !v)}
+        accessibilityRole="button"
+        accessibilityLabel={t('a11y.switchLanguage', {
+          language: t(`languages.${toggleTargetLang}`),
+        })}
+        hitSlop={8}
+        style={{ alignSelf: 'flex-end' }}
+      >
+        <Text
+          fontFamily="$heading"
+          fontSize="$1"
+          color="$colorSecondary"
+          opacity={0.55}
+          paddingHorizontal="$xs"
         >
-          <Text
-            fontFamily="$heading"
-            fontSize="$1"
-            color="$colorSecondary"
-            opacity={0.55}
-            paddingHorizontal="$xs"
-          >
-            {switchLabel}
-          </Text>
-        </Pressable>
-      </XStack>
+          {languageLabel[toggleTargetLang]}
+        </Text>
+      </Pressable>
       {renderText(activeText)}
     </YStack>
   )
