@@ -8,10 +8,10 @@
 
 i — Ecco un ottimo insegnamento di S. Giovanni della
 Croce: «Non considerare mai il tuo superiore come inferiore a Dio, chiunque esso sia, poichè, per te, egli rappresenta Dio » (Ct. 12). Se non hai questo sguardo soprannaturale che ti fa vedere Dio nella persona del superiore, la tua obbedienza non potrà essere soprannaturale. Per esserlo, è necessario che tu sia animato da quest'unico motivo: obbedisco perchè il mio superiore mi
-rappresenta Dio, mi parla in luogo di Dio; il mio superiore è Cristo: « bic est Christus meus ».
+rappresenta Dio, mi parla in luogo di Dio; il mio superiore è Cristo: « hic est Christus meus ».
 
-Non devi obbedire per un motivo,di fiducia umana
-nella persona del tuo superiore, ossia pérchè egli è intellicente, è prudente, Gis perchè ti comprende o ti vuol
+Non devi obbedire per un motivo di fiducia umana
+nella persona del tuo superiore, ossia pérchè egli è intelligente, è prudente, o perchè ti comprende o ti vuol
 
 ene ecc.: questa è obbedienza umana, frutto di prudenza
 umana, atto buono, ma non soprannaturale. Non devi neppure obbedire perchè ciò che ti viene comandato è il più
@@ -23,12 +23,12 @@ oppure quando i suoi comandi fossero contrari alla Regola
 o agli Statuti da te abbracciati, perchè allora non sarebbero
 
 
-più legittimi. Ma per il resto non devi mettere alcuna riserva alla tua obbedienza. E non devi neppure esitare temendo che il superiore ti chieda qualche cosa di meno perfetto, perchè anche se egli ti ordinasse una cosa oggettivamente meno perfetta di un’altra gi esempio di riposare,
+più legittimi. Ma per il resto non devi mettere alcuna riserva alla tua obbedienza. E non devi neppure esitare temendo che il superiore ti chieda qualche cosa di meno perfetto, perchè anche se egli ti ordinasse una cosa oggettivamente meno perfetta di un’altra (ad esempio di riposare,
 anzichè lavorare), per te sarebbe la più perfetta, giacchè
 per il semplice fatto che il superiore te l’ha ordinata è
 evidente esser proprio quella, e non altra, che Dio vuole
 da te in quel momento. Può darsi benissimo che in
-astratto tu veda la possibilità di fare una cosa di magfor perfezione di quella che ti viene comandata e de
+astratto tu veda la possibilità di fare una cosa di maggior perfezione di quella che ti viene comandata e de
 il tuo parere sia migliore di quello del superiore, ma
 in concreto non c'è dubbio: non ci può essere per te
 niente di più perfetto che eseguire ciò che Dio ti comanda per mezzo del superiore.
@@ -74,7 +74,7 @@ ossa vederti vivente nell'anima dei miei superiori; che di
 ronte a ciascuno di essi io Hun spontaneamente © since
 
 ramente ripetere: « bic est Christus meus! ». Proprio così,
-attraverso l'obbedienza, mi sarà possibile una vita di continui Sapporo, di continua intimità con te. Se nel Sacramento dell’altare ti trovo vivo e palpitante dietro il velo
+attraverso l'obbedienza, mi sarà possibile una vita di continui incontri, di continua intimità con te. Se nel Sacramento dell’altare ti trovo vivo e palpitante dietro il velo
 delle specie eucaristiche, sempre pronto ad accogliere ed a
 nutrire l’anima mia, posso, benchè in altro modo, trovarti
 nascosto anche nella persona dei miei superiori, attraverso
@@ -94,7 +94,7 @@ considerare solo il tuo volere che mi giunge attraverso le
 apparenze di un ordine, di un comando umano. O Gesù,
 quale grande mistero! L’Eucaristia mi dà il tuo Corpo, il
 tuo Sangue, la tua Divinità: è questa la forza del sacramento da te istituito; l'obbedienza mi dà la tua volontà, mi
-mette in comunione. con essa: è questo il potere dell’autorità da te costituita.
+mette in comunione con essa: è questo il potere dell’autorità da te costituita.
 
 O Signore, dopo aver compreso questa profonda verità,
 come oserò ancora discutere ed esitare di fronte agli ordini dei miei superiori? « Non sarebbe forse curioso che,

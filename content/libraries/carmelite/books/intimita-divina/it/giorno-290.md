@@ -62,13 +62,12 @@ Dio e il prossimo. Ecco, dunque, che il Vangelo prosegue con
 una lezione pratica di umiltà condannando la caccia ai primi
 posti; e non dobbiamo intendere che ciò valga solo per i posti materiali, bensì anche per quelli morali, ossia per quei
 posti che il nostro orgoglio pretende di occupare nella stima
-e nella considerazione altrui. E° un fatto umiliante constatare
+e nella considerazione altrui. E' un fatto umiliante constatare
 come il nostro io tenta sempre di farci prendere un posto
 più elevato di quello che ci conviene e ciò con nostro smacco «perchè chiunque si innalza sarà umiliato». « Andiamo
 a metterci all'ultimo posto — dice S. Bernardo — Non vi è
 nessun danno ad umiliarci ed a crederci inferiori di quello
-che siamo in realtà. Ma è un danno terribile ed un ZE as
-sai grande volerci innalzare, anche di un sol pollice, al di sopra di quel che siamo e preferirci sia pure ad uno solo.
+che siamo in realtà. Ma è un danno terribile ed un assai grande volerci innalzare, anche di un sol pollice, al di sopra di quel che siamo e preferirci sia pure ad uno solo.
 Come nel passare sotto una porta troppo bassa, non nuoce
 inchinarsi troppo, ma nuoce moltissimo sollevarsi un sol dito di più dell'altezza del trave perchè si urta e ci si ferisce la
 testa, così non dobbiamo aver paura di umiliarci troppo, ma
@@ -79,7 +78,7 @@ il nostro orgoglio tenterà d'innalzarci al di sopra degli altri;
 sarà questo il mezzo più sicuro per radicarci nell'umiltà
 
 
-Radicati nell’umiltà, lo saremo anche nella carità e così pos:
+Radicati nell’umiltà, lo saremo anche nella carità e così pos-
 sederemo le due caratteristiche fondamentali dell'anima cristiana.
 
 ### Colloquio

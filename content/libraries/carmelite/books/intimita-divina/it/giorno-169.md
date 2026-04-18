@@ -49,7 +49,7 @@ esaudito «pro sua reverentia», a cagione della sua pietà
 essere convinti che le nostre preghiere, come del resto
 tutte le nostre opere buone, nessuna eccettuata, non valgono niente, se non sì appoggiano ai meriti infiniti di
 Gesù. Significa essere convinti che, per quanto facciamo +
-preghiamo, noi siamo sempre «servi inutili » (Le. 17, 10),
+preghiamo, noi siamo sempre «servi inutili » (Lc. 17, 10),
 che non abbiamo in noi alcuna sufficienza, ma che tutta
 la nostra sufficienza ci viene dal Crocifisso. La pan
 condizione, quindi, della preghiera fatta «in nome Ge

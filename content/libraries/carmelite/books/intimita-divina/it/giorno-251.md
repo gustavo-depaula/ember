@@ -9,14 +9,14 @@
 1. — Gesù ci ha proposto come fondamento di tutta la
 legge non solo il precetto dell'amore di Dio, «il più grande e
 il primo comandamento », ma anche il precetto dell'amore del
-rossimo, dichiarandolo espressamente «simile» al primo
-Mt. 22, 38 e 39). Che il precetto dell'amore di Dio sia la base di tutta la vita cristiana è facile comprenderlo, ma non è
+prossimo, dichiarandolo espressamente «simile» al primo
+(Mt. 22, 38 e 39). Che il precetto dell'amore di Dio sia la base di tutta la vita cristiana è facile comprenderlo, ma non è
 altrettanto facile comprendere che tale sia anche il precetto
 della carità fraterna. Eppure Gesù ha connesso così strettamente questi due comandamenti da farci DOSE, che l'uno
-non può sussistere senza l’altro e viceversa; Egli non ha detto
-che tutto si fonda sul primo comandamento, quello dell'amore di Dio, bensì: «su questi due comandamenti [dell’amor
+non può sussistere senza l'altro e viceversa; Egli non ha detto
+che tutto si fonda sul primo comandamento, quello dell'amore di Dio, bensì: «su questi due comandamenti [dell'amor
 di Dio e dell'amore del prossimo] si fondano tutta la legge e
-i profeti » (ivi, 40). Ma perchè mettere l’amore del prossimo
+i profeti » (ivi, 40). Ma perchè mettere l'amore del prossimo
 così vicino all'amore di Dio, perchè farne con esso l'unica
 base di tutto il cristianesimo? Perchè la virtù della carità fraterna non è amore della creatura in se stessa e per se stessa,
 ma è amore della creatura « propter Deum», ossia in vista di
@@ -31,7 +31,7 @@ vi dico — ha detto Gesù — che tutte le volte che avete
 fatto qualche cosa a uno di questi minimi tra i miei fratelli,
 
 
-l’avete fatta a me» (Mt. 25, 40). La carità fraterna è tanto
+l'avete fatta a me» (Mt. 25, 40). La carità fraterna è tanto
 importante perchè non è altro che un'estensione della carità
 verso Dio, estensione che abbraccia tutti gli uomini in vista
 di Dio, loro Creatore e loro Padre. Proprio per questo motivo
@@ -60,7 +60,7 @@ le volte che voi non avete fatto [tali cose] a uno di questi
 minimi tra i miei fratelli, non l'avete fatto a me» (Mt. 25,
 45). Dio esige la riprova concreta del nostro amore verso di
 lui nel nostro modo di comportarci verso il prossimo. Non
-possiamo illuderci di amare Dio quando non amiamo i nostri simili che, al pari di noi, sono l’immagine vivente del
+possiamo illuderci di amare Dio quando non amiamo i nostri simili che, al pari di noi, sono l'immagine vivente del
 Padre celeste. E che importa se talvolta questa immagine è
 sfigurata dai difetti, dal peccato e forse anche dai vizi? Resta
 pur sempre immagine di Dio, immagine che la carità deve
@@ -75,7 +75,7 @@ qui è la prova più sicura del nostro amore per Iddio.
 Dio è carità. Tu voli tanto in alto che te ne vai al trono della
 SS.ma Trinità e quivi entri nel seno dell'Eterno Padre e dal
 seno del Padre te ne vai al Cuore del Verbo Incarnato e lì
-ti riposi e cavi il nutrimento. Così l’anima che ti possiede
+ti riposi e cavi il nutrimento. Così l'anima che ti possiede
 cerca di nutrirsi solo di Dio e di riposarsi in lui; e, dopo essersi quivi nutrita e riposata, se ne scende giù in terra, perchè
 tu, o carità, ti estendi ancora ai prossimi amandoli non solo
 come creature, ma come esseri creati da Dio ad immagine e
@@ -98,4 +98,4 @@ punto che diventa simile a lui per grazia e partecipazione.
 sappia accondiscendere, aiutare, sollevare il prossimo mio in
 tutti i suoi bisogni, infermità e fatiche e sappia con somma
 prudenza compatire i difetti altrui» (cfr. S. M. Maddalena
-de’ Pazzi).
+de' Pazzi).

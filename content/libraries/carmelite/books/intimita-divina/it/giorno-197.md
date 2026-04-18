@@ -9,19 +9,19 @@ O Gesù, concedimi di rispondere sempre al tuo invito e di partecipare degnament
 
 1. — Il Vangelo di questa domenica s'intona perfettamente all'ottava del Corpus Domini. « Un uomo fece una
 gran cena e invitò molti». L'uomo che fa la cena è Dio;
-© la gran cena è il suo regno dove le anime troveranno ogni
+O la gran cena è il suo regno dove le anime troveranno ogni
 abbondanza di beni spirituali quaggiù e la felicità eterna
 nell'altra vita. Questo è il senso proprio della parabola, ma
 nulla vieta che si possa intendere anche in un senso più
 particolare, vedendo nella cena il Banchetto eucaristico e
-nell'uomo che l'imbandisce Gesù, il quale invita gli uomini a cibarsi della sua Carne e del suo Sangue, « E' apparecchiata per noi la mensa del Signore — canta l'Uflicio dell'ottava — La Sapienza [ossia il Verbo incarnato] ha
+nell'uomo che l'imbandisce Gesù, il quale invita gli uomini a cibarsi della sua Carne e del suo Sangue, « E' apparecchiata per noi la mensa del Signore — canta l'Ufficio dell'ottava — La Sapienza [ossia il Verbo incarnato] ha
 preparato il vino ed ha imbandita la mensa ». Gesù stesso,
 annunziando l'Eucaristia, rivolse a tutti il suo invito: «lo
-sono il pane di vita! Chi viene a me non avrà più fame,
-e chi crede in me non avrà più sete. I vostri padri mangiarono la manna nel deserto e morirono. Questo è il pane
+sono il pane di vita! Chi viene a me none avrà più fame,
+e chi crede in me none avrà più sete. I vostri padri mangiarono la manna nel deserto e morirono. Questo è il pane
 disceso dal cielo, affinchè chi ne mangia non muoia » (Gv.
 6, 35-50). Gesù non si limita, come gli altri uomini, ad
-imbandire una cena, a fare larghi inviti e neppure ad apprestare vivande prelibate, ma ii fatto singolarissimo — che
+imbandire una cena, a fare larghi inviti e neppure ad apprestare vivande prelibate, ma il fatto singolarissimo — che
 
 nessun uomo, per quanto ricco e potente, potrà mai imitare — è che Egli stesso si offre in cibo. S. Giovanni Crisostomo, a chi nell’Eucaristia vorrebbe veder Cristo con
 li occhi del corpo, dice: « Ebbene, tu lo vedi, lo tocchi,
@@ -41,9 +41,9 @@ sorriso scettico sul labbro: % Come mai costui può darci da
 mangiare la sua carne?» (Gv. 6, 53). Ma ciò che tiene
 lontano dall'Eucaristia non è solo la mancanza di fede; questa molto spesso è accompagnata e anzi, non di rado, deriva
 da quelle cause morali di cui parla il Vangelo odierno.
-«Ho comprato un podere e bisogna che n a vederlo;
-abbimi, ti prego, per iscusato» rispose uno; e un altro:
-«Ho comperato cinque paia di buoi e vado a provarli; abbimi, ti prego, De iscusato ». L'eccessiva preoccupazione per
+«Ho comprato un podere e bisogna che ne a vederlo;
+abbi mi, ti prego, per iscusato» rispose uno; e une altro:
+«Ho comperato cinque paia di buoi e vado a provarli; abbi mi, ti prego, per iscusato ». L'eccessiva preoccupazione per
 i beni terreni, l'attaccamento ad essi, l'ingolfarsi totalmente
 negli affari, è il motivo per cui tanti rifiutano l'invito di
 Gesù. Ma non è tutto: «Ho preso moglie e quindi non
@@ -57,10 +57,9 @@ dell'uomo che pospone il dono di Cristo, Pane degli Angeli, pegno di vita eterna
 sole. Eppure, non è difficile che un'ombra di questa cecità
 veli anche lo sguardo ed il cuore di coloro che Gesù ha
 chiamato a seguirlo più da vicino e che ha designato col
-dolce nome di amici. Costoro non rifiutano l'invito, ma spess0 l’accettano con freddezza, quasi per abitudine. Non è
+dolce nome di amici. Costoro non rifiutano l'invito, ma spesso l’accettano con freddezza, quasi per abitudine. Non è
 forse vero che, mentre ci preoccupiamo di molte cose: la-
 
-IV > L'INVITO AL BANCHETTO 21
 
 voro, affari, famiglia, amicizie, ecc., ci preoccupiamo ben
 poco di disporci ogni giorno nel modo più degno al Banchetto eucaristico? Gesù viene in noi forse ogni mattina,
@@ -79,7 +78,7 @@ O Signore, mi accosterò con fede alla tua mensa, incorporandomi ivi per esserne
 
 «Fa', o Signore, ch'io sia inebriato dall’opulenza della
 tua casa, e dammi da bere al torrente delle tue delizie.
-Poichè presso di te è la sorgente della mia vita: non al
+Poichè presso di te è la sorgente della mia vita: none al
 trove fuori di te, ma ivi presso di te è la sorgente della vita,
 Neale bere per vivere; non voglio fare da me quasi per
 andarmi a perdere, non voglio saziarmi del mio come per

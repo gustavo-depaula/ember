@@ -2,19 +2,19 @@
 
 ### Presenza di Dio
 
-— O Signore, che mi previeni, accompagni e sostieni con la tua grazia, fa' che questa grazia in me non sia vana.
+O Signore, che mi previeni, accompagni e sostieni con la tua grazia, fa' che questa grazia in me non sia vana.
 
 ### Meditazione
 
-Pietra) «Se l’anima cerca Dio, molto più il suo amato
+Pietra) «Se l'anima cerca Dio, molto più il suo amato
 Signore cerca lei: e se ella gli dirige i suoi desideri amorosi,... Egli pure da parte sua le invia il profumo dei suoi
 unguenti, con cui l'attrae e la fa correre verso di lui»
-(G.C. F. 3% 28). Nel suo sforzo per giungere all’unione,
-l’anima non è mai sola: Dio stesso le va incontro quasi
+(G.C. F. 3% 28). Nel suo sforzo per giungere all'unione,
+l'anima non è mai sola: Dio stesso le va incontro quasi
 porgendole la mano e attirandola a sè per mezzo delle
 sante ispirazioni che le illuminano la mente e dei tocchi
 interiori che le infiammano la volontà. Queste ispirazioni
-e tocchi divini non sono altro che l’attuazione dei doni
+e tocchi divini non sono altro che l'attuazione dei doni
 dello Spirito Santo, mediante i quali Dio prende Ja direzione dell'anima e lavora in lei prima per purificarla e
 disporla all'unione e poi per unirla effettivamente a sè per
 mezzo dell'amore, È molto consolante pensare che questa
@@ -27,7 +27,7 @@ nel darsi isti ca: isa LIA
 Biso; dunque concludere con S.- Giovanni della
 Croce che, se sono così pochi quelli che giungono davvero alla perfetta unione, « ciò avviene, non perchè Dio
 voglia che pochi siano gli spiriti elevati » o pe sia
-avaro dei suoi soccorsi, «ma perchè trova pochi vasi capaci di un’opera sì sublime » (F.2, 27), ossia trova poche
+avaro dei suoi soccorsi, «ma perchè trova pochi vasi capaci di un'opera sì sublime » (F.2, 27), ossia trova poche
 anime generose.
 
 Se, dopo molti anni di vita spirituale, ci troviamo ancora lontano dall'unione con Dio, non possiamo davvero
@@ -41,7 +41,7 @@ rezzo di grandi lotte», assicura: «nessun dubbio che
 vi sì possa giungere purchè l'unione con la volontà di
 Dio sia vera » (M.V, 3,305).
 
-2 — «Per arrivare all’unione non è necessario che il
+2 — «Per arrivare all'unione non è necessario che il
 Signore ci dia grandi consolazioni: basta quello che ci
 ha dato nell'aver mandato suo Figlio ad insegnarcene la
 strada » (T.G. M.V,3:7). Gesù ci basta! Egli che, non
@@ -50,7 +50,7 @@ anche procacciato i mezzi per conseguirla.
 
 Gesù lava e purifica le anime nostre col suo Sangue,
 le nutre con la sua Carne, le ammaestra con i suoi insegnamenti; Gesù ogni giorno e migliaia di volte al giorno,
-rinnova sull’altare il suo Sacrificio in nostro favore; Gesù, glorioso alla destra del Padre, sempre intercede per
+rinnova sull'altare il suo Sacrificio in nostro favore; Gesù, glorioso alla destra del Padre, sempre intercede per
 noi ottenendoci e distribuendoci le ie secondo le nostre necessità; Gesù ci invia lo Spirito Santo, il suo Spirito, affinchè ci guidi nel cammino della santità; Gesù ci
 dona la madre sua, Maria santissima, affinchè sia la madre
 nostra, nostro rifugio e sostegno nelle ore difficili. Che
@@ -65,9 +65,9 @@ con immensa larghezza e così giungeremmo sicuramente
 alla meta.
 
 «Facciamoci coraggio — ci esorta Teresa d'Avila —
-e siccome un po’ di cielo lo possiamo godere fin da questa vita, supplichiamo il Signore di concederci di non rimanerne prive per nostra colpa » (ivi, 1,2). Il cielo che
+e siccome un po' di cielo lo possiamo godere fin da questa vita, supplichiamo il Signore di concederci di non rimanerne prive per nostra colpa » (ivi, 1,2). Il cielo che
 possiamo godere fin da quaggiù è appunto lo stato di
-unione con Dio, in cui l’anima, perfettamente conformata al volere divino, gode una gran pace anche in mezzo
+unione con Dio, in cui l'anima, perfettamente conformata al volere divino, gode una gran pace anche in mezzo
 agli inevitabili dolori della vita, riposando sempre abbandonata fra le braccia della divina Provvidenza. A questo
 felice stato tutti possiamo giungere purchè siamo ben decisi a seguire la strada che Gesù stesso ci ha indicato
 cendo: «Se uno mi ama, osserverà la mia parola... Siete
@@ -98,12 +98,10 @@ possa volere più nulla e più non mi curi nè di morire,
 nè di vivere, ma solo voglia quello che è volontà tua.
 
 « Dio mio, quando ti avrò offerto la mia volontà in
-tutto ‘e per tutto, Tu me la renderai, poichè quando la
-volontà mia non sarà più mia, ma tutta te l’avrò donata,
-allora ti contenterai che io la faccia in tutte le cose, giacchè non sarà più mia, ma tutta tua » (cfr. S. M; Maddalena de’ Pazzi).
+tutto 'e per tutto, Tu me la renderai, poichè quando la
+volontà mia non sarà più mia, ma tutta te l'avrò donata,
+allora ti contenterai che io la faccia in tutte le cose, giacchè non sarà più mia, ma tutta tua » (cfr. S. M; Maddalena de' Pazzi).
 
-«Ricevi, o Signore, l’intera mia libertà. Ricevi la memoria, l'intelletto e la volontà tutta. Quanto ho e possiedo, Tu me l'hai donato: tutto ti restituisco e rimetto interamente al governo della tua volontà. Dammi solo il
+«Ricevi, o Signore, l'intera mia libertà. Ricevi la memoria, l'intelletto e la volontà tutta. Quanto ho e possiedo, Tu me l'hai donato: tutto ti restituisco e rimetto interamente al governo della tua volontà. Dammi solo il
 tuo amore con la tua a, e sono ricco abbastanza, nè
 domando più altro» ($ Ignazio di Loyola).
-
-LA FINE DEL TEMPO

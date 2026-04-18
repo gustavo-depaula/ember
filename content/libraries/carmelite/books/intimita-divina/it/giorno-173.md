@@ -21,7 +21,6 @@ risorti alla vita della grazia, così in Lui asceso al cielo
 siamo saliti al cielo anche noi. Questa vitale partecipa
 zione ai misteri di Cristo è la grande conseguenza della
 
-X - L'ASCENSIONE DEL SIGNORE ©
 
 nostra incorporazione a Lui; essendo Egli il nostro Capo,
 noi, sue membra, siamo totalmente dipendenti da Lui e
@@ -42,11 +41,10 @@ dei vespri odierni: «Gesù, sii la meta dei nostri cuori,
 sii il conforto delle nostre lacrime, sii il dolce premio della
 nostra vita» (BR.).
 
-2. — Ma accanto alla speranza ad alla gioiosa aspettazione del cielo, la festa dell'Ascensione ba anche un
+2. — Ma accanto alla speranza ad alla gioiosa aspettazione del cielo, la festa dell'Ascensione ha anche un
 tono di malinconia. Di fronte alla definitiva dipartita di
-Gesù, gli Apostoli dovettero essere pe da un senso dî
+Gesù, gli Apostoli dovettero essere presi da un senso di
 
-al
 
 sgomento, lo sgomento di chi vede allontanarsi per sempre
 l'amico e il sostegno più caro e si ritrova solo di fronte
@@ -54,8 +52,8 @@ alle difficoltà della vita. Il Signore intuì lo stato d'animo
 dei suoi ed ecco che ancora una volta li conforta promettendo la venuta dello Spirito Santo, lo Spirito consolatore:
 « Comandò loro — leggiamo nell'Epistola — di non allontanarsi da Gerusalemme, ma d’aspettarvi la promessa del
 Padre... Voi sarete battezzati con lo Spirito Santo, di
-ui a non molti giorni». Ma anche questa volta gli
-\postoli non compresero! — Come avevano bisogno di essere illuminati e trasformati dallo Spirito Santo per essere
+qui a non molti giorni». Ma anche questa volta gli
+Apostoli non compresero! — Come avevano bisogno di essere illuminati e trasformati dallo Spirito Santo per essere
 atti alla grande missione che sarebbe stata loro affidata! E
 
 infatti Gesù riprese: « Voi riceverete forza di Spirito Santo...
@@ -87,13 +85,11 @@ tanto l'ami? Che le dai? Che ricerchi da lei? L’ami tanto
 ‘che le dai te stesso che sei ogni cosa, e fuor di te non è
 cosa alcuna. Vuoi da lei ogni suo volere e sapere, poichè,
 dandoti questo, ti dà tutto quello che ha, O Sapienza
-infinita, o Bontà somma, o Amore, o Amore poco cenosciuto, meno amato e da pochi posseduto! O ingratitudine
+infinita, o Bontà somma, o Amore, o Amore poco conosciuto, meno amato e da pochi posseduto! O ingratitudine
 nostra, cagione d'ogni male; o purità poco conosciuta
 e poco desiderata! O mio Sposo, o mio Sposo, ora che sei
-con l’Umanità tua nel cielo sedente alle sso dell'Eterno
+con l’Umanità tua nel cielo sedente alla destra dell'Eterno
 Padre, crea in me un cuore puro e uno spirito retto
-
-XI - LA SPERANZA DI MARIA i
 
 rinnova nel mio seno» (S. M. Maddalena de’ Pazzi).
 «Ahimè, Signore, come è lungo questo esilio! Come

@@ -8,11 +8,11 @@
 ### Meditazione
 
 1. — «Un uomo scendeva da Gerusalemme a Gerico e
-s'imbattè in ladroni, i quali, spogliatolo e feritolo se ne andatono, lasciandolo mezzo morto ». Così il Vangelo del giorno.
+s'imbattè in ladroni, i quali, spogliatolo e feritolo se ne andarono, lasciandolo mezzo morto ». Così il Vangelo del giorno.
 Ognuno di noi si può vedere raffigurato in quel poveretto;
 anche noi sul nostro cammino abbiamo incontrato dei ladroni: il mondo, il demonio, le passioni che ci hanno depredato
 e ferito. Chi può dire di non portare nella propria anima
-qualche ferita, più 0 meno profonda, conseguenza delle tentazioni, del peccato? Ma anche noi sui nostri passi abbiamo
+qualche ferita, più o meno profonda, conseguenza delle tentazioni, del peccato? Ma anche noi sui nostri passi abbiamo
 incontrato un buon samaritano, anzi il buon Samaritano per
 eccellenza, Gesù, il quale, mosso a compassione per il nostro
 stato, ci ha prestato soccorso. Con amore infinito si è curvato
@@ -24,16 +24,15 @@ Chiesa, alla quale ha consegnato il prezzo del nostro riscatto,
 frutto della sua morte di croce.
 
 La parabola del buon samaritano adombra così la storia
-della nostra redenzione, storia sempre in atto e che si rinnova ogni volta che ci avviciniamo a Cesù, mostrandogli con
-umiltà e pentimento le ferite dell'anima nostra. Questa stori
-si attua in modo tutto particolare nella S. Messa, in cui
+della nostra redenzione, storia sempre in atto e che si rinnova ogni volta che ci avviciniamo a Gesù, mostrandogli con
+umiltà e pentimento le ferite dell'anima nostra. Questa storia si attua in modo tutto particolare nella S. Messa, in cui
 Gesù offre al Padre il prezzo della nostra salvezza, rinnovando la sua immolazione a beneficio delle anime nostre.
 Dobbiamo andare alla Messa per incontrarci con lui, il buon
 Samaritano, per invocare e ricevere su di noi la sua azione
 sanante e santificante. Quanto più, consci della nostra miseria, sentiremo vivo il bisogno della sua redenzione, tanto
 più Gesù ce ne applicherà con larghezza i frutti e, venendo
 in noi nella S. Comunione, sanerà le nostre ferite non solo
-dall'esterno, ma dall'interno, penetrandole abbondantemente con l'olio soavissimo e col vino vigoroso della sua grazi;
+dall'esterno, ma dall'interno, penetrandole abbondantemente con l'olio soavissimo e col vino vigoroso della sua grazia.
 
 Ecco come Gesù ci tratta; ecco come Gesù ha trattato l'u
 manità che, per il peccato, gli era straniera, anzi nemica e
@@ -42,15 +41,7 @@ nulla aveva a che fare con lui, il Santo, il Figlio di Dio!
 
 2. — Gesù, che, mediante la sua opera redentrice, ci ha
 dato per primo l'esempio di una carità piena di misericordia
-e di compassione, aveva tutto il diritto di concludere la parabola del buon samaritano dicendo: « Va', e fa' tu pure lo
-
-iungere, come dirà la sera del-
-
-
-stesso » e avrebbe potuto aggi
-l’ultima Cena ai suoi Apostoli: « Vi ho dato l'esempio affin-
-
-chè anche voi facciate come io ho fatto a voi» (Gv. 13, 15).
+e di compassione, aveva tutto il diritto di concludere la parabola del buon samaritano dicendo: « Va', e fa' tu pure lo stesso» e avrebbe potuto aggiungere, come dirà la sera dell'ultima Cena ai suoi Apostoli: « Vi ho dato l'esempio affinchè anche voi facciate come io ho fatto a voi» (Gv. 13, 15).
 
 Gli scribi e i farisei col nome di prossimo intendevano
 solo gli amici o, al massimo, gli israeliti, ma non mai i pagani e neppure i samaritani. Ed ecco che il Salvatore, oltrepassando di colpo questa interpretazione tanto gretta, come esempio concreto della carità comandata dalla legge, propone proprio un atto di carità verso un nemico: il buon samaritano, non tenendo conto dell'odio che i giudei nutrivano

@@ -45,7 +45,7 @@ Corredentrice. La Madonna non ignorava che Gesù era
 il Salvatore del mondo e, attraverso il velo delle profezie, intuiva che la missione di lui si sarebbe compiuta in
 un mistero di dolore a cui, come Madre, lei avrebbe dovuto partecipare; e Simeone con la sua profezia: «a te
 stessa una spada trapasserà l’anima » (Le. 2, 35) glielo confermava. Maria allora nel segreto del suo cuore dovette
-ripetere il suo fiat: «Ecco l’ancella del Signore, si faccia di me secondo la tua parola » (ivi 1, 38). Offrendo il
+ripetere il suo fiat: «Ecco l’ancella del Signore, si faccia di me secondo la tua parola » (ivi, 1, 38). Offrendo il
 Figlio, offre se stessa, sempre congiunta intimamente alla
 sorte di lui.
 
@@ -58,7 +58,7 @@ loro, attende umilmente il suo turno, portando con sè
 e Maria sottomettersi a leggi cui non erano per nulla
 tenuti: Gesù non doveva essere riscattato, Maria non
 doveva essere purificata. Lezioni di umiltà e di rispetto
-alla legge di Dio. i
+alla legge di Dio.
 
 Vi sono leggi cui noi siamo tenuti e da cui il nostro
 amor proprio ci esime con falsi pretesti: sono dispense
@@ -75,7 +75,7 @@ offerto? Ti ha offerto Maria Vergine, quella che nè avanti
 a lei, nè dopo di lei non ve ne sarà mai una simile. Ti ha
 offerto Maria che, per la bocca del sapiente, fu chiamata
 dal Padre tuo tanto bella e formosa... À chi ti ha offerto?
-Ti ha offerto a Dio, sostanza infinita, eccelso nella sua ereazione, fecondo nell’eredità sublime ed inesauribile nei suo
+Ti ha offerto a Dio, sostanza infinita, eccelso nella sua creazione, fecondo nell’eredità sublime ed inesauribile nei suo
 ordine, grazioso e soave nell’amore, E che cosa ha offerto?
 Ha offerto te, Verbo eterno, sostanza dell’Essenza divina,
 Figliolo dell’Altissimo, legislatore dell’universo. Te, che
@@ -83,16 +83,16 @@ con tanti e belli e grandi nomi sei chiamato: o chiave di
 David, o Re delle genti, o Emmanuele.
 
 «E che cosa m’insegni, o Signore, offrendoti al
-tempio? Mi mostri riverenza alla legge, ‘perchè hai voluto
+tempio? Mi mostri riverenza alla legge, perchè hai voluto
 osservarla; mi mostri adorazione, perchè ti sei offerto al
 Padre non come uguale a lui, come invero Tu sei, mia
 come uomo. Qui m'insegni la riverenza che devo avere
-alla tua legge; e non sono le; ge tua solo i dieci Comandamenti, ma anche la Regola e le Costituzioni. Questa
+alla tua legge; e non sono le leggi tue solo i dieci Comandamenti, ma anche la Regola e le Costituzioni. Questa
 tua legge mi è tutta dolce e soave, ma me la rendo amara
 quando non rinnego me stessa, perchè allora, anzichè
 
 ortarla soavemente, la legge è costretta a portar me»
-(cfr. S..M. Maddalena de” Bazzi).
+(cfr. S. M. Maddalena de” Bazzi).
 
 O Gesù, oggi per le mani di Maria, desidero offrirmi
 insieme con te all’Eterno Padre. Ma Tu sei Ostia purissima, santa, immacolata, mentre io sono pieno di macchie, di miserie, di peccato, O Madre mia Maria, Tu che,

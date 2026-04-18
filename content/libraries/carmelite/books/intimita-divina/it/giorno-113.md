@@ -2,7 +2,7 @@
 
 ### Presenza di Dio
 
-— O Gesù che, interamente dimentico di te, ti sci consacrato alla gloria del Padre, insegnami a dimenticarmi.
+— O Gesù che, interamente dimentico di te, ti sei consacrato alla gloria del Padre, insegnami a dimenticarmi.
 
 ### Meditazione
 
@@ -34,7 +34,7 @@ ogni riflesso anche spirituale ed eterno di sè, in un modo
 sottilissimo ». È questo il proposito esplicito della completa dimenticanza di sè, che abbraccia anche la rinun-
 cia alla soddisfazione spirituale di rendersi conto della
 propria immolazione. Ma per evitare di ritornare su di
-sè, l’anima deve necessariamente polarizzare altrove lc
+sè, l’anima deve necessariamente polarizzare altrove le
 sue aspirazioni; perciò l'esercizio negativo di non pensare
 più a sè, deve andare di pari passo con quello positivo
 
@@ -72,7 +72,7 @@ in S. Teresa del B, G.: «Se anche, cosa impossibile, Dio
 stesso ignorasse le mie buone azioni, non me ne affliggerei,
 perchè l’amo tanto, che vorrei potergli recar piacere, senza che Egli sapesse che sono io » (CR.).
 
-Questa assoluta purezza d’intenzione fa che l’anima agisca unicamente per Tadio e mai per il suo tornaconto, nep-
+Questa assoluta purezza d’intenzione fa che l’anima agisca unicamente per Dio e mai per il suo tornaconto, nep-
 pure spirituale. Certamente Dio compenserà le opere buone, ma questa cura è totalmente lasciata al suo beneplacito,
 mentre l’anima si occupa solo di fargli piacere. La vita nascosta culmina così in un sovrano disinteresse, non solo ri-
 spetto alle ricompense e alle lodi umane, ma anche rispetto
@@ -85,7 +85,7 @@ contentare Dio solo,
 
 ### Colloquio
 
-O mio Dio, insegnami a dimenticarmi, a lere in te
+O mio Dio, insegnami a dimenticarmi, a celare in te
 ogni preoccupazione, ogni cura eccessiva di me. Perchè
 
 
@@ -108,9 +108,9 @@ duci per una via arida e oscura, se permetti che spesso
 le tenebre si addensino attorno a me, è proprio perchè
 vuoi insegnarmi a servirti con purezza d’intenzione, cercando solo la tua soddisfazione e non la mia. Se per-
 metti che continui ad esercitarmi nella vita interiore,
-nella virtù, senza vederne alcun risultato, se mi tieni nascosti i mici porci progressi, lo fai appunto per stabilir-
+nella virtù, senza vederne alcun risultato, se mi tieni nascosti i miei pochi progressi, lo fai appunto per stabilir-
 mi nell’umiltà. Forse se avessi maggior luce, se il lavoro
-della tua grazia fosse in me più manifesto, io me ne glorierei c, compiacendomi di me stesso, fermerei il mio
+della tua grazia fosse in me più manifesto, io me ne glorierei e, compiacendomi di me stesso, fermerei il mio
 slancio verso di te, unico oggetto della mia compiacenza
 
 O Signore, quanto sei ammirabile nelle tue vie! B
@@ -118,9 +118,9 @@ nedetta sia questa oscurità interiore che mi difende dai
 pericoli dell'orgoglio spirituale! No, Dio mio, non ti
 chiedo di cambiare il mio cammino, anzi ti supplico di
 continuare a condurmi così, in una vita di completo nascondimento, non solo agli occhi altrui, ma anche ai miei.
-E se, per la tua grazia, c'è in me qualche cosa di buono, questa serva a rallegrare i tuoî sguardi e non i miei
+E se, per la tua grazia, c'è in me qualche cosa di buono, questa serva a rallegrare i tuoi sguardi e non i miei
 che, compiacendosi vanamente, potrebbero rovinarla in un istante. Custodiscimi dunque all'ombra delle tue ali,
 insegnami a servirti gratuitamente per puro amore; insegnami a dimenticarmi, a seppellire in te ogni preoccupa-
 zione di me stesso, ad affidare con pieno abbandono nelle
-tue mani l’anima mia. Ecco, per guadagnarla, a te la consegno, voglio perderla in te, c in te la ritroverò rivestita
+tue mani l’anima mia. Ecco, per guadagnarla, a te la consegno, voglio perderla in te, e in te la ritroverò rivestita
 della tua bellezza.

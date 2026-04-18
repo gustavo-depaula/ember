@@ -21,7 +21,7 @@ ad un unico fine: Dio.
 L'anima che vuole acquistare la santa semplicità, non accetta altra luce fuorchè quella che viene da Dio, che è Dio
 stesso; perciò scarta tutte le vedute dell'amor proprio e dell'egoismo, respinge i riflessi abbaglianti, ma falsi, delle pas
 sioni e delle massime del mondo, riconoscendo che tutto è
-tenebra ed inganno, tranne la luce della verità che può venîre da Dio solo, dalla sua legge, dal Vangelo. Giudica tutte
+tenebra ed inganno, tranne la luce della verità che può venire da Dio solo, dalla sua legge, dal Vangelo. Giudica tutte
 le cose alla luce della fede, vedendo in ogni circostanza, in
 ogni avvenimento, anche i più penosi, la mano di Dio e valendosi di tutto per andare a lui, senza perdere tempo a
 ragionare sulla condotta delle creature, cosa che complica la
@@ -32,7 +32,7 @@ in essa. In ogni momento e ad ogni passo della sua vita,
 l’anima semplice si appoggia a Dio, cercando in lui il suo
 unico sostegno e la sua unica forza. Ciò non toglie che si valga anche ‘ell'aiuto di one sagge e prudenti, ma lo fa
 con distacco, senza turbarsi nè agitarsi quando il Signore
-permette che queste le vengano a mancare. Comunque, în
+permette che queste le vengano a mancare. Comunque, in
 qualsiasi circostanza, il suo prime appoggio lo cerca sem-
 
 re in Dio e con piena confidenza, convinta che soltanto in
@@ -45,7 +45,7 @@ unico fine: Dio; ed ha un'unica intenzione: servire Dio, fargli piacere, dargli 
 
 sua condotta non s'nfiltrino mai intenzioni seconde, quali
 sono, ad esempio, far bella figura, attirarsi la stima altrui, accontentare un po' la propria curiosità o pigrizia, il proprio
-onore 0 il proprio egoismo, Queste intenzioni seconde sono
+onore o il proprio egoismo, Queste intenzioni seconde sono
 simili alle piccole volpi di cui parla il Cantico dei cantici,
 le quali penetrano di soppiatto nella vigna fiorita dell'anima,
 dea i fiori ed i frutti delle opere buone. Quante
@@ -81,7 +81,7 @@ più profondo dell'anima mia dove Tu risiedi.
 « Fa’ che, trattando col prossimo, segua sempre la via retta dell'amore di pura benevolenza, amando te in lui, senza
 ricerca di soddisfazione naturale.
 
-«In mezzo alle vicende della vita, agli imprevisti, insegnami ad andare dritto dove mi chiama Îa tua volontà, senza curiosità, nè distrazioni. Insegnami a battere la via retta
+«In mezzo alle vicende della vita, agli imprevisti, insegnami ad andare dritto dove mi chiama Ia tua volontà, senza curiosità, nè distrazioni. Insegnami a battere la via retta
 dell'amore che non conosce indugi, della semplicità che non
 conosce deviazioni, della verità che non conosce raggiri, dell'obbedienza che non conosce repliche, della purezza che
 non conosce fascino delle creature, del raccoglimento che non

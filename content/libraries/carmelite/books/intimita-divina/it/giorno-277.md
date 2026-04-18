@@ -45,9 +45,9 @@ infinita. Ciò è assolutamente inammissibile in un'anima che
 aspira all'unione con Dio: come può la menzogna pretendere di unirsi alla Verità suprema? Eppure, benchè in forma
 più sottile e più lieve, certe mancanze di sincerità non sono
 del tutto assenti dalla condotta delle anime devote: piccoli
-raggiri, parole buttate là ad arte per sviare un giusto rimprovero, per coprire uno sbaglio che non si vuole riconoscere 0
+raggiri, parole buttate là ad arte per sviare un giusto rimprovero, per coprire uno sbaglio che non si vuole riconoscere o
 anche per attirarsi qualche lode o un po' di ammirazione.
-e tutto ciò per vanità, per rispetto umano, per evitare un'umiliazione 0 un disturbo. Meschini procedimenti, indegni di
+e tutto ciò per vanità, per rispetto umano, per evitare un'umiliazione o un disturbo. Meschini procedimenti, indegni di
 uno spirito schietto e nobile! Qualsiasi mancanza di sincerità,
 benchè minima, dispiace molto al Signore in un'anima che si
 è data a lui e costituisce un serio ostacolo al suo progresso spirituale. S. Margherita Maria scrive: «Se vedessi un'anima
@@ -61,7 +61,7 @@ devono esprimere la verità cercata ed amata interiormente. La
 sincerità non richiede che si riveli a chiunque tutto quel che
 siamo, pensiamo o sappiamo — il che sarebbe contrario alla
 prudenza ed alle altre virtù — ma richiede che tutto quel
-che riveliamo, o con le parole 0 con le azioni e perfino col
+che riveliamo, o con le parole o con le azioni e perfino col
 silenzio, corrisponda a verità.
 
 ### Colloquio

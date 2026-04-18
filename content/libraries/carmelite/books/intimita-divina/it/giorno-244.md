@@ -9,13 +9,13 @@ O Signore, fa' che mediante la carità io possa davvero partecipare alla tua vit
 1. — La fede ti fa aderire a Dio per mezzo della conoscenza e, quindi, interessa soprattutto la tua mente; la speranza
 ti fa aderire a Dio per mezzo della convinzione di possederlo
 un giorno nella vita beata e, quindi, interessa soprattutto il
-tuo desiderio di felicità, ma la carità prende tutto il tuo essere €, per mezzo dell'amore, lo slancia in Dio. La fede ti
+tuo desiderio di felicità, ma la carità prende tutto il tuo essere e, per mezzo dell'amore, lo slancia in Dio. La fede ti
 dice chi è Dio, ti rivela il mistero della sua vita intima che
 sei chiamato a partecipare, la speranza ti dice che questo Dio
-vuol essere il tuo bene per tutta l’eternità, ma la carità te lo
+vuol essere il tuo bene per tutta l'eternità, ma la carità te lo
 fa raggiungere immediatamente per quella forza unitiva che
 le è propria. « La carità — insegna S. Tommaso — fa propriamente tendere a Dio, unendo l'affetto dell'uomo a Dio,
-sì che l’uomo non viva più per sè, ma per Iddio » (I, q. 17,
+sì che l'uomo non viva più per sè, ma per Iddio » (I, q. 17,
 a, 6, ad. 3).
 
 Ma, che cosè questa carità che ha il potere di unirci a
@@ -45,12 +45,12 @@ la carità ti rende capace di amare Dio per se stesso, perchè
 Egli è la bontà, la bellezza, la sapienza infinita, in una parola, perchè è Dio. L'amore che produce la speranza, pur
 essendo preziosissimo, è ancora imperfetto appunto perchè
 è amore di concupiscenza, mediante il quale si ama Dio per
-i benefici che da lui si ricevono. Invece l’amore di carità è
+i benefici che da lui si ricevono. Invece l'amore di carità è
 perfetto perchè è puro amore di compiacenza, di benevolenza, ossia è amore che si compiace del bene infinito di Dio
 e che vuole questo suo bene, non per il proprio tornaconto,
 ma per lui, per la sua felicità, per la sua gloria. La carità
 solleva il tuo amore così in alto che lo rende capace di amare realmente Dio come Egli stesso si ama, sebbene non con
-la medesima intensità. Dio ama se stesso con amore di compiacenza e di benevolenza infinita: il Padre si compiace inîinitamente nel bene infinito del Figlio e infinitamente lo
+la medesima intensità. Dio ama se stesso con amore di compiacenza e di benevolenza infinita: il Padre si compiace infinitamente nel bene infinito del Figlio e infinitamente lo
 vuole; a sua volta il Figlio si diletta nel bene infinito del
 Padre e infinitamente lo vuole e così pure il Padre ed il
 Figlio rispetto allo Spirito Santo, e viceversa. Fra le tre Persone divine vi è, dunque, un amore di amicizia purissima per
@@ -65,22 +65,22 @@ a dargli gusto, a procurargli, se così si può dire, la gioia di
 vederti corrispondere in pieno al suo amore; ti spinge a consacrare a lui tutta la tua vita, a donarti a lui senza riserva;
 ti spinge a cercare in primo luogo la sua volontà, i suoi interessi, la sua gloria, mettendo da parte la tua volontà ed
 i tuoi interessi personali. Ora comprendi meglio la sentenza
-di S. Tommaso: « la carità unisce l'affetto dell’uomo a Dio,
+di S. Tommaso: « la carità unisce l'affetto dell'uomo a Dio,
 sì che non viva più per sè, ma per Dio».
 
 ### Colloquio
 
 «Considera, anima mia, con che gioia ed amore il Padre
-riconosce suo Figlio e il Figlio suo Padre; contempla l’ardore
+riconosce suo Figlio e il Figlio suo Padre; contempla l'ardore
 con cui lo Spirito Santo si unisce ad Essi e come nessuno dei
 Tre possa separarsi da tanto amore e conoscenza, formando
 Essi una così sola; si conoscono, si amano, si compiacciono a
 vicenda. Ora, che bisogno v'è del mio amore? Perchè lo vuoi,
 mio Dio? Che ti guadagni con esso?
 
-«0 amore, o nome ch'io vorrei ripetere ovunque e che
+«o amore, o nome ch'io vorrei ripetere ovunque e che
 solo può darmi ardire di ripetere con la sposa dei Cantici:
-“Ho amato il mio Diletto!* Solo l'amore può darmi diritto
+"Ho amato il mio Diletto!* Solo l'amore può darmi diritto
 di pensare che Tu, Dio mio, mio Sposo e Bene mio, abbia
 bisogno di me...
 

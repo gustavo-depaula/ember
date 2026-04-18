@@ -44,7 +44,7 @@ ci sollecita alla generosità, all’abnegazione: bisogna darci
 senza esitazione, sicuri che, se Dio chiede, concederà anche
 la forza di eseguire. Tale fu la condotta dei pastori: appena
 udito l’annunzio dell'Angelo lasciarono tutto, gregge e riposo, «andarono in fretta e trovarono... il Bambino gia-
-cente nella mangiatoia » (Le. 2, 16). Furono i primi a trovare Gesù ed a gustare la sua pace.
+cente nella mangiatoia » (Lc. 2, 16). Furono i primi a trovare Gesù ed a gustare la sua pace.
 
 S. Teresa di Gesù dice: «La santa pace consiste nell’uniformarsi in tutto alla volontà di Dio, in modo che fra
 Dio e l’anima non vi sia alcuna divisione e non regni fra
@@ -52,7 +52,7 @@ loro che una sola volontà, non a parole e a desideri, ma ad
 opere, L'anima quando sa che una certa cosa è di miglior
 servizio al suo Sposo, non ascolta più nulla, nè le ragioni
 dell'intelletto, nè i timori..., ma lascia fare alla fede, senza
-curarsi del proprio riposo e interesse »_(P. 3, 1). Questa è
+curarsi del proprio riposo e interesse » (P. 3, 1). Questa è
 la perfetta « buona volontà ». Maria e Giuseppe ne sono il
 modello insuperabile: malgrado l’oscurità del mistero e i
 i sacrifici, aderirono con totale abbandono al piano

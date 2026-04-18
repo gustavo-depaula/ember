@@ -1,4 +1,4 @@
-## 100 — L’ IMPERFEZIONE
+## 100 — L'IMPERFEZIONE
 
 ### Presenza di Dio
 

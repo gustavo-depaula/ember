@@ -41,7 +41,7 @@ sono permessi e diretti da Dio per il bene dei suoi eletti:
 Appunto così il dono della sapienza conferisce una nota
 di soavità, non solo all’orazione, ma anche alla vita pratica:
 «sotto l'influsso di questo dono — dice S. Tommaso — l'amarezza si cambia in dolcezza, la fatica in riposo» (1l* Il*,
-q. 45, a. 3). î
+q. 45, a. 3). i
 
 
 2. — Il dono della sapienza ci conduce alla pace: pace
@@ -49,7 +49,7 @@ interiore dell'anima che, avendo gustato Dio, si dà a lui
 senza alcuna riserva, totalmente arresa alla sua volontà divina; pace serena di colui che, vedendo Dio in tutto, ac-
 cetta senza turbarsi le avversità della vita adorando in esse le
 divine disposizioni; ed anche pace sociale di chi, considerando gli uomini in rapporto a Bio, come creature e figli suoi,
-ama tutti e vuol vivere în pace con tutti. Più questa pace
+ama tutti e vuol vivere in pace con tutti. Più questa pace
 sarà perfetta, più ci condurrà a gustare il premio promesso
 da Gesù: « Beati i pacifici, perchè saranno chiamati figli di
 Dio» (Mt. 5,9).
@@ -73,7 +73,7 @@ che il pacifico, colui che possiede e diffonde la pace, debba
 sentirsi in modo tutto particolare figlio suo. Se gli uomini,
 in genere, sì sentono tanto poco figli di Dio, è anche perchè sono così poco pacifici: più pronti alle liti, alle lotte,
 alle guerre che alla pace. Di pace si parla, ma la pace non
-si fa, perchè l'uomo n©n si lascia guidare dallo Spirito della
+si fa, perchè l'uomo non si lascia guidare dallo Spirito della
 sapienza e vuol guidarsi, invece, da se stesso con la sua insipienza e così è dominato dall’orgoglio, dall'interesse, dalla
 cupidigia; vive nel disordine e semina disordine.
 

@@ -65,7 +65,7 @@ era il piano divino su di lei e Maria l’ha accettato totalmente, senza riserve
 totalmente unita alla volontà di Dio.
 
 
-Ogni cristiano riceve da Dio una vocazione, una missione da compiere, mediante la quale è chiamato a parteciare all'opera redentrice di Gesù. Questa missione poi, per
+Ogni cristiano riceve da Dio una vocazione, una missione da compiere, mediante la quale è chiamato a partecipare all'opera redentrice di Gesù. Questa missione poi, per
 le anime consacrate a Dio, culmina sempre in un compito
 di paternità o di maternità spirituale, Oh, se di fronte alla
 chiamata divina ogni anima sapesse rispondere con la piena

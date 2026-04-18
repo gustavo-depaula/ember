@@ -20,17 +20,17 @@ cuore la Passione di Cristo, di colui che avrà sofferto qualche cosa di simile 
 
 
 * La sigla C. A. indica la prima redazione delle cinque ultime
-see del Canfico Shiriluale; pubblicata in appendice all'Opera omo.
+see del Cantico Spirituale; pubblicata in appendice all'Opera omo.
 nima a cura del P. Gabriele di S. M. Maddalena - Libreria Fio:
 rentina, 1948,
 
 
-zioni accompagnamo il Signore nella sua ultima giornata
+zioni accompagniamo il Signore nella sua ultima giornata
 terrena.
 
 L’atroce martirio, che fra poche ore strazierà il suo
 Corpo, non è ancora cominciato e tuttavia l'agonia di Gesù
-nell'orto degli ulivi s uno dei momenti più dolorosi
+nell'orto degli ulivi è uno dei momenti più dolorosi
 della sua Passione e più rivelatori delle amarissime sofferenze del suo spirito. La sua SS.ma Anima si trova immersa in una angoscia inesprimibile: è l'abbandono e la
 desolazione estrema, senza il minimo conforto nè da
 parte di Dio, nè da parte degli uomini. Il Salvatore
@@ -49,7 +49,7 @@ Passione, ora che la sua umanità si trova di fronte alla
 rude concretezza del fatto, priva del soccorso sensibile
 della Divinità, la quale pare non solo ritirarsi, ma anche
 sdegnarsi contro di essa, Gesù geme: «Padre mio, se è
-possibile passi da me questo calice! ». Ma il grido angascioso della natura umana si spegne subito in quello
+possibile passi da me questo calice! ». Ma il grido angoscioso della natura umana si spegne subito in quello
 della perfetta conformità del volere di Cristo al volere
 del Padre: «Tuttavia non come voglio io, ma come
 vuoi Tu» (ivi, 39).
@@ -61,13 +61,13 @@ dei sacerdoti e gli insulti dei soldati che schiaffeggiano
 
 
 Gesù, gli sputano in volto, gli velano gli occhi, mentre
-fuori, nell’atrio, Pietro lo rinnega. Allalba riprendono le
+fuori, nell’atrio, Pietro lo rinnega. All'alba riprendono le
 interrogazioni e le accuse, poi incominciano i vari giri
 da un tribunale all’altro: da Caifa a Pilato, da Pilato ad
-Erode, da Erode ancora a Pilato: tien dietro l’orribile flagellazione, la coronazione di spine e infine, vestito da re
+Erode, da Erode ancora a Pilato: segue l’orribile flagellazione, la coronazione di spine e infine, vestito da re
 da burla, il Figlio di Dio viene presentato alla folla che
 urla: «Togli via costui, e libera Barabba », mentre per
-lui, il Salvatore, la plebaglia chiede a gran voce: «Crocifiggilo, crocifiggilo! » (Lc. 23, 18:e 21). Carico del legno
+lui, il Salvatore, la plebaglia chiede a gran voce: «Crocifiggilo, crocifiggilo! » (Lc. 23, 18 e 21). Carico del legno
 del supplizio, Gesù viene trascinato al Calvario e quindi
 crocifisso fra due ladroni. È una somma di terribili sofferenze fisiche e morali che raggiungono il massimo quando il Signore, agonizzando sulla croce, lancia il grido:
 «Dio mio, Dio mio, perchè mi hai abbandonato? » (Mr.
@@ -78,7 +78,7 @@ strazia l’Anima di Cristo ed ora accompagna, con rapido
 crescendo, l’intenso aumentare delle sue sofferenze fisiche.
 Durante il discorso dell'ultima Cena, Gesù, parlando della
 sua prossima Passione, aveva detto agli Apostoli: « Viene
-l’ora in cui voi sarete dispersi... e mi Jascerete solo; ma
+l’ora in cui voi sarete dispersi... e mi lascerete solo; ma
 io non sono solo, perchè il Padre è con me» (Gv. 16,32).
 L'unione col Padre è tutto per Gesù: è la sua vita e la
 sua forza, il suo conforto e la sua gioia: se gli uomini
@@ -108,12 +108,12 @@ nelle sue mani.
 
 «0 Cristo, Figlio di Dio, contemplando il gran dolore
 che hai sostenuto per noi sulla croce, sento dirti all'anima
-mia: ‘To non ti ho amato per inganno!” Queste parole
+mia: ‘Io non ti ho amato per inganno!” Queste parole
 [icm gli occhi miei e chiaramente vedo quanto Tu hai
 
 ‘atto per me, per effetto di questo amore. Vedo quel
 che hai sostenuto nella vita e nella morte, o Uomo-Dio
-appassionato, a cagione di questo amore sviscerato cd indicibile. Sì, o Signore, Tu non mi hai amato per inganno,
+appassionato, a cagione di questo amore sviscerato ed indicibile. Sì, o Signore, Tu non mi hai amato per inganno,
 ma con amore perfettissimo e verissimo. E in me scorgo
 essere tutto il contrario, poichè io ti amo tiepidamente e
 senza verità, e il conoscer questo mi è pena insopportabile.
@@ -140,13 +140,13 @@ me la doni e sani le mie infermità. Dio mio, poichè hai
 disposto di liberarmi e sanarmi, sol che io con lacrime
 
 lolore ti mostri i miei mali e le mie infermità, Signore,
-poichè la mia anîma è inferma, ecco io ti mostro i miei
+poichè la mia anima è inferma, ecco io ti mostro i miei
 peccati e le mie sciagure. Nessun peccato vi può essere,
 nessuna malattia dell'anima e dello spirito cui Tu non
 abbia dato rimedio bastante e non abbia soddisfatto con
 la tua morte.
 
 « Tutta la mia salute e la mia allegrezza è dunque in
-te, 0 Cristo crocifisso, sì che, in qualunque stato io mi
+te, O Cristo crocifisso, sì che, in qualunque stato io mi
 trovi, non voglio mai togliere lo sguardo dalla croce
 tua » (B. Angela da Foligno).

@@ -51,7 +51,7 @@ sotto l'influsso di questo dono.
 
 Lo Spirito Santo, più che farci temere Dio, ci fa, dunque temere noi stessi, la nostra cattiva volontà e le nostre
 passioni, che, essendo causa del peccato, possono metterci in
-perio di offendere Dio, di separarci da lui 0, per lo meno,
+perio di offendere Dio, di separarci da lui o, per lo meno,
 
 li non vivere abbastanza uniti a lui. Non si tratta però di
 un timore che genera inquietudine e scrupoli, ma di un timore congiunto all'amore, alla confidenza e che perciò spinge
@@ -65,7 +65,7 @@ che Dio, per la sua dignità immensa, è sommamente distante da lei, ma sente an
 le si è fatto tanto vicino da invitarla a vivere nella sua intimità. Fra queste alternative di riverenza filiale e di fiducia
 confidente il dono del timore matura a sboccia nell'amore
 persia «Quando l’anima giunge ad avere con perfezione
-lo spirito di timore, ha conseguito già perfettamente lo spirito d'amore; în quanto che quel timore, che è l’ultimo dei
+lo spirito di timore, ha conseguito già perfettamente lo spirito d'amore; in quanto che quel timore, che è l’ultimo dei
 sette doni, è un timore filiale, e il timore perfetto di figlio
 nasce dall'amore perfetto verso il padre» (G.C. C. 26, 3).
 

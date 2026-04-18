@@ -25,7 +25,7 @@ Madre, fu intimamente associata alla Passione del Figlio.
 Il Vangelo non ci dice che Maria sia stata presente nei
 momenti gloriosi della vita di Gesù, ma ci dice invece
 che fu presente sul Calvario: « Presso la croce di Gesù
-stavano sua Madre c... Maria di Cleofa e Maria Maddalena» (Gv. 19, 25). Nessuno aveva potuto impedirle di
+stavano sua Madre e... Maria di Cleofa e Maria Maddalena» (Gv. 19, 25). Nessuno aveva potuto impedirle di
 correre là, dove il Figlio suo doveva essere giustiziato; ed
 il suo amore le dà il coraggio di « stare » là, ritta, in piedi,
 presso la croce, per assistere alla dolorosissima agonia e
@@ -53,12 +53,10 @@ incommensurabile, ma il suo amore è più grande ancora,
 tanto grande che tutto può contenere quel mare di dolore;
 
 
-55. | SETTE DOLORI DI MARIA * 198;
-
 
 di nessuna creatura come di Maria si può dire che il suo
 amore è più forte della morte e di fatto l’ha resa capace
-di NERI la morte amarissima di Gesù.
+di sopportare la morte amarissima di Gesù.
 
 «Chi potrebbe rimanere impassibile nel. contemplare
 la Madre di Cristo dolorante col Figlio? » canta lo Stabat
@@ -68,10 +66,10 @@ io lis nel mio cuore le piaghe di Cristo, fammi consorte
 della sua Passione, fa” che io sia inebriato della Croce e
 del Sangue del. Figlio tuo ». Seguendo l’invito della Chiesa
 contempliamo, compatiamo i dolori di Maria, chiediamole
-la grande grazia di parteci con lei alla Passione del
+la grande grazia di partecipare con lei alla Passione del
 suo Gesù, E ricordiamo che questa partecipazione non
 deve rimanere nel campo del sentimento — sia pure di
-sentimenti buoni e sarti — ma deve condurci al vero com
+sentimenti buoni e santi — ma deve condurci al vero com
 patire, cioè al patire insieme con Gesù e con Maria: Le
 sofferenze che incontriamo nella nostra vita ci sono date
 appunto per questo,
@@ -81,13 +79,13 @@ meno dura e meno amara la lezione della croce, l'esempio
 materno di lei c’incoraggia al patire, ci rende più soave
 la via del Calvario. Andiamo, dunque, con Maria a raggiungere Gesù sul Calvario, andiamo con lei incontro allu
 croce e, sostenuti da lei, abbracciamola volontariamente
-per offrirla insieme con quella» del Figlio suo.
+per offrirla insieme con quella del Figlio suo.
 
 ### Colloquio
 
 «© Maria, santa Madre di Gesù crocifisso, dimmi
 qualche cosa della sua Passione, perchè, fra tanti che vi
-urono presenti, Tu più di tutti ne sentisti e vedesti, avendola mirata con gli occhi del corpo e della mente, e avendola considerata con ogni attenzione, giacchè Tu grandemente l’amavi » (B. Angela da Foligno).
+furono presenti, Tu più di tutti ne sentisti e vedesti, avendolo mirato con gli occhi del corpo e della mente, e avendola considerata con ogni attenzione, giacchè Tu grandemente l’amavi » (B. Angela da Foligno).
 
 «O Maria, fammi stare con te accanto alla croce;
 fammi contemplare con te la Passione del tuo Gesù; fammi partecipare al tuo dolore, al tuo pianto. O Santa
@@ -100,7 +98,7 @@ ed al tuo patire» (cfr. Stabat Mater).
 «O Regina dei vergini, Tu sei anche Regina dei martiri. Ma la ferita del pugnale si apre nel tuo cuore, perchè
 in te tutto avviene al di dentro...
 
-«Oh! come sci bella se ti contemplo durante il tuo
+«Oh! come sei bella se ti contemplo durante il tuo
 lungo martirio, così serena, ammantata di una maestà che
 emana forza e dolcezza insieme! Tu avevi appreso dal
 Verbo stesso come devono soffrire coloro che î Padre ha
@@ -110,13 +108,13 @@ amore.
 
 «Tu sei là, o Maria, ai piedi della croce, eretta, nella
 forza e nel coraggio; ed il Maestro mi dice: *Ecco la
-Madre tua ?. Mi bd te per mamma! Ora che Egli è ritornato al Padre, che mi ha messo al suo posto sulla croce,
+Madre tua ?. Mi dà te per mamma! Ora che Egli è ritornato al Padre, che mi ha messo al suo posto sulla croce,
 perchè io soffra in me “quel che manca alla sua Passione
-Ter il suo corpo che è la Chiesa’, Tu, o Maria, sei ancora
+Per il suo corpo che è la Chiesa’, Tu, o Maria, sei ancora
 
 ; per insegnarmi a soffrire come lui, per ripetermi, per
 farmi comprendere l’ultimo canto della sua anima, quel
-canto che ‘Tu sola, la Madre, hai potuto intendere » (E.T.
+canto che Tu sola, la Madre, hai potuto intendere » (E.T.
 II 15).
 
 O Madre dolcissima, perchè il mio desiderio di soffrire

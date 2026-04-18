@@ -23,10 +23,10 @@ siamo su questa terra conosciamo Dio «a traverso uno
 specchio, in enigma », mentre soltanto in cielo «lo vedremo
 a faccia a faccia » (1 Cor. 13, 12). E non solo non abbiamo
 una conoscenza adeguata di Dio, ma non l'abbiamo her
-pure della santità: fino a un certo punto conosciamo ‘©
+pure della santità: fino a un certo punto conosciamo ‘O
 cose di Dio e così pure fino ad un certo punto conosciamo
 la via della perfezione; infatti non sempre sappiamo di
-scemnere il più perfetto e molte volte, pur non volendo,
+scernere il più perfetto e molte volte, pur non volendo,
 sbagliamo credendo buono e santo ciò che in realtà non lo è.
 altra parte, la piena unione con Dio, ossia la santità,
 

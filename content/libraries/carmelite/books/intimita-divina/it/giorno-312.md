@@ -7,23 +7,23 @@ Signore, prendimi affinchè sia degno di collaborare con te alla diffusione del 
 ### Meditazione
 
 1 — Parlando del lavoro apostolico S. Paolo dice:
-«Dei sumus adjutores » (ICor. 39), siamo cooperatori,
+«Dei sumus adjutores» (I Cor. 3, 9), siamo cooperatori,
 collaboratori di Dio.
 
-_, apostolato non è quindi un'attività personale, frutto
-più 0 meno pregevole delle proprie risorse ed iniziative;
-non è un'attività che si può SUR secondo le proprie
+L'apostolato non è quindi un'attività personale, frutto
+più o meno pregevole delle proprie risorse ed iniziative;
+non è un'attività che si può svolgere secondo le proprie
 vedute e tanto meno con le proprie forze. Qualsiasi forma di apostolato è collaborazione all’opera unica di re-
 denzione e di santificazione che Dio svolge attraverso i
 secoli nel mondo. Dio solo può redimere e santificare,
-lgli che possiede la santità in proprio, Egli che è il creatore e la sorgente della grazia. « Uno è il Mediatore fra
-Dio e gli uomini » (/ Tim 2, 5), uno solo è il Redentore
+Egli che possiede la santità in proprio, Egli che è il creatore e la sorgente della grazia. « Uno è il Mediatore fra
+Dio e gli uomini » (I Tim. 2, 5), uno solo è il Redentore
 e il Santificatore: Gesù, Verbo Incarnato; tutti gli altri,
 anche i più grandi santi e perfino la Madonna, sono apostoli solo in quanto collaborano all'opera di Cristo. Noi,
-come dice S, Paolo, non facciamo che prestare a Dio la
+come dice S. Paolo, non facciamo che prestare a Dio la
 nostra attività: «Io ho piantato, Apollo ha innaffiato, ma
-è Dio che ha fatto ci escere; di modo che nulla è il piantatore, nulla l'innaffiatore, ma tutto è Dio che fa cresce-
-re» (/Cor. 3,607).
+è Dio che ha fatto crescere; di modo che nulla è il piantatore, nulla l'innaffiatore, ma tutto è Dio che fa cresce-
+re» (I Cor. 3, 6-7).
 
 L'opera dell’agricoltore è certamente necessaria per
 far fruttificare il campo, tuttavia non è sufficiente, ma
@@ -34,7 +34,7 @@ non è sufficiente, Dio solo può dare l’incremento. Come
 Dio solo può far splendere il sole o mandare la pioggia
 per fecondare il campo materiale, così Dio solo può dare la grazia per fecondare il campo dell'apostolato. S. Paolo
 era talmente convinto di questa verità che, rivolgendosi
-ai Corinti, esclamava: «Dei agricultura estis, Dei aedificatio estis» (1 Cor. 3,9); benchè egli per il primo li aves-
+ai Corinti, esclamava: «Dei agricultura estis, Dei aedificatio estis» (I Cor. 3, 9); benchè egli per il primo li aves-
 se generati alla fede non dice: siete miei figli, siete mio
 campo, ma «siete campo di Dio, siete edificio di Dio ».
 L’apostolato non è opera umana, ma opera divina, cui
@@ -47,26 +47,26 @@ nelle mani dello scrittore, ma è strumento vivo, personale, fornito di intellig
 mettersi volontariamente a disposizione dell’Artista divino
 cercando di armonizzare, o meglio di sincronizzare il suo
 modo di pensare, di volere, di agire, col modo divino, ossia con i metodi e i voleri divini. Ognuno di noi sarà apo-
-stolo nella misura in cui sarà strumento docile nelle mani
+apostolo nella misura in cui sarà strumento docile nelle mani
 di Dio, in modo che Egli possa servirsi di lui come vuole.
 
-Anche qui dobbiamo fissare lo ardo su Gesù; la
+Anche qui dobbiamo fissare lo sguardo su Gesù; la
 sua Umanità fu lo strumento di cui il Verbo si servì per
 la redenzione del genere umano. L'Umanità di Gesù non
-ha personalità ropria; la sua volontà, la sua intelligenza,
+ha personalità propria; la sua volontà, la sua intelligenza,
 i suoi affetti, il suo corpo sono strumenti del Verbo, di
 cui Egli usa con pienissima libertà e attraverso i quali
 compie la sua opera di amore per la salvezza degli uomini.
 
-hh maniera analoga l’apostolo — benchè abbia una
-personalità propria dr rimarrà sempre distinta da Dio,
+In maniera analoga l’apostolo — benchè abbia una
+personalità propria che rimarrà sempre distinta da Dio,
 anche nei più alti stati di unione mistica — deve darsi
 a Dio come docilissimo strumento, come una pura capacità messa totalmente a sua disposizione. Tutto ciò che
 l’apostolo ha ricevuto da Dio — intelligenza, volontà, doti
 naturali e soprannaturali — deve liberamente offrirlo a
 lui, affinchè Egli se ne serva come vuole per la diffusione
-del suo regno. Che Dio lo adoperi per Ppe grandi c
-vistose, o per opere umili e nascoste, che lo usi per annunziare in pubblico la sua parola o per illuminare nel segreto le anime, che lo impieghi in un'attività intensa ©
+del suo regno. Che Dio lo adoperi per opere grandi e
+vistose, o per opere umili e nascoste, che lo usi per annunziare in pubblico la sua parola o per illuminare nel segreto le anime, che lo impieghi in un'attività intensa o
 lo immoli nella preghiera e nel silenzio, poco importa,
 purchè tutte le sue forze e tutta la sua vita siano poste a
 servizio delle anime,
@@ -81,14 +81,13 @@ la condotta di Dio.
 ### Colloquio
 
 «Dio mio, so benissimo che Tu non hai bisogno di
-nessuno per compiere la tua opera di santificazione; ©
+nessuno per compiere la tua opera di santificazione; e
 tuttavia vuoi essere aiutato nella divina cultura delle anime, nel medesimo modo che permetti ad un abile giar-
 diniere di coltivare delle piante delicate e rare, pur riserbando per te la cura di fecondarle. Oh, quante anime
-Huopissbdio ad una santità eminente, se fossero ben dirette fin dai loro primi passi!
+arriverebbero ad una santità eminente, se fossero ben dirette fin dai loro primi passi!
 
 «Dio mio, l'onore più grande che Tu possa fare ad
-un'anima, non è già darle molto, ma chiederle molto, Perciò, quando mi dai da soffrire per la salvezza delle ani-
-ine, mi tratti come i tuoi privilegiati! Non fu forse soffrendo e morendo che Tu pure hai redento il mondo?
+un'anima, non è già darle molto, ma chiederle molto. Perciò, quando mi dai da soffrire per la salvezza delle anime, mi tratti come i tuoi privilegiati! Non fu forse soffrendo e morendo che Tu pure hai redento il mondo?
 O Gesù, io aspiro alla felicità di sacrificare la mia vita
 per te, ma il martirio del cuore non è meno fecondo dell’effusione del sangue, e fin d’ora questo martirio è mio.
 Com'è bella, o Signore, la parte che mi hai riservata,
@@ -103,4 +102,4 @@ Sangue e che, per non cadere nell’abisso, non attendono
 che il nostro soccorso.
 Come sarei felice se in punto di morte potessi avere
 un’anima da offrirti! Vi sarebbe un’anima strappata al
-fuoco dell’inferno e che ti benedirebbe per tutta l’eternità » (T.B.G. St, 5; Lt. 184, 171,23).
+fuoco dell’inferno e che ti benedirebbe per tutta l’eternità » (T.B.G. St. 5; Lt. 184, 171, 23).

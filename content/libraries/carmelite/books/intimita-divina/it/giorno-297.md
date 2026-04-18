@@ -31,7 +31,7 @@ il cuore è davvero umile, mansueto, longanime, si sopporta tutto con amore, ave
 lità altrui piuttosto che di far valere i propri. Ma è difficile
 perchè, finchè siamo quaggiù, l'amor proprio, anche se mortificato, tenta sempre di risorgere e di affermarsi creando
 continue occasioni di urti reciproci, per schivare le quali occorre tanta rinuncia di sè e tanta delicatezza per gli altri. Dob-
-biamo persuaderci che tutto ciò che disturba, affievolisce 0,
+biamo persuaderci che tutto ciò che disturba, affievolisce o,
 peggio, distrugge l'unione non piace a Dio e non gli piace
 neppure se lo facciamo sotto pretesto di zelo. Salvo l'adem:
 pimento del dovere ed il rispetto alla legge di Dio, dobbiamo
@@ -68,7 +68,7 @@ tificazione, dobbiamo essere pronti a qualsiasi sacrificio personale pur di mant
 Gesù ha chiesto per noi non solo l'unione, ma l'unione per-
 ‘fetta: «siano fetti nell'unità» (Gv. 17, 23).
 
-Anche il Vangelo di oggi viene a rafforzare questa spinta all'unione, giacchè in esso Gesù ci ripete che il comand:
+Anche il Vangelo di oggi viene a rafforzare questa spinta all'unione, giacchè in esso Gesù ci ripete che il comandamento
 mento dell'amore del prossimo è, insieme con quello dell’amore di Dio, il fondamento di «tutta la legge», ossia di
 tutto il cristianesimo. Non lasciamo cadere invano questi continui richiami alla carità ed all'unione; la Chiesa insiste su
 questi punti perchè su di essi ha insistito. Gesù, perchè la
@@ -94,7 +94,7 @@ l'abbondanza di ogni cosa, di tutte le ricchezze celesti e terrestri,
 sempre uniti gli uni agli altri, conservando l'unione di spirito, avendo un medesimo volere e sentire, emulando quella
 indivisibile unità che è fra le tre Persone divine » (S. M. Maddalena de' Pazzi).
 
-«Dove c'è l’amore, la carità, ivi sei Tu, o Signore! L'amore tuo, 0 Cristo, ci ha riunito in un sol corpo ed in un sol
+«Dove c'è l’amore, la carità, ivi sei Tu, o Signore! L'amore tuo, O Cristo, ci ha riunito in un sol corpo ed in un sol
 cuore, concedici dunque di amarci con animo sincero. Tieni
 lontano da noi le contese e le liti; fa' che i nostri cuori siano
 sempre uniti in te e Tu sta sempre in mezzo a noi» (dalla

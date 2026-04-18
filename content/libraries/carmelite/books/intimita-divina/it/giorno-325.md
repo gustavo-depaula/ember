@@ -2,36 +2,36 @@
 
 ### Presenza di Dio
 
-— O Dio, strappa dal mio cuore tutte le intenzioni seconde, tutti i movimenti dell'amor proprio, affinchè io miri solo alla tua gloria.
+O Dio, strappa dal mio cuore tutte le intenzioni seconde, tutti i movimenti dell'amor proprio, affinchè io miri solo alla tua gloria.
 
 ### Meditazione
 
-nell’apostolato deriva dal fatto che la loro attività apostolica non viene esercitata con quelle condizioni che di per
+nell'apostolato deriva dal fatto che la loro attività apostolica non viene esercitata con quelle condizioni che di per
 
 sè richiede e che sono indispensabili per trasformarla in
-un intenso esercizio di vita spirituale. Si tratta di un certo disordine, di motivi più © meno umani che, insinuandosi in tale attività, la fanno scendere dal piano soprannaturale a quello umano e la fanno diventare un’occasione di deviazione, di raffreddamento della vita interiore,
-per cui l’anima si sente insoddisfatta, inquieta, Pio XII, nel
-Motu proprio «Primo feliciter », ha espresso molto chiaramente le condizioni di un'attività santa: « L’apostolato
+un intenso esercizio di vita spirituale. Si tratta di un certo disordine, di motivi più o meno umani che, insinuandosi in tale attività, la fanno scendere dal piano soprannaturale a quello umano e la fanno diventare un'occasione di deviazione, di raffreddamento della vita interiore,
+per cui l'anima si sente insoddisfatta, inquieta, Pio XII, nel
+Motu proprio «Primo feliciter », ha espresso molto chiaramente le condizioni di un'attività santa: « L'apostolato
 — egli dice — deve essere sempre santamente esercitato
-con tanta purezza d’intenzione, con tanta interiore unione
+con tanta purezza d'intenzione, con tanta interiore unione
 con Dio, con sì generosa dimenticanza e forte abnegazione di sè e con tale amore alle anime, che esso scaturisca
 dallo spirito interiore che lo informa e nel medesimo tempo continuamente alimenti c rinnovi questo stesso spirito », Riesaminando il nostro apostolato alla luce di queste
 Hun potremo individuarne i punti deboli, scoprire i dietti da evitare cd anche i rimedi da prendere. Le cond
-zioni proposte sono quattro: purezza d’intenzione, unione con Dio, abnegazione di sè, amore alle anime; esse sono di tale importanza che, mentre assicurano all’apostolato la sua fecondità, ne fanno un efficace mezzo di progresso spirituale. Sforzandoci di realizzarle, eleveremo inieme il livello e della nostra attività e della nostra vita
+zioni proposte sono quattro: purezza d'intenzione, unione con Dio, abnegazione di sè, amore alle anime; esse sono di tale importanza che, mentre assicurano all'apostolato la sua fecondità, ne fanno un efficace mezzo di progresso spirituale. Sforzandoci di realizzarle, eleveremo inieme il livello e della nostra attività e della nostra vita
 
-Consideriamo anzitutto la purezza d’intenzione; se nessuno può «servire Dio c Mammona» (Mt. 6, 24), tanto
-meno l’apostolo può darsi all'attività apostolica con la doppia intenzione di servire Dio e l'amor proprio, di piacere
+Consideriamo anzitutto la purezza d'intenzione; se nessuno può «servire Dio c Mammona» (Mt. 6, 24), tanto
+meno l'apostolo può darsi all'attività apostolica con la doppia intenzione di servire Dio e l'amor proprio, di piacere
 it Dio e al mondo, di zelare gli interessi delle anime e gli
-interessi personali. La forza, la pace, la vita vengono dall’unità; il frammentarismo, anche quello dello spirito, non
+interessi personali. La forza, la pace, la vita vengono dall'unità; il frammentarismo, anche quello dello spirito, non
 può portare che alla debolezza, alla divisione, alla guerra
-e infine alla morte. L’apostolo che ha il cuore diviso da
+e infine alla morte. L'apostolo che ha il cuore diviso da
 intenzioni opposte invano cercherà la pace nel suo lavoro,
 ma sarà sempre inquieto, insoddisfatto.
 
 do grossolano che risalta facilmente all'occhio, ma anche
 in modo così sottile che all'anima distratta passa del tutto
 inosservato. Per scoprire le minime intenzioni seconde,
-che come piccole volpi si insinuano di soppiatto a rovinare l’attività apostolica, occorre un clima di raccoglimento e di preghiera. Nei momenti di pausa ai piedi ‘del Signore l’apostolo si accorgerà che spesso, durante le occupazioni quotidiane, perde di vista il fine soprannaturale
+che come piccole volpi si insinuano di soppiatto a rovinare l'attività apostolica, occorre un clima di raccoglimento e di preghiera. Nei momenti di pausa ai piedi 'del Signore l'apostolo si accorgerà che spesso, durante le occupazioni quotidiane, perde di vista il fine soprannaturale
 che dovrebbe animare la sua attività e che in luogo di csso subentrano fini secondari che diventano il motivo immediato di tante sue deliberazioni ed azioni. Ciò significa
 che la sua intenzione non rimane orientata unicamente
 verso Dio e le anime, ma spesso devìa sotto l'influsso dell'amor proprio; sì tratterà talvolta di una ricerca più ©
@@ -40,19 +40,19 @@ che avanzamento di carriera, essere preferito dai superiori
 e prescelto per opere più attraenti o redditizie... Insomma,
 dovrà constatare che, accanto all'amore di Dio e delle
 anime, vi è ancora molto amor proprio ed egoismo. Davanti a questo quadro poco consolante non deve scoraggiarsi, ma riconoscere umilmente la propria miseria e ringraziare il Signore che gliela scopre appunto sto possa correggersene. Non deve DERE pensare che tutto ciò
-che fa sia unicamente frutto di amor proprio: no, quando una persona si è data all’apostolato mossa dal desiderio sincero di fare la volontà del Signore e di conquistarli altri cuori, bisogna dire che è animata dall'amore di
+che fa sia unicamente frutto di amor proprio: no, quando una persona si è data all'apostolato mossa dal desiderio sincero di fare la volontà del Signore e di conquistarli altri cuori, bisogna dire che è animata dall'amore di
 Dio e delle anime, e tuttavia bisogna pure ammettere che
-il suo amore non è ancora così forte da trionfare totalmente delle passioni umane. L’apostolo non deve dunque
-cessare di combattere tutte le manifestazioni, anche minime, dell’amor proprio, non deve indulgere. con esse col
+il suo amore non è ancora così forte da trionfare totalmente delle passioni umane. L'apostolo non deve dunque
+cessare di combattere tutte le manifestazioni, anche minime, dell'amor proprio, non deve indulgere. con esse col
 pretesto che si tratta di movimenti naturali, “ma correggere, mortificare, reprimere, tagliare senza pietà, sempre
 
 rettificando le sue intenzioni. È necessaria una lunga c
 profonda purificazione per vincere totalmente il dualismo
-fra Dio c l'io, l’amore delle anime e l’amore di sè. Occorre invocare dal Signore la grazia di questa purificazione totale e disporvisi facendo tesoro di tutte le occasioni
+fra Dio c l'io, l'amore delle anime e l'amore di sè. Occorre invocare dal Signore la grazia di questa purificazione totale e disporvisi facendo tesoro di tutte le occasioni
 di distacco, di rinuncia, di sacrificio, di umiliazione che
-l’attività apostolica offre in abbondanza a chi vi si dedica
-seriamente. Battendo questa via, l’apostolo troverà nel suo
-lavoro un ottimo mezzo di ascesa spirituale e, anzichè invischiarsi nei pericoli che l’attività esterna presenta quando l’amor proprio non è represso, sì purificherà attraverso l’esercizio del suo apostolato,
+l'attività apostolica offre in abbondanza a chi vi si dedica
+seriamente. Battendo questa via, l'apostolo troverà nel suo
+lavoro un ottimo mezzo di ascesa spirituale e, anzichè invischiarsi nei pericoli che l'attività esterna presenta quando l'amor proprio non è represso, sì purificherà attraverso l'esercizio del suo apostolato,
 
 ### Colloquio
 
@@ -60,17 +60,17 @@ lavoro un ottimo mezzo di ascesa spirituale e, anzichè invischiarsi nei pericol
 bene delle anime, devo anzitutto drizzare l'occhio della
 mente a te, eterno Lume e al tuo splendore, affinchè Tu
 mi dia luce, fortifichi lo spirito mio e mi aiuti a ritirarmi
-il più possibile dalle cose esterne per essere tutto interiore e rivolto alle cose interiori. Fa” che nel prossimo consideri solo l’uomo interiore, non curandomi dell’esteriore
-se non in quanto serva all’interiore, in modo che tutto il
+il più possibile dalle cose esterne per essere tutto interiore e rivolto alle cose interiori. Fa” che nel prossimo consideri solo l'uomo interiore, non curandomi dell'esteriore
+se non in quanto serva all'interiore, in modo che tutto il
 resto sia messo da parte come vanità e io non sia tirato
 a cose vane,
 
-«Dio mio, che io sia mosso all’apostolato, alle ora
-ni e ai buoni esempi, solo dal desiderio di salvare Je anime e non dalla vanagloria, dall’ambizione, dall'umana compiacenza © da qualche mondana utilità, Te solo, o Cristo
+«Dio mio, che io sia mosso all'apostolato, alle ora
+ni e ai buoni esempi, solo dal desiderio di salvare Je anime e non dalla vanagloria, dall'ambizione, dall'umana compiacenza o da qualche mondana utilità, Te solo, o Cristo
 crocifisso, voglio cercare! Voglio inebriare le anime del
 tuo Sangue e non di curiosità, affinchè bramino te solo.
 Voglio dire a ciascuna di esse: “io non conosco altro se
-non Gesù Cristo e lui crocifisso ’. Perciò, non solo non
+non Gesù Cristo e lui crocifisso '. Perciò, non solo non
 voglio vantaggi terreni e non m'importa di piacere agli
 uomini, ma neppure giudico di conoscere altra persona o
 altra cosa tranne te, Cristo crocifisso.
@@ -79,9 +79,9 @@ altra cosa tranne te, Cristo crocifisso.
 
 |? - DIMENTICANZA E ABNEGAZIONE DI Sf 67
 
-lunque altra cosa mi si offra allo sguardo o al gusto, all’udito o ad un altro senso, qualunque cosa, tranne te, 10
+lunque altra cosa mi si offra allo sguardo o al gusto, all'udito o ad un altro senso, qualunque cosa, tranne te, 10
 la consideri un nulla, sì che non mi diletti, non mi glori,
-non mi riposi se non nel tuo Sangue, al quale vo’ essere
+non mi riposi se non nel tuo Sangue, al quale vo' essere
 totalmente rivolto. Fa' che i miei occhi non siano pieni
 di cose terrene, ma del tuo soffrire, fa” che la mia bocca
 non sia piena di parole vane, ma della tua Passione, e co-

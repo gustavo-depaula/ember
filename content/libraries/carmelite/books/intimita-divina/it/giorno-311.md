@@ -15,7 +15,7 @@ sere membro del Corpo mistico di Cristo. « Noi molti
 siamo un corpo solo in Cristo e, per i rapporti reciproci,
 siamo membri gli uni degli altri» (Rom. 12, 5); perciò,
 come nel nostro corpo ciascun membro s’interessa al bene degli altri membri «e se un membro soffre, tutti con
-esso soffrono, e se un membro ha gloria, tutte le membra godono con lui» (/ Cor. 12,26), così ogni cristiano è
+esso soffrono, e se un membro ha gloria, tutte le membra godono con lui» (I Cor. 12,26), così ogni cristiano è
 tenuto ad interessarsi del bene degli altri.
 
 «Se una spina — dice S. Giovanni Crisostomo —
@@ -28,14 +28,14 @@ gli occhi non trascurano il bene del piede, nè dicono:
 corre in aiuto del membro sofferente, così nessun cristi:
 no può disinteressarsi del suo fratello, ma è tenuto —
 secondo le sue possibilità — ad adoperarsi per il bene
-dell’anima di Jui e ciò appunto in forza del battesimo
+dell’anima di lui e ciò appunto in forza del battesimo
 che, costituendolo membro del Corpo mistico, l’ha reso
 solidale con le altre membra, sì che il bene altrui è bene
 suo, come pure il male altrui è male suo,
 
 «Tutti i mali nascono dal fatto che reputiamo cose
 estranee quelle che riguardano il nostro stesso corpo,
-Nessuno può fare il PESDRA dovere se trascura la salvezza del prossimo. Se osì dire di non aver nulla di comune
+Nessuno può fare il proprio dovere se trascura la salvezza del prossimo. Se osi dire di non aver nulla di comune
 col tuo membro, nè stimi di aver nulla di comune col
 tuo fratello, non hai neppure Cristo per Capo ». Queste
 forti parole del Crisostomo ci dicono che l’apostolato
@@ -72,9 +72,9 @@ si vuol servire per continuare la sua opera redentrice nel
 mondo; Egli, onnipotenza infinita, che, come ha creato
 tutto dal nulla, così ha il potere di santificare le anime
 senza il concorso di nessuno, vuole avere bisogno di noi,
-della nostra povera SR e c'invita e ci sollecita a sacrificarci insieme con lui per la salvezza dei fratelli. « Mi-
+della nostra povera opera e c'invita e ci sollecita a sacrificarci insieme con lui per la salvezza dei fratelli. « Mi-
 stero tremendo — esclama Pio XII — nè mai sufficientemente meditato: che, cioè, la salvezza di molti dipen-
-da dalle preghiere e dalle volontarie mortificazioni a questo Sono intraprese dalle membra del mistico Corpo di
+da dalle preghiere e dalle volontarie mortificazioni a questo scopo intraprese dalle membra del mistico Corpo di
 Gesù Cristo e dalla cooperazione dei Pastori e dei fedeli» (ivi). Essere apostoli significa prestare a Cristo la propria capacità, la propria attività, affinchè Egli, per mezzo nostro, continui a redimere ed a santificare le anime.
 
 ### Colloquio
@@ -83,7 +83,7 @@ Gesù Cristo e dalla cooperazione dei Pastori e dei fedeli» (ivi). Essere apost
 Sopra il popolo tuo e sopra il Corpo mistico della santa
 Chiesa, poichè Tu sarai più glorificato nel perdonare a
 tante creature, che non perdonando solamente a me, miserabile, che tanto ti ho offeso. Perciò ti prego, divina,
-eterna Carità, che Tu faccia vendetta di me c faccia misericordia al popolo tuo; mai mi partirò dalla tua presen-
+eterna Carità, che Tu faccia vendetta di me e faccia misericordia al popolo tuo; mai mi partirò dalla tua presen-
 za finchè non vedrò che Tu faccia ad esso misericordia.
 Come potrei accontentarmi se io avessi vita eterna e il
 popolo tuo la morte?... Voglio dunque, e per grazia te
@@ -95,7 +95,7 @@ pregando ancora umilmente, per la virtù della tua Passione, che Tu mondi e puri
 Sa, tua sposa, e non ritardi più... Rivolgo poi ad altra
 parte lo sguardo e vedo le anime perdute d’innumerevoli
 
-eccatori e nel vederle mi si spi 0 piuttosto, con la
+eccatori e nel vederle mi si spiaccia, anzi piuttosto, con la
 ‘orza di acerbo rammarico, mi si dilata il cuore, c così,
 vinta dalla compassione, non posso fare a meno di piangere la miseria loro, quasi come mi trovassi simile ad
 esse, imbrattata dal fango delle colpe loro.

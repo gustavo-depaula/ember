@@ -12,13 +12,13 @@ il dolore per amore di Dio. Questa lezione è dura e ripugnante alla nostra natu
 
 
 alla gioia; eppure questa lezione viene da Gesù, Maestro
-di verità e di vita, Wasta amantissimo delle anime nostre,
-che vuole solo il nostro vero bene. Se, dunque, Egli c'insegna a soffrire, vuol dire.che nella sofferenza è racchiuso
+di verità e di vita, Pastore amantissimo delle anime nostre,
+che vuole solo il nostro vero bene. Se, dunque, Egli c'insegna a soffrire, vuol dire che nella sofferenza è racchiuso
 un grande tesoro. i
 in sè la sofferenza è un male e non può essere amabile;
 se Gesù ha voluto abbracciarla con tanta pienezza, e se la
 propone a noi invitandoci a stimarla ed amarla, è unicamente in vista di un bene superiore raggiungibile soltanto
-er mezzo di essa, il bene sublime della redenzione e santifine delle anime nostre. .
+per mezzo di essa, il bene sublime della redenzione e santificazione delle anime nostre. .
 
 Benchè l’uomo, essendo un essere composto, sia per sua
 natura soggetto al dolore, Dio, mediante i doni preternaturali, aveva voluto che i nostri progenitori ne fossero esenti.
@@ -51,13 +51,13 @@ uomini sono soggetti alla sofferenza, ma solo il cristiano
 possiede il segreto di farla entrare nella sua vita, senza che
 ne distrugga l'armonia e la felicità possibili su questa terra.
 E tale segreto consiste proprio nel saper armonizzare ogni
-genere di sofferenza con le RRODHE aspirazioni, le quali, Fri
+genere di sofferenza con le proprie aspirazioni, le quali, Fri
 un cristiano, non possono mai limitarsi a un ideale di felicità terrena. Questa armonizzazione è possibile, perchè
 quello che è contrarietà e inconveniente da un punto di
 Vista, spesso è assai conveniente da un altro: come, per
 esempio, la sofferenza fisica — fame, freddo, malattia, ecc.
-= pe essendo inconveniente per il corpo, può essere assai
-utile per il prpnginearo di un bene morale o soprannaturale, qual’è l'acquisto della virtù, il progresso nella santità, ecc. Se dal punto di vista puramente umano, certe
+che, pur essendo inconveniente per il corpo, può essere assai
+utile per il raggiungimento di un bene morale o soprannaturale, qual’è l'acquisto della virtù, il progresso nella santità, ecc. Se dal punto di vista puramente umano, certe
 sofferenze sono dei tutto inopportune ed inutilizzabili, non
 lo sono mai dal punto di vista soprannaturale. « Tutto coopera a bene per chi ama Dio » (Rom. 8, 28), e anche le più
 grandi calamità private o sociali possono diventare un prezioso ed efficacissimo mezzo di elevazione. Qualsiasi sofferenza può, quindi, essere armonizzata con gli ideali supremi del cristiano: la salute eterna, la santità, la gloria di
@@ -68,10 +68,10 @@ noi: la carità, l’amore a Dio e alle anime ci renderanno
 capaci di abbracciare qualsiasi dolore, armonizzandolo con
 le nostre più alte aspirazioni. In tal modo la sofferenza
 trova un posto — e un posto molto importante — nella
-nostra vita, senza tuttavia distruggere l'armonia e la serenità, senza Opprimere lo spirito, ma anzi dilatandolo in
+nostra vita, senza tuttavia distruggere l'armonia e la serenità, senza opprimere lo spirito, ma anzi dilatandolo in
 un respiro sempre più ampio, in un amore sempre più
 
-‘ande. Proprio così, anche soffrendo, si può essere feici. Ecco come Gesù ha trasformato il dolore, ecco il
+‘ande. Proprio così, anche soffrendo, si può essere felici. Ecco come Gesù ha trasformato il dolore, ecco il
 valore che la sua Passione gli ha conferito.
 
 ### Colloquio
@@ -88,9 +88,9 @@ perchè vuoi che il mio cuore sia tutto per te.
 «La vita passa così presto che veramente è meglio
 avere una bellissima corona in cielo e un po’ di sofferenza
 
-Uaggiù, che avere una corona ordinaria senza soffrire.
+quaggiù, che avere una corona ordinaria senza soffrire.
 
-uando penso che per una sofferenza sopportata con gioia
+Quando penso che per una sofferenza sopportata con gioia
 ti amerò di più per tutta l'eternità, comprendo bene che
 se Tu mi donassì l'universo intero con tutti i suoi tesori,
 ciò non sarebbe da paragonarsi alia più leggera sofferenza.

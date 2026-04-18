@@ -7,7 +7,7 @@ O Gesù, ti credo e ti adoro presente nel Sacramento dell’altare: aumenta la m
 ### Meditazione
 
 1. — Nel Canone della Messa l'Eucaristia è chiamata
-« Mysterium fidei» e infatti, solo-la fede ci può far riconoscere Dio presente sotto le apparenze del pane. Qui, come dice S. Tommaso, i sensi non servono a nulla, anzi, la
+« Mysterium fidei» e infatti, solo la fede ci può far riconoscere Dio presente sotto le apparenze del pane. Qui, come dice S. Tommaso, i sensi non servono a nulla, anzi, la
 vista, il tatto, il gusto s'ingannano, non avvertendo nell'Ostia consacrata che un poco di pane, Ma che importa?
 Abbiamo la parola del Figlio di Dio, la parola di Cristo
 che ha dichiarato: «Questo è il mio Corpo... Questo è il
@@ -15,7 +15,7 @@ che ha dichiarato: «Questo è il mio Corpo... Questo è il
 mio Sangue» e su questa parola crediamo sicuri; « Credo
 quidquid dixit Dei Filius, nihil hoc verbo Veritatis verius»;
 credo quanto ha detto il Figlio di Dio; nulla è più vero
-di questa parola della Verità (Adoro te devote). Noi cre
+di questa parola della Verità (Adoro te devote). Noi crediamo
 diamo certamente nell’Eucaristia, non abbiamo alcun dubbio da opporvi ma, purtroppo, molto spesso dobbiamo riconoscere che la nostra fede è languida, debole, fiacca. Pur
 vivendo vicino ai sacri altari ed abitando forse sotto il medesimo tetto di Gesù Sacramentato, non è difficile rimanere un po' indifferenti, un po' freddi di fronte a questa
 grande realtà, Purtroppo, la nostra natura tanto grossolana,
@@ -23,11 +23,11 @@ un po' alla volta, finisce per abituarsi anche alle cose più
 belle e più sublimi, sì che queste — soprattutto quando
 si trovano facilmente alla nostra portata — non ci fanno
 più impressione, non ci scuotono più; così avviene che, pur
-cretino nella presenza ineffabile di Gesù nel SS.mo Sacramento, non avvertiamo la grandezza di questa realtà,
+crediamo nella presenza ineffabile di Gesù nel SS.mo Sacramento, non avvertiamo la grandezza di questa realtà,
 non ne abbiamo il senso vivo, concreto che ne avevano i
 santi. Ripetiamo dunque anche noi, con molta umiltà e
 confidenza, la bella preghiera degli Apostoli: « Domine,
-adauge nobis fidem », Signore accresci a noi la Fede! (Le.
+adauge nobis fidem », Signore accresci a noi la Fede! (Lc.
 17, 5).
 
 2. — Quando Gesù annunziò l'Eucaristia, molti dei
@@ -35,15 +35,14 @@ suoi uditori si scandalizzarono e parecchi dei suoi discepoli,
 che fino a quel momento l'avevano seguito, «si ritrassero
 e non andarono più con lui» (Gv. 6, 67). Pietro, invece,
 a nome degli Apostoli diede questa bellissima testimonianza
-di fede; «$i more..., Tu salita parole di vita eterna. Noi
-abbiamo luto e conosciuto che Tu sei il Cristo Figlio di
+di fede; «Signore, da chi andremo? Tu solo hai parole di vita eterna. Noi
+abbiamo creduto e conosciuto che Tu sei il Cristo Figlio di
 Dio» (Gv. 6, 69 e 70). La fede nell'Eucaristia ci appare,
 così, come la pietra di paragone dei veri seguaci di Gesù
-© quanto più questa fede è intensa, tanto più rivela un’amicizia intima e profonda con Cristo. Chi, come Pietro, crede
+O quanto più questa fede è intensa, tanto più rivela un’amicizia intima e profonda con Cristo. Chi, come Pietro, crede
 fermamente in luî, crede ed accetta tutte le sue parole, tutti
 i suoi misteri: dall'Incarnazione, all'Eucaristia. Sappiamo
 
-ai
 
 che la fede è anzitutto dono di Dio. Proprio nel discorso
 in cui ha promesso l'Eucaristia — che più degli altri è
@@ -51,11 +50,11 @@ un mistero di fede perchè, più degli altri, sfugge ad ogni
 legge naturale — Gesù ha affermato ripetutamente questo
 principio, dichiarando ai giudei increduli che nessuno può
 andare a lui, e quindi credere in lui, se «non è attratto
-dal Padre» (Gv. 6, 44; cfr. ivi, 66) ed ha iunto: e ed
+dal Padre» (Gv. 6, 44; cfr. ivi, 66) ed ha aggiunto: «ed
 essi saranno tutti ammaestrati da Dio» (ivi, 45). Per avere
 una fede viva e profonda nell'Eucaristia — come in ogni
-altro mistero -— occorre questa «attrazione », questo «ammaestramento interiore» che può venire solo da Dio; e al
-uale, però, possiamo e dobbiamo disporci, sia sollecitanlone la grazia con una preghiera umile e fiduciosa, sia esercitandoci attivamente nella fede. Infatti, avendo Dio infuso in noi questa virtù nel S. Battesimo ed essendo la
+altro mistero — occorre questa «attrazione », questo «ammaestramento interiore» che può venire solo da Dio; e al
+quale, però, possiamo e dobbiamo disporci, sia sollecitandone la grazia con una preghiera umile e fiduciosa, sia esercitandoci attivamente nella fede. Infatti, avendo Dio infuso in noi questa virtù nel S. Battesimo ed essendo la
 fede un'adesione volontaria dell'intelletto alle verità rive
 late, possiamo fare atti di fede quando vogliamo: sta a noi
 voler credere e portare in questo atto tutta la forza della
@@ -86,9 +85,9 @@ ti lascia mai partire da noi.
 «O Signore, Tu trovi le tue delizie nel restare con
 noi; e noi troviamo le nostre nello stare con te? Le troviamo
 specialmente noi che abbiamo l'onore di abitare tanto vicino ai tuoi altari, di abitare forse nella tua stessa casa? Oh,
-quante freddezze, indifferenze ed anche ingiurie devi sotfrire in questo Sacramento, mentre Tu stai in esso per assisterci con la tua presenza!
+quante freddezze, indifferenze ed anche ingiurie devi soffrire in questo Sacramento, mentre Tu stai in esso per assisterci con la tua presenza!
 
-«O Dio Sacramentato, o Pane degli Angeli, o cibo divino, io ti amo; ma nè Tu nè jo siamo contenti del mio
+«O Dio Sacramentato, o Pane degli Angeli, o cibo divino, io ti amo; ma nè Tu nè io siamo contenti del mio
 amore. Ti amo, ma ti amo troppo poco! Fa’, o Gesù, che
 il mio cuore si spogli di tutti gli affetti terreni e faccia posto, anzi dia tutto il posto al tuo amore, Per innamorarmi
 tutto di te e per unirti tutto a me, ogni giorno Tu scendi

@@ -1,4 +1,4 @@
-## 306 — BEATI 1 PURI DI CUORE
+## 306 — BEATI I PURI DI CUORE
 
 ### Presenza di Dio
 
@@ -6,7 +6,7 @@ Accresci, o Signore, la purezza del mio cuore e della mia mente affinchè possa 
 
 ### Meditazione
 
-1. — Al dono dell'intelletto corrisponde Ja beatitudine:
+1. — Al dono dell'intelletto corrisponde la beatitudine:
 « Beati i puri di cuore, perchè vedranno Dio» (Mt. 5, 8). Vi
 è anzitutto una purezza del cuore che è condizione indispensabile per avere un abbondante influsso del dono dell’in-
 telletto; è la purezza che risulta non solo dall'assenza del peccato, ma anche dai minimi affetti terreni. E' un fatto che Dio
@@ -15,7 +15,7 @@ ha una totale purezza di cuore, ossia se non riserba per lui
 
 
 tutta la sua capacità affettiva. Finchè in noi c'è qualche attacco alle creature, qualche ricerca del loro affetto, qualche
-compiacenza nel sentirei amati da esse, il nostro cuore non
+compiacenza nel sentirci amati da esse, il nostro cuore non
 è abbastanza puro per godere le divine comunicazioni. Perciò, prima d’introdurre un’anima nella penetrazione dei suoi
 misteri, Dio la sottopone alla purificazione degli affetti:
 sono distacchi, sono strappi che talvolta costano sangue, ma
@@ -23,7 +23,7 @@ che, se vengono accettati con generosità, finiscono di svincolare il cuore dall
 libero per il Creatore. Se Dio ci fa passare per queste prove, non tiriamoci indietro, non sfuggiamo alla sua azione, ma
 assecondiamola, ben persuasi che Egli riserva la pienezza
 dei suoi doni e della sua luce solo alle anime pure da ogni
-ombra di creatura, solo ai cuori che gli appartengono completamente. In questo senso si può ben dire che A visione di
+ombra di creatura, solo ai cuori che gli appartengono completamente. In questo senso si può ben dire che la visione di
 Dio è il premio promesso ai puri di cuore; infatti, quando il
 cuore conserva qualche attacco, anche minimo, alle creature,
 l'intelletto rimane offuscato e «non ha la capacità di ricevere
@@ -46,13 +46,13 @@ aspetto e trascurandone altri essenziali e via di seguito. Pro-
 
 
 prio così, purtroppo, sono sorte nella Chiesa tante eresie. Il
-dono dell'intelletto, ecipandoci la luce stessa dello Spirito Santo, purifica la nostra mente da questi errori, la li-
+dono dell'intelletto, partecipandoci la luce stessa dello Spirito Santo, purifica la nostra mente da questi errori, la li-
 bera dagli inganni della fantasia, come pure da tutte le altre false interpretazioni. Mediante questa purezza della men-
 te il dono dell'intelletto assicura l'integrità della nostra fede,
-ci fa penetrare la realtà ttiva dei misteri divini, ci dà
+ci fa penetrare la realtà oggettiva dei misteri divini, ci dà
 il vero senso della legge del Signore, dei comandamenti e dei
 consigli. D'altra parte, questo dono, facendoci penetrare le
-cose divine mediante la aa infusa dello Spirito Santo, ci fa
+cose divine mediante la luce infusa dello Spirito Santo, ci fa
 ben comprendere che Dio non può essere rinchiuso nelle
 nostre rozze immaginazioni e neppure nelle nostre corte idee,
 ma è infinitamente al di sopra di tutto quello che possiamo
@@ -64,7 +64,7 @@ a Dio» (AM. 52).
 
 Se vogliamo assecondare il movimento del dono dell’intelletto, dobbiamo essere distaccati dalle nostre idee, dob-
 biamo essere disposti a rinunciarvi anche se ci sono molto
-care; non dobbiamo essere troppo sicuri del nostro modo d’intendere le cose di Dio, ma FRA cercare il controllo della
+care; non dobbiamo essere troppo sicuri del nostro modo d’intendere le cose di Dio, ma cercare il controllo della
 Chiesa; dobbiamo, soprattutto, chiedere. umilmente il dono
 dell'intelletto perchè ci liberi dagli errori e ci dia la retta
 intelligenza delle cose divine.
@@ -79,16 +79,16 @@ che ci farà pregustare qualche cosa della visione beatifica.
 
 «O Signore, dammi sentimenti retti riguardo a te e fa'
 che io ti cerchi con semplicità di cuore. Il mio cuore dice a
-te: ‘To cercherò la tua faccia”. La tua presenza io cerco, 0 Signore, quando col mio cuore ti cerco. Tu risiedi dove abiti;
+te: “Io cercherò la tua faccia”. La tua presenza io cerco, O Signore, quando col mio cuore ti cerco. Tu risiedi dove abiti;
 é dove abiti, se non nel tuo tempio? Tempio tuo è il nostro
 cuore: insegnami in qual modo io ti debba accogliere. Tu
 sei spirito, e in spirito e verità bisogna che io ti adori.
 
 «Entra nel mio cuore e crollino tutti gli idoli».
 
-<Ascolterò ora la tua voce e imparerò a desiderarti; imparerò a prepararmi per poterti vedere. Beati tutti quelli che
+«Ascolterò ora la tua voce e imparerò a desiderarti; imparerò a prepararmi per poterti vedere. Beati tutti quelli che
 ti vedono! E se ti vedono, questo non è già perchè siano stati durante la vita poveri in spirito, nè perchè siano stati man-
-sueti o piangenti o famelici e sitibondi della giustizia o misericordiosi, ma ‘hè furono puri di cuore. Buona è l'u-
+sueti o piangenti o famelici e sitibondi della giustizia o misericordiosi, ma perchè furono puri di cuore. Buona è l'u-
 miltà per avere tion dei cieli, buona la mansuetudine per
 possedere la terra, buono il pianto per essere consolati, buona
 la fame e la sete della giustizia per essere saziati, buona la
@@ -96,7 +96,7 @@ misericordia per ottenere misericordia: ma è la purezza del
 cuore che fa vedere te.
 
 «Io ti voglio vedere: è grande la cosa che voglio, ma sei
-Tu che mi dici di volerla. Rita a purificare il mio cuore,
+Tu che mi dici di volerla. Vieni a purificare il mio cuore,
 perchè puro è ciò che io voglio vedere e impuro è
 
 

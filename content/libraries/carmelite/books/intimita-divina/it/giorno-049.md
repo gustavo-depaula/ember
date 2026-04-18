@@ -38,8 +38,7 @@ che Gesù fece a Cana, continua a farlo sui nostri
 altari in modo assai più mirabile: un po’ di pane e un po’
 di vino si mutano nel Corpo e nel Sangue di Cristo.
 Questo Corpo e questo Sangue vengono offerti in nutrimento alle anime nostre, Ecco perchè il Communio della
-Messa odierna riporta il brano del Vangelo che parla dell’acqua cambiata in vino. Sì, anche per noi Gesù ha «ri-
-serbato il buon vino fino a questo momento », è il vino
+Messa odierna riporta il brano del Vangelo che parla dell’acqua cambiata in vino. Sì, anche per noi Gesù ha «riserbato il buon vino fino a questo momento », è il vino
 
 il vino della SS.ma Eucaristia che inebria le anime nostre.
 

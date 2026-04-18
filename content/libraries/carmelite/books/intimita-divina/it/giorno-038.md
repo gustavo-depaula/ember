@@ -59,7 +59,7 @@ vero uomo,
 Il terribile abisso che il peccato aveva prodotto tra Dio
 e gli uomini è già colmato dal Bambino che ci tende le
 braccia dal presepe. Tutto ciò che il peccato aveva rovinato e distrutto viene così, per volere di Dio, salvato, «in-
-staurato in Cristo » (£f. 1, 10). Oh, come alla tenerezza si
+staurato in Cristo » (Ef. 1, 10). Oh, come alla tenerezza si
 unisce un'immensa ammirazione, come sorge spontaneo il
 bisogno di lodare e adorare quando si contempla Gesù
 Bambino in questa luce!
@@ -99,7 +99,7 @@ servitù del peccato. Tu sei Signore, Padre e Fratello nostro
 per la benignità tua, e smisurata carità... Tu Deità, somma
 sapienza, io ignorante misera creatura; Tu somma ed eterna bontà. Io morte, e Tu sei vita; io tenebre, e Tu Iuce; o
 stoltezza, e Tu sapienza; Tu infinito, ed io finita; io inferma, e Tu medico; io fragile peccatrice che non ti amai
-mai; Tu bellezza purissima, ed 10 vilissima creatura. Tu per
+mai; Tu bellezza purissima, ed io vilissima creatura. Tu per
 amore ineffabile traesti me da te, e tutti noi trai a te per
 grazia e non per debito, se vogliamo lasciarci trarre a te,
 cioè se la volontà nostra non si ribella alla tua » (S. Caterina da Siena). 

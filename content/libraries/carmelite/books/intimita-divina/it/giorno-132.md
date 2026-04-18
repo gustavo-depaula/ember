@@ -8,7 +8,7 @@
 ### Meditazione
 
 1 — Ecco la scena commovente presentataci dal Vangelo della Messa odierna (Gv.12,1-9): «Sci giorni prima
-di Pasqua Gesù venne a Betania... È quivi gli fecero una
+di Pasqua Gesù venne a Betania... e quivi gli fecero una
 cena; Marta serviva... Maria poi prese una libbra d'unguento di nardo di gran valore, e ne unse i piedi a Gesù
 e glieli asciugò coi suoi capelli ». Marta, come al solito,
 si affaccenda nel servizio; Maria invece si occupa solo di
@@ -17,7 +17,7 @@ spargere sulla sua Persona un intero vaso di unguento
 prezioso. Alcuni invitati mormorano: «Perchè questo
 sciupio? Non si sarebbe potuto vendere quell’unguento a
 pro dei poveri? » e fremono contro di lei (cfr. Mr. 14,4 €
-5); ma Maria non risponde, non sì scusa e, tutta intenta
+5); ma Maria non risponde, non si scusa e, tutta intenta
 al Maestro adorato, continua il suo gesto di devozione e
 di amore.
 
@@ -34,7 +34,7 @@ sarà davvero uno sciupio usare i suoi doni per sacrificarli
 unicamente in suo onore, supplendo così all’indifferenza
 
 
-di tante creature che non hanno neppurè un pensiero
+di tante creature che non hanno neppure un pensiero
 per lui?
 
 Il denaro, il tempo; le forze e anche le vite umane che
@@ -73,17 +73,17 @@ stato degno della sua fiducia, lo aveva ammesso ugual-
 
 mente nel collegio apostolico e, anche dopo, quando aveva
 già cominciato a prevaricare, continuò a trattarlo come gli
-altri, dimostrandogli lo stesso amore, la stessa stima. Situazione ‘assai penosa per il Cuore sensibilissimo di Gesù, ma
+altri, dimostrandogli lo stesso amore, la stessa stima. Situazione assai penosa per il Cuore sensibilissimo di Gesù, ma
 Egli non ha voluto evitarla per insegnarci con quanto amore, con quanta pazienza e delicatezza vanno trattati anche i
 più ostinati nemici. Quante volte il Maestro avrà cercato
-d’illtminare quella mente ottenebrata! E certamente avrà
+d'illuminare quella mente ottenebrata! E certamente avrà
 ensato in modo speciale a Giuda quando impartiva i suoi
 insegnamenti sul distacco dai beni terreni: « Non potete
 servir Dio e Mammona... Che giova mai all’uomo guadagnare tutto il mondo se poi perde l’anima? » (Mt. 6, 24; 16,
 26); e tuttavia queste parole, che dovevano avere per il
 traditore il significato di un richiamo amoroso, non riuscirono a scuoterlo. Giuda rappresenta quelle anime che
 hanno avuto da Dio grazie di predilezione, ma che per
-la loro infedeltà se ne sono rese indegne. Anima ‘consacrata, almeno tu sii fedele alla tua vocazione e, per mantenerti tale, non permettere che il più piccolo attacco
+la loro infedeltà se ne sono rese indegne. Anima consacrata, almeno tu sii fedele alla tua vocazione e, per mantenerti tale, non permettere che il più piccolo attacco
 alligni nel tuo cuore!
 
 ### Colloquio
@@ -96,7 +96,7 @@ il traditore! Ma tu mi dici: « Vegliate e pregate per non
 cadere in tentazione! » (Mr. 14, 38). Oh, quanto mi è necessario vegliare e pregare, affinchè il nemico non venga a
 seminare nel mio cuore il germe velenoso del tradimento!
 Che io ti sia fedele, Signore, fedele ad ogni costo, fedele
-nelle Love ma anche nelle piccole cose, sì che le volpi
+nelle cose grandi ma anche nelle piccole cose, sì che le volpi
 celle dei piccoli attacchi non possano entrare ad invadere
 e a devastare la vigna del mio cuore.
 
@@ -104,9 +104,9 @@ e a devastare la vigna del mio cuore.
 
 
 Passione, prima a venirmi sott'occhio è la erfidia del traditore. Egli fu ripieno di tanto veleno di frode, da tradire
-te, suo Maestro e Signore; acceso da tale fiamma di cupidigia che vendette per argento te, ottimo Dio, per vile moneta il tuo Sangue preziosissimo; 7 fu di tanta ingratitudine da perseguitare ‘a morte chi l'aveva inalzato al grado
-eccelso di ADI O Gesù, quanto fu eccessiva la tua
-bontà verso il duro discepolo! ‘Sebbene l’empietà del traditore fu tanto grande, son colpito infinitamente più dalla
+te, suo Maestro e Signore; acceso da tale fiamma di cupidigia che vendette per argento te, ottimo Dio, per vile moneta il tuo Sangue preziosissimo; e fu di tanta ingratitudine da perseguitare a morte chi l'aveva inalzato al grado
+eccelso di apostolo O Gesù, quanto fu eccessiva la tua
+bontà verso il duro discepolo! Sebbene l’empietà del traditore fu tanto grande, son colpito infinitamente più dalla
 dolcissima mitezza tua, o Agnello di Dio! E questa mitezza
 è data a noi a modello. Ecco qui, o Signore, l'uomo che Tu
 avevi ammesso a confidenze uniche, l’uomo che sembrava

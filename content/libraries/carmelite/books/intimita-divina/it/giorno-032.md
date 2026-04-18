@@ -95,6 +95,6 @@ tutte le cose alla tua maggior gloria? Devo dunque ab-
 
 
 bandonarmi pienamente, perdutamente ad essa, fino a non
-poter più volere che quel che Tu vuoi» (E.T.L 10). E
+poter più volere che quel che Tu vuoi» (E.T. I, 10). E
 quando la tua volontà, la tua legge mi chiederanno di sacrificare me stesso per amor tuo, per la tua gloria, fa’ che io
 non indietreggi mai, ma sia sempre pronto a darmi totalmente, fino al sacrificio supremo.

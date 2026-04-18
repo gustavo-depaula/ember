@@ -72,7 +72,7 @@ e in nome di tutta la Chiesa, spirito di solidarietà con
 Gesù nostro Capo e con tutti i fedeli nostri fratelli, spirito universale che abbraccia le necessità di tutto il mondo
 che prega in nome di tutta la cristianità. Come si allargano
 allora gli orizzonti e le intenzioni delle nostre preghiere!
-E pregando non ci sentiamo più soli, ma ci sentiamo piccolì oranti accanto a Gesù, il grande Orante!
+E pregando non ci sentiamo più soli, ma ci sentiamo piccoli oranti accanto a Gesù, il grande Orante!
 
 ### Colloquio
 
@@ -116,7 +116,7 @@ MAGGIO
 Le meditazioni delle domeniche e delle feste mobili (come
 
 Pentecoste, SS.ma Trinità, ecc.) devono essere spostate
-I, sposta!
+
 
 Ascensione,
 
@@ -210,21 +210,17 @@ essendo uomo, Gesù non cessa di essere Dio. Vuoi dunque
 un avvocato presso di Lui? Ricorri a Maria. Maria è una
 pura creatura, pura non solo perchè esente dal peccato, ma
 anche per la sua natura unicamente umana. O Maria,
-ne son certo, Tu verrai esaudita per la deferenza che meriti; il Figlio ti esaudirà certamente hè sei sua Madre
+ne son certo, Tu verrai esaudita per la deferenza che meriti; il Figlio ti esaudirà certamente perchè sei sua Madre
 e il Padre esaudirà il Figlio. Ecco la mia fiducia incrollabile, ecco tutto il motivo della mia speranza! Vergine
-benedetta, l'Angelo ha detto che ‘Tu “hai trovato grazia
-presso Dio' (Le. 1, 30), Sempre dunque Tu troverai DA
-
-chie
-
-zia, e solo di grazia io ho bisogno e solo grazia io ti
-do» (cfr. S. era ws 5
+benedetta, l'Angelo ha detto che «Tu hai trovato grazia
+presso Dio» (Lc. 1, 30). Sempre dunque Tu troverai grazia,
+e solo di grazia io ho bisogno e solo grazia io ti domando» (cfr. S. Bernardo).
 
 «Traimi dietro a te, o Vergine Maria, affinchè io
 corra all'odore dei tuoi profumi. Traimi, perchè io sono
 trattenuto dal peso dei miei peccati e dalla malizia dei
 tuoi nemici. Come nessuno va al Figlio tuo, se non lo trae
-il Padre, così, in certo modo, io 0, dire che nessuno
+il Padre, così, in certo modo, io oso dire che nessuno
 va a Lui se Tu non l’attiri con le tue sante preghiere. Tu
 insegni la vera sapienza, 'l'u impetri la grazia ai peccatori,
 
@@ -233,6 +229,6 @@ perchè sei la tesoriera delle grazie. Tu hai trovato grazia
 presso Dio, o dolcissima Vergine, Tu che sei stata preservata dalla macchia originale, ripiena di Spirito Santo ed
 hai concepito il Figlio di Dio. Hai ricevuto tutte queste
 grazie, o umilissima Maria, non solo per te, ma anche per
-noi, allinchè ci assisti in tutte le nostre necessità »
+noi, affinchè ci assista in tutte le nostre necessità»
 
 (cfr. Ven. R. Giordano).

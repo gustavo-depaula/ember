@@ -1,26 +1,25 @@
 ## 110 — LA FORZA DI GESÙ
-*IM domenica di Quaresima*
+*III domenica di Quaresima*
 
 ### Presenza di Dio
 
-— O Gesù, Forte divino, vengo a te per cercare appoggio alla mia debolezza, ‘alla mia infermità.
+— O Gesù, Forte divino, vengo a te per cercare appoggio alla mia debolezza, alla mia infermità.
 
 ### Meditazione
 
 1 — Fin dalla prima domenica di Quaresima la Chiesa
-ci ha presentato È in lotta contro ii demonio, ma,
+ci ha presentato Gesù in lotta contro il demonio, ma,
 mentre allora ce lo presentava in umile atteggiamento di
 difesa di fronte alle tentazioni del maligno, oggi ce lo
 ‘mostra in atteggiamento di attacco e di clamorosa vittoria,
-Ecco un povero ossesso, dice il Vangelo (Le. 11, 14-
+Ecco un povero ossesso, dice il Vangelo (Lc. 11, 14-
 28), che «era muto »; Gesù, con un solo atto della sua
 forza divina, « scacciò il demonio; e quando esso fu uscito,
-il muto parlò e le turbe furono piene di sbigntrinento ».
+il muto parlò e le turbe furono piene di sbigottimento ».
 Ma il nemico, quasi per rifarsi della sconfitta, insinua nelle
-menti dei farisei la maligna calunnia: « Egli scaccia i demoni per mezzo del principe dei demoni ». Gesù è accu-
-Sato dì essere un indemoniato e di aver ricevuto dal demonio il potere di liberare l’ossesso. Ma il Signore vuole
+menti dei farisei la maligna calunnia: « Egli scaccia i demoni per mezzo del principe dei demoni ». Gesù è accusato di essere un indemoniato e di aver ricevuto dal demonio il potere di liberare l’ossesso. Ma il Signore vuole
 smascherare fino in fondo il nemico e con logica serrata
-risponde che non può Satana delgi un simile potere, altrimenti Satana st coopererebbe alla distruzione del
+risponde che non può Satana dargli un simile potere, altrimenti Satana si adopererebbe alla distruzione del
 suo regno. No, non può essere così: Gesù scaccia i demoni « col dito di Dio », cioè per virtù divina. Se Satana
 è forte e i suoi satelliti lottano con lui per regnare sull'uomo, Gesù è più forte di lui e lo vincerà STARFAIONI
 la preda. Egli è venuto per distruggere il regno di Satana
@@ -38,11 +37,11 @@ il più forte, l’unico ed ultimo vincitore.
 2 — Per far nostra la vittoria di Gesù sul male, occorre evidentemente la nostra collaborazione. Nel Van-
 gelo odierno Gesù stesso ce ne indica diversi aspetti.
 
-«Ogni regno diviso in se stesso sì decano »; il Si-
+«Ogni regno diviso in se stesso va in rovina »; il Si-
 
 ore afferma così che l'unione è il segreto della vittoria.
 
-nzitutto unione con lui, perchè senza di lui non possiamo
+Anzitutto unione con lui, perchè senza di lui non possiamo
 far nulla, ma poi anche unione col prossimo. Se vogliamo
 lavorare per il trionfo del bene collaboriamo — un cuore
 solo ed un'anima sola — con i nostri superiori, con i nostri
@@ -56,7 +55,7 @@ Il cristianesimo non ammette indifferenti; chi non si schiera decisamente con Cr
 diffusione del suo regno, per ciò stesso si oppone a lui, si
 oppone al bene, è nemico di Cristo e fautore del male.
 
-mettere il bene che si potrebbe e dovrebbe fare, è già
+Omettere il bene che si potrebbe e dovrebbe fare, è già
 fare il male, è acconsentire allo sviluppo del male.
 
 La prima condizione della vittoria sul male è l’attiva
@@ -69,23 +68,23 @@ cuore di Dio, perchè non vi sia più posto per il nemico
 di Dio. E non vi è più posto quando l’anima è totalmente
 unita a Dio mediante l’accettazione e l’osservanza della sua
 
-arola, della sua volontà. Infatti, alla donna che loda la
+parola, della sua volontà. Infatti, alla donna che loda la
 Madre sua, Gesù risponde: « Anzi, beati coloro che odono
 la parola di Dio e l’osservano ». Sì, Maria SS.,ma è beata
 per aver dato la vita al Redentore, ma è molto più beata
 per essere a lui perfettamente unita nell’osservanza della
 sua parola. Questa beatitudine non è riservata a Maria,
-ma è offerta ad Geni anima di buona volontà, ed è la massima garanzia della vittoria sul male, perchè chi è unito
+ma è offerta ad ogni anima di buona volontà, ed è la massima garanzia della vittoria sul male, perchè chi è unito
 a Dio diventa forte della fortezza di lui.
 
 ### Colloquio
 
-«O Sangue dolce, Tu fortifichi l’anima, Tu l’illomini,
-în te diventa angelica, Tu l’adombri in tal modo col fuoco
+«O Sangue dolce, Tu fortifichi l’anima, Tu l’illumini,
+in te diventa angelica, Tu l’adombri in tal modo col fuoco
 della tua carità che del tutto dimentica se stessa e nessuna
 cosa può vedere all’infuori di te.
 
-«O dottrina di verità, tanta forza dai all'anima vestita di e che mai viene meno, nè per le avversità, nè per
+«O dottrina di verità, tanta forza dai all'anima vestita di fortezza che mai viene meno, nè per le avversità, nè per
 le pene o tentazioni, ma in ogni battaglia riporta forte
 vittoria. Misera me, che non ho seguito te, vera dottrina,
 onde son tanto debole che in ogni minima tribolazione

@@ -15,8 +15,7 @@ mondo quale Dio.
 L'Introito della Messa c’introduce direttamente in questo spirito presentandoci Gesù nella maestà regale della
 sua Divinità: « Ecco è venuto il sovrano Signore: Egli
 tiene nelle sue mani lo scettro, la potestà e l'impero ».
-L'Epistola (/s. 60, 1-6) prorompe in un inno di gioia annunciando la vocazione dei gentili alla fede; anch'essi ri-
-conosceranno e adoreranno in Gesù il loro Dio: « Sorgi,
+L'Epistola (Is. 60, 1-6) prorompe in un inno di gioia annunciando la vocazione dei gentili alla fede; anch'essi riconosceranno e adoreranno in Gesù il loro Dio: « Sorgi,
 risplendi, o Gerusalemme, perchè la tua luce è venuta...
 E le genti cammineranno alla tua luce e i re allo splendore
 che nascerà da te... Verranno tutti quei di Saba recando
@@ -55,7 +54,7 @@ rimandato ad altro rempo: il loro animo era pronto.
 Anche nel cielo dell’anima nostra tante volte appare
 una stella: è l’intima, chiara ispirazione di Dio che c’invita
 ad un atto generoso, ad un distacco, ad una vita di più intima unione con lui. Dovremmo saper sempre seguire la
-nostra stella con la fede, la Figi la prontezza dei
+nostra stella con la fede, la fiducia, la prontezza dei
 Magi; seguita così, essa ci condurrà senza dubbio incontro
 al Signore, ci farà trovare Colui che cerchiamo.
 
@@ -63,7 +62,7 @@ I Magi hanno perseverato nella loro ricerca anche
 quando la stella è scomparsa ai loro sguardi; così noi dobbiamo perseverare nel bene anche tra le oscurità interiori:
 è la prova della fede che si supera solo con un intenso
 esercizio di pura, nuda fede. So che Dio lo vuole, so che
-Dio mi chiama e questo mi basta: Scio cui credidi et certus sum (Il Tim. 1,12); so chi è Colui in cui ho creduto
+Dio mi chiama e questo mi basta: Scio cui credidi et certus sum (II Tim. 1,12); so chi è Colui in cui ho creduto
 e qualunque cosa accada non posso dubitare di lui.
 
 Con queste disposizioni andiamo coi Magi al presepio.
@@ -80,8 +79,7 @@ stanno i confini tutti della terra e Tu contempli le cime
 dei monti. Tuo è il mare e Tu sei Colui che l'ha fatto e
 sulle tue mani si fonda la terra... E noi siamo il popolo tuo
 e le pecorelle della tua mano » (cfr. Sal. 94). Sì, o Gesù, io
-sono una tua pecorella, una tua creatura e godo di riconoscere il mio nulla davanti a te, Ma godo ancor più nel ri-
-conoscere e nell’adorare in te, amabilissimo Bambino, il
+sono una tua pecorella, una tua creatura e godo di riconoscere il mio nulla davanti a te, Ma godo ancor più nel riconoscere e nell’adorare in te, amabilissimo Bambino, il
 mio Dio ed il mio Creatore. Come vorrei che tutti i popoli
 ti riconoscessero quale Tu sei, che tutti si prostrassero davanti a te, adorandoti quale loro Dio e Signore.
 
@@ -103,7 +101,7 @@ O mio dolcissimo Re, crea in me un cuore di apostolo.
 Come vorrei oggi portare ai tuoi piedi le lodi e le adorazioni sincere di tutti gli uomini della terra!
 
 Ma, o Gesù, mentre ti prego di manifestarti al mondo,
-ti prego anche di manifestarti sempre "pù alla povera anima mia. Fa” che oggi anche per me brilli la tua stella e mi
+ti prego anche di manifestarti sempre più alla povera anima mia. Fa” che oggi anche per me brilli la tua stella e mi
 indichi la via che a te conduce; fa’ che oggi anche per me
 sia una vera Epifania, ossia una nuova manifestazione di te
 alla mia mente ed al mio cuore. Chi più ti conosce, più ti

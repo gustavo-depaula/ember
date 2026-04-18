@@ -28,15 +28,15 @@ senza provare il bisogno di dimostrarle la realtà del proprio
 amore, cercando di farle piacere, ossia di vivere da veri
 figli suoi. In tal modo la vita «mariana», ossia la vita
 di intimità con Maria, può penetrare tutto l'insieme della
-nostra vita «cristiana » e ORE ad una maggiore fedeltà
+nostra vita «cristiana » e condurre ad una maggiore fedeltà
 nell'adempimento di tutti i nostri doveri, perchè nulla
 può far più piacere alla Madre che vederci compiere con
 amore la volontà del Figlio suo. E, d'altra parte, la vita
 cristiana, vissuta così sotto lo sguardo materno di Maria,
-acquista quella speciale dolcezza e soavità che nasce spontaneamente dalla compagnia continua di una Madre dolcissima che ci circonda tiene:
+acquista quella speciale dolcezza e soavità che nasce spontaneamente dalla compagnia continua di una Madre dolcissima che ci circonda e tene:
 
 2. — Altro aspetto della vita mariana è l'imitazione
-di Maria, Solo Gesù è la evia» che ci conduce al Padre,
+di Maria, Solo Gesù è la «via» che ci conduce al Padre,
 Egli è l'unico modello; ma, chi più di Maria è simile a
 Gesù? Chi più di Maria può dire di portare in sè gli
 stessi sentimenti di Cristo? «O Signora — esclama San
@@ -50,7 +50,7 @@ i suoi desideri, i suoi affetti, i suoi voleri; e Maria, che si
 trasformata in Lui, sì da diventarne la copia più fedele.
 « Maria — canta la liturgia — è l’immagine perfettissima
 di Cristo, dipinta al vivo dallo Spirito Santo». Lo Spirito
-Santo, che è Jo Spirito di Gesù, prendendo pieno possesso
+Santo, che è lo Spirito di Gesù, prendendo pieno possesso
 dell'anima purissima e dolcissima di Maria, vi ha scolpito,
 e nel modo più completo e delicato, tutti i lineamenti, le
 caratteristiche dell'anima di Cristo, per cui si può ben
@@ -59,7 +59,7 @@ questo noi la scegliamo quale modello. Come non amiamo
 Maria per se stessa, ma in relazione al Cristo di cui è Madre, così non l'imitiamo per se stessa, ma in rapporto al
 Cristo, di cui è l'immagine più fedele. Gesù è l’unica via
 che ci conduce al Padre, e Maria è la via più sicura e più
-facile per, giungere a Gesù. Gesù, incamando in sè le
+facile per, giungere a Gesù. Gesù, incarnando in sè le
 perfezioni del Padre, ce ne ha resa possibile l'imitazione;
 e Maria, ricopiando in sè le perfezioni di Gesù, ce le ha
 rese più accessibili, le ha messe maggiormente alla nostra
@@ -74,14 +74,14 @@ giusto che noi andiamo a Gesù per mezzo di Lei.
 *Se qualcuno è piccolo venga a me’. I bambini hanno sempre sulle labbra il nome della mamma ed in ogni pericolo,
 in ogni spavento, in ogni difficoltà subito la chiamano. O
 Madre dolcissima, o Madre amorosissima, questo appunto
-'Tu desideri, che, come prato bambino, sempre ti chiami,
+'Tu desideri, che, come piccolo bambino, sempre ti chiami,
 sempre ricorra a te... Lascia dunque che continuamente
-tinvochi e ti dica: Madre mia, Madre mia amabilissima.
+invochi e ti dica: Madre mia, Madre mia amabilissima.
 Questo nome tutto mi consola, m'intenerisce, mi ricorda
 l'obbligo che ho d'amarti. Questo nome mi anima a confidare
 in te, “Madre mia, così ti chiamo, e così voglio sempre chiamarti. Dopo Dio Tu sei la mia speranza, il mio rifugio,
 
-il miovamore in questa valle di lacrime. O mia dolce Signora
+il mio amore in questa valle di lacrime. O mia dolce Signora
 
 e Madre, che con l'amore che mostri ai tuoi figli rapisci i
 loro cuori, rapisci, ti prego, anche il povero cuor mio che
@@ -96,9 +96,9 @@ amanti alle persone amate... Dunque, se io mi vedo così
 dissimile da te, è segno che non ti amo? Tu così pura, io
 così impuro! Tu così umile, io così superbo! Tu così santa,
 io così iniquo! Ma questo è quel che devi far Tu, o Maria,
-iacchè ini ami: rendimi simile a te. Tu hai tutta la potenza
+affinchè mi ami: rendimi simile a te. Tu hai tutta la potenza
 
-î mutare i cuori; prendi dunque il mio e mutalo. Fa' vedere
+di mutare i cuori; prendi dunque il mio e mutalo. Fa' vedere
 al mondo quanto è grande il tuo potere in favore di coloro
 che Tu ami! Fammi santo, fammi degno figlio tuo » (cfr. San
 

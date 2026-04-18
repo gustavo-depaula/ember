@@ -1,5 +1,5 @@
 ## 134 — L'UOMO DEI DOLORI
-*mercoledì. santo*
+*mercoledì santo*
 
 ### Presenza di Dio
 
@@ -31,11 +31,11 @@ anche i più intimi se ne sono andati e proprio uno di
 
 loro l’ha tradito: «Se un nemico m'avesse insultato,
 l’avrei sopportato... ma sei stato tu, tu che eri un'anima
-sola con me, mio i, mio amico e familiare, tu che
+sola con me, mio duce, mio amico e familiare, tu che
 eri già stretto con me in dolce intimità » (Sul. 54, 13-1 5)
-A questo testo che oggi, come in tutti i mercoledì dell’anno, leggiamo nei salmi di ‘Terza e che esprime tanto
+A questo testo che oggi, come in tutti i mercoledì dell’anno, leggiamo nei salmi di Terza e che esprime tanto
 bene l'amarezza di Gesù di fronte al tradimento e all'abbandono dei suoi, corrisponde questo responsorio di
-Mattutino: «In contracambio dell’ amor mio m'impuano senza ragione. E rendono a me male per bene e
+Mattutino: «In contracambio dell’ amor mio m'imputano senza ragione. E rendono a me male per bene e
 odio in cambio del mio amore » (BR.). dr,
 
 Contemplando Gesù nella sua Passione ognuno di noi
@@ -60,7 +60,7 @@ con cui Gesù ci ha amato e l’enorme gravità del peccato.
 
 Proprio di lui, Figlio di Dio, è detto: « non ha bellezza
 alcuna, nè splendore; noi l'abbiamo visto e non aveva al
-cuna apparenza che attirasse i nostri sguardi. Abbietto, lultimo degli uomini, l’uomo dei dolori, che... quasi cerca di
+cuna apparenza che attirasse i nostri sguardi. Abbietto, l'ultimo degli uomini, l’uomo dei dolori, che... quasi cerca di
 nascondersi la faccia ». Non ha splendore, lui che è lo
 splendore del Padre; cerca di nascondere il volto, lui il cui
 volto forma la beatitudine degli angeli e dei santi; ed è tal
@@ -71,13 +71,13 @@ nessuno «ne ha fatto alcun conto ». In tale stato l'hanno
 ridotto i nostri peccati: « Veramente delle nostre infermità Egli si è caricato e si è addossato i nostri dolori
 [infermità e dolori conseguenze del peccato] ...Egli è
 stato trafitto per le nostre. iniquità, è stato maltrattato
-na le nostre colpe... Il Signore fece ricadere su. di lui
+per le nostre colpe... Il Signore fece ricadere su. di lui
 le iniquità di noi tutti ». Ma in tale stato l’ha pure ridotto
 il suo amore per noi, amore che gli ha fatto liberamente
 abbracciare la Passione; e avendola abbracciata « perchè
 l’ha voluto », non si è sottratto ai suoi nemici, ma spontaneamente si è dato nelle loro mani, Ricordiamo il momento in cui Gesù, dopo aver atterrato con la sua patenza divina i soldati venuti a catturarlo e aver dichiarato che, se lo volesse, potrebbe avere in sua difesa legioni
 di angeli, si lascia prendere e legare senza la minima resistenza; ricordiamo quando, già prigioniero e condannato non esita a dire al governatore romano: « Tu non
-avresti nessun potere su di me, se non ti fosse dato dall’alto » (Gv. 19, 11). Gesù è la vittima che va spontancamente al sacrificio, è la vittima che s'immola per amore
+avresti nessun potere su di me, se non ti fosse dato dall’alto » (Gv. 19, 11). Gesù è la vittima che va spontaneamente al sacrificio, è la vittima che s'immola per amore
 e con piena libertà. Massimo amore e massima libertà,
 perchè sono l’amore e la libertà di Dio.
 

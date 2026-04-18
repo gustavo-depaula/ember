@@ -11,14 +11,14 @@ profitto personale, non solo per spingerci in Dio con fiducia
 
 
 piena, ma anche per insegnarci ad usare misericordia verso
-il nostro prossimo: « Siate misericordiosi, com'è misericordioso il Padre vostro» (Le. 6, 36). Il bene trascina al bene,
+il nostro prossimo: « Siate misericordiosi, com'è misericordioso il Padre vostro» (Lc. 6, 36). Il bene trascina al bene,
 la bontà genera bontà e così, quanto più un'anima penetra
 il mistero della misericordia infinita, tanto più si sente spinta ad emularla nei suoi rapporti con gli altri. Quando ci sentiamo irritati verso qualcuno, indisposti all'indulgenza ed al
 perdono, dovremmo tuffarci con tutte le nostre forze nella
 considerazione della misericordia infinita di Dio per affogare in essa ogni durezza, ogni risentimento, ogni collera. Se abbiamo un po' di esperienza della nostra miseria, non ci sarà
 difficile renderci conto che non vi è istante della nostra vita
 in cui non abbiamo bisogno della misericordia di Dio e questa misericordia è così longanime che mai ci rigetta per le
-nostre ricadute, che mai ci rinfaccia di averci perdonato molte volte, che mai ci nega il suo abbraccio paterno e pacificante. Nulla più di questa considerazione addolcisce l’anima
+nostre ricadute, che mai ci rinfaccia di averci perdonato molte volte, che mai ci nega il suo abbraccio paterno e pacificante. Nulla più di questa considerazione addolcisce l'anima
 e la rende piena di bontà verso gli altri. Oh, se gli altri potessero sentire nel nostro tratto un riflesso della misericordia
 infinita!
 
@@ -40,7 +40,7 @@ chi vi odia »? (Mt. 5, 44).
 2. — Leggendo il Vangelo è facile constatare come le
 parole di Gesù, così miti a dolci perfino con i più grandi
 
-peccatori — ricordiamo quelle rivolte alla Maddalena, all’adultera e perfino a Giuda — diventano eccezionalmente
+peccatori — ricordiamo quelle rivolte alla Maddalena, all'adultera e perfino a Giuda — diventano eccezionalmente
 severe e quasi dure di fronte alle mancanze di carità verso
 il prossimo. Dio ci ama infinitamente, non desidera altro
 che riversare sulle anime nostre i torrenti della sua misericordia sconfinata e tuttavia il suo amore e la sua misericordia si arrestano e si mutano in severità nella misura in cui
@@ -59,7 +59,7 @@ nostri debitori » (Mt. 6, 12) e facciamo in modo che non siano
 la nostra condanna perchè Gesù ha detto: « Se voi perdonate agli uomini le loro mancanze, anche a voi le perdonerà
 il Padre vostro celeste; ma se non perdonate agli uomini,
 nemmeno il Padre vostro vi perdonerà i vostri peccati» (ivi,
-14 e 15). E, dunque, in mano nostra l’essere giudicati un
+14 e 15). E, dunque, in mano nostra l'essere giudicati un
 giorno con maggiore o minore misericordia.
 
 «Alla sera di tua vita sarai esaminato sull'amore»
@@ -71,18 +71,16 @@ Iddio e anche in base a quello che avrai avuto per il prossimo.
 ### Colloquio
 
 «O Gesù, quanto stimi la carità che ci porta ad amarci
-vicendevolmente! Potevi infatti insegnarci a dire: ‘Perdonaci, 0 Signore, perchè facciamo molta penitenza, perchè
-preghiamo molto, perchè digiuniamo, perchè abbiamo lasciato per te ogni cosa e ti amiamo assai’. Non hai neppur detto: “Perdonaci perchè siamo disposti a sacrificare per te anche la vita’ ed altre cose del genere, ma soltanto: Perdonaci
+vicendevolmente! Potevi infatti insegnarci a dire: 'Perdonaci, O Signore, perchè facciamo molta penitenza, perchè
+preghiamo molto, perchè digiuniamo, perchè abbiamo lasciato per te ogni cosa e ti amiamo assai'. Non hai neppur detto: "Perdonaci perchè siamo disposti a sacrificare per te anche la vita' ed altre cose del genere, ma soltanto: Perdonaci
 perchè perdoniamo!
 
 «Ecco una verità che dobbiamo spesso considerare: Tu,
-© Signore, hai voluto legare una grazia così grande com'è
+O Signore, hai voluto legare una grazia così grande com'è
 quella del perdono dei nostri peccati, meritevoli del fuoco
 eterno, ad una condizione così semplice com'è quella di perdonare anche noi. Ma che cosa dovrà mai fare una povera
 anima come la mia che ha avuto così poche occasioni di
-perdonare e molte, invece, di essere perdonata? Però, o Si-
-
-nore, accetta il mio desiderio: mi sembra che per ottenere
+perdonare e molte, invece, di essere perdonata? Però, o Sinore, accetta il mio desiderio: mi sembra che per ottenere
 il tuo perdono sarei pronta a perdonare ogni cosa... Ma, pel
 momento, mi riconosco così colpevole innanzi a te, da vedere
 che mi trattano ancora troppo bene coloro che mi ingiuriani

@@ -2,13 +2,13 @@
 
 ### Presenza di Dio
 
-— O Signore, che io sia tutto per te e Tu sia tutto per me!
+O Signore, che io sia tutto per te e Tu sia tutto per me!
 
 ### Meditazione
 
 1 — «Dio non si dà del tutto se non a coloro che
 si danno del tutto a lui» (T.G. Cam. 28, 12). Dio rispetta
-talmente la libertà dell’uomo che, pur desiderando renderlo partecipe della sua vita divina, di fatto si comunica
+talmente la libertà dell'uomo che, pur desiderando renderlo partecipe della sua vita divina, di fatto si comunica
 a lui solo nella misura del suo consenso; ma quando questo consenso è pieno, Egli non esita a darsi del tutto.
 Ecco quindi che al sì perfetto dell'anima, Dio risponde
 col «vero e intero sì della sua grazia» (G.C. F. 3, 24).
@@ -23,7 +23,7 @@ concede la sovrabbondanza della grazia.
 S. Giovanni della Croce spiega ancora più a fondo
 questo alto stato: «Essendo una sola la volontà di Dio
 e quella dell'anima in uno spontaneo e libero consenso,
-l’anima possiede Dio per grazia di volontà, e tutto ciò che
+l'anima possiede Dio per grazia di volontà, e tutto ciò che
 più avere per via di volontà e grazia, poichè al sì di lei
 io ha corrisposto col vero e intero sì della sua grazia »
 (ivi). L'anima si è data interamente a Dio ed ora riceve
@@ -38,13 +38,13 @@ intimo e profondo.
 
 È il trionfo della grazia nell'anima. Questa grazia, che
 le è stata comunicata in germe nel battesimo ed è via
-via aumentata attraverso le varic tappe della vita spirituale, giunge allo stato di maturità quando l’anima si è messa
-totalmente nelle mani di Dio, dandogli tutta la sua volontà. Non invano l’anima è morta a se stessa, è morta per
+via aumentata attraverso le varic tappe della vita spirituale, giunge allo stato di maturità quando l'anima si è messa
+totalmente nelle mani di Dio, dandogli tutta la sua volontà. Non invano l'anima è morta a se stessa, è morta per
 vivere in Dio e di Dio, per vivere della sua vita, del suo
 amore, della sua volontà. « Siete morti — dice S. Paolo —
 e la vita vostra s'è nascosta con Cristo in Dio » (Col. 3.3).
 
-S. Giovanni della Croce dichiara: «Se l’anima farà quello
+S. Giovanni della Croce dichiara: «Se l'anima farà quello
 che può dal canto suo, cioè se giungerà ad essere vuota e
 
 spropriata di tutte le cose, è impossibile che Iddio ometta
@@ -57,20 +57,20 @@ divini » (F. 3, 46).
 
 Da lungo tempo il Signore, Sole divino, splende sulla
 tua anima col raggio luminoso della sua grazia; da lungo
-tempo Egli bussa alla tua porta: «Ecco, io sto all’uscio
+tempo Egli bussa alla tua porta: «Ecco, io sto all'uscio
 £ picchio » (Ap.3, 20). Ogni Confessione, ogni Comunione, ogni S. Messa, ogni occasione di esercitare la virtù,
-ogni ispirazione, ogni comando o invito dell’obbedienza
+ogni ispirazione, ogni comando o invito dell'obbedienza
 non è forse un nuovo bussare di Dio alla porta del tuo
 cuore? E tu che fai? Perchè lo lasci attendere ancora?
-Orsù, svegliati dal torpore e spalanca l’anima tua. « Alzate, o porte, i vostri frontoni e fatevi più alte.. deve entrare il Re della gloria » (Sa/. 23, 7). Non ti accontentare
-di aver aperto l’uscio a metà e neppure per tre quarti,
+Orsù, svegliati dal torpore e spalanca l'anima tua. « Alzate, o porte, i vostri frontoni e fatevi più alte.. deve entrare il Re della gloria » (Sal. 23, 7). Non ti accontentare
+di aver aperto l'uscio a metà e neppure per tre quarti,
 ma spalancalo completamente; bisogna alzare i frontoni,
 bisogna togliere ogni impedimento: deve entrare il tuo
 
 Se ti costa rinnegare in tutto la tua volontà, pensa
-quanto è bello e grande lasciarsi guidare ‘in ogni cosa dalla volontà di Dio; se ti pesa rinunciare all’amor proprio
+quanto è bello e grande lasciarsi guidare 'in ogni cosa dalla volontà di Dio; se ti pesa rinunciare all'amor proprio
 ed agli affetti terreni, pensa quanto è giocondo possedere
-l’amore di Dio; se ti ripugna morire a te stesso, pensa
+l'amore di Dio; se ti ripugna morire a te stesso, pensa
 quanto è glorioso vivere a Dio. « No — grida piena di entusiasmo S. Teresa di Gesù — non è nulla ciò che abbiamo lasciato! Non è nulla ciò che facciamo o possiamo
 fare per un Dio che così si comunica con un verme! E
 giacchè possiamo sperare tanto bene fin da questa vit:
@@ -78,7 +78,7 @@ che facciamo, in che ci fermiamo? Che cosa ci può distrarre dal cercare questo 
 vie e per le piazze? » (M. VI, 4, 10)
 
 Il Signore vuol comunicarsi all'anima tua, vuol donarsi del tutto a te, vuol venire a vivere còn te: «Se uno
-ascolta la mia voce e apre l’uscio, entrerò da lui e desinerò
+ascolta la mia voce e apre l'uscio, entrerò da lui e desinerò
 con lui e lui con me» (Ap. 3, 20). Oh, che tu non perda
 questo dono immenso per tua colpa, per tua negligenza!
 
@@ -100,9 +100,9 @@ neppure se volesse proprio allontanarsene, stanca di quell'unione di amicizia. N
 impedire, o mio Dio e gloria mia, di dire con tutta veità: migliore e più deliziosa di ogni cosa è la tua amicizia ed il tuo amore.
 
 «Per amor di Dio, anima mia, svegliati dal sonno e
-pensa che Dio non aspetta sempre l’altra vita per ricompensarti del tuo amore. Il premio comincia fin da quaggiù...
+pensa che Dio non aspetta sempre l'altra vita per ricompensarti del tuo amore. Il premio comincia fin da quaggiù...
 
-«Signor mio, ‘Misericordia mia e mio Tesoro, che
+«Signor mio, 'Misericordia mia e mio Tesoro, che
 altro bene si può mai desiderare quaggiù fuorchè di starti così vicino da non essere possibile più alcuna divi
-ne? Poichè l’amore me lo consente, ripeterò senza stancarmi: “Il Diletto a me e io al mio Diletto * » (T.G. cfr.
+ne? Poichè l'amore me lo consente, ripeterò senza stancarmi: “Il Diletto a me e io al mio Diletto * » (T.G. cfr.
 P.3, 14154, 8-12).

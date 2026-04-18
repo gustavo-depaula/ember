@@ -6,8 +6,7 @@
 
 ### Meditazione
 
-1 — « Usciva da lui una forza che guariva tutti » (Le.
-6: 19) dice il Vangelo parlando di Gesù e degli strepitosi
+1 — « Usciva da lui una forza che guariva tutti » (Lc. 6, 19) dice il Vangelo parlando di Gesù e degli strepitosi
 miracoli che Egli compiva. Al tocco della sua mano i ciechi vedevano, i sordi udivano, i muti riacquistavano la pa-
 rola; era tanto grande la potenza che emanava da lui, che
 alla povera emorroissa bastò toccare il lembo della sua veste per sentirsi all'istante guarita. E con la stessa facilità

@@ -10,20 +10,20 @@ O Spirito Santo, Spirito di pietà, rallegra e addolcisci il mio cuore.
 un nuovo tocco alla nostra vita spirituale, un tocco di soavità
 e di dolcezza che perfeziona e semplifica i nostri rapporti con
 Dio e col prossimo. Questi rapporti sono fondamentalmente
-regolati dalla giustizia, virtà iui c'inclina a compiere sem
+regolati dalla giustizia, virtù che c'inclina a compiere sem
 il nostro dovere dando a ciascuno il suo. Se però nella vita
 fossimo guidati unicamente dalla giustizia il nostro cammino sarebbe molto arido e la fedeltà difficile. Quando, invece,
 mediante l'azione dello Spirito Santo, si sviluppa in noi il
 senso della pietà filiale verso il Padre celeste, senso che in
 
-ratica si traduce nel vivo desiderio di fargli piacere in tutte
-le cose, allora oltrepassiama i limiti sempre un po’ rigidi
+pratica si traduce nel vivo desiderio di fargli piacere in tutte
+le cose, allora oltrepassiamo i limiti sempre un po’ rigidi
 della giustizia per darci, con tutto il cuore, al servizio del
-Signore. Sospinti da quel profondo grido interiore: « Padrels che lo Spirito Santo va ripetendo in noi (cfr. Gal.
+Signore. Sospinti da quel profondo grido interiore: « Padre!» che lo Spirito Santo va ripetendo in noi (cfr. Gal.
 4, 6), ci eleviamo verso il cielo col desiderio di conquistare
 il cuore di Dio, di comportarci in tutto da veri figli suoi e così anche i doveri più ardui e gravosi diventano facili e soavi.
 In tal modo il dono della pietà aiuta la virtù della giustizia e
-quindi, quanto riguarda i nostri rapporti con Dio, la
+quindi, per quanto riguarda i nostri rapporti con Dio, la
 virtù della. religione. Mediante tale dono lo Spirito Santo
 «attesta al nostro spirito che siamo figli di Dio» (Rom. 8,
 16), sì che questa verità diventa esperienza viva, personale,
@@ -34,7 +34,7 @@ E' molto giusto quindi che, aspirando ad una vita di intima unione con Dio, noi 
 
 
 dono: sotto il suo influsso la nostra orazione diventerà più
-cordiale, più filiale e attenderemo con maggior amore e facilità a tutto ciò che conceme il culto divino. Invochiamo
+cordiale, più filiale e attenderemo con maggior amore e facilità a tutto ciò che concerne il culto divino. Invochiamo
 questo dono soprattutto nei momenti in cui ci sentiamo più
 aridi e freddi, affinchè — sia pure attraverso la prova ed il
 travaglio interiore — ci aiuti ad andare a Dio con cuore di
@@ -43,13 +43,13 @@ alla preghiera, nonostante la mancanza di devozione sensibile, è una delle migl
 soffio vivificatore del dono della pietà.
 
 
-2.— Il dono della pietà perfeziona la giustizia circa i nostri SER col prossimo aiutandoci soprattutto a smussare
+2.— Il dono della pietà perfeziona la giustizia circa i nostri doveri col prossimo aiutandoci soprattutto a smussare
 le angolosità, a vincere quel senso di ritrosia e di durezza che,
 pur cercando di praticare la virtù, rimane ancora nella nostra
 condotta, particolarmente verso coloro che ci sono molesti
 od ostili. Il dono della pietà c'ispira il senso della paternità
 
-a non solo signo a noi stessi, ma anche riguardo
+non solo riguardo a noi stessi, ma anche riguardo
 n altri, ossia ci fa sentire che non solo su noi, ma su tutti
 gli uomini, vicini o lontani, amici o nemici, si estende la medesima paternità, giacchè « uno [è] Padre di tutti, Colui che
 è sopra tutti e per tutti » (Ef. 4, 6). La consapevolezza della
@@ -64,7 +64,7 @@ comprendere che la nostra fratellanza soprannaturale è un
 legame assai più forte dei legami che provengono dalla carne
 e dal sangue, perchè sgorga non dalla volontà dell'uomo, ma
 dalla volontà del Padre celeste il quale, e prima della fondazione del mondo, ci ha predestinati ad essere suoi figli adotti
-vi per mezzo di Gesù Crista» ‘Ef. 1, 4 e 5); e în vista di
+vi per mezzo di Gesù Cristo» (Ef. 1, 4 e 5); e in vista di
 
 
 questo legame ci spinge ad oltrepassare qualsiasi difficoltà
@@ -85,15 +85,15 @@ in noi quel che da soli non sappiamo fare.
 che sono mossi da te, sono realmente figli di Dio. Tu m'insegni che non ho ricevuto lo spirito di servitù sì da essere
 ancora guidato dal timore, ma lo spirito di adozione a figlio
 cui, volgendo lo sguardo a Dio, posso gridare: e Padre! ».
-U stesso rendi testimonianza al mio spirito che sono figlio
+Tu stesso rendi testimonianza al mio spirito che sono figlio
 di Dio; e se sono figlio sono anche erede: erede di Dio e coerede di Cristo, purchè accetti di soffrire con lui, onde essere
 con lui glorificato» (cfr. Rom. 8, 14-17).
 
-« Dio mio, manda Ja tua luce e la tua verità, affinchè
+« Dio mio, manda la tua luce e la tua verità, affinchè
 risplendano sulla faccia della terra: io sono come un terreno
 vuoto e sterile finchè Tu, Signore, non mi rischiari. Infondimi dal cielo la tua grazia, ricrea il cuor mio con la cele-
 ste rugiada, dammi l’acqua della devozione per irrigare la
-superficie della terra, nda produca frutti belli e buoni. Solleva l'anima mia che è oppressa dal peso delle sue colpe, e
+superficie della terra, onde produca frutti belli e buoni. Solleva l'anima mia che è oppressa dal peso delle sue colpe, e
 solleva alle cose divine tutti i miei desideri, sì che, gustata
 una volta la soavità della felicità celeste, ogni cosa terrena
 mi riesca di tedio.
@@ -106,7 +106,7 @@ a te col vincolo indistruttibile dell’amor tuo, poichè Tu solo
 basti a chi ti ama, e senza di te tutte le cose non hanno alcun
 valore» (Imit. III, 23, 9 e 10)
 
-© Spirito Santo, crea in me un cuore di figlio verso il
+O Spirito Santo, crea in me un cuore di figlio verso il
 Padre celeste, un cuore che sempre lo cerchi, lo ami e lo
 serva di buon volere. Crea in me un cuore di fratello verso
 tutti i prossimi affinchè, superando ogni contrasto, sappia essere benevolo, dolce e mite con tutti.

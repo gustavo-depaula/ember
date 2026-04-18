@@ -12,11 +12,11 @@ sr Nell’Epistola della Messa del giorno Geremia (11,
 
 
 stato come agnello mansueto che è condotto ad essere
-immolato », Questa frase ime l’atteggiamento di Gesù
-di fronte alle amarezze della sua Passione, amatezze che
+immolato ». Questa frase esprime l’atteggiamento di Gesù
+di fronte alle amarezze della sua Passione, amarezze che
 Egli già conosceva ad una ad una in tutti i loro particolari
 più)concreti, che aveva già pregustate in cuor suo e che
-non l'hanno abbandonato neppure un istante nel’ corso della
+non l'hanno abbandonato neppure un istante nel corso della
 sua esistenza terrena. Se nella sua realtà storica, materiale,
 la Passione del Signore si è svolta in meno di 24 ore, nella
 sua realtà spirituale è durata per tutto lo spazio della
@@ -33,8 +33,8 @@ nemici » (BR.). Giuda l'ha tradito, i suoi nemici l'hanno
 trascinato ‘ai tribunali, l'hanno condannato a morte, gli
 hanno straziato il corpo in modo orrendo, ma Gesù, anche
 nella Passione, resta sempre Dio, resta sempre il Padrone, il
-Signore: «Io ho il potere di dare la mia vita e di riprenderla di muovo », canta la liturgia nel Vespro del giorno...
-(BR.). Gesù è andato alla Passione Lp l’ha voluto »
+Signore: «Io ho il potere di dare la mia vita e di riprenderla di nuovo », canta la liturgia nel Vespro del giorno...
+(BR.). Gesù è andato alla Passione perchè l’ha voluto »
 (Is. 53,7) e lo ha voluto perchè, come Egli stesso ha detto,
 «questo è il comando datogli dal Padre » (Gv. 10, 18).
 
@@ -58,7 +58,7 @@ protestato con tutta la vivacità del suo carattere ardente:
 « Ancorchè tutti si scandalizzassero per tua cagione, non
 sarà così di me ». E invano il Maestro gli aveva predetto la
 sua diserzione, designandone i più minuti particolari:
-« gres notte, prima che il gallo abbia cantato la seconda
+« Questa notte, prima che il gallo abbia cantato la seconda
 volta, mi rinnegherai tre volte »; la troppa fiducia di sè
 l'aveva reso cieco, impedendogli di credere alle parole di
 Gesù e di dubitare almeno un poco delle sue forze. «Quand’anche dovessi morire con te, non ti rinnegherò »; Pietro
@@ -95,14 +95,14 @@ sè, non è matura per la sua santificazione, nè per cooperare efficacemente al
 «O Dio dell'anima mia, come siam pronti ad offenderti! E come Tu lo sei più ancora a perdonarci. Ma che
 cosa dici, Signore! ‘Dolori di morte mi hanno circondato”. Ahi! che gran male è il peccato se fu sufficiente
 ad uccidere un Dio fra dolori sì orribili! E come, ancor
-oggi, ne sei circondato, Signore Qual’è il luogo ove Tu
+oggi, ne sei circondato, Signore! Qual è il luogo ove Tu
 non trovi dolore? Da ogni parte gli uomini ti coprono
 di ferite,
 
 «Cristiani, è ora di difendere il vostro Re e di tenergli compagnia nella sua desolata solitudine, Come son
 
 chi, ‘0 Signore, i vassalli che ti son rimasti fedeli!...
-È il peggio si è che ne hai di quelli che, mentre in pubblico si mostrano tuoi amici, in segreto ti vendono. E
+E il peggio si è che ne hai di quelli che, mentre in pubblico si mostrano tuoi amici, in segreto ti vendono. E
 non sai quasi più di chi fidarti. a >
 
 «O Amico sincero, come ti paga male chi ti tradisce!
@@ -117,4 +117,4 @@ da dar loro la vita, ‘anche se non la chiedono. Neppur
 Lazzaro ti chiese d'esser risuscitato, eppure Tu lo risuscitasti per le preghiere d’una peccatrice. Eccone qui
 un’altra, mio Dio, e assai più colpevole di quella. Fa'
 dunque risplendere la tua misericordia: telo domando,
-nonostante la mia miseria, ce coloro che non te lo vogliono domandare » (T.G. Es. 10).
+nonostante la mia miseria, e coloro che non te lo vogliono domandare » (T.G. Es. 10).

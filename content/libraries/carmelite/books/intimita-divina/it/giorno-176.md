@@ -11,7 +11,7 @@ il suo oggetto: Dio amato in se stesso, Dio amato nel prossimo. Perciò, quanto 
 ama il prossimo. Ora, se in Maria la carità verso Dio rar
 giunse una profondità abissale, bisogna dire che anche la
 sua carità verso il prossimo fu immensa. Questa è la proprietà del vero amore di Dio: anzichè rinchiudere in se
-stessa l’anima che lo iede, la spalanca per effondere
+stessa l’anima che lo invade, la spalanca per effondere
 attorno a sè quella ricchezza che la carità ha accumulato
 in lei. Tale fu la caratteristica della carità di Maria; tutta
 presa d'amore per il suo Dio, tutta raccolta nella contemplazione amorosa dei misteri divini che si compiono in lei
@@ -19,7 +19,7 @@ e attorno a lei, non trova nel suo raccoglimento un ostacolo ad occuparsi del pr
 la vediamo sempre attenta e aperta ai bisogni altrui, anzi
 la sua stessa ricchezza interiore la spinge a voler partecipare
 
-agli altri i grandi tesori che Ella fisale E' questo l’atteggiamento in cui ce la presenta i Vangelo quando, subito
+agli altri i grandi tesori che Ella possiede. E' questo l’atteggiamento in cui ce la presenta il Vangelo quando, subito
 dopo l'Annunciazione, si pose in viaggio «in fretta» — dice
 S. Luca — per recarsi da Elisabetta. Molto dolce le sarebbe
 stato rimanere a Nazareth per adorare, nella. solitudine
@@ -45,8 +45,8 @@ Ecco la suprema carità di Maria verso gli uomini: dare ad
 essi il suo Gesù non appena questi le viene donato; non vuol
 goderne lei sola, ma vuole fina tutte le creature ne godano.
 È come lo presenta ai pastori ed ai Magi venuti ad adorarlo,
-così lo presenterà un giorno ai camefici mandati a crocifig-
-+ gerlo. Gesù è tutto per Maria e Maria, nella sua grande
+così lo presenterà un giorno ai carnefici mandati a crocifig-
+gerlo. Gesù è tutto per Maria e Maria, nella sua grande
 carità, non esita ad immolarlo per la salvezza degli uomini.
 Si può pensare ad una carità più grande, più generosa?
 Gesù, nessuno, più di Maria, ha tanto amato gli
@@ -57,7 +57,7 @@ la Madonna, che pur aveva tanto sofferto per l'improvvisa
 scomparsa, sa nascondere il suo dolore dietro a quello di
 
 Giuseppe: «Ecco, tuo padre ed io, contristati, andavamo
-in cerca di te» (Le. 2, 48). La sua delicata carità verso
+in cerca di te» (Lc. 2, 48). La sua delicata carità verso
 lo sposo le ha fatto sentire profondamente il dolore di lui,
 sì da anteporlo al suo che; certo, fu assai più grande. Alle
 nozze di Cana, un altro tratto della delicatezza di Maria: mentre tutti sono occupati nel festino, solo lei, tanto raccolta, si
@@ -85,7 +85,7 @@ di tenerezza che cosa potrà sgorgare, se non tenerezza?
 E' forse strano che un cuore pieno di bontà produca bontà? Se, per una mezza giornata, qualcuno tiene in mano
 un frutto odoroso, non ne conserverà forse il profumo per
 tutto il resto del giorno? Di quanta virtù, o Maria, non
-t1 avrà dunque riempito il cuore la Bontà infinita che
+ti avrà dunque riempito il cuore la Bontà infinita che
 per nove mesi ha riposato in te? Lo so, questa Bontà,
 prima ancora d'invadere il tuo grembo, ha invaso il tuo
 cuore e anche quando ha lasciato il tuo seno non si è

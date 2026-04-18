@@ -7,20 +7,20 @@ Sostieni, o Signore, la mia debolezza affinchè possa giungere al possesso del t
 
 ### Meditazione
 
-1.—-Il iero centrale della Messa odierna lo troviamo
+1. — Il pensiero centrale della Messa odierna lo troviamo
 in sintesi nella Colletta: « O Signore, poichè senza di te l’umana debolezza cade, col tuo aiuto sia allontanata dal male
 e indirizzata verso la via della salute ». Ecco la posizione dell'uomo di fronte alla vita spirituale: è come un bambino che
 si trova ad un bivio, da solo non sa camminare, non sa quale
-via Segn per tornare a casa. Due strade si aprono davanti al cristiano: l'una conduce al regno dello spirito, al regno di Dio e l’altra al regno della carne, al regno di Mammona; quale delle due sceglierà? Evidentemente vuol dare la
+via seguire per tornare a casa. Due strade si aprono davanti al cristiano: l'una conduce al regno dello spirito, al regno di Dio e l’altra al regno della carne, al regno di Mammona; quale delle due sceglierà? Evidentemente vuol dare la
 precedenza a quella che conduce al regno di Dio, regno pacifico e dolce descritto da Gesù nel Vangelo di oggi; ma anche il regno di Mammona — il regno delle ricchezze e della
 carne — ha purtroppo delle attrattive e tenta di allettare il
 suo cuore. Per resistere a queste lusinghe l’Epistola c'insegna
 che bisogna lottare: « La carne ha desideri contrari allo spirito e lo spirito li ha contrari alla carne; son cose opposte fra
 loro, sì che voi non dovete fare tutto quel che vorreste ».
 
-La lotta è rude e talvolta si ridesta anche in anime già decisamente incamminate verso il regno di Dio: perchè? Perchè la via che vi conduce è aspra, faticosa e spesso si addentra in dense aa senza che l'anima Ep conto del
+La lotta è rude e talvolta si ridesta anche in anime già decisamente incamminate verso il regno di Dio: perchè? Perchè la via che vi conduce è aspra, faticosa e spesso si addentra in dense nebbie senza che l'anima si renda conto del
 cammino percorso, dei progressi fatti. Qui bisogna procedere
-al buio credendo e slo Ma intanto Di) to cade
+al buio credendo e pregando. Ma intanto l'occhio cade
 sull'altra via: più larga, più comoda, seminata di beni sensibili che si vedono, si toccano, si possono cogliere e godere
 immediatamente: basta allungare una mano. L'anima sente
 la tentazione e sente anche che da sola non può resistervi,
@@ -50,7 +50,7 @@ seconda dal timore di Dio, che ancora le resta. E' un'infelice,
 divisa a metà, in continua lotta con se stessa. Ma che cos'è
 che c'impedisce di cercare totalmente il regno di Dio? Ce lo
 dice Gesù nel Vangelo di oggi: la troppa sollecitudine Te
-il benessere Dale per le comodità e per la sicurezza lella vita presente. Pur volendo vivere secondo lo spirito, finchè peregriniamo quaggiù in un corpo mortale siamo sempre
+il benessere materiale, per le comodità e per la sicurezza della vita presente. Pur volendo vivere secondo lo spirito, finchè peregriniamo quaggiù in un corpo mortale siamo sempre
 soggetti a lasciarci invadere dalle preoccupazioni materiali:
 «Cosa mangeremo? Cosa berremo? Di che ci vestiremo? >.
 Proprio per liberarci da queste sollecitudini Gesù ci presenta
@@ -67,8 +67,8 @@ essi con piena libertà di spirito.
 
 ### Colloquio
 
-_<O Signore, ora che la carne ha desideri contrari allo
-spirito e lo spirito ha desideri contrari alla came, la lotta
+«O Signore, ora che la carne ha desideri contrari allo
+spirito e lo spirito ha desideri contrari alla carne, la lotta
 è mortale: io non faccio quello che vorrei, perchè vorrei non
 avere concupiscenze, ma è una cosa impossibile. Volere o no,
 le tengo; volere o no, lusingano, stimolano, importunano, vogliono sempre alzare la testa; si possono comprimere, ma non
@@ -81,22 +81,22 @@ a freno le mie membra; tutta la mia speranza riposa dunque in te. Tu dammi di po
 < Non voglio, o Signore, essere amico di questo mondo;
 perchè se sarò amico di questo mondo sarò nemico tuo, Delle
 cose create mi voglio far scala per ascendere a te; poichè se
-amerò ca cose più di te, non possederò te. Che mi giova
+amerò le cose più di te, non possederò te. Che mi giova
 l'abbondanza delle cose fatte da te, se mi manchi Tu, che
 
 
 ne sei l'Autore?
 
-TRN tanto travagliare per amore delle ricchezze? L'avidità del denaro impone fatiche, pericoli, logoramenti, tribolazioni ed io, infelice, mi vi sottometto. Mi vi sottometto
-i ee di che riempire il forziere, e così perdo la tran-
+Perchè tanto travagliare per amore delle ricchezze? L'avidità del denaro impone fatiche, pericoli, logoramenti, tribolazioni ed io, infelice, mi vi sottometto. Mi vi sottometto
+e non trovo di che riempire il forziere, e così perdo la tran-
 
 «Ma Tu, che cosa mi comandi, o mio Dio? Di amarti.
 
 
-Amando l'oro, mi metto a cercarlo, senza poterlo sigrere: ma
+Amando l'oro, mi metto a cercarlo, senza poterlo seguire: ma
 chiunque cerchi te, Tu sei con lui. Vorrei l'onore, e DE
 non potrò conseguirlo; ma, chi ama te senza arrivare a sd
 Sol che io ti ami, l'amore stesso ti avvicinerà a A
-cosa più dolce di questo amore? Tu sei l'amor DNS igos
+cosa più dolce di questo amore? Tu sei l'amor Dio mio
 Io t'amo col più fervido ardore, calpestando tutto ciò che
 alletta, risoluto di passar oltre» (S. Agostino).

@@ -23,7 +23,7 @@ adorato dagli angeli e dagli uomini come Dio, ma anche
 che a lui, come Uomo, gli angeli e gli uomini devono
 essere soggetti ed obbedire ». Cristo in quanto Uomo partecipa in pieno alla regalità e sovrana maestà di Cristo in
 quanto Dio, poichè, come Uomo e come Dio, Cristo è
-un'unica Persona, la seconda Persona della $$,ma Trinità;
+un'unica Persona, la seconda Persona della SS.ma Trinità;
 Egli è al vertice della creazione: il principio, il fine, il re
 di tutte le cose, Egli ha « il primato in ogni cosa » (Col.
 

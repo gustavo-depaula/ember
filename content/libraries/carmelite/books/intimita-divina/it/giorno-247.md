@@ -21,10 +21,10 @@ perduto la grazia, ma la carità no: è talmente vitale che non
 può sussistere con la morte causata dal peccato. Non solo,
 ma è talmente vitale che è imperitura e rimarrà immutata
 per tutta l'eternità. In cielo la fede e la speranza cesseranno
-perchè esse comportano qualche cosa d’imperfetto, nel senso
+perchè esse comportano qualche cosa d'imperfetto, nel senso
 che la fede ci fa conoscere Dio senza darcene la visione e la
 speranza ci fa sperare in lui senza darcene il possesso, perciò,
-<quando verrà ciò che è perfetto » ossia la visione beatifica,
+«quando verrà ciò che è perfetto » ossia la visione beatifica,
 queste due virtù non avranno più ragione di essere. Non
 così della carità la quale non implica nessuna imperfezione
 giacchè ci fa amare Dio sia nelle oscurità della fede, sia nella
@@ -40,21 +40,18 @@ che ha perduto la carità sono inattive, inoperose; restano in
 lui, è vero, ma vi restano come morte. «La fede senza le
 opere è morta > (Giac. 2, 26) e vale soltanto «la fede ope
 rante per mezzo dell'amore » (Gal. 5, 6) a tal punto che ese
-avessi tutta la fede, sì da trasportare le montagne e poi man-
-
-
-cassi di amore, non sarei nulla » (I Cor. 13, 2). E' la carità
+avessi tutta la fede, sì da trasportare le montagne e poi mancassi di amore, non sarei nulla » (I Cor. 13, 2). E' la carità
 che dà calore e forza di vita eterna alla fede ed alla speranza;
 è la carità che infonde vigore a queste virtù, perchè solo
 chi ama è capace di credere e di sperare in Dio senza nessuna
 condizione, senza nessuna misura ed è capace di abbandonarsi a lui ad occhi chiusi.
 
 
-2.— Le virtù morali possono rendere l’uomo onesto, virtuoso, possono regolare il suo agire secondo ragione, ma non
+2.— Le virtù morali possono rendere l'uomo onesto, virtuoso, possono regolare il suo agire secondo ragione, ma non
 possono in nessun modo introdurlo nell'amicizia di Dio e
 neppure dargli la possibilità di meritare la vita eterna. Senza
 il soffio vivificatore della carità, tutto rimane morto, sterile,
-freddo; senza la carità l’uomo resta confinato nel piano naturale, non può essere figlio di Dio, non può essere suo amico, non può vivere in società con le Persone divine. La carità è il principio, la radice, la fonte, la misura della nostra
+freddo; senza la carità l'uomo resta confinato nel piano naturale, non può essere figlio di Dio, non può essere suo amico, non può vivere in società con le Persone divine. La carità è il principio, la radice, la fonte, la misura della nostra
 vita soprannaturale: più amiamo e più cresce in noi la vita
 della grazia, più amiamo e più viviamo in Dio: « Noi sap
 piamo che siamo stati trasportati dalla morte alla vita perchè
@@ -67,7 +64,7 @@ giovamento » (I Cor. 13, 3). Ma quando interviene la carità,
 tutto cambia aspetto, come cambia aspetto un panorama baciato dal sole e, con ati , cambia il valore: anche le
 opere più umili, gli atti rtù più nascosti compiuti per
 amor di Dio acquistano valore di vita eterna. E' questo il
-miracolo operato dalla carità che ben giustamente S. Tommaso chiama « forma e madre» di tutte le virtù. « Solo l'amore dì valore alle opere — dice Teresa di Gesù — e l’unica cosa necessaria è che l’amore sia così forte che niente valga
+miracolo operato dalla carità che ben giustamente S. Tommaso chiama « forma e madre» di tutte le virtù. « Solo l'amore dì valore alle opere — dice Teresa di Gesù — e l'unica cosa necessaria è che l'amore sia così forte che niente valga
 a soffocarlo» (Es. 5, 2). Tutto ciò fa comprendere che in
 carità è davvero « il più grande e il primo comandamento »
 
@@ -85,8 +82,8 @@ piacere a Dio, di dargli gusto, di dargli gloria.
 
 «Rivestimi, o Signore, della veste purpurea della carità,
 la quale non solo aggiunge grazia alla fede ed alla speranza,
-ma ad un tratto innalza l’anima rendendola gradita e bella
-al tuo cospetto. Questa virtù è quella che attira maggiormente il tuo amore, che difende l’anima dall'amor proprio,
+ma ad un tratto innalza l'anima rendendola gradita e bella
+al tuo cospetto. Questa virtù è quella che attira maggiormente il tuo amore, che difende l'anima dall'amor proprio,
 che avvalora le altre virtù, dando ad esse forza e vigore,
 e grazia e bellezza affinchè l'anima possa piacerti poichè,
 senza la carità, nessuna virtù è gradita agli occhi tuoi.
@@ -101,16 +98,13 @@ per via d'amore e l'unisci a Dio.
 nell'amarti, sì che ogni facoltà dell'anima e del corpo, la
 memoria, l'intelletto, i sensi esterni ed interni, gli appetiti
 della parte sensitiva e spirituale, tutto, insomma, si muova per
-amore e in amore. Fa' che, nell’operare, io faccia ogni cosa
+amore e in amore. Fa' che, nell'operare, io faccia ogni cosa
 per amore e nel patire sopporti tutto con gusto d'amore e
 così, Dio mio, custodisca per te tutta la mia forza » (cfr. G.C.
 N. II, 21, 10-11; AM. 16; C. 28, 8).
 
 «Propongo, o mio Dio, in tutte le mie operazioni, sì
 interne che esterne, di non avere altra mira che il solo motivo dell'amore, dicendo sempre ed interrogando me stessa:
-adesso che faccio in quest'azione? Amo il mio Dio? E, cono-
-
-
-scendo esservi qualche ostacolo al puro amore, rimprovererò
+adesso che faccio in quest'azione? Amo il mio Dio? E, conoscendo esservi qualche ostacolo al puro amore, rimprovererò
 me stessa, Se o Signore, che ti devo rendere amore per amore. Ben Tu mi fai conoscere che tanto più ti amerò quanto maggiormente sarò diligente nell'osservare tutte
 le tue sante Ieggi > (cfr. T. M. Sp. pp. 324325).

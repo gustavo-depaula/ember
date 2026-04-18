@@ -81,8 +81,7 @@ dividere con noi la nostra povera vita umana, piena di mi-
 serie e di sofferenze, perchè, facendoti simile a noi nel
 dolore, noi fossimo fatti simili a te nella gloria.
 
-Gli uomini non ti hanno compreso, non ti hanno ri-
-amato... ti hanno messo in croce, e Tu continui ad amarli
+Gli uomini non ti hanno compreso, non ti hanno riamato... ti hanno messo in croce, e Tu continui ad amarli
 perchè li ami non per tuo interesse, ma unicamente per la
 gloria della SS.ma Trinità. O Gesù, che per amore del
 Padre tuo tanto ci ami e tutto ti sei dato per noi, fa' che

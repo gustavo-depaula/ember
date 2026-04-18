@@ -3,7 +3,7 @@
 
 ### Presenza di Dio
 
-— Maria, Madre di Dio, accetta i miei umili ossequi e fa' che anch'io possa godere i dolci frutti della tua maternità.
+Maria, Madre di Dio, accetta i miei umili ossequi e fa' che anch'io possa godere i dolci frutti della tua maternità.
 
 ### Meditazione
 
@@ -14,13 +14,13 @@ congratula con Maria per questa sua altissima dignità che
 la pone al di sopra di ogni semplice creatura, alle soglie
 dell'infinito, che la costituisce non solo regina degli uo
 mini, ma anche degli angeli. Tutta la Messa del giorno
-è intonata a questo tema. L’Introito riporta il vaticinio di
+è intonata a questo tema. L'Introito riporta il vaticinio di
 Isaia il quale, fin dall'antico testamento, aveva intravisto
 la grandezza di questa Donna singolare: Ecco, la Vergine concepirà e partorirà un Figlio e lo chiameranno col
 
 nome di Emmanuele », e cioè Dio con: noi. L'Epistola
 (Ecli. 24, 23-31), applicando alla Madonna un brano dell'elogio alla Sapienza, canta le lodi della sua maternità
-divina: Maria è la vite ubertosa da cui germogliò il frutto più bello, Gesù; Maria è la « madre del bell’amore »
+divina: Maria è la vite ubertosa da cui germogliò il frutto più bello, Gesù; Maria è la « madre del bell'amore »
 in cui è «ogni grazia di via e di verità, ogni speranza di
 vita e di virtù», giacchè solo per mezzo di lei Dio ha
 dato al mondo il suo Unigenito, solo per mezzo di lei
@@ -31,11 +31,11 @@ Assai dolce, perciò, suona all'orecchio l'invito materno:
 dei miei frutti ». Sì, andiamo a Maria e non saremo delusi, in lei troveremo di che saziarci perchè Maria ci dà
 Gesù Redentore, Padre, Cibo delle anime nostre, e non
 solo ce lo dà, ma, con gli esempi della sua mirabile vita,
-c’insegna ad amarlo, a imitarlo, a seguirlo, a valerci nel
+c'insegna ad amarlo, a imitarlo, a seguirlo, a valerci nel
 modo più pieno della sua opera redentrice e santificatrice.
 Proprio così Maria estende anche a noi la sua maternità,
-compie anche verso di noi l’ufficio di madre e noi possiamo ripetere con tutta confidenza la preghiera che la
-Chiesa ci mette oggi sulle labbra: «O Signore... concedici di essere aiutati presso di te dall’intercessione di
+compie anche verso di noi l'ufficio di madre e noi possiamo ripetere con tutta confidenza la preghiera che la
+Chiesa ci mette oggi sulle labbra: «O Signore... concedici di essere aiutati presso di te dall'intercessione di
 Colei che crediamo vera madre di Dio » (Colletta).
 
 re nei nostri cuori Ja confidenza, la fiducia in Colei che,
@@ -59,8 +59,8 @@ vuole impegnare a nostro vantaggio i privilegi e i tesori
 della sua maternità, ma non può farlo, se non ci affidiamo a lei come figli docili e amanti. Anche fra coloro che
 sono consacrati a Dio, non tutti e non sempre compre
 dono abbastanza la necessità di darsi a Maria come figli,
-di aprire l’anima al suo influsso materno, di ricorrere a
-lei con confidenza piena, d’invocare il suo aiuto in tutte
+di aprire l'anima al suo influsso materno, di ricorrere a
+lei con confidenza piena, d'invocare il suo aiuto in tutte
 le difficoltà, in tutti i pericoli, di mettere la propria vita
 spirituale sotto il suo patrocinio. Come nell'ordine naturale il bambino ha bisogno della mamma e quando la
 mamma viene a mancare il bambino soffre moralmente e spiritualmente, così nell'ordine soprannaturale le anime hanno bisogno di una madre, di Maria Santissima.
@@ -74,12 +74,11 @@ sorregge, vi è un cuore materno che le conforta.
 ### Colloquio
 
 «Il tuo nome, o Madre di Dio, è ripieno di tutte le
-grazie e le benedizioni divine. Tu hai portato nel tuo seno Colui che i cieli non possono contenere. Tu hai nutrito Colui che tutto nutre. Il Signore dell’ Universo ha
+grazie e le benedizioni divine. Tu hai portato nel tuo seno Colui che i cieli non possono contenere. Tu hai nutrito Colui che tutto nutre. Il Signore dell' Universo ha
 
-LA MATERNITÀ DI MARIA 208
 
 voluto aver bisogno di te, avendogli Tti dato quella carne che nona non aveva. Rallegrati, o Madre e Ancella
-di Dio! Rallegrati! Tu hai per uu Colui che dà l’essere a tutte le creature; tutti noi siamo debitori a Dio,
+di Dio! Rallegrati! Tu hai per uu Colui che dà l'essere a tutte le creature; tutti noi siamo debitori a Dio,
 ma Dio è debitore a te!
 
 ; «O Santissima Vergine, Tu hai maggior bontà, maggior carità di tutti gli altri santi e più di tutti hai accesso al trono di Dio, poichè ne sei la madre. Ti supplico,
@@ -88,7 +87,7 @@ bontà, di ricordarti di me e delle mie miserie » ($. Metodio).
 
 «O gran Madre di Dio, ti dirò anch'io con S. Bernardo: “Parla, o Signora, che il Figlio tuo ti ascolta e
 quanto gli chiederaî, tutto ti concederà *. Parla, dunque,
-paria: ‘© Maria, avvocata mia, a favore di me miserabile.
+paria: '© Maria, avvocata mia, a favore di me miserabile.
 
 icordati che anche per mio bene hai ricevuto tanta potenza e tanta dignità; Dio ha voluto farsi tuo debitore
 prendendo da te la natura umana, affinchè tu potessi dispensare liberamente ai miseri le ricchezze della sua divina misericordia.
@@ -101,7 +100,7 @@ vogliamo onorarti, vogliamo amarti e confidiamo nel tuo
 aiuto? O Maria, anche se siamo peccatori, puoi salvarci,
 perchè Dio ti ha arricchito di misericordia e di potenza
 maggiore di ogni nostra iniquità, O Madre dolcissima, a
-te presento l’anima mia affinchè la purifichi, la
+te presento l'anima mia affinchè la purifichi, la
 la faccia tutta di Gesù » (S. Alfonso).
 
 ntifichi,

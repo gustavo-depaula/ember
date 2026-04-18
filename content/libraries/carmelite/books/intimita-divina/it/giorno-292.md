@@ -6,16 +6,16 @@ O Signore, concedimi di progredire ogni giorno nella via della santità, senza m
 
 ### Meditazione
 
-1. — e Siate santi, perchè io sono santo» (Lev, 19, 2):
+1. — «Siate santi, perchè io sono santo» (Lev, 19, 2):
 questa è la volontà di Dio, questa è la nostra vocazione, questo è l'oggetto dei nostri desideri e dei nostri sforzi. Creati a
 somiglianza di Dio, non vogliamo che la sua immagine sia
 in noi offuscata dai difetti e dalle passioni, ma: vogliamo che
-risplenda limpida e pura, sifletieitio il più possibile la sua
+risplenda limpida e pura, riflettendo il più possibile la sua
 santità. Per renderci simili a sè, Dio ha infuso nell'anima no:
 stra, assieme alla grazia, le virtù teologali e morali che hanno proprio lo scopo di ricopiare in noi qualche cosa delle sue
 perfezioni infinite; ed Egli, che come Padre ama ritrovare nei
 suoi figli i tratti della sua somiglianza, desidera sommamente
-vederci crescere nelle virtù. anita — dice S. Giovanni
+vederci crescere nelle virtù. L'anima — dice S. Giovanni
 della Croce — non può esercitare e acquistare le virtù da
 sola, senza l’aiuto di Dio, e neppure Dio le inserisce da solo
 nell'anima, senza di lei» (C. 30, 6). Infatti, benchè nel battesimo Dio abbia infuso in noi le virtù senza alcun nostro
@@ -28,7 +28,7 @@ renderci simili a sè, dobbiamo applicarci con grande impegno
 all’esercizio delle virtù. Ci applicheremo anzitutto a quella
 
 
-virtù che riconosciamo maggiormente necessaria correggere i nostri difetti, per vincere la nostra passione dominante;
+virtù che riconosciamo maggiormente necessaria per correggere i nostri difetti, per vincere la nostra passione dominante;
 ne faremo oggetto particolare dei nostri propositi, dei nostri
 esami di coscienza e rendiconti al direttore spirituale. Non
 dobbiamo pensare che questo esercizio sia riservato ai principianti perchè « l'obbligo di progredire nell'amore di Dio —
@@ -39,15 +39,15 @@ vie dello spirito, può considerarsi dispensato dall'esercizio delle virtù.
 
 2. — S. Teresa di Gesù, descrivendo le altezze della
 vita di unione con Dio, fa continue digressioni per raccomandare vivamente l'esercizio delle virtù: « E’ necessario — scri-
-ve alle sue figlie — che cerchiate di non far consistere il vostro fondamento soltanto nel. pregare e contemplare, perchè,
+ve alle sue figlie — che cerchiate di non far consistere il vostro fondamento soltanto nel pregare e contemplare, perchè,
 se non procurate di acquistare le virtù e non ne fate l’esercizio, rimarrete sempre delle nane» (M. VII, 4, 9); e altrove
 dice espressamente che mediante le virtù « potranno molto
-progredire nel servizio di Dic anche senza essere grandi contemplative, mentre senza di esse nessuna potrà farlo » (Cam.
-4, 3). Che Dio ci conduca 0 no per la via dell'alta contemplazione, ciò non è essenziale per farci santi e d'altronde non
+progredire nel servizio di Dio anche senza essere grandi contemplative, mentre senza di esse nessuna potrà farlo » (Cam.
+4, 3). Che Dio ci conduca o no per la via dell'alta contemplazione, ciò non è essenziale per farci santi e d'altronde non
 dipende dalla nostra volontà; ma l'essenziale, invece — e questo dipende da noi — è sempre la pratica della virtù. Sia che
 Dio ci voglia nella vita di famiglia o dediti all'esercizio di
 una professione, sia che ci chiami all’apostolato o alla vita
-contemplativa, în ogni caso ci faremo santi solo nella misura în cui saremo virtuosi.
+contemplativa, in ogni caso ci faremo santi solo nella misura in cui saremo virtuosi.
 
 Più ci applichiamo ad esercitare le virtù, più la pratica di
 esse ci diventerà facile e quasi connaturale; ma per giungere
@@ -66,16 +66,16 @@ lo fa in modo proporzionato al nostro impegno nell’esercitare le virtù. La pr
 nostra all'azione di Dio, la rende atta ad accogliere ed a seguire le mozioni dello Spirito Santo. Diamoci dunque con gene-
 
 
-tosità a questo esercizio: lo Spirito Santo non tarderà a venirci incontro con i suoi doni e noi Prepieseno rapida-
+tosità a questo esercizio: lo Spirito Santo non tarderà a venirci incontro con i suoi doni e noi progrediremo rapida-
 mente verso la virtù perfetta, eroica, verso la santità.
 
 ### Colloquio
 
-<O Signore, Tu hai detto: “Siate santi perchè io sono
+«O Signore, Tu hai detto: “Siate santi perchè io sono
 santo‘; è proprio questa, mi sembra, la stessa volontà che hai
-si il giorno della creazione quando hai dichiarato:
+sin dal giorno della creazione quando hai dichiarato:
 
-‘acciamo l'uomo a nostra immagine e somiglianza’; è sem-
+Facciamo l'uomo a nostra immagine e somiglianza’; è sem-
 
 re lo stesso tuo desiderio di associare, di identificare a te
 la tua creatura... Come soddisfare meglio questo tuo desiderio, se non rimanendo semplicemente ed amorosamente vol-
@@ -87,7 +87,7 @@ tratta che di spogliarsi per percorrerla secondo il tuo intendimento divino. Aiu
 me stessa, a perdermi di vista» (E.T. II, 9; I, 7).
 
 Aiutami, o Signore, a combattere i miei difetti per spogliarmi dell'uomo vecchio; aiutami a praticare le virtù per
-rivestirmi dell’uomo nuovo. Poco vale di fronte a te la splendidezza delle 0) o la fama di un gran nome, ma molto
+rivestirmi dell’uomo nuovo. Poco vale di fronte a te la splendidezza delle opere la fama di un gran nome, ma molto
 vale l'esercizio della virtù.
 
 «Tu preferisci vedere in me il più piccolo grado di purezza di coscienza che tutte le opere che io possa fare.

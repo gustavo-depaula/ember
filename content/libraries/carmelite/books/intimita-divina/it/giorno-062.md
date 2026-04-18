@@ -19,7 +19,7 @@ manifesta la sua divinità, Gesù cerca il più possibile di
 fuggire la gloria degli uomini. Più volte, dopo aver operato
 un miracolo, impone silenzio; ai tre Apostoli testimoni della sua trasfigurazione ordina « di non raccontare a nessuno
 quello che avevan veduto, prima che... fosse risorto dai
-morti » (Mr. 9, 8); e dopo la prima moltiplicazione dei
+morti » (Mc. 9, 8); e dopo la prima moltiplicazione dei
 pani, «sapendo che sarebbero venuti a rapirlo per farlo
 re, fuggì di nuovo solo sul monte » (Gv. 6, 15).
 

@@ -41,7 +41,7 @@ S. Teresa del B. G. chiamava ciò « gioire per amore ».
 Questo è pure l’insegnamento di S. Paolo, il quale dice :
 « siate lieti sempre nel Signore » e, « sia che mangiate, sia
 che beviate, ...tate tutto per la gloria di Dio» (Fil. 4,4;
-1Cor. 1o, 31). Che se invece ti fermi al gusto delle cose
+1 Cor. 10, 31). Che se invece ti fermi al gusto delle cose
 sensibili, non potrai mai entrare nella notte dei sensi,
 
 

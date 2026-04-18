@@ -18,11 +18,11 @@ come Figlio di Dio, ha veduto e udito nel seno del Padre.
 
 Già nell'Antico Testamento troviamo qualche accenno
 a tale mistero, ma la rivelazione di esso appartiene al Nuovo,
-al Testamento dell'amore e si può dire che Dio ha voluto riservarne a sè la manifestazione.’ Infatti, non ce l'ha
+al Testamento dell'amore e si può dire che Dio ha voluto riservarne a sè la manifestazione.' Infatti, non ce l'ha
 rivelato mediante i profeti, ma mediante il suo Unigenito
 che è una cosa sola con lui: e Nessuno ha veduto mai
 Dio; — dice l'Evangelista — il Figlio unigenito, che è
-nel seno del Padre, ce l’ha fatto conoscere» (Gv. 1, 18).
+nel seno del Padre, ce l'ha fatto conoscere» (Gv. 1, 18).
 
 Gesù è venuto per narrarci il mistero della vita intima di
 Dio; ci ha parlato di sè, come Figlio di Dio in tutto uguale
@@ -43,17 +43,16 @@ fino ad introdurci nel segreto della sua vita intima.
 
 2. — Dio, bene sommo ed infinito, basta a se stesso:
 nella conoscenza e nell'amore di sè Egli trova tutta la sua
-felicità, Essendo l’Essere infinitamente perfetto, la conoscenza e l'amore sono in lui essenzialmente fecondi e da
+felicità, Essendo l'Essere infinitamente perfetto, la conoscenza e l'amore sono in lui essenzialmente fecondi e da
 questa fecondità sgorga il mistero della sua vita intima, il
 mistero trinitario. Il Padre da tutta l'eternità conosce perfettamente se stesso e, conoscendosi, genera il Verbo, Idea
 sostanziale in cui il Padre esprime ed a cui comunica tutta
 la sua essenza, divinità e bontà infinita. Il Verbo è così
 «il riflesso della gloria e l'impronta della sostanza» del
-Padre (Ebr. 1, 3); ma riflesso e impronta sostanziale, poichè ha in sè la stessa natura e le stesse perfezioni del Pa-
-dre. Da tutta l'eternità il Padre ed il Figlio si contemplano
-a vicenda e si amano infinitamente a motivo dell’infinita
+Padre (Ebr. 1, 3); ma riflesso e impronta sostanziale, poichè ha in sè la stessa natura e le stesse perfezioni del Padre. Da tutta l'eternità il Padre ed il Figlio si contemplano
+a vicenda e si amano infinitamente a motivo dell'infinita
 indivisibile perfezione che entrambi possiedono; amandosi,
-sono attratti l’un l’altro e si donano l’un l’altro riversando
+sono attratti l'un l'altro e si donano l'un l'altro riversando
 tutta la loro natura ed essenza divina in una terza Persona,
 lo Spirito Santo, che è il termine, il pegno, il dono sostanziale del loro mutuo amore. Così la medesima natura e
 vita divina circola dal Padre al Figlio, e dal Figlio e dal
@@ -78,12 +77,12 @@ assoluta comunicazione di tutto il suo bene, di tutto il suo
 essere. Il mistero trinitario ci fa così intuire che in Dio vi
 è un oceano sconfinato e inesauribile di bontà, di amore,
 di fecondità, di vita; intuizione preziosa perchè, più delle
-altre, capace di sviluppare in noi il senso dell’infinita grandezza di Dio.
+altre, capace di sviluppare in noi il senso dell'infinita grandezza di Dio.
 
 ### Colloquio
 
 « Incomprensibile Dio, eterna è la tua grandezza, ineffabile è la tua bontà. Vedo, e nel vedere mi compiaccio,
-le tre Persone divine fluire l’una nell'altra in modo indicibile ed imperserutabile. Il Padre fluisce nel Figlio, il
+le tre Persone divine fluire l'una nell'altra in modo indicibile ed imperserutabile. Il Padre fluisce nel Figlio, il
 Figlio fluisce nel Padre; il Padre ed il Figlio fluiscono nello
 Spirito Santo. Dio eterno, sei indicibilmente buono, Tu
 che per bontà comunichi alla creatura, che conosce il suo

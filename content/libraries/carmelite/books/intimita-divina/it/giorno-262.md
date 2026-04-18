@@ -12,14 +12,14 @@ vuole con durezza, rigidità o violenza, ma con forza sommamente soave, sempre r
 con pazienza e dolcezza infinita. Il Vangelo così ci descrive
 la dolcezza di Gesù: « Non disputerà e non griderà e nessuno udrà la sua voce sulle piazze. Non spezzerà la canna
 rotta e non spegnerà il lucignolo fumigante » (Mt. 12, 19 e
-20). I farisei mormorano perchè lo vedono mangiare coi pubblicani e i peccatori e Tui risponde: « Andate ad imparare
+20). I farisei mormorano perchè lo vedono mangiare coi pubblicani e i peccatori e lui risponde: « Andate ad imparare
 che cosa significhi: io voglio misericordia e non sacrificio:
-perchè io non son venuto a chiamare i giusti, ma i peccatori» (Mt. 9, 13). Gli Apostoli sono pronti ad invocare Il fuoco
-sui samaritani che respingono il Macstro, ma Egli li sgrida:
-«Non sapete di quale spirito siete, Il Figliuol dell’uomo non
+perchè io non son venuto a chiamare i giusti, ma i peccatori» (Mt. 9, 13). Gli Apostoli sono pronti ad invocare il fuoco
+sui samaritani che respingono il Maestro, ma Egli li sgrida:
+«Non sapete di quale spirito siete, il Figliuol dell’uomo non
 è venuto a perdere le anime ma a salvarle » (Lc. 9, 55 e 56).
 
-E a queste anime che, combattendo conto le loro miserie,
+E a queste anime che, combattendo contro le loro miserie,
 sentono il peso e la fatica della lotta quotidiana, dice: « Venite a me voi tutti, che siete affaticati e oppressi ed io vi
 consolerò. Il mio giogo è dolce e il mio carico è leggero»
 (Mt. 11, 28 e 30). Ciò che rende dolce il giogo del Signore,
@@ -52,7 +52,7 @@ insegna il Vangelo, la correzione fraterna è un dovere che
 s'impone ed allora è un vero atto di carità. Ma perchè sia
 davvero tale non deve mai essere fatta con l'intento di umiliare, di mortificare e tanto meno di offendere il colpevole,
 non deve mai essere ispirata, anche solo indirettamente, da
-motivi personali tendenti a far valere i propri diritti, le proprie ragioni, a prendere la rivincita per qualche torto ricevuto. Ìn questi casi la correzione, lungi dall'essere un atto
+motivi personali tendenti a far valere i propri diritti, le proprie ragioni, a prendere la rivincita per qualche torto ricevuto. In questi casi la correzione, lungi dall'essere un atto
 di carità, è totalmente contraria a questa virtù, e, anzichè
 fare del bene, produrrà piuttosto l'effetto contrario. Solo un
 desiderio spassionato e sincero del bene altrui può rendere
@@ -84,6 +84,6 @@ fare ed ottenere con amore lo farò; ma ciò che non potrò fare ed ottenere sen
 a valermi delle avversioni e ripugnanze che incontrerò nel
 trattare col prossimo, per esercitare la virtù della dolcezza,
 agendo amorosamente con qualsiasi persona, ancorchè mi
-fosse contraria 0 mi cagionasse disgusto,
+fosse contraria o mi cagionasse disgusto,
 
 «In conclusione, propongo col tuo aiuto, o Dio amabilissimo, di applicarmi per acquistare la soavità del cuore verso il prossimo, amandolo come creatura tua, destinata a lodarti in eterno in Paradiso. Quelli che sopporti Tu, o Signore Iddio, è ben giusto che li sopporti anch'io teneramente e con grande compassione per le loro infermità spirituali» (cfr. S. Francesco di Sales).

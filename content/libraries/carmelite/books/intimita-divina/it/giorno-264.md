@@ -10,8 +10,7 @@ O Maria SS.ma assunta in cielo, ti supplico di purificare i miei sensi, affinch�
 gloria del cielo in anima e corpo, ci ricorda con una forza
 
 tutta particolare che la nostra stabile dimora non è la terra,
-ma il cielo dove, insieme col suo divin Figlio, lei ci ha pre
-ceduto nella completezza della sua persona. E' questo il pensiero dominante della liturgia odierna: «O Dio onnipotente
+ma il cielo dove, insieme col suo divin Figlio, lei ci ha preceduto nella completezza della sua persona. E' questo il pensiero dominante della liturgia odierna: «O Dio onnipotente
 ed eterno — dice l'Oremus del giorno — che avete elevato
 nel corpo e nell'anima alla gloria celeste l'Immacolata Vergine Maria, Madre del vostro Figlio, fate, ve ne supplichiamo,
 che sempre attenti ai beni celesti, noi meritiamo di essere
@@ -33,10 +32,9 @@ quaggiù, a gustare Dio, Dio solo, nell'incanto delle creature ».
 2. — L'assunzione di Maria SS.ma ci indica l'itinerario
 della nostra ascesa spirituale: distacco dalla terra, slancio verso Dio, unione con Dio.
 
-La Madonna è stata assunta in ciclo in anima e corpo
-pr è l'Immacolata: lei così pura, non solo di ogni ombra
-
-li colpa, ma anche di ogni minimo attacco alle cose della
+La Madonna è stata assunta in cielo in anima e corpo
+perché è l'Immacolata: lei così pura, non solo di ogni ombra
+ di colpa, ma anche di ogni minimo attacco alle cose della
 terra, che «nella sua anima non ebbe mai impressa alcuna
 
 forma di creatura che la muovesse ad agire» (G.C. S. III,
@@ -61,10 +59,10 @@ e questo suo massimo privilegio, radice e motivo di tutti gli
 altri, ci parla in modo particolare di unione intima con Dio,
 come ce ne parla il fatto dell'assunzione all'unione beatificante del cielo. La Madonna Assunta ci conferma dunque in
 
-uesta grande e dolce verità: noi siamo creati e chiamati al-
+questa grande e dolce verità: noi siamo creati e chiamati al-
 
 l'unione con Dio; e la Madonna stessa ci tende la sua mano
-materna per SUS al raggiungimento di così alto ideale.
+materna per suscitarti al raggiungimento di così alto ideale.
 Con lo sguardo fisso a lei sarà più agevole procedere: lei sarà «la nostra guida, forza e consolazione » in qualsiasi lotta
 e difficoltà.
 
@@ -75,20 +73,16 @@ uomini.
 « Noi crediamo con tutto il fervore della nostra fede nel-
 
 
-XV - L'ASSUNZIONE DI MANIA .57
-
-
 la tua assunzione trionfale in anima e corpo al cielo, ove
 sei acclamata regina da tutti i cori degli angeli e da tutte le
-schiére dei santi; e noi ad essi ci uniamo per ra e benedire
+schiére dei santi; e noi ad essi ci uniamo per lodare e benedire
 il Signore, che ti ha esaltata sopra tutte le altre pure creature, e per offrirti l'anelito della nostra devozione e del nostro
 amore.
 
 « Noi sappiamo che il tuo sguardo, che maternamente accarezzava l'umanità umile e sofferente di Gesù in terra, si
-sazia in ciclo alla vista dell'umanità gloriosa della Sapienza
+sazia in cielo alla vista dell'umanità gloriosa della Sapienza
 increata, e che la letizia dell'anima tua nel contemplare a faccia a faccia l'adorabile Trinità fa sussultare il tuo cuore di
-beatificante tenerezza; e noi, poveri peccatori, noi a cui il corpo appesantisce il volo dell'anima, ti penne di purifica
-re i nostri sensi affinchè apprendiamo, fin da quaggiù, a gustare Dio, Dio solo, nell'incanto delle creature.
+beatificante tenerezza; e noi, poveri peccatori, noi a cui il corpo appesantisce il volo dell'anima, ti preghiamo di purificare i nostri sensi affinchè apprendiamo, fin da quaggiù, a gustare Dio, Dio solo, nell'incanto delle creature.
 
 « Noi confidiamo che le tue pupille misericordiose si abbassino sulle nostre miserie e sulle nostre angosce, sulle nostre lotte e sulle nostre debolezze; che le tue labbra sorridano
 alle nostre gioie e alle nostre vittorie, che Tu senta la voce

@@ -6,20 +6,18 @@
 
 ### Meditazione
 
-1. — La carità « non è egoista + (I Cor. 13, 5). Essere sensibili alle necessità ed alle sofferenze altrui, essere sempre
+1. — La carità « non è egoista» (I Cor. 13, 5). Essere sensibili alle necessità ed alle sofferenze altrui, essere sempre
 pronti a prestare aiuto al prossimo, non giustifica l'esigenza di pretendere il contraccambio. La carità ha questo di proprio che, mentre si dona con generosità agli altri, non richiede nulla per sè. « Fate del bene e date in prestito senza speranza di ricambio; e grande sarà la vostra ricompensa e voi sarete
 i figli dell’Altissimo, ch'è buono pure verso gli ingrati, e i
-cattivi » (Le. 6, 35). La carità non è un dare per avere, Tua è
-un dare senza calcolo e misura, che si ritiene massimamente
+cattivi » (Lc. 6, 35). La carità non è un dare per avere, ma è un dare senza calcolo e misura, che si ritiene massimamente
 ripagato dall'onore di poter servire e amare Dio nelle sue
 creature. La carità ama, serve, si dà, si prodiga per il gusto
 di amare, di servire Dio nel prossimo, per la gioia d'imitare
-la sua prodigalità infinita, la gioia di sentirsi figlia del Padre celeste che tutti benefica senza distinzione. Quale ricompensa maggiore di quella di chiamarsi e di essere effettiva
-mente figli di Dio? Per avere quest'unica ricompensa, la carità
+la sua prodigalità infinita, la gioia di sentirsi figlia del Padre celeste che tutti benefica senza distinzione. Quale ricompensa maggiore di quella di chiamarsi e di essere effettivamente figli di Dio? Per avere quest'unica ricompensa, la carità
 cerca di sfuggire ogni ricompensa terrena; nasconde quindi il
 bene che fa: « non sappia la tua sinistra quello che fa la destra» (Mt. 6, 3) e cerca di preferenza di beneficare proprio
 coloro da cui non può sperare nessun ricambio: «quando fai
-un pranzo o una cena, non invitare i tuoi amici o i tuoi fratelli... perchè non avvenga che anch'essi ti invitino e ti sia reso il contraccambio. Ma quando fai un convito, chiama poveri, storpi, zoppi e ciechi; e sarai fortunato che non abbiano modo di contraccambiarti (Le. 14, 12-14). Quanto è distante
+un pranzo o una cena, non invitare i tuoi amici o i tuoi fratelli... perchè non avvenga che anch'essi ti invitino e ti sia reso il contraccambio. Ma quando fai un convito, chiama poveri, storpi, zoppi e ciechi; e sarai fortunato che non abbiano modo di contraccambiarti (Lc. 14, 12-14). Quanto è distante
 la logica del Vangelo dalla logica dei calcoli umani!
 Quando in un cuore nasce la passione di darsi a Dio, nasce nello stesso tempo quella di darsi al prossimo unicamente
 per amore di Dio e allora quel cuore non fa più distinzione
@@ -55,10 +53,7 @@ alle offese, che sa accettare in pace le punture di spillo, senza neppure aver l
 di far capire agli altri che ci danno pena. Con la grazia di
 Dio e a forza di lotte contro i risentimenti dell’amor proprio,
 dobbiamo arrivare a questa carità completamente dimentica
-di sè e allora nel nostro ambiente di vita saremo « non giudi-
-
-
-ci, ma angeli di pace» (T.B.G. CR.).
+di sè e allora nel nostro ambiente di vita saremo « non giudici, ma angeli di pace» (T.B.G. CR.).
 
 ### Colloquio
 
@@ -68,10 +63,10 @@ perchè l’amore di te e l'amore del prossimo è una medesima
 cosa: quanto l'anima ama te, altrettanto ama il prossimo, per
 chè l’amore verso di lui proviene da te.
 
-, «Questo è quel mezzo che Tu ci hai dato, o Dio altissimo,
+«Questo è quel mezzo che Tu ci hai dato, o Dio altissimo,
 affinchè esercitiamo e proviamo la nostra virtù, poichè, non
 potendo fare utilità a te, la facciamo al prossimo. Perciò l'anima innamorata di te, Signore amabilissimo, non lascia mai
-di adoperarsi per l'utilità dî tutti i suoi fratelli, ingegnandosi
+di adoperarsi per l'utilità di tutti i suoi fratelli, ingegnandosi
 di porre occhio alle loro necessità e di sovvenirvi con premura.
 
 «O Dio, Trinità eterna, ci chiedi che t'amiamo di quel
@@ -83,7 +78,7 @@ non potendo noi rendere a te quell'amore che ci chiedi, Tu
 ci hai dato il prossimo, affinchè facciamo a lui quel che non
 possiamo fare a te, ossia l'amiamo senza essere prevenuti, gratuitamente e senza aspettarne alcun vantaggio.
 
-- «Insegnami, dunque, o Signore, ad amare il prossimo senza essere da lui amata, ad amarlo senza alcun riguardo alla
+«Insegnami, dunque, o Signore, ad amare il prossimo senza essere da lui amata, ad amarlo senza alcun riguardo alla
 mia utilità, ma solo perchè Tu mi ami, solo per ricambiare il
 tuo amore gratuito. Così adempirò il comandamento della
 legge: d'amare te sopra ogni cosa e il prossimo come me stessa» (cfr. S. Caterina da Siena).

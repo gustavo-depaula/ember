@@ -43,7 +43,7 @@ bensì congiunte in modo che l'una compenetri e sosteneva l'altra. Come la pregh
 Infatti, da veri figli della Chiesa, dobbiamo cercare di appoggiare la nostra preghiera personale alla liturgia. Seguendo le preghiere liturgiche — almeno attraverso i testi del
 Messale e del Vesperale festivo — potremo intonare la nostra vita di orazione ai grandi misteri della vita di Cristo,
 che la Chiesa ci presenta attraverso i vari tempi liturgici,
-invitandoci non solo a_ considerare tali misteri, ma an-
+invitandoci non solo a considerare tali misteri, ma an-
 
 che ad associarci ad essi. Così nell’Avvento la nostra
 orazione si accentrerà intorno al mistero dell’'Incarnazione,

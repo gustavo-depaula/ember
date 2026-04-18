@@ -6,7 +6,7 @@
 
 1 — Quando si parla della vita nascosta di Gesù, non
 si deve intendere solo il suo occultarsi agli occhi degli uomini celando ad essi la sua divinità e fuggendo la loro glo-
-ria, ma, oltrepassando questi na orti esterni colle creature,
+ria, ma, oltrepassando questi rapporti esterni colle creature,
 bisogna penetrare nel segreto del suo Cuore, dove — celata
 ad ogni sguardo umano — si svolge un’altra e ben più sublime vita nascosta. È la sua vita interiore, vita di intimi
 rapporti con la Trinità. L'Anima santissima di Gesù, unita
@@ -21,10 +21,7 @@ vive — nascosta ad ogni sguardo umano — con la Trinità,
 nella Trinità. Ecco dove mira, come a sua ultima meta,
 
 
-40 - NASCONDERSI CON CRISTO IN DIO Al
-
-
-l'imitazione della vita nascosta di Gesù recipare alla
+l'imitazione della vita nascosta di Gesù è partecipare alla
 sua vita interiore, ossia nascondersi « con Cristo in Dio »,
 per penetrare con lui nel santuario della Trinità sacrosanta. Questo esprimeva S. Teresa Margherita nel suo
 ardente desiderio di «emulare per fede, quanto a creatura è possibile, la vita e le azioni interne e nascoste del-
@@ -40,7 +37,7 @@ e la misura del secondo: quanto più l’anima saprà nascondersi alle creature 
 
 iù sarà capace di vivere «con Cristo in Dio », secondo
 
-È bella espressione di S. Paolo: «siete morti — ossia
+la bella espressione di S. Paolo: «siete morti — ossia
 morti al mondo e alle sue vanità — e la vita vostra s'è
 nascosta con Cristo in Dio » (Col. 3, 3).
 
@@ -65,7 +62,7 @@ il menomo fastidio ed impaccio, come se punto non esistessero » (T.M. Sp. p. 37
 
 
 sovrana libertà di spirito che le permette di concentrarsi
-totalmente in Dio. dora la sua condotta non presenta nulla di straordinario, anzi la sua stessa cura di na-
+totalmente in Dio. Allora la sua condotta non presenta nulla di straordinario, anzi la sua stessa cura di na-
 scondersi agli occhi altrui molto spesso la fa passare inosservata, mentre i più la ritengono per persona da poco;
 ma nel segreto del suo cuore si svolge una ricchissima vita
 interiore nota a Dio solo. Unita a Gesù, in lui, con lui,
@@ -74,7 +71,7 @@ raggiungere la pienezza, il fine della vita cristiana, perchè
 la grazia ci è stata data appunto per renderci partecipi
 della natura e quindi della vita divina, della vita di Dio-
 Trinità. Proprio per tal fine il Verbo si è incarnato, Gesù,
-morendo sal croce, ci ha meritato la grazia, ci ha innestati in sè, per ricondurci con sè nel seno della Trinità,
+morendo sulla croce, ci ha meritato la grazia, ci ha innestati in sè, per ricondurci con sè nel seno della Trinità,
 da cui col peccato ci eravamo allontanati. Così noi, non
 per nostro merito, non per nostra capacità, ma solo per
 essere innestati in Cristo possiamo, con lui e per lui —

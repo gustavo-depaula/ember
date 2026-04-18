@@ -6,23 +6,23 @@
 
 ### Meditazione
 
-1, — Gesù ha detto: « Ogni cosa è possibile a chi
-(Mr. 9, 22); sembra infatti 55 di Eoulealfata pg
-cieco, incondizionato Dio non sappia resistere e si riten a
+1. — Gesù ha detto: « Ogni cosa è possibile a chi crede
+» (Mc. 9, 22); sembra infatti che a una fede piena,
+cieca, incondizionata Dio non sappia resistere e si ritenga
 quasi obbligato ad esaudire le nostre suppliche. Il Vangelo
-ce lo dice ad ogni pagina: primn di compiere un miracolo
+ce lo dice ad ogni pagina: prima di compiere un miracolo
 Gesù chiedeva sempre un atto di fede: « Credete voi che io
 possa far questo? » (Mt. 9, 28) e, quando la fede era sincera
 subito il prodigio si compiva: «Sta' di buon animo, o figlia
-"a diceva all'emorroissa — la tua fede ti ha guarita » (ivi,
+— diceva all'emorroissa — la tua fede ti ha guarita » (ivi,
 9, 22). Gesù non dice mai: la mia onnipotenza vi ha salvati,
 vi ha guariti, ma la vostra fede, quasi per farci intendere che
 la fede è la condizione indispensabile da lui richiesta per
 impegnare a nostro vantaggio la sua onnipotenza. Egli, sempre onnipotente, non vuole usare la sua onnipotenza che in
-favore di chi crede fermamente in lui. Proprio questo
+favore di chi crede fermamente in lui. Proprio per questo
 motivo il Maestro divino rifiutò a Nazareth i molti miracoli
 fatti altrove. Quanto più la nostra fede è viva, tanto più è
-onnipotente dell'onnipotenza stessa di Dio. « Se aveste Tra
+onnipotente dell'onnipotenza stessa di Dio. « Se aveste vera
 fede quanto un granello di senapa — ha affermato Gesù —
 potreste dire a questo monte: passa da qui a là! E passerebbe
 e niente vi sarebbe impossibile » (Mt. 17, 19). Come tutte
@@ -37,20 +37,19 @@ vincere, abitudini virtuose che non riusciamo ad acquistare;
 difficoltà nella vita quotidiana: mancanza di mezzi, lavori
 ed opere che superano le nostre capacità, le nostre forze...
 E noi ci fermiamo scoraggiati ai piedi di queste montagne:
-è impossibile, non ci riesco! Basterebbe un o di fido,
+è impossibile, non ci riesco! Basterebbe un atto di fiducia,
 quanto un granello di senapa — che è piccolissimo — ma
 
-urchè sia fede viva, capace di germogliare come il granello
+purchè sia fede viva, capace di germogliare come il granello
 
-li senapa; fede viva, sicura, decisa, fede soprannaturale che
-conta solo su Dio e solo in nome Suo affronta con cora io
+di senapa; fede viva, sicura, decisa, fede soprannaturale che
+conta solo su Dio e solo in nome suo affronta con coraggio
 qualsiasi difficoltà. Oh, se potessimo credere cosìì « Nulla è
 impossibile a chi crede».
 
 2. — Sebbene le difficoltà che incontriamo sul nostro
-cammino ite essere gravi, tuttavia non possono mai legittimare lo scoraggiamento. Ci scoraggiamo perchè ci ripie-
-ghiamo sulla nostra impotenza: da un lato il ricordo degli
-insuccessi già riportati e dall’altro la visione di situazioni impari alle nostre forze, che ci si parano davanti come montagne
+cammino possono essere gravi, tuttavia non possono mai legittimare lo scoraggiamento. Ci scoraggiamo perchè ci ripieghiamo sulla nostra impotenza: da un lato il ricordo degli
+insuccessi già riportati e dall'altro la visione di situazioni impari alle nostre forze, che ci si parano davanti come montagne
 insormontabili, ci schianta, ci soffoca, ci paralizza. Ma l'anima
 che ha fede in Dio, che è sicura del suo Dio sa ben trovare
 il modo per uscire da queste strette e si vale delle sue stesse
@@ -59,10 +58,10 @@ Dio con un atto di fede forte e decisa.
 
 Dio permette talvolta condizioni di vita molto difficili di
 cui umanamente parlando non si vede la soluzione, permette
-stati di vera angoscia dovuti a forti prove di spirito pro rio
+stati di vera angoscia dovuti a forti prove di spirito proprio
 
-hè vuol Sdrdi ad un intenso esercizio della virtù della
-'ede, esercizio che in certi casi può e deve diventare eroico.
+perchè vuol spingerci ad un intenso esercizio della virtù della
+fede, esercizio che in certi casi può e deve diventare eroico.
 Se, dunque, il Signore dispone qualche cosa di simile anche
 per te, persuaditi che non lo fa perchè ti abbia abbandonato
 
@@ -71,15 +70,15 @@ o ti rigetti da sè, non lo fa per avvilirti o per annientarti,
 ma per renderti forte ed anche eroico nella fede. Credi in
 lui, credi nella sua onnipotenza soccorritrice, credi nella sua
 parola; forse il Signore tarda a venire in tuo soccorso proprio
-perchè non sei ancora capace di formulare un atto di La
+perchè non sei ancora capace di formulare un atto di fede
 pieno. Egli ti domanda, come ai due ciechi del Vangelo:
-€ Credi che io possa far questo? » (cfr. Mt. 9, 28) e tu non
+« Credi che io possa far questo? » (cfr. Mt. 9, 28) e tu non
 sai ancora rispondergli un sì forte e deciso, senza incertezze,
 senza ma e senza se. Però. anche se la tua fede è forte, Dio
 potrebbe ugualmente provarla, come Gesù provò la fede della
 Cananea. È allora devi fare come lei: non arrenderti, non
 cessare dal credere, ma credere sempre di più, sì che Egli
-sia costretto a risponderti come a quell’umile donna: «la tua
+sia costretto a risponderti come a quell'umile donna: «la tua
 fede è grande; sia fatto come tu vuoi» (Mt, 15, 28).
 
 ### Colloquio
@@ -105,14 +104,14 @@ di maggiori. Perchè meravigliarsi di ciò che fa l'Onnipotente?
 
 «O mio Dio, occorre maggior fede non credere in te
 che per credere in te! E' tanto grande ERE che mi mostri
-che non ho più bisogno di fede per crederlo » (S. M. Maddalena de’ Pazzi).
+che non ho più bisogno di fede per crederlo » (S. M. Maddalena de' Pazzi).
 
 «Dio mio, Tu sei amore e onnipotenza; Tu sai tutto,
 puoi tutto, vuoi tutto e conduci ogni cosa per la gloria tua
 e per il vantaggio nostro. Quanta Fede attingo da queste verità; quanta confidenza, che riposo e che amore mi comuni
 cano! So che, anche quando non mi dai niente di palpabile,
 Tu sei sempre il mio Dio e provvedi sempre con amore al-
-‘opera delle tue mani. Perciò mi nascondo in te con fede
+'opera delle tue mani. Perciò mi nascondo in te con fede
 e sostengo l'impeto della tempesta con la certezza che, quan
 do piacerà a te, con la tua onnipotenza divina, farai anche
 risuscitare i morti» (cfr. B. Teresa Soubiran).

@@ -2,7 +2,7 @@
 
 ### Presenza di Dio
 
-— O Signore, uniscimi a te e la forza della tua carità accenda nel mio cuore la vera fiamma apostolica.
+O Signore, uniscimi a te e la forza della tua carità accenda nel mio cuore la vera fiamma apostolica.
 
 ### Meditazione
 
@@ -15,42 +15,42 @@ un'anima si unisce a Dio per amore, tanto più viene coinvolta nella fiamma dell
 suo amore infinito per gli uomini, del suo zelo eterno per
 la loro salvezza, sì che diventa necessariamente apostolica.
 Dire che non si possa essere apostoli prima di venire
-così intimamente presi dall'amore divino, sarebbe un’esagerazione, ma è chiaro che alla pienezza dell’apostolato,
+così intimamente presi dall'amore divino, sarebbe un'esagerazione, ma è chiaro che alla pienezza dell'apostolato,
 e quindi della fecondità apostolica, non si giunge senza
 questa fiamma interiore che nasce appunto dall'unione con
-Dio. Finchè non si arriva qui bisogna considerarsi principianti nell’apostolato, simili ad apprendisti che si applicano ad um’arte eseguendo or questo or quel lavoro, senza
-tuttavia essere ancora sostenuti e trasportati dall’ispirazione personale. Essendo principianti, bisogna comportarsi
+Dio. Finchè non si arriva qui bisogna considerarsi principianti nell'apostolato, simili ad apprendisti che si applicano ad um'arte eseguendo or questo or quel lavoro, senza
+tuttavia essere ancora sostenuti e trasportati dall'ispirazione personale. Essendo principianti, bisogna comportarsi
 come tali, ossia agire con cautela, darsi all'apostolato con
 denza e misura, appunto perchè, non avendo ancora
-raggiunto quella maturità spirituale da cuî divampa spontanea la fiamma dello zelo, non si posseggono ancora quelle risorse di grazia che servono a difendere l’anima dai
+raggiunto quella maturità spirituale da cuî divampa spontanea la fiamma dello zelo, non si posseggono ancora quelle risorse di grazia che servono a difendere l'anima dai
 icoli di un'attività esterna troppo intensa e che, nello
 stesso tempo, hanno la forza di rendere fecondo tutto il
-suo lavoro. « Qui l’anima — afferma S. Teresa di Gesù
+suo lavoro. « Qui l'anima — afferma S. Teresa di Gesù
 — non è ancora formata: è come un bambino che comincia a poppare, il quale se si discosta dal petto della
 madre non può aspettarsi che la morte. Se si allontana
-dall’orazione senza un’urgente necessità e non vi fa subito
+dall'orazione senza un'urgente necessità e non vi fa subito
 ritorno, temo grandemente che finisca come il bambino,
 andando di male in peggio » (M.IV, 3, 10). Notiamo che
 la Santa non Daria qui delle anime che stanno facendo i
 primi passi nella vita interiore, ma di quelle che; essendo
-già giunte all’orazione di quiete, possono ben chiamarsi
-proficienti; © tuttavia non è esagerato affermare che, riSpetto all’apostolato, esse sono ancora principianti.
+già giunte all'orazione di quiete, possono ben chiamarsi
+proficienti; o tuttavia non è esagerato affermare che, riSpetto all'apostolato, esse sono ancora principianti.
 
-z S. Teresa di Gesù ci presenta l’anima nel momento in cui — come conseguenza della carità che l'un
-sce a Dio — nasce in lei la fiamma interiore dell’apostolato. Si tratta di un’anima resa dall'abbandono e dall’amore così sottomessa alla volontà di Dio « da non sapere nè
+z S. Teresa di Gesù ci presenta l'anima nel momento in cui — come conseguenza della carità che l'un
+sce a Dio — nasce in lei la fiamma interiore dell'apostolato. Si tratta di un'anima resa dall'abbandono e dall'amore così sottomessa alla volontà di Dio « da non sapere nè
 volere che una cosa: che Egli faccia di lei tutto quello
 che vuole »; e Dio, che la «ritiene tutta per sua... la segna col suo sigillo » infondendole un vivissimo dolore
-per î peccati degli uomini e un ardente desiderio d’immolarsi per la loro salvezza (cfr. M.V,:, 12-14). In questanima la carità è cresciuta a tal punto da renderla capate di rinunciare effettivamente alla sua volontà per con-
-‘ormarsi in tutto alla volontà divina; anche di fronte a
+per î peccati degli uomini e un ardente desiderio d'immolarsi per la loro salvezza (cfr. M.V,:, 12-14). In questanima la carità è cresciuta a tal punto da renderla capate di rinunciare effettivamente alla sua volontà per con-
+'ormarsi in tutto alla volontà divina; anche di fronte a
 casi difficili ed imprevisti, che richiedono molto spirito
 di sacrificio, ella sa mettere da parte ogni ri, ugnanza e
-risentimento della natura, ogni veduta e desiderio personale per aderire al volere divino, sia che questo le si presenti sotto l’aspetto dei doveri quotidiani o per mezzo
-della voce esterna dell’obbedienza o di quella interiore
+risentimento della natura, ogni veduta e desiderio personale per aderire al volere divino, sia che questo le si presenti sotto l'aspetto dei doveri quotidiani o per mezzo
+della voce esterna dell'obbedienza o di quella interiore
 dello Spirito Santo, come pure per mezzo delle circostanze della vita, È, dunque, un'anima veramente unita a Dio
 per amore, veramente data a lui, e Dio la prende e la lancia al servizio della Chiesa, delle anime, volendo valersi
 di lei per attuare il suo piano di salvezza e di santificazione dell'umanità.
 
-In tal modo si destano nell’anima immense brame di
+In tal modo si destano nell'anima immense brame di
 
 apostolato, per nulla paragonabili a quelle che poteva nutrire per l'addietro: ella sente che non si appartiene più,
 che la sua vita è necessariamente legata a quella del divin Redentore e che, a imitazione di lui, deve dedicarla
@@ -73,9 +73,9 @@ personale, nè contentarsene; ma, siccome sembra. loro che
 è poco andarsene soli in cielo, con una sollecitudine e con
 un affetto tutto celeste e con squisite diligenze si sforzano
 di condurre con sè molti altri. Fa”, o Signore, che simile
-a questo sia l’effetto del mio amore per te! » (cfr. G.C.).
+a questo sia l'effetto del mio amore per te! » (cfr. G.C.).
 
-«O Signore, da un’anima già risoluta ad amarti e tutta rimessa nelle tue mani, Tu non vuoi altro che desideri
+«O Signore, da un'anima già risoluta ad amarti e tutta rimessa nelle tue mani, Tu non vuoi altro che desideri
 e cerchi quanto può di contribuire alla tua maggior gloria.
 
 «Oh, la carità di coloro che ti amano veramente!

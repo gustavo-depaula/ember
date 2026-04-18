@@ -3,7 +3,7 @@
 
 ### Presenza di Dio
 
-— O Signore, venga il tuo regno su tutta la terra; venga il tuo regno nel mio cuore.
+O Signore, venga il tuo regno su tutta la terra; venga il tuo regno nel mio cuore.
 
 ### Meditazione
 

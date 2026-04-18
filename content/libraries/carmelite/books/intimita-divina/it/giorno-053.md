@@ -14,8 +14,7 @@ in modo che a lui piaccia. Ed ecco che Gesù, dopo averci
 fatto conoscere il Padre celeste, ci insegna quello che dobbiamo fare per essergli graditi: « Siate perfetti, com'è perfetto il Padre vostro che è nei cieli» (Mt. 5; 48). Il Mae-
 stro divino con questa breve formula ci rivela due
 verità: il modello di ogni santità è Dio, perchè solo Dio
-è la pienezza della perfezione, senza alcuna ombra di difetto o manchevolezza; la volontà di Dio nei nostri ri-
-guardi è che anche noi siamo perfetti, e lo saremo nella
+è la pienezza della perfezione, senza alcuna ombra di difetto o manchevolezza; la volontà di Dio nei nostri riguardi è che anche noi siamo perfetti, e lo saremo nella
 misura in cui cercheremo di ricopiare in noi la perfezione
 stessa di Dio.
 

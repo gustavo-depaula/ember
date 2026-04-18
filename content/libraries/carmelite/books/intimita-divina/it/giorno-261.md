@@ -8,11 +8,10 @@
 
 1. — La carità non è rigida nelle sue posizioni, non attende e tanto meno pretende che gli altri si adattino a lei,
 ma è sempre pronta ad adattarsi al prossimo. Dio si è adattato a noi fino a farsi uomo e noi non sappiamo scendere
-dal piccolo piedestallo della nostra SERA er adattarci
+dal piccolo piedestallo della nostra superbia per adattarci
 alla mentalità, ai gusti, ai bisogni dei nostri fratelli. E ci
 scusiamo: «sbagliano, sono rozzi, ingrati, non comprendono
-certe esigenze, certe delicatezze... » e c'inganniamo! Come siamo piccini nelle nostre sciocche esigenze! Guardiamo a lui, di Figlio di Dio, al Verbo eterno che non ha disdegnato di mettersi al nostro livello fino a rivestire la nostr
-carne mortale, a vivere la nostra vita umana, a convivere in
+certe esigenze, certe delicatezze... » e c'inganniamo! Come siamo piccini nelle nostre sciocche esigenze! Guardiamo a lui, di Figlio di Dio, al Verbo eterno che non ha disdegnato di mettersi al nostro livello fino a rivestire nostra carne mortale, a vivere la nostra vita umana, a convivere in
 mezzo a noi. Nella sua vita terrena ha scelto per compagni non
 persone intellettuali, di educazione raffinata, ma pescatori ignoranti dalla mentalità rozza, dai gusti semplici che ben poco
 conoscevano le finezze del pensiero e del galateo, ed ha vissuto con loro, adattandosi a loro con tutta naturalezza, senza
@@ -25,8 +24,8 @@ Ma vi sono molti altri casi in cui si tratta solo di rinunciare
 all'affermazione della nostra personalità, del nostro modo di
 vedere, dei nostri gusti per far luogo alla mentalità ed ai
 
-usti altrui; allora 5h condiscendenza è virtù soda e, lungi
-all'essere debolezza, è una ‘bella prova di forza morale, di
+usti altrui; allora questa condiscendenza è virtù soda e, lungi
+all'essere debolezza, è una bella prova di forza morale, di
 quella forza che sa vincere e rinnegare l'io per amore di Dio,
 
 
@@ -75,10 +74,9 @@ che il rifiuto fa piacere quanto i dono medesimo » (ivi).
 
 «Non posso, Dio mio, non amare le tue creature, perchè
 Tu stesso me l'hai comandato. Tu sei amore e per amore
-sei stato mosso a creare l'uomo, affinchè anch'egli parteci
-passe del tuo amore; noi tutti, dunque, siamo stati creati
+sei stato mosso a creare l'uomo, affinchè anch'egli partecipasse del tuo amore; noi tutti, dunque, siamo stati creati
 
-r amore, d'amore e con amore, affinchè godiamo di te, o
+d'amore, d'amore e con amore, affinchè godiamo di te, o
 Dio, che sei amore. Come farò dunque a non amare?
 
 « Dimmi, ti prego, o mio Cristo, in che modo devo amare questo mio prossimo. Tu mi mostri un termine assai alto, ossia m'insegni ad amarlo come Tu stesso l'hai amato.

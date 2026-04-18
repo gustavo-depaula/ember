@@ -31,7 +31,7 @@ alcuni scritti su Rivista di vita spirituale (vedi N; 1:e N. 2). Nel 1954
 ne è stata stampata la vita, corredata da una più ampia serie di
 scritti e da alcuni appunti della direzione del R. P. Gabriele che fu
 suo maestro di spirito al Carmelo. Cfr. Suor Carmela dello Spirito
-Santo, Carmelo $. Giuseppe, Roma.
+Santo, Carmelo S. Giuseppe, Roma.
 
 
 volontà di Dio, e così alla fine della vita avremo realizzato
@@ -86,8 +86,7 @@ povero mendico quando voleva avvicinarsi? Hanno forse
 un limite le tue grandezze e la magnificenza delle tue opere, Signore? Come ti è facile mostrarle ora nella tua serva,
 Dio mio e Misericordia mia! Tu sei potente, o gran Dio, E
 questo è il momento di far vedere se la mia anima s’inganna quando, pensando al tempo perduto, afferma che in un
-istante, Tu puoi farmelo riconquistare. Vaneggio, mi pare, perchè, a quanto dicono, il tempo perduto non si ri-
-prende più.
+istante, Tu puoi farmelo riconquistare. Vaneggio, mi pare, perchè, a quanto dicono, il tempo perduto non si riprende più.
 
 « Sia benedetto il mio Dio! Riconosco, Signore, la tua
 sovrana potenza. Sei potente: sì, lo sei veramente. E allora,
@@ -111,4 +110,3 @@ facile, al meno faticoso e cade con tanta facilità nella
 negligenza, nella svogliatezza. Aiutami Tu, Signore, e rafforza il mio amore con la forza onnipotente del tuo. È
 così poco quello che posso fare per te; che almeno sappia
 farlo con tutto l’amore di cui Tu mi hai reso capace.
-

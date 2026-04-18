@@ -11,7 +11,7 @@ vita deve essere orientata a lui; e siccome la nostra vita risulta da un insieme
 queste siano tali da avvicinarci sempre più a Dio, siano
 continui passi in avanti sul cammino che a lui conduce.
 La prudenza soprannaturale è appunto quella virtù che ci
-suggerisce ciò i dobbiamo fare e ciò che dobbiamo evitare per raggiungere la meta prefissa. Se vuoi arrivare all'unione con Dio, ti dice la prudenza, devi conformarti in tutto alla sua volontà, devi rinunciare a qualsiasi cosa, per quanto piccola, che sia contraria al volere divino. Se vuoi farti santo devi fare questi atti di carità, di generosità, non devi
+suggerisce ciò che dobbiamo fare e ciò che dobbiamo evitare per raggiungere la meta prefissa. Se vuoi arrivare all'unione con Dio, ti dice la prudenza, devi conformarti in tutto alla sua volontà, devi rinunciare a qualsiasi cosa, per quanto piccola, che sia contraria al volere divino. Se vuoi farti santo devi fare questi atti di carità, di generosità, non devi
 tirarti di fronte al sacrificio. Se vuoi diventare un'anima di
 orazione, devi coltivare il raccoglimento, devi fuggire le
 chiacchiere inutili, devi mortificare la curiosità, devi applicarti con diligenza alla preghiera. Così la prudenza, sia in vista del fine ultimo — l'unione con Dio, la santità — sia
@@ -20,10 +20,10 @@ quel che dobbiamo fare e quel che dobbiamo fuggire.
 
 La parabola delle vergini prudenti e delle vergini stolte dimostra molto bene la necessità di questa virtù. Tutte si addormentano nell'attesa dello sposo ma, mentre le prime cinque
 vengono introdotte alle nozze, le altre vengono respinte soltanto perchè non hanno avuto la prudenza di portare con sè
-olio sufficiente per alimentare le loro lampade. E la Paola
+olio sufficiente per alimentare le loro lampade. E la parabola
 conclude: « Vigilate, dunque, poichè non sapete nè il giorno
 ‘nè l'ora » (Mt. 25, 13). La prudenza soprannaturale ci consiglia
-anzitutto di valerci con dii del tempo che il Signore ci
+anzitutto di valerci con diligenza del tempo che il Signore ci
 
 
 di e delle occasioni che ci offre per esercitare la virtù, perchè « poi viene la notte, in cui nessuno può operare» (Gv.
@@ -37,8 +37,8 @@ a disposizione che l'attimo presente con le sue circostanze
 sia Perciò la vera prudenza soprannaturale consiste nel
 valorizzare al massimo, in vista del nostro fine eterno, l'i
 stante che fugge. La prudenza umana valorizza il tempo per
-accumulare beni terreni, la prudenza soprannaturale per accumulare beni eterni: « Non accumulate tesori sulla terra... accumulate invece tesori nel cielo, ove nè la ruggine nè il tarlo li consumano... Cercate prima il regno di Dio e la sua giutizia e tutto il resto vi sarà dato per giunta» (Mt. 6, 19-33).
-‘co le grandi regole della prudenza dettateci da Gesù.
+accumulare beni terreni, la prudenza soprannaturale per accumulare beni eterni: « Non accumulate tesori sulla terra... accumulate invece tesori nel cielo, ove nè la ruggine nè il tarlo li consumano... Cercate prima il regno di Dio e la sua giustizia e tutto il resto vi sarà dato per giunta» (Mt. 6, 19-33).
+Ecco le grandi regole della prudenza dettateci da Gesù.
 A una religiosa, la quale confessava la sua ripugnanza
 a compiere un atto di carità che richiedeva particolare spirito di sacrificio, S. Teresa del B.G. rispondeva: «Io invece sarei stata felice di poterlo compiere, poichè siamo sulla terra per soffrire e più si soffre, più si è felici. Oh, quanto sapete sistemare male i vostri affari!» (Ricordi inediti).
 La prudenza soprannaturale ci insegna proprio a sistemare
@@ -50,18 +50,18 @@ vantaggio delle anime. i
 
 La prudenza soprannaturale non giudica delle cose secondo il'loco valore umano, secondo il piacere o il disgusto
 che ci procurano, ma le giudica alla luce della fede, alla luce
-dell'eternità: «Quod Deus non est, nihil est» (Imit. ll,
+dell'eternità: «Quod Deus non est, nihil est» (Imit. II,
 31,2) e «Quid hoc ad aeternitatem»? (S. Bernardo). Ciò
 che non è Dio, è nulla. Che giova ciò per l'eternità?
 
 La prudenza cristiana non ha quindi niente a che fare
-con la idenza della carne, la quale tutto risolve in vista
+con la prudenza della carne, la quale tutto risolve in vista
 della felicità terrena, senza nessun riguardo alla legge di
-Dio: «La della came è nemica a Dio, perchè non
-sta etta alla legge divina » (Rom. 8,7); e supera di gran
-at prudenza umana che, pur non essendo cattiva, non
+Dio: «La carne è nemica a Dio, perchè non
+sta soggetta alla legge divina » (Rom. 8,7); e supera di gran
+che la prudenza umana che, pur non essendo cattiva, non
 è capace di orientare le nostre azioni al fine supremo poichè
-mira ‘unicamente a fini terreni.
+mira unicamente a fini terreni.
 
 ### Colloquio
 
@@ -71,7 +71,7 @@ che l’amore e la fede e perciò stima le cose del mondo per
 quel poco che valgono, non brama alcun bene della terra
 nella convinzione che tutto è vanità e quando sa che una
 cosa è di tuo maggior servizio non ascolta più nulla e subito
-la eseguisce, convinta che in questo consiste ogni suo vantaggio» (cfr. T.G. P. 3, 1 e 2). P
+la eseguisce, convinta che in questo consiste ogni suo vantaggio» (cfr. T.G. P. 3, 1 e 2). 
 
 «O Signore, se voglio farmi santa devo vivere in pieno
 sul piano soprannaturale, ricordando che, come dice l'Imitazione: ‘Quod Deus non est, nihil est’ e perciò devo lasciarlo o devo servirmene per venire a te.
@@ -84,5 +84,5 @@ umano. Purtroppo, o Signore, riconosco di aver agito a volte proprio così.
 Ma non è grande per azioni straordinarie, bensì per l'amore
 e la fedeltà con cui devo considerare anche i minimi doveri, per l’amore che deve trasformare anche le minime azioni e tutti gli incontri quotidiani, per le intenzioni apostoli
 che che devono animare la mia orazione e i miei sacrifici.
-Insegnami, o Signore, a dare ad ogni istante il massimo amore, a rendere etemo l'istante che fugge, dandogli il valore
+Insegnami, o Signore, a dare ad ogni istante il massimo amore, a rendere eterno l'istante che fugge, dandogli il valore
 della carità » (cfr. Sr. Carmela d. Spirito S. c. s.).

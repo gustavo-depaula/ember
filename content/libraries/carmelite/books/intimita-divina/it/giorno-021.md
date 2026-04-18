@@ -8,7 +8,7 @@ Lascio ogni attività esterna, per raccogliermi ai piedi di Gesù e gli chiedo d
 
 1 — All'anima che vuol giungere in breve al santo
 raccoglimento S. Giovanni della Croce insegna: « non intraprendere mai opera alcuna, per quanto buona e piena
-di carità ti sembri,... senza l'ordine dell’obbedienza» (Ct.1 1)
+di carità ti sembri,... senza l'ordine dell’obbedienza» (C. 1, 11)
 
 In tal modo l’anima è sicura di muoversi unicamente
 nella volontà di Dio; e la volontà di Dio non può permettere che le occupazioni da essa richieste — pur essendo
@@ -45,7 +45,7 @@ la calma, si agiterà, si renderà incapace di raccogliersi, e
 sempre più, quanto più l’azione si fa assillante ed esigente.
 
 Gesù ha rimproverato Marta non perchè si dava all’azione, ma perchè vi si affannava: « Marta, Marta taffanni
-e t'inquieti di troppe cose » (Le. 10, 41€ 42). Il Signore
+e t'inquieti di troppe cose » (Lc. 10, 41-42). Il Signore
 vuole l’azione, ma non vuole l’affanno, perchè anche nell’azione l’anima deve attendere « all’unica cosa necessaria »,
 ossia all’unione con lui. Perciò, appena l’anima si accorge
 che comincia a perdere la sua calma interiore, bisogna che,

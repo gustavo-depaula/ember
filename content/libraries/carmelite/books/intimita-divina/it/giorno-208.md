@@ -6,10 +6,10 @@ Sacro Cuore di Gesù, insegnami a modellare i movimenti del mio cuore su quelli 
 
 ### Meditazione
 
-1. — L'anima consacrata al Sacro Cuore, l’anima riparatrice deve sentire il bisogno di modellare la sua vita
+1. — L'anima consacrata al Sacro Cuore, l'anima riparatrice deve sentire il bisogno di modellare la sua vita
 su quella di Gesù. Come puoi dirti veramente consacrato
 al Sacro Cuore e come puoi dirti sua vittima riparatrice,
-uando tu stesso conservi nel tuo cuore sentimenti, desideri, gusti în opposizione ai suoi?
+uando tu stesso conservi nel tuo cuore sentimenti, desideri, gusti in opposizione ai suoi?
 
 E' chiaro che, per modellare il tuo cuore sul Cuore di
 Cristo, non puoi limitarti ad eliminare questo o quel difetto, ad acquistare questa o quella virtù, ma devi tendere
@@ -28,44 +28,41 @@ ciò che in modo generico si può chiamare ira, collera.
 Questa virtù ti conferisce il potere di frenare, di dominare
 tutti quei moti un po' appassionati che talvolta ti fanno
 uscire dai giusti limiti, ti fanno perdere un po"... la bussola.
-E siccome Ja bussola di un'anima che vuole darsi al servizio di Dio è Dio stesso, è il Cuore di Gesù, se anche
+E siccome la bussola di un'anima che vuole darsi al servizio di Dio è Dio stesso, è il Cuore di Gesù, se anche
 solo per un poco tu perdi di vista il Signore e ti allontani
-da luî, finirai col seguire il tuo amor proprio, le tue passioncelle; la mansuetudine, invece, ti rende padrone di te
-stesso, capace di dominare ogni genere d’irritazione. Se
+da lui, finirai col seguire il tuo amor proprio, le tue passioncelle; la mansuetudine, invece, ti rende padrone di te
+stesso, capace di dominare ogni genere d'irritazione. Se
 ti esamini bene, riconoscerai che questa irritazione proviene
-quasi sempre dall'amor proprio un po’ offeso, dall’appetito
+quasi sempre dall'amor proprio un po' offeso, dall'appetito
 irascibile messo in moto da qualche cosa che ha ferito il
 
 tuo io. Vedi quindi che la mansuetudine è virtù intima
-mente legata all’umiltà.
+mente legata all'umiltà.
 
-2. — Nostro Signore unisce alla lezione sulla mansuetudine quella sull’umiltà, appunto perchè il fondamento
+2. — Nostro Signore unisce alla lezione sulla mansuetudine quella sull'umiltà, appunto perchè il fondamento
 immediato della mansuetudine è. proprio l'umiltà.
 
-Basta che in te ci sia un po’ di orgoglio, di amor proprio,
+Basta che in te ci sia un po' di orgoglio, di amor proprio,
 di attaccamento al tuo modo di vedere o di fare, perchè tu
-non "pra sopportare di venire contrastato e allora, davanti agli urti inevitabili derivanti dalla convivenza, per-
-derai, più o meno, la calma, la pace interna ed esterna.
+non potrai sopportare di venire contrastato e allora, davanti agli urti inevitabili derivanti dalla convivenza, perderai, più o meno, la calma, la pace interna ed esterna.
 Se perdi la calma, perdi anche la serenità di giudizio e
 perciò non puoi più vedere con limpidezza la luce divina
 che ti mostra la via da seguire e ciò che il Signore vuole
-da te. Allora l’anima tua tentenna, perde il vigore e si
+da te. Allora l'anima tua tentenna, perde il vigore e si
 lascia un po' trascinare dalla passione. Finchè in te vi saranno residui d'orgoglio, di amor proprio, ti capiteranno
 sempre occasioni in cui perderai un po' il controllo e la
 padronanza di te stesso, con la conseguenza di venir meno
 alla mansuetudine. Per trarre profitto dalla lezione del Cuore di Gesù, per modellare il tuo cuore sul suo, devi dunque
-lavorare assiduamente per spare in te tutti i germi dell'orgoglio, dell'amor proprio. È' questo un lavoro in cui
+lavorare assiduamente per estirpare in te tutti i germi dell'orgoglio, dell'amor proprio. E' questo un lavoro in cui
 devi impegnarti giorno per giorno, ricominciando sempre
 da capo, senza lasciarti scoraggiare per il continuo ripul
-lulare dei sentimenti e dei risentimenti del tuo io, E' questa una battaglia che vincerai non cessando mai di com-
-batterla.
+lulare dei sentimenti e dei risentimenti del tuo io, E' questa una battaglia che vincerai non cessando mai di combatterla.
 
 Per incoraggiar a tale lotta, pensa che essa gioverà
 non solo al bene dell'anima tua, ma anche al bene delle anime altrui, perchè — come insegna Pio XI — « quanto
 più avremo immolato l'amor proprio e le nostre passioni...,
 tanto più copiosi frutti di propiziazione e di espiazione raccoglieremo per noi e per gli altri» (Miserent. Red.). La
-lotta contro l'amor proprio e l'esercizio dell’umiltà rientrano dunque in pieno nel programma di un'anima con-
-sacrata al Sacro Cuore e che si è offerta a lui come vittima
+lotta contro l'amor proprio e l'esercizio dell'umiltà rientrano dunque in pieno nel programma di un'anima consacrata al Sacro Cuore e che si è offerta a lui come vittima
 riparatrice.
 
 ### Colloquio
@@ -82,21 +79,18 @@ me le faccia accettare di buona voglia, con serenità, senza
 scuse, senza lamenti, considerando che ne merito assai di
 più e di maggiori. e
 
-<O Gesù, permettimi di entrare nel tuo Cuore come in
+«O Gesù, permettimi di entrare nel tuo Cuore come in
 una scuola. In questa scuola m'insegni la scienza dei Santi,
-in questa scuola ascolterò con attenzione le tue dolci parole: ‘Imparate da me che sono mansueto ed umile di
-cuore e troverete riposo alle anime vostre”. Lo comprendo,
-le tempeste che posso temere vengono solo dall’amor proprio, dalla vanità, dall'attacco al mio. volere. Difendimi,
+in questa scuola ascolterò con attenzione le tue dolci parole: 'Imparate da me che sono mansueto ed umile di
+cuore e troverete riposo alle anime vostre". Lo comprendo,
+le tempeste che posso temere vengono solo dall'amor proprio, dalla vanità, dall'attacco al mio. volere. Difendimi,
 G Signore, proteggi Tu la pace dell'anima mia!... Il tuo
 Cuore è un abisso in cui trovo ogni cosa e, soprattutto, è
 un abisso d'amore in cui devo sommergere ogni altro amore,
 specialmente l'amor proprio con tutti i suoi frutti di rispetto umano, di vana compiacenza, di egoismo. Affogando
 queste inclinazioni nell'abisso del tuo amore, vi troverò
-tutte le ricchezze necessarie all'anima mia. O Gesù, se sento în me un abisso d'orgoglio e di vanagloria, voglio af-
-fogarlo subito nelle profonde umiliazioni del tuo Cuore
-che è l’abisso dell’umiltà. Se trovo in me un abisso d’agitazione, d’impazienza, di collera, ricorro al tuo Cuore che
+tutte le ricchezze necessarie all'anima mia. O Gesù, se sento in me un abisso d'orgoglio e di vanagloria, voglio affogarlo subito nelle profonde umiliazioni del tuo Cuore
+che è l'abisso dell'umiltà. Se trovo in me un abisso d'agitazione, d'impazienza, di collera, ricorro al tuo Cuore che
 è un abisso di dolcezza. In ogni circostanza, in ogni incontro voglio abbandonarmi nel tuo Cuore, oceano di amore
 
-e di carità, e non uscire più finchè non sarò tutta pene-
-trata dal suo fuoco divino» (cfr. S. Margherita M. Ala-
-coque).
+e di carità, e non uscire più finchè non sarò tutta penetrata dal suo fuoco divino» (cfr. S. Margherita M. Alacoque).

@@ -9,7 +9,7 @@
 1. -- Due sono gli ostacoli principali che c'impedisco-
 
 
-no di mantenerci in contatto con Dio in mezzo alle occupazioni quotidiane. Anzitutto il nostro uan troppo
+no di mantenerci in contatto con Dio in mezzo alle occupazioni quotidiane. Anzitutto il nostro uman troppo
 umano che ci fa considerare le persone e gli avvenimenti
 da un punto di vista quasi unicamente terreno, materiale;
 in secondo luogo l’opacità delle creature, l'aspetto penoso,
@@ -95,7 +95,7 @@ bontà, col tuo amore individuale, infinito e con la tua onnirenza. Questa verit
 Piena essenzialmente e sostanzialmente uno; questa Ve
 rità sorpassa, penetra e assorbe tutto il resto, tutto il crea-
 
-+ Dio mio, Tu sei in tutto, quale tesoro! O Signore, fa!
+Dio mio, Tu sei in tutto, quale tesoro! O Signore, fa!
 che io mi muova in questa verità come nel mio centro
 e in un asilo di riposo, dove niente può Colon può di
 strarmi da te, se vi resto ben nascosta » (cir. B. M. Te
@@ -104,7 +104,7 @@ resa Soubiran). i
 Dammi, Del uno sguardo di fede così limpido
 e penetrante, che al di là delle creature e delle circostanze umane veda sempre la tua mano che tutto guida e di
 rige, che continuamente m'invita a seguirti, ad aderire
-a te. Fa' che, più delle creature, veda te, che sei il Creatore presente ed operante in ogni cosa; fa che sappia ricomoscerti in ogni mio prossimo, che sappia ritrovarti în
+a te. Fa' che, più delle creature, veda te, che sei il Creatore presente ed operante in ogni cosa; fa che sappia ricompenserti in ogni mio prossimo, che sappia ritrovarti in
 qualsiasi avvenimento della mia vita. Fa che le creature
 non trattengano il mio sguardo e il mio cuore, ma che, pur
 occupandomi di esse secondo i miei doveri, io tenda più a

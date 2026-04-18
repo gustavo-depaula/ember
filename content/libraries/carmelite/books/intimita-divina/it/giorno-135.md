@@ -7,14 +7,14 @@ Concedimi, o Gesù, di penetrare l'immensità di quell'amore che ti ha condotto 
 
 ### Meditazione
 
-1 — «Poichè Gesù aveva amato i su li amò sino
+1 — «Poichè Gesù aveva amato i suoi li amò sino
 alla fine» (Vg.: Gu. 13,1-15) e proprio nelle ultime ore
 d’intimità passate in mezzo ad essi volle dar loro il massimo pegno del suo amore. Furono quelle ore di dolce
 intimità, ma anche di penosissima angoscia; Giuda aveva
 già pattuito il prezzo della vendita infame, Pietro stava
 
 er rinnegarlo, tutti fra poco l'avrebbero abbandonato,
-‘istituzione dell'Eucaristia appare così come la risposta
+l'istituzione dell'Eucaristia appare così come la risposta
 
 
 di Gesù al tradimento degli uomini, come il massimo
@@ -39,7 +39,7 @@ rinnoverà ancora una volta il grande miracolo che muta
 il pane ed il vino nel suo Corpo e nel suo Sangue e poi
 ci dirà: « Prendete e mangiate... prendete e bevete ».
 
-Riflettiamo che Gesù stesso aveva disposto i preparativi per l’ultima Cena è a tale scopo volle scegliere «una
+Riflettiamo che Gesù stesso aveva disposto i preparativi per l’ultima Cena e a tale scopo volle scegliere «una
 gran sala» (Lc. 22, 12), incaricando gli Apostoli di allestirla in modo conveniente. Anche il nostro cuore deve
 essere un cenacolo « grande », reso spazioso e dilatato dall’amore, affinchè Gesù possa venirvi a celebrare degnamente la sua Pasqua.
 
@@ -58,7 +58,7 @@ gli uni con gli altri. Come io ho amato voi, così voi amatevi a vicenda » (Gv.
 Se non possiamo imitare l’amore di Gesù fino a dare
 il nostro corpo in cibo ai fratelli, possiamo però imitarlo
 nel donare ad essi la nostra amorevole assistenza e non
-solo nelle cose facili, ma anche in quelle difficili e ripugnanti. Il Maestro che lava i piedi ai suoi. Apostoli c’insegna fin dove dobbiamo abbassarci per prestare servizio
+solo nelle cose facili, ma anche in quelle difficili e ripugnanti. Il Maestro che lava i piedi ai suoi Apostoli c’insegna fin dove dobbiamo abbassarci per prestare servizio
 al nostro prossimo, anche al più umile ed abbietto. Il
 Maestro che, con continue testimonianze di amore, va incontro agli uomini ingrati ed ai suoi stessi traditori, c'insegna che la nostra carità non è simile alla sua, se non
 sappiamo ricambiare il male col bene, se non sappiamo
@@ -70,7 +70,7 @@ perdonare sino in fondo, giungendo ‘a ‘beneficare chi ci°
 ha fatto torto. Il Maestro, che dà la vita per la salvezza
 dei suoi, ci dice che il nostro amore non è pieno, se non
 sappiamo sacrificarci generosamente per gli altri. Il suo
-«comandamento muovo », che pone l’amore stesso di Gesù quale misura del nostro amore fraterno, apre orizzonti sconfinati all'esercizio della carità; si tratta di una carità che non conosce limiti. E, se un limite c'è, è quello
+«comandamento nuovo », che pone l’amore stesso di Gesù quale misura del nostro amore fraterno, apre orizzonti sconfinati all'esercizio della carità; si tratta di una carità che non conosce limiti. E, se un limite c'è, è quello
 di dare, come il Maestro, la vita per gli altri perchè « nessuno ha un amore più grande di questo, di uno che dia la
 vita per i suoi amici » (Gv. 15, 13).
 
@@ -93,7 +93,7 @@ sempre fra noi, eppure ben prevedevi la sorte che avresti
 avuto fra gli uomini, i disonori e gli oltraggi che avresti
 dovuto soffrire. O Fterno Padre, come hai potuto permettere che il Figlio tuo rimanesse sempre in mezzo a noi
 per soffrire ogni giorno nuovo genere di strapazzi? O
-mio Dio! Che eccesso d’amore in quel Figlio! E che cccesso pure in quel Padre! Lu
+mio Dio! Che eccesso d’amore in quel Figlio! E che eccesso pure in quel Padre!
 
 «O Eterno Padre, perchè hai voluto che tuo Figlio
 fosse un giorno in balìa di gente sì perversa come noi?
@@ -108,11 +108,11 @@ Forse che Egli deve fare qualche altra cosa per contentarti? Non ha Egli fatto g
 « O Padre santo che sei nei cieli, se il tuo divin Figlio
 
 
-non ha nulla tralasciato per dare a noi, ic :ccatori,
+non ha nulla tralasciato per dare a noi, peccatori,
 un dono così grande come quello della SS.ma Eucaristia,
 non permettere, o misericordiosissimo Signore, che ven
 
 trattato così male! Egli si è lasciato fra noi in un modo
 così ammirabile da potertelo noi offrire in sacrificio quante
-volte vogliamo, Ebbene, per questo augustissimo sacrificio, si arresti finalmente È marea dei peccati e delle irriverenze che si commettono fin là dove questo SS.mo
-Sacramento risiede » (cfr. T.G. Cam: 331203; 3:85 35,3).
+volte vogliamo, Ebbene, per questo augustissimo sacrificio, si arresti finalmente la marea dei peccati e delle irriverenze che si commettono fin là dove questo SS.mo
+Sacramento risiede » (cfr. T.G. Cam. 33, 2-3; 35, 3).

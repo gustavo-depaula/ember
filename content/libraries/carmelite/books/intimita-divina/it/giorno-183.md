@@ -6,7 +6,7 @@ O Spirito Santo, rivelami la tua azione nell’anima mia, insegnami a riconoscer
 
 ### Meditazione
 
-1. — Come lo Spirito Santo stava nell’Anima $S.ma di
+1. — Come lo Spirito Santo stava nell’Anima SS.ma di
 Cristo per portarla in Dio, così sta pure nelle anime nostre;
 
 ma, mentre in Gesù trovava una volontà totalmente docile
@@ -29,11 +29,11 @@ spirituale, anzi fin dall'inizio di essa, benchè allora lo faccia
 in un modo più nascosto e quindi meno conosciuto. Ma la
 sua azione c'è, è preziosissima e consiste soprattutto nel
 
-reparare e assecondare le nostre iniziative per l'acquisto
+preparare e assecondare le nostre iniziative per l'acquisto
 
-lella perfezione. La prima opera che Egli compie in noi
+della perfezione. La prima opera che Egli compie in noi
 è quella di elevarci allo stato soprannaturale comunicandoci
-la grazia, senza la quale non potremmo far nulla per giungere alla santità. La grazia ci viene da Dio, tutta la $S.ma Trinità ce la dona ma, come al Padre se ne attribuisce particolarmente la creazione, come il Figlio con la sua Incarnazione,
+la grazia, senza la quale non potremmo far nulla per giungere alla santità. La grazia ci viene da Dio, tutta la SS.ma Trinità ce la dona ma, come al Padre se ne attribuisce particolarmente la creazione, come il Figlio con la sua Incarnazione,
 passione e morte ce l'ha meritata, così lo Spirito Santo la
 diffonde nelle anime nostre; a Lui infatti, Spirito di Amore,
 viene attribuita, in modo speciale, l’opera della nostra santificazione. Quando abbiamo ricevuto il battesimo siamo

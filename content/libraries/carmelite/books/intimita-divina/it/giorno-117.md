@@ -16,7 +16,7 @@ giubilate di allegrezza e saziatevi nell’abbondanza delle sue
 delizie ». Quali sono queste delizie? Ci risponde il Vangelo
 del giorno (Gv. 6, 1-15) con la narrazione della moltiplicazione dei pani, il grande miracolo mediante il quale Gesù
 volle disporre le folle all'annuncio di un miracolo ben
-più strepitoso, l’ istituzione dell’ Eucaristia, per cui Egli,
+più strepitoso, l’istituzione dell’Eucaristia, per cui Egli,
 il Maestro, sarebbe diventato il nostro pane, « pane vivo
 disceso dal cielo » (Gv. 6,41) per nutrimento delle anime
 nostre. Ecco il motivo della nostra gioia, ecco la fonte
@@ -27,7 +27,7 @@ Ma Gesù, pur valutando assai meglio di noi i valori
 spirituali, non dimentica e non disprezza le necessità materiali dell’uomo. Il Vangelo odierno ce lo presenta attor-
 niato da una moltitudine che l’aveva seguito per ascoltare
 i suoi insegnamenti; Gesù pensa alla fame di quella gente
-e per provvedervi compie uno dei più strepitosi miracoli :
+e per provvedervi compie uno dei più strepitosi miracoli:
 cinque pani e due pesci, da lui benedetti, servono a satollare cinquemila uomini, avanzandone inoltre dodici ca-
 nestri.
 
@@ -36,7 +36,7 @@ dalle necessità materiali è incapace di attendere alle cose
 dello spirito. La carità esige anche in noi questa comprensione dei bisogni materiali altrui, comprensione fattiva
 che si traduce in azione efficace. «Se un fratello o una
 sorella sono ignudi e bisognosi del vitto quotidiano, e uno
-di voi dica: ‘Andate in pace...* senza dar loro le cose
+di voi dica: ‘Andate in pace...’ senza dar loro le cose
 necessarie al corpo, che gioverà? » (Giac. 2,15 e 16).
 
 Gli Apostoli avevano proposto al Maestro di licenziare
@@ -51,7 +51,7 @@ Filippo: «Dove compreremo tanto pane da dar da mangiare a questa gente? » e l�
 così per metterlo alla prova, perchè sapeva quel che
 avrebbe fatto ». Non c’è circostanza difficile della nostra
 vita di cui Dio non conosca la soluzione; per ogni caso,
-anche il più intricato, Egli, fin dall'erernità, ha previsto
+anche il più intricato, Egli, fin dall'eternità, ha previsto
 e tien pronto il rimedio. Tuttavia, di fronte a circostanze difficili, talvolta sembra che ci lasci soli, quasi che
 la soluzione dovesse venire da noi, ma lo fa unicamente
 per provarci. Egli vuole che, misurandoci da soli a soli
@@ -64,10 +64,10 @@ anche l’opera sua: è allora il momento di credere, credere fortemente e atten
 piena fiducia,
 
 Gli Apostoli avvisano Gesù che un fanciullo ha cinque pani e due pesci: ben poca cosa, anzi nulla per sfa-
-mare cinquemila uomini, ma il Signore chiede sh nulla
+mare cinquemila uomini, ma il Signore chiede un nulla
 e se ne serve per compiere-il grande miracolo. È sempre
 così, Dio onnipotente, che tutto può fare e creare dal
-nulla, quando sì trova davanti alla ereatura libera, non
+nulla, quando sì trova davanti alla creatura libera, non
 vuol agire senza il suo concorso. È ben poco quello che
 l'uomo può fare, ma quel poco Dio lo vuole, lo chiede,
 lo esige come condizione del suo intervento. Solo il Signore può santificarti, proprio come lui solo poteva mol-
@@ -96,7 +96,7 @@ ed a questa ed a quella hai voluto provvedere. Con la tua
 dottrina, col tuo Corpo e col tuo Sangue sazi lo spirito
 mio, lo sazi abbondantemente, senza porre alcuna misura,
 tranne quella che io stesso vi pongo con la freddezza del
-mio amore, con la ristrettezza del mio cuore, Mi hai imbandito una mensa pingue c doviziosa oltre ogni dire, a
+mio amore, con la ristrettezza del mio cuore, Mi hai imbandito una mensa pingue e doviziosa oltre ogni dire, a
 cui, per essere nutrito, non ho che accostarmi; c Tu non
 solo mi accogli, ma ti fai mio cibo e mia bevanda, ma ti
 dai tutto a me: tutto nella tua Divinità, tutto nella tua
@@ -114,7 +114,7 @@ tare in te ogni mia sollecitudine, sicuro che Tu avrai un
 rimedio per ogni cosa? A te dunque affido la mia vita:
 
 
-vita del corpo, vita rerrena con tutte le sue necessità, con
+vita del corpo, vita terrena con tutte le sue necessità, con
 tutti i suoi travagli, vita dello Spirito con tutte le sue
 esigenze, le sue ansie, con tutta la sua fame d'’infinito. Tu
 solo puoi colmare la capacità del mio cuore, Tu solo puoi

@@ -91,16 +91,13 @@ o uno sguardo — perchè è una piccola « vocazione», è un
 invito ad entrare più addentro nell'intimità divina se, corrispondendovi fedelmente, cresco nella grazia e nell'amore.
 O Spirito Santo, fammi ben comprendere che la perfezione
 consiste nel dirti sempre « Amen » ogni qualvolta mi chiedi
-qualche cosa per mezzo dell'obbedienza o delle tue ispirazioni. Aiutami l'u, ad evitare ogni piccola infedeltà, i
+qualche cosa per mezzo dell'obbedienza o delle tue ispirazioni. Aiutami Tu, ad evitare ogni piccola infedeltà, ogni
 esitazione, a non rifiutarti nulla ed allora la tua luce andrà
-
-XXIV - LO SPIRITO SANTO CI CONFORMA A CRISTO.
-
 sempre crescendo in me e l’amore diventerà un abisso che
 non si può scandagliare. Ma, o Spirito Santo, so bene che,
 praticamente, spesso cadrò, mancherò — Dio mio! purchè
 non sia volontariamente! — però Tu m'insegni che anche
-in questo caso devo ri) ii subito e, con un atto
+in questo caso devo rialzarmi subito e, con un atto
 di amore, rimettermi subito sotto il tuo influsso. No, Tu
 non vuoi che mi turbi, nè mi lasci scoraggiare dalle mie
 infedeltà, perchè il tuo spirito è soave; “O quanto è soave

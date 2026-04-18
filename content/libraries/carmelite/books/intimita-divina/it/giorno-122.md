@@ -9,16 +9,16 @@ O Gesù, che per amor mio hai voluto sottometterti ad ogni autorità, insegnami 
 1 — Quando nel superiore si vede Dio, si obbedisce
 senza discussioni, senza inutili ragionamenti, senza indugi:
 «Christus jubet, sufficit », Cristo comanda, questo mi
-basta, Infatti, che cosa andrò ancora cercando, quando so
+basta. Infatti, che cosa andrò ancora cercando, quando so
 
 
 che gli ordini dei miei superiori sono gli ordini di Dio
 stesso? Anche se la cosa comandata è per me difficile e
-gravosa, il spere con certezza che è proprio il Signore
+gravosa, il sapere con certezza che è proprio il Signore
 che la vuole da me, mi darà la forza d’intraprenderla
 con prontezza, senza opporre la minima resistenza.
 
-‘i possono essere certamente dei casi in cui vi sia un
+Ci possono essere certamente dei casi in cui vi sia un
 motivo ragionevole per pensare che un dato ordine ci sia
 stato imposto senza tener conto di elementi che, se trascurati, potrebbero portare conseguenze penose per il supe
 riore stesso; ed allora è bene, ed anzi può essere doveroso, farlo notare. Così pure non vi'è nessuna imperfezione nel chiedere spiegazioni quando l’ordine non ci
@@ -29,7 +29,7 @@ voler discutere sugli ordini ricevuti, a non voler indagare i motivi che possono
 dare un determinato ordine. Se ci mettiamo ‘a ragionare
 sull’obbedienza, ci creeremo degli ostacoli ad obbedire;
 bisogna quindi saper troncare subito ogni ragionamento,
-anche interno, Lr farne un bel sacrificio al Signore.
+anche interno, per farne un bel sacrificio al Signore.
 Peggio poi sarebbe comunicare i nostri ragionamenti agli
 altri, criticare le disposizioni dei superiori, ecc.; in tal
 modo si creerebbero degli ostacoli anche all’obbedienza
@@ -44,7 +44,7 @@ vedute, proprio per mezzo degli ordini dei superiori.
 2 — Dire che il superiore ci manifesta la volontà di
 Dio, non vuol davvero dire che tutto ciò che egli pensa,
 dice, vuole, lo pensi, lo dica, lo voglia anche Dio. Certamente no. Ma solo che, quando il superiore, in quanto
-tale, dà un ordine legittimo, quell’ordime è sicuramente
+tale, dà un ordine legittimo, quell’ordine è sicuramente
 
 
 la manifestazione della volontà di Dio. L'obbedienza
@@ -55,9 +55,9 @@ cieca perchè acceca l'intelletto non permettendogli di
 tener conto del proprio giudizio, di esaminare i motivi
 del superiore, di discutere sul comando ricevuto; è cieca
 perchè si fonda unicamente su un motivo di fede, giacchè appunto per fede sappiamo che la volontà di Dio
-giunge a noi attraverso 1 superiori. E, siccome la fede
+giunge a noi attraverso i superiori. E, siccome la fede
 è una conoscenza «oscura », si può dire che l’obbedienza condizionata da essa è «priva di luce naturale » e
-juindi cieca; in altri termini, è un’obbedienza che non
+quindi cieca; in altri termini, è un’obbedienza che non
 si basa sulla ragionevolezza dei motivi umani, ma su
 quest'unico motivo di fede: chi ascolta i superiori, ascolta Dio. « Chi ascolta voi, ascolta me» (Le. 10, 16).
 Nei casi in cui il parere del suddito sia migliore di
@@ -81,7 +81,7 @@ chiesto conto come di azioni perdute » (Ct.11).
 grossolane immaginazioni! Come è vero che da un’anima
 già risoluta ad amarti e tutta rimessa nelle tue mani, Tu
 non vuoi altro che obbedisca, di null'altro bramosa che di
-cercare Susie può contribuire alla tua maggior gloria!
+cercare quanto più può contribuire alla tua maggior gloria!
 Siccome la sua volontà è la tua, non ha bisogno di cercare nè di scegliersi altra strada, perchè questa cura, Signore, te la prendi Tu stesso e guidi l’anima pel cammino che le è più vantaggioso. Anche se il superiore non
 avesse a cuore il nostro profitto spirituale... Tu, o mio
 Dio, vi provvederesti ugualmente, disponendo in tal modo le anime e le occupazioni nostre da trovarci in seguito, senza saperne la maniera, così avanzati nello spirito
@@ -93,7 +93,7 @@ Dio, pronunziando il voto di obbedienza!... Non avendo
 per bussola che la volontà dei superiori, sarò sempre sicura
 di procedere sul retto sentiero senza temere di errare, neppur quando ai mici occhi sembra certamente che i superiori s'ingannino. Ma appena cesso di consultare l’infallibile
 bussola, tosto l’anima mia si smarrisce nei più aridi sentieri,
-ove presto l’acqua della grazia viene e mancarle. O Gesù,
+ove presto l’acqua della grazia viene a mancarle. O Gesù,
 l'obbedienza è la bussola che Tu mi hai dato per condurmi
 con sicurezza alla riva immortale; e quanto mi è dolce
 posare sopra di essa il mio sguardo e compiere, poi, la

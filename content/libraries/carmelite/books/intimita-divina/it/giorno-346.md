@@ -2,7 +2,7 @@
 
 ### Presenza di Dio
 
-— Nelle tue mani, o Signore, mi abbandono con fiducia piena.
+Nelle tue mani, o Signore, mi abbandono con fiducia piena.
 
 ### Meditazione
 

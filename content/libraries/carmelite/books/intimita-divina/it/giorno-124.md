@@ -1,5 +1,5 @@
 ## 124 — GESÙ PERSEGUITATO
-*tua. Risurrezione.*
+*domenica di Passione*
 
 ### Presenza di Dio
 
@@ -9,8 +9,8 @@ O Gesù, introducimi nel mistero della tua Passione, associami ad essa, affinch�
 
 1 — Oggi comincia il «tempo di Passione », tempo
 
-icolarmente consacrato al ricordo ed all'amorosa contemplazione dei dolori di Gesù. La croce e i quadri velati,
-la sospensione del Gloria nella Messa ei nei responsori dell'Ufficio divino, l'assenza del Salmo «Iudica me » all’inizio
+particolarmente consacrato al ricordo ed all'amorosa contemplazione dei dolori di Gesù. La croce e i quadri velati,
+la sospensione del Gloria nella Messa e nei responsori dell'Ufficio divino, l'assenza del Salmo «Iudica me » all’inizio
 della Messa, sono tutti segni di lutto con cui la Chiesa
 commemora la Passione del Signore. Nelle lezioni dell’Ufficio divino, S. Leone Papa ci esorta a partecipare « alla
 Croce di Cristo, affinchè facciamo anche noi qualche cosa
@@ -20,7 +20,7 @@ lui*». Non si tratta quindi solo di meditare i dolori di
 Gesù, ma di prendervi parte, di portare la sua Passione
 
 
-nel nostro cuore e nel nostro corpo (cfr. JI Cor. 4, 10),
+nel nostro cuore e nel nostro corpo (cfr. II Cor. 4, 10),
 perchè solo così potremo partecipare ai frutti di essa.
 Ecco perchè, nell’ufficiatura del tempo, la Chiesa ripete
 con pia insistenza l'invito: «allorchè sentirete la
@@ -30,7 +30,7 @@ mezzo di parole, ma mediante l’eloquente testimonianza
 dei fatti, mediante il grande fatto della Passione, che è
 il mistero più convincente del suo infinito amore per
 noi. Apriamo dunque il nostro cuore alle sublimi lezioni
-della ione: impariamo quanto ci ha amato e quanto
+della Passione: impariamo quanto ci ha amato e quanto
 noi dobbiamo riamarlo; impariamo che anche a noi, se
 vogliamo seguirlo, è necessario patire, è necessario portare la croce con lui e dietro di lui. E nello stesso tempo
 apriamo il cuore alla più viva speranza perchè nella Passione di Gesù è la nostra salvezza. S. Paolo nell’Epistola
@@ -57,11 +57,11 @@ menti, per denigrarlo di fronte al popolo, presentandolo
 
 
 come un mentitore, un indemoniato; infine, il loro livore
-giunge al punto che decidono di lapidarlo: «allora presero delle pietre per scagliarglicle contro ». La morte di
+giunge al punto che decidono di lapidarlo: «allora presero delle pietre per scagliarle contro ». La morte di
 Gesù è già decretata dai giudei, ma, non essendo venuta
 l’ora fissata dal Padre, « Gesù si nascose e uscì dal tempio ».
 
-Questo brano ev: ico ci permette di considerare
+Questo brano evangelico ci permette di considerare
 la condotta di Gesù di fronte ai suoi persecutori: mansue-
 
 tudine, zelo per le loro anime, disinteresse personale e totale abbandono in Dio. S. Gregorio Magno scrive: « Considerate, fratelli carissimi, la. mansuetudine del Signore.
@@ -72,14 +72,14 @@ di mostrare col ragionamento che non è peccatore » (BR.).
 Seguono le calunnie: «sei un samaritano e hai un
 demonio », Il Maestro divino risponde, ma sempre mansueto e solo; quel tanto che è necessario per testimoniare
 la verità: « lo non ho un demonio, ma onoro il Padre mio
-e voi.mi vituperate». Quanto al resto, affida la sua riputazione e la sua causa nelle mani di Dio: «Io però non
+e voi mi vituperate». Quanto al resto, affida la sua riputazione e la sua causa nelle mani di Dio: «Io però non
 cerco la mia. gloria; v'è chi la cerca e giudica », È tanto,
-attraverso il. dibattito, non cessa d’istruirè e di illuminare
-le menti Npsr cercare. di strapparle all’errore; sempre noncurante di sè, pensa solo al bene delle anime. Così, proprio
-in questa Jpensa circostanza, Gesù ci dà reziosi insegnamenti; « Chi è da Dio, ascolta le parole di Dio. Se alcuno
-custodirà Ja mia parola, non vedrà la morte in eterno ».
+attraverso il dibattito, non cessa d’istruirè e di illuminare
+le menti per cercare di strapparle all’errore; sempre noncurante di sè, pensa solo al bene delle anime. Così, proprio
+in questa aspra circostanza, Gesù ci dà preziosi insegnamenti; « Chi è da Dio, ascolta le parole di Dio. Se alcuno
+custodirà la mia parola, non vedrà la morte in eterno ».
 Dalla bocca del Maestro perseguitato raccogliamo questi
-moniti e conserviamoli LE nostro cuore con cura gelosa.
+moniti e conserviamoli nel nostro cuore con cura gelosa.
 Ancora oggi il mondo è pieno dei suoi nemici, di chi combatte la sua dottrina, di chi disprezza la sua Passione. Almeno noi crediamo in lui e siamogli amici fedeli.
 
 ### Colloquio
@@ -92,7 +92,6 @@ patire una vergognosa e orrenda morte, e questo al solo
 fine di salvarmi e di darmi esempio a patire, per amor tuo,
 
 
-Si -- IL VALORE DELLA SOFFERENZA 177
 le avversità. È perfezione e vero segno di amòre conformarmi a te, Crocifisso, che per le mie colpe hai voluto
 spietatamente. moriré, dandoti tutto in preda ai tormenti.
 © mio Dio passionato, solo leggendo nel libro della vita

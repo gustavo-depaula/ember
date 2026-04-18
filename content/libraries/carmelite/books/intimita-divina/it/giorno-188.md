@@ -23,7 +23,7 @@ San Tommaso li paragona alle vele della barca: come la barca, mediante le vele, 
 dal vento, così l'anima nostra, mediante i doni, ha la
 capacità di essere mossa e guidata dallo Spirito Santo.
 
-XXVI - 1 DONI DELLO SPIRITO SANTO 3 197
+
 Se un marinaio mette le vele alla sua imbarcazione,
 vuol dire che intende farla procedere non solo a forza
 di remi, ma anche con la spinta del vento. Parimenti

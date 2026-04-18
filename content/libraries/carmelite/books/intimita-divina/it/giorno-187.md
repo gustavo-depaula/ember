@@ -85,7 +85,7 @@ tutto il cuore: «Sì, lo voglio, anche se mi sembra di restarne oppresso! ».
 ### Colloquio
 
 «O Spirito di verità, fammi conoscere il tuo Verbo,
-insegnami a ricordarmi tutto ciò ch'Egli ha detto; illuminami, guidami, rendimi conforme a Gesù, un “alter Christus’ comunicandomi le sue virtù, soprattutto la sua pazienza, la sua umiltà, la sua obbedienza; rendimi partecipe
+insegnami a ricordarmi tutto ciò ch'Egli ha detto; illuminami, guidami, rendimi conforme a Gesù, un “alter Christus’ comuniandomi le sue virtù, soprattutto la sua pazienza, la sua umiltà, la sua obbedienza; rendimi partecipe
 della sua opera redentrice, facendomi intendere ed amare
 la croce.
 
@@ -102,15 +102,12 @@ gran santa, presto santa, senza che io lo sappia, nel nascondimento della mia vi
 
 «Voglio gettarmi in te, o Spirito Santo, Fuoco divino,
 perchè Tu completi la mia purificazione, distrugga il mio
-miserabile io e mi trasformi tutta in amore, Perciò ti sup.
-plico di sopravvenire in me e di dirigermi nel tuo beneplacito: ‘ Dirige actos nostros in beneplacito tuo.
+miserabile io e mi trasformi tutta in amore. Perciò ti supplico di sopravvenire in me e di dirigermi nel tuo beneplacito: «Dirige actus nostros in beneplacito tuo».
 
 «O Fuoco consumatore, Amore divino in persona, infiammami, bruciami, consumami, distruggi il mio io, trasformami tutta in amore, fammi giungere al nulla, per
 
-il Tutto, fammi pervenire alla vetta del « Monte»
-dove abita solo la gloria di Dio, dove tutto è epace e
-
-‘196 SETTIMANA DI PENTECOSTE
+il Tutto, fammi pervenire alla vetta del «Monte»
+dove abita solo la gloria di Dio, dove tutto è pace e
 
 gaudio» dello Spirito Santo! Ch'io raggiunga qui in terra
 - attraverso la sofferenza è l'amorosa contemplazione —

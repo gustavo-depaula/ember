@@ -106,7 +106,7 @@ come il tralcio vive nella vite, come il membro vive nel
 corpo! Che cosa mi manca, o Signore, per la mia santificazione, per la mia vita di unione con te? Tu mi hai dato
 assai più di quanto io avrei mai potuto desiderare.
 
-© Signore, fammi sentire la profonda realtà di questo
+O Signore, fammi sentire la profonda realtà di questo
 grande mistero che a te mi unisce tanto intimamente. Fa”
 che tale realtà domini, illumini, diriga tutta la mia vita;
 che di fronte ad essa tutto il resto svanisca, che all'infuori

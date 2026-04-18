@@ -7,7 +7,7 @@
 ### Meditazione
 
 1 — « Chi non prende la sua croce e non mi segue non
-è degno di me» (Mt. 10, 38). Con tali parole il Maestro divino. dichiara espressamente che portare la croce è una
+è degno di me» (Mt. 10, 38). Con tali parole il Maestro divino dichiara espressamente che portare la croce è una
 condizione indispensabile per essere suoi seguaci. Il nome
 di croce, però, non deve farci pensare soltanto a sofferenze
 speciali — le quali, pur non essendo escluse; non sono, in
@@ -37,7 +37,7 @@ di sottrarci ad esse e neppure di diminuirne il peso. « Sì, 0
 Padre, perchè così ti è piaciuto » (Mt. 11, 26).
 
 
-2 — Gesù dì alle nostre sofferenze il nome di croce,
+2 — Gesù dà alle nostre sofferenze il nome di croce,
 perchè croce significa strumento di salvezza, ed Egli vuole
 che il nostro soffrire non sia vano, ma diventi croce, ossia
 diventi per noi mezzo di elevazione, di santificazione. E di
@@ -45,7 +45,7 @@ fatto qualsiasi sofferenza si trasforma in croce non appena
 noi l’accettiamo dalle mani del Signore, aderendo alla sua
 volontà che si vuol servire di essa per il nostro profitto
 spirituale. Se ciò è vero per le grandi sofferenze, è molto
-vero anche per le piccole; tutte rientrano ‘nel piano divino, tutte — anche le più minute — sono state fin dall'eternità predisposte da Dio per la nostra santificazione.
+vero anche per le piccole; tutte rientrano nel piano divino, tutte — anche le più minute — sono state fin dall'eternità predisposte da Dio per la nostra santificazione.
 Accettiamole quindi con serenità, senza lasciarci immergere nelle cose che ci fanno. dispiacere; manteniamole
 al posto che devono avere e che in realtà hanno nel pia-
 
@@ -70,7 +70,7 @@ accettiamo il patire con spirito di fede e per amor di Dio.
 «Ben vedo, o Gesù, mio dolce Capitano, che Tu alzi lo
 stendardo della tua Croce e amorosamente mi di Prene
 di la croce che ti presento e, quantunque ti sembri grave il
-suo peso, vieni dietro a me e non dubitare’. Per corrispondere. dunque al tuo invito, ti prometto, o mio celeste
+suo peso, vieni dietro a me e non dubitare’. Per corrispondere dunque al tuo invito, ti prometto, o mio celeste
 Spa di non far più resistenza al tuo amore. Ma già vedo
 che t’incammini al Calvario, ed ecco che la tua sposa
 prontamente ti segue.

@@ -78,7 +78,7 @@ in spirito.
 ### Colloquio
 
 <O Gesù, libro di vita e salute nostra, la tua prima compagna sulla terra fu la povertà continua, estrema, perfettis-
-sîma. Tu, il Possente, il Signore di tutte le cose volesti la povertà assoluta, affinchè anche noi facessimo una cosa sola del-
+sima. Tu, il Possente, il Signore di tutte le cose volesti la povertà assoluta, affinchè anche noi facessimo una cosa sola del-
 l’amore e della povertà. Fosti povero in tutto: povero di cose
 materiali, povero di volontà propria, povero di spirito, povero al di sopra di ogni nostra possibile immaginazione, po-
 vero infinitamente, perchè infinito era l'amore col quale ci

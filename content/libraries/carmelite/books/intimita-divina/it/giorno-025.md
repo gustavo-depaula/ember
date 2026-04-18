@@ -48,7 +48,7 @@ alla tendenza di attirarsi le lodi altrui o di compiacersi nei
 successi, alle sue vedute ed iniziative personali, ai suoi interessi. Si tratta quindi di una vera immolazione dell’io
 che darà frutti di apostolato in proporzione della sua profondità. «Se il grano di frumento, caduto in terra, non
 muore, resta solo, ma se muore, produce molto frutto »
-(Gu. 12,24 €25).
+(Gv. 12, 24-25).
 
 ### Colloquio
 
@@ -91,7 +91,7 @@ che spesso resisto all’obbedienza, ai desideri ed anche agli
 espressi voleri dei miei superiori, ritenendomi da essi incompreso e perciò autorizzato a seguire il mio parere, a
 preferenza del loro?
 
-© Signore, tutte queste possibili deviazioni del mio io,
+O Signore, tutte queste possibili deviazioni del mio io,
 viste così, alla tua luce, quanto mi sembrano brutte, meschine, detestabili e profondamente indegne di un’anima a te
 consacrata! Ma anche se esse destano in me un senso di
 orrore, non ti chiedo, o mio Dio, di diminuire la tua luce,

@@ -31,7 +31,7 @@ Quest'anima non può riserbarsi più nulla, lo Spirito Santo
 non glielo permette; deve darsi tutta: ela carità di Cristo
 mi costringe» (II Cor. 5, 14) ripete con S. Paolo. In lei c'è
 una sete ardente della volontà di Dio di cui va in cerca come
-l’avaro va în cerca dell'oro; c'è una sete ardente di santità, sì
+l’avaro va in cerca dell'oro; c'è una sete ardente di santità, sì
 che non tollera in se stessa la minima incorrispondenza alla
 grazia e le sembra sempre «di fare troppo poco [per il Signore] e se le fosse lecito disfarsi mille volte per lui, ne sa-
 rebbe molto contenta» (G.C. N. IT, 19, 3); in lei c'è una
@@ -47,14 +47,13 @@ posso in Colui che mi dà forza» (Fil. 4, 13).
 
 2. — Come l’affamato gode quando può saziarsi di pane,
 così l'anima, che vive sotto l’influsso del dono della fortezza,
-gode quando può soddisfare la sua fame di giustizia, di santità. Gode quando può immergersi nella volontà di Dio, uni- '
+gode quando può soddisfare la sua fame di giustizia, di santità. Gode quando può immergersi nella volontà di Dio, unico
 co cibo che può satollarla, gode quando può soddisfare la
 
 
-sua sete d'immolazione sacrificandosi per Iddio e per le ani
-me, gode prendo può appagare la sua fame di Dio ricevendolo Di dRSSa o tuffandosi in lui nell'intimità della
-p iera. E' una gioia pura, chè non cercata, chè
-Eoto da lel alia dovere; è la giola del.
+sua sete d'immolazione sacrificandosi per Iddio e per le anime, gode quando può appagare la sua fame di Dio ricevendolo di diritto o tuffandosi in lui nell'intimità della
+preghiera. E' una gioia pura, che non cercata, che
+non è detratta dal dovere; è la gioia dell'anima che gravita verso il suo centro, Dio, e sente di
 l’anima che gravita verso il suo centro, Dio, e sente di
 darsi sempre di più a lui, di appartenergli totalmente. Ma,
 per godere questa gioia, bisogna essere decisi a non volerne

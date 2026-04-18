@@ -24,7 +24,7 @@ in noi i tratti di questa divina somiglianza, rendendoci
 Oh, bisognerebbe davvero che non vi fosse giornata in cui
 questa santa somiglianza non aumentasse in noi! Suor Eli-
 
-AR SER II SIE TERI De I
+
 
 sabetta della Trinità era stata profondamente colpita da
 questa verità e pregava lo Spirito Santo di fare di lei « un'umanità aggiunta nella quale Gesù potesse rinnovare il suo mistero » (ctr. EI.). Se Gesù è il modello al quale tutti dobbiamo
@@ -57,11 +57,11 @@ lo guidava all'adempimento di tale volontà. Parimenti, lo
 Spirito Santo vuole guidarci sempre più nella via segnata
 dalla volontà di Dio. In pratica, infatti, «la santità consiste
 solo nella conformità al divino volere» (Benedetto XV),
-in una conformità talmente piena che, come insegna $. Giovanni della Croce, nell'anima non vi sia più «alcuna cosa
+in una conformità talmente piena che, come insegna S. Giovanni della Croce, nell'anima non vi sia più «alcuna cosa
 
 contraria alla volontà divina, ma bensì i suoi moti siano
 in tutto e per tutto solamente volontà di Dio» (G.C. S. I.
-11, 2). Arrivare a tal punto non è facile, nè mai vi arriveremo senza il soccorso dello Spirito Santo. Di più, DERgra
+11, 2). Arrivare a tal punto non è facile, nè mai vi arriveremo senza il soccorso dello Spirito Santo. Di più, bisogna
 
 tener presente che la conformità al divino volere deve
 esprimersi « in un continuo ed esatto adempimento dei doveri
@@ -71,7 +71,7 @@ abnegazione, generosità e costanza a tutta prova. Guardiamo
 Gesù in croce e comprenderemo che cosa può esigere il
 perfetto adempimento della volontà di Dio, il perfetto
 adempimento del proprio dovere. Tuttavia, questa è la strada
-su cui dobbiamp metterci con la nostra buona volontà, rin
+su cui dobbiamo metterci con la nostra buona volontà, rin
 novando sempre i nostri sforzi. Ma, per quanta buona volontà possiamo avere, siamo così deboli, così incostanti, co
 sì tenacemente attaccati a noi stessi, e le nostre forze sono
 così limitate che non sempre riusciamo a rinunciare del
@@ -88,7 +88,7 @@ dendoci rinnovare i nostri sforzi, lo Spirito Santo ci verrà
 incontro, ci prenderà per mano e in un istante ci condurrà
 là, dove noi non siamo stati capaci di arrivare forse in tanti
 anni. Dobbiamo esserne sicuri, poichè. Gesù ci ha meritato
-e ci manda il suo Spirito «con copiosissima effusione >|
+e ci manda il suo Spirito «con copiosissima effusione»
 
 ### Colloquio
 

@@ -30,7 +30,7 @@ amor di Dio, talvolta sorge in noi la tentazione di reagire, di
 buttar via tutto, di sottrarci al giogo, oppure ci sentiamo opressi dalla tristezza e dallo scoraggiamento. Il rimedio qua-
 è? E° quello stesso che indicava Gesù agli Apostoli dopo aver
 loro annunciato le persecuzioni cui sarebbero andati incontro: «in patientia vestra possidebitis animas vestras»; gua-
-dagnerete le anime vostre con la pazienza (Le. 21,19). La
+dagnerete le anime vostre con la pazienza (Lc. 21,19). La
 pazienza è appunto la virtù che ci permette di vivere in stato di sofferenza, di disagio, di privazione senza perdere la
 serenità, che ci permette di mantenerci saldi in mezzo alle
 tempeste, alle contraddizioni, ai pericoli, senza irritarci, senza avvilirci, nè deflettere.
@@ -71,7 +71,7 @@ Dio per la sua santificazione.
 ### Colloquio
 
 « O Gesù, l'ufficio delle anime che ammetti alla tua intimità è quello di patire con te, di portare alta la croce, senza
-lasciarsela sfuggire di mano, nonostante i pericoli în cui si
+lasciarsela sfuggire di mano, nonostante i pericoli in cui si
 trovano e senza mai mostrare nel patire la minima debolezza.
 
 «Mi hai fatto così bene intendere, o Signore, la grande

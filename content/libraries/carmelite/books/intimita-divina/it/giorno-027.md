@@ -7,11 +7,11 @@
 
 ### Meditazione
 
-1 — Il Verbo è la seconda Persona della $S.ma Trinità.
+1 — Il Verbo è la seconda Persona della SS.ma Trinità.
 Nel seno dell’unica divina natura vi sono tre Persone, tre
 termini sussistenti. Anche noi siamo « sussistenti »; la « sussistenza » è ciò che ci permette di dire « io » e di attribuire
 a questo io le diverse azioni che facciamo. In Dio, nella
-matura divina, vi sono tre Termini che possono dire «io»
+natura divina, vi sono tre Termini che possono dire «io»
 riguardo alle operazioni divine, operazioni comuni a tutti
 e tre, perchè procedenti da un'unica natura in possesso di
 tutte e tre le Persone divine. Il Verbo possiede la natura
@@ -44,11 +44,11 @@ Dio, insieme col Padre e con lo Spirito Santo.
 
 2— «Il Verbo si è fatto carne ». Essendo Dio, il Verbo
 è eterno ed immutabile, perciò rimane necessariamente
-sempre ciò che era: mune? quod erat! Ma nulla impedisce che Egli, insieme col Padre e con lo Spirito Santo,
+sempre ciò che era: manet quod erat! Ma nulla impedisce che Egli, insieme col Padre e con lo Spirito Santo,
 crei nel tempo una natura umana che, invece di avere un
 io limitato e debole come il nostro, stia totalmente sotto
 il governo del suo io divino. Così ha fatto; la natura umana da lui assunta è la stessa che la nostra, ma, invece di
-appartenere ad un fo umano, appartiene all’io divino, alla
+appartenere ad un io umano, appartiene all’io divino, alla
 Persona sussistente del Verbo e quindi anche le operazioni
 e le passioni di questa natura umana sono del Verbo. Il
 Verbo, dopo l’Incarnazione, ha una duplice natura: la natura divina, unica, che possiede in comune col Padre e con
@@ -89,7 +89,7 @@ consiste nel supplicare le aquile, mie sorelle, di ottenere di
 volare verso il Sole dell’Amore con le stesse ali dell'Aquila
 divina. Così a lungo quanto vorrai, o mio Diletto, terrò gli
 occhi fissi su te, voglio essere affascinata dal tuo sguardo
-divino, voglio divenire preda del tuo amore» (£.B.G.
+divino, voglio divenire preda del tuo amore» (T.B.G.
 Lt. 175).
 
 Sì, mio Gesù, desidero ardentemente di diventare preda
@@ -99,7 +99,7 @@ in me la tua misericordiosa opera redentrice, santificatrice.
 
 Vieni a noi per sanarci della nostra miseria, per trasformarci da figli del peccato in figli di Dio. Ma quante
 volte, purtroppo, la tua infinita carità è costretta ad arrestarsi di fronte a cuori ingrati che ti chiudono le porte.
-«Sei venuto nella tua proprietà c i tuoi non ti hanno accolto » (cfr. Go. 1,11). Non ti ricevono coloro che non
+«Sei venuto nella tua proprietà e i tuoi non ti hanno accolto » (cfr. Gv. 1, 11). Non ti ricevono coloro che non
 credono al tuo amore, coloro che diffidano della tua misericordia infinita, coloro che non hanno fiducia in te. E al-
 lora, quell'eccessiva carità che dal cielo ti ha portato a noi,
 che non ha trovato sconveniente che Tu, Verbo eterno,

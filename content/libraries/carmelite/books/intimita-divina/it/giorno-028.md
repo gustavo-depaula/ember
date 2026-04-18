@@ -57,7 +57,7 @@ l’Incarnazione del Verbo.
 
 ### Colloquio
 
-© mio Dio, quale luminoso e sublime contrasto! Tu,
+O mio Dio, quale luminoso e sublime contrasto! Tu,
 Verbo eterno, Verbo incarnato, fonte di vita, di salvezza,
 di grazia e di santità; Tu, luce e redenzione dell’umanità
 intera, stai per mostrarti al mondo! Tutto il creato dovrebbe esultare, tutta la natura dovrebbe fremere di gioia,

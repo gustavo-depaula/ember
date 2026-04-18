@@ -1,8 +1,8 @@
-## 320 — L’APOSTOLATO DELL’ESEMPIO
+## 320 — L'APOSTOLATO DELL'ESEMPIO
 
 ### Presenza di Dio
 
-O Signore, fa’ che la mia condotta sia tale da procurarti gloria ed attirare molte anime al tuo amore.
+O Signore, fa' che la mia condotta sia tale da procurarti gloria ed attirare molte anime al tuo amore.
 
 ### Meditazione
 
@@ -30,13 +30,13 @@ ha seguito per manifestarsi agli uomini: il Verbo eterno
 si è incarnato e, attraverso la realtà così concreta c così
 umana della sua vita terrena, ci ha mostrato l'immenso amore di Dio per noi e le sue infinite perfezioni. Gesù,
 che possedeva le perfezioni divine, ha potuto dirci: « Siate perfetti com'è perfetto il Padre vostro, che è nei cie-
-li» (Mt. 5,48) e iicendici così non solo ci mostrava l’ideale supremo della santità, ma ce ne offriva in se stesso
+li» (Mt. 5,48) e iicendici così non solo ci mostrava l'ideale supremo della santità, ma ce ne offriva in se stesso
 il modello. L'apostolo deve battere la via battuta da Gesù
-incarnando nella sua vita quell’ideale di santità che vuol
+incarnando nella sua vita quell'ideale di santità che vuol
 proporre agli altri; solo così si potrà affermare di lui, come del Signore: « coepît facere et docere » (At.1, 1), co-
-minciò prima a fare e poi ad insegnare. E solo così l’apostolo potrà ripetere, molto più con la sua condotta che
-con le parole, l’ardita frase paolina: «Siate miei imitatori,
-come io lo sono di Cristo » (/Cor.4, 16).
+minciò prima a fare e poi ad insegnare. E solo così l'apostolo potrà ripetere, molto più con la sua condotta che
+con le parole, l'ardita frase paolina: «Siate miei imitatori,
+come io lo sono di Cristo » (I Cor.4, 16).
 
 
 2 — Gesù, che ci ha insegnato a pregare, a digiunare, a fare elemosina nel segreto, affinchè solo il Padre
@@ -45,7 +45,7 @@ coloro che le vedono, un tacito incitamento al bene: « La
 vostra luce risplenda dinanzi agli uomini in modo tale
 che, vedendo le vostre opere buone, diano gloria al Padre vostro, che è nei cicli» (Mt. 5, 16). S. Gregorio c'in-
 segna come conciliare i due insegnamenti del Signore:
-«L’opera sia pubblica — egli dice — ma l'intenzione rimanga occulta, affinchè così diamo al prossimo l'esempio
+«L'opera sia pubblica — egli dice — ma l'intenzione rimanga occulta, affinchè così diamo al prossimo l'esempio
 di un'opera buona e, nello stesso tempo, con l'intenzione,
 con la quale cerchiamo di piacere a Dio solo, desideriamo
 sempre il segreto ». Vi è una grande differenza tra colui
@@ -53,22 +53,22 @@ che fa ostentazione del bene compiendolo per attirarsi
 le lodi altrui, o forse anche per guadagnarsi una certa
 fama di santità, e colui che, agendo con retta intenzione
 unicamente per piacere a Dio, è con la sua condotta luce
-e guida per coloro che gli vivono accanto. Quando l’intenzione è retta — ossia dar gloria a Dio e procurare di
+e guida per coloro che gli vivono accanto. Quando l'intenzione è retta — ossia dar gloria a Dio e procurare di
 attirare altre anime al suo servizio — non dobbiamo temere che le nostre opere buone siano vedute, anzi dobbiamo sentire la responsabilità di comportarci in modo
 che la nostra condotta sia di edificazione agli altri.
 
 Ogni anima di vita interiore, pur cercando di piacere
-soltanto al Padre celeste, deve essere un’apostola dell’esempio; la sua vita di pietà sincera, di virtù soda, di unio-
+soltanto al Padre celeste, deve essere un'apostola dell'esempio; la sua vita di pietà sincera, di virtù soda, di unio-
 ne con Dio deve risplendere davanti agli uomini e deve
 richiamarli alla pregficci al raccoglimento, alla ricerca
 delle cose celesti. Ciò è possibile a tutti ed in ogni ambiente di vita: lo può fare il professionista in mezzo al
 mondo tra i colleghi, gli alunni o i clienti; lo può fare
-la soa e la madre nella cerchia della famiglia; può farlo il religioso e la religiosa nell’ambito della propria Co-
+la soa e la madre nella cerchia della famiglia; può farlo il religioso e la religiosa nell'ambito della propria Co-
 munità; può farlo il sacerdote nel raggio della sua azione.
 
 Un'anima di vera vita interiore è di per sè un apostolo, è, come dice Gesù, «una città posta sul monte [che]
 non può rimanere nascosta », è una lucerna accesa messa
-«sul candeliere, perchè faccia lume a tutti quelli che sono in casa » (Mt. 5, 14e 15). Quanto più la vita interiore
+«sul candeliere, perchè faccia lume a tutti quelli che sono in casa » (Mt. 5, 14 e 15). Quanto più la vita interiore
 è profonda, tanto più la lucerna splende, illumina le anime e le attira a Dio,
 
 ### Colloquio

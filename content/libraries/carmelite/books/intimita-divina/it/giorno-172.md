@@ -9,7 +9,7 @@ O Madre mia, insegnami a credere con piena fermezza, insegnami a fidarmi totalme
 1. — La Chiesa, facendo sue le parole di S. Elisabetta,
 rivolge a Maria questa bellissima lode: «Te beata, che
 hai creduto; perchè si compiranno le cose dette a te dal
-Agno» (Le. 1, 45). Grandi cose infatti si compirono in
+Agno» (Lc. 1, 45). Grandi cose infatti si compirono in
 
 laria ed Ella ebbe il grande merito di crederle. Sulla
 

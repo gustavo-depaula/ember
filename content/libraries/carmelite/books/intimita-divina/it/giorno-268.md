@@ -11,12 +11,12 @@ opere che dobbiamo fare per raggiungere il fine della nostra
 santificazione, ma ci segue anche durante il compimento di
 tali opere, suggerendoci la condotta più adatta secondo le circostanze del momento. La prudenza, ad esempio, ci dice quando è opportuno tacere e quando parlare, quando agire e quando attendere, quando cedere e quando resistere, quando e in
 quale forma praticare questa o quella virtù. La prudenza è
-così la grande regolatrice di tutta la nostra vita e ben giustamente è chiamata « auriga virtutum >, ossia colei che dirige
+così la grande regolatrice di tutta la nostra vita e ben giustamente è chiamata « auriga virtutum », ossia colei che dirige
 l'esercizio di tutte le altre virtù. Riguardo alle virtù morali
 la prudenza le regola in modo che mantengano la nostra condotta nel giusto mezzo evitando gli eccessi opposti che sono
 sempre difettosi, ad esempio: il troppo ardire o la timidezza
 esagerata, la troppa attività o la passività eccessiva, la ricerca
-delle comodità 0 le penitenze che rovinano la salute, ecc. Riguardo alle virtù teologali, invece, per le quali non vi è que-
+delle comodità o le penitenze che rovinano la salute, ecc. Riguardo alle virtù teologali, invece, per le quali non vi è que-
 
 questione di giusto mezzo, il compito della prudenza consiste nell’indicarci in quali circostanze e con quali mezzi le dobbiamo
 praticare. Così, ad esempio, la prudenza ci indicherà i pericoli che minacciano la fede e il modo di evitarli, ci suggerirà
@@ -49,8 +49,8 @@ batte soltanto la via retta della sincerità. Anche la prudenza
 cristiana ci può suggerire di rimandare a tempo migliore l'at
 tuazione di un progetto benchè buono e santo, di non rivelare a chiunque le nostre intenzioni, di tacere su un determinato argomento, ecc. e tuttavia non ci chiederà mai di venire meno al dovere o alla verità. Quando Gesù diceva che
 «i figli di questo secolo sono, nel loro genere, più accorti che
-i figli della luce» (Le. 16, 8), intendeva certamente richiamarci a maggior prudenza ed accortezza nel compiere il bene,
-ma non intendeva davvero incoraggiarci ad usare î mezzi illeciti di cui si servono con tanta disinvoltura i figli delle tenebre. Nè dobbiamo pensare che, dovendo usare solo mezzi
+i figli della luce» (Lc. 16, 8), intendeva certamente richiamarci a maggior prudenza ed accortezza nel compiere il bene,
+ma non intendeva davvero incoraggiarci ad usare i mezzi illeciti di cui si servono con tanta disinvoltura i figli delle tenebre. Nè dobbiamo pensare che, dovendo usare solo mezzi
 buoni e retti, la nostra prudenza rimanga sopraffatta dalla
 prudenza del mondo, poichè, di fronte agli intrighi ed inganni che non possiamo in nessun modo ricambiare, disponiamo di un mezzo ben più potente che, in ultima analisi, avrà
 sempre la vittoria: il ricorso a Dio mediante la preghiera e
@@ -62,7 +62,7 @@ Mandando i suoi Apostoli in mezzo al mondo, dove le in-
 sidie del male sono immense, Gesù ha raccomandato: « Siate
 
 sempre prudenti come i serpenti, e semplici come le colombe»
-(Me. 10, 16); indicando insieme queste due virtù, prudenza e
+(Mt. 10, 16); indicando insieme queste due virtù, prudenza e
 semplicità, ci dice chiaramente che l'una non deve mai essere
 disgiunta dall'altra, nè l'una deve essere di pretesto per mancare all'altra. La prudenza non deve mai farci mancare di
 semplicità — ed ecco l'esclusione di tutti quei mezzi che sanno di menzogna — ma nello stesso tempo la semplicità non
@@ -76,14 +76,14 @@ maggior vigore di virtù, la spinge ad onorarti in tutte le opere
 sue e le fa prevedere ogni cosa onde si armi con fortezza contro
 le tentazioni. Concedimi, Dio mio, questa vera e retta prudenza affinchè mi conduca all'unione con te. E mi conduca
 
-în modo tale che, per nessun motivo o riguardo di creatura,
+in modo tale che, per nessun motivo o riguardo di creatura,
 io tralasci di mettere in esecuzione le opere tue» (cfr.
 S. M. Maddalena de’ Pazzi).
 
 «Crea in me, o Signore, un cuore puro e infondi in me
 uno spirito retto, Insegnami le tue vie, affinchè io segua la
 tua verità. Dammi la temperanza e la prudenza, la giustizia
-e la fortezza, delle quali nulla ‘c'è di più utile in vita agli uomini » (cfr. Sal. 50; Sap. 8, 7).
+e la fortezza, delle quali nulla c'è di più utile in vita agli uomini » (cfr. Sal. 50; Sap. 8, 7).
 
 «Bontà suprema, o mio Gesù, io ti chiedo un cuore sì
 

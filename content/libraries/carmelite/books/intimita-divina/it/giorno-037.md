@@ -18,7 +18,7 @@ Glorie che, come ci ammonisce S. Paolo, scaturiscono
 appunto dai suoi prodigiosi abbassamenti : « Fratelli: Cristo
 umiliò se stesso, fattosi obbediente sino alla morte, e alla
 morte di croce. Perciò Dio lo esaltò e gli diede il nome che
-è sopra ogni nome, affinchè nel nome di Gesù ogni ginocchio si pieghi » (Fi/.2,8-10). Così canta la Chiesa nell’ufficio
+è sopra ogni nome, affinchè nel nome di Gesù ogni ginocchio si pieghi » (Fil. 2,8-10). Così canta la Chiesa nell’ufficio
 del giorno, invitando tutti i suoi figli a rendere ricono-
 
 
@@ -53,7 +53,7 @@ Veramente « nè lingua vale ridire, nè scrittura esprimere »
 i preziosi tesori racchiusi nel nome di Gesù. « Niun canto
 è più soave, niun suono più giocondo, niun pensiero più
 dolce che Gesù, Figliolo di Dio » (BR.). « Un olio sparso è
-il tuo nome » (Cart. 1,2) dice la Sacra Scrittura e $. Bernardo commenta : « L’olio infatti illumina, nutre ed unge...
+il tuo nome » (Cart. 1,2) dice la Sacra Scrittura e S. Bernardo commenta : « L’olio infatti illumina, nutre ed unge...
 Osserva ora lo stesso circa il nome dello Sposo: illumi
 na predicato, pasce meditato, lenisce e unge invocato... Arido è ogni cibo dell’anima, se non è cosparso di questo olio;
 

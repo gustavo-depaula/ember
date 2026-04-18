@@ -41,10 +41,10 @@ confronto alla Passione di Gesù.
 Chi si occupa troppo di ciò che soffre, finisce per esasperare il proprio dolore, per affogarsi in esso, stroncando
 in sè ogni slancio generoso. Chi, invece, sa dimenticarsi, si
 mantiene in equilibrio, sempre capace di pensare pi agli
-altri che a se stesso, sempre aperto alla carità ed alla generosità verso Dio e verso il prossimo. L’anima semplice, dimentica di sè, è quella che sa soffrire con maggior coraggo ricavandone maggior profitto per la propria santicazione.
+altri che a se stesso, sempre aperto alla carità ed alla generosità verso Dio e verso il prossimo. L’anima semplice, dimentica di sè, è quella che sa soffrire con maggior coraggio ricavandone maggior profitto per la propria santificazione.
 
 
-2 SARGOTA tutti gli sforzi per buttarsi al di là
+2 — Malgrado tutti gli sforzi per buttarsi al di là
 del proprio dolore, per dimenticare le proprie pene; si
 possono passare momenti di angoscia così profonda, di
 tenebre così fitte che la povera anima non sa come venirne
@@ -102,7 +102,7 @@ malgrado tutto.
 
 
 «O Signore, sii l’unico mio sostegno nelle apprensioni,
-nelle debolezze, nelle angustic; sii il mio confidente o, meglio, la mia confidenza. Ospite divino, che risiedi in me,
+nelle debolezze, nelle angustie; sii il mio confidente o, meglio, la mia confidenza. Ospite divino, che risiedi in me,
 sul trono del mio cuore, dimoravi da padrone; a te spetta
 il dominio, l’amore, il governo di tutto il mio essere!
 

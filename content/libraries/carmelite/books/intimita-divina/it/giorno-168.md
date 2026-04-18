@@ -93,21 +93,19 @@ Siena).
 incluso il Dator dell'essere; in Te è incluso lo stesso Iddio,
 tutto il cielo e tutte le creature. Mediante il sangue tratto
 da te è salvato tutto il mondo. E se non c'eri Tu, o Maria,
-per me non vera paradiso; se non c'eri Tu, per me non
+per me non v'era paradiso; se non c'eri Tu, per me non
 c'era Dio...
 
 «O Maria, quanti sono i doni e le grazie che Tu vuoi
 dare alle creature! E chi non vorrebbe avere tali doni? Ma
-manca la perseveranza nel volerlì e Tu, Madre amorosa
-non concedi doni ai tuoi figlioli quando vedi che li terranno in j.oco conto e li getteranno via, perchè sai che
+manca la perseveranza nel volerli e Tu, Madre amorosa
+non concedi doni ai tuoi figlioli quando vedi che li terranno in poco conto e li getteranno via, perchè sai che
 dovresti poi dar loro debita pena. O Maria, vuoi darmi
 i doni tuoi, ma io me ne privo perchè voglio fare una
 mescolanza dei doni miei e dei doni tuoi. Vorrei le tue
-grazie, ma insieme voglio la mia volontà, ed in tal mode
+grazie, ma insieme voglio la mia volontà, ed in tal modo
 
-WI - LA PREGHIERA EFFICACE = 129
-
-mon le posso avere. Vorrei la benevolenza tua, ma insieme
+non le posso avere. Vorrei la benevolenza tua, ma insieme
 voglio l'amore e la particolar benevolenza delle creature,
 e non si può. Vorrei l'amor tuo insieme col mio, ma così
 non posso averlo. Vorrei abitare sotto il tuo manto, e
@@ -120,6 +118,6 @@ tuo, Madre dolcissima, che tanto hai disprezzato te stessa.
 «O Maria, che ti potrò dare ed offrire che ti sia
 grato? Se t'offro la mia volontà, temo che non ti piaccia,
 
-hè non è conforme al volere di Dio. Se t'offro l’intelletto, non è illuminato; se l'affetto, non è puro. T'offro il
+chè non è conforme al volere di Dio. Se t'offro l’intelletto, non è illuminato; se l'affetto, non è puro. T'offro il
 Cuore del tuo Unigenito, e maggior dono non ti posso
 offrire» (cfr. S. M. Maddalena de’ Pazzi).

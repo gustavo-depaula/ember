@@ -10,7 +10,7 @@ Relig. dic. 1950). Questa definizione mette in evidenza il
 concetto di immolazione libera, e ciò, ben più che ad una
 supina passività, fa pensare ad un'intensa e nobile attività
 che consiste nella rinuncia volontaria del proprio volere,
-per sottomettersi volontarimmente alla volontà di Dio,
+per sottomettersi volontariamente alla volontà di Dio,
 
 
 espressa nei comandi dei superiori. Siamo, quindi, ben
@@ -18,12 +18,12 @@ lontano dal concetto di un’ obbedienza meccanica, materiale, oppure forzata, s
 l’uomo agisce come una macchina o come un servo che
 si sottomette al padrone solo perchè non può farne a
 meno. Qui c’è solo il nome e l'apparenza esterna dell'obbedienza, ma in realtà ne manca il contenuto inte-
-riore; l'atto formale, il quale consiste appunto nella rimuncia libera e quindi cosciente del proprio volere, per
+riore; l'atto formale, il quale consiste appunto nella rinuncia libera e quindi cosciente del proprio volere, per
 aderire al volere di Dio manifestato dai comandi del
 superiore. Soltanto in forza di questo duplice elemento:
 libera rinuncia di sè e libera adesione alla volontà divina, l'obbedienza è un perfetto olocausto, tanto gra-
 dito e prezioso agli occhi di Dio, sì da valere « assai più
-delle vittime» (7 Re, 15,22). Se viene a mancare questo
+delle vittime» (I Re, 15, 22). Se viene a mancare questo
 duplice elemento interiore, l’atto esterno di obbedienza
 potrà essere sufficiente per non venir meno al voto o alla
 promessa fatta, ma perde il suo profondo valore e non sarà mai mezzo per distaccare l’uomo dalla sua volontà e
@@ -36,7 +36,7 @@ e neppure di aver abbracciato liberamente la volontà
 divina. Una simile obbedienza è un controsenso per
 un’anima che aspira all'unione con Dio, è un pretendere
 di giungere al fine senza usare i mezzi, è cambiare la
-moneta preziosa della vera obbedienza con una vile moneta- di stagno. S. Teresa di Gesù insegna: « l’obbedien-
+moneta preziosa della vera obbedienza con una vile moneta di stagno. S. Teresa di Gesù insegna: « l’obbedien-
 za è la via più breve e il mezzo più efficace per arrivare
 al felicissimo stato dell’ unione con Dio» (Fd. s, 11); si
 tratta unicamente, però, di quell’obbedienza che è «libera immolazione della libertà», per non voler altra
@@ -57,13 +57,13 @@ con. voto, il che sarebbe commettere una rapina nell'olocausto. La tua volontà 
 cata sull’altare del Signore, non è più tua, quindi non
 sei più libero di riprenderla. Devi invece usare la tua
 libertà per vivere, per attuare giorno per giorno la tua
-offerta, ossia per rinnovare continuamene, di fronte ad
+offerta, ossia per rinnovare continuamente, di fronte ad
 ogni. disposizione dell’obbedienza, l'immolazione della tua
 libertà. Benedetta obbedienza che ti permette di realizzare il tuo olocausto! «Se non consacraste così la vostra
 volontà al Signore — scriveva Teresa di Gesù alle sue
 figlie — somigliereste ad uno che mostra ad un altro
 una perla preziosa, gliela offre, lo prega di accettarla,
-e quando puaelaò stende la mano per prenderla, ritira
+e quando quello stende la mano per prenderla, ritira
 l'offerta e la nasconde ben bene» (Can. 32,7). Ciò purtroppo è sempre possibile anche a te; infatti, pur avendo
 sacrificato con voto la tua volontà, questa rimane ancora
 nelle tue mani e dipende dalla tua stessa volontà il mantener fede al voto fatto. È quindi necessario che tu sia
@@ -76,7 +76,7 @@ cia, è soave per l’anima innamorata della volontà di Dio,
 
 
 che proprio nel suo amore troverà sempre ‘la forza di
-rinnegarsi. 7
+rinnegarsi.
 
 ### Colloquio
 
@@ -102,11 +102,11 @@ i unione, e che unione non sono, se non quando sono
 precedute da Sus Tu mi fai ben comprendere che,
 se avrò poca obbedienza e molta volontà mia, l’unione
 non sarà con la tua volontà, ma col mio amor proprio.
-Ti piaccia, o Signore, che io metta in piave iuanto
+Ti piaccia, o Signore, che io metta in pratica quanto
 mi dai grazia di comprendere » (cfr. T.G. Fd. 5, 13).
 
 O Signore, Tu ben lo sai, alla mia volontà non piace
-sottomettersi, mon piace rinunciare a se stessa per assog-
+sottomettersi, non piace rinunciare a se stessa per assog-
 
 ttarsi al volere altrui; c'è in me un forte amore alla
 libertà, all’ indipendenza, che m’inclina a cercare mille

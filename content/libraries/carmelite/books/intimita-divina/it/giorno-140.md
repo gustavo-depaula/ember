@@ -19,7 +19,7 @@ A A
 
 condarono il compimento del grande mistero; Giuseppe
 ebbe quindi bisogno di una grande fede, fede che fu continuamente nutrita di sofferenze e temprata attraverso le
-angosce. Le perplessità destate in lui dalla misteriosa maternità di Maria, la povertà estrema e le angustie di Betleem, i disagi della fuga in Egitto fecero gemere la sua
+angosce. Le perplessità destate in lui dalla misteriosa maternità di Maria, la povertà estrema e le angustie di Betlemme, i disagi della fuga in Egitto fecero gemere la sua
 anima delicata, tanto Sh nei momenti più gravi, ebbe
 bisogno dell'intervento di un Angelo, da cui fu sostenuto e introdotto nelle profondità del mistero divino che
 si svolgeva sotto i suoi occhi. E Giuseppe si lascia guidare con la docilità e la fiducia cieca di un fanciullo. Lo
@@ -52,7 +52,7 @@ VITA DI FEDE IN S. GIUSEPPE 233
 
 
 di Giuseppe, sicuri che Dio può servirsi di
-qualsiasi persona e di qualsiasi circostanza per farci conoscere e attuare il suo volere divino; proprio come si è servito dell’editto di Cesare per condurre Giuseppe a Betleem, dove doveva nascere Gesù. Le intenzioni Mare
+qualsiasi persona e di qualsiasi circostanza per farci conoscere e attuare il suo volere divino; proprio come si è servito dell’editto di Cesare per condurre Giuseppe a Betlemme, dove doveva nascere Gesù. Le intenzioni Mare
 ratore romano erano state ben diverse, ma Dio si è servito
 di quell’atto politico attuare il piano dell’Incarnazione.
 È sempre vero che Dio tutto governa e dirige al compimento della sua volontà.

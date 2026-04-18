@@ -50,13 +50,12 @@ soddisfazione di cui l’uomo era assolutamente incapace. E
 allora si compì la più sublime opera della misericordia di
 Dio: una Persona della SS.ma Trinità, la seconda, venne
 a fare per noi ciò che noi non potevamo fare. Ecco il Verbo, l’Unigenito di Dio, « che per noi uomini e per la nostra
-salute è disceso dal ciclo e si hi incarnato » (Credo). L’amore misericordioso di Dio giunge così al colmo della sua
+salute è disceso dal cielo e si è incarnato » (Credo). L’amore misericordioso di Dio giunge così al colmo della sua
 manifestazione: se non vi è ingratitudine e miseria più
 grande del peccato, non vi può essere amore più grande
 di quello che si china su tanta ingratitudine e tanta abbiezione, per ricondurla al primitivo splendore. E Dio fa ciò,
 non per mezzo di un profeta o del più sublime degli angeli, ma lo fa personalmente: tutta la SS.ma Trinità opera
-l'Incarnazione il cui termine è la congiunzione di una natura umana con la Persona del Verbo. Qui appare e ri-
-splende tutta l’immensità dell'amore, della misericordia di
+l'Incarnazione il cui termine è la congiunzione di una natura umana con la Persona del Verbo. Qui appare e risplende tutta l’immensità dell'amore, della misericordia di
 Dio per l’uomo,
 
 ### Colloquio
@@ -79,13 +78,13 @@ comprensibile! O increato, sei fatto creato! O impalpabile, sei fatto palpabile!
 «O felice colpa! non per te, ma per pietà di Dio,
 hai meritato a noi di mostrarci l’occultissimo profondo
 della carità divina, che ne era ascoso. In verità non si può
-pensare carità maggiore O amore infinito e trasformato, 0
+pensare carità maggiore O amore infinito e trasformato, O
 amore troppo ineffabile! Benedetto sii Tu, Signore, che mi
 fai intendere d’essere incarnato. Oh, quanto è glorioso il
 sapere e l’intender questo, e che io vegga e intenda, che
 
 ‘u mi sei nato! Questo intendere certo o è pieno d'ogni
-soavità e diletto. O meraviglioso Dio, come sono meravigliose quelle cose, che per noi hai fatto! Fammi degna, 0
+soavità e diletto. O meraviglioso Dio, come sono meravigliose quelle cose, che per noi hai fatto! Fammi degna, O
 increato Dio, di conoscere il profondo del tuo amore e
 l’abisso dell’ardentissima tua carità, la quale ci hai comunicata mentre ne mostrasti il tuo Gesù Cristo in questa In-
 carnazione » (B. Angela da Foligno).

@@ -10,21 +10,21 @@
 nascondere sotto le sembianze umane la sua divinità. Salvo
 qualche rara eccezione, e soprattutto durante i trent'anni
 precedenti al suo apostolato, non lasciò mai trasparire nulla
-della sua dezza, sapienza, onnipotenza infinita. In seguito, negli anni della vita pubblica, volle adattarsi al modo
+della sua divinità, sapienza, onnipotenza infinita. In seguito, negli anni della vita pubblica, volle adattarsi al modo
 di vivere e di agire tanto imperfetto dei suoi Apostoli,
 Egli che era infinitamente superiore ad essi. Gesù è veramente il Dio nascosto e col suo esempio c’insegna i pregi
 della vita nascosta.
 
 Se vuoi imitare sino in fondo l'umiltà di Gesù, devi
-pestesipare alla sua vita di nascondimento, celando come
+partecipare alla sua vita di nascondimento, celando come
 lui tutto ciò che in te può attirare l’attenzione, le lodi
 altrui, nascondendo tutto quello che ti può rendere singolare, che ti può far notare, fuggendo, per quanto sta
 In te, ogni segno di distinzione. « Aya mesciri et pro nibilo
 reputari », ama di vivere sconosciuto e di esser tenuto in
-nessun conto (/2it, I, 2, 3) perchè così sarai più simile a
+nessun conto (Imit, I, 2, 3) perchè così sarai più simile a
 Gesù « che, essendo Dio, ha voluto assumere la natura di
 schiavo e in tutto il suo esteriore atteggiamento essere
-riconosciuto come un uomo qualunque » (cfr. Fil. 2,6€.7).
+riconosciuto come un uomo qualunque » (cfr. Fil. 2, 6-7).
 Gesù stesso ci ha insegnato la pratica della vita nascosta,
 insistendo che il bene venga fatto nel segreto, solo per
 piacere a Dio, senza ostentazione. Così Egli t'insegna a
@@ -51,7 +51,7 @@ non potrà essere profonda, i suoi rapporti con Dio non
 potranno essere molto intimi, Quest'anima vive ancora în
 superficie. E così — preoccupata com'è della comparsa
 esteriore, di ciò che gli altri potranno pensare o dire di
-lei — facilmente nell’agire si eso deviare dal rispetto
+lei — facilmente nell’agire si può deviare dal rispetto
 
 
 umano, dal desiderio di attirarsi la benevolenza e la stima
@@ -60,11 +60,11 @@ rità, Il soprannaturale in lei è ancora troppo mescolato
 all’umano per dominare la sua vita e di fatto molto spesso
 agisce non per piacere a Dio, per dargli gloria, ma per
 piacere agli uomini, per guadagnarsi il loro affetto, per
-conquistarsi un posto di o meno onorevole. 4
+conquistarsi un posto più o meno onorevole. 4
 
-iiinadd «sorprendiamo noi stessi a desiderare ciò che
+«Quando sorprendiamo noi stessi a desiderare ciò che
 splende — diceva S. Teresa del B. G. — schieriamoci
-umilmente tra gl’'imperfetti e stimiamoci anime deboli che
+umilmente tra gl'imperfetti e stimiamoci anime deboli che
 Dio deve sostenere ad ogni istante » (CR.). E per conto
 suo la Santa chiedeva: «O Gesù, fa’ che nessuno si occupi di me e che io sia dimenticata, calpestata come un
 granello di arena » (St. 8). L'anima di vita interiore vuol
@@ -96,7 +96,7 @@ te l'abbandono » (cfr. T.B.G. St. 7; NV.; Lt. 84 e 81).
 
 O Signore, essere dimenticato dalle creature, lavorare
 senza che il mio lavoro venga riconosciuto, passare nel silenzio e nel nascondimento di un’umile vita in cui nulla
-emerge, nulla è Ceno di attenzione, ecco qualche cosa che
+emerge, nulla è degno di attenzione, ecco qualche cosa che
 mortifica sino in fondo il mio orgoglio. Ecco, o Signore,
 una cura energica al mio innato desiderio di farmi valere.
 
@@ -105,9 +105,9 @@ dal desiderare, come i santi, la dimenticanza, la noncuranza delle creature, io 
 
 iccole industrie per farmi notare, per mettermi in vista.
 
-fa Tu lo sai, Gesù mio, che io sono malato, e Tu lo sai
+Ma Tu lo sai, Gesù mio, che io sono malato, e Tu lo sai
 che voglio guarire, modellando la mia vita sull'esempio della tua. Solo per essere simile a te posso accettare e amare il
 nascondimento, solo per meritarmi il tuo amore, i tuoi
-sguardi, la tua tele. posso rinunciare alla benevolenza e
+sguardi, la tua dilezione. posso rinunciare alla benevolenza e
 alla stima delle creature. O Gesù, aumenta dunque il mio
 desiderio di vivere solo per te e mi sarà dolce vivere ignorato dagli uomini.

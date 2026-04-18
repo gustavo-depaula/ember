@@ -115,7 +115,7 @@ cielo e la terra son pieni dei tuoi benefizi... e sempre « dovunque tendi i lac
 Madre dolcissima, non possiamo ragionevolmente fug:
 gire, ma sempre riposiamo nel grembo della tua dolcezza »
 nd ventura). È i)
-i Matia Tu po più madre che regina! Meditando
+O Maria, Tu sei più madre che regina! Meditando
 la tua vita, tanto umile e semplice quale il Vangelo se
 la presenta, non ho alcun timore d'avvicinarmi a te. li
 lo vivere nella povertà e nel nascondimento, senza

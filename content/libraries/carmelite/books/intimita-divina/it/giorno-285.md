@@ -17,7 +17,7 @@ non acquisteremo mai la pazienza. Se, per esempio, trovandoci, per motivo di uff
 
 
 ci urta, oppure alle pes con un lavoro pesante, difficile
-© noioso, procuriamo di liberarcene al più presto sollecitando
+E noioso, procuriamo di liberarcene al più presto sollecitando
 un cambiamento, ecco che veniamo a privarci di un'occasione preziosa preparataci da Dio stesso per farci esercitare
 la virtù. In certi casi è lecito, e può essere anche doveroso,
 esporre le nostre difficoltà ai superiori e chiedere umilmente un rimedio, ma non dobbiamo mai insistere per ottenerlo
@@ -93,7 +93,7 @@ pa poterla avere. Tu sei Dio e non ti puoi ingannare; perciò come Tu scegliesti
 re anch'io per amor tuo. Quello che ora ti domando, DSi
 gnore, è dunque che Tu mi conceda di potere sperimentare
 un nudo patire che non sia mescolato ad alcuna consolazione
-© per la confidenza che ho nella tua bontà, spero che mi f:
+Per la confidenza che ho nella tua bontà, spero che mi f:
 rai qua grazia prima che muoia. 5
 «Ma, per cavar profitto dalle tribolazioni, i i
 

@@ -12,8 +12,7 @@ Dammi, o Signore, un desiderio profondo ed efficace di giustizia, affinchè poss
 tracciato la linea chiara e precisa della virtù della giustizia:
 dare a ciascuno il suo, dare ad ognuno quanto gli spetta.
 «La giustizia — conferma S. Tommaso — è la perpetua e
-costante volontà di attribuire a ciascuno il suo diritto » (1I*
-(II-II, q. 58, a. 1). A Dio il culto che gli è dovuto come Creatore, Signore, Padre nostro e quindi adorazione, onore, gloria, riconoscenza, osservanza fedele delle sue leggi, servizio
+costante volontà di attribuire a ciascuno il suo diritto » (II-II, q. 58, a. 1). A Dio il culto che gli è dovuto come Creatore, Signore, Padre nostro e quindi adorazione, onore, gloria, riconoscenza, osservanza fedele delle sue leggi, servizio
 umile e devoto. Al prossimo il rispetto dei suoi diritti, tenendo conto dei diversi doveri che abbiamo verso di lui,
 secondo che ci è superiore, uguale o inferiore.
 
@@ -33,7 +32,7 @@ fare l'elemosina, ma questa non sarebbe accetta a Dio se venisse fatta con denar
 di obbligo, non si può parlare di carità nè verso Dio, nè verso
 il prossimo. Solo partendo dalla base solida e indispensabile
 della giustizia, la carità potrà prendere lo slancio per un volo
-alto e.sicuro.
+alto e sicuro.
 
 
 2. — «Tu ami la giustizia e aborrisci l'iniquità, perciò

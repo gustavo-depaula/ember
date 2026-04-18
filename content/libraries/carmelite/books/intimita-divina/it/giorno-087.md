@@ -52,7 +52,7 @@ per il vestito? Considerate come crescono i gigli del campo... Se dunque Dio riv
 
 fione vestirà voî, o uomini di poca fede? (Mt.6, 25-30).
 Bea non ti proibisce di provvedere al tuo domani, anzi,
-per bocca dell’Apostolo ti dice: « Se uno non vuol lavorare, non deve neppure mangiare» (77 Tess. 3,10). Ma
+per bocca dell’Apostolo ti dice: « Se uno non vuol lavorare, non deve neppure mangiare» (II Tess. 3,10). Ma
 Gesù non vuole quell’affanno che t'ingolfa tutto negli
 affari temporali e che dimostra non solo attacco smoderato
 alle cose della terra, ma anche poca fiducia nella divina

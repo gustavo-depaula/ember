@@ -6,15 +6,13 @@ La tua grazia, o Dio, mi renda perseverante sino alla fine.
 
 ### Meditazione
 
-Per farci santi non basta essere coraggiosi, i
-È H ‘aggiosi, pazienti
-SSERS tutte le altre virtù per qualche giorno, is pat
-ese e neppure per qualche anno, ma bisogna durare in que-
+Per farci santi non basta essere coraggiosi, giusti, pazienti
+e possedere tutte le altre virtù per qualche giorno, e neppure per qualche anno, ma bisogna durare in que-
 
 
 sto esercizio sino alla fine, senza cedere alla stanchezza, allo
 scoraggiamento o alla mollezza. Proprio qui è il punto cruciale, perchè, come dice S. Tommaso, « applicarsi per lungo
-tempo a qualche cosa di difficile — e la virtù lo è quasi sempre — costituisce una particolare difficoltà » (I1* II°", q. 137,
+tempo a qualche cosa di difficile — e la virtù lo è quasi sempre — costituisce una particolare difficoltà » (II-II, q. 137,
 a. 1); solo superando questa difficoltà potremo giungere alla
 perfezione. Non siamo angeli, siamo uomini. L'angelo, puro
 spirito, è per sua natura stabile: presa una risoluzione, rimane fisso in essa; ma non è così di noi che, essendo com-
@@ -25,10 +23,10 @@ perfettamente costanti nel bene. Pur avendo formulato nello
 spirito propositi buoni, sentiamo sempre pesare su di noi le
 A della parte sensibile la quale rifugge dallo sforzo
 faticoso continuo e tenta perciò di liberarsene o, almeno, di
-ridurlo al minimo. Il nostro fisico va to a stanchezza,
+ridurlo al minimo. Il nostro fisico va soggetto a stanchezza,
 la sensibilità dà luogo a impressioni, a turbamenti e tutto ciò
 è occasione di continui alti e bassi: quelle stesse cose che
-poco prima ci entusiasmavano ad un tratto ci diventano antipatiche, tediose, sì da sembrarci quat impossibile poterle
+poco prima ci entusiasmavano ad un tratto ci diventano antipatiche, tediose, sì da sembrarci quasi impossibile poterle
 sopportare. Questa è la nostra condizione sulla terra, condizione cui nessun uomo può sfuggire. Eppure Dio ci chiama
 ugualmente alla santità e, poichè questa richiede un continuo
 esercizio delle virtù, Egli — che non domanda mai nulla
@@ -38,7 +36,7 @@ diventare perseveranti,
 
 
 2. — Vi sono due forme di perseveranza. La prima è così
-perfetta che non presenta alcuna încrinatura, è sempre rettilinea, sempre uguale a se stessa, anche nelle circostanze
+perfetta che non presenta alcuna incrinatura, è sempre rettilinea, sempre uguale a se stessa, anche nelle circostanze
 
 
 più difficili ed impensate. E' la perseveranza della virtù eroi-
@@ -64,8 +62,8 @@ terra! Questo, però, non è un motivo per scoraggiarci, per
 rattristarci, è invece, un motivo per umiliarci, riconoscendo la
 nostra debolezza, e per invocare con maggiore insistenza l’aiuto di Dio onde rialzarci subito e ricominciare. Data la mobi-
 lità della natura umana, la nostra perseveranza consiste praticamente in un continuo ricominciare. Questa è la perse
-veranza a cui tutti dobbiamo senz'altro arrivare, perchè dipende’ dalla nostra buona volontà, nel senso che Dio ha in-
-fuso in noi tale virtù e ci dà momento per momento la grazia sufficiente per metterla in atto. Non è în nostro potere
+veranza a cui tutti dobbiamo senz'altro arrivare, perchè dipende dalla nostra buona volontà, nel senso che Dio ha in-
+fuso in noi tale virtù e ci dà momento per momento la grazia sufficiente per metterla in atto. Non è in nostro potere
 affrancarci dall'instabilità della nostra natura e quindi non ci
 è possibile evitare qualsiasi rallentamento nel bene, qualsiasi
 
@@ -81,15 +79,15 @@ concedendoci la grazia somma della perseveranza finale.
 ### Colloquio
 
 «O Signore, sarò certamente salvo se persevererò sino alla
-fine; ma questa everanza deve essere virtuosa per meritare la salvezza; te mi viene la virtù che mi salva, sei Tu
+fine; ma questa perseveranza deve essere virtuosa per meritare la salvezza; se mi viene la virtù che mi salva, sei Tu
 
 
 che mi fai perseverare sino a raggiungere la salvezza.
 
 «Ecco che adesso io sono ancora in battaglia: battaglia
-di fuori con falsi virtuosi, battaglia di dentro con le mie concupiscenze. AI considerare in quante piccole miserie cado
+di fuori con falsi virtuosi, battaglia di dentro con le mie concupiscenze. Al considerare in quante piccole miserie cado
 
-i giorno, non fosse altro con pensieri e con parole, mi
+ogni giorno, non fosse altro con pensieri e con parole, mi
 avvedo che il loro numero è ben grande e che da questo
 gran numero di cose piccole si vien formando un grosso mue
 chio. Infelice me! chi mi libererà da questo corpo di morte?
@@ -99,10 +97,10 @@ dunque, di questa guerra levo lo sguardo alla tua grazia e
 nell'ardore e nell'arsura che già ho cominciato a sentire, invoco la tua ombra vivificatrice.
 
 « Assistimi, o Signore Gesù, per ripetermi: * Non stancarti per la via stretta: io vi son passato prima di te; io sono
-la via stessa; sono io la guida e piglio su di me chi conduco e lo conduco fino a me'» (S. porno)
+la via stessa; sono io la guida e piglio su di me chi conduco e lo conduco fino a me'» (S. Agostino)
 
 « Concedimi, o Dio eterno, la virtù della perseveranza senza la quale nessuno può piacerti nè esserti accetto. Questa
-virtù porta nell'anima l'abbondanza della carità e il- frutto
+virtù porta nell'anima l'abbondanza della carità e il frutto
 di ogni fatica. Oh, quanto sarò beata se Tu, Signore, mi darai questa virtù, perocchè fin da quaggiù mi farà gustare
 un'arra di vita eterna. Ma la tua luce mi mostra che non
 posso giungere a tanto senza molto patire, perchè questa vita non passa senza fatica; e chi volesse fuggire la fatica fug-

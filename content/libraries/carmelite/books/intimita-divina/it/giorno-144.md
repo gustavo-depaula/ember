@@ -7,102 +7,22 @@
 
 ### Meditazione
 
-1. — Nelle Messe della settimana di Pasqua il Vanpelo racconta le varie apparizioni di Gesù risorto, di cui
-la prima e una delle più commoventi, è quella a Ma
-Maddalena (Gv. 20, 11-18). Anche in questo episodio
-Maria appare con la sua inconfondibile caratteristica di
-anima totalmente presa dall'amore di Dio. Giunta al sepolcro, appena «vista la pietra rimossa» un solo pensiero
-la preoccupa: «Hanno levato dal sepolero il Signore», chi
-l'avrà preso? dove l'avranno posto? E lo dice a tutti quelli che incontra, supponendo in tutti un'ansia pari alla
-sua: lo dice a Pietro e a Giovanni che corre ad avverti
-re, lo dice agli Angeli, lo dice perfino a Gesù. Le altre
-donne, visto il sepolcro aperto, vi entrano per rendersi
-conto dell'accaduto, lei scappa via in fretta a portare Ja
-notizia agli Apostoli. E poi torna: che cosa farà accanto a
-quella tomba vuota? Non lo sa, ma il suo amore la porta
-e la tiene lì, dove era stato posto il Corpo del Maestra
-che lei vuol ritrovare ad ogni costo.
+1. — Nelle Messe della settimana di Pasqua il Vangelo racconta le varie apparizioni di Gesù risorto, di cui la prima e una delle più commoventi, è quella a Maria Maddalena (Gv. 20, 11-18). Anche in questo episodio Maria appare con la sua inconfondibile caratteristica di anima totalmente presa dall'amore di Dio. Giunta al sepolcro, appena «vista la pietra rimossa» un solo pensiero la preoccupa: «Hanno levato dal sepolcro il Signore», chi l'avrà preso? dove l'avranno posto? E lo dice a tutti quelli che incontra, supponendo in tutti un'ansia pari alla sua: lo dice a Pietro e a Giovanni che corre ad avvertire, lo dice agli Angeli, lo dice perfino a Gesù. Le altre donne, visto il sepolcro aperto, vi entrano per rendersi conto dell'accaduto, lei scappa via in fretta a portare la notizia agli Apostoli. E poi torna: che cosa farà accanto a quella tomba vuota? Non lo sa, ma il suo amore la porta e la tiene lì, dove era stato posto il Corpo del Maestro che lei vuol ritrovare ad ogni costo.
 
+Vede gli Angeli, ma non si meraviglia e non si sgomenta come le altre donne: è talmente presa dal suo amore che nel suo animo non vi è posto per altre emozioni. E quando gli Angeli la interrogano: «Donna, perchè piangi?», lei ha una sola risposta: «Hanno preso il Signore e non so dove l'abbiano posto». Poco dopo Gesù le rivolge la stessa domanda e Maria, sempre fissa nel suo pensiero, non lo riconosce neppure, ma «credendolo l'ortolano» le dice: «Signore, se tu l'hai portato via, dimmi ove l'hai messo ed io lo prenderò». La preoccupazione di ritrovare Gesù è talmente dominante in lei da non sentire neppure il bisogno di nominarlo, le sembra che tutti debbano pensare a Lui, che tutti debbano capirla a volo, come se in tutti vi fosse uno stato d'animo simile al suo.
 
-Vede gli Angeli, ma non si meraviglia e non si sgomenta come le altre donne: è talmente presa dal sio
-lore che nel suo animo non vi è posto per altre emozioni
-E quando gli Angeli la interrogano: « Donna, perchè iam
-gi?», lei ha una sola risposta: « Hanno preso il su Si
-gnore e non so dove l'abbiano posto». Poco dopo Gesù
-le rivolge la stessa domanda e Maria, sempre fissa nel
-suo pensiero, non lo riconosce neppure, ma «credendolo
-l'ortolano » li dice: «Signore, se tu l'hai portato via,
-dimmi ove l'hai messo ed io lo prenderò ». La preoccu È
-zione di ritrovare Gesù è talmente dominante in lei ds
-non sente neppure il bisogno di nominarlo, le sembra che
-tutti debbano pensare a Lui, che tutti debbano capirla a volo,
-come se in tutti vi fosse uno stato d'animo simile al suo.
+Quando l'amore e il desiderio di Dio ha preso pieno possesso di un'anima, non rimane in lei più posto per altri amori, per altri desideri, per altre preoccupazioni. Tutti i suoi movimenti sono orientati a Dio e, attraverso tutte le cose, l'anima non fa che cercare Dio solo.
 
-Quando l'amore e il desiderio di Dio ha preso pieno
-possesso di un'anima, non rimane in lei più posto per altri amori, per altri desideri, per altre reoccupazioni. Tutti i suoi movimenti sono orientati a Dio e, attraverso tutte le cose, l'anima non fa che cercare Dio solo.
+2. — «Se l'anima cerca Dio, molto più il Signore cerca lei» (G.C. F. 3, 28). Maria ha tanto grande amore ed ecco che il Signore stesso la cerca, e la cerca chiamandola: «Maria!». Benchè risorto e glorioso, Gesù è sempre il buon Pastore che conosce le sue pecorelle, le conosce ad una ad una e «le chiama per nome e le pecore lo seguono perchè ne conoscono la voce» (Gv. 10, 3 e 4). Chiamata per nome, la donna riconosce il Signore ed esclama: «Rabboni! Maestro».
 
+Maria è ancora una volta ai piedi di Gesù, il suo posto preferito. Il nostro pensiero la rivede nello stesso atteggiamento a Betania mentre Marta si affanna a preparare il pranzo; la rivede in casa di Simone il lebbroso e, quando, il sabato antecedente la passione, spezza il vaso d'unguento prezioso ai piedi di Gesù e poi li bagna con le sue lacrime e li asterge coi suoi capelli; la rivede ai piedi della Croce dove non vuole staccarsi dal divin Crocifisso. E' sempre lo stesso amore ardente, che la rende dimentica e noncurante di tutto. Maria cerca solo il Signore, vuole Lui solo, il resto non l'interessa e non la riguarda. Ancora una volta vorrebbe stringere quei piedi benedetti e rimanersene lì in amorosa contemplazione, ma Gesù soavemente le dice: «Non mi toccare!».
 
-2. — «Se l'anima cerca Dio, molto più il
-Signore cerca lei» (G.C. F. 3, 28). Maria ha past
-grande amore ed ecco che il Signore stesso la cerca, e la
-cerca chiamandola: «Maria!». Benchè risorto e glorioso,
-Gesù è sempre il buon Pastore che conosce le sue pe
-corelle, le conosce ad una ad una e «le chiama per nome
-e le pecore lo seguono perchè ne conoscono la voce»
-(Gv, 10, 3 e 4). Chiamata per nome, la donna riconosce
-il Signore ed esclama: «Rabboni!, Maestro».
+Senza dubbio, il Signore si rivela e si dona all'anima che lo cerca, ma nello stesso tempo rimane sempre Dio, l'Altissimo, l'Inaccessibile: «Non mi toccare!». Benchè ammessa all'intimità divina, l'anima non deve perdere il senso della trascendenza di Dio, dell'infinita distanza che passa tra la creatura e il Creatore, fra colei che non è, e Colui che è. Anzi, più l'anima si avvicina a Dio, tanto più si rende conto di questa infinita distanza, e insieme alla confidenza e all'amore nasce in lei un profondo senso di riverenza di fronte alla Somma Maestà di Dio.
 
-Maria è ancora una volta ai piedi di Gesù, il suo po
-sto preferito. Il nostro pensiero la rivede nello stesso at
-teggiamento a Betania mentre Marta si affanna a preparare il pranzo; la rivede in casa di Simone il lebbroso
-ppando, il sabato antecedente la passione, spezza il vaso
-1 unguento prezioso ai piedi di Gesù e poi li bagna con
-le sue lacrime e li asterge coi suoi capelli; la rivede ai
-
-
-DI - CHI CERCHI?
-
-
-piedi della Croce dove non vuole staccarsi dal divin Crocifisso. E' sempre lo stesso amore ardente, che la rende
-dimentica e noncurante di tutto. Maria cerca solo il Signore, vuole Lui solo, il resto non l'interessa e non la riguarda. Ancora una volta vorrebbe stringere quei piedi benederti e rimanersene lì in amorosa contemplazione, ma
-Gesù soavemente le dice: « Non mi toccare! ».
-
-Senza dubbio, il Signore si rivela e si dona all'anima
-che lo cerca, ma nello stesso tempo rimane sempre Dio,
-l'Altissimo, l'Ina bile: « Non mi toccare! ». Benchè ammessa all’intimità divina, l'anima non deve perdere il senso della trascendenza di Dio, dell'infinita distanza che pas
-sa tra la creatura e il Creatore, fra colei che non è, e Colui che è. Anzi, più l'anima si avvicina a Dio, tanto più si
-rende conto di questa infinita distanza, e insieme alla confidenza e all'amore nasce in lei un profondo senso di riverenza di fronte alla Somma Maestà di Dio.
-
-« Chi cerchi? ». Anima devota, a te, come a Maria Maddalena, Gesù oggi rivolge questa domanda, e tu puoi ri
-spondergli che cerchi Lui solo? Prima che alle altre pie
-donne Gesù è apparso a Maria «che molto l'amava ». Se
-vuoi trovare presto il Signore amalo molto e cercalo con
-grande amore.
+«Chi cerchi?». Anima devota, a te, come a Maria Maddalena, Gesù oggi rivolge questa domanda, e tu puoi rispondergli che cerchi Lui solo? Prima che alle altre pie donne Gesù è apparso a Maria «che molto l'amava». Se vuoi trovare presto il Signore amalo molto e cercalo con grande amore.
 
 ### Colloquio
 
-«O Signore Gesù Cristo, quanto buona e felice cosa
-e quanto desiderabile è il sentire la violenza del tuo amore!
-Ogni giorno, deh! illustra il mio petto coi raggi d'un tanto
-amore, sana le tenebre della mente, illumina i segreti del
-cuore, impingua la mente, accendila, ed esilara e corrobora
-l'animo! Oh, quanto dolce è la tua misericordia, quanto
-grande è la soavità del tuo amore, o Signore Gesù Cristo, largitore dell'amore, la cui soavità fe coloro i quali nient'altro amano e nulla neppure bramano di pensare,
-all'infuori di te! Prevenendoci, ‘Tu ci inviti al tuo amore,
-ci rapisci ed attrai, tanta è la violenza del tuo amore. Non
+«O Signore Gesù Cristo, quanto buona e felice cosa e quanto desiderabile è il sentire la violenza del tuo amore! Ogni giorno, deh! illustra il mio petto coi raggi d'un tanto amore, sana le tenebre della mente, illumina i segreti del cuore, impingua la mente, accendila, ed esilara e corrobora l'animo! Oh, quanto dolce è la tua misericordia, quanto grande è la soavità del tuo amore, o Signore Gesù Cristo, largitore dell'amore, la cui soavità fe' coloro i quali nient'altro amano e nulla neppure bramano di pensare, all'infuori di te! Prevenendoci, Tu ci inviti al tuo amore, ci rapisci ed attrai, tanta è la violenza del tuo amore. Non v'ha nulla che maggiormente inviti, rapisca ed attragga ad amare, che il prevenire nell'amore; poichè l'animo che prima intorpidiva, quando si sente preamato, si eccita; e se già ferveva, quando sa d'essere amato e d'essere stato preamato, maggiormente s'accende.
 
-
-v'ha nulla che maggiormente inviti, rapisca ed attragga
-ad amare, che il prevenire nell'amore; poichè l'animo che
-prima intorpidiva, quando si sente preamato, si eccita; e
-se già ferveva, quando sa d'essere amato e d'essere stat)
-preamato, maggiormente s’accende.
-
- « O amantissimo Signore Gesù Cristo, benchè Tu m'abbia amato indicibilmente, io tuttavia, empio peccatore, sei
-rando in petto un cuore lapideo e ferreo, non riconobbi
-in me il tuo infuocato amore; e, benchè desiderassi la tua
-dilezione, non volli però amarti. Degnati, dunque, di por
-germi aiuto, o piissimo Signore Gesù Cristo, e con la vi
-Jenza del tuo dolcissimo amore obbliga il ribelle animo mio
-ad amarti, affinchè a te placidamente serva, ed ottenga la
-vita sempiterna dell'amore» (Ven. Raimondo Giordano).
+«O amantissimo Signore Gesù Cristo, benchè Tu m'abbia amato indicibilmente, io tuttavia, empio peccatore, serbando in petto un cuore lapideo e ferreo, non riconobbi in me il tuo infuocato amore; e, benchè desiderassi la tua dilezione, non volli però amarti. Degnati, dunque, di porgimi aiuto, o piissimo Signore Gesù Cristo, e con la violenza del tuo dolcissimo amore obbliga il ribelle animo mio ad amarti, affinchè a te placidamente serva, ed ottenga la vita sempiterna dell'amore» (Ven. Raimondo Giordano).

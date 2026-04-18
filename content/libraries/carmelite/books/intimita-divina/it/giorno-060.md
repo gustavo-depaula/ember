@@ -24,8 +24,7 @@ volontà di Chi mi ha inviato... Non cerco la mia volontà,
 ma la volontà di Chi mi ha mandato » (Gv. 6, 38; 5,30).
 Così Gesù stesso ci rivela le disposizioni dell'Anima sua,
 il motivo profondo delle sue azioni, la regola che lo guida
-in tutta la vita, fino alla sua dolorosissima Passione quando, pur sentendo le ripugnanze della sua natura umana, ri-
-pete: «Padre, si faccia non la mia, ma la tua volontà »
+in tutta la vita, fino alla sua dolorosissima Passione quando, pur sentendo le ripugnanze della sua natura umana, ripete: «Padre, si faccia non la mia, ma la tua volontà »
 (Lc. 22,42).
 
 

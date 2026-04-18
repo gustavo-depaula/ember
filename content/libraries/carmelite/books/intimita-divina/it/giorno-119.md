@@ -97,7 +97,7 @@ Hicondere per te » (cfr. S. Bernardo).
 
 
 Sì, o Gesù, concedimi di seguirti nella via dell’obbedienza, concedimi un profondo spirito di fede per poter
-sempre riconoscere fetta voce dell’obbedienza la voce tua,
+sempre riconoscere nella voce dell’obbedienza la voce tua,
 la volontà tua. « Insegnami, o Signore, ad abbandonarmi
 fiduciosamente alla tua parola: “Chi ascolta voi, ascolta
 me ?, Insegnami a dimenticare ogni mia volontà, sacrificio

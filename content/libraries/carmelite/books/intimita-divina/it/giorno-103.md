@@ -1,5 +1,5 @@
 ## 103 — LA TRASFIGURAZIONE
-*IT domenica di Quaresima*
+*II domenica di Quaresima*
 
 ### Presenza di Dio
 

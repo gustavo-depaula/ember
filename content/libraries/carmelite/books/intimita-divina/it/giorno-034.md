@@ -93,7 +93,7 @@ sono molti e che nel palesarteli proviamo sollievo, c’incoraggi a domandare, p
 «Ma che cosa ti potrà mai domandare una creatura
 così miserabile come me? Ti dirò con S. Agostino: ‘Dammi, o mio Dio, di che darti onde soddisfi, almeno in parte,
 al molto che ti devo”. Ricordati che sono tua creatura e
-dammi di conoscere il mio Creatore affinchè possa amarlo » (T.G. Es.3,162; 5,1e2).
+dammi di conoscere il mio Creatore affinchè possa amarlo » (T.G. Es. 3, 16 e 2; 5, 1 e 2).
 
 Ma purtroppo, Signore, sono io che non ricordo, che
 non corrispondo abbastanza ai tuoi doni infiniti!

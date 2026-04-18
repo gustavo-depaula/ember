@@ -7,7 +7,7 @@ O Gesù, nella tua potenza, nel tuo amore infinito, nella tua Passione ripongo o
 
 ### Meditazione
 
-1 — «Chiamate a raccolta le genti; annunziate ai pooli e dite: Ecco viene Dio, il nostro Salvatore » (BR).
+1 — «Chiamate a raccolta le genti; annunziate ai popoli e dite: Ecco viene Dio, il nostro Salvatore » (BR).
 Il messaggio si fa sempre più pressante: tra pochi giorni
 
 il Verbo di Dio fatto carne si mostrerà al mondo. Bisogna
@@ -20,7 +20,7 @@ amato di un amore eterno; perciò ti ho attirato a me pieno
 di compassione » (Ger. 31, 3). Sì, Dio ha amato l’uomo fin
 dall’eternità e per attirarlo a sè non ha esitato a mandargli
 il «suo Figlio in carne simile a quella del peccato » (Rom.
-$,3). All’Amore, che sta per apparire «incarnato » nel
+8, 3). All’Amore, che sta per apparire «incarnato » nel
 dolce Bambino Gesù, bisogna andare incontro con un
 cuore pieno d'amore, dilatato dall'amore. Sia amore fedele
 nelle grandi e nelle piccole cose, amore ingegnoso che di
@@ -41,7 +41,7 @@ via del Signore ».
 
 È soprattutto un invito all'umiltà di cui Giovanni è
 non solo banditore, ma modello. Sebbene, per testimonianza di Gesù stesso, egli sia «più che profeta... il più
-grande tra i nati di donna » (Mt. 11,911), Giovanni non
+grande tra i nati di donna » (Mt. 11, 9-11), Giovanni non
 si riconosce altro che una semplice voce, «voce che grida
 nel deserto: raddrizzate la via del Signore » e dichiara di
 battezzare unicamente nell'acqua, mentre un altro verrà
@@ -64,7 +64,7 @@ posto in esso riservato al dolce Bambino di Betleem.
 
 ### Colloquio
 
-© Dio immenso, onnipotente ed eterno, come potevi
+O Dio immenso, onnipotente ed eterno, come potevi
 darci maggior prova del tuo infinito amore per noi, povere
 creature tue, che donandoci il Verbo, tuo Unigenito? Per
 
@@ -77,8 +77,7 @@ perfetta della tua sostanza!
 di corruzione e di tenebre. Di questo dono qual'è la causa?
 L'amore. Perchè Tu ci amasti prima che noi fossimo.
 
-«O Grandezza eterna! O grandezza di bontà! Ti abbassasti; ti facesti piccola per far l’uomo grande. Da qua-
-lunque lato io mi volti, non trovo che abisso e fuoco della
+«O Grandezza eterna! O grandezza di bontà! Ti abbassasti; ti facesti piccola per far l’uomo grande. Da qualunque lato io mi volti, non trovo che abisso e fuoco della
 tua carità » (S. Caterina da Siena).
 
 «Quando penso a Cristo, debbo sempre ricordarmi...

@@ -6,7 +6,7 @@
 
 ### Meditazione
 
-1 — S, Teresa di Gesù insegna: «Per poco che uno
+1 — S. Teresa di Gesù insegna: «Per poco che uno
 sia attaccato all’onore, non può avanzarsi in virtù senza
 prima liberarsene », perchè « dove regnano i punti d'onore
 non si arriverà mai al pieno distacco, nè a godere il vero
@@ -51,7 +51,7 @@ ci sembra di esser pronti a sopportare qualsiasi umiliazione
 e disprezzo, ma dobbiamo esaminare qual'è, all’atto pratico, la nostra condotta di fronte a tutto ciò che urta il
 nostro amor proprio, E allora non sarà difficile constatare
 che «per poco che ci tocchino nell’onore, non sappiamo
-po reggere e ci sembra di non dover più reggere» (T.G.
+più reggere e ci sembra di non dover più reggere» (T.G.
 Dam. 16, 11). Queste reazioni più 0 meno vivaci della nostra suscettibilità ci dicono chiaramente che siamo ben
 lontani dall'aver messo sotto i piedi i punti d’onore; e il
 prendere coscienza di tale deficienza sarà il punto di partenza per correggercene, perchè il maggior ostacolo al-
@@ -77,7 +77,7 @@ che distrarci dal nostro ideale di unione con Dio, ci faranno perdere la pace in
 brighe troppo umane, che spesso ci saranno occasione di
 frequenti mancanze di carità e anche di giustizia verso il
 prossimo, giacchè è ben difficile, per non dire impossibile,
-difendere 1 propri diritti, senza offendere poco o tanto
+difendere i propri diritti, senza offendere poco o tanto
 i diritti altrui.
 
 ### Colloquio
@@ -99,16 +99,16 @@ Tu, o Signore, ti unisci solo con le anime che rinnegano
 se stesse e non hanno paura di perdere i propri diritti »
 (T.G. Cam. 36, 5 € 6; 16, 11; Vi. 31, 22).
 
-O Gesù, concedimi Ja grazia di far consistere il mio
+O Gesù, concedimi la grazia di far consistere il mio
 onore soltanto nell’unirmi intimamente a te, nel cercare
 di rendermi il più possibile simile a te che, essendo Dio e
 avendo il diritto di essere trattato e onorato come Dio,
 hai voluto essere trattato come l’ultimo degli uomini. Tu
-non hai voluto per te altro diritto, fuorchè quello di adempiere la olo del Padre, di morire in croce per la sua
+non hai voluto per te altro diritto, fuorchè quello di adempiere la volontà del Padre, di morire in croce per la sua
 
 
 gloria e per la nostra salvezza. Davanti al tuo esempio,
-come comprendo meglio la meschinità del mio amor propaio che, per la difesa di sciocchi diritti, si perde in tante
+come comprendo meglio la meschinità del mio amor proprio che, per la difesa di sciocchi diritti, si perde in tante
 
 righe, in tante contese vane... O Signore, perchè dovrò
 ridurmi a strisciare per terra tra i rovi spinosi delle mie

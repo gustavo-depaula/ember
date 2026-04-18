@@ -1,4 +1,4 @@
-## 118 — IL VALORE DELL’ OBBEDIENZA
+## 118 — IL VALORE DELL'OBBEDIENZA
 
 ### Presenza di Dio
 
@@ -6,7 +6,7 @@
 
 ### Meditazione
 
-1 — «Il Signore — insegna $. Giovanni della Croce
+1 — «Il Signore — insegna S. Giovanni della Croce
 — preferisce da te il minimo grado di obbedienza e sottomissione che non tutti i servigi che pensi di prestargli »
 (AM.I, 13). Perchè? Perchè l'obbedienza ti fa rinunciare
 alla tua volontà per aderire alla volontà di Dio, espressa
@@ -60,7 +60,7 @@ più è stretta la forma di obbedienza cui sei sottoposto,
 ossia più essa tende ad abbracciare non solo qualche
 particolare, ma tutta la tua vita, tanto più intenso sarà
 questo esercizio e maggiormente ti farà entrare nella
-volontà di Dio, Questo è il grande valore dell’obbedienza: mettere la vita dell’uomo nella volontà di Dio, dare
+volontà di Dio. Questo è il grande valore dell’obbedienza: mettere la vita dell’uomo nella volontà di Dio, dare
 all'uomo, in ogni circostanza, la possibilità di regolarsi
 non secondo la sua volontà, tanto debole, fragile, soggetta all’errore, tanto limitata e cieca, ma secondo la
 volontà di Dio, così buona, perfetta e santa che non

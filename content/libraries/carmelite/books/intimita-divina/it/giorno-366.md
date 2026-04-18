@@ -3,20 +3,20 @@
 
 ### Presenza di Dio
 
-— O Signore, concedi l'eterno riposo alle anime dei defunti e fa' che il pensiero della morte mi spinga a maggiore generosità.
+O Signore, concedi l'eterno riposo alle anime dei defunti e fa' che il pensiero della morte mi spinga a maggiore generosità.
 
 ### Meditazione
 
 1 — «La Chiesa, nostra buona madre, dopo avere
 esaltato con degne lodi i suoi figli che già godono in cielo, vuole soccorrere le anime che ancora soffrono nel luogo di purificazione e per esse intercede con tutte le forze presso il Signore e suo Sposo Cristo, perchè quanto
 pra possano raggiungere la comunità degli eletti in cieo». Così leggiamo nel Martirologio romano. Ieri abbiamo contemplato la gloria della Chiesa trionfante e ne abbiamo invocato l'intercessione, oggi contempliamo le pene espiatrici della Chiesa purgante e sollecitiamo per es
-il soccorso divino: «l’eterno riposo dona loro, o Signore». È il dogma della comunione dei santi in atto: la
+il soccorso divino: «l'eterno riposo dona loro, o Signore». È il dogma della comunione dei santi in atto: la
 Chiesa trionfante intercede per noi, Chiesa militante, e
 noi, a nostra volta, corriamo in aiuto della Chiesa purgante. La morte ci ha strappato persone care e tuttavia
 non ci può essere vera separazione da coloro che sono
 spirati nel bacio del Signore; il vincolo della carità continua ad unirci tutti, stringendo in un unico abbraccio
 terra, cielo e purgatorio, sì che da queste tre sponde
-cola l’aiuto fraterno, frutto di amore, e che mira al trionfo dell'amore nella gloria comune del Paradiso.
+cola l'aiuto fraterno, frutto di amore, e che mira al trionfo dell'amore nella gloria comune del Paradiso.
 
 La liturgia del giorno è soffusa di tristezza, ma non
 è la tristezza di quelli «che non hanno speranza » (/ Tess.
@@ -43,7 +43,7 @@ fe loro opere infatti tengono loro dietro » (Ep. Ill Messa:
 Ap.14, 13). Muore la vita del corpo, muore ciò che è
 umano e terreno, ma resta la vita dello spirito, restano
 le opere buone compiute, unico appannaggio che segue
-l’anima nel grande passo e rende preziosa la sua morte:
+l'anima nel grande passo e rende preziosa la sua morte:
 «Preziosa al cospetto del Signore la morte dei suoi santi». Questa morte è stata giustamente definita dies ratdlis,
 il giorno natalizio alla vita eterna. Come vorremmo che
 tale fosse la nostra morte! Dies matalis che ci introduce
@@ -53,10 +53,10 @@ Ma proprio oggi la liturgia, invitandoci a pregare per
 i fedeli defunti, ci ricorda che tra la morte e la beatitudine eterna vi è il purgatorio. Appunto perchè le nostre
 opere ci seguono e nom sono tutte opere buone 0, anche
 
-se buone, sono piene di imperfezioni e*di difetti, è necessario che l’anima, prima di essere ammessa alla visione
+se buone, sono piene di imperfezioni e*di difetti, è necessario che l'anima, prima di essere ammessa alla visione
 di Dio, venga purificata da tutte le sue scorie, Eppure,
 se fossimo perfettamente fedeli alla grazia, il purgatorio
-non sarebbe necessario. Fin da quaggiù Dio s’incarica di
+non sarebbe necessario. Fin da quaggiù Dio s'incarica di
 purificare coloro che si danno totalmente a lui, che si lasciano lavorare e plasmare a suo piacimento, Di più, mentre nel purgatorio si soffre senza crescere nell'amore, la
 purificazione compiuta sulla terra ha il grande vantaggio
 di essere meritoria, ossia di aumentare in noi la grazia c
@@ -66,12 +66,12 @@ non dobbiamo illuderci: anche su questa terra la purificazione totale richiede g
 croce, la nostra purificazione dovrà necessariamente compiersi nel purgatorio.
 
 Il pensiero di questo luogo di espiazione ci renda zelanti nel suffragare le anime dei defunti, e nello stesso
-tempo ci renda coraggiosi nell’abbracciare il patire in riparazione delle nostre colpe,
+tempo ci renda coraggiosi nell'abbracciare il patire in riparazione delle nostre colpe,
 
 ### Colloquio
 
 «Concedimi, o Signore, che alla morte dei mici cari
-io provi un’afflizione ragionevole, versando lacrime rassegnate sulla nostra condizione mortale, presto represse dal
+io provi un'afflizione ragionevole, versando lacrime rassegnate sulla nostra condizione mortale, presto represse dal
 consolante pensiero della fede, la quale mi dice che i fedeli, morendo, si allontanano solo un poco da noi per andare a star meglio.
 
 «Fa che sia lungi da me il rattristarmi alla maniera
@@ -83,19 +83,19 @@ consolatore; ivi dimori Tu, che nelle promesse non falli »
 (S. Agostino).
 
 «O Padrone e Creatore dell'universo, Signore della
-vita e della morte, Tu conservi e colmi di benefici le nostre anime: Tu compi e trasformi ogni cosa con l’opera
+vita e della morte, Tu conservi e colmi di benefici le nostre anime: Tu compi e trasformi ogni cosa con l'opera
 del tuo Verbo, nell'ora stabilita e secondo il piano della
 tua sapienza; accogli oggi i nostri fratelli defunti e dona
-loro l’eterno riposo.
+loro l'eterno riposo.
 
 «Possa Tu accoglierci a nostra volta, nel momento
 che ti piacerà, dopo che ci avrai guidati e lasciati nella
 carne per il tempo che ti sembrerà utile e salutare.
 
 papi: Tu accoglierci preparati dal tuo timore, senza
-turbamento e senza esitazione, nell’ultimo giorno. Fa” che
+turbamento e senza esitazione, nell'ultimo giorno. Fa” che
 non lasciamo con pena le cose della terra, come avviene
-a coloro che sono troppo attaccati al mondo e alla carne: fa’ che muoviamo decisi e felici verso la vita lunga
+a coloro che sono troppo attaccati al mondo e alla carne: fa' che muoviamo decisi e felici verso la vita lunga
 e beata, che è in Cristo Gesù, Signor nostro, al quale
 spetta la gloria nei secoli dei secoli. Amen » (S. Gregorio
 Nazianzeno),

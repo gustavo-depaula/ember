@@ -68,7 +68,7 @@ estrema debolezza.
 
 ### Colloquio
 
-«0 Signore, Dio degli eserciti, che nel tuo Vangelo
+«O Signore, Dio degli eserciti, che nel tuo Vangelo
 dicesti: NNon sono venuto a portare la pace, ma la guerra’,
 dammi la forza e le armi per la lotta. Io ardo dal desiderio di
 combattere per la tua gloria, ma, te ne supplico, fortifica il mio coraggio. Allora col santo re Davide potrò esclamare: “Tu

@@ -30,7 +30,7 @@ riflesso di quella posseduta da Gesù, grazia che i teologi
 chiamano «infinita ».
 
 Se, dunque, Gesù possiede la grazia in maniera infinita,
-sî può dire che lo Spirito Santo si compiace nell'anima di
+sì può dire che lo Spirito Santo si compiace nell'anima di
 Cristo in un modo infinito e vi dimora come nel suo tempio
 preferito. Appunto così si esprime l’Enciclica Mystici Corporis, affermando che il divino Paraclito « pone le sue delizie
 nell’abitare nell'anima del Redentore come nel suo tempio

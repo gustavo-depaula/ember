@@ -2,7 +2,7 @@
 
 ### Presenza di Dio
 
-— Insegnami, 0 Signore, ad agire virilmente confidando in te.
+— Insegnami, O Signore, ad agire virilmente confidando in te.
 
 ### Meditazione
 
@@ -33,7 +33,7 @@ d’incorrere nella disgrazia del suo re e seppe affrontare con coraggio anche i
 sul male e sul demonio, Gesù ha tracciato l'elogio dell’uomo
 
 
-forte: «Quando un uomo forte, ben armato, custodisce l’ingresso di casa sua, quanto egli possiede è al sicuro» (Le.
+forte: «Quando un uomo forte, ben armato, custodisce l’ingresso di casa sua, quanto egli possiede è al sicuro» (Lc.
 11, 21). E' l'immagine dell'anima che ha la virtù della fortezza: essa è bene armata e nessuna lotta, nessuna tentazione,
 nessun ostacolo può spaventarla, anzi, malgrado tutto ciò,
 rimane sicura e tranquilla poichè trae la sua forza da Dio
@@ -42,7 +42,7 @@ stesso.
 
 2. — «Sua Maestà — scrive S. Teresa d'Avila — vuole
 anime coraggiose, ed è loro molto amico, purchè camminino
-con umiltà, eifidando sempre di se stesse » (Vi. 13, 2). La fortezza cristiana non è temerarietà nè presunzione delle proprie
+con umiltà, diffidando sempre di se stesse » (Vi. 13, 2). La fortezza cristiana non è temerarietà nè presunzione delle proprie
 forze, ma si basa su Dio e sui grandi doni che Egli ha elargito all'uomo. Se l'uomo è nulla per se stesso, è però grande
 per quel che Dio l'ha fatto e gli ha donato, per la dignità altissima che gli ha conferito: nell'ordine naturale è stato preposto al governo del mondo, tutte le altre creature gli sono
 state sottoposte ed egli deve servirsene per meglio conoscere
@@ -54,7 +54,7 @@ per corroborare la sua volontà, onde renderlo capace di adempiere tutti i dover
 assieme alle altre virtù infuse, ha ricevuto la virtù della fortezza, partecipazione della fortezza divina, depositata nell’anima sua come un germe capace di svilupparsi fino a piena
 perfezione. Nei doni naturali e soprannaturali ricevuti da
 Dio, nella dignità altissima cui l’uomo è stato da Dio innalzato, sta quindi il fondamento della fortezza cristiana. Se siamo deboli, ciò non proviene da insufficienza dei doni divini,
-ma dalla nostra insufficienza, ossia dal non aver traflicato abbastanza i talenti di natura e di grazia che il Signore ci ha
+ma dalla nostra insufficienza, ossia dal non aver trafficato abbastanza i talenti di natura e di grazia che il Signore ci ha
 
 dati. E, se siamo forti, il merito non è nostro, ma di Dio che ci
 ha reso tali. Il cristiano è umile nella sua fortezza perchè

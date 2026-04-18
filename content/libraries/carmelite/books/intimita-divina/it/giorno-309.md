@@ -21,7 +21,7 @@ allo stato di grazia?
 
 Slanciamo, dunque, le nostre anime a grandi desideri
 no, non è troppo, non è temerario, non è presunzione; Dio
-lo vuole: «voluntas Dei santificatio vestra» (I Tes. 43),
+lo vuole: «voluntas Dei santificatio vestra» (I Tes. 4, 3),
 questa è la volontà di Dio, la santificazione nostra! Ma, per
 chè i nostri desideri non siano vani, applichiamoci con generosità sempre crescente a disporre l’anima nostra all’azio-
 ne dello Spirito Santo. Persuadiamoci che, prima di farci
@@ -30,12 +30,12 @@ compiere in noi un'opera di profonda purificazione, perchè
 come il legno verde non può essere penetrato dal fuoco se
 rima non è disseccato e purgato da tutti i suoi umori, così
 anima non può essere investita e trasformata dal fuoco dell'amore divino se prima non è purificata da tutte le sue im-
-perfezioni. Disponiamoci, quindi, a subire con coraggio questa purificazione indispensabile, anzi, cerchiamo noî stessi
+perfezioni. Disponiamoci, quindi, a subire con coraggio questa purificazione indispensabile, anzi, cerchiamo noi stessi
 di anticiparla tagliando senza pietà tutti i fili che ancora ci
 legano alla terra e, soprattutto, quelli che ci legano al nostro
 amor proprio; al nostro orgoglio. « O umiltà, umiltà!... — esclama Teresa di Gesù — il torto di coloro che non vanno
 avanti [nelle vie dello spirito], sta tutto qui», nella mancanza di umiltà, « perché l'umiltà è il fondamento dell'edi-
-ficio e non mai il Signore lo eleverà di molto se detta virtà
+ficio e non mai il Signore lo eleverà di molto se detta virtù
 non sarà veramente ben salda » (M. III, 1, 7; 2, 8; VII, 4, 8).
 
 
@@ -47,7 +47,7 @@ fesa:
 
 «Veni, Creator Spiritus...
 Accende lumen sensibus - infunde amorem cordibus,
-infirma nostri corporis - virtute firmans perpeti 3.
+infirma nostri corporis - virtute firmans perpeti.
 
 
 Nell'oscurità dei nostri sensi, abbiamo bisogno di luce interiore: che il Divino Spirito venga e, accendendo in noi que-
@@ -56,20 +56,20 @@ carità: che Egli venga e l'infonda nei nostri cuori spesso
 tanto aridi e freddi, perchè pieni di amor proprio e di egoismo. «L'amore divino s'è riversato nei nostri cuori per lo
 Spirito Santo» (Rom. 5, 5), solo da lui possiamo riceverlo!
 Abbiamo bisogno di fortezza per vincere noi stessi, per affrontare le difficoltà, per mantenerci sereni e generosi; che Egli
-venga a sostenerci coi suoi doni e non seguiremo più le scioe-,
+venga a sostenerci coi suoi doni e non seguiremo più le sciocche
 che esigenze dell'amor proprio; non ci lasceremo più spaventare, impressionare dalla sofferenza, dalle difficoltà; non
 deremo tanto facilmente la pace in mezzo alle contraddi
-ni: forti della sua fortezza pottemo mantenere quell’equilibrio interiore e quella serenità che ci permetteranno di essere
+ni: forti della sua fortezza potremo mantenere quell’equilibrio interiore e quella serenità che ci permetteranno di essere
 sempre generosi, sempre in atto di donarci totalmente a Dio.
 
 
-< Hostem repellas longius - pacemque dones protinus...»
+«Hostem repellas longius - pacemque dones protinus...»
 
 
 Quando lo Spirito Santo ci avrà condotti a quel perfetto
 equilibrio, che è la santità stessa, non avremo più nulla da
 temere dal demonio; il maligno fuggirà lontano e, se qualche
-volta riuscirà ancora a turbarci, non potrà far altro che giungere alla soglia della sensibilità, mentre — sotto Ja valida
+volta riuscirà ancora a turbarci, non potrà far altro che giungere alla soglia della sensibilità, mentre — sotto la valida
 protezione dello Spirito Santo — il fondo dell'anima nostra
 rimarrà nella pace.
 
@@ -109,7 +109,7 @@ oceano della grazia!
 «O Spirito Santo e Santificatore, Dio onnipotente, amore essenziale del Padre e del Figlio, nodo adorabile dell'au-
 
 sta Trinità, io ti adoro e ti amo con tutto il mio cuore.
-orgente inesausta di grazie e di amore, rischiara la mia mente, santifica l’anima mia ed infiamma il mio cuore. Dio di
+Sorgente inesausta di grazie e di amore, rischiara la mia mente, santifica l’anima mia ed infiamma il mio cuore. Dio di
 bontà e di misericordia, vieni a me: visitami, riempimi, resta
 in me, fa del cuor mio un tempio ed un santuario animato
 dove Tu possa ricevere le mie adorazioni ed i miei omaggi e
@@ -118,7 +118,7 @@ dove Tu possa ricevere le mie adorazioni ed i miei omaggi e
 trovare le tue delizie. Sorgente d'acqua viva, che zampilli
 sino alla vita eterna, irriga, abbevera l'anima mia che ha sete
 della giustizia. Fuoco sacro, purificami, fa' ch'io bruci delle tue
-fiamme ed esseinme giammai si estinguano. Luce ineffabile,
+fiamme ed esse in me giammai si estinguano. Luce ineffabile,
 illuminami; Santità perfetta, consacrami; Spirito di verità,
 senza di te sono nell'errore; Spirito di amore, senza di te sono
 ghiaccio; Spirito di unzione, senza di te sono nell’aridità; Spirito di vita e vivificante, senza di te sono nella morte. ?

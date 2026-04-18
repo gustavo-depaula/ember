@@ -13,7 +13,7 @@ il bene delle anime, l’apostolo deve vivere in intima affinità spirituale con
 sue vedute e nei suoi disegni per la salvezza del mondo,
 Solo penetrando a fondo il mistero dell'amore di Dio
 per gli uomini, l'apostolo potrà cooperare all’effusione
-attuale dell'amore e della grazia. Mediante le virtù teologali egli deve tenersi în contatto intimo con Dio e cer-
+attuale dell'amore e della grazia. Mediante le virtù teologali egli deve tenersi in contatto intimo con Dio e cer-
 care di cogliere il movimento profondo del suo amore.
 La fede c'insegna che Dio ha chiamato all'esistenza gli
 uomini, spinto dalla sua bontà infinita che ha voluto effondersi al di fuori di sè, onde partecipare ad altri qual-
@@ -26,13 +26,13 @@ dal cielo» (Credo).
 
 L’apostolo deve comprendere a fondo che l’azione di
 Dio per gli uomini è tutta azione di amore: è l’azione
-del Padre che va in cerca del figliol LIOSGA: del pastore
+del Padre che va in cerca del figliol prodigo: del pastore
 che va in cerca della pecorella smarrita; è l’azione di Dio
 che vuol offrire agli uomini la sua amicizia per renderli
 felici, per poterli accogliere nella sua casa, per poterli
 ammettere alla sua intimità, per renderli beati della sua
-beatitudime eterna. L’apostolo deve cercare di mettere il
-proprio cuore a contatto col cuore di Dio per riem)
+beatitudine eterna. L’apostolo deve cercare di mettere il
+proprio cuore a contatto col cuore di Dio per riempirsi
 del suo amore, per condividere la sua carità per gli uomini. L'apostolo deve, per così dire, sentire con Dio,
 sentire con Cristo, ossia nutrire profondi sentimenti di
 amore per i suoi fratelli, pallido riflesso dell’amore di
@@ -43,13 +43,13 @@ Dio per gli uomini.
 nersi in contatto con Dio e col mistero del suo amore
 per gli uomini, cui deve umilmente collaborare. Cercherà questo contatto attraverso un intenso esercizio della
 fede che gli farà sempre più comprendere il mistero della
-Redenzione, che gli farà riconoscere l'attuazione di questo mistero nelle varie circostan; a, nello svol-
+Redenzione, che gli farà riconoscere l'attuazione di questo mistero nelle varie circostanze, nello svol-
 
 
 gersi degli avvenimenti, che lo aiuterà ad inserire la sua
 umile azione nella grande azione divina. In tal modo, anche quando userà mezzi umani, anche quando si occu-
 perà di questioni materiali, si manterrà in un'atmosfera
-soprannaturale: non perderà mai di vista il fine ultimo della sua attività, ma sarà sempre destà in lui la consapevolezza di collaborare con Cristo alla salvezza delle anime.
+soprannaturale: non perderà mai di vista il fine ultimo della sua attività, ma sarà sempre desta in lui la consapevolezza di collaborare con Cristo alla salvezza delle anime.
 
 Alla fede l’apostolo deve unire un’ardente carità, perchè il contatto con Dio e l’affinità col suo amore si rea-
 lizzano appunto per via d'amore. La carità, per la forza
@@ -58,10 +58,10 @@ penetrare più a fondo il mistero della Redenzione, di
 gustare la dolce realtà dell'Amore infinito che in esso si
 manifesta e lo spingerà a vivere in intima comunione con
 questo Amore di cui deve essere il collaboratore e lo
-strumento. Allora il suo esempio, le sue parole renderanno testimonianza di verità non solo credute in teori;
+strumento. Allora il suo esempio, le sue parole renderanno testimonianza di verità non solo credute in teoria,
 ma vissute in pratica, ma assaporate, sperimentate nel
 contatto intimo con Dio. Allora l’apostolo potrà affermare con S. Giovanni: « Noi abbiamo conosciuto e cre-
-duto alla carità che Dio ha per noi» (/Go. 4, 16) e ancora: «Quel che abbiamo veduto con gli occhi nostri,
+duto alla carità che Dio ha per noi» (I Gv. 4, 16) e ancora: «Quel che abbiamo veduto con gli occhi nostri,
 quel che abbiamo contemplato e che le nostre mani han
 toccato del Verbo della vita... lo attestiamo... lo annunziamo a voi» (ivi, 1, 1-3).
 
@@ -76,7 +76,7 @@ e per le anime, è il segreto di ogni apostolato.
 
 ### Colloquio
 
-«O Gesù, Figlio di Dio, se penso che Tu sci morto
+«O Gesù, Figlio di Dio, se penso che Tu sei morto
 per la redenzione delle anime, come posso non desiderare
 di morire io stesso per loro? E, vedendo calpestato il tuo
 Sangue, come posso tollerare una tale ingiuria fatta a te,
@@ -89,7 +89,7 @@ far conoscere e onorare il tuo nome, affinchè, convertendo le anime, possa racc
 
 «Dio mio, anche se fossi certissimo di non dover
 mai goderti, nondimeno, per onorarti, vorrei di buonissimo grado morire una volta per ciascun’anima peccatrice;
-di guisa che sosterrei al presente tante morti, quante sono al mondo le anime peceatrici, affinchè esse conseguis-
+di guisa che sosterrei al presente tante morti, quante sono al mondo le anime peccatrici, affinchè esse conseguis-
 sero ora la grazia, e in avvenire la gloria; ma quanto più
 lo farei, se sapessi di dover poi ricever gloria con loro! »
 (S. Bonaventura).
@@ -100,13 +100,13 @@ sola; amarti con tutta la forza del mio cuore e salvarti
 delle anime perchè Tu sia amato.
 
 «O Gesù, alla vista del tuo Sangue prezioso che cade
-er terra senza che nessuno si dia premura di raccoglierlo, mi si spezza il cuore dal dolore! Propongo perciò
+per terra senza che nessuno si dia premura di raccoglierlo, mi si spezza il cuore dal dolore! Propongo perciò
 di starmene continuamente ai piedi della croce per rac-
 
 cogliere questa divina rugiada di salvezza e spargerla poi
 sulle anime.
 
-«Il tuo grido: “Ho sete *, risuona continuamente nel
+«Il tuo grido: “Ho sete”, risuona continuamente nel
 mio cuore e vi accende un fuoco vivissimo. O mio Diletto, voglio dissetarti e, sentendomi divorata dalla tua
 stessa sete delle anime, voglio strappare ad ogni costo i
 peccatori dalle fiamme dell'inferno. Voglio impiegare in

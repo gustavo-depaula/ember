@@ -15,7 +15,7 @@ cosa rendete grazie, poichè questa è la volontà di Dio manifestata a voi in C
 trascurato anche dai buoni, anche dai più beneficati. Gesù
 ne ha mosso lamento quando, dopo aver guarito dieci lebbrosi, uno solo ritornò indietro a ringraziarlo: « E dove sono
 gli altri nove? Non s'è trovato chi tornasse a rendere gloria
-a Dio, se non questo straniero? » (Le. 17, 17 e 18). Significativo il fatto che gli ingrati sono stati proprio i nove giudei i
+a Dio, se non questo straniero? » (Lc. 17, 17 e 18). Significativo il fatto che gli ingrati sono stati proprio i nove giudei i
 quali, essendo connazionali del Salvatore, si trovavano in
 una posizione di privilegio di fronte allo straniero. Talvolta
 proprio le anime che Gesù ha chiamato a vivere più vicino
@@ -46,7 +46,7 @@ indigenza e profondamente persuaso che nulla è e nulla può senza il continuo s
 che qualcuno ringrazi Dio con la bocca, mentre nel segreto
 del cuore attribuisce a proprio merito le grazie ricevute. "Tale
 era la falsa riconoscenza del fariseo: « Ti ringrazio, o Dio,
-perchè io non sono come gli altri uomini» (Le. 18, 11); dal
+perchè io non sono come gli altri uomini» (Lc. 18, 11); dal
 contesto appare assai chiaro che quell'uomo borioso era ben
 lontano dal riconoscere il suo nulla e dall'attribuire unicamente a dono di Dio quel po' di bene che poteva esserci in
 lui. L'anima umile è in tutt'altra posizione: anche se riesce
@@ -88,7 +88,7 @@ mia, dov'è il grido della gratitudine, dove sono le lacrime che
 devi versare nel cospetto del Dio tuo che continuamente t'invita? Dove sono gli ansiosi desideri nel cospetto della divina
 pietà? Non ci sono in me, perchè ancora non ho perduta me
 medesima, che se io mi fossi perduta e avessi cercato solo
-te, 0 Dio, solo la gloria e la lode del nome tuo, il cuore mi uscirebbe dalla bocca in un canto di riconoscenza.
+te, O Dio, solo la gloria e la lode del nome tuo, il cuore mi uscirebbe dalla bocca in un canto di riconoscenza.
 
 «Grazie, grazie siano rese a te, alta ed eterna Trinità!
 Io sono colei che non sono e Tu sei Colui che è. Dunque, Tu

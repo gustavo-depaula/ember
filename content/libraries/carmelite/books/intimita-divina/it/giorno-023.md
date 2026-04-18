@@ -99,7 +99,7 @@ miei peccati, ti supplico per quel che sei, o mio Dio, di
 aver pietà delle molte anime che si perdono e di proteggere
 la tua Chiesa. Non permettere più, o Signore, che fra i
 cristiani allignino tanti mali e dissipa le tenebre che ci
-avvolgono! » (T.G. M. VI,6,3€4; Cam. 3, 9).
+avvolgono! » (T.G. M. VI, 6, 3-4; Cam. 3, 9).
 
 
 O Signore, concedi anche a me un vivo amore per le

@@ -9,8 +9,7 @@ Fammi comprendere, o Signore, i segreti della tua misericordia affinchè possa a
 1. — L'amore di Dio verso di noi assume un carattere
 tutto particolare, consono alla nostra natura di creature fra:
 gili e deboli: il carattere della misericordia. La misericordia
-è l’amore che si china sulla miseria per sollevarla, per redimerla, per innalzarla a sè. Sembra quasi che Dio ci ami at-
-tratto dalla nostra debolezza, non perchè questa sia amabile,
+è l'amore che si china sulla miseria per sollevarla, per redimerla, per innalzarla a sè. Sembra quasi che Dio ci ami attratto dalla nostra debolezza, non perchè questa sia amabile,
 ma perchè Egli, bontà infinita, ne ha compassione e vuol
 supplirvi con la sua misericordia. Con la sua perfezione infinita vuol sanare la nostra imperfezione, con la sua purezza
 la nostra impurità, con la sua sapienza la nostra stoltezza,
@@ -23,7 +22,7 @@ E, siccome il nostro male maggiore — anzi, l'unico vero
 essere il rimedio anche a questo male estremo. Certamente
 Dio odia il peccato ma, mentre a motivo di esso Egli è co-
 
-|. stretto a ritirare la sua amicizia, la sua grazia dall'anima del
+stretto a ritirare la sua amicizia, la sua grazia dall'anima del
 
 peccatore, la sua misericordia sa ancora trovare il modo di
 
@@ -31,35 +30,29 @@ continuare ad amarlo; e, di fatto, se non può amarlo più come amico, lo ama se
 
 sue mani, lo ama per quel bene che resta ancora in lui e
 
-che dà speranza di conversione. La misericordia di Dio è tan-
-
-to grande che nessuna miseria, per quanto profonda, può
+che dà speranza di conversione. La misericordia di Dio è tanto grande che nessuna miseria, per quanto profonda, può
 esaurirla, che nessun peccato, n pure il più obbrobrioso,
 purchè pianto, può arrestarla. Un'unica cosa ha questo triste potere: la volontà superba dell'uomo che si rinchiude
 sdegnosamente nella sua miseria non volendo riconoscere il
 bisogno che ha della misericordia infinita. Dinanzi a questi
 casi, benchè la misericordia divina sia immensa, sì avverano
-le gravi parole del Vangelo: « Dio disperde coloro che s'inorgogliscono nei pensieri del loro cuore, rovescia dal loro tro-
-no i potenti... e rimanda vuoti i ricchi» (cfr. Le. 1, 51-53).
+le gravi parole del Vangelo: « Dio disperde coloro che s'inorgogliscono nei pensieri del loro cuore, rovescia dal loro trono i potenti... e rimanda vuoti i ricchi» (cfr. Lc. 1, 51-53).
 
 2. — La misericordia di Dio non ha limiti: mai ci rigetta a causa dei nostri peccati, mai si stanca delle nostre
 infedeltà, mai ci rifiuta il perdono, ma è sempre pronta a dimenticare qualsiasi offesa, a ricambiare con le sue grazie le
 nostre ingratitudini. E non ci rinfaccia mai i nostri torti, neppure quando, appena ricevuto il perdono, subito ricadiamo;
 neppure allora si sdegna per la nostra tenacia nel male, per
 la nostra fiacchezza nel bene, ma sempre ci tende la mano,
-desiderando soccorrerci. Anche quando gli uomini ci condannano, Dio ci usa misericordia, ci assolve, ci rimanda giu-
-stificati, come Gesù ha mandato giustificata la donna adultera: « Va', e non voler più peccare» (Gv. 8, 11). Col suo
-esempio e con le sue parole, Gesù ci ha mostrato l’inesauribile grandezza della misericordia di Dio: pensiamo al
+desiderando soccorrerci. Anche quando gli uomini ci condannano, Dio ci usa misericordia, ci assolve, ci rimanda giustificati, come Gesù ha mandato giustificata la donna adultera: « Va', e non voler più peccare» (Gv. 8, 11). Col suo
+esempio e con le sue parole, Gesù ci ha mostrato l'inesauribile grandezza della misericordia di Dio: pensiamo al
 figliol prodigo, alla pecorella smarrita, alla Maddalena, al
-buon ladrone. Ma Egli ci ha detto anche: « Siate misericordiosi come è misericordioso il Padre vostro» (Le. 6, 36). Fin
-dove arriva la nostra misericordia? Fino a qual punto sappiamo compatire i difetti altrui? La misura della nostra mise-
-ricordia verso il prossimo sarà la misura della misericordia
+buon ladrone. Ma Egli ci ha detto anche: « Siate misericordiosi come è misericordioso il Padre vostro» (Lc. 6, 36). Fin
+dove arriva la nostra misericordia? Fino a qual punto sappiamo compatire i difetti altrui? La misura della nostra misericordia verso il prossimo sarà la misura della misericordia
 di Dio verso di noi, perchè Gesù ha detto: « sarete misurati
-con Ja stessa misura con la quale avrete misurato » (Mt. 7, 2).
+con la stessa misura con la quale avrete misurato » (Mt. 7, 2).
 
 Per riversare su di noi si pienezza delle sue misericordie
-Dio non esige che siamo impeccabili, ma che siamo misericordiosi verso i nostri fratelli ed esige, inoltre, che siamo umi-
-li. Non basta, infatti, essere miseri per attirare su di sè Da
+Dio non esige che siamo impeccabili, ma che siamo misericordiosi verso i nostri fratelli ed esige, inoltre, che siamo umili. Non basta, infatti, essere miseri per attirare su di sè Da
 divina misericordia, ma bisogna riconoscere a
 propria miseria e rivolgersi a Dio con piena fiducia: 5 iò
 che piace a Gesù — diceva Teresa di Lisieux — è di pa iu
@@ -77,9 +70,7 @@ raggiarci per la nostra miseria?
 ti suoi benefici. No, non dimenticherò che Tu hai perdo
 
 nato tutte le mie colpe, guariti tutti i miei mali, che mi ri-
-‘avori, che sazi con beni i miei de-
-
-colmi di tenerezze e di
+'avori, che sazi con beni i miei decolmi di tenerezze e di
 sideri.
 
 riti. Come è pietoso un padre verso i suoi figlioli, ci

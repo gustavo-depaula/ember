@@ -61,10 +61,10 @@ Ed ecco due preziosissime conseguenze pratiche. Chi
 vuol avere la grazia, la vita soprannaturale, deve andare a
 Cristo, essere incorporato a lui e vivere in lui: « Chi ha il
 Figliolo ha la vita — insegna l’Evangelista — chi non ha il
-Figliolo non ha la vita » (/ Gv. 5, 12).
+Figliolo non ha la vita » (1 Gv. 5, 12).
 
 La grazia che santifica le anime nostre è, nella sua essenza, identica a quella che orna la santissima Anima di
-Gesù (cfr. S. Tommaso, II°, q. 8, a. 5); senza dubbio
+Gesù (cfr. S. Tommaso, I-II, q. 8, a. 5); senza dubbio
 la misura e la perfezione sono immensamente diverse, ma
 la natura è la medesima. Quindi la grazia ha in noi la stessa
 potenza santificatrice, le stesse tendenze che ha nell’Anima
@@ -75,7 +75,7 @@ vita simile alla sua.
 
 ### Colloquio
 
-© Gesù come è dolce per me contemplare la tua santissima Umanità ripiena di tutti i tesori della vita divina!
+O Gesù come è dolce per me contemplare la tua santissima Umanità ripiena di tutti i tesori della vita divina!
 Fissare il mio sguardo direttamente sulla tua Divinità di
 Verbo eterno è per me assai difficile, ma considerarla partecipata alla tua Umanità è più agevole e facile; qui il
 pensiero si riposa e non finisce di ammirare la tua grandezza, O Gesù, la tua Anima è talmente ricca di grazia, tal-

@@ -67,7 +67,7 @@ tutto con noi, sempre con noi.
 ben presto separare col corpo dall'umanità, considera il
 Suo amore per cui, volendo congiungersi per sempre a
 noi, istituì questo Sacramento, onde possa essere corporalmente e per sempre unito all'umanità. O amore inestinguibile! Amore veramente affocato fu questo, o amore di
-Cristo, 0 amore per gli uomini! O Gesù, già avevi davanti
+Cristo, o amore per gli uomini! O Gesù, già avevi davanti
 agli occhi la morte che ti attendeva, i dolori ed i tormenti
 atroci della Passione già scavavano il tuo Cuore e nondimeno volesti offrirti ai tuoi crocifissori e far sì che, mediante questo Sacramento, essi ti potessero sempre avere
 come dono d'eternità, o Tu, le cui delizie sono d'essere

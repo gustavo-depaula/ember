@@ -18,8 +18,7 @@ vita o di morte. Come il cibo e la bevanda sono assolutamente
 indispensabili per la vita del corpo, così la giustizia è assolutamente indispensabile per una vita virtuosa e i suoi doveri
 sono così essenziali che nessun motivo può esimerci dall’adempierli. Se un atto di carità verso il prossimo c’imponesse
 un grave disturbo o un notevole danno, non saremmo obbligati a compierlo, ma il medesimo disturbo o danno non potranno mai dispensarci dal soddisfare un dovere di giustizia
-verso gli altri; motivi seri potranno talvolta autorizzarci a ri-
-‘mandare l'adempimento, ma l'obbligo resterà sempre e, quand'anche fossimo impediti dall'assolverlo materialmente, dovremo supplirvi almeno moralmente, E’ quindi appropriato
+verso gli altri; motivi seri potranno talvolta autorizzarci a rimandare l'adempimento, ma l'obbligo resterà sempre e, quand'anche fossimo impediti dall'assolverlo materialmente, dovremo supplirvi almeno moralmente. E' quindi appropriato
 parlare di fame e di sete della giustizia, non già nel senso di
 rivendicare i nostri diritti, ma nel senso di coltivare in noi
 un desiderio così vivo, un bisogno così impellente di giusti-
@@ -63,7 +62,7 @@ in più nelle virtù, ritenendo sempre poco quello che ho già
 conseguito e molto quel che ancora mi manca. Questa fame
 e questa sete mi diano un desiderio ardentissimo della tua
 grazia, mi sospingano con grande ardore ai santi sacramenti
-e specialmente al Sacramento dell'altare per cibarmi di te, 0
+e specialmente al Sacramento dell'altare per cibarmi di te, o
 Gesù, che sei la mia giustizia.
 
 «O Gesù, Tu avesti tanta fame della giustizia da non avvertire la fame corporale e così, stando una volta molto stanco e bisognoso di ristoro, dicesti ai tuoi discepoli: ‘Il mio cibo è fare la volontà di Colui che mi ha mandato”; e ne avesti una sete così ardente da desiderare con viva ansia di accostare le labbra al calice amarissimo della tua Passione sì

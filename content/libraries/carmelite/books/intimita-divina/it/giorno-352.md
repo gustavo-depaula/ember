@@ -9,25 +9,25 @@ Dio mio, che hai infuso in me l'amore, fa' che questo cresca sino a condurmi all
 «produce nell'anima meravigliosi effetti, illuminandola e
 
 accendendola di ardenti brame di solo amor divino, non
-di alcun’altra cosa» (G.C. N.1I, 13, 11). pate così, a
+di alcun'altra cosa» (G.C. N. II, 13, 11). pate così, a
 misura che si distacca dalla terra lasciando da parte ogni
-affetto e appetito delle creature, l’anima sale la «segreta
-scala » dell'amore che di grado in grado l’eleva fino al
-suo Creatore, « poichè solo l’amore è quello che ‘unisce
-l’anima con Dio» (ivi, 18, 5).
+affetto e appetito delle creature, l'anima sale la «segreta
+scala » dell'amore che di grado in grado l'eleva fino al
+suo Creatore, « poichè solo l'amore è quello che 'unisce
+l'anima con Dio» (ivi, 18, 5).
 
 Questa accensione di amore non è avvertita al principio della purificazione, perchè allora «il fuoco divino
-svolge tutta l’opera sua più a disseccare e disporre l’anima che"a riscaldarla; ma, in progresso di tempo, quando
-fù l'ha riscaldata abbastanza, l’anima molto spesso sente
+svolge tutta l'opera sua più a disseccare e disporre l'anima che"a riscaldarla; ma, in progresso di tempo, quando
+fù l'ha riscaldata abbastanza, l'anima molto spesso sente
 
-‘amoroso ardore » (ivi, 12, 5). Il divampare dell'amore può
-essere accompagnato da un grande diletto spirituale; sono allora istanti di immensa gioia in cui l’anima pregusta l'unione con Dio alla quale va approssimandosi, gioia
+'amoroso ardore » (ivi, 12, 5). Il divampare dell'amore può
+essere accompagnato da un grande diletto spirituale; sono allora istanti di immensa gioia in cui l'anima pregusta l'unione con Dio alla quale va approssimandosi, gioia
 che la ripaga ampiamente di tutte le pene ed ansie ui
-nell'oscurità della notte e che l’incoraggia ad abbracciare
-di buon volere quelle che ancora dol subire per giunDE all’unione perfetta. Tuttavia, giova ricordare che l’inlammazione d’amore non consiste nel gaudio che l’anima
+nell'oscurità della notte e che l'incoraggia ad abbracciare
+di buon volere quelle che ancora dol subire per giunDE all'unione perfetta. Tuttavia, giova ricordare che l'inlammazione d'amore non consiste nel gaudio che l'anima
 può sperimentare, bensì nella forte decisione della volontà di darsi interamente a Dio. «Del resto, tutto ciò è
 opera del Signore, che infonde come vuole», ossia può
-infondere l’amore « lasciando arida la volontà » (ivi, 12,7),
+infondere l'amore « lasciando arida la volontà » (ivi, 12,7),
 oppure infiammandola con soave ardore.
 
 Comunque, quello che ci deve interessare non è già
@@ -36,16 +36,16 @@ esso, appunto perchè solo l'amore è la forza che può unirci a Dio.
 
 Trattando questo argomento, S. Giovanni della Croce
 precisa: «L'inclinazione dell'anima, la forza e la virtù
-che ha per andare a Dio è l’amore... e quindi, quanto più
+che ha per andare a Dio è l'amore... e quindi, quanto più
 gradi di amore ha, tanto profondamente entra in Dio e
 si concentra con lui » (F. 1, 13). Come la pietra nel cadere è attratta al centro della terra dalla sata di gravità,
-così l’anima è attratta a Dio dalla forza dell'amore. Quanto più questo amore sarà forte, tanto più sarà potente a
+così l'anima è attratta a Dio dalla forza dell'amore. Quanto più questo amore sarà forte, tanto più sarà potente a
 trascinarla tutta in Dio e ad unirla interamente a lui: «l'a
 more più forte è il più unitivo » (ivi). Potrà, dunque,
-l’anima che desidera sinceramente unirsi a Dio, non applicarsi con tutte le sue forze a crescere nell'amore?
+l'anima che desidera sinceramente unirsi a Dio, non applicarsi con tutte le sue forze a crescere nell'amore?
 
 un grado di unione imperfetta, mentre all'amore perfetto
-corrisponde l’unione perfetta. « Perchè l’anima sia nel suo
+corrisponde l'unione perfetta. « Perchè l'anima sia nel suo
 centro divino [ossia in Dio], basta che abbia un grado di
 amore, LR con uno solo si unisce a Dio per grazi:
 
@@ -53,23 +53,23 @@ e se avrà due gradi, si sarà unita e concentrata con Dio
 di un altro centro più addentro, e così via » (G.C.F. 1, 13).
 Proprio come la pietra la quale dal suo peso è trascinata
 
-al centro della terra, sì che quanto più pesa e non incontra ostacoli sul suo cammino, tanto più vi giunge rapidamente e va fino al centro più profondo, Così l’amote è il peso che ci trascina in Dio. Ma è vero anche l’inverso, ossia che l'amore attira Dio nell'anima nostra, perchè Gesù ha detto: «Se uno mi ama, osserverà la mia
+al centro della terra, sì che quanto più pesa e non incontra ostacoli sul suo cammino, tanto più vi giunge rapidamente e va fino al centro più profondo, Così l'amote è il peso che ci trascina in Dio. Ma è vero anche l'inverso, ossia che l'amore attira Dio nell'anima nostra, perchè Gesù ha detto: «Se uno mi ama, osserverà la mia
 rola... verremo a lui e faremo dimora presso di lui»
-Gv. 14,23). Basta un grado di amore, cioè basta l’osservanza della legge divina che assicuri lo stato di grazia,
-perchè Dio si renda presente nell’anima, facendo dimora
-resso di lei e quindi l’anima possa vivere a lui unita; ma
+Gv. 14,23). Basta un grado di amore, cioè basta l'osservanza della legge divina che assicuri lo stato di grazia,
+perchè Dio si renda presente nell'anima, facendo dimora
+resso di lei e quindi l'anima possa vivere a lui unita; ma
 } evidente che a questo primo grado di amore e di grazia corrisponde un'unione con Dio molto imperfetta. In
-tale stato l’anima è già nel suo centro, ossia in Dio, e vive già unita a lui che si degna d’inabitarla per grazia,
+tale stato l'anima è già nel suo centro, ossia in Dio, e vive già unita a lui che si degna d'inabitarla per grazia,
 tuttavia le resta ancora un lungo cammino da percorrere
 per giungere al suo centro più profondo, cioè per penetrare nelle profondità di Dio e vivere intimamente e perfettamente unita a lui. Le tappe di questo cammino sono
-segnate dal progresso nell'amore; più l’anima ama, più
+segnate dal progresso nell'amore; più l'anima ama, più
 Simmerge in Dio, e d'altra parte Dio stesso, realizzando
 la sua promessa, le si rende sempre più presente per grazia, invitandola ad un'amicizia e ad un'unione sempre più
-intima. Finchè verrà un giorno in cui, « pervenuta all’ultimo grado [dell'amore], l’amore di Dio giungerà a ferirla sino al più profondo centro, trasformandola e illumimandola secondo tutto il suo essere e le sue potenze e virtù... tanto da farla sembrare Dio » (G.C. F.1,13).
-L’amore compie il grande miracolo: attira Dio nell’anima che lo ama e lancia quest'anima in Dio; mediante
+intima. Finchè verrà un giorno in cui, « pervenuta all'ultimo grado [dell'amore], l'amore di Dio giungerà a ferirla sino al più profondo centro, trasformandola e illumimandola secondo tutto il suo essere e le sue potenze e virtù... tanto da farla sembrare Dio » (G.C. F.1,13).
+L'amore compie il grande miracolo: attira Dio nell'anima che lo ama e lancia quest'anima in Dio; mediante
 l'amore una miserabile creatura s'incontra col suo Creatore e si unisce a lui in modo così intimo e perfetto da
 restarne tutta trasformata e divinizzata.. Quale dono più
-grande poteva farci Dio che erearci nell'amore, che infondere in noi l’amore, la grande forza capace di unirci a Jui?
+grande poteva farci Dio che erearci nell'amore, che infondere in noi l'amore, la grande forza capace di unirci a Jui?
 
 ### Colloquio
 
@@ -78,11 +78,11 @@ la mente, con tutte le forze, non disprezzare i miei sospiri e i desideri miei.
 
 «Dilettissimo Re, che venisti al mondo per regnare nei
 cuori degli uomini col dolcissimo impero della carità, fa”
-che io ti ami con tutto il cuore e con tutte le forze della mia mente. Fa’, 0 Signore amabilissimo, che io non viva in me, ma in te, che sei la vita mia, e mi trasformi
-in te per effetto d'amore. Comunicami quel fuoco dolcissimo che arde nel tuo cuore e fa’ che in tutte le cose
+che io ti ami con tutto il cuore e con tutte le forze della mia mente. Fa', O Signore amabilissimo, che io non viva in me, ma in te, che sei la vita mia, e mi trasformi
+in te per effetto d'amore. Comunicami quel fuoco dolcissimo che arde nel tuo cuore e fa' che in tutte le cose
 cerchi solo te, vera pace e centro dell'anima mia. Da te
-altro non voglio se non che m’infiammi col tuo fuoco
-eterno, il quale generi nel mio cuore una così grande sollecitudine per te che giorno e notte ti vada sempre cercando; fa’ che questa sollecitudine mi spinga ad usare tutte le cose, a servirmi di tutte le occasioni e ad escogitare
+altro non voglio se non che m'infiammi col tuo fuoco
+eterno, il quale generi nel mio cuore una così grande sollecitudine per te che giorno e notte ti vada sempre cercando; fa' che questa sollecitudine mi spinga ad usare tutte le cose, a servirmi di tutte le occasioni e ad escogitare
 sempre nuovi mezzi (per darti gusto e muovere tutte le
 creature a servirti, ad amarti e ad unirsi a te nel vincolo
 della carità.
@@ -92,5 +92,5 @@ cuore ardentissimo e desiderosissimo del cuor mio, entra
 come assoluto Signore în casa tua e governala imperiosamente con il potere del tuo onnipotente amore. Vorrei
 oggi, o magnifico Figlio di Dio, essere attratto a t
 che la mia anima fosse trasformata nella tua e, dopo ciò,
-Tu fossi l’anima mia, la mia vita, l’unico conforto del
+Tu fossi l'anima mia, la mia vita, l'unico conforto del
 mio cuore afflitto, il mio sollievo » (Ven. Giovanni di G.

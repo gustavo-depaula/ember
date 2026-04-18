@@ -13,34 +13,34 @@ fine ultimo. Spesso questa scelta è facile e si presenta spon
 tanea alla mente già abituata a giudicare e ad agire alla
 luce dell'eternità; altre volte, invece, la scelta è difficile e laboriosa, come quando, ad esempio, si tratta della scelta dello
 stato o della professione, di dare un nuovo indirizzo alla
-propria vita oppure di risolvere casi complicati in cui oecorre tener conto di elementi anche indipendenti dalla propria volontà. In questi casi occorre prender tempo per esaminare tutto con ponderatezza, occorre il consiglio di persone prudenti e sperimentate: l'agire con precipitazione sarebbe già un mancare di prudenza. Gesù stesso nel Vangelo
+propria vita oppure di risolvere casi complicati in cui occorre tener conto di elementi anche indipendenti dalla propria volontà. In questi casi occorre prender tempo per esaminare tutto con ponderatezza, occorre il consiglio di persone prudenti e sperimentate: l'agire con precipitazione sarebbe già un mancare di prudenza. Gesù stesso nel Vangelo
 ci parla dell'uomo prudente che, volendo innalzare una torre, «dapprima si siede a calcolare la spesa per vedere se
-ha da poterla finire » (Le. 14, 28). Il tempo impiegato in questi esami, in questi calcoli dettati dalla prudenza soprannaturale non è tempo sprecato, tutt'altro; anzi non di rado, di
+ha da poterla finire » (Lc. 14, 28). Il tempo impiegato in questi esami, in questi calcoli dettati dalla prudenza soprannaturale non è tempo sprecato, tutt'altro; anzi non di rado, di
 fronte a gravi decisioni, Dio stesso vuole che attendiamo
 pazientemente affinchè le circostanze ci manifestino con
 chiarezza la sua volontà. In queste attese dobbiamo dare un
 ran posto alla preghiera, per invocare dal Signore quella
 
-Kos che la nostra prudenza non sa darci. Infatti la seta
+luce che la nostra prudenza non sa darci. Infatti la prudenza
 pur essendo virtù infusa e soprannaturale, è sempre virtù
 esercitata mediante le nostre facoltà umane e perciò risente
 della nostra limitatezza; in aiuto ad essa, però, Dio ci ha dato
 un particolare dono dello Spirito Santo: il dono del consiglio,
 la cui attuazione non dipende da noi, ma che possiamo invocare con la preghiera,
 
-Quando Deb usando tutti i mezzi suggeriti dalla prudenza
-soprannaturale, la decisione è presa, fi la stessa prudenza ci comanda di passare all'attuazione con coraggio e diligenza, senza frapporre indugi da parte nostra e senza scoraggiarci per le difficoltà che possiamo incontrare.
+Quando poi, usando tutti i mezzi suggeriti dalla prudenza
+soprannaturale, la decisione è presa, sì, la stessa prudenza ci comanda di passare all'attuazione con coraggio e diligenza, senza frapporre indugi da parte nostra e senza scoraggiarci per le difficoltà che possiamo incontrare.
 
 
 2. — Perchè i nostri giudizi e le nostre scelte siano prudenti, dobbiamo saperle svincolare da elementi troppo soggettivi, quali sono i gusti, gli interessi, le antipatie o simpatie
 naturali. Talvolta possiamo illuderci di giudicare di una situazione, o di determinarci ad un'opera unicamente per la
 gloria di Dio e per il bene del prossimo, mentre se ci esaminassimo in profondità ci accorgeremmo forse che i motivi
-che hanno prevalso nel nostro giudizio o nella nostra delibetazione sono stati egoistici, di amor proprio, di vanità, di ricerca della stima altrui o di interesse personale. Anche la prudenza, quindi, ci richiede di purificare il cuore da tutti questi
-moventi umani, ci richiede diodo e rinuncia. Proprio terminando di parlare della prudenza necessaria all'uomo che
+che hanno prevalso nel nostro giudizio o nella nostra deliberazione sono stati egoistici, di amor proprio, di vanità, di ricerca della stima altrui o di interesse personale. Anche la prudenza, quindi, ci richiede di purificare il cuore da tutti questi
+moventi umani, ci richiede sforzo e rinuncia. Proprio terminando di parlare della prudenza necessaria all'uomo che
 vuol fabbricare una torre ed al re che vuol entrare in guerra,
 Gesù ha detto: « Così, chiunque di voi non rinunzia a tutto
 
-anto possiede, non può essere mio discepolo » (Le. 14,33).
+anto possiede, non può essere mio discepolo » (Lc. 14,33).
 In altre parole, la prudenza necessaria a chi vuol essere vero
 seguace di Cristo consiste nel rinunciare a tutto ciò che gli può
 essere di ostacolo al conseguimento della vita eterna, consiste nel rinnegare se stesso per avere il cuore libero da moventi egoistici, personali. Solo questa rinuncia ci permetterà
@@ -76,7 +76,7 @@ abbassarti per insegnarci la via che conduce alla salvezza. Tu,
 o Signore, hai detto: “Chi vuol venire dietro di me, rinneghi se stesso, prenda la sua croce e mi segua’. Oh, questa sì
 che è somma prudenza! Eppure alla prudenza umana appare
 somma pazzia. Agli uomini sapienti di questo mondo sembra
-somma pazzia pigliar la croce e venir dietro a te, Cristo crocifisso! Ma Tu m'insegni che la stoltezza della croce è somma sapienza, e il rinnegare se stesso è somma DUoa Quale più savia pazzia vi può essere che pigliar la croce con te
+somma pazzia pigliar la croce e venir dietro a te, Cristo crocifisso! Ma Tu m'insegni che la stoltezza della croce è somma sapienza, e il rinnegare se stesso è somma prudenza. Quale più savia pazzia vi può essere che pigliar la croce con te
 e seguirti battendo le tue orme? E quale maggiore prudenza
 vi può essere che morire a se stesso per trovar vita in te, da
 cui riceve vita ogni cosa?» (S. M. Maddalena de’ Pazzi).

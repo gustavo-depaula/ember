@@ -12,19 +12,19 @@ per insegnarci il cammino che conduce alla vita; Egli, fonte di vita, è anche M
 Così il Padre celeste l’ha presentato al mondo fin dal
 principio del suo apostolato; lo Spirito Santo che, subito
 dopo il battesimo di Gesù, scese su di lui in forma di colomba e la voce che dal cielo si udì: « Questi è il mio Figlio
-diletto, nel quale ho riposto le mie compiacenze » (Mf. 3,
+diletto, nel quale ho riposto le mie compiacenze » (Mt. 3,
 17) sono, per così dire, le credenziali che garantiscono il
 suo insegnamento e ne sono la ragione profonda. Chi non
 avrà fede alla sua parola, se Egli è il Figlio di Dio e se
 lo Spirito Santo è con lui? Due anni più tardi, sul Tabor,
 si rinnova la medesima presentazione: medesima voce, medesime parole: «Questi è il mio Figlio diletto », ma di
 più ci vien fatta la raccomandazione esplicita : « ascoltate-
-0! » (ivi, 17, 5), che mette in luce ancor più evidente la
+lo! » (ivi, 17, 5), che mette in luce ancor più evidente la
 sua funzione di Maestro.
 
 E Gesù stesso si è rivelato come Maestro, anzi come
 unico Maestro: « Voi chiamate me Maestro... e fate bene,
-perchè lo sono» (G®. 13, 13); « Non fatevi chiamar maestri, perchè uno solo è il vostro Maestro, il Cristo » (Mt.
+perchè lo sono» (Gv. 13, 13); « Non fatevi chiamar maestri, perchè uno solo è il vostro Maestro, il Cristo » (Mt.
 
 
 23,10). Quando Gesù ha affermato di essere la Vita, ha
@@ -37,7 +37,7 @@ la sua parola ascolta la verità: «Se rimarrete nella mia
 parola... conoscerete la verità e la verità vi farà liberi »
 
 
-(Gv. 8,31032).
+(Gv. 8, 31-32).
 
 
 2 — L'uomo può essere maestro, ma può anche non

@@ -23,7 +23,7 @@ volle sottoporvisi come l’ultimo figlio di Abramo, perchè,
 
 come insegna S. Paolo, «Egli doveva in tutto essere fatto
 simile ai suoi fratelli... affinchè fossero ‘espiate le colpe del
-popolo » (E4r.2, 17). Il rito, compiuto forse da Giuseppe
+popolo » (Ebr. 2, 17). Il rito, compiuto forse da Giuseppe
 nell’intimità della famiglia, fece scorrere dalle carni immacolate di Gesù le prime gocce del suo prezioso Sangue.
 
 Otto giorni dopo la sua nascita, Egli inizia così la sua missione cruenta di Redentore: non parla ancora, non è co-
@@ -39,7 +39,7 @@ dell’anno civile: le prime gocce del Sangue di Gesù suggellano e consacrano o
 Dio, la nostra vita è di Dio ed è di Cristo, che tutto ha
 ricomprato e santificato col suo Sangue.
 
-Iniziamo l’anno circoncidendo 1 nostri cuori perchè,
+Iniziamo l’anno circoncidendo i nostri cuori perchè,
 secondo quanto insegna S. Ambrogio, « colui che si circoncide nei vizi è giudicato degno dello sguardo del Si-
 La circoncisione... Vedi come tutta la serie dell'antica legge fu figura
 del futuro; perchè anche la circoncisione significa purificazione dai peccati » (BR.).
@@ -55,7 +55,7 @@ vita di Cristo.
 Altro insegnamento della festa odierna è l’umile sottomissione di Gesù alla volontà del Padre suo, manifestata
 attraverso la legge: vediamo in ciò un invito ad aderire
 docilmente alla volontà di Dio, qualunque essa sia, Nessuno
-di noì sa che cosa ci attende in quest'anno nuovo; ma Dio
+di noi sa che cosa ci attende in quest'anno nuovo; ma Dio
 lo sa: la sua volontà ha già preparato il nostro cammino,
 ogni particolare della nostra vita è già deciso nella sua
 

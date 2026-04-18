@@ -21,14 +21,14 @@ con la sua Chiesa.
 Conosciuto il mistero dell’Incarnazione, tutta la vita di
 Giuseppe gravita intorno a quella del Verbo Incarnato:
 
-er lui le sue ansie, le sue sofiercase! le sue fatiche, il suo.
+er lui le sue ansie, le sue sofferenze, le sue fatiche, il suo.
 lavoro; per lui tutte le sue premure, le sue energie, le sue
 risorse, il suo tempo. Non ha riservato nulla per sè, ma,
 totalmente dimentico di qualsiasi esigenza, desiderio o veduta personale, si è dato tutto agli interessi ed all'opera di
 Gesù; per Giuseppe non esistono che Gesù e Maria ed egli
 sente che la sua vita non ha altra ragione di essere che il
 loro servizio, la loro custodia. Così ha partecipato in pieno,
-qui: collaboratore umile e nascosto, all'opera della Relenzione e, se non ha accompagnato Gesù nella sua
+qui: collaboratore umile e nascosto, all'opera della Redenzione e, se non ha accompagnato Gesù nella sua
 vita apostolica ed alla sua morte di croce — come invece
 
 
@@ -36,13 +36,13 @@ ha fatto Maria — ha però lavorato agli stessi fini del
 Salvatore.
 
 Essendo stato il custode fedele della Sacra Famiglia,
-non è possibile che dal cielo $. Giuseppe non continui
+non è possibile che dal cielo S. Giuseppe non continui
 ad essere il custode della grande famiglia cristiana, la
 Chiesa tutta, la quale, sicura della sua protezione ed appoggiandosi ad essa, così prega: « Sostenuti dal patrocinio dello Sposo della tua santissima Madre, imploriamo, o Signore, la tua clemenza...; per i suoi meriti e
 per la sua intercessione guidaci alla gloria eterna » (MR).
 
 
-2 — La chiamata di Giuseppe a custode della familia di Nazaret è stata anche una chiamata all'intimità
+2 — La chiamata di Giuseppe a custode della famiglia di Nazaret è stata anche una chiamata all'intimità
 ivina. Non dobbiamo dimenticare che S. Giuseppe sta
 
 nel punto di divisione fra l’antico e il nuovo testamento;
@@ -54,7 +54,7 @@ un senso di sacro timore riverenziale. Ma dal momento
 in cui l'Angelo gli rivela il mistero dell’Incarnazione ed
 Egli viene a sapere che Maria, sua Sposa, è la Madre
 del Redentore, tutto cambia nella sua vita. Dio, da lui
-sempre onorato come l'Altissimo, l’Inaccessibile, il. tre
+sempre onorato come l'Altissimo, l’Inaccessibile, il tre
 volte Santo, gli si fa vicino, tanto vicino, fino ad incarnarsi nel seno della sua Sposa e fino a scegliere lui come
 suo Padre putativo. Appena nato, vien posto fra le sue
 braccia, è affidato alle sue cure, e poi crescerà sotto i
@@ -67,7 +67,7 @@ di cui Gesù ci ha aperto le porte. Vediamo dunque Giuseppe compiere la sua miss
 
 
 dizione esterna, ma anche con un cuore pieno di Gesù,
-in cui fiorisce una splendida vita d'intimii divina. Mentre si dà alle opere richieste dal suo compito di padre
+in cui fiorisce una splendida vita d'intimità divina. Mentre si dà alle opere richieste dal suo compito di padre
 putativo, nel segreto della sua anima vive in continui
 rapporti d'amore col suo Dio, Verbo Incarnato.
 
@@ -99,7 +99,6 @@ spossato dalla fatica! Un amore senza riserve ti portava
 verso di lui, come verso un dolcissimo Figliolo che lo
 
 
-VITA DI FEDE IN Ss. GIUSEPPE | 231
 Spirito Santo ti aveva donato, medianté la Vergine tua
 sposa » (S. Bernardino da Siena). ali
 
@@ -116,5 +115,5 @@ Vi.6,6C8).
 O Giuseppe, fa’ che sotto il tuo patrocinio cresca e
 prosperi la vita della Chiesa tutta e Îa vita interiore di
 ogni cristiano. Sotto la tua protezione metto la mia vita
-spirituale; Tu che hai vissuto tanto vicino a Gesù, introlucimi nella sua intimità e fa’ che, come te, possa servirlo
+spirituale; Tu che hai vissuto tanto vicino a Gesù, introducimi nella sua intimità e fa’ che, come te, possa servirlo
 con un cuore pieno di amore.

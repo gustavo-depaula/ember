@@ -39,7 +39,7 @@ detto che lo Spirito Santo è l'anima della Chiesa, e nel
 Santo vivifica la Chiesa: Fgli è l'Impulso d'amore che
 accende in lei lo zelo per la gloria di Dio e per la salvezza
 delle anime, che dà luce e forza ai Pastori, che infervora
-© sospinge sl: /\postoli, che dà coraggio e fede invincibile
+O sospinge sl Apostoli, che dà coraggio e fede invincibile
 ai Martiri,
 
 2.— Essendo la Chiesa la « società » dei fedeli, essa risulta

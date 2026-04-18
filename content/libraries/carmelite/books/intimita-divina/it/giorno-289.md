@@ -86,7 +86,7 @@ amore e si vedrebbero correre con ansietà di desiderio a dilettarsi nelle fragr
 da Siena).
 
 « Una sola cosa desidero, o Signore: cercarti! E per cercarti non mi vorrò mai fermare a cogliere i fiori che incon-
-trerò per via, ossia non mî fermerò mai a gustare i piaceri
+trerò per via, ossia non mi fermerò mai a gustare i piaceri
 che mi si possono offrire in questa vita perchè mi distoglierebbero dal proseguire il mio cammino. Non porrò il mio
 cuore nelle ricchezze e nei beni che il mondo offre, nè ammetterò i diletti e i contenti della mia carne, nè mi fermerò
 nei gusti e nelle consolazioni del mio spirito, a fine di non

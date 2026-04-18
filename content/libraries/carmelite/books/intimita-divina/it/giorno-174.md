@@ -34,7 +34,7 @@ sua impotenza, tanto più la sua anima s'innalza nella
 speranza. Proprio perchè, vera povera di spirito, non ha
 alcuna fiducia nelle sue risorse, nelle sue capacità, nei
 suoi meriti, Maria ripone in Dio solo tutta la sua confidenza. E Dio, che «rimanda vuoti i ricchi e ricolma di bene
-gli affamati» (cfr. Le. 1, 53) ha saziato la sua «fame»,
+gli affamati» (cfr. Lc. 1, 53) ha saziato la sua «fame»,
 ta esaudito le sue speranze non solo riempiendola dei
 suoî doni, ma donandosi a lei nel modo più pieno.
 

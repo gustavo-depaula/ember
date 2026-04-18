@@ -11,7 +11,7 @@ prendere la direzione pratica della nostra vita per condurci
 alla santità, perciò tutta la perfezione cristiana, che è stata
 oggetto dell’insegnamento di Gesù, è parimenti oggetto del
 dono del consiglio, dei suggerimenti dello Spirito Santo:
-«Egli vi suggerirà tutto ciò IR vi ho detto» (Gv. 14, 26),
+«Egli vi suggerirà tutto ciò io vi ho detto» (Gv. 14, 26),
 ha dichiarato il Maestro. Tuttavia, come nell'insegnamento
 di Gesù vi è una nota dominante ed è quella dell'amore, che
 Egli chiama il suo comandamento, così fra le ispirazioni del
@@ -27,30 +27,30 @@ nulla possiamo, nulla valiamo, nulla abbiamo fuorchè il peccato» (S. Giov. Eud
 pieno della parola. Perciò, quando Dio ci ama, il suo amore
 è essenzialmente e necessariamente un atto di misericordia,
 ossia è amore che si china verso la nostra miseria per sollevarla, sostenerla, arricchirla con la sua ricchezza infi-
-nita. Ecco quello che È Spirito Santo si propone in modo particolare di compiere in noi mediante di dono del consiglio:
-insegnarci a ricopiare questa misericordia che è Ja caratteristica principale dell'amore di Dio per noi. Lo Spirito Santo
+nita. Ecco quello che lo Spirito Santo si propone in modo particolare di compiere in noi mediante il dono del consiglio:
+insegnarci a ricopiare questa misericordia che è la caratteristica principale dell'amore di Dio per noi. Lo Spirito Santo
 vuole condurci alla perfetta osservanza del comandamento di
 Gesù, ossia ad imitare l'amore misericordioso del suo cuore
 divino: «amatevi scambievolmente come io ho amato voi»;
 vuol portarci ad imitare la misericordia infinita del Padre celeste: «siate misericordiosi com'è misericordioso il Padre vo-
-stro» (Le. 6, 36).
+stro» (Lc. 6, 36).
 
 
 2. — Dio è infinitamente misericordioso perchè conosce
 a fondo la nostra miseria; noi siamo ben poco misericordiosi
-perchè la conosciamo toppa poco. Lo Spirito Santo, mediante il dono del consiglio, c'illumina su questo punto e anzitut-
-to riguardo alla nostra miseria nale: negli insuccessi,
+perchè la conosciamo troppo poco. Lo Spirito Santo, mediante il dono del consiglio, c'illumina su questo punto e anzitut-
+to riguardo alla nostra miseria naturale: negli insuccessi,
 nelle cadute ci ripete in fondo al cuore gli ammonimenti di
-Gesù: «Senza di me non potete far nulla... Siete servi inutili» (Gv, 15, 5; cfr. Le. 17, le po alla volta questa le-
+Gesù: «Senza di me non potete far nulla... Siete servi inutili» (Gv. 15, 5; cfr. Lc. 17, 10); e poco alla volta questa le-
 zione, resa più viva ed efficace dall'esperienza, penetra pro-
-CRE anime nostre; non abbiamo più bisogno
+fondamente nelle anime nostre; non abbiamo più bisogno
 di lunghi ragionamenti per persuaderci della nostra insuffi-
 
 
 cienza, del nostro nulla: lo vediamo, lo tocchiamo con mano.
 Il dono del consiglio ci ha aperto gli occhi.
 
-La comprensione della nostra miseria nale ci rende
+La comprensione della nostra miseria naturale ci rende
 comprensivi anche della miseria altrui. Come potrà avere
 l’ardire di condannare gli altri chi è davvero convinto della
 propria fragilità, debolezza, incostanza? « Chi è senza peccato,
@@ -71,9 +71,9 @@ di beneficarli per attuare in pieno l'insegnamento di Gesù:
 Ecco dove vuole condurci lo Spirito Santo col dono del
 consiglio ed in tal modo ci stabilirà in quella misericordia
 
-fetta di cui il Maestro divino ha detto: « Beati i misericor-
+perfetta di cui il Maestro divino ha detto: « Beati i misericor-
 
-osi, perchè troveranno misericordia» (Mt. 5, 7). Ecco
+diosi, perchè troveranno misericordia» (Mt. 5, 7). Ecco
 il consiglio prudentissimo dello Spirito Santo: siate miseri
 cordiosi perchè «sarete giudicati secondo lo stesso giudizio col quale avrete giudicato» (ivi, 7, 2).
 

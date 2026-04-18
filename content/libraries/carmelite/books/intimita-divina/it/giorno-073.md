@@ -22,7 +22,7 @@ peccati, potestà che non ha dato agli angeli e neppure a
 Maria SS.ma, ma che ha riservata ai suoi ministri.
 
 «Chi può rimettere i peccati se non il solo Dio? »
-(Mr. 2, 7), si domandavano scandalizzati gli scribi, vedendo Gesù assolvere i peccatori; con un simile atteggiamento, ondeggiante fra l'incredulità e lo scherno, tuttora il
+(Mc. 2, 7), si domandavano scandalizzati gli scribi, vedendo Gesù assolvere i peccatori; con un simile atteggiamento, ondeggiante fra l'incredulità e lo scherno, tuttora il
 mondo considera il sacramento della penitenza, non sapendo e non volendo riconoscere nel sacerdote il ministro
 di Dio. Ma per chi ha fede non vi è forse un sacramento
 che più di questo muova alla pietà, alla devozione, alla

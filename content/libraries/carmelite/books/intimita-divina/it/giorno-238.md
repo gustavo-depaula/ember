@@ -6,9 +6,8 @@ O Signore, fa' che la fede sia la luce che mi guidi in ogni circostanza della vi
 
 ### Meditazione
 
-1. — La fede deve essere la luce che LO tutta la
-nostra vita e non solo le nostre ore di preghiera. Nella preghiera tu dici: « Credo in Dio Padre onnipotente », ma po-
-chi istanti dopo, di fronte ad un dovere difficile, ad una
+1. — La fede deve essere la luce che illumini tutta la
+nostra vita e non solo le nostre ore di preghiera. Nella preghiera tu dici: « Credo in Dio Padre onnipotente », ma pochi istanti dopo, di fronte ad un dovere difficile, ad una
 persona importuna, ad una circostanza che turba i tuoi piani
 dimentichi che tutto ciò è voluto, è disposto da Dio per il
 tuo bene; dimentichi che Dio è Padre e, come tale, pensa
@@ -18,7 +17,7 @@ fa vedere tutte le cose in dipendenza da Dio e da lui ordinate per il tuo vantag
 proteste puramente umane, come se Dio non entrasse per
 
 nulla nella tua vita o vi entrasse solo molto poco; ti perdi
-in E LARLE simili a quelli di chi non ha fede, Sì,
+in pensieri simili a quelli di chi non ha fede, Sì,
 credi in Dio Padre onnipotente, ma non ci credi al punto da
 riconoscere la sua volontà o, almeno, la sua permissione, in
 tutte le circostanze. Eppure, fino a che la fede non penetrerà
@@ -30,27 +29,23 @@ che « non si accende una lucerna per metterla sotto il moggio, ma sul candelier
 sono in casa» (Mt, 5, 15). La lucerna della fede è stata accesa in te il giorno del tuo battesimo e tu devi metterla in
 alto, al di sopra di tutti i tuoi pensieri, di tutti i tuoi ragionamenti, affinchè illumini tutta la tua vita, tutta la tua casa:
 la casa interiore dell'anima tua, la casa esteriore in cui vivi,
-l’ambiente in cui ti muovi, le persone con le quali tratti.
+l'ambiente in cui ti muovi, le persone con le quali tratti.
 
 2. — Chi vive di fede può ripetere le belle parole di
 Elisabetta della Trinità: «Tutto ciò che accade è per me
-un messaggio dell'amore eccessivo di Dio per l’anima mia ».
+un messaggio dell'amore eccessivo di Dio per l'anima mia ».
 Per arrivare a questo sguardo di fede vivo e profondo devi
 abituarti, nelle tue relazioni con le creature, ad oltrepassare
 le cause seconde per risalire alla Causa prima, a Dio, che
 con la sua Provvidenza tutto governa ed ordina ai suoi santissimi fini. Sapendo e credendo che Colui che guida tutte
 le cose è tuo Padre, ti affiderai al suo governo con piena fiducia e saprai mantenerti sereno anche nelle avversità, ben
-convinto che Egli sa valersi anche del male, anche degli errori degli uomini e perfino dei loro peccati e della loro ma-
-lignità per il bene degli eletti: « tutto coopera a bene per chi
+convinto che Egli sa valersi anche del male, anche degli errori degli uomini e perfino dei loro peccati e della loro malignità per il bene degli eletti: « tutto coopera a bene per chi
 ama Dio» (Rom. 8, 28). Lo sguardo di fede è lo sguardo
 più comprensivo e concreto perchè tiene conto della realtà
 intera delle creature e degli avvenimenti, considerandoli, non
 solo nella loro entità materiale, ma anche nella loro relazione
 di dipendenza da Dio. Quanto più saprai guardare tutte le
-cose in questa luce, tanto pi avvicinerai al o A
-
-, alla sapienza infinita di io, tanto più giudicher: D
-Later la verità infallibile di Dio. Lo sguardo di fede ti
+cose in questa luce, tanto più ti avvicinerai alla sapienza infinita di Dio, tanto più giudicherai secondo la verità infallibile di Dio. Lo sguardo di fede ti
 renderà così meno difficile accettare certe situazioni dolo
 rose, certe amarezze della vita perchè anche in esse ti farà
 scorgere la mano paterna di Dio che tutto ordina alla tua
@@ -59,7 +54,7 @@ umano, sei tentato di protestare, di far valere le tue ragioni,
 i tuoi diritti, di ribellarti a trattamenti di per sè ingiusti, ecco
 che, innalzando lo sguardo a Dio e considerando che Egli
 permette tutto ciò per esercitarti nella virtù, per spingerti
-alla santità, avrai la forza di accettare in pace ogni cosa € di
+alla santità, avrai la forza di accettare in pace ogni cosa e di
 mantenerti benevolo verso chi ti fa soffrire. Ma, nello stesso
 tempo, ricorda che la fede è luce oscura per il tuo intelletto
 e perciò molte volte ti chiederà di credere al governo sapiente
@@ -69,29 +64,28 @@ di fede e l'uomo « giusto vive di fede» (Rom. 1, 17).
 
 ### Colloquio
 
-<Dio mio, per farti piacere e ottenere molto da te devo
+«Dio mio, per farti piacere e ottenere molto da te devo
 credere semplicemente al tuo amore, alla tua potenza, alla
 dolcezza dei doni tuoi; devo credere che Tu brami comuni:
 carmeli e che il tuo desiderio supra di gran lunga quello
 che io ho di riceverli. Devo crederlo, perchè il giusto vive
 di fede. Voglio essere come una figlia affettuosa che non vuol
-vedere, nè sapere quali mezzi sceglierai per pEotierani i tuoi
-beni ineffabili. Devo soltanto crederlo, pere! hè il giusto vive
+vedere, nè sapere quali mezzi sceglierai per elargirmi i tuoi
+beni ineffabili. Devo soltanto crederlo, perchè il giusto vive
 di fede.
 
 «O Signore, Tu penetri ovunque con la tua bontà, col
 tuo amore individuale, infinito e con la tua onnipotenza.
 Dammi una fede tanto semplice per cui, senza alcuna riflessione, mi muova e permanga in questa verità come nel
-mio centro e în un asilo di pace, dove niente può colpirmi
+mio centro e in un asilo di pace, dove niente può colpirmi
 
 se vi resto ben nascosta. O Signore, Tu mi ami più di quanto
 io ami me stessa e puoi tutto; vuoi, prima di ogni altra cosa
-i mio bene; devo credere che lo desideri più di me. Eccomi
-linanzi a te costantemente e in ogni tempo; ‘hè so che gli
+il mio bene; devo credere che lo desideri più di me. Eccomi
+dinanzi a te costantemente e in ogni tempo; perchè so che gli
 atti di adorazione perfetta e di abbandono sono tanto più
 veri, umili e semplici quando, privi di qualsiasi sentimento,
-si esprimono col solo appoggio della fede... soprattutto quando l'anima, nella parte inferiore, vede e tocca il vuoto pro-
-fondo nel tempo e nell’eternità. Ebbene, o Signore, fa’ che
+si esprimono col solo appoggio della fede... soprattutto quando l'anima, nella parte inferiore, vede e tocca il vuoto profondo nel tempo e nell'eternità. Ebbene, o Signore, fa' che
 in questi stati io possa rimanere, con la fede, più che mai
 presente innanzi a te. O prodigio! Quando piace alla tua bontà
 divina, l'anima può nella parte superiore sentirsi inondata di

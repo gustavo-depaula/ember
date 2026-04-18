@@ -26,7 +26,7 @@ Un giardino chiuso che mai fu violato neppure per un
 istante dall'ombra del peccato, che mai fu soggetto ai
 venti delle passioni sregolate, che mai fu occupato da
 alcun affetto di creatura. «La gloriosissima Nostra Signora
-= dichiara S. Giovanni della Croce — non ebbe mai impressa nell'anima sua alcuna forma di creaura che la muovesse
+dichiara S. Giovanni della Croce — non ebbe mai impressa nell'anima sua alcuna forma di creatura che la muovesse
 ad agire, ma sempre la sua mozione fu dallo Spirito Santo»
 (S. III, 2, 11). Piena di grazia fin dalla nascita, Maria
 fu sempre la sposa fedele dello Spirito Santo, attenta e
@@ -64,7 +64,7 @@ negli stenti e nella sofferenza che dovette subire, mai
 un ritorno su di sè, mai un lamento, ma sempre avanti,
 totalmente dimentica del suo patire, totalmente protesa
 nell'adempimento della volontà divina. È lo Spirito Santo
-che la guida, che la spinge, che la sostiene, e i segreto di
+che la guida, che la spinge, che la sostiene, e il segreto di
 Maria sta in questo, lasciarsi in tutto reggere e muovere da
 Lui. Come per opera dello Spirito Santo la. Vergine ha
 concepito il Figlio di Dio, così tutte le sue azioni sono

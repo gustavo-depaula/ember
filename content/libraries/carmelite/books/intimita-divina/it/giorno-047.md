@@ -7,7 +7,7 @@
 ### Meditazione
 
 1 — Benchè la grazia sia ugualmente creata dalle tre
-Persone della $S.ma Trinità, senza alcuna differenza o distinzione, tuttavia la sua diffusione nelle anime viene par-
+Persone della SS.ma Trinità, senza alcuna differenza o distinzione, tuttavia la sua diffusione nelle anime viene par-
 ticolarmente attribuita alla terza Persona, ossia allo Spirito
 Santo, al quale si riferisce, per appropriazione, tutto quanto riguarda l'opera della santificazione. In questo senso
 anche quell’immenso dono di grazia che inonda l'Anima
@@ -42,7 +42,7 @@ lo Spirito Santo solo in quanto siamo uniti a Cristo, è a
 sua volta lo Spirito Santo ci unisce a Cristo. Infatti, come
 dice S. Paolo, «se uno non ha lo‘Spirito di Cristo, non è
 dei suoi. Se invece Cristo è in noi... lo spirito vive per
-effetto della giustificazione » (Rozz. 8,9 e 10).
+effetto della giustificazione » (Rom. 8,9 e 10).
 
 Vivere in Cristo è vivere nello Spirito Santo; essere
 membro del suo Corpo mistico è essere tempio dello Spirito Santo; e quella grazia che Cristo ci ha meritato e che
@@ -89,7 +89,7 @@ le creature ragionevoli... Tu ardi col fuoco del tuo spirito,
 e consumi e dibarbichi dal fondamento ogni amore e affetto della carne dai cuori delle piante novelle, le quali ti
 sei degnato inserire nel Corpo mistico della santa Chiesa...
 Degnati, o Dio, di trasferirci dagli affetti mondani nel
-giardino dell’affetto tuo, e dà a noì nuovo cuore con vera
+giardino dell’affetto tuo, e dà a noi nuovo cuore con vera
 notizia della tua volontà, acciocchè, fatti dispregiatori del
 mondo, di noi medesimi, e dell’amor proprio, ed empiti
 di vero fervore del tuo amore... seguitiamo solamente te

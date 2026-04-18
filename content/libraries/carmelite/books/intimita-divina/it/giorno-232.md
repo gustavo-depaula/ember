@@ -13,9 +13,9 @@ si identifica così con la divina provvidenza che tutto ordina,
 dispone, guida al raggiungimento di un fine ben determinato: fine ultimo e supremo, la gloria di Dio; fine prossimo e
 secondario, il bene e la felicità delle creature. Nulla esiste
 senza motivo, nulla avviene a caso nel mondo, ma tutto, assolutamente tutto rientra nel grandioso piano della divina
-provvidenza, piano in cui ogni creatura, anche l’infima fra
+provvidenza, piano in cui ogni creatura, anche l'infima fra
 tutte, ha il suo posto, il suo scopo, il suo valore, in cui ogni
-avvenimento, anche il più insignificante, è fin dall’eternità
+avvenimento, anche il più insignificante, è fin dall'eternità
 previsto ed ordinato nei suoi minimi particolari. In questo
 piano vastissimo e meraviglioso tutte le creature, dalle più
 sublimi — come gli angeli — alle più umili — come le gocce
@@ -28,7 +28,7 @@ il posto che esse hanno nel piano della divina provvidenza
 in cui tutto è ordinato al nostro ultimo bene. Sì, anche la
 sofferenza è ordinata al nostro bene e Dio, che è bontà infinita, non la vuole e non la permette se non a questo scopo.
 Noi crediamo ciò in teoria, ma facilmente lo dimentichiamo
-în pratica sì che, quando ci troviamo davanti a situazioni
+in pratica sì che, quando ci troviamo davanti a situazioni
 oscure e dolorose che vengono a spezzare o ad intralciare i
 nostri progetti, i nostri desideri, ci smarriamo e sulle labbra
 ci sale la domanda angosciosa: « Perchè Dio permette questo? ». Eppure, la risposta non manca mai ed è universale ed
@@ -49,8 +49,7 @@ fatto, la provvidenza di Dio è così immensa e potente che,
 mentre abbraccia l'universo intero, nello stesso tempo si prende una cura speciale di ognuna delle sue creature, anche delle
 più piccole. Proprio sotto questo aspetto Gesù ci ha presentato la provvidenza del Padre celeste: « Nemmeno un passe
 ro cade in terra senza il permesso del Padre vostro... Non temete, dunque, voi siete da più di molti passeri» (Mt. 10,
-29 e 31). Come Dio non ci ha creato a serie, ma crea individualmente l'anima di ogni uomo che viene al mondo, co-
-sì la sua divina provvidenza non si limita ad assisterci in
+29 e 31). Come Dio non ci ha creato a serie, ma crea individualmente l'anima di ogni uomo che viene al mondo, così la sua divina provvidenza non si limita ad assisterci in
 blocco, ma ci assiste uno per uno, ben conoscendo tutte le
 nostre necessità, le nostre difficoltà e perfino i nostri desideri
 e ben sapendo quel che più conviene al nostro vero bene.
@@ -62,7 +61,7 @@ tutto può. Nemmeno il più piccolo passero è dimenticato,
 nemmeno il più umile fiore del campo è trascurato. «Considerate — dice Gesù — come crescono i gigli del campo;
 essi non lavorano e non filano. Tuttavia... neppur Salomone...
 fu mai vestito come uno di essi. Se dunque Dio riveste così
-l’erba del campo, che oggi è e domani vien buttata nel forno, quanto più a maggior ragione vestirà voi, o uomini di poca
+l'erba del campo, che oggi è e domani vien buttata nel forno, quanto più a maggior ragione vestirà voi, o uomini di poca
 fede?» (Mt. 6, 26-30). La provvidenza di Dio ci circonda da
 tutte le parti; di essa viviamo, per essa ci moviamo e siamo e,
 nondimeno, siamo così tardi a credere in essa, così diffidenti!
@@ -75,7 +74,7 @@ in una confidenza più grande, anzi, illimitata, poichè illimitata è la divina
 germogliare, a suo tempo fai sbocciare i fiori e poi i
 frutti. Tu governi il sole, la luna, i pianeti e, insomma,
 hai creato tutto con mirabil ordine e tutto hai fatto per
-l’uomo. L’uomo, poi, hai fatto solo per te e vuoi riposarti in
+l'uomo. L'uomo, poi, hai fatto solo per te e vuoi riposarti in
 lui, nè vuoi che egli si riposi e quieti in altro che in te. Tu
 non hai bisogno della creatura, eppure poni in
 essa il tuo riposo, affinchè lei ti possa poi godere e goderti a faccia a faccia, insieme
@@ -83,8 +82,7 @@ con te. La tua provvidenza divina, o Signore, è tale che Tu
 hai cura di tutti come se fossero uno solo; e di uno solo, come
 se in quello fossero tutti racchiusi. Oh, se la tua provvidenza
 fosse compresa, ogni creatura lascerebbe le cose di questo
-mondo e seguirebbe te per potersi unire con la tua provvi-
-denza!» (S. M. Maddalena de’ Pazzi).
+mondo e seguirebbe te per potersi unire con la tua provvidenza!» (S. M. Maddalena de' Pazzi).
 
 «Benefico sei, o Signore, verso tutti, e la tua pietà si
 spande su tutte le tue creature. Ti lodino, o Signore, tutte
@@ -95,6 +93,5 @@ Tu rendi giustizia agli oppressi, dai il pane agli affamati,
 sciogli i prigionieri, apri gli occhi ai ciechi, risani
 i cuori affranti e ne fasci le piaghe.
 Tu copri i cieli di nubi, apparecchi alla terra la pioggia, e
-fai crescere l’erba sui monti; dai il loro cibo agli animali,
-ai piccoli corvi ciò che domandano. O Signore, tutte le creature si effondano nel ricordo della tua immensa bontà e ac-
-clamino alla tua liberalità!» (cfr. Sal. 144; 145; 146).
+fai crescere l'erba sui monti; dai il loro cibo agli animali,
+ai piccoli corvi ciò che domandano. O Signore, tutte le creature si effondano nel ricordo della tua immensa bontà e acclamino alla tua liberalità!» (cfr. Sal. 144; 145; 146).

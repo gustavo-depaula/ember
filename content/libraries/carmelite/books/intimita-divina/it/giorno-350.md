@@ -2,7 +2,7 @@
 
 ### Presenza di Dio
 
-— O Dio, che sei tanto grande, degnati d'inalzare fino a te l'anima mia tanto piccola e misera.
+O Dio, che sei tanto grande, degnati d'inalzare fino a te l'anima mia tanto piccola e misera.
 
 ### Meditazione
 

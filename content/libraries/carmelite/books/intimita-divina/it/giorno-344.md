@@ -9,7 +9,7 @@ O Signore, purificami come l'oro nel crogiuolo; purificami e non risparmiarmi af
 paziente nell'accettare le prove esterne, passerà un po'
 
 alla volta a quelle più intime, più spirituali per « purificarti bene addentro a fine di darti beni più intimi » (cfr.
-G.C. F. 2, 28). La notte passiva dello spirito culmina proprio con queste pene interiori mediante le quali Dio «sminuzza e disfà la sostanza spirituale » (N.II, 6, 1) dell’anima per farla rinascere completamente a vita divina. Siamo, infatti, così impastati di miserie e di difetti ed essi
+G.C. F. 2, 28). La notte passiva dello spirito culmina proprio con queste pene interiori mediante le quali Dio «sminuzza e disfà la sostanza spirituale » (N.II, 6, 1) dell'anima per farla rinascere completamente a vita divina. Siamo, infatti, così impastati di miserie e di difetti ed essi
 sono così aderenti alla nostra natura, che se Dio stesso
 non ci pone le mani, quasi disfacendoci e rifacendoci da
 capo a piedi, non ne saremo mai liberati. Anche Gesù
@@ -20,15 +20,15 @@ unione con lui, al quale nessuno perviene se prima non è
 totalmente purificato.
 
 S. Giovanni della Croce ha spiegato diffusamente come tale opera di purificazione viene appunto compiuta
-dallo Spirito Santo il quale, investendo l’anima con la viva fiamma del suo amore, distrugge e consuma tutte Je
+dallo Spirito Santo il quale, investendo l'anima con la viva fiamma del suo amore, distrugge e consuma tutte Je
 sue imperfezioni. «Finchè la divina fiamma — dice il
 
-Santo — purga e dispone l’anima, riesce a lei assai molesta: non è una fiamma chiara ma oscura, la quale, se
-le dona un po’ di luce, lo fa perchè ella veda e senta solamente le sue miserie e difetti » (F.1, 19). Benchè l’anima si trovi sotto l’azione diretta dello Spirito Santo, questa azione non le è gustosa, ma penosa perchè il primo
+Santo — purga e dispone l'anima, riesce a lei assai molesta: non è una fiamma chiara ma oscura, la quale, se
+le dona un po' di luce, lo fa perchè ella veda e senta solamente le sue miserie e difetti » (F.1, 19). Benchè l'anima si trovi sotto l'azione diretta dello Spirito Santo, questa azione non le è gustosa, ma penosa perchè il primo
 
-ufficio che essa compie è proprio quello di mostrarle tutte le sue debolezze e miserie affinchè ne concepisca orcore, le detesti, se ne umili, se ne dolga. La luce penetrante della « fiamma d’amor viva » solleva il fitto velo che
-nascondeva all'anima le radici dei suoi mali abiti. Di fronte a tale visione l’anima soffre, non solo perchè se ne sente umiliata, ma anche perchè reme di essere ripudiata da
-Dio; infatti, riconoscendosi tanto miserabile, si sente terribilmente indegna dell'amore divino e, anzi, in certi momenti le sembra addirittura che il Signore, sdegnato, l’allontani da sè. È questo il più grande tormento che l’anima può soffrire, ma è un tormento prezioso perchè la
+ufficio che essa compie è proprio quello di mostrarle tutte le sue debolezze e miserie affinchè ne concepisca orcore, le detesti, se ne umili, se ne dolga. La luce penetrante della « fiamma d'amor viva » solleva il fitto velo che
+nascondeva all'anima le radici dei suoi mali abiti. Di fronte a tale visione l'anima soffre, non solo perchè se ne sente umiliata, ma anche perchè reme di essere ripudiata da
+Dio; infatti, riconoscendosi tanto miserabile, si sente terribilmente indegna dell'amore divino e, anzi, in certi momenti le sembra addirittura che il Signore, sdegnato, l'allontani da sè. È questo il più grande tormento che l'anima può soffrire, ma è un tormento prezioso perchè la
 2 da ogni residuo di amor proprio, di orgaglio,
 perchè scava in lei quel profondo abisso di umiltà che
 invoca e attira l'abisso delle misericordie divine.
@@ -56,11 +56,11 @@ infinitamente buono, non dispre: il tuo cuore pentito
 ed umiliato. Dio ti ama e, lungi dal rigetrarti, desidera
 umirti a sè, ma prima di farlo vuole renderti perfertamente consapevole che sei del tutto immeritevole di quest
 grande grazia. Dio si comunica solo alle anime umili e
-solo gli umili riempie dei suoi doni: ecco il motivo delle sofferenze purificatrici della notte dello spirito; è impossibile, infatti, giungere all’umiltà piena senza passare
+solo gli umili riempie dei suoi doni: ecco il motivo delle sofferenze purificatrici della notte dello spirito; è impossibile, infatti, giungere all'umiltà piena senza passare
 attraverso le amare angustie di questa notte in cui Dio
 
-S'incarica di umiliare l’anima. Ma quando, alfine,
-l'avrà ridotta al centro del suo nulla, allora l’esalterà attirandola a sè nella perfetta unione d'amore.
+S'incarica di umiliare l'anima. Ma quando, alfine,
+l'avrà ridotta al centro del suo nulla, allora l'esalterà attirandola a sè nella perfetta unione d'amore.
 
 ### Colloquio
 
@@ -72,7 +72,7 @@ dico questo non perchè rimanga nella tua miseria, ma
 erchè, sforzandoti di vincerla, non abbia a disperare della sua clemenza e del suo perdono.
 
 «Il tuo Dio è la stessa dolcezza, la soavità stessa; chi
-amerai, chi desidererai all’infuori di lui?
+amerai, chi desidererai all'infuori di lui?
 
 « Non avvilirti, anima mia, per le tue imperfezioni; il
 tuo Dio non ti disprezza perchè sei imperfetta e inferma, Egli, anzi, ti ama perchè tu desideri e cerchi di gua
@@ -88,5 +88,5 @@ dunque, pietà di me, o Dio, che tanto ami gli uomini!
 Oh, mia ultima speranza! Abbi pietà di me, secondo la
 grandezza delle tue misericordie » (B. Luigi De Blois).
 
-«L'’abisso chiama un altro abisso. E là, Dio mio, proprio in fondo, avverrà l’incontro con te: l’abisso del mio
-nulla, della mia miseria, si troverà di fronte all’abisso della tua misericordia, dell'immensità del tuo tutto; là troverò la forza di morire a me stessa e sarò mutata in amo-
+«L''abisso chiama un altro abisso. E là, Dio mio, proprio in fondo, avverrà l'incontro con te: l'abisso del mio
+nulla, della mia miseria, si troverà di fronte all'abisso della tua misericordia, dell'immensità del tuo tutto; là troverò la forza di morire a me stessa e sarò mutata in amo-

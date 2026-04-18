@@ -6,98 +6,18 @@ O Signore, dammi un cuore grande, capace d'intraprendere per te cose grandi.
 
 ### Meditazione
 
-1. — Chi aspira alla santità deve avere un cuore largo,
-magnanime che non si accontenta di fare per Iddio cose da
-poco e minuscoli atti di virtù, ma che desidera fare grandi
-cose e dargli grandi testimonianze d'amore. Come non c'è
-santità senza virtù eroica, così non si può arrivare all’eroismo
-senza compiere grandi atti di virtù. go
+1. — Chi aspira alla santità deve avere un cuore largo, magnanimo che non si accontenta di fare per Iddio cose da poco e minuscoli atti di virtù, ma che desidera fare grandi cose e dargli grandi testimonianze d'amore. Come non c'è santità senza virtù eroica, così non si può arrivare all'eroismo senza compiere grandi atti di virtù.
 
-Certe anime pensano che nutrire grandi desideri e voler
-fare per Iddio grandi cose sia orgoglio ed illusione del demonio; lo sarebbe certamente se in ciò si cercasse il proprio ono-
-re ed il plauso delle creature, o se, per fare cose grandi, si
-trascurassero le piccole e quotidiane che s'incontrano ogni
-giorno nella linea del dovere. Ma non è così: la virtù della
-magnanimità inclina l'anima a rendere a Dio grandi serviz
-non mai però a scapito dell'obbedienza, dell'umiltà e dell
-dempimento del dovere. Anzi, proprio su questa linea l’ani
-ma generosa incontrerà spesso cose ardue e difficili che
-chieino molta virtù e che tuttavia il più delle volte riman-
+Certe anime pensano che nutrire grandi desideri e voler fare per Iddio grandi cose sia orgoglio ed illusione del demonio; lo sarebbe certamente se in ciò si cercasse il proprio onore ed il plauso delle creature, o se, per fare cose grandi, si trascurassero le piccole e quotidiane che s'incontrano ogni giorno nella linea del dovere. Ma non è così: la virtù della magnanimità inclina l'anima a rendere a Dio grandi servigi, non mai però a scapito dell'obbedienza, dell'umiltà e dell'adempimento del dovere. Anzi, proprio su questa linea l'anima generosa incontrerà spesso cose ardue e difficili che chiedono molta virtù e che tuttavia il più delle volte rimangono completamente nascoste agli occhi delle creature. Di fronte a simili prospettive siamo spesso tentati di ritirarci col pretesto che non è necessario spingere la virtù a tali estremi e ci scusiamo dicendo: non siamo angeli, non siamo santi, «Benchè non lo siamo per davvero — ammonisce S. Teresa di Gesù — è sempre utile pensare che con l'aiuto di Dio e mercè i nostri sforzi possiamo divenirlo» (Cam. 16, 11). La Santa insiste fortemente perchè coloro che si danno alla vita spirituale non abbiano desideri gretti, ma generosi, nè temano di emulare i santi e attesta con autorità: «Fra queste anime [coraggiose] non ne ho mai visto alcuna rimanere indietro nel cammino della perfezione, come non ho mai visto alcuna fra le pusillanimi, che si nascondono sotto il velo dell'umiltà, fare in molti anni il profitto che le prime fanno in pochissimi» (Vi. 13, 2).
 
-ono completamente nascoste agli i delle creature. Di
-fonte a simili prospettive siamo spesso tentati di ritirarci col
-pretesto che non è necessario spingere la virtù a tali estremi
-e ci scusiamo dicendo: non siamo angeli, non siamo santi,
-«Benchè non lo siamo per davvero — ammonisce S. Teresa
-di Gesù — è sempre utile pensare che con l’aiuto di Dio e
-mercè i nostri sforzi possiamo divenirlo» (Cam. 16, 11). La
-Santa insiste fortemente perchè coloro che si danno alla vita
-spirituale non perio i
-
-
-lesideri gretti, ma generosi, nè temano di emulare i santi e attesta con autorità: « Fra queste
-anime [coraggiose] non ne ho mai visto aleuna timanere indietro nel cammino della perfezione, come non ho mai vi-
-
-
-sto alcuna fra le pusillanimi, che si nascondono sotto il velo
-dell’umiltà, fare in molti anni il profitto che le prime fanno
-în pochissimi» (Vi. 13, 2),
-
-
-2. — Il contrario della magnanimità è la pusillanimità o
-piccolezza di spirito, difetto che trattiene le anime dal compiere opere grandi per eccessivo timore di cattiva riuscita.
-E' vero che non dobbiamo essere temerari esponendoci di proprio arbitrio a imprese superiori alle nostre forze; anche ciò
-è difetto, è imprudenza e presunzione che dispiace a Dio. Ma
-quando, attraverso le circostanze e dopo sufficiente esame,
-vediamo con chiarezza che il Signore vuole da noi certi atti
-di virtù o determinate opere, non dobbiamo ritirarci, per quanto difficili ci possano sembrare. Dio non saprà, dunque, darci
-la forza per compiere quel che ci chiede? Perchè dubitare di
-lui? Il pusillanime, che in simili occasioni si ritira con la scusa
-di non sentirsi capace di tanto, può credersi umile, ma in
-fondo è un vile, è un superbo che dubita di Dio. E' vile perchè, troppo preoccupato di sè, teme il rischio, teme di esporsi
-alle critiche altrui, teme la fatica ed il sacrificio; è superbo
-
-hè si fida più del suo giudizio errato che di Dio e delfa sua grazia. L'umile invece, pur essendo consapevole del
-suo nulla, fa credito a Dio e, se è convinto della sua debolezza, è ancor più convinto che Dio può servirsi anche di
-«ssa per compiere opere di valore. Il vero umile, dunque,
-non è mai pusillanime, ma sempre magnanime: non teme
-di animarsi a fare cose grandi per Teldio e questa stessa disposizione lo aiuta moltissimo a progredire. « Anche se non ha an-
-cora gran forza — dice Teresa di Gesù — prende subito il
-volo e s'innalza di molto, nonostante che si possa presto stancare, come un uccellino di primo pelo, e lasciare andare le
-ali» (Vi. 13, 2). E' proprio della nostra debolezza stancarci,
-ma se avremo grande fiducia e grande amore, sapremo ben
-presto rialzare le ali. Più la nostra fiducia in Dio sarà piena
-€ più diventeremo forti della fortezza divina; più il nostro
-amore sarà intenso e più diventeremo capaci di compiere
-
-
-per il Signore cose ardue: « L'amore perfettissimo — inse
-na S. Tommaso — mette mano a qualsiasi cosa più difficile »
-TIT Sent. D. 29, q. 1, a. 8). Sostenuti dalla fiducia e dall’amore possiamo elevare alto il volo senza temere pericoli e ca-
-dute.
+2. — Il contrario della magnanimità è la pusillanimità o piccolezza di spirito, difetto che trattiene le anime dal compiere opere grandi per eccessivo timore di cattiva riuscita. E' vero che non dobbiamo essere temerari esponendoci di proprio arbitrio a imprese superiori alle nostre forze; anche ciò è difetto, è imprudenza e presunzione che dispiace a Dio. Ma quando, attraverso le circostanze e dopo sufficiente esame, vediamo con chiarezza che il Signore vuole da noi certi atti di virtù o determinate opere, non dobbiamo ritirarci, per quanto difficili ci possano sembrare. Dio non saprà, dunque, darci la forza per compiere quel che ci chiede? Perchè dubitare di lui? Il pusillanime, che in simili occasioni si ritira con la scusa di non sentirsi capace di tanto, può credersi umile, ma in fondo è un vile, è un superbo che dubita di Dio. E' vile perchè, troppo preoccupato di sè, teme il rischio, teme di esporsi alle critiche altrui, teme la fatica ed il sacrificio; è superbo perchè si fida più del suo giudizio errato che di Dio e della sua grazia. L'umile invece, pur essendo consapevole del suo nulla, fa credito a Dio e, se è convinto della sua debolezza, è ancor più convinto che Dio può servirsi anche di essa per compiere opere di valore. Il vero umile, dunque, non è mai pusillanime, ma sempre magnanime: non teme di animarsi a fare cose grandi per Iddio e questa stessa disposizione lo aiuta moltissimo a progredire. «Anche se non ha ancora gran forza — dice Teresa di Gesù — prende subito il volo e s'innalza di molto, nonostante che si possa presto stancare, come un uccellino di primo pelo, e lasciare andare le ali» (Vi. 13, 2). E' proprio della nostra debolezza stancarci, ma se avremo grande fiducia e grande amore, sapremo ben presto rialzare le ali. Più la nostra fiducia in Dio sarà piena e più diventeremo forti della fortezza divina; più il nostro amore sarà intenso e più diventeremo capaci di compiere per il Signore cose ardue: «L'amore perfettissimo — insegna S. Tommaso — mette mano a qualsiasi cosa più difficile» (III Sent. D. 29, q. 1, a. 8). Sostenuti dalla fiducia e dall'amore possiamo elevare alto il volo senza temere pericoli e cadute.
 
 ### Colloquio
 
-« Oh, possente amore di Dio! Com'è vero che l'amante non
-trova nulla d'impessibile! Felice l'anima che ha ottenuto la
-tua pace, o mio Dio! Ella domina i pericoli e le sofferenze
-del mondo e nulla l'impaurisce dove si tratta di servi
+«Oh, possente amore di Dio! Com'è vero che l'amante non trova nulla d'impossibile! Felice l'anima che ha ottenuto la tua pace, o mio Dio! Ella domina i pericoli e le sofferenze del mondo e nulla l'impaurisce dove si tratta di servire.
 
-«Il tuo vero servo, o Signore, colui che è da te illuminato
-e guidato per la vera strada, quanto più nel cammino si sente
-prendere di timore, tanto più cresce nel desiderio di non fermarsi. Insegnami dunque, Dio mio, ad andare sempre avanti,
-a combattere da forte; aiutami a sottrarmi ai colpi del demonio che tenta di farmi paura.
+«Il tuo vero servo, o Signore, colui che è da te illuminato e guidato per la vera strada, quanto più nel cammino si sente prendere di timore, tanto più cresce nel desiderio di non fermarsi. Insegnami dunque, Dio mio, ad andare sempre avanti, a combattere da forte; aiutami a sottrarmi ai colpi del demonio che tenta di farmi paura.
 
-«O mio Dio, che cosa fa mai un’anima se non si consuma
-per te? E quanto io son lontana, quanto — sì, lo pos ripetere mille volte — quanto sono mai lontana dal far questo!
-Quante imperfezioni in me! Quanta rilassatezza nel tuo servizio! Molte volte, per non sentirmi con tante miserie, vorrei
-esser priva di sentimento. Rimediavi Tu che lo puoi! Infondi
-nel mio cuore grande confidenza ed aceresci i miei desideri
-perchè, se mi applicherò di buona volontà e confiderò molto
-nel tuo aiuto, potrò arrivare anch'io a poco a poco, se non subito, dove arrivarono molti santi.
+«O mio Dio, che cosa fa mai un'anima se non si consuma per te? E quanto io son lontana, quanto — sì, lo posso ripetere mille volte — quanto sono mai lontana dal far questo! Quante imperfezioni in me! Quanta rilassatezza nel tuo servizio! Molte volte, per non sentirmi con tante miserie, vorrei esser priva di sentimento. Rimediavi Tu che lo puoi! Infondi nel mio cuore grande confidenza ed accresci i miei desideri perchè, se mi applicherò di buona volontà e confiderò molto nel tuo aiuto, potrò arrivare anch'io a poco a poco, se non subito, dove arrivarono molti santi.
 
-«Com'è vero, o Signore, che in te tutto si può e come
-capisco bene che da me non posso nulla! Perciò ti supplico
-con S.. Agostino: ‘Dammi, o Signore, ciò che comandi e
-comandami ciò che vuoi» (T.G. P. 3, 4; Cam. 21, 9; 20, 2;
-Vi. 39,6; 13,23).
+«Com'è vero, o Signore, che in te tutto si può e come capisco bene che da me non posso nulla! Perciò ti supplico con S. Agostino: 'Dammi, o Signore, ciò che comandi e comandami ciò che vuoi» (T.G. P. 3, 4; Cam. 21, 9; 20, 2; Vi. 39, 6; 13, 23).

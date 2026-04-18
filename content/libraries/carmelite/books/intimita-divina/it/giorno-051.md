@@ -13,7 +13,7 @@ facoltativa, ma è talmente necessaria che senza di essa non
 si può giungere alla vita eterna. « Chiunque crede in lui
 ha la vita eterna... ma chi non crede è giudicato perchè
 non ha creduto nel nome dell’unigenito Figlio di Dio »
-(Gu. 3,16e18). Di fronte alle verità che Gesù insegna,
+(Gv. 3,16 e 18). Di fronte alle verità che Gesù insegna,
 tutte le altre verità sono deficienti.
 
 E appunto perchè la sua dottrina è assolutamente indispensabile, Gesù, per aiutare la nostra debolezza a prestarvi
@@ -24,10 +24,9 @@ queste opere che io compio, testificano a mio riguardo »
 a chiedere se era lui il Messia in cui dovevano credere,
 Gesù disse semplicemente: « Andate a riferire a Giovanni
 ciò che udite e vedete: i ciechi vedono, gli zoppi camminano, i lebbrosi sono mondati, i sordi odono, i morti risorgono » (Mt. 11, 4e 5). Quasi sempre il Vangelo, nar-
-rando î prodigi operati da Gesù, conclude con simili
+rando i prodigi operati da Gesù, conclude con simili
 espressioni: «e i suoi discepoli credettero in lui» (Gv. 2,
-11), «tutti restarono stupefatti e glorificarono Dio» (Mr.
-2,12). Gesù è l’unico Maestro che può garantire col miracolo la verità della sua dottrina.
+11), «tutti restarono stupefatti e glorificarono Dio» (Mc. 2,12). Gesù è l’unico Maestro che può garantire col miracolo la verità della sua dottrina.
 
 
 2 — Gesù vuole che la sua dottrina sia compresa da
@@ -84,7 +83,7 @@ appaiono così strane che quasi più non le conosciamo, nè
 le vogliamo conoscere.
 
 «Fa’, o Signore, che le tue parole non si cancellino
-mai dalla mia mente » (T.G. Es. 8,162; 13,2).
+mai dalla mia mente » (T.G. Es. 8, 16 e 2; 13, 2).
 
 Non permettere, o Gesù, che mi lasci attirare da massime, da dottrine che non vengono da te.
 

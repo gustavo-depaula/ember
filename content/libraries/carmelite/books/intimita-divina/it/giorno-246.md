@@ -13,18 +13,15 @@ Del resto, l'amore umano è per sua natura totalitario; quanto più l'amicizia �
 Perchè non vi siano freddezze nella tua amicizia con Dio, cerca di amare unicamente per lui con tutto il cuore, vigila per impegnarti davvero ad amarlo con tutte le tue forze. E' vero, solo in cielo potrai amare Dio con quella totalità e stabilità dell'amore che la terra non ti consente; ma puoi e devi tendere sempre verso di lui; e, ogni volta che te ne accorgi, riportare in lui il cuore, i tuoi affetti, la tua volontà, i tuoi desideri.
 
 
-2. — Gesù ha detto: « Chi ama il padre o la madre più di me non è degno di me ». La carità esige di amare Dio sopra tutte le cose. Tutto ciò può essere inteso in due sensi: amare Dio più di qualsiasi cosa, piuttosto che offenderlo gravemente: questo è il primo grado della carità, indispensabile per essere amici di Dio e conservare la grazia e, perciò, è richiesto a tutti. In un senso più alto, però, amare Dio sopra tutte le cose significa dargli la preferenza su tutto e non soltanto su quello che può essere occasione di peccato grave o veniale, ma anco-
-
-
-ra su tutto ciò che non corrisponde pienamente al suo beneplacito; questo è il grado della carità perfetta a cui deve tendere ogni anima che aspira all’amicizia intima con Dio, grado che richiede assoluta rinuncia e assoluta purezza da qualsiasi ombra di peccato e di attacco alle creature. L’esercizio della carità perfetta esige, dunque, e compie in noi un’opera di totale purificazione: « La carità perfetta — dice S. Giovanni della Croce — vuota la volontà di tutte le cose perchè ci obbliga ad amare Dio al di sopra di esse » (S. II, 6, 4).
-Devi persuaderti che quaggiù l’esercizio dell’amore è intimamente congiunto con quello della rinuncia e va di pari passo con essa; anzi, quanto più la carità è intensa e perfetta, tanto più esige rinuncia totale, ma è appunto così che l’anima giunge ad amare Dio con tutte le sue forze: «La forza dell’anima — dice ancora il Dottore mistico — consiste nelle sue potenze, passioni e appetiti, le quali cose son tutte governate dalla volontà; perciò, quando questa (mediante l’amore) le indirizza a Dio, sviandole da tutto ciò che non è lui, allora sì che veramente lo ama con tutta la sua forza » (S. III, 16, 2). Ecco la grande funzione della rinuncia: liberare le forze dell’anima perchè possano amare e servire Dio. Se vuoi davvero essere molto generoso rispetto alla carità, le tue forze devono essere tutte impegnate nell’amare Dio con tutto il tuo cuore, nella rinuncia e nel distacco; anche questo è esercizio di amore perchè dispone l’anima alla carità perfetta.
+2. — Gesù ha detto: « Chi ama il padre o la madre più di me non è degno di me ». La carità esige di amare Dio sopra tutte le cose. Tutto ciò può essere inteso in due sensi: amare Dio più di qualsiasi cosa, piuttosto che offenderlo gravemente: questo è il primo grado della carità, indispensabile per essere amici di Dio e conservare la grazia e, perciò, è richiesto a tutti. In un senso più alto, però, amare Dio sopra tutte le cose significa dargli la preferenza su tutto e non soltanto su quello che può essere occasione di peccato grave o veniale, ma ancora su tutto ciò che non corrisponde pienamente al suo beneplacito; questo è il grado della carità perfetta a cui deve tendere ogni anima che aspira all'amicizia intima con Dio, grado che richiede assoluta rinuncia e assoluta purezza da qualsiasi ombra di peccato e di attacco alle creature. L'esercizio della carità perfetta esige, dunque, e compie in noi un'opera di totale purificazione: « La carità perfetta — dice S. Giovanni della Croce — vuota la volontà di tutte le cose perchè ci obbliga ad amare Dio al di sopra di esse » (S. II, 6, 4).
+Devi persuaderti che quaggiù l'esercizio dell'amore è intimamente congiunto con quello della rinuncia e va di pari passo con essa; anzi, quanto più la carità è intensa e perfetta, tanto più esige rinuncia totale, ma è appunto così che l'anima giunge ad amare Dio con tutte le sue forze: «La forza dell'anima — dice ancora il Dottore mistico — consiste nelle sue potenze, passioni e appetiti, le quali cose son tutte governate dalla volontà; perciò, quando questa (mediante l'amore) le indirizza a Dio, sviandole da tutto ciò che non è lui, allora sì che veramente lo ama con tutta la sua forza » (S. III, 16, 2). Ecco la grande funzione della rinuncia: liberare le forze dell'anima perchè possano amare e servire Dio. Se vuoi davvero essere molto generoso rispetto alla carità, le tue forze devono essere tutte impegnate nell'amare Dio con tutto il tuo cuore, nella rinuncia e nel distacco; anche questo è esercizio di amore perchè dispone l'anima alla carità perfetta.
 
 ### Colloquio
 
 «O Signore Iddio, non bastava che ci permettessi di
 amarti, senza degnarti d'invitarci a ciò con esortazioni, di
 obbligarci con comandamenti? Ma no, Bontà divina, affinchè
-non ci trattenesse dall’amarti nè la grandezza tua, nè la bassezza nostra, nè qualunque altro pretesto, ce l’hai comandato.
+non ci trattenesse dall'amarti nè la grandezza tua, nè la bassezza nostra, nè qualunque altro pretesto, ce l'hai comandato.
 Oh, Dio buono, se sapessimo intendere la felicità e l'onore
 di poterti amare, quanto ci terremmo obbligati a te che non
 solo ci permetti, ma ci comandi di amarti! Oh, mio Dio, io
@@ -51,6 +48,4 @@ perpetua e mai interrotta dilezione. Ma in questa vita mortale non possiamo giun
 nè le forze dei Beati. Tuttavia, Tu vuoi che in questa vita
 non lasciamo di fare quanto sta in noi per amarti con tutto
 il cuore e con tutte i forze che abbiamo; ciò non solo è
-possibile, ma facilissimo, perchè amare te, o Dio, è cosa som-
-
-mamente amabile » (cfr. S. Francesco di Sales),
+possibile, ma facilissimo, perchè amare te, o Dio, è cosa sommamente amabile » (cfr. S. Francesco di Sales),

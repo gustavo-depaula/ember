@@ -13,15 +13,14 @@ riore, mediante la quale trarrà da Dio stesso la linfa che
 la renderà feconda. La vita interiore è il principio vitale,
 è la forza, è la fiamma dell’apostolato; ma d'altra parte
 anche l’apostolato può portare il suo contributo alla vita
-interiore, cooperando a renderla più jenerosa, più intensa.
+interiore, cooperando a renderla più generosa, più intensa.
 Quando un'anima è presa dall’ideale apostolico, il suo
 stesso desiderio di conquistare altre anime a Dio la spinge
-ad impegnarsi con ma giore generosità nella fui
-nella mortificazione, I, delle virtù proprio con
+ad impegnarsi con maggiore generosità nella fede,
+nella mortificazione, nell'esercizio delle virtù proprio con
 l’intento di rendersi maggiormente capace di un apostolato fecondo. Così, mentre la vita interiore è l'anima del-
 l'apostolato, l’apostolato è a sua volta una molla assai potente per spingere l’anima all'unione con Dio, alla perfe-
-zione, alla santità. L'ideale apostolico è di per sè susci
-tatore di energie spirituali, di vita generosa, santa, Teresa
+zione, alla santità. L'ideale apostolico è di per sè suscitatore di energie spirituali, di vita generosa, santa. Teresa
 di Gesù, mossa appunto da un ardente desiderio di controbilanciare il grande male che l’eresia protestante anda-
 va facendo ai suoi tempi, diede alla riforma da lei iniziata un timbro di particolare austerità e organizzò la vita
 delle sue figlie in modo da impegnarle in un continuo
@@ -29,36 +28,36 @@ esercizio di preghiera, di sacrificio, di donazione per la
 salvezza delle anime (cfr. Car. 1, 2). Il sistema di vita del
 Carmelo teresiano — vita contemplativa di profonda intensità — è nato così da un grande ideale di apostolato.
 
-Questo stesso ideale ha fatto sorgere recentemente nella Chiesa un nuovo statò di dico quello degli
+Questo stesso ideale ha fatto sorgere recentemente nella Chiesa un nuovo stato di vita, quello degli
 Istituti secolari, in cui anime desiderose di consacrarsi alla
-salvezza dei fratelli impegnano a vivere nel mondo secondo la perfezione Li « Il fine specifico [di apo-
+salvezza dei fratelli impegnano a vivere nel mondo secondo la perfezione evangelica. « Il fine specifico [di apo-
 stolato] sembra aver necessariamente richiesto e anche
-creato il fine generico [di perfezione] » (Pio XII, Primzo
+creato il fine generico [di perfezione] » (Pio XII, Primo
 feliciter).
 
 Quando l'ideale apostolico è vivo e ben compreso,
-anzichè gettare sventatamente la anime nell’azione, le conduce ad una vita interiore più profonda, al dono totale
-di sè, alla santità, perchè è necessario santificarsi per santificare. « Per essi santifico me stesso » (Gv. 17, 1,
+anzichè gettare sventatamente le anime nell’azione, le conduce ad una vita interiore più profonda, al dono totale
+di sè, alla santità, perchè è necessario santificarsi per santificare. «Per essi santifico me stesso» (Gv. 17, 19).
 
 
-2 — Una vita interiore in cui non brilla l'ideale apotolico non potrà mai essere piena, rigo, liosa. Ciò dipende
+2 — Una vita interiore in cui non brilla l'ideale apostolico non potrà mai essere piena, rigogliosa. Ciò dipende
 dalla natura della grazia e della carità che sono per se
-stesse espansive, apostoliche, Sebbene la grazia aderisca in
-modo intimo ed incomunicabile all'anima che ne è dotata.
+stesse espansive, apostoliche. Sebbene la grazia aderisca in
+modo intimo ed incomunicabile all'anima che ne è dotata,
 tuttavia giova al bene di tutta la comunità cristiana. Il
 dogma della comunione dei santi ci dice appunto che la
 grazia e la santità di un membro di Cristo ridonda a vantaggio di tutte le altre membra. Parimenti la carità, com-
 pagna inseparabile della grazia, è per sua natura espansiva e, abbracciando Dio, abbraccia tutte le creature in Dio.
-Essa imprime all'anima un duplice slancio: verso Dio €
-verso il prossimo; se l'uno 0 l’altro di questi slanci viene
+Essa imprime all'anima un duplice slancio: verso Dio e
+verso il prossimo; se l'uno o l'altro di questi slanci viene
 represso, la carità resta soffocata nella sua essenza. Questa
-virtù si sviluppa € giunge a maturità solo quando sono in piena efficienza i suoi due aspetti: amore di Dio e amore
-lel prossimo; escludendo o diminuendo la carità fraterna,
+virtù si sviluppa e giunge a maturità solo quando sono in piena efficienza i suoi due aspetti: amore di Dio e amore
+del prossimo; escludendo o diminuendo la carità fraterna,
 di cui l’apostolato è l’espressione più alta, si viene inevitabilmente a diminuire anche l’amore verso Dio.
 
 Perciò una vita interiore fredda, indifferente per il
-bene delle anime è necessariamente una vita sminvita, rimpicciolita, ridotta ad una forma di pietà gretta, meschina
-è spesso anche egoista; ha perso il calore vitale, il calore
+bene delle anime è necessariamente una vita sminuita, rimpicciolita, ridotta ad una forma di pietà gretta, meschina
+e spesso anche egoista; ha perso il calore vitale, il calore
 della carità e non merita neppure il nome di vita.
 
 
@@ -68,12 +67,12 @@ della nostra perfezione non è sufficiente a darci il coraggio per accettare cer
 tanto alla natura? Ma quando si pensa che dalla nostra
 generosità, dalla nostra fedeltà alla grazia, dalla nostra
 immolazione può dipendere la salvezza di altre anime, allora non si può rifiutare nulla al Signore e si trova la
-forza per Abiraccire anche le cose più aspre e penose.
+forza per abbracciare anche le cose più aspre e penose.
 
 Così l'ideale apostolico diventa una leva potente per
 la santificazione personale e l’anima, resa più ricca da una
 fervorosa vita interiore, può mettere a disposizione di
-questo ideale nuove energie, nuova fecondi
+questo ideale nuove energie, nuova fecondità
 
 ### Colloquio
 
@@ -88,7 +87,7 @@ di tante anime, specialmente di coloro che per il battesimo erano già membri de
 mente di lavorare per la loro salute, tanto da sentirmi
 pronta a sopportare mille morti pur di liberarne una sola
 dai terribili supplizi dell'inferno. Come si può reggere a
-vedere un’anima condannata per l'eternità gr ore dei
+vedere un'anima condannata per l'eternità e ai rigori eterni dei
 supplizi? Se siamo presi di compassione per i dolori di
 questo mondo, che dopo tutto hanno un termine e cessano sempre con la morte, come potremo, o Signore, mo-
 strarci indifferenti innanzi a tormenti che dureranno in

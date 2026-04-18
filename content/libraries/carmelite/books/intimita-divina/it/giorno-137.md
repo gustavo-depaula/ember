@@ -34,10 +34,10 @@ degli imzproperi, inalzava un inno in lode della Croce:
 er cui il Redentore del mondo, pur immolato, ha vinto! ».
 Boa la considerazione e la compassione dei patimenti del
 Signore si alterna con l’inno della vittoria. Morte e vita,
-morte e vittoria sono termini contradittori tra loro, eppure vediamo che in Gesù sono strettamente congiunti,
+morte e vittoria sono termini contraddittori tra loro, eppure vediamo che in Gesù sono strettamente congiunti,
 così da essere il primo la causa del secondo. S. Giovanni
 della Croce, dopo aver descritto l'agonia di Gesù sulla
-Croce, afferma; « proprio allora compì l’opera più grande
+Croce, afferma: « proprio allora compì l’opera più grande
 di quante mai in vita ne avesse fatte con miracoli e prodigi strepitosi,... l'opera con la quale riconciliò ed unì il
 genere umano con Dio, per mezzo della grazia. Ciò avvenne appunto allorchè l’amoroso Signore era più avvilito
 ed umiliato in tutto, cioè: intorno alla reputazione degli
@@ -81,7 +81,7 @@ la Madonna, che dovette certamente esser presente alla
 scena e accogliere fra le braccia il Corpo straziato del
 suo Figlio divino, accostiamoci anche noi a quelle sacre
 spoglie; ancora una volta fissiamo lo sguardo in quelle
-piaghe, in quelle ferite, in quel sangue che con tanta eloie ci parlano dell'amore infinito di Gesù per noi.
+piaghe, in quelle ferite, in quel sangue che con tanta eloquenza ci parlano dell'amore infinito di Gesù per noi.
 
 vero, ora quelle piaghe non sono più doloranti, ma
 
@@ -94,8 +94,8 @@ Sabato santo, giorno di transizione fra le angustie del
 venerdì e la gloria della Risurrezione, sia un giorno di
 raccoglimento e di preghiera accanto al Corpo esanime
 di Gesù: spalanchiamo il nostro cuore, purifichiamolo nel
-Sangue di lui, affinchè, rutto rinnovato nell'amore e nella
-rezza, possa gareggiare col «sepolcro nuovo» nell’ofrire all’amantissimo Maestro un luogo di pace e di riposo.
+Sangue di lui, affinchè, tutto rinnovato nell'amore e nella
+rezza, possa gareggiare col «sepolcro nuovo» nell'offrire all’amantissimo Maestro un luogo di pace e di riposo.
 
 ### Colloquio
 
@@ -105,7 +105,7 @@ bero glorioso e fulgido, ornato dalla porpora del Re, sulle
 tue braccia è appeso il prezzo della nostra Redenzione,
 in te è la nostra vittoria, il nostro riscatto! » (cfr. BR).
 
-«O Cristo, ancora una volta fisso nel tuo volto esanime il mio PIE e non senza lacrime alzo gli occhi
+«O Cristo, ancora una volta fisso nel tuo volto esanime il mio pianto e non senza lacrime alzo gli occhi
 miei alle piaghe e trafitture tue, non senza commozione
 inalzo il cuore contrito e considero quanta tribolazione
 hai incontrato per cercare me, per salvare me.

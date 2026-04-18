@@ -45,11 +45,11 @@ connessi con la carità, giacchè si trovano solo nell'anima che
 iede la carità e si sviluppano a misura che essa aumenta;
 ma il dono della sapienza ha con l'amore di carità un rapporto tutto particolare. Anzitutto, proprio attraverso la ca-
 rità esso viene ad attuarsi; «la causa del dono della sapienza — dice S. Tommaso — si trova nella volontà ed è la
-carità» (IT* II®*, q. 45, a. 2), perciò, quanto più un'anima
+carità» (II-II, q. 45, a. 2), perciò, quanto più un'anima
 ama Dio, tanto più è capace di accogliere la mozione di
 uesto dono. Inoltre, la saporosa cognizione di Dio derivante
 dal dono della sapienza, è quanto mai potente ad accrescere
-la carità: come potremmo non amare î più il Signore dopo averlo gustato? A misura che il dono della sapienza in-
+la carità: come potremmo non amare i più il Signore dopo averlo gustato? A misura che il dono della sapienza in-
 veste un'anima, la carità aumenta ed aumenta anche la sua
 forza unitiva per cui l’anima aderisce sempre più a Dio.
 

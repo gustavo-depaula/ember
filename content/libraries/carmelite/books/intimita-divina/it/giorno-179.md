@@ -6,38 +6,9 @@ O Spirito Santo, insegnami a conoscerti, a desiderarti, ad amarti, a dispormi al
 
 ### Meditazione
 
-1. — L'approssimarsi della Pentecoste c'invi i)
-la nostra mente e il nostro cuore allo Spirito Sarto minna
-col suo aiuto, conoscerlo un po' di più, per ito più,
-o poso con Tietzio: fervore, per disporci nel EA
-‘assecondare la sua azione nelle ani
-Il catechismo c'insegna che in Dio ci sono bo passe
-uguali e distinte: Padre, Figliuolo e Spirito PA
-no il Padre, conoscendo se stesso, genera il suo Verbo, Idea
-perfetta, sostanziale in cui il Padre esprime ed a cui comu-
-Da tutta la sua bontà, amabilità, natura ed essenza divina
-‘adre e il Verbo, per la loro bontà e bellezza infinita da
-sura l'eternità si amano e da questo amore che li stringe l'un
-‘altro procede lo Spirito Santo. Come il Verbo viene Fra
-to dal Padre per via di conoscenza, così lo Spirito” Santo
-pela dal Padre e dal Figlio per via di amore. Lo Spirito
-io è quindi il termine, è l’effusione dell'amore pre
-tebeci del Padre e del Figlio, effusione talmente sostan-
-HA le e perfetta da essere una Persona, la Terza Persona della .
-; «ma Trinità, in cui il Padre ed il Figlio, per la sublime
-‘econdità del loro amore, trasfondono la loro medesima
-natura ed essenza senza esserne spogliati. Ed appunto perchè
-lo Spirito Santo è l’effusione dell'amore divino, Siena chis
-mato «Spirito», secondo il senso latino della parola che
-significa alito, respiro, soffio vitale. Come in noi il ro
-È la manifestazione della vita, così in Dio lo Spirito Santo
-l'espressione, l'effusione della vita e dell'amore del Padre
-e del Figlio, effusione però sostanziale, personale, che è
+1. — L'approssimarsi della Pentecoste c'invita a rivolgere la nostra mente e il nostro cuore allo Spirito Santo per, col suo aiuto, conoscerlo un po' di più, invocarlo con maggior fervore, e disporci meglio ad assecondare la sua azione nelle anime nostre.
 
-! Vedi nota a pag. 5.
-
-XVII - LO SPIRITO SANTO co,
-
+Il catechismo c'insegna che in Dio ci sono tre Persone uguali e distinte: Padre, Figliuolo e Spirito Santo. Il Padre, conoscendo se stesso, genera il suo Verbo, Idea perfetta e sostanziale in cui il Padre esprime e a cui comunica tutta la sua bontà, amabilità, natura ed essenza divina. Il Padre e il Verbo, per la loro bontà e bellezza infinita, da tutta l'eternità si amano e da questo amore che li stringe l'un l'altro procede lo Spirito Santo. Come il Verbo viene generato dal Padre per via di conoscenza, così lo Spirito Santo procede dal Padre e dal Figlio per via di amore. Lo Spirito Santo è quindi il termine, è l'effusione dell'amore del Padre e del Figlio, effusione talmente sostanziale e perfetta da essere una Persona, la Terza Persona della SS.ma Trinità, in cui il Padre ed il Figlio, per la sublime fecondità del loro amore, trasfondono la loro medesima natura ed essenza senza esserne spogliati. Ed appunto perchè lo Spirito Santo è l'effusione dell'amore divino, viene chiamato «Spirito», secondo il senso latino della parola che significa alito, respiro, soffio vitale. Come in noi il respiro è la manifestazione della vita, così in Dio lo Spirito Santo è l'espressione, l'effusione della vita e dell'amore del Padre e del Figlio, effusione però sostanziale, personale, che è
 Persona. In questo senso la terza Persona della SS.ma Trinità viene chiamata lo « Spirito del Padre è del Figlio »
 o anche lo « Spirito di amore in Dio»; ossia il « soffio» di
 amore del Padre e del Figlio, il «soffio» dell'amore divino.

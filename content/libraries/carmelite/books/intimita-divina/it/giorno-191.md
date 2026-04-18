@@ -12,16 +12,16 @@ Dei» (Ef. 2, 19), ossia apparteniamo alla famiglia di Dio.
 Perciò la nostra preghiera dovrebbe essere l’espressione dei
 sentimenti di un figlio che gode d'intrattenersi a cuore a
 cuore col padre suo e che si butta fra le sue braccia con
-pieno abbandono. Ma, Late siamo pur sempre poveri
+pieno abbandono. Ma, dato che siamo pur sempre poveri
 peccatori e la consapevolezza delle nostre miserie ed infedeltà cerca di paralizzare questo slancio filiale, generando
 nell'anima un certo timore, per cui spesso sale spontaneo
 alle labbra il grido di Pietro: « Allontanati da me, Signore,
-perchè sono uomo ‘atore» (Le. 5, 8.) Questo avviene
+perchè sono uomo peccatore» (Lc. 5, 8.) Questo avviene
 soprattutto quando l'anima attraversa periodi oscuri di lotte,
 di tentazioni, di difficoltà che tentano di buttarla nell’agitazione e nel turbamento impedendole, malgrado i suoi sforzi
 quello slancio fiducioso del cuore che affoga in Dio ogni
 
-reoccupazione. Ma ecco che un giorno, durante l'orazione,
+preoccupazione. Ma ecco che un giorno, durante l'orazione,
 l’anima si raccoglie sotto l'influsso di una luce nuova che fuga ogni timore; non è un pensiero nuovo, ma una persuasione nuova, intima che le fa sentire profondamente di essere figlia di Dio e che Dio è suo Padre. E' l'influsso del
 dono di pietà, messo in atto dallo Spirito Santo. Già S. Paolo
 diceva ai primi cristiani: «Non avete ricevuto spirito di
@@ -30,7 +30,7 @@ figliuoli per cui gridiamo: “Abba, Padre’. Lo Spirito
 stesso attesta allo spirito nostro che siamo figli di Dio»
 (Rom. 8, 15 e 16). E’, dunque, lo Spirito Santo che infonde
 
-ETTI RIA RIETI FE A di AR TAV
+
 
 nell'anima questo profondo senso di pietà filiale, di piena
 fiducia nel Padre celeste, anzi, Egli stesso in noi, con gemiti
@@ -59,14 +59,14 @@ tempo sente il bisogno di una preghiera adeguata alla sovrana
 maestà, alla trascendenza infinita dell’Altissimo. Ed ecco che
 lo Spirito Santo alterna nell'anima sentimenti di piena confidenza e di profonda adorazione, di amicizia amorosa e di
 riconoscimento della suprema grandezza di Dio. Lo Spirito
-Santo ripete in noi: Pater, e ripete ancora: Tu solus sancius,
+Santo ripete in noi: Pater, e ripete ancora: Tu solus Sanctus,
 Tu solus Dominus, Tu solus altissimus. Anche quando
 siamo nell’aridità, anche quando il cuore è freddo e la mente
 ottenebrata, lo Spirito Santo prega in noi e noi possiamo
 sempre offrire a Dio la sua preghiera. È questa la preghiera
 più vera, più preziosa, preghiera che sarà certamente esaudita,
 
-perchè lo Spirito Santo non può ispirarei sentimenti e
+perchè lo Spirito Santo non può ispirare i sentimenti e
 desideri contrari al divino beneplacito, ma «intercede
 per noi secondo Dio» (Rom. 8, 27).
 

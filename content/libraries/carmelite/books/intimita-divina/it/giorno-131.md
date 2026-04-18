@@ -18,7 +18,7 @@ sarà, nel modo più pieno, ii (essia, il Redentore, il Re,
 il Vincitore. Accetta di essere riconosciuto Re, ma un Re
 che regnerà dalla croce, che trionferà e vincerà mediante
 la morte di croce. La stessa folla esultante che oggi lo
-acclama, tra ‘ache gioia imprecando, lo condurrà al Calvario; e così il trionfo di oggi darà i ici
+acclama, tra canti di gioia, domani lo condurrà al Calvario; e così il trionfo di oggi darà maggior rilievo
 e risalto alla Passione di dois sente pra
 cdi entra SHORT nella città santa, ma vi entra
 per soffrire, per morire, Di qui il doppio significato
@@ -44,11 +44,11 @@ come è umile e mansueto nel suo trionfo! Egli sa che in
 mezzo al popolo osannante si nascondono i suoi nemici
 che, con maligne insinuazioni, riusciranno a convertire
 quegli « hosanna » in « crucifige »; lo sa e potrebbe imporsi ad essi con la potenza della sua Divinità, potrebbe
-smascherarli pubblicamente, sventando i loro ani. Ma
-Gesù non vuol vincere è regnare con la forza, bensì con
+smascherarli pubblicamente, sventando i loro piani. Ma
+Gesù non vuol vincere e regnare con la forza, bensì con
 l’amore; con la dolcezza; ben a proposito nota l'Evangelista: « Dite alla figlia di Sion: ecco il tuo re viene a te
 mansueto; cavalcando un asinello » (Mt.21, 5). E con la
-stessa mansuetudine lui, 1’ Innocente, l’unico vero Re e
+stessa mansuetudine lui, l’ Innocente, l’unico vero Re e
 Vincitore, accetterà di apparire quale reo, quale condannato e vinto, quale re da burla. Ma proprio così, quando
 sarà inalzato sulla croce, trarrà tutto a sè.
 
@@ -64,7 +64,7 @@ visitata». Gesù piange sull’ostinazione della città santa,
 che, per non averlo riconosciuto come Messia, per non
 aver accolto il suo vangelo, verrà distrutta dalle fondamenta: Gesù è vero Dio, ma è anche vero uomo e, come
 tale, vibra di commozione e di dolore per la triste sorte
-che Gerusalemme si è preparata con la sua ostinata resistenza alla grazia. Egli sta per andare alla Passione è morirà
+che Gerusalemme si è preparata con la sua ostinata resistenza alla grazia. Egli sta per andare alla Passione e morirà
 anche per la salvezza di Gerusalemme, ma Gerusalemme
 non sarà salvata perchè non l’ha voluto; « perchè non ha
 riconosciuto il momento nel d0E è stata visitata». È

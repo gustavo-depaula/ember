@@ -28,7 +28,7 @@ che è» (CR.). i
 Lo scusare i propri falli può appagare l’orgoglio, ma
 in realtà è un accecarsi volontariamente, è un rendersi incapaci di cogliere la verità della propria situazione e così
 la povera anima non solo non può avanzare, ma è condannata a brancolare nel buio, senza possibilità di uscita.
-Invece, riconoscere sinceramente le RIpRE colpe è già
+Invece, riconoscere sinceramente le proprie colpe è già
 fare il primo passo per correggersene. Non basta però
 non scusarsi interiormente, bisogna anche non scusarsi di
 fronte agli altri, ossia, dopo aver riconosciuto di fronte a
@@ -87,8 +87,8 @@ le mie mancanze, i miei difetti. Questo ti chiedo: che
 io sappia ben riconoscere tutti i miei torti e sappia giudicarli come Tu stesso li giudichi. Frena il mio cuore, af-
 finchè non scivoli in cerca di ragionamenti maliziosi per
 accattare scuse ai miei falli. E se, per la mia debolezza,
-mi è tanto facile cadere, fa” che almeno sappia confessarlo
-umilmente davanti a te e davanti agli vomini. Libera la
+mi è tanto facile cadere, fa' che almeno sappia confessarlo
+umilmente davanti a te e davanti agli uomini. Libera la
 
 
 mia coscienza dalla maschera delle scuse vane e pietose

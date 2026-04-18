@@ -3,7 +3,7 @@
 
 ### Presenza di Dio
 
-— O Signore, insegnami a perdonare con generosità e siimi largo del tuo perdono.
+O Signore, insegnami a perdonare con generosità e siimi largo del tuo perdono.
 
 ### Meditazione
 
@@ -29,7 +29,7 @@ ricordo, come se non fossero mai esistiti. Gli basta veder:
 ci pentiti e ogni piaga, anche la più canerenosa e la più
 ributtante, viene sanata e distrutta dal Sangue preziosissimo di Gesù. Il Sangue di Cristo è come un mare infinito
 che ha il potere di lavare e di distruggere i peccati di
-tutta l’umanità, purchè sinceramente detestati; ogni giorno, ogni momento possiamo prendere il fardello più
+tutta l'umanità, purchè sinceramente detestati; ogni giorno, ogni momento possiamo prendere il fardello più
 meno greve delle nostre colpe, delle nostre infedeltà e
 farlo sparire in questo oceano di grazia e di amore, sicuri
 che non ne rimarrà alcuna traccia.
@@ -45,13 +45,13 @@ suo conservo] finchè non abbia pagato il debito ».
 Mentre poco prima ci siamo commossi per la bontà
 del padrone, ora ci sdegnamo per la crudeltà del servo.
 Eppure, benchè arrossendo, dobbiamo riconoscere che,
-come la bontà del padrone è l’immagine della misericordia di Dio sempre pronto al perdono, così la crudeltà del
-servo è l’immagine della nostra durezza, della nostra avarizia nel perdonare al prossimo. Purtroppo è proprio così: noi che abbiamo bisogno del perdono di Dio più an
+come la bontà del padrone è l'immagine della misericordia di Dio sempre pronto al perdono, così la crudeltà del
+servo è l'immagine della nostra durezza, della nostra avarizia nel perdonare al prossimo. Purtroppo è proprio così: noi che abbiamo bisogno del perdono di Dio più an
 cora che del pane. quotidiano, siamo tanto duri, tanto esi
 genti verso i nostri simili, tanto difficili all'indulgenza e
 al perdono. Che cosa sono i debiti che il prossimo può
 avere con noi in confronto a quelli che noi abbiamo verso
-Dio? Certo infinitamente meno di pochi denari in confronto a diecimila talenti, poichè si tratta di un'offesa recata ad una creatura miserabile in paragone dell’offesa recata alla maestà infinita di Dio. Ma ecco il contrasto: Dio
+Dio? Certo infinitamente meno di pochi denari in confronto a diecimila talenti, poichè si tratta di un'offesa recata ad una creatura miserabile in paragone dell'offesa recata alla maestà infinita di Dio. Ma ecco il contrasto: Dio
 perdona, dimentica, annulla interamente i nostri gravi debiti, nè cessa di amarci e di beneficarci malgrado le nostre continue infedeltà; noi invece solo a grande stento
 riusciamo a perdonare qualche piccolo torto, e, pur perdonando, non I dimenticare interamente, sì che,
 presentandosene l'occasione, siamo pronti a rinfacciarlo. E
@@ -76,7 +76,7 @@ Chi è che non abbia per debitore qualche fratello? Perciò
 nella tua giustizia hai stabilito che la tua regola di condotta verso di me, tuo debitore, fosse quella seguita da
 me con chi è debitore a mio riguardo. Dunque, poichè anch'io ho peccato — e quanto! — devo essere indulgente
 con chi mi chiede perdono. Verrà, infatti, il momento
-della preghiera e allora dovrò dirti: ‘ Rimetti a me, o Signore, i miei debiti”. E come? La condizione è posta da
+della preghiera e allora dovrò dirti: ' Rimetti a me, o Signore, i miei debiti”. E come? La condizione è posta da
 me, io stesso fisso la legge: “rimetti come rimetto io”.
 
 «Due brevi sentenze, o Signore, hai fatto regi.
@@ -89,14 +89,14 @@ Tea accatta da me il povero, così io sono il poverello tuo, che sto alla porta 
 mi vi prostro, supplicani lo con gemiti, per la Drama ni
 ricevere qualche cosa, c questo qualche cosa sei Tu. i
 povero chiede a me del pane, e io che cosa chieggo @
-te, se non te sso che hai detto: ‘lo sono il pane vivo
+te, se non te sso che hai detto: 'lo sono il pane vivo
 [ cielo ?? n }
 “agri perdono, perdonerò; rimetterò ad altri, e
 sarà rimesso a me; volendo ricevere, darò, e mi sarà dato.
 
 «È cosa ardua per me perdonare chi mi offende? Ri
 correrò alla preghiera. Invece di IRDRRETO ingiurie Hu sh
-giurie, pregherò per l’ingiuriatore. V enendomi voglia : i
-risponderglì acerbamente, parlerò a te, Signore, in suo favorè. E poi ricorderò che ‘Tu prometti la vita SIA, sos
+giurie, pregherò per l'ingiuriatore. V enendomi voglia : i
+risponderglì acerbamente, parlerò a te, Signore, in suo favorè. E poi ricorderò che 'Tu prometti la vita SIA, sos
 comandi di perdonare al fratello. È come se mi e
 “Tu che sei uomo, perdona ad altro. uomo, affinchè io

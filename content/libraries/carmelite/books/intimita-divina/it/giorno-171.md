@@ -13,7 +13,7 @@ di sopra di tutte le creature, eppure nessuna creatura tanto
 si abbassò e si umiliò quanto lei. Sembra quasi che fra
 Maria e Dio si stabilisca una gara: più Dio l'innalza, più
 lei si abbassa nella sua umiltà. L'Angelo la saluta « piena di
-grazia», e Maria esi turba » (Le. 1, 28 e 29). «Si turbò —
+grazia», e Maria esi turba » (Lc. 1, 28 e 29). «Si turbò —
 spiega S. Alfonso — perchè essendo tanto piena di umiltà,
 aborriva ogni sua lode e desiderava che solo Dio fosse
 lodato ». L'Angelo le rivela la grande missione che l'Altissimo le ha affidato e Maria si protesta «l'ancella del Signore» (Lc. 1, 38). Il suo sguardo non si ferma sull’immenso onore che verrà a lei per esser stata scelta fra tutte
@@ -21,10 +21,10 @@ le donne madre del Figlio di Dio, ma contempla stupito
 il grande mistero di un Dio che vuole incarnarsi nel seno
 di una sua povera creatura. Se Dio vuol discendere tanto
 in basso fino a darsi a Lei come Figlio, fin dove non dovrà
-abbassarsi Ja sua piccola ancella? suine più comprende
+abbassarsi la sua piccola ancella? suine più comprende
 la grandezza del mistero, l’immensità del dono divino, tanto
 più si umilia, sprofondandosi nel suo nulla. Identico atteggiamento quando Elisabetta la saluta: « benedetta tra le
-donne» (Le. 1, 42); queste parole non la stupiscono perchè
+donne» (Lc. 1, 42); queste parole non la stupiscono perchè
 ormai Ella è già Madre di Dio e, tuttavia, rimane fissa
 nella sua profonda umiltà: tutto attribuisce al Signore, di
 cui canta la misericordia, confessando la degnazione con
@@ -35,8 +35,6 @@ puramente alla gloria di Lui. Ben giustamente S. Bernardino esclama: «Come ness
 Dio, è stata mnalzata in dignità e grazia al pari di Maria,
 così nessuna è discesa tanto in basso nell'abisso dell'umiltà ».
 Quisto è l’effetto che devono produrre le grazie ed i favori
-
-VIN - L'UMILTÀ DI MARIA Di 137
 
 divini: renderci sempre più umili, sempre più coscienti del
 nostro nulla.
@@ -51,11 +49,11 @@ pogiotà si può anche salvarsi, ma senza l'umiltà è impossibile. Senza l'umil
 sarebbe stata a Dio gradita. Piacque, sì, a Dio per la sua
 verginità, ma divenne madre per la sua umiltà».
 
-a qualità e i doni più belli, come pure la penitenza,
+le qualità e i doni più belli, come pure la penitenza,
 la povertà, la verginità, l'apostolato e la stessa vita di consacrazione a Dio e perfino il Sacerdozio sono sterili ed
 infecondi, se non sono accompagnati da una sincera umiltà,
 anzi senza umiltà ese mettere in serio pericolo l'anima
-che ne gode. Lucifero era casto, ma non era umile e l’orgoglio fu Ja sua rovina. Più elevato è il posto che occupiamo
+che ne gode. Lucifero era casto, ma non era umile e l’orgoglio fu la sua rovina. Più elevato è il posto che occupiamo
 nella vigna del Signore, più alta la vita di perfezione che
 professiamo, più importante la missione che Dio ci ha
 affidato e tanto più abbiamo bisogno di affondare molto

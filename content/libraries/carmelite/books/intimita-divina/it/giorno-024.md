@@ -37,7 +37,7 @@ al sacrificio di Cristo, per la salvezza delle anime, Ecco perchè Ja Chiesa —
 lato esterno — continua a volere ed a sostenere quelle
 forme di vita contemplativa che si dedicano all’apostolato
 interiore: «gli Ordini religiosi dediti alla contemplazione
-sono in certo modo necessari alla Chiesa », ha asserito recentemente Pio XII ®
+sono in certo modo necessari alla Chiesa », ha asserito recentemente Pio XII
 
 Ma perchè l’apostolato interiore possa essere realmente
 il più fecondo, l’anima che vi si dedica deve alimentare in
@@ -57,7 +57,7 @@ flusso nella Chiesa.
 
 ### Colloquio
 
-« Essere tua sposa, 0 Gesù!... e, per la mia unione con
+« Essere tua sposa, O Gesù!... e, per la mia unione con
 te, madre delle anime, tutto ciò dovrebbe bastarmi. Non di
 meno sento in me altre vocazioni; mi sento la vocazione
 di guerriero, di sacerdote, di apostolo, di dottore, di martire... Vorrei compiere tutte le azioni più eroiche, mi sento

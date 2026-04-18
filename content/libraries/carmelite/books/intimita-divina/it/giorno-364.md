@@ -3,7 +3,7 @@
 
 ### Presenza di Dio
 
-— O Gesù, Principe dei secoli, Re delle genti, sii l'unico Re della mia mente e del mio cuore.
+O Gesù, Principe dei secoli, Re delle genti, sii l'unico Re della mia mente e del mio cuore.
 
 ### Meditazione
 
@@ -15,8 +15,8 @@ sua immolazione per la salvezza degli uomini: «Degno
 e la ricchezza e la sapienza e la forza e l'onore, A lui la
 gloria e la potenza per i secoli dei secoli » (Intr.).. dine:
 
-Nell’Epistola (Col. 1, 12-20) S. Paolo enumera i titoli
-che fanno di Cristo il Re di tutti i re. «Egli è immagine dell’invisibile Dio, il primogenito d’ogni creazione,
+Nell'Epistola (Col. 1, 12-20) S. Paolo enumera i titoli
+che fanno di Cristo il Re di tutti i re. «Egli è immagine dell'invisibile Dio, il primogenito d'ogni creazione,
 giacchè in lui furon create tutte le cose nei cieli e sulla
 terra, le cose visibili e le invisibili ». Questi titoli appartengono a Cristo in quanto Dio, immagine perfetta del
 Padre, causa esemplare di tutte le creature terrestri e celesti e, nello stesso, tempo, creatore, assieme al Padre ed
@@ -34,9 +34,9 @@ a prezzo del suo Sangue. Gesù è nostro Re nel senso
 più ampio della parola: ci ha creato, ci ha redento, ci
 vivifica con la sua grazia, ci nutre con la sua Carne e
 col suo Sangue, ci governa col suo amore e mediante
-l’amore ci attira a sè. Dinanzi a tali considerazioni spontaneamente sgorga dal nostro cuore il grido di S. Paolo: «Rendiamo grazia a Dio Padre... che ci ha sottratti
+l'amore ci attira a sè. Dinanzi a tali considerazioni spontaneamente sgorga dal nostro cuore il grido di S. Paolo: «Rendiamo grazia a Dio Padre... che ci ha sottratti
 all'impero delle tenebre e ci ha trasportati nel regno del
-Figlio dell’amor suo, in cui abbiamo la redenzione, la
+Figlio dell'amor suo, in cui abbiamo la redenzione, la
 remissione dei peccati ».
 
 — Nel Vangelo odierno (Gv. 18, 33-37) abbiamo
@@ -48,9 +48,9 @@ uanto mai solenne, nel processo che precede la sua Passione. Pilato lo interroga
 determinato popolo e il suo regno non ha nulla a che fare con i regni della terra. Ma alla seconda domanda più
 esatta della prima: «Sei tu dunque re? », risponde senza
 reticenze: « Tu lo dici che io sono re», Gesù dichiara
-la sua regalità nel modo più formale, davanti alla più alta autorità civile della Palestina e la dichiara non in mez20 ad un popolo plaudente, non nel trionfo dei suoi miracoli, ma legato in catene, davanti a colui che sta per
+la sua regalità nel modo più formale, davanti alla più alta autorità civile della Palestina e la dichiara non in mezzo ad un popolo plaudente, non nel trionfo dei suoi miracoli, ma legato in catene, davanti a colui che sta per
 condannarlo a morte, di fronte ad un popolo avido del
-suo Aa pochi istanti prima di essere trascinato al Calvario, dove, dall’alto della croce, sopra il suo capo coronato di spine, apparirà per la prima volta il titolo della
+suo Aa pochi istanti prima di essere trascinato al Calvario, dove, dall'alto della croce, sopra il suo capo coronato di spine, apparirà per la prima volta il titolo della
 sua regalità: « Gesù il Nazareno Re dei giudei » (Gv. 19,
 19). Egli, che era fuggito quando le folle entusiaste volevano farlo loro re, si proclama re in mezzo alle umiliazioni inaudite della Passione, affermando così nel modo
 più chiaro che il suo regno non è di questo mondo, che
@@ -80,30 +80,30 @@ mio Salvatore, mio Sposo, mio Maestro e modello, io ti
 rinnovo oggi la totale consacrazione del mio essere, supFICO i prendere assoluto dominio di me stessa. Sii
 
 u il mio sovrano, il mio dominatore, la mia guida e dirigimi e governami interamente, sicchè tutto sia rivolto
-alla tua maggior gloria. Sii ‘Tu il sovrano della mia memoria, del mio intelletto, della mia volontà, della mia sen:
+alla tua maggior gloria. Sii 'Tu il sovrano della mia memoria, del mio intelletto, della mia volontà, della mia sen:
 sibilità che voglio assoggettare completamente a te, invitandoti a regnare in me.
 
 «Il tuo regno è regno di verità, di amore, di giustizia e di pace,
 
-«Fa’ che il tuo regno di verità si stabilisca nel mio
+«Fa' che il tuo regno di verità si stabilisca nel mio
 intelletto distruggendo ogni errori inganno od illusione;
 illuminami con la tua sapienza divina.
 
-«Fa' che il tuo regno d’amore si stabilisca totalmente
+«Fa' che il tuo regno d'amore si stabilisca totalmente
 nella mia volontà e la muova, la sproni, la diriga sempre,
-si che jo non sia più mossa dall’amor proprio, o dalle
+si che jo non sia più mossa dall'amor proprio, o dalle
 creature, ma unicamente dal tuo Spirito; rendi forte, ge
 nerosa, costante questa mia volontà fiacca, gretta e restia,
-fissala nel bene e fa’ che s'irrobustisca nell'esercizio perse»
+fissala nel bene e fa' che s'irrobustisca nell'esercizio perse»
 verante delle virtù, corroborandola coi doni del tuo Spirito.
 
-« Fa’ che il tuo regno di giustizia si stabilisca in tutte
+« Fa' che il tuo regno di giustizia si stabilisca in tutte
 le mie operazioni in modo che tutte le mie azioni portino questa caratteristica e siano opere sante, compiute con
-purezza d’intenzione e con la maggior fedeltà per darti
+purezza d'intenzione e con la maggior fedeltà per darti
 gusto, nella linea della tua santa volontà.
 
 «Fa' che il tuo regno di pace si stabilisca, oltre che
-nell’anima mia, anche nella mia sensibilità, in modo che,
+nell'anima mia, anche nella mia sensibilità, in modo che,
 armonizzata con la parte superiore, concorra anch'essa a
 darti gloria e non mi ritardi 0 mi ostacoli l'unione con
 te » (Sr. Carmela d. Spirito S., o.c.d.).

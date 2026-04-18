@@ -8,7 +8,7 @@
 
 1 — La pazienza è la virtù che, per amore di Dio, ci fa
 accettare con generosità e con pace tutto quel che dispiace
-alla natura, senza lasciarci abbattere dalla tristezza che facilmente c’invade quando ci troviamo di fronte. a cose
+alla natura, senza lasciarci abbattere dalla tristezza che facilmente c’invade quando ci troviamo di fronte a cose
 spiacevoli.
 
 La pazienza è un aspetto particolare della virtù della
@@ -16,7 +16,7 @@ fortezza la quale c’impedisce di deviare dal retto cammino
 per timore delle difficoltà che s'incontrano, Non c'è vita
 senza difficoltà, anzi, per coloro che vogliono intraprendere grandi cose, queste sono abitualmente maggiori e più
 frequenti. Le grandi opere; le grandi virtù, le virtù eroiche
-sbocciano sempre in mezzo alle difficoltà. Di, fronte ad
+sbocciano sempre in mezzo alle difficoltà. Di fronte ad
 esse la fortezza ha un duplice atto: aggredire e sopportare. Molte difficoltà vanno superate e vinte con un
 atto di coraggio; altre invece è impossibile eliminarle e
 allora bisogna imparare a sopportarle, e questo è appunto
@@ -29,11 +29,11 @@ Solo fissando lo sguardo su Gesù, il Paziente divino,
 s'impara a esercitare la pazienza. Quando vediamo lui, venuto al mondo per salvarci, vivere fin dai primi istanti. della
 sua esistenza terrena in mezzo ai disagi, alle privazioni, alla
 povertà, e poi, alle incomprensioni, alle persecuzioni, fatto
-segno all’odio dei suoi stessi concittadini, calunniato cercato a morte, tradito da un amico, processato e condannato
+segno all’odio dei suoi stessi concittadini, calunniato, cercato a morte, tradito da un amico, processato e condannato
 come un malfattore, il nostro animo si scuote e comprende
 
 
-che non possiamo essere suoi: discepoli se non battendo il
+che non possiamo essere suoi discepoli se non battendo il
 suo stesso cammino. Se Gesù, innocentissimo, ha tanto
 sopportato per amor nostro, non sapremo noi, peccatori e
 quindi meritevoli di sofferenza, sopportare qualche cosa
@@ -41,7 +41,7 @@ per amor suo? Per quanto nella nostra vita ci possa essere
 da soffrire, sarà sempre ben poco, anzi un nulla di fronte
 alle infinite sofferenze di Gesù, perchè Gesù nella sua
 Passione non ha abbracciato il dolore di una sola vita o di
-molte vite umane, ma il dolore di trita l'umanità.
+molte vite umane, ma il dolore di tutta l'umanità.
 
 
 2 — Chi vuol diventare paziente deve anzitutto, di
@@ -76,7 +76,7 @@ spirituale, finirà con l’amarla.
 Ma non bisogna farsi illusioni: l'amore alla sofferenza
 è il vertice della pazienza; è il frutto della pazienza perfetta; per giungere a queste altezze occorre cominciare
 da un esercizio assai più umile: accettare in pace, senza
-lamentarsi, rutto ideò che fa soffrire.
+lamentarsi, tutto ciò che fa soffrire.
 
 ### Colloquio
 
@@ -113,7 +113,7 @@ voglio lavorare per amore.
 
 « Nonostante le prove che mi tolgono ogni consolazione, posso ripetere: Signore, con tutto ciò che Tu fai
 mi riempi di gioia, perchè può esserci gioia maggiore di
-quella che ci dà il patite per amor tuo? Più il dolore è intenso, meno apparisce agli occhi delle creature, e più ti fa
+quella che ci dà il patire per amor tuo? Più il dolore è intenso, meno apparisce agli occhi delle creature, e più ti fa
 sorridere, o mio Dio; ma se anche, per un caso impossibile,
 Tu pure dovessi ignorarlo, godrei tuttavia di soffrire,
 sperando di poter impedire o riparare, con le mie lacrime,

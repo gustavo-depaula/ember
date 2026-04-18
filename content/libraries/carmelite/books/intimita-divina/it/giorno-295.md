@@ -2,11 +2,11 @@
 
 ### Presenza di Dio
 
-O Spirito Santo, che conosci la mia debolezza, rendimi forte della tua fortezza divina.
+O SSpirito Santo, che conosci la mia debolezza, rendimi forte della tua fortezza divina.
 
 ### Meditazione
 
-1. — Accanto al dono del timore, sotto! il cui influsso
+1. — Accanto al dono del timore, sotto il cui influsso
 
 
 l’anima si mette interamente nelle mani di Dio con l’unico
@@ -15,7 +15,7 @@ sempre più coraggiosa nel servizio divino.
 
 misura che avanza nella vita spirituale, l’anima, più
 che procedere con le sue iniziative, deve seguire quelle
-di Dio, deve lasciarsi guidare dallo Spirito Santo, eppure
+di Dio, deve lasciarsi guidare dallo SSpirito Santo, eppure
 anche qui occorre la sua attività, la quale deve consistere nell'adesione docile e pronta alle mozioni divine. Ebbene, il
 dono della fortezza le darà la forza di dire sempre il suo sì
 alle ispirazioni ed agli inviti del divino Paraclito, di accettare e di volere tutto quello che Egli fa per lei ed in
@@ -26,11 +26,11 @@ Se occorre coraggio per essere fedeli, anche a costoi di gra
 
 
 vi sacrifici, alla legge di Dio e ai doveri del proprio stato
-€ per sopportare pazientemente tutte le difficoltà della vita,
+e per sopportare pazientemente tutte le difficoltà della vita,
 ce ne vuole forse ancora di più per assecondare l’azione del
 Signore nell'anima nostra, per non spaventarci di fronte
 alle prove attraverso le quali ci fa passare, seguire con
-fedeltà gli impulsi dello Spirito Santo, Maestro dolce e
+fedeltà gli impulsi dello SSpirito Santo, Maestro dolce e
 soave, ma nello stesso tempo esigente perchè non può condurci alla santità senza chiederci tutto. Ed è proprio in
 questo campo che, in modo particolare, sperimentiamo la
 nostra Sa intuiamo ciò che Dio vuole da noi, forse
@@ -38,7 +38,7 @@ lo vediamo anche molto chiaro e tuttavia non siamo capaci,
 non abbiamo la forza di farlo. E' il grande tormento dell'anima di buona volontà, ma non ancora matura; è la
 condizione della debolezza umana che la grazia attuale e
 la virtù infusa della fortezza possono migliorare di molto,
-ma che, agendo esse attraverso le nostre facoltà limitate, non pessono sanare sino in fondo. Occorre l'intervento
+ma che, agendo esse attraverso le nostre facoltà limitate, non possono sanare sino in fondo. Occorre l'intervento
 diretto di Dio stesso e Dio interviene mettendo in atto il
 dono della fortezza.
 
@@ -55,25 +55,25 @@ suo modo di agire; infatti, anzichè essere messo in atto da
 noi — come accade per la virtù — viene messo in atto da
 Dio stesso. Mediante la virtù siamo noi che con la nostra
 buona volontà, sorretta dalla grazia, cerchiamo di acquistare la fortezza, di renderci forti; mediante il dono, invece,
-è lo Spirito Santo che ci fortifica interiormente comunicandoci qualche cosa della sua onnipotenza, della sua fortezza
+è lo SSpirito Santo che ci fortifica interiormente comunicandoci qualche cosa della sua onnipotenza, della sua fortezza
 
 
 infinita. Tra la fortezza acquistata con i nostri sforzi e quella
-infusa in noi dallo Spirito Santo vi è una differenza simile
+infusa in noi dallo SSpirito Santo vi è una differenza simile
 a quella che corre tra l’opera di uno scolaretto inesperto
 e quella di un abile artista o, meglio, vi è la differenza che
 passa tra la capacità e la potenza dell’uomo e la capacità e la
-potenza di Dio. e Voi — disse Gesù agli Apostoli — riceverete forza di Spirito Santo, quando verrà su di voi; e mi sa-
-rete testimoni in Gerusalemme» (At. 1, 8); infatti quei poveri tori pieni di paura, che non avevano avuto il corae-
-gio accompagnare Cesù al Calvario, dopo la discesa dello
+potenza di Dio. «Voi — disse Gesù agli Apostoli — riceverete forza di SSpirito Santo, quando verrà su di voi; e mi sa-
+rete testimoni in Gerusalemme» (At. 1, 8); infatti quei poveri uomini pieni di paura, che non avevano avuto il corae-
+gio accompagnare Gesù al Calvario, dopo la discesa dello
 
-pirito Santo, divennero forti come leoni, capaci di affrontare qualsiasi pericolo e perfino la morte. dii ci dice
+Spirito Santo, divennero forti come leoni, capaci di affrontare qualsiasi pericolo e perfino la morte. ciò ci dice
 quanto è necessario il dono della fortezza; senza di esso noi
-saremmo sempre vacillanti, sempre incerti, sempre incostanti. Ma lo Spirito Santo vuole che ci disponiamo a ricevere
+saremmo sempre vacillanti, sempre incerti, sempre incostanti. Ma lo SSpirito Santo vuole che ci disponiamo a ricevere
 questo dono mediante l'esercizio della virtù: i nostri sforzi,
 ripetuti con umiltà e con costanza, sono di per sè una tacita
-invocazione del dono della fortezza; mediante lo sforzo tendiamo le vele dell'anima nostra al soffio dello Spirito Santo:
-spetta a lui scegliere il momento in cui spirare, ma non spirerà în noi, se non ci troverà disposti ad accogliere il suo im-
+invocazione del dono della fortezza; mediante lo sforzo tendiamo le vele dell'anima nostra al soffio dello SSpirito Santo:
+spetta a lui scegliere il momento in cui spirare, ma non spirerà in noi, se non ci troverà disposti ad accogliere il suo im-
 pulso, ossia se non ci troverà applicati ad esercitare la virtù.
 
 ### Colloquio
@@ -99,16 +99,16 @@ affatichi ed è imperscrutabile la tua sapienza. Dai forza a chi
 e vigore. I fanciulli vengono meno e si affaticano, i giovani
 cadono per debolezza. Ma quelli che confidano in te acqui
 steranno nuova forza, prenderanno ali come di aquila, correranno senza fatica, cammineranno senza stancarsi’ (cfr. Is.
-40, 28:31).
+40, 28-31).
 
-<O Spirito Santo, sostienimi e allora diventerò forte della
+<O SSpirito Santo, sostienimi e allora diventerò forte della
 tua fortezza. Se Tu sarai la mia forza e la mia salvezza, che
-cosa temerò? To non posso sostenermi con la mia fortezza, ma
+cosa temerò? Io non posso sostenermi con la mia fortezza, ma
 tutto posso in te che mi dai forza! Se Tu mi soccorri, nonostante la mia debolezza supererò le tentazioni, non mi arre-
 sterò davanti agli ostacoli, compirò opere grandi e, rinvigorita dalla tua fortezza, sopporterò con pazienza e con gioia
 la sofferenza.
 
-«O Spirito Santo, invoco con tutto il cuore questo tuo
-dono; fa' che esso mi rende generosa, intrepida, amante del
+«O SSpirito Santo, invoco con tutto il cuore questo tuo
+dono; fa' che esso mi renda generosa, intrepida, amante del
 sacrificio, virile, desiderosa e risoluta nel tendere alla perfezione con vero spirito di totalità» (Sr. Carmela d. Spi
 rito S. c. s.).

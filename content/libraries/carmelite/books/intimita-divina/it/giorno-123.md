@@ -11,12 +11,12 @@ tutta la vita nella volontà di Dio, tuttavia presenta anch'essa
 le sue difficoltà, le quali derivano in gran parte dal fatto
 che l'obbedienza stessa non ci viene immediatamente da
 Dio, bensì attraverso î suoi rappresentanti. Accade così
-che troppo spesso ci dimentichiamo. di vedere Dio nei
+che troppo spesso ci dimentichiamo di vedere Dio nei
 superiori e di riconoscere nella loro la sua autorità, Quando, ad esempio — cosa che accade facilmente nella vita
-religiosa — ci sì trova ad avere come superiore un antico
+religiosa — ci si trova ad avere come superiore un antico
 collega o forse anche un antico discepolo, più giovane e
 meno sperimentato di noi, di cui si conoscono molto bene
-le lacune e i difetti, si può esser tentati a non aver abbastanza stima della sua autorità, a non dare abbastanza yalore ai suoi ordini. Allora la vita di obbedienza diventa
+le lacune e i difetti, si può esser tentati a non aver abbastanza stima della sua autorità, a non dare abbastanza valore ai suoi ordini. Allora la vita di obbedienza diventa
 particolarmente difficile, si stenta a sottomettersi, non si
 ricorre al superiore con fiducia filiale e, quel che è peggio,
 si crede di avere ragione. Vi è invece un grosso sbaglio
@@ -45,13 +45,13 @@ e meritoria, è Dio stesso s'incaricherà di guidarci attraverso il loro governo
 
 
 2 — Molte volte, per non dire sempre, alla mancanza
-di spirito so) tr si accoppia la mancanza di umiltà. Costa all’amor proprio dipen e sottomettersi; costa
+di spirito soprannaturale si accoppia la mancanza di umiltà. Costa all’amor proprio dipendere e sottomettersi; costa
 sottoporre le proprie cose al giudizio ed al governo di
 un’altra persona e rimettersi alle sue decisioni. Costa soprattutto quando il superiore può apparirci, almeno sotto
 certi aspetti, quasi inferiore a noi, inferiore per età, per
 cultura, Res esperienza, per capacità; ed ecco che l'io,
 punto nel suo orgoglio, recalcitra fortemente, mascherando la propria resistenza con mille scuse. Eppure anche qui
-vi è un grosso sbaglio, perchè, i sedie re che in
+vi è un grosso sbaglio, perchè, pur concedere che in
 realtà vi possano essere nel superiore alcune di queste inferiorità, non su di esse dobbiamo fermarci, ma solo sul
 fatto che il superiore è sempre tale nei nostri confronti
 erchè così Dio l’ha costituito. Superiore perchè Dio
@@ -59,8 +59,8 @@ ha preposto al nostro governo, superiore perchè Dio gli
 ha dato la missione di dirigerci in suo luogo; le sue qualità
 o deficienze personali non incidono sulla superiorità che
 Dio gli ha conferita. Certamente il superiore, da parte sua,
-deve studiarsi di acquistare, qualora non Je possedesse, le
-virtà e le capacità necessarie all'esercizio dell'ufficio che
+deve studiarsi di acquistare, qualora non le possedesse, le
+virtù e le capacità necessarie all'esercizio dell'ufficio che
 ricopre, ma questo è affare suo; da parte nostra — da
 parte dei sudditi cioè — c'è da fare una cosa sola: sotto-
 
@@ -82,7 +82,7 @@ Persuadiamoci che, se la nostra obbedienza è difettosa, quasi sempre ciò dipen
 ### Colloquio
 
 « Mio dolce Salvatore, potrò vederti obbediente, per
-amor mio, alle tue creature, e ricusare d'’esserlo io, per
+amor mio, alle tue creature, e ricusare d'esserlo io, per
 amor tuo, a coloro che ti rappresentano? Potrò vederti
 obbediente per amor mio fino alla morte, alla morte di
 croce, senza abbracciare amorosamente questa virtù e la
@@ -108,4 +108,4 @@ mediante una continua e perfetta obbedienza » (S. Francesco di Sales).
 
 «O Signore, Tu vuoi, è vero, infondere l'obbedienza
 nei nostri cuori, ma ciò che l’impedisce è il non voler
-riconoscere che Tu parli ed operi nei su eriori; ed è ancora l'essere attaccati alla propria volontà » (S. M. Maddalena de’ Pazzi).
+riconoscere che Tu parli ed operi nei superiori; ed è ancora l'essere attaccati alla propria volontà » (S. M. Maddalena de’ Pazzi).

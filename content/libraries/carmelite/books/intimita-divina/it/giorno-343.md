@@ -2,7 +2,7 @@
 
 ### Presenza di Dio
 
-— Dio mio, illumina il mio cammino, affinchè non mi smarrisca in mezzo alle tenebre delle tribolazioni.
+Dio mio, illumina il mio cammino, affinchè non mi smarrisca in mezzo alle tenebre delle tribolazioni.
 
 ### Meditazione
 

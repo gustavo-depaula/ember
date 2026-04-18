@@ -32,7 +32,7 @@ dopo aver fatto tanti passi nel servizio di Dio, si arrestano
 rivolto agli Apostoli disse: «Quanto è difficile per chi
 confida nelle ricchezze l’entrare nel regno di Dio! È più
 facile che un cammello passi per la cruna di un ago, che
-un ricco entri nel regno di Dio» (ivi,24e25). Rifletti
+un ricco entri nel regno di Dio» (ivi, 24 e 25). Rifletti
 che con queste parole Gesù non vuol parlare solo di chi
 è «ricco » perchè possiede molto, ma soprattutto di chi
 è «ricco» perchè è «attaccato » a quel che possiede.

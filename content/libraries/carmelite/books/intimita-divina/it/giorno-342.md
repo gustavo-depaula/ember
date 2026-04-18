@@ -3,18 +3,18 @@
 
 ### Presenza di Dio
 
-— O Signore, compi in me i tuoi disegni di pace e di amore, facendomi risorgere ad una vita pienamente fervorosa.
+O Signore, compi in me i tuoi disegni di pace e di amore, facendomi risorgere ad una vita pienamente fervorosa.
 
 ### Meditazione
 
 santità, ci ritroviamo sempre pieni di miserie, sempre in
-debito con Dio €, giustamente, avvicinandoci a lui, l’anima nostra trepida: come ci accoglierà? non ci respingerà da sè? Ma la risposta è così diversa da quella che meriteremmo: «Le mie intenzioni sopra di voi, dice il Signore, sono intenzioni di pace e non di aftlizione. Voi
+debito con Dio €, giustamente, avvicinandoci a lui, l'anima nostra trepida: come ci accoglierà? non ci respingerà da sè? Ma la risposta è così diversa da quella che meriteremmo: «Le mie intenzioni sopra di voi, dice il Signore, sono intenzioni di pace e non di aftlizione. Voi
 m'invocherete ed io vi esaudirò. Vi ricondurrò dal luoo della vostra schiavitù ». Queste consolanti parole, che
-leggiamo oggi nell’Introito della Messa, spalancano il nostro cuore alle più dolci speranze: malgrado tutto, Dio
+leggiamo oggi nell'Introito della Messa, spalancano il nostro cuore alle più dolci speranze: malgrado tutto, Dio
 ci ama, Dio ci è sempre Padre c vuole liberarci dalla schiavitù delle nostre passioni, delle nostre debolezze. Spontanea allora sale alle labbra l'umile invocazione della Colletta: «O Signore, la tua benignità ci liberi dalle catene
 del peccato che per la nostra fragilità abbiamo contratto ».
 L'umiltà, il riconoscimento sincero dei propri torti è sempre il punto di partenza per la conversione.
-Della conversione ci parla S. Paolo nell’Epistola (F#. 3,
+Della conversione ci parla S. Paolo nell'Epistola (F#. 3,
 17-2154, 1-3): «Molte volte vi dicevo, e anche ora pianendo ve lo dico, molti procedono da nemici della croce
 di Cristo... e non hanno altro pensiero che alle cose ter
 rene». Praticamente, tutte le volte che sfuggiamo il sacri
@@ -31,25 +31,25 @@ non le asseconderemo. «Per conseguenza, o fratelli miei
 cari e desideratissimi, allegrezza e corona mia — supplica
 l'Apostolo — rimanete così fermi nel Signore ». Fermi,
 
-‘ossia stabili nella conversione; fermi nell’umiltà, nella fiducia, nell'amore alla croce.
+'ossia stabili nella conversione; fermi nell'umiltà, nella fiducia, nell'amore alla croce.
 
 vente di quella trasformazione che Dio vuol compiere in
-noi, è un esempio del modo con cui Egli attua le sue intenzioni di pace in coloro che vanno a lui con cuore umile e fiducioso. Anzitutto l’emorroissa: il suo male è tenace, da dodici anni resiste a qualsiasi rimedio; la povera
-donna, umiliata e vergognosa, non osa, come gli altri malati, presentarsi direttamente a Gesù, d’altra parte la sua
+noi, è un esempio del modo con cui Egli attua le sue intenzioni di pace in coloro che vanno a lui con cuore umile e fiducioso. Anzitutto l'emorroissa: il suo male è tenace, da dodici anni resiste a qualsiasi rimedio; la povera
+donna, umiliata e vergognosa, non osa, come gli altri malati, presentarsi direttamente a Gesù, d'altra parte la sua
 fede è così grande per cui pensa: « Se io riesco a tor
 re anche solo la sua veste, sarò guarita »; gli si avvicina
 furtivamente e sfiora il lembo Sell'abito, Gesù avverte
-quel tocco leggero c, voltandosi dice: «Sta di buon animo, © figlia, la tua fede ti ha guarita ». Nessuna domanda, nessuna supplica esterna, ma ciò che commuove il Signore è la preghiera di quel cuore umile, confidente, pieno di fede
+quel tocco leggero c, voltandosi dice: «Sta di buon animo, o figlia, la tua fede ti ha guarita ». Nessuna domanda, nessuna supplica esterna, ma ciò che commuove il Signore è la preghiera di quel cuore umile, confidente, pieno di fede
 
-Come Gesù ha sanato l’emorroissa, così vuole sanare
+Come Gesù ha sanato l'emorroissa, così vuole sanare
 le anime nostre, ma attende disposizioni simili a quelle di
 lei, Noi ci accontentiamo troppo di preghiere a fior di
 labbra mentre il cuore è freddo e assente; Gesù, invece,
 guarda il cuore e vuole la preghiera del cuore: grido di
 umiltà, di confidenza, grido che va dritto a colpire il suo
 Cuore divino. Del resto, quanto siamo più fortunati noi
-che l’emorroissa! Lei riuscì una sola volta a toccare il
-lembo della veste di Gesù, mentre l’anima nostra ogni
+che l'emorroissa! Lei riuscì una sola volta a toccare il
+lembo della veste di Gesù, mentre l'anima nostra ogni
 giorno, mediante la S. Comunione, viene in contatto col
 Suo Corpo e col suo Sangue. Oh, se avessimo tanta fede
 quanto un granello di senapa!
@@ -62,10 +62,10 @@ la nostra risurrezione anche in questa vita: risurrezione
 dalla morte del peccato alla vita della grazia, risurrezione
 da una vita tiepida ad una vita fervorosa, da una vita fervorosa ad una vita santa.
 
-Con l'umiltà e la fiducia dell’emorroissa accostiamoci
+Con l'umiltà e la fiducia dell'emorroissa accostiamoci
 a Gesù e preghiamolo di cuore di compiere in noi i suoi
 disegni di amore, strappandoci dalla grigia mediocrità di
-una vita spirituale, ancora inceppata dai lacci dell’egoismo,
+una vita spirituale, ancora inceppata dai lacci dell'egoismo,
 per slanciarci decisamente verso la santità,
 
 ### Colloquio
@@ -95,6 +95,6 @@ piccolo cielo dell'anima mia. Mi riempirai di te, mi seppellirai in te, mi farai
 
 te con una fede tutta fiduciosa. E so che mi perdonerai,
 che cancellerai tutto con cura gelosa; ancora di più: mi
-spoglierai, mi libererai da ogni mia miseria, da tutto quanto ostacola l’azione divina, avvincerai tutte le mie potenze che farai tue prigioniere. Allora sarò passata tutta in te.
+spoglierai, mi libererai da ogni mia miseria, da tutto quanto ostacola l'azione divina, avvincerai tutte le mie potenze che farai tue prigioniere. Allora sarò passata tutta in te.
 Allora potrò dire: * Non vivo più io, il mio Maestro vive
 in me'» (ET. IL 12),

@@ -63,7 +63,7 @@ sostanza di Dio: la carità di Dio.
 
 ### Colloquio
 
-«O potente ed eterna Trinità! 0 dolcissima ed ineffabile Carità! chi non s’infiammerebbe a tanto amore? Qual
+«O potente ed eterna Trinità! O dolcissima ed ineffabile Carità! chi non s’infiammerebbe a tanto amore? Qual
 cuore potrebbe difendersi dal consumarsi per te?
 
 «O abisso di carità! Tu sei dunque così perdutamente
@@ -71,7 +71,7 @@ attaccato alle tue creature, che sembra che non possa vivere senza di loro! Eppu
 gno di noi. Il nostro bene non aggiunge nulla alla tua grandezza, poichè sei immutabile. Il nostro male non potrebbe
 cagionar danno a te, che sei la sovrana ed eterna bontà!
 Chi dunque ti stimola a tanta misericordia? L'amore, Perchè Tu non hai alcun obbligo verso di noi e non hai di noi
-bisogno alcuno. Chi porta te, Dio infinito, verso di me, piccola creatura? Nessun altro che Tu stesso, 0 Fuoco d’A-
+bisogno alcuno. Chi porta te, Dio infinito, verso di me, piccola creatura? Nessun altro che Tu stesso, O Fuoco d’A-
 more, sempre l'Amore solo ti spinse e ti spinge! —
 
 «Tu, somma dolcezza, ti sei degnato di unirti con la
@@ -80,7 +80,7 @@ nostra amaritudine; Tu, splendore, con le tenebre; Tu, sa-
 
 pienza, con la stoltezza; Tu, vita, con la morte; Tu, infinito, con noi finiti! » (S. Caterina da Siena).
 
-O dolcissimo Verbo Incarnato, 0 amabilissimo Bambino Gesù, eccomi finalmente ai tuoi piedi: lasciami contemplare, permettimi di bearmi della tua bellezza, della tua
+O dolcissimo Verbo Incarnato, O amabilissimo Bambino Gesù, eccomi finalmente ai tuoi piedi: lasciami contemplare, permettimi di bearmi della tua bellezza, della tua
 bontà, della tua carità immensa! Il tuo amore infinito si
 presenta a me vivo e palpitante in questo tenero Bimbo
 che mi sorride e mi tende le sue piccole braccia e questo
@@ -90,7 +90,7 @@ del tuo eccessivo amore? Come potrò ricambiarti?
 « Tu, essendo grande e ricco, per noi ti sei fatto piccolo e povero, hai scelto di nascere fuori di casa in una
 stalla, d'esser fasciato nei pannicelli, di succhiare latte verginale, di essere deposto nel presepio tra il bue e l’asinello.
 “Oggi rifulse per noi il giorno della redenzione nuova,
-della restaurazione antica, della felicità eterna; 0; gi per
+della restaurazione antica, della felicità eterna; oggi per
 tutto il mondo i cieli hanno stillato miele! *  Abbraccia
 adesso, dunque, anima mia, quel divino presepio, premi le
 labbra sui piedini del Bimbo, baciali tutt'e due. Medita,

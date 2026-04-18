@@ -1,4 +1,4 @@
-## 314 — L'ANIMA DELL’ APOSTOLATO
+## 314 — L'ANIMA DELL'APOSTOLATO
 
 ### Presenza di Dio
 
@@ -6,7 +6,7 @@ Fammi comprendere, o Signore, che solo l'unione con te, che solo l'amore può fe
 
 ### Meditazione
 
-t — Non si può vessere collaboratori di Dio, docili
+1. — Non si può essere collaboratori di Dio, docili
 strumenti nelle sue mani, non si può sentire con Cristo e
 associarsi al suo amore ed alla sua opera per la salvezza
 delle anime, senza una vita di affettuosa intimità con Dio
@@ -16,7 +16,7 @@ Mediante la preghiera e la lotta contro il peccato,
 mediante la rinuncia di sè e l'esercizio delle virtù, la vita
 interiore spoglia progressivamente l’anima di tutto ciò che
 è difettoso, favorendo così in lei lo sviluppo della grazia e dell'amore, il che è quanto dire che la riveste di
-vita divina, giacchè grazia € amore sono una partecipazione della vita stessa di Dio. Ne consegue che quanto
+vita divina, giacchè grazia e amore sono una partecipazione della vita stessa di Dio. Ne consegue che quanto
 più un'anima coltiverà la vita interiore, tanto più si avvicinerà a Dio e, diventata simile a lui per grazia ed amo-
 re, potrà vivere nella sua intimità, potrà godere della sua
 amicizia, penetrare i suoi misteri ed associarsi ad essi.
@@ -25,7 +25,7 @@ della Redenzione e a portarvi il suo contributo più di
 colui che, per mezzo di una fervorosa vita interiore, vive
 in intima amicizia con Dio?
 
-Ai fini dell’apostolato non può re sufficiente quel
+Ai fini dell’apostolato non può essere sufficiente quel
 primo grado di amicizia divina che risulta dall’assenza del
 peccato grave, ma occorre un’amicizia più profonda che
 crei uniformità di vedute, di volontà, di desideri, di affetti in modo che l’apostolo possa agire secondo il cuore
@@ -33,10 +33,10 @@ di Dio, mosso non da impulsi personali, ma dall’impulso
 della grazia, dal volere divino, dalle ispirazioni dello Spirito Santo. È significativo il fatto che Gesù, prima di
 
 
-lanciare gli Apostoli alla conquista del mondo, 'ha voluto
+lanciare gli Apostoli alla conquista del mondo, ha voluto
 farli vivere per tre anni nella sua intimità, trattandoli da
 
-eri amici: «lo non vi chiamo più servi... vi ho chiamati
+veri amici: «Io non vi chiamo più servi... vi ho chiamati
 amici» (Gv. 15, 15). Amici non solo perchè ha partecipato ad essi i tesori della sua vita divina, ma anche per-
 chè li ha voluti collaboratori e, in un certo senso, continuatori della sua missione di Redentore.
 
@@ -44,40 +44,36 @@ L'apostolo non può essere tale se non è amico di Dio;
 Dio stesso l’invita a questa amicizia, ma è necessario che
 egli vi corrisponda con una seria vita interiore che renda
 i suoi rapporti con Dio sempre più intimi e più ricchi
-di amore,
+di amore.
 
 
-È — Solo dall’amicizia con Dio, solo dalla carità che
-ci unisce a lui, s
-
-
-efficaci, raggiungono il loro intento.
+2. — Solo dall'amicizia con Dio, solo dalla carità che ci unisce a lui, l'apostolo attinge quelle energie soprannaturali che rendono le sue opere veramente efficaci e capaci di raggiungere il loro intento.
 Ma, dove attingerà l’apostolo questo amore che, unendolo a Dio, lo rende tanto potente? Senza dubbio da Dio
-stesso: «L’amore divino si ‘è riversato nei nostri cuori
+stesso: «L'amore divino si è riversato nei nostri cuori
 per lo Spirito Santo che ci fu dato » (Rom. 5, 5). In un
 primo momento, il momento della giustificazione, Dio infonde in noi la carità senza la nostra collaborazione, ma
-Egli non ci conserva questo dono, e tanto meno l’aceresce, se non ci manteniamo uniti a lui mediante gli eser-
-cizi della vita interiore. La lotta contro le p: sioni, la
+Egli non ci conserva questo dono, e tanto meno l'accresce, se non ci manteniamo uniti a lui mediante gli eser-
+cizi della vita interiore. La lotta contro le passioni, la
 pratica delle virtù, la frequenza dei sacramenti, la preghiera, il raccoglimento, la presenza di Dio hanno ap-
-punto lo scopo di favorire l'unione col Signore e Paumento della carità. La vita interiore è la fucina segreta
+punto lo scopo di favorire l'unione col Signore e l'aumento della carità. La vita interiore è la fucina segreta
 in cui l’anima a contatto con Dio s’infiamma del suo amore e, proprio perchè infiammata e forgiata dall'amore, di-
-venta docile strumento di cui Dio Dosi valersi per diffondere l’amore in altri cuori, È quindi molto opportuno
+venta docile strumento di cui Dio possa valersi per diffondere l’amore in altri cuori. È quindi molto opportuno
 
 
-richiamarsi spesso al grande principio: /a vita interiore è
-Panima dell’apostolato. Una vita interiore profonda sarà
+richiamarsi spesso al grande principio: la vita interiore è
+l'anima dell'apostolato. Una vita interiore profonda sarà
 generatrice di intenso amore, di intima unione con Dio,
-e lr da essa sgorgherà un apostolato fecondo, vera
+e allora da essa sgorgherà un apostolato fecondo, vera
 collaborazione all'opera salvifica di Cristo; invece una vita interiore mediocre non potrà produrre che un amore
 ed un'unione con Dio molto deboli e fiacchi, e di conseguenza l’apostolato che ne deriverà non potrà avere un
 efficace influsso sulle anime. Dove poi la vita interiore
 fosse quasi o del tutto spenta, anche la carità e l'amicizia
-con Dio minaccerebbero di estinguersi c, estinguendosi
+con Dio minaccerebbero di estinguersi e, estinguendosi
 la fiamma interiore, l’apostolato verrebbe svuotato della
 sua sostanza, riducendosi ad un puro movimento che può
-fare del chiasso, ma che non può dare alcun frutto. « T'utto — dice S, Giovanni della Croce — si ridurrà ad un
+fare del chiasso, ma che non può dare alcun frutto. « Tutto — dice S. Giovanni della Croce — si ridurrà ad un
 martellare invano e a fare poco più di niente, e alle volte
-proprio niente, anzi talvolta anche danno » (C..29, 3).
+proprio niente, anzi talvolta anche danno » (C. 29, 3).
 
 ### Colloquio
 
@@ -86,8 +82,8 @@ proprio niente, anzi talvolta anche danno » (C..29, 3).
 «O Gesù, ti chiedo di attirarmi nelle fiamme del tuo
 amore e di unirmi così strettamente a te, che Tu stesso
 viva ed agisca in me. Quanto più il fuoco dell’amor tuo
-incendierà il mio cuore.e quanto più io ripeterò: traivzi,
-anto più le anime che si avvicineranno alla mia correranno velocemente dietro all'odore dei tuoi profumi.
+incendierà il mio cuore e quanto più io ripeterò: traimi,
+tanto più le anime che si avvicineranno alla mia correranno velocemente dietro all'odore dei tuoi profumi.
 
 «Sì, o Signore, correranno, correremo insieme, perchè le anime infiammate d'amore non possono rimanere
 inattive. Esse se ne stanno, come S. Maria Maddalena, ai
@@ -112,4 +108,4 @@ questi tesori sono per me le anime che ti è piaciuto d’unire alla mia; questi
 «Ma, volendo raggiungere una meta, occorre valersi
 dei mezzi opportuni. Perciò, Gesù mio, avendomi Tu
 fatto comprendere che mi avresti dato delle anime mediante la croce, quanto maggiori sono le croci che in-
-contro, tanto più si fa viva in me la brama dei patimenti» (T.B.G.St.10€ 7).
+contro, tanto più si fa viva in me la brama dei patimenti» (T.B.G. St. 10, 7).
