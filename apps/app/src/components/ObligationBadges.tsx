@@ -156,8 +156,13 @@ function ObligationModal({
 
   return (
     <Modal animationType="fade" visible={visible} transparent onRequestClose={onClose}>
-      <Pressable style={styles.backdrop} onPress={onClose}>
-        <Pressable onPress={(e) => e.stopPropagation()}>
+      <Pressable
+        style={styles.backdrop}
+        onPress={onClose}
+        accessibilityRole="button"
+        accessibilityLabel={t('a11y.closeModal')}
+      >
+        <Pressable onPress={(e) => e.stopPropagation()} accessible={false}>
           <YStack paddingHorizontal="$lg">
             <Animated.View style={frameStyle}>
               <ManuscriptFrame backgroundColor="$background">
@@ -200,6 +205,8 @@ function ObligationModal({
                         lightTap()
                         onClose()
                       }}
+                      accessibilityRole="button"
+                      accessibilityLabel={t('obligations.dismiss')}
                     >
                       <YStack paddingVertical="$sm" paddingHorizontal="$lg" alignItems="center">
                         <Text fontFamily="$heading" fontSize="$3" color="$accent">
