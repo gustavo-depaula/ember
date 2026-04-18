@@ -100,6 +100,8 @@ Accumulated learnings, discoveries, and decisions from Ember development. Things
 
 ## Technical
 
+- **Global mutation error handler uses TanStack Query's MutationCache, not per-hook wiring.** Across 39+ mutations in 10 features, none had `onError` handlers — failures were silent. Rather than retrofitting each hook, `_layout.tsx` configures `QueryClient({ mutationCache: new MutationCache({ onError }) })` once. The global handler opens `ConfirmSheet` in single-action mode with `i18n.t('error.somethingWrong')` + the error message (or `error.tryAgainLater` fallback). Per-mutation `onError` still wins: the global handler guards with `if (mutation.options.onError) return`. Trade-off: every mutation error now shows a dialog unless explicitly suppressed — acceptable because the fallback is far better than silent failure.
+
 - **The original `getLiturgicalSeason()` was an antiphon scheduler, not a season calculator.** Its boundaries mapped to the Marian antiphon switching dates (Advent→Feb 1, Feb 2→Holy Wednesday, etc.), which don't correspond to actual liturgical seasons. The antiphon schedule is a separate traditional system with its own date ranges — decoupled from seasons in the rewrite.
 
 - **OF and EF seasons share Easter and Advent but diverge everywhere else.** Key differences: EF has Epiphanytide (Jan 14 to Septuagesima) and Septuagesimatide (3 pre-Lent Sundays using violet), neither of which exist in OF. EF has "Time after Pentecost" where OF has "Ordinary Time." Christmas ends at Baptism of the Lord (OF, ~Jan 11) vs Octave of Epiphany (EF, Jan 13). A single `LiturgicalSeason` union with 8 values covers both forms cleanly — each form uses a subset.
