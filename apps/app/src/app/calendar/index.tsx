@@ -90,7 +90,12 @@ export default function CalendarScreen() {
             <Text flex={1} fontFamily="$body" fontSize="$2" color="$colorSecondary">
               {t('calendar.loadError')}
             </Text>
-            <AnimatedPressable onPress={() => refetch()} accessibilityRole="button" hitSlop={8}>
+            <AnimatedPressable
+              onPress={() => refetch()}
+              accessibilityRole="button"
+              accessibilityLabel={t('common.retry')}
+              hitSlop={8}
+            >
               <Text fontFamily="$heading" fontSize="$2" color="$accent">
                 {t('common.retry')}
               </Text>
