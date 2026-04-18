@@ -1307,6 +1307,7 @@ export default {
     viewCalendar: 'Ver calendário litúrgico',
     viewGalleryImage: 'Ver imagem {{index}} de {{total}}',
     nextAspiration: 'Toque para outra aspiração',
+    wallDay: 'Atividade em {{date}}',
   },
   languages: {
     'en-US': 'Inglês',

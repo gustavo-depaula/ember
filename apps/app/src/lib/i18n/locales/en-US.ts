@@ -1303,6 +1303,7 @@ export default {
     viewCalendar: 'View liturgical calendar',
     viewGalleryImage: 'View image {{index}} of {{total}}',
     nextAspiration: 'Tap for another aspiration',
+    wallDay: 'Activity on {{date}}',
   },
   languages: {
     'en-US': 'English',

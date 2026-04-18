@@ -1,5 +1,6 @@
 import { addDays, format, startOfWeek, subWeeks } from 'date-fns'
 import { useMemo } from 'react'
+import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
 import { useTheme, XStack, YStack } from 'tamagui'
 
@@ -30,6 +31,7 @@ function buildWeekGrid(data: WallEntry[], weeks: number): WallEntry[][] {
 const cellConfig = { size: 12, gap: 2, radius: 6 }
 
 function Cell({ color, date, onPress }: { color: string; date: string; onPress?: () => void }) {
+  const { t } = useTranslation()
   const square = (
     <YStack
       width={cellConfig.size}
@@ -41,7 +43,7 @@ function Cell({ color, date, onPress }: { color: string; date: string; onPress?:
 
   if (onPress) {
     return (
-      <Pressable onPress={onPress} accessibilityLabel={`${date}: activity`}>
+      <Pressable onPress={onPress} accessibilityLabel={t('a11y.wallDay', { date })}>
         {square}
       </Pressable>
     )
