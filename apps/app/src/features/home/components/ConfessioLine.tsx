@@ -1,11 +1,10 @@
 import { differenceInCalendarDays, parseISO } from 'date-fns'
 import { useRouter } from 'expo-router'
 import { useTranslation } from 'react-i18next'
-import { Pressable } from 'react-native'
-import { Text } from 'tamagui'
 
 import { useLastConfession } from '@/features/confessio'
 import { useToday } from '@/hooks/useToday'
+import { WhisperLine } from './WhisperLine'
 
 export function ConfessioLine() {
   const { t } = useTranslation()
@@ -24,23 +23,11 @@ export function ConfessioLine() {
         : t('confessio.homeSince', { count: days })
 
   return (
-    <Pressable
+    <WhisperLine
       onPress={() => router.push('/confessio')}
-      hitSlop={6}
-      accessibilityRole="link"
+      label={label}
       accessibilityLabel={t('confessio.title')}
-    >
-      <Text
-        fontFamily="$script"
-        fontSize="$2"
-        color="$colorSecondary"
-        fontStyle="italic"
-        opacity={0.75}
-        textAlign="center"
-        paddingVertical="$xs"
-      >
-        {label}
-      </Text>
-    </Pressable>
+      tone="quiet"
+    />
   )
 }

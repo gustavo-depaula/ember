@@ -1,12 +1,11 @@
 import { format } from 'date-fns'
 import { useRouter } from 'expo-router'
 import { useTranslation } from 'react-i18next'
-import { Pressable } from 'react-native'
-import { Text } from 'tamagui'
 
 import { useEventStore } from '@/db/events'
 import { useCurrentMealSlot } from '@/features/benedictio'
 import { useToday } from '@/hooks/useToday'
+import { WhisperLine } from './WhisperLine'
 
 export function BenedictioLine() {
   const { t } = useTranslation()
@@ -20,23 +19,10 @@ export function BenedictioLine() {
   if (blessed) return null
 
   return (
-    <Pressable
+    <WhisperLine
       onPress={() => router.push('/benedictio')}
-      hitSlop={8}
-      accessibilityRole="link"
+      label={t(`benedictio.invite.${slot}`)}
       accessibilityLabel={t('benedictio.title')}
-    >
-      <Text
-        fontFamily="$script"
-        fontSize="$3"
-        color="$accent"
-        fontStyle="italic"
-        textAlign="center"
-        paddingVertical="$xs"
-        opacity={0.85}
-      >
-        {t(`benedictio.invite.${slot}`)}
-      </Text>
-    </Pressable>
+    />
   )
 }

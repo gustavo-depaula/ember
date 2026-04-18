@@ -466,6 +466,21 @@ Why it's worth the turn even though it's small: future memoria sources (a Kyrie 
 
 ---
 
+## Iteration 32 — WhisperLine extraction
+
+Second home-screen refactor of the night. Four whisper components — AngelusLine, BenedictioLine, MementoLine, ConfessioLine — all shared the same shape: a `Pressable` wrapping a centered, italicized, script-font `Text`. They differed only in two tonal registers:
+
+- **Bright** (Angelus, Benedictio): `$accent` color, fontSize `$3`, opacity 0.85, hitSlop 8. The "something to do now" whispers tied to a window.
+- **Quiet** (Memento, Confessio): `$colorSecondary`, fontSize `$2`, opacity 0.75, hitSlop 6. The "something to reflect on" whispers.
+
+Extracted `WhisperLine` with a `tone?: 'bright' | 'quiet'` prop defaulting to bright. All four callers are now 5-8 lines of distinguishing logic (when to render, what label, where to route) plus a single `<WhisperLine>` invocation — zero presentation boilerplate.
+
+Matched with the earlier ShortcutRow extraction: the home screen now has two shared render primitives for its two row patterns (tappable shortcut card, tappable whisper). Future whisper additions — a Pax nightly reconciliation whisper, a Lectio morning verse whisper — are a 3-line `<WhisperLine>` call.
+
+102/102 tests still green. No visual regression (same tokens, same layout, just encapsulated).
+
+---
+
 ## Session wrap
 
 Shipped tonight, in order:
@@ -505,6 +520,7 @@ Shipped tonight, in order:
 33. ShortcutRow extraction — six copy-pasted home rows collapsed to a single reusable component, with built-in `accessibilityRole="link"` / label / hint for screen readers.
 34. Aspiratio pool doubled — 15 → 30 traditional Latin ejaculatory prayers; each one's annual repetition halved.
 35. Memoria anniversary predicate extracted — six repeated `month/day/year<` checks in `useOnThisDayEntries` collapsed to `isPriorAnniversary(ts, …)`.
+36. WhisperLine component — four home whispers (Angelus/Benedictio/Memento/Confessio) collapsed onto one shared `<WhisperLine tone="bright|quiet" />`.
 
 Bold = new visible features, not bug fixes.
 

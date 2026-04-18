@@ -1,12 +1,11 @@
 import { format } from 'date-fns'
 import { useRouter } from 'expo-router'
 import { useTranslation } from 'react-i18next'
-import { Pressable } from 'react-native'
-import { Text } from 'tamagui'
 
 import { useEventStore } from '@/db/events'
 import { useCurrentAngelusSlot } from '@/features/angelus'
 import { useLiturgicalTheme } from '@/hooks/useLiturgicalTheme'
+import { WhisperLine } from './WhisperLine'
 
 export function AngelusLine({ date }: { date: Date }) {
   const { t } = useTranslation()
@@ -19,27 +18,13 @@ export function AngelusLine({ date }: { date: Date }) {
   if (!slot) return null
   if (prayed) return null
 
-  const eastertide = season === 'easter'
-  const label = eastertide ? t('angelus.reginaCaeliBell') : t('angelus.bell')
+  const label = season === 'easter' ? t('angelus.reginaCaeliBell') : t('angelus.bell')
 
   return (
-    <Pressable
+    <WhisperLine
       onPress={() => router.push('/angelus')}
-      hitSlop={8}
-      accessibilityRole="link"
+      label={label}
       accessibilityLabel={t('angelus.title')}
-    >
-      <Text
-        fontFamily="$script"
-        fontSize="$3"
-        color="$accent"
-        fontStyle="italic"
-        textAlign="center"
-        paddingVertical="$xs"
-        opacity={0.85}
-      >
-        {label}
-      </Text>
-    </Pressable>
+    />
   )
 }

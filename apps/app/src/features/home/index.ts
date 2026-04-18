@@ -15,4 +15,5 @@ export {
   SeasonalContext,
   ShortcutRow,
   TimeBlockSection,
+  WhisperLine,
 } from './components'

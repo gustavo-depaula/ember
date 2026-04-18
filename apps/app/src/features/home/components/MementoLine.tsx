@@ -1,9 +1,8 @@
 import { useRouter } from 'expo-router'
 import { useTranslation } from 'react-i18next'
-import { Pressable } from 'react-native'
-import { Text } from 'tamagui'
 
 import { useIsMementoEvening } from '@/features/memento'
+import { WhisperLine } from './WhisperLine'
 
 export function MementoLine() {
   const { t } = useTranslation()
@@ -13,23 +12,11 @@ export function MementoLine() {
   if (!evening) return null
 
   return (
-    <Pressable
+    <WhisperLine
       onPress={() => router.push('/memento')}
-      hitSlop={6}
-      accessibilityRole="link"
+      label={t('memento.homeLine')}
       accessibilityLabel={t('memento.title')}
-    >
-      <Text
-        fontFamily="$script"
-        fontSize="$2"
-        color="$colorSecondary"
-        fontStyle="italic"
-        opacity={0.75}
-        textAlign="center"
-        paddingVertical="$xs"
-      >
-        {t('memento.homeLine')}
-      </Text>
-    </Pressable>
+      tone="quiet"
+    />
   )
 }
