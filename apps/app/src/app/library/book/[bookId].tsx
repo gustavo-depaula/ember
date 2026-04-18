@@ -7,7 +7,7 @@ import { Pressable, useColorScheme } from 'react-native'
 import Animated, { FadeIn, FadeOut } from 'react-native-reanimated'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { Text, useTheme, View, XStack, YStack } from 'tamagui'
-import { PrayerSpinner, ReadingConfigModal, ScreenLayout } from '@/components'
+import { PrayerSpinner, ReaderErrorState, ReadingConfigModal, ScreenLayout } from '@/components'
 import { getBookDirUri, getBookEntry } from '@/content/registry'
 import { getCursor, setCursor } from '@/db/repositories/cursors'
 import {
@@ -131,7 +131,12 @@ export default function BookReaderScreen() {
     }
   }, [savePosition])
 
-  const { data: bookContent, isLoading } = useQuery({
+  const {
+    data: bookContent,
+    isLoading,
+    isError,
+    refetch,
+  } = useQuery({
     queryKey: ['book', bookId, lang],
     queryFn: () =>
       loadBookContent(
@@ -283,6 +288,14 @@ export default function BookReaderScreen() {
             Book not found.
           </Text>
         </YStack>
+      </ScreenLayout>
+    )
+  }
+
+  if (isError) {
+    return (
+      <ScreenLayout>
+        <ReaderErrorState onRetry={() => refetch()} />
       </ScreenLayout>
     )
   }
