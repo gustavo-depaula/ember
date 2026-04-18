@@ -748,6 +748,7 @@ export default {
     title: 'Translations',
     suggested: 'Suggested Bibles',
     all: 'All Translations',
+    offline: 'Couldn\u2019t load more translations.',
   },
 
   readingConfig: {

@@ -4,7 +4,7 @@ import { useTranslation } from 'react-i18next'
 import { Modal, Pressable } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { ScrollView, Text, useTheme, View, XStack, YStack } from 'tamagui'
-
+import { AnimatedPressable } from '@/components'
 import { type BollsLanguageEntry, extractLanguageCode, suggestedTranslations } from '@/lib/bolls'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
@@ -97,7 +97,7 @@ export function TranslationModal({ visible, onClose }: { visible: boolean; onClo
   const theme = useTheme()
   const translation = usePreferencesStore((s) => s.translation)
   const setTranslation = usePreferencesStore((s) => s.setTranslation)
-  const { data: apiTranslations } = useAllTranslations()
+  const { data: apiTranslations, isError: translationsError, refetch } = useAllTranslations()
 
   const languageGroups = useMemo(
     () => buildLanguageGroups(apiTranslations ?? []),
@@ -148,6 +148,30 @@ export function TranslationModal({ visible, onClose }: { visible: boolean; onClo
               onPress={() => handleSelect(t.code)}
             />
           ))}
+
+          {translationsError ? (
+            <XStack
+              marginHorizontal="$lg"
+              marginTop="$md"
+              paddingVertical="$sm"
+              paddingHorizontal="$md"
+              borderRadius="$md"
+              borderWidth={1}
+              borderColor="$borderColor"
+              backgroundColor="$backgroundSurface"
+              alignItems="center"
+              gap="$sm"
+            >
+              <Text flex={1} fontFamily="$body" fontSize="$2" color="$colorSecondary">
+                {t('translations.offline')}
+              </Text>
+              <AnimatedPressable onPress={() => refetch()} accessibilityRole="button" hitSlop={8}>
+                <Text fontFamily="$heading" fontSize="$2" color="$accent">
+                  {t('common.retry')}
+                </Text>
+              </AnimatedPressable>
+            </XStack>
+          ) : undefined}
 
           {languageGroups.length > 0 ? (
             <>

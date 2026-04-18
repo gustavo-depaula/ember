@@ -754,6 +754,7 @@ export default {
     title: 'Tradu\u00e7\u00f5es',
     suggested: 'B\u00edblias Sugeridas',
     all: 'Todas as Tradu\u00e7\u00f5es',
+    offline: 'N\u00e3o foi poss\u00edvel carregar mais tradu\u00e7\u00f5es.',
   },
 
   readingConfig: {
