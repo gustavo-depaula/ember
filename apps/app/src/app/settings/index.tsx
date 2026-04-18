@@ -157,58 +157,68 @@ export default function SettingsScreen() {
 
         <SectionDivider />
 
-        <PillSelector
-          label={t('settings.language')}
-          options={supportedLanguages.map((l) => ({ value: l.code, label: l.label }))}
-          value={language}
-          onChange={setLanguage}
-        />
-
-        <PillSelector
-          label={t('settings.contentLanguage')}
-          options={contentLanguageOptions}
-          value={contentLanguage}
-          onChange={setContentLanguage}
-        />
-
-        <PillSelector
-          label={t('settings.secondaryLanguage')}
-          options={secondaryOptions}
-          value={secondaryLanguage ?? ''}
-          onChange={(v) => setSecondaryLanguage((v || undefined) as ContentLanguage | undefined)}
-        />
-
-        {secondaryLanguage && (
+        <YStack gap="$md">
+          <Text fontFamily="$heading" fontSize="$3" color="$color">
+            {t('settings.languagesSection')}
+          </Text>
           <PillSelector
-            label={t('settings.displayMode')}
-            options={displayModeOptions}
-            value={displayMode}
-            onChange={setDisplayMode}
+            label={t('settings.language')}
+            options={supportedLanguages.map((l) => ({ value: l.code, label: l.label }))}
+            value={language}
+            onChange={setLanguage}
           />
-        )}
+
+          <PillSelector
+            label={t('settings.contentLanguage')}
+            options={contentLanguageOptions}
+            value={contentLanguage}
+            onChange={setContentLanguage}
+          />
+
+          <PillSelector
+            label={t('settings.secondaryLanguage')}
+            options={secondaryOptions}
+            value={secondaryLanguage ?? ''}
+            onChange={(v) => setSecondaryLanguage((v || undefined) as ContentLanguage | undefined)}
+          />
+
+          {secondaryLanguage && (
+            <PillSelector
+              label={t('settings.displayMode')}
+              options={displayModeOptions}
+              value={displayMode}
+              onChange={setDisplayMode}
+            />
+          )}
+        </YStack>
 
         <SectionDivider />
 
-        <PillSelector
-          label={t('settings.liturgicalCalendar')}
-          options={[
-            { value: 'of' as const, label: t('settings.calendarOF') },
-            { value: 'ef' as const, label: t('settings.calendarEF') },
-          ]}
-          value={liturgicalCalendar}
-          onChange={setLiturgicalCalendar}
-        />
+        <YStack gap="$md">
+          <Text fontFamily="$heading" fontSize="$3" color="$color">
+            {t('settings.calendarSection')}
+          </Text>
+          <PillSelector
+            label={t('settings.liturgicalCalendar')}
+            options={[
+              { value: 'of' as const, label: t('settings.calendarOF') },
+              { value: 'ef' as const, label: t('settings.calendarEF') },
+            ]}
+            value={liturgicalCalendar}
+            onChange={setLiturgicalCalendar}
+          />
 
-        <PillSelector
-          label={t('settings.jurisdiction')}
-          options={[
-            { value: '' as const, label: t('settings.jurisdictionUniversal') },
-            { value: 'BR' as const, label: t('settings.jurisdictionBR') },
-            { value: 'US' as const, label: t('settings.jurisdictionUS') },
-          ]}
-          value={jurisdiction ?? ''}
-          onChange={(v) => setJurisdiction(v || undefined)}
-        />
+          <PillSelector
+            label={t('settings.jurisdiction')}
+            options={[
+              { value: '' as const, label: t('settings.jurisdictionUniversal') },
+              { value: 'BR' as const, label: t('settings.jurisdictionBR') },
+              { value: 'US' as const, label: t('settings.jurisdictionUS') },
+            ]}
+            value={jurisdiction ?? ''}
+            onChange={(v) => setJurisdiction(v || undefined)}
+          />
+        </YStack>
 
         <SectionDivider />
 

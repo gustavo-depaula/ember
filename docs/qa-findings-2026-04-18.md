@@ -185,6 +185,8 @@ Prefer (a) — stronger information hierarchy, no auto-scroll surprise.
 
 **Fix.** Pick one. Probably: `$heading` + SMALL CAPS for major sections, `$body` Title Case for sub-fields within a section.
 
+**Status.** Fixed — the previously-orphaned language and calendar pill clusters are now wrapped in explicit `$heading` "LANGUAGES" and "CALENDAR" section headings matching Bible Translation / Reading / Time Travel. Pill labels still use `$body` title case for sub-fields, giving one consistent two-level hierarchy.
+
 ---
 
 ### F17 · Prayer opener date uses $script font, conflicts with script-restraint policy — **P3**

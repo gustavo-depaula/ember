@@ -653,6 +653,8 @@ export default {
     attrBolls: 'Online translations via Bolls.life API',
     estCompletion: 'Est. completion: {{date}}',
     booksOf: '{{completed}} of {{total}} books',
+    languagesSection: 'Languages',
+    calendarSection: 'Calendar',
     language: 'Interface Language',
     contentLanguage: 'Content Language',
     secondaryLanguage: 'Secondary Language',
