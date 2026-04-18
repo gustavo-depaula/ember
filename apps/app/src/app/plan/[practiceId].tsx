@@ -145,6 +145,15 @@ export default function PracticeDetailScreen() {
                 params: { manifestId: activeVariant },
               })
             }
+            accessibilityRole="link"
+            accessibilityLabel={
+              programProgress
+                ? t('program.dayOf', {
+                    day: programProgress.programDay + 1,
+                    total: programProgress.totalDays,
+                  })
+                : t('program.begin')
+            }
           >
             <YStack
               backgroundColor="$accent"
@@ -241,7 +250,11 @@ export default function PracticeDetailScreen() {
         {isArchived ? (
           <>
             <SectionDivider />
-            <AnimatedPressable onPress={() => unarchivePractice.mutate(practiceId)}>
+            <AnimatedPressable
+              onPress={() => unarchivePractice.mutate(practiceId)}
+              accessibilityRole="button"
+              accessibilityLabel={t('plan.unarchive')}
+            >
               <YStack
                 borderWidth={1}
                 borderColor="$accent"
@@ -271,6 +284,8 @@ export default function PracticeDetailScreen() {
                   router.back()
                 }
               }}
+              accessibilityRole="button"
+              accessibilityLabel={t('plan.archive')}
             >
               <YStack
                 borderWidth={1}
