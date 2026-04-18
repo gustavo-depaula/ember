@@ -498,6 +498,22 @@ Three refactors in a row. Getting a good sense of the app's presentational vocab
 
 ---
 
+## Iteration 34 — useCurrentHour and the block auto-expand bug
+
+Home index had `const hour = new Date().getHours()` computed once at render. `currentBlock` fell out of that. Open the app at 11:58 (block: `morning`), stay until 12:15 (block should be `daytime`): the auto-expand state never updated, because the component didn't re-render on the hour boundary. Small bug, easy to miss, real.
+
+Four other places already handled it the right way — each with its own `useState + useEffect + setInterval(60_000)` pattern re-reading `new Date().getHours()`. Angelus slot, Benedictio meal slot, Memento evening (>=19), HoraLine. Same shape every time.
+
+Extracted `useCurrentHour()` in `apps/app/src/hooks/useCurrentHour.ts` — polls every minute, only updates state when the hour actually advances (setter uses `prev === next ? prev : next`), so downstream consumers don't re-render every minute for no reason. JSDoc calls out the usual trap: this is the hour to use, not `useToday().getHours()`.
+
+Used the extraction to change the slot-helper API shape from `currentAngelusSlot(now: Date)` / `currentMealSlot(now: Date)` to `currentAngelusSlot(hour: number)` / `currentMealSlot(hour: number)`. The old Date-taking API was the exact shape that bit us in iteration 31 (Benedictio ship) — passing a `useToday()` Date produced silent undefined. The hour-taking API eliminates the trap by construction: you can't accidentally pass a midnight-normalized Date, because you must compute a real hour first, and `useCurrentHour()` is the obvious way. Less commentary, more type safety.
+
+Seven files changed, −41/+15 lines. Every hooks file that used the pattern is now two lines long.
+
+Tests: 102/102 green. Biome clean.
+
+---
+
 ## Session wrap
 
 Shipped tonight, in order:
@@ -539,6 +555,7 @@ Shipped tonight, in order:
 35. Memoria anniversary predicate extracted — six repeated `month/day/year<` checks in `useOnThisDayEntries` collapsed to `isPriorAnniversary(ts, …)`.
 36. WhisperLine component — four home whispers (Angelus/Benedictio/Memento/Confessio) collapsed onto one shared `<WhisperLine tone="bright|quiet" />`.
 37. SlotChip extraction — shared pill-chip component now powers both the Angelus and Benedictio slot rows; per-feature wrappers hold only the hook wiring.
+38. useCurrentHour hook — home block auto-expand was non-reactive across hour boundaries; four other features duplicated the setInterval-polling pattern. Extracted to a single hook, and changed the slot-helper API from Date to hour:number to make the old useToday-trap unrepresentable.
 
 Bold = new visible features, not bug fixes.
 

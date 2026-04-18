@@ -10,10 +10,7 @@ const windows: Record<AngelusSlot, [number, number]> = {
   evening: [17, 19],
 }
 
-// `now` must be a real Date (`new Date()`), not `useToday()` — the latter is
-// normalized to midnight, which would always fall outside every slot window.
-export function currentAngelusSlot(now: Date): AngelusSlot | undefined {
-  const hour = now.getHours()
+export function currentAngelusSlot(hour: number): AngelusSlot | undefined {
   for (const slot of angelusSlots) {
     const [start, end] = windows[slot]
     if (hour >= start && hour < end) return slot
@@ -21,6 +18,6 @@ export function currentAngelusSlot(now: Date): AngelusSlot | undefined {
   return undefined
 }
 
-export function isAngelusWindow(now: Date): boolean {
-  return currentAngelusSlot(now) !== undefined
+export function isAngelusWindow(hour: number): boolean {
+  return currentAngelusSlot(hour) !== undefined
 }

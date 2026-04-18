@@ -1,6 +1,7 @@
-import { useEffect, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Text, XStack } from 'tamagui'
+
+import { useCurrentHour } from '@/hooks/useCurrentHour'
 
 export type Hora = 'matins' | 'lauds' | 'prime' | 'terce' | 'sext' | 'none' | 'vespers' | 'compline'
 
@@ -17,12 +18,7 @@ export function getCurrentHora(hour: number): Hora {
 
 export function HoraLine() {
   const { t } = useTranslation()
-  const [hora, setHora] = useState<Hora>(() => getCurrentHora(new Date().getHours()))
-
-  useEffect(() => {
-    const id = setInterval(() => setHora(getCurrentHora(new Date().getHours())), 60_000)
-    return () => clearInterval(id)
-  }, [])
+  const hora = getCurrentHora(useCurrentHour())
 
   return (
     <XStack justifyContent="center" paddingVertical="$xs">

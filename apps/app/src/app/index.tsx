@@ -59,6 +59,7 @@ import {
   useSlots,
   useToggleSlot,
 } from '@/features/plan-of-life'
+import { useCurrentHour } from '@/hooks/useCurrentHour'
 import { useToday } from '@/hooks/useToday'
 import { localizeContent } from '@/lib/i18n'
 import {
@@ -87,8 +88,7 @@ export default function HomeScreen() {
   const realToday = format(realNow, 'yyyy-MM-dd')
   const now = useToday()
   const selectedDate = format(now, 'yyyy-MM-dd')
-  const hour = new Date().getHours()
-  const currentBlock = getCurrentTimeBlock(hour)
+  const currentBlock = getCurrentTimeBlock(useCurrentHour())
 
   const liturgicalCalendar = usePreferencesStore(
     (s) => s.liturgicalCalendar,

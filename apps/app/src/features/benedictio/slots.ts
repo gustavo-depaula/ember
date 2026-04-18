@@ -8,10 +8,7 @@ const windows: Record<MealSlot, [number, number]> = {
   dinner: [17, 21],
 }
 
-// `now` must be a real Date (`new Date()`), not `useToday()` — the latter is
-// normalized to midnight, which would always fall outside every slot window.
-export function currentMealSlot(now: Date): MealSlot | undefined {
-  const hour = now.getHours()
+export function currentMealSlot(hour: number): MealSlot | undefined {
   for (const slot of mealSlots) {
     const [start, end] = windows[slot]
     if (hour >= start && hour < end) return slot
