@@ -1256,6 +1256,7 @@ export default {
     selectChapter: 'Select chapter',
     openTableOfContents: 'Open table of contents',
     selectSection: 'Select section',
+    readingSettings: 'Reading settings',
   },
   languages: {
     'en-US': 'English',

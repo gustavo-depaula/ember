@@ -318,6 +318,8 @@ export default function BookReaderScreen() {
                 router.back()
               }}
               hitSlop={8}
+              accessibilityRole="button"
+              accessibilityLabel={t('a11y.goBack')}
             >
               <ChevronLeft size={24} color={theme.color.val} />
             </Pressable>
@@ -326,11 +328,21 @@ export default function BookReaderScreen() {
                 {title}
               </Text>
             </YStack>
-            <Pressable onPress={() => setConfigVisible(true)} hitSlop={8}>
+            <Pressable
+              onPress={() => setConfigVisible(true)}
+              hitSlop={8}
+              accessibilityRole="button"
+              accessibilityLabel={t('a11y.readingSettings')}
+            >
               <Type size={20} color={theme.color.val} />
             </Pressable>
             {bookEntry.toc && bookEntry.toc.length > 0 && (
-              <Pressable onPress={() => setTocVisible(true)} hitSlop={8}>
+              <Pressable
+                onPress={() => setTocVisible(true)}
+                hitSlop={8}
+                accessibilityRole="button"
+                accessibilityLabel={t('a11y.openTableOfContents')}
+              >
                 <List size={22} color={theme.color.val} />
               </Pressable>
             )}

@@ -1260,6 +1260,7 @@ export default {
     selectChapter: 'Selecionar capítulo',
     openTableOfContents: 'Abrir sumário',
     selectSection: 'Selecionar seção',
+    readingSettings: 'Configurações de leitura',
   },
   languages: {
     'en-US': 'Inglês',

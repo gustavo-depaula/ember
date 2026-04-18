@@ -23,7 +23,12 @@ function CollapsibleSection({
 
   return (
     <YStack gap="$sm">
-      <Pressable onPress={() => setExpanded(!expanded)} hitSlop={8}>
+      <Pressable
+        onPress={() => setExpanded(!expanded)}
+        hitSlop={8}
+        accessibilityRole="button"
+        accessibilityState={{ expanded }}
+      >
         <XStack alignItems="center" gap="$sm">
           <Icon size={16} color={theme.accent.val} />
           <Text fontFamily="$heading" fontSize="$3" color="$accent">
