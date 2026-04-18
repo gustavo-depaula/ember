@@ -394,53 +394,59 @@ export default function LibraryDetailScreen() {
             </>
           )}
 
-          <Text fontFamily="$heading" fontSize="$3" color="$color">
-            {t('library.practices')}
-          </Text>
+          {practiceList.length > 0 && (
+            <>
+              <Text fontFamily="$heading" fontSize="$3" color="$color">
+                {t('library.practices')}
+              </Text>
 
-          <YStack gap="$xs">
-            {practiceList.map((practice) => {
-              const inPlan = enabledIds.has(practice.id)
+              <YStack gap="$xs">
+                {practiceList.map((practice) => {
+                  const inPlan = enabledIds.has(practice.id)
 
-              return (
-                <AnimatedPressable
-                  key={practice.id}
-                  onPress={
-                    // biome-ignore lint/suspicious/noExplicitAny: expo-router untyped route
-                    isInstalled ? () => router.push(`/practices/${practice.id}` as any) : undefined
-                  }
-                  disabled={!isInstalled}
-                >
-                  <XStack
-                    backgroundColor="$backgroundSurface"
-                    borderRadius="$md"
-                    padding="$sm"
-                    paddingHorizontal="$md"
-                    gap="$md"
-                    alignItems="center"
-                    borderWidth={1}
-                    borderColor="$borderColor"
-                    opacity={isInstalled ? 1 : 0.7}
-                  >
-                    <PracticeIcon name={practice.icon} size={22} />
-                    <Text flex={1} fontFamily="$body" fontSize="$2" color="$color">
-                      {localizeContent(practice.name)}
-                    </Text>
-                    {inPlan && (
-                      <Text fontFamily="$body" fontSize="$1" color="$accent">
-                        {t('catalog.alreadyInPlan')}
-                      </Text>
-                    )}
-                    {isInstalled && (
-                      <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
-                        ›
-                      </Text>
-                    )}
-                  </XStack>
-                </AnimatedPressable>
-              )
-            })}
-          </YStack>
+                  return (
+                    <AnimatedPressable
+                      key={practice.id}
+                      onPress={
+                        // biome-ignore lint/suspicious/noExplicitAny: expo-router untyped route
+                        isInstalled
+                          ? () => router.push(`/practices/${practice.id}` as any)
+                          : undefined
+                      }
+                      disabled={!isInstalled}
+                    >
+                      <XStack
+                        backgroundColor="$backgroundSurface"
+                        borderRadius="$md"
+                        padding="$sm"
+                        paddingHorizontal="$md"
+                        gap="$md"
+                        alignItems="center"
+                        borderWidth={1}
+                        borderColor="$borderColor"
+                        opacity={isInstalled ? 1 : 0.7}
+                      >
+                        <PracticeIcon name={practice.icon} size={22} />
+                        <Text flex={1} fontFamily="$body" fontSize="$2" color="$color">
+                          {localizeContent(practice.name)}
+                        </Text>
+                        {inPlan && (
+                          <Text fontFamily="$body" fontSize="$1" color="$accent">
+                            {t('catalog.alreadyInPlan')}
+                          </Text>
+                        )}
+                        {isInstalled && (
+                          <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
+                            ›
+                          </Text>
+                        )}
+                      </XStack>
+                    </AnimatedPressable>
+                  )
+                })}
+              </YStack>
+            </>
+          )}
 
           {prayerList.length > 0 && (
             <>

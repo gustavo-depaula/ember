@@ -360,14 +360,20 @@ export function SlotConfigurator({
       </YStack>
 
       {slots.map((slot, i) => (
-        <SlotRow
+        <Animated.View
           key={slot.id}
-          slot={slot}
-          expanded={expandedIndex === i}
-          onToggleExpand={() => setExpandedIndex(expandedIndex === i ? undefined : i)}
-          onUpdate={(data) => onUpdateSlot(slot.id, data)}
-          onDelete={slots.length > 1 ? () => onDeleteSlot(slot.id) : undefined}
-        />
+          entering={FadeIn.duration(200)}
+          exiting={FadeOut.duration(150)}
+          layout={LinearTransition.duration(250)}
+        >
+          <SlotRow
+            slot={slot}
+            expanded={expandedIndex === i}
+            onToggleExpand={() => setExpandedIndex(expandedIndex === i ? undefined : i)}
+            onUpdate={(data) => onUpdateSlot(slot.id, data)}
+            onDelete={slots.length > 1 ? () => onDeleteSlot(slot.id) : undefined}
+          />
+        </Animated.View>
       ))}
 
       <AnimatedPressable
