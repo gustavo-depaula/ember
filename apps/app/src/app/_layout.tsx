@@ -53,6 +53,12 @@ LogBox.ignoreLogs(['props.pointerEvents is deprecated'])
 
 const queryClient = new QueryClient()
 
+if (typeof document !== 'undefined') {
+  const style = document.createElement('style')
+  style.textContent = 'input, textarea { outline: none !important; }'
+  document.head.appendChild(style)
+}
+
 export default function RootLayout() {
   useKeepAwake()
 

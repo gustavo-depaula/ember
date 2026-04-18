@@ -1,4 +1,3 @@
-import { formatDistanceToNowStrict } from 'date-fns'
 import { useRouter } from 'expo-router'
 import { ChevronLeft, Plus, Trash2 } from 'lucide-react-native'
 import { useState } from 'react'
@@ -11,6 +10,7 @@ import type { GratitudeState } from '@/db/events/state'
 import { useAddGratitude, useGratitudes, useRemoveGratitude } from '@/features/gratias'
 import { lightTap } from '@/lib/haptics'
 import { getDateLocale } from '@/lib/i18n/dateLocale'
+import { formatSoftRelative } from '@/lib/softRelative'
 
 export default function GratiasScreen() {
   const { t } = useTranslation()
@@ -144,10 +144,12 @@ function GratitudeRow({
   locale: ReturnType<typeof getDateLocale>
   onDelete: () => void
 }) {
+  const { t } = useTranslation()
   const theme = useTheme()
-  const timestampAgo = formatDistanceToNowStrict(gratitude.recorded_at, {
+  const timestampAgo = formatSoftRelative(gratitude.recorded_at, {
     locale,
-    addSuffix: true,
+    justNow: t('common.justNow'),
+    aMomentAgo: t('common.aMomentAgo'),
   })
 
   return (

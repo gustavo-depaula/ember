@@ -1,4 +1,4 @@
-import { formatDistanceToNowStrict, type Locale } from 'date-fns'
+import type { Locale } from 'date-fns'
 import { useRouter } from 'expo-router'
 import { Check, ChevronLeft, Plus, RotateCcw, Trash2 } from 'lucide-react-native'
 import { useState } from 'react'
@@ -18,6 +18,7 @@ import {
 } from '@/features/intentions'
 import { lightTap, successBuzz } from '@/lib/haptics'
 import { getDateLocale } from '@/lib/i18n/dateLocale'
+import { formatSoftRelative } from '@/lib/softRelative'
 
 export default function IntentionsScreen() {
   const { t } = useTranslation()
@@ -215,7 +216,11 @@ function IntentionRow({
   const theme = useTheme()
   const isOpen = mode === 'open'
   const timestamp = isOpen ? intention.created_at : (intention.answered_at ?? intention.created_at)
-  const timestampAgo = formatDistanceToNowStrict(timestamp, { locale, addSuffix: true })
+  const timestampAgo = formatSoftRelative(timestamp, {
+    locale,
+    justNow: t('common.justNow'),
+    aMomentAgo: t('common.aMomentAgo'),
+  })
 
   return (
     <YStack

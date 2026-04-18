@@ -980,6 +980,8 @@ export default {
     clear: 'Limpar',
     cancel: 'Cancelar',
     remove: 'Remover',
+    justNow: 'agora mesmo',
+    aMomentAgo: 'há um instante',
   },
 
   bookName: {
