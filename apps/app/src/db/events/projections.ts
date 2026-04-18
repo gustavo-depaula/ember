@@ -306,6 +306,18 @@ export function applyEvent(draft: WritableDraft<EventStoreState>, event: AppEven
       draft.mealsBlessed.delete(`${event.date}:${event.slot}`)
       break
     }
+
+    // --- Nocturne events ---
+
+    case 'ComplinePrayed': {
+      draft.complinePrayed.set(event.date, event.prayedAt)
+      break
+    }
+
+    case 'ComplineRevoked': {
+      draft.complinePrayed.delete(event.date)
+      break
+    }
   }
 }
 

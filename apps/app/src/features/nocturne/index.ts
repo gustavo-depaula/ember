@@ -1,1 +1,7 @@
-export { useIsNocturneWindow, useMarianAntiphon } from './hooks'
+export {
+  useComplinePrayed,
+  useIsNocturneWindow,
+  useMarianAntiphon,
+  usePrayCompline,
+  useRevokeCompline,
+} from './hooks'

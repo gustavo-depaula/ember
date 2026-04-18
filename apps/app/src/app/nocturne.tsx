@@ -1,17 +1,29 @@
+import { format } from 'date-fns'
 import { useRouter } from 'expo-router'
-import { ChevronLeft } from 'lucide-react-native'
+import { Check, ChevronLeft } from 'lucide-react-native'
 import { useTranslation } from 'react-i18next'
 import { Pressable, ScrollView } from 'react-native'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
-import { ScreenLayout } from '@/components'
-import { useMarianAntiphon } from '@/features/nocturne'
+import { AnimatedPressable, ScreenLayout } from '@/components'
+import { useComplinePrayed, useMarianAntiphon, usePrayCompline } from '@/features/nocturne'
+import { getToday } from '@/hooks/useToday'
+import { successBuzz } from '@/lib/haptics'
 
 export default function NocturneScreen() {
   const { t } = useTranslation()
   const router = useRouter()
   const theme = useTheme()
   const antiphon = useMarianAntiphon()
+  const dateKey = format(getToday(), 'yyyy-MM-dd')
+  const prayedAt = useComplinePrayed(dateKey)
+  const pray = usePrayCompline()
+
+  function handlePrayed() {
+    if (prayedAt) return
+    successBuzz()
+    pray.mutate(dateKey)
+  }
 
   return (
     <ScreenLayout>
@@ -41,6 +53,36 @@ export default function NocturneScreen() {
             body={t(`nocturne.antiphon.${antiphon}`)}
           />
           <PrayerCard heading={t('nocturne.blessingHeading')} body={t('nocturne.blessingBody')} />
+
+          <AnimatedPressable
+            onPress={handlePrayed}
+            disabled={Boolean(prayedAt)}
+            accessibilityRole="button"
+            accessibilityLabel={t('nocturne.a11yCommend')}
+            accessibilityState={{ disabled: Boolean(prayedAt) }}
+          >
+            <XStack
+              justifyContent="center"
+              alignItems="center"
+              gap="$sm"
+              paddingVertical="$md"
+              paddingHorizontal="$lg"
+              borderRadius="$md"
+              borderWidth={1}
+              borderColor={prayedAt ? '$borderColor' : '$accent'}
+              backgroundColor={prayedAt ? 'transparent' : '$accent'}
+            >
+              {prayedAt ? <Check size={16} color={theme.colorSecondary?.val} /> : undefined}
+              <Text
+                fontFamily="$heading"
+                fontSize="$2"
+                color={prayedAt ? '$colorSecondary' : '$backgroundSurface'}
+                letterSpacing={1}
+              >
+                {prayedAt ? t('nocturne.commended') : t('nocturne.commendDay')}
+              </Text>
+            </XStack>
+          </AnimatedPressable>
         </YStack>
       </ScrollView>
     </ScreenLayout>

@@ -107,6 +107,8 @@ Prefer (a) — stronger information hierarchy, no auto-scroll surprise.
 
 **Fix.** Add a "Compline prayed — commend the day" button at the bottom of the screen that writes an event (same event-sourced pattern as oblatio/confessio). Rolls into the Memoria feed. Could also dim the whisper line on home once recorded.
 
+**Status.** Fixed — added `ComplinePrayed` / `ComplineRevoked` events, `complinePrayed` projection map, `pray/revokeCompline` repos, and a `useComplinePrayed / usePrayCompline / useRevokeCompline` hook trio. Nocturne screen now renders a filled accent pill at the bottom that writes the event on tap and flips to a checked, muted state once recorded. Memoria feed and counter surface it as a `compline` kind with a Moon icon; NocturneLine on home hides itself once Compline is logged for today.
+
 ---
 
 ### F6 · "0 seconds ago" timestamp is jarring for a devotional act — **P3**

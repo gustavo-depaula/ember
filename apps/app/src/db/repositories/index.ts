@@ -21,6 +21,7 @@ export {
   removeIntention,
   updateIntention,
 } from './intentions'
+export { prayCompline, revokeCompline } from './nocturne'
 export { offerDay, revokeDayOffering } from './oblatio'
 export {
   addSlot,

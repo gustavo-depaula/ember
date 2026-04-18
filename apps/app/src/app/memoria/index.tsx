@@ -7,6 +7,7 @@ import {
   Flame,
   Heart,
   Key,
+  Moon,
   Sparkles,
   Sunrise,
   Utensils,
@@ -34,7 +35,8 @@ function matchesFilter(entry: MemoriaEntry, filter: Filter): boolean {
       entry.kind === 'day-offered' ||
       entry.kind === 'confession' ||
       entry.kind === 'angelus' ||
-      entry.kind === 'meal-blessed'
+      entry.kind === 'meal-blessed' ||
+      entry.kind === 'compline'
     )
   if (filter === 'intentions')
     return entry.kind === 'intention-added' || entry.kind === 'intention-answered'
@@ -261,6 +263,7 @@ function getEntryIcon(kind: MemoriaEntry['kind'], color: string): React.ReactNod
   if (kind === 'confession') return <Key size={14} color={color} />
   if (kind === 'angelus') return <Bell size={14} color={color} />
   if (kind === 'meal-blessed') return <Utensils size={14} color={color} />
+  if (kind === 'compline') return <Moon size={14} color={color} />
   return <Sparkles size={14} color={color} fill={color} />
 }
 
@@ -287,6 +290,9 @@ function getEntryBody(entry: MemoriaEntry, t: ReturnType<typeof useTranslation>[
   }
   if (entry.kind === 'meal-blessed') {
     return t('memoria.mealBlessed', { slot: t(`benedictio.slot.${entry.slot}`) })
+  }
+  if (entry.kind === 'compline') {
+    return t('memoria.compline')
   }
   return t('memoria.intentionAnswered', { text: entry.intention.text })
 }

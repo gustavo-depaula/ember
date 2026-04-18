@@ -72,6 +72,9 @@ export type EventStoreState = {
   // Benedictio ("date:slot" → blessed-at timestamp)
   mealsBlessed: Map<string, number>
 
+  // Nocturne (date → compline-prayed-at timestamp)
+  complinePrayed: Map<string, number>
+
   // ID counters (for generating IDs during replay/emit)
   nextCompletionId: number
   nextIntentionId: number
@@ -98,6 +101,7 @@ function emptyState() {
     confessions: new Map<number, ConfessionState>(),
     angelusPrayed: new Map<string, number>(),
     mealsBlessed: new Map<string, number>(),
+    complinePrayed: new Map<string, number>(),
     nextCompletionId: 1,
     nextIntentionId: 1,
     nextGratitudeId: 1,

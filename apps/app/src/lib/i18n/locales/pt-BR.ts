@@ -263,6 +263,7 @@ export default {
     confession: 'Recebeu o Sacramento da Penit\u00eancia',
     angelus: 'Ang\u00e9lus \u00b7 {{slot}}',
     mealBlessed: 'Refei\u00e7\u00e3o aben\u00e7oada \u00b7 {{slot}}',
+    compline: 'Completas rezadas \u2014 dia encomendado',
   },
 
   oblatio: {
@@ -384,6 +385,9 @@ export default {
       salve:
         'Salve, Regina, Mater misericordiae, vita, dulcedo et spes nostra, salve. Ad te clamamus, exsules filii Hevae. Ad te suspiramus, gementes et flentes in hac lacrimarum valle. Eia ergo, Advocata nostra, illos tuos misericordes oculos ad nos converte. Et Iesum, benedictum fructum ventris tui, nobis post hoc exsilium ostende. O clemens, o pia, o dulcis Virgo Maria.\n\nSalve, Rainha, Mãe de misericórdia, vida, doçura e esperança nossa, salve! A vós bradamos, os desterrados filhos de Eva. A vós suspiramos, gemendo e chorando neste vale de lágrimas. Eia, pois, advogada nossa, esses vossos olhos misericordiosos a nós volvei. E, depois deste desterro, mostrai-nos Jesus, bendito fruto do vosso ventre. Ó clemente, ó piedosa, ó doce sempre Virgem Maria.',
     },
+    commendDay: 'Completas rezadas \u2014 encomendar o dia',
+    commended: 'Dia encomendado',
+    a11yCommend: 'Marcar Completas rezadas e encomendar o dia',
   },
 
   benedictio: {

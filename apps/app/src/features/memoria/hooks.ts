@@ -14,6 +14,7 @@ export type MemoriaEntry =
   | { kind: 'confession'; id: string; timestamp: number; confession: ConfessionState }
   | { kind: 'angelus'; id: string; timestamp: number; date: string; slot: AngelusSlot }
   | { kind: 'meal-blessed'; id: string; timestamp: number; date: string; slot: MealSlot }
+  | { kind: 'compline'; id: string; timestamp: number; date: string }
 
 export function useMemoriaEntries(limit = 200): MemoriaEntry[] {
   const completions = useEventStore((s) => s.completions)
@@ -23,6 +24,7 @@ export function useMemoriaEntries(limit = 200): MemoriaEntry[] {
   const confessions = useEventStore((s) => s.confessions)
   const angelusPrayed = useEventStore((s) => s.angelusPrayed)
   const mealsBlessed = useEventStore((s) => s.mealsBlessed)
+  const complinePrayed = useEventStore((s) => s.complinePrayed)
 
   return useMemo(() => {
     const entries: MemoriaEntry[] = []
@@ -77,6 +79,9 @@ export function useMemoriaEntries(limit = 200): MemoriaEntry[] {
       const [date, slot] = key.split(':') as [string, MealSlot]
       entries.push({ kind: 'meal-blessed', id: `m:${key}`, timestamp: blessedAt, date, slot })
     }
+    for (const [date, prayedAt] of complinePrayed) {
+      entries.push({ kind: 'compline', id: `n:${date}`, timestamp: prayedAt, date })
+    }
     entries.sort((a, b) => b.timestamp - a.timestamp)
     return entries.slice(0, limit)
   }, [
@@ -87,6 +92,7 @@ export function useMemoriaEntries(limit = 200): MemoriaEntry[] {
     confessions,
     angelusPrayed,
     mealsBlessed,
+    complinePrayed,
     limit,
   ])
 }
@@ -101,7 +107,8 @@ export function useMemoriaEntriesCount(): number {
       s.offeredDays.size +
       s.confessions.size +
       s.angelusPrayed.size +
-      s.mealsBlessed.size,
+      s.mealsBlessed.size +
+      s.complinePrayed.size,
   )
 }
 
@@ -112,6 +119,7 @@ export function useOnThisDayEntries(now: Date): MemoriaEntry[] {
   const confessions = useEventStore((s) => s.confessions)
   const angelusPrayed = useEventStore((s) => s.angelusPrayed)
   const mealsBlessed = useEventStore((s) => s.mealsBlessed)
+  const complinePrayed = useEventStore((s) => s.complinePrayed)
 
   return useMemo(() => {
     const month = now.getMonth()
@@ -167,9 +175,23 @@ export function useOnThisDayEntries(now: Date): MemoriaEntry[] {
         entries.push({ kind: 'meal-blessed', id: `m:${key}`, timestamp: blessedAt, date, slot })
       }
     }
+    for (const [date, prayedAt] of complinePrayed) {
+      if (onPriorAnniversary(prayedAt)) {
+        entries.push({ kind: 'compline', id: `n:${date}`, timestamp: prayedAt, date })
+      }
+    }
     entries.sort((a, b) => b.timestamp - a.timestamp)
     return entries
-  }, [completions, gratitudes, offeredDays, confessions, angelusPrayed, mealsBlessed, now])
+  }, [
+    completions,
+    gratitudes,
+    offeredDays,
+    confessions,
+    angelusPrayed,
+    mealsBlessed,
+    complinePrayed,
+    now,
+  ])
 }
 
 function isPriorAnniversary(timestamp: number, month: number, day: number, year: number): boolean {

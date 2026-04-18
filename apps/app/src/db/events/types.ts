@@ -260,6 +260,21 @@ type MealBlessingRevoked = {
 
 export type BenedictioEvent = MealBlessed | MealBlessingRevoked
 
+// --- Nocturne (night prayer / Compline) events ---
+
+type ComplinePrayed = {
+  type: 'ComplinePrayed'
+  date: string
+  prayedAt: number
+}
+
+type ComplineRevoked = {
+  type: 'ComplineRevoked'
+  date: string
+}
+
+export type NocturneEvent = ComplinePrayed | ComplineRevoked
+
 // --- Union ---
 
 export type AppEvent =
@@ -272,6 +287,7 @@ export type AppEvent =
   | ConfessioEvent
   | AngelusEvent
   | BenedictioEvent
+  | NocturneEvent
 
 // --- Stored row shape ---
 
