@@ -907,6 +907,8 @@ export default {
     howToPray: 'How to Pray',
     browseCatalog: 'Browse Practice Catalog',
     noResults: 'No practices found',
+    noResultsDescription: 'Try different keywords, or clear the filters to see everything.',
+    clearFilters: 'Clear filters',
     customDescription: 'Create your own practice with a custom schedule',
     hours: 'Hours',
   },

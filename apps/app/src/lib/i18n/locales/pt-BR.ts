@@ -911,6 +911,8 @@ export default {
     howToPray: 'Como Rezar',
     browseCatalog: 'Explorar Cat\u00e1logo de Pr\u00e1ticas',
     noResults: 'Nenhuma pr\u00e1tica encontrada',
+    noResultsDescription: 'Tente outras palavras, ou limpe os filtros para ver tudo.',
+    clearFilters: 'Limpar filtros',
     customDescription: 'Crie sua própria prática com um horário personalizado',
     hours: 'Horas',
   },

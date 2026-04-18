@@ -271,15 +271,41 @@ export default function PracticeCatalogScreen() {
           ))}
 
           {filteredManifests.length === 0 && (
-            <Text
-              fontFamily="$body"
-              fontSize="$3"
-              color="$colorSecondary"
-              textAlign="center"
-              paddingVertical="$xl"
-            >
-              {t('catalog.noResults')}
-            </Text>
+            <YStack alignItems="center" gap="$sm" paddingVertical="$xl" paddingHorizontal="$lg">
+              <Text fontFamily="$heading" fontSize="$3" color="$color" textAlign="center">
+                {t('catalog.noResults')}
+              </Text>
+              <Text
+                fontFamily="$body"
+                fontSize="$2"
+                color="$colorSecondary"
+                textAlign="center"
+                fontStyle="italic"
+              >
+                {t('catalog.noResultsDescription')}
+              </Text>
+              {(searchQuery.trim() || activeCategory) && (
+                <Pressable
+                  onPress={() => {
+                    setSearchQuery('')
+                    setActiveCategory(undefined)
+                  }}
+                  hitSlop={8}
+                  accessibilityRole="button"
+                  accessibilityLabel={t('catalog.clearFilters')}
+                >
+                  <Text
+                    fontFamily="$heading"
+                    fontSize="$2"
+                    color="$accent"
+                    paddingVertical="$sm"
+                    paddingHorizontal="$md"
+                  >
+                    {t('catalog.clearFilters')}
+                  </Text>
+                </Pressable>
+              )}
+            </YStack>
           )}
         </YStack>
       </YStack>
