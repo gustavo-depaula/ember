@@ -258,6 +258,7 @@ export default {
       gratitudes: 'Gratitudes',
     },
     dayOffered: 'Offered this day to the Lord',
+    confession: 'Received the Sacrament of Penance',
   },
 
   oblatio: {
@@ -265,6 +266,28 @@ export default {
     a11yOfferThisDay: 'Offer this day to the Lord',
     offeredAt: 'Offered at {{time}}',
     memoria: 'Offered this day to the Lord',
+  },
+
+  confessio: {
+    title: 'Confessio',
+    subtitle: 'A record of the sacrament of penance — no detail, only the date.',
+    recordToday: 'I received the Sacrament today',
+    recordedToday: 'Received today',
+    noneRecorded: 'No confession recorded yet.',
+    sinceToday: 'Received today.',
+    sinceYesterday: 'Received yesterday.',
+    sinceDays_one: '{{count}} day since confession',
+    sinceDays_other: '{{count}} days since confession',
+    historyHeading: 'History',
+    confirmDeleteTitle: 'Remove this record?',
+    actOfContritionHeading: 'Act of Contrition',
+    actOfContrition:
+      'O my God, I am heartily sorry for having offended Thee, and I detest all my sins because of Thy just punishments, but most of all because they offend Thee, my God, who art all good and deserving of all my love. I firmly resolve, with the help of Thy grace, to sin no more and to avoid the near occasions of sin. Amen.',
+    homeSince_one: 'Penance · {{count}} day ago',
+    homeSince_other: 'Penance · {{count}} days ago',
+    homeToday: 'Penance · received today',
+    homeYesterday: 'Penance · received yesterday',
+    examenPrompt: 'Or, if the Lord invites, seek Confession.',
   },
 
   gratias: {

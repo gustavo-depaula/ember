@@ -263,6 +263,25 @@ export function applyEvent(draft: WritableDraft<EventStoreState>, event: AppEven
       draft.offeredDays.delete(event.date)
       break
     }
+
+    // --- Confessio events ---
+
+    case 'ConfessionRecorded': {
+      draft.confessions.set(event.confessionId, {
+        id: event.confessionId,
+        date: event.date,
+        recorded_at: event.recordedAt,
+      })
+      if (event.confessionId >= draft.nextConfessionId) {
+        draft.nextConfessionId = event.confessionId + 1
+      }
+      break
+    }
+
+    case 'ConfessionRemoved': {
+      draft.confessions.delete(event.confessionId)
+      break
+    }
   }
 }
 

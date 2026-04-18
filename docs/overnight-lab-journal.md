@@ -342,6 +342,25 @@ No dedicated screen yet — a traditional Morning Offering prayer page is a natu
 
 ---
 
+## Iteration 24 — Confessio (sacrament of penance tracker)
+
+The sacrament most prone to quiet avoidance needed a gentle, non-shaming presence in the app. *"When did I last go?"* is the question the traditional Examen ends with — and the app had no way to answer it.
+
+Shipped a three-part feature:
+1. **`/confessio` screen** — a "days since" pill with a *"I received the Sacrament today"* button, the full Act of Contrition (traditional form) pinned in a bordered card, and a deletable history of past confession dates.
+2. **ConfessioLine on home** — a single whisper line at the very bottom of home (*"Penance · N days ago"*) that only appears once a confession has been recorded. No "record your first" nag for someone who's never touched the feature.
+3. **Examen closing-phase link** — inside the Ignatian Examen's fifth phase (*Tomorrow / Firm Purpose*), a tappable line offers *"Or, if the Lord invites, seek Confession"*. This is the traditional pairing: examen of conscience naturally flows toward the sacrament when grave matter surfaces.
+
+Event store added `ConfessionRecorded` + `ConfessionRemoved`, a `confessions: Map<number, ConfessionState>` projection, and a `nextConfessionId` counter. Same pattern as Deo Gratias — a list of dated records with no schema constraints beyond what the UI needs.
+
+Memoria integration: new entry kind `confession` with a Key icon (key → sacrament of the keys), appears under the "Prayers" filter, and is surfaced by On This Day. No separate "confessions this year" count — the days-since number on the screen is already the memento mori that matters.
+
+Design choice: no score, no streak, no guilt. The days-since number is presented in the app's italic script register, same family as Horae and Aspiratio — a contemplative datum, not a metric. The Act of Contrition is the *only* block of prayer text on the screen, because that's what you actually need in-hand after Confession when the priest says *"make a good Act of Contrition."*
+
+Simplify pass caught four fixes before commit: `useShallow` was wrapped around a single-object selector in `useLastConfession` (useless), `useConfessions` was re-sorting on every store event (fixed with Map-identity + useMemo), the screen had an `as any` cast on a fontSize token (dropped), and the `ConfessionRow` component was split out but used exactly once (inlined).
+
+---
+
 ## Session wrap
 
 Shipped tonight, in order:
@@ -373,6 +392,7 @@ Shipped tonight, in order:
 25. **Memoria filters** — by-type chips (All / Prayers / Intentions / Gratitudes)
 26. Simplify pass on #130 — flatten toggle stack, drop dead fallback branches
 27. **Oblatio** — daily "offer this day to the Lord" invitation, event-sourced, surfaces in Memoria
+28. **Confessio** — sacrament of penance tracker: days-since card, Act of Contrition, history, Examen link, home whisper
 
 Bold = new visible features, not bug fixes.
 

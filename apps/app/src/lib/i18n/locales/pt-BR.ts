@@ -260,6 +260,7 @@ export default {
       gratitudes: 'Gratid\u00f5es',
     },
     dayOffered: 'Ofereceu este dia ao Senhor',
+    confession: 'Recebeu o Sacramento da Penit\u00eancia',
   },
 
   oblatio: {
@@ -267,6 +268,28 @@ export default {
     a11yOfferThisDay: 'Oferecer este dia ao Senhor',
     offeredAt: 'Oferecido \u00e0s {{time}}',
     memoria: 'Ofereceu este dia ao Senhor',
+  },
+
+  confessio: {
+    title: 'Confessio',
+    subtitle: 'Um registro do sacramento da penit\u00eancia \u2014 s\u00f3 a data.',
+    recordToday: 'Recebi o Sacramento hoje',
+    recordedToday: 'Recebido hoje',
+    noneRecorded: 'Nenhuma confiss\u00e3o registrada ainda.',
+    sinceToday: 'Recebido hoje.',
+    sinceYesterday: 'Recebido ontem.',
+    sinceDays_one: 'H\u00e1 {{count}} dia desde a confiss\u00e3o',
+    sinceDays_other: 'H\u00e1 {{count}} dias desde a confiss\u00e3o',
+    historyHeading: 'Hist\u00f3rico',
+    confirmDeleteTitle: 'Remover este registro?',
+    actOfContritionHeading: 'Ato de Contri\u00e7\u00e3o',
+    actOfContrition:
+      'Meu Deus, porque sois t\u00e3o bom e vos amo de todo o meu cora\u00e7\u00e3o, pesa-me de vos ter ofendido. Ajudai-me com a vossa divina gra\u00e7a para n\u00e3o mais vos tornar a ofender. Am\u00e9m.',
+    homeSince_one: 'Penit\u00eancia \u00b7 h\u00e1 {{count}} dia',
+    homeSince_other: 'Penit\u00eancia \u00b7 h\u00e1 {{count}} dias',
+    homeToday: 'Penit\u00eancia \u00b7 recebida hoje',
+    homeYesterday: 'Penit\u00eancia \u00b7 recebida ontem',
+    examenPrompt: 'Ou, se o Senhor convida, busca a Confiss\u00e3o.',
   },
 
   gratias: {

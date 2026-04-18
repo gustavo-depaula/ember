@@ -1,4 +1,5 @@
 export { clearCache, getCached, setCache } from './cache'
+export { recordConfession, removeConfession } from './confessio'
 export {
   advanceIndex,
   createProgramCursor,

@@ -206,6 +206,22 @@ type DayOfferingRevoked = {
 
 export type OblatioEvent = DayOffered | DayOfferingRevoked
 
+// --- Confessio (sacrament of penance) events ---
+
+type ConfessionRecorded = {
+  type: 'ConfessionRecorded'
+  confessionId: number
+  date: string
+  recordedAt: number
+}
+
+type ConfessionRemoved = {
+  type: 'ConfessionRemoved'
+  confessionId: number
+}
+
+export type ConfessioEvent = ConfessionRecorded | ConfessionRemoved
+
 // --- Union ---
 
 export type AppEvent =
@@ -215,6 +231,7 @@ export type AppEvent =
   | IntentionEvent
   | GratitudeEvent
   | OblatioEvent
+  | ConfessioEvent
 
 // --- Stored row shape ---
 

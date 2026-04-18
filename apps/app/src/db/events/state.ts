@@ -35,6 +35,12 @@ export type GratitudeState = {
   recorded_at: number
 }
 
+export type ConfessionState = {
+  id: number
+  date: string
+  recorded_at: number
+}
+
 export type EventStoreState = {
   // Practices
   practices: Map<string, UserPractice>
@@ -57,10 +63,14 @@ export type EventStoreState = {
   // Oblatio (date → offered-at timestamp)
   offeredDays: Map<string, number>
 
+  // Confessio (sacrament of penance records)
+  confessions: Map<number, ConfessionState>
+
   // ID counters (for generating IDs during replay/emit)
   nextCompletionId: number
   nextIntentionId: number
   nextGratitudeId: number
+  nextConfessionId: number
 
   // Actions
   apply: (event: AppEvent) => void
@@ -79,9 +89,11 @@ function emptyState() {
     intentions: new Map<number, IntentionState>(),
     gratitudes: new Map<number, GratitudeState>(),
     offeredDays: new Map<string, number>(),
+    confessions: new Map<number, ConfessionState>(),
     nextCompletionId: 1,
     nextIntentionId: 1,
     nextGratitudeId: 1,
+    nextConfessionId: 1,
   }
 }
 

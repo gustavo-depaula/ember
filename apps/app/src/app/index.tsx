@@ -32,6 +32,7 @@ import {
   AppShortcuts,
   Aspiratio,
   CelebrationOfDay,
+  ConfessioLine,
   DiesDevotion,
   HoraLine,
   IntentionHeart,
@@ -566,6 +567,8 @@ export default function HomeScreen() {
         <PageBreakOrnament />
 
         <Aspiratio date={now} />
+
+        <ConfessioLine />
       </YStack>
     </ScreenLayout>
   )

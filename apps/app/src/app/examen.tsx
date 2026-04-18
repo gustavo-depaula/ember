@@ -97,6 +97,27 @@ export default function ExamenScreen() {
             >
               {t(`examen.phases.${phase}.prompt`)}
             </Text>
+
+            {isClosing && (
+              <Pressable
+                onPress={() => {
+                  lightTap()
+                  router.replace('/confessio')
+                }}
+                hitSlop={8}
+              >
+                <Text
+                  fontFamily="$script"
+                  fontSize="$3"
+                  color="rgba(245,210,138,0.85)"
+                  fontStyle="italic"
+                  textAlign="center"
+                  paddingHorizontal="$lg"
+                >
+                  {t('confessio.examenPrompt')}
+                </Text>
+              </Pressable>
+            )}
           </YStack>
         </Animated.View>
 

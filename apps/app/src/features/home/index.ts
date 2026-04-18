@@ -2,6 +2,7 @@ export {
   AppShortcuts,
   Aspiratio,
   CelebrationOfDay,
+  ConfessioLine,
   DiesDevotion,
   HoraLine,
   IntentionHeart,
