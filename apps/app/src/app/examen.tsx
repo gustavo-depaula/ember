@@ -1,8 +1,9 @@
 import { useRouter } from 'expo-router'
 import { ChevronRight, X } from 'lucide-react-native'
-import { useState } from 'react'
+import { useEffect, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
+import Animated, { useAnimatedStyle, useSharedValue, withTiming } from 'react-native-reanimated'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { Text, XStack, YStack } from 'tamagui'
 
@@ -22,10 +23,23 @@ export default function ExamenScreen() {
   const phase: Phase = phases[index]
   const isClosing = phase === 'closing'
 
+  const opacity = useSharedValue(1)
+  const promptStyle = useAnimatedStyle(() => ({ opacity: opacity.value }))
+
+  // biome-ignore lint/correctness/useExhaustiveDependencies: opacity is a stable shared ref
+  useEffect(() => {
+    opacity.value = 0
+    opacity.value = withTiming(1, { duration: 450 })
+  }, [index])
+
   function advance() {
     lightTap()
     if (index < phases.length - 1) {
-      setIndex((i) => i + 1)
+      opacity.value = withTiming(0, { duration: 220 }, (finished) => {
+        'worklet'
+        if (finished) opacity.value = 0
+      })
+      setTimeout(() => setIndex((i) => i + 1), 220)
       return
     }
     successBuzz()
@@ -60,40 +74,44 @@ export default function ExamenScreen() {
       </XStack>
 
       <YStack flex={1} alignItems="center" justifyContent="center" gap="$xl">
-        <Text
-          fontFamily="$heading"
-          fontSize="$5"
-          color="rgba(245,240,224,0.95)"
-          letterSpacing={2}
-          textAlign="center"
-        >
-          {t(`examen.phases.${phase}.title`)}
-        </Text>
+        <Animated.View style={promptStyle}>
+          <YStack gap="$xl" alignItems="center">
+            <Text
+              fontFamily="$heading"
+              fontSize="$5"
+              color="rgba(245,240,224,0.95)"
+              letterSpacing={2}
+              textAlign="center"
+            >
+              {t(`examen.phases.${phase}.title`)}
+            </Text>
 
-        <Text
-          fontFamily="$script"
-          fontSize={'$5' as any}
-          color="rgba(245,240,224,0.75)"
-          fontStyle="italic"
-          textAlign="center"
-          paddingHorizontal="$lg"
-          lineHeight={32}
-        >
-          {t(`examen.phases.${phase}.prompt`)}
-        </Text>
+            <Text
+              fontFamily="$script"
+              fontSize={'$5' as any}
+              color="rgba(245,240,224,0.75)"
+              fontStyle="italic"
+              textAlign="center"
+              paddingHorizontal="$lg"
+              lineHeight={32}
+            >
+              {t(`examen.phases.${phase}.prompt`)}
+            </Text>
+          </YStack>
+        </Animated.View>
 
         <XStack gap={8} justifyContent="center" paddingTop="$md">
           {phases.slice(0, 5).map((p, i) => {
             const past = i < Math.min(index, 5)
             const current = i === index && index < 5
-            const opacity = past ? 0.85 : current ? 0.55 : 0.15
+            const dotOpacity = past ? 0.85 : current ? 0.55 : 0.15
             return (
               <YStack
                 key={p}
                 width={8}
                 height={8}
                 borderRadius={4}
-                backgroundColor={`rgba(245,210,138,${opacity})`}
+                backgroundColor={`rgba(245,210,138,${dotOpacity})`}
               />
             )
           })}
