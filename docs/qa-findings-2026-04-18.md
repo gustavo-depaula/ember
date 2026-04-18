@@ -114,3 +114,78 @@ Prefer (a) — stronger information hierarchy, no auto-scroll surprise.
 **Fix.** Replace with a softer formatter: `just now` for <30s, `a moment ago` for <1m, then fall through to `formatDistanceToNowStrict` for older entries. Wrap in a reusable helper (e.g. `formatSoftRelative`) since this phrasing also belongs on memoria entries.
 
 ---
+
+### F10 · Bible reader — section heading concatenated with verse 1 — **P2**
+
+**Symptom.** On `/bible/reader` Genesis 1 renders `" 1  Six Days of Creation and the Sabbath In the beginning God created..."` as a single block — the RSV section heading ("Six Days of Creation and the Sabbath") is welded directly onto verse 1 with no formatting break. Every chapter opener with a translator-supplied heading will look like this.
+
+**Fix.** Detect RSV heading pattern (all-caps or known heading format) and promote to a separate bold/accent line above the verse. Alternatively, strip translator headings from the payload so only scriptural text remains.
+
+---
+
+### F11 · Default text alignment is justified, producing rivers on narrow columns — **P2**
+
+**Symptom.** Reading bodies (Bible reader, prayer bodies, Hail Mary preview in Settings) default to full-justified alignment. On mobile-width column this creates wide gaps between words ("The earth was without form and void, and darkness"). Readability suffers for the reverent typography goal.
+
+**Verified.** The Reading section of Settings has an `Align` toggle with two options; switching to left-align immediately fixes the preview rivers. Default is justified.
+
+**Fix.** Change the default reading alignment preference to `left`. Justify works for print but degrades on narrow screens without hyphenation. Users can still opt into justify from Settings > Reading.
+
+---
+
+### F12 · Bible/Catechism drawer pushes content instead of overlaying — **P1**
+
+**Symptom.** Tapping the book picker (`Genesis ⌄`) or section picker on `/catechism` opens a left drawer that **shifts** the reader content right instead of overlaying it. No scrim/backdrop; tapping the now-shifted content does not close the drawer. Book names in the drawer are flush-left against the viewport edge (zero left padding). Closing requires clicking the picker toggle again — there's no X, no escape-on-outside-click.
+
+**Root cause suspected.** Drawer component probably uses an `XStack`/flex layout that expands the viewport instead of `position: absolute` + scrim.
+
+**Fix.** Convert to overlay: `position: absolute; left: 0; top: 0; bottom: 0` with translucent scrim behind, tap-outside-to-close, and proper internal padding.
+
+---
+
+### F13 · Catechism stuck on "Loading..." — **P0 (blocker)**
+
+**Symptom.** `/catechism` renders a header ("Catechism") and a centered "Loading..." forever — no content appears after waiting 5+ seconds. No error toast, no retry.
+
+**Hypothesis.** CCC content either (a) is fetched from Hearth and the request is failing silently, or (b) the catechism store hydration is stuck. Console shows no catechism-specific error; the bundle resolves fine.
+
+**Fix.** Investigate CatechismScreen's data-loading path (`apps/app/src/stores/catechismStore.ts` + the route component). Add an error state + retry; surface fetch failures instead of an infinite spinner. Also the "Loading…" string is too plain — use a `$body` muted line or a soft pulse.
+
+---
+
+### F14 · Plain "Loading..." text as loading state — **P2**
+
+**Symptom.** Catechism (and possibly other screens on slow paths) shows a bare "Loading..." centered on black. No icon, no candle, no pulse. Breaks the liturgical tone the rest of the app carefully maintains.
+
+**Fix.** Use a shared `PrayerSpinner` / subtle dim pulsing sigil for loading states across the app.
+
+---
+
+### F15 · First completion shows "50% Completion Rate" — **P2**
+
+**Symptom.** On practice detail page, after a user's first-ever completion of a daily practice, stats read: Current Streak 1, Longest Streak 1, Total Days 1, Completion Rate **50%**. Expected: 100%. User just did the only prayer scheduled — the metric should reflect that.
+
+**Hypothesis.** Completion rate denominator is counting a future slot (e.g., the "weekly Morning Offering at 07:00" is being counted twice — once for today and once for today-in-the-past?), or it's computing over a 2-day window that includes yesterday (when the practice didn't exist in the plan). Either way, the first-ever completion reading 50% is confusing and demotivating.
+
+**Fix.** Review completion-rate denominator logic. Rate should be `completions / (scheduled slots since plan-add date, up to now)`, floored at 0, capped at 100. Don't count slots before the practice was added to the plan.
+
+---
+
+### F16 · Small-caps / Title-case heading style mixed in Settings — **P3**
+
+**Symptom.** `/settings` uses SMALL CAPS for some section headings ("BIBLE TRANSLATION", "READING", "TIME TRAVEL") and Title Case for others ("Theme", "Interface Language", "Liturgical Calendar"). Inconsistent hierarchy — reader can't tell the difference between a major and minor section.
+
+**Fix.** Pick one. Probably: `$heading` + SMALL CAPS for major sections, `$body` Title Case for sub-fields within a section.
+
+---
+
+### F17 · Prayer opener date uses $script font, conflicts with script-restraint policy — **P3**
+
+**Symptom.** `/pray/:id` opens with the date ("Saturday, April 18, 2026") rendered in the Pinyon-Script/italic accent font. Per `feedback_script_italic_restraint` memory + commits e46c00b / 3fca848, the project retired `$script`/italic from readable text.
+
+**Context.** This is a one-off accent on a prayer-opener screen (not a repeating body or whisper), so it may be intentional. Flagging only because it runs close to the spirit of the rule.
+
+**Fix (if needed).** Drop to `$heading` small-caps or keep as-is — at author's discretion.
+
+---
+
