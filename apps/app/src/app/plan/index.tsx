@@ -204,7 +204,11 @@ export default function PlanScreen() {
 
         <XStack gap="$md" justifyContent="center">
           <View style={{ flex: 1 }}>
-            <AnimatedPressable onPress={() => router.push('/library')}>
+            <AnimatedPressable
+              onPress={() => router.push('/library')}
+              accessibilityRole="link"
+              accessibilityLabel={t('library.title')}
+            >
               <YStack
                 alignItems="center"
                 justifyContent="center"
@@ -223,7 +227,11 @@ export default function PlanScreen() {
             </AnimatedPressable>
           </View>
           <View style={{ flex: 1 }}>
-            <AnimatedPressable onPress={() => router.push('/practices')}>
+            <AnimatedPressable
+              onPress={() => router.push('/practices')}
+              accessibilityRole="link"
+              accessibilityLabel={t('catalog.title')}
+            >
               <YStack
                 alignItems="center"
                 justifyContent="center"
@@ -246,7 +254,11 @@ export default function PlanScreen() {
         <SectionDivider />
 
         {practiceGroups.length === 0 && (
-          <AnimatedPressable onPress={() => router.push('/practices')}>
+          <AnimatedPressable
+            onPress={() => router.push('/practices')}
+            accessibilityRole="button"
+            accessibilityLabel={t('plan.emptyStateAction')}
+          >
             <YStack
               alignItems="center"
               gap="$sm"
@@ -294,6 +306,8 @@ export default function PlanScreen() {
                 <AnimatedPressable
                   key={group.practiceId}
                   onPress={() => router.push(`/plan/${group.practiceId}`)}
+                  accessibilityRole="link"
+                  accessibilityLabel={group.name}
                 >
                   <XStack
                     backgroundColor="$backgroundSurface"
@@ -349,7 +363,12 @@ export default function PlanScreen() {
             <SectionDivider />
             <Animated.View layout={LinearTransition.duration(250)}>
               <YStack gap="$sm">
-                <AnimatedPressable onPress={handleToggleArchived}>
+                <AnimatedPressable
+                  onPress={handleToggleArchived}
+                  accessibilityRole="button"
+                  accessibilityLabel={t('plan.archivedCount', { count: archivedPractices.length })}
+                  accessibilityState={{ expanded: archivedExpanded }}
+                >
                   <XStack alignItems="center" gap="$sm" paddingHorizontal="$xs">
                     <Animated.View style={chevronStyle}>
                       <ChevronRight size={16} color={theme.colorSecondary.val} />
@@ -371,7 +390,11 @@ export default function PlanScreen() {
                         entering={FadeIn.duration(200).delay(index * 50)}
                         exiting={FadeOut.duration(150)}
                       >
-                        <AnimatedPressable onPress={() => router.push(`/plan/${p.practice_id}`)}>
+                        <AnimatedPressable
+                          onPress={() => router.push(`/plan/${p.practice_id}`)}
+                          accessibilityRole="link"
+                          accessibilityLabel={name}
+                        >
                           <XStack
                             backgroundColor="$backgroundSurface"
                             borderRadius="$lg"
