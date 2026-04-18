@@ -223,7 +223,7 @@ export function BibleReader() {
                     onPress={() => router.push('/')}
                     hitSlop={12}
                     accessibilityRole="link"
-                    accessibilityLabel="Home"
+                    accessibilityLabel={t('a11y.home')}
                   >
                     <Home size={20} color={theme.colorSecondary.val} />
                   </Pressable>

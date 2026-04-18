@@ -1245,6 +1245,15 @@ export default {
     noSelection: 'Selecione um dia para ver as celebrações',
     noCelebrations: 'Sem celebrações',
     loadError: 'Não foi possível carregar o calendário litúrgico.',
+    dayLetters: {
+      sun: 'D',
+      mon: 'S',
+      tue: 'T',
+      wed: 'Q',
+      thu: 'Q',
+      fri: 'S',
+      sat: 'S',
+    },
   },
   a11y: {
     togglePractice: 'Marcar {{name}} como concluída',
@@ -1285,6 +1294,9 @@ export default {
     restartPractice: 'Reiniciar {{name}}',
     viewImage: 'Ver imagem',
     viewSaintCard: 'Ver santinho',
+    home: 'Início',
+    versicle: 'Versículo: {{text}}',
+    response: 'Resposta: {{text}}',
   },
   languages: {
     'en-US': 'Inglês',

@@ -1241,6 +1241,15 @@ export default {
     noSelection: 'Select a day to see celebrations',
     noCelebrations: 'No celebrations',
     loadError: 'Couldn\u2019t load the liturgical calendar.',
+    dayLetters: {
+      sun: 'S',
+      mon: 'M',
+      tue: 'T',
+      wed: 'W',
+      thu: 'T',
+      fri: 'F',
+      sat: 'S',
+    },
   },
   a11y: {
     togglePractice: 'Mark {{name}} as complete',
@@ -1281,6 +1290,9 @@ export default {
     restartPractice: 'Restart {{name}}',
     viewImage: 'View image',
     viewSaintCard: 'View saint card',
+    home: 'Home',
+    versicle: 'Versicle: {{text}}',
+    response: 'Response: {{text}}',
   },
   languages: {
     'en-US': 'English',

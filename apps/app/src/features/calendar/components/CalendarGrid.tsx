@@ -1,19 +1,12 @@
 import { format } from 'date-fns'
 import { memo, useCallback, useMemo } from 'react'
+import { useTranslation } from 'react-i18next'
 import { Text, View, XStack, YStack } from 'tamagui'
 import { AnimatedPressable } from '@/components'
 import { useToday } from '@/hooks/useToday'
 import { type DayCalendar, rankColors } from '@/lib/liturgical'
 
-const dayLabels = [
-  { key: 'sun', label: 'S' },
-  { key: 'mon', label: 'M' },
-  { key: 'tue', label: 'T' },
-  { key: 'wed', label: 'W' },
-  { key: 'thu', label: 'T' },
-  { key: 'fri', label: 'F' },
-  { key: 'sat', label: 'S' },
-]
+const dayKeys = ['sun', 'mon', 'tue', 'wed', 'thu', 'fri', 'sat'] as const
 
 const DayCell = memo(function DayCell({
   day,
@@ -79,6 +72,7 @@ export function CalendarGrid({
   selectedDay: number | undefined
   onSelectDay: (day: number) => void
 }) {
+  const { t } = useTranslation()
   const today = useToday()
   const isCurrentMonth = today.getFullYear() === year && today.getMonth() + 1 === month
   const todayDay = isCurrentMonth ? today.getDate() : -1
@@ -114,10 +108,10 @@ export function CalendarGrid({
   return (
     <YStack gap={2}>
       <XStack justifyContent="space-around" paddingBottom="$xs">
-        {dayLabels.map((d) => (
-          <View key={d.key} width={40} alignItems="center">
+        {dayKeys.map((key) => (
+          <View key={key} width={40} alignItems="center">
             <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
-              {d.label}
+              {t(`calendar.dayLetters.${key}`)}
             </Text>
           </View>
         ))}
