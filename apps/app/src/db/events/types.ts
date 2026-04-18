@@ -222,6 +222,25 @@ type ConfessionRemoved = {
 
 export type ConfessioEvent = ConfessionRecorded | ConfessionRemoved
 
+// --- Angelus (thrice-daily Marian prayer) events ---
+
+export type AngelusSlot = 'morning' | 'noon' | 'evening'
+
+type AngelusPrayed = {
+  type: 'AngelusPrayed'
+  date: string
+  slot: AngelusSlot
+  prayedAt: number
+}
+
+type AngelusRevoked = {
+  type: 'AngelusRevoked'
+  date: string
+  slot: AngelusSlot
+}
+
+export type AngelusEvent = AngelusPrayed | AngelusRevoked
+
 // --- Union ---
 
 export type AppEvent =
@@ -232,6 +251,7 @@ export type AppEvent =
   | GratitudeEvent
   | OblatioEvent
   | ConfessioEvent
+  | AngelusEvent
 
 // --- Stored row shape ---
 

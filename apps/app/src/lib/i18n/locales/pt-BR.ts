@@ -261,6 +261,7 @@ export default {
     },
     dayOffered: 'Ofereceu este dia ao Senhor',
     confession: 'Recebeu o Sacramento da Penit\u00eancia',
+    angelus: 'Ang\u00e9lus \u00b7 {{slot}}',
   },
 
   oblatio: {
@@ -290,6 +291,25 @@ export default {
     homeToday: 'Penit\u00eancia \u00b7 recebida hoje',
     homeYesterday: 'Penit\u00eancia \u00b7 recebida ontem',
     examenPrompt: 'Ou, se o Senhor convida, busca a Confiss\u00e3o.',
+  },
+
+  angelus: {
+    title: 'Ang\u00e9lus',
+    subtitle: 'O sino mariano tr\u00eas vezes ao dia \u2014 6h, meio-dia, 18h.',
+    reginaCaeliTitle: 'Regina C\u00e6li',
+    reginaCaeliSubtitle:
+      'A ant\u00edfona mariana do Tempo Pascal \u2014 substitui o Ang\u00e9lus at\u00e9 Pentecostes.',
+    bell: 'O sino toca. Ang\u00e9lus.',
+    reginaCaeliBell: 'O sino toca. Regina C\u00e6li.',
+    slot: {
+      morning: 'Manh\u00e3',
+      noon: 'Meio-dia',
+      evening: 'Tarde',
+    },
+    prayer:
+      'V. O Anjo do Senhor anunciou a Maria.\nR. E ela concebeu do Esp\u00edrito Santo.\n\nAve Maria, cheia de gra\u00e7a, o Senhor \u00e9 convosco; bendita sois v\u00f3s entre as mulheres, e bendito \u00e9 o fruto do vosso ventre, Jesus. Santa Maria, M\u00e3e de Deus, rogai por n\u00f3s pecadores, agora e na hora de nossa morte. Am\u00e9m.\n\nV. Eis aqui a escrava do Senhor.\nR. Fa\u00e7a-se em mim segundo a vossa palavra.\n\nAve Maria\u2026\n\nV. E o Verbo se fez carne.\nR. E habitou entre n\u00f3s.\n\nAve Maria\u2026\n\nV. Rogai por n\u00f3s, Santa M\u00e3e de Deus.\nR. Para que sejamos dignos das promessas de Cristo.\n\nOremos. Infundi, Senhor, a vossa gra\u00e7a em nossos cora\u00e7\u00f5es, para que n\u00f3s, que pela mensagem do Anjo conhecemos a Encarna\u00e7\u00e3o de Cristo, vosso Filho, pela sua Paix\u00e3o e Cruz cheguemos \u00e0 gl\u00f3ria da Ressurrei\u00e7\u00e3o. Por Cristo Senhor nosso. Am\u00e9m.',
+    reginaCaeli:
+      'V. Rainha do C\u00e9u, alegrai-vos, aleluia.\nR. Porque aquele que merecestes trazer em vosso seio, aleluia.\n\nV. Ressuscitou como disse, aleluia.\nR. Rogai a Deus por n\u00f3s, aleluia.\n\nV. Alegrai-vos e exultai, \u00f3 Virgem Maria, aleluia.\nR. Porque o Senhor ressuscitou verdadeiramente, aleluia.\n\nOremos. \u00d3 Deus, que pela Ressurrei\u00e7\u00e3o de vosso Filho, Nosso Senhor Jesus Cristo, vos dignastes alegrar o mundo: concedei-nos, vos pedimos, que por sua M\u00e3e, a Virgem Maria, alcancemos as alegrias da vida eterna. Pelo mesmo Cristo Senhor nosso. Am\u00e9m.',
   },
 
   gratias: {

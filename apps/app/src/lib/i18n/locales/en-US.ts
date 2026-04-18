@@ -259,6 +259,7 @@ export default {
     },
     dayOffered: 'Offered this day to the Lord',
     confession: 'Received the Sacrament of Penance',
+    angelus: 'Angelus · {{slot}}',
   },
 
   oblatio: {
@@ -288,6 +289,25 @@ export default {
     homeToday: 'Penance · received today',
     homeYesterday: 'Penance · received yesterday',
     examenPrompt: 'Or, if the Lord invites, seek Confession.',
+  },
+
+  angelus: {
+    title: 'Angelus',
+    subtitle: 'The thrice-daily Marian bell — 6 a.m., noon, 6 p.m.',
+    reginaCaeliTitle: 'Regina Cæli',
+    reginaCaeliSubtitle:
+      'The Marian antiphon of Eastertide — replaces the Angelus until Pentecost.',
+    bell: 'The bell rings. Angelus.',
+    reginaCaeliBell: 'The bell rings. Regina Cæli.',
+    slot: {
+      morning: 'Morning',
+      noon: 'Noon',
+      evening: 'Evening',
+    },
+    prayer:
+      'V. The Angel of the Lord declared unto Mary.\nR. And she conceived of the Holy Spirit.\n\nHail Mary, full of grace, the Lord is with thee; blessed art thou amongst women, and blessed is the fruit of thy womb, Jesus. Holy Mary, Mother of God, pray for us sinners, now and at the hour of our death. Amen.\n\nV. Behold the handmaid of the Lord.\nR. Be it done unto me according to thy word.\n\nHail Mary…\n\nV. And the Word was made flesh.\nR. And dwelt among us.\n\nHail Mary…\n\nV. Pray for us, O holy Mother of God.\nR. That we may be made worthy of the promises of Christ.\n\nLet us pray. Pour forth, we beseech thee, O Lord, thy grace into our hearts: that we, to whom the Incarnation of Christ thy Son was made known by the message of an angel, may by his Passion and Cross be brought to the glory of his Resurrection, through the same Christ our Lord. Amen.',
+    reginaCaeli:
+      'V. Queen of Heaven, rejoice, alleluia.\nR. For He whom thou didst merit to bear, alleluia.\n\nV. Hath risen, as he said, alleluia.\nR. Pray for us to God, alleluia.\n\nV. Rejoice and be glad, O Virgin Mary, alleluia.\nR. For the Lord is truly risen, alleluia.\n\nLet us pray. O God, who through the Resurrection of thy Son our Lord Jesus Christ didst vouchsafe to give joy to the world: grant, we beseech thee, that through his Mother, the Virgin Mary, we may obtain the joys of everlasting life. Through the same Christ our Lord. Amen.',
   },
 
   gratias: {

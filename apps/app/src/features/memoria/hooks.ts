@@ -2,6 +2,7 @@ import { useMemo } from 'react'
 
 import { useEventStore } from '@/db/events'
 import type { ConfessionState, GratitudeState, IntentionState } from '@/db/events/state'
+import type { AngelusSlot } from '@/db/events/types'
 import type { Completion } from '@/db/schema'
 
 export type MemoriaEntry =
@@ -11,6 +12,7 @@ export type MemoriaEntry =
   | { kind: 'gratitude'; id: string; timestamp: number; gratitude: GratitudeState }
   | { kind: 'day-offered'; id: string; timestamp: number; date: string }
   | { kind: 'confession'; id: string; timestamp: number; confession: ConfessionState }
+  | { kind: 'angelus'; id: string; timestamp: number; date: string; slot: AngelusSlot }
 
 export function useMemoriaEntries(limit = 200): MemoriaEntry[] {
   const completions = useEventStore((s) => s.completions)
@@ -18,6 +20,7 @@ export function useMemoriaEntries(limit = 200): MemoriaEntry[] {
   const gratitudes = useEventStore((s) => s.gratitudes)
   const offeredDays = useEventStore((s) => s.offeredDays)
   const confessions = useEventStore((s) => s.confessions)
+  const angelusPrayed = useEventStore((s) => s.angelusPrayed)
 
   return useMemo(() => {
     const entries: MemoriaEntry[] = []
@@ -64,9 +67,13 @@ export function useMemoriaEntries(limit = 200): MemoriaEntry[] {
         confession: c,
       })
     }
+    for (const [key, prayedAt] of angelusPrayed) {
+      const [date, slot] = key.split(':') as [string, AngelusSlot]
+      entries.push({ kind: 'angelus', id: `a:${key}`, timestamp: prayedAt, date, slot })
+    }
     entries.sort((a, b) => b.timestamp - a.timestamp)
     return entries.slice(0, limit)
-  }, [completions, intentions, gratitudes, offeredDays, confessions, limit])
+  }, [completions, intentions, gratitudes, offeredDays, confessions, angelusPrayed, limit])
 }
 
 export function useMemoriaEntriesCount(): number {
@@ -77,7 +84,8 @@ export function useMemoriaEntriesCount(): number {
       countAnswered(s.intentions) +
       s.gratitudes.size +
       s.offeredDays.size +
-      s.confessions.size,
+      s.confessions.size +
+      s.angelusPrayed.size,
   )
 }
 
@@ -86,6 +94,7 @@ export function useOnThisDayEntries(now: Date): MemoriaEntry[] {
   const gratitudes = useEventStore((s) => s.gratitudes)
   const offeredDays = useEventStore((s) => s.offeredDays)
   const confessions = useEventStore((s) => s.confessions)
+  const angelusPrayed = useEventStore((s) => s.angelusPrayed)
 
   return useMemo(() => {
     const month = now.getMonth()
@@ -132,9 +141,16 @@ export function useOnThisDayEntries(now: Date): MemoriaEntry[] {
         })
       }
     }
+    for (const [key, prayedAt] of angelusPrayed) {
+      const ts = new Date(prayedAt)
+      if (ts.getMonth() === month && ts.getDate() === day && ts.getFullYear() < year) {
+        const [date, slot] = key.split(':') as [string, AngelusSlot]
+        entries.push({ kind: 'angelus', id: `a:${key}`, timestamp: prayedAt, date, slot })
+      }
+    }
     entries.sort((a, b) => b.timestamp - a.timestamp)
     return entries
-  }, [completions, gratitudes, offeredDays, confessions, now])
+  }, [completions, gratitudes, offeredDays, confessions, angelusPrayed, now])
 }
 
 function countAnswered(intentions: Map<number, IntentionState>): number {

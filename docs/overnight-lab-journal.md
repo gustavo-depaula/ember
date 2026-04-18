@@ -361,6 +361,23 @@ Simplify pass caught four fixes before commit: `useShallow` was wrapped around a
 
 ---
 
+## Iteration 25 — Angelus (thrice-daily Marian bell)
+
+The app had Horae (hour whisper), Oblatio (morning offering), Confessio (days-since), but nothing yet inhabited **the three Marian pivots** that traditionally punctuate a Catholic's working day: 6 a.m., noon, 6 p.m. Every feature tonight has been Christocentric or Ignatian; the gap was Our Lady.
+
+Shipped:
+- **`/angelus` screen** — three slot chips (morning/noon/evening) each toggleable; the full traditional prayer in the script register; auto-swaps to **Regina Cæli** during Eastertide. The liturgical-season swap goes through `useLiturgicalTheme` so it honors the user's OF/EF calendar preference.
+- **AngelusLine on home** — a subtle italic "The bell rings. Angelus." (or "Regina Cæli." in Eastertide) that only appears during the canonical ±1h windows AND only if today's slot hasn't been prayed yet. No nagging after you've prayed.
+- **Memoria integration** — new `angelus` entry kind with a Bell icon; appears under the Prayers filter; On This Day surfaces past Angelus prayers.
+
+Event store: `AngelusPrayed` + `AngelusRevoked` keyed by `date:slot`, projection is `Map<string, number>` (e.g. `"2026-04-18:noon" → 1729500000000`). This composite-key pattern is the simplest way to model "per-day, per-slot" state without a nested Map — the same trick Oblatio uses with just a date key.
+
+Design choice: one screen, three chips. An earlier sketch had per-slot navigation, but pairing all three with a single prayer block keeps the focus on the fact that these are **the same prayer prayed thrice** — the shape of the day as lived tradition, not three separate screens.
+
+Simplify pass caught three fixes before commit: the home line was subscribing to `noon` timestamps outside the Angelus windows (fixed with a guarded `.has()` selector); the screen and `slots.ts` both maintained a `['morning', 'noon', 'evening']` literal (fixed by exporting `angelusSlots` once); and `SlotChip` had an odd "onPrayed(alreadyPrayed)" callback inversion (pushed the toggle into the child so each chip owns its mutation calls). The Eastertide switch also now goes through `useLiturgicalTheme()` so it respects the user's calendar form like the rest of the app.
+
+---
+
 ## Session wrap
 
 Shipped tonight, in order:
@@ -393,6 +410,7 @@ Shipped tonight, in order:
 26. Simplify pass on #130 — flatten toggle stack, drop dead fallback branches
 27. **Oblatio** — daily "offer this day to the Lord" invitation, event-sourced, surfaces in Memoria
 28. **Confessio** — sacrament of penance tracker: days-since card, Act of Contrition, history, Examen link, home whisper
+29. **Angelus** — thrice-daily Marian bell: three slot chips, traditional prayer + Regina Cæli swap, home whisper in canonical windows
 
 Bold = new visible features, not bug fixes.
 

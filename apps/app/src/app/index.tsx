@@ -29,6 +29,7 @@ import { useEventStore } from '@/db/events'
 import { useYearCalendar } from '@/features/calendar'
 import { useGratitudesCount } from '@/features/gratias'
 import {
+  AngelusLine,
   AppShortcuts,
   Aspiratio,
   CelebrationOfDay,
@@ -187,6 +188,8 @@ export default function HomeScreen() {
           <LiturgicalHeader date={now} season={season} rose={isRose} />
 
           <OblatioLine date={now} />
+
+          <AngelusLine date={now} />
 
           <HoraLine />
 

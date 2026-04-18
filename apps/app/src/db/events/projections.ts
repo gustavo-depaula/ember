@@ -282,6 +282,18 @@ export function applyEvent(draft: WritableDraft<EventStoreState>, event: AppEven
       draft.confessions.delete(event.confessionId)
       break
     }
+
+    // --- Angelus events ---
+
+    case 'AngelusPrayed': {
+      draft.angelusPrayed.set(`${event.date}:${event.slot}`, event.prayedAt)
+      break
+    }
+
+    case 'AngelusRevoked': {
+      draft.angelusPrayed.delete(`${event.date}:${event.slot}`)
+      break
+    }
   }
 }
 

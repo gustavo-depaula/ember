@@ -1,4 +1,5 @@
 export {
+  AngelusLine,
   AppShortcuts,
   Aspiratio,
   CelebrationOfDay,
