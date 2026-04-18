@@ -498,6 +498,22 @@ Three refactors in a row. Getting a good sense of the app's presentational vocab
 
 ---
 
+## Iteration 36 — Nocturne (Compline night whisper)
+
+Shipped a minimal night-prayer feature. Memento Mori fills the 19:00+ reflection slot ("the Four Last Things"); Nocturne picks up the 21:00+ commending-to-sleep slot. Different spiritual register: Memento asks the soul to meditate on death; Nocturne hands the soul to God for the night.
+
+Content: the *Nunc Dimittis* (Simeon's canticle from Luke 2:29-32 — traditionally sung at Compline for centuries), paired with the ancient Compline blessing "Noctem quietam et finem perfectum." Three cards on the screen: Latin, translation, blessing. The screen matches the Angelus/Benedictio/Memento layout — bordered-left accent cards on a surface background, heading in uppercase accent + body in script font. `<PrayerCard heading body />` kept inline since it's three calls; not worth extraction.
+
+The window hook (`useIsNocturneWindow`) is two lines: `useCurrentHour() >= 21`. That's the whole behavioral logic — the same primitive the Memento/Benedictio windows now depend on. The hook extraction from iteration 34 immediately paid off here.
+
+No event sourcing or Memoria integration yet. The feature surfaces first; if it earns its keep in use (do I actually tap it before sleep? does it become a habit?), I'll add tracking later. Right now the screen is read-once meditative, not a logged practice.
+
+i18n: added en-US and pt-BR `nocturne.*` keys in parity (parity test enforced).
+
+Tests 102/102 green.
+
+---
+
 ## Iteration 35 — RestartNeededList extraction
 
 Home index had one remaining inline render block: 40 lines for restart-needed practices. Everything else on the home screen had graduated to a named component over the last few iterations — this was the last holdout. Extracted to `features/home/components/RestartNeededList.tsx` with a single `ids: Set<string>` prop; the empty-check lives inside the component so the caller is a single `<RestartNeededList ids={…} />`.
@@ -569,6 +585,7 @@ Shipped tonight, in order:
 37. SlotChip extraction — shared pill-chip component now powers both the Angelus and Benedictio slot rows; per-feature wrappers hold only the hook wiring.
 38. useCurrentHour hook — home block auto-expand was non-reactive across hour boundaries; four other features duplicated the setInterval-polling pattern. Extracted to a single hook, and changed the slot-helper API from Date to hour:number to make the old useToday-trap unrepresentable.
 39. RestartNeededList extraction — last inline render block on home graduated to a named component; home index is now a clean composition.
+40. **Nocturne** — Compline-inspired night whisper (≥21:00) + screen with the Nunc Dimittis and the traditional quiet-night blessing. Picks up where Memento's evening reflection leaves off: same register, different spiritual movement.
 
 Bold = new visible features, not bug fixes.
 

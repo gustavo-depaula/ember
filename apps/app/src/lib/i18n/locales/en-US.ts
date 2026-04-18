@@ -359,6 +359,21 @@ export default {
     },
   },
 
+  nocturne: {
+    title: 'Nocturne',
+    subtitle: 'The Nunc Dimittis — commending the soul before sleep.',
+    homeLine: 'Into your hands, Lord. Nocturne.',
+    latinHeading: 'Nunc dimittis',
+    latinBody:
+      'Nunc dimittis servum tuum, Domine,\nsecundum verbum tuum in pace:\nquia viderunt oculi mei salutare tuum,\nquod parasti ante faciem omnium populorum:\nlumen ad revelationem gentium,\net gloriam plebis tuae Israel.',
+    translationHeading: 'Canticle of Simeon',
+    translationBody:
+      'Now, Master, you let your servant go in peace;\nyour word has been fulfilled.\nMy own eyes have seen the salvation\nwhich you have prepared in the sight of every people:\na light to reveal you to the nations\nand the glory of your people Israel.',
+    blessingHeading: 'The Compline Blessing',
+    blessingBody:
+      'Noctem quietam et finem perfectum\nconcedat nobis Dominus omnipotens. Amen.\n\nMay the Lord almighty grant us a quiet night\nand a perfect end. Amen.',
+  },
+
   benedictio: {
     title: 'Benedictio',
     subtitle: 'Grace before and after meals — the oldest daily prayer of a Christian home.',

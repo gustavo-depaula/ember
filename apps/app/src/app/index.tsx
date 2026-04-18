@@ -32,6 +32,7 @@ import {
   IntentionHeart,
   LiturgicalHeader,
   MementoLine,
+  NocturneLine,
   OblatioLine,
   RestartNeededList,
   SeasonalContext,
@@ -375,6 +376,8 @@ export default function HomeScreen() {
         <ConfessioLine />
 
         <MementoLine />
+
+        <NocturneLine />
       </YStack>
     </ScreenLayout>
   )

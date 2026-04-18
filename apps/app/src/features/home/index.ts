@@ -11,6 +11,7 @@ export {
   LiturgicalHeader,
   MementoLine,
   NavigationMedallion,
+  NocturneLine,
   OblatioLine,
   RestartNeededList,
   SeasonalContext,

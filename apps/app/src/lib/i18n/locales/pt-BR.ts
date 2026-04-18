@@ -361,6 +361,21 @@ export default {
     },
   },
 
+  nocturne: {
+    title: 'Nocturne',
+    subtitle: 'O Nunc Dimittis \u2014 entregando a alma antes do sono.',
+    homeLine: 'Em tuas m\u00e3os, Senhor. Nocturne.',
+    latinHeading: 'Nunc dimittis',
+    latinBody:
+      'Nunc dimittis servum tuum, Domine,\nsecundum verbum tuum in pace:\nquia viderunt oculi mei salutare tuum,\nquod parasti ante faciem omnium populorum:\nlumen ad revelationem gentium,\net gloriam plebis tuae Israel.',
+    translationHeading: 'C\u00e2ntico de Sime\u00e3o',
+    translationBody:
+      'Agora, Senhor, podes deixar ir em paz o teu servo,\nsegundo a tua palavra;\nporque os meus olhos viram a salva\u00e7\u00e3o\nque preparaste diante de todos os povos:\nluz para iluminar as na\u00e7\u00f5es\ne gl\u00f3ria do teu povo Israel.',
+    blessingHeading: 'A B\u00ean\u00e7\u00e3o de Completas',
+    blessingBody:
+      'Noctem quietam et finem perfectum\nconcedat nobis Dominus omnipotens. Amen.\n\nUma noite tranquila e um fim perfeito\nconceda-nos o Senhor todo-poderoso. Am\u00e9m.',
+  },
+
   benedictio: {
     title: 'Benedictio',
     subtitle:
