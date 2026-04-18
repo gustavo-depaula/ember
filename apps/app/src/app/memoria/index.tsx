@@ -16,6 +16,7 @@ import {
 import { useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Pressable, ScrollView } from 'react-native'
+import Animated, { FadeIn, LinearTransition } from 'react-native-reanimated'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
 import { ScreenLayout } from '@/components'
@@ -63,7 +64,12 @@ export default function MemoriaScreen() {
     <ScreenLayout>
       <YStack gap="$lg" paddingVertical="$lg">
         <XStack alignItems="center" gap="$md">
-          <Pressable onPress={() => router.back()} hitSlop={8}>
+          <Pressable
+            onPress={() => router.back()}
+            hitSlop={8}
+            accessibilityRole="button"
+            accessibilityLabel={t('a11y.goBack')}
+          >
             <ChevronLeft size={24} color={theme.color?.val} />
           </Pressable>
           <YStack flex={1}>
@@ -85,7 +91,14 @@ export default function MemoriaScreen() {
             {filters.map((f) => {
               const selected = filter === f
               return (
-                <Pressable key={f} onPress={() => setFilter(f)} hitSlop={4}>
+                <Pressable
+                  key={f}
+                  onPress={() => setFilter(f)}
+                  hitSlop={4}
+                  accessibilityRole="button"
+                  accessibilityLabel={t(`memoria.filter.${f}`)}
+                  accessibilityState={{ selected }}
+                >
                   <XStack
                     paddingHorizontal="$md"
                     paddingVertical="$xs"
@@ -186,11 +199,13 @@ function formatDayLabel(
 
 function DayHeading({ label }: { date: Date; label: string }) {
   return (
-    <YStack paddingTop="$md" paddingBottom="$xs">
-      <Text fontFamily="$heading" fontSize="$2" color="$accent" letterSpacing={1}>
-        {label.toUpperCase()}
-      </Text>
-    </YStack>
+    <Animated.View entering={FadeIn.duration(200)} layout={LinearTransition.duration(200)}>
+      <YStack paddingTop="$md" paddingBottom="$xs">
+        <Text fontFamily="$heading" fontSize="$2" color="$accent" letterSpacing={1}>
+          {label.toUpperCase()}
+        </Text>
+      </YStack>
+    </Animated.View>
   )
 }
 
@@ -208,19 +223,21 @@ function EntryRow({
   const body = getEntryBody(entry, t)
 
   return (
-    <XStack gap="$md" alignItems="flex-start" paddingVertical="$xs">
-      <YStack width={20} paddingTop={2} alignItems="center">
-        {icon}
-      </YStack>
-      <YStack flex={1} gap={2}>
-        <Text fontFamily="$body" fontSize="$2" color="$color">
-          {body}
-        </Text>
-        <Text fontFamily="$body" fontSize="$1" color="$colorSecondary" fontStyle="italic">
-          {time}
-        </Text>
-      </YStack>
-    </XStack>
+    <Animated.View entering={FadeIn.duration(200)} layout={LinearTransition.duration(200)}>
+      <XStack gap="$md" alignItems="flex-start" paddingVertical="$xs">
+        <YStack width={20} paddingTop={2} alignItems="center">
+          {icon}
+        </YStack>
+        <YStack flex={1} gap={2}>
+          <Text fontFamily="$body" fontSize="$2" color="$color">
+            {body}
+          </Text>
+          <Text fontFamily="$body" fontSize="$1" color="$colorSecondary" fontStyle="italic">
+            {time}
+          </Text>
+        </YStack>
+      </XStack>
+    </Animated.View>
   )
 }
 
@@ -241,19 +258,21 @@ function OnThisDayRow({
   const yearsLabel = years === 1 ? t('memoria.oneYearAgo') : t('memoria.yearsAgo', { count: years })
 
   return (
-    <XStack gap="$md" alignItems="flex-start" paddingVertical={2}>
-      <YStack width={20} paddingTop={2} alignItems="center">
-        {icon}
-      </YStack>
-      <YStack flex={1} gap={2}>
-        <Text fontFamily="$body" fontSize="$2" color="$color">
-          {body}
-        </Text>
-        <Text fontFamily="$body" fontSize="$1" color="$colorSecondary" fontStyle="italic">
-          {yearsLabel} · {format(entry.timestamp, 'yyyy', { locale })}
-        </Text>
-      </YStack>
-    </XStack>
+    <Animated.View entering={FadeIn.duration(200)} layout={LinearTransition.duration(200)}>
+      <XStack gap="$md" alignItems="flex-start" paddingVertical={2}>
+        <YStack width={20} paddingTop={2} alignItems="center">
+          {icon}
+        </YStack>
+        <YStack flex={1} gap={2}>
+          <Text fontFamily="$body" fontSize="$2" color="$color">
+            {body}
+          </Text>
+          <Text fontFamily="$body" fontSize="$1" color="$colorSecondary" fontStyle="italic">
+            {yearsLabel} · {format(entry.timestamp, 'yyyy', { locale })}
+          </Text>
+        </YStack>
+      </XStack>
+    </Animated.View>
   )
 }
 
