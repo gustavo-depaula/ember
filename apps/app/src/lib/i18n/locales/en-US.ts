@@ -870,6 +870,7 @@ export default {
     title: 'Prayer Books',
     installed: 'Installed',
     available: 'Available',
+    registryOffline: 'Couldn\u2019t reach the library.',
     download: 'Download',
     downloading: 'Installing...',
     import: 'Import .pray file',

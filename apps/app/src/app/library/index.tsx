@@ -63,7 +63,11 @@ export default function LibraryScreen() {
   const theme = useTheme()
 
   const { data: installed = [] } = useInstalledBooks()
-  const { data: available = [] } = useAvailableBooks()
+  const {
+    data: available = [],
+    isError: availableError,
+    refetch: refetchAvailable,
+  } = useAvailableBooks()
   const importBook = useImportBook()
 
   async function handleImport() {
@@ -117,6 +121,29 @@ export default function LibraryScreen() {
               )
             })}
           </YStack>
+        )}
+
+        {availableError && (
+          <XStack
+            gap="$sm"
+            alignItems="center"
+            justifyContent="space-between"
+            paddingVertical="$sm"
+            paddingHorizontal="$md"
+            borderRadius="$md"
+            borderWidth={1}
+            borderColor="$borderColor"
+            backgroundColor="$backgroundSurface"
+          >
+            <Text fontFamily="$body" fontSize="$2" color="$colorSecondary" flex={1}>
+              {t('library.registryOffline')}
+            </Text>
+            <AnimatedPressable onPress={() => refetchAvailable()} hitSlop={8}>
+              <Text fontFamily="$heading" fontSize="$2" color="$accent">
+                {t('common.retry')}
+              </Text>
+            </AnimatedPressable>
+          </XStack>
         )}
 
         {available.length > 0 && (

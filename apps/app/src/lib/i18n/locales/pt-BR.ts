@@ -874,6 +874,7 @@ export default {
     title: 'Devocionários',
     installed: 'Instalados',
     available: 'Disponíveis',
+    registryOffline: 'Não foi possível alcançar a biblioteca.',
     download: 'Baixar',
     downloading: 'Instalando...',
     import: 'Importar arquivo .pray',
