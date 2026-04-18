@@ -305,7 +305,11 @@ export function PracticeFlow({
           <Text fontFamily="$body" fontSize="$3" color="$colorSecondary" textAlign="center">
             {t('practice.noContent')}
           </Text>
-          <Pressable onPress={() => router.back()}>
+          <Pressable
+            onPress={() => router.back()}
+            accessibilityRole="button"
+            accessibilityLabel={t('common.back')}
+          >
             <Text fontFamily="$body" fontSize="$2" color="$accent">
               {t('common.back')}
             </Text>
@@ -410,7 +414,12 @@ export function PracticeFlow({
 
         {manifest.completion !== 'manual' && (
           <YStack paddingHorizontal={readingMargin}>
-            <AnimatedPressable onPress={handleComplete} disabled={logCompletionMutation.isPending}>
+            <AnimatedPressable
+              onPress={handleComplete}
+              disabled={logCompletionMutation.isPending}
+              accessibilityRole="button"
+              accessibilityLabel={t('office.markComplete')}
+            >
               <YStack
                 backgroundColor="$accent"
                 borderRadius="$md"
