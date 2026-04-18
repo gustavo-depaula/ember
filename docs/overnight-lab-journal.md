@@ -378,6 +378,23 @@ Simplify pass caught three fixes before commit: the home line was subscribing to
 
 ---
 
+## Iteration 26 — Memento Mori (Four Last Things nightly reflection)
+
+After a long run of event-sourced features (Oblatio, Confessio, Angelus), I wanted one feature that was **pure content** — no store, no projection, no mutation — to prove the app's contemplative register still works without any state-tracking machinery. The Four Last Things (Mors, Iudicium, Caelum, Infernum) are the classical Ignatian + Carthusian evening meditation: nightfall, bed, a single honest sentence about death, judgement, heaven, hell.
+
+Shipped:
+- **`/memento` screen** — today's pillar and reflection highlighted, plus four pillar cards with one-sentence descriptions, so the larger structure is visible at a glance.
+- **MementoLine on home** — a single script-italic whisper ("The Four Last Things. Memento mori.") visible **only after 19:00 local time**, natural pre-sleep cadence with Compline.
+- **28 reflections × EN + PT-BR**, interleaved so a typical week rotates through all four themes rather than clustering on one.
+
+Rotation is a pure `dayOfEpoch % 28` lookup against a precomputed interleaved `order[]`. No "meditated today" tracking — the feature explicitly doesn't want streak pressure on a memento mori. If you read it, you read it.
+
+Simplify pass caught a real bug: `useIsMementoEvening` was calling `useToday()`, which returns a `normalizeDate()`-normalized Date (midnight), so `.getHours()` was always `0` and the line would have **never rendered**. Fixed to use `new Date().getHours()` with a 60s `setInterval` so the evening toggle flips without a full re-render (the same pattern `HoraLine` uses for hour updates). Also simplified `reflectionForDay` to the `Math.floor(date.getTime() / 86400000) % N` idiom Aspiratio already uses — the hand-rolled `new Date(year, 0, 1)` start-of-year was an outlier.
+
+Learning: **`useToday()` is a day-only abstraction.** Anything that cares about the hour of day must use `new Date().getHours()` directly (or interval-poll like HoraLine). Easy to miss because the hook returns a Date object; the fact that the time component is zeroed out isn't visible in the type. Worth a journal note for future iterations.
+
+---
+
 ## Session wrap
 
 Shipped tonight, in order:
@@ -411,6 +428,7 @@ Shipped tonight, in order:
 27. **Oblatio** — daily "offer this day to the Lord" invitation, event-sourced, surfaces in Memoria
 28. **Confessio** — sacrament of penance tracker: days-since card, Act of Contrition, history, Examen link, home whisper
 29. **Angelus** — thrice-daily Marian bell: three slot chips, traditional prayer + Regina Cæli swap, home whisper in canonical windows
+30. **Memento Mori** — Four Last Things nightly reflection: 28 rotating one-sentence meditations across Mors/Iudicium/Caelum/Infernum; evening-only home whisper (≥19:00) pairs with Compline as pre-sleep contemplation
 
 Bold = new visible features, not bug fixes.
 

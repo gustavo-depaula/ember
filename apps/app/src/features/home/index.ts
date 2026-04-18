@@ -8,6 +8,7 @@ export {
   HoraLine,
   IntentionHeart,
   LiturgicalHeader,
+  MementoLine,
   NavigationMedallion,
   OblatioLine,
   SeasonalContext,

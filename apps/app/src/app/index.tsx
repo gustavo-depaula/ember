@@ -38,6 +38,7 @@ import {
   HoraLine,
   IntentionHeart,
   LiturgicalHeader,
+  MementoLine,
   OblatioLine,
   SeasonalContext,
   TimeBlockSection,
@@ -572,6 +573,8 @@ export default function HomeScreen() {
         <Aspiratio date={now} />
 
         <ConfessioLine />
+
+        <MementoLine />
       </YStack>
     </ScreenLayout>
   )
