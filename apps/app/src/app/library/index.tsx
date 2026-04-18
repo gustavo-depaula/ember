@@ -85,7 +85,15 @@ export default function LibraryScreen() {
       })
       return
     }
-    importBook.mutate(file.uri)
+    importBook.mutate(file.uri, {
+      onError: () => {
+        confirm({
+          title: t('library.importFailed'),
+          description: t('library.importFailedDesc'),
+          singleAction: true,
+        })
+      },
+    })
   }
 
   return (

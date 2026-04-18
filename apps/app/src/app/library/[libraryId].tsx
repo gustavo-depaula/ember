@@ -255,44 +255,57 @@ export default function LibraryDetailScreen() {
           )}
 
           {!isInstalled && registryEntry && (
-            <AnimatedPressable
-              onPress={() => downloadBook.mutate(registryEntry)}
-              disabled={downloadBook.isPending}
-              accessibilityRole="button"
-              accessibilityLabel={
-                downloadBook.isPending ? t('library.downloading') : t('library.download')
-              }
-            >
-              <XStack
-                backgroundColor={downloadBook.isPending ? '$borderColor' : '$accent'}
-                borderRadius="$lg"
-                padding="$md"
-                justifyContent="center"
-                alignItems="center"
-                gap="$sm"
-                overflow="hidden"
+            <YStack gap="$sm">
+              <AnimatedPressable
+                onPress={() => downloadBook.mutate(registryEntry)}
+                disabled={downloadBook.isPending}
+                accessibilityRole="button"
+                accessibilityLabel={
+                  downloadBook.isPending ? t('library.downloading') : t('library.download')
+                }
               >
-                {downloadBook.isPending && (
-                  <Animated.View
-                    style={[
-                      {
-                        position: 'absolute',
-                        top: 0,
-                        left: 0,
-                        bottom: 0,
-                        backgroundColor: theme.accent.val,
-                        borderRadius: 12,
-                      },
-                      progressFillStyle,
-                    ]}
-                  />
-                )}
-                <Download size={18} color="white" />
-                <Text fontFamily="$heading" fontSize="$3" color="white">
-                  {downloadBook.isPending ? t('library.downloading') : t('library.download')}
+                <XStack
+                  backgroundColor={downloadBook.isPending ? '$borderColor' : '$accent'}
+                  borderRadius="$lg"
+                  padding="$md"
+                  justifyContent="center"
+                  alignItems="center"
+                  gap="$sm"
+                  overflow="hidden"
+                >
+                  {downloadBook.isPending && (
+                    <Animated.View
+                      style={[
+                        {
+                          position: 'absolute',
+                          top: 0,
+                          left: 0,
+                          bottom: 0,
+                          backgroundColor: theme.accent.val,
+                          borderRadius: 12,
+                        },
+                        progressFillStyle,
+                      ]}
+                    />
+                  )}
+                  <Download size={18} color="white" />
+                  <Text fontFamily="$heading" fontSize="$3" color="white">
+                    {downloadBook.isPending ? t('library.downloading') : t('library.download')}
+                  </Text>
+                </XStack>
+              </AnimatedPressable>
+              {downloadBook.isError && (
+                <Text
+                  fontFamily="$body"
+                  fontSize="$1"
+                  color="$colorBurgundy"
+                  textAlign="center"
+                  fontStyle="italic"
+                >
+                  {t('library.downloadFailed')}
                 </Text>
-              </XStack>
-            </AnimatedPressable>
+              )}
+            </YStack>
           )}
 
           <SectionDivider />
