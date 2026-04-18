@@ -62,7 +62,13 @@ export function CandleFlame({ size = 140, mode = 'alive' }: { size?: number; mod
   const candleH = size * 0.9
 
   return (
-    <View width={size} height={size * 2} alignItems="center" justifyContent="flex-end">
+    <View
+      position="relative"
+      width={size}
+      height={size * 2}
+      alignItems="center"
+      justifyContent="flex-end"
+    >
       <View position="absolute" top={size * 0.1} alignItems="center" width={size}>
         <Animated.View
           style={[

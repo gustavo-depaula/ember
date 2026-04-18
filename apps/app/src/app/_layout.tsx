@@ -18,7 +18,6 @@ import { PinyonScript_400Regular } from '@expo-google-fonts/pinyon-script'
 import { SourceSerif4_400Regular } from '@expo-google-fonts/source-serif-4'
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query'
 import { useFonts } from 'expo-font'
-import { useKeepAwake } from 'expo-keep-awake'
 import { Stack } from 'expo-router'
 import * as SplashScreen from 'expo-splash-screen'
 import { StatusBar } from 'expo-status-bar'
@@ -39,6 +38,7 @@ import {
   getInstalledBooks,
   loadInstalledBooks,
 } from '@/features/books/libraryManager'
+import { useKeepAwake } from '@/hooks/useKeepAwake'
 import { useLiturgicalTheme } from '@/hooks/useLiturgicalTheme'
 import { initHearth } from '@/lib/hearth'
 import { rescheduleAllReminders, setupNotifications } from '@/lib/notifications'
