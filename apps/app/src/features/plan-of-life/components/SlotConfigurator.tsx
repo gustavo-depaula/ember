@@ -39,6 +39,9 @@ function TierSelector({ value, onChange }: { value: Tier; onChange: (tier: Tier)
             onChange(tier)
           }}
           style={{ flex: 1 }}
+          accessibilityRole="radio"
+          accessibilityLabel={t(`tier.${tier}`)}
+          accessibilityState={{ selected: value === tier }}
         >
           <YStack
             paddingVertical="$sm"
@@ -87,6 +90,8 @@ function TimeInput({
           onChange('08:00')
           if (Platform.OS !== 'ios') setShowPicker(true)
         }}
+        accessibilityRole="button"
+        accessibilityLabel={t('editor.setTime')}
       >
         <XStack
           alignItems="center"
@@ -129,6 +134,9 @@ function TimeInput({
               lightTap()
               setShowPicker(true)
             }}
+            accessibilityRole="button"
+            accessibilityLabel={t('editor.timeOfDay')}
+            accessibilityValue={{ text: value }}
           >
             <XStack
               alignItems="center"
@@ -171,6 +179,8 @@ function TimeInput({
           onChange(null)
         }}
         hitSlop={12}
+        accessibilityRole="button"
+        accessibilityLabel={t('common.clear')}
       >
         <Text fontFamily="$body" fontSize="$3" color="$colorSecondary">
           {t('common.clear')}
@@ -217,7 +227,12 @@ function SlotRow({
   return (
     <Animated.View layout={LinearTransition.duration(250)}>
       <YStack backgroundColor="$backgroundSurface" borderRadius="$lg" padding="$md" gap="$sm">
-        <AnimatedPressable onPress={handleToggleExpand}>
+        <AnimatedPressable
+          onPress={handleToggleExpand}
+          accessibilityRole="button"
+          accessibilityLabel={enriched.name}
+          accessibilityState={{ expanded }}
+        >
           <XStack alignItems="center" gap="$md" minHeight={44}>
             <Switch
               value={localEnabled}
@@ -308,6 +323,8 @@ function SlotRow({
                     })
                     if (ok) onDelete()
                   }}
+                  accessibilityRole="button"
+                  accessibilityLabel={t('editor.removeSlot')}
                 >
                   <XStack
                     borderWidth={1}
@@ -381,6 +398,8 @@ export function SlotConfigurator({
           lightTap()
           onAddSlot()
         }}
+        accessibilityRole="button"
+        accessibilityLabel={t('editor.addSlot')}
       >
         <XStack
           borderWidth={1}
