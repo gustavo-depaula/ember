@@ -640,3 +640,52 @@ Ground rules for the night:
 - Update this journal after every iteration.
 - Respect existing patterns (cycle + program + day data) when adding novenas.
 
+---
+
+## Session follow-up — 2026-04-18 — design pass + quality-of-life
+
+Short daytime session after the overnight run. User reported a render error ("Cannot read property 'get' of undefined") on several screens, then asked for a design critique of the italic/cursive usage, then for screen-sleep prevention. All three addressed end-to-end.
+
+### 1. Font-size crash (commit `1250223`)
+
+**Root cause.** Several screens used font-size tokens beyond the font family's defined scale, hidden by `as any` casts. Tamagui's font resolver silently returns `undefined` for out-of-range sizes, which crashes at render time when `.get()` is called on it.
+
+- `$display` (UnifrakturMaguntia) max size is `$7`; `kyrie.tsx` was requesting `$9`.
+- `$script` (PinyonScript) max size is `$5`; `oratio.tsx` and `Threshold.tsx` were requesting `$6`.
+
+**Fix.** Clamped each offending token down to the real scale max. No more `as any` casts in those spots.
+
+**Lesson.** `as any` on a fontSize prop is a runtime landmine. Trust the typed scale. If a token feels too small, change the scale — don't escape hatch it.
+
+### 2. Script/italic restraint — design critique (commits `3fca848` + `e46c00b`)
+
+User called out that cursive + italic type was being used too liberally, hurting readability and breaking design-system consistency. Did a full critic audit; two-batch cleanup.
+
+**Batch 1 (home whispers + prayer bodies).** `WhisperLine`, `HoraLine`, `DiesDevotion`, `OblatioLine`, `Aspiratio` ambient lines dropped their italic $script styling; Angelus, Benedictio, Memento, Nocturne prayer bodies moved to upright `$body`. Ambient density was the issue — each individual italic line looked fine, but stacked three or four deep they read as noise.
+
+**Batch 2 (readable text currently scripted).** Kyrie invocation, Oratio timer, Confessio sinceLabel + Act of Contrition, Examen phase prompts, Dies Domini day lines — all multi-word content — moved from $script (often italic) to upright $body or $display.
+
+**Kept.** `$script` is now reserved for rare "earned" single-phrase moments: the Oremus single word at the Threshold, the Pax Christi whisper when the rule is fully kept, the seasonal motto on the liturgical header, and pre-session single-line antiphons. Five uses total in the codebase.
+
+**Lesson.** Script/italic works as a *rare* accent. Once it spreads across ambient UI, it loses its meaning and becomes a legibility tax.
+
+### 3. Keep screen awake (commit `e99c3e3`)
+
+Added `expo-keep-awake` + a single `useKeepAwake()` call in the root layout. Covers every screen app-wide — practices, reader, timers, Breviary, examen — without per-screen opt-in. Five-line change. Prayer shouldn't be interrupted by the phone auto-locking.
+
+### Memories saved
+
+- **Script/italic restraint** — default to `$body`/`$heading`; reserve `$script` + italic for rare earned accents, not prayer bodies or repeated whispers.
+- **Operate autonomously** — once scope is agreed, execute end-to-end without asking permission between batches.
+
+### Session summary — what shipped
+
+| # | Commit | Change |
+|---|--------|--------|
+| 1 | `1250223` | Clamp oversized font tokens to the current scale (fixes render crash on Kyrie, Oratio, Silentium, Threshold) |
+| 2 | `3fca848` | Retire script/italic from home whispers and prayer bodies |
+| 3 | `e46c00b` | Replace script/italic with upright body in readable text |
+| 4 | `e99c3e3` | Keep screen awake app-wide via `useKeepAwake()` at root layout |
+
+Plus two feedback memories to keep this learning alive across future sessions.
+
