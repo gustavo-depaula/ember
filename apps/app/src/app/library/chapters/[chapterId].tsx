@@ -3,6 +3,7 @@ import { resolveFlow } from '@ember/content-engine'
 import { useLocalSearchParams, useRouter } from 'expo-router'
 import { ChevronLeft } from 'lucide-react-native'
 import { useMemo } from 'react'
+import { useTranslation } from 'react-i18next'
 import { Pressable, ScrollView } from 'react-native'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 import { ManuscriptFrame, ScreenLayout, SectionBlock } from '@/components'
@@ -12,6 +13,7 @@ import { getChapterManifest, loadChapterContent } from '@/content/registry'
 import { localizeContent } from '@/lib/i18n'
 
 export default function ChapterReaderScreen() {
+  const { t } = useTranslation()
   const { chapterId, libraryId } = useLocalSearchParams<{ chapterId: string; libraryId: string }>()
   const router = useRouter()
   const theme = useTheme()
@@ -44,7 +46,12 @@ export default function ChapterReaderScreen() {
       <ScreenLayout>
         <YStack flex={1}>
           <XStack alignItems="center" gap="$md" paddingVertical="$md">
-            <Pressable onPress={() => router.back()} hitSlop={8}>
+            <Pressable
+              onPress={() => router.back()}
+              hitSlop={8}
+              accessibilityRole="button"
+              accessibilityLabel={t('a11y.goBack')}
+            >
               <ChevronLeft size={24} color={theme.color.val} />
             </Pressable>
             <YStack flex={1}>

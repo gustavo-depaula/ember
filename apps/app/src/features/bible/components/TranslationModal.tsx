@@ -29,7 +29,12 @@ function TranslationRow({
   const theme = useTheme()
 
   return (
-    <Pressable onPress={onPress}>
+    <Pressable
+      onPress={onPress}
+      accessibilityRole="radio"
+      accessibilityLabel={`${code}, ${name}`}
+      accessibilityState={{ selected }}
+    >
       <XStack
         paddingVertical="$md"
         paddingHorizontal="$lg"
