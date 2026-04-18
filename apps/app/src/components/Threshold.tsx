@@ -24,7 +24,7 @@ export function Threshold({ word }: { word: string }) {
         <Animated.View style={style}>
           <Text
             fontFamily="$script"
-            fontSize={'$6' as any}
+            fontSize={'$5' as any}
             color="$accent"
             letterSpacing={2}
             textAlign="center"

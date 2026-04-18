@@ -98,7 +98,7 @@ export default function OratioScreen() {
           <YStack alignItems="center" gap="$sm">
             <Text
               fontFamily="$script"
-              fontSize={'$6' as any}
+              fontSize={'$5' as any}
               color="rgba(245,240,224,0.92)"
               letterSpacing={2}
             >

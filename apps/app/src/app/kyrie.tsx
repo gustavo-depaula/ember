@@ -121,7 +121,7 @@ export default function KyrieScreen() {
             >
               <Text
                 fontFamily="$display"
-                fontSize={'$9' as any}
+                fontSize={'$7' as any}
                 color="rgba(245,240,224,0.95)"
                 letterSpacing={2}
               >
