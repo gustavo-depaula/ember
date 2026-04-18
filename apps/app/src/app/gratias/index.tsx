@@ -1,5 +1,5 @@
 import { useRouter } from 'expo-router'
-import { ChevronLeft, Plus, Trash2 } from 'lucide-react-native'
+import { ChevronLeft, Flame, Plus, Trash2 } from 'lucide-react-native'
 import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Pressable, TextInput } from 'react-native'
@@ -110,7 +110,8 @@ export default function GratiasScreen() {
         </YStack>
 
         {gratitudes.length === 0 ? (
-          <YStack paddingVertical="$xl" alignItems="center" gap="$sm">
+          <YStack paddingVertical="$xl" alignItems="center" gap="$md">
+            <Flame size={32} color={theme.colorSecondary?.val} />
             <Text
               fontFamily="$body"
               fontSize="$2"

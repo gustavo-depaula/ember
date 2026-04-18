@@ -2,6 +2,7 @@ import { format, isSameDay, isToday, isYesterday } from 'date-fns'
 import { useRouter } from 'expo-router'
 import {
   Bell,
+  BookOpen,
   Check,
   ChevronLeft,
   Flame,
@@ -109,7 +110,8 @@ export default function MemoriaScreen() {
         )}
 
         {entries.length === 0 ? (
-          <YStack paddingVertical="$xl" alignItems="center">
+          <YStack paddingVertical="$xl" alignItems="center" gap="$md">
+            <BookOpen size={32} color={theme.colorSecondary?.val} />
             <Text
               fontFamily="$body"
               fontSize="$2"

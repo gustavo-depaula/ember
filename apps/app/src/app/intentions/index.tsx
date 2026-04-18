@@ -1,6 +1,6 @@
 import type { Locale } from 'date-fns'
 import { useRouter } from 'expo-router'
-import { Check, ChevronLeft, Plus, RotateCcw, Trash2 } from 'lucide-react-native'
+import { Check, ChevronLeft, Heart, Plus, RotateCcw, Trash2 } from 'lucide-react-native'
 import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Pressable, TextInput } from 'react-native'
@@ -127,7 +127,8 @@ export default function IntentionsScreen() {
         </YStack>
 
         {open.length === 0 && answered.length === 0 ? (
-          <YStack paddingVertical="$xl" alignItems="center" gap="$sm">
+          <YStack paddingVertical="$xl" alignItems="center" gap="$md">
+            <Heart size={32} color={theme.colorSecondary?.val} />
             <Text
               fontFamily="$body"
               fontSize="$2"
