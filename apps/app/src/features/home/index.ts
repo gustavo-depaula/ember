@@ -1,5 +1,6 @@
 export {
   AppShortcuts,
+  Aspiratio,
   CelebrationOfDay,
   DiesDevotion,
   HoraLine,

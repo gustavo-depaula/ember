@@ -1,4 +1,5 @@
 export { AppShortcuts } from './AppShortcuts'
+export { Aspiratio } from './Aspiratio'
 export { CelebrationOfDay } from './CelebrationOfDay'
 export { DiesDevotion } from './DiesDevotion'
 export { HoraLine } from './HoraLine'

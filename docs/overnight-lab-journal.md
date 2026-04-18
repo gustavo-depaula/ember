@@ -261,6 +261,18 @@ Small addition (~25 lines), but it reinforces the bead-feeling the screen is aft
 
 ---
 
+## Iteration 18 — Aspiratio (daily aspiration)
+
+A tradition older than the Rosary: brief ejaculatory prayers — "aspirations" — fired off throughout the day. "Jesu, mercy." "Cor Jesu, confidio in te." "Ad majorem Dei gloriam." Short, memorable, weapon-like. Carried in the heart.
+
+Added a single rotating Latin aspiration as the closing whisper of the home screen — below the ornamental page break, a script-font italic line at 70% opacity. One aspiration per day, deterministic (hash of day-index into a 15-entry list).
+
+Chose Latin without translation. These are culturally recognizable — any Catholic who's prayed the Litany of the Sacred Heart knows "Cor Jesu, miserere nobis." Displaying a translation would flatten them; leaving them in their tongue keeps the connection to the tradition that minted them. A user who doesn't know what "Fiat voluntas tua" means will learn it by seeing it once a month.
+
+~40 lines total (component + data + wire-up). No state, no events, no translation work, one new home row that costs almost nothing to look at but stays with you.
+
+---
+
 ## Session wrap
 
 Shipped tonight, in order:
@@ -284,6 +296,7 @@ Shipped tonight, in order:
 17. **On This Day** — Memoria surfaces entries from same month+day in prior years
 18. **Vestment color bar** — liturgical header stripe wears today's actual vestment color
 19. **Kyrie bead row** — ten-count knots under the tap counter for rope-prayer landmarks
+20. **Aspiratio** — a rotating Latin aspiration closes the home screen, one per day
 
 Bold = new visible features, not bug fixes.
 

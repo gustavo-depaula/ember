@@ -23,6 +23,7 @@ import { useYearCalendar } from '@/features/calendar'
 import { useGratitudesCount } from '@/features/gratias'
 import {
   AppShortcuts,
+  Aspiratio,
   CelebrationOfDay,
   DiesDevotion,
   HoraLine,
@@ -514,6 +515,8 @@ export default function HomeScreen() {
         )}
 
         <PageBreakOrnament />
+
+        <Aspiratio date={now} />
       </YStack>
     </ScreenLayout>
   )
