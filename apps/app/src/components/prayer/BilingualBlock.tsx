@@ -1,8 +1,8 @@
 import type { BilingualText, ContentLanguage } from '@ember/content-engine'
 import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { Pressable } from 'react-native'
 import { Text, View, XStack, YStack } from 'tamagui'
+import { AnimatedPressable } from '@/components/AnimatedPressable'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
 const languageLabel: Record<ContentLanguage, string> = {
@@ -21,7 +21,7 @@ export function BilingualBlock({
   const displayMode = usePreferencesStore((s) => s.displayMode)
   const secondaryLanguage = usePreferencesStore((s) => s.secondaryLanguage)
 
-  if (!content.secondary) {
+  if (!content.secondary || !secondaryLanguage) {
     return (
       <YStack>
         {renderText(content.primary)}
@@ -53,31 +53,35 @@ export function BilingualBlock({
   }
 
   return (
-    <TapToSwitch primary={content.primary} secondary={content.secondary} renderText={renderText} />
+    <TapToSwitch
+      primary={content.primary}
+      secondary={content.secondary}
+      secondaryLanguage={secondaryLanguage}
+      renderText={renderText}
+    />
   )
 }
 
 function TapToSwitch({
   primary,
   secondary,
+  secondaryLanguage,
   renderText,
 }: {
   primary: string
   secondary: string
+  secondaryLanguage: ContentLanguage
   renderText: (text: string) => React.ReactNode
 }) {
   const { t } = useTranslation()
   const contentLanguage = usePreferencesStore((s) => s.contentLanguage)
-  const secondaryLanguage = usePreferencesStore((s) => s.secondaryLanguage)
   const [showSecondary, setShowSecondary] = useState(false)
   const activeText = showSecondary ? secondary : primary
-  // secondaryLanguage is guaranteed defined here: localizeBilingual only emits
-  // content.secondary when a secondary language is set.
-  const toggleTargetLang = (showSecondary ? contentLanguage : secondaryLanguage) as ContentLanguage
+  const toggleTargetLang = showSecondary ? contentLanguage : secondaryLanguage
 
   return (
     <YStack>
-      <Pressable
+      <AnimatedPressable
         onPress={() => setShowSecondary((v) => !v)}
         accessibilityRole="button"
         accessibilityLabel={t('a11y.switchLanguage', {
@@ -95,7 +99,7 @@ function TapToSwitch({
         >
           {languageLabel[toggleTargetLang]}
         </Text>
-      </Pressable>
+      </AnimatedPressable>
       {renderText(activeText)}
     </YStack>
   )
