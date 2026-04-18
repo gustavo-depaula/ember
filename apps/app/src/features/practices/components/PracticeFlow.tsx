@@ -424,7 +424,6 @@ export function PracticeFlow({
                 cccMap={cccMap}
                 bibleErrors={bibleErrors}
                 cccErrors={cccErrors}
-                officeTheme={manifest.theme === 'office'}
                 onSelectOverride={handleSelectOverride}
               />
             ))}
@@ -482,7 +481,6 @@ function PracticeSectionBlock({
   cccMap,
   bibleErrors,
   cccErrors,
-  officeTheme = false,
   onSelectOverride,
 }: {
   section: RenderedSection
@@ -491,7 +489,6 @@ function PracticeSectionBlock({
   cccMap: Map<string, Array<{ number: number; text: string; section: string }>>
   bibleErrors: Map<string, () => void>
   cccErrors: Map<string, () => void>
-  officeTheme?: boolean
   onSelectOverride: (overrideKey: string, nextId: string) => void
 }) {
   // Practice-specific section types
@@ -531,7 +528,6 @@ function PracticeSectionBlock({
       return (
         <SectionBlock
           section={section}
-          officeTheme={officeTheme}
           renderSection={(s, i) => (
             <PracticeSectionBlock
               key={`${s.type}-${i}`}
@@ -541,7 +537,6 @@ function PracticeSectionBlock({
               cccMap={cccMap}
               bibleErrors={bibleErrors}
               cccErrors={cccErrors}
-              officeTheme={officeTheme}
               onSelectOverride={onSelectOverride}
             />
           )}

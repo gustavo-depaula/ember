@@ -1,6 +1,5 @@
 import { Text, View, YStack } from 'tamagui'
 import type { RenderedSection } from '@/content/types'
-import { OrnamentalRule } from './Ornament'
 import {
   CanticleBlock,
   CollapsiblePrayer,
@@ -19,12 +18,10 @@ import { RubricLabel } from './RubricLabel'
 
 export function SectionBlock({
   section,
-  officeTheme = false,
   renderSection,
   onSelectOverride,
 }: {
   section: RenderedSection
-  officeTheme?: boolean
   renderSection?: (section: RenderedSection, index: number) => React.ReactNode
   onSelectOverride?: (overrideKey: string, nextId: string) => void
 }) {
@@ -49,7 +46,6 @@ export function SectionBlock({
                 <SectionBlock
                   key={`${s.type}-${i}`}
                   section={s}
-                  officeTheme={officeTheme}
                   onSelectOverride={onSelectOverride}
                 />
               ))
@@ -90,7 +86,6 @@ export function SectionBlock({
       )
 
     case 'divider':
-      if (officeTheme) return <OrnamentalRule />
       return (
         <YStack alignItems="center" paddingVertical="$sm">
           <View width="40%" height={0.5} backgroundColor="$accentSubtle" />
@@ -126,7 +121,6 @@ export function SectionBlock({
               <SectionBlock
                 key={`${s.type}-${i}`}
                 section={s}
-                officeTheme={officeTheme}
                 onSelectOverride={onSelectOverride}
               />
             ))
@@ -147,7 +141,6 @@ export function SectionBlock({
               <SectionBlock
                 key={`${s.type}-${i}`}
                 section={s}
-                officeTheme={officeTheme}
                 onSelectOverride={onSelectOverride}
               />
             ))
