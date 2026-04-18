@@ -229,7 +229,11 @@ export default function HomeScreen() {
 
           {todaySlots.length === 0 ? (
             <FadeInView index={2}>
-              <Pressable onPress={() => router.push('/plan')}>
+              <Pressable
+                onPress={() => router.push('/plan')}
+                accessibilityRole="link"
+                accessibilityLabel={t('home.emptyPlanAction')}
+              >
                 <YStack alignItems="center" paddingHorizontal="$lg" gap="$sm">
                   <Text fontFamily="$body" fontSize="$2" color="$colorSecondary" textAlign="center">
                     {t('home.emptyPlan')}

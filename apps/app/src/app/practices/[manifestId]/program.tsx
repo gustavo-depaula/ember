@@ -136,7 +136,11 @@ export default function ProgramDetailScreen() {
             </Text>
 
             {completionBehavior === 'offer-restart' && (
-              <AnimatedPressable onPress={handleRestart}>
+              <AnimatedPressable
+                onPress={handleRestart}
+                accessibilityRole="button"
+                accessibilityLabel={t('program.restart')}
+              >
                 <YStack
                   backgroundColor="$accent"
                   borderRadius="$md"
@@ -215,7 +219,13 @@ function DayRow({
   onPress?: () => void
 }) {
   return (
-    <AnimatedPressable onPress={onPress} disabled={!onPress}>
+    <AnimatedPressable
+      onPress={onPress}
+      disabled={!onPress}
+      accessibilityRole="button"
+      accessibilityLabel={dayLabel}
+      accessibilityState={{ disabled: !onPress, selected: isCurrent }}
+    >
       <XStack
         backgroundColor={isCurrent ? '$accent' : '$backgroundSurface'}
         borderRadius="$lg"
