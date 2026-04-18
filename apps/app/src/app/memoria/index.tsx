@@ -1,6 +1,7 @@
 import { format, isSameDay, isToday, isYesterday } from 'date-fns'
 import { useRouter } from 'expo-router'
 import { Check, ChevronLeft, Flame, Heart, Sparkles } from 'lucide-react-native'
+import { useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Pressable, ScrollView } from 'react-native'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
@@ -12,6 +13,17 @@ import { useToday } from '@/hooks/useToday'
 import { localizeContent } from '@/lib/i18n'
 import { getDateLocale } from '@/lib/i18n/dateLocale'
 
+type Filter = 'all' | 'prayers' | 'intentions' | 'gratitudes'
+const filters: Filter[] = ['all', 'prayers', 'intentions', 'gratitudes']
+
+function matchesFilter(entry: MemoriaEntry, filter: Filter): boolean {
+  if (filter === 'all') return true
+  if (filter === 'prayers') return entry.kind === 'completion'
+  if (filter === 'intentions')
+    return entry.kind === 'intention-added' || entry.kind === 'intention-answered'
+  return entry.kind === 'gratitude'
+}
+
 export default function MemoriaScreen() {
   const { t } = useTranslation()
   const router = useRouter()
@@ -20,6 +32,12 @@ export default function MemoriaScreen() {
   const now = useToday()
   const onThisDay = useOnThisDayEntries(now)
   const locale = getDateLocale()
+  const [filter, setFilter] = useState<Filter>('all')
+
+  const filtered = useMemo(
+    () => (filter === 'all' ? entries : entries.filter((e) => matchesFilter(e, filter))),
+    [entries, filter],
+  )
 
   return (
     <ScreenLayout>
@@ -38,6 +56,39 @@ export default function MemoriaScreen() {
           </YStack>
         </XStack>
 
+        {entries.length > 0 && (
+          <ScrollView
+            horizontal
+            showsHorizontalScrollIndicator={false}
+            contentContainerStyle={{ gap: 8 }}
+          >
+            {filters.map((f) => {
+              const selected = filter === f
+              return (
+                <Pressable key={f} onPress={() => setFilter(f)} hitSlop={4}>
+                  <XStack
+                    paddingHorizontal="$md"
+                    paddingVertical="$xs"
+                    borderRadius={999}
+                    borderWidth={1}
+                    borderColor={selected ? '$accent' : '$borderColor'}
+                    backgroundColor={selected ? '$accent' : 'transparent'}
+                  >
+                    <Text
+                      fontFamily="$heading"
+                      fontSize="$1"
+                      color={selected ? '$backgroundSurface' : '$colorSecondary'}
+                      letterSpacing={1}
+                    >
+                      {t(`memoria.filter.${f}`).toUpperCase()}
+                    </Text>
+                  </XStack>
+                </Pressable>
+              )
+            })}
+          </ScrollView>
+        )}
+
         {entries.length === 0 ? (
           <YStack paddingVertical="$xl" alignItems="center">
             <Text
@@ -54,7 +105,7 @@ export default function MemoriaScreen() {
         ) : (
           <ScrollView showsVerticalScrollIndicator={false}>
             <YStack gap="$sm">
-              {onThisDay.length > 0 && (
+              {filter === 'all' && onThisDay.length > 0 && (
                 <YStack
                   gap="$xs"
                   padding="$md"
@@ -71,7 +122,7 @@ export default function MemoriaScreen() {
                   ))}
                 </YStack>
               )}
-              {renderGroupedEntries(entries, t, locale)}
+              {renderGroupedEntries(filtered, t, locale)}
             </YStack>
           </ScrollView>
         )}

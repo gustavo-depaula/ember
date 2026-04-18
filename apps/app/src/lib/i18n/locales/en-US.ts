@@ -251,6 +251,12 @@ export default {
     oneYearAgo: 'One year ago',
     yearsAgo_one: '{{count}} year ago',
     yearsAgo_other: '{{count}} years ago',
+    filter: {
+      all: 'All',
+      prayers: 'Prayers',
+      intentions: 'Intentions',
+      gratitudes: 'Gratitudes',
+    },
   },
 
   gratias: {

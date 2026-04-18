@@ -299,6 +299,18 @@ New home row (Compass icon, between Kyrie and Intentions) so the examen sits vis
 
 ---
 
+## Iteration 21 — Memoria filters
+
+The Memoria feed grows monotonically — every prayer, intention, gratitude adds a row. For a long-time user this becomes unwieldy when they want to answer a specific question: *when did I last pray the Rosary?*, *what have I been thankful for this month?*
+
+Added four filter chips at the top of the Memoria screen: **All** / **Prayers** / **Intentions** / **Gratitudes**. Tap to narrow. Horizontal-scrollable, reuses the existing pill aesthetic from Kyrie's target picker. The On This Day callout hides when a filter is active (it's a general retrospective, not scoped to the current filter).
+
+Default is All — no behavior change for new users, instant value for returning ones. The filter state is ephemeral (not persisted) — when you leave and return, you start fresh on All.
+
+Could later add date-range filters ("This Month", "This Year") but the four type chips cover most real needs. Keeping it minimal.
+
+---
+
 ## Session wrap
 
 Shipped tonight, in order:
@@ -326,6 +338,8 @@ Shipped tonight, in order:
 21. **Pax Christi** — a quiet golden whisper when the day's rule is fully kept
 22. **Aspiratio tap** — aspiration cycles on tap for explore-at-leisure
 23. **Examen** — the Ignatian five-phase examination of conscience
+24. **Examen fade** — prompts fade between phases for a gentler walk
+25. **Memoria filters** — by-type chips (All / Prayers / Intentions / Gratitudes)
 
 Bold = new visible features, not bug fixes.
 

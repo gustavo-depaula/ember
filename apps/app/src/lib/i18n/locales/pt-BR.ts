@@ -253,6 +253,12 @@ export default {
     oneYearAgo: 'H\u00e1 um ano',
     yearsAgo_one: 'H\u00e1 {{count}} ano',
     yearsAgo_other: 'H\u00e1 {{count}} anos',
+    filter: {
+      all: 'Tudo',
+      prayers: 'Ora\u00e7\u00f5es',
+      intentions: 'Inten\u00e7\u00f5es',
+      gratitudes: 'Gratid\u00f5es',
+    },
   },
 
   gratias: {
