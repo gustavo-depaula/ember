@@ -1,10 +1,4 @@
 import { emit, useEventStore } from '../events'
-import type { IntentionState } from '../events/state'
-
-export function getAllIntentions(): IntentionState[] {
-  const store = useEventStore.getState()
-  return [...store.intentions.values()].sort((a, b) => b.created_at - a.created_at)
-}
 
 export async function addIntention(text: string): Promise<number> {
   const trimmed = text.trim()

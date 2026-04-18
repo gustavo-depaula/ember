@@ -154,8 +154,9 @@ export default function IntentionsScreen() {
                   <IntentionRow
                     key={i.id}
                     intention={i}
+                    mode="open"
                     locale={locale}
-                    onMarkAnswered={() => onMarkAnswered(i.id)}
+                    onPrimary={() => onMarkAnswered(i.id)}
                     onDelete={() => onDelete(i)}
                   />
                 ))
@@ -179,11 +180,12 @@ export default function IntentionsScreen() {
                 </Pressable>
                 {showAnswered &&
                   answered.map((i) => (
-                    <AnsweredRow
+                    <IntentionRow
                       key={i.id}
                       intention={i}
+                      mode="answered"
                       locale={locale}
-                      onRestore={() => markUnanswered.mutate(i.id)}
+                      onPrimary={() => markUnanswered.mutate(i.id)}
                       onDelete={() => onDelete(i)}
                     />
                   ))}
@@ -198,34 +200,49 @@ export default function IntentionsScreen() {
 
 function IntentionRow({
   intention,
+  mode,
   locale,
-  onMarkAnswered,
+  onPrimary,
   onDelete,
 }: {
   intention: IntentionState
+  mode: 'open' | 'answered'
   locale: Locale | undefined
-  onMarkAnswered: () => void
+  onPrimary: () => void
   onDelete: () => void
 }) {
   const { t } = useTranslation()
   const theme = useTheme()
-  const createdAgo = formatDistanceToNowStrict(intention.created_at, { locale, addSuffix: true })
+  const isOpen = mode === 'open'
+  const timestamp = isOpen ? intention.created_at : (intention.answered_at ?? intention.created_at)
+  const timestampAgo = formatDistanceToNowStrict(timestamp, { locale, addSuffix: true })
 
   return (
     <YStack
-      gap="$sm"
+      gap={isOpen ? '$sm' : '$xs'}
       padding="$md"
       borderRadius="$md"
-      borderWidth={1}
+      borderWidth={isOpen ? 1 : 0}
       borderColor="$borderColor"
       backgroundColor="$backgroundSurface"
+      opacity={isOpen ? 1 : 0.78}
     >
-      <Text fontFamily="$body" fontSize="$3" color="$color">
+      <Text
+        fontFamily="$body"
+        fontSize={isOpen ? '$3' : '$2'}
+        color="$color"
+        textDecorationLine={isOpen ? 'none' : 'line-through'}
+      >
         {intention.text}
       </Text>
       <XStack justifyContent="space-between" alignItems="center">
-        <Text fontFamily="$body" fontSize="$1" color="$colorSecondary" fontStyle="italic">
-          {createdAgo}
+        <Text
+          fontFamily="$body"
+          fontSize="$1"
+          color={isOpen ? '$colorSecondary' : '$accent'}
+          fontStyle="italic"
+        >
+          {timestampAgo}
         </Text>
         <XStack gap="$sm">
           <AnimatedPressable onPress={onDelete}>
@@ -233,66 +250,27 @@ function IntentionRow({
               <Trash2 size={14} color={theme.colorSecondary?.val} />
             </XStack>
           </AnimatedPressable>
-          <AnimatedPressable onPress={onMarkAnswered}>
+          <AnimatedPressable onPress={onPrimary}>
             <XStack
               alignItems="center"
               gap="$xs"
               paddingVertical="$xs"
               paddingHorizontal="$sm"
               borderRadius="$sm"
-              borderWidth={1}
+              borderWidth={isOpen ? 1 : 0}
               borderColor="$accent"
             >
-              <Check size={14} color={theme.accent?.val} />
-              <Text fontFamily="$heading" fontSize="$1" color="$accent" letterSpacing={0.5}>
-                {t('intentions.markAnswered')}
-              </Text>
+              {isOpen ? (
+                <>
+                  <Check size={14} color={theme.accent?.val} />
+                  <Text fontFamily="$heading" fontSize="$1" color="$accent" letterSpacing={0.5}>
+                    {t('intentions.markAnswered')}
+                  </Text>
+                </>
+              ) : (
+                <RotateCcw size={14} color={theme.colorSecondary?.val} />
+              )}
             </XStack>
-          </AnimatedPressable>
-        </XStack>
-      </XStack>
-    </YStack>
-  )
-}
-
-function AnsweredRow({
-  intention,
-  locale,
-  onRestore,
-  onDelete,
-}: {
-  intention: IntentionState
-  locale: Locale | undefined
-  onRestore: () => void
-  onDelete: () => void
-}) {
-  const theme = useTheme()
-  const answeredAgo =
-    intention.answered_at !== null
-      ? formatDistanceToNowStrict(intention.answered_at, { locale, addSuffix: true })
-      : ''
-
-  return (
-    <YStack
-      gap="$xs"
-      padding="$md"
-      borderRadius="$md"
-      backgroundColor="$backgroundSurface"
-      opacity={0.78}
-    >
-      <Text fontFamily="$body" fontSize="$2" color="$color" textDecorationLine="line-through">
-        {intention.text}
-      </Text>
-      <XStack justifyContent="space-between" alignItems="center">
-        <Text fontFamily="$body" fontSize="$1" color="$accent" fontStyle="italic">
-          {answeredAgo}
-        </Text>
-        <XStack gap="$sm">
-          <AnimatedPressable onPress={onDelete}>
-            <Trash2 size={14} color={theme.colorSecondary?.val} />
-          </AnimatedPressable>
-          <AnimatedPressable onPress={onRestore}>
-            <RotateCcw size={14} color={theme.colorSecondary?.val} />
           </AnimatedPressable>
         </XStack>
       </XStack>

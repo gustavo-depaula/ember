@@ -12,7 +12,6 @@ export {
 } from './cursors'
 export {
   addIntention,
-  getAllIntentions,
   markIntentionAnswered,
   markIntentionUnanswered,
   removeIntention,

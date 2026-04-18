@@ -27,7 +27,7 @@ import {
   SeasonalContext,
   TimeBlockSection,
 } from '@/features/home'
-import { useOpenIntentions } from '@/features/intentions'
+import { useOpenIntentionsCount } from '@/features/intentions'
 import {
   type BlockState,
   buildTieredWallData,
@@ -120,7 +120,7 @@ export default function HomeScreen() {
   const wallLogs = useCompletionRange(wallStart, selectedDate)
   const { data: yearCalendar } = useYearCalendar(now.getFullYear())
   const obligations = useObligations(now)
-  const openIntentions = useOpenIntentions()
+  const openIntentionsCount = useOpenIntentionsCount()
 
   // biome-ignore lint/correctness/useExhaustiveDependencies: memoize by date string
   const scheduleCtx: ScheduleContext | undefined = useMemo(() => {
@@ -257,8 +257,8 @@ export default function HomeScreen() {
                   fontStyle="italic"
                   numberOfLines={1}
                 >
-                  {openIntentions.length > 0
-                    ? t('intentions.homeOpenCount', { count: openIntentions.length })
+                  {openIntentionsCount > 0
+                    ? t('intentions.homeOpenCount', { count: openIntentionsCount })
                     : t('intentions.homeTagline')}
                 </Text>
               </YStack>

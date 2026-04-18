@@ -11,20 +11,22 @@ import {
   updateIntention,
 } from '@/db/repositories'
 
-function sortIntentions(intentions: Iterable<IntentionState>): IntentionState[] {
-  return [...intentions].sort((a, b) => b.created_at - a.created_at)
-}
-
-export function useIntentions(): IntentionState[] {
-  return useEventStore(useShallow((s) => sortIntentions(s.intentions.values())))
-}
-
 export function useOpenIntentions(): IntentionState[] {
   return useEventStore(
     useShallow((s) =>
-      sortIntentions([...s.intentions.values()].filter((i) => i.answered_at === null)),
+      [...s.intentions.values()]
+        .filter((i) => i.answered_at === null)
+        .sort((a, b) => b.created_at - a.created_at),
     ),
   )
+}
+
+export function useOpenIntentionsCount(): number {
+  return useEventStore((s) => {
+    let count = 0
+    for (const i of s.intentions.values()) if (i.answered_at === null) count++
+    return count
+  })
 }
 
 export function useAnsweredIntentions(): IntentionState[] {
