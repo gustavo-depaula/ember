@@ -153,6 +153,8 @@ export default function KyrieScreen() {
             backgroundColor="rgba(245,210,138,0.85)"
           />
         </YStack>
+
+        <BeadRow count={count} target={target} />
       </YStack>
 
       <YStack gap="$sm" paddingBottom="$md">
@@ -194,5 +196,32 @@ export default function KyrieScreen() {
         </XStack>
       </YStack>
     </YStack>
+  )
+}
+
+function BeadRow({ count, target }: { count: number; target: number }) {
+  const decads = Math.ceil(target / 10)
+  const filled = Math.floor(count / 10)
+  const partial = (count % 10) / 10
+  if (decads <= 1) return null
+
+  return (
+    <XStack gap={6} justifyContent="center" flexWrap="wrap" maxWidth={240}>
+      {Array.from({ length: decads }, (_, i) => {
+        const isFilled = i < filled
+        const isCurrent = i === filled
+        const opacity = isFilled ? 0.85 : isCurrent ? 0.2 + partial * 0.65 : 0.15
+        return (
+          <YStack
+            // biome-ignore lint/suspicious/noArrayIndexKey: fixed-length ornament row, no reordering
+            key={i}
+            width={6}
+            height={6}
+            borderRadius={3}
+            backgroundColor={`rgba(245,210,138,${opacity})`}
+          />
+        )
+      })}
+    </XStack>
   )
 }

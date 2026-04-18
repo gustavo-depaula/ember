@@ -249,6 +249,18 @@ Sublimination-sized change — one 3px bar — but it's the kind of detail that 
 
 ---
 
+## Iteration 17 — Bead row on Kyrie
+
+The Kyrie screen has a continuous progress bar under the tap counter. That bar moves one pixel per tap — smooth but abstract. A physical prayer rope gives a different signal: you feel each knot as a landmark. Ten taps in, you've reached something.
+
+Added a small row of dots below the progress bar, one per ten-count "decad." Dots fade from dim to bright as you pass through each: filled (past), lit-in-progress (current, opacity ramps as you pass through 10), dim (future). Hidden when the target is under 10 (the bar is enough for those).
+
+Ten-by-ten granularity matches the traditional rhythm — Eastern chotki have knots in tens, the Rosary decads are ten Aves, Greek prayer ropes often have 33/50/100 knots with dividers every 25 or 33. Users who pray 100 now see ten dots under the counter; 150 shows fifteen; 33 shows four. The current decad lights up gradually as you tap through it.
+
+Small addition (~25 lines), but it reinforces the bead-feeling the screen is after: each decad is a thing you *reach*, not just a percentage you cross.
+
+---
+
 ## Session wrap
 
 Shipped tonight, in order:
@@ -271,6 +283,7 @@ Shipped tonight, in order:
 16. **Kyrie** — Jesus Prayer tap counter, three-channel contemplative feedback
 17. **On This Day** — Memoria surfaces entries from same month+day in prior years
 18. **Vestment color bar** — liturgical header stripe wears today's actual vestment color
+19. **Kyrie bead row** — ten-count knots under the tap counter for rope-prayer landmarks
 
 Bold = new visible features, not bug fixes.
 
