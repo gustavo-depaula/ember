@@ -29,7 +29,12 @@ function CategoryChip({
   onPress: () => void
 }) {
   return (
-    <Pressable onPress={onPress}>
+    <Pressable
+      onPress={onPress}
+      accessibilityRole="radio"
+      accessibilityLabel={label}
+      accessibilityState={{ selected: isActive }}
+    >
       <YStack
         paddingHorizontal="$md"
         paddingVertical="$xs"
@@ -92,12 +97,17 @@ function PracticeCard({
   const { t } = useTranslation()
 
   const iconKey = getManifestIconKey(manifest.id)
+  const name = localizeContent(manifest.name)
 
   const description = manifest.description ? localizeContent(manifest.description) : ''
   const snippet = description.length > 100 ? `${description.slice(0, 100)}...` : description
 
   return (
-    <Pressable onPress={onPress}>
+    <Pressable
+      onPress={onPress}
+      accessibilityRole="link"
+      accessibilityLabel={t('a11y.viewPractice', { name })}
+    >
       <XStack
         backgroundColor="$backgroundSurface"
         borderRadius="$lg"
@@ -110,7 +120,7 @@ function PracticeCard({
         <PracticeIcon name={iconKey} size={28} />
         <YStack flex={1} gap={2}>
           <Text fontFamily="$heading" fontSize="$3" color="$color">
-            {localizeContent(manifest.name)}
+            {name}
           </Text>
           {snippet && (
             <Text fontFamily="$body" fontSize="$1" color="$colorSecondary" numberOfLines={2}>
@@ -232,7 +242,11 @@ export default function PracticeCatalogScreen() {
         />
 
         <YStack gap="$sm">
-          <Pressable onPress={() => setShowEditor(true)}>
+          <Pressable
+            onPress={() => setShowEditor(true)}
+            accessibilityRole="button"
+            accessibilityLabel={t('plan.addCustom')}
+          >
             <XStack
               borderRadius="$lg"
               padding="$md"
@@ -327,6 +341,8 @@ export default function PracticeCatalogScreen() {
               backgroundColor: 'rgba(0,0,0,0.4)',
             }}
             onPress={() => setShowEditor(false)}
+            accessibilityRole="button"
+            accessibilityLabel={t('a11y.closeModal')}
           />
           <PracticeEditSheet onSave={handleSave} onClose={() => setShowEditor(false)} />
         </YStack>
