@@ -16,6 +16,7 @@ import { Text, View, YStack } from 'tamagui'
 
 import {
   AnimatedPressable,
+  PrayerSpinner,
   ReadingConfigBadge,
   ReadingConfigModal,
   ScreenLayout,
@@ -185,13 +186,7 @@ export function CatechismReader() {
       )
     }
     if (segmentsLoading || isLoading || !currentSegment) {
-      return (
-        <YStack flex={1} justifyContent="center" alignItems="center">
-          <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
-            {t('common.loading')}
-          </Text>
-        </YStack>
-      )
+      return <PrayerSpinner />
     }
     return (
       <>

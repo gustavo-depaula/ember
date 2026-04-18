@@ -6,7 +6,7 @@ import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
-import { AnimatedPressable, ScreenLayout } from '@/components'
+import { AnimatedPressable, PrayerSpinner, ScreenLayout } from '@/components'
 import { PracticeIcon } from '@/components/PracticeIcon'
 import { getManifest, getManifestIconKey, loadPracticeData } from '@/content/registry'
 import type { CycleData } from '@/content/types'
@@ -52,11 +52,7 @@ export default function ProgramDetailScreen() {
   if (!manifest?.program || !progress) {
     return (
       <ScreenLayout>
-        <YStack flex={1} alignItems="center" justifyContent="center">
-          <Text fontFamily="$body" fontSize="$3" color="$colorSecondary">
-            {t('common.loading')}
-          </Text>
-        </YStack>
+        <PrayerSpinner />
       </ScreenLayout>
     )
   }

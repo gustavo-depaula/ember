@@ -169,6 +169,8 @@ Prefer (a) — stronger information hierarchy, no auto-scroll surprise.
 
 **Fix.** Use a shared `PrayerSpinner` / subtle dim pulsing sigil for loading states across the app.
 
+**Status.** Fixed — added `apps/app/src/components/PrayerSpinner.tsx` (single accent-colored dot pulsing on a 1.4 s sine). Wired into the Bible reader, Catechism reader, library book reader, and practice program detail screen in place of the plain text / platform `ActivityIndicator`.
+
 ---
 
 ### F15 · First completion shows "50% Completion Rate" — **P2**

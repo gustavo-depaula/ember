@@ -15,7 +15,7 @@ import Animated, {
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { ScrollView, Text, useTheme, View, YStack } from 'tamagui'
 
-import { ReadingConfigBadge, ReadingConfigModal, ScreenLayout } from '@/components'
+import { PrayerSpinner, ReadingConfigBadge, ReadingConfigModal, ScreenLayout } from '@/components'
 import type { Book } from '@/lib/content'
 import { useBibleStore } from '@/stores/bibleStore'
 import { usePreferencesStore } from '@/stores/preferencesStore'
@@ -137,13 +137,7 @@ export function BibleReader() {
 
   function renderContent() {
     if (isLoading) {
-      return (
-        <YStack flex={1} justifyContent="center" alignItems="center">
-          <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
-            {t('common.loading')}
-          </Text>
-        </YStack>
-      )
+      return <PrayerSpinner />
     }
     if (!chapterData) return undefined
     return (

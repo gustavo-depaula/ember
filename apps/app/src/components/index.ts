@@ -18,6 +18,7 @@ export { FloralCorner, FloralVineBorder, SeasonalIcon, WatercolorIcon } from './
 export { PageHeader } from './PageHeader'
 export { PracticeIcon } from './PracticeIcon'
 export { PrayButton } from './PrayActionButtons'
+export { PrayerSpinner } from './PrayerSpinner'
 export { PrayerLines, PrayerText } from './PrayerText'
 export { type PsalmData, PsalmodyBlock } from './PsalmodyBlock'
 export {

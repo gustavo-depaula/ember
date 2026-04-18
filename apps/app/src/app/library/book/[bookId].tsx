@@ -3,11 +3,11 @@ import { useLocalSearchParams, useRouter } from 'expo-router'
 import { ChevronLeft, List, Type } from 'lucide-react-native'
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { ActivityIndicator, Pressable, useColorScheme } from 'react-native'
+import { Pressable, useColorScheme } from 'react-native'
 import Animated, { FadeIn, FadeOut } from 'react-native-reanimated'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { Text, useTheme, View, XStack, YStack } from 'tamagui'
-import { ReadingConfigModal, ScreenLayout } from '@/components'
+import { PrayerSpinner, ReadingConfigModal, ScreenLayout } from '@/components'
 import { getBookDirUri, getBookEntry } from '@/content/registry'
 import { getCursor, setCursor } from '@/db/repositories/cursors'
 import {
@@ -290,9 +290,7 @@ export default function BookReaderScreen() {
   if (isLoading || !positionLoaded) {
     return (
       <ScreenLayout>
-        <YStack flex={1} justifyContent="center" alignItems="center">
-          <ActivityIndicator color={theme.accent.val} />
-        </YStack>
+        <PrayerSpinner />
       </ScreenLayout>
     )
   }
