@@ -20,7 +20,7 @@ export default function CalendarScreen() {
       : undefined,
   )
 
-  const { data: calendar } = useYearCalendar(current.year)
+  const { data: calendar, isError: calendarError, refetch } = useYearCalendar(current.year)
   const celebrationMap = useMonthCelebrationMap(current.year, current.month)
 
   const selectedDayCalendar = useMemo(() => {
@@ -74,6 +74,29 @@ export default function CalendarScreen() {
             </Text>
           </AnimatedPressable>
         </XStack>
+
+        {calendarError && (
+          <XStack
+            marginHorizontal="$md"
+            paddingVertical="$sm"
+            paddingHorizontal="$md"
+            borderRadius="$md"
+            borderWidth={1}
+            borderColor="$borderColor"
+            backgroundColor="$backgroundSurface"
+            alignItems="center"
+            gap="$sm"
+          >
+            <Text flex={1} fontFamily="$body" fontSize="$2" color="$colorSecondary">
+              {t('calendar.loadError')}
+            </Text>
+            <AnimatedPressable onPress={() => refetch()} accessibilityRole="button" hitSlop={8}>
+              <Text fontFamily="$heading" fontSize="$2" color="$accent">
+                {t('common.retry')}
+              </Text>
+            </AnimatedPressable>
+          </XStack>
+        )}
 
         <CalendarGrid
           year={current.year}

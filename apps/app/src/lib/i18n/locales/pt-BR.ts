@@ -1229,6 +1229,7 @@ export default {
     holyDay: 'Dia de Preceito',
     noSelection: 'Selecione um dia para ver as celebrações',
     noCelebrations: 'Sem celebrações',
+    loadError: 'Não foi possível carregar o calendário litúrgico.',
   },
   a11y: {
     togglePractice: 'Marcar {{name}} como concluída',

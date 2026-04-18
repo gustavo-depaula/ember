@@ -1225,6 +1225,7 @@ export default {
     holyDay: 'Holy Day of Obligation',
     noSelection: 'Select a day to see celebrations',
     noCelebrations: 'No celebrations',
+    loadError: 'Couldn\u2019t load the liturgical calendar.',
   },
   a11y: {
     togglePractice: 'Mark {{name}} as complete',
