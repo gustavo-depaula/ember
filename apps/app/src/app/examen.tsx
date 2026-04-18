@@ -104,6 +104,8 @@ export default function ExamenScreen() {
                   router.replace('/confessio')
                 }}
                 hitSlop={8}
+                accessibilityRole="link"
+                accessibilityLabel={t('confessio.examenPrompt')}
               >
                 <Text
                   fontFamily="$body"
@@ -138,7 +140,11 @@ export default function ExamenScreen() {
         </XStack>
       </YStack>
 
-      <AnimatedPressable onPress={advance}>
+      <AnimatedPressable
+        onPress={advance}
+        accessibilityRole="button"
+        accessibilityLabel={isClosing ? t('examen.finish') : t('examen.continue')}
+      >
         <XStack
           alignItems="center"
           justifyContent="center"

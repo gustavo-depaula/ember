@@ -170,7 +170,13 @@ export default function KyrieScreen() {
           {targets.map((n) => {
             const selected = target === n
             return (
-              <AnimatedPressable key={n} onPress={() => onPickTarget(n)}>
+              <AnimatedPressable
+                key={n}
+                onPress={() => onPickTarget(n)}
+                accessibilityRole="radio"
+                accessibilityLabel={String(n)}
+                accessibilityState={{ selected }}
+              >
                 <YStack
                   paddingHorizontal="$md"
                   paddingVertical="$sm"

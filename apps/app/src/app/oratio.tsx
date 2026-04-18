@@ -154,29 +154,41 @@ export default function OratioScreen() {
             {t('oratio.invitation')}
           </Text>
           <XStack flexWrap="wrap" gap="$sm" justifyContent="center">
-            {durationMinutes.map((m) => (
-              <AnimatedPressable key={m} onPress={() => begin(m)}>
-                <YStack
-                  paddingHorizontal="$md"
-                  paddingVertical="$sm"
-                  borderRadius={999}
-                  borderWidth={1}
-                  borderColor="rgba(245,210,138,0.35)"
-                  minWidth={66}
-                  alignItems="center"
+            {durationMinutes.map((m) => {
+              const label = t('oratio.minutesShort', { count: m })
+              return (
+                <AnimatedPressable
+                  key={m}
+                  onPress={() => begin(m)}
+                  accessibilityRole="button"
+                  accessibilityLabel={label}
                 >
-                  <Text fontFamily="$heading" fontSize="$3" color="rgba(245,240,224,0.88)">
-                    {t('oratio.minutesShort', { count: m })}
-                  </Text>
-                </YStack>
-              </AnimatedPressable>
-            ))}
+                  <YStack
+                    paddingHorizontal="$md"
+                    paddingVertical="$sm"
+                    borderRadius={999}
+                    borderWidth={1}
+                    borderColor="rgba(245,210,138,0.35)"
+                    minWidth={66}
+                    alignItems="center"
+                  >
+                    <Text fontFamily="$heading" fontSize="$3" color="rgba(245,240,224,0.88)">
+                      {label}
+                    </Text>
+                  </YStack>
+                </AnimatedPressable>
+              )
+            })}
           </XStack>
         </YStack>
       )}
 
       {phase === 'running' && (
-        <AnimatedPressable onPress={amen}>
+        <AnimatedPressable
+          onPress={amen}
+          accessibilityRole="button"
+          accessibilityLabel={t('oratio.amen')}
+        >
           <YStack
             paddingVertical="$md"
             borderRadius="$md"
@@ -197,7 +209,11 @@ export default function OratioScreen() {
       )}
 
       {phase === 'done' && (
-        <AnimatedPressable onPress={close}>
+        <AnimatedPressable
+          onPress={close}
+          accessibilityRole="button"
+          accessibilityLabel={t('oratio.done')}
+        >
           <YStack
             paddingVertical="$md"
             borderRadius="$md"
