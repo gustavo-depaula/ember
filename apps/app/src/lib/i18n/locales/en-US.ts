@@ -258,6 +258,7 @@ export default {
       intentions: 'Intentions',
       gratitudes: 'Gratitudes',
     },
+    noneInFilter: 'Nothing here yet in this view.',
     dayOffered: 'Offered this day to the Lord',
     confession: 'Received the Sacrament of Penance',
     angelus: 'Angelus · {{slot}}',

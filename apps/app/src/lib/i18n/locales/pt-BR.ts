@@ -260,6 +260,7 @@ export default {
       intentions: 'Inten\u00e7\u00f5es',
       gratitudes: 'Gratid\u00f5es',
     },
+    noneInFilter: 'Nada por aqui neste filtro.',
     dayOffered: 'Ofereceu este dia ao Senhor',
     confession: 'Recebeu o Sacramento da Penit\u00eancia',
     angelus: 'Ang\u00e9lus \u00b7 {{slot}}',

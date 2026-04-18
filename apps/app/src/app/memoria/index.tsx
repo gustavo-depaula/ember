@@ -122,44 +122,65 @@ export default function MemoriaScreen() {
           </ScrollView>
         )}
 
-        {entries.length === 0 ? (
-          <YStack paddingVertical="$xl" alignItems="center" gap="$md">
-            <BookOpen size={32} color={theme.colorSecondary?.val} />
-            <Text
-              fontFamily="$body"
-              fontSize="$2"
-              color="$colorSecondary"
-              textAlign="center"
-              fontStyle="italic"
-              paddingHorizontal="$lg"
-            >
-              {t('memoria.emptyState')}
-            </Text>
-          </YStack>
-        ) : (
-          <ScrollView showsVerticalScrollIndicator={false}>
-            <YStack gap="$sm">
-              {filter === 'all' && onThisDay.length > 0 && (
-                <YStack
-                  gap="$xs"
-                  padding="$md"
-                  borderRadius="$md"
-                  borderLeftWidth={3}
-                  borderLeftColor="$accent"
-                  backgroundColor="$backgroundSurface"
+        {(() => {
+          if (entries.length === 0) {
+            return (
+              <YStack paddingVertical="$xl" alignItems="center" gap="$md">
+                <BookOpen size={32} color={theme.colorSecondary?.val} />
+                <Text
+                  fontFamily="$body"
+                  fontSize="$2"
+                  color="$colorSecondary"
+                  textAlign="center"
+                  fontStyle="italic"
+                  paddingHorizontal="$lg"
                 >
-                  <Text fontFamily="$heading" fontSize="$2" color="$accent" letterSpacing={1}>
-                    {t('memoria.onThisDay').toUpperCase()}
-                  </Text>
-                  {onThisDay.map((entry) => (
-                    <OnThisDayRow key={entry.id} entry={entry} locale={locale} now={now} />
-                  ))}
-                </YStack>
-              )}
-              {renderGroupedEntries(filtered, t, locale)}
-            </YStack>
-          </ScrollView>
-        )}
+                  {t('memoria.emptyState')}
+                </Text>
+              </YStack>
+            )
+          }
+          if (filtered.length === 0) {
+            return (
+              <YStack paddingVertical="$lg" alignItems="center">
+                <Text
+                  fontFamily="$body"
+                  fontSize="$2"
+                  color="$colorSecondary"
+                  textAlign="center"
+                  fontStyle="italic"
+                  paddingHorizontal="$lg"
+                >
+                  {t('memoria.noneInFilter')}
+                </Text>
+              </YStack>
+            )
+          }
+          return (
+            <ScrollView showsVerticalScrollIndicator={false}>
+              <YStack gap="$sm">
+                {filter === 'all' && onThisDay.length > 0 && (
+                  <YStack
+                    gap="$xs"
+                    padding="$md"
+                    borderRadius="$md"
+                    borderLeftWidth={3}
+                    borderLeftColor="$accent"
+                    backgroundColor="$backgroundSurface"
+                  >
+                    <Text fontFamily="$heading" fontSize="$2" color="$accent" letterSpacing={1}>
+                      {t('memoria.onThisDay').toUpperCase()}
+                    </Text>
+                    {onThisDay.map((entry) => (
+                      <OnThisDayRow key={entry.id} entry={entry} locale={locale} now={now} />
+                    ))}
+                  </YStack>
+                )}
+                {renderGroupedEntries(filtered, t, locale)}
+              </YStack>
+            </ScrollView>
+          )
+        })()}
       </YStack>
     </ScreenLayout>
   )
