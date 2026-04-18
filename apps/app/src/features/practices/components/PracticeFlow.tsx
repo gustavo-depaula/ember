@@ -386,7 +386,7 @@ export function PracticeFlow({
             <Text fontFamily="$display" fontSize="$5" color="$colorBurgundy">
               {practiceName}
             </Text>
-            <Text fontFamily="$script" fontSize="$3" color="$colorSecondary">
+            <Text fontFamily="$heading" fontSize="$2" color="$colorSecondary" letterSpacing={1}>
               {formattedDate}
             </Text>
           </YStack>

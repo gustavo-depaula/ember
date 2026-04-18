@@ -123,6 +123,8 @@ Prefer (a) — stronger information hierarchy, no auto-scroll surprise.
 
 **Fix.** Detect RSV heading pattern (all-caps or known heading format) and promote to a separate bold/accent line above the verse. Alternatively, strip translator headings from the payload so only scriptural text remains.
 
+**Status.** Investigated, deferred. Confirmed this is an upstream Bolls.life data issue — the API inlines section headings into verse 1 text with no structural delimiter for RSV2CE/RSV (e.g. Gen 1:1 = "Six Days of Creation and the Sabbath In the beginning…"; Ps 1:1 = "BOOK I The Two Ways Blessed is the man…"; Jn 1:1 = "The Word Became Flesh In the beginning was the Word…"). NRSVCE returns clean text ("In the beginning when God created…"). No `header`/`h` field is returned by any Bolls endpoint. Any heuristic split (title-case prefix, known section-title dictionary) would be fragile across translations, books, and Psalms with dual "BOOK N + title" markers. Correct fix is either (a) switch default to NRSVCE, (b) ship a curated title-stripping table keyed on (translation, book, chapter), or (c) mirror the translations to Hearth with cleaned text. Tracked separately — not in this polish pass.
+
 ---
 
 ### F11 · Default text alignment is justified, producing rivers on narrow columns — **P2**
@@ -192,6 +194,8 @@ Prefer (a) — stronger information hierarchy, no auto-scroll surprise.
 **Context.** This is a one-off accent on a prayer-opener screen (not a repeating body or whisper), so it may be intentional. Flagging only because it runs close to the spirit of the rule.
 
 **Fix (if needed).** Drop to `$heading` small-caps or keep as-is — at author's discretion.
+
+**Status.** Fixed — switched the prayer-opener date from `$script` to `$heading` with light letterSpacing, matching the retired-script policy and preserving the formal, non-body register.
 
 ---
 
