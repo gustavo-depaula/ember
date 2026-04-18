@@ -231,6 +231,7 @@ export default {
     emptyState:
       'No intentions yet. Lift one up — a person, a need, a thanksgiving — and record how God moves.',
     markAnswered: 'Answered',
+    markUnanswered: 'Mark unanswered',
     show: 'Show',
     hide: 'Hide',
     confirmDeleteTitle: 'Remove this intention?',

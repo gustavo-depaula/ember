@@ -89,7 +89,12 @@ export default function GratiasScreen() {
             }}
           />
           <XStack justifyContent="flex-end">
-            <AnimatedPressable onPress={submit} disabled={!draft.trim()}>
+            <AnimatedPressable
+              onPress={submit}
+              disabled={!draft.trim()}
+              accessibilityRole="button"
+              accessibilityLabel={t('gratias.add')}
+            >
               <XStack
                 alignItems="center"
                 gap="$xs"
@@ -181,7 +186,11 @@ function GratitudeRow({
         <Text fontFamily="$body" fontSize="$1" color="$colorSecondary" fontStyle="italic">
           {timestampAgo}
         </Text>
-        <AnimatedPressable onPress={onDelete}>
+        <AnimatedPressable
+          onPress={onDelete}
+          accessibilityRole="button"
+          accessibilityLabel={t('common.remove')}
+        >
           <XStack alignItems="center" gap="$xs" paddingVertical="$xs" paddingHorizontal="$sm">
             <Trash2 size={14} color={theme.colorSecondary?.val} />
           </XStack>

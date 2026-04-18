@@ -106,7 +106,12 @@ export default function IntentionsScreen() {
             }}
           />
           <XStack justifyContent="flex-end">
-            <AnimatedPressable onPress={submit} disabled={!draft.trim()}>
+            <AnimatedPressable
+              onPress={submit}
+              disabled={!draft.trim()}
+              accessibilityRole="button"
+              accessibilityLabel={t('intentions.add')}
+            >
               <XStack
                 alignItems="center"
                 gap="$xs"
@@ -179,7 +184,12 @@ export default function IntentionsScreen() {
             {answered.length > 0 && (
               <>
                 <SectionDivider />
-                <Pressable onPress={() => setShowAnswered((v) => !v)}>
+                <Pressable
+                  onPress={() => setShowAnswered((v) => !v)}
+                  accessibilityRole="button"
+                  accessibilityLabel={showAnswered ? t('intentions.hide') : t('intentions.show')}
+                  accessibilityState={{ expanded: showAnswered }}
+                >
                   <XStack alignItems="center" gap="$sm">
                     <Text fontFamily="$heading" fontSize="$2" color="$accent" letterSpacing={1}>
                       {t('intentions.answeredHeading', {
@@ -268,12 +278,22 @@ function IntentionRow({
           {timestampAgo}
         </Text>
         <XStack gap="$sm">
-          <AnimatedPressable onPress={onDelete}>
+          <AnimatedPressable
+            onPress={onDelete}
+            accessibilityRole="button"
+            accessibilityLabel={t('common.remove')}
+          >
             <XStack alignItems="center" gap="$xs" paddingVertical="$xs" paddingHorizontal="$sm">
               <Trash2 size={14} color={theme.colorSecondary?.val} />
             </XStack>
           </AnimatedPressable>
-          <AnimatedPressable onPress={onPrimary}>
+          <AnimatedPressable
+            onPress={onPrimary}
+            accessibilityRole="button"
+            accessibilityLabel={
+              isOpen ? t('intentions.markAnswered') : t('intentions.markUnanswered')
+            }
+          >
             <XStack
               alignItems="center"
               gap="$xs"

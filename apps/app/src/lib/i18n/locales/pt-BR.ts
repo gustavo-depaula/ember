@@ -233,6 +233,7 @@ export default {
     emptyState:
       'Ainda sem inten\u00e7\u00f5es. Eleve uma \u2014 uma pessoa, uma necessidade, uma a\u00e7\u00e3o de gra\u00e7as \u2014 e registre como Deus age.',
     markAnswered: 'Atendida',
+    markUnanswered: 'Marcar como n\u00e3o atendida',
     show: 'Mostrar',
     hide: 'Esconder',
     confirmDeleteTitle: 'Remover esta inten\u00e7\u00e3o?',

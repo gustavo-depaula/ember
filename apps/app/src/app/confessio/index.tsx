@@ -94,7 +94,14 @@ export default function ConfessioScreen() {
               {sinceLabel}
             </Text>
           )}
-          <AnimatedPressable onPress={onRecord} disabled={recordedToday}>
+          <AnimatedPressable
+            onPress={onRecord}
+            disabled={recordedToday}
+            accessibilityRole="button"
+            accessibilityLabel={
+              recordedToday ? t('confessio.recordedToday') : t('confessio.recordToday')
+            }
+          >
             <XStack
               alignItems="center"
               gap="$sm"
@@ -160,7 +167,11 @@ export default function ConfessioScreen() {
                   <Text fontFamily="$body" fontSize="$3" color="$color" flex={1}>
                     {formatLocalized(parseISO(c.date), 'PPP')}
                   </Text>
-                  <AnimatedPressable onPress={() => onDelete(c)}>
+                  <AnimatedPressable
+                    onPress={() => onDelete(c)}
+                    accessibilityRole="button"
+                    accessibilityLabel={t('common.remove')}
+                  >
                     <Trash2 size={14} color={theme.colorSecondary?.val} />
                   </AnimatedPressable>
                 </XStack>
