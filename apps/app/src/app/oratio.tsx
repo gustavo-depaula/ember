@@ -6,8 +6,7 @@ import { Pressable } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { Text, XStack, YStack } from 'tamagui'
 
-import { AnimatedPressable } from '@/components'
-import { CandleFlame } from '@/components/CandleFlame'
+import { AnimatedPressable, CandleFlame } from '@/components'
 import { lightTap, successBuzz } from '@/lib/haptics'
 
 type Phase = 'setup' | 'running' | 'done'
@@ -53,7 +52,7 @@ export default function OratioScreen() {
         return
       }
       setRemaining(secondsLeft)
-    }, 250)
+    }, 1000)
   }
 
   function amen() {
@@ -86,12 +85,7 @@ export default function OratioScreen() {
         >
           <X size={22} color="rgba(245,240,224,0.5)" />
         </Pressable>
-        <Text
-          fontFamily="$display"
-          fontSize={'$5' as any}
-          color="rgba(245,240,224,0.85)"
-          letterSpacing={1}
-        >
+        <Text fontFamily="$display" fontSize="$5" color="rgba(245,240,224,0.85)" letterSpacing={1}>
           {t('oratio.title')}
         </Text>
         <YStack width={22} />

@@ -1,7 +1,7 @@
 import { format, subWeeks } from 'date-fns'
 import { Image } from 'expo-image'
 import { useRouter } from 'expo-router'
-import { AlertTriangle } from 'lucide-react-native'
+import { AlertTriangle, ChevronRight } from 'lucide-react-native'
 import { useCallback, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Dimensions, Pressable } from 'react-native'
@@ -9,6 +9,7 @@ import { Text, useTheme, useThemeName, View, XStack, YStack } from 'tamagui'
 
 import {
   AnimatedPressable,
+  CandleFlame,
   FadeInView,
   GreenWall,
   ObligationBadges,
@@ -16,7 +17,6 @@ import {
   ScreenLayout,
   SectionDivider,
 } from '@/components'
-import { CandleFlame } from '@/components/CandleFlame'
 import { getManifest } from '@/content/registry'
 import { useEventStore } from '@/db/events'
 import { useYearCalendar } from '@/features/calendar'
@@ -224,9 +224,7 @@ export default function HomeScreen() {
                   {t('oratio.homeTagline')}
                 </Text>
               </YStack>
-              <Text fontFamily="$body" fontSize="$2" color="$accent">
-                ›
-              </Text>
+              <ChevronRight size={16} color={theme.accent?.val} />
             </XStack>
           </AnimatedPressable>
         </FadeInView>
