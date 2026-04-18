@@ -219,6 +219,9 @@ export default function CatalogDetailScreen() {
                       })
                     }
                     disabled={isActive}
+                    accessibilityRole="radio"
+                    accessibilityLabel={member.label}
+                    accessibilityState={{ selected: isActive }}
                   >
                     <XStack
                       paddingHorizontal="$sm"
@@ -254,6 +257,8 @@ export default function CatalogDetailScreen() {
                       params: { manifestId: manifest.id },
                     })
                   }
+                  accessibilityRole="link"
+                  accessibilityLabel={t('program.complete')}
                 >
                   <YStack
                     backgroundColor="$backgroundSurface"
@@ -276,6 +281,8 @@ export default function CatalogDetailScreen() {
                         practiceId: manifest.id,
                       })
                     }
+                    accessibilityRole="button"
+                    accessibilityLabel={t('program.restart')}
                   >
                     <YStack
                       backgroundColor="$accent"
@@ -298,6 +305,15 @@ export default function CatalogDetailScreen() {
                     params: { manifestId: manifest.id },
                   })
                 }
+                accessibilityRole="link"
+                accessibilityLabel={
+                  programProgress
+                    ? t('program.dayOf', {
+                        day: programProgress.programDay + 1,
+                        total: programProgress.totalDays,
+                      })
+                    : t('catalog.alreadyInPlan')
+                }
               >
                 <YStack
                   backgroundColor="$accent"
@@ -318,7 +334,11 @@ export default function CatalogDetailScreen() {
               </AnimatedPressable>
             )
           ) : (
-            <AnimatedPressable onPress={handleBeginProgram}>
+            <AnimatedPressable
+              onPress={handleBeginProgram}
+              accessibilityRole="button"
+              accessibilityLabel={t('program.begin')}
+            >
               <YStack
                 backgroundColor="$accent"
                 borderRadius="$md"
@@ -332,7 +352,11 @@ export default function CatalogDetailScreen() {
             </AnimatedPressable>
           )
         ) : isInPlan ? (
-          <Pressable onPress={() => router.push(`/plan/${planPracticeId}`)}>
+          <Pressable
+            onPress={() => router.push(`/plan/${planPracticeId}`)}
+            accessibilityRole="link"
+            accessibilityLabel={t('catalog.alreadyInPlan')}
+          >
             <XStack
               backgroundColor="$backgroundSurface"
               borderRadius="$md"
@@ -352,7 +376,11 @@ export default function CatalogDetailScreen() {
             </XStack>
           </Pressable>
         ) : (
-          <AnimatedPressable onPress={handleAddToPlan}>
+          <AnimatedPressable
+            onPress={handleAddToPlan}
+            accessibilityRole="button"
+            accessibilityLabel={t('catalog.addToPlan')}
+          >
             <YStack
               backgroundColor="$backgroundSurface"
               borderRadius="$md"
@@ -390,6 +418,8 @@ export default function CatalogDetailScreen() {
               backgroundColor: 'rgba(0,0,0,0.4)',
             }}
             onPress={() => setShowEditor(false)}
+            accessibilityRole="button"
+            accessibilityLabel={t('a11y.closeModal')}
           />
           <PracticeEditSheet
             manifest={manifest}
