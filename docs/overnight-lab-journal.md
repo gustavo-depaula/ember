@@ -181,6 +181,38 @@ Kept to its own commit so it can be reverted in isolation if the pulse feels lik
 
 ---
 
+## Iteration 11 — Memoria (feed of prayer life)
+
+A day-grouped chronicle at `/memoria`: every completion, every intention offered, every intention answered — collapsed into a single reverse-chronological feed with day headers (Today, Yesterday, Friday Apr 10…). Home row appears the moment the feed has anything in it.
+
+The implementation is intentionally store-derived rather than SQL-queried. The event store already projects completions (keyed Map) and intentions (keyed Map); a `useMemo` merges both streams into a union-typed entry list sorted by timestamp. This means the feed is *reactive by default* — add an intention, it appears instantly. No TanStack Query, no SQLite round-trip. The cost of merging 200 rows in memory is negligible; the cost of adding a query layer would've been a second source of truth.
+
+A single lesson: when the projection is already comprehensive, don't build a query layer for it. Just select.
+
+Chose the name "Memoria" over "Journal" mid-build. The aesthetic now has four Latin one-word features (Oratio, Silentium, Horae, Memoria) and a pattern emerging: these are all *contemplative* surfaces — spaces for attention rather than action. Saved as a memory so the next feature doesn't break the pattern accidentally.
+
+---
+
+## Iteration 12 — Dies Domini (weekly devotions)
+
+An ancient Catholic practice: each day of the week is dedicated to a mystery. Sunday → Resurrection. Monday → Holy Souls. Tuesday → Holy Angels. Wednesday → St. Joseph. Thursday → Eucharist. Friday → Passion/Sacred Heart. Saturday → Our Lady.
+
+Shipped as two surfaces: a one-line *ambient whisper* on the home screen ("Today, the Most Holy Eucharist.") and a full `/dies-domini` screen with all seven days, today highlighted, a short paragraph of tradition for each. Zero state, zero events, pure content.
+
+This is the smallest "feature" I've shipped tonight by code, but the highest content density — fourteen paragraphs of doctrinal summary × two languages. The actual code is maybe 60 lines; the i18n payload is the feature. It's a reminder that in a content-centric app, the leverage is in the writing, not the scaffolding.
+
+---
+
+## Iteration 13 — Deo Gratias (gratitude journal)
+
+A third event-sourced surface, parallel to Intentions. New event types (`GratitudeRecorded`, `GratitudeRemoved`), new Map on the store, new repo, new hooks, new screen, new home row — all following the exact pattern Intentions established. Also extended Memoria: gratitudes now appear in the chronicle alongside completions and answered intentions, each with its own icon (a flame).
+
+Theological shape: Ignatian examen teaches that noticing graces is itself a spiritual practice — "Deo gratias" means "thanks to God." The feature asks the user to name one grace received. It's the inverse of Intentions: intentions look forward, gratitudes look backward. Together they form a petition-thanksgiving dialectic.
+
+The event store paid dividends *again*. This entire feature — from zero code to shipped — was: one new event type union variant, one projection case, one three-line repo function, one hooks file, one screen. No migrations. No client-server sync. The store's uniformity made this feel like instantiating a template. Third time I've noticed the same compounding. Marking it: **the event store is not a dev tool — it's a product velocity multiplier.**
+
+---
+
 ## Session wrap
 
 Shipped tonight, in order:
@@ -197,6 +229,9 @@ Shipped tonight, in order:
 10. **Horae** — canonical hour whisper below the liturgical header
 11. Journal catchup (6–9)
 12. **Breathing heart** — intentions icon pulses while petitions are open
+13. **Memoria** — day-grouped feed of completions, intentions, gratitudes
+14. **Dies Domini** — weekly devotions whisper + full seven-day screen
+15. **Deo Gratias** — event-sourced gratitude journal, integrated into Memoria
 
 Bold = new visible features, not bug fixes.
 

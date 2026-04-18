@@ -1,6 +1,6 @@
 import { format, isSameDay, isToday, isYesterday } from 'date-fns'
 import { useRouter } from 'expo-router'
-import { Check, ChevronLeft, Heart, Sparkles } from 'lucide-react-native'
+import { Check, ChevronLeft, Flame, Heart, Sparkles } from 'lucide-react-native'
 import { useTranslation } from 'react-i18next'
 import { Pressable, ScrollView } from 'react-native'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
@@ -133,6 +133,7 @@ function EntryRow({
 function getEntryIcon(kind: MemoriaEntry['kind'], color: string): React.ReactNode {
   if (kind === 'completion') return <Check size={14} color={color} />
   if (kind === 'intention-added') return <Heart size={14} color={color} />
+  if (kind === 'gratitude') return <Flame size={14} color={color} />
   return <Sparkles size={14} color={color} fill={color} />
 }
 
@@ -144,6 +145,9 @@ function getEntryBody(entry: MemoriaEntry, t: ReturnType<typeof useTranslation>[
   }
   if (entry.kind === 'intention-added') {
     return t('memoria.intentionOffered', { text: entry.intention.text })
+  }
+  if (entry.kind === 'gratitude') {
+    return t('memoria.gratitude', { text: entry.gratitude.text })
   }
   return t('memoria.intentionAnswered', { text: entry.intention.text })
 }

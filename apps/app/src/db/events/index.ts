@@ -1,4 +1,4 @@
-export type { EventStoreState, SlotState } from './state'
+export type { EventStoreState, GratitudeState, IntentionState, SlotState } from './state'
 export { useEventStore } from './state'
 export { createEventsTable, emit, emitBatch, replayAll } from './store'
 export type { AppEvent, CompletionEvent, CursorEvent, PracticeEvent, StoredEvent } from './types'

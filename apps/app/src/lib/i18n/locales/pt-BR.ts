@@ -248,6 +248,20 @@ export default {
     completion: 'Rezou {{name}}',
     intentionOffered: 'Ofereceu: \u201c{{text}}\u201d',
     intentionAnswered: 'Atendida: \u201c{{text}}\u201d',
+    gratitude: 'Deo gratias: \u201c{{text}}\u201d',
+  },
+
+  gratias: {
+    title: 'Deo Gratias',
+    subtitle: 'Um exame inaciano, uma gra\u00e7a de cada vez.',
+    placeholder: 'Nomeie uma gra\u00e7a recebida hoje\u2026',
+    add: 'Registrar',
+    homeTagline: 'Conte as gra\u00e7as deste dia',
+    homeCount_one: '{{count}} gra\u00e7a registrada',
+    homeCount_other: '{{count}} gra\u00e7as registradas',
+    emptyState:
+      'Cada dia \u00e9 cheio de pequenas misericórdias. Registre uma agora \u2014 uma pessoa, uma provid\u00eancia, uma beleza \u2014 e aprenda a enxerg\u00e1-las.',
+    confirmDeleteTitle: 'Remover este agradecimento?',
   },
 
   diesDomini: {

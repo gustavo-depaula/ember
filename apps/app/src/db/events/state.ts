@@ -29,6 +29,12 @@ export type IntentionState = {
   notes: string | null
 }
 
+export type GratitudeState = {
+  id: number
+  text: string
+  recorded_at: number
+}
+
 export type EventStoreState = {
   // Practices
   practices: Map<string, UserPractice>
@@ -45,9 +51,13 @@ export type EventStoreState = {
   // Intentions
   intentions: Map<number, IntentionState>
 
+  // Gratitudes
+  gratitudes: Map<number, GratitudeState>
+
   // ID counters (for generating IDs during replay/emit)
   nextCompletionId: number
   nextIntentionId: number
+  nextGratitudeId: number
 
   // Actions
   apply: (event: AppEvent) => void
@@ -64,8 +74,10 @@ function emptyState() {
     completionsByPractice: new Map<string, Set<number>>(),
     cursors: new Map<string, Cursor>(),
     intentions: new Map<number, IntentionState>(),
+    gratitudes: new Map<number, GratitudeState>(),
     nextCompletionId: 1,
     nextIntentionId: 1,
+    nextGratitudeId: 1,
   }
 }
 

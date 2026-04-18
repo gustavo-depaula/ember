@@ -175,9 +175,30 @@ export type IntentionEvent =
   | IntentionAnswered
   | IntentionRemoved
 
+// --- Gratitude events ---
+
+type GratitudeRecorded = {
+  type: 'GratitudeRecorded'
+  gratitudeId: number
+  text: string
+  recordedAt: number
+}
+
+type GratitudeRemoved = {
+  type: 'GratitudeRemoved'
+  gratitudeId: number
+}
+
+export type GratitudeEvent = GratitudeRecorded | GratitudeRemoved
+
 // --- Union ---
 
-export type AppEvent = PracticeEvent | CompletionEvent | CursorEvent | IntentionEvent
+export type AppEvent =
+  | PracticeEvent
+  | CompletionEvent
+  | CursorEvent
+  | IntentionEvent
+  | GratitudeEvent
 
 // --- Stored row shape ---
 

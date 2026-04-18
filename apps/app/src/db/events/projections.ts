@@ -232,6 +232,25 @@ export function applyEvent(draft: WritableDraft<EventStoreState>, event: AppEven
       draft.intentions.delete(event.intentionId)
       break
     }
+
+    // --- Gratitude events ---
+
+    case 'GratitudeRecorded': {
+      draft.gratitudes.set(event.gratitudeId, {
+        id: event.gratitudeId,
+        text: event.text,
+        recorded_at: event.recordedAt,
+      })
+      if (event.gratitudeId >= draft.nextGratitudeId) {
+        draft.nextGratitudeId = event.gratitudeId + 1
+      }
+      break
+    }
+
+    case 'GratitudeRemoved': {
+      draft.gratitudes.delete(event.gratitudeId)
+      break
+    }
   }
 }
 

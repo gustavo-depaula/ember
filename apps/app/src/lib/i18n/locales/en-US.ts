@@ -246,6 +246,20 @@ export default {
     completion: 'Prayed {{name}}',
     intentionOffered: 'Offered: “{{text}}”',
     intentionAnswered: 'Answered: “{{text}}”',
+    gratitude: 'Deo gratias: “{{text}}”',
+  },
+
+  gratias: {
+    title: 'Deo Gratias',
+    subtitle: 'A Jesuit examen, one graced moment at a time.',
+    placeholder: 'Name a grace received today…',
+    add: 'Record',
+    homeTagline: 'Count the graces of this day',
+    homeCount_one: '{{count}} grace recorded',
+    homeCount_other: '{{count}} graces recorded',
+    emptyState:
+      'Every day is full of small mercies. Record one now — a person, a providence, a beauty — and learn to see.',
+    confirmDeleteTitle: 'Remove this gratitude?',
   },
 
   diesDomini: {

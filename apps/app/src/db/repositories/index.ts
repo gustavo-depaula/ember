@@ -10,6 +10,7 @@ export {
   setCursor,
   setIndex,
 } from './cursors'
+export { addGratitude, removeGratitude } from './gratias'
 export {
   addIntention,
   markIntentionAnswered,

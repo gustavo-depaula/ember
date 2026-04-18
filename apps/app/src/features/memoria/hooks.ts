@@ -1,17 +1,19 @@
 import { useMemo } from 'react'
 
 import { useEventStore } from '@/db/events'
-import type { IntentionState } from '@/db/events/state'
+import type { GratitudeState, IntentionState } from '@/db/events/state'
 import type { Completion } from '@/db/schema'
 
 export type MemoriaEntry =
   | { kind: 'completion'; id: string; timestamp: number; completion: Completion }
   | { kind: 'intention-added'; id: string; timestamp: number; intention: IntentionState }
   | { kind: 'intention-answered'; id: string; timestamp: number; intention: IntentionState }
+  | { kind: 'gratitude'; id: string; timestamp: number; gratitude: GratitudeState }
 
 export function useMemoriaEntries(limit = 200): MemoriaEntry[] {
   const completions = useEventStore((s) => s.completions)
   const intentions = useEventStore((s) => s.intentions)
+  const gratitudes = useEventStore((s) => s.gratitudes)
 
   return useMemo(() => {
     const entries: MemoriaEntry[] = []
@@ -39,13 +41,23 @@ export function useMemoriaEntries(limit = 200): MemoriaEntry[] {
         })
       }
     }
+    for (const g of gratitudes.values()) {
+      entries.push({
+        kind: 'gratitude',
+        id: `g:${g.id}`,
+        timestamp: g.recorded_at,
+        gratitude: g,
+      })
+    }
     entries.sort((a, b) => b.timestamp - a.timestamp)
     return entries.slice(0, limit)
-  }, [completions, intentions, limit])
+  }, [completions, intentions, gratitudes, limit])
 }
 
 export function useMemoriaEntriesCount(): number {
-  return useEventStore((s) => s.completions.size + s.intentions.size + countAnswered(s.intentions))
+  return useEventStore(
+    (s) => s.completions.size + s.intentions.size + countAnswered(s.intentions) + s.gratitudes.size,
+  )
 }
 
 function countAnswered(intentions: Map<number, IntentionState>): number {
