@@ -1260,6 +1260,12 @@ export default {
     openTableOfContents: 'Open table of contents',
     selectSection: 'Select section',
     readingSettings: 'Reading settings',
+    selectTranslation: 'Select Bible translation',
+    prevChapter: 'Previous chapter',
+    nextChapter: 'Next chapter',
+    restartPractice: 'Restart {{name}}',
+    viewImage: 'View image',
+    viewSaintCard: 'View saint card',
   },
   languages: {
     'en-US': 'English',

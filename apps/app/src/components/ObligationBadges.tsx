@@ -87,6 +87,7 @@ export function ObligationBadges({
           setModalVisible(true)
         }}
         accessibilityRole="button"
+        accessibilityLabel={badges.map((b) => b.label).join(', ')}
         accessibilityHint={t('obligations.tapToLearnMore')}
       >
         <YStack

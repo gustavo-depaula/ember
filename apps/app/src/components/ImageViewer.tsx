@@ -1,5 +1,6 @@
 import { Image } from 'expo-image'
 import { useCallback, useState } from 'react'
+import { useTranslation } from 'react-i18next'
 import { Modal, Pressable, StyleSheet, useWindowDimensions } from 'react-native'
 import { GestureHandlerRootView } from 'react-native-gesture-handler'
 import Animated, { runOnJS, useAnimatedStyle, useSharedValue } from 'react-native-reanimated'
@@ -25,6 +26,7 @@ export function ImageViewer({
   initialIndex?: number
   onClose: () => void
 }) {
+  const { t } = useTranslation()
   const { width: screenWidth, height: screenHeight } = useWindowDimensions()
   const insets = useSafeAreaInsets()
   const [activeIndex, setActiveIndex] = useState(initialIndex)
@@ -66,6 +68,8 @@ export function ImageViewer({
               onPress={onClose}
               style={[styles.closeButton, { top: insets.top + 12 }]}
               hitSlop={20}
+              accessibilityRole="button"
+              accessibilityLabel={t('a11y.closeModal')}
             >
               <Svg width={24} height={24} viewBox="0 0 24 24">
                 <Path

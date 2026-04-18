@@ -28,6 +28,8 @@ export function RestartNeededList({ ids }: { ids: Set<string> }) {
                 params: { manifestId: id },
               })
             }
+            accessibilityRole="button"
+            accessibilityLabel={t('a11y.restartPractice', { name: localizeContent(m.name) })}
           >
             <XStack
               backgroundColor="$backgroundSurface"

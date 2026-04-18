@@ -26,7 +26,11 @@ export function ChapterNav({
   return (
     <XStack justifyContent="space-between" alignItems="center" paddingVertical="$md">
       {prev ? (
-        <Pressable onPress={() => onNavigate(prev.bookId, prev.chapter)}>
+        <Pressable
+          onPress={() => onNavigate(prev.bookId, prev.chapter)}
+          accessibilityRole="button"
+          accessibilityLabel={t('a11y.prevChapter')}
+        >
           <XStack alignItems="center" gap="$xs">
             <ChevronLeft size={16} color={theme.accent.val} />
             <Text fontFamily="$body" fontSize="$2" color="$accent">
@@ -41,7 +45,11 @@ export function ChapterNav({
       )}
 
       {next ? (
-        <Pressable onPress={() => onNavigate(next.bookId, next.chapter)}>
+        <Pressable
+          onPress={() => onNavigate(next.bookId, next.chapter)}
+          accessibilityRole="button"
+          accessibilityLabel={t('a11y.nextChapter')}
+        >
           <XStack alignItems="center" gap="$xs">
             <Text fontFamily="$body" fontSize="$2" color="$accent">
               {next.bookId !== bookId

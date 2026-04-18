@@ -74,6 +74,8 @@ export function SaintCardViewer({
           onPress={onClose}
           style={[styles.closeButton, { top: insets.top + 12 }]}
           hitSlop={20}
+          accessibilityRole="button"
+          accessibilityLabel={t('a11y.closeModal')}
         >
           <Svg width={24} height={24} viewBox="0 0 24 24">
             <Path d="M18 6L6 18M6 6l12 12" stroke="#F5F0E0" strokeWidth={2} strokeLinecap="round" />

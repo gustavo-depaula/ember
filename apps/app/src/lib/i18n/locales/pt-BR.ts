@@ -1264,6 +1264,12 @@ export default {
     openTableOfContents: 'Abrir sumário',
     selectSection: 'Selecionar seção',
     readingSettings: 'Configurações de leitura',
+    selectTranslation: 'Selecionar tradução da Bíblia',
+    prevChapter: 'Capítulo anterior',
+    nextChapter: 'Próximo capítulo',
+    restartPractice: 'Reiniciar {{name}}',
+    viewImage: 'Ver imagem',
+    viewSaintCard: 'Ver santinho',
   },
   languages: {
     'en-US': 'Inglês',
