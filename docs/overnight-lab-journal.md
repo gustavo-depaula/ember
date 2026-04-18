@@ -173,6 +173,41 @@ Learned: contemplative features compose. Oratio (candle) + Silentium (threshold 
 
 ---
 
+## Iteration 10 — Breathing heart (commit 5a26a8e)
+
+A single small polish: the Intentions home icon (the Heart) now opacity-pulses on a ~2.2s sine when any intention is open, and settles to a dim static state when all are answered. The app now gives a living signal that petitions are being carried.
+
+Kept to its own commit so it can be reverted in isolation if the pulse feels like noise. The cycle is slow enough (sine, not linear) to read as breathing rather than blinking — an important distinction between "attention-demanding notification" and "ambient life." Filled when active, outline-only when idle, so the visual weight also tracks state.
+
+---
+
+## Session wrap
+
+Shipped tonight, in order:
+
+1. Fix #130 — text selection works again (no long-press language hijack)
+2. Missing i18n keys — 3 practices, unblocks parity test
+3. Fix #152 — archive/re-add respects the invariant correctly
+4. Fix #142 — prose bold/italic fonts resolve via config instead of hardcoded strings
+5. **Oratio** — full-screen mental prayer timer, animated candle
+6. Oratio polish — barrel imports, cleaner tick logic
+7. **Intentions** — event-sourced prayer journal, home row with open count
+8. Simplify pass on Intentions — collapsed row variants, primitive count selector
+9. **Silentium** — *Oremus* threshold beat before practices (replaced the spinner)
+10. **Horae** — canonical hour whisper below the liturgical header
+11. Journal catchup (6–9)
+12. **Breathing heart** — intentions icon pulses while petitions are open
+
+Bold = new visible features, not bug fixes.
+
+**Meta-learnings from the night:**
+
+- **Parallel sub-agents earned their keep.** The simplify + brainstorm pair in the same turn returned in under 2 minutes combined. Orchestrator's job was framing the questions well and acting on the findings, not doing the searches.
+- **The event store compounded.** Once you've got a schema-less JSON append log + projections, adding a new feature is `type + projection + repo + hook + screen`. No migrations, no DB plumbing. Intentions went from "no code" to "shipped" in one session.
+- **Loading moments are gifts.** Every spinner is a chance to set tone. Silentium proved that turning the blank-screen beat into an intentional word changes how the app *feels* without changing what it does. Same could be done at the Bible reader, the catechism, the divine office.
+- **Single-Latin-word design.** Three features shipped with the same visual register (dim, centered, script font, one word). The app's contemplative voice is becoming load-bearing design language. Hold it lightly — overuse will cheapen it.
+- **Tiny != unimportant.** The breathing heart is 40 lines. Horae is 40 lines. Neither has data backing them, but both shift the emotional register of the app. Small animations + ambient cues are higher leverage than I instinctively weighted them.
+
 Ground rules for the night:
 - Keep each change scoped and committable on its own.
 - Run `pnpm test` before each commit when I touch code paths with tests.
