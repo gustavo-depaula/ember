@@ -155,6 +155,8 @@ Prefer (a) — stronger information hierarchy, no auto-scroll surprise.
 
 **Fix.** Convert to overlay: `position: absolute; left: 0; top: 0; bottom: 0` with translucent scrim behind, tap-outside-to-close, and proper internal padding.
 
+**Status.** Deferred. The current implementation (`BibleReader.tsx`/`CatechismReader.tsx`) is a deliberate 3-panel horizontal strip driven by Reanimated shared values and a `Gesture.Pan()` handler — converting it to a floating overlay would collapse the gesture model the user explicitly chose for the reader. Revisit as a dedicated responsive-layout task with web-specific overlay variant rather than as a QA fix.
+
 ---
 
 ### F13 · Catechism stuck on "Loading..." — **P0 (blocker)**
