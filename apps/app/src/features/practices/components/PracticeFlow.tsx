@@ -8,7 +8,7 @@ import { Home } from 'lucide-react-native'
 import { useCallback, useEffect, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
-import { Text, useTheme, YStack } from 'tamagui'
+import { Text, useTheme, XStack, YStack } from 'tamagui'
 import {
   AnimatedPressable,
   BibleReadingBlock,
@@ -288,6 +288,24 @@ export function PracticeFlow({
     return map
   }, [cccKeys, cccQueries])
 
+  const bibleErrors = useMemo(() => {
+    const map = new Map<string, () => void>()
+    for (let i = 0; i < bibleKeys.length; i++) {
+      const q = bibleQueries[i]
+      if (q?.isError) map.set(bibleKeyStr(bibleKeys[i]), () => q.refetch())
+    }
+    return map
+  }, [bibleKeys, bibleQueries])
+
+  const cccErrors = useMemo(() => {
+    const map = new Map<string, () => void>()
+    for (let i = 0; i < cccKeys.length; i++) {
+      const q = cccQueries[i]
+      if (q?.isError) map.set(cccKeyStr(cccKeys[i]), () => q.refetch())
+    }
+    return map
+  }, [cccKeys, cccQueries])
+
   const bibleLoading = bibleQueries.some((r) => r.isLoading)
   const cccLoading = cccQueries.some((r) => r.isLoading)
 
@@ -403,6 +421,8 @@ export function PracticeFlow({
                 psalmData={psalmResult.data}
                 bibleMap={bibleMap}
                 cccMap={cccMap}
+                bibleErrors={bibleErrors}
+                cccErrors={cccErrors}
                 officeTheme={manifest.theme === 'office'}
                 onSelectOverride={handleSelectOverride}
               />
@@ -459,6 +479,8 @@ function PracticeSectionBlock({
   psalmData,
   bibleMap,
   cccMap,
+  bibleErrors,
+  cccErrors,
   officeTheme = false,
   onSelectOverride,
 }: {
@@ -466,6 +488,8 @@ function PracticeSectionBlock({
   psalmData: PsalmData[]
   bibleMap: Map<string, { verses: Verse[]; fallback?: boolean }>
   cccMap: Map<string, Array<{ number: number; text: string; section: string }>>
+  bibleErrors: Map<string, () => void>
+  cccErrors: Map<string, () => void>
   officeTheme?: boolean
   onSelectOverride: (overrideKey: string, nextId: string) => void
 }) {
@@ -476,21 +500,24 @@ function PracticeSectionBlock({
 
     case 'reading': {
       const ref = section.reference
-      const bibleData = ref.type === 'bible' ? bibleMap.get(bibleKeyStr(ref)) : undefined
-      const block =
-        ref.type === 'bible' ? (
+      if (ref.type === 'bible') {
+        const key = bibleKeyStr(ref)
+        const bibleData = bibleMap.get(key)
+        const retry = bibleErrors.get(key)
+        if (!bibleData && retry) return <ReadingErrorState onRetry={retry} />
+        return (
           <BibleReadingBlock
             reference={ref}
             verses={bibleData?.verses}
             fallback={bibleData?.fallback}
           />
-        ) : (
-          <CccReadingBlock
-            reference={ref}
-            paragraphs={cccMap.get(cccKeyStr({ start: ref.startParagraph, count: ref.count }))}
-          />
         )
-      return block
+      }
+      const key = cccKeyStr({ start: ref.startParagraph, count: ref.count })
+      const cccData = cccMap.get(key)
+      const retry = cccErrors.get(key)
+      if (!cccData && retry) return <ReadingErrorState onRetry={retry} />
+      return <CccReadingBlock reference={ref} paragraphs={cccData} />
     }
 
     case 'proper':
@@ -511,6 +538,8 @@ function PracticeSectionBlock({
               psalmData={psalmData}
               bibleMap={bibleMap}
               cccMap={cccMap}
+              bibleErrors={bibleErrors}
+              cccErrors={cccErrors}
               officeTheme={officeTheme}
               onSelectOverride={onSelectOverride}
             />
@@ -519,4 +548,32 @@ function PracticeSectionBlock({
         />
       )
   }
+}
+
+function ReadingErrorState({ onRetry }: { onRetry: () => void }) {
+  const { t } = useTranslation()
+  return (
+    <XStack
+      backgroundColor="$backgroundSurface"
+      borderRadius="$md"
+      padding="$md"
+      gap="$md"
+      alignItems="center"
+      justifyContent="space-between"
+    >
+      <Text fontFamily="$body" fontSize="$2" color="$colorSecondary" flex={1}>
+        {t('common.couldntLoad')}
+      </Text>
+      <AnimatedPressable
+        onPress={onRetry}
+        accessibilityRole="button"
+        accessibilityLabel={t('common.retry')}
+        hitSlop={8}
+      >
+        <Text fontFamily="$heading" fontSize="$2" color="$accent" paddingHorizontal="$xs">
+          {t('common.retry')}
+        </Text>
+      </AnimatedPressable>
+    </XStack>
+  )
 }
