@@ -321,15 +321,15 @@ export default function SettingsScreen() {
         <Pressable
           onPress={async () => {
             const ok = await confirm({
-              title: 'Reset Database',
-              description: 'Drop all data and re-seed?',
-              confirmLabel: 'Reset',
+              title: t('settings.resetDatabase'),
+              description: t('settings.resetDatabaseConfirm'),
+              confirmLabel: t('settings.resetDatabaseAction'),
               destructive: true,
             })
             if (ok) resetDatabase()
           }}
           accessibilityRole="button"
-          accessibilityLabel="Reset Database"
+          accessibilityLabel={t('settings.resetDatabase')}
         >
           <YStack
             backgroundColor="$backgroundSurface"
@@ -338,7 +338,7 @@ export default function SettingsScreen() {
             alignItems="center"
           >
             <Text fontFamily="$body" fontSize="$2" color="$colorBurgundy">
-              Reset Database
+              {t('settings.resetDatabase')}
             </Text>
           </YStack>
         </Pressable>

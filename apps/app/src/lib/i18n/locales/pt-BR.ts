@@ -688,6 +688,9 @@ export default {
     timeTravelDescription: 'Visualize o app como ele apareceria em uma data específica.',
     timeTravelPick: 'Escolher data',
     timeTravelClear: 'Limpar',
+    resetDatabase: 'Redefinir Banco de Dados',
+    resetDatabaseConfirm: 'Apagar todos os dados e recarregar?',
+    resetDatabaseAction: 'Redefinir',
   },
 
   readingLabel: {

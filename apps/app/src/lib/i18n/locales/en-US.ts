@@ -683,6 +683,9 @@ export default {
     timeTravelDescription: 'Preview the app as it would appear on a specific date.',
     timeTravelPick: 'Pick a date',
     timeTravelClear: 'Clear',
+    resetDatabase: 'Reset Database',
+    resetDatabaseConfirm: 'Drop all data and re-seed?',
+    resetDatabaseAction: 'Reset',
   },
 
   readingLabel: {
