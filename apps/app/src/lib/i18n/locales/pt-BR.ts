@@ -1302,6 +1302,7 @@ export default {
     increaseCount: 'Aumentar',
     viewCalendar: 'Ver calendário litúrgico',
     viewGalleryImage: 'Ver imagem {{index}} de {{total}}',
+    nextAspiration: 'Toque para outra aspiração',
   },
   languages: {
     'en-US': 'Inglês',

@@ -1,4 +1,5 @@
 import { useMemo, useState } from 'react'
+import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
 import { Text, XStack } from 'tamagui'
 
@@ -39,6 +40,7 @@ const aspirations = [
 ] as const
 
 export function Aspiratio({ date }: { date?: Date }) {
+  const { t } = useTranslation()
   const today = useToday()
   const d = date ?? today
   const baseIndex = useMemo(() => Math.floor(d.getTime() / 86400000) % aspirations.length, [d])
@@ -52,6 +54,9 @@ export function Aspiratio({ date }: { date?: Date }) {
         setOffset((o) => o + 1)
       }}
       hitSlop={8}
+      accessibilityRole="button"
+      accessibilityLabel={aspiration}
+      accessibilityHint={t('a11y.nextAspiration')}
     >
       <XStack justifyContent="center" paddingVertical="$sm" paddingHorizontal="$lg">
         <Text

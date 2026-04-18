@@ -1298,6 +1298,7 @@ export default {
     increaseCount: 'Increase',
     viewCalendar: 'View liturgical calendar',
     viewGalleryImage: 'View image {{index}} of {{total}}',
+    nextAspiration: 'Tap for another aspiration',
   },
   languages: {
     'en-US': 'English',

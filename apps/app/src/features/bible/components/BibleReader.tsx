@@ -271,6 +271,7 @@ function BookList({
       <YStack paddingBottom="$xl">
         {books.map((book) => {
           const isCurrent = book.id === currentBookId
+          const name = t(`bookName.${book.id}`, { defaultValue: book.name })
           return (
             <Pressable
               key={book.id}
@@ -278,6 +279,9 @@ function BookList({
               style={({ pressed }) => ({
                 backgroundColor: pressed ? 'rgba(128,128,128,0.15)' : 'transparent',
               })}
+              accessibilityRole="button"
+              accessibilityLabel={name}
+              accessibilityState={{ selected: isCurrent }}
             >
               <YStack paddingVertical={10} paddingHorizontal="$md">
                 <Text
@@ -286,7 +290,7 @@ function BookList({
                   fontWeight={isCurrent ? '600' : '400'}
                   color={isCurrent ? '$color' : '$colorSecondary'}
                 >
-                  {t(`bookName.${book.id}`, { defaultValue: book.name })}
+                  {name}
                 </Text>
               </YStack>
             </Pressable>
@@ -319,6 +323,9 @@ function ChapterList({
                 backgroundColor: pressed ? 'rgba(128,128,128,0.15)' : 'transparent',
                 width: '100%',
               })}
+              accessibilityRole="button"
+              accessibilityLabel={String(ch)}
+              accessibilityState={{ selected: isCurrent }}
             >
               <YStack minHeight={44} justifyContent="center" alignItems="center">
                 <Text
