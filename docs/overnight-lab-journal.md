@@ -237,6 +237,18 @@ The emotional shape matters more than the code: a year ago today, you prayed Com
 
 ---
 
+## Iteration 16 — Vestment Color Bar
+
+The LiturgicalHeader already drew a small 40×3 accent stripe beneath the season name — but it was always `$accent` (a theme-bound warm gold). Today it wears the actual vestment color of the day: violet for Advent and Lent, white for Easter and Christmas (and feasts), red for the martyrs and Pentecost, rose for Gaudete and Laetare Sundays, green for ordinary time.
+
+Three small parts: `LiturgicalHeader` accepts a new optional `rose?: boolean` (the header can't compute Gaudete/Laetare alone because that needs the Easter anchor, and that computation already lives at the home screen). The home screen already had `themeName` in its `useMemo`; I refactored it to compute `isRose` instead and pass it down. Inside the header, `getLiturgicalColor(season)` maps season → vestment, overridden by `rose` when true. A tiny `vestmentHex` record holds the actual colors.
+
+Why hex and not theme tokens: vestment colors are liturgical facts, not aesthetic choices. Violet for penance doesn't change with dark mode. Tokens would let the theme drift the meaning; hex pins it.
+
+Sublimination-sized change — one 3px bar — but it's the kind of detail that rewards the liturgically-attentive user: the ornament at the top of their prayer app speaks in the same language as the priest's chasuble at Mass today. The app knows what color the Church wears.
+
+---
+
 ## Session wrap
 
 Shipped tonight, in order:
@@ -258,6 +270,7 @@ Shipped tonight, in order:
 15. **Deo Gratias** — event-sourced gratitude journal, integrated into Memoria
 16. **Kyrie** — Jesus Prayer tap counter, three-channel contemplative feedback
 17. **On This Day** — Memoria surfaces entries from same month+day in prior years
+18. **Vestment color bar** — liturgical header stripe wears today's actual vestment color
 
 Bold = new visible features, not bug fixes.
 

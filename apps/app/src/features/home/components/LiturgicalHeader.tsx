@@ -4,8 +4,10 @@ import { Text, useThemeName, View, YStack } from 'tamagui'
 
 import { formatLocalized } from '@/lib/i18n/dateLocale'
 import {
+  getLiturgicalColor,
   getLiturgicalDayName,
   type LiturgicalCalendarForm,
+  type LiturgicalColor,
   type LiturgicalSeason,
 } from '@/lib/liturgical'
 import { usePreferencesStore } from '@/stores/preferencesStore'
@@ -20,7 +22,23 @@ const seasonKeys = [
   'postPentecost',
 ] as const
 
-export function LiturgicalHeader({ date, season }: { date: Date; season: LiturgicalSeason }) {
+const vestmentHex: Record<LiturgicalColor, string> = {
+  violet: '#6b4a9b',
+  white: '#e8dfc6',
+  green: '#5c8a3a',
+  red: '#b8373c',
+  rose: '#c77e95',
+}
+
+export function LiturgicalHeader({
+  date,
+  season,
+  rose,
+}: {
+  date: Date
+  season: LiturgicalSeason
+  rose?: boolean
+}) {
   const { t } = useTranslation()
   const liturgicalCalendar = usePreferencesStore(
     (s) => s.liturgicalCalendar,
@@ -49,6 +67,8 @@ export function LiturgicalHeader({ date, season }: { date: Date; season: Liturgi
 
   const themeName = useThemeName()
   const isDark = themeName.startsWith('dark')
+  const vestment: LiturgicalColor = rose ? 'rose' : getLiturgicalColor(season)
+  const vestmentColor = vestmentHex[vestment]
 
   return (
     <YStack gap="$xs" alignItems="center">
@@ -74,8 +94,8 @@ export function LiturgicalHeader({ date, season }: { date: Date; season: Liturgi
         width={40}
         height={3}
         borderRadius={2}
-        backgroundColor="$accent"
-        opacity={0.7}
+        backgroundColor={vestmentColor}
+        opacity={isDark ? 0.85 : 0.75}
         marginTop="$xs"
       />
     </YStack>

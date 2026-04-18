@@ -92,7 +92,7 @@ export default function HomeScreen() {
   const router = useRouter()
   const slots = useSlots()
 
-  const { season } = useMemo(() => {
+  const { season, isRose } = useMemo(() => {
     const s = getLiturgicalSeason(now, liturgicalCalendar)
     const year = now.getFullYear()
     const easter = computeEaster(year)
@@ -100,8 +100,8 @@ export default function HomeScreen() {
     const gaudete = new Date(advent1.getTime() + 14 * 86400000)
     const laetare = new Date(easter.getTime() - 21 * 86400000)
     const t = now.getTime()
-    const isRose = t === normalizeDate(gaudete).getTime() || t === normalizeDate(laetare).getTime()
-    return { season: s, themeName: isRose ? ('rose' as const) : s }
+    const rose = t === normalizeDate(gaudete).getTime() || t === normalizeDate(laetare).getTime()
+    return { season: s, isRose: rose }
   }, [now, liturgicalCalendar])
 
   const todayCompletions = useCompletionsForDate(selectedDate)
@@ -174,7 +174,7 @@ export default function HomeScreen() {
       </View>
       <YStack gap="$lg" paddingTop={20} paddingBottom="$lg">
         <YStack gap="$md">
-          <LiturgicalHeader date={now} season={season} />
+          <LiturgicalHeader date={now} season={season} rose={isRose} />
 
           <HoraLine />
 
