@@ -7,7 +7,8 @@ import { Text, useTheme, XStack, YStack } from 'tamagui'
 
 import { ScreenLayout } from '@/components'
 import { getManifest, parseQualifiedId } from '@/content/registry'
-import { type MemoriaEntry, useMemoriaEntries } from '@/features/memoria'
+import { type MemoriaEntry, useMemoriaEntries, useOnThisDayEntries } from '@/features/memoria'
+import { useToday } from '@/hooks/useToday'
 import { localizeContent } from '@/lib/i18n'
 import { getDateLocale } from '@/lib/i18n/dateLocale'
 
@@ -16,6 +17,8 @@ export default function MemoriaScreen() {
   const router = useRouter()
   const theme = useTheme()
   const entries = useMemoriaEntries()
+  const now = useToday()
+  const onThisDay = useOnThisDayEntries(now)
   const locale = getDateLocale()
 
   return (
@@ -50,7 +53,26 @@ export default function MemoriaScreen() {
           </YStack>
         ) : (
           <ScrollView showsVerticalScrollIndicator={false}>
-            <YStack gap="$sm">{renderGroupedEntries(entries, t, locale)}</YStack>
+            <YStack gap="$sm">
+              {onThisDay.length > 0 && (
+                <YStack
+                  gap="$xs"
+                  padding="$md"
+                  borderRadius="$md"
+                  borderLeftWidth={3}
+                  borderLeftColor="$accent"
+                  backgroundColor="$backgroundSurface"
+                >
+                  <Text fontFamily="$heading" fontSize="$2" color="$accent" letterSpacing={1}>
+                    {t('memoria.onThisDay').toUpperCase()}
+                  </Text>
+                  {onThisDay.map((entry) => (
+                    <OnThisDayRow key={entry.id} entry={entry} locale={locale} now={now} />
+                  ))}
+                </YStack>
+              )}
+              {renderGroupedEntries(entries, t, locale)}
+            </YStack>
           </ScrollView>
         )}
       </YStack>
@@ -124,6 +146,39 @@ function EntryRow({
         </Text>
         <Text fontFamily="$body" fontSize="$1" color="$colorSecondary" fontStyle="italic">
           {time}
+        </Text>
+      </YStack>
+    </XStack>
+  )
+}
+
+function OnThisDayRow({
+  entry,
+  locale,
+  now,
+}: {
+  entry: MemoriaEntry
+  locale: ReturnType<typeof getDateLocale>
+  now: Date
+}) {
+  const { t } = useTranslation()
+  const theme = useTheme()
+  const years = now.getFullYear() - new Date(entry.timestamp).getFullYear()
+  const body = getEntryBody(entry, t)
+  const icon = getEntryIcon(entry.kind, theme.accent?.val ?? '#888')
+  const yearsLabel = years === 1 ? t('memoria.oneYearAgo') : t('memoria.yearsAgo', { count: years })
+
+  return (
+    <XStack gap="$md" alignItems="flex-start" paddingVertical={2}>
+      <YStack width={20} paddingTop={2} alignItems="center">
+        {icon}
+      </YStack>
+      <YStack flex={1} gap={2}>
+        <Text fontFamily="$body" fontSize="$2" color="$color">
+          {body}
+        </Text>
+        <Text fontFamily="$body" fontSize="$1" color="$colorSecondary" fontStyle="italic">
+          {yearsLabel} · {format(entry.timestamp, 'yyyy', { locale })}
         </Text>
       </YStack>
     </XStack>

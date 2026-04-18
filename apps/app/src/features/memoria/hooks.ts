@@ -60,6 +60,43 @@ export function useMemoriaEntriesCount(): number {
   )
 }
 
+export function useOnThisDayEntries(now: Date): MemoriaEntry[] {
+  const completions = useEventStore((s) => s.completions)
+  const gratitudes = useEventStore((s) => s.gratitudes)
+
+  return useMemo(() => {
+    const month = now.getMonth()
+    const day = now.getDate()
+    const year = now.getFullYear()
+    const entries: MemoriaEntry[] = []
+
+    for (const c of completions.values()) {
+      const ts = new Date(c.completed_at)
+      if (ts.getMonth() === month && ts.getDate() === day && ts.getFullYear() < year) {
+        entries.push({
+          kind: 'completion',
+          id: `c:${c.id}`,
+          timestamp: c.completed_at,
+          completion: c,
+        })
+      }
+    }
+    for (const g of gratitudes.values()) {
+      const ts = new Date(g.recorded_at)
+      if (ts.getMonth() === month && ts.getDate() === day && ts.getFullYear() < year) {
+        entries.push({
+          kind: 'gratitude',
+          id: `g:${g.id}`,
+          timestamp: g.recorded_at,
+          gratitude: g,
+        })
+      }
+    }
+    entries.sort((a, b) => b.timestamp - a.timestamp)
+    return entries
+  }, [completions, gratitudes, now])
+}
+
 function countAnswered(intentions: Map<number, IntentionState>): number {
   let n = 0
   for (const i of intentions.values()) if (i.answered_at !== null) n++

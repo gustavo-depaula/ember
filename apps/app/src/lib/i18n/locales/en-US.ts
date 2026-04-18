@@ -247,6 +247,10 @@ export default {
     intentionOffered: 'Offered: “{{text}}”',
     intentionAnswered: 'Answered: “{{text}}”',
     gratitude: 'Deo gratias: “{{text}}”',
+    onThisDay: 'On this day',
+    oneYearAgo: 'One year ago',
+    yearsAgo_one: '{{count}} year ago',
+    yearsAgo_other: '{{count}} years ago',
   },
 
   gratias: {

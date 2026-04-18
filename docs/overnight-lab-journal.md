@@ -227,6 +227,16 @@ Learned: haptic + visual + sound (the user's voice, here) is three-channel feedb
 
 ---
 
+## Iteration 15 — On This Day (Memoria retrospective)
+
+A top-of-feed callout in Memoria: "On This Day" — entries from previous years on the same month + day. Each row shows "One year ago · 2025" alongside the remembered completion or gratitude. Only appears when the user has history far enough back to have it.
+
+~30 lines of code. Pure hook + render conditional. No new data model. The existing event store already had every datum needed; it was a matter of adding a date filter and a time-distance label. Fourth time noticing: when your projection is comprehensive, new surfaces cost nearly nothing.
+
+The emotional shape matters more than the code: a year ago today, you prayed Compline. The app remembers with you. This is what liturgical memory looks like encoded in software — *anamnēsis*, rendered.
+
+---
+
 ## Session wrap
 
 Shipped tonight, in order:
@@ -247,6 +257,7 @@ Shipped tonight, in order:
 14. **Dies Domini** — weekly devotions whisper + full seven-day screen
 15. **Deo Gratias** — event-sourced gratitude journal, integrated into Memoria
 16. **Kyrie** — Jesus Prayer tap counter, three-channel contemplative feedback
+17. **On This Day** — Memoria surfaces entries from same month+day in prior years
 
 Bold = new visible features, not bug fixes.
 

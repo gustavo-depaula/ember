@@ -249,6 +249,10 @@ export default {
     intentionOffered: 'Ofereceu: \u201c{{text}}\u201d',
     intentionAnswered: 'Atendida: \u201c{{text}}\u201d',
     gratitude: 'Deo gratias: \u201c{{text}}\u201d',
+    onThisDay: 'Neste dia',
+    oneYearAgo: 'H\u00e1 um ano',
+    yearsAgo_one: 'H\u00e1 {{count}} ano',
+    yearsAgo_other: 'H\u00e1 {{count}} anos',
   },
 
   gratias: {
