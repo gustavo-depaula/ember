@@ -273,6 +273,18 @@ Chose Latin without translation. These are culturally recognizable — any Catho
 
 ---
 
+## Iteration 19 — Pax Christi (completion whisper)
+
+When the user completes every practice in their plan for a given day, a single Latin line appears in the Fidelity section: *Pax Christi*. Golden script font. No animation, no modal, no sound. Just a quiet marker above the "N of N completed" count.
+
+Pax Christi — "the peace of Christ" — is the greeting exchanged in the liturgy after the Lord's Prayer and before Communion. It's the peace given, not earned. Framed this way, finishing the day's prayer plan doesn't produce a streak-score or a trophy; it produces a moment of acknowledged peace.
+
+Deliberately no animation or celebratory dopamine. This is the opposite of the streak counter — the mark of a complete day is supposed to feel like quiet rest, not achievement unlocked. If you don't finish today's plan, there's no punishment either. You simply don't see *Pax Christi*. Tomorrow is another day.
+
+Three lines of JSX. One of the tinier features of the night, but I wanted to note it because the restraint is the feature.
+
+---
+
 ## Session wrap
 
 Shipped tonight, in order:
@@ -297,6 +309,7 @@ Shipped tonight, in order:
 18. **Vestment color bar** — liturgical header stripe wears today's actual vestment color
 19. **Kyrie bead row** — ten-count knots under the tap counter for rope-prayer landmarks
 20. **Aspiratio** — a rotating Latin aspiration closes the home screen, one per day
+21. **Pax Christi** — a quiet golden whisper when the day's rule is fully kept
 
 Bold = new visible features, not bug fixes.
 

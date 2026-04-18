@@ -503,6 +503,11 @@ export default function HomeScreen() {
                   {t('home.fidelity')}
                 </Text>
                 <GreenWall data={wallData} weeks={10} tiered />
+                {totalSlots > 0 && completedCount === totalSlots && (
+                  <Text fontFamily="$script" fontSize="$3" color="$accent" fontStyle="italic">
+                    Pax Christi.
+                  </Text>
+                )}
                 <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
                   {t('home.todayProgress', {
                     completed: completedCount,
