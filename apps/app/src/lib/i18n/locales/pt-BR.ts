@@ -573,6 +573,10 @@ export default {
     archiveConfirm:
       'Arquivar esta prática? Ela será ocultada do seu plano diário. Seu histórico de completude será preservado.',
     archivedCount: 'Arquivadas ({{count}})',
+    emptyState: 'Sua regra de vida ainda é uma página em branco.',
+    emptyStateDescription:
+      'Adicione práticas para começar a moldar seus dias — oração, leitura, silêncio, caridade.',
+    emptyStateAction: 'Ver práticas →',
   },
 
   editor: {
@@ -897,6 +901,9 @@ export default {
     previousChapter: 'Anterior',
     nextChapter: 'Próximo',
     chapterNotFound: 'Capítulo não encontrado.',
+    emptyState: 'Nenhum livro de oração ainda.',
+    emptyStateDescription:
+      'Livros de oração ({{ext}}) trazem práticas, orações e leituras. Navegue acima ou importe um do seu dispositivo.',
   },
 
   explore: {

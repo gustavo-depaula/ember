@@ -568,6 +568,10 @@ export default {
     archiveConfirm:
       'Archive this practice? It will be hidden from your daily plan. Your completion history is preserved.',
     archivedCount: 'Archived ({{count}})',
+    emptyState: 'Your rule of life is still a blank page.',
+    emptyStateDescription:
+      'Add practices to begin shaping the shape of your days — prayer, reading, silence, almsgiving.',
+    emptyStateAction: 'Browse practices →',
   },
 
   editor: {
@@ -893,6 +897,9 @@ export default {
     previousChapter: 'Previous',
     nextChapter: 'Next',
     chapterNotFound: 'Chapter not found.',
+    emptyState: 'No prayer books yet.',
+    emptyStateDescription:
+      'Prayer books ({{ext}}) deliver practices, prayers, and readings. Browse above, or import one from your device.',
   },
 
   explore: {

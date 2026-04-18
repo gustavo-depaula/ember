@@ -245,6 +245,38 @@ export default function PlanScreen() {
 
         <SectionDivider />
 
+        {practiceGroups.length === 0 && (
+          <AnimatedPressable onPress={() => router.push('/practices')}>
+            <YStack
+              alignItems="center"
+              gap="$sm"
+              paddingVertical="$xl"
+              paddingHorizontal="$lg"
+              borderRadius="$lg"
+              borderWidth={1}
+              borderColor="$borderColor"
+              borderStyle="dashed"
+              backgroundColor="$backgroundSurface"
+            >
+              <Text fontFamily="$heading" fontSize="$3" color="$color" textAlign="center">
+                {t('plan.emptyState')}
+              </Text>
+              <Text
+                fontFamily="$body"
+                fontSize="$2"
+                color="$colorSecondary"
+                textAlign="center"
+                fontStyle="italic"
+              >
+                {t('plan.emptyStateDescription')}
+              </Text>
+              <Text fontFamily="$heading" fontSize="$2" color="$accent">
+                {t('plan.emptyStateAction')}
+              </Text>
+            </YStack>
+          </AnimatedPressable>
+        )}
+
         {tierSections.map((tier) => {
           const practices = grouped[tier]
           if (practices.length === 0) return null

@@ -146,6 +146,23 @@ export default function LibraryScreen() {
           </XStack>
         )}
 
+        {installed.length === 0 && available.length === 0 && !availableError && (
+          <YStack alignItems="center" gap="$sm" paddingVertical="$lg" paddingHorizontal="$lg">
+            <Text fontFamily="$heading" fontSize="$3" color="$color" textAlign="center">
+              {t('library.emptyState')}
+            </Text>
+            <Text
+              fontFamily="$body"
+              fontSize="$2"
+              color="$colorSecondary"
+              textAlign="center"
+              fontStyle="italic"
+            >
+              {t('library.emptyStateDescription', { ext: '.pray' })}
+            </Text>
+          </YStack>
+        )}
+
         {available.length > 0 && (
           <YStack gap="$sm">
             <Text
