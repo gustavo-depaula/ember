@@ -16,6 +16,7 @@ import {
   ScreenLayout,
   SectionDivider,
 } from '@/components'
+import { CandleFlame } from '@/components/CandleFlame'
 import { getManifest } from '@/content/registry'
 import { useEventStore } from '@/db/events'
 import { useYearCalendar } from '@/features/calendar'
@@ -192,6 +193,42 @@ export default function HomeScreen() {
           <YStack paddingVertical="$sm" paddingBottom="$md">
             <AppShortcuts />
           </YStack>
+        </FadeInView>
+
+        <FadeInView>
+          <AnimatedPressable onPress={() => router.push('/oratio')}>
+            <XStack
+              alignItems="center"
+              gap="$md"
+              paddingVertical="$sm"
+              paddingHorizontal="$md"
+              borderRadius="$lg"
+              backgroundColor="$backgroundSurface"
+              borderWidth={1}
+              borderColor="$borderColor"
+            >
+              <YStack width={28} height={48} alignItems="center" justifyContent="center">
+                <CandleFlame size={28} />
+              </YStack>
+              <YStack flex={1}>
+                <Text fontFamily="$heading" fontSize="$3" color="$color" letterSpacing={0.5}>
+                  {t('oratio.title')}
+                </Text>
+                <Text
+                  fontFamily="$body"
+                  fontSize="$1"
+                  color="$colorSecondary"
+                  fontStyle="italic"
+                  numberOfLines={1}
+                >
+                  {t('oratio.homeTagline')}
+                </Text>
+              </YStack>
+              <Text fontFamily="$body" fontSize="$2" color="$accent">
+                ›
+              </Text>
+            </XStack>
+          </AnimatedPressable>
         </FadeInView>
 
         {restartNeededIds.size > 0 && (

@@ -168,6 +168,20 @@ export default {
     cccLabel: 'Catechism of the Catholic Church, {{start}}-{{end}}',
   },
 
+  oratio: {
+    title: 'Oratio',
+    close: 'Close',
+    homeTagline: 'Keep watch in mental prayer',
+    invitation:
+      'A quiet space for mental prayer. Choose a duration; the flame will keep watch with you.',
+    presence: 'Remain in His presence.',
+    minutesShort: '{{count}} min',
+    amen: 'Amen · finish now',
+    amenHeading: 'Amen',
+    completeMessage: 'You kept watch for {{minutes}} minutes.',
+    done: 'Return',
+  },
+
   rubric: {
     openingVerse: 'Opening Verse',
     hymn: 'Hymn',
