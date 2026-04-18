@@ -55,6 +55,8 @@ In production this would surface as an uncaught promise rejection on every route
 
 **Fix.** When `recordedToday` is true, suppress the `sinceLabel` line. The pill carries the state on its own. Alternatively: keep the `sinceLabel` only for the N>0 days-since case.
 
+**Status.** Fixed — `sinceLabel` line is gated on `!recordedToday`; the disabled "✓ RECEIVED TODAY" pill carries the state.
+
 ---
 
 ### F5 · Raw `<TextInput>` shows a glaring blue browser focus ring on web — **P1**

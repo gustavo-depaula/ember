@@ -88,9 +88,11 @@ export default function ConfessioScreen() {
           backgroundColor="$backgroundSurface"
           alignItems="center"
         >
-          <Text fontFamily="$body" fontSize="$3" color="$colorSecondary" textAlign="center">
-            {sinceLabel}
-          </Text>
+          {!recordedToday && (
+            <Text fontFamily="$body" fontSize="$3" color="$colorSecondary" textAlign="center">
+              {sinceLabel}
+            </Text>
+          )}
           <AnimatedPressable onPress={onRecord} disabled={recordedToday}>
             <XStack
               alignItems="center"
