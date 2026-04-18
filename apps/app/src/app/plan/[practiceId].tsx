@@ -3,11 +3,12 @@ import { useLocalSearchParams, useRouter } from 'expo-router'
 import { ChevronLeft } from 'lucide-react-native'
 import { useMemo } from 'react'
 import { useTranslation } from 'react-i18next'
-import { Alert, Pressable } from 'react-native'
+import { Pressable } from 'react-native'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
 import {
   AnimatedPressable,
+  confirm,
   GreenWall,
   PrayButton,
   ScreenLayout,
@@ -253,19 +254,18 @@ export default function PracticeDetailScreen() {
           <>
             <SectionDivider />
             <AnimatedPressable
-              onPress={() =>
-                Alert.alert(t('plan.archive'), t('plan.archiveConfirm'), [
-                  { text: t('common.cancel'), style: 'cancel' },
-                  {
-                    text: t('plan.archive'),
-                    style: 'destructive',
-                    onPress: () => {
-                      archivePractice.mutate(practiceId)
-                      router.back()
-                    },
-                  },
-                ])
-              }
+              onPress={async () => {
+                const ok = await confirm({
+                  title: t('plan.archive'),
+                  description: t('plan.archiveConfirm'),
+                  confirmLabel: t('plan.archive'),
+                  destructive: true,
+                })
+                if (ok) {
+                  archivePractice.mutate(practiceId)
+                  router.back()
+                }
+              }}
             >
               <YStack
                 borderWidth={1}

@@ -2,7 +2,7 @@ import DateTimePicker from '@react-native-community/datetimepicker'
 import { Bell, ChevronRight, Clock, Plus, Trash2 } from 'lucide-react-native'
 import { useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { Alert, Platform, Switch } from 'react-native'
+import { Platform, Switch } from 'react-native'
 import Animated, {
   FadeIn,
   FadeOut,
@@ -13,7 +13,7 @@ import Animated, {
 } from 'react-native-reanimated'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
-import { AnimatedPressable } from '@/components'
+import { AnimatedPressable, confirm } from '@/components'
 import { calmSpring } from '@/config/animation'
 import { tierConfig } from '@/config/constants'
 import type { SlotState } from '@/db/events'
@@ -298,16 +298,15 @@ function SlotRow({
 
               {onDelete && (
                 <AnimatedPressable
-                  onPress={() => {
+                  onPress={async () => {
                     mediumTap()
-                    Alert.alert(t('editor.removeSlot'), t('editor.removeSlotConfirm'), [
-                      { text: t('common.cancel'), style: 'cancel' },
-                      {
-                        text: t('common.remove'),
-                        style: 'destructive',
-                        onPress: onDelete,
-                      },
-                    ])
+                    const ok = await confirm({
+                      title: t('editor.removeSlot'),
+                      description: t('editor.removeSlotConfirm'),
+                      confirmLabel: t('common.remove'),
+                      destructive: true,
+                    })
+                    if (ok) onDelete()
                   }}
                 >
                   <XStack

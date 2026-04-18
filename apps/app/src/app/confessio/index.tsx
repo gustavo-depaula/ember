@@ -2,10 +2,10 @@ import { differenceInCalendarDays, format, parseISO } from 'date-fns'
 import { useRouter } from 'expo-router'
 import { Check, ChevronLeft, Trash2 } from 'lucide-react-native'
 import { useTranslation } from 'react-i18next'
-import { Alert, Pressable } from 'react-native'
+import { Pressable } from 'react-native'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
-import { AnimatedPressable, ScreenLayout } from '@/components'
+import { AnimatedPressable, confirm, ScreenLayout } from '@/components'
 import type { ConfessionState } from '@/db/events/state'
 import {
   useConfessions,
@@ -47,19 +47,14 @@ export default function ConfessioScreen() {
     record.mutate(todayKey)
   }
 
-  const onDelete = (confession: ConfessionState) => {
-    Alert.alert(
-      t('confessio.confirmDeleteTitle'),
-      formatLocalized(parseISO(confession.date), 'PPP'),
-      [
-        { text: t('common.cancel'), style: 'cancel' },
-        {
-          text: t('common.remove'),
-          style: 'destructive',
-          onPress: () => remove.mutate(confession.id),
-        },
-      ],
-    )
+  const onDelete = async (confession: ConfessionState) => {
+    const ok = await confirm({
+      title: t('confessio.confirmDeleteTitle'),
+      description: formatLocalized(parseISO(confession.date), 'PPP'),
+      confirmLabel: t('common.remove'),
+      destructive: true,
+    })
+    if (ok) remove.mutate(confession.id)
   }
 
   return (

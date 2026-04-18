@@ -2,10 +2,10 @@ import * as DocumentPicker from 'expo-document-picker'
 import { useRouter } from 'expo-router'
 import { Book, FileDown } from 'lucide-react-native'
 import { useTranslation } from 'react-i18next'
-import { Alert, Pressable } from 'react-native'
+import { Pressable } from 'react-native'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
-import { AnimatedPressable, PageHeader, ScreenLayout } from '@/components'
+import { AnimatedPressable, confirm, PageHeader, ScreenLayout } from '@/components'
 import { useAvailableBooks, useImportBook, useInstalledBooks } from '@/features/books/hooks'
 import { localizeContent } from '@/lib/i18n'
 
@@ -74,7 +74,11 @@ export default function LibraryScreen() {
     if (result.canceled || !result.assets?.length) return
     const file = result.assets[0]
     if (!file.name?.endsWith('.pray')) {
-      Alert.alert(t('library.invalidFile'), t('library.invalidFileDesc'))
+      await confirm({
+        title: t('library.invalidFile'),
+        description: t('library.invalidFileDesc'),
+        singleAction: true,
+      })
       return
     }
     importBook.mutate(file.uri)

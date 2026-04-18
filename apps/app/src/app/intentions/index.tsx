@@ -3,10 +3,10 @@ import { useRouter } from 'expo-router'
 import { Check, ChevronLeft, Plus, RotateCcw, Trash2 } from 'lucide-react-native'
 import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { Alert, Pressable, TextInput } from 'react-native'
+import { Pressable, TextInput } from 'react-native'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
-import { AnimatedPressable, ScreenLayout, SectionDivider } from '@/components'
+import { AnimatedPressable, confirm, ScreenLayout, SectionDivider } from '@/components'
 import type { IntentionState } from '@/db/events/state'
 import {
   useAddIntention,
@@ -49,15 +49,14 @@ export default function IntentionsScreen() {
     markAnswered.mutate({ id })
   }
 
-  function onDelete(intention: IntentionState) {
-    Alert.alert(t('intentions.confirmDeleteTitle'), intention.text, [
-      { text: t('common.cancel'), style: 'cancel' },
-      {
-        text: t('common.remove'),
-        style: 'destructive',
-        onPress: () => removeIntention.mutate(intention.id),
-      },
-    ])
+  async function onDelete(intention: IntentionState) {
+    const ok = await confirm({
+      title: t('intentions.confirmDeleteTitle'),
+      description: intention.text,
+      confirmLabel: t('common.remove'),
+      destructive: true,
+    })
+    if (ok) removeIntention.mutate(intention.id)
   }
 
   return (

@@ -982,6 +982,7 @@ export default {
     back: 'Back',
     clear: 'Clear',
     cancel: 'Cancel',
+    confirm: 'Confirm',
     remove: 'Remove',
     justNow: 'just now',
     aMomentAgo: 'a moment ago',

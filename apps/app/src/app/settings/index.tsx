@@ -3,9 +3,9 @@ import DateTimePicker from '@react-native-community/datetimepicker'
 import { format, parseISO } from 'date-fns'
 import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { Alert, Platform, Pressable, Switch } from 'react-native'
+import { Platform, Pressable, Switch } from 'react-native'
 import { Text, XStack, YStack } from 'tamagui'
-import { PageHeader, ScreenLayout, SectionDivider } from '@/components'
+import { confirm, PageHeader, ScreenLayout, SectionDivider } from '@/components'
 import { ReadingConfig } from '@/components/ReadingConfigModal'
 import { resetDatabase } from '@/db/client'
 import { TranslationModal } from '@/features/bible/components/TranslationModal'
@@ -319,16 +319,15 @@ export default function SettingsScreen() {
         )}
 
         <Pressable
-          onPress={() =>
-            Alert.alert('Reset Database', 'Drop all data and re-seed?', [
-              { text: 'Cancel', style: 'cancel' },
-              {
-                text: 'Reset',
-                style: 'destructive',
-                onPress: () => resetDatabase(),
-              },
-            ])
-          }
+          onPress={async () => {
+            const ok = await confirm({
+              title: 'Reset Database',
+              description: 'Drop all data and re-seed?',
+              confirmLabel: 'Reset',
+              destructive: true,
+            })
+            if (ok) resetDatabase()
+          }}
         >
           <YStack
             backgroundColor="$backgroundSurface"

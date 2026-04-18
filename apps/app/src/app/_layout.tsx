@@ -26,6 +26,7 @@ import { InteractionManager, LogBox, useColorScheme } from 'react-native'
 import { GestureHandlerRootView } from 'react-native-gesture-handler'
 import { TamaguiProvider, Theme } from 'tamagui'
 
+import { ConfirmHost } from '@/components'
 import { AppFrame } from '@/components/AppFrame'
 import { config } from '@/config/tamagui.config'
 import { darkTheme, lightTheme } from '@/config/themes'
@@ -180,6 +181,7 @@ export default function RootLayout() {
               <Stack.Screen name="library" options={{ title: 'Library', gestureEnabled: false }} />
             </Stack>
             <AppFrame />
+            <ConfirmHost />
           </Theme>
         </TamaguiProvider>
       </QueryClientProvider>

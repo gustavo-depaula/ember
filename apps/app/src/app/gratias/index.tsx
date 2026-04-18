@@ -2,10 +2,10 @@ import { useRouter } from 'expo-router'
 import { ChevronLeft, Plus, Trash2 } from 'lucide-react-native'
 import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { Alert, Pressable, TextInput } from 'react-native'
+import { Pressable, TextInput } from 'react-native'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
-import { AnimatedPressable, ScreenLayout } from '@/components'
+import { AnimatedPressable, confirm, ScreenLayout } from '@/components'
 import type { GratitudeState } from '@/db/events/state'
 import { useAddGratitude, useGratitudes, useRemoveGratitude } from '@/features/gratias'
 import { lightTap } from '@/lib/haptics'
@@ -32,15 +32,14 @@ export default function GratiasScreen() {
     setDraft('')
   }
 
-  function onDelete(gratitude: GratitudeState) {
-    Alert.alert(t('gratias.confirmDeleteTitle'), gratitude.text, [
-      { text: t('common.cancel'), style: 'cancel' },
-      {
-        text: t('common.remove'),
-        style: 'destructive',
-        onPress: () => remove.mutate(gratitude.id),
-      },
-    ])
+  async function onDelete(gratitude: GratitudeState) {
+    const ok = await confirm({
+      title: t('gratias.confirmDeleteTitle'),
+      description: gratitude.text,
+      confirmLabel: t('common.remove'),
+      destructive: true,
+    })
+    if (ok) remove.mutate(gratitude.id)
   }
 
   return (

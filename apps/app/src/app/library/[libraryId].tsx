@@ -5,10 +5,10 @@ import { useLocalSearchParams, useRouter } from 'expo-router'
 import { Book, BookOpen, ChevronLeft, Download, Trash2 } from 'lucide-react-native'
 import { useCallback, useEffect, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { Alert, Pressable, ScrollView, View } from 'react-native'
+import { Pressable, ScrollView, View } from 'react-native'
 import Animated, { useAnimatedStyle, useSharedValue, withTiming } from 'react-native-reanimated'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
-import { AnimatedPressable, ScreenLayout, SectionDivider } from '@/components'
+import { AnimatedPressable, confirm, ScreenLayout, SectionDivider } from '@/components'
 import { ManuscriptFrame } from '@/components/ManuscriptFrame'
 import { PracticeIcon } from '@/components/PracticeIcon'
 import { SectionBlock } from '@/components/SectionBlock'
@@ -204,22 +204,25 @@ export default function LibraryDetailScreen() {
     )
   }
 
-  function handleRemove() {
+  async function handleRemove() {
     if (isDefault) {
-      Alert.alert(t('library.cannotRemove'), t('library.cannotRemoveDesc'))
+      await confirm({
+        title: t('library.cannotRemove'),
+        description: t('library.cannotRemoveDesc'),
+        singleAction: true,
+      })
       return
     }
-    Alert.alert(t('library.removeConfirm'), t('library.removeConfirmDesc'), [
-      { text: t('common.cancel'), style: 'cancel' },
-      {
-        text: t('library.remove'),
-        style: 'destructive',
-        onPress: () => {
-          // biome-ignore lint/style/noNonNullAssertion: guarded by early return
-          removeBook.mutate(libraryId!, { onSuccess: () => router.back() })
-        },
-      },
-    ])
+    const ok = await confirm({
+      title: t('library.removeConfirm'),
+      description: t('library.removeConfirmDesc'),
+      confirmLabel: t('library.remove'),
+      destructive: true,
+    })
+    if (ok) {
+      // biome-ignore lint/style/noNonNullAssertion: guarded by early return
+      removeBook.mutate(libraryId!, { onSuccess: () => router.back() })
+    }
   }
 
   return (
