@@ -1,7 +1,7 @@
 import { useTranslation } from 'react-i18next'
 import { YStack } from 'tamagui'
 
-import { PageBreakOrnament, PageHeader, ScreenLayout, SectionDivider } from '@/components'
+import { PageBreakOrnament, PageHeader, ScreenLayout } from '@/components'
 import { ContinueReading } from './ContinueReading'
 import { GospelOfTheDay } from './GospelOfTheDay'
 import { OpenBibleCard } from './OpenBibleCard'
@@ -16,9 +16,7 @@ export function BibleDiscovery() {
         <PageHeader title={t('bible.discovery.title')} />
         <GospelOfTheDay />
         <OpenBibleCard />
-        <SectionDivider />
         <ThemedReadings />
-        <SectionDivider />
         <ContinueReading />
         <PageBreakOrnament />
       </YStack>

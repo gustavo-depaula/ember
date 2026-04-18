@@ -13,7 +13,7 @@ import {
 import { useTranslation } from 'react-i18next'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
-import { AnimatedPressable } from '@/components'
+import { AnimatedPressable, SectionDivider } from '@/components'
 import { getAllManifests } from '@/content/registry'
 import type { PracticeManifest } from '@/content/types'
 import { localizeContent } from '@/lib/i18n'
@@ -82,30 +82,33 @@ export function ThemedReadings() {
   if (scripturePractices.length === 0) return null
 
   return (
-    <YStack gap="$sm">
-      <Text
-        fontFamily="$heading"
-        fontSize="$2"
-        color="$colorSecondary"
-        textTransform="uppercase"
-        letterSpacing={1}
-      >
-        {t('bible.discovery.themedReadings')}
-      </Text>
-      <XStack flexWrap="wrap" gap="$sm" justifyContent="space-between">
-        {scripturePractices.map((manifest) => (
-          <ScriptureTile
-            key={manifest.id}
-            manifest={manifest}
-            onPress={() =>
-              router.push({
-                pathname: '/practices/[manifestId]',
-                params: { manifestId: manifest.id },
-              })
-            }
-          />
-        ))}
-      </XStack>
-    </YStack>
+    <>
+      <SectionDivider />
+      <YStack gap="$sm">
+        <Text
+          fontFamily="$heading"
+          fontSize="$2"
+          color="$colorSecondary"
+          textTransform="uppercase"
+          letterSpacing={1}
+        >
+          {t('bible.discovery.themedReadings')}
+        </Text>
+        <XStack flexWrap="wrap" gap="$sm" justifyContent="space-between">
+          {scripturePractices.map((manifest) => (
+            <ScriptureTile
+              key={manifest.id}
+              manifest={manifest}
+              onPress={() =>
+                router.push({
+                  pathname: '/practices/[manifestId]',
+                  params: { manifestId: manifest.id },
+                })
+              }
+            />
+          ))}
+        </XStack>
+      </YStack>
+    </>
   )
 }
