@@ -50,31 +50,34 @@ export async function ensurePracticeCursors(
 
 // --- Content-loading hooks ---
 
-import type { PsalmData } from '@/components/PsalmodyBlock'
+import type { PsalmSlot } from '@/components/PsalmodyBlock'
+import type { Verse } from '@/lib/content'
 
-export type { PsalmData }
+export type { PsalmSlot }
 
 export function usePsalmsForHour(psalms: PsalmRef[], translation: string) {
   const results = useQueries({
     queries: psalms.map((ref) => ({
       queryKey: ['psalm', translation, ref.psalm, ref.verseRange ?? null],
-      queryFn: async (): Promise<PsalmData> => {
+      queryFn: async (): Promise<Verse[]> => {
         const result = await getChapter(translation, 'psalms', ref.psalm)
-        let verses = result.verses
-        if (ref.verseRange) {
-          verses = verses.filter(
-            (v) => v.verse >= ref.verseRange?.[0] && v.verse <= ref.verseRange?.[1],
-          )
-        }
-        return { ref, verses }
+        if (!ref.verseRange) return result.verses
+        return result.verses.filter(
+          (v) => v.verse >= ref.verseRange?.[0] && v.verse <= ref.verseRange?.[1],
+        )
       },
     })),
   })
 
   const isLoading = results.some((r) => r.isLoading)
-  const data = results.map((r) => r.data).filter((d): d is PsalmData => d !== undefined)
+  const slots: PsalmSlot[] = psalms.map((ref, i) => {
+    const q = results[i]
+    if (q?.data) return { ref, verses: q.data }
+    if (q?.isError) return { ref, retry: () => q.refetch() }
+    return { ref }
+  })
 
-  return { data, isLoading }
+  return { slots, isLoading }
 }
 
 export function useBibleReading(

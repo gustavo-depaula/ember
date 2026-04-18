@@ -7,6 +7,7 @@ export { CccReadingBlock } from './CccReadingBlock'
 export { ConfirmHost, confirm } from './ConfirmSheet'
 export { FadeInView } from './FadeInView'
 export { GreenWall, type WallEntry } from './GreenWall'
+export { InlineRetry } from './InlineRetry'
 export { ManuscriptFrame } from './ManuscriptFrame'
 export { ObligationBadges } from './ObligationBadges'
 export {
@@ -21,7 +22,7 @@ export { PracticeIcon } from './PracticeIcon'
 export { PrayButton } from './PrayActionButtons'
 export { PrayerSpinner } from './PrayerSpinner'
 export { PrayerLines, PrayerText } from './PrayerText'
-export { type PsalmData, PsalmodyBlock } from './PsalmodyBlock'
+export { PsalmodyBlock, type PsalmSlot } from './PsalmodyBlock'
 export {
   CanticleBlock,
   CollapsiblePrayer,

@@ -8,15 +8,16 @@ import { Home } from 'lucide-react-native'
 import { useCallback, useEffect, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
-import { Text, useTheme, XStack, YStack } from 'tamagui'
+import { Text, useTheme, YStack } from 'tamagui'
 import {
   AnimatedPressable,
   BibleReadingBlock,
   CccReadingBlock,
+  InlineRetry,
   ManuscriptFrame,
   ProperSlot,
-  type PsalmData,
   PsalmodyBlock,
+  type PsalmSlot,
   ScreenLayout,
   Threshold,
 } from '@/components'
@@ -418,7 +419,7 @@ export function PracticeFlow({
               <PracticeSectionBlock
                 key={`${section.type}-${index}`}
                 section={section}
-                psalmData={psalmResult.data}
+                psalmSlots={psalmResult.slots}
                 bibleMap={bibleMap}
                 cccMap={cccMap}
                 bibleErrors={bibleErrors}
@@ -476,7 +477,7 @@ export function PracticeFlow({
 
 function PracticeSectionBlock({
   section,
-  psalmData,
+  psalmSlots,
   bibleMap,
   cccMap,
   bibleErrors,
@@ -485,7 +486,7 @@ function PracticeSectionBlock({
   onSelectOverride,
 }: {
   section: RenderedSection
-  psalmData: PsalmData[]
+  psalmSlots: PsalmSlot[]
   bibleMap: Map<string, { verses: Verse[]; fallback?: boolean }>
   cccMap: Map<string, Array<{ number: number; text: string; section: string }>>
   bibleErrors: Map<string, () => void>
@@ -496,7 +497,7 @@ function PracticeSectionBlock({
   // Practice-specific section types
   switch (section.type) {
     case 'psalmody':
-      return <PsalmodyBlock psalmData={psalmData} />
+      return <PsalmodyBlock slots={psalmSlots} />
 
     case 'reading': {
       const ref = section.reference
@@ -504,7 +505,7 @@ function PracticeSectionBlock({
         const key = bibleKeyStr(ref)
         const bibleData = bibleMap.get(key)
         const retry = bibleErrors.get(key)
-        if (!bibleData && retry) return <ReadingErrorState onRetry={retry} />
+        if (!bibleData && retry) return <InlineRetry onRetry={retry} />
         return (
           <BibleReadingBlock
             reference={ref}
@@ -516,7 +517,7 @@ function PracticeSectionBlock({
       const key = cccKeyStr({ start: ref.startParagraph, count: ref.count })
       const cccData = cccMap.get(key)
       const retry = cccErrors.get(key)
-      if (!cccData && retry) return <ReadingErrorState onRetry={retry} />
+      if (!cccData && retry) return <InlineRetry onRetry={retry} />
       return <CccReadingBlock reference={ref} paragraphs={cccData} />
     }
 
@@ -535,7 +536,7 @@ function PracticeSectionBlock({
             <PracticeSectionBlock
               key={`${s.type}-${i}`}
               section={s}
-              psalmData={psalmData}
+              psalmSlots={psalmSlots}
               bibleMap={bibleMap}
               cccMap={cccMap}
               bibleErrors={bibleErrors}
@@ -548,32 +549,4 @@ function PracticeSectionBlock({
         />
       )
   }
-}
-
-function ReadingErrorState({ onRetry }: { onRetry: () => void }) {
-  const { t } = useTranslation()
-  return (
-    <XStack
-      backgroundColor="$backgroundSurface"
-      borderRadius="$md"
-      padding="$md"
-      gap="$md"
-      alignItems="center"
-      justifyContent="space-between"
-    >
-      <Text fontFamily="$body" fontSize="$2" color="$colorSecondary" flex={1}>
-        {t('common.couldntLoad')}
-      </Text>
-      <AnimatedPressable
-        onPress={onRetry}
-        accessibilityRole="button"
-        accessibilityLabel={t('common.retry')}
-        hitSlop={8}
-      >
-        <Text fontFamily="$heading" fontSize="$2" color="$accent" paddingHorizontal="$xs">
-          {t('common.retry')}
-        </Text>
-      </AnimatedPressable>
-    </XStack>
-  )
 }
