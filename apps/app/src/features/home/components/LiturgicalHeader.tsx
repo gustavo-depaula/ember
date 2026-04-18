@@ -49,20 +49,24 @@ export function LiturgicalHeader({
 
   const seasonDisplay = t(`home.seasonName.${season}`)
 
-  // Strip the bare season name from the end of the day name,
-  // keeping the preposition (e.g. "da Páscoa" → strip "Páscoa", keep "da")
+  // Strip the season name from the end of the day name, then trim any trailing
+  // connector words so the prefix doesn't end on a dangling preposition
+  // (e.g. "...Second Week of Easter" → "...Second Week", "...Semana da Páscoa" → "...Semana").
   const prefix = useMemo(() => {
-    if (dayName.endsWith(seasonDisplay)) {
-      return dayName.slice(0, -seasonDisplay.length).trimEnd()
-    }
-    // Try with the grammatical season form (includes preposition)
-    for (const key of seasonKeys) {
-      const s = t(`home.liturgicalDay.seasons.${key}`) as string
-      if (dayName.endsWith(s)) {
-        return dayName.slice(0, -s.length).trimEnd()
+    let stripped = dayName
+    const grammatical = seasonKeys
+      .map((key) => t(`home.liturgicalDay.seasons.${key}`) as string)
+      .sort((a, b) => b.length - a.length)
+    for (const s of grammatical) {
+      if (stripped.endsWith(s)) {
+        stripped = stripped.slice(0, -s.length).trimEnd()
+        break
       }
     }
-    return dayName
+    if (stripped === dayName && dayName.endsWith(seasonDisplay)) {
+      stripped = dayName.slice(0, -seasonDisplay.length).trimEnd()
+    }
+    return stripped.replace(/\s+(of|the|da|de|do|dos|das|du|del|della|dello)$/i, '')
   }, [dayName, seasonDisplay, t])
 
   const themeName = useThemeName()

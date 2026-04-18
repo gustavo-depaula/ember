@@ -41,13 +41,7 @@ export function ShortcutRow({
             <Text fontFamily="$heading" fontSize="$3" color="$color" letterSpacing={0.5}>
               {title}
             </Text>
-            <Text
-              fontFamily="$body"
-              fontSize="$1"
-              color="$colorSecondary"
-              fontStyle="italic"
-              numberOfLines={1}
-            >
+            <Text fontFamily="$body" fontSize="$1" color="$colorSecondary" numberOfLines={1}>
               {tagline}
             </Text>
           </YStack>
