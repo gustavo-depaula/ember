@@ -97,10 +97,9 @@ export default function KyrieScreen() {
 
       <YStack flex={1} alignItems="center" justifyContent="center" gap="$xl">
         <Text
-          fontFamily="$script"
-          fontSize={'$5' as any}
+          fontFamily="$body"
+          fontSize="$3"
           color="rgba(245,240,224,0.7)"
-          fontStyle="italic"
           textAlign="center"
           paddingHorizontal="$lg"
         >

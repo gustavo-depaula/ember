@@ -84,7 +84,7 @@ function DayCard({
           </Text>
         )}
       </XStack>
-      <Text fontFamily="$script" fontSize={'$5' as any} color="$color" fontStyle="italic">
+      <Text fontFamily="$body" fontSize="$3" color="$color">
         {t(`diesDomini.days.${dayKey}.line`)}
       </Text>
       <Text fontFamily="$body" fontSize="$2" color="$colorSecondary" lineHeight="$2">

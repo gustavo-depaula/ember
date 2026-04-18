@@ -87,13 +87,12 @@ export default function ExamenScreen() {
             </Text>
 
             <Text
-              fontFamily="$script"
-              fontSize={'$5' as any}
-              color="rgba(245,240,224,0.75)"
-              fontStyle="italic"
+              fontFamily="$body"
+              fontSize="$3"
+              color="rgba(245,240,224,0.8)"
               textAlign="center"
               paddingHorizontal="$lg"
-              lineHeight={32}
+              lineHeight={28}
             >
               {t(`examen.phases.${phase}.prompt`)}
             </Text>
@@ -107,8 +106,8 @@ export default function ExamenScreen() {
                 hitSlop={8}
               >
                 <Text
-                  fontFamily="$script"
-                  fontSize="$3"
+                  fontFamily="$body"
+                  fontSize="$2"
                   color="rgba(245,210,138,0.85)"
                   fontStyle="italic"
                   textAlign="center"

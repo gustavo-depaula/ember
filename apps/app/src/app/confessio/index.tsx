@@ -88,13 +88,7 @@ export default function ConfessioScreen() {
           backgroundColor="$backgroundSurface"
           alignItems="center"
         >
-          <Text
-            fontFamily="$script"
-            fontSize="$3"
-            color="$colorSecondary"
-            fontStyle="italic"
-            textAlign="center"
-          >
+          <Text fontFamily="$body" fontSize="$3" color="$colorSecondary" textAlign="center">
             {sinceLabel}
           </Text>
           <AnimatedPressable onPress={onRecord} disabled={recordedToday}>
@@ -133,13 +127,7 @@ export default function ConfessioScreen() {
           <Text fontFamily="$heading" fontSize="$2" color="$accent" letterSpacing={1}>
             {t('confessio.actOfContritionHeading').toUpperCase()}
           </Text>
-          <Text
-            fontFamily="$script"
-            fontSize="$4"
-            color="$color"
-            fontStyle="italic"
-            lineHeight={28}
-          >
+          <Text fontFamily="$body" fontSize="$3" color="$color" lineHeight={28}>
             {t('confessio.actOfContrition')}
           </Text>
         </YStack>
