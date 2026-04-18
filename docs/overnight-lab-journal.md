@@ -454,6 +454,18 @@ No code change beyond the array. Zero-risk iteration — pure breadth improvemen
 
 ---
 
+## Iteration 31 — Memoria anniversary predicate extraction
+
+`useOnThisDayEntries` had the same 3-part date comparison (`ts.getMonth() === month && ts.getDate() === day && ts.getFullYear() < year`) repeated six times — once per memoria entry source. Each copy also re-constructed a Date from the timestamp. Not a bug, just noise.
+
+Extracted `isPriorAnniversary(timestamp, month, day, year)` to the bottom of the hooks file. The six inner loops drop from ~6 lines to ~3. A local arrow `onPriorAnniversary` closes over the date values once, keeping each call site readable.
+
+No behavior change (tests: 102/102 green). Pure local simplify — the kind the simplify reviewer would flag on a code review.
+
+Why it's worth the turn even though it's small: future memoria sources (a Kyrie session log, a Pax journal, an Oratio timer history) each add a new loop. Without the helper, each addition copy-pastes the date logic. With it, the new loop is a 3-line `for … if onPriorAnniversary(ts) … push` — one less place to subtly drift.
+
+---
+
 ## Session wrap
 
 Shipped tonight, in order:
@@ -492,6 +504,7 @@ Shipped tonight, in order:
 32. useToday hour-math audit — grepped every `.getHours()` call, confirmed no remaining traps, and tightened the `useToday` / `getToday` JSDoc so future contributors read the warning before reaching for the hook.
 33. ShortcutRow extraction — six copy-pasted home rows collapsed to a single reusable component, with built-in `accessibilityRole="link"` / label / hint for screen readers.
 34. Aspiratio pool doubled — 15 → 30 traditional Latin ejaculatory prayers; each one's annual repetition halved.
+35. Memoria anniversary predicate extracted — six repeated `month/day/year<` checks in `useOnThisDayEntries` collapsed to `isPriorAnniversary(ts, …)`.
 
 Bold = new visible features, not bug fixes.
 

@@ -117,11 +117,11 @@ export function useOnThisDayEntries(now: Date): MemoriaEntry[] {
     const month = now.getMonth()
     const day = now.getDate()
     const year = now.getFullYear()
+    const onPriorAnniversary = (ts: number) => isPriorAnniversary(ts, month, day, year)
     const entries: MemoriaEntry[] = []
 
     for (const c of completions.values()) {
-      const ts = new Date(c.completed_at)
-      if (ts.getMonth() === month && ts.getDate() === day && ts.getFullYear() < year) {
+      if (onPriorAnniversary(c.completed_at)) {
         entries.push({
           kind: 'completion',
           id: `c:${c.id}`,
@@ -131,8 +131,7 @@ export function useOnThisDayEntries(now: Date): MemoriaEntry[] {
       }
     }
     for (const g of gratitudes.values()) {
-      const ts = new Date(g.recorded_at)
-      if (ts.getMonth() === month && ts.getDate() === day && ts.getFullYear() < year) {
+      if (onPriorAnniversary(g.recorded_at)) {
         entries.push({
           kind: 'gratitude',
           id: `g:${g.id}`,
@@ -142,14 +141,12 @@ export function useOnThisDayEntries(now: Date): MemoriaEntry[] {
       }
     }
     for (const [date, offeredAt] of offeredDays) {
-      const ts = new Date(offeredAt)
-      if (ts.getMonth() === month && ts.getDate() === day && ts.getFullYear() < year) {
+      if (onPriorAnniversary(offeredAt)) {
         entries.push({ kind: 'day-offered', id: `d:${date}`, timestamp: offeredAt, date })
       }
     }
     for (const c of confessions.values()) {
-      const ts = new Date(c.recorded_at)
-      if (ts.getMonth() === month && ts.getDate() === day && ts.getFullYear() < year) {
+      if (onPriorAnniversary(c.recorded_at)) {
         entries.push({
           kind: 'confession',
           id: `cf:${c.id}`,
@@ -159,15 +156,13 @@ export function useOnThisDayEntries(now: Date): MemoriaEntry[] {
       }
     }
     for (const [key, prayedAt] of angelusPrayed) {
-      const ts = new Date(prayedAt)
-      if (ts.getMonth() === month && ts.getDate() === day && ts.getFullYear() < year) {
+      if (onPriorAnniversary(prayedAt)) {
         const [date, slot] = key.split(':') as [string, AngelusSlot]
         entries.push({ kind: 'angelus', id: `a:${key}`, timestamp: prayedAt, date, slot })
       }
     }
     for (const [key, blessedAt] of mealsBlessed) {
-      const ts = new Date(blessedAt)
-      if (ts.getMonth() === month && ts.getDate() === day && ts.getFullYear() < year) {
+      if (onPriorAnniversary(blessedAt)) {
         const [date, slot] = key.split(':') as [string, MealSlot]
         entries.push({ kind: 'meal-blessed', id: `m:${key}`, timestamp: blessedAt, date, slot })
       }
@@ -175,6 +170,11 @@ export function useOnThisDayEntries(now: Date): MemoriaEntry[] {
     entries.sort((a, b) => b.timestamp - a.timestamp)
     return entries
   }, [completions, gratitudes, offeredDays, confessions, angelusPrayed, mealsBlessed, now])
+}
+
+function isPriorAnniversary(timestamp: number, month: number, day: number, year: number): boolean {
+  const d = new Date(timestamp)
+  return d.getMonth() === month && d.getDate() === day && d.getFullYear() < year
 }
 
 function countAnswered(intentions: Map<number, IntentionState>): number {
