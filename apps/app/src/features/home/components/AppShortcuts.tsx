@@ -36,8 +36,8 @@ const shortcuts = [
   },
   {
     image: tileImages.reading,
-    labelKey: 'home.reading',
-    route: '/bible',
+    labelKey: 'explore.title',
+    route: '/explore',
   },
   {
     image: tileImages.plan,

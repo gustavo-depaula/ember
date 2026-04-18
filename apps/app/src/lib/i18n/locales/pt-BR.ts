@@ -899,6 +899,14 @@ export default {
     chapterNotFound: 'Capítulo não encontrado.',
   },
 
+  explore: {
+    title: 'Explorar',
+    subtitle: 'Companheiros para o caminho e uma biblioteca para a alma.',
+    companions: 'Companheiros',
+    library: 'Biblioteca',
+    homeTagline: 'Companheiros, Catecismo e Santos',
+  },
+
   catalog: {
     title: 'Práticas',
     search: 'Buscar práticas...',

@@ -1,14 +1,12 @@
 import { format, subWeeks } from 'date-fns'
 import { Image } from 'expo-image'
 import { useRouter } from 'expo-router'
-import { BookMarked, BookOpen, CircleDot, Compass, Flame, Sparkle } from 'lucide-react-native'
 import { useCallback, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Dimensions, Pressable } from 'react-native'
-import { Text, useTheme, useThemeName, View, YStack } from 'tamagui'
+import { Text, useThemeName, View, YStack } from 'tamagui'
 
 import {
-  CandleFlame,
   FadeInView,
   GreenWall,
   ObligationBadges,
@@ -19,7 +17,6 @@ import {
 import { getManifest } from '@/content/registry'
 import { useEventStore } from '@/db/events'
 import { useYearCalendar } from '@/features/calendar'
-import { useGratitudesCount } from '@/features/gratias'
 import {
   AngelusLine,
   AppShortcuts,
@@ -29,18 +26,15 @@ import {
   ConfessioLine,
   DiesDevotion,
   HoraLine,
-  IntentionHeart,
   LiturgicalHeader,
   MementoLine,
   NocturneLine,
   OblatioLine,
+  QuickCaptureChips,
   RestartNeededList,
   SeasonalContext,
-  ShortcutRow,
   TimeBlockSection,
 } from '@/features/home'
-import { useOpenIntentionsCount } from '@/features/intentions'
-import { useMemoriaEntriesCount } from '@/features/memoria'
 import {
   type BlockState,
   buildTieredWallData,
@@ -83,7 +77,6 @@ const lightCornerHeight = cornerWidth / (1584 / 672)
 
 export default function HomeScreen() {
   const { t } = useTranslation()
-  const theme = useTheme()
   const realNow = normalizeDate(new Date())
   const realToday = format(realNow, 'yyyy-MM-dd')
   const now = useToday()
@@ -132,9 +125,6 @@ export default function HomeScreen() {
   const wallLogs = useCompletionRange(wallStart, selectedDate)
   const { data: yearCalendar } = useYearCalendar(now.getFullYear())
   const obligations = useObligations(now)
-  const openIntentionsCount = useOpenIntentionsCount()
-  const gratitudesCount = useGratitudesCount()
-  const memoriaEntriesCount = useMemoriaEntriesCount()
 
   // biome-ignore lint/correctness/useExhaustiveDependencies: memoize by date string
   const scheduleCtx: ScheduleContext | undefined = useMemo(() => {
@@ -217,80 +207,6 @@ export default function HomeScreen() {
           )}
         </YStack>
 
-        <FadeInView>
-          <YStack paddingVertical="$sm" paddingBottom="$md">
-            <AppShortcuts />
-          </YStack>
-        </FadeInView>
-
-        <ShortcutRow
-          leading={<CandleFlame size={28} />}
-          title={t('oratio.title')}
-          tagline={t('oratio.homeTagline')}
-          onPress={() => router.push('/oratio')}
-        />
-
-        <ShortcutRow
-          leading={<CircleDot size={22} color={theme.accent?.val} />}
-          title={t('kyrie.title')}
-          tagline={t('kyrie.homeTagline')}
-          onPress={() => router.push('/kyrie')}
-        />
-
-        <ShortcutRow
-          leading={<Compass size={22} color={theme.accent?.val} />}
-          title={t('examen.title')}
-          tagline={t('examen.homeTagline')}
-          onPress={() => router.push('/examen')}
-        />
-
-        <ShortcutRow
-          leading={<IntentionHeart active={openIntentionsCount > 0} />}
-          title={t('intentions.title')}
-          tagline={
-            openIntentionsCount > 0
-              ? t('intentions.homeOpenCount', { count: openIntentionsCount })
-              : t('intentions.homeTagline')
-          }
-          onPress={() => router.push('/intentions')}
-        />
-
-        <ShortcutRow
-          leading={<Flame size={22} color={theme.accent?.val} />}
-          title={t('gratias.title')}
-          tagline={
-            gratitudesCount > 0
-              ? t('gratias.homeCount', { count: gratitudesCount })
-              : t('gratias.homeTagline')
-          }
-          onPress={() => router.push('/gratias')}
-        />
-
-        {memoriaEntriesCount > 0 && (
-          <ShortcutRow
-            leading={<BookOpen size={22} color={theme.accent?.val} />}
-            title={t('memoria.title')}
-            tagline={t('memoria.homeTagline')}
-            onPress={() => router.push('/memoria')}
-          />
-        )}
-
-        <ShortcutRow
-          leading={<BookMarked size={22} color={theme.accent?.val} />}
-          title={t('catechism.title')}
-          tagline={t('catechism.homeTagline')}
-          onPress={() => router.push('/catechism')}
-        />
-
-        <ShortcutRow
-          leading={<Sparkle size={22} color={theme.accent?.val} />}
-          title={t('saints.title')}
-          tagline={t('saints.homeTagline')}
-          onPress={() => router.push('/saints')}
-        />
-
-        <RestartNeededList ids={restartNeededIds} />
-
         <YStack gap="$md">
           <FadeInView index={1}>
             <Pressable
@@ -356,6 +272,8 @@ export default function HomeScreen() {
               )
             })
           )}
+
+          <RestartNeededList ids={restartNeededIds} />
         </YStack>
 
         {wallData.length > 0 && (
@@ -382,6 +300,16 @@ export default function HomeScreen() {
             </FadeInView>
           </>
         )}
+
+        <FadeInView>
+          <QuickCaptureChips />
+        </FadeInView>
+
+        <FadeInView>
+          <YStack paddingVertical="$sm" paddingBottom="$md">
+            <AppShortcuts />
+          </YStack>
+        </FadeInView>
 
         <PageBreakOrnament />
 

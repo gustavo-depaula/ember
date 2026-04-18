@@ -13,6 +13,7 @@ export {
   NavigationMedallion,
   NocturneLine,
   OblatioLine,
+  QuickCaptureChips,
   RestartNeededList,
   SeasonalContext,
   ShortcutRow,

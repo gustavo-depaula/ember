@@ -895,6 +895,14 @@ export default {
     chapterNotFound: 'Chapter not found.',
   },
 
+  explore: {
+    title: 'Explore',
+    subtitle: 'Companions for the path, and a library for your soul.',
+    companions: 'Companions',
+    library: 'Library',
+    homeTagline: 'Companions, Catechism & Saints',
+  },
+
   catalog: {
     title: 'Practices',
     search: 'Search practices...',
