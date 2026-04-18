@@ -11,7 +11,11 @@ export function OpenBibleCard() {
   const theme = useTheme()
 
   return (
-    <AnimatedPressable onPress={() => router.push('/bible/reader')}>
+    <AnimatedPressable
+      onPress={() => router.push('/bible/reader')}
+      accessibilityRole="link"
+      accessibilityLabel={t('bible.discovery.openBible')}
+    >
       <XStack
         backgroundColor="$backgroundSurface"
         borderRadius="$lg"

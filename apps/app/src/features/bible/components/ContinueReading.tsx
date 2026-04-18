@@ -17,7 +17,11 @@ export function ContinueReading() {
   const bookName = t(`bookName.${bookId}`, { defaultValue: bookId })
 
   return (
-    <AnimatedPressable onPress={() => router.push('/bible/reader')}>
+    <AnimatedPressable
+      onPress={() => router.push('/bible/reader')}
+      accessibilityRole="link"
+      accessibilityLabel={`${t('bible.discovery.continueReading')}: ${bookName} ${chapter}`}
+    >
       <XStack
         backgroundColor="$backgroundSurface"
         borderRadius="$lg"

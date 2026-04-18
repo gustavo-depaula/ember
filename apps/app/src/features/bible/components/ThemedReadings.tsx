@@ -39,9 +39,15 @@ function resolveIcon(id: string): LucideIcon {
 function ScriptureTile({ manifest, onPress }: { manifest: PracticeManifest; onPress: () => void }) {
   const theme = useTheme()
   const Icon = resolveIcon(manifest.id)
+  const name = localizeContent(manifest.name)
 
   return (
-    <AnimatedPressable onPress={onPress} style={{ width: '48%' }}>
+    <AnimatedPressable
+      onPress={onPress}
+      style={{ width: '48%' }}
+      accessibilityRole="link"
+      accessibilityLabel={name}
+    >
       <YStack
         backgroundColor="$backgroundSurface"
         borderRadius="$lg"
@@ -55,7 +61,7 @@ function ScriptureTile({ manifest, onPress }: { manifest: PracticeManifest; onPr
       >
         <Icon size={28} color={theme.accent.val} />
         <Text fontFamily="$heading" fontSize="$3" color="$color" textAlign="center">
-          {localizeContent(manifest.name)}
+          {name}
         </Text>
       </YStack>
     </AnimatedPressable>
