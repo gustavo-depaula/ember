@@ -498,6 +498,25 @@ Three refactors in a row. Getting a good sense of the app's presentational vocab
 
 ---
 
+## Iteration 38 — Seasonal Marian antiphon in Nocturne
+
+Nocturne shipped in iter 36 with one fixed blessing card and no seasonal variation. But the traditional Compline ends with a *Marian antiphon* that rotates by season — four of them, each anchoring a quarter of the year:
+
+- **Alma Redemptoris Mater** — Advent through the Feast of the Presentation (using our data: advent/christmas/epiphany).
+- **Ave Regina Caelorum** — Septuagesima and Lent.
+- **Regina Caeli** — Eastertide.
+- **Salve Regina** — everything else (ordinary + post-pentecost).
+
+Added a fourth `PrayerCard` to the Nocturne screen that picks the right antiphon from today's liturgical season. Implementation: a pure `marianAntiphonForSeason(season)` helper in `features/nocturne/antiphon.ts` and a thin `useMarianAntiphon()` hook that reads `useLiturgicalTheme().season`. i18n keys gained `nocturne.antiphon.{alma,aveRegina,reginaCaeli,salve}` in en-US and pt-BR parity, each body holding Latin + `\n\n` + vernacular.
+
+Simplify review flagged two things: the helper's if-chain should be a `Record<LiturgicalSeason, MarianAntiphon>` lookup (matches the `seasonToColor`/`seasonSymbol` idiom already used in the liturgical package), and the barrel was re-exporting the internal helper unnecessarily. Both applied — now the season map is exhaustively type-checked and only the hooks are public.
+
+Side note on testability: the helper lives in its own `antiphon.ts` file (not inside `hooks.ts`) specifically because Vitest can't parse react-native's Flow syntax. Keeping the pure mapping RN-free means the test file imports straight from `antiphon.ts` and runs clean. Pattern worth repeating — pure domain logic belongs outside hook files.
+
+113 → 117 tests (+4, one per antiphon).
+
+---
+
 ## Iteration 37 — Slot helper tests
 
 Three pure hour→slot pure functions — `currentAngelusSlot`, `currentMealSlot`, `getCurrentHora` — had no tests, despite two separate silent bugs in this corner of the codebase (Angelus and Benedictio both shipped with `useToday()`-passes-midnight undefined traps). The refactor from Date-taking to hour-taking fixed the trap by construction, but the windows themselves were still informal. Pinned them with tests.
@@ -602,6 +621,7 @@ Shipped tonight, in order:
 39. RestartNeededList extraction — last inline render block on home graduated to a named component; home index is now a clean composition.
 40. **Nocturne** — Compline-inspired night whisper (≥21:00) + screen with the Nunc Dimittis and the traditional quiet-night blessing. Picks up where Memento's evening reflection leaves off: same register, different spiritual movement.
 41. Slot helper tests — pinned the Angelus, Benedictio, and Hora hour→slot windows with 11 new tests; +11 tests, 102 → 113.
+42. Seasonal Marian antiphon in Nocturne — the four traditional Compline antiphons (Alma Redemptoris / Ave Regina / Regina Caeli / Salve Regina) rotate by liturgical season via an exhaustive `Record<LiturgicalSeason, MarianAntiphon>` lookup; +4 tests, 113 → 117.
 
 Bold = new visible features, not bug fixes.
 

@@ -374,6 +374,16 @@ export default {
     blessingHeading: 'A B\u00ean\u00e7\u00e3o de Completas',
     blessingBody:
       'Noctem quietam et finem perfectum\nconcedat nobis Dominus omnipotens. Amen.\n\nUma noite tranquila e um fim perfeito\nconceda-nos o Senhor todo-poderoso. Am\u00e9m.',
+    antiphonHeading: 'Antífona Mariana',
+    antiphon: {
+      alma: 'Alma Redemptoris Mater, quae pervia caeli porta manes, et stella maris, succurre cadenti, surgere qui curat, populo: Tu quae genuisti, natura mirante, tuum sanctum Genitorem: Virgo prius ac posterius, Gabrielis ab ore sumens illud Ave, peccatorum miserere.\n\nSanta Mãe do Redentor, porta do céu sempre aberta, estrela do mar, socorrei o povo que cai e quer levantar-se. Para assombro da natureza, gerastes vosso santo Criador; Virgem antes e depois, que recebestes aquele Avé da boca de Gabriel, tende piedade dos pecadores.',
+      aveRegina:
+        'Ave Regina caelorum, ave Domina angelorum, salve radix, salve porta, ex qua mundo lux est orta. Gaude Virgo gloriosa, super omnes speciosa; vale, o valde decora, et pro nobis Christum exora.\n\nSalve, Rainha dos céus; salve, Senhora dos anjos; salve, raiz; salve, porta, da qual nasceu a Luz do mundo. Alegrai-vos, ó Virgem gloriosa, formosa acima de todas; salve, ó toda bela, e rogai por nós a Cristo.',
+      reginaCaeli:
+        'Regina caeli, laetare, alleluia: Quia quem meruisti portare, alleluia, Resurrexit, sicut dixit, alleluia: Ora pro nobis Deum, alleluia.\n\nRainha do céu, alegrai-vos, aleluia: porque aquele que merecestes trazer em vosso seio, aleluia, ressuscitou como disse, aleluia. Rogai por nós a Deus, aleluia.',
+      salve:
+        'Salve, Regina, Mater misericordiae, vita, dulcedo et spes nostra, salve. Ad te clamamus, exsules filii Hevae. Ad te suspiramus, gementes et flentes in hac lacrimarum valle. Eia ergo, Advocata nostra, illos tuos misericordes oculos ad nos converte. Et Iesum, benedictum fructum ventris tui, nobis post hoc exsilium ostende. O clemens, o pia, o dulcis Virgo Maria.\n\nSalve, Rainha, Mãe de misericórdia, vida, doçura e esperança nossa, salve! A vós bradamos, os desterrados filhos de Eva. A vós suspiramos, gemendo e chorando neste vale de lágrimas. Eia, pois, advogada nossa, esses vossos olhos misericordiosos a nós volvei. E, depois deste desterro, mostrai-nos Jesus, bendito fruto do vosso ventre. Ó clemente, ó piedosa, ó doce sempre Virgem Maria.',
+    },
   },
 
   benedictio: {

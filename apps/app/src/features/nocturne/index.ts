@@ -1,1 +1,1 @@
-export { useIsNocturneWindow } from './hooks'
+export { useIsNocturneWindow, useMarianAntiphon } from './hooks'

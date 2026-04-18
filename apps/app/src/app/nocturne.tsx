@@ -5,11 +5,13 @@ import { Pressable, ScrollView } from 'react-native'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
 import { ScreenLayout } from '@/components'
+import { useMarianAntiphon } from '@/features/nocturne'
 
 export default function NocturneScreen() {
   const { t } = useTranslation()
   const router = useRouter()
   const theme = useTheme()
+  const antiphon = useMarianAntiphon()
 
   return (
     <ScreenLayout>
@@ -33,6 +35,10 @@ export default function NocturneScreen() {
           <PrayerCard
             heading={t('nocturne.translationHeading')}
             body={t('nocturne.translationBody')}
+          />
+          <PrayerCard
+            heading={t('nocturne.antiphonHeading')}
+            body={t(`nocturne.antiphon.${antiphon}`)}
           />
           <PrayerCard heading={t('nocturne.blessingHeading')} body={t('nocturne.blessingBody')} />
         </YStack>

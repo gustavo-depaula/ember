@@ -372,6 +372,16 @@ export default {
     blessingHeading: 'The Compline Blessing',
     blessingBody:
       'Noctem quietam et finem perfectum\nconcedat nobis Dominus omnipotens. Amen.\n\nMay the Lord almighty grant us a quiet night\nand a perfect end. Amen.',
+    antiphonHeading: 'Marian Antiphon',
+    antiphon: {
+      alma: 'Alma Redemptoris Mater, quae pervia caeli porta manes, et stella maris, succurre cadenti, surgere qui curat, populo: Tu quae genuisti, natura mirante, tuum sanctum Genitorem: Virgo prius ac posterius, Gabrielis ab ore sumens illud Ave, peccatorum miserere.\n\nLoving Mother of the Redeemer, Gate of heaven, Star of the sea, help your people who have fallen yet strive to rise again. To the wonderment of nature you bore your Creator, yet remained a virgin after as before. You who received Gabriel’s joyful greeting, have pity on us poor sinners.',
+      aveRegina:
+        'Ave Regina caelorum, ave Domina angelorum, salve radix, salve porta, ex qua mundo lux est orta. Gaude Virgo gloriosa, super omnes speciosa; vale, o valde decora, et pro nobis Christum exora.\n\nHail, Queen of heaven; hail, Mistress of the angels; hail, root of Jesse; hail, the gate through which the Light rose over the earth. Rejoice, Virgin most renowned and of unsurpassed beauty. Farewell, Lady most comely; prevail upon Christ to pity us.',
+      reginaCaeli:
+        'Regina caeli, laetare, alleluia: Quia quem meruisti portare, alleluia, Resurrexit, sicut dixit, alleluia: Ora pro nobis Deum, alleluia.\n\nQueen of heaven, rejoice, alleluia: for He whom you were worthy to bear, alleluia, has risen as He said, alleluia. Pray for us to God, alleluia.',
+      salve:
+        'Salve, Regina, Mater misericordiae, vita, dulcedo et spes nostra, salve. Ad te clamamus, exsules filii Hevae. Ad te suspiramus, gementes et flentes in hac lacrimarum valle. Eia ergo, Advocata nostra, illos tuos misericordes oculos ad nos converte. Et Iesum, benedictum fructum ventris tui, nobis post hoc exsilium ostende. O clemens, o pia, o dulcis Virgo Maria.\n\nHail, holy Queen, Mother of mercy, our life, our sweetness, and our hope. To thee do we cry, poor banished children of Eve; to thee do we send up our sighs, mourning and weeping in this valley of tears. Turn, then, most gracious advocate, thine eyes of mercy toward us; and after this our exile, show unto us the blessed fruit of thy womb, Jesus. O clement, O loving, O sweet Virgin Mary.',
+    },
   },
 
   benedictio: {
