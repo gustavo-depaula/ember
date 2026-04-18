@@ -70,37 +70,42 @@ export function AppShortcuts() {
         }}
         contentContainerStyle={{ gap: 12, paddingLeft: 24, paddingRight: 24 }}
       >
-        {shortcuts.map((s) => (
-          <AnimatedPressable
-            key={s.labelKey}
-            onPress={() => {
-              lightTap()
-              router.push(s.route)
-            }}
-            onLongPress={() => {
-              mediumTap()
-              setPeekImage(s)
-            }}
-            delayLongPress={300}
-          >
-            <YStack alignItems="center" gap="$xs" width={tileSize}>
-              <Image
-                source={s.image}
-                style={{ width: tileSize, height: tileSize, borderRadius: 6 }}
-                contentFit="cover"
-              />
-              <Text
-                fontFamily="$heading"
-                fontSize="$2"
-                color="$color"
-                numberOfLines={1}
-                textAlign="center"
-              >
-                {t(s.labelKey)}
-              </Text>
-            </YStack>
-          </AnimatedPressable>
-        ))}
+        {shortcuts.map((s) => {
+          const label = t(s.labelKey)
+          return (
+            <AnimatedPressable
+              key={s.labelKey}
+              onPress={() => {
+                lightTap()
+                router.push(s.route)
+              }}
+              onLongPress={() => {
+                mediumTap()
+                setPeekImage(s)
+              }}
+              delayLongPress={300}
+              accessibilityRole="link"
+              accessibilityLabel={label}
+            >
+              <YStack alignItems="center" gap="$xs" width={tileSize}>
+                <Image
+                  source={s.image}
+                  style={{ width: tileSize, height: tileSize, borderRadius: 6 }}
+                  contentFit="cover"
+                />
+                <Text
+                  fontFamily="$heading"
+                  fontSize="$2"
+                  color="$color"
+                  numberOfLines={1}
+                  textAlign="center"
+                >
+                  {label}
+                </Text>
+              </YStack>
+            </AnimatedPressable>
+          )
+        })}
       </ScrollView>
 
       <Modal
@@ -110,7 +115,12 @@ export function AppShortcuts() {
         onRequestClose={() => setPeekImage(undefined)}
         statusBarTranslucent
       >
-        <Pressable style={styles.backdrop} onPress={() => setPeekImage(undefined)}>
+        <Pressable
+          style={styles.backdrop}
+          onPress={() => setPeekImage(undefined)}
+          accessibilityRole="button"
+          accessibilityLabel={t('a11y.closeModal')}
+        >
           <Animated.View entering={FadeIn.duration(200)}>
             <YStack alignItems="center" gap="$sm">
               <Image
