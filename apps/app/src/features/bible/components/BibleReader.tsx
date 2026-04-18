@@ -15,7 +15,13 @@ import Animated, {
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { ScrollView, Text, useTheme, View, YStack } from 'tamagui'
 
-import { PrayerSpinner, ReadingConfigBadge, ReadingConfigModal, ScreenLayout } from '@/components'
+import {
+  PrayerSpinner,
+  ReaderErrorState,
+  ReadingConfigBadge,
+  ReadingConfigModal,
+  ScreenLayout,
+} from '@/components'
 import type { Book } from '@/lib/content'
 import { useBibleStore } from '@/stores/bibleStore'
 import { usePreferencesStore } from '@/stores/preferencesStore'
@@ -48,8 +54,13 @@ export function BibleReader() {
   const [translationModalVisible, setTranslationModalVisible] = useState(false)
   const [readingConfigVisible, setReadingConfigVisible] = useState(false)
 
-  const { data: books = [] } = useBooks(translation)
-  const { data: chapterData, isLoading } = useChapter(translation, bookId, chapter)
+  const { data: books = [], isError: booksError, refetch: refetchBooks } = useBooks(translation)
+  const {
+    data: chapterData,
+    isLoading,
+    isError: chapterError,
+    refetch: refetchChapter,
+  } = useChapter(translation, bookId, chapter)
   usePrefetchAdjacentChapters(translation, bookId, chapter, books)
 
   const currentBook = books.find((b) => b.id === bookId)
@@ -136,6 +147,16 @@ export function BibleReader() {
   }))
 
   function renderContent() {
+    if (booksError || chapterError) {
+      return (
+        <ReaderErrorState
+          onRetry={() => {
+            if (booksError) refetchBooks()
+            if (chapterError) refetchChapter()
+          }}
+        />
+      )
+    }
     if (isLoading) {
       return <PrayerSpinner />
     }
