@@ -1,7 +1,7 @@
 import { format, subWeeks } from 'date-fns'
 import { Image } from 'expo-image'
 import { useRouter } from 'expo-router'
-import { AlertTriangle, ChevronRight, Heart } from 'lucide-react-native'
+import { AlertTriangle, ChevronRight } from 'lucide-react-native'
 import { useCallback, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Dimensions, Pressable } from 'react-native'
@@ -24,6 +24,7 @@ import {
   AppShortcuts,
   CelebrationOfDay,
   HoraLine,
+  IntentionHeart,
   LiturgicalHeader,
   SeasonalContext,
   TimeBlockSection,
@@ -247,7 +248,7 @@ export default function HomeScreen() {
               borderColor="$borderColor"
             >
               <YStack width={28} height={48} alignItems="center" justifyContent="center">
-                <Heart size={22} color={theme.accent?.val} />
+                <IntentionHeart active={openIntentionsCount > 0} />
               </YStack>
               <YStack flex={1}>
                 <Text fontFamily="$heading" fontSize="$3" color="$color" letterSpacing={0.5}>
