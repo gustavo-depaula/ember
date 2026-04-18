@@ -444,6 +444,16 @@ Why now, not earlier: the first few rows shipped across many iterations. Only on
 
 ---
 
+## Iteration 30 — Aspiratio pool 15 → 30
+
+Pure content. With 15 aspirations on a daily rotation, each prayer repeats ~24 times a year. Doubling to 30 halves that, preserving novelty without sacrificing cycle length (30 days is still memorable, not random-feeling).
+
+Fifteen additions, all traditional Latin ejaculatory prayers from the wider tradition: Thomas's confession (`Dominus meus et Deus meus`), the Jerusalem Cross hymn (`Ave crux, spes unica`), Christ's last words (`In manus tuas, Domine` / `Sitio`), the Jesus Prayer (`Domine Iesu, miserere mei`), Marian pillars (`Sancta Maria, Mater Dei` / `Tota pulchra es, Maria`), eschatological (`Maranatha`). Each one short enough that the script-font whisper at the bottom of the home screen stays quiet.
+
+No code change beyond the array. Zero-risk iteration — pure breadth improvement. This is the kind of thing a community could contribute without needing to touch app internals.
+
+---
+
 ## Session wrap
 
 Shipped tonight, in order:
@@ -481,6 +491,7 @@ Shipped tonight, in order:
 31. **Benedictio** — grace before/after meals: three slot chips (breakfast/lunch/dinner), traditional Benedic Domine + Agimus tibi gratias, home whisper during meal windows, Memoria integration. Also fixed a silent Angelus bug where `currentAngelusSlot(useToday())` always returned undefined (same useToday-is-midnight trap the Memento Mori simplify pass surfaced).
 32. useToday hour-math audit — grepped every `.getHours()` call, confirmed no remaining traps, and tightened the `useToday` / `getToday` JSDoc so future contributors read the warning before reaching for the hook.
 33. ShortcutRow extraction — six copy-pasted home rows collapsed to a single reusable component, with built-in `accessibilityRole="link"` / label / hint for screen readers.
+34. Aspiratio pool doubled — 15 → 30 traditional Latin ejaculatory prayers; each one's annual repetition halved.
 
 Bold = new visible features, not bug fixes.
 

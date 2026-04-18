@@ -21,6 +21,21 @@ const aspirations = [
   'Veni, Sancte Spiritus.',
   'Misericordias Domini in aeternum cantabo.',
   'Pax Christi.',
+  'Domine Iesu, miserere mei.',
+  'Dominus meus et Deus meus.',
+  'In manus tuas, Domine.',
+  'Sanctus, Sanctus, Sanctus.',
+  'Sancta Maria, Mater Dei.',
+  'Agnus Dei, miserere nobis.',
+  'Dominus illuminatio mea.',
+  'Maranatha.',
+  'Jesu, spes mea.',
+  'Magnificat anima mea Dominum.',
+  'Ave crux, spes unica.',
+  'Sitio.',
+  'Cor Iesu, miserere nobis.',
+  'Tota pulchra es, Maria.',
+  'Benedictus Deus in saecula.',
 ] as const
 
 export function Aspiratio({ date }: { date?: Date }) {
