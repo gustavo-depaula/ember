@@ -101,7 +101,7 @@ export const usePreferencesStore = create<PreferencesState>()(
     fontSizeStep: 3,
     lineHeightStep: 5,
     margin: 'normal',
-    textAlign: 'justify',
+    textAlign: 'left',
     hydrated: false,
 
     setTranslation: (translation) => {

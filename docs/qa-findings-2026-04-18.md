@@ -131,6 +131,8 @@ Prefer (a) — stronger information hierarchy, no auto-scroll surprise.
 
 **Fix.** Change the default reading alignment preference to `left`. Justify works for print but degrades on narrow screens without hyphenation. Users can still opt into justify from Settings > Reading.
 
+**Status.** Fixed — `preferencesStore.ts` default flipped to `textAlign: 'left'`. Existing users who previously chose `justify` keep that preference (it hydrates from the DB).
+
 ---
 
 ### F12 · Bible/Catechism drawer pushes content instead of overlaying — **P1**
