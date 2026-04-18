@@ -18,6 +18,7 @@ import { PinyonScript_400Regular } from '@expo-google-fonts/pinyon-script'
 import { SourceSerif4_400Regular } from '@expo-google-fonts/source-serif-4'
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query'
 import { useFonts } from 'expo-font'
+import { useKeepAwake } from 'expo-keep-awake'
 import { Stack } from 'expo-router'
 import * as SplashScreen from 'expo-splash-screen'
 import { StatusBar } from 'expo-status-bar'
@@ -53,6 +54,8 @@ LogBox.ignoreLogs(['props.pointerEvents is deprecated'])
 const queryClient = new QueryClient()
 
 export default function RootLayout() {
+  useKeepAwake()
+
   const [fontsLoaded] = useFonts({
     Cinzel_400Regular,
     Cinzel_700Bold,
