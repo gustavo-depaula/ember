@@ -498,6 +498,21 @@ Three refactors in a row. Getting a good sense of the app's presentational vocab
 
 ---
 
+## Iteration 37 — Slot helper tests
+
+Three pure hour→slot pure functions — `currentAngelusSlot`, `currentMealSlot`, `getCurrentHora` — had no tests, despite two separate silent bugs in this corner of the codebase (Angelus and Benedictio both shipped with `useToday()`-passes-midnight undefined traps). The refactor from Date-taking to hour-taking fixed the trap by construction, but the windows themselves were still informal. Pinned them with tests.
+
+11 new tests across three files:
+- `features/angelus/slots.test.ts` — windows at 5–6, 11–12, 17–18, plus boundaries that must return undefined (0, 4, 7, 10, 13, 16, 19, 23).
+- `features/benedictio/slots.test.ts` — breakfast 6–9, lunch 11–13, dinner 17–20, plus gaps (5, 10, 14–16, 21, 23).
+- `features/home/components/HoraLine.test.ts` — all eight canonical hours walked through (matins/lauds/prime/terce/sext/none/vespers/compline) with boundary assertions.
+
+If someone changes a window in `slots.ts` without intending to, the tests fail loudly. Cheap insurance.
+
+113 tests total (was 102, +11).
+
+---
+
 ## Iteration 36 — Nocturne (Compline night whisper)
 
 Shipped a minimal night-prayer feature. Memento Mori fills the 19:00+ reflection slot ("the Four Last Things"); Nocturne picks up the 21:00+ commending-to-sleep slot. Different spiritual register: Memento asks the soul to meditate on death; Nocturne hands the soul to God for the night.
@@ -586,6 +601,7 @@ Shipped tonight, in order:
 38. useCurrentHour hook — home block auto-expand was non-reactive across hour boundaries; four other features duplicated the setInterval-polling pattern. Extracted to a single hook, and changed the slot-helper API from Date to hour:number to make the old useToday-trap unrepresentable.
 39. RestartNeededList extraction — last inline render block on home graduated to a named component; home index is now a clean composition.
 40. **Nocturne** — Compline-inspired night whisper (≥21:00) + screen with the Nunc Dimittis and the traditional quiet-night blessing. Picks up where Memento's evening reflection leaves off: same register, different spiritual movement.
+41. Slot helper tests — pinned the Angelus, Benedictio, and Hora hour→slot windows with 11 new tests; +11 tests, 102 → 113.
 
 Bold = new visible features, not bug fixes.
 
