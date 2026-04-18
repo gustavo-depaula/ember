@@ -15,7 +15,12 @@ export function SlotChip({
   onToggle: () => void
 }) {
   return (
-    <AnimatedPressable onPress={onToggle}>
+    <AnimatedPressable
+      onPress={onToggle}
+      accessibilityRole="button"
+      accessibilityLabel={label}
+      accessibilityState={{ selected: done }}
+    >
       <XStack
         alignItems="center"
         gap="$xs"
