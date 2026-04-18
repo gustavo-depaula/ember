@@ -251,6 +251,18 @@ export function applyEvent(draft: WritableDraft<EventStoreState>, event: AppEven
       draft.gratitudes.delete(event.gratitudeId)
       break
     }
+
+    // --- Oblatio events ---
+
+    case 'DayOffered': {
+      draft.offeredDays.set(event.date, event.offeredAt)
+      break
+    }
+
+    case 'DayOfferingRevoked': {
+      draft.offeredDays.delete(event.date)
+      break
+    }
   }
 }
 

@@ -191,6 +191,21 @@ type GratitudeRemoved = {
 
 export type GratitudeEvent = GratitudeRecorded | GratitudeRemoved
 
+// --- Oblatio (daily offering) events ---
+
+type DayOffered = {
+  type: 'DayOffered'
+  date: string
+  offeredAt: number
+}
+
+type DayOfferingRevoked = {
+  type: 'DayOfferingRevoked'
+  date: string
+}
+
+export type OblatioEvent = DayOffered | DayOfferingRevoked
+
 // --- Union ---
 
 export type AppEvent =
@@ -199,6 +214,7 @@ export type AppEvent =
   | CursorEvent
   | IntentionEvent
   | GratitudeEvent
+  | OblatioEvent
 
 // --- Stored row shape ---
 

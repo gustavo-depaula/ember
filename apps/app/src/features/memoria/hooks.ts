@@ -9,11 +9,13 @@ export type MemoriaEntry =
   | { kind: 'intention-added'; id: string; timestamp: number; intention: IntentionState }
   | { kind: 'intention-answered'; id: string; timestamp: number; intention: IntentionState }
   | { kind: 'gratitude'; id: string; timestamp: number; gratitude: GratitudeState }
+  | { kind: 'day-offered'; id: string; timestamp: number; date: string }
 
 export function useMemoriaEntries(limit = 200): MemoriaEntry[] {
   const completions = useEventStore((s) => s.completions)
   const intentions = useEventStore((s) => s.intentions)
   const gratitudes = useEventStore((s) => s.gratitudes)
+  const offeredDays = useEventStore((s) => s.offeredDays)
 
   return useMemo(() => {
     const entries: MemoriaEntry[] = []
@@ -49,20 +51,29 @@ export function useMemoriaEntries(limit = 200): MemoriaEntry[] {
         gratitude: g,
       })
     }
+    for (const [date, offeredAt] of offeredDays) {
+      entries.push({ kind: 'day-offered', id: `d:${date}`, timestamp: offeredAt, date })
+    }
     entries.sort((a, b) => b.timestamp - a.timestamp)
     return entries.slice(0, limit)
-  }, [completions, intentions, gratitudes, limit])
+  }, [completions, intentions, gratitudes, offeredDays, limit])
 }
 
 export function useMemoriaEntriesCount(): number {
   return useEventStore(
-    (s) => s.completions.size + s.intentions.size + countAnswered(s.intentions) + s.gratitudes.size,
+    (s) =>
+      s.completions.size +
+      s.intentions.size +
+      countAnswered(s.intentions) +
+      s.gratitudes.size +
+      s.offeredDays.size,
   )
 }
 
 export function useOnThisDayEntries(now: Date): MemoriaEntry[] {
   const completions = useEventStore((s) => s.completions)
   const gratitudes = useEventStore((s) => s.gratitudes)
+  const offeredDays = useEventStore((s) => s.offeredDays)
 
   return useMemo(() => {
     const month = now.getMonth()
@@ -92,9 +103,15 @@ export function useOnThisDayEntries(now: Date): MemoriaEntry[] {
         })
       }
     }
+    for (const [date, offeredAt] of offeredDays) {
+      const ts = new Date(offeredAt)
+      if (ts.getMonth() === month && ts.getDate() === day && ts.getFullYear() < year) {
+        entries.push({ kind: 'day-offered', id: `d:${date}`, timestamp: offeredAt, date })
+      }
+    }
     entries.sort((a, b) => b.timestamp - a.timestamp)
     return entries
-  }, [completions, gratitudes, now])
+  }, [completions, gratitudes, offeredDays, now])
 }
 
 function countAnswered(intentions: Map<number, IntentionState>): number {

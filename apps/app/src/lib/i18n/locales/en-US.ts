@@ -257,6 +257,14 @@ export default {
       intentions: 'Intentions',
       gratitudes: 'Gratitudes',
     },
+    dayOffered: 'Offered this day to the Lord',
+  },
+
+  oblatio: {
+    offerThisDay: 'Offer this day to the Lord ✟',
+    a11yOfferThisDay: 'Offer this day to the Lord',
+    offeredAt: 'Offered at {{time}}',
+    memoria: 'Offered this day to the Lord',
   },
 
   gratias: {

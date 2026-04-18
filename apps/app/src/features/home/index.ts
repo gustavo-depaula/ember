@@ -7,6 +7,7 @@ export {
   IntentionHeart,
   LiturgicalHeader,
   NavigationMedallion,
+  OblatioLine,
   SeasonalContext,
   TimeBlockSection,
 } from './components'

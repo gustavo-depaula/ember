@@ -311,6 +311,37 @@ Could later add date-range filters ("This Month", "This Year") but the four type
 
 ---
 
+## Iteration 22 — Simplify pass on the #130 language toggle (commit 5362207)
+
+After the overnight loop came back, I ran the simplify skill against the #130 fix. Three parallel sub-agents returned two real findings:
+
+1. The outer `YStack > XStack(justifyContent="flex-end")` was doing the work that `alignSelf="flex-end"` on the Pressable can do alone. Flattened.
+2. The `'↔'` fallback branch and the two ternaries guarding `toggleTargetLang` were dead code: `localizeBilingual` in `apps/app/src/lib/i18n/index.ts:62` only emits `content.secondary` when a secondary language is set, so by the time `TapToSwitch` renders, `secondaryLanguage` is guaranteed defined. Dropped both branches and documented the invariant in one line.
+
+Net: -8 LOC, one fewer layout node per bilingual block, clearer types.
+
+---
+
+## Iteration 23 — Oblatio (daily offering)
+
+The traditional Catholic day begins with a *Morning Offering* — giving the day's prayers, works, joys, and sufferings to God before anything else happens. The app had no explicit marker for this.
+
+Shipped as a tiny invitation right below the liturgical header: *"Offer this day to the Lord ✟"* in the app's script/accent style. Tap → success haptic → the line fades out over 500ms and the act is recorded. Once offered, the line stays hidden for the rest of that day — it doesn't nag, and there's no gamification of what should be a free gift.
+
+Mechanically the smallest possible addition:
+- New event types `DayOffered` + `DayOfferingRevoked` — date keyed by `yyyy-MM-dd`.
+- Projection adds `offeredDays: Map<string, number>` (date → offered-at timestamp).
+- `offerDay(date)` repo function is idempotent — emits nothing if already offered that day.
+- `useDayOffered(date)` returns the timestamp or undefined.
+- `OblatioLine` component: reanimated opacity withTiming for the fade.
+- Memoria integration: new entry kind `day-offered` with a Sunrise icon; appears under the "Prayers" filter alongside practice completions; On This Day surfaces old offerings too.
+
+Design choice: kept the fade-out mounted (pointerEvents="none" when offered) rather than unmounting on a shared-value threshold — reanimated shared values aren't reactive in React's render cycle, so a conditional unmount would have snapped visibly instead of finishing the fade. Small cost to keep a zero-opacity view in the tree; cleaner semantics.
+
+No dedicated screen yet — a traditional Morning Offering prayer page is a natural follow-up, but kept the ship lean: the act of offering is the core, not the text.
+
+---
+
 ## Session wrap
 
 Shipped tonight, in order:
@@ -340,6 +371,8 @@ Shipped tonight, in order:
 23. **Examen** — the Ignatian five-phase examination of conscience
 24. **Examen fade** — prompts fade between phases for a gentler walk
 25. **Memoria filters** — by-type chips (All / Prayers / Intentions / Gratitudes)
+26. Simplify pass on #130 — flatten toggle stack, drop dead fallback branches
+27. **Oblatio** — daily "offer this day to the Lord" invitation, event-sourced, surfaces in Memoria
 
 Bold = new visible features, not bug fixes.
 

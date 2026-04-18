@@ -36,6 +36,7 @@ import {
   HoraLine,
   IntentionHeart,
   LiturgicalHeader,
+  OblatioLine,
   SeasonalContext,
   TimeBlockSection,
 } from '@/features/home'
@@ -183,6 +184,8 @@ export default function HomeScreen() {
       <YStack gap="$lg" paddingTop={20} paddingBottom="$lg">
         <YStack gap="$md">
           <LiturgicalHeader date={now} season={season} rose={isRose} />
+
+          <OblatioLine date={now} />
 
           <HoraLine />
 

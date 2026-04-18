@@ -54,6 +54,9 @@ export type EventStoreState = {
   // Gratitudes
   gratitudes: Map<number, GratitudeState>
 
+  // Oblatio (date → offered-at timestamp)
+  offeredDays: Map<string, number>
+
   // ID counters (for generating IDs during replay/emit)
   nextCompletionId: number
   nextIntentionId: number
@@ -75,6 +78,7 @@ function emptyState() {
     cursors: new Map<string, Cursor>(),
     intentions: new Map<number, IntentionState>(),
     gratitudes: new Map<number, GratitudeState>(),
+    offeredDays: new Map<string, number>(),
     nextCompletionId: 1,
     nextIntentionId: 1,
     nextGratitudeId: 1,

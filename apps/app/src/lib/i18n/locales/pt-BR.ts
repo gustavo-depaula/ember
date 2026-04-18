@@ -259,6 +259,14 @@ export default {
       intentions: 'Inten\u00e7\u00f5es',
       gratitudes: 'Gratid\u00f5es',
     },
+    dayOffered: 'Ofereceu este dia ao Senhor',
+  },
+
+  oblatio: {
+    offerThisDay: 'Oferecer este dia ao Senhor \u271f',
+    a11yOfferThisDay: 'Oferecer este dia ao Senhor',
+    offeredAt: 'Oferecido \u00e0s {{time}}',
+    memoria: 'Ofereceu este dia ao Senhor',
   },
 
   gratias: {

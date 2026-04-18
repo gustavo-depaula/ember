@@ -18,6 +18,7 @@ export {
   removeIntention,
   updateIntention,
 } from './intentions'
+export { offerDay, revokeDayOffering } from './oblatio'
 export {
   addSlot,
   archivePractice,
