@@ -328,6 +328,44 @@ export default {
     chooseRope: 'Escolha o comprimento da sua corda',
   },
 
+  examen: {
+    title: 'Exame',
+    homeTagline: 'Percorra o dia com Deus',
+    continue: 'Continuar',
+    finish: 'Am\u00e9m',
+    phases: {
+      praesentia: {
+        title: 'Presen\u00e7a',
+        prompt:
+          'Perceba o olhar amoroso de Deus sobre voc\u00ea. Ele te v\u00ea, e se alegra. Descanse aqui um instante.',
+      },
+      gratia: {
+        title: 'Gratid\u00e3o',
+        prompt:
+          'Reveja o dia com gratid\u00e3o. Que dons voc\u00ea recebeu, pequenos ou grandes? Nomeie-os diante d\u2019Ele.',
+      },
+      affectus: {
+        title: 'Afetos',
+        prompt:
+          'Note os movimentos do seu cora\u00e7\u00e3o hoje. Onde voc\u00ea se sentiu atra\u00eddo a Deus? Onde resistiu?',
+      },
+      peccatum: {
+        title: 'Contri\u00e7\u00e3o',
+        prompt:
+          'Onde voc\u00ea errou o alvo? Ofere\u00e7a esses momentos \u00e0 miseric\u00f3rdia que acolhe todo retorno.',
+      },
+      propositum: {
+        title: 'Prop\u00f3sito',
+        prompt:
+          'Olhe para amanh\u00e3 com esperan\u00e7a. Pe\u00e7a ao Senhor uma gra\u00e7a \u2014 pequena ou grande \u2014 para o dia que vem.',
+      },
+      closing: {
+        title: 'Deo gratias',
+        prompt: 'D\u00ea gra\u00e7as. Descanse em Sua paz.',
+      },
+    },
+  },
+
   oratio: {
     title: 'Oratio',
     close: 'Fechar',

@@ -285,6 +285,20 @@ Three lines of JSX. One of the tinier features of the night, but I wanted to not
 
 ---
 
+## Iteration 20 — Examen (Ignatian examination)
+
+The Ignatian examen — five movements of prayerful review at the end of a day — is one of the most accessible traditional practices in Catholic spirituality. Every retreat teaches it, every spiritual director recommends it, but it's absent from most prayer apps. Added it.
+
+Five phases, Latin names, user-paced (not time-boxed): **Praesentia** (presence — rest under God's loving gaze), **Gratia** (gratitude — review the day), **Affectus** (affections — notice the heart's movements), **Peccatum** (contrition — acknowledge failings), **Propositum** (resolve — look toward tomorrow), then a brief closing. Each phase shows one prompt in script font. A row of five dots below marks progress.
+
+Dark contemplative mode, same register as Oratio and Kyrie. No timer — the examen traditionally takes as long as it takes. A "Continue" button walks the user forward; the final phase closes with "Amen" and returns home with a success haptic.
+
+Deliberately simple: one prompt per phase, no free-text capture. I considered letting the user write a gratitude during the Gratia phase (feeds into Deo Gratias) but decided against it — too clever, pulls focus from the praying. The examen is about *being with God*, not recording output. If the user wants to write a gratitude, it's one tap from home. That separation is right.
+
+New home row (Compass icon, between Kyrie and Intentions) so the examen sits visibly alongside the other contemplative utilities. The app's "chapel" — Oratio, Kyrie, Examen — is starting to cohere: three named Latin practices, same visual register, each with a distinct shape. Chronos, logos, and kairos.
+
+---
+
 ## Session wrap
 
 Shipped tonight, in order:
@@ -310,6 +324,8 @@ Shipped tonight, in order:
 19. **Kyrie bead row** — ten-count knots under the tap counter for rope-prayer landmarks
 20. **Aspiratio** — a rotating Latin aspiration closes the home screen, one per day
 21. **Pax Christi** — a quiet golden whisper when the day's rule is fully kept
+22. **Aspiratio tap** — aspiration cycles on tap for explore-at-leisure
+23. **Examen** — the Ignatian five-phase examination of conscience
 
 Bold = new visible features, not bug fixes.
 

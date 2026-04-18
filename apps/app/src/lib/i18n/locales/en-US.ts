@@ -325,6 +325,43 @@ export default {
     chooseRope: 'Choose the length of your rope',
   },
 
+  examen: {
+    title: 'Examen',
+    homeTagline: 'Walk through the day with God',
+    continue: 'Continue',
+    finish: 'Amen',
+    phases: {
+      praesentia: {
+        title: 'Presence',
+        prompt: 'Become aware of God’s loving gaze. He sees you, and is glad. Rest here a moment.',
+      },
+      gratia: {
+        title: 'Gratitude',
+        prompt:
+          'Review the day with thanks. What gifts did you receive, small or great? Name them before Him.',
+      },
+      affectus: {
+        title: 'Affections',
+        prompt:
+          'Notice the movements of your heart today. Where did you feel drawn toward God? Where did you resist?',
+      },
+      peccatum: {
+        title: 'Contrition',
+        prompt:
+          'Where did you miss the mark? Offer those moments to the mercy that meets every return.',
+      },
+      propositum: {
+        title: 'Resolve',
+        prompt:
+          'Look toward tomorrow with hope. Ask the Lord for one grace — small or great — to meet the day.',
+      },
+      closing: {
+        title: 'Deo gratias',
+        prompt: 'Give thanks. Rest in His peace.',
+      },
+    },
+  },
+
   oratio: {
     title: 'Oratio',
     close: 'Close',
