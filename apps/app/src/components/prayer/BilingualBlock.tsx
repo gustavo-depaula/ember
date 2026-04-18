@@ -11,6 +11,8 @@ const languageLabel: Record<ContentLanguage, string> = {
   la: 'LA',
 }
 
+const pillStyle = { alignSelf: 'flex-end' } as const
+
 export function BilingualBlock({
   content,
   renderText,
@@ -88,7 +90,7 @@ function TapToSwitch({
           language: t(`languages.${toggleTargetLang}`),
         })}
         hitSlop={8}
-        style={{ alignSelf: 'flex-end' }}
+        style={pillStyle}
       >
         <Text
           fontFamily="$heading"
