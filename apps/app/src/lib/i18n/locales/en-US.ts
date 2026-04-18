@@ -946,5 +946,11 @@ export default {
     selectedFont: '{{name}} font, selected',
     goToToday: 'Go to today',
     prayPractice: 'Pray {{name}}',
+    switchLanguage: 'Switch to {{language}}',
+  },
+  languages: {
+    'en-US': 'English',
+    'pt-BR': 'Portuguese',
+    la: 'Latin',
   },
 } as const

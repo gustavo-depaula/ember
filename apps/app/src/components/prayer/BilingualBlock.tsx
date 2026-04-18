@@ -1,5 +1,6 @@
 import type { BilingualText, ContentLanguage } from '@ember/content-engine'
 import { useState } from 'react'
+import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
 import { Text, View, XStack, YStack } from 'tamagui'
 import { usePreferencesStore } from '@/stores/preferencesStore'
@@ -65,12 +66,14 @@ function TapToSwitch({
   secondary: string
   renderText: (text: string) => React.ReactNode
 }) {
+  const { t } = useTranslation()
   const contentLanguage = usePreferencesStore((s) => s.contentLanguage)
   const secondaryLanguage = usePreferencesStore((s) => s.secondaryLanguage)
   const [showSecondary, setShowSecondary] = useState(false)
   const activeText = showSecondary ? secondary : primary
   const toggleTargetLang = showSecondary ? contentLanguage : secondaryLanguage
   const switchLabel = toggleTargetLang ? languageLabel[toggleTargetLang] : '↔'
+  const switchLanguageName = toggleTargetLang ? t(`languages.${toggleTargetLang}`) : switchLabel
 
   return (
     <YStack>
@@ -78,7 +81,7 @@ function TapToSwitch({
         <Pressable
           onPress={() => setShowSecondary((v) => !v)}
           accessibilityRole="button"
-          accessibilityLabel={`Switch to ${switchLabel}`}
+          accessibilityLabel={t('a11y.switchLanguage', { language: switchLanguageName })}
           hitSlop={8}
         >
           <Text
@@ -87,7 +90,6 @@ function TapToSwitch({
             color="$colorSecondary"
             opacity={0.55}
             paddingHorizontal="$xs"
-            paddingVertical={2}
           >
             {switchLabel}
           </Text>

@@ -947,5 +947,11 @@ export default {
     selectedFont: 'Fonte {{name}}, selecionada',
     goToToday: 'Ir para hoje',
     prayPractice: 'Rezar {{name}}',
+    switchLanguage: 'Trocar para {{language}}',
+  },
+  languages: {
+    'en-US': 'Inglês',
+    'pt-BR': 'Português',
+    la: 'Latim',
   },
 } as const
