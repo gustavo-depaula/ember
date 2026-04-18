@@ -224,7 +224,12 @@ export function CatechismReader() {
               </YStack>
             </ScreenLayout>
             {panelOpen ? (
-              <Pressable style={StyleSheet.absoluteFill} onPress={closeDrawer} />
+              <Pressable
+                style={StyleSheet.absoluteFill}
+                onPress={closeDrawer}
+                accessibilityRole="button"
+                accessibilityLabel={t('a11y.closeModal')}
+              />
             ) : undefined}
           </Animated.View>
 
