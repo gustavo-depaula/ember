@@ -53,9 +53,9 @@ export default function MementoScreen() {
             </Text>
           </YStack>
 
-          <YStack gap="$sm">
+          <YStack gap="$md" paddingHorizontal="$xs">
             {mementoPillars.map((pillar) => (
-              <PillarCard key={pillar} pillar={pillar} active={pillar === today.pillar} />
+              <PillarRow key={pillar} pillar={pillar} active={pillar === today.pillar} />
             ))}
           </YStack>
         </YStack>
@@ -64,29 +64,26 @@ export default function MementoScreen() {
   )
 }
 
-function PillarCard({ pillar, active }: { pillar: MementoPillar; active: boolean }) {
+function PillarRow({ pillar, active }: { pillar: MementoPillar; active: boolean }) {
   const { t } = useTranslation()
   return (
-    <YStack
-      gap="$xs"
-      padding="$md"
-      borderRadius="$md"
-      borderWidth={1}
-      borderColor={active ? '$accent' : '$borderColor'}
-      backgroundColor="$backgroundSurface"
-      opacity={active ? 1 : 0.7}
-    >
-      <Text
-        fontFamily="$heading"
-        fontSize="$2"
-        color={active ? '$accent' : '$color'}
-        letterSpacing={1}
-      >
-        {t(`memento.pillar.${pillar}`)}
+    <XStack gap="$sm" alignItems="baseline">
+      <Text fontFamily="$body" fontSize="$3" color={active ? '$accent' : '$colorSecondary'}>
+        ·
       </Text>
-      <Text fontFamily="$body" fontSize="$1" color="$colorSecondary" fontStyle="italic">
-        {t(`memento.description.${pillar}`)}
-      </Text>
-    </YStack>
+      <YStack flex={1} gap={2}>
+        <Text
+          fontFamily="$heading"
+          fontSize="$2"
+          color={active ? '$accent' : '$color'}
+          letterSpacing={1}
+        >
+          {t(`memento.pillar.${pillar}`)}
+        </Text>
+        <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
+          {t(`memento.description.${pillar}`)}
+        </Text>
+      </YStack>
+    </XStack>
   )
 }

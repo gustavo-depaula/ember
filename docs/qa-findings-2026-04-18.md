@@ -95,6 +95,8 @@ Prefer (a) — stronger information hierarchy, no auto-scroll surprise.
 
 (a) is the richer feature (memento could become a browsable meditation library), but (b) is the minimum fix for the false-affordance bug. Pick (b) for the polish pass and track (a) separately.
 
+**Status.** Fixed via (b) — `apps/app/src/app/memento.tsx` now renders the four pillars as a static list (middle-dot marker, no card chrome), reserving the highlighted card for today's active reflection. (a) deferred.
+
 ---
 
 ### F9 · Nocturne has no completion record — no journal entry, no nightly tracking — **P2**
