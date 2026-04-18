@@ -724,6 +724,8 @@ export default {
   },
 
   catechism: {
+    title: 'Catecismo',
+    homeTagline: 'O ensino da Igreja em quatro pilares',
     toc: '\u00cdndice',
     inBrief: 'Em Resumo',
     prologue: 'Pr\u00f3logo',
@@ -778,6 +780,7 @@ export default {
 
   saints: {
     title: 'Santos',
+    homeTagline: 'Companheiros no caminho \u2014 suas festas e seu exemplo',
     doubleTapToFlip: 'Toque duplo para virar',
     therese: {
       name: 'Santa Teresinha do Menino Jesus',

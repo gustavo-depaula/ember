@@ -1,7 +1,7 @@
 import { format, subWeeks } from 'date-fns'
 import { Image } from 'expo-image'
 import { useRouter } from 'expo-router'
-import { BookOpen, CircleDot, Compass, Flame } from 'lucide-react-native'
+import { BookMarked, BookOpen, CircleDot, Compass, Flame, Sparkle } from 'lucide-react-native'
 import { useCallback, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Dimensions, Pressable } from 'react-native'
@@ -274,6 +274,20 @@ export default function HomeScreen() {
             onPress={() => router.push('/memoria')}
           />
         )}
+
+        <ShortcutRow
+          leading={<BookMarked size={22} color={theme.accent?.val} />}
+          title={t('catechism.title')}
+          tagline={t('catechism.homeTagline')}
+          onPress={() => router.push('/catechism')}
+        />
+
+        <ShortcutRow
+          leading={<Sparkle size={22} color={theme.accent?.val} />}
+          title={t('saints.title')}
+          tagline={t('saints.homeTagline')}
+          onPress={() => router.push('/saints')}
+        />
 
         <RestartNeededList ids={restartNeededIds} />
 

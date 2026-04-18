@@ -719,6 +719,8 @@ export default {
   },
 
   catechism: {
+    title: 'Catechism',
+    homeTagline: 'The teaching of the Church in four pillars',
     toc: 'Table of Contents',
     inBrief: 'In Brief',
     prologue: 'Prologue',
@@ -772,6 +774,7 @@ export default {
 
   saints: {
     title: 'Saints',
+    homeTagline: 'Companions on the way — their feasts and their example',
     doubleTapToFlip: 'Double-tap to flip',
     therese: {
       name: 'St. Thérèse of Lisieux',
