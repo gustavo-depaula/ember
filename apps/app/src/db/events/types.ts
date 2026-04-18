@@ -141,9 +141,43 @@ type ProgramRestarted = {
 
 export type CursorEvent = CursorSet | CursorAdvanced | CursorIndexSet | ProgramRestarted
 
+// --- Intention events ---
+
+type IntentionAdded = {
+  type: 'IntentionAdded'
+  intentionId: number
+  text: string
+  createdAt: number
+}
+
+type IntentionUpdated = {
+  type: 'IntentionUpdated'
+  intentionId: number
+  text?: string
+  notes?: string | null
+}
+
+type IntentionAnswered = {
+  type: 'IntentionAnswered'
+  intentionId: number
+  answeredAt: number | null
+  notes?: string | null
+}
+
+type IntentionRemoved = {
+  type: 'IntentionRemoved'
+  intentionId: number
+}
+
+export type IntentionEvent =
+  | IntentionAdded
+  | IntentionUpdated
+  | IntentionAnswered
+  | IntentionRemoved
+
 // --- Union ---
 
-export type AppEvent = PracticeEvent | CompletionEvent | CursorEvent
+export type AppEvent = PracticeEvent | CompletionEvent | CursorEvent | IntentionEvent
 
 // --- Stored row shape ---
 

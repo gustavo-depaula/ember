@@ -21,6 +21,14 @@ export type SlotState = {
   variant: string | null
 }
 
+export type IntentionState = {
+  id: number
+  text: string
+  created_at: number
+  answered_at: number | null
+  notes: string | null
+}
+
 export type EventStoreState = {
   // Practices
   practices: Map<string, UserPractice>
@@ -34,8 +42,12 @@ export type EventStoreState = {
   // Cursors
   cursors: Map<string, Cursor>
 
-  // Completion ID counter (for generating IDs during replay/emit)
+  // Intentions
+  intentions: Map<number, IntentionState>
+
+  // ID counters (for generating IDs during replay/emit)
   nextCompletionId: number
+  nextIntentionId: number
 
   // Actions
   apply: (event: AppEvent) => void
@@ -51,7 +63,9 @@ function emptyState() {
     completionsByDate: new Map<string, Set<number>>(),
     completionsByPractice: new Map<string, Set<number>>(),
     cursors: new Map<string, Cursor>(),
+    intentions: new Map<number, IntentionState>(),
     nextCompletionId: 1,
+    nextIntentionId: 1,
   }
 }
 

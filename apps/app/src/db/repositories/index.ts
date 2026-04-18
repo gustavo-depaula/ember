@@ -11,6 +11,14 @@ export {
   setIndex,
 } from './cursors'
 export {
+  addIntention,
+  getAllIntentions,
+  markIntentionAnswered,
+  markIntentionUnanswered,
+  removeIntention,
+  updateIntention,
+} from './intentions'
+export {
   addSlot,
   archivePractice,
   backfillMissedDays,

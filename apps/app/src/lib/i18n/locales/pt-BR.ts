@@ -207,6 +207,27 @@ export default {
     cccLabel: 'Catecismo da Igreja Cat\u00f3lica, {{start}}-{{end}}',
   },
 
+  intentions: {
+    title: 'Inten\u00e7\u00f5es',
+    subtitle: 'Apresente-as na ora\u00e7\u00e3o. Registre como Deus respondeu.',
+    placeholder: 'Escreva uma inten\u00e7\u00e3o\u2026',
+    add: 'Adicionar',
+    homeTagline: 'Leve suas inten\u00e7\u00f5es \u00e0 ora\u00e7\u00e3o',
+    homeOpenCount_one: '{{count}} inten\u00e7\u00e3o em aberto',
+    homeOpenCount_other: '{{count}} inten\u00e7\u00f5es em aberto',
+    openHeading_one: '{{count}} em aberto',
+    openHeading_other: '{{count}} em aberto',
+    answeredHeading_one: '{{count}} atendida',
+    answeredHeading_other: '{{count}} atendidas',
+    noOpen: 'Todas as inten\u00e7\u00f5es foram atendidas. Gl\u00f3ria a Deus.',
+    emptyState:
+      'Ainda sem inten\u00e7\u00f5es. Eleve uma \u2014 uma pessoa, uma necessidade, uma a\u00e7\u00e3o de gra\u00e7as \u2014 e registre como Deus age.',
+    markAnswered: 'Atendida',
+    show: 'Mostrar',
+    hide: 'Esconder',
+    confirmDeleteTitle: 'Remover esta inten\u00e7\u00e3o?',
+  },
+
   oratio: {
     title: 'Oratio',
     close: 'Fechar',

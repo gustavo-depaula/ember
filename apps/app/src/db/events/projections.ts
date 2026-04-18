@@ -195,6 +195,43 @@ export function applyEvent(draft: WritableDraft<EventStoreState>, event: AppEven
       cursor.started_at = event.startDate
       break
     }
+
+    // --- Intention events ---
+
+    case 'IntentionAdded': {
+      draft.intentions.set(event.intentionId, {
+        id: event.intentionId,
+        text: event.text,
+        created_at: event.createdAt,
+        answered_at: null,
+        notes: null,
+      })
+      if (event.intentionId >= draft.nextIntentionId) {
+        draft.nextIntentionId = event.intentionId + 1
+      }
+      break
+    }
+
+    case 'IntentionUpdated': {
+      const intention = draft.intentions.get(event.intentionId)
+      if (!intention) break
+      if (event.text !== undefined) intention.text = event.text
+      if (event.notes !== undefined) intention.notes = event.notes
+      break
+    }
+
+    case 'IntentionAnswered': {
+      const intention = draft.intentions.get(event.intentionId)
+      if (!intention) break
+      intention.answered_at = event.answeredAt
+      if (event.notes !== undefined) intention.notes = event.notes
+      break
+    }
+
+    case 'IntentionRemoved': {
+      draft.intentions.delete(event.intentionId)
+      break
+    }
   }
 }
 

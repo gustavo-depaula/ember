@@ -205,6 +205,27 @@ export default {
     cccLabel: 'Catechism of the Catholic Church, {{start}}-{{end}}',
   },
 
+  intentions: {
+    title: 'Intentions',
+    subtitle: 'Present them in prayer. Record how God answered.',
+    placeholder: 'Write an intention…',
+    add: 'Add',
+    homeTagline: 'Bring your intentions to prayer',
+    homeOpenCount_one: '{{count}} open intention',
+    homeOpenCount_other: '{{count}} open intentions',
+    openHeading_one: '{{count}} open',
+    openHeading_other: '{{count}} open',
+    answeredHeading_one: '{{count}} answered',
+    answeredHeading_other: '{{count}} answered',
+    noOpen: 'All present intentions answered. Glory to God.',
+    emptyState:
+      'No intentions yet. Lift one up — a person, a need, a thanksgiving — and record how God moves.',
+    markAnswered: 'Answered',
+    show: 'Show',
+    hide: 'Hide',
+    confirmDeleteTitle: 'Remove this intention?',
+  },
+
   oratio: {
     title: 'Oratio',
     close: 'Close',
