@@ -171,11 +171,20 @@ export default function ProgramDetailScreen() {
             const dayNum = dayIndex + 1
             const state = dayStates[dayIndex]
             const title = dayTitles[dayIndex]
+            const label = title || t('program.dayLabel', { day: dayNum })
+            const stateLabel = state.isCompleted
+              ? t('program.completed')
+              : state.isCurrent
+                ? t('program.currentDay')
+                : state.isMissed
+                  ? t('program.missed')
+                  : t('program.upcoming')
             return (
               <DayRow
                 key={`day-${dayNum}`}
                 dayNum={dayNum}
-                dayLabel={title || t('program.dayLabel', { day: dayNum })}
+                dayLabel={label}
+                a11yLabel={`${label}, ${stateLabel}`}
                 isCurrent={state.isCurrent}
                 isCompleted={state.isCompleted}
                 isFuture={state.isFuture}
@@ -202,6 +211,7 @@ export default function ProgramDetailScreen() {
 function DayRow({
   dayNum,
   dayLabel,
+  a11yLabel,
   isCurrent,
   isCompleted,
   isFuture,
@@ -211,6 +221,7 @@ function DayRow({
 }: {
   dayNum: number
   dayLabel: string
+  a11yLabel: string
   isCurrent: boolean
   isCompleted: boolean
   isFuture: boolean
@@ -223,7 +234,7 @@ function DayRow({
       onPress={onPress}
       disabled={!onPress}
       accessibilityRole="button"
-      accessibilityLabel={dayLabel}
+      accessibilityLabel={a11yLabel}
       accessibilityState={{ disabled: !onPress, selected: isCurrent }}
     >
       <XStack
