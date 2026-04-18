@@ -21,7 +21,7 @@ function BookCard({
   const theme = useTheme()
 
   return (
-    <AnimatedPressable onPress={onPress}>
+    <AnimatedPressable onPress={onPress} accessibilityRole="link" accessibilityLabel={name}>
       <XStack
         backgroundColor="$backgroundSurface"
         borderRadius="$lg"
@@ -138,7 +138,12 @@ export default function LibraryScreen() {
             <Text fontFamily="$body" fontSize="$2" color="$colorSecondary" flex={1}>
               {t('library.registryOffline')}
             </Text>
-            <AnimatedPressable onPress={() => refetchAvailable()} hitSlop={8}>
+            <AnimatedPressable
+              onPress={() => refetchAvailable()}
+              hitSlop={8}
+              accessibilityRole="button"
+              accessibilityLabel={t('common.retry')}
+            >
               <Text fontFamily="$heading" fontSize="$2" color="$accent">
                 {t('common.retry')}
               </Text>
@@ -187,7 +192,11 @@ export default function LibraryScreen() {
           </YStack>
         )}
 
-        <Pressable onPress={handleImport}>
+        <Pressable
+          onPress={handleImport}
+          accessibilityRole="button"
+          accessibilityLabel={t('library.import')}
+        >
           <XStack
             borderRadius="$lg"
             padding="$md"
