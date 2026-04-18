@@ -47,6 +47,8 @@ In production this would surface as an uncaught promise rejection on every route
 
 **Fix.** Add a small Tamagui `ConfirmSheet` (bottom sheet style) or a tap-again-to-confirm affordance that matches the rest of the app's chrome. Migrate destructive flows one by one. Avoids the web polyfill entirely and gives native a quieter confirm UX.
 
+**Status.** Fixed — `components/ConfirmSheet.tsx` exposes an imperative `confirm()` Promise backed by a Zustand store + root-mounted `<ConfirmHost />`. Single-action variant covers info-only prompts. All 8 `Alert.alert` call sites migrated; `common.confirm` i18n key added in en-US and pt-BR.
+
 ---
 
 ### F4 · Confessio "Received today." header is redundant with the disabled button — **P3**
