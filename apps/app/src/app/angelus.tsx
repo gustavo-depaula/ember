@@ -1,11 +1,11 @@
 import { format } from 'date-fns'
 import { useRouter } from 'expo-router'
-import { Check, ChevronLeft } from 'lucide-react-native'
+import { ChevronLeft } from 'lucide-react-native'
 import { useTranslation } from 'react-i18next'
 import { Pressable, ScrollView } from 'react-native'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
-import { AnimatedPressable, ScreenLayout } from '@/components'
+import { ScreenLayout, SlotChip } from '@/components'
 import type { AngelusSlot } from '@/db/events/types'
 import {
   angelusSlots,
@@ -52,7 +52,12 @@ export default function AngelusScreen() {
 
           <XStack gap="$sm" justifyContent="center">
             {angelusSlots.map((slot) => (
-              <SlotChip key={slot} slot={slot} active={slot === activeSlot} dateKey={dateKey} />
+              <AngelusSlotChip
+                key={slot}
+                slot={slot}
+                active={slot === activeSlot}
+                dateKey={dateKey}
+              />
             ))}
           </XStack>
 
@@ -74,7 +79,7 @@ export default function AngelusScreen() {
   )
 }
 
-function SlotChip({
+function AngelusSlotChip({
   slot,
   active,
   dateKey,
@@ -99,27 +104,6 @@ function SlotChip({
   }
 
   return (
-    <AnimatedPressable onPress={onToggle}>
-      <XStack
-        alignItems="center"
-        gap="$xs"
-        paddingVertical="$xs"
-        paddingHorizontal="$md"
-        borderRadius={999}
-        borderWidth={1}
-        borderColor={active ? '$accent' : '$borderColor'}
-        backgroundColor={prayed ? '$accent' : 'transparent'}
-      >
-        {prayed && <Check size={12} color="white" />}
-        <Text
-          fontFamily="$heading"
-          fontSize="$1"
-          color={prayed ? 'white' : active ? '$accent' : '$colorSecondary'}
-          letterSpacing={1}
-        >
-          {t(`angelus.slot.${slot}`).toUpperCase()}
-        </Text>
-      </XStack>
-    </AnimatedPressable>
+    <SlotChip label={t(`angelus.slot.${slot}`)} active={active} done={prayed} onToggle={onToggle} />
   )
 }

@@ -481,6 +481,23 @@ Matched with the earlier ShortcutRow extraction: the home screen now has two sha
 
 ---
 
+## Iteration 33 — SlotChip extraction
+
+Third refactor in the simplify arc. The `/angelus` and `/benedictio` screens each had a local `SlotChip` component that differed only in:
+- slot type (`AngelusSlot` vs `MealSlot`)
+- hook names (`usePrayAngelus`/`useRevokeAngelus` vs `useBlessMeal`/`useRevokeMealBlessing`)
+- i18n prefix (`angelus.slot.` vs `benedictio.slot.`)
+
+The presentational JSX — rounded 999 pill, border in `$accent` when active, fill in `$accent` when done, white check icon + white label when done — was literally identical byte-for-byte.
+
+Extracted to `components/SlotChip.tsx` with props `{ label, active, done, onToggle }`. The feature-specific chip wrappers (`AngelusSlotChip`, `MealSlotChip`) now hold only the hook wiring and invoke the shared chip with four props. The screen-level `.map((slot) => <FooSlotChip …/>)` loop is unchanged.
+
+Thought about overreaching to also unify the Memoria filter chips (same rounded-pill shape). Declined — they have different selected semantics (single selected from a group vs two independent boolean states), different text colors in the selected state, and no check icon. Unifying would add more branching than it saves.
+
+Three refactors in a row. Getting a good sense of the app's presentational vocabulary: `ShortcutRow` (card-shaped shortcut), `WhisperLine` (script-font whisper, two tones), `SlotChip` (pill-shaped window indicator). Future features that need any of these are now 3-line calls.
+
+---
+
 ## Session wrap
 
 Shipped tonight, in order:
@@ -521,6 +538,7 @@ Shipped tonight, in order:
 34. Aspiratio pool doubled — 15 → 30 traditional Latin ejaculatory prayers; each one's annual repetition halved.
 35. Memoria anniversary predicate extracted — six repeated `month/day/year<` checks in `useOnThisDayEntries` collapsed to `isPriorAnniversary(ts, …)`.
 36. WhisperLine component — four home whispers (Angelus/Benedictio/Memento/Confessio) collapsed onto one shared `<WhisperLine tone="bright|quiet" />`.
+37. SlotChip extraction — shared pill-chip component now powers both the Angelus and Benedictio slot rows; per-feature wrappers hold only the hook wiring.
 
 Bold = new visible features, not bug fixes.
 

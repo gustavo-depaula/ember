@@ -1,11 +1,11 @@
 import { format } from 'date-fns'
 import { useRouter } from 'expo-router'
-import { Check, ChevronLeft } from 'lucide-react-native'
+import { ChevronLeft } from 'lucide-react-native'
 import { useTranslation } from 'react-i18next'
 import { Pressable, ScrollView } from 'react-native'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
-import { AnimatedPressable, ScreenLayout } from '@/components'
+import { ScreenLayout, SlotChip } from '@/components'
 import type { MealSlot } from '@/db/events/types'
 import {
   mealSlots,
@@ -45,7 +45,7 @@ export default function BenedictioScreen() {
 
           <XStack gap="$sm" justifyContent="center">
             {mealSlots.map((slot) => (
-              <SlotChip key={slot} slot={slot} active={slot === activeSlot} dateKey={dateKey} />
+              <MealSlotChip key={slot} slot={slot} active={slot === activeSlot} dateKey={dateKey} />
             ))}
           </XStack>
 
@@ -98,7 +98,15 @@ export default function BenedictioScreen() {
   )
 }
 
-function SlotChip({ slot, active, dateKey }: { slot: MealSlot; active: boolean; dateKey: string }) {
+function MealSlotChip({
+  slot,
+  active,
+  dateKey,
+}: {
+  slot: MealSlot
+  active: boolean
+  dateKey: string
+}) {
   const { t } = useTranslation()
   const bless = useBlessMeal()
   const revoke = useRevokeMealBlessing()
@@ -115,27 +123,11 @@ function SlotChip({ slot, active, dateKey }: { slot: MealSlot; active: boolean; 
   }
 
   return (
-    <AnimatedPressable onPress={onToggle}>
-      <XStack
-        alignItems="center"
-        gap="$xs"
-        paddingVertical="$xs"
-        paddingHorizontal="$md"
-        borderRadius={999}
-        borderWidth={1}
-        borderColor={active ? '$accent' : '$borderColor'}
-        backgroundColor={blessed ? '$accent' : 'transparent'}
-      >
-        {blessed && <Check size={12} color="white" />}
-        <Text
-          fontFamily="$heading"
-          fontSize="$1"
-          color={blessed ? 'white' : active ? '$accent' : '$colorSecondary'}
-          letterSpacing={1}
-        >
-          {t(`benedictio.slot.${slot}`).toUpperCase()}
-        </Text>
-      </XStack>
-    </AnimatedPressable>
+    <SlotChip
+      label={t(`benedictio.slot.${slot}`)}
+      active={active}
+      done={blessed}
+      onToggle={onToggle}
+    />
   )
 }
