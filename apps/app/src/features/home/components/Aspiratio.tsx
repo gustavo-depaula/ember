@@ -1,7 +1,9 @@
-import { useMemo } from 'react'
+import { useMemo, useState } from 'react'
+import { Pressable } from 'react-native'
 import { Text, XStack } from 'tamagui'
 
 import { useToday } from '@/hooks/useToday'
+import { lightTap } from '@/lib/haptics'
 
 const aspirations = [
   'Jesu, Jesu, Jesu.',
@@ -24,23 +26,30 @@ const aspirations = [
 export function Aspiratio({ date }: { date?: Date }) {
   const today = useToday()
   const d = date ?? today
-  const aspiration = useMemo(() => {
-    const dayIndex = Math.floor(d.getTime() / 86400000)
-    return aspirations[dayIndex % aspirations.length]
-  }, [d])
+  const baseIndex = useMemo(() => Math.floor(d.getTime() / 86400000) % aspirations.length, [d])
+  const [offset, setOffset] = useState(0)
+  const aspiration = aspirations[(baseIndex + offset) % aspirations.length]
 
   return (
-    <XStack justifyContent="center" paddingVertical="$sm" paddingHorizontal="$lg">
-      <Text
-        fontFamily="$script"
-        fontSize="$3"
-        color="$colorSecondary"
-        fontStyle="italic"
-        textAlign="center"
-        opacity={0.7}
-      >
-        {aspiration}
-      </Text>
-    </XStack>
+    <Pressable
+      onPress={() => {
+        lightTap()
+        setOffset((o) => o + 1)
+      }}
+      hitSlop={8}
+    >
+      <XStack justifyContent="center" paddingVertical="$sm" paddingHorizontal="$lg">
+        <Text
+          fontFamily="$script"
+          fontSize="$3"
+          color="$colorSecondary"
+          fontStyle="italic"
+          textAlign="center"
+          opacity={0.7}
+        >
+          {aspiration}
+        </Text>
+      </XStack>
+    </Pressable>
   )
 }
