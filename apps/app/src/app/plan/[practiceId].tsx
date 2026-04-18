@@ -85,9 +85,10 @@ export default function PracticeDetailScreen() {
     const rate = (() => {
       if (completedDates.length === 0) return 0
       const sorted = [...completedDates].sort()
-      const firstDay = new Date(sorted[0])
+      const [y, m, d] = sorted[0].split('-').map(Number)
+      const firstDay = new Date(y, m - 1, d)
       const daysSinceStart = differenceInCalendarDays(new Date(), firstDay) + 1
-      return totalDays / daysSinceStart
+      return Math.min(1, totalDays / daysSinceStart)
     })()
 
     return { streak: currentStreak, longest, total: totalDays, rate }

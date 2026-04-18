@@ -183,6 +183,8 @@ Prefer (a) — stronger information hierarchy, no auto-scroll surprise.
 
 **Fix.** Review completion-rate denominator logic. Rate should be `completions / (scheduled slots since plan-add date, up to now)`, floored at 0, capped at 100. Don't count slots before the practice was added to the plan.
 
+**Status.** Fixed — root cause was an ISO-string timezone bug: `new Date('2026-04-18')` parses as UTC midnight, which in a negative-offset timezone reads as the previous local day. `differenceInCalendarDays` then returned 1 instead of 0 and the denominator became 2, yielding 50% for the first-ever completion. `apps/app/src/app/plan/[practiceId].tsx` now parses the first completion date as local wall time (`new Date(y, m - 1, d)`) and caps the rate at 100% as a belt-and-suspenders guard.
+
 ---
 
 ### F16 · Small-caps / Title-case heading style mixed in Settings — **P3**
