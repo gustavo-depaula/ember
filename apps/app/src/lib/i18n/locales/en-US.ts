@@ -671,7 +671,6 @@ export default {
     none: 'None',
     sideBySide: 'Side by Side',
     tapToSwitch: 'Tap to Switch',
-    latin: 'Latin',
     liturgicalCalendar: 'Liturgical Calendar',
     calendarOF: 'Ordinary Form',
     calendarEF: 'Extraordinary Form',
@@ -897,6 +896,7 @@ export default {
     previousChapter: 'Previous',
     nextChapter: 'Next',
     chapterNotFound: 'Chapter not found.',
+    libraryNotFound: 'Library not found.',
     emptyState: 'No prayer books yet.',
     emptyStateDescription:
       'Prayer books ({{ext}}) deliver practices, prayers, and readings. Browse above, or import one from your device.',

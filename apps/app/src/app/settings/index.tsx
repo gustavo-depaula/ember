@@ -89,9 +89,9 @@ export default function SettingsScreen() {
   const setTheme = usePreferencesStore((s) => s.setTheme)
 
   const contentLanguageOptions = [
-    { value: 'en-US' as const, label: 'English' },
-    { value: 'pt-BR' as const, label: 'Português' },
-    { value: 'la' as const, label: t('settings.latin') },
+    { value: 'en-US' as const, label: t('languages.en-US') },
+    { value: 'pt-BR' as const, label: t('languages.pt-BR') },
+    { value: 'la' as const, label: t('languages.la') },
   ]
 
   const secondaryOptions = [

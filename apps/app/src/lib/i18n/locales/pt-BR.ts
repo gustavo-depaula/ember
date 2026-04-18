@@ -676,7 +676,6 @@ export default {
     none: 'Nenhum',
     sideBySide: 'Lado a Lado',
     tapToSwitch: 'Toque para Alternar',
-    latin: 'Latim',
     liturgicalCalendar: 'Calendário Litúrgico',
     calendarOF: 'Forma Ordinária',
     calendarEF: 'Forma Extraordinária',
@@ -901,6 +900,7 @@ export default {
     previousChapter: 'Anterior',
     nextChapter: 'Próximo',
     chapterNotFound: 'Capítulo não encontrado.',
+    libraryNotFound: 'Biblioteca não encontrada.',
     emptyState: 'Nenhum livro de oração ainda.',
     emptyStateDescription:
       'Livros de oração ({{ext}}) trazem práticas, orações e leituras. Navegue acima ou importe um do seu dispositivo.',

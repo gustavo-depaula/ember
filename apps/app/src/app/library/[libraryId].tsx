@@ -197,7 +197,7 @@ export default function LibraryDetailScreen() {
       <ScreenLayout>
         <YStack padding="$lg">
           <Text fontFamily="$body" color="$colorSecondary">
-            Library not found.
+            {t('library.libraryNotFound')}
           </Text>
         </YStack>
       </ScreenLayout>
