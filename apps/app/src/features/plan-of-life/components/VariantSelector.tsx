@@ -28,6 +28,9 @@ export function VariantSelector({
                   onSelect(member.manifest.id)
                 }}
                 disabled={isActive}
+                accessibilityRole="radio"
+                accessibilityLabel={member.label}
+                accessibilityState={{ selected: isActive }}
               >
                 <YStack
                   paddingHorizontal="$md"

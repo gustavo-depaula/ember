@@ -31,23 +31,33 @@ function TierSelector({ value, onChange }: { value: Tier; onChange: (tier: Tier)
         {t('editor.tier')}
       </Text>
       <XStack gap="$xs">
-        {tierEntries.map(([tier, config]) => (
-          <Pressable key={tier} onPress={() => onChange(tier)} style={{ flex: 1 }}>
-            <YStack
-              paddingVertical="$sm"
-              borderRadius="$md"
-              borderWidth={1}
-              borderColor={value === tier ? config.color : '$borderColor'}
-              backgroundColor={value === tier ? config.color : 'transparent'}
-              alignItems="center"
-              opacity={value === tier ? 1 : 0.7}
+        {tierEntries.map(([tier, config]) => {
+          const label = t(`tier.${tier}`)
+          return (
+            <Pressable
+              key={tier}
+              onPress={() => onChange(tier)}
+              style={{ flex: 1 }}
+              accessibilityRole="radio"
+              accessibilityLabel={label}
+              accessibilityState={{ selected: value === tier }}
             >
-              <Text fontFamily="$body" fontSize="$2" color={value === tier ? 'white' : '$color'}>
-                {t(`tier.${tier}`)}
-              </Text>
-            </YStack>
-          </Pressable>
-        ))}
+              <YStack
+                paddingVertical="$sm"
+                borderRadius="$md"
+                borderWidth={1}
+                borderColor={value === tier ? config.color : '$borderColor'}
+                backgroundColor={value === tier ? config.color : 'transparent'}
+                alignItems="center"
+                opacity={value === tier ? 1 : 0.7}
+              >
+                <Text fontFamily="$body" fontSize="$2" color={value === tier ? 'white' : '$color'}>
+                  {label}
+                </Text>
+              </YStack>
+            </Pressable>
+          )
+        })}
       </XStack>
     </YStack>
   )
@@ -98,7 +108,11 @@ export function PracticeEditSheet({
           <Text fontFamily="$heading" fontSize="$4" color="$color">
             {manifestName || t('editor.newPractice')}
           </Text>
-          <Pressable onPress={onClose}>
+          <Pressable
+            onPress={onClose}
+            accessibilityRole="button"
+            accessibilityLabel={t('editor.cancel')}
+          >
             <Text fontFamily="$body" fontSize="$3" color="$colorSecondary">
               {t('editor.cancel')}
             </Text>
@@ -160,7 +174,11 @@ export function PracticeEditSheet({
               </YStack>
             )}
 
-            <Pressable onPress={() => onSave(form)}>
+            <Pressable
+              onPress={() => onSave(form)}
+              accessibilityRole="button"
+              accessibilityLabel={manifest ? t('catalog.addToPlan') : t('editor.createPractice')}
+            >
               <YStack
                 backgroundColor="$accent"
                 borderRadius="$md"
