@@ -23,6 +23,7 @@ import { useYearCalendar } from '@/features/calendar'
 import {
   AppShortcuts,
   CelebrationOfDay,
+  HoraLine,
   LiturgicalHeader,
   SeasonalContext,
   TimeBlockSection,
@@ -168,6 +169,8 @@ export default function HomeScreen() {
       <YStack gap="$lg" paddingTop={20} paddingBottom="$lg">
         <YStack gap="$md">
           <LiturgicalHeader date={now} season={season} />
+
+          <HoraLine />
 
           <DayCarousel
             today={anchorDate}

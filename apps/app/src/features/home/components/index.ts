@@ -1,5 +1,6 @@
 export { AppShortcuts } from './AppShortcuts'
 export { CelebrationOfDay } from './CelebrationOfDay'
+export { HoraLine } from './HoraLine'
 export { LiturgicalHeader } from './LiturgicalHeader'
 export { NavigationMedallion } from './NavigationMedallion'
 export { SeasonalContext } from './SeasonalContext'
