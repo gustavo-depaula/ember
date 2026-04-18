@@ -224,7 +224,12 @@ function EntryPill({
   }))
 
   return (
-    <Pressable onPress={onTap} style={{ position: 'absolute', left: index * itemSize }}>
+    <Pressable
+      onPress={onTap}
+      style={{ position: 'absolute', left: index * itemSize }}
+      accessibilityRole="button"
+      accessibilityLabel={label}
+    >
       <Animated.View style={[styles.pill, pillStyle]}>
         <Animated.Text style={[styles.entryText, textStyle]} numberOfLines={1}>
           {label}

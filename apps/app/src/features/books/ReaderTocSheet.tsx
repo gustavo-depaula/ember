@@ -99,9 +99,16 @@ export function ReaderTocSheet({ toc, currentChapterId, onSelectChapter, onClose
       const { node, depth, isLeaf, isExpanded } = item
       const isCurrent = node.id === currentChapterId
 
+      const title = localizeContent(node.title)
+
       if (isLeaf) {
         return (
-          <AnimatedPressable onPress={() => handleSelect(node.id)}>
+          <AnimatedPressable
+            onPress={() => handleSelect(node.id)}
+            accessibilityRole="link"
+            accessibilityLabel={title}
+            accessibilityState={{ selected: isCurrent }}
+          >
             <XStack
               height={itemHeight}
               alignItems="center"
@@ -116,7 +123,7 @@ export function ReaderTocSheet({ toc, currentChapterId, onSelectChapter, onClose
                 color={isCurrent ? '$accent' : '$color'}
                 numberOfLines={2}
               >
-                {localizeContent(node.title)}
+                {title}
               </Text>
             </XStack>
           </AnimatedPressable>
@@ -124,7 +131,12 @@ export function ReaderTocSheet({ toc, currentChapterId, onSelectChapter, onClose
       }
 
       return (
-        <Pressable onPress={() => toggleExpand(node.id)}>
+        <Pressable
+          onPress={() => toggleExpand(node.id)}
+          accessibilityRole="button"
+          accessibilityLabel={title}
+          accessibilityState={{ expanded: isExpanded }}
+        >
           <XStack
             height={itemHeight}
             alignItems="center"
@@ -144,7 +156,7 @@ export function ReaderTocSheet({ toc, currentChapterId, onSelectChapter, onClose
               flex={1}
               numberOfLines={2}
             >
-              {localizeContent(node.title)}
+              {title}
             </Text>
           </XStack>
         </Pressable>
