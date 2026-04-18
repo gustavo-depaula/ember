@@ -11,6 +11,9 @@ const languageLabel: Record<ContentLanguage, string> = {
   la: 'LA',
 }
 
+const toggleAlignEnd = { alignSelf: 'flex-end' } as const
+const toggleHitSlop = { top: 12, bottom: 12, left: 16, right: 16 }
+
 export function BilingualBlock({
   content,
   renderText,
@@ -20,6 +23,7 @@ export function BilingualBlock({
 }) {
   const displayMode = usePreferencesStore((s) => s.displayMode)
   const secondaryLanguage = usePreferencesStore((s) => s.secondaryLanguage)
+  const contentLanguage = usePreferencesStore((s) => s.contentLanguage)
 
   if (!content.secondary || !secondaryLanguage) {
     return (
@@ -56,6 +60,7 @@ export function BilingualBlock({
     <TapToSwitch
       primary={content.primary}
       secondary={content.secondary}
+      primaryLanguage={contentLanguage}
       secondaryLanguage={secondaryLanguage}
       renderText={renderText}
     />
@@ -65,19 +70,20 @@ export function BilingualBlock({
 function TapToSwitch({
   primary,
   secondary,
+  primaryLanguage,
   secondaryLanguage,
   renderText,
 }: {
   primary: string
   secondary: string
+  primaryLanguage: ContentLanguage
   secondaryLanguage: ContentLanguage
   renderText: (text: string) => React.ReactNode
 }) {
   const { t } = useTranslation()
-  const contentLanguage = usePreferencesStore((s) => s.contentLanguage)
   const [showSecondary, setShowSecondary] = useState(false)
   const activeText = showSecondary ? secondary : primary
-  const toggleTargetLang = showSecondary ? contentLanguage : secondaryLanguage
+  const toggleTargetLang = showSecondary ? primaryLanguage : secondaryLanguage
 
   return (
     <YStack>
@@ -87,8 +93,8 @@ function TapToSwitch({
         accessibilityLabel={t('a11y.switchLanguage', {
           language: t(`languages.${toggleTargetLang}`),
         })}
-        hitSlop={8}
-        style={{ alignSelf: 'flex-end' }}
+        hitSlop={toggleHitSlop}
+        style={toggleAlignEnd}
       >
         <Text
           fontFamily="$heading"
