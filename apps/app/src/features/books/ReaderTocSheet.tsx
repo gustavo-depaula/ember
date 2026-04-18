@@ -180,7 +180,12 @@ export function ReaderTocSheet({ toc, currentChapterId, onSelectChapter, onClose
           zIndex: 10,
         }}
       >
-        <Pressable style={{ flex: 1 }} onPress={onClose} />
+        <Pressable
+          style={{ flex: 1 }}
+          onPress={onClose}
+          accessibilityRole="button"
+          accessibilityLabel={t('a11y.closeModal')}
+        />
       </Animated.View>
 
       <Animated.View

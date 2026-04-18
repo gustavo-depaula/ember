@@ -10,7 +10,12 @@ export function ReaderErrorState({ onRetry }: { onRetry: () => void }) {
       <Text fontFamily="$body" fontSize="$2" color="$colorSecondary" textAlign="center">
         {t('common.couldntLoad')}
       </Text>
-      <AnimatedPressable onPress={onRetry} accessibilityRole="button" hitSlop={8}>
+      <AnimatedPressable
+        onPress={onRetry}
+        accessibilityRole="button"
+        accessibilityLabel={t('common.retry')}
+        hitSlop={8}
+      >
         <Text
           fontFamily="$heading"
           fontSize="$2"
