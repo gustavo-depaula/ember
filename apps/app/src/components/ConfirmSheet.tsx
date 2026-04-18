@@ -59,9 +59,11 @@ export function ConfirmHost() {
       <Pressable
         style={{ flex: 1, backgroundColor: 'rgba(0,0,0,0.5)' }}
         onPress={() => respond(false)}
+        accessibilityRole="button"
+        accessibilityLabel={t('a11y.closeModal')}
       >
         <View flex={1} justifyContent="flex-end">
-          <Pressable onPress={(e) => e.stopPropagation()}>
+          <Pressable onPress={(e) => e.stopPropagation()} accessible={false}>
             <YStack
               backgroundColor="$background"
               borderTopLeftRadius="$lg"
@@ -81,7 +83,12 @@ export function ConfirmHost() {
               ) : undefined}
               <XStack gap="$sm" paddingTop="$sm">
                 {singleAction ? undefined : (
-                  <AnimatedPressable onPress={() => respond(false)} style={{ flex: 1 }}>
+                  <AnimatedPressable
+                    onPress={() => respond(false)}
+                    style={{ flex: 1 }}
+                    accessibilityRole="button"
+                    accessibilityLabel={cancelLabel}
+                  >
                     <XStack
                       justifyContent="center"
                       paddingVertical="$md"
@@ -95,7 +102,12 @@ export function ConfirmHost() {
                     </XStack>
                   </AnimatedPressable>
                 )}
-                <AnimatedPressable onPress={() => respond(true)} style={{ flex: 1 }}>
+                <AnimatedPressable
+                  onPress={() => respond(true)}
+                  style={{ flex: 1 }}
+                  accessibilityRole="button"
+                  accessibilityLabel={confirmLabel}
+                >
                   <XStack
                     justifyContent="center"
                     paddingVertical="$md"
