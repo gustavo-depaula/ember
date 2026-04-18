@@ -432,6 +432,18 @@ Learning: a JSDoc warning is cheap, permanent, and reaches readers before they w
 
 ---
 
+## Iteration 29 — ShortcutRow extraction
+
+The home screen accumulated six nearly identical home-row shortcut blocks (Oratio / Kyrie / Examen / Intentions / Gratias / Memoria). Each was a 30-line `FadeInView + AnimatedPressable + XStack + icon slot + title + tagline + ChevronRight` chain varying only in the leading element, strings, and route. N=6 is past the point where the simplify guidance "three similar lines is better than a premature abstraction" gives way — the copy-paste was hiding missing a11y labels and making future rows (a Pax row, a Lectio row) needlessly expensive.
+
+Extracted `ShortcutRow` to `features/home/components/`. Props: `leading` (ReactNode for icon/custom element), `title`, `tagline`, `onPress`. Ships with `accessibilityRole="link"` + `accessibilityLabel` + `accessibilityHint` baked in — every home row now gets screen-reader support automatically.
+
+Net: `apps/app/src/app/index.tsx` loses ~130 lines. Future shortcut rows are a single 6-line call.
+
+Why now, not earlier: the first few rows shipped across many iterations. Only once they converged visually did the right abstraction become obvious — pulling one out after Oratio shipped would have locked in the wrong shape. N=2 is too early; N=6 with a seventh on the horizon is exactly right.
+
+---
+
 ## Session wrap
 
 Shipped tonight, in order:
@@ -468,6 +480,7 @@ Shipped tonight, in order:
 30. **Memento Mori** — Four Last Things nightly reflection: 28 rotating one-sentence meditations across Mors/Iudicium/Caelum/Infernum; evening-only home whisper (≥19:00) pairs with Compline as pre-sleep contemplation
 31. **Benedictio** — grace before/after meals: three slot chips (breakfast/lunch/dinner), traditional Benedic Domine + Agimus tibi gratias, home whisper during meal windows, Memoria integration. Also fixed a silent Angelus bug where `currentAngelusSlot(useToday())` always returned undefined (same useToday-is-midnight trap the Memento Mori simplify pass surfaced).
 32. useToday hour-math audit — grepped every `.getHours()` call, confirmed no remaining traps, and tightened the `useToday` / `getToday` JSDoc so future contributors read the warning before reaching for the hook.
+33. ShortcutRow extraction — six copy-pasted home rows collapsed to a single reusable component, with built-in `accessibilityRole="link"` / label / hint for screen readers.
 
 Bold = new visible features, not bug fixes.
 

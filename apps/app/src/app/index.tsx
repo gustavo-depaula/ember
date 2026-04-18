@@ -1,14 +1,7 @@
 import { format, subWeeks } from 'date-fns'
 import { Image } from 'expo-image'
 import { useRouter } from 'expo-router'
-import {
-  AlertTriangle,
-  BookOpen,
-  ChevronRight,
-  CircleDot,
-  Compass,
-  Flame,
-} from 'lucide-react-native'
+import { AlertTriangle, BookOpen, CircleDot, Compass, Flame } from 'lucide-react-native'
 import { useCallback, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Dimensions, Pressable } from 'react-native'
@@ -42,6 +35,7 @@ import {
   MementoLine,
   OblatioLine,
   SeasonalContext,
+  ShortcutRow,
   TimeBlockSection,
 } from '@/features/home'
 import { useOpenIntentionsCount } from '@/features/intentions'
@@ -229,214 +223,56 @@ export default function HomeScreen() {
           </YStack>
         </FadeInView>
 
-        <FadeInView>
-          <AnimatedPressable onPress={() => router.push('/oratio')}>
-            <XStack
-              alignItems="center"
-              gap="$md"
-              paddingVertical="$sm"
-              paddingHorizontal="$md"
-              borderRadius="$lg"
-              backgroundColor="$backgroundSurface"
-              borderWidth={1}
-              borderColor="$borderColor"
-            >
-              <YStack width={28} height={48} alignItems="center" justifyContent="center">
-                <CandleFlame size={28} />
-              </YStack>
-              <YStack flex={1}>
-                <Text fontFamily="$heading" fontSize="$3" color="$color" letterSpacing={0.5}>
-                  {t('oratio.title')}
-                </Text>
-                <Text
-                  fontFamily="$body"
-                  fontSize="$1"
-                  color="$colorSecondary"
-                  fontStyle="italic"
-                  numberOfLines={1}
-                >
-                  {t('oratio.homeTagline')}
-                </Text>
-              </YStack>
-              <ChevronRight size={16} color={theme.accent?.val} />
-            </XStack>
-          </AnimatedPressable>
-        </FadeInView>
+        <ShortcutRow
+          leading={<CandleFlame size={28} />}
+          title={t('oratio.title')}
+          tagline={t('oratio.homeTagline')}
+          onPress={() => router.push('/oratio')}
+        />
 
-        <FadeInView>
-          <AnimatedPressable onPress={() => router.push('/kyrie')}>
-            <XStack
-              alignItems="center"
-              gap="$md"
-              paddingVertical="$sm"
-              paddingHorizontal="$md"
-              borderRadius="$lg"
-              backgroundColor="$backgroundSurface"
-              borderWidth={1}
-              borderColor="$borderColor"
-            >
-              <YStack width={28} height={48} alignItems="center" justifyContent="center">
-                <CircleDot size={22} color={theme.accent?.val} />
-              </YStack>
-              <YStack flex={1}>
-                <Text fontFamily="$heading" fontSize="$3" color="$color" letterSpacing={0.5}>
-                  {t('kyrie.title')}
-                </Text>
-                <Text
-                  fontFamily="$body"
-                  fontSize="$1"
-                  color="$colorSecondary"
-                  fontStyle="italic"
-                  numberOfLines={1}
-                >
-                  {t('kyrie.homeTagline')}
-                </Text>
-              </YStack>
-              <ChevronRight size={16} color={theme.accent?.val} />
-            </XStack>
-          </AnimatedPressable>
-        </FadeInView>
+        <ShortcutRow
+          leading={<CircleDot size={22} color={theme.accent?.val} />}
+          title={t('kyrie.title')}
+          tagline={t('kyrie.homeTagline')}
+          onPress={() => router.push('/kyrie')}
+        />
 
-        <FadeInView>
-          <AnimatedPressable onPress={() => router.push('/examen')}>
-            <XStack
-              alignItems="center"
-              gap="$md"
-              paddingVertical="$sm"
-              paddingHorizontal="$md"
-              borderRadius="$lg"
-              backgroundColor="$backgroundSurface"
-              borderWidth={1}
-              borderColor="$borderColor"
-            >
-              <YStack width={28} height={48} alignItems="center" justifyContent="center">
-                <Compass size={22} color={theme.accent?.val} />
-              </YStack>
-              <YStack flex={1}>
-                <Text fontFamily="$heading" fontSize="$3" color="$color" letterSpacing={0.5}>
-                  {t('examen.title')}
-                </Text>
-                <Text
-                  fontFamily="$body"
-                  fontSize="$1"
-                  color="$colorSecondary"
-                  fontStyle="italic"
-                  numberOfLines={1}
-                >
-                  {t('examen.homeTagline')}
-                </Text>
-              </YStack>
-              <ChevronRight size={16} color={theme.accent?.val} />
-            </XStack>
-          </AnimatedPressable>
-        </FadeInView>
+        <ShortcutRow
+          leading={<Compass size={22} color={theme.accent?.val} />}
+          title={t('examen.title')}
+          tagline={t('examen.homeTagline')}
+          onPress={() => router.push('/examen')}
+        />
 
-        <FadeInView>
-          <AnimatedPressable onPress={() => router.push('/intentions')}>
-            <XStack
-              alignItems="center"
-              gap="$md"
-              paddingVertical="$sm"
-              paddingHorizontal="$md"
-              borderRadius="$lg"
-              backgroundColor="$backgroundSurface"
-              borderWidth={1}
-              borderColor="$borderColor"
-            >
-              <YStack width={28} height={48} alignItems="center" justifyContent="center">
-                <IntentionHeart active={openIntentionsCount > 0} />
-              </YStack>
-              <YStack flex={1}>
-                <Text fontFamily="$heading" fontSize="$3" color="$color" letterSpacing={0.5}>
-                  {t('intentions.title')}
-                </Text>
-                <Text
-                  fontFamily="$body"
-                  fontSize="$1"
-                  color="$colorSecondary"
-                  fontStyle="italic"
-                  numberOfLines={1}
-                >
-                  {openIntentionsCount > 0
-                    ? t('intentions.homeOpenCount', { count: openIntentionsCount })
-                    : t('intentions.homeTagline')}
-                </Text>
-              </YStack>
-              <ChevronRight size={16} color={theme.accent?.val} />
-            </XStack>
-          </AnimatedPressable>
-        </FadeInView>
+        <ShortcutRow
+          leading={<IntentionHeart active={openIntentionsCount > 0} />}
+          title={t('intentions.title')}
+          tagline={
+            openIntentionsCount > 0
+              ? t('intentions.homeOpenCount', { count: openIntentionsCount })
+              : t('intentions.homeTagline')
+          }
+          onPress={() => router.push('/intentions')}
+        />
 
-        <FadeInView>
-          <AnimatedPressable onPress={() => router.push('/gratias')}>
-            <XStack
-              alignItems="center"
-              gap="$md"
-              paddingVertical="$sm"
-              paddingHorizontal="$md"
-              borderRadius="$lg"
-              backgroundColor="$backgroundSurface"
-              borderWidth={1}
-              borderColor="$borderColor"
-            >
-              <YStack width={28} height={48} alignItems="center" justifyContent="center">
-                <Flame size={22} color={theme.accent?.val} />
-              </YStack>
-              <YStack flex={1}>
-                <Text fontFamily="$heading" fontSize="$3" color="$color" letterSpacing={0.5}>
-                  {t('gratias.title')}
-                </Text>
-                <Text
-                  fontFamily="$body"
-                  fontSize="$1"
-                  color="$colorSecondary"
-                  fontStyle="italic"
-                  numberOfLines={1}
-                >
-                  {gratitudesCount > 0
-                    ? t('gratias.homeCount', { count: gratitudesCount })
-                    : t('gratias.homeTagline')}
-                </Text>
-              </YStack>
-              <ChevronRight size={16} color={theme.accent?.val} />
-            </XStack>
-          </AnimatedPressable>
-        </FadeInView>
+        <ShortcutRow
+          leading={<Flame size={22} color={theme.accent?.val} />}
+          title={t('gratias.title')}
+          tagline={
+            gratitudesCount > 0
+              ? t('gratias.homeCount', { count: gratitudesCount })
+              : t('gratias.homeTagline')
+          }
+          onPress={() => router.push('/gratias')}
+        />
 
         {memoriaEntriesCount > 0 && (
-          <FadeInView>
-            <AnimatedPressable onPress={() => router.push('/memoria')}>
-              <XStack
-                alignItems="center"
-                gap="$md"
-                paddingVertical="$sm"
-                paddingHorizontal="$md"
-                borderRadius="$lg"
-                backgroundColor="$backgroundSurface"
-                borderWidth={1}
-                borderColor="$borderColor"
-              >
-                <YStack width={28} height={48} alignItems="center" justifyContent="center">
-                  <BookOpen size={22} color={theme.accent?.val} />
-                </YStack>
-                <YStack flex={1}>
-                  <Text fontFamily="$heading" fontSize="$3" color="$color" letterSpacing={0.5}>
-                    {t('memoria.title')}
-                  </Text>
-                  <Text
-                    fontFamily="$body"
-                    fontSize="$1"
-                    color="$colorSecondary"
-                    fontStyle="italic"
-                    numberOfLines={1}
-                  >
-                    {t('memoria.homeTagline')}
-                  </Text>
-                </YStack>
-                <ChevronRight size={16} color={theme.accent?.val} />
-              </XStack>
-            </AnimatedPressable>
-          </FadeInView>
+          <ShortcutRow
+            leading={<BookOpen size={22} color={theme.accent?.val} />}
+            title={t('memoria.title')}
+            tagline={t('memoria.homeTagline')}
+            onPress={() => router.push('/memoria')}
+          />
         )}
 
         {restartNeededIds.size > 0 && (
