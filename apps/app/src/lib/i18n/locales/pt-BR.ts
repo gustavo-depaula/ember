@@ -262,6 +262,7 @@ export default {
     dayOffered: 'Ofereceu este dia ao Senhor',
     confession: 'Recebeu o Sacramento da Penit\u00eancia',
     angelus: 'Ang\u00e9lus \u00b7 {{slot}}',
+    mealBlessed: 'Refei\u00e7\u00e3o aben\u00e7oada \u00b7 {{slot}}',
   },
 
   oblatio: {
@@ -358,6 +359,28 @@ export default {
       '27': 'Os anjos e santos te esperam. N\u00e3o desaponte essa companhia.',
       '28': 'O Inferno \u00e9 porta trancada por dentro. O amor \u00e9 a chave. Ama agora.',
     },
+  },
+
+  benedictio: {
+    title: 'Benedictio',
+    subtitle:
+      'Gra\u00e7a antes e depois das refei\u00e7\u00f5es \u2014 a ora\u00e7\u00e3o cotidiana mais antiga do lar crist\u00e3o.',
+    slot: {
+      breakfast: 'Caf\u00e9',
+      lunch: 'Almo\u00e7o',
+      dinner: 'Jantar',
+    },
+    invite: {
+      breakfast: 'Aben\u00e7oa este caf\u00e9 da manh\u00e3.',
+      lunch: 'Aben\u00e7oa esta refei\u00e7\u00e3o.',
+      dinner: 'Aben\u00e7oa esta ceia.',
+    },
+    before: 'Antes da refei\u00e7\u00e3o',
+    after: 'Depois da refei\u00e7\u00e3o',
+    beforePrayer:
+      'Aben\u00e7oai, Senhor, a n\u00f3s e aos alimentos que pela vossa bondade iremos tomar. Por Cristo nosso Senhor. Am\u00e9m.',
+    afterPrayer:
+      'N\u00f3s vos damos gra\u00e7as, Deus todo-poderoso, por todos os vossos benef\u00edcios, v\u00f3s que viveis e reinais pelos s\u00e9culos dos s\u00e9culos. Am\u00e9m.',
   },
 
   gratias: {

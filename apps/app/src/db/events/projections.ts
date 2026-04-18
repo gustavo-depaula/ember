@@ -294,6 +294,18 @@ export function applyEvent(draft: WritableDraft<EventStoreState>, event: AppEven
       draft.angelusPrayed.delete(`${event.date}:${event.slot}`)
       break
     }
+
+    // --- Benedictio events ---
+
+    case 'MealBlessed': {
+      draft.mealsBlessed.set(`${event.date}:${event.slot}`, event.blessedAt)
+      break
+    }
+
+    case 'MealBlessingRevoked': {
+      draft.mealsBlessed.delete(`${event.date}:${event.slot}`)
+      break
+    }
   }
 }
 

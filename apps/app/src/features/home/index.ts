@@ -2,6 +2,7 @@ export {
   AngelusLine,
   AppShortcuts,
   Aspiratio,
+  BenedictioLine,
   CelebrationOfDay,
   ConfessioLine,
   DiesDevotion,

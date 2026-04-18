@@ -241,6 +241,25 @@ type AngelusRevoked = {
 
 export type AngelusEvent = AngelusPrayed | AngelusRevoked
 
+// --- Benedictio (meal grace) events ---
+
+export type MealSlot = 'breakfast' | 'lunch' | 'dinner'
+
+type MealBlessed = {
+  type: 'MealBlessed'
+  date: string
+  slot: MealSlot
+  blessedAt: number
+}
+
+type MealBlessingRevoked = {
+  type: 'MealBlessingRevoked'
+  date: string
+  slot: MealSlot
+}
+
+export type BenedictioEvent = MealBlessed | MealBlessingRevoked
+
 // --- Union ---
 
 export type AppEvent =
@@ -252,6 +271,7 @@ export type AppEvent =
   | OblatioEvent
   | ConfessioEvent
   | AngelusEvent
+  | BenedictioEvent
 
 // --- Stored row shape ---
 

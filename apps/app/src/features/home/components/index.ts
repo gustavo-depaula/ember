@@ -1,6 +1,7 @@
 export { AngelusLine } from './AngelusLine'
 export { AppShortcuts } from './AppShortcuts'
 export { Aspiratio } from './Aspiratio'
+export { BenedictioLine } from './BenedictioLine'
 export { CelebrationOfDay } from './CelebrationOfDay'
 export { ConfessioLine } from './ConfessioLine'
 export { DiesDevotion } from './DiesDevotion'

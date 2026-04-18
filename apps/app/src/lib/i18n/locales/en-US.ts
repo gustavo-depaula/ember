@@ -260,6 +260,7 @@ export default {
     dayOffered: 'Offered this day to the Lord',
     confession: 'Received the Sacrament of Penance',
     angelus: 'Angelus · {{slot}}',
+    mealBlessed: 'Meal blessed · {{slot}}',
   },
 
   oblatio: {
@@ -356,6 +357,27 @@ export default {
       '27': 'The angels and saints are waiting for you. Do not disappoint that company.',
       '28': 'Hell is a door locked from the inside. Love is the key. Love now.',
     },
+  },
+
+  benedictio: {
+    title: 'Benedictio',
+    subtitle: 'Grace before and after meals — the oldest daily prayer of a Christian home.',
+    slot: {
+      breakfast: 'Breakfast',
+      lunch: 'Lunch',
+      dinner: 'Dinner',
+    },
+    invite: {
+      breakfast: 'Bless this breakfast.',
+      lunch: 'Bless this meal.',
+      dinner: 'Bless this supper.',
+    },
+    before: 'Before the meal',
+    after: 'After the meal',
+    beforePrayer:
+      'Bless us, O Lord, and these Thy gifts, which we are about to receive from Thy bounty, through Christ our Lord. Amen.',
+    afterPrayer:
+      'We give Thee thanks, almighty God, for all Thy benefits, who livest and reignest forever. Amen.',
   },
 
   gratias: {

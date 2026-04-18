@@ -32,6 +32,7 @@ import {
   AngelusLine,
   AppShortcuts,
   Aspiratio,
+  BenedictioLine,
   CelebrationOfDay,
   ConfessioLine,
   DiesDevotion,
@@ -191,6 +192,8 @@ export default function HomeScreen() {
           <OblatioLine date={now} />
 
           <AngelusLine date={now} />
+
+          <BenedictioLine />
 
           <HoraLine />
 

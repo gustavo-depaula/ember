@@ -1,6 +1,16 @@
 import { format, isSameDay, isToday, isYesterday } from 'date-fns'
 import { useRouter } from 'expo-router'
-import { Bell, Check, ChevronLeft, Flame, Heart, Key, Sparkles, Sunrise } from 'lucide-react-native'
+import {
+  Bell,
+  Check,
+  ChevronLeft,
+  Flame,
+  Heart,
+  Key,
+  Sparkles,
+  Sunrise,
+  Utensils,
+} from 'lucide-react-native'
 import { useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Pressable, ScrollView } from 'react-native'
@@ -23,7 +33,8 @@ function matchesFilter(entry: MemoriaEntry, filter: Filter): boolean {
       entry.kind === 'completion' ||
       entry.kind === 'day-offered' ||
       entry.kind === 'confession' ||
-      entry.kind === 'angelus'
+      entry.kind === 'angelus' ||
+      entry.kind === 'meal-blessed'
     )
   if (filter === 'intentions')
     return entry.kind === 'intention-added' || entry.kind === 'intention-answered'
@@ -249,6 +260,7 @@ function getEntryIcon(kind: MemoriaEntry['kind'], color: string): React.ReactNod
   if (kind === 'day-offered') return <Sunrise size={14} color={color} />
   if (kind === 'confession') return <Key size={14} color={color} />
   if (kind === 'angelus') return <Bell size={14} color={color} />
+  if (kind === 'meal-blessed') return <Utensils size={14} color={color} />
   return <Sparkles size={14} color={color} fill={color} />
 }
 
@@ -272,6 +284,9 @@ function getEntryBody(entry: MemoriaEntry, t: ReturnType<typeof useTranslation>[
   }
   if (entry.kind === 'angelus') {
     return t('memoria.angelus', { slot: t(`angelus.slot.${entry.slot}`) })
+  }
+  if (entry.kind === 'meal-blessed') {
+    return t('memoria.mealBlessed', { slot: t(`benedictio.slot.${entry.slot}`) })
   }
   return t('memoria.intentionAnswered', { text: entry.intention.text })
 }

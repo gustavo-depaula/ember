@@ -395,6 +395,26 @@ Learning: **`useToday()` is a day-only abstraction.** Anything that cares about 
 
 ---
 
+## Iteration 27 — Benedictio (grace before and after meals) + Angelus bug fix
+
+Next gap in the daily Catholic rhythm: the oldest prayer of any Christian home — grace at meals. Structurally I took the Angelus template verbatim (three time-of-day slots, event-sourced, `date:slot` composite key, home whisper during windows). Content is the traditional Latin-rooted "Benedic, Domine" + "Agimus tibi gratias."
+
+Shipped:
+- **`/benedictio` screen** — three slot chips (breakfast/lunch/dinner), two prayer blocks (before / after) in the script register. Simple, calm, extensible.
+- **BenedictioLine home whisper** — "Bless this breakfast / meal / supper" copy varies by current slot. Only appears when a meal window is open AND the current slot hasn't been blessed yet.
+- **Memoria integration** — `Utensils` icon, "Meal blessed · {{slot}}" body, Prayers filter picks it up.
+
+**Silent Angelus bug caught** by running the simplify pattern against this iteration. The previous Angelus iteration (iteration 25) had the same `useToday()`-returns-midnight trap I discovered in the Memento Mori simplify pass — so the Angelus bell has been invisible since it shipped. Fixed by:
+1. Extracting `useCurrentAngelusSlot()` that uses `new Date()` + a 60s `setInterval` (mirroring the new `useCurrentMealSlot`).
+2. Replacing the buggy `currentAngelusSlot(useToday())` calls on both the home line and the `/angelus` screen.
+3. Adding a warning comment to both `slots.ts` files telling future contributors *never* to pass `useToday()` into the window-matching functions.
+
+This is the kind of bug that would have festered for weeks if not for the compounding simplify passes. The pattern lesson (documented in iteration 26's learning) caught a real production issue one iteration later. Worth every token.
+
+Simplify agent also flagged potential duplication between Angelus and Benedictio (both have slot windows + interval hooks + SlotChip components). Kept them separate for now — N=2, and they'll diverge when Benedictio gets per-meal variants (e.g., feast-day graces) or Angelus grows its own slot UI. Abstract when the third one lands, not before.
+
+---
+
 ## Session wrap
 
 Shipped tonight, in order:
@@ -429,6 +449,7 @@ Shipped tonight, in order:
 28. **Confessio** — sacrament of penance tracker: days-since card, Act of Contrition, history, Examen link, home whisper
 29. **Angelus** — thrice-daily Marian bell: three slot chips, traditional prayer + Regina Cæli swap, home whisper in canonical windows
 30. **Memento Mori** — Four Last Things nightly reflection: 28 rotating one-sentence meditations across Mors/Iudicium/Caelum/Infernum; evening-only home whisper (≥19:00) pairs with Compline as pre-sleep contemplation
+31. **Benedictio** — grace before/after meals: three slot chips (breakfast/lunch/dinner), traditional Benedic Domine + Agimus tibi gratias, home whisper during meal windows, Memoria integration. Also fixed a silent Angelus bug where `currentAngelusSlot(useToday())` always returned undefined (same useToday-is-midnight trap the Memento Mori simplify pass surfaced).
 
 Bold = new visible features, not bug fixes.
 

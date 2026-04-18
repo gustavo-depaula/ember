@@ -5,14 +5,14 @@ import { Pressable } from 'react-native'
 import { Text } from 'tamagui'
 
 import { useEventStore } from '@/db/events'
-import { currentAngelusSlot } from '@/features/angelus'
+import { useCurrentAngelusSlot } from '@/features/angelus'
 import { useLiturgicalTheme } from '@/hooks/useLiturgicalTheme'
 
 export function AngelusLine({ date }: { date: Date }) {
   const { t } = useTranslation()
   const router = useRouter()
   const { season } = useLiturgicalTheme()
-  const slot = currentAngelusSlot(date)
+  const slot = useCurrentAngelusSlot()
   const dateKey = format(date, 'yyyy-MM-dd')
   const prayed = useEventStore((s) => (slot ? s.angelusPrayed.has(`${dateKey}:${slot}`) : false))
 

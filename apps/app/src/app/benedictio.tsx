@@ -6,31 +6,24 @@ import { Pressable, ScrollView } from 'react-native'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
 import { AnimatedPressable, ScreenLayout } from '@/components'
-import type { AngelusSlot } from '@/db/events/types'
+import type { MealSlot } from '@/db/events/types'
 import {
-  angelusSlots,
-  useAngelusPrayedAt,
-  useCurrentAngelusSlot,
-  usePrayAngelus,
-  useRevokeAngelus,
-} from '@/features/angelus'
-import { useLiturgicalTheme } from '@/hooks/useLiturgicalTheme'
+  mealSlots,
+  useBlessMeal,
+  useCurrentMealSlot,
+  useMealBlessedAt,
+  useRevokeMealBlessing,
+} from '@/features/benedictio'
 import { useToday } from '@/hooks/useToday'
 import { successBuzz } from '@/lib/haptics'
 
-export default function AngelusScreen() {
+export default function BenedictioScreen() {
   const { t } = useTranslation()
   const router = useRouter()
   const theme = useTheme()
-  const now = useToday()
-  const { season } = useLiturgicalTheme()
-  const dateKey = format(now, 'yyyy-MM-dd')
-  const activeSlot = useCurrentAngelusSlot()
-
-  const eastertide = season === 'easter'
-  const prayerKey = eastertide ? 'angelus.reginaCaeli' : 'angelus.prayer'
-  const titleKey = eastertide ? 'angelus.reginaCaeliTitle' : 'angelus.title'
-  const subtitleKey = eastertide ? 'angelus.reginaCaeliSubtitle' : 'angelus.subtitle'
+  const today = useToday()
+  const dateKey = format(today, 'yyyy-MM-dd')
+  const activeSlot = useCurrentMealSlot()
 
   return (
     <ScreenLayout>
@@ -42,16 +35,16 @@ export default function AngelusScreen() {
             </Pressable>
             <YStack flex={1}>
               <Text fontFamily="$heading" fontSize="$5" color="$color">
-                {t(titleKey)}
+                {t('benedictio.title')}
               </Text>
               <Text fontFamily="$body" fontSize="$1" color="$colorSecondary" fontStyle="italic">
-                {t(subtitleKey)}
+                {t('benedictio.subtitle')}
               </Text>
             </YStack>
           </XStack>
 
           <XStack gap="$sm" justifyContent="center">
-            {angelusSlots.map((slot) => (
+            {mealSlots.map((slot) => (
               <SlotChip key={slot} slot={slot} active={slot === activeSlot} dateKey={dateKey} />
             ))}
           </XStack>
@@ -64,8 +57,39 @@ export default function AngelusScreen() {
             borderLeftColor="$accent"
             backgroundColor="$backgroundSurface"
           >
+            <Text
+              fontFamily="$heading"
+              fontSize="$1"
+              color="$accent"
+              letterSpacing={1.5}
+              textTransform="uppercase"
+            >
+              {t('benedictio.before')}
+            </Text>
             <Text fontFamily="$script" fontSize="$3" color="$color" lineHeight={26}>
-              {t(prayerKey)}
+              {t('benedictio.beforePrayer')}
+            </Text>
+          </YStack>
+
+          <YStack
+            gap="$sm"
+            padding="$md"
+            borderRadius="$md"
+            borderLeftWidth={3}
+            borderLeftColor="$accent"
+            backgroundColor="$backgroundSurface"
+          >
+            <Text
+              fontFamily="$heading"
+              fontSize="$1"
+              color="$accent"
+              letterSpacing={1.5}
+              textTransform="uppercase"
+            >
+              {t('benedictio.after')}
+            </Text>
+            <Text fontFamily="$script" fontSize="$3" color="$color" lineHeight={26}>
+              {t('benedictio.afterPrayer')}
             </Text>
           </YStack>
         </YStack>
@@ -74,28 +98,20 @@ export default function AngelusScreen() {
   )
 }
 
-function SlotChip({
-  slot,
-  active,
-  dateKey,
-}: {
-  slot: AngelusSlot
-  active: boolean
-  dateKey: string
-}) {
+function SlotChip({ slot, active, dateKey }: { slot: MealSlot; active: boolean; dateKey: string }) {
   const { t } = useTranslation()
-  const pray = usePrayAngelus()
-  const revoke = useRevokeAngelus()
-  const prayedAt = useAngelusPrayedAt(dateKey, slot)
-  const prayed = prayedAt !== undefined
+  const bless = useBlessMeal()
+  const revoke = useRevokeMealBlessing()
+  const blessedAt = useMealBlessedAt(dateKey, slot)
+  const blessed = blessedAt !== undefined
 
   const onToggle = () => {
-    if (prayed) {
+    if (blessed) {
       revoke.mutate({ date: dateKey, slot })
       return
     }
     successBuzz()
-    pray.mutate({ date: dateKey, slot })
+    bless.mutate({ date: dateKey, slot })
   }
 
   return (
@@ -108,16 +124,16 @@ function SlotChip({
         borderRadius={999}
         borderWidth={1}
         borderColor={active ? '$accent' : '$borderColor'}
-        backgroundColor={prayed ? '$accent' : 'transparent'}
+        backgroundColor={blessed ? '$accent' : 'transparent'}
       >
-        {prayed && <Check size={12} color="white" />}
+        {blessed && <Check size={12} color="white" />}
         <Text
           fontFamily="$heading"
           fontSize="$1"
-          color={prayed ? 'white' : active ? '$accent' : '$colorSecondary'}
+          color={blessed ? 'white' : active ? '$accent' : '$colorSecondary'}
           letterSpacing={1}
         >
-          {t(`angelus.slot.${slot}`).toUpperCase()}
+          {t(`benedictio.slot.${slot}`).toUpperCase()}
         </Text>
       </XStack>
     </AnimatedPressable>
