@@ -27,6 +27,7 @@ function CollapsibleSection({
         onPress={() => setExpanded(!expanded)}
         hitSlop={8}
         accessibilityRole="button"
+        accessibilityLabel={title}
         accessibilityState={{ expanded }}
       >
         <XStack alignItems="center" gap="$sm">
