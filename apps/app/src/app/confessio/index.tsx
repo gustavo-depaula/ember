@@ -3,6 +3,7 @@ import { useRouter } from 'expo-router'
 import { Check, ChevronLeft, Trash2 } from 'lucide-react-native'
 import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
+import Animated, { FadeIn, FadeOut, LinearTransition } from 'react-native-reanimated'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
 import { AnimatedPressable, confirm, ScreenLayout } from '@/components'
@@ -135,24 +136,30 @@ export default function ConfessioScreen() {
               {t('confessio.historyHeading').toUpperCase()}
             </Text>
             {confessions.map((c) => (
-              <XStack
+              <Animated.View
                 key={c.id}
-                gap="$md"
-                alignItems="center"
-                paddingVertical="$sm"
-                paddingHorizontal="$md"
-                borderRadius="$md"
-                borderWidth={1}
-                borderColor="$borderColor"
-                backgroundColor="$backgroundSurface"
+                entering={FadeIn.duration(200)}
+                exiting={FadeOut.duration(150)}
+                layout={LinearTransition.duration(200)}
               >
-                <Text fontFamily="$body" fontSize="$3" color="$color" flex={1}>
-                  {formatLocalized(parseISO(c.date), 'PPP')}
-                </Text>
-                <AnimatedPressable onPress={() => onDelete(c)}>
-                  <Trash2 size={14} color={theme.colorSecondary?.val} />
-                </AnimatedPressable>
-              </XStack>
+                <XStack
+                  gap="$md"
+                  alignItems="center"
+                  paddingVertical="$sm"
+                  paddingHorizontal="$md"
+                  borderRadius="$md"
+                  borderWidth={1}
+                  borderColor="$borderColor"
+                  backgroundColor="$backgroundSurface"
+                >
+                  <Text fontFamily="$body" fontSize="$3" color="$color" flex={1}>
+                    {formatLocalized(parseISO(c.date), 'PPP')}
+                  </Text>
+                  <AnimatedPressable onPress={() => onDelete(c)}>
+                    <Trash2 size={14} color={theme.colorSecondary?.val} />
+                  </AnimatedPressable>
+                </XStack>
+              </Animated.View>
             ))}
           </YStack>
         )}

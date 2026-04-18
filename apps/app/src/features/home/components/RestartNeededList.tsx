@@ -1,6 +1,7 @@
 import { useRouter } from 'expo-router'
 import { AlertTriangle } from 'lucide-react-native'
 import { useTranslation } from 'react-i18next'
+import Animated, { FadeIn, FadeOut, LinearTransition } from 'react-native-reanimated'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
 import { AnimatedPressable } from '@/components'
@@ -20,37 +21,43 @@ export function RestartNeededList({ ids }: { ids: Set<string> }) {
         const m = getManifest(id)
         if (!m) return null
         return (
-          <AnimatedPressable
+          <Animated.View
             key={id}
-            onPress={() =>
-              router.push({
-                pathname: '/practices/[manifestId]/program',
-                params: { manifestId: id },
-              })
-            }
-            accessibilityRole="button"
-            accessibilityLabel={t('a11y.restartPractice', { name: localizeContent(m.name) })}
+            entering={FadeIn.duration(200)}
+            exiting={FadeOut.duration(150)}
+            layout={LinearTransition.duration(200)}
           >
-            <XStack
-              backgroundColor="$backgroundSurface"
-              borderRadius="$lg"
-              padding="$md"
-              alignItems="center"
-              gap="$md"
-              borderLeftWidth={3}
-              borderLeftColor="$accent"
+            <AnimatedPressable
+              onPress={() =>
+                router.push({
+                  pathname: '/practices/[manifestId]/program',
+                  params: { manifestId: id },
+                })
+              }
+              accessibilityRole="button"
+              accessibilityLabel={t('a11y.restartPractice', { name: localizeContent(m.name) })}
             >
-              <AlertTriangle size={18} color={theme.accent?.val} />
-              <YStack flex={1}>
-                <Text fontFamily="$body" fontSize="$3" color="$color">
-                  {localizeContent(m.name)}
-                </Text>
-                <Text fontFamily="$body" fontSize="$1" color="$accent">
-                  {t('program.restartNeeded')}
-                </Text>
-              </YStack>
-            </XStack>
-          </AnimatedPressable>
+              <XStack
+                backgroundColor="$backgroundSurface"
+                borderRadius="$lg"
+                padding="$md"
+                alignItems="center"
+                gap="$md"
+                borderLeftWidth={3}
+                borderLeftColor="$accent"
+              >
+                <AlertTriangle size={18} color={theme.accent?.val} />
+                <YStack flex={1}>
+                  <Text fontFamily="$body" fontSize="$3" color="$color">
+                    {localizeContent(m.name)}
+                  </Text>
+                  <Text fontFamily="$body" fontSize="$1" color="$accent">
+                    {t('program.restartNeeded')}
+                  </Text>
+                </YStack>
+              </XStack>
+            </AnimatedPressable>
+          </Animated.View>
         )
       })}
     </YStack>
