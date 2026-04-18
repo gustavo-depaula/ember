@@ -66,7 +66,7 @@ function PrayerCard({ heading, body }: { heading: string; body: string }) {
       >
         {heading}
       </Text>
-      <Text fontFamily="$script" fontSize="$3" color="$color" lineHeight={26}>
+      <Text fontFamily="$body" fontSize="$3" color="$color" lineHeight={26}>
         {body}
       </Text>
     </YStack>

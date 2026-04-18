@@ -23,13 +23,12 @@ export function WhisperLine({
       accessibilityLabel={accessibilityLabel}
     >
       <Text
-        fontFamily="$script"
-        fontSize={bright ? '$3' : '$2'}
+        fontFamily="$body"
+        fontSize={bright ? '$2' : '$1'}
         color={bright ? '$accent' : '$colorSecondary'}
-        fontStyle="italic"
         textAlign="center"
         paddingVertical="$xs"
-        opacity={bright ? 0.85 : 0.75}
+        opacity={bright ? 0.9 : 0.75}
       >
         {label}
       </Text>

@@ -69,7 +69,7 @@ export default function AngelusScreen() {
             borderLeftColor="$accent"
             backgroundColor="$backgroundSurface"
           >
-            <Text fontFamily="$script" fontSize="$3" color="$color" lineHeight={26}>
+            <Text fontFamily="$body" fontSize="$3" color="$color" lineHeight={26}>
               {t(prayerKey)}
             </Text>
           </YStack>

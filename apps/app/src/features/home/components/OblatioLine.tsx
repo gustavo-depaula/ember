@@ -37,14 +37,7 @@ export function OblatioLine({ date }: { date: Date }) {
         accessibilityLabel={t('oblatio.a11yOfferThisDay')}
       >
         <XStack justifyContent="center" paddingVertical="$xs">
-          <Text
-            fontFamily="$script"
-            fontSize="$3"
-            color="$accent"
-            fontStyle="italic"
-            textAlign="center"
-            opacity={0.85}
-          >
+          <Text fontFamily="$body" fontSize="$2" color="$accent" textAlign="center" opacity={0.9}>
             {t('oblatio.offerThisDay')}
           </Text>
         </XStack>

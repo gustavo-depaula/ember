@@ -66,7 +66,7 @@ export default function BenedictioScreen() {
             >
               {t('benedictio.before')}
             </Text>
-            <Text fontFamily="$script" fontSize="$3" color="$color" lineHeight={26}>
+            <Text fontFamily="$body" fontSize="$3" color="$color" lineHeight={26}>
               {t('benedictio.beforePrayer')}
             </Text>
           </YStack>
@@ -88,7 +88,7 @@ export default function BenedictioScreen() {
             >
               {t('benedictio.after')}
             </Text>
-            <Text fontFamily="$script" fontSize="$3" color="$color" lineHeight={26}>
+            <Text fontFamily="$body" fontSize="$3" color="$color" lineHeight={26}>
               {t('benedictio.afterPrayer')}
             </Text>
           </YStack>

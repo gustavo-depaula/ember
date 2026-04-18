@@ -22,7 +22,7 @@ export function HoraLine() {
 
   return (
     <XStack justifyContent="center" paddingVertical="$xs">
-      <Text fontFamily="$script" fontSize="$3" color="$colorSecondary" fontStyle="italic">
+      <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
         {t(`home.hora.${hora}`)}
       </Text>
     </XStack>

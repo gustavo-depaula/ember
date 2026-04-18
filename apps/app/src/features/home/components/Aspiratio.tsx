@@ -55,12 +55,11 @@ export function Aspiratio({ date }: { date?: Date }) {
     >
       <XStack justifyContent="center" paddingVertical="$sm" paddingHorizontal="$lg">
         <Text
-          fontFamily="$script"
-          fontSize="$3"
+          fontFamily="$body"
+          fontSize="$2"
           color="$colorSecondary"
-          fontStyle="italic"
           textAlign="center"
-          opacity={0.7}
+          opacity={0.75}
         >
           {aspiration}
         </Text>

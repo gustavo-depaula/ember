@@ -48,7 +48,7 @@ export default function MementoScreen() {
             >
               {t(`memento.pillar.${today.pillar}`)}
             </Text>
-            <Text fontFamily="$script" fontSize="$3" color="$color" lineHeight={28}>
+            <Text fontFamily="$body" fontSize="$3" color="$color" lineHeight={28}>
               {t(`memento.reflection.${today.index + 1}`)}
             </Text>
           </YStack>
