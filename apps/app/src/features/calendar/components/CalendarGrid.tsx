@@ -4,6 +4,7 @@ import { useTranslation } from 'react-i18next'
 import { Text, View, XStack, YStack } from 'tamagui'
 import { AnimatedPressable } from '@/components'
 import { useToday } from '@/hooks/useToday'
+import { localizeContent } from '@/lib/i18n'
 import { type DayCalendar, rankColors } from '@/lib/liturgical'
 
 const dayKeys = ['sun', 'mon', 'tue', 'wed', 'thu', 'fri', 'sat'] as const
@@ -14,12 +15,14 @@ const DayCell = memo(function DayCell({
   isToday,
   isSelected,
   onPress,
+  label,
 }: {
   day: number
   celebration: DayCalendar | undefined
   isToday: boolean
   isSelected: boolean
   onPress: (day: number) => void
+  label: string
 }) {
   const dotColor = celebration?.principal
     ? (rankColors[celebration.principal.rank] ?? '#999')
@@ -28,7 +31,12 @@ const DayCell = memo(function DayCell({
   const handlePress = useCallback(() => onPress(day), [day, onPress])
 
   return (
-    <AnimatedPressable onPress={handlePress}>
+    <AnimatedPressable
+      onPress={handlePress}
+      accessibilityRole="button"
+      accessibilityLabel={label}
+      accessibilityState={{ selected: isSelected }}
+    >
       <YStack
         width={40}
         height={44}
@@ -121,21 +129,30 @@ export function CalendarGrid({
         const weekKey = week.find((d) => d !== null) ?? 0
         return (
           <XStack key={`w${weekKey}`} justifyContent="space-around">
-            {week.map((day, di) =>
-              day ? (
+            {week.map((day, di) => {
+              if (!day) {
+                return (
+                  // biome-ignore lint/suspicious/noArrayIndexKey: empty slots have no stable identity
+                  <View key={`e${weekKey}-${di}`} width={40} height={44} />
+                )
+              }
+              const celebration = getCelebration(day)
+              const celebrationName = celebration?.principal
+                ? localizeContent(celebration.principal.entry.name)
+                : undefined
+              const label = celebrationName ? `${day}, ${celebrationName}` : String(day)
+              return (
                 <DayCell
                   key={day}
                   day={day}
-                  celebration={getCelebration(day)}
+                  celebration={celebration}
                   isToday={day === todayDay}
                   isSelected={day === selectedDay}
                   onPress={onSelectDay}
+                  label={label}
                 />
-              ) : (
-                // biome-ignore lint/suspicious/noArrayIndexKey: empty slots have no stable identity
-                <View key={`e${weekKey}-${di}`} width={40} height={44} />
-              ),
-            )}
+              )
+            })}
           </XStack>
         )
       })}
