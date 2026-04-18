@@ -12,8 +12,42 @@ export function GospelOfTheDay() {
   const { t } = useTranslation()
   const router = useRouter()
   const theme = useTheme()
-  const { data: gospel, isLoading } = useProperForSlot('gospel', 'of')
+  const { data: gospel, isLoading, isError, refetch } = useProperForSlot('gospel', 'of')
   const dayCalendar = useTodayCelebration()
+
+  if (isError) {
+    return (
+      <XStack
+        backgroundColor="$backgroundSurface"
+        borderRadius="$lg"
+        padding="$md"
+        gap="$sm"
+        alignItems="center"
+        borderWidth={1}
+        borderColor="$borderColor"
+        borderStyle="dashed"
+      >
+        <YStack
+          width={32}
+          height={32}
+          alignItems="center"
+          justifyContent="center"
+          backgroundColor="$accentSubtle"
+          borderRadius="$md"
+        >
+          <BookOpen size={18} color={theme.accent.val} />
+        </YStack>
+        <Text flex={1} fontFamily="$body" fontSize="$2" color="$colorSecondary">
+          {t('bible.discovery.gospelOffline')}
+        </Text>
+        <AnimatedPressable onPress={refetch} accessibilityRole="button" hitSlop={8}>
+          <Text fontFamily="$heading" fontSize="$2" color="$accent">
+            {t('common.retry')}
+          </Text>
+        </AnimatedPressable>
+      </XStack>
+    )
+  }
 
   if (isLoading || !gospel) return null
 

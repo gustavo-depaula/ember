@@ -717,6 +717,7 @@ export default {
     discovery: {
       title: 'Sagrada Escritura',
       gospelOfTheDay: 'Evangelho do Dia',
+      gospelOffline: 'Não foi possível carregar o Evangelho de hoje.',
       themedReadings: 'Encontre Algo para Ler',
       continueReading: 'Continuar Leitura',
       openBible: 'Navegar na Bíblia',

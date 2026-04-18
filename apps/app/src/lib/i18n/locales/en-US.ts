@@ -712,6 +712,7 @@ export default {
     discovery: {
       title: 'Sacred Scripture',
       gospelOfTheDay: 'Gospel of the Day',
+      gospelOffline: 'Today\u2019s Gospel couldn\u2019t be loaded.',
       themedReadings: 'Find Something to Read',
       continueReading: 'Continue Reading',
       openBible: 'Browse the Bible',
