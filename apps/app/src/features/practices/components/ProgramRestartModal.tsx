@@ -60,7 +60,11 @@ export function ProgramRestartModal({
 
               <FadeInView index={6}>
                 <YStack alignItems="center" gap="$sm" paddingTop="$md">
-                  <AnimatedPressable onPress={onRestart}>
+                  <AnimatedPressable
+                    onPress={onRestart}
+                    accessibilityRole="button"
+                    accessibilityLabel={t('program.restartModal.restartButton')}
+                  >
                     <YStack
                       backgroundColor="$accent"
                       borderRadius="$md"
@@ -74,7 +78,11 @@ export function ProgramRestartModal({
                     </YStack>
                   </AnimatedPressable>
 
-                  <AnimatedPressable onPress={onContinue}>
+                  <AnimatedPressable
+                    onPress={onContinue}
+                    accessibilityRole="button"
+                    accessibilityLabel={t('program.restartModal.continueButton')}
+                  >
                     <YStack paddingVertical="$sm" paddingHorizontal="$lg" alignItems="center">
                       <Text fontFamily="$heading" fontSize="$3" color="$accent">
                         {t('program.restartModal.continueButton')}

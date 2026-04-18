@@ -101,7 +101,11 @@ export function ProgramCompleteModal({
                 <ModalFadeIn index={7}>
                   <YStack alignItems="center" gap="$sm" paddingTop="$md">
                     {showRestart && (
-                      <AnimatedPressable onPress={onRestart}>
+                      <AnimatedPressable
+                        onPress={onRestart}
+                        accessibilityRole="button"
+                        accessibilityLabel={t('program.restart')}
+                      >
                         <YStack
                           backgroundColor="$accent"
                           borderRadius="$md"
@@ -116,7 +120,11 @@ export function ProgramCompleteModal({
                       </AnimatedPressable>
                     )}
 
-                    <AnimatedPressable onPress={onDone}>
+                    <AnimatedPressable
+                      onPress={onDone}
+                      accessibilityRole="button"
+                      accessibilityLabel={t('program.done')}
+                    >
                       <YStack paddingVertical="$sm" paddingHorizontal="$lg" alignItems="center">
                         <Text fontFamily="$heading" fontSize="$3" color="$accent">
                           {t('program.done')}
