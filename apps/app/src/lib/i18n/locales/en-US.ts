@@ -311,6 +311,16 @@ export default {
     },
   },
 
+  kyrie: {
+    title: 'Kyrie',
+    homeTagline: 'A rope of simple prayer',
+    invocation: 'Lord Jesus Christ, Son of God, have mercy on me, a sinner.',
+    tap: 'Advance one bead',
+    reset: 'Reset',
+    of: 'of {{target}}',
+    chooseRope: 'Choose the length of your rope',
+  },
+
   oratio: {
     title: 'Oratio',
     close: 'Close',

@@ -213,6 +213,20 @@ The event store paid dividends *again*. This entire feature — from zero code t
 
 ---
 
+## Iteration 14 — Kyrie (a tap rope for the Jesus Prayer)
+
+A pivot away from event-sourced surfaces into pure prayerable utility. `/kyrie` is a dark-background screen with a single large circle. Tap it, the ring pulses, haptic fires, count advances. Choose 33 / 50 / 100 / 150 (the lengths of a traditional prayer rope). When the target is reached, the ring glows gold and a success buzz confirms the round.
+
+Above the circle, the invocation whispers in script: *"Lord Jesus Christ, Son of God, have mercy on me, a sinner."* Below, a thin progress line fills as you pray. The whole screen has one job — hold presence while you repeat.
+
+Intentionally *not* event-sourced. Each session is ephemeral. Saving completions would turn a contemplative utility into a gamified thing; the whole point of repetitive short prayer is that no one is counting but God. The app provides the bead-feeling, not a streak.
+
+This belongs to the same dark contemplative world as Oratio. Same palette (#0b0906 background, warm gold #f5d28a accents), same header structure, same aesthetic register. The app is starting to have two modes: the day-lit "plan and chronicle" world (home / plan / memoria) and the night-lit "one thing at a time" world (oratio / kyrie / silentium). I like that split.
+
+Learned: haptic + visual + sound (the user's voice, here) is three-channel feedback. Each tap engages the body, the eyes, and the voice at once. Repetitive prayer works partly because it entrains all three — the app should lean into that, not abstract it away.
+
+---
+
 ## Session wrap
 
 Shipped tonight, in order:
@@ -232,6 +246,7 @@ Shipped tonight, in order:
 13. **Memoria** — day-grouped feed of completions, intentions, gratitudes
 14. **Dies Domini** — weekly devotions whisper + full seven-day screen
 15. **Deo Gratias** — event-sourced gratitude journal, integrated into Memoria
+16. **Kyrie** — Jesus Prayer tap counter, three-channel contemplative feedback
 
 Bold = new visible features, not bug fixes.
 

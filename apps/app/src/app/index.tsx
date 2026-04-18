@@ -1,7 +1,7 @@
 import { format, subWeeks } from 'date-fns'
 import { Image } from 'expo-image'
 import { useRouter } from 'expo-router'
-import { AlertTriangle, BookOpen, ChevronRight, Flame } from 'lucide-react-native'
+import { AlertTriangle, BookOpen, ChevronRight, CircleDot, Flame } from 'lucide-react-native'
 import { useCallback, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Dimensions, Pressable } from 'react-native'
@@ -237,6 +237,40 @@ export default function HomeScreen() {
                   numberOfLines={1}
                 >
                   {t('oratio.homeTagline')}
+                </Text>
+              </YStack>
+              <ChevronRight size={16} color={theme.accent?.val} />
+            </XStack>
+          </AnimatedPressable>
+        </FadeInView>
+
+        <FadeInView>
+          <AnimatedPressable onPress={() => router.push('/kyrie')}>
+            <XStack
+              alignItems="center"
+              gap="$md"
+              paddingVertical="$sm"
+              paddingHorizontal="$md"
+              borderRadius="$lg"
+              backgroundColor="$backgroundSurface"
+              borderWidth={1}
+              borderColor="$borderColor"
+            >
+              <YStack width={28} height={48} alignItems="center" justifyContent="center">
+                <CircleDot size={22} color={theme.accent?.val} />
+              </YStack>
+              <YStack flex={1}>
+                <Text fontFamily="$heading" fontSize="$3" color="$color" letterSpacing={0.5}>
+                  {t('kyrie.title')}
+                </Text>
+                <Text
+                  fontFamily="$body"
+                  fontSize="$1"
+                  color="$colorSecondary"
+                  fontStyle="italic"
+                  numberOfLines={1}
+                >
+                  {t('kyrie.homeTagline')}
                 </Text>
               </YStack>
               <ChevronRight size={16} color={theme.accent?.val} />

@@ -314,6 +314,16 @@ export default {
     },
   },
 
+  kyrie: {
+    title: 'Kyrie',
+    homeTagline: 'Uma corda de ora\u00e7\u00e3o simples',
+    invocation: 'Senhor Jesus Cristo, Filho de Deus, tende piedade de mim, pecador.',
+    tap: 'Avan\u00e7ar uma conta',
+    reset: 'Reiniciar',
+    of: 'de {{target}}',
+    chooseRope: 'Escolha o comprimento da sua corda',
+  },
+
   oratio: {
     title: 'Oratio',
     close: 'Fechar',
