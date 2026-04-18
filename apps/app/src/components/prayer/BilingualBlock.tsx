@@ -65,16 +65,35 @@ function TapToSwitch({
   secondary: string
   renderText: (text: string) => React.ReactNode
 }) {
+  const contentLanguage = usePreferencesStore((s) => s.contentLanguage)
+  const secondaryLanguage = usePreferencesStore((s) => s.secondaryLanguage)
   const [showSecondary, setShowSecondary] = useState(false)
   const activeText = showSecondary ? secondary : primary
+  const toggleTargetLang = showSecondary ? contentLanguage : secondaryLanguage
+  const switchLabel = toggleTargetLang ? languageLabel[toggleTargetLang] : '↔'
 
   return (
-    <Pressable
-      onPress={() => setShowSecondary((v) => !v)}
-      accessibilityRole="button"
-      accessibilityHint="Tap to switch language"
-    >
-      <YStack>{renderText(activeText)}</YStack>
-    </Pressable>
+    <YStack>
+      <XStack justifyContent="flex-end">
+        <Pressable
+          onPress={() => setShowSecondary((v) => !v)}
+          accessibilityRole="button"
+          accessibilityLabel={`Switch to ${switchLabel}`}
+          hitSlop={8}
+        >
+          <Text
+            fontFamily="$heading"
+            fontSize="$1"
+            color="$colorSecondary"
+            opacity={0.55}
+            paddingHorizontal="$xs"
+            paddingVertical={2}
+          >
+            {switchLabel}
+          </Text>
+        </Pressable>
+      </XStack>
+      {renderText(activeText)}
+    </YStack>
   )
 }
