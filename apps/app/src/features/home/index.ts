@@ -1,6 +1,7 @@
 export {
   AppShortcuts,
   CelebrationOfDay,
+  DiesDevotion,
   HoraLine,
   IntentionHeart,
   LiturgicalHeader,

@@ -250,6 +250,56 @@ export default {
     intentionAnswered: 'Atendida: \u201c{{text}}\u201d',
   },
 
+  diesDomini: {
+    title: 'Dies Domini',
+    subtitle:
+      'Um dia para cada mist\u00e9rio \u2014 um padr\u00e3o antigo de devo\u00e7\u00e3o semanal.',
+    days: {
+      sunday: {
+        name: 'Domingo',
+        line: 'Hoje, a Ressurrei\u00e7\u00e3o.',
+        description:
+          'O Dia do Senhor \u2014 o primeiro e o oitavo dia da cria\u00e7\u00e3o. O domingo \u00e9 consagrado \u00e0 Sant\u00edssima Trindade e \u00e0 alegria da Ressurrei\u00e7\u00e3o. Que cada domingo seja uma pequena P\u00e1scoa.',
+      },
+      monday: {
+        name: 'Segunda-feira',
+        line: 'Hoje, as almas do Purgat\u00f3rio.',
+        description:
+          'Lembra-te das almas no Purgat\u00f3rio \u2014 aquelas que est\u00e3o sendo purificadas antes de ver a face de Deus. Oferece ora\u00e7\u00f5es, Missas e pequenos sacrif\u00edcios por elas; n\u00e3o podem rezar por si mesmas.',
+      },
+      tuesday: {
+        name: 'Ter\u00e7a-feira',
+        line: 'Hoje, os santos anjos.',
+        description:
+          'Honra os anjos \u2014 especialmente o teu anjo da guarda e S\u00e3o Miguel Arcanjo. Eles est\u00e3o na presen\u00e7a de Deus e s\u00e3o enviados para nos defender no combate contra o mal.',
+      },
+      wednesday: {
+        name: 'Quarta-feira',
+        line: 'Hoje, S\u00e3o Jos\u00e9.',
+        description:
+          'O guardi\u00e3o silencioso da Sagrada Fam\u00edlia, padroeiro da boa morte e da Igreja universal. Jos\u00e9 ensina-nos a viver escondidos com Cristo e a fazer a vontade de Deus em fidelidade serena.',
+      },
+      thursday: {
+        name: 'Quinta-feira',
+        line: 'Hoje, a Sant\u00edssima Eucaristia.',
+        description:
+          'Na noite antes de sofrer, o Senhor deu-nos a Si mesmo sob as esp\u00e9cies do p\u00e3o e do vinho. A quinta-feira \u00e9 dia de ador\u00e7\u00e3o eucar\u00edstica, de a\u00e7\u00e3o de gra\u00e7as e de ora\u00e7\u00e3o pelos sacerdotes.',
+      },
+      friday: {
+        name: 'Sexta-feira',
+        line: 'Hoje, a Paix\u00e3o e o Sagrado Cora\u00e7\u00e3o.',
+        description:
+          'Na Cruz, o cora\u00e7\u00e3o de Cristo foi aberto por n\u00f3s. As sextas-feiras s\u00e3o dias de penit\u00eancia \u2014 um pequeno jejum, uma medita\u00e7\u00e3o sobre a Paix\u00e3o, ou repara\u00e7\u00e3o ao Sagrado Cora\u00e7\u00e3o.',
+      },
+      saturday: {
+        name: 'S\u00e1bado',
+        line: 'Hoje, Nossa Senhora.',
+        description:
+          'Entre a Sexta-feira Santa e o Domingo de P\u00e1scoa, apenas a Virgem Maria guardou a f\u00e9. Todo s\u00e1bado \u00e9 dela \u2014 um dia para honrar as suas dores, as suas alegrias, e entregar a semana que vem \u00e0s suas m\u00e3os.',
+      },
+    },
+  },
+
   oratio: {
     title: 'Oratio',
     close: 'Fechar',

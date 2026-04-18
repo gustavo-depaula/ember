@@ -248,6 +248,55 @@ export default {
     intentionAnswered: 'Answered: “{{text}}”',
   },
 
+  diesDomini: {
+    title: 'Dies Domini',
+    subtitle: 'A day for each mystery — an ancient pattern of weekly devotion.',
+    days: {
+      sunday: {
+        name: 'Sunday',
+        line: 'Today, the Resurrection.',
+        description:
+          'The Lord’s Day — the first and eighth day of creation. Sunday is set apart for the Most Holy Trinity and the joy of the Resurrection. Let every Sunday be a little Easter.',
+      },
+      monday: {
+        name: 'Monday',
+        line: 'Today, the holy souls.',
+        description:
+          'Remember the souls in Purgatory — those being purified before entering the face of God. Offer prayers, Masses, and small sacrifices for them; they cannot pray for themselves.',
+      },
+      tuesday: {
+        name: 'Tuesday',
+        line: 'Today, the holy angels.',
+        description:
+          'Honor the angels — especially your guardian angel and Saint Michael the Archangel. They stand in the presence of God and are sent to defend us in the struggle against evil.',
+      },
+      wednesday: {
+        name: 'Wednesday',
+        line: 'Today, Saint Joseph.',
+        description:
+          'The silent guardian of the Holy Family, patron of a holy death and of the universal Church. Joseph teaches us to live hidden with Christ and to do the will of God in quiet fidelity.',
+      },
+      thursday: {
+        name: 'Thursday',
+        line: 'Today, the Most Holy Eucharist.',
+        description:
+          'On the night before He suffered, the Lord gave us Himself under the form of bread and wine. Thursday is a day for Eucharistic adoration, thanksgiving, and prayer for priests.',
+      },
+      friday: {
+        name: 'Friday',
+        line: 'Today, the Passion and the Sacred Heart.',
+        description:
+          'On the Cross, the heart of Christ was opened for us. Fridays are days of penance — a small fast, a meditation on the Passion, or reparation to the Sacred Heart.',
+      },
+      saturday: {
+        name: 'Saturday',
+        line: 'Today, our Lady.',
+        description:
+          'Between Good Friday and Easter Sunday, only the Blessed Virgin kept faith. Every Saturday is hers — a day to honor her sorrows, her joys, and to entrust the week to come into her hands.',
+      },
+    },
+  },
+
   oratio: {
     title: 'Oratio',
     close: 'Close',

@@ -23,6 +23,7 @@ import { useYearCalendar } from '@/features/calendar'
 import {
   AppShortcuts,
   CelebrationOfDay,
+  DiesDevotion,
   HoraLine,
   IntentionHeart,
   LiturgicalHeader,
@@ -182,6 +183,10 @@ export default function HomeScreen() {
 
           <FadeInView>
             <SeasonalContext date={now} season={season} />
+          </FadeInView>
+
+          <FadeInView>
+            <DiesDevotion date={now} />
           </FadeInView>
 
           <FadeInView>

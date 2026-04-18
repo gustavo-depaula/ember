@@ -1,5 +1,6 @@
 export { AppShortcuts } from './AppShortcuts'
 export { CelebrationOfDay } from './CelebrationOfDay'
+export { DiesDevotion } from './DiesDevotion'
 export { HoraLine } from './HoraLine'
 export { IntentionHeart } from './IntentionHeart'
 export { LiturgicalHeader } from './LiturgicalHeader'
