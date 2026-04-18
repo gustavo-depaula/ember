@@ -184,15 +184,18 @@ export default function RootLayout() {
                 contentStyle: { backgroundColor: rootBg },
               }}
             >
-              <Stack.Screen name="index" options={{ title: 'Home' }} />
-              <Stack.Screen name="plan" options={{ title: 'Plan of Life' }} />
-              <Stack.Screen name="bible" options={{ title: 'Sacred Scripture' }} />
-              <Stack.Screen name="catechism" options={{ title: 'Catechism' }} />
-              <Stack.Screen name="saints" options={{ title: 'Saints' }} />
-              <Stack.Screen name="settings" options={{ title: 'Settings' }} />
-              <Stack.Screen name="pray" options={{ title: 'Prayer' }} />
-              <Stack.Screen name="practices" options={{ title: 'Practices' }} />
-              <Stack.Screen name="library" options={{ title: 'Library', gestureEnabled: false }} />
+              <Stack.Screen name="index" options={{ title: i18n.t('a11y.home') }} />
+              <Stack.Screen name="plan" options={{ title: i18n.t('home.planOfLife') }} />
+              <Stack.Screen name="bible" options={{ title: i18n.t('home.sacredScripture') }} />
+              <Stack.Screen name="catechism" options={{ title: i18n.t('home.catechism') }} />
+              <Stack.Screen name="saints" options={{ title: i18n.t('saints.title') }} />
+              <Stack.Screen name="settings" options={{ title: i18n.t('settings.title') }} />
+              <Stack.Screen name="pray" options={{ title: i18n.t('home.pray') }} />
+              <Stack.Screen name="practices" options={{ title: i18n.t('practices.title') }} />
+              <Stack.Screen
+                name="library"
+                options={{ title: i18n.t('library.title'), gestureEnabled: false }}
+              />
             </Stack>
             <AppFrame />
             <ConfirmHost />
