@@ -94,8 +94,8 @@ export default function MemoriaScreen() {
                 <Pressable
                   key={f}
                   onPress={() => setFilter(f)}
-                  hitSlop={4}
-                  accessibilityRole="button"
+                  hitSlop={8}
+                  accessibilityRole="radio"
                   accessibilityLabel={t(`memoria.filter.${f}`)}
                   accessibilityState={{ selected }}
                 >
