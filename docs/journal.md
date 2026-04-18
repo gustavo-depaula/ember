@@ -100,6 +100,8 @@ Accumulated learnings, discoveries, and decisions from Ember development. Things
 
 ## Technical
 
+- **ProperSlot retries share one OF query key.** Each slot on the Mass screen (Introit, Collect, Antiphon, etc.) has its own `useProperForSlot(slot, 'of')` call, but all slots read from a single `['of-propers', dateKey, language]` query. When a user taps "Try again" on any failed slot, `ofQuery.refetch()` triggers one network request and TanStack Query re-derives every slot's section from the refreshed data — no fan-out, no per-slot request storm. Same approach for EF but each slot has its own key (EF reads from bundled/Hearth propers, independent slots).
+
 - **Global mutation error handler uses TanStack Query's MutationCache, not per-hook wiring.** Across 39+ mutations in 10 features, none had `onError` handlers — failures were silent. Rather than retrofitting each hook, `_layout.tsx` configures `QueryClient({ mutationCache: new MutationCache({ onError }) })` once. The global handler opens `ConfirmSheet` in single-action mode with `i18n.t('error.somethingWrong')` + the error message (or `error.tryAgainLater` fallback). Per-mutation `onError` still wins: the global handler guards with `if (mutation.options.onError) return`. Trade-off: every mutation error now shows a dialog unless explicitly suppressed — acceptable because the fallback is far better than silent failure.
 
 - **The original `getLiturgicalSeason()` was an antiphon scheduler, not a season calculator.** Its boundaries mapped to the Marian antiphon switching dates (Advent→Feb 1, Feb 2→Holy Wednesday, etc.), which don't correspond to actual liturgical seasons. The antiphon schedule is a separate traditional system with its own date ranges — decoupled from seasons in the rewrite.
