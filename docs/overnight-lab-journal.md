@@ -498,6 +498,18 @@ Three refactors in a row. Getting a good sense of the app's presentational vocab
 
 ---
 
+## Iteration 35 — RestartNeededList extraction
+
+Home index had one remaining inline render block: 40 lines for restart-needed practices. Everything else on the home screen had graduated to a named component over the last few iterations — this was the last holdout. Extracted to `features/home/components/RestartNeededList.tsx` with a single `ids: Set<string>` prop; the empty-check lives inside the component so the caller is a single `<RestartNeededList ids={…} />`.
+
+Net on `app/index.tsx`: −40/+2, plus a handful of now-unused imports (`AnimatedPressable`, `AlertTriangle`, `XStack`, `localizeContent`, `Text` still used elsewhere). The `getManifest` import stays because there's still a call on the Pressable handler for navigation.
+
+Small iteration, but it closes out the home-as-composition goal: home is now a sequence of named components + layout. A future contributor reading `app/index.tsx` can see the shape of the page without having to parse any presentational JSX.
+
+Tests 102/102 green. Biome clean.
+
+---
+
 ## Iteration 34 — useCurrentHour and the block auto-expand bug
 
 Home index had `const hour = new Date().getHours()` computed once at render. `currentBlock` fell out of that. Open the app at 11:58 (block: `morning`), stay until 12:15 (block should be `daytime`): the auto-expand state never updated, because the component didn't re-render on the hour boundary. Small bug, easy to miss, real.
@@ -556,6 +568,7 @@ Shipped tonight, in order:
 36. WhisperLine component — four home whispers (Angelus/Benedictio/Memento/Confessio) collapsed onto one shared `<WhisperLine tone="bright|quiet" />`.
 37. SlotChip extraction — shared pill-chip component now powers both the Angelus and Benedictio slot rows; per-feature wrappers hold only the hook wiring.
 38. useCurrentHour hook — home block auto-expand was non-reactive across hour boundaries; four other features duplicated the setInterval-polling pattern. Extracted to a single hook, and changed the slot-helper API from Date to hour:number to make the old useToday-trap unrepresentable.
+39. RestartNeededList extraction — last inline render block on home graduated to a named component; home index is now a clean composition.
 
 Bold = new visible features, not bug fixes.
 

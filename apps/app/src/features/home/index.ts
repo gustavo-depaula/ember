@@ -12,6 +12,7 @@ export {
   MementoLine,
   NavigationMedallion,
   OblatioLine,
+  RestartNeededList,
   SeasonalContext,
   ShortcutRow,
   TimeBlockSection,

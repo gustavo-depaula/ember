@@ -1,14 +1,13 @@
 import { format, subWeeks } from 'date-fns'
 import { Image } from 'expo-image'
 import { useRouter } from 'expo-router'
-import { AlertTriangle, BookOpen, CircleDot, Compass, Flame } from 'lucide-react-native'
+import { BookOpen, CircleDot, Compass, Flame } from 'lucide-react-native'
 import { useCallback, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Dimensions, Pressable } from 'react-native'
-import { Text, useTheme, useThemeName, View, XStack, YStack } from 'tamagui'
+import { Text, useTheme, useThemeName, View, YStack } from 'tamagui'
 
 import {
-  AnimatedPressable,
   CandleFlame,
   FadeInView,
   GreenWall,
@@ -34,6 +33,7 @@ import {
   LiturgicalHeader,
   MementoLine,
   OblatioLine,
+  RestartNeededList,
   SeasonalContext,
   ShortcutRow,
   TimeBlockSection,
@@ -61,7 +61,6 @@ import {
 } from '@/features/plan-of-life'
 import { useCurrentHour } from '@/hooks/useCurrentHour'
 import { useToday } from '@/hooks/useToday'
-import { localizeContent } from '@/lib/i18n'
 import {
   computeEaster,
   getCelebrationsForDate,
@@ -275,45 +274,7 @@ export default function HomeScreen() {
           />
         )}
 
-        {restartNeededIds.size > 0 && (
-          <YStack gap="$sm">
-            {Array.from(restartNeededIds).map((id) => {
-              const m = getManifest(id)
-              if (!m) return null
-              return (
-                <AnimatedPressable
-                  key={id}
-                  onPress={() =>
-                    router.push({
-                      pathname: '/practices/[manifestId]/program',
-                      params: { manifestId: id },
-                    })
-                  }
-                >
-                  <XStack
-                    backgroundColor="$backgroundSurface"
-                    borderRadius="$lg"
-                    padding="$md"
-                    alignItems="center"
-                    gap="$md"
-                    borderLeftWidth={3}
-                    borderLeftColor="$accent"
-                  >
-                    <AlertTriangle size={18} color={theme.accent?.val} />
-                    <YStack flex={1}>
-                      <Text fontFamily="$body" fontSize="$3" color="$color">
-                        {localizeContent(m.name)}
-                      </Text>
-                      <Text fontFamily="$body" fontSize="$1" color="$accent">
-                        {t('program.restartNeeded')}
-                      </Text>
-                    </YStack>
-                  </XStack>
-                </AnimatedPressable>
-              )
-            })}
-          </YStack>
-        )}
+        <RestartNeededList ids={restartNeededIds} />
 
         <YStack gap="$md">
           <FadeInView index={1}>
