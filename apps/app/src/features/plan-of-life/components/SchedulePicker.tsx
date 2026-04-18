@@ -73,7 +73,13 @@ export function SchedulePicker({
       </Text>
       <XStack gap="$xs" flexWrap="wrap">
         {modes.map((m) => (
-          <Pressable key={m.value} onPress={() => setMode(m.value)}>
+          <Pressable
+            key={m.value}
+            onPress={() => setMode(m.value)}
+            accessibilityRole="radio"
+            accessibilityLabel={m.label}
+            accessibilityState={{ selected: mode === m.value }}
+          >
             <YStack
               paddingHorizontal="$md"
               paddingVertical="$xs"
@@ -138,6 +144,7 @@ function DayOfWeekPicker({
     <XStack gap="$xs" flexWrap="wrap">
       {dayKeys.map((key, i) => {
         const selected = days.includes(i)
+        const label = t(`day.${key}`)
         return (
           <Pressable
             key={key}
@@ -145,6 +152,9 @@ function DayOfWeekPicker({
               const next = selected ? days.filter((d) => d !== i) : [...days, i]
               if (next.length > 0) onChangeDays(next)
             }}
+            accessibilityRole="button"
+            accessibilityLabel={label}
+            accessibilityState={{ selected }}
           >
             <YStack
               width={40}
@@ -157,7 +167,7 @@ function DayOfWeekPicker({
               justifyContent="center"
             >
               <Text fontFamily="$body" fontSize="$1" color={selected ? 'white' : '$colorSecondary'}>
-                {t(`day.${key}`)}
+                {label}
               </Text>
             </YStack>
           </Pressable>
@@ -227,22 +237,31 @@ function TimesPerPicker({
         <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
           {t('frequency.per')}
         </Text>
-        {(['week', 'month'] as const).map((p) => (
-          <Pressable key={p} onPress={() => onChangePeriod(p)}>
-            <YStack
-              paddingHorizontal="$sm"
-              paddingVertical="$xs"
-              borderRadius="$sm"
-              borderWidth={1}
-              borderColor={period === p ? '$accent' : '$borderColor'}
-              backgroundColor={period === p ? '$accent' : 'transparent'}
+        {(['week', 'month'] as const).map((p) => {
+          const label = t(`frequency.${p}`)
+          return (
+            <Pressable
+              key={p}
+              onPress={() => onChangePeriod(p)}
+              accessibilityRole="radio"
+              accessibilityLabel={label}
+              accessibilityState={{ selected: period === p }}
             >
-              <Text fontFamily="$body" fontSize="$2" color={period === p ? 'white' : '$color'}>
-                {t(`frequency.${p}`)}
-              </Text>
-            </YStack>
-          </Pressable>
-        ))}
+              <YStack
+                paddingHorizontal="$sm"
+                paddingVertical="$xs"
+                borderRadius="$sm"
+                borderWidth={1}
+                borderColor={period === p ? '$accent' : '$borderColor'}
+                backgroundColor={period === p ? '$accent' : 'transparent'}
+              >
+                <Text fontFamily="$body" fontSize="$2" color={period === p ? 'white' : '$color'}>
+                  {label}
+                </Text>
+              </YStack>
+            </Pressable>
+          )
+        })}
       </XStack>
     </YStack>
   )
@@ -268,6 +287,9 @@ function DayOfMonthPicker({
               const next = selected ? days.filter((x) => x !== d) : [...days, d]
               if (next.length > 0) onChangeDays(next)
             }}
+            accessibilityRole="button"
+            accessibilityLabel={String(d)}
+            accessibilityState={{ selected }}
           >
             <YStack
               width={40}
@@ -311,7 +333,13 @@ function NthWeekdayPicker({
           const label = opt === -1 ? t('frequency.last') : `${opt}`
           const selected = n === opt
           return (
-            <Pressable key={opt} onPress={() => onChangeN(opt)}>
+            <Pressable
+              key={opt}
+              onPress={() => onChangeN(opt)}
+              accessibilityRole="radio"
+              accessibilityLabel={label}
+              accessibilityState={{ selected }}
+            >
               <YStack
                 paddingHorizontal="$md"
                 paddingVertical="$xs"
@@ -337,8 +365,15 @@ function NthWeekdayPicker({
       <XStack gap="$xs" flexWrap="wrap">
         {dayKeys.map((key, i) => {
           const selected = day === i
+          const label = t(`day.${key}`)
           return (
-            <Pressable key={key} onPress={() => onChangeDay(i)}>
+            <Pressable
+              key={key}
+              onPress={() => onChangeDay(i)}
+              accessibilityRole="radio"
+              accessibilityLabel={label}
+              accessibilityState={{ selected }}
+            >
               <YStack
                 width={40}
                 height={36}
@@ -354,7 +389,7 @@ function NthWeekdayPicker({
                   fontSize="$1"
                   color={selected ? 'white' : '$colorSecondary'}
                 >
-                  {t(`day.${key}`)}
+                  {label}
                 </Text>
               </YStack>
             </Pressable>
