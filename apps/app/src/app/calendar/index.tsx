@@ -50,7 +50,11 @@ export default function CalendarScreen() {
         </Text>
 
         <XStack justifyContent="space-between" alignItems="center" paddingHorizontal="$md">
-          <AnimatedPressable onPress={goToPrev}>
+          <AnimatedPressable
+            onPress={goToPrev}
+            accessibilityRole="button"
+            accessibilityLabel={t('a11y.prevMonth')}
+          >
             <Text fontFamily="$body" fontSize="$3" color="$accent" padding="$sm">
               ‹
             </Text>
@@ -60,7 +64,11 @@ export default function CalendarScreen() {
             {monthLabel}
           </Text>
 
-          <AnimatedPressable onPress={goToNext}>
+          <AnimatedPressable
+            onPress={goToNext}
+            accessibilityRole="button"
+            accessibilityLabel={t('a11y.nextMonth')}
+          >
             <Text fontFamily="$body" fontSize="$3" color="$accent" padding="$sm">
               ›
             </Text>

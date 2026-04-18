@@ -197,7 +197,12 @@ export function ReaderTocSheet({ toc, currentChapterId, onSelectChapter, onClose
             <Text fontFamily="$heading" fontSize="$4" color="$color">
               {t('library.tableOfContents')}
             </Text>
-            <Pressable onPress={onClose} hitSlop={8}>
+            <Pressable
+              onPress={onClose}
+              hitSlop={8}
+              accessibilityRole="button"
+              accessibilityLabel={t('a11y.closeModal')}
+            >
               <X size={20} color={theme.colorSecondary.val} />
             </Pressable>
           </XStack>

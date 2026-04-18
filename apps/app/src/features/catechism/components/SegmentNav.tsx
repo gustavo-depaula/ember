@@ -1,4 +1,5 @@
 import { ChevronLeft, ChevronRight } from 'lucide-react-native'
+import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
 import { Text, useTheme, XStack } from 'tamagui'
 
@@ -19,13 +20,19 @@ export function SegmentNav({
   onNavigate: (index: number) => void
 }) {
   const theme = useTheme()
+  const { t } = useTranslation()
   const prev = currentIndex > 0 ? segments[currentIndex - 1] : undefined
   const next = currentIndex < segments.length - 1 ? segments[currentIndex + 1] : undefined
 
   return (
     <XStack justifyContent="space-between" alignItems="center" paddingVertical="$md">
       {prev ? (
-        <Pressable onPress={() => onNavigate(prev.index)} style={{ flex: 1 }}>
+        <Pressable
+          onPress={() => onNavigate(prev.index)}
+          style={{ flex: 1 }}
+          accessibilityRole="button"
+          accessibilityLabel={t('a11y.prevSection')}
+        >
           <XStack alignItems="center" gap="$xs">
             <ChevronLeft size={16} color={theme.accent.val} />
             <Text fontFamily="$body" fontSize="$2" color="$accent" numberOfLines={1} flex={1}>
@@ -41,6 +48,8 @@ export function SegmentNav({
         <Pressable
           onPress={() => onNavigate(next.index)}
           style={{ flex: 1, alignItems: 'flex-end' }}
+          accessibilityRole="button"
+          accessibilityLabel={t('a11y.nextSection')}
         >
           <XStack alignItems="center" gap="$xs">
             <Text fontFamily="$body" fontSize="$2" color="$accent" numberOfLines={1}>

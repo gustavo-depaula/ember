@@ -113,7 +113,12 @@ export default function PracticeDetailScreen() {
     <ScreenLayout>
       <YStack gap="$lg" paddingVertical="$lg">
         <XStack alignItems="center" gap="$md">
-          <Pressable onPress={() => router.back()} hitSlop={8}>
+          <Pressable
+            onPress={() => router.back()}
+            hitSlop={8}
+            accessibilityRole="button"
+            accessibilityLabel={t('a11y.goBack')}
+          >
             <ChevronLeft size={24} color={theme.color.val} />
           </Pressable>
           <PracticeIcon name={iconKey} size={24} />

@@ -126,7 +126,12 @@ export function TranslationModal({ visible, onClose }: { visible: boolean; onClo
           borderBottomWidth={1}
           borderBottomColor="$borderColor"
         >
-          <Pressable onPress={onClose} hitSlop={12}>
+          <Pressable
+            onPress={onClose}
+            hitSlop={12}
+            accessibilityRole="button"
+            accessibilityLabel={t('a11y.closeModal')}
+          >
             <X size={24} color={theme.color.val} />
           </Pressable>
           <Text fontFamily="$heading" fontSize="$4" color="$color">
