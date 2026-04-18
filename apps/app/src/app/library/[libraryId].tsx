@@ -258,6 +258,10 @@ export default function LibraryDetailScreen() {
             <AnimatedPressable
               onPress={() => downloadBook.mutate(registryEntry)}
               disabled={downloadBook.isPending}
+              accessibilityRole="button"
+              accessibilityLabel={
+                downloadBook.isPending ? t('library.downloading') : t('library.download')
+              }
             >
               <XStack
                 backgroundColor={downloadBook.isPending ? '$borderColor' : '$accent'}
@@ -300,45 +304,50 @@ export default function LibraryDetailScreen() {
               </Text>
 
               <YStack gap="$xs">
-                {chapterList.map((chapter) => (
-                  <AnimatedPressable
-                    key={chapter.id}
-                    onPress={
-                      isInstalled
-                        ? () =>
-                            router.push({
-                              // biome-ignore lint/suspicious/noExplicitAny: expo-router untyped route
-                              pathname: '/library/chapters/[chapterId]' as any,
-                              // biome-ignore lint/style/noNonNullAssertion: guarded by early return
-                              params: { chapterId: chapter.id, libraryId: libraryId! },
-                            })
-                        : undefined
-                    }
-                    disabled={!isInstalled}
-                  >
-                    <XStack
-                      backgroundColor="$backgroundSurface"
-                      borderRadius="$md"
-                      padding="$sm"
-                      paddingHorizontal="$md"
-                      gap="$md"
-                      alignItems="center"
-                      borderWidth={1}
-                      borderColor="$borderColor"
-                      opacity={isInstalled ? 1 : 0.7}
+                {chapterList.map((chapter) => {
+                  const chapterTitle = localizeContent(chapter.title)
+                  return (
+                    <AnimatedPressable
+                      key={chapter.id}
+                      onPress={
+                        isInstalled
+                          ? () =>
+                              router.push({
+                                // biome-ignore lint/suspicious/noExplicitAny: expo-router untyped route
+                                pathname: '/library/chapters/[chapterId]' as any,
+                                // biome-ignore lint/style/noNonNullAssertion: guarded by early return
+                                params: { chapterId: chapter.id, libraryId: libraryId! },
+                              })
+                          : undefined
+                      }
+                      disabled={!isInstalled}
+                      accessibilityRole="link"
+                      accessibilityLabel={chapterTitle}
                     >
-                      <BookOpen size={22} color={theme.colorSecondary.val} />
-                      <Text flex={1} fontFamily="$body" fontSize="$2" color="$color">
-                        {localizeContent(chapter.title)}
-                      </Text>
-                      {isInstalled && (
-                        <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
-                          ›
+                      <XStack
+                        backgroundColor="$backgroundSurface"
+                        borderRadius="$md"
+                        padding="$sm"
+                        paddingHorizontal="$md"
+                        gap="$md"
+                        alignItems="center"
+                        borderWidth={1}
+                        borderColor="$borderColor"
+                        opacity={isInstalled ? 1 : 0.7}
+                      >
+                        <BookOpen size={22} color={theme.colorSecondary.val} />
+                        <Text flex={1} fontFamily="$body" fontSize="$2" color="$color">
+                          {chapterTitle}
                         </Text>
-                      )}
-                    </XStack>
-                  </AnimatedPressable>
-                ))}
+                        {isInstalled && (
+                          <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
+                            ›
+                          </Text>
+                        )}
+                      </XStack>
+                    </AnimatedPressable>
+                  )
+                })}
               </YStack>
 
               <SectionDivider />
@@ -352,42 +361,47 @@ export default function LibraryDetailScreen() {
               </Text>
 
               <YStack gap="$xs">
-                {bookList.map((book) => (
-                  <AnimatedPressable
-                    key={book.id}
-                    onPress={isInstalled ? () => handleBookTap(book.id) : undefined}
-                    disabled={!isInstalled}
-                  >
-                    <XStack
-                      backgroundColor="$backgroundSurface"
-                      borderRadius="$md"
-                      padding="$sm"
-                      paddingHorizontal="$md"
-                      gap="$md"
-                      alignItems="center"
-                      borderWidth={1}
-                      borderColor="$borderColor"
-                      opacity={isInstalled ? 1 : 0.7}
+                {bookList.map((book) => {
+                  const bookName = localizeContent(book.name)
+                  return (
+                    <AnimatedPressable
+                      key={book.id}
+                      onPress={isInstalled ? () => handleBookTap(book.id) : undefined}
+                      disabled={!isInstalled}
+                      accessibilityRole="link"
+                      accessibilityLabel={bookName}
                     >
-                      <Book size={22} color={theme.accent.val} />
-                      <YStack flex={1}>
-                        <Text fontFamily="$body" fontSize="$2" color="$color">
-                          {localizeContent(book.name)}
-                        </Text>
-                        {book.author && (
-                          <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
-                            {localizeContent(book.author)}
+                      <XStack
+                        backgroundColor="$backgroundSurface"
+                        borderRadius="$md"
+                        padding="$sm"
+                        paddingHorizontal="$md"
+                        gap="$md"
+                        alignItems="center"
+                        borderWidth={1}
+                        borderColor="$borderColor"
+                        opacity={isInstalled ? 1 : 0.7}
+                      >
+                        <Book size={22} color={theme.accent.val} />
+                        <YStack flex={1}>
+                          <Text fontFamily="$body" fontSize="$2" color="$color">
+                            {bookName}
+                          </Text>
+                          {book.author && (
+                            <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
+                              {localizeContent(book.author)}
+                            </Text>
+                          )}
+                        </YStack>
+                        {isInstalled && (
+                          <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
+                            ›
                           </Text>
                         )}
-                      </YStack>
-                      {isInstalled && (
-                        <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
-                          ›
-                        </Text>
-                      )}
-                    </XStack>
-                  </AnimatedPressable>
-                ))}
+                      </XStack>
+                    </AnimatedPressable>
+                  )
+                })}
               </YStack>
 
               <SectionDivider />
@@ -403,17 +417,21 @@ export default function LibraryDetailScreen() {
               <YStack gap="$xs">
                 {practiceList.map((practice) => {
                   const inPlan = enabledIds.has(practice.id)
+                  const practiceName = localizeContent(practice.name)
 
                   return (
                     <AnimatedPressable
                       key={practice.id}
                       onPress={
-                        // biome-ignore lint/suspicious/noExplicitAny: expo-router untyped route
                         isInstalled
-                          ? () => router.push(`/practices/${practice.id}` as any)
+                          ? () =>
+                              // biome-ignore lint/suspicious/noExplicitAny: expo-router untyped route
+                              router.push(`/practices/${practice.id}` as any)
                           : undefined
                       }
                       disabled={!isInstalled}
+                      accessibilityRole="link"
+                      accessibilityLabel={practiceName}
                     >
                       <XStack
                         backgroundColor="$backgroundSurface"
@@ -428,7 +446,7 @@ export default function LibraryDetailScreen() {
                       >
                         <PracticeIcon name={practice.icon} size={22} />
                         <Text flex={1} fontFamily="$body" fontSize="$2" color="$color">
-                          {localizeContent(practice.name)}
+                          {practiceName}
                         </Text>
                         {inPlan && (
                           <Text fontFamily="$body" fontSize="$1" color="$accent">
@@ -457,34 +475,39 @@ export default function LibraryDetailScreen() {
               </Text>
 
               <YStack gap="$xs">
-                {prayerList.map((prayer) => (
-                  <AnimatedPressable
-                    key={prayer.id}
-                    onPress={isInstalled ? () => openPrayer(prayer.id) : undefined}
-                    disabled={!isInstalled}
-                  >
-                    <XStack
-                      backgroundColor="$backgroundSurface"
-                      borderRadius="$md"
-                      padding="$sm"
-                      paddingHorizontal="$md"
-                      gap="$md"
-                      alignItems="center"
-                      borderWidth={1}
-                      borderColor="$borderColor"
-                      opacity={isInstalled ? 1 : 0.7}
+                {prayerList.map((prayer) => {
+                  const prayerTitle = localizeContent(prayer.title)
+                  return (
+                    <AnimatedPressable
+                      key={prayer.id}
+                      onPress={isInstalled ? () => openPrayer(prayer.id) : undefined}
+                      disabled={!isInstalled}
+                      accessibilityRole="button"
+                      accessibilityLabel={prayerTitle}
                     >
-                      <Text flex={1} fontFamily="$body" fontSize="$2" color="$color">
-                        {localizeContent(prayer.title)}
-                      </Text>
-                      {isInstalled && (
-                        <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
-                          ›
+                      <XStack
+                        backgroundColor="$backgroundSurface"
+                        borderRadius="$md"
+                        padding="$sm"
+                        paddingHorizontal="$md"
+                        gap="$md"
+                        alignItems="center"
+                        borderWidth={1}
+                        borderColor="$borderColor"
+                        opacity={isInstalled ? 1 : 0.7}
+                      >
+                        <Text flex={1} fontFamily="$body" fontSize="$2" color="$color">
+                          {prayerTitle}
                         </Text>
-                      )}
-                    </XStack>
-                  </AnimatedPressable>
-                ))}
+                        {isInstalled && (
+                          <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
+                            ›
+                          </Text>
+                        )}
+                      </XStack>
+                    </AnimatedPressable>
+                  )
+                })}
               </YStack>
             </>
           )}
@@ -492,7 +515,11 @@ export default function LibraryDetailScreen() {
           {isInstalled && !isDefault && (
             <>
               <SectionDivider />
-              <AnimatedPressable onPress={handleRemove}>
+              <AnimatedPressable
+                onPress={handleRemove}
+                accessibilityRole="button"
+                accessibilityLabel={t('library.remove')}
+              >
                 <XStack justifyContent="center" alignItems="center" gap="$sm" paddingVertical="$sm">
                   <Trash2 size={16} color={theme.colorSecondary.val} />
                   <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
@@ -525,6 +552,8 @@ export default function LibraryDetailScreen() {
           <Pressable
             style={{ position: 'absolute', top: 0, left: 0, right: 0, bottom: 0 }}
             onPress={closePrayer}
+            accessibilityRole="button"
+            accessibilityLabel={t('a11y.closeModal')}
           />
           <YStack
             backgroundColor="$background"
