@@ -978,6 +978,8 @@ export default {
     remove: 'Remove',
     justNow: 'just now',
     aMomentAgo: 'a moment ago',
+    couldntLoad: 'Couldn\u2019t load this text.',
+    retry: 'Try again',
   },
 
   bookName: {

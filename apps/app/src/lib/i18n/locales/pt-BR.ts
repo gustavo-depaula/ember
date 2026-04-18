@@ -982,6 +982,8 @@ export default {
     remove: 'Remover',
     justNow: 'agora mesmo',
     aMomentAgo: 'há um instante',
+    couldntLoad: 'Não foi possível carregar este texto.',
+    retry: 'Tentar novamente',
   },
 
   bookName: {

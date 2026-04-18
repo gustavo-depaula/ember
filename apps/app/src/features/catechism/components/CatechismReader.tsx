@@ -14,7 +14,12 @@ import Animated, {
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { Text, View, YStack } from 'tamagui'
 
-import { ReadingConfigBadge, ReadingConfigModal, ScreenLayout } from '@/components'
+import {
+  AnimatedPressable,
+  ReadingConfigBadge,
+  ReadingConfigModal,
+  ScreenLayout,
+} from '@/components'
 import { useCatechismStore } from '@/stores/catechismStore'
 
 import { useSegment, useSegments } from '../hooks'
@@ -25,6 +30,28 @@ import { SegmentNav } from './SegmentNav'
 import { TocTree } from './TocTree'
 
 const springConfig = { damping: 24, stiffness: 200, mass: 0.8 }
+
+function ReaderErrorState({ onRetry }: { onRetry: () => void }) {
+  const { t } = useTranslation()
+  return (
+    <YStack flex={1} justifyContent="center" alignItems="center" gap="$md" paddingHorizontal="$lg">
+      <Text fontFamily="$body" fontSize="$2" color="$colorSecondary" textAlign="center">
+        {t('common.couldntLoad')}
+      </Text>
+      <AnimatedPressable onPress={onRetry} accessibilityRole="button" hitSlop={8}>
+        <Text
+          fontFamily="$heading"
+          fontSize="$2"
+          color="$accent"
+          paddingVertical="$xs"
+          paddingHorizontal="$md"
+        >
+          {t('common.retry')}
+        </Text>
+      </AnimatedPressable>
+    </YStack>
+  )
+}
 
 export function CatechismReader() {
   const { t } = useTranslation()
@@ -41,7 +68,12 @@ export function CatechismReader() {
   const [panelOpen, setPanelOpen] = useState(false)
   const [readingConfigVisible, setReadingConfigVisible] = useState(false)
 
-  const { data: segments = [] } = useSegments()
+  const {
+    data: segments = [],
+    isLoading: segmentsLoading,
+    isError: segmentsError,
+    refetch: refetchSegments,
+  } = useSegments()
   const currentSegment = useMemo(() => {
     if (segments.length === 0) return undefined
     return (
@@ -49,7 +81,12 @@ export function CatechismReader() {
       segments[0]
     )
   }, [segments, paragraph])
-  const { data: paragraphs = [], isLoading } = useSegment(currentSegment)
+  const {
+    data: paragraphs = [],
+    isLoading,
+    isError: segmentError,
+    refetch: refetchSegment,
+  } = useSegment(currentSegment)
 
   const handleNavigate = useCallback(
     (index: number) => {
@@ -137,7 +174,17 @@ export function CatechismReader() {
     : ''
 
   function renderContent() {
-    if (isLoading || !currentSegment) {
+    if (segmentsError || segmentError) {
+      return (
+        <ReaderErrorState
+          onRetry={() => {
+            if (segmentsError) refetchSegments()
+            if (segmentError) refetchSegment()
+          }}
+        />
+      )
+    }
+    if (segmentsLoading || isLoading || !currentSegment) {
       return (
         <YStack flex={1} justifyContent="center" alignItems="center">
           <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">

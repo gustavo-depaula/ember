@@ -151,6 +151,8 @@ Prefer (a) — stronger information hierarchy, no auto-scroll surprise.
 
 **Fix.** Investigate CatechismScreen's data-loading path (`apps/app/src/stores/catechismStore.ts` + the route component). Add an error state + retry; surface fetch failures instead of an infinite spinner. Also the "Loading…" string is too plain — use a `$body` muted line or a soft pulse.
 
+**Status.** Fixed — `CatechismReader` now reads `isError` from both `useSegments` and `useSegment` and renders a muted "Couldn't load / Try again" state with a working retry (wires `refetch` on the failing query). The environmental cause (404 on `catechism/ccc.json` from local Hearth) was also resolved by fetching the CCC dataset into `content/catechism/ccc.json`.
+
 ---
 
 ### F14 · Plain "Loading..." text as loading state — **P2**
