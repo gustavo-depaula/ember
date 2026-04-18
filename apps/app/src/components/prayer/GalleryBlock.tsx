@@ -2,6 +2,7 @@
 import type { BilingualText } from '@ember/content-engine'
 import { Image } from 'expo-image'
 import { useCallback, useState } from 'react'
+import { useTranslation } from 'react-i18next'
 import { FlatList, type LayoutChangeEvent, Pressable, StyleSheet } from 'react-native'
 import { Text, View, XStack, YStack } from 'tamagui'
 import { useImageViewer } from '@/components/ImageViewerContext'
@@ -17,6 +18,7 @@ const peekWidth = 24
 const itemGap = 10
 
 export function GalleryBlock({ items }: { items: GalleryItem[] }) {
+  const { t } = useTranslation()
   const [containerWidth, setContainerWidth] = useState(0)
   const imageWidth = containerWidth > 0 ? containerWidth - peekWidth - itemGap : 0
   const imageHeight = imageWidth * 1.3
@@ -53,7 +55,14 @@ export function GalleryBlock({ items }: { items: GalleryItem[] }) {
   const renderItem = useCallback(
     ({ item, index }: { item: GalleryItem; index: number }) => (
       <YStack width={imageWidth} marginRight={itemGap} alignItems="center" gap="$xs">
-        <Pressable onPress={() => handleImagePress(index)}>
+        <Pressable
+          onPress={() => handleImagePress(index)}
+          accessibilityRole="button"
+          accessibilityLabel={t('a11y.viewGalleryImage', {
+            index: index + 1,
+            total: items.length,
+          })}
+        >
           <Image
             source={{ uri: item.src }}
             style={[styles.image, { width: imageWidth, height: imageHeight }]}
@@ -83,7 +92,7 @@ export function GalleryBlock({ items }: { items: GalleryItem[] }) {
         )}
       </YStack>
     ),
-    [imageWidth, imageHeight, handleImagePress],
+    [imageWidth, imageHeight, handleImagePress, items.length, t],
   )
 
   return (

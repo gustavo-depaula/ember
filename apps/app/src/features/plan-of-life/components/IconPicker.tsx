@@ -1,3 +1,4 @@
+import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
 import { XStack } from 'tamagui'
 
@@ -11,10 +12,17 @@ export function IconPicker({
   selected: string
   onSelect: (icon: string) => void
 }) {
+  const { t } = useTranslation()
   return (
     <XStack gap="$xs" flexWrap="wrap">
       {practiceIconNames.map((icon) => (
-        <Pressable key={icon} onPress={() => onSelect(icon)}>
+        <Pressable
+          key={icon}
+          onPress={() => onSelect(icon)}
+          accessibilityRole="button"
+          accessibilityLabel={t('a11y.selectIcon', { name: icon })}
+          accessibilityState={{ selected: selected === icon }}
+        >
           <XStack
             width={44}
             height={44}

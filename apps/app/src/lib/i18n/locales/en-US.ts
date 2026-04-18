@@ -1293,6 +1293,11 @@ export default {
     home: 'Home',
     versicle: 'Versicle: {{text}}',
     response: 'Response: {{text}}',
+    selectIcon: 'Select {{name}} icon',
+    decreaseCount: 'Decrease',
+    increaseCount: 'Increase',
+    viewCalendar: 'View liturgical calendar',
+    viewGalleryImage: 'View image {{index}} of {{total}}',
   },
   languages: {
     'en-US': 'English',

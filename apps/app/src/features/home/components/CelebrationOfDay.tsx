@@ -62,7 +62,11 @@ export function CelebrationOfDay({ date }: { date: Date }) {
   const others = celebrations.filter((c) => c !== principal).slice(0, 3)
 
   return (
-    <AnimatedPressable onPress={() => router.push('/calendar')}>
+    <AnimatedPressable
+      onPress={() => router.push('/calendar')}
+      accessibilityRole="link"
+      accessibilityLabel={t('a11y.viewCalendar')}
+    >
       <YStack gap="$sm" paddingHorizontal="$md">
         <Text fontFamily="$heading" fontSize="$1" color="$accent" letterSpacing={1}>
           {t('home.celebrationOfDay')}

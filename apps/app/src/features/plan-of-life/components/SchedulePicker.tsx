@@ -183,7 +183,11 @@ function TimesPerPicker({
   return (
     <YStack gap="$xs">
       <XStack gap="$sm" alignItems="center">
-        <Pressable onPress={() => onChangeCount(Math.max(1, count - 1))}>
+        <Pressable
+          onPress={() => onChangeCount(Math.max(1, count - 1))}
+          accessibilityRole="button"
+          accessibilityLabel={t('a11y.decreaseCount')}
+        >
           <YStack
             width={32}
             height={32}
@@ -201,7 +205,11 @@ function TimesPerPicker({
         <Text fontFamily="$body" fontSize="$3" color="$color" minWidth={24} textAlign="center">
           {count}
         </Text>
-        <Pressable onPress={() => onChangeCount(count + 1)}>
+        <Pressable
+          onPress={() => onChangeCount(count + 1)}
+          accessibilityRole="button"
+          accessibilityLabel={t('a11y.increaseCount')}
+        >
           <YStack
             width={32}
             height={32}

@@ -1297,6 +1297,11 @@ export default {
     home: 'Início',
     versicle: 'Versículo: {{text}}',
     response: 'Resposta: {{text}}',
+    selectIcon: 'Escolher ícone {{name}}',
+    decreaseCount: 'Diminuir',
+    increaseCount: 'Aumentar',
+    viewCalendar: 'Ver calendário litúrgico',
+    viewGalleryImage: 'Ver imagem {{index}} de {{total}}',
   },
   languages: {
     'en-US': 'Inglês',
