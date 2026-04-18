@@ -994,6 +994,11 @@ export default {
     retry: 'Tentar novamente',
   },
 
+  error: {
+    somethingWrong: 'Algo deu errado.',
+    tryAgainLater: 'Por favor, tente novamente.',
+  },
+
   bookName: {
     genesis: 'Gênesis',
     exodus: 'Êxodo',

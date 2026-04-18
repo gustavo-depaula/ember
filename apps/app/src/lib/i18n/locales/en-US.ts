@@ -990,6 +990,11 @@ export default {
     retry: 'Try again',
   },
 
+  error: {
+    somethingWrong: 'Something went wrong.',
+    tryAgainLater: 'Please try again.',
+  },
+
   bookName: {
     genesis: 'Genesis',
     exodus: 'Exodus',

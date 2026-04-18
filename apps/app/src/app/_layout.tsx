@@ -16,7 +16,7 @@ import { Lora_400Regular } from '@expo-google-fonts/lora'
 import { Merriweather_400Regular } from '@expo-google-fonts/merriweather'
 import { PinyonScript_400Regular } from '@expo-google-fonts/pinyon-script'
 import { SourceSerif4_400Regular } from '@expo-google-fonts/source-serif-4'
-import { QueryClient, QueryClientProvider } from '@tanstack/react-query'
+import { MutationCache, QueryClient, QueryClientProvider } from '@tanstack/react-query'
 import { useFonts } from 'expo-font'
 import { Stack } from 'expo-router'
 import * as SplashScreen from 'expo-splash-screen'
@@ -26,7 +26,7 @@ import { InteractionManager, LogBox, useColorScheme } from 'react-native'
 import { GestureHandlerRootView } from 'react-native-gesture-handler'
 import { TamaguiProvider, Theme } from 'tamagui'
 
-import { ConfirmHost } from '@/components'
+import { ConfirmHost, confirm } from '@/components'
 import { AppFrame } from '@/components/AppFrame'
 import { config } from '@/config/tamagui.config'
 import { darkTheme, lightTheme } from '@/config/themes'
@@ -42,6 +42,7 @@ import {
 import { useKeepAwake } from '@/hooks/useKeepAwake'
 import { useLiturgicalTheme } from '@/hooks/useLiturgicalTheme'
 import { initHearth } from '@/lib/hearth'
+import i18n from '@/lib/i18n'
 import { rescheduleAllReminders, setupNotifications } from '@/lib/notifications'
 import { useBibleStore } from '@/stores/bibleStore'
 import { useCatechismStore } from '@/stores/catechismStore'
@@ -52,7 +53,20 @@ SplashScreen.preventAutoHideAsync()
 // RN 0.83 deprecation warning from Tamagui internals crashes LogBox with "cyclic object value"
 LogBox.ignoreLogs(['props.pointerEvents is deprecated'])
 
-const queryClient = new QueryClient()
+const queryClient = new QueryClient({
+  mutationCache: new MutationCache({
+    onError: (error, _variables, _context, mutation) => {
+      if (mutation.options.onError) return
+      const description =
+        error instanceof Error && error.message ? error.message : i18n.t('error.tryAgainLater')
+      confirm({
+        title: i18n.t('error.somethingWrong'),
+        description,
+        singleAction: true,
+      })
+    },
+  }),
+})
 
 if (typeof document !== 'undefined') {
   const style = document.createElement('style')
