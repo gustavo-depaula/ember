@@ -316,7 +316,7 @@ const paginationScript = `
           requestAnimationFrame(function() { el.style.transition = ''; });
         });
       }
-    } catch(err) {}
+    } catch(err) { console.error('[reader] message handler failed:', err); }
   });
 
   // Initial measure

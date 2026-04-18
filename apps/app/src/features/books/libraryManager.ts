@@ -286,7 +286,8 @@ export async function loadInstalledBooks(): Promise<void> {
           return await createIdbSource(row.book_id)
         }
         return await nativeSource!.createFileSystemSource(libraryDir(row.book_id).uri)
-      } catch {
+      } catch (err) {
+        console.error(`[library] failed to load installed book "${row.book_id}":`, err)
         return undefined
       }
     }),

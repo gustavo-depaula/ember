@@ -85,7 +85,10 @@ async function readJson<T>(path: string): Promise<T | undefined> {
   try {
     const raw = await new NativeFile!(path).text()
     return JSON.parse(raw) as T
-  } catch {
+  } catch (err) {
+    if (err instanceof SyntaxError) {
+      console.error(`[filesystem] corrupt JSON at ${path}:`, err)
+    }
     return undefined
   }
 }

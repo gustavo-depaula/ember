@@ -11,11 +11,12 @@ import type {
 import type { BookEntry, ContentSource, Library, PrayerAsset } from './filesystem'
 
 async function readJson<T>(path: string): Promise<T | undefined> {
+  const raw = await idbReadText(path)
+  if (!raw) return undefined
   try {
-    const raw = await idbReadText(path)
-    if (!raw) return undefined
     return JSON.parse(raw) as T
-  } catch {
+  } catch (err) {
+    console.error(`[idb] failed to parse JSON at ${path}:`, err)
     return undefined
   }
 }

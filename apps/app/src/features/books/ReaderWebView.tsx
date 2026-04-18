@@ -60,7 +60,9 @@ const NativeWebView = forwardRef<ReaderWebViewHandle, Props>(function NativeWebV
     (event: { nativeEvent: { data: string } }) => {
       try {
         onMessage?.(JSON.parse(event.nativeEvent.data) as ReaderMessage)
-      } catch {}
+      } catch (err) {
+        console.error('[reader] malformed message from native WebView:', err)
+      }
     },
     [onMessage],
   )
@@ -116,7 +118,9 @@ const WebIframe = forwardRef<ReaderWebViewHandle, Props>(function WebIframe(
       try {
         const msg = typeof event.data === 'string' ? JSON.parse(event.data) : event.data
         onMessage?.(msg as ReaderMessage)
-      } catch {}
+      } catch (err) {
+        console.error('[reader] malformed message from iframe:', err)
+      }
     }
     window.addEventListener('message', handleMessage)
     return () => window.removeEventListener('message', handleMessage)
