@@ -14,10 +14,14 @@ type BilingualProperSection = {
   citation?: string
 }
 
-export function useProperForSlot(
-  slot: string,
-  form: 'of' | 'ef',
-): { data: BilingualProperSection | undefined; isLoading: boolean } {
+type UseProperForSlotResult = {
+  data: BilingualProperSection | undefined
+  isLoading: boolean
+  isError: boolean
+  refetch: () => void
+}
+
+export function useProperForSlot(slot: string, form: 'of' | 'ef'): UseProperForSlotResult {
   const contentLanguage = usePreferencesStore((s) => s.contentLanguage)
   const secondaryLanguage = usePreferencesStore((s) => s.secondaryLanguage)
   const language = usePreferencesStore((s) => s.language)
@@ -43,7 +47,17 @@ export function useProperForSlot(
 
   if (form === 'ef') {
     const raw = efQuery.data
-    if (!raw) return { data: undefined, isLoading: efQuery.isLoading }
+    const refetch = () => {
+      efQuery.refetch()
+    }
+    if (!raw) {
+      return {
+        data: undefined,
+        isLoading: efQuery.isLoading,
+        isError: efQuery.isError,
+        refetch,
+      }
+    }
 
     return {
       data: {
@@ -55,11 +69,23 @@ export function useProperForSlot(
         citation: raw.citation,
       },
       isLoading: false,
+      isError: false,
+      refetch,
     }
   }
 
+  const refetch = () => {
+    ofQuery.refetch()
+  }
   const ofSection = ofQuery.data?.[slot] as ProperSection | undefined
-  if (!ofSection) return { data: undefined, isLoading: ofQuery.isLoading }
+  if (!ofSection) {
+    return {
+      data: undefined,
+      isLoading: ofQuery.isLoading,
+      isError: ofQuery.isError,
+      refetch,
+    }
+  }
 
   return {
     data: {
@@ -67,5 +93,7 @@ export function useProperForSlot(
       citation: ofSection.citation,
     },
     isLoading: ofQuery.isLoading,
+    isError: false,
+    refetch,
   }
 }

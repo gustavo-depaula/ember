@@ -1,8 +1,10 @@
 // biome-ignore-all lint/suspicious/noArrayIndexKey: static prayer text lines never reorder
 
 import type { BilingualText } from '@ember/content-engine'
-import { Text, YStack } from 'tamagui'
+import { useTranslation } from 'react-i18next'
+import { Text, XStack, YStack } from 'tamagui'
 import { useProperForSlot } from '@/lib/mass-propers'
+import { AnimatedPressable } from '../AnimatedPressable'
 import { PrayerText } from '../PrayerText'
 import { BilingualBlock } from './BilingualBlock'
 
@@ -126,7 +128,8 @@ export function ProperSlot({
   form: 'of' | 'ef'
   description: BilingualText
 }) {
-  const { data: proper, isLoading } = useProperForSlot(slot, form)
+  const { t } = useTranslation()
+  const { data: proper, isLoading, isError, refetch } = useProperForSlot(slot, form)
 
   if (isLoading) {
     return (
@@ -141,6 +144,30 @@ export function ProperSlot({
         <YStack backgroundColor="$borderColor" borderRadius="$sm" height={14} width="90%" />
         <YStack backgroundColor="$borderColor" borderRadius="$sm" height={14} width="75%" />
       </YStack>
+    )
+  }
+
+  if (isError) {
+    return (
+      <XStack
+        backgroundColor="$backgroundSurface"
+        borderRadius="$md"
+        borderWidth={1}
+        borderColor="$borderColor"
+        borderStyle="dashed"
+        padding="$md"
+        alignItems="center"
+        gap="$sm"
+      >
+        <Text flex={1} fontFamily="$body" fontSize="$2" color="$colorSecondary">
+          {t('common.couldntLoad')}
+        </Text>
+        <AnimatedPressable onPress={refetch} accessibilityRole="button" hitSlop={8}>
+          <Text fontFamily="$heading" fontSize="$2" color="$accent">
+            {t('common.retry')}
+          </Text>
+        </AnimatedPressable>
+      </XStack>
     )
   }
 
