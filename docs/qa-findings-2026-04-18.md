@@ -83,6 +83,8 @@ In production this would surface as an uncaught promise rejection on every route
 
 Prefer (a) — stronger information hierarchy, no auto-scroll surprise.
 
+**Status.** Fixed via (a) — Dies Domini now anchors today's devotion at the top as an accent-bordered card with a larger heading and body line, followed by a muted "The rest of the week" section listing the other six days in weekly order with lighter chrome.
+
 ---
 
 ### F8 · Memento Mori "aspect" cards look pressable but aren't — **P2**

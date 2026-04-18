@@ -16,11 +16,14 @@ const dayKeys = [
   'saturday',
 ] as const
 
+type DayKey = (typeof dayKeys)[number]
+
 export default function DiesDominiScreen() {
   const { t } = useTranslation()
   const router = useRouter()
   const theme = useTheme()
   const todayKey = dayKeys[new Date().getDay()]
+  const otherDays = dayKeys.filter((key) => key !== todayKey)
 
   return (
     <ScreenLayout>
@@ -40,15 +43,25 @@ export default function DiesDominiScreen() {
         </XStack>
 
         <ScrollView showsVerticalScrollIndicator={false}>
-          <YStack gap="$md">
-            {dayKeys.map((key, index) => (
-              <DayCard
-                key={key}
-                dayKey={key}
-                isToday={key === todayKey}
-                last={index === dayKeys.length - 1}
-              />
-            ))}
+          <YStack gap="$lg">
+            <TodayCard dayKey={todayKey} />
+
+            <YStack gap="$xs">
+              <Text
+                fontFamily="$heading"
+                fontSize="$2"
+                color="$colorSecondary"
+                letterSpacing={1.5}
+                textTransform="uppercase"
+              >
+                {t('diesDomini.restOfWeek')}
+              </Text>
+              <YStack gap="$md" paddingTop="$sm">
+                {otherDays.map((key, index) => (
+                  <OtherDayRow key={key} dayKey={key} last={index === otherDays.length - 1} />
+                ))}
+              </YStack>
+            </YStack>
           </YStack>
         </ScrollView>
       </YStack>
@@ -56,34 +69,48 @@ export default function DiesDominiScreen() {
   )
 }
 
-function DayCard({
-  dayKey,
-  isToday,
-  last,
-}: {
-  dayKey: (typeof dayKeys)[number]
-  isToday: boolean
-  last: boolean
-}) {
+function TodayCard({ dayKey }: { dayKey: DayKey }) {
   const { t } = useTranslation()
-
   return (
-    <YStack gap="$sm">
+    <YStack
+      gap="$sm"
+      padding="$lg"
+      borderRadius="$md"
+      borderLeftWidth={3}
+      borderLeftColor="$accent"
+      backgroundColor="$backgroundSurface"
+    >
       <XStack alignItems="baseline" gap="$sm">
         <Text
           fontFamily="$heading"
-          fontSize="$2"
-          color={isToday ? '$accent' : '$colorSecondary'}
-          letterSpacing={1}
+          fontSize="$3"
+          color="$accent"
+          letterSpacing={1.5}
+          textTransform="uppercase"
         >
-          {t(`diesDomini.days.${dayKey}.name`).toUpperCase()}
+          {t(`diesDomini.days.${dayKey}.name`)}
         </Text>
-        {isToday && (
-          <Text fontFamily="$body" fontSize="$1" color="$accent" fontStyle="italic">
-            {t('memoria.today').toLowerCase()}
-          </Text>
-        )}
+        <Text fontFamily="$body" fontSize="$1" color="$accent" fontStyle="italic">
+          {t('memoria.today').toLowerCase()}
+        </Text>
       </XStack>
+      <Text fontFamily="$body" fontSize="$4" color="$color" lineHeight="$5">
+        {t(`diesDomini.days.${dayKey}.line`)}
+      </Text>
+      <Text fontFamily="$body" fontSize="$2" color="$colorSecondary" lineHeight="$2">
+        {t(`diesDomini.days.${dayKey}.description`)}
+      </Text>
+    </YStack>
+  )
+}
+
+function OtherDayRow({ dayKey, last }: { dayKey: DayKey; last: boolean }) {
+  const { t } = useTranslation()
+  return (
+    <YStack gap="$sm">
+      <Text fontFamily="$heading" fontSize="$2" color="$colorSecondary" letterSpacing={1}>
+        {t(`diesDomini.days.${dayKey}.name`).toUpperCase()}
+      </Text>
       <Text fontFamily="$body" fontSize="$3" color="$color">
         {t(`diesDomini.days.${dayKey}.line`)}
       </Text>

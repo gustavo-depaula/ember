@@ -469,6 +469,7 @@ export default {
           'Between Good Friday and Easter Sunday, only the Blessed Virgin kept faith. Every Saturday is hers — a day to honor her sorrows, her joys, and to entrust the week to come into her hands.',
       },
     },
+    restOfWeek: 'The rest of the week',
   },
 
   kyrie: {

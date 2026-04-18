@@ -473,6 +473,7 @@ export default {
           'Entre a Sexta-feira Santa e o Domingo de P\u00e1scoa, apenas a Virgem Maria guardou a f\u00e9. Todo s\u00e1bado \u00e9 dela \u2014 um dia para honrar as suas dores, as suas alegrias, e entregar a semana que vem \u00e0s suas m\u00e3os.',
       },
     },
+    restOfWeek: 'O restante da semana',
   },
 
   kyrie: {
