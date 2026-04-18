@@ -89,8 +89,9 @@ function TocNodeRow({
         style={({ pressed }) => ({
           backgroundColor: pressed ? 'rgba(128,128,128,0.15)' : 'transparent',
         })}
-        accessibilityRole="button"
-        accessibilityState={hasChildren ? { expanded: isExpanded } : undefined}
+        accessibilityRole={hasChildren ? 'button' : 'link'}
+        accessibilityLabel={node.label}
+        accessibilityState={hasChildren ? { expanded: isExpanded } : { selected: isCurrent }}
       >
         <XStack
           paddingVertical={isPartHeader ? 12 : 8}

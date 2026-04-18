@@ -31,8 +31,9 @@ export function SaintCardViewer({
           justifyContent: 'center',
         }}
         onPress={onClose}
+        accessible={false}
       >
-        <Pressable>
+        <Pressable accessible={false}>
           <SaintCard saint={item} />
         </Pressable>
         <Text

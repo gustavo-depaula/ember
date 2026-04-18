@@ -22,7 +22,12 @@ function GridItem({
   const itemHeight = itemWidth * 1.5
 
   return (
-    <Pressable onPress={onPress} style={styles.gridItem}>
+    <Pressable
+      onPress={onPress}
+      style={styles.gridItem}
+      accessibilityRole="button"
+      accessibilityLabel={label}
+    >
       <View
         width={itemWidth}
         height={itemHeight}

@@ -38,7 +38,8 @@ export function SegmentList({
               style={({ pressed }) => ({
                 backgroundColor: pressed ? 'rgba(128,128,128,0.15)' : 'transparent',
               })}
-              accessibilityRole="button"
+              accessibilityRole="link"
+              accessibilityLabel={`${seg.startParagraph}. ${seg.section}`}
               accessibilityState={{ selected: isCurrent }}
             >
               <XStack paddingVertical={8} paddingHorizontal="$sm" gap="$sm" alignItems="center">
