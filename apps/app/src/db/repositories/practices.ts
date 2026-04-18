@@ -100,6 +100,12 @@ function buildSlotAddedEvent(
   }
 }
 
+function unarchiveEventIfNeeded(practiceId: string) {
+  const existing = useEventStore.getState().practices.get(practiceId)
+  if (!existing?.archived) return undefined
+  return { type: 'PracticeUnarchived' as const, practiceId }
+}
+
 export async function createPracticeWithSlot(
   practice: {
     id: string
@@ -111,8 +117,9 @@ export async function createPracticeWithSlot(
   slotData: Parameters<typeof addSlot>[1],
 ): Promise<string> {
   const events = []
+  const existing = useEventStore.getState().practices.get(practice.id)
 
-  if (!useEventStore.getState().practices.has(practice.id)) {
+  if (!existing) {
     events.push({
       type: 'PracticeCreated' as const,
       practiceId: practice.id,
@@ -121,6 +128,8 @@ export async function createPracticeWithSlot(
       customDesc: practice.customDesc,
       activeVariant: practice.activeVariant,
     })
+  } else if (existing.archived) {
+    events.push({ type: 'PracticeUnarchived' as const, practiceId: practice.id })
   }
 
   const { event, slotKey } = buildSlotAddedEvent(practice.id, slotData)
@@ -188,7 +197,12 @@ export async function addSlot(
   },
 ): Promise<string> {
   const { event, slotKey } = buildSlotAddedEvent(practiceId, data)
-  await emit(event)
+  const unarchive = unarchiveEventIfNeeded(practiceId)
+  if (unarchive) {
+    await emitBatch([unarchive, event])
+  } else {
+    await emit(event)
+  }
   return slotKey
 }
 
@@ -222,7 +236,16 @@ export async function deleteSlot(slotId: string): Promise<void> {
 
 async function setSlotsEnabled(practiceId: string, enabled: 0 | 1): Promise<void> {
   const store = useEventStore.getState()
-  const events = []
+  const events: Parameters<typeof emitBatch>[0] = []
+  if (enabled === 1) {
+    const unarchive = unarchiveEventIfNeeded(practiceId)
+    // PracticeUnarchived already re-enables every slot for this practice; avoid
+    // emitting redundant SlotUpdated events when unarchiving would cover them.
+    if (unarchive) {
+      await emit(unarchive)
+      return
+    }
+  }
   for (const [key, slot] of store.slots) {
     if (slot.practice_id === practiceId && slot.enabled !== enabled) {
       events.push({ type: 'SlotUpdated' as const, slotKey: key, changes: { enabled } })

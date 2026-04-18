@@ -44,11 +44,15 @@ export default function CatalogDetailScreen() {
   const isDirectlyInPlan = slotsForManifest.some((s) => s.enabled === 1)
 
   // Check if any member of the same alternative group is already in the plan
-  const practiceIds = useEventStore((s) => s.practices)
+  const practices = useEventStore((s) => s.practices)
   const groupMemberInPlan = useMemo(() => {
     if (!manifestId || isDirectlyInPlan) return undefined
-    return findGroupMemberInSet(manifestId, practiceIds)
-  }, [manifestId, isDirectlyInPlan, practiceIds])
+    const activeIds = new Set<string>()
+    for (const [id, p] of practices) {
+      if (!p.archived) activeIds.add(id)
+    }
+    return findGroupMemberInSet(manifestId, activeIds)
+  }, [manifestId, isDirectlyInPlan, practices])
   const isInPlan = isDirectlyInPlan || !!groupMemberInPlan
   const planPracticeId = groupMemberInPlan ?? manifestId
 
