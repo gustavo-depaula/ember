@@ -415,6 +415,23 @@ Simplify agent also flagged potential duplication between Angelus and Benedictio
 
 ---
 
+## Iteration 28 — useToday() hour-math audit
+
+The previous two iterations surfaced the same latent trap — `useToday()` returns a date normalized to midnight, so any downstream `.getHours()` call silently reads as 0. Memento Mori had it, Angelus had it shipped for a whole iteration before the simplify pass caught it. This iteration: take the pattern seriously before a third feature repeats it.
+
+Grepped `.getHours()` / `.getMinutes()` across the app, and every hit is now either:
+- operating on a fresh `new Date()` inside a `setInterval`-backed hook (Angelus, Benedictio, Memento, Hora), or
+- formatting a user-picked time on `SlotConfigurator` (unrelated),
+- or `src/app/index.tsx` which uses `new Date()` directly.
+
+No remaining bugs. The audit is clean.
+
+Preventive fix: rewrote the `useToday` / `getToday` JSDoc to name the trap explicitly. It now says *don't call `.getHours()` on the result* and points to the Angelus hook for the correct pattern. Comments in two `slots.ts` files already warn at the call site; the hook-level warning closes the loop so future contributors read it when they first reach for the hook.
+
+Learning: a JSDoc warning is cheap, permanent, and reaches readers before they write the bug. An ESLint rule would be stronger but much heavier; one docstring and two strategic comments are the right weight for a two-incident trap in a solo project.
+
+---
+
 ## Session wrap
 
 Shipped tonight, in order:
@@ -450,6 +467,7 @@ Shipped tonight, in order:
 29. **Angelus** — thrice-daily Marian bell: three slot chips, traditional prayer + Regina Cæli swap, home whisper in canonical windows
 30. **Memento Mori** — Four Last Things nightly reflection: 28 rotating one-sentence meditations across Mors/Iudicium/Caelum/Infernum; evening-only home whisper (≥19:00) pairs with Compline as pre-sleep contemplation
 31. **Benedictio** — grace before/after meals: three slot chips (breakfast/lunch/dinner), traditional Benedic Domine + Agimus tibi gratias, home whisper during meal windows, Memoria integration. Also fixed a silent Angelus bug where `currentAngelusSlot(useToday())` always returned undefined (same useToday-is-midnight trap the Memento Mori simplify pass surfaced).
+32. useToday hour-math audit — grepped every `.getHours()` call, confirmed no remaining traps, and tightened the `useToday` / `getToday` JSDoc so future contributors read the warning before reaching for the hook.
 
 Bold = new visible features, not bug fixes.
 
