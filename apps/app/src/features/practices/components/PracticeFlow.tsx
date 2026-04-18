@@ -8,7 +8,7 @@ import { Home } from 'lucide-react-native'
 import { useCallback, useEffect, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
-import { Spinner, Text, useTheme, YStack } from 'tamagui'
+import { Text, useTheme, YStack } from 'tamagui'
 import {
   AnimatedPressable,
   BibleReadingBlock,
@@ -18,6 +18,7 @@ import {
   type PsalmData,
   PsalmodyBlock,
   ScreenLayout,
+  Threshold,
 } from '@/components'
 import { SectionBlock } from '@/components/SectionBlock'
 import { createEngineContext } from '@/content/engineContext'
@@ -117,6 +118,12 @@ export function PracticeFlow({
   const [selectOverrides, setSelectOverrides] = useState<Record<string, string>>({})
   const [sections, setSections] = useState<RenderedSection[]>([])
   const [isResolvingFlow, setIsResolvingFlow] = useState(false)
+  const [thresholdElapsed, setThresholdElapsed] = useState(false)
+
+  useEffect(() => {
+    const id = setTimeout(() => setThresholdElapsed(true), 900)
+    return () => clearTimeout(id)
+  }, [])
 
   const manifest = getManifest(practiceId)
   const programProgress = useProgramProgress(practiceId, manifest?.program)
@@ -308,14 +315,8 @@ export function PracticeFlow({
     )
   }
 
-  if (isDynamicLoading) {
-    return (
-      <ScreenLayout>
-        <YStack flex={1} alignItems="center" justifyContent="center">
-          <Spinner size="large" color="$accent" />
-        </YStack>
-      </ScreenLayout>
-    )
+  if (isDynamicLoading || !thresholdElapsed) {
+    return <Threshold word={t('practice.threshold')} />
   }
 
   function handleComplete() {

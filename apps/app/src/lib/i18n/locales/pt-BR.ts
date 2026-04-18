@@ -872,6 +872,7 @@ export default {
     'via-sacra-claretiano': 'Via Sacra Claretiana',
     pray: 'Rezar',
     noContent: 'Conteúdo de oração ainda não disponível para esta prática.',
+    threshold: 'Oremus',
   },
 
   obligations: {

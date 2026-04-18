@@ -871,6 +871,7 @@ export default {
     'via-sacra-claretiano': 'Claretian Way of the Cross',
     pray: 'Pray',
     noContent: 'No prayer content available for this practice yet.',
+    threshold: 'Oremus',
   },
 
   obligations: {
