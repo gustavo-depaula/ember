@@ -3,6 +3,7 @@ import { ChevronLeft, Flame, Plus, Trash2 } from 'lucide-react-native'
 import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Pressable, TextInput } from 'react-native'
+import Animated, { FadeIn, FadeOut, LinearTransition } from 'react-native-reanimated'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
 import { AnimatedPressable, confirm, ScreenLayout } from '@/components'
@@ -126,7 +127,14 @@ export default function GratiasScreen() {
         ) : (
           <YStack gap="$sm">
             {gratitudes.map((g) => (
-              <GratitudeRow key={g.id} gratitude={g} locale={locale} onDelete={() => onDelete(g)} />
+              <Animated.View
+                key={g.id}
+                entering={FadeIn.duration(200)}
+                exiting={FadeOut.duration(150)}
+                layout={LinearTransition.duration(200)}
+              >
+                <GratitudeRow gratitude={g} locale={locale} onDelete={() => onDelete(g)} />
+              </Animated.View>
             ))}
           </YStack>
         )}

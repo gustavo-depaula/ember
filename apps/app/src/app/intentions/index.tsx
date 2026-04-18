@@ -4,6 +4,7 @@ import { Check, ChevronLeft, Heart, Plus, RotateCcw, Trash2 } from 'lucide-react
 import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Pressable, TextInput } from 'react-native'
+import Animated, { FadeIn, FadeOut, LinearTransition } from 'react-native-reanimated'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
 import { AnimatedPressable, confirm, ScreenLayout, SectionDivider } from '@/components'
@@ -152,14 +153,20 @@ export default function IntentionsScreen() {
                 </Text>
               ) : (
                 open.map((i) => (
-                  <IntentionRow
+                  <Animated.View
                     key={i.id}
-                    intention={i}
-                    mode="open"
-                    locale={locale}
-                    onPrimary={() => onMarkAnswered(i.id)}
-                    onDelete={() => onDelete(i)}
-                  />
+                    entering={FadeIn.duration(200)}
+                    exiting={FadeOut.duration(150)}
+                    layout={LinearTransition.duration(200)}
+                  >
+                    <IntentionRow
+                      intention={i}
+                      mode="open"
+                      locale={locale}
+                      onPrimary={() => onMarkAnswered(i.id)}
+                      onDelete={() => onDelete(i)}
+                    />
+                  </Animated.View>
                 ))
               )}
             </YStack>
@@ -181,14 +188,20 @@ export default function IntentionsScreen() {
                 </Pressable>
                 {showAnswered &&
                   answered.map((i) => (
-                    <IntentionRow
+                    <Animated.View
                       key={i.id}
-                      intention={i}
-                      mode="answered"
-                      locale={locale}
-                      onPrimary={() => markUnanswered.mutate(i.id)}
-                      onDelete={() => onDelete(i)}
-                    />
+                      entering={FadeIn.duration(200)}
+                      exiting={FadeOut.duration(150)}
+                      layout={LinearTransition.duration(200)}
+                    >
+                      <IntentionRow
+                        intention={i}
+                        mode="answered"
+                        locale={locale}
+                        onPrimary={() => markUnanswered.mutate(i.id)}
+                        onDelete={() => onDelete(i)}
+                      />
+                    </Animated.View>
                   ))}
               </>
             )}
