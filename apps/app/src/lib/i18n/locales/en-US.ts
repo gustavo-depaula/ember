@@ -236,6 +236,18 @@ export default {
     confirmDeleteTitle: 'Remove this intention?',
   },
 
+  memoria: {
+    title: 'Memoria',
+    subtitle: 'A chronicle of your life of prayer.',
+    homeTagline: 'Remember what the Lord has done',
+    emptyState: 'Your chronicle begins with your first prayer.',
+    today: 'Today',
+    yesterday: 'Yesterday',
+    completion: 'Prayed {{name}}',
+    intentionOffered: 'Offered: “{{text}}”',
+    intentionAnswered: 'Answered: “{{text}}”',
+  },
+
   oratio: {
     title: 'Oratio',
     close: 'Close',

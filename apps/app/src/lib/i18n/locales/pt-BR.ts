@@ -238,6 +238,18 @@ export default {
     confirmDeleteTitle: 'Remover esta inten\u00e7\u00e3o?',
   },
 
+  memoria: {
+    title: 'Mem\u00f3ria',
+    subtitle: 'Uma cr\u00f4nica da sua vida de ora\u00e7\u00e3o.',
+    homeTagline: 'Lembra-te do que o Senhor fez',
+    emptyState: 'Sua cr\u00f4nica come\u00e7a com a primeira ora\u00e7\u00e3o.',
+    today: 'Hoje',
+    yesterday: 'Ontem',
+    completion: 'Rezou {{name}}',
+    intentionOffered: 'Ofereceu: \u201c{{text}}\u201d',
+    intentionAnswered: 'Atendida: \u201c{{text}}\u201d',
+  },
+
   oratio: {
     title: 'Oratio',
     close: 'Fechar',
