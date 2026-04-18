@@ -328,6 +328,8 @@ export default function SettingsScreen() {
             })
             if (ok) resetDatabase()
           }}
+          accessibilityRole="button"
+          accessibilityLabel="Reset Database"
         >
           <YStack
             backgroundColor="$backgroundSurface"
