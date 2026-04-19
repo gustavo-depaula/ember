@@ -1,0 +1,17 @@
+{
+	"title": {
+		"en-US": "Regina Caeli",
+		"pt-BR": "Rainha do Céu",
+		"la": "Regina Caeli"
+	},
+	"body": [
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Queen of Heaven, rejoice, alleluia:\nfor He whom thou wast made worthy to bear, alleluia,\nis risen, as He said, alleluia.\nPray for us to God, alleluia.",
+				"pt-BR": "Rainha do Céu, alegra-te, aleluia:\npois aquele que mereceste trazer no teu seio, aleluia,\nressuscitou como disse, aleluia.\nRoga por nós a Deus, aleluia.",
+				"la": "Regina caeli, laetare, alleluia:\nquia quem meruisti portare, alleluia,\nresurrexit sicut dixit, alleluia.\nOra pro nobis Deum, alleluia."
+			}
+		}
+	]
+}

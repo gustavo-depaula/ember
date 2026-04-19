@@ -1,0 +1,15 @@
+{
+	"title": {
+		"en-US": "Prayer of St. Francis (Peace Prayer)",
+		"pt-BR": "Oração de São Francisco (Oração da Paz)"
+	},
+	"body": [
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Lord, make me an instrument of Thy peace:\nwhere there is hatred, let me sow love;\nwhere there is injury, pardon;\nwhere there is doubt, faith;\nwhere there is despair, hope;\nwhere there is darkness, light;\nand where there is sadness, joy.\n\nO Divine Master, grant that I may not so much seek\nto be consoled, as to console;\nto be understood, as to understand;\nto be loved, as to love.\n\nFor it is in giving that we receive;\nit is in pardoning that we are pardoned;\nand it is in dying that we are born to eternal life. Amen.",
+				"pt-BR": "Senhor, fazei-me instrumento de vossa paz:\nonde houver ódio, que eu leve o amor;\nonde houver ofensa, que eu leve o perdão;\nonde houver discórdia, que eu leve a união;\nonde houver dúvida, que eu leve a fé;\nonde houver erro, que eu leve a verdade;\nonde houver desespero, que eu leve a esperança;\nonde houver tristeza, que eu leve a alegria;\nonde houver trevas, que eu leve a luz.\n\nÓ Mestre, fazei que eu procure mais\nconsolar, que ser consolado;\ncompreender, que ser compreendido;\namar, que ser amado.\n\nPois é dando que se recebe,\né perdoando que se é perdoado,\ne é morrendo que se vive para a vida eterna. Amém."
+			}
+		}
+	]
+}

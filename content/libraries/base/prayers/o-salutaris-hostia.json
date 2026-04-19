@@ -1,0 +1,17 @@
+{
+	"title": {
+		"en-US": "O Salutaris Hostia",
+		"pt-BR": "Ó Sagrada Hóstia",
+		"la": "O Salutaris Hostia"
+	},
+	"body": [
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O saving Victim, opening wide\nthe gate of heaven to us below;\nour foes press hard on every side,\nThine aid supply, Thy strength bestow.\n\nTo Thy great name be endless praise,\nimmortal Godhead, One in Three.\nO grant us endless length of days\nin our true native land with Thee. Amen.",
+				"pt-BR": "Ó Hóstia salutar,\nque do céu nos abris a porta,\nos inimigos nos oprimem:\ndai-nos força, trazei-nos socorro.\n\nAo Senhor Uno e Trino\nseja dada sempiterna glória;\nque nos conceda a vida sem fim,\nna pátria, juntamente. Amém.",
+				"la": "O salutaris Hostia,\nquae caeli pandis ostium:\nbella premunt hostilia,\nda robur, fer auxilium.\n\nUni trinoque Domino\nsit sempiterna gloria,\nqui vitam sine termino\nnobis donet in patria. Amen."
+			}
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"title": {
+		"en-US": "Prayer Before a Crucifix",
+		"pt-BR": "Oração Diante do Crucifixo",
+		"la": "En Ego, O Bone et Dulcissime Iesu"
+	},
+	"body": [
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Behold, O good and most sweet Jesus,\nI cast myself upon my knees in Thy sight,\nand with the most fervent desire of my soul\nI pray and beseech Thee\nthat Thou wouldst impress upon my heart\nlively sentiments of faith, hope, and charity,\nwith true contrition for my sins\nand a firm purpose of amendment;\n\nwhile with deep affection and grief of soul\nI ponder within myself\nand mentally contemplate Thy five most precious wounds,\nhaving before my eyes\nthe words which David, the prophet, spoke concerning Thee, O good Jesus:\n\n'They have pierced my hands and my feet;\nthey have numbered all my bones.' (Psalm 21:17–18)",
+				"pt-BR": "Eis-me aqui, ó bom e dulcíssimo Jesus,\nprostrado diante de Vossa presença,\ncom o mais vivo fervor da alma\nrogo-Vos e suplico\nque Vos digneis imprimir em meu coração\nvivos sentimentos de fé, esperança e caridade,\nverdadeiro arrependimento dos meus pecados\ne firmíssimo propósito de emenda;\n\nenquanto, com grande afeto e dor da alma,\nconsidero em meu íntimo\ne contemplo mentalmente as Vossas cinco preciosíssimas chagas,\ntendo diante dos olhos\no que já de Vós, ó bom Jesus, dizia o profeta Davi:\n\n'Traspassaram minhas mãos e meus pés,\ncontaram todos os meus ossos.' (Salmo 21, 17–18)",
+				"la": "En ego, o bone et dulcissime Iesu,\nante conspectum tuum genibus me provolvo\nac maximo animi ardore te oro atque obtestor,\nut meum in cor vividos fidei, spei et caritatis sensus,\natque veram peccatorum meorum paenitentiam,\neaque emendandi firmissimam voluntatem velis imprimere;\n\ndum magno animi affectu et dolore\ntua quinque vulnera mecum ipse considero\nac mente contemplor,\nillud prae oculis habens,\nquod iam in ore ponebat tuo David propheta de te, o bone Iesu:\n\n'Foderunt manus meas et pedes meos;\ndinumeraverunt omnia ossa mea.'"
+			}
+		}
+	]
+}

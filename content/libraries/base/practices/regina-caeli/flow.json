@@ -9,11 +9,7 @@
 		},
 		{
 			"type": "prayer",
-			"inline": {
-				"en-US": "Queen of Heaven, rejoice, alleluia:\nFor He whom thou wast made worthy to bear, alleluia,\nIs risen, as He said, alleluia.\nPray for us to God, alleluia.",
-				"la": "Regina Caeli, laetare, alleluia:\nQia quem meruisti portare, alleluia,\nResurrexit, sicut dixit, alleluia.\nOra pro nobis Deum, alleluia.",
-				"pt-BR": "Rainha do Céu, alegra-te, aleluia:\nPois aquele que mereceste trazer no teu seio, aleluia,\nRessuscitou como disse, aleluia.\nRoga por nós a Deus, aleluia."
-			}
+			"ref": "regina-caeli"
 		},
 		{
 			"type": "divider"
