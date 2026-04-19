@@ -1,4 +1,4 @@
-## 9 — L'IMMACOLATA CONCEZIONE
+## 9 — L'IMMACOLATA CONCEZIONE[^1]
 
 **Presenza di Dio.** — *Mi metto alla presenza di Maria Immacolata, dolce Madre mia, ascoltando il suo invito: «Venite a me, voi tutti che mi amate, e vi racconterò quanto Dio ha fatto all'anima mia» (BR.).*
 
@@ -33,3 +33,5 @@ A me, tanto riluttante, tanto pigro ed avaro nel darmi a Dio, tanto immerso nell
 Con la luce che emana dalla tua splendente purezza, illumina dunque la mia mente perché nessun attacco, nessun affetto terreno rimanga celato in me, impedendomi una vita di reale e piena consacrazione al mio Dio.
 
 A te affido, in modo tutto particolare, il mio voto di castità; custodiscilo e fa' che io sia puro non solo di corpo, ma anche di mente e di cuore. Col tuo aiuto, Madre mia, son pronto a rinunciare a qualsiasi affetto, anche minimo, che mi possa ancora legare alle creature; voglio che il mio cuore sia tutto per Iddio, per lui voglio custodirne tutti i palpiti in uno spirito di totale castità.
+
+[^1]: Spostare questa meditazione secondo il calendario dell'anno.
