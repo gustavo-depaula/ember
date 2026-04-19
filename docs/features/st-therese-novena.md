@@ -2,7 +2,7 @@
 
 ## Goal
 
-Add a traditional **Novena to St. Therese of Lisieux** as a standalone program practice in `ember-novenas`, with full EN/PT-BR parity and explicit provenance/licensing notes.
+Add a traditional **Novena to St. Therese of Lisieux** as a standalone program practice in `novenas`, with full EN/PT-BR parity and explicit provenance/licensing notes.
 
 ## Devotional Background & Ember Fit
 
@@ -27,9 +27,9 @@ Behavior expectations:
 
 ## Packaging Decision
 
-- Keep novenas consolidated in **`ember-novenas`**.
+- Keep novenas consolidated in **`novenas`**.
 - Add one practice: **`st-therese-novena`**.
-- Reuse shared prayer refs from `ember-default` where applicable.
+- Reuse shared prayer refs from `base` where applicable.
 
 ## Content Model (Existing Content-Engine DSL)
 

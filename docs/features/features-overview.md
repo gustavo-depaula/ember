@@ -24,7 +24,7 @@ All practice content lives in `content/libraries/`:
 
 ```
 content/libraries/
-  ember-default/
+  base/
     library.json
     prayers/                    # Reusable prayer assets (Our Father, Hail Mary, etc.)
       our-father.json
@@ -36,7 +36,7 @@ content/libraries/
       rosary/
         manifest.json
         flow.json               # Single flow with select for mysteries
-  ember-novenas/
+  novenas/
     library.json
     practices/
       rosary-54-day-novena/

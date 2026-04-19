@@ -1,0 +1,43 @@
+{
+  "id": "novenas",
+  "version": "1.0.0",
+  "name": {
+    "en-US": "Traditional Novenas",
+    "pt-BR": "Novenas Tradicionais"
+  },
+  "description": {
+    "en-US": "Classic Catholic novenas for sustained devotional prayer.",
+    "pt-BR": "Novenas católicas clássicas para uma vida de oração perseverante."
+  },
+  "languages": [
+    "en-US",
+    "pt-BR"
+  ],
+  "tags": [
+    "novena",
+    "devotion",
+    "marian"
+  ],
+  "practices": [
+    "rosary-54-day-novena",
+    "divine-mercy-novena",
+    "st-joseph-novena",
+    "st-jude-novena",
+    "st-therese-novena",
+    "st-michael-novena",
+    "st-anthony-novena",
+    "novena-holy-spirit",
+    "novena-sacred-heart",
+    "miraculous-medal-novena",
+    "perpetual-help-novena",
+    "our-lady-aparecida-novena",
+    "guadalupe-novena",
+    "mount-carmel-novena"
+  ],
+  "prayers": [
+    "ladainha-nossa-senhora"
+  ],
+  "defaults": {
+    "autoSeed": false
+  }
+}

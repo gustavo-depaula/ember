@@ -209,15 +209,15 @@
         },
         {
           "type": "prayer",
-          "ref": "ember-default:our-father"
+          "ref": "base:our-father"
         },
         {
           "type": "prayer",
-          "ref": "ember-default:hail-mary"
+          "ref": "base:hail-mary"
         },
         {
           "type": "prayer",
-          "ref": "ember-default:glory-be"
+          "ref": "base:glory-be"
         },
         {
           "type": "response",
@@ -267,15 +267,15 @@
     },
     {
       "type": "prayer",
-      "ref": "ember-default:our-father"
+      "ref": "base:our-father"
     },
     {
       "type": "prayer",
-      "ref": "ember-default:hail-mary"
+      "ref": "base:hail-mary"
     },
     {
       "type": "prayer",
-      "ref": "ember-default:glory-be"
+      "ref": "base:glory-be"
     }
   ]
 }

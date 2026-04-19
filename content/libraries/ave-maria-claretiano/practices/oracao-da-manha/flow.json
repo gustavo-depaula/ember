@@ -2,7 +2,7 @@
   "sections": [
     {
       "type": "prayer",
-      "ref": "ember-default:sign-of-cross"
+      "ref": "base:sign-of-cross"
     },
     {
       "type": "divider"
@@ -30,15 +30,15 @@
     },
     {
       "type": "prayer",
-      "ref": "ember-default:our-father"
+      "ref": "base:our-father"
     },
     {
       "type": "prayer",
-      "ref": "ember-default:hail-mary"
+      "ref": "base:hail-mary"
     },
     {
       "type": "prayer",
-      "ref": "ember-default:apostles-creed"
+      "ref": "base:apostles-creed"
     },
     {
       "type": "subheading",
@@ -54,7 +54,7 @@
     },
     {
       "type": "prayer",
-      "ref": "ember-default:hail-holy-queen"
+      "ref": "base:hail-holy-queen"
     }
   ]
 }

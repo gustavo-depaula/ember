@@ -235,10 +235,10 @@
             },
             { "type": "divider" },
             { "type": "subheading", "text": { "en-US": "Final Antiphon" } },
-            { "type": "prayer", "ref": "ember-default:sub-tuum-praesidium" },
+            { "type": "prayer", "ref": "base:sub-tuum-praesidium" },
             { "type": "divider" },
             { "type": "subheading", "text": { "en-US": "Closing" } },
-            { "type": "prayer", "ref": "ember-default:glory-be" }
+            { "type": "prayer", "ref": "base:glory-be" }
           ]
         }
       ]

@@ -1,0 +1,681 @@
+{
+  "sections": [
+    {
+      "type": "select",
+      "on": "hour",
+      "label": {
+        "en-US": "Hour",
+        "pt-BR": "Hora"
+      },
+      "map": {
+        "0-4": "compline",
+        "5-6": "matins",
+        "7-8": "lauds",
+        "9": "prime",
+        "10-11": "terce",
+        "12-13": "sext",
+        "14-16": "none",
+        "17-19": "vespers",
+        "20-23": "compline"
+      },
+      "options": [
+        {
+          "id": "matins",
+          "label": {
+            "en-US": "Matins",
+            "pt-BR": "Matinas"
+          },
+          "sections": [
+            {
+              "type": "subheading",
+              "text": {
+                "en-US": "Opening Verse",
+                "pt-BR": "Versículo de Abertura"
+              }
+            },
+            {
+              "type": "prayer",
+              "ref": "base:opening-verse"
+            },
+            {
+              "type": "divider"
+            },
+            {
+              "type": "subheading",
+              "text": {
+                "en-US": "Hymn",
+                "pt-BR": "Hino"
+              }
+            },
+            {
+              "type": "cycle",
+              "data": "office-hymns",
+              "key": "morning",
+              "as": "hymn"
+            },
+            {
+              "type": "divider"
+            },
+            {
+              "type": "subheading",
+              "text": {
+                "en-US": "Psalmody",
+                "pt-BR": "Salmódia"
+              }
+            },
+            {
+              "type": "psalmody",
+              "psalms": [
+                8,
+                19,
+                24
+              ]
+            },
+            {
+              "type": "divider"
+            },
+            {
+              "type": "subheading",
+              "text": {
+                "en-US": "Scripture Reading",
+                "pt-BR": "Leitura Bíblica"
+              }
+            },
+            {
+              "type": "subheading",
+              "text": {
+                "en-US": "Short Reading",
+                "pt-BR": "Leitura Breve"
+              }
+            },
+            {
+              "type": "divider"
+            },
+            {
+              "type": "subheading",
+              "text": {
+                "en-US": "Our Father",
+                "pt-BR": "Pai Nosso"
+              }
+            },
+            {
+              "type": "prayer",
+              "ref": "base:our-father"
+            }
+          ]
+        },
+        {
+          "id": "lauds",
+          "label": {
+            "en-US": "Lauds",
+            "pt-BR": "Laudes"
+          },
+          "sections": [
+            {
+              "type": "subheading",
+              "text": {
+                "en-US": "Opening Verse",
+                "pt-BR": "Versículo de Abertura"
+              }
+            },
+            {
+              "type": "prayer",
+              "ref": "base:opening-verse"
+            },
+            {
+              "type": "divider"
+            },
+            {
+              "type": "subheading",
+              "text": {
+                "en-US": "Hymn",
+                "pt-BR": "Hino"
+              }
+            },
+            {
+              "type": "cycle",
+              "data": "office-hymns",
+              "key": "morning",
+              "as": "hymn"
+            },
+            {
+              "type": "divider"
+            },
+            {
+              "type": "subheading",
+              "text": {
+                "en-US": "Psalmody",
+                "pt-BR": "Salmódia"
+              }
+            },
+            {
+              "type": "psalmody",
+              "psalms": [
+                93,
+                100,
+                63
+              ]
+            },
+            {
+              "type": "divider"
+            },
+            {
+              "type": "subheading",
+              "text": {
+                "en-US": "Scripture Reading",
+                "pt-BR": "Leitura Bíblica"
+              }
+            },
+            {
+              "type": "subheading",
+              "text": {
+                "en-US": "Short Reading",
+                "pt-BR": "Leitura Breve"
+              }
+            },
+            {
+              "type": "divider"
+            },
+            {
+              "type": "subheading",
+              "text": {
+                "en-US": "Canticle",
+                "pt-BR": "Cântico"
+              }
+            },
+            {
+              "type": "canticle",
+              "ref": "benedictus"
+            },
+            {
+              "type": "divider"
+            },
+            {
+              "type": "subheading",
+              "text": {
+                "en-US": "Our Father",
+                "pt-BR": "Pai Nosso"
+              }
+            },
+            {
+              "type": "prayer",
+              "ref": "base:our-father"
+            }
+          ]
+        },
+        {
+          "id": "prime",
+          "label": {
+            "en-US": "Prime",
+            "pt-BR": "Prima"
+          },
+          "sections": [
+            {
+              "type": "subheading",
+              "text": {
+                "en-US": "Opening Verse",
+                "pt-BR": "Versículo de Abertura"
+              }
+            },
+            {
+              "type": "prayer",
+              "ref": "base:opening-verse"
+            },
+            {
+              "type": "divider"
+            },
+            {
+              "type": "subheading",
+              "text": {
+                "en-US": "Hymn",
+                "pt-BR": "Hino"
+              }
+            },
+            {
+              "type": "cycle",
+              "data": "office-hymns",
+              "key": "morning",
+              "as": "hymn"
+            },
+            {
+              "type": "divider"
+            },
+            {
+              "type": "subheading",
+              "text": {
+                "en-US": "Psalmody",
+                "pt-BR": "Salmódia"
+              }
+            },
+            {
+              "type": "psalmody",
+              "psalms": [
+                54,
+                85,
+                117
+              ]
+            },
+            {
+              "type": "divider"
+            },
+            {
+              "type": "subheading",
+              "text": {
+                "en-US": "Our Father",
+                "pt-BR": "Pai Nosso"
+              }
+            },
+            {
+              "type": "prayer",
+              "ref": "base:our-father"
+            }
+          ]
+        },
+        {
+          "id": "terce",
+          "label": {
+            "en-US": "Terce",
+            "pt-BR": "Terça"
+          },
+          "sections": [
+            {
+              "type": "subheading",
+              "text": {
+                "en-US": "Opening Verse",
+                "pt-BR": "Versículo de Abertura"
+              }
+            },
+            {
+              "type": "prayer",
+              "ref": "base:opening-verse"
+            },
+            {
+              "type": "divider"
+            },
+            {
+              "type": "subheading",
+              "text": {
+                "en-US": "Hymn",
+                "pt-BR": "Hino"
+              }
+            },
+            {
+              "type": "cycle",
+              "data": "office-hymns",
+              "key": "morning",
+              "as": "hymn"
+            },
+            {
+              "type": "divider"
+            },
+            {
+              "type": "subheading",
+              "text": {
+                "en-US": "Psalmody",
+                "pt-BR": "Salmódia"
+              }
+            },
+            {
+              "type": "psalmody",
+              "psalms": [
+                120,
+                121,
+                122
+              ]
+            },
+            {
+              "type": "divider"
+            },
+            {
+              "type": "subheading",
+              "text": {
+                "en-US": "Our Father",
+                "pt-BR": "Pai Nosso"
+              }
+            },
+            {
+              "type": "prayer",
+              "ref": "base:our-father"
+            }
+          ]
+        },
+        {
+          "id": "sext",
+          "label": {
+            "en-US": "Sext",
+            "pt-BR": "Sexta"
+          },
+          "sections": [
+            {
+              "type": "subheading",
+              "text": {
+                "en-US": "Opening Verse",
+                "pt-BR": "Versículo de Abertura"
+              }
+            },
+            {
+              "type": "prayer",
+              "ref": "base:opening-verse"
+            },
+            {
+              "type": "divider"
+            },
+            {
+              "type": "subheading",
+              "text": {
+                "en-US": "Hymn",
+                "pt-BR": "Hino"
+              }
+            },
+            {
+              "type": "cycle",
+              "data": "office-hymns",
+              "key": "morning",
+              "as": "hymn"
+            },
+            {
+              "type": "divider"
+            },
+            {
+              "type": "subheading",
+              "text": {
+                "en-US": "Psalmody",
+                "pt-BR": "Salmódia"
+              }
+            },
+            {
+              "type": "psalmody",
+              "psalms": [
+                123,
+                124,
+                125
+              ]
+            },
+            {
+              "type": "divider"
+            },
+            {
+              "type": "subheading",
+              "text": {
+                "en-US": "Our Father",
+                "pt-BR": "Pai Nosso"
+              }
+            },
+            {
+              "type": "prayer",
+              "ref": "base:our-father"
+            }
+          ]
+        },
+        {
+          "id": "none",
+          "label": {
+            "en-US": "None",
+            "pt-BR": "Noa"
+          },
+          "sections": [
+            {
+              "type": "subheading",
+              "text": {
+                "en-US": "Opening Verse",
+                "pt-BR": "Versículo de Abertura"
+              }
+            },
+            {
+              "type": "prayer",
+              "ref": "base:opening-verse"
+            },
+            {
+              "type": "divider"
+            },
+            {
+              "type": "subheading",
+              "text": {
+                "en-US": "Hymn",
+                "pt-BR": "Hino"
+              }
+            },
+            {
+              "type": "cycle",
+              "data": "office-hymns",
+              "key": "evening",
+              "as": "hymn"
+            },
+            {
+              "type": "divider"
+            },
+            {
+              "type": "subheading",
+              "text": {
+                "en-US": "Psalmody",
+                "pt-BR": "Salmódia"
+              }
+            },
+            {
+              "type": "psalmody",
+              "psalms": [
+                126,
+                127,
+                128
+              ]
+            },
+            {
+              "type": "divider"
+            },
+            {
+              "type": "subheading",
+              "text": {
+                "en-US": "Our Father",
+                "pt-BR": "Pai Nosso"
+              }
+            },
+            {
+              "type": "prayer",
+              "ref": "base:our-father"
+            }
+          ]
+        },
+        {
+          "id": "vespers",
+          "label": {
+            "en-US": "Vespers",
+            "pt-BR": "Vésperas"
+          },
+          "sections": [
+            {
+              "type": "subheading",
+              "text": {
+                "en-US": "Opening Verse",
+                "pt-BR": "Versículo de Abertura"
+              }
+            },
+            {
+              "type": "prayer",
+              "ref": "base:opening-verse"
+            },
+            {
+              "type": "divider"
+            },
+            {
+              "type": "subheading",
+              "text": {
+                "en-US": "Hymn",
+                "pt-BR": "Hino"
+              }
+            },
+            {
+              "type": "cycle",
+              "data": "office-hymns",
+              "key": "evening",
+              "as": "hymn"
+            },
+            {
+              "type": "divider"
+            },
+            {
+              "type": "subheading",
+              "text": {
+                "en-US": "Psalmody",
+                "pt-BR": "Salmódia"
+              }
+            },
+            {
+              "type": "psalmody",
+              "psalms": [
+                110,
+                111,
+                112,
+                113,
+                147
+              ]
+            },
+            {
+              "type": "divider"
+            },
+            {
+              "type": "subheading",
+              "text": {
+                "en-US": "Scripture Reading",
+                "pt-BR": "Leitura Bíblica"
+              }
+            },
+            {
+              "type": "subheading",
+              "text": {
+                "en-US": "Short Reading",
+                "pt-BR": "Leitura Breve"
+              }
+            },
+            {
+              "type": "divider"
+            },
+            {
+              "type": "subheading",
+              "text": {
+                "en-US": "Canticle",
+                "pt-BR": "Cântico"
+              }
+            },
+            {
+              "type": "canticle",
+              "ref": "magnificat"
+            },
+            {
+              "type": "divider"
+            },
+            {
+              "type": "subheading",
+              "text": {
+                "en-US": "Our Father",
+                "pt-BR": "Pai Nosso"
+              }
+            },
+            {
+              "type": "prayer",
+              "ref": "base:our-father"
+            }
+          ]
+        },
+        {
+          "id": "compline",
+          "label": {
+            "en-US": "Compline",
+            "pt-BR": "Completas"
+          },
+          "sections": [
+            {
+              "type": "subheading",
+              "text": {
+                "en-US": "Opening Verse",
+                "pt-BR": "Versículo de Abertura"
+              }
+            },
+            {
+              "type": "prayer",
+              "ref": "base:opening-verse"
+            },
+            {
+              "type": "divider"
+            },
+            {
+              "type": "subheading",
+              "text": {
+                "en-US": "Hymn",
+                "pt-BR": "Hino"
+              }
+            },
+            {
+              "type": "cycle",
+              "data": "office-hymns",
+              "key": "compline",
+              "as": "hymn"
+            },
+            {
+              "type": "divider"
+            },
+            {
+              "type": "subheading",
+              "text": {
+                "en-US": "Psalmody",
+                "pt-BR": "Salmódia"
+              }
+            },
+            {
+              "type": "psalmody",
+              "psalms": [
+                129,
+                130,
+                131
+              ]
+            },
+            {
+              "type": "divider"
+            },
+            {
+              "type": "subheading",
+              "text": {
+                "en-US": "Reading",
+                "pt-BR": "Leitura"
+              }
+            },
+            {
+              "type": "subheading",
+              "text": {
+                "en-US": "Short Reading",
+                "pt-BR": "Leitura Breve"
+              }
+            },
+            {
+              "type": "divider"
+            },
+            {
+              "type": "subheading",
+              "text": {
+                "en-US": "Canticle",
+                "pt-BR": "Cântico"
+              }
+            },
+            {
+              "type": "canticle",
+              "ref": "nunc-dimittis"
+            },
+            {
+              "type": "divider"
+            },
+            {
+              "type": "subheading",
+              "text": {
+                "en-US": "Closing Prayer",
+                "pt-BR": "Oração Final"
+              }
+            },
+            {
+              "type": "prayer",
+              "ref": "base:glory-be"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

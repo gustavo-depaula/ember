@@ -1,0 +1,104 @@
+{
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "base:sign-of-cross"
+    },
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Novena to Our Lady of Aparecida",
+        "pt-BR": "Novena a Nossa Senhora Aparecida"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Opening prayer:",
+        "pt-BR": "Oração inicial:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Most Holy Virgin, Mother Aparecida, I place myself under your mantle and ask your help in this novena. Present my intentions to Jesus and teach me to trust in God's providence with a humble and faithful heart. Amen.",
+        "pt-BR": "Virgem Santíssima, Mãe Aparecida, eu me coloco sob o vosso manto e peço vosso auxílio nesta novena. Apresentai minhas intenções a Jesus e ensinai-me a confiar na providência de Deus com coração humilde e fiel. Amém."
+      }
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "cycle",
+      "data": "aparecida-novena-days",
+      "as": "template",
+      "sections": [
+        {
+          "type": "subheading",
+          "text": "{{dayTitle}}"
+        },
+        {
+          "type": "meditation",
+          "text": "{{meditation}}"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "rubric",
+          "text": {
+            "en-US": "Today's intention:",
+            "pt-BR": "Intenção do dia:"
+          }
+        },
+        {
+          "type": "rubric",
+          "text": "{{intention}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Pray one Our Father, one Hail Mary, and one Glory Be.",
+        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Glória ao Pai."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "base:our-father"
+    },
+    {
+      "type": "prayer",
+      "ref": "base:hail-mary"
+    },
+    {
+      "type": "prayer",
+      "ref": "base:glory-be"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Closing prayer:",
+        "pt-BR": "Oração final:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Our Lady of Aparecida, Queen and Patroness of Brazil, pray for us. Protect our families, console the afflicted, strengthen the Church, and lead us always to your Son, Jesus Christ. Amen.",
+        "pt-BR": "Nossa Senhora Aparecida, Rainha e Padroeira do Brasil, rogai por nós. Protegei nossas famílias, consolai os aflitos, fortalecei a Igreja e conduzi-nos sempre ao vosso Filho, Jesus Cristo. Amém."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "base:sign-of-cross"
+    }
+  ]
+}

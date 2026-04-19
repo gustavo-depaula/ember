@@ -2,7 +2,7 @@
 
 ## Goal
 
-Add a seasonal **Christmas Novena** as a standalone program practice in `ember-novenas`, with full EN/PT-BR parity and explicit source/licensing notes.
+Add a seasonal **Christmas Novena** as a standalone program practice in `novenas`, with full EN/PT-BR parity and explicit source/licensing notes.
 
 ## Devotional Background & Liturgical Context
 
@@ -25,9 +25,9 @@ Behavior expectations:
 
 ## Packaging Decision
 
-- Keep novenas consolidated in **`ember-novenas`**.
+- Keep novenas consolidated in **`novenas`**.
 - Add one practice: **`christmas-novena`**.
-- Reuse shared prayer refs from `ember-default` where applicable.
+- Reuse shared prayer refs from `base` where applicable.
 
 ## Content Model (Existing Content-Engine DSL)
 

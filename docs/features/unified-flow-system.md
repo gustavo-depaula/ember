@@ -278,7 +278,7 @@ type PracticeManifest = {
 }
 ```
 
-The canonical practice (e.g., `rosary` with traditional meditations in ember-default) has no `alternativeTo`. Alternatives declare themselves:
+The canonical practice (e.g., `rosary` with traditional meditations in base) has no `alternativeTo`. Alternatives declare themselves:
 
 ```json
 // montfort-spirituality library
@@ -768,12 +768,12 @@ Same pattern as Confession: `select` (manual) with "Before Meals" and "After Mea
 **New:** 4 separate practices, each self-contained:
 
 ```
-# ember-default
+# base
 stations-cross/
   manifest.json   { flow: "flow.json" }
   flow.json       { data: { stations: [14 entries with traditional meditations] }, sections: [...] }
 
-# ember-extra
+# devotions
 stations-cross-scriptural/
   manifest.json   { alternativeTo: "stations-cross", flow: "flow.json" }
   flow.json       { data: { stations: [14 entries with scriptural meditations] }, sections: [...] }

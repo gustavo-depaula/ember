@@ -199,7 +199,7 @@
             },
             {
               "type": "prayer",
-              "ref": "ember-default:anima-christi"
+              "ref": "base:anima-christi"
             },
             {
               "type": "divider"

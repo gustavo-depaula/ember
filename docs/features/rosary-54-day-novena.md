@@ -14,9 +14,9 @@ Add a traditional **54-Day Rosary Novena** as a standalone program practice, pac
 
 ## Packaging Decision
 
-- Create one new library: **`ember-novenas`**
+- Create one new library: **`novenas`**
 - Include only one practice initially: **`rosary-54-day-novena`**
-- Depend on `ember-default` for shared prayer refs (`sign-of-cross`, `our-father`, `hail-mary`, etc.)
+- Depend on `base` for shared prayer refs (`sign-of-cross`, `our-father`, `hail-mary`, etc.)
 
 ## Practice Shape
 

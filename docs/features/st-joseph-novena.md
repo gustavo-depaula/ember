@@ -2,7 +2,7 @@
 
 ## Goal
 
-Add a traditional **Novena to St. Joseph** as a standalone program practice in `ember-novenas`, with full EN/PT-BR parity and explicit provenance/licensing notes.
+Add a traditional **Novena to St. Joseph** as a standalone program practice in `novenas`, with full EN/PT-BR parity and explicit provenance/licensing notes.
 
 ## Devotional Background & Ember Fit
 
@@ -27,9 +27,9 @@ Behavior expectations:
 
 ## Packaging Decision
 
-- Keep novenas consolidated in **`ember-novenas`**.
+- Keep novenas consolidated in **`novenas`**.
 - Add one practice: **`st-joseph-novena`**.
-- Reuse shared prayer refs from `ember-default` when available.
+- Reuse shared prayer refs from `base` when available.
 
 ## Content Model (Existing Content-Engine DSL)
 

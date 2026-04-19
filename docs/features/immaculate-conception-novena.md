@@ -2,7 +2,7 @@
 
 ## Goal
 
-Add a seasonal **Immaculate Conception Novena** as a standalone program practice in `ember-novenas`, with EN/PT-BR parity and explicit provenance/licensing guardrails.
+Add a seasonal **Immaculate Conception Novena** as a standalone program practice in `novenas`, with EN/PT-BR parity and explicit provenance/licensing guardrails.
 
 ## Devotional Background & Liturgical Context
 
@@ -25,9 +25,9 @@ Behavior expectations:
 
 ## Packaging Decision
 
-- Keep novenas consolidated in **`ember-novenas`**.
+- Keep novenas consolidated in **`novenas`**.
 - Add one practice: **`immaculate-conception-novena`**.
-- Reuse shared prayer refs from `ember-default` when possible.
+- Reuse shared prayer refs from `base` when possible.
 
 ## Content Model (Existing Content-Engine DSL)
 

@@ -7,7 +7,7 @@ Usage:
     vendor-prayers.py <libraries_src> <staging_dir>
 
 For each library, this script:
-  1. Scans flow.json files for qualified refs like "ember-default:sign-of-cross"
+  1. Scans flow.json files for qualified refs like "base:sign-of-cross"
   2. Copies the library to <staging_dir>/<lib_id>/
   3. Copies the referenced prayer from the named source library
   4. Rewrites refs to bare IDs (strips the library prefix)

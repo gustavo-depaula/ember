@@ -194,7 +194,7 @@ The chapter reader resolves content through `resolveFlow()` with a simplified co
 
 ## Prayer Asset Resolution
 
-Each `.pray` package is **self-contained**. Cross-library prayer refs use qualified IDs in source flow.json — e.g., `"ref": "ember-default:sign-of-cross"`. At build time, `scripts/vendor-prayers.py` resolves these: copies the prayer file into the package and strips the library prefix so the built package has bare refs.
+Each `.pray` package is **self-contained**. Cross-library prayer refs use qualified IDs in source flow.json — e.g., `"ref": "base:sign-of-cross"`. At build time, `scripts/vendor-prayers.py` resolves these: copies the prayer file into the package and strips the library prefix so the built package has bare refs.
 
 At runtime, when the content engine encounters `{ "type": "prayer", "ref": "our-father" }`:
 
@@ -213,11 +213,11 @@ Library source directories live in `content/libraries/`:
 
 ```
 content/libraries/
-  ember-default/
+  base/
     library.json
     prayers/...
     practices/...
-  ember-extra/
+  devotions/
     library.json
     practices/...
 ```
@@ -234,8 +234,8 @@ content/libraries/
 
 ```
 https://ember.dpgu.me/hearth/v1/libraries/registry.json
-https://ember.dpgu.me/hearth/v1/libraries/ember-default-1.0.0.pray
-https://ember.dpgu.me/hearth/v1/libraries/ember-extra-1.0.0.pray
+https://ember.dpgu.me/hearth/v1/libraries/base-1.0.0.pray
+https://ember.dpgu.me/hearth/v1/libraries/devotions-1.0.0.pray
 ```
 
 ### Registry (`registry.json`)
@@ -247,7 +247,7 @@ Lightweight metadata for catalog browsing:
   "version": 1,
   "libraries": [
     {
-      "id": "ember-default",
+      "id": "base",
       "version": "1.0.0",
       "name": { "en-US": "Catholic Daily Prayers", "pt-BR": "Orações Católicas Diárias" },
       "description": { "en-US": "The essential Catholic prayer companion" },
@@ -255,7 +255,7 @@ Lightweight metadata for catalog browsing:
       "tags": ["default"],
       "practiceCount": 23,
       "size": 150000,
-      "file": "ember-default-1.0.0.pray"
+      "file": "base-1.0.0.pray"
     }
   ]
 }
@@ -287,7 +287,7 @@ The registry aggregates all installed libraries into a unified view. `getAllMani
 
 1. Show loading screen ("Setting up your prayer life...")
 2. Fetch `registry.json`
-3. Download and install `ember-default`
+3. Download and install `base`
 4. Seed practices into plan of life
 5. Navigate to home
 
@@ -386,4 +386,4 @@ Register Ember as handler for `.pray` files (iOS UTI, Android intent filter). Ta
 
 - **Offline first launch**: Currently requires connectivity on first launch. Should we bundle a minimal fallback library?
 - **Background updates**: Auto-check for library updates on launch, or only when user visits Library screen?
-- **Library removal protection**: Should ember-default be unremovable?
+- **Library removal protection**: Should base be unremovable?

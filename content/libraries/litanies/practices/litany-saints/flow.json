@@ -2,7 +2,7 @@
   "sections": [
     {
       "type": "prayer",
-      "ref": "ember-default:sign-of-cross"
+      "ref": "base:sign-of-cross"
     },
     {
       "type": "response",
@@ -1282,7 +1282,7 @@
     },
     {
       "type": "prayer",
-      "ref": "ember-default:our-father"
+      "ref": "base:our-father"
     },
     {
       "type": "rubric",

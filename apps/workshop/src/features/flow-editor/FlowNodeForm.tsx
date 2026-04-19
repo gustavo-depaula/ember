@@ -254,7 +254,7 @@ function PrayerFields({
             className={styles.input}
             value={(section as { ref: string }).ref}
             onChange={(e) => onChange({ type: 'prayer', ref: e.target.value })}
-            placeholder="e.g. our-father or ember-default:sign-of-cross"
+            placeholder="e.g. our-father or base:sign-of-cross"
           />
         </Field>
       )}

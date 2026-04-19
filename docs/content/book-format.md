@@ -72,7 +72,7 @@ content/libraries/montfort-spirituality/
 ### Pure practice library (Ember Default)
 
 ```
-content/libraries/ember-default/
+content/libraries/base/
   library.json
   prayers/
     sign-of-cross.json
@@ -104,12 +104,12 @@ A `.pray` file is a zip containing the library's content. The `build-libraries.s
 ```
 library.pray (zip)
 ├── library.json
-├── ember-book.css              # Base stylesheet for book rendering
+├── book.css              # Base stylesheet for book rendering
 ├── books/
 │   └── montfort-true-devotion/
 │       ├── book.json
 │       ├── fr-FR/
-│       │   ├── style.css       # Copy of ember-book.css
+│       │   ├── style.css       # Copy of book.css
 │       │   └── preface.md
 │       └── en-US/
 │           ├── style.css
@@ -124,7 +124,7 @@ library.pray (zip)
 Chapters are `.md` (primary) or `.html` (supported fallback):
 
 - **`.md`** — converted at runtime using `marked` + `marked-footnote`, then rendered in WebView
-- **`.html`** — rendered directly in WebView with `ember-book.css` applied
+- **`.html`** — rendered directly in WebView with `book.css` applied
 
 The reader tries `.html` first, falls back to `.md`.
 
@@ -136,7 +136,7 @@ The reader tries `.html` first, falls back to `.md`.
 
 ### Stylesheet
 
-`ember-book.css` is the base stylesheet included in every `.pray` package. It provides:
+`book.css` is the base stylesheet included in every `.pray` package. It provides:
 
 - Light/dark theme via CSS variables (`--bg`, `--text`, `--heading`, etc.)
 - Typography using EB Garamond and Cinzel fonts
@@ -309,7 +309,7 @@ Example (2-level):
 
 ```json
 {
-  "id": "ember-default",
+  "id": "base",
   "version": "1.0.0",
   "name": { "en-US": "Catholic Daily Prayers", "pt-BR": "Orações Católicas Diárias" },
   "description": { "en-US": "The essential Catholic prayer companion for your daily plan of life." },
@@ -342,7 +342,7 @@ If an edition has a genuinely different chapter structure, it's a **different bo
 `scripts/build-libraries.sh` packages each library into a `.pray` zip file:
 
 1. **Phase 0** — Vendor cross-library prayer dependencies (`vendor-prayers.py`)
-2. **Phase 1** — Copy `ember-book.css` to each book's language directories as `style.css`
+2. **Phase 1** — Copy `book.css` to each book's language directories as `style.css`
 3. **Phase 2** — Zip each `content/libraries/{id}/` into `{id}-{version}.pray`
 4. **Phase 3** — Generate `registry.json` with metadata, content hashes, and previews
 

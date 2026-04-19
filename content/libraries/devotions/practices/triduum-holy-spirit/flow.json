@@ -1,0 +1,70 @@
+{
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "base:sign-of-cross"
+    },
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Triduum to the Holy Spirit",
+        "pt-BR": "Tríduo ao Espírito Santo"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Come, Holy Spirit, fill the hearts of Thy faithful and enkindle in them the fire of Thy love.",
+        "pt-BR": "Vinde, Espírito Santo, enchei os corações dos Vossos fiéis e acendei neles o fogo do Vosso amor."
+      }
+    },
+    {
+      "type": "cycle",
+      "data": "triduum-days",
+      "as": "template",
+      "sections": [
+        {
+          "type": "subheading",
+          "text": "{{dayTitle}}"
+        },
+        {
+          "type": "meditation",
+          "text": "{{meditation}}"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "rubric",
+          "text": "{{intention}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Pray one Our Father, one Hail Mary, and one Glory Be.",
+        "pt-BR": "Reze um Pai Nosso, uma Ave Maria e um Glória ao Pai."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "base:our-father"
+    },
+    {
+      "type": "prayer",
+      "ref": "base:hail-mary"
+    },
+    {
+      "type": "prayer",
+      "ref": "base:glory-be"
+    },
+    {
+      "type": "prayer",
+      "ref": "base:sign-of-cross"
+    }
+  ]
+}

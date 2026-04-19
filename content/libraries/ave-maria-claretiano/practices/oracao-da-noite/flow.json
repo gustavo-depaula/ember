@@ -23,19 +23,19 @@
     },
     {
       "type": "prayer",
-      "ref": "ember-default:our-father"
+      "ref": "base:our-father"
     },
     {
       "type": "prayer",
-      "ref": "ember-default:hail-mary"
+      "ref": "base:hail-mary"
     },
     {
       "type": "prayer",
-      "ref": "ember-default:glory-be"
+      "ref": "base:glory-be"
     },
     {
       "type": "prayer",
-      "ref": "ember-default:act-of-contrition"
+      "ref": "base:act-of-contrition"
     },
     {
       "type": "divider"

@@ -202,7 +202,7 @@
       },
       {
         "type": "prayer",
-        "ref": "ember-default:sign-of-cross"
+        "ref": "base:sign-of-cross"
       },
       {
         "type": "response",
@@ -256,7 +256,7 @@
       },
       {
         "type": "prayer",
-        "ref": "ember-default:hail-holy-queen"
+        "ref": "base:hail-holy-queen"
       },
       {
         "type": "divider"
@@ -281,7 +281,7 @@
       },
       {
         "type": "prayer",
-        "ref": "ember-default:our-father"
+        "ref": "base:our-father"
       },
       {
         "type": "repeat",
@@ -289,13 +289,13 @@
         "sections": [
           {
             "type": "prayer",
-            "ref": "ember-default:hail-mary"
+            "ref": "base:hail-mary"
           }
         ]
       },
       {
         "type": "prayer",
-        "ref": "ember-default:glory-be"
+        "ref": "base:glory-be"
       },
       {
         "type": "divider"

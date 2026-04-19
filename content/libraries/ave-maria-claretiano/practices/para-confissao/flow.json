@@ -110,7 +110,7 @@
             },
             {
               "type": "prayer",
-              "ref": "ember-default:act-of-contrition"
+              "ref": "base:act-of-contrition"
             }
           ]
         },

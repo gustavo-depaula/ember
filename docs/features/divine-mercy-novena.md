@@ -2,7 +2,7 @@
 
 ## Goal
 
-Add a traditional **Divine Mercy Novena** as a standalone program practice in `ember-novenas`, with full EN/PT-BR parity and clear provenance/attribution notes.
+Add a traditional **Divine Mercy Novena** as a standalone program practice in `novenas`, with full EN/PT-BR parity and clear provenance/attribution notes.
 
 ## Devotional Background & Timeline
 
@@ -28,9 +28,9 @@ Behavior expectations:
 
 ## Packaging Decision
 
-- Keep novenas consolidated in **`ember-novenas`**.
+- Keep novenas consolidated in **`novenas`**.
 - Add one practice: **`divine-mercy-novena`**.
-- Reuse shared prayer refs from `ember-default` where available.
+- Reuse shared prayer refs from `base` where available.
 
 ## Content Model (Existing Content-Engine DSL)
 

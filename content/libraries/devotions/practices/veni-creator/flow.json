@@ -1,0 +1,51 @@
+{
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "base:sign-of-cross"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "hymn",
+      "inline": {
+        "la": "Veni, Creator Spiritus,\nmentes tuorum visita,\nimple superna gratia\nquae tu creasti pectora.\n\nQui diceris Paraclitus,\naltissimi donum Dei,\nfons vivus, ignis, caritas,\net spiritalis unctio.\n\nTu, septiformis munere,\ndextrae Dei tu digitus,\nTu rite promissum Patris,\nsermone ditans guttura.\n\nAccende lumen sensibus:\ninfunde amorem cordibus:\ninfirma nostri corporis\nvirtute firmans perpeti.\n\nHostem repellas longius,\npacemque dones protinus:\nductore sic te praevio\nvitemus omne noxium.\n\nPer te sciamus da Patrem,\nnoscamus atque Filium;\nTeque utriusque Spiritum\ncredamus omni tempore.\n\nDeo Patri sit gloria,\net Filio, qui a mortuis\nsurrexit, ac Paraclito,\nin saeculorum saecula.\nAmen.",
+        "en-US": "Come, Holy Spirit, Creator blest,\nand in our souls take up Thy rest;\ncome with Thy grace and heavenly aid\nto fill the hearts which Thou hast made.\n\nO comforter, to Thee we cry,\nO heavenly gift of God Most High,\nO fount of life and fire of love,\nand sweet anointing from above.\n\nThou in Thy sevenfold gifts are known;\nThou, finger of God's hand we own;\nThou, promise of the Father, Thou\nwho dost the tongue with power endow.\n\nKindle our senses from above,\nand make our hearts o'erflow with love;\nwith patience firm and virtue high\nthe weakness of our flesh supply.\n\nFar from us drive the foe we dread,\nand grant us Thy peace instead;\nso shall we not, with Thee for guide,\nturn from the path of life aside.\n\nOh, may Thy grace on us bestow\nthe Father and the Son to know;\nand Thee, through endless times confessed,\nof both the eternal Spirit blest.\n\nNow to the Father and the Son,\nwho rose from death, be glory given,\nwith Thou, O Holy Comforter,\nhenceforth by all in earth and heaven.\nAmen.",
+        "pt-BR": "Vinde, Espírito Criador,\nvisitai as almas dos Vossos fiéis;\ncobri com a graça celestial\nos peitos que criastes.\n\nVós sois chamado Paráclito,\ndom do Deus Altíssimo,\nfonte viva, fogo, amor,\nunção espiritual.\n\nVós sois o dedo da mão de Deus,\nvós sois o setiforme dom;\nvós sois a promessa do Pai,\nque enriqueceis a língua com palavras.\n\nIluminai os nossos sentidos,\ninfundi amor nos nossos corações;\nfortalecei com perpétua virtude\nas fraquezas do nosso corpo.\n\nAfastai de nós o inimigo,\ndai-nos logo a vossa paz;\nassim, conduzidos por vós,\nevitaremos todo o mal.\n\nEnsinai-nos a conhecer o Pai\ne a conhecer o Filho;\ne creamos em Vós, Espírito de ambos,\npor todos os séculos.\n\nGlória a Deus Pai,\ne ao Filho que ressuscitou dos mortos,\ne ao Paráclito,\npelos séculos dos séculos.\nAmém."
+      }
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "en-US": "Send forth Thy Spirit, and they shall be created,",
+            "pt-BR": "Enviai o Vosso Espírito e tudo será criado,"
+          },
+          "r": {
+            "en-US": "And Thou shalt renew the face of the earth.",
+            "pt-BR": "E renovareis a face da terra."
+          }
+        }
+      ]
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Let us pray.",
+        "pt-BR": "Oremos."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "O God, who by the light of the Holy Spirit hast instructed the hearts of the faithful, grant us in the same Spirit to be truly wise, and ever to rejoice in His consolation. Through Christ our Lord. Amen.",
+        "pt-BR": "Ó Deus, que instruístes os corações dos Vossos fiéis com a luz do Espírito Santo, fazei que apreciemos retamente todas as coisas segundo o mesmo Espírito e gozemos sempre da sua consolação. Por Cristo Nosso Senhor. Amém."
+      }
+    }
+  ]
+}

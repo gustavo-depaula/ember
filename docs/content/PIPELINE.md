@@ -611,9 +611,9 @@ The angelic tradition runs deep in Catholic theology, liturgy, and devotion — 
 
 ## Novenas Expansion
 
-`ember-novenas` is the single home for all novenas. The 54-Day Rosary Novena is already published. Next steps:
+`novenas` is the single home for all novenas. The 54-Day Rosary Novena is already published. Next steps:
 
-**Migration** — move existing novenas from `ember-extra` into `ember-novenas`:
+**Migration** — move existing novenas from `devotions` into `novenas`:
 - `novena-holy-spirit`
 - `novena-sacred-heart`
 - `miraculous-medal-novena`

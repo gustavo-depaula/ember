@@ -57,7 +57,7 @@ montfort-spirituality-1.0.0.pray (zip)
         ├── en-US/
         │   ├── preface.md          # Chapter files (match TOC node IDs)
         │   ├── part-1-ch-1.md
-        │   └── style.css           # Injected by build from ember-book.css
+        │   └── style.css           # Injected by build from book.css
         ├── pt-BR/
         └── fr-FR/
 ```
@@ -110,13 +110,13 @@ type TocNode = {
 }
 ```
 
-Book chapters are raw `.md` or `.html` files in per-language directories. Markdown is converted at runtime via `marked` + `marked-footnote`. `ember-book.css` is copied to each language dir by the build script.
+Book chapters are raw `.md` or `.html` files in per-language directories. Markdown is converted at runtime via `marked` + `marked-footnote`. `book.css` is copied to each language dir by the build script.
 
 ### Three Library Archetypes
 
 | Archetype | Example | Contains |
 |-----------|---------|----------|
-| Pure practice | ember-default | prayers + practices (no books) |
+| Pure practice | base | prayers + practices (no books) |
 | Pure book | alphonsus-liguori | books + 1 practice |
 | Mixed | montfort-spirituality | books + chapters + practices + prayers |
 
@@ -124,9 +124,9 @@ Book chapters are raw `.md` or `.html` files in per-language directories. Markdo
 
 | Library | Practices | Books | Chapters | Prayers | Languages |
 |---------|-----------|-------|----------|---------|-----------|
-| ember-default | 33 | — | — | 22 | EN, PT |
-| ember-extra | 21 | — | — | — | EN, PT |
-| ember-novenas | 14 | — | — | 1 | EN, PT |
+| base | 33 | — | — | 22 | EN, PT |
+| devotions | 21 | — | — | — | EN, PT |
+| novenas | 14 | — | — | 1 | EN, PT |
 | alphonsus-liguori | 1 | 9 | — | — | PT, IT, FR |
 | montfort-spirituality | 1 | 7 | 1 | 1 | FR, EN, PT |
 | sacred-heart | 4 | — | 5 | 3 | EN, PT |
@@ -142,7 +142,7 @@ Book chapters are raw `.md` or `.html` files in per-language directories. Markdo
 import { getManifest, loadFlowForSlot } from '@/content/registry'
 ```
 
-Each `.pray` package is self-contained. Cross-library prayer refs use qualified IDs (`libraryId:prayerId`) in source flow.json files — e.g., `"ref": "ember-default:sign-of-cross"`. At build time, `scripts/vendor-prayers.py` resolves these: copies the prayer into the package and strips the prefix. Runtime resolution is **library-local** → **global pool** (no dependency chain).
+Each `.pray` package is self-contained. Cross-library prayer refs use qualified IDs (`libraryId:prayerId`) in source flow.json files — e.g., `"ref": "base:sign-of-cross"`. At build time, `scripts/vendor-prayers.py` resolves these: copies the prayer into the package and strips the prefix. Runtime resolution is **library-local** → **global pool** (no dependency chain).
 
 `EngineContext` (`apps/app/src/content/engineContext.ts`) wires app services (prayer loader, localizer, content source) into the content engine for flow resolution.
 
@@ -162,7 +162,7 @@ Hearth is a GitHub Pages-hosted static file server that serves all downloadable 
 
 **Build pipeline:** `scripts/build-libraries.sh` zips each `content/libraries/{id}/` into `{id}-{version}.pray`, generates `registry.json` with metadata and content hashes. `scripts/fetch-ccc.ts` fetches and processes the CCC from upstream at build time. `.github/workflows/deploy.yml` copies all assets and deploys to GitHub Pages.
 
-**First launch flow:** Fetch `registry.json` → download `ember-default` → install → seed practices into plan of life → navigate to home. Requires connectivity on first launch.
+**First launch flow:** Fetch `registry.json` → download `base` → install → seed practices into plan of life → navigate to home. Requires connectivity on first launch.
 
 **Source directories** (committed, copied to Hearth at deploy):
 
@@ -237,7 +237,7 @@ This is a pnpm workspaces + turborepo monorepo.
 ember/
   content/                            (source files — deployed to Hearth)
     libraries/                        (THE content source of truth)
-      ember-default/                  (core daily prayers — 33 practices, 22 prayers)
+      base/                  (core daily prayers — 33 practices, 22 prayers)
         library.json
         practices/
           morning-offering/
@@ -264,14 +264,14 @@ ember/
         chapters/
           about-montfort/
         prayers/
-      ember-novenas/                  (14 novena programs)
+      novenas/                  (14 novena programs)
       alphonsus-liguori/              (9 books + 1 practice)
-      ember-extra/                    (21 additional practices)
+      devotions/                    (21 additional practices)
       sacred-heart/                   (4 practices + 5 chapters)
       ave-maria-claretiano/           (Portuguese devocionário)
       litanies/                       (9 litany practices + 2 chapters)
       registry.json                   (generated — library catalog metadata)
-      ember-book.css                  (base stylesheet for all book rendering)
+      book.css                  (base stylesheet for all book rendering)
       *.pray                          (generated — built .pray archives)
     bible/drb/                        (Douay-Rheims JSON, 73 books + index)
     propers/                          (EF Mass propers — tempora + sancti)

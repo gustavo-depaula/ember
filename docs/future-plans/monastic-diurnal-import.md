@@ -12,7 +12,7 @@ The Monastic Diurnal (Benedictine day-hours book) is a natural next addition to 
 
 ### 1. New library: `ember-monastic`
 
-Create a dedicated library at `content/libraries/ember-monastic/` rather than extending `ember-extra`. The Diurnale is large (9 data files, seasonal propers), Latin-only, and opt-in — bundling into `ember-extra` would inflate that library's `.pray` for everyone. Mirrors existing split-outs (`ember-novenas`, `litanies`). Leaves room for a future Nocturnale / Antiphonale without churn.
+Create a dedicated library at `content/libraries/ember-monastic/` rather than extending `devotions`. The Diurnale is large (9 data files, seasonal propers), Latin-only, and opt-in — bundling into `devotions` would inflate that library's `.pray` for everyone. Mirrors existing split-outs (`novenas`, `litanies`). Leaves room for a future Nocturnale / Antiphonale without churn.
 
 ### 2. Directory structure
 
@@ -35,15 +35,15 @@ content/libraries/ember-monastic/
         canticles-ot.json              # 7 Lauds OT canticles (Benedictine set)
 ```
 
-Shape mirrors `content/libraries/ember-extra/practices/divine-office/data/` exactly.
+Shape mirrors `content/libraries/devotions/practices/divine-office/data/` exactly.
 
 ### 3. Benedictine psalter (the core differentiator)
 
-`psalter-benedictine.json` must encode RB 8–18 — a 1-week cycle keyed by weekday, with Benedictine psalm splits (Ps 9, 17, 67, 77, 103–106, 117, 118 in 22 sections, 143). Use sub-keys like `"17a"`, `"17b"` or `{ref:17, range:"1-13"}`. Hand-coded from the Rule text (mechanical, ~200 entries). Vulgate numbering via `contextKey: "numbering"` — matches existing `psalter-30-day.json` at `content/libraries/ember-extra/practices/divine-office/data/psalter-30-day.json`.
+`psalter-benedictine.json` must encode RB 8–18 — a 1-week cycle keyed by weekday, with Benedictine psalm splits (Ps 9, 17, 67, 77, 103–106, 117, 118 in 22 sections, 143). Use sub-keys like `"17a"`, `"17b"` or `{ref:17, range:"1-13"}`. Hand-coded from the Rule text (mechanical, ~200 entries). Vulgate numbering via `contextKey: "numbering"` — matches existing `psalter-30-day.json` at `content/libraries/devotions/practices/divine-office/data/psalter-30-day.json`.
 
 ### 4. flow.json
 
-Top-level `select on: "hour"` mapping clock ranges to hour branches (pattern from `content/libraries/ember-extra/practices/little-office-bvm/flow.json:10-20`):
+Top-level `select on: "hour"` mapping clock ranges to hour branches (pattern from `content/libraries/devotions/practices/little-office-bvm/flow.json:10-20`):
 
 - 4–6: lauds · 6–8: prime · 8–11: terce · 11–14: sext · 14–17: none · 17–20: vespers · 20–4: compline
 
@@ -55,7 +55,7 @@ Each hour branch structure:
 5. Brief responsory
 6. **Lauds/Vespers only**: canticle (`benedictus`/`magnificat`) wrapped in antiphon
 7. `resolve` strategy `"liturgical-day"` via `packages/liturgical/src/liturgical-day-resolver.ts` for collect (top-tier feasts override temporal)
-8. Closing: Pater Noster (reuse `ember-default:pater-noster` qualified ref — vendored at build time by `scripts/vendor-prayers.py`), versicles
+8. Closing: Pater Noster (reuse `base:pater-noster` qualified ref — vendored at build time by `scripts/vendor-prayers.py`), versicles
 
 Compline branch is mostly fixed — static `psalmody`, not a cycle.
 
@@ -63,7 +63,7 @@ Expected size: **600–900 LOC** (little-office-bvm is 500 LOC for 8 simpler hou
 
 ### 5. manifest.json
 
-Model on `content/libraries/ember-extra/practices/divine-office/manifest.json`:
+Model on `content/libraries/devotions/practices/divine-office/manifest.json`:
 - `estimatedMinutes: 20`, `theme: "office"`, `flowMode: "scroll"`
 - 9 `data` registrations; no `tracks` (no lectio continua in a diurnal)
 - `defaults.slots` — 7 slots, all `enabled: false`:
@@ -113,10 +113,10 @@ Wire into `scripts/build-libraries.sh` so `pnpm build:libraries` produces `ember
 
 ## Critical Files (to read before starting, and to reference while authoring)
 
-- `content/libraries/ember-extra/practices/divine-office/flow.json` — closest structural analogue
-- `content/libraries/ember-extra/practices/little-office-bvm/flow.json` — hour-by-clock `select` pattern
-- `content/libraries/ember-extra/practices/divine-office/data/psalter-30-day.json` — data file shape to mirror
-- `content/libraries/ember-extra/practices/divine-office/manifest.json` — manifest shape to mirror
+- `content/libraries/devotions/practices/divine-office/flow.json` — closest structural analogue
+- `content/libraries/devotions/practices/little-office-bvm/flow.json` — hour-by-clock `select` pattern
+- `content/libraries/devotions/practices/divine-office/data/psalter-30-day.json` — data file shape to mirror
+- `content/libraries/devotions/practices/divine-office/manifest.json` — manifest shape to mirror
 - `scripts/parse-intimita-divina.py` — parse-script idiom
 - `scripts/build-libraries.sh`, `scripts/vendor-prayers.py` — build pipeline
 - `packages/liturgical/src/liturgical-day-resolver.ts` — for feast-proper `resolve` calls

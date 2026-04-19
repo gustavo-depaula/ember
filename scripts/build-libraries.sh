@@ -9,7 +9,7 @@ case "$LIBRARIES_OUT" in
   /*) ;;
   *)  LIBRARIES_OUT="$REPO_ROOT/$LIBRARIES_OUT" ;;
 esac
-BOOK_CSS="$LIBRARIES_SRC/ember-book.css"
+BOOK_CSS="$LIBRARIES_SRC/book.css"
 
 mkdir -p "$LIBRARIES_OUT"
 
@@ -27,7 +27,7 @@ LIBRARIES_SRC = '$LIBRARIES_SRC'
 BOOK_CSS = '$BOOK_CSS'
 
 if not os.path.exists(BOOK_CSS):
-    print('  Warning: ember-book.css not found, skipping style copy')
+    print('  Warning: book.css not found, skipping style copy')
 else:
     for lib_dir in sorted(glob.glob(os.path.join(LIBRARIES_SRC, '*/'))):
         books_dir = os.path.join(lib_dir, 'books')

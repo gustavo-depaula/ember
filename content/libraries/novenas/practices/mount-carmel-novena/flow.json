@@ -1,0 +1,104 @@
+{
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "base:sign-of-cross"
+    },
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Novena to Our Lady of Mount Carmel",
+        "pt-BR": "Novena a Nossa Senhora do Carmo"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Opening prayer:",
+        "pt-BR": "Oração inicial:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "O beautiful Flower of Carmel, Mother of God and Mother most loving, I place this novena in your hands. Obtain for me the grace to pray faithfully, love Jesus with an undivided heart, and persevere in holiness under your maternal care. Amen.",
+        "pt-BR": "Ó formosa Flor do Carmelo, Mãe de Deus e Mãe amorosíssima, coloco esta novena em vossas mãos. Alcançai-me a graça de rezar com fidelidade, amar Jesus com coração indiviso e perseverar na santidade sob vosso cuidado maternal. Amém."
+      }
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "cycle",
+      "data": "mount-carmel-novena-days",
+      "as": "template",
+      "sections": [
+        {
+          "type": "subheading",
+          "text": "{{dayTitle}}"
+        },
+        {
+          "type": "meditation",
+          "text": "{{meditation}}"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "rubric",
+          "text": {
+            "en-US": "Today's intention:",
+            "pt-BR": "Intenção do dia:"
+          }
+        },
+        {
+          "type": "rubric",
+          "text": "{{intention}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Pray one Our Father, one Hail Mary, and one Glory Be.",
+        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Glória ao Pai."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "base:our-father"
+    },
+    {
+      "type": "prayer",
+      "ref": "base:hail-mary"
+    },
+    {
+      "type": "prayer",
+      "ref": "base:glory-be"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Closing prayer:",
+        "pt-BR": "Oração final:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Our Lady of Mount Carmel, pray for us. Cover us with your mantle, protect our families, strengthen the Church, and lead us always to your Son, Jesus Christ. Amen.",
+        "pt-BR": "Nossa Senhora do Carmo, rogai por nós. Cobri-nos com vosso manto, protegei nossas famílias, fortalecei a Igreja e conduzi-nos sempre ao vosso Filho, Jesus Cristo. Amém."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "base:sign-of-cross"
+    }
+  ]
+}
