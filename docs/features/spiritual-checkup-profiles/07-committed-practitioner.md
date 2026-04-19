@@ -1,7 +1,7 @@
 # 07 — The Committed Practitioner
 
-> **Primary archetype:** Proficiens (settled) — with **Discipulus** as a common step-back when first-weekness is present
-> **Secondary (tension pair):** `{ Perseverans — "dryness is entering and I want steadiness in it", Contemplativus — "I feel drawn to longer silence" }`
+> **Primary archetype:** Grower (settled) — with **Disciple** as a common step-back when first-weekness is present
+> **Secondary (tension pair):** `{ Endurer — "dryness is entering and I want steadiness in it", Contemplative — "I feel drawn to longer silence" }`
 > **Overlays possible:** scrupulosity (moderate), traditional-leaning (common), convert (moderate — often 3–10 years post-reception)
 
 ## Who this is
@@ -16,13 +16,13 @@ Signals: "I pray daily" — "I'm consistent but feel something shifting" — "I 
 
 L1=D ("I practice regularly") → L2 branches on prayer life. This profile is reached by **"Daily, with some structure — Rosary, morning/evening prayers."**
 
-Alternative route: L1=E ("I'm advanced...") → L2 option **"I'm faithful and steady, and I'm starting to be drawn to silence"** also lands here but with **Contemplativus already flagged** as the likely secondary.
+Alternative route: L1=E ("I'm advanced...") → L2 option **"I'm faithful and steady, and I'm starting to be drawn to silence"** also lands here but with **Contemplative already flagged** as the likely secondary.
 
 L3 asks about *what is currently happening in prayer*. The answer routes emphasis:
 
-- **Mostly consolation, warmth, fruit** — Proficiens (deepening-track) — keep going, add weight (longer mental prayer, more substantive reading).
-- **Mostly dryness / distraction / weariness** — *route to profile 08 (Hidden Dark Night)* or, if mild, Proficiens (aridity-orientation).
-- **Genuinely drawn to silence** — Proficiens with Contemplativus secondary; introduce longer silent prayer and cautious reading of the Carmelite mystics.
+- **Mostly consolation, warmth, fruit** — Grower (deepening-track) — keep going, add weight (longer mental prayer, more substantive reading).
+- **Mostly dryness / distraction / weariness** — *route to profile 08 (Hidden Dark Night)* or, if mild, Grower (aridity-orientation).
+- **Genuinely drawn to silence** — Grower with Contemplative secondary; introduce longer silent prayer and cautious reading of the Carmelite mystics.
 
 L4 tension pair.
 
@@ -48,10 +48,10 @@ This profile must not be given *more* practices. It must be given **depth on the
 ## What NOT to offer first
 
 - **Not more devotions.** This profile has enough. The answer is never "add the Divine Mercy chaplet to your day" — it is "what you already pray, pray more deeply."
-- **Not contemplative mystics early without preparation.** *Ascent of Mount Carmel*, *Interior Castle*, Ruusbroec — these are appropriate eventually, but reading St. John of the Cross in a phase of real consolation is the classic mistake of mapping one's state onto the *Dark Night of the Senses* when one is actually in a Discipulus-Proficiens transition.
+- **Not contemplative mystics early without preparation.** *Ascent of Mount Carmel*, *Interior Castle*, Ruusbroec — these are appropriate eventually, but reading St. John of the Cross in a phase of real consolation is the classic mistake of mapping one's state onto the *Dark Night of the Senses* when one is actually in a Disciple-Grower transition.
 - **Not an aggressive penitential regime.** Fasting beyond the Church's minimum should come from a director or a long-discerned interior movement, not from a starter track. Do not prescribe it.
 - **Not multiple consecrations at once.** If Total Consecration (Montfort) has not been done, it is appropriate for this profile. One at a time.
-- **Not the expectation of dramatic progress.** The characteristic Proficiens temptation is to look for *experiences* as evidence; most real growth in this phase is invisible to the one living it.
+- **Not the expectation of dramatic progress.** The characteristic Grower temptation is to look for *experiences* as evidence; most real growth in this phase is invisible to the one living it.
 
 ## Two-week shape
 
@@ -78,7 +78,7 @@ This profile must not be given *more* practices. It must be given **depth on the
 
 ## Pastoral warnings
 
-- **The "I'm not making progress" complaint.** Already a Proficiens signature, and usually evidence of *real* progress — the interior standard has risen faster than the interior delivery. Counter: *the one who measures progress is not the one making it*. Direct quote-shaped content addressing this is in the `predominant-fault` chapter §5 ("When It Hides") and should be expanded in a dedicated chapter.
+- **The "I'm not making progress" complaint.** Already a Grower signature, and usually evidence of *real* progress — the interior standard has risen faster than the interior delivery. Counter: *the one who measures progress is not the one making it*. Direct quote-shaped content addressing this is in the `predominant-fault` chapter §5 ("When It Hides") and should be expanded in a dedicated chapter.
 - **The spiritual director question.** After the first year or so, a director is not optional in this phase. The app cannot be a director. Say it plainly.
 - **The "I must be in the Dark Night" conclusion.** If mental prayer becomes dry at week 3–4, the nearly universal temptation is to call it the Dark Night of the Senses. It almost never is. St. John of the Cross's three signs (dryness, lack of desire for *anything* creaturely, inability to meditate discursively — all three sustained, not one or two) are specific. Naming this *preempts* the misdiagnosis and is worth a dedicated chapter.
 - **The "traditional spirituality" detour.** Committed practitioners sometimes find at this phase an intense attraction to TLM, classical spirituality, or pre-V2 discipline. The attraction is legitimate; the risk is substituting aesthetic traditionalism for interior growth. Apply the overlay.

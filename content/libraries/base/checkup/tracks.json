@@ -17,8 +17,8 @@
 	},
 	"tracks": [
 		{
-			"id": "track-quaerens",
-			"archetype": "quaerens",
+			"id": "track-seeker",
+			"archetype": "seeker",
 			"title": {
 				"en-US": "First Steps",
 				"pt-BR": "Primeiros passos"
@@ -87,8 +87,8 @@
 			}
 		},
 		{
-			"id": "track-redivivus",
-			"archetype": "redivivus",
+			"id": "track-returner",
+			"archetype": "returner",
 			"title": {
 				"en-US": "The Road Home",
 				"pt-BR": "O caminho de volta para casa"
@@ -173,8 +173,8 @@
 			}
 		},
 		{
-			"id": "track-discipulus",
-			"archetype": "discipulus",
+			"id": "track-disciple",
+			"archetype": "disciple",
 			"title": {
 				"en-US": "A Simple Rule",
 				"pt-BR": "Uma regra simples"
@@ -255,8 +255,8 @@
 			}
 		},
 		{
-			"id": "track-proficiens",
-			"archetype": "proficiens",
+			"id": "track-grower",
+			"archetype": "grower",
 			"title": {
 				"en-US": "Deepening",
 				"pt-BR": "Aprofundamento"
@@ -347,8 +347,8 @@
 			}
 		},
 		{
-			"id": "track-perseverans",
-			"archetype": "perseverans",
+			"id": "track-endurer",
+			"archetype": "endurer",
 			"title": {
 				"en-US": "Hidden Growth",
 				"pt-BR": "Crescimento escondido"
@@ -453,8 +453,8 @@
 			}
 		},
 		{
-			"id": "track-contemplativus",
-			"archetype": "contemplativus",
+			"id": "track-contemplative",
+			"archetype": "contemplative",
 			"title": {
 				"en-US": "Silence",
 				"pt-BR": "Silêncio"

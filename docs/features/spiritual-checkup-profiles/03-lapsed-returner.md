@@ -1,7 +1,7 @@
 # 03 — The Lapsed Returner
 
-> **Primary archetype:** Redivivus
-> **Secondary (tension pair):** `{ Quaerens — "there are things I never actually learned", Discipulus — "I'm ready to rebuild a real practice" }`
+> **Primary archetype:** Returner
+> **Secondary (tension pair):** `{ Seeker — "there are things I never actually learned", Disciple — "I'm ready to rebuild a real practice" }`
 > **Overlays possible:** scrupulosity, convert (no), traditional-leaning (moderate — some lapse specifically to find traditional forms later)
 
 ## Who this is

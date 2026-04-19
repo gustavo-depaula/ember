@@ -1,7 +1,7 @@
 # 08 — The Hidden Dark Night
 
-> **Primary archetype:** Proficiens (late) or Perseverans
-> **Secondary (tension pair):** `{ Perseverans — "keep walking even in the dark", Contemplativus — "accept the silence as a kind of prayer" }`
+> **Primary archetype:** Grower (late) or Endurer
+> **Secondary (tension pair):** `{ Endurer — "keep walking even in the dark", Contemplative — "accept the silence as a kind of prayer" }`
 > **Overlays possible:** scrupulosity (common — dryness reads as fault to the scrupulous), traditional-leaning (moderate), convert (moderate)
 
 ## Who this is

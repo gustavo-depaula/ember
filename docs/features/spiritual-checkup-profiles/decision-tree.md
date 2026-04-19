@@ -26,7 +26,7 @@ Question posture: "Where are you with the Church right now?"
 - **D. I practice regularly (Sunday Mass, maybe more).** → to L2 **practicing-track**.
 - **E. I'm advanced — daily Mass, daily prayer, I know I've been at this a long time.** → to L2 **advanced-track**.
 
-This split handles ~95% of early routing on one axis that is easy to self-report. The tree is already leaving quadrants of the population behind that the linear scoring couldn't distinguish — e.g., B and C converge in v1 (both are "Redivivus"); they diverge here.
+This split handles ~95% of early routing on one axis that is easy to self-report. The tree is already leaving quadrants of the population behind that the linear scoring couldn't distinguish — e.g., B and C converge in v1 (both are "Returner"); they diverge here.
 
 ---
 
@@ -57,7 +57,7 @@ This split handles ~95% of early routing on one axis that is easy to self-report
 ### L2 from advanced-track (E)
 "What describes your current interior life?"
 
-- I'm faithful and steady, and I'm starting to be drawn to silence. → `profile:committed-practitioner` with Contemplativus secondary; route to L3.
+- I'm faithful and steady, and I'm starting to be drawn to silence. → `profile:committed-practitioner` with Contemplative secondary; route to L3.
 - I'm faithful, and prayer is often dry or dark. I keep going. → `profile:hidden-dark-night` (route to L3).
 - I'm already in a settled advanced rhythm. I'm here for support and sources, not a plan. → `profile:formed-wellspring`; route to L4 for a tension question only.
 
@@ -71,9 +71,9 @@ Pattern: "Which of these comes closest to your experience right now?" with optio
 
 Examples by profile:
 
-- `profile:sacramental-baseline` L3: "How often do you examine your conscience?" — answer routes to *Discipulus (examen-starter)* vs *Discipulus (confession-starter)*.
-- `profile:committed-practitioner` L3: "What's been happening in prayer lately?" — answer routes to *Proficiens (deeper-mental-prayer)* vs *Proficiens (aridity-orientation)*.
-- `profile:lapsed-returner` L3: "When you think about confession, what comes up first?" — answer routes to *Redivivus (returning-to-confession track)* vs *Redivivus (fear-and-consent track)*.
+- `profile:sacramental-baseline` L3: "How often do you examine your conscience?" — answer routes to *Disciple (examen-starter)* vs *Disciple (confession-starter)*.
+- `profile:committed-practitioner` L3: "What's been happening in prayer lately?" — answer routes to *Grower (deeper-mental-prayer)* vs *Grower (aridity-orientation)*.
+- `profile:lapsed-returner` L3: "When you think about confession, what comes up first?" — answer routes to *Returner (returning-to-confession track)* vs *Returner (fear-and-consent track)*.
 
 ---
 
@@ -88,9 +88,9 @@ At every leaf, a final question picks the **secondary** archetype from a pre-sel
 
 Examples:
 
-- At `profile:apologetics-nerd`: secondary pair = {Quaerens (prayer-life beginner), Contemplativus (interior-silence drawn)} — the first names the deficit; the second names the aspiration that sometimes hides under the apologist's intellectualism.
-- At `profile:hidden-dark-night`: secondary pair = {Perseverans (endurance), Contemplativus (consent to silence)}.
-- At `profile:formed-wellspring`: secondary pair = {Contemplativus (drawn to silent prayer), Perseverans (duty and steadiness under dryness)}.
+- At `profile:apologetics-nerd`: secondary pair = {Seeker (prayer-life beginner), Contemplative (interior-silence drawn)} — the first names the deficit; the second names the aspiration that sometimes hides under the apologist's intellectualism.
+- At `profile:hidden-dark-night`: secondary pair = {Endurer (endurance), Contemplative (consent to silence)}.
+- At `profile:formed-wellspring`: secondary pair = {Contemplative (drawn to silent prayer), Endurer (duty and steadiness under dryness)}.
 
 The secondary is never the same as the primary. The pair is authored into the leaf; it is not computed.
 
@@ -111,13 +111,13 @@ Overlays change copy and track emphasis but do not change the primary profile. S
 ## Sample paths
 
 ### Path A — catechumen
-L1=A → leaf `curious-unbaptized`. Primary=Quaerens. L4 tension pair offered: {Redivivus — "I've been Catholic before in some sense", Discipulus — "I want a structured practice from day one"}. 3 questions total.
+L1=A → leaf `curious-unbaptized`. Primary=Seeker. L4 tension pair offered: {Returner — "I've been Catholic before in some sense", Disciple — "I want a structured practice from day one"}. 3 questions total.
 
 ### Path B — apologetics nerd
-L1=D → L2 "I know a lot about the faith but honestly don't pray much" → leaf `apologetics-nerd`. Primary=Discipulus (doctrine). Secondary=Quaerens (prayer). L4 tension pair: {Quaerens — "I'm a beginner at prayer", Contemplativus — "I want silence"}. 3–4 questions.
+L1=D → L2 "I know a lot about the faith but honestly don't pray much" → leaf `apologetics-nerd`. Primary=Disciple (doctrine). Secondary=Seeker (prayer). L4 tension pair: {Seeker — "I'm a beginner at prayer", Contemplative — "I want silence"}. 3–4 questions.
 
 ### Path C — well-formed seeker
-L1=E → L2 "settled rhythm, here for sources" → leaf `formed-wellspring`. Primary=Perseverans. L4 pair: {Contemplativus, Perseverans}. 3 questions — almost as short as the catechumen path, because there is very little to diagnose and much to offer.
+L1=E → L2 "settled rhythm, here for sources" → leaf `formed-wellspring`. Primary=Endurer. L4 pair: {Contemplative, Endurer}. 3 questions — almost as short as the catechumen path, because there is very little to diagnose and much to offer.
 
 ---
 

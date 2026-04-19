@@ -1,7 +1,7 @@
 # 04 — The Apologetics Nerd
 
-> **Primary archetype:** Discipulus (on doctrine axis)
-> **Secondary (tension pair):** `{ Quaerens — "I'm genuinely a beginner at prayer", Contemplativus — "I want silence but don't know how to sit in it" }`
+> **Primary archetype:** Disciple (on doctrine axis)
+> **Secondary (tension pair):** `{ Seeker — "I'm genuinely a beginner at prayer", Contemplative — "I want silence but don't know how to sit in it" }`
 > **Overlays possible:** traditional-leaning (very common), scrupulosity (possible), convert (common)
 
 ## Who this is
@@ -10,7 +10,7 @@ A soul who knows **the faith intellectually**, often extensively. Reads Chestert
 
 And **does not pray much**. Maybe a rushed morning offering. Maybe a Rosary when nervous. Maybe nothing at all. The interior life is a deferred agenda item, always coming after the current book or the next essay.
 
-This profile is one of the two reasons the v1 linear scoring broke. On `questions.json`, this soul selects "very familiar with Scripture and Catechism," "weekly Mass," "knows the basics cold" — and lands in Discipulus or even Proficiens, receiving a starter track full of catechetical chapters he already has *stronger* opinions about than the chapter authors. Meanwhile, his actual need — **learn to pray silently for ten minutes without reaching for a book** — is invisible to the scoring.
+This profile is one of the two reasons the v1 linear scoring broke. On `questions.json`, this soul selects "very familiar with Scripture and Catechism," "weekly Mass," "knows the basics cold" — and lands in Disciple or even Grower, receiving a starter track full of catechetical chapters he already has *stronger* opinions about than the chapter authors. Meanwhile, his actual need — **learn to pray silently for ten minutes without reaching for a book** — is invisible to the scoring.
 
 Signals: "I've read most of the CCC" — "I can explain transubstantiation but haven't been to Adoration in a year" — "I'm better at arguing for the Rosary than praying it."
 

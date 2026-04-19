@@ -1,7 +1,7 @@
 # 01 — The Curious Unbaptized
 
-> **Primary archetype:** Quaerens
-> **Secondary (tension pair):** `{ Redivivus — "I've been Catholic-adjacent before", Discipulus — "I want structure from day one" }`
+> **Primary archetype:** Seeker
+> **Secondary (tension pair):** `{ Returner — "I've been Catholic-adjacent before", Disciple — "I want structure from day one" }`
 > **Overlays possible:** convert (if from another Christian tradition), scrupulosity rare but possible
 
 ## Who this is
@@ -56,7 +56,7 @@ At week 3, the primary next action is **contact a priest about RCIA**. The app's
 - **Do not allow the app to substitute for a priest.** The fail-mode is a catechumen who prays a daily Rosary for two years and never goes to a parish. Every leaf action in weeks 1–2 should nudge toward an actual Catholic in an actual place.
 - **Beware syncretism.** Some in this profile come from exposure to meditation, yoga, astrology, Wicca-adjacent practice. The "How to Pray" chapter names Christian prayer as *not* a technique; be gentle but clear.
 - **Watch for the aesthetic trap.** Catholicism is beautiful. Souls can mistake aesthetic attraction for conversion. Aesthetic attraction is a *gift* (Augustine's "late have I loved thee") — but its completion is sacramental, not curatorial.
-- **Do not use language of "already Catholic."** A soul who has not been baptized is not yet Catholic, and telling them they already are cheapens both their future baptism and the truth. Use language of *drawing* and *seeking* — they are Quaerens in the most literal sense.
+- **Do not use language of "already Catholic."** A soul who has not been baptized is not yet Catholic, and telling them they already are cheapens both their future baptism and the truth. Use language of *drawing* and *seeking* — they are Seeker in the most literal sense.
 
 ## Notes for the chapter author
 

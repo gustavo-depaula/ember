@@ -28,7 +28,7 @@ Each archetype has:
 - **dominant risks** — the failure modes most common at this stage;
 - **next step** — formation emphasis, starter practices, and cautions.
 
-### 1.1 Quaerens — "The Seeker"
+### 1.1 Seeker — "The Seeker"
 **Phase:** pre-purgative, often unbaptized, recently returning, or nominally Catholic with little lived practice.
 
 **Description.** Something is drawing this person toward God — curiosity, grief, a conversion story, a longing they can't name. Sacramental life is absent or minimal. They may not yet know what the Church actually teaches, but the door is open.
@@ -39,7 +39,7 @@ Each archetype has:
 
 **Next step.** The *Our Father* prayed slowly, daily. A simple Morning Offering. One short Gospel passage a day (we recommend Mark). Strong, warm nudge toward a parish priest and — if unbaptized or uncatechized — toward RCIA. The app is an antechamber; the Church is the home.
 
-### 1.2 Redivivus — "The Rekindling"
+### 1.2 Returner — "The Rekindling"
 **Phase:** baptized, sacramentalized, lapsed, now returning. The largest segment of our likely audience.
 
 **Description.** The faith is planted but overgrown. They remember the prayers their grandmother taught them. They have not been to confession in years, perhaps decades. They want to come back but are afraid — of judgment, of having to change too fast, of being "found out."
@@ -50,7 +50,7 @@ Each archetype has:
 
 **Next step.** Confession as soon as possible, framed gently and concretely (how to examine, how to begin "Bless me, Father…"). Then: Morning Offering + one decade of the Rosary + Sunday Mass. Examination of Conscience before bed. Avoid piling on devotions.
 
-### 1.3 Discipulus — "The Committed Beginner"
+### 1.3 Disciple — "The Committed Beginner"
 **Phase:** early purgative. Regular Mass, beginning a structured prayer life, learning the basics of Catholic doctrine and moral life.
 
 **Description.** Mass is weekly, confession is roughly monthly or seasonal, the Rosary and one or two other devotions are in rotation. Doctrine is being learned rather than assumed. The spiritual life is real but green — consolations are frequent, aridity is novel and alarming.
@@ -61,7 +61,7 @@ Each archetype has:
 
 **Next step.** A tight Plan of Life: Morning Offering, 5 decades of the Rosary, 10 minutes of mental prayer or Scripture, Examination of Conscience, Night Prayer. One formation book at a time. Introduce the concept of spiritual direction — even a regular confessor suffices at this stage.
 
-### 1.4 Proficiens — "The Growing Disciple"
+### 1.4 Grower — "The Growing Disciple"
 **Phase:** late purgative / early illuminative. Interior life is becoming habitual; mental prayer is practiced; the Sacraments are lived rather than performed.
 
 **Description.** Daily Mass is either reality or serious aspiration. Mental prayer happens most days, even when dry. Moral life is more integrated — the person is fighting predominant faults rather than cataloging symptoms. They've read a spiritual classic or two and are hungry for more.
@@ -72,7 +72,7 @@ Each archetype has:
 
 **Next step.** Stabilize the rule. Add *lectio divina* or structured mental prayer. Read *Introduction to the Devout Life* and then a Carmelite primer. Begin reading the Fathers slowly. Find a real spiritual director.
 
-### 1.5 Perseverans — "The Steadfast"
+### 1.5 Endurer — "The Steadfast"
 **Phase:** illuminative, tested. Long-faithful. Often older, or married with children, or a religious. Has walked through real aridity and kept walking.
 
 **Description.** The novelty is gone. Feelings are no longer the engine. This soul knows their predominant fault intimately and fights it without drama. They've suffered — a death, a prodigal child, an illness, a dark night — and their prayer has survived it.
@@ -83,7 +83,7 @@ Each archetype has:
 
 **Next step.** Deepen, don't broaden. Longer mental prayer (20–30 min). Serious reading — St. John of the Cross, *Imitation of Christ*, *The Spiritual Combat*. Liturgy of the Hours (Lauds + Vespers minimum). Practical almsgiving and hidden service of concrete persons.
 
-### 1.6 Contemplativus — "The Contemplative"
+### 1.6 Contemplative — "The Contemplative"
 **Phase:** illuminative / unitive. Drawn to silent prayer; life reordered around interior quiet; gifts of the Holy Spirit operative.
 
 **Description.** This person prays less *about* God and more *with* God in silence. Vocal prayer and mental prayer remain, but the soul is often drawn beyond them. They are discerning or living a contemplative call — whether as a Carthusian, a Carmelite, a consecrated lay contemplative, or simply a layperson whose interior life has become quietly unitive.
@@ -97,7 +97,7 @@ Each archetype has:
 ---
 
 ### Why six, not seven
-Earlier drafts had separate "Ascetic" and "Active Apostolate" archetypes. We merged them into *Proficiens* and *Perseverans*: asceticism and apostolate are **modes of living** the phases, not separate phases. Temperament (Ignatian / Carmelite / Dominican / Benedictine devotional style) is captured downstream in **starter track variants**, not in the archetype itself — keeping the taxonomy oriented to *state* rather than *personality*.
+Earlier drafts had separate "Ascetic" and "Active Apostolate" archetypes. We merged them into *Grower* and *Endurer*: asceticism and apostolate are **modes of living** the phases, not separate phases. Temperament (Ignatian / Carmelite / Dominican / Benedictine devotional style) is captured downstream in **starter track variants**, not in the archetype itself — keeping the taxonomy oriented to *state* rather than *personality*.
 
 ---
 
@@ -107,7 +107,7 @@ Nine, not ten. The final question is non-scoring — it's a pastoral gut-check t
 
 Each question: English + Brazilian Portuguese, 3–5 options, and a per-option **weight vector** over the six archetypes. We omit "Prefer not to say" options — the user can always skip the whole checkup — to avoid hollow answers that corrupt the sum.
 
-Notation: `[Q, R, D, P, S, C]` = `[Quaerens, Redivivus, Discipulus, Proficiens, Perseverans, Contemplativus]`. Weights are small integers; each question contributes up to ~3 points toward any archetype.
+Notation: `[Q, R, D, P, S, C]` = `[Seeker, Returner, Disciple, Grower, Endurer, Contemplative]`. Weights are small integers; each question contributes up to ~3 points toward any archetype.
 
 ### Q1. Sacramental rhythm — Mass
 - **EN.** "In a typical month, how often do you attend Mass?"
@@ -226,9 +226,9 @@ Plain arithmetic:
 1. For each answered question, add the option's weight vector to a running `scores: Record<Archetype, number>`.
 2. Top archetype = `argmax(scores)`.
 3. **Tie-breaker rules** (in order):
-   1. If scores are within 2 of each other, prefer the **lower-numbered** archetype (toward *Quaerens*) — bias toward humility. A *Proficiens* who tests borderline *Perseverans* should be called *Proficiens*. Growing into the higher name is the right direction; being handed it prematurely is not.
-   2. If Q1 (Mass) weight was "Rarely or never" but the top archetype is ≥ *Discipulus*, **downgrade** to *Redivivus*. Sacramental rhythm is load-bearing; we won't call someone a "Committed Beginner" without Sunday Mass.
-   3. If Q7 (openness to contemplative prayer) answer was the top option *and* the top archetype is *Perseverans*, the system **may** surface *Contemplativus* as a "possible deeper pull" — but does not reassign. We never call someone a contemplative by quiz result alone.
+   1. If scores are within 2 of each other, prefer the **lower-numbered** archetype (toward *Seeker*) — bias toward humility. A *Grower* who tests borderline *Endurer* should be called *Grower*. Growing into the higher name is the right direction; being handed it prematurely is not.
+   2. If Q1 (Mass) weight was "Rarely or never" but the top archetype is ≥ *Disciple*, **downgrade** to *Returner*. Sacramental rhythm is load-bearing; we won't call someone a "Committed Beginner" without Sunday Mass.
+   3. If Q7 (openness to contemplative prayer) answer was the top option *and* the top archetype is *Endurer*, the system **may** surface *Contemplative* as a "possible deeper pull" — but does not reassign. We never call someone a contemplative by quiz result alone.
 4. The second-place archetype is shown as a secondary "you may also recognize yourself in…" — soft, not deterministic.
 
 The full weight matrix lives alongside the question content in a new library file (proposed: `content/libraries/base/checkup/questions.json`), versioned so edits are tracked and reproducible.
@@ -244,12 +244,12 @@ The full weight matrix lives alongside the question content in a new library fil
 4. **Result screen.** A single scrolling page — no celebration animation, no confetti, no badge. The tone is a pastoral letter, not a verdict.
 
 ### Result screen layout (top to bottom)
-1. **Archetype title** in Cinzel or heading font — `Redivivus — The Rekindling`. Latin + English pair, quietly.
+1. **Archetype title** in Cinzel or heading font — `Returner — The Rekindling`. Latin + English pair, quietly.
 2. **Opening paragraph**: the description from §1, personalized by the Q9 answer where possible ("You came back looking for a way home. The Father has been watching the road.").
 3. **A saint or Scripture figure** — the resonance figure, with a 1–2 sentence story hook and a link to the saint card once saints cards ship.
 4. **"Where you might focus next"** — three to five concrete items, pulled from the track spec in §4. Each item links into the app (add practice to plan, open chapter, start program).
 5. **"What to be careful of"** — the risks from §1, written pastorally in second person ("Watch for…"). Short. Never "you are prone to X."
-6. **Secondary archetype** (if within threshold): "You may also recognize yourself in *Discipulus, the Committed Beginner* — some of its emphases may speak to you."
+6. **Secondary archetype** (if within threshold): "You may also recognize yourself in *Disciple, the Committed Beginner* — some of its emphases may speak to you."
 7. **The disclaimer, always visible** (see below).
 8. **Actions:** *Start my track* (primary), *Skip for now*, *Retake*.
 
@@ -287,7 +287,7 @@ A **track** is a lightweight wrapper over existing Plan of Life infrastructure. 
 
 Practice IDs below are drawn from `base` and `devotions`; all exist today.
 
-### 4.1 Track — Quaerens ("First Steps")
+### 4.1 Track — Seeker ("First Steps")
 
 - **Goal.** Help the seeker form one honest prayer habit and take the first concrete step toward the sacramental life.
 - **Duration.** 3 weeks.
@@ -305,7 +305,7 @@ Practice IDs below are drawn from `base` and `devotions`; all exist today.
   - End of week 2: one completed Gospel chapter a day for five consecutive days.
   - End of week 3: **a prompt, not a requirement** — "Have you had a conversation with a parish priest yet? Here's how to find one near you." Link to a simple parish locator *(phase 2 — see Open Questions)*.
 
-### 4.2 Track — Redivivus ("The Road Home")
+### 4.2 Track — Returner ("The Road Home")
 
 - **Goal.** Bring the lapsed Catholic back to the Sacrament of Confession and to a sustainable Sunday + daily rhythm.
 - **Duration.** 4 weeks.
@@ -324,7 +324,7 @@ Practice IDs below are drawn from `base` and `devotions`; all exist today.
   - End of week 2: confession made (self-marked).
   - End of week 4: four Sundays of Mass attended, a daily examination streak of at least ten days.
 
-### 4.3 Track — Discipulus ("A Simple Rule")
+### 4.3 Track — Disciple ("A Simple Rule")
 
 - **Goal.** Consolidate a tight daily rule. Introduce mental prayer. Begin formation reading.
 - **Duration.** 4 weeks.
@@ -343,12 +343,12 @@ Practice IDs below are drawn from `base` and `devotions`; all exist today.
   - A 21-day streak on the Fidelity Wall at the Essential tier.
   - End of track: user has identified their **predominant fault** in writing (a private note field on the track screen) and chosen one counter-virtue to cultivate.
 
-### 4.4 Track — Proficiens ("Deepening")
+### 4.4 Track — Grower ("Deepening")
 
 - **Goal.** Stabilize mental prayer, deepen doctrinal formation, introduce the Divine Office or *lectio divina*.
 - **Duration.** 4 weeks.
 - **Daily practices (Essential tier):**
-  - Same as Discipulus, plus either `lectio-divina` (15 min) or **Lauds** from `divine-office`, user's choice.
+  - Same as Disciple, plus either `lectio-divina` (15 min) or **Lauds** from `divine-office`, user's choice.
   - `mental-prayer-carmelite` replaces `mental-prayer-simple`, 20 minutes.
 - **Ideal tier:** `visit-blessed-sacrament` weekly, `little-office-bvm` Saturdays, `act-consecration-sacred-heart` on First Fridays.
 - **Formation readings:**
@@ -359,7 +359,7 @@ Practice IDs below are drawn from `base` and `devotions`; all exist today.
   - At minimum monthly confession.
   - End of track: **written reflection on a candidate spiritual director** — a parish priest, a chaplain, a religious — with a concrete next step to contact them. This is a gentle prompt on the track review screen, not a database field for us to inspect.
 
-### 4.5 Track — Perseverans ("Hidden Growth")
+### 4.5 Track — Endurer ("Hidden Growth")
 
 - **Goal.** Resist coasting. Deepen silent prayer. Engage the great spiritual tradition seriously.
 - **Duration.** 4 weeks, often renewed.
@@ -377,7 +377,7 @@ Practice IDs below are drawn from `base` and `devotions`; all exist today.
   - Identified acts of hidden charity toward specific persons (private note).
   - Review at end of track: is a spiritual director in place? If not, this is the time.
 
-### 4.6 Track — Contemplativus ("Silence")
+### 4.6 Track — Contemplative ("Silence")
 
 - **Goal.** Get out of the way. Offer long-form silent prayer tooling and the great contemplative texts, and keep the soul rooted in the ordinary Sacraments.
 - **Duration.** Open-ended; suggested 4-week review cycles.
@@ -412,17 +412,17 @@ Practice IDs below are drawn from `base` and `devotions`; all exist today.
 - **Never claim to diagnose sin.** The checkup scores states of prayer and sacramental rhythm, not moral states. It doesn't tell someone "you are in mortal sin" or "you are in a state of grace."
 - **Never substitute for a priest.** Every output screen contains the disclaimer. Starter tracks explicitly route the user toward RCIA, confession, and spiritual direction.
 - **Never shame.** No red, no warning icons, no "you are behind" framing. No time-since counters on confession. No comparison to other users.
-- **Never gamify.** No badge for completing the checkup. No archetype leaderboard. No "level up to Proficiens" language — the archetype is named once, pastorally, and then the user moves into their track.
-- **Never map archetype to vocation.** Single / married / religious / priest is **orthogonal** and is not asked about here. Discipulus can be a grandfather; Perseverans can be a sixteen-year-old formed in a good family.
+- **Never gamify.** No badge for completing the checkup. No archetype leaderboard. No "level up to Grower" language — the archetype is named once, pastorally, and then the user moves into their track.
+- **Never map archetype to vocation.** Single / married / religious / priest is **orthogonal** and is not asked about here. Disciple can be a grandfather; Endurer can be a sixteen-year-old formed in a good family.
 - **Never publicize the result.** Saints cards, streaks, and other Devotion-pillar surfaces must **not** read from the checkup result. The archetype is a private pastoral prompt, not a social identity.
 
 ### Theological review
 - **Archetype definitions, risks, disclaimers, and formation readings require sign-off from a reviewer with theological formation** — ideally a priest or a layperson with a pontifical degree in spiritual theology. Gustavo is to identify the reviewer before the first user-facing version ships.
 - The reviewer should specifically weigh:
-  - The mapping between archetypes and the Three Ways (is *Proficiens* really late-purgative? Is *Perseverans* overreaching by claiming "illuminative"?).
+  - The mapping between archetypes and the Three Ways (is *Grower* really late-purgative? Is *Endurer* overreaching by claiming "illuminative"?).
   - Language around confession (nothing that implies Ember decides sufficiency of contrition or validity).
   - Language around contemplative prayer (no quietist drift, no implication of private inspirations as reliable).
-- **Content track readings** must also be reviewed — especially St. John of the Cross, which is catastrophic for beginners if proposed prematurely. (This is partly why *Contemplativus* gets references, not a curated schedule.)
+- **Content track readings** must also be reviewed — especially St. John of the Cross, which is catastrophic for beginners if proposed prematurely. (This is partly why *Contemplative* gets references, not a curated schedule.)
 
 ### Privacy
 - **Local-only storage.** Answers and results persist in SQLite `preferences`. No cloud, no analytics, no telemetry on answer content.
@@ -436,7 +436,7 @@ Practice IDs below are drawn from `base` and `devotions`; all exist today.
 
 1. **Who is the theological reviewer?** No content ships without a named reviewer. Gustavo to identify — ideally a priest familiar with the Three Ways tradition, comfortable reviewing both Portuguese and English content.
 2. **Do we ship the checkup to all users, or only new installs?** Current assumption: offered in onboarding, and as a discoverable item in Settings → Spiritual Life for existing users. Never pushed via notification.
-3. **The "First Steps" (Quaerens) track references a parish locator.** Do we integrate a real locator (e.g., Masstimes.org data, if licensing allows) or ship a text prompt only in v1? Lean toward v1 = text only; v2 = locator.
+3. **The "First Steps" (Seeker) track references a parish locator.** Do we integrate a real locator (e.g., Masstimes.org data, if licensing allows) or ship a text prompt only in v1? Lean toward v1 = text only; v2 = locator.
 4. **Formation readings require content that doesn't exist yet** — notably the "How to pray again" and "How to return to confession" short chapters, plus imports of *Introduction to the Devout Life*, *The Way of Perfection*, and *Imitation of Christ* if not already in the pipeline. These should be filed as issues in the `Content Platform` and `New Practices` tracks. Which do we author ourselves, and which do we import from existing public-domain translations?
 5. **Should the archetype appear anywhere else in the app** (e.g., subtly affecting the tone of empty states or the ordering of suggested practices in the catalog), or is the result strictly the property of the checkup and the track screen? Default stance in this draft: strictly private to checkup + track. Broader use — especially anything approaching "personalization" of copy — warrants its own review.
 6. **Portuguese translation authority.** The archetype names, descriptions, and disclaimer must not be machine-translated. Who is the PT-BR theological reviewer, and are they the same person?

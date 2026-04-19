@@ -3,12 +3,11 @@
 	"note": "Pastoral phases, not personality types. Loosely mapped to the Three Ways (purgative / illuminative / unitive). Private to the user; never surfaced socially.",
 	"archetypes": [
 		{
-			"id": "quaerens",
+			"id": "seeker",
 			"order": 1,
 			"name": {
-				"la": "Quaerens",
-				"en-US": "The Seeker",
-				"pt-BR": "O que busca"
+				"en-US": "Seeker",
+				"pt-BR": "Buscador"
 			},
 			"phase": {
 				"en-US": "Pre-purgative. Often unbaptized, recently returning, or nominally Catholic with little lived practice.",
@@ -32,12 +31,11 @@
 			}
 		},
 		{
-			"id": "redivivus",
+			"id": "returner",
 			"order": 2,
 			"name": {
-				"la": "Redivivus",
-				"en-US": "The Rekindling",
-				"pt-BR": "O coração que volta"
+				"en-US": "Returner",
+				"pt-BR": "Retornante"
 			},
 			"phase": {
 				"en-US": "Early purgative. Returning Catholic — grace has relit a faith that looked extinguished.",
@@ -61,12 +59,11 @@
 			}
 		},
 		{
-			"id": "discipulus",
+			"id": "disciple",
 			"order": 3,
 			"name": {
-				"la": "Discipulus",
-				"en-US": "The Committed Beginner",
-				"pt-BR": "Os primeiros passos fiéis"
+				"en-US": "Disciple",
+				"pt-BR": "Discípulo"
 			},
 			"phase": {
 				"en-US": "Mid-purgative. A stable sacramental rhythm, a simple daily rule, hunger for formation.",
@@ -90,12 +87,11 @@
 			}
 		},
 		{
-			"id": "proficiens",
+			"id": "grower",
 			"order": 4,
 			"name": {
-				"la": "Proficiens",
-				"en-US": "The Deepening",
-				"pt-BR": "Alma em combate"
+				"en-US": "Grower",
+				"pt-BR": "Crescente"
 			},
 			"phase": {
 				"en-US": "Late purgative / early illuminative. Mental prayer established, predominant fault named, reading the classics.",
@@ -119,12 +115,11 @@
 			}
 		},
 		{
-			"id": "perseverans",
+			"id": "endurer",
 			"order": 5,
 			"name": {
-				"la": "Perseverans",
-				"en-US": "The Hidden Growth",
-				"pt-BR": "Fidelidade escondida"
+				"en-US": "Endurer",
+				"pt-BR": "Perseverante"
 			},
 			"phase": {
 				"en-US": "Late illuminative. Long fidelity through dryness, acedia, and subtler temptations.",
@@ -148,12 +143,11 @@
 			}
 		},
 		{
-			"id": "contemplativus",
+			"id": "contemplative",
 			"order": 6,
 			"name": {
-				"la": "Contemplativus",
-				"en-US": "The Contemplative",
-				"pt-BR": "Alma de oração silenciosa"
+				"en-US": "Contemplative",
+				"pt-BR": "Contemplativo"
 			},
 			"phase": {
 				"en-US": "Illuminative / unitive. Drawn to silent prayer; life reordered around interior quiet.",

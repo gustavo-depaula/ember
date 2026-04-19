@@ -1,7 +1,7 @@
 # 05 — The Emotional Enthusiast
 
-> **Primary archetype:** Discipulus (on prayer axis)
-> **Secondary (tension pair):** `{ Quaerens — "I realize I don't actually know what the Church teaches", Proficiens — "I want to move from feeling to steadiness" }`
+> **Primary archetype:** Disciple (on prayer axis)
+> **Secondary (tension pair):** `{ Seeker — "I realize I don't actually know what the Church teaches", Grower — "I want to move from feeling to steadiness" }`
 > **Overlays possible:** scrupulosity (rare), convert (common — often from charismatic Protestantism), traditional-leaning (rare), *charismatic context* (extremely common; see note)
 
 ## Who this is
@@ -10,7 +10,7 @@ A soul who **prays a lot and with genuine warmth** — often through music, char
 
 And whose **doctrinal and moral formation is thin**. The Creed is known as a prayer (recited at Mass) but not as a set of truths studied. The distinction between mortal and venial sin is blurry. The sacraments are loved in their sensory reality but not well understood in their form. She has little exposure to Catholic thought older than c. 1970 and no familiarity with the tradition's language of asceticism.
 
-This profile is the second reason the v1 linear scoring broke. On the questionnaire, she selects "daily prayer," "consolation in prayer," "openness to silent prayer" — and scores high on Discipulus or Proficiens, receiving a track aimed at deepening what she has, when the actual pastoral need is **grounding** what she has.
+This profile is the second reason the v1 linear scoring broke. On the questionnaire, she selects "daily prayer," "consolation in prayer," "openness to silent prayer" — and scores high on Disciple or Grower, receiving a track aimed at deepening what she has, when the actual pastoral need is **grounding** what she has.
 
 Signals: "I feel so close to Jesus when I pray" — "I cry at Adoration" — "I don't really understand what [mortal sin / transubstantiation / the Magisterium] is but I love the Church."
 

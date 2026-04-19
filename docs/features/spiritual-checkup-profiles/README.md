@@ -10,11 +10,11 @@
 
 The v1 checkup is a **linear 9-question quiz** whose option weights are summed across six archetypes to produce a primary (and, by tie-break, secondary) result. That shape has a pastoral defect that only becomes visible after trying it against real cases:
 
-A soul who **knows the Catechism cold but never prays** answers "weekly Mass," "yearly confession," "scripture/catechism fluent," "no mental prayer," and ends up weighted toward **Discipulus** or even **Proficiens** — same as a soul who prays the Rosary daily, goes to Mass every Sunday, and has read a handful of saints' lives. Their topologies are opposite. Their pastoral needs are opposite. But their scores are close.
+A soul who **knows the Catechism cold but never prays** answers "weekly Mass," "yearly confession," "scripture/catechism fluent," "no mental prayer," and ends up weighted toward **Disciple** or even **Grower** — same as a soul who prays the Rosary daily, goes to Mass every Sunday, and has read a handful of saints' lives. Their topologies are opposite. Their pastoral needs are opposite. But their scores are close.
 
 Similar failures on the other end:
-- A **complete catechumen** and a **lapsed-for-decades cradle Catholic** both land in Quaerens or Redivivus, but the first needs RCIA and first confession of sins unknown to them as sin; the second needs rehabilitation of a dormant sacramental memory.
-- A **well-formed daily communicant** seeking a classical spirituality wellspring lands in Proficiens, and gets offered formation chapters she has read twice already.
+- A **complete catechumen** and a **lapsed-for-decades cradle Catholic** both land in Seeker or Returner, but the first needs RCIA and first confession of sins unknown to them as sin; the second needs rehabilitation of a dormant sacramental memory.
+- A **well-formed daily communicant** seeking a classical spirituality wellspring lands in Grower, and gets offered formation chapters she has read twice already.
 
 The fix is not to add more questions. It is to change the **shape** of the instrument from a sum to a **decision tree** that routes early and aggressively, asking *different* follow-up questions down each branch.
 
@@ -24,7 +24,7 @@ The fix is not to add more questions. It is to change the **shape** of the instr
 
 | v1 thing | Status |
 |---|---|
-| The six archetypes (Quaerens, Redivivus, Discipulus, Proficiens, Perseverans, Contemplativus) | **Keep.** They are sound as phases on the Three Ways. |
+| The six archetypes (Seeker, Returner, Disciple, Grower, Endurer, Contemplative) | **Keep.** They are sound as phases on the Three Ways. |
 | Primary + secondary archetype output | **Keep.** The user liked the two-archetype framing — a phase with a tension. |
 | `tracks.json` — starter tracks keyed on archetype | **Keep as the catalog of possible tracks.** Some profiles will point at an existing archetype track; others will point at a bespoke track variant (see §4 below). |
 | 9-question linear form in `questions.json` | **Demote to fallback.** The tree is the target shape. |
@@ -58,12 +58,12 @@ Examples (full list in §5):
 
 | Profile | Primary | Secondary | Differs from "bare archetype" by |
 |---|---|---|---|
-| The Apologetics Nerd | Discipulus (on doctrine axis) | Quaerens (on prayer axis) | Knows the faith intellectually; prayer is a Quaerens beginner's |
-| The Emotional Enthusiast | Discipulus (on prayer axis) | Quaerens (on doctrine axis) | Prays often; doctrinal formation is a Quaerens beginner's |
-| The Lapsed Returner | Redivivus | Quaerens (on moral axis, if long-lapsed) | Needs rehabilitation of childhood memory, not introduction |
-| The Nominal Catholic | Quaerens | Redivivus | Technically baptized; practically unformed |
-| The Well-Formed Seeking Wellspring | Proficiens | Contemplativus | Already does everything Discipulus/Proficiens track prescribes — offer content, not formation |
-| The Hidden Dark Night | Proficiens | Perseverans | Faithful + dry; the temptation is to call it Discipulus and pile on novelty |
+| The Apologetics Nerd | Disciple (on doctrine axis) | Seeker (on prayer axis) | Knows the faith intellectually; prayer is a Seeker beginner's |
+| The Emotional Enthusiast | Disciple (on prayer axis) | Seeker (on doctrine axis) | Prays often; doctrinal formation is a Seeker beginner's |
+| The Lapsed Returner | Returner | Seeker (on moral axis, if long-lapsed) | Needs rehabilitation of childhood memory, not introduction |
+| The Nominal Catholic | Seeker | Returner | Technically baptized; practically unformed |
+| The Well-Formed Seeking Wellspring | Grower | Contemplative | Already does everything Disciple/Grower track prescribes — offer content, not formation |
+| The Hidden Dark Night | Grower | Endurer | Faithful + dry; the temptation is to call it Disciple and pile on novelty |
 
 The tree's job is to get to the **profile**, not just the archetype. The archetype is a downstream annotation.
 
@@ -74,7 +74,7 @@ The tree's job is to get to the **profile**, not just the archetype. The archety
 In the v1 scoring, primary + secondary came from the top two scores on the weight sum. In the tree, they come from two separate questions about **what the soul is leaning toward**:
 
 - **Primary** = the archetype that best names where the soul *is standing* right now. The tree arrives at this by routing through topology.
-- **Secondary** = the archetype that best names where the soul is *leaning*, i.e., the tension. This is a single focused question at the leaf: "When you think about growing in prayer, which resonates more — [X] or [Y]?" where X and Y are pre-selected per-leaf options (e.g., at a Discipulus leaf, the choices might be Proficiens ("I want interior silence") vs Quaerens ("I want to shore up what I don't know")).
+- **Secondary** = the archetype that best names where the soul is *leaning*, i.e., the tension. This is a single focused question at the leaf: "When you think about growing in prayer, which resonates more — [X] or [Y]?" where X and Y are pre-selected per-leaf options (e.g., at a Disciple leaf, the choices might be Grower ("I want interior silence") vs Seeker ("I want to shore up what I don't know")).
 
 This preserves the user-loved "two archetypes, one tension" output while grounding it in routing rather than arithmetic.
 
@@ -95,15 +95,15 @@ Every profile file has the same sections:
 
 Current drafts:
 
-- [01 — Curious Unbaptized](01-curious-unbaptized.md) — `Quaerens`
-- [02 — Nominal Catholic](02-nominal-catholic.md) — `Quaerens` / `Redivivus`
-- [03 — Lapsed Returner](03-lapsed-returner.md) — `Redivivus`
-- [04 — Apologetics Nerd](04-apologetics-nerd.md) — `Discipulus(doctrine)` / `Quaerens(prayer)`
-- [05 — Emotional Enthusiast](05-emotional-enthusiast.md) — `Discipulus(prayer)` / `Quaerens(doctrine)`
-- [06 — Sacramental Baseline](06-sacramental-baseline.md) — `Discipulus`
-- [07 — Committed Practitioner](07-committed-practitioner.md) — `Proficiens`
-- [08 — Hidden Dark Night](08-hidden-dark-night.md) — `Proficiens` / `Perseverans`
-- [09 — Well-Formed Seeking Wellspring](09-formed-wellspring.md) — `Perseverans` / `Contemplativus`
+- [01 — Curious Unbaptized](01-curious-unbaptized.md) — `Seeker`
+- [02 — Nominal Catholic](02-nominal-catholic.md) — `Seeker` / `Returner`
+- [03 — Lapsed Returner](03-lapsed-returner.md) — `Returner`
+- [04 — Apologetics Nerd](04-apologetics-nerd.md) — `Disciple(doctrine)` / `Seeker(prayer)`
+- [05 — Emotional Enthusiast](05-emotional-enthusiast.md) — `Disciple(prayer)` / `Seeker(doctrine)`
+- [06 — Sacramental Baseline](06-sacramental-baseline.md) — `Disciple`
+- [07 — Committed Practitioner](07-committed-practitioner.md) — `Grower`
+- [08 — Hidden Dark Night](08-hidden-dark-night.md) — `Grower` / `Endurer`
+- [09 — Well-Formed Seeking Wellspring](09-formed-wellspring.md) — `Endurer` / `Contemplative`
 
 Overlays (not profiles — modifiers that can apply to any profile):
 

@@ -1,6 +1,6 @@
 {
 	"version": "v1",
-	"archetypeOrder": ["quaerens", "redivivus", "discipulus", "proficiens", "perseverans", "contemplativus"],
+	"archetypeOrder": ["seeker", "returner", "disciple", "grower", "endurer", "contemplative"],
 	"scoringNotes": "Each option contributes a weight vector over the six archetypes in archetypeOrder. Sum across answered questions; argmax is the primary archetype, modulo the tiebreakers in docs/features/spiritual-checkup.md §2. Q9 is non-scoring (empty weights).",
 	"consent": {
 		"title": {
@@ -477,8 +477,8 @@
 	],
 	"tieBreakers": [
 		"within-2-prefer-lower-ordered: bias toward humility — lower archetype order wins on near-ties",
-		"mass-rarely-caps-at-redivivus: if Q1 is 'rarely-or-never' and top archetype order >= 3, downgrade to redivivus",
-		"contemplativus-suggests-only: if top archetype is perseverans and Q7 is 'center', surface contemplativus as secondary only"
+		"mass-rarely-caps-at-returner: if Q1 is 'rarely-or-never' and top archetype order >= 3, downgrade to returner",
+		"contemplative-suggests-only: if top archetype is endurer and Q7 is 'center', surface contemplative as secondary only"
 	],
 	"labels": {
 		"progressOf": {

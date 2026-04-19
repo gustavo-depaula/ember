@@ -1,7 +1,7 @@
 # 09 — The Well-Formed Seeking Wellspring
 
-> **Primary archetype:** Perseverans (or Proficiens/Perseverans with Contemplativus secondary)
-> **Secondary (tension pair):** `{ Contemplativus — "I want deeper silence with the Lord", Perseverans — "I want steadiness and support under long faithfulness" }`
+> **Primary archetype:** Endurer (or Grower/Endurer with Contemplative secondary)
+> **Secondary (tension pair):** `{ Contemplative — "I want deeper silence with the Lord", Endurer — "I want steadiness and support under long faithfulness" }`
 > **Overlays possible:** traditional-leaning (common and integrated — this profile often has settled into classical spirituality), scrupulosity (uncommon at this phase), convert (possible — many in this profile came in as adults 10+ years ago)
 
 ## Who this is

@@ -1,7 +1,7 @@
 # 06 — The Sacramental Baseline
 
-> **Primary archetype:** Discipulus
-> **Secondary (tension pair):** `{ Quaerens — "there are gaps I want to shore up", Proficiens — "I want to go deeper than I have" }`
+> **Primary archetype:** Disciple
+> **Secondary (tension pair):** `{ Seeker — "there are gaps I want to shore up", Grower — "I want to go deeper than I have" }`
 > **Overlays possible:** scrupulosity (moderate), convert (moderate), traditional-leaning (moderate)
 
 ## Who this is
@@ -18,9 +18,9 @@ L1=D ("I practice regularly") → L2 branches on prayer life. This profile is re
 
 L3 asks: "How often do you examine your conscience?" The answer routes to the emphasis of the starter track:
 
-- **Rarely / never** → Discipulus (examen-starter) — lead with the examen as the first new habit.
-- **Sometimes, before confession** → Discipulus (confession-starter) — lead with a monthly confession rhythm and a short daily examen.
-- **Most days** → Discipulus (mental-prayer-starter) — they are ready for mental prayer; lead there.
+- **Rarely / never** → Disciple (examen-starter) — lead with the examen as the first new habit.
+- **Sometimes, before confession** → Disciple (confession-starter) — lead with a monthly confession rhythm and a short daily examen.
+- **Most days** → Disciple (mental-prayer-starter) — they are ready for mental prayer; lead there.
 
 L4 tension pair picks the secondary.
 
@@ -73,7 +73,7 @@ This profile responds well to **one new practice per month**, not per week. The 
 ## Pastoral warnings
 
 - **The "overload and fade" pattern.** Every app and every retreat tends to offer this profile twelve practices and lose them at three. Ruthless pacing is a feature. If the track produces a stable rhythm of four small practices after eight weeks, that is a *success*, not a floor.
-- **The "I'm fine" plateau.** The soul who is steadily doing what this profile prescribes for a year without adding anything is not necessarily plateaued — consistency over novelty is a mark of growth. But after ~12–18 months at steady baseline, Proficiens territory is ready, and the checkup should suggest retaking if offered.
+- **The "I'm fine" plateau.** The soul who is steadily doing what this profile prescribes for a year without adding anything is not necessarily plateaued — consistency over novelty is a mark of growth. But after ~12–18 months at steady baseline, Grower territory is ready, and the checkup should suggest retaking if offered.
 - **Family and state-of-life integration.** This profile most often has small children, a spouse, a job that wants attention. The starter track must honor this: 5 minutes actually said beats 30 minutes aspired to. `plan-of-life` chapter already addresses this explicitly.
 - **The scrupulosity risk.** Some baseline souls, once given an examen, become scrupulous — reviewing the day for minor offenses and internalizing them as grave. Apply the scrupulosity overlay.
 

@@ -1,7 +1,7 @@
 # 02 — The Nominal Catholic
 
-> **Primary archetype:** Quaerens (early) or Redivivus (if any memory of practice)
-> **Secondary (tension pair):** `{ Quaerens — "I never really knew what the Church teaches", Redivivus — "I knew some of this as a child, it just never stuck" }`
+> **Primary archetype:** Seeker (early) or Returner (if any memory of practice)
+> **Secondary (tension pair):** `{ Seeker — "I never really knew what the Church teaches", Returner — "I knew some of this as a child, it just never stuck" }`
 > **Overlays possible:** scrupulosity, traditional-leaning (rare at this stage), convert (no)
 
 ## Who this is
