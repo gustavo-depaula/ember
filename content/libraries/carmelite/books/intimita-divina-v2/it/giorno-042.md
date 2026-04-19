@@ -1,6 +1,6 @@
 ## 42 — LA SACRA FAMIGLIA
 
-*I domenica dopo l'Epifania*
+*I domenica dopo l'Epifania*[^1]
 
 **Presenza di Dio.** — *Chiedo a Maria SS.ma di ammettermi nell'umile casa di Nazaret per considerare la mirabile vita che Gesù vi conduce.*
 
@@ -27,3 +27,5 @@ Solo Maria e Giuseppe sapevano: sapevano per rivelazione divina essere Tu il Fig
 Ma non è stato che un istante, e subito hai voluto rientrare nel nascondimento della tua umilissima vita: te ne sei andato con loro, ed eri ad essi soggetto. E così, giorno per giorno, fino a trent'anni.
 
 O Signore, come potrò ancora resistere di fronte alla tua infinita umiltà? Tu che, Creatore, hai obbedito alle tue creature, insegnami a piegare la mia testa superba ed ad obbedire volentieri ai miei superiori. Tu che ti sei abbassato dal cielo alla terra, dammi la grazia di abbassarmi, di scendere una buona volta dal piedistallo del mio orgoglio. Come posso sopportare di vedere te, mio Dio e Creatore, farti tanto piccolo e umile, quando io, nulla e peccato, mi servo di quel che ho da te ricevuto per inalzarmi al di sopra degli altri, per antepormi e preferirmi anche a chi mi è superiore?
+
+[^1]: Spostare questa meditazione secondo il calendario dell'anno.

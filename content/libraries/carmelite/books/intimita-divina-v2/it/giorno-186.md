@@ -1,4 +1,4 @@
-## XVII — LO SPIRITO SANTO
+## XVII — LO SPIRITO SANTO[^1]
 
 *Triduo di Pentecoste*
 
@@ -27,3 +27,5 @@ ricordarsi d'altro, intender altro, volere altro che la divina carità. Oh, chi 
 «O Spirito Santo. Tu vieni a noi per amorosa operazione di grazia... e vieni come fonte diffondendoti nell'anima e l'anima si sommerge in te. E siccome due fiumi, sboccando, si uniscono insieme, sì che il minore di essi lascia il suo nome, ossia, perde il nome pigliando quello del maggiore, così fai Tu, o Spirito divino, che vieni nell'anima per unirti con lei. Ma bisogna che l'anima, ch'è la minore, perda il suo nome e lo lasci a te, Spirito Santo, e lo farà trasformandosi in te, fino a diventare una stessa cosa con te.
 
 «O Spirito Santo, ti vedo discendere nell'anima, sì come fa il sole, il quale non trovando ostacolo, né impedimento, va illuminando ogni cosa; discendi a guisa d'una saetta infocata la quale, cadendo, se ne va nel più profondo luogo che trova e in quello si riposa, non fermandosi per via, né posandosi in luoghi montuosi, né alti, ma bensì nel centro della terra. Così Tu, Spirito Santo, discendendo dal cielo con le saette infocate del tuo divino amore, non ti riposi nei cuori superbi e nelle menti altere, ma bensì poni la tua dimora nelle anime umili e spregevoli ai loro occhi» (S. M. Maddalena de' Pazzi).
+
+[^1]: Vedi nota a pag. 5.

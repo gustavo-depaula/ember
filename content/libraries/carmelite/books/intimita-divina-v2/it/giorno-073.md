@@ -1,4 +1,4 @@
-## 73 — LA PENITENZA
+## 73 — LA PENITENZA[^1]
 
 **Presenza di Dio.** — *O Gesù che vai in cerca del figliuol prodigo, non disprezzare il mio cuore pentito ed umiliato, ma purificalo nel bagno salutare del tuo preziosissimo Sangue.*
 
@@ -18,4 +18,7 @@
 
 «O fonte dell'amore, o amantissimo Signore Gesù Cristo, Tu ridondi di tanta e sì ineffabile bontà, che sempre, amandoci, ci previeni; se ti cerchiamo, a noi ti presenti e ci vieni incontro; Tu ami e l'immensa tua carità si estende fino ai nemici. A nessuno rifiuti di dare te stesso; nessuno disprezza, ma tutti chiami e ricevi con volto amico. La tua carità è tanto immensa ed esuberante, che quelli che miseramente giacevano nel peccato Tu aspetti a penitenza e spesso, benchè si ribellino, li forzi a ritornare.
 
-«Degnati, dunque, di aiutarmi, o misericordiosissimo Signore Gesù Cristo, fuoco e luce d'amore; accendi ed illumina il mio cuore duro e ribelle al tuo amore, sì che, col tuo aiuto io dolga, per tuo amore, dei miei peccati; ne faccia penitenza, mi dia con cuore puro, umile ed amante alla pratica delle opere a te grate, affinchè, prevenuto, assistito e seguito dalla tua grazia, viva nella presente vita del tuo amore e, questa finita, ottenga, per la tua misericordia la vita eterna, per amarti nella gloria» (Ven. Raimondo Giordano).
+«Degnati, dunque, di aiutarmi, o misericordiosissimo Signore Gesù Cristo, fuoco e luce d'amore; accendi ed illumina il mio cuore duro e ribelle al tuo amore, sì che, col tuo aiuto io dolga, per tuo amore, dei miei peccati; ne faccia penitenza, mi dia con cuore puro, umile ed amante alla pratica delle opere a te grate, affinchè, prevenuto, assistito e seguito dalla tua grazia, viva nella presente vita del tuo amore e, questa finita, ottenga, per la tua misericordia la vita eterna, per amarti nella gloria» (Ven. Raimondo Giordano).[^2]
+
+[^1]: Non parliamo qui dell'Eucaristia, trattandone ampiamente nel IV volume. Quanto alla penitenza, l'argomento è completato nel II volume dalla meditazione: «La confessione».
+[^2]: Antico autore, noto nella letteratura ascetica sotto lo pseudonimo di «Idiota».

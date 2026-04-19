@@ -1,6 +1,6 @@
 ## 37 — IL NOME DI GESÙ
 
-*2 gennaio*
+*2 gennaio*[^1]
 
 **Presenza di Dio.** — *O Gesù, fammi comprendere i misteri ed i tesori racchiusi nel tuo dolcissimo nome.*
 
@@ -23,3 +23,5 @@ Rispondendo a tale invito, il cuore di ogni cristiano deve esaltare il nome sant
 O Signore, il tuo nome è buono e fa' che la sua bontà renda me, indegna creatura, capace di amarlo e di lodarlo con tutto il cuore.
 
 Voglio che ogni mia opera cominci e termini nel tuo nome, che tutti i miei affetti, desideri, imprese, gioie e dolori abbiano il tuo nome sul loro suggello; ma soprattutto, ti supplico, imprimi il tuo nome nel mio cuore e nella mia mente perché sempre ti ami e pensi a te.
+
+[^1]: Spostare questa meditazione secondo il calendario dell'anno.

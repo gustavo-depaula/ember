@@ -14,7 +14,7 @@ Anche S. Paolo ha detto: «siete morti, e la vita vostra s'è nascosta con Crist
 
 La ricerca amorosa di Dio nascosto in noi va di pari passo con questa morte al mondo ed a noi stessi. Più si muore e più si trova Dio.
 
-**2** — S. Giovanni della Croce continua: «Chi cerca una cosa nascosta, deve penetrare di nascosto sino al nascondiglio dove sta, è quando la trova anch'egli è nascosto come quella. Giacché dunque l'amato tuo Sposo è il tesoro nascosto, nella vigna dell'anima tua, per acquistare il quale l'accorto mercante vendé tutti i suoi beni, bisognerà che anche tu, *dimenticando tutte le tue cose e allontanandoti da tutte le creature,* ti nasconda, a fine di trovarlo, nell'intimo ritiro del tuo spirito» *(C.* 1, 9). È un nuovo invito al distacco — *dimenticare, allontanarsi* da tutte le cose — *per penetrare* nelle profondità dell'anima, nel nascondiglio dove Dio si cela.
+**2** — S. Giovanni della Croce continua: «Chi cerca una cosa nascosta, deve penetrare di nascosto sino al nascondiglio dove sta, è quando la trova anch'egli è nascosto come quella. Giacché dunque l'amato tuo Sposo è il tesoro nascosto, nella vigna dell'anima tua, per acquistare il quale l'accorto mercante vendé tutti i suoi beni, bisognerà che anche tu, *dimenticando tutte le tue cose e allontanandoti da tutte le creature,* ti nasconda, a fine di trovarlo, nell'intimo ritiro del tuo spirito» *(C.* 1, 9).[^1] È un nuovo invito al distacco — *dimenticare, allontanarsi* da tutte le cose — *per penetrare* nelle profondità dell'anima, nel nascondiglio dove Dio si cela.
 
 Noi viviamo troppo all'esterno, troppo spesso c'è in noi tutto un mondo di tendenze, d'impulsi, di passioni molto vive, che ci spingono verso le creature e c'inducono a dare ad esse il nostro cuore, a porre in loro la nostra speranza, a cercare il nostro conforto nel loro ricordo. E viviamo in questo mondo superficiale, che ci occupa a tal punto da farci dimenticare la vita più profonda, vita veramente interiore, dove l'anima potrebbe stare in intima unione col suo Dio. Il Signore ci aspetta, per così dire, nel fondo dell'anima nostra, ma noi non entriamo in questo fondo, presi come siamo dai «nostri affari» ai quali diamo tutto il nostro interesse.
 
@@ -35,3 +35,5 @@ Quale nuova luce, Dio mio! Come vedo bene che questa salita, questo monte di per
 Sarà dunque troppo distaccarsi da tutto, lasciare tutto per trovare te, o mio Dio? Ma quale conforto alla mia debolezza sapere che in questo aspro cammino di totale rinuncia non sono solo: Tu sei sempre con me. O Padre, sii Tu la mia forza; o Verbo, sii Tu la mia luce; o Spirito Santo, sii Tu il mio amore.
 
 O Santissima Trinità, sei il mio grande tesoro, per trovare il quale è ben poco vendere tutte le cose di questa terra!
+
+[^1]: Cfr. P. Gabriele di S. M. Maddalena: *L'Unione con Dio secondo S. Giovanni della Croce*, 2ª ed., Carmelo S. Giuseppe – Roma, 1956.
