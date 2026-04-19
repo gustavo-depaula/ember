@@ -1,0 +1,18 @@
+{
+	"sections": [
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "The Book and the Silence",
+				"pt-BR": "O Livro e o Silêncio"
+			}
+		},
+		{ "type": "prose", "file": "sections/student-and-pray-er" },
+		{ "type": "divider" },
+		{ "type": "prose", "file": "sections/why-it-goes-this-way" },
+		{ "type": "divider" },
+		{ "type": "prose", "file": "sections/prayer-of-the-full-mind" },
+		{ "type": "divider" },
+		{ "type": "prose", "file": "sections/learning-not-to-instruct" }
+	]
+}
