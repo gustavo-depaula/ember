@@ -1,0 +1,29 @@
+## 56 — JESUS WELCOMES ALL
+*Third Sunday after Epiphany*
+
+### Presence of God
+
+I come to You, O Jesus, good Shepherd: lead me to the pastures of eternal life.
+
+### Meditation
+
+1 — Today's Gospel (Mt. 8, 1-13) presents two miracles of Jesus: they are profound lessons in humility, faith, and charity.
+
+Behold the humble faith of the leper: "Lord, if You will, You can cleanse me." He is so sure that Jesus can heal him that he sees no other condition for his healing than Jesus' will. Christian faith does not lose itself in useless reasonings; it has a very simple logic: God can do all that He wills; it is enough, therefore, that He will it. And the leper does not even insist that Jesus will it; one who lives by faith knows that God's will is always the best thing for us, even if it leaves us in suffering, and therefore, more than insisting, he prefers to abandon himself to divine good pleasure.
+
+Next comes the centurion: the proud and powerful Roman soldier is not ashamed to go personally to supplicate Jesus, a Galilean, for his paralyzed servant. Jesus, moved by this humble and charitable act, immediately says: "I will come and heal him." But the centurion replies: "I am not worthy that You should enter under my roof, but only say the word and my servant shall be healed"; here humility becomes even deeper and faith reaches its summit: there is no need for the Lord to move; His power is so great that one word of His spoken at a distance is enough to work any miracle. Jesus Himself "marveled" at this and said: "Truly I tell you, I have not found such great faith in Israel!" Is this not a lament of the Savior for those who live so near Him, perhaps in His house, receiving continual benefits from Him, while their faith often remains languid and therefore ineffective?
+
+2 — According to Jewish law lepers were segregated from society and no one was to approach them; pagans, moreover, were to be avoided because they did not belong to the chosen people. Jesus breaks the old law and, in the name of universal charity, receives and heals the leper, listens to the foreign centurion, heals the pagan servant. Thus He teaches us not to make distinctions of persons, not to despise sinners and unbelievers, but to welcome all with loving benevolence. Jesus teaches us not to form a closed circle among the good, but to throw open doors to everyone, to benefit all without distinction of party or ideas: all are, like us, children of God, and as the heavenly Father's mercy extends over all, so our charity must extend to all. This idea dominates today's Epistle (Rom. 12, 16-21), in which St. Paul exhorts us to practice charity particularly toward those who oppose us: "Repay no one evil for evil... As far as it depends on you, be at peace with all men, never avenging yourselves... But if your enemy is hungry, feed him... Do not be overcome by evil, but overcome evil with good."
+
+Jesus overcame evil, physical and moral evil, with mercy, with love, by healing and benefiting everyone. This must be our tactic; whatever evil surrounds us and causes us to suffer, we shall never conquer it through discussions, disputes, positions taken and sustained by force; but only through a delicate charity capable of intuiting others' mentality, tastes, needs, of intervening at the opportune moment, of condescending and always sacrificing itself for the good of any person, even one hostile to us.
+
+### Colloquy
+
+"Great God, how weak our faith is!... We are so made that at times our free will refuses what You, Lord, give us, because it is not according to our pleasure, even if these are things that would be best for us... No, my God, no, no more trust in my personal desires! You choose for me all that You will be pleased to will: this too I will, because all my good lies in pleasing You, while I would certainly be lost if You wanted to please me by giving me what I desire" (T.G. Cam. 30, 2; Es. 17, 2).
+
+O Jesus, I entrust myself to You, I abandon myself to You; dispose of my person, my health, and all my things as You know best for my spiritual profit. I ask insistently only one thing: heal this poor soul of mine. I too am, in spirit, somewhat leprous, somewhat paralyzed: my self-love, my vanity always try to infect, to gnaw at that little good I do; sloth and inertia seek to paralyze my impulses toward perfection. Here I am before You, in need of Your intervention like the leper and the paralyzed servant. I too, Lord, believe that if You will, You can heal me.
+"Although so miserable, I firmly believe that Your power extends to all that You will: the greater the wonders I hear said of You, the more my faith is strengthened in the thought that You can do still greater ones, and the more I am confirmed in hope that You will grant my request" (T.G. Es. 4, 2).
+
+And then, O Jesus, I ask You for a little of Your charity, so full, so universal, so benevolent toward everyone: You well know the difficulties I sometimes meet in practicing this virtue, especially regarding those persons who so greatly clash with my way of thinking and acting. O Lord, fill my heart with cordial and sincere goodness toward them. Only the charity that comes from You will give me strength to overcome all clashes that derive from differences of temperament, education, and views, to sacrifice myself generously for those who make me suffer, to continue surrounding with benevolence those who reject me.
+
+O Jesus, who came to earth to kindle the fire of charity, kindle in me a living love for all my neighbor.

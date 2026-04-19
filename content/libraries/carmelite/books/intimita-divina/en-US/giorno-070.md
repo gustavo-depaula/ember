@@ -1,0 +1,32 @@
+## 70 — THE BOND OF PERFECTION
+*Fifth Sunday after Epiphany*
+
+### Presence of God
+
+My God, grant that before every other thing I may desire and seek the perfection of love.
+
+### Meditation
+
+1 — Today's Epistle (Col. 3, 12-17) recalls us to the Christian's fundamental duty: charity. Of little worth are all programs and resolutions of spiritual life if they are not animated by love and do not lead to perfection of love. Of little worth are detachment, mortification, humility, and all other virtues if they do not dispose the heart to a charity deeper, fuller, more expansive. "Above all," recommends St. Paul, "put on love, which is the bond of perfection"; not only love toward God, but also love toward neighbor; indeed, it is precisely under this aspect that in today's Epistle the Apostle speaks of charity, showing with such finesse how all our relations with neighbor must be inspired by love. "Put on, as God's chosen ones, holy and beloved, heartfelt mercy, kindness, humility, modesty, patience, bearing with one another and forgiving one another, if anyone has a complaint against another." The characteristic of God's chosen ones, of the holy and beloved, is precisely fraternal love; without this distinctive mark Jesus does not recognize us as His disciples, the heavenly Father does not love us as His children, nor will He introduce us into His kingdom. Spiritual life requires use of many means, involves exercise of many virtues, but one must be careful not to get lost and stop in particulars, forgetting the greater for the lesser, that is, forgetting love which must be the foundation and end of all. What would spiritual life be worth, and consecration to God itself, what would religious vows be worth if they did not help souls to tend toward perfect love?
+
+Here is the perfect love that the Apostle asks us to have toward neighbor: mercy, compassion; mutual and cordial forgiveness that leaves no place for divisions and frictions, that overcomes clashes, forgets offenses; long-suffering charity that makes any sacrifice and overcomes any difficulty in order to live in accord with all, because in Christ we all form "one body," because we are all children of the same heavenly Father.
+
+Such fraternal charity is the surest guarantee of a spiritual life advancing toward holiness.
+
+2 — The Epistle has presented us the ideal of Christian life, an ideal of love that must unite all the faithful in one heart; the Gospel (Mt. 13, 24-30) shows us the practical ground on which this ideal must be lived.
+
+"The kingdom of heaven is like a man who sowed good seed in his field. But... his enemy came and sowed tares among the wheat." In the world, His field, God has sown good with full hands, has sown grace and love, has sown desires for total self-gift, ideals of apostolic life, of religious life, of holy life. But in the midst of so much good the enemy came to sow evil. Why does God permit this? To sift His servants as grain is sifted, to put them to the test.
+
+At times we are scandalized seeing evil insinuate itself even into the best environments, seeing that even among God's friends, among those who should edify others, there are some who behave unworthily; then, full of zeal, like the servants in the parable, we would like to remedy this and gather up the tares: "Do You want us then to go and gather them?" But God answers us: "No, lest in gathering the tares you perhaps uproot the wheat as well." The tares are spared not because they are good, but out of regard for the wheat; thus God spares the wicked and does not remove them precisely for the good of His chosen ones. In asking us to bear patiently certain situations, as inevitable as they are deplorable, God asks us for one of the greatest exercises of charity, compassion, mercy. God does not tell us to make common cause with evil, to ally ourselves with the tares, but tells us to bear them with the long-suffering with which He Himself bears them. Was there not a traitor in the apostolic college? Yet Jesus wanted him among His intimates, and with what love He treated him! The highest charity is exercised toward those who by their bad conduct give us many occasions to forgive, to return good for evil, to suffer injustices for love of God. Moreover, we must consider that, while it is impossible for tares to turn into wheat, it is always possible for the wicked to convert into good. Did not Magdalene, the good thief, and Peter himself who had denied Jesus convert? This is one of the strongest reasons impelling us to goodness toward all. Love, when perfect, allows us to live beside the wicked without harshness, without quarrels, without undergoing their influence, but rather doing them good.
+
+### Colloquy
+
+"O Lord Jesus, who, being most noble, most beautiful, most innocent, loved me, most base, most ugly, and full of deformity through sin, teach me to emulate Your immense charity so that I may love with sincere and cordial affection my neighbors even if defective and guilty, not excluding even those who lead blameworthy lives.
+
+"Teach me to love all for love of You and then I shall never lack motives of great benevolence, even though I had to deal with rough, foolish persons full of every other imperfection. Only by fixing my gaze on You, Lord God, object of infinite love, shall I be able to overcome all annoyances and difficulties I meet in contact with neighbor.
+
+"O Jesus, who adapted Yourself to my misery by becoming man and clothing Yourself with my fragile nature, teach me to adapt myself to my neighbor by patiently bearing his defects and striving to correct my own, and to remove from my conduct all that can displease others" (Venerable John of Jesus Mary).
+
+"O Lord, how far I still am from true charity and humility! You teach me that it is no great thing to get along with meek and good men; this naturally pleases everyone and each one gladly lives in peace and loves more those who think as he does. But instead, it is a great grace, manly virtue and worthy of much praise to know how to live in peace with obstinate, perverse, undisciplined people and with those contrary to us.
+
+"Grant me, Lord, I beg You, this grace, without which I cannot long preserve peace with my neighbor, but will always be ready to become angry and indignant. Oh, how I should rather correct myself than resent others' failings! How I should bear others' defects, if in my turn I wish to be borne with!" (cf. Imit. II, 3, 2).

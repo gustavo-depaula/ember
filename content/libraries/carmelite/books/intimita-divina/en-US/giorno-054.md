@@ -1,0 +1,27 @@
+## 54 — THE DEMANDS OF JESUS' TEACHING
+
+### Presence of God
+
+Jesus, make me understand and then give me strength to put Your teachings into practice.
+
+### Meditation
+
+1 — By inviting us to imitate the holiness of the heavenly Father, Jesus commits us to a deep struggle against sin, which is directly opposed to God's infinite perfection and is His greatest offense. In all His teaching He inculcates in us a deep hatred of sin and above all of pride, hypocrisy, and willful, obstinate malice, which constitute a state of complete opposition to God. This is why He, so merciful with sinners, launches words of fire against the Pharisees: "Woe to you, scribes and Pharisees, hypocrites, because you are like whitewashed tombs... Serpents, brood of vipers, how will you escape the condemnation of Gehenna?" (Mt. 23, 27 and 33). He then describes the ugliness of sin and brings to light the disastrous effects it produces in man by reducing him to a state of extreme moral misery: behold the prodigal son who, for having abandoned his father, is reduced "to feeding swine" (Lk. 15, 15).
+
+"Whoever commits sin," Jesus says, "is a slave of sin" (Jn. 8, 34); the slave of sin cannot be a servant of God, and therefore the Master insists: "No one can serve two masters, for either he will hate the one and love the other" or vice versa (Mt. 6, 24).
+
+Jesus, our Savior, came to destroy sin and He destroys it by His death; and by His death itself He shows us in the clearest way the enormous malice of sin. Sin is such an enemy of God and has such tremendous destructive force as to cause the death of the divine Master.
+
+2. — Only mortal sin is in complete opposition to God, and so complete that it removes Him from the soul of the one who commits it; but in itself every sin, even venial, every fault or failing is always in contrast with God's infinite holiness.
+
+On the other hand, our nature, wounded by the consequences of original sin, carries in itself the germ of sin in the form of tendencies or bad habits. Therefore, if we want to follow Jesus who presents to us the perfection of the heavenly Father as the norm of our life, we must engage in a deep struggle against sin to destroy it in us down to its roots and in all its forms, even the slightest. This is precisely what Jesus teaches us with the brief word: "deny yourself." It is a matter of denying our self in all its defective inclinations and habits, and of denying it continually. This work costs effort and is painful, but it is indispensable for arriving at holiness. Jesus says: "Narrow is the gate and constricted the way that leads to life, and few are those who find it" (Mt. 7, 14). Only in the measure in which we know how to tread this path of total self-denial shall we approach God's infinite perfection. For this reason all masters of the spiritual life strongly insist on detachment, stripping, renunciation of self, and make this work the indispensable basis of every spiritual life; for this reason, to the soul that wants to attain union with God, St. John of the Cross proposes the harsh path of "nothingness."
+
+But before all others, Jesus, the divine Master, showed us the absolute necessity of passing by this way: "If anyone wants to come after Me, let him deny himself" (Mt. 16, 24).
+
+### Colloquy
+
+O Jesus, I beg You to infuse into my soul a deep and sincere hatred of sin, of every form of sin, so that I may truly be disposed to prefer every kind of suffering and even death to any offense against God. Make me understand, O divine Master, that evil, the only true evil that can happen to me and from which I must ceaselessly pray to be delivered, is sin, because sin is Your enemy, Your enemy to the point that it scourged You, crowned You with thorns, nailed You to the cross, made You shed all Your blood, made You die amid atrocious torments. O Jesus, You who taught us to ask the heavenly Father, "deliver us from evil," interpose Your most powerful intercession, show Your Father and our Father the still-bleeding wounds of Your Passion and obtain, obtain for me and for all Your faithful the deliverance from the terrible evil of sin. O Jesus, and shall I perhaps make distinctions between grave sin and venial sin, between sin and imperfection?
+
+"But what can there ever be that is small when one offends so great a Majesty, whose eyes are always fixed upon us? With this consideration, sin is already far too premeditated. It is as though I said: 'Lord, I know that this displeases You, I understand that You see me, I know that You do not want it, I am fully convinced of it, but I want to do it anyway: I prefer to follow my whim and my appetite rather than Your will.' O Lord, from deliberately willed sins, however small, deign to preserve me" (T.G. Cam. 41, 3).
+
+But then, O Jesus, with Your help, I want to press deeper into the struggle against sin, seeking to conquer in myself all tendencies, inclinations, and bad habits. This requires continual self-denial, but with Your help I am ready to undertake it. It is true that this means denying my self, but for the purpose of pleasing God: saying no to my bad nature, but to prefer the holy will of the heavenly Father, His inspirations, His desires. It is a matter of dying to myself in order to live for You, O Jesus! And if I truly love You, how can I find this total renunciation too hard? Oh, grant that I too, with St. Paul, may say: "I count all things loss and vanity, I esteem all things rubbish and renounce all things in order to gain Christ and live in Him" (cf. Phil. 3, 8-9).

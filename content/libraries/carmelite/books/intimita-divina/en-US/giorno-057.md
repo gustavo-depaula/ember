@@ -1,0 +1,29 @@
+## 57 — "I AM THE WAY"
+
+### Presence of God
+
+O Jesus, my sweet Master, take me by the hand and lead me to the Father: You alone are the way of salvation and holiness.
+
+### Meditation
+
+1 — Jesus is not only the Master who teaches us to tend toward the perfection of the heavenly Father, but He is the living model of this perfection. Men, however holy they may be, are always by nature so limited and imperfect that they cannot serve us as complete models, and God, who is holiness itself, we cannot see. And so the Son of God, His living image, by becoming man, embodies in Himself God's infinite perfection. In Jesus we see, know, and, so to speak, touch God's holiness: divine perfection, which escaped our experience and was inaccessible to our senses, we find living, concrete, tangible in Christ the Lord. The Father presented Him to the world as His beloved Son in whom He is well pleased, precisely because He sees in Him the perfect image of Himself, of all His infinite perfections; the Father, therefore, gives Him to us not only as Master, but also as Model, since from eternity He has "predestined us to be conformed to the image of His Son" (Rom. 8, 29).
+
+Jesus Himself declared Himself our only Model: "I am the way... no one comes to the Father except through Me" (Jn. 14, 6): He, by His example, shows us how on this earth we can approach divine perfection.
+
+And He expressly told us that we must imitate Him: "I have given you an example, so that you also may do as I have done to you" (ibid., 13, 15); "Learn from Me, for I am meek and humble of heart" (Mt. 11, 29). By imitating Jesus we imitate the heavenly Father; by striving to practice virtues as He practiced them, we draw near God's infinite perfection; by conforming ourselves to Christ's image, we conform ourselves to God's image.
+
+2 — In the Acts of the Apostles it is said that Jesus "began to do and to teach" (1, 1): all His actions are model for ours; the virtues Jesus proposes to us He Himself practiced first, in the highest degree, in a most perfect manner. And after doing, He taught us to do as He did: His doctrine shows us precisely what our conduct must be so as to resemble His. Therefore all Christian tradition proclaims that the way of holiness is imitation of Christ. St. John of the Cross teaches: "First of all, the soul must nourish a continual and living desire to imitate Christ in everything, conforming itself to His life, which should be well considered in order to imitate it, and to conduct oneself in every occurrence neither more nor less than He would conduct Himself" (S.I, 13, 3).
+
+It is not, however, a matter of a purely external, material imitation of Jesus' actions, but one must come to study, to penetrate the intimate dispositions of His Soul in order to make them ours, according to St. Paul's counsel: "Have in yourselves that mind which was also in Jesus Christ" (Phil. 2, 5). In this way imitation of Jesus grasps in Him what is most profound and vital, namely the intimate dispositions that constitute the interior principle of all His actions; and, on the other hand, it is accessible to all in whatever state and condition of life, whereas material imitation of Jesus' actions can never be complete and always varies according to the circumstances in which each person finds himself.
+
+### Colloquy
+
+"O Christ, eternal truth, what is Your doctrine? And what is the way by which You invite us and by which it is fitting for us to go to the Father? I can see no other road but that which You have paved with true and real virtues: with the fire of Your charity, You, eternal Word, have beaten it down with Your Blood: this is the way.
+
+"O sweet and loving Word, You say to me: 'See that I have made the way for you and opened the door with My Blood: do not therefore be negligent in following it. But take the way traced by Me, eternal Truth, and beaten down with My Blood.' Arise then, my soul, and follow your Redeemer, since no one can go to the Father except through Him. O sweet Christ, Christ love, You are the way and the door through which we must enter to reach the Father" (St. Catherine of Siena).
+
+O Jesus, You are truly my model, my way! All that You revealed to us of the Father's infinite holiness, all that You taught us, I see incarnate in Your life, in Your actions; what a good Master You are, and how You adapt Yourself to my weakness that needs not only to know, but to see concretely what it must do! If it costs me to humble myself, behold You present Yourself to me reduced to an helpless, poor Child in a manger, in an enclosure for animals; or You show me the long years spent in the workshop of Nazareth, the humiliations in tribunals and on the cross; if I find it repugnant to obey, behold I see You, my God, obeying Mary and Joseph, Your creatures, obeying and submitting Yourself, like a meek Lamb, to judges and guards; if it is difficult for me to practice fraternal charity, I have only to contemplate You while You surround with most loving care the most obstinate sinners and Your fiercest enemies. In You, O Jesus, I find everything: I find life, I find teaching, I find example. In You I possess and see my God, in You I have the Mediator who leads me to God, in You the Master and Model of holiness.
+
+O Jesus, permit me to tell You that as the Father delights in You, so You are for me, Your poor creature, the unique object of my delight: all that I seek I find in You; You alone are enough for me.
+
+Grant, Lord, that Your sweet figure may always be impressed in my mind and heart, grant that my interior gaze may always be turned to You, so that in everything I may model myself on You, my Master, my Model, my Way!

@@ -1,0 +1,29 @@
+## 15 — O SENHOR ESTÁ PERTO
+*III domingo do Advento*
+
+### Presença de Deus
+
+O Senhor aproxima-se cada vez mais da minha alma com o convite da sua graça; também eu quero aproximar-me dele, reavivando os meus desejos e a minha fé.
+
+### Meditação
+
+1 — "Esperamos por ti, Senhor: o teu nome e a tua memória são o desejo da alma. A minha alma te desejou na noite, mas também com o meu espírito e com o meu coração me voltarei para ti desde a manhã" (BR.).
+
+Se também tu, alma consagrada, te preparas para comemorar a Encarnação do Verbo nesta amorosa e vigilante espera, mais festivo do que nunca soará hoje ao teu ouvido o feliz anúncio: "O Senhor já está perto, vinde, adoremo-lo!" Toda a liturgia de hoje te convida a alegrar-te pela aproximação do Redentor: "Alegrai-vos sempre no Senhor, repito, alegrai-vos... o Senhor está perto!" Assim começa a Santa Missa de hoje, assim repete a Epístola (Fil. 4, 4-7); e o motivo da alegria é único: "o Senhor está perto!" Para a alma que com sinceridade e empenho, com vivo desejo e amor, espera e busca somente Jesus, um só pode ser o motivo da sua alegria: saber que Jesus lhe está perto, cada vez mais perto. Também São Paulo nos admoesta a não desejar outra coisa: "O Senhor está perto. Não vos aflijais por coisa alguma... E a paz de Deus, que supera todo entendimento, guardará os vossos corações".
+
+Quanto mais a alma concentra em Deus os seus desejos e afetos, tanto mais se liberta das solicitações terrenas; já não se afana por coisa alguma, pois sabe que uma só coisa é necessária: "buscar Deus" e que em Deus encontrará tudo aquilo de que necessita; por isso a aproximação do Senhor é para ela fonte não só de viva alegria, mas também de paz: nele tem tudo, Deus lhe basta.
+
+2 — "O Senhor está no meio de vós" é a segunda feliz mensagem da liturgia do dia. Ela nos é dirigida, no Evangelho de hoje (Jo. 1, 19-28), pela boca do Batista: "No meio de vós está alguém que vós não conheceis". João dirigia estas palavras aos judeus que não conheciam Jesus, que ainda não se manifestara com milagres, e no entanto, já havia cerca de trinta anos, Ele vivia no meio deles; o Batista — homem de fé — aponta-o com plena segurança.
+
+As suas palavras valem também para nós; também no meio de nós Jesus está presente: presente nos seus tabernáculos com a Eucaristia, presente nas nossas almas com a graça. Mas quem o conhece? Só quem crê. Reaviva, pois, a tua fé: encontrarás Jesus, conhecerás Jesus na medida da tua fé nele. Jesus às vezes se esconde ao teu olhar interior, parece que não se deixa mais encontrar, nem sentir: é então o momento de redobrar a fé, de caminhar "na fé nua". "Bem-aventurados os que creram sem terem visto" (Jo. 20, 29). Tal foi a fé do Batista, que não tinha visto os milagres de Jesus e, no entanto, cria. Tal foi a fé de Maria SS.ma, à qual alude a antífona das Vésperas de hoje: "Bem-aventurada és tu, ó Maria, que creste no Senhor; cumprir-se-ão em ti as coisas que te foram ditas!".
+
+Também Nossa Senhora viveu de fé; teve de crer nas palavras do Anjo e, aceitando tornar-se Mãe de Deus, teve de ir ao encontro de um mistério que não entendia. Mas Maria creu e, por sua fé, cumpriram-se nela as palavras de Deus. Assim será contigo: verás cumprir-se as tuas esperanças, poderás realizar o teu ideal de íntima união com Deus se tiveres fé nele e nas suas promessas.
+
+### Colóquio
+
+"A minha alma suspira por ti, meu Deus, Deus forte, Deus vivo. Vigio e anelo por ti desde a aurora. De ti tem sede a minha alma; por ti anseia a minha carne, como terra sedenta e sem água. És Tu que procuro, Senhor; sem ti este mundo é um deserto queimado pelo sol e pela sede, onde nada pode saciar-me. Só Tu és a minha salvação, o meu refúgio, o meu Salvador e Redentor. Por ti suspiro noite e dia, a ti continuamente dirijo os meus desejos, os meus afetos. Como os olhos da serva estão sempre voltados para as mãos da senhora, assim os meus olhos vão sempre buscando o teu rosto. Mostra-me a tua face, Senhor, e com o teu olhar ilumina o meu caminho; sê Tu a minha luz e a minha força.
+
+"Vem, Senhor, e não tardes mais; desperta o teu poder e vem salvar-nos. Vem, como prometeste, e sê a nossa salvação. Tu és o nosso Salvador, apagarás todas as nossas iniquidades e lançarás no fundo do mar todos os nossos pecados. Descerás como chuva sobre o velo e nos trarás justiça e paz... Tu serás o meu guia e o meu pastor, ensinar-me-ás os teus caminhos e eu caminharei nas tuas veredas. A tua próxima vinda enche-me de alegria e a minha alma exulta em ti, meu Deus e meu Salvador. Ó Senhor, Tu me alegras com tudo o que fazes e eu exulto pela tua obra. Quão magníficas são as tuas obras, quão grande é a tua misericórdia!" (BR.).
+
+Eu creio em ti, confio em ti, meu Deus e Salvador. Busco-te, mas sei que já estás perto de mim, em mim. Perto de mim, oculto sob os véus eucarísticos; em mim, com a graça. Ó Senhor, faze que eu te conheça! Não permitas que se verifique em mim o que acontecia com os judeus: Tu vivias no meio deles e eles não te conheciam. Faze que a minha alma esteja sempre desperta na fé; aumenta a minha fé, porque a fé é a luz pela qual posso conhecer-te nesta terra. Tu estás em mim, Senhor, eu o sei, eu o creio, ainda que não te sinta; mas se quiseres, podes iluminar com a tua luz a minha alma e fazer-me conhecer a tua divina, misteriosa presença.
+"Tu és aquela luz acima de toda luz, com a qual dás ao olho do intelecto luz sobrenatural, com tanta abundância e perfeição que esclareces a luz da fé. Na fé a minha alma tem vida e nela recebe e conhece a ti. Na luz da fé adquiro a sabedoria na sabedoria do Verbo. Na luz da fé sou forte, constante e perseverante. Esta luz não me deixa desfalecer no caminho; ensina-me a via e sem ela eu iria nas trevas. Por isso te peço, Senhor, que Tu me ilumines na luz da santíssima fé" (Santa Catarina de Sena).

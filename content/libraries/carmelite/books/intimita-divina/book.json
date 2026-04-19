@@ -17,7 +17,9 @@
   },
   "composed": 1953,
   "languages": [
-    "it"
+    "it",
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -1978,7 +1980,9 @@
     {
       "id": "volume-6",
       "title": {
-        "it": "Volume VI — Dalla XIX all'ultima dopo Pentecoste"
+        "it": "Volume VI — Dalla XIX all'ultima dopo Pentecoste",
+        "en-US": "Volume VI — From the XIXth to the Last Sunday after Pentecost",
+        "pt-BR": "Volume VI — Da XIX ao último domingo depois de Pentecostes"
       },
       "children": [
         {
@@ -2200,79 +2204,105 @@
         {
           "id": "giorno-355",
           "title": {
-            "it": "LA FINE DEL TEMPO"
+            "it": "LA FINE DEL TEMPO",
+            "en-US": "THE END OF TIME",
+            "pt-BR": "O FIM DO TEMPO"
           }
         },
         {
           "id": "giorno-356",
           "title": {
-            "it": "IL SI PERFETTO"
+            "it": "IL SI PERFETTO",
+            "en-US": "THE PERFECT YES",
+            "pt-BR": "O SIM PERFEITO"
           }
         },
         {
           "id": "giorno-357",
           "title": {
-            "it": "IL DONO SCAMBIEVOLE"
+            "it": "IL DONO SCAMBIEVOLE",
+            "en-US": "THE MUTUAL GIFT",
+            "pt-BR": "O DOM RECÍPROCO"
           }
         },
         {
           "id": "giorno-358",
           "title": {
-            "it": "L'UNIONE TOTALE"
+            "it": "L'UNIONE TOTALE",
+            "en-US": "TOTAL UNION",
+            "pt-BR": "A UNIÃO TOTAL"
           }
         },
         {
           "id": "giorno-359",
           "title": {
-            "it": "IL TRIONFO DELL'AMORE"
+            "it": "IL TRIONFO DELL'AMORE",
+            "en-US": "THE TRIUMPH OF LOVE",
+            "pt-BR": "O TRIUNFO DO AMOR"
           }
         },
         {
           "id": "giorno-360",
           "title": {
-            "it": "L'AMORE TRASFORMANTE"
+            "it": "L'AMORE TRASFORMANTE",
+            "en-US": "TRANSFORMING LOVE",
+            "pt-BR": "O AMOR TRANSFORMANTE"
           }
         },
         {
           "id": "giorno-361",
           "title": {
-            "it": "INTIMITA DIVINA"
+            "it": "INTIMITA DIVINA",
+            "en-US": "DIVINE INTIMACY",
+            "pt-BR": "INTIMIDADE DIVINA"
           }
         },
         {
           "id": "giorno-362",
           "title": {
-            "it": "LA MADONNA DEL ROSARIO"
+            "it": "LA MADONNA DEL ROSARIO",
+            "en-US": "OUR LADY OF THE ROSARY",
+            "pt-BR": "NOSSA SENHORA DO ROSÁRIO"
           }
         },
         {
           "id": "giorno-363",
           "title": {
-            "it": "LA MATERNITA DI MARIA"
+            "it": "LA MATERNITA DI MARIA",
+            "en-US": "THE MATERNITY OF MARY",
+            "pt-BR": "A MATERNIDADE DE MARIA"
           }
         },
         {
           "id": "giorno-364",
           "title": {
-            "it": "FESTA DI CRISTO RE"
+            "it": "FESTA DI CRISTO RE",
+            "en-US": "FEAST OF CHRIST THE KING",
+            "pt-BR": "FESTA DE CRISTO RE"
           }
         },
         {
           "id": "giorno-365",
           "title": {
-            "it": "I SANTI"
+            "it": "I SANTI",
+            "en-US": "THE SAINTS",
+            "pt-BR": "OS SANTOS"
           }
         },
         {
           "id": "giorno-366",
           "title": {
-            "it": "COMMEMORAZIONE DEI FEDELI DEFUNTI"
+            "it": "COMMEMORAZIONE DEI FEDELI DEFUNTI",
+            "en-US": "COMMEMORATION OF ALL THE FAITHFUL DEPARTED",
+            "pt-BR": "COMEMORAÇÃO DE TODOS OS FIÉIS DEFUNTOS"
           }
         },
         {
           "id": "giorno-367",
           "title": {
-            "it": "PRESENTAZIONE DI MARIA AL TEMPIO"
+            "it": "PRESENTAZIONE DI MARIA AL TEMPIO",
+            "en-US": "PRESENTATION OF MARY IN THE TEMPLE",
+            "pt-BR": "APRESENTAÇÃO DE MARIA NO TEMPLO"
           }
         }
       ]

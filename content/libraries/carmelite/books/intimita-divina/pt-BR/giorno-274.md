@@ -1,0 +1,31 @@
+## 274 — PIEDADE E DEVOÇÃO
+
+### Presença de Deus
+
+Ó Deus, Pai nosso, infunde em mim o verdadeiro espírito de piedade e de devoção.
+
+### Meditação
+
+1. — A religião cristã não se limita às simples relações de uma criatura com seu Criador, relações que, dada a distância infinita entre os dois termos, permaneceriam unicamente no campo da reverência, do obséquio, sem nenhum caráter de intimidade, sem nenhum impulso confiante para Deus. O cristão sabe estar ligado a Deus por outros motivos além daquele, já tão grande, da criação, isto é, por causa da elevação ao estado sobrenatural e da Redenção. O cristão sente-se não só criatura, mas filho de Deus, redimido de Cristo, e isto confere às suas relações com Deus aquele sentido de piedade filial que é a alma de toda a sua religião.
+
+Contemplemos Jesus em suas relações com Deus: Ele se sente Filho, Filho que vive para o Pai de quem recebeu a existência: «o Pai... enviou-me e eu vivo pelo Pai» (Jo. 6, 58); Filho que não tem outro ideal senão o de cumprir a vontade do Pai, à qual adere com todo o impulso do seu coração: «Sim, ó Pai, porque assim te aprouve» (Mt. 11, 26); Filho que em todas as suas ações visa unicamente ao beneplácito do Pai: «faço sempre o que lhe agrada» (Jo. 8, 28). Jesus, o Unigênito do Pai, o único Filho de Deus por natureza, fez-nos participantes, por graça, da sua filiação divina, de modo que podemos «ser chamados e de fato somos filhos de Deus» (cf. 1 Jo. 3, 1); e se o somos, é bem justo que procuremos participar também dos sentimentos de piedade filial de Cristo para com o Pai celeste.
+
+É justamente este o tom, a característica que o divino Mestre deu à nossa religião. «Vós, pois — ensinou-nos — orareis assim: Pai nosso, que estais nos céus» (Mt. 6, 9). Ele não quer que consideremos e invoquemos Deus senão como Pai: o Pai que provê a todas as nossas necessidades; o Pai que quer ser rezado no segredo e no segredo atenderá às nossas súplicas; o Pai que vê todas as nossas ações, até as mais escondidas, e nos prepara a recompensa; o Pai que quer ser honrado mediante a observância dos mandamentos e que se compraz em pôr sua morada nas almas que o amam. A paternidade divina é o centro da religião cristã e a esta paternidade deve corresponder de nossa parte o sentido de uma profunda piedade filial: amar Deus como um filho ama seu pai, procurando agradá-lo em todas as coisas. A piedade é verdadeiramente o coração da nossa religião.
+
+2. — Se Deus quis elevar-nos ao estado de seus filhos, é justo que vivamos como tais e não como servos. O servo faz só quanto é estritamente necessário para obter o salário, para não ser despedido; o filho, ao contrário, não se preocupa com recompensa, mas, amando ternamente o pai, põe-se à sua disposição sem reservas, sem restrições. O servo é preguiçoso, avaro, procura poupar-se o mais possível e não quer dar ao senhor uma migalha além do que foi combinado. Não assim o filho: para ele não há tempo de trabalho ou de folga, para ele nada é demasiado fatigante quando se trata de agradar ao pai e, sempre pronto às suas ordens, sempre atento aos seus desejos, alegra-se por poder repetir a cada momento: «Eis que venho para cumprir, ó Deus, a tua vontade» (Hb. 10, 7). Justamente assim, em nossas relações para com Deus, a piedade filial desemboca na devoção, que é precisamente «a vontade de fazer com prontidão tudo o que pertence ao serviço de Deus» (II-II, q. 82, a. 1).
+
+Tanto a piedade como a devoção podem estar vivas na alma, mesmo que esta se sinta árida e fria na parte sensível, a ponto de cumprir todos os seus exercícios de oração e de virtude sem provar a mínima doçura ou conforto, mas experimentando antes fortes repugnâncias.
+
+Isso não deve assustar-nos; São Tomás ensina que a devoção é um ato da vontade, o qual ato pode bem subsistir apesar das aridezes, das friezas, das repugnâncias e também das rebeliões da parte inferior. O próprio São Paulo, embora tivesse sido elevado ao terceiro céu, não estava ainda totalmente livre dessas misérias e confessava: «deleito-me na lei de Deus segundo o homem interior, e vejo outra lei em meus membros que faz guerra à lei da minha mente» (Rom. 7, 22 e 23). E como Paulo, apesar dessas resistências da parte sensível, não estava privado de verdadeira piedade e de verdadeira devoção, assim não está privada delas a alma que, apesar de tudo, se mantém firme na decisão da vontade de dar-se com prontidão ao serviço de Deus. Devoção — que deriva do latim devoveo — significa precisamente consagração à divindade; e a alma se dá totalmente a Deus não mediante os impulsos e entusiasmos do sentimento, mas mediante o ato da vontade. Antes, quando a devoção é privada de todo gosto pelas coisas divinas, «vale o dobro, porque a alma cumpre igualmente as obras que deve fazer e, além disso, com a força da vontade doma o apetite sensível» (Ven. João de Jesus Maria, O.C.D.).
+
+### Colóquio
+
+Ó Deus altíssimo, que quiseste ser-me Pai, faze que eu te seja verdadeiramente filho. Filho devoto e amante, atento e dócil aos teus sinais, desejoso de servir-te e de agradar-te em toda coisa. Ó Tu que tens por mim um coração de Pai, cria em mim um coração de filho, um coração isento de temor servil, mas rico de temor filial, um coração desinteressado e generoso que tema uma só coisa: ofender-te; que deseje uma só coisa: dar-te gosto.
+
+«Que tua vontade seja o meu querer, minha paixão, minha honra! Faze que eu a busque, a encontre, a cumpra. Mostra-me teus caminhos, indica-me tuas veredas. Ó Pai, Tu tens desígnios sobre mim; manifesta-mos claramente e faze que eu os siga até obter a salvação da minha alma. Faze que me seja amarga toda alegria sem ti, impossível todo desejo fora de ti, insuportável todo repouso fora de ti, doce qualquer trabalho feito por ti.
+
+«Faze que minha piedade seja, não um hábito, mas um contínuo impulso do coração... e meu espírito, incapaz de desconhecer-te, ardente em buscar-te, saiba encontrar-te, ó Pai benigníssimo.
+
+«Oh, não te desagrade o meu falar! Que, confiante e calma, eu espere tuas respostas e, sobre tua palavra, eu repouse!» (São Tomás de Aquino).
+
+Acolhe-me, ó Pai, em teu abraço, recebe-me em tua intimidade! Faze, eu te suplico, que meu coração não se desvie quando Tu o deixares nas trevas e no desânimo, mas, sustentado por tua graça, sempre persevere em buscar-te e em servir-te de boa vontade.

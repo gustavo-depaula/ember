@@ -1,0 +1,31 @@
+## 14 — THE VIRGIN OF THE INCARNATION
+
+### Presence of God
+
+I draw near to you, Virgin Mary, with the lively desire to penetrate the mystery of your interior life, so that you may be for me light and model.
+
+### Meditation
+
+1 — "It seems to me that the recollection of the Virgin during the months that preceded the Nativity is the model of interior souls, of beings whom God has chosen to live within, in the depth of the bottomless abyss" (E.T. I, 10).
+
+If the life of the Most Holy Mary was always wholly recollected and concentrated in God, it certainly must have been so in a most particular way in that period when, overshadowed by the power of the Most High, the Word was incarnate in her womb.
+
+The Archangel Gabriel had already found Mary in solitude, in recollection. "Entering in to her," says the Gospel (Lk. 1, 28); "entering in," which presupposes that Mary was "closed" in her retreat. The Angel, in God's name, reveals to her what will be accomplished in her: "The Holy Spirit will come upon you and the power of the Most High will overshadow you, and therefore the Holy One who will be born of you will be called Son of God" (ibid., 35). From that moment God makes Himself present in Mary in an altogether singular way; it is a presence not only by essence, knowledge, and power as in all creatures; not only by grace as in the souls of the just; but more: the Word of God is in Mary by "bodily presence," as St. Albert the Great says.
+
+Mary, while remaining in her humility, is perfectly aware of the "great things" being accomplished in her; the sublime canticle of the Magnificat attests this. And yet she hides within herself the great mystery, concealed even from Joseph, and remains recollected in the intimacy of her spirit, adoring and meditating: "she kept all these things in her heart and meditated on them" (Lk. 2, 19).
+
+2 — To no creature did God "give Himself" more than to Mary, but no creature more than Mary understood the greatness of the divine "gift," and none was its more loving and faithful guardian and adorer. Thus Sister Elizabeth of the Trinity presents her to us: "If you knew the gift of God! There is a creature who knew this gift of God, who did not lose one atom of it;... she is the faithful Virgin, she 'who kept every thing in her heart.' The Father, bending down toward this creature so beautiful, so unaware of her beauty, willed that she should be in time the Mother of Him of whom He is Father in eternity. Then the Spirit of Love who presides over all God's operations came upon her; the Virgin said her fiat: 'Behold the handmaid of the Lord, be it done to me according to your word,' and the greatest of mysteries was accomplished. By the descent of the Word into her, Mary became God's prey.
+
+"With what peace, what recollection, Mary gave herself to every thing! How she divinized even the most banal, since through everything the Virgin remained the adorer of the gift of God!... This did not prevent her from applying herself outwardly when it was a matter of practicing charity; the Gospel tells us that Mary went with all haste through the mountains of Judea to visit her cousin Elizabeth. Never did the ineffable vision she contemplated within herself diminish her outward charity, because, says a pious author, 'if contemplation is directed to the praise and eternity of her Spouse, it possesses unity and will not lose it'" (E.T. I, 10).
+
+### Colloquy
+
+How I love to contemplate you thus, O Mary, wholly recollected, in profound adoration of the great mystery being accomplished in you. You are the first temple of the Most Holy Trinity, you the first adorer of the Incarnate Word, you the first tabernacle of His holy Humanity.
+
+"O Mary, Temple of the Trinity! Mary, bearer of the divine fire, Mother of mercy, you have brought forth the fruit of life, Jesus! You, Mary, are that new plant from which we have the fragrant flower of the Word, the only-begotten Son of God, because in you, fruitful earth, this Word was sown... O Mary, chariot of fire, you carried the fire hidden and veiled beneath the ashes of your humanity. If I look at you, Mary, I see that the hand of the Holy Spirit has written in you the Trinity, forming in you the Incarnate Word, only-begotten Son of God. O Mary, I see this Word given to you, being in you" (St. Catherine of Siena).
+
+"O Mary, after Jesus, and undoubtedly with the distance that runs from the infinite to the finite, you too are praise of glory to the Most Holy Trinity. You were always pure, immaculate, irreproachable in the eyes of the thrice-holy God. Your soul is so simple, has movements so deep, that they cannot be grasped. Your history can be summed up in the words of the Gospel: 'she kept these things in her heart'; you lived in the interior of your heart and at such a depth that no human gaze can follow you. When I read in the Gospel that 'you went with great haste through the mountains of Judea' to fulfill your office of charity with your cousin Elizabeth, I see you passing so beautiful, so calm, so majestic, so recollected in your heart with the Word of God! Like Him, your prayer was always: 'Ecce! Here I am!'. Who? 'The handmaid of the Lord,' the least of His creatures: you, His Mother!
+
+"You were so sincere in your humility, because you were always forgetful of yourself, unaware of yourself, free of yourself. For this you could sing: 'The Almighty has done great things in me, all generations will call me blessed'" (E.T. II, 15).
+
+O my Mother, teach me the secret of your interior life, teach me to live recollected with God present in my soul. Teach me your silence, communicate to me your spirit of adoration; near you, at your school, I too want to be the little temple of the Trinity. Help me to detach myself from creatures in order to live in silent and loving adoration of the Trinity, hidden in the innermost hiding place of my soul.

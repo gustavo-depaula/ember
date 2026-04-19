@@ -1,0 +1,29 @@
+## 281 — MAGNANIMITY
+
+### Presence of God
+
+O Lord, give me a great heart, capable of undertaking great things for You.
+
+### Meditation
+
+1. — Whoever aspires to holiness must have a broad, magnanimous heart that is not content to do little things for God and tiny acts of virtue, but desires to do great things and give Him great proofs of love. Just as there is no holiness without heroic virtue, so one cannot reach heroism without performing great acts of virtue.
+
+Certain souls think that nourishing great desires and wishing to do great things for God is pride and an illusion of the devil. It would certainly be so if one sought one's own honor and creatures' applause in it, or if, in order to do great things, one neglected the small and daily ones encountered each day in the line of duty. But it is not so. The virtue of magnanimity inclines the soul to render great services to God, never, however, at the expense of obedience, humility, and fulfillment of duty. Indeed, precisely on this line the generous soul will often meet arduous and difficult things that require much virtue and that, most of the time, remain completely hidden from creatures' eyes.
+
+Before such prospects we are often tempted to withdraw under pretext that it is not necessary to push virtue to such extremes, and we excuse ourselves by saying: we are not angels, we are not saints. "Though we are not so in truth," warns St. Teresa of Jesus, "it is always useful to think that with God's help and by our efforts we can become so" (Way 16, 11). The Saint insists strongly that those who give themselves to the spiritual life should not have narrow desires but generous ones, nor fear to emulate the saints, and she states authoritatively: "Among these [courageous] souls I have never seen one remain behind in the path of perfection, just as I have never seen one among the faint-hearted, who hide under a veil of humility, make in many years the progress the former make in very few" (Life 13, 2).
+
+2. — The contrary of magnanimity is pusillanimity or smallness of spirit, a defect that holds souls back from doing great works through excessive fear of failure. It is true we must not be rash, exposing ourselves by our own choice to undertakings beyond our strength; this too is a defect, imprudence and presumption displeasing to God. But when, through circumstances and after sufficient examination, we see clearly that the Lord wants from us certain acts of virtue or certain works, we must not withdraw, however difficult they may seem. Will not God then know how to give us strength to do what He asks? Why doubt Him?
+
+The faint-hearted person who in such occasions withdraws on the excuse of not feeling capable of so much may think himself humble, but at bottom he is cowardly, proud, and doubtful of God. Cowardly, because too preoccupied with himself he fears risk, fears exposing himself to others' criticism, fears fatigue and sacrifice. Proud, because he trusts his own mistaken judgment more than God and his grace. The humble person, instead, while aware of his nothingness, gives credit to God; and if convinced of his weakness, he is even more convinced that God can use that very weakness to accomplish worthy works. The truly humble soul, therefore, is never faint-hearted, but always magnanimous: it does not fear to stir itself to do great things for God, and this very disposition helps it greatly to progress.
+
+"Even if it has not yet much strength," says Teresa of Jesus, "it takes flight at once and rises high, although it may soon grow tired, like a fledgling bird, and let its wings droop" (Life 13, 2). It belongs to our weakness to grow tired, but if we have great trust and great love, we shall very soon raise our wings again. The fuller our trust in God, the more we become strong with divine strength; the more intense our love, the more capable we become of doing difficult things for the Lord: "Most perfect love," teaches St. Thomas, "sets hand to whatever is most difficult" (III Sent. d. 29, q. 1, a. 8). Sustained by trust and love, we can rise in lofty flight without fearing dangers and falls.
+
+### Colloquy
+
+"Oh, mighty love of God! How true it is that the lover finds nothing impossible! Happy the soul that has obtained your peace, O my God! It masters the dangers and sufferings of the world, and nothing frightens it when your service is at stake.
+
+"Your true servant, O Lord, the one enlightened and guided by You along the true road, the more he feels seized by fear on the way, the more he grows in desire not to stop. Teach me then, my God, always to go forward, to fight bravely; help me to escape the blows of the demon who tries to frighten me.
+
+"O my God, what does a soul do if it is not consumed for You? And how far I am, how — yes, I can repeat it a thousand times — how far I am from doing this! How many imperfections in me! How much tepidity in your service! Many times, not to feel so many miseries, I would wish to be without feeling. Remedy this, You who can! Pour great confidence into my heart and increase my desires so that, if I apply myself with good will and trust much in your help, I too may little by little, if not at once, reach where many saints arrived.
+
+"How true it is, O Lord, that in You all things are possible, and how clearly I understand that of myself I can do nothing! Therefore I beg You with St. Augustine: 'Give me, O Lord, what You command, and command what You will'" (St. Teresa of Jesus: Poetry 3, 4; Way 21, 9; 20, 2; Life 39, 6; 13, 23).

@@ -1,0 +1,28 @@
+## 152 — THE GOOD SHEPHERD
+*Second Sunday after Easter*
+
+### Presence of God
+
+— O Jesus, my good Shepherd, come lead me to the pastures of eternal life.
+
+### Meditation
+
+1. — Today's liturgy sums up, in the gentle figure of the good shepherd, all that Jesus has done for souls. The shepherd is everything for his sheep: their guidance, their nourishment, their protection are entrusted entirely to him; under his protection they have nothing to fear and nothing will be lacking to them.
+
+Jesus is the good Shepherd par excellence: he not only loves, nourishes, and guards his sheep, but adds to his shepherd's solicitude the loving care and tender concern of One who comes to earth more to save the lost sheep than to bring back to safety those already in the fold. Today's word of God presents him to us thus, in the act of giving his life for his sheep: He himself bore the burden of our Passion, to lead us to righteousness, healed by his wounds. "You were straying like sheep, but now you have returned to the shepherd and guardian of your souls." "I am the good Shepherd" - Jesus said - "and I lay down my life for my sheep"; and in the Office of Eastertide the Church repeatedly sings: "The good Shepherd has risen, who gave his life for his sheep and deigned to die for his flock."
+
+How could the whole work of Redemption be better synthesized? And this appears even more grand when, from Jesus' own lips, we hear declared: "I came that they may have life and have it more abundantly" (Jn. 10, 10). Truly he could repeat to each one of us: "What more was there to do for you that I have not done?" (cf. Is. 5, 4). Oh, if only our generosity in giving ourselves to Him had no limits, as his had none in giving himself to us!
+
+2. — Jesus says further: "I know mine and mine know me, as the Father knows me and I know the Father." Although it is not equality but simple likeness, it is nevertheless so comforting and glorious for us to see how Jesus loves to compare his relations with us to his relations with the Father. At the Last Supper too he said: "As the Father has loved me, so I also have loved you" and again: "As You, Father, are in me and I in You, so may they also be one in us" (Jn. 15, 9; 17, 21). This shows us that between us - the sheep - and Jesus - our Shepherd - there is not only a relationship of knowledge, but also of love and, still more, of communion of life, similar to that which exists between the Son and the Father. And to such relations with our God - so profound that they make us share in his very intimate life - we come precisely through grace, faith, and charity, which the good Shepherd obtained for us by giving his life for us.
+
+Thus, between the good Shepherd and his sheep there is established an intimate relation of loving knowledge, so intimate that the Shepherd knows his sheep one by one and calls them by name, and they recognize his voice and follow him docilely. Every soul can say: Jesus knows me and loves me not in a generic and abstract way, but in the concreteness of my needs, my desires, my life; and for Him, to know me and love me means making me good, enfolding me ever more in his grace, sanctifying me. Precisely because he loves me, Jesus calls me by name: he calls me when, in prayer, he opens new horizons of spiritual life to me, or makes me know my defects, my misery better; he calls me when he reproves or purifies me through aridity, and when he consoles and encourages me by infusing new fervor; he calls me when he makes me feel the need for greater generosity, when he asks sacrifices of me, or grants me joys, and still more when he awakens in me a deeper love for Him. Before his calls my attitude must be that of an affectionate little sheep that knows how to recognize the voice of its shepherd and always follows him.
+
+### Colloquy
+
+"O Lord, You are my Shepherd and I lack nothing; in green pastures You make me rest, by refreshing waters You lead me, You restore my soul and guide me on right paths. Even if I should walk through a dark and shadowy valley, I would fear no evil because You are with me; your rod and your staff are my comfort. You spread a table before me in spite of my enemies; You anoint my head with oil and my cup overflows" (cf. Ps. 22).
+
+"O Lord, my sweet Shepherd, what could You have done for me that You have not done? What could You have given me that You have not given me? You yourself have become my food and my drink. And what pasture, more delightful and health-giving, more nourishing and strengthening than your Body and your Blood, could I ever find?
+
+"O most benign Lord Jesus Christ, my sweet Shepherd, what shall I render You for all You have given me? What shall I give You in return for what You have made of yourself for me? Even if I gave myself to You a thousand times, it would be nothing, for I am nothing compared with You. You, so great, loved so much and with such goodness me, so small and so wretched and ungrateful! Yet, Lord, your love tends to the immeasurable, for it is infinite, since You are immense and infinite. Graciously then, O Lord, tell me in what way I must love You.
+
+"My love, O Lord, is not as great as it ought to be... Though I do not love You as I should, my weak love causes me sorrow. I shall be able to love You more when You deign to increase my virtue; but I shall never praise You as You deserve. Give me then your most ardent love, by which, with your grace, I may love You, celebrate You, serve You, fulfill your precepts, be separated from You neither in the present time nor in the future, but remain united in love for eternal ages" (Ven. R. Jordan).

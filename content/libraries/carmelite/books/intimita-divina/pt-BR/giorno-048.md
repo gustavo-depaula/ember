@@ -1,0 +1,28 @@
+## 48 — VIVER EM CRISTO
+
+### Presença de Deus
+
+— Faze-me compreender, ó Senhor, a doçura e a responsabilidade do grande dever que me impões ao comunicar-me a tua vida: morrer para mim mesmo para viver unicamente em ti.
+
+### Meditação
+
+1 — "Se alguém não nascer da água e do Espírito Santo, não pode entrar no reino de Deus" (Jo. 3, 5). A Deus e ao seu reino não podemos chegar senão por meio de Cristo e incorporados a ele: esta incorporação efetuou-se em nós "por meio da água e do Espírito Santo" no dia bendito do nosso batismo. Jesus dizia a Nicodemos: "É preciso que nasçais de novo"; e trata-se verdadeiramente de um novo nascimento, porque, por meio do batismo, recebemos um novo germe de vida. Antes do sacramento há em nós uma vida puramente humana; depois do sacramento há em nós uma participação da vida divina; incorporados a Cristo como seus membros, recebemos o Espírito Santo, que difunde em nós a graça de Cristo. "Todos vós que fostes batizados em Cristo" - escrevia S. Paulo aos Gálatas - "vos revestistes de Cristo" (3, 27). No dia do batismo nascemos em Cristo e nele nos tornamos aquela "criatura nova", nascida não da carne, mas do Espírito, nascida "não do sangue... nem da vontade do homem", mas nascida unicamente "de Deus" (Jo. 1, 13).
+
+Nascidos em Cristo, devemos viver em Cristo, devemos caminhar em Cristo, segundo a exortação do Apóstolo: "vivei nele, enraizados e edificados nele" (Col. 2, 6). O batismo nos fez nascer em Cristo; os outros sacramentos destinam-se não só a restaurar, mas também a robustecer, a enraizar, a edificar a nossa vida em Cristo.
+
+2 — "Ó Deus... concedei-nos tornar-nos consortes da divindade daquele que se dignou fazer-se participante da nossa humanidade." Podemos dizer que esta oração - que a Igreja repete no Ofertório de cada Missa - foi atendida antecipadamente, porque, desde o dia do nosso batismo, fomos feitos participantes da divindade de Cristo. Mas o dom que nos foi dado, sem nenhum mérito nosso, requer a nossa correspondência. "Reconhece, ó cristão, a tua dignidade" - exclama S. Leão - "e, tendo-te tornado participante da natureza divina, não queiras, por um modo ignóbil de viver, voltar à antiga baixeza. Lembra-te de que Cabeça e de que Corpo és membro".
+
+Tudo o que é pecado, que é falta ou negligência voluntária, desonra Cristo, nossa Cabeça, entristece o Espírito Santo que habita em nós. Mas a alma consagrada a Deus não pode contentar-se em evitar o pecado; deve preocupar-se em fazer crescer nela a vida de Cristo. Na vida natural crescemos até sem o concurso da nossa vontade, mas na vida da graça não é assim: sem a nossa cooperação, ela pode permanecer em nós ainda num estágio inicial depois de vinte, trinta, cinquenta anos do nosso batismo, depois de centenas de confissões e comunhões. E então, que monstruosa desproporção! adultos e talvez velhos segundo a natureza, continuamos a ser crianças segundo a graça.
+
+Devemos crescer em Cristo; é preciso que Cristo cresça em nós. Que a palavra do Batista se torne o nosso programa: "que Ele cresça e que eu diminua" (Jo. 3, 30); eis as exigências do desenvolvimento da graça em nós: fazer morrer "o homem velho", com seus maus hábitos, seus defeitos, suas imperfeições, para que a vida de Cristo cresça em nós até a idade perfeita.
+
+### Colóquio
+
+"Ó meu Senhor, como usamos mal os teus benefícios! Para nos fazer conhecer o amor que nos tens, recorres a toda sorte de meios e invenções; nós, ao contrário, somos tão pouco exercitados no teu amor que lhe damos pouca importância. Pouco acostumados neste exercício, deixamos que os nossos pensamentos vão para onde costumam ir, sem nos preocupar minimamente em aprofundar os grandes mistérios do teu amor infinito.
+
+"Como é miserável a sabedoria dos mortais e incerta a sua providência! Fornece-me Tu, na tua providência, os meios necessários para servir-te não como eu quero, mas como Tu queres... Morra agora este eu, e viva em mim Aquele que é maior do que eu e melhor para mim do que eu mesma, para que eu possa servi-lo. Que Ele viva e me dê vida; que Ele reine e me mantenha como sua escrava, pois agora a minha alma não quer nenhuma outra liberdade.
+
+"Como pode ser livre quem se afastou de ti, Altíssimo? Haverá porventura escravidão maior e mais miserável do que a de uma alma subtraída à mão do seu Criador? Ó meu Deus, felizes os que, ligados pelos benefícios da tua misericórdia como por outros tantos grilhões e cadeias, sentem-se tão escravos que são incapazes de soltar-se!... Ó livre arbítrio, como te fazes escravo da tua liberdade quando foges de querer ser pregado com o amor e o temor d'Aquele que te criou!" (T.G. P. 1,4; Es. 17,3 e 4).
+
+Ó Senhor, quando penso que tenho o tremendo poder de paralisar em mim a ação da graça, a ação do Espírito Santo, sinto que a maior misericórdia que me podes fazer é justamente a de cativar com teu amor a minha liberdade, para torná-la para sempre tua prisioneira. Jesus meu, tira-me, eu te suplico, a liberdade de frustrar as tuas graças, de viver de modo puramente humano, como se em mim não palpitasse um germe de vida divina. Oh, eu o compreendo, sou um grande distraído, um grande esquecido; sou superficial, deixo-me tomar por uma multidão de afazeres, de coisas materiais, exteriores, e esqueço as realidades sobrenaturais que não vejo, que não atingem os meus sentidos e que, no entanto, são as mais belas e as mais verdadeiras.
+Ó Senhor, só o teu amor pode ter a potência de vencer a grande mobilidade da minha mente e do meu coração para fixá-los em ti, de modo que eu viva mais interiormente do que exteriormente, mais de ti e da tua graça do que do meu eu e das coisas terrenas.

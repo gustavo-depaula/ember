@@ -1,0 +1,27 @@
+## 54 — AS EXIGÊNCIAS DO ENSINAMENTO DE JESUS
+
+### Presença de Deus
+
+Jesus, faze-me compreender e depois dá-me a força de pôr em prática os teus ensinamentos.
+
+### Meditação
+
+1 — Convidando-nos a imitar a santidade do Pai celeste, Jesus nos compromete numa profunda luta contra o pecado que se opõe diretamente à infinita perfeição de Deus e é a sua maior ofensa. Em todo o seu ensinamento, Ele nos inculca um profundo ódio ao pecado e sobretudo ao orgulho, à hipocrisia, à malícia voluntária e obstinada, que constituem um estado de completa oposição a Deus; eis por que Ele, tão misericordioso com os pecadores, lança palavras de fogo contra os fariseus: "Ai de vós, escribas e fariseus hipócritas, porque sois semelhantes a sepulcros caiados... Serpentes, raça de víboras, como escapareis da condenação da geena?" (Mt. 23, 27 e 33). Depois nos descreve a fealdade do pecado e põe em luz os desastrosos efeitos que ele produz no homem, reduzindo-o a um estado de extrema miséria moral: eis o filho pródigo que, por ter abandonado o pai, é reduzido "a guardar porcos" (Lc. 15, 15).
+
+"Quem comete o pecado - diz Jesus - é escravo do pecado" (Jo. 8, 34); o escravo do pecado não pode ser servo de Deus e, por isso, o Mestre insiste: "Ninguém pode servir a dois senhores, porque ou odiará a um e amará o outro" ou vice-versa (Mt. 6, 24).
+
+Jesus, nosso Salvador, veio para destruir o pecado e o destrói com sua morte; e justamente com sua morte nos mostra do modo mais claro a enorme malícia do pecado. O pecado é tão inimigo de Deus e tem uma força destruidora tão tremenda que causa a morte do divino Mestre.
+
+2. — Só o pecado mortal está em completa oposição a Deus, e tão completa que o afasta da alma de quem o comete; mas por si todo pecado, mesmo venial, toda falta ou negligência está sempre em contraste com a santidade infinita de Deus.
+
+Por outro lado, a nossa natureza, ferida pelas consequências do pecado original, traz em si o germe do pecado sob forma de tendências ou de maus hábitos. Portanto, se queremos seguir Jesus que nos apresenta a perfeição do Pai celeste como norma da nossa vida, devemos empenhar-nos numa profunda luta contra o pecado para destruí-lo em nós até às suas raízes e em todas as suas formas, mesmo as mais leves. É precisamente isso que Jesus nos ensina com a breve palavra: "renega-te a ti mesmo". Trata-se de renegar o nosso eu em todas as suas inclinações e hábitos defeituosos, e trata-se de renegá-lo continuamente. Tal trabalho custa esforço e é penoso, mas é indispensável para chegar à santidade. Jesus diz: "Estreita é a porta e apertado o caminho que conduz à vida, e poucos são os que o encontram" (Mt. 7, 14). Só na medida em que soubermos trilhar este caminho de total renúncia de nós mesmos nos aproximaremos da perfeição infinita de Deus. Por este motivo, todos os mestres de espírito insistem com força no desapego, no despojamento, na renúncia de si, e fazem de tal trabalho a base indispensável de toda vida espiritual; por este motivo, à alma que quer chegar à união com Deus, S. João da Cruz propõe o áspero caminho do "nada".
+
+Mas antes de todos os outros, Jesus, o Mestre divino, indicou-nos a necessidade absoluta de passar por este caminho: "Se alguém quer vir após mim, renegue-se a si mesmo" (Mt. 16, 24).
+
+### Colóquio
+
+Ó Jesus, suplico-te que infundas na minha alma um ódio profundo e sincero ao pecado, a toda forma de pecado, de modo que eu esteja realmente disposto a preferir todo gênero de sofrimento e até a morte a qualquer ofensa de Deus. Faze-me compreender, ó Divino Mestre, que o mal, o único verdadeiro mal que me pode acontecer e do qual devo incessantemente rezar para ser libertado, é o pecado, porque o pecado é teu inimigo, teu inimigo ao ponto de te haver flagelado, coroado de espinhos, pregado na cruz, feito derramar todo o teu sangue, feito morrer entre atrozes tormentos. Ó Jesus, Tu que nos ensinaste a pedir ao Pai celeste: "livra-nos do mal", interpõe a tua potentíssima intercessão, mostra ao teu Pai e Pai nosso os estigmas ainda sangrantes da tua Paixão e obtém, obtém para mim e para todos os teus fiéis a libertação do terrível mal do pecado. Ó Jesus, e farei talvez distinção entre pecado grave e pecado venial, entre pecado e imperfeição?
+
+"Mas que pode haver de pequeno quando se ofende uma Majestade tão grande, cujos olhares estão sempre fixos em nós? Com esta consideração, o pecado já é excessivamente premeditado. É como se eu dissesse: 'Senhor, sei que isto te desagrada, entendo que me vês, sei que não o queres, estou plenamente convencido, mas quero fazê-lo mesmo assim: amo mais seguir o meu capricho e o meu apetite do que a tua vontade'. Ó Senhor, dos pecados advertidamente queridos, por pequenos que sejam, digna-te preservar-me" (T.G. Cam. 41, 3).
+
+Mas depois, ó Jesus, com tua ajuda, quero aprofundar a luta contra o pecado, procurando vencer em mim todas as tendências, inclinações e maus hábitos. Isto exige um contínuo renegar-me a mim mesmo, mas com tua ajuda estou pronto a empreendê-lo. Trata-se, é verdade, de renegar o meu eu, mas com o fim de agradar a Deus: dizer não à minha má natureza, mas para preferir a santa vontade do Pai celeste, as suas inspirações, os seus desejos. Trata-se de morrer para mim mesmo para viver para ti, ó Jesus! E se verdadeiramente te amo, como poderei achar demasiado dura esta renúncia total? Oh, faze que também eu, com S. Paulo, possa dizer: "tudo reputo perda e vaidade, tudo estimo lixo e a tudo renuncio para ganhar Cristo e viver nele" (cf. Fil. 3, 8-9).

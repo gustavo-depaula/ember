@@ -1,0 +1,33 @@
+## 4 — CHARITY ESSENCE OF HOLINESS
+
+### Presence of God
+
+I place myself in the presence of God, considering that He is infinite charity: "Deus charitas est."
+
+### Meditation
+
+1 — "Be perfect as your heavenly Father is perfect" (Mt. 5, 48). To imitate God, we must know who God is, what His highest perfection is; Sacred Scripture tells us: "Deus charitas est" (I Jn. 4, 16). It does not say that in God there is charity, but that God is charity, that is, everything that is in God is love. God is essentially love. Love, even human love, is a "will for the good"; to love is "to will good," it is the act by which the will moves toward the good. Since we are speaking of God, the infinite Being, love in Him is an infinite will for good that goes toward an infinite good, which is God Himself and which therefore God possesses and in which He delights. This love, which is God, is therefore an infinite love of delight in His infinite Good; nevertheless, His embrace extends even to creatures, whom He creates in order to communicate to them His Good, His happiness. Infinite charity, which is God, therefore also turns toward creatures, calling them into existence in an act of love, not, however, to stop at the limited good that is in them, but to bring them back to the infinite Good, to bring them back to the Trinity; that is, He creates and loves them for His glory.
+
+We too, poor creatures, are called to share in this most exalted life of love that is God, and it is precisely for this end that grace has been given to us. "Be imitators of God, as beloved children, and walk in love," St. Paul exhorts us (Eph. 5, 1 and 2).
+
+In likeness to God, our supernatural life must be essentially love, that is, a will for the good, a love of benevolence for God, loving that infinite Good which He is, and loving for Him and in Him all creatures.
+
+2 — Charity is so essential in the supernatural life that for the Christian the state of life or death depends on its presence or absence. Whoever does not possess charity does not possess sanctifying grace either, which is absolutely inseparable from it: "he who does not love remains in death" (I Jn. 3, 14). On the other hand, whoever possesses charity possesses grace and therefore shares in the life of God: "He who abides in charity abides in God and God in him" (ibid., 4, 16); and, as St. Thomas teaches, "charity... unites man's affection to God, to the point that man no longer lives for himself but for God" (II-II, q. 17, a. 6, ad 3).
+
+There are three theological virtues infused in us together with sanctifying grace: faith, hope, and charity. All three have God as their object, but of these "the greatest is charity" (I Cor. 13, 13). Greater, because without charity there can be no Christian life; greater, because it will never pass away; because it is the unitive force that joins us to God; because it is a participation in that infinite charity which is God Himself. In fact, to the Pharisee who questioned Him about the greatest commandment of the law, Jesus replied: "You shall love the Lord your God with all your heart, with all your soul, and with all your mind. This is the greatest and first commandment" (Mt. 22, 37 and 38).
+
+When charity is perfect in us, it will keep us fully united to God and will direct all our activities toward Him; therefore, to the extent that a soul is ruled by charity, it is mature in the supernatural life, it is more or less holy.
+
+### Colloquy
+
+O God, grant me to understand at least a little of the mystery of Your infinite charity. You are all charity, in You everything is charity. Charity is Your being, Your essence, Your life. You are that supreme charity with which ab aeterno You love Yourself and in Yourself You delight. You, O Father, love the Word who is the figure of Your substance; You, O Word, love the Father from whom You proceed; and this mutual charity with which You love one another is so perfect that it forms a Person: the third Person of the Most Holy Trinity, the Holy Spirit.
+
+"Consider, my soul, with what joy and love the Father recognizes His Son and the Son His Father: contemplate the ardor with which the Holy Spirit unites Himself to Them and how none of the Three can be separated from so great a love and knowledge, They being one thing alone; They know one another, love one another, and delight in one another. Now, what need is there of my love? Why do You want it, my God? What do You gain by it?" (T.G. Es. 7, 2).
+
+And yet, Most Holy Trinity, You are all, since You are infinite charity and ab aeterno You rejoice in the mutual love of Your divine Persons, and in time You have willed to diffuse Your love, to communicate Your infinite good to us tiny creatures. You, by the effect of love, drew us out of nothingness; Your love is our first principle, the first principle of all things: everything receives life from it; it is the cause of our existence; and we, like little fish, swim and live in the ocean of Your infinite love.
+
+But what do You do, O Lord, with us poor creatures? You who have in Yourself all love, all happiness, all glory? I understand: You created us to communicate to us Your infinite good, to bring us back into the bosom of that infinite charity which You Yourself are and from which we have received life; You created us for the glory of the Most Holy Trinity, to communicate to us Your life of infinite love and associate us with it.
+
+"My God and my mercy, what must I do so as not to destroy the wonders that You are working in me?... Lord, how sweet are Your ways! But who will walk them without fears? I fear that I do not know how to serve You. When I set myself to serve You I find nothing that satisfies me to repay You, at least in some way, for all that I owe You. It seems to me that I would like to consecrate myself wholly to Your service, but, considering my misery carefully, I feel that I can do nothing good unless You help me" (T.G. Es. 12, 1).
+
+Indeed, without Your help how shall I conquer a treasure so precious as charity? My God, if You want my whole life to become charity, it is absolutely necessary that You, who are charity itself, come to transform my poor soul. My misery: selfishness, self-love, sensuality, coldness, avarice, indolence... these are all obstacles to Your charity, which must triumph in me. Grant me the grace to remove these obstacles generously, so that Your infinite charity may completely invade this nothingness of mine!

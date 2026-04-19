@@ -1,0 +1,30 @@
+## 142 — THE LORD'S PASSOVER
+*Easter Sunday*
+
+### Presence of God
+
+— O risen Jesus, make me worthy to share in the joy of your Resurrection.
+
+### Meditation
+
+1. — "This is the day the Lord has made: let us exult and rejoice in it!" (RB.). It is the day par excellence, the most joyful day of the whole year, because on it "Christ our Passover has been sacrificed." Christmas too is a feast of joy; but whereas Christmas joy has an unmistakable note of sweetness, Easter joy has an unmistakable note of triumph: it is joy for Christ's triumph, for his victory. The liturgy of the Mass indicates to us the two characteristics of Easter joy: joy in truth (Epistle), joy in charity (Postcommunion).
+
+Joy in truth: according to St. Paul's vibrant exhortation: "Let us celebrate the feast not with the old leaven... but with the unleavened bread of purity and truth." In this world there are many fleeting joys based on fragile and inconsistent foundations, but Easter joy is the joy of knowing oneself in the truth, the truth that Christ brought to the world and confirmed by his Resurrection. His Resurrection tells us that our faith is not vain, that our hope is not placed in one who is dead, but in one who is living, in the Living One par excellence, whose life is so powerful that it gives life not only for time, but also for eternity to all who believe in him: "I am the Resurrection and the life; he who believes in me, though he were dead, shall live" (Jn. 11, 25). Joy in truth: because only sincere and upright souls that lovingly seek the truth and, still more, practice the truth can fully enjoy the Resurrection. A sincere soul is one that recognizes itself as it is, with its defects, with its shortcomings, with its need of conversion and that, precisely because of this awareness of its own misery, is sincerely resolved to purge itself of the old leaven of passions in order to be wholly renewed in the risen Christ.
+
+But truth must be practiced in charity: "veritatem facientes in charitatem" (Eph. 4, 15); therefore the prayer that the Postcommunion puts on our lips is more timely than ever: "Lord, pour into us the spirit of charity... and in your mercy make us of one heart." There can be no true Easter joy where there is no concord and mutual benevolence.
+
+2. — The Gospel presents to us the holy women, the most faithful, who at first dawn on Sunday run to the tomb and, as they go, ask one another anxiously: "Who will roll away the stone for us from the entrance to the tomb?" But this concern, although quite justified by the size and weight of the closing stone, does not turn them away from their purpose: they are too taken up with the desire to find Jesus! And behold, as soon as they arrive, they see the "stone rolled away" and then, entering the tomb, they find an Angel who gives them the great announcement: "He is risen; he is not here." For the moment Jesus does not let himself be found or seen; but shortly afterward, when, according to the order received from the Angels, the women go to bring the news to the disciples, he comes to meet them saying: "Hail!" (Mt. 28, 9), and their joy is complete.
+
+We too have the great desire to find the Lord: perhaps for many years we have already set out to seek him, and perhaps for us too this desire has been accompanied by serious concerns: how shall I remove the obstacles, take away from my soul those stones that prevent me from finding the Lord, from giving myself entirely to him, from letting him triumph in me? Yet, precisely because we wanted to find the Lord, sustained by his grace, we have overcome many obstacles, and divine Providence has helped us remove many stones, conquer many difficulties. Nevertheless, the search for God is progressive and must continue throughout life; therefore, like the holy women, we must always have the holy concern of finding the Lord; a concern that must make us industrious and prompt in the search and, at the same time, confident in divine help, because it is certain that where our strength cannot reach, the Lord will provide by doing for us what we do not know how to do.
+
+May Easter mark each year a renewal in our spiritual life, a renewal in our search for God; each year let us take up again our journey toward him in "novitate vitae."
+
+### Colloquy
+
+"Lord Jesus, merciful Jesus, good Jesus, who deigned to die for our sins and rose again for our justification, I beg you, by your glorious Resurrection, raise me up from the tomb of my vices and sins, that I may deserve truly to share in your Resurrection. Most sweet Lord, who ascended into Heaven in triumph in your glory and sit at the right hand of the Father, who with greatest power draw me up to yourself, that I may run after the fragrance of your ointments, that I may run and not grow faint while you draw and lead me. Draw the mouth of my thirsty soul to the heavenly fountain of eternal fullness; from the depths draw me to the living fountain, that there, according to my capacity, I may drink that by which I may always live, O my God, my life.
+
+"Let my spirit take wing, O Lord, let it take wing, I beg you, on eagle's wings, and fly and not grow faint; fly and reach the splendor of your glory, that there it may be nourished with your secrets at the table of the citizens of heaven, in the place of your Passover, beside the most abundant fountain; in you, O Lord, may my heart find rest, a heart like a great sea agitated by swollen waves.
+
+"Most precious, most desired, most lovable Lord, when shall I see you? When shall I appear before your face? When shall I be filled with your beauty? When will you lead me out of this dark prison, that I may confess your name, no longer confounded?... What shall I do, poor and oppressed by the weight of the chains of my mortality? What shall I do?... While we are in the body, we are away from the Lord. We have no lasting city here, but we seek the city to come, for our homeland is in Heaven.
+
+"Grant me grace, O Lord, that while I bear with me these frail members, I may cling to you, for: he who clings to the Lord is one spirit with him" (St. Augustine)

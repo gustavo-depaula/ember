@@ -1,0 +1,27 @@
+## 161 — LITURGICAL PRAYER
+
+### Presence of God
+
+O Jesus, Head of the Mystical Body, grant that by praying with the Church I may unite myself to your prayer.
+
+### Meditation
+
+1.— The Christian is not an isolated individual; as man he belongs to the great human family, and as baptized he is grafted into Christ as a member of his Mystical Body, which is the Church. The Christian is a child of God and a child of the Church; indeed, precisely in the bosom of the Church he becomes a child of God. Therefore all his spiritual life, while having a personal character tending to intimate contact with God, must also have a social, liturgical character, participating in the life of the Church. In other words, the Christian's spiritual life must be framed within that of the Church his Mother, must be associated with all that the Church, in union with Christ her Head, does to prolong his sanctifying action in the world.
+
+As our spiritual life is born, grows, and develops in the bosom of the Church, so our prayer - which is the highest expression of spiritual life - must be inserted into the Church's prayer, that is, liturgical prayer. Liturgical prayer has a wholly particular excellence precisely because it is not the prayer, however sublime and elevated, "of individual souls, but the prayer that the whole Church addresses to God in union with Jesus her Spouse and Head." It is like a prolongation of Jesus' prayer; indeed, it is a participation in those supplications that He himself, in the glory of heaven and in the humble hiddenness of our altars, always presents to the Father, praising Him in the name of all creatures and interceding for the needs of all and of each one. "The sacred liturgy is the public worship which our Redeemer renders to the Father as Head of the Church, and is the worship which the society of the faithful renders to its Head and, through Him, to the Eternal Father" (Enc. Mediator Dei).
+
+When we feel the poverty of our personal prayer, let us offer God the great prayer of Jesus and of the Church and spiritually unite ourselves to it.
+
+2. — Liturgical prayer, being the Church's public prayer, necessarily gives a broad place to acts of external worship, such as ceremonies, chant, collective recitations, etc., which must be carried out with great care. Nevertheless, this would not be sufficient if it were not accompanied by internal worship: "The sacred liturgy requires that these two elements - external worship and internal worship - be intimately united" (Med. Dei). It is not enough, therefore, to attend sacred rites, to participate in ceremonies and collective prayers, but all this must be vivified by personal interior prayer that raises the heart to God in the desire to unite itself and converse with Him. In his own spiritual life each soul is free to give, according to its devotion, a broader place to liturgical prayer or to personal prayer; but these two forms of prayer must never be set in opposition to each other, nor even separated, but joined so that one may interpenetrate and sustain the other. As liturgical prayer must be vivified by personal prayer, so personal prayer must be framed within liturgical prayer and nourished by it.
+
+Indeed, as true children of the Church, we must seek to support our personal prayer upon the liturgy. By following liturgical prayers - at least through the texts of the Missal and the Sunday Vespers - we can tune our life of prayer to the great mysteries of Christ's life, which the Church presents to us through the various liturgical seasons, inviting us not only to consider these mysteries, but also to associate ourselves with them. Thus in Advent our prayer will center around the mystery of the Incarnation, in Lent around that of Jesus' Passion and Death, and so forth.
+
+In this way the liturgy becomes the great track of our prayer life and offers it very substantial nourishment. Thus personal prayer is immersed in liturgical prayer and this in that, since after contemplating in prayer the mysteries that the liturgy presents to us, we shall return to liturgical prayer more able to understand and savor it.
+
+### Colloquy
+
+"O my God, how humiliated I would be in my weakness and nothingness if, to praise You, reverence You, glorify You, I did not have Jesus Christ, my only Good, who does this perfectly! I entrust my powerlessnesses to Him and rejoice that He is all and I nothing... Yes, O Jesus, in You I possess all. You are my Head and I am truly a member of yours. You pray, adore, humble yourself, give thanks in me and for me, and I in You, since the member is one with the Head. Your life, so holy and great, absorbs mine, so base and poor" (cf. Bl. Teresa Soubiran).
+
+O Jesus, who seated at the right hand of the Father continually intercede for us, deign to absorb my very poor prayer into your great prayer.
+
+"O Jesus, grant me to adore the Father 'in spirit and truth'; grant me therefore to adore Him through You and in union with You, because You alone are the true Adorer in spirit and truth" (cf. E.T. I, 9).

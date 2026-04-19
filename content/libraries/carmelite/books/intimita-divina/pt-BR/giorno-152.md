@@ -1,0 +1,28 @@
+## 152 — O BOM PASTOR
+*II Domingo depois da Páscoa*
+
+### Presença de Deus
+
+— Ó Jesus, meu bom Pastor, vem conduzir-me aos pastos da vida eterna.
+
+### Meditação
+
+1. — A liturgia de hoje resume, na doce figura do bom pastor, tudo o que Jesus fez pelas almas. O pastor é tudo para as suas ovelhas: sua guia, seu alimento, sua guarda estão inteiramente confiados a ele; sob sua proteção nada têm a temer e nada lhes faltará.
+
+Jesus é o Pastor bom por excelência: ele não só ama, nutre e guarda as suas ovelhas, mas acrescenta à sua solicitude de pastor o cuidado e a ternura piedosos da mais afetuosa solicitude dAquele que vem à terra mais para salvar as ovelhas perdidas do que para reconduzir à segurança as que já se encontram no redil. A Palavra de Deus de hoje no-lo apresenta assim, no ato de dar a vida por suas ovelhas: Ele mesmo levou os pesos da nossa Paixão para conduzir-nos à justiça, curados por suas chagas. «Éreis errantes como ovelhas, mas agora voltastes ao pastor e guarda de vossas almas». «Eu sou o bom Pastor - disse Jesus - e pelas minhas ovelhas dou também a vida»; e no ofício do tempo pascal a Igreja canta repetidamente: «Ressuscitou o bom Pastor, que deu a vida por suas ovelhas e se dignou morrer por seu rebanho».
+
+Como se poderia sintetizar melhor toda a obra da Redenção? E ela aparece ainda mais grandiosa quando, da boca de Jesus, ouvimos declarar: «Vim para que tenham vida e a tenham em abundância» (Jo. 10, 10). Verdadeiramente ele poderia repetir a cada um de nós: «que mais deveria eu fazer por ti que não o tenha feito?» (cfr. Is. 5, 4). Oh, se a nossa generosidade em dar-nos a Ele não tivesse limites, como não os teve a dele em dar-se a nós!
+
+2. — Jesus diz ainda: «eu conheço as minhas ovelhas e as minhas me conhecem, como o Pai me conhece e eu conheço o Pai». Embora não se trate de igualdade, mas de simples semelhança, é, porém, tão consolador e glorioso para nós ver como Jesus gosta de comparar as suas relações conosco às suas relações com o Pai. Também na última Ceia disse: «Como o Pai me amou, assim também eu vos amei» e ainda: «Como Tu, Pai, estás em mim e eu em ti, assim também eles sejam um em nós» (Jo. 15, 9; 17, 21). Isto nos mostra como entre nós - as ovelhas - e Jesus - nosso Pastor - não haja só uma relação de conhecimento, mas também de amor e, mais ainda, de comunhão de vida, semelhante à que existe entre o Filho e o Pai. E a tais relações com o nosso Deus - tão profundas que nos fazem participar da sua própria vida íntima - nós chegamos precisamente mediante a graça, a fé e a caridade que o bom Pastor nos adquiriu dando por nós a sua vida.
+
+Eis, portanto, que entre o bom Pastor e as suas ovelhas se estabelece uma íntima relação de conhecimento amoroso, tão íntima que o Pastor conhece uma por uma as suas ovelhas e as chama pelo nome, e elas reconhecem a sua voz e o seguem docilmente. Toda alma pode dizer: Jesus me conhece e me ama não de um modo genérico e abstrato, mas na concretude das minhas necessidades, dos meus desejos, da minha vida; e para Ele conhecer-me e amar-me significa tornar-me bom, envolver-me cada vez mais na sua graça, santificar-me. Justamente porque me ama, Jesus me chama pelo nome: chama-me quando, na oração, me abre novos horizontes de vida espiritual, ou me faz conhecer melhor os meus defeitos, a minha miséria; chama-me quando me repreende ou me purifica mediante a aridez e quando me consola e me encoraja, infundindo-me novo fervor; chama-me quando me faz sentir a necessidade de maior generosidade, quando me pede sacrifícios ou me concede alegrias e mais ainda quando desperta em mim um amor mais profundo por Ele. Diante dos seus chamados, minha atitude deve ser a da ovelhinha afeiçoada que sabe reconhecer a voz do seu pastor e sempre o segue.
+
+### Colóquio
+
+«Ó Senhor, Tu és o meu Pastor e nada me falta; em verdejantes pastos me fazes repousar, para águas restauradoras me conduzes, recrias a minha alma e me guias por veredas retas. Ainda que eu caminhe por um vale escuro e sombrio, não temerei mal algum, porque Tu estás comigo; tua vara e teu cajado são o meu conforto. Preparas diante de mim uma mesa em face dos meus inimigos; unges minha cabeça com óleo e o meu cálice transborda» (cfr. Sl. 22).
+
+«Ó Senhor, meu doce Pastor, que coisa poderias ter feito por mim e não fizeste? Que coisa poderias ter-me dado e não me deste? Tu mesmo te fizeste meu alimento e minha bebida. E que pasto mais delicioso e salutar, mais nutritivo e mais fortificante que o teu Corpo e o teu Sangue eu poderia jamais encontrar?
+
+«Ó benigníssimo Senhor Jesus Cristo, meu doce Pastor, que te darei eu por tudo o que me deste? Que te darei em troca daquilo que fizeste de ti mesmo por mim? Ainda que mil vezes eu me desse a ti, seria um nada, pois um nada eu sou, comparado a ti. Tu, tão grande, amaste tanto e com tanta bondade a mim, tão pequeno e tão miserável e ingrato! Contudo, Senhor, teu amor tende ao imenso, se é infinito, pois Tu és imenso e infinito. Por graça, portanto, ó Senhor, dize-me de que modo devo amar-te.
+
+«Meu amor, ó Senhor, não é tão grande quanto deveria ser... Embora eu não te ame quanto devo, entristece-me o meu fraco amor. Poderei amar-te mais quando te dignares aumentar minha virtude; mas nunca te louvarei quanto mereces. Dá-me, pois, teu ardentíssimo amor, pelo qual, com tua graça, eu te ame, te festeje, te sirva, cumpra teus preceitos, não seja separado de ti nem no tempo presente nem no futuro, mas permaneça unido no amor pelos séculos eternos» (Ven. R. Jordão).

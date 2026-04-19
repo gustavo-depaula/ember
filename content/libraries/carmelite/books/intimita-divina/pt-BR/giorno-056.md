@@ -1,0 +1,29 @@
+## 56 — JESUS ACOLHE A TODOS
+*III domingo depois da Epifania*
+
+### Presença de Deus
+
+Venho a ti, ó Jesus, bom Pastor: conduz-me aos pastos da vida eterna.
+
+### Meditação
+
+1 — O Evangelho de hoje (Mt. 8, 1-13) apresenta-nos dois milagres de Jesus: são profundas lições de humildade, de fé, de caridade.
+
+Eis a humilde fé do leproso: "Senhor, se queres, podes purificar-me". Está tão certo de que Jesus pode curá-lo que não vê outra condição para a sua cura senão a vontade dele. A fé cristã não se perde em raciocínios inúteis, tem uma lógica simplicíssima: Deus pode fazer tudo o que quer; basta, pois, que Ele o queira. E o leproso nem sequer insiste para que Jesus queira; quem vive de fé sabe que a vontade de Deus é sempre o melhor para nós, ainda que nos deixe no sofrimento, e por isso, mais do que insistir, prefere abandonar-se ao divino beneplácito.
+
+Segue o centurião: o soberbo e poderoso soldado romano não se envergonha de ir pessoalmente suplicar a Jesus, um galileu, por seu servo paralítico. Jesus, comovido por este ato humilde e caritativo, diz logo: "Irei curá-lo". Mas o centurião retruca: "Eu não sou digno de que entres sob o meu teto, mas dize somente uma palavra e o meu servo será curado"; aqui a humildade se torna ainda mais profunda e a fé chega ao máximo: não é preciso que o Senhor se mova, seu poder é tão grande que basta uma sua palavra dita à distância para operar qualquer milagre. O próprio Jesus "ficou admirado" e disse: "Em verdade vos digo que nem em Israel encontrei tamanha fé!" Não é isto um lamento do Salvador por aqueles que vivem tão perto dele, talvez em sua casa, recebendo dele contínuos benefícios, enquanto a sua fé permanece muitas vezes lânguida e por isso ineficaz?
+
+2 — Segundo as leis judaicas, os leprosos eram segregados da sociedade e ninguém devia aproximar-se deles; os pagãos, além disso, deviam ser evitados por não pertencerem ao povo eleito. Jesus rompe a velha lei e, em nome da caridade universal, acolhe e cura o leproso, escuta o centurião estrangeiro, cura o servo pagão. Ensina-nos assim a não fazer acepção de pessoas, a não desprezar os pecadores e os infiéis, mas a acolher todos com amorosa benevolência. Jesus ensina-nos a não fazer círculo fechado entre os bons, mas a escancarar as portas a qualquer um, a beneficiar todos sem distinção de partido e de ideias: todos são, como nós, filhos de Deus e, como sobre todos se estende a misericórdia do Pai celeste, assim a todos se deve estender a nossa caridade. Esta ideia domina na Epístola de hoje (Rom. 12, 16-21), na qual S. Paulo nos exorta à prática da caridade particularmente para com os que nos são contrários: "Não pagueis a ninguém mal por mal... Quanto de vós depende, tende paz com todos os homens, sem vos vingardes... Mas, se o teu inimigo tiver fome, dá-lhe de comer... Não te deixes vencer pelo mal, mas vence o mal com o bem".
+
+Jesus venceu o mal, mal físico e mal moral, com a misericórdia, com o amor, curando e beneficiando a todos. Esta deve ser a nossa tática; qualquer que seja o mal que nos cerca e nos faz sofrer, nunca o venceremos com discussões, contendas, posições tomadas e sustentadas pela força; mas somente com uma delicada caridade capaz de intuir a mentalidade, os gostos, as necessidades alheias, de intervir no momento oportuno, de condescender e de sacrificar-se sempre pelo bem de qualquer pessoa, ainda que hostil a nós.
+
+### Colóquio
+
+"Grande Deus, como é fraca a nossa fé!... Somos feitos de tal modo que, às vezes, o nosso livre arbítrio recusa aquilo que Tu, Senhor, nos dás, porque não está conforme ao nosso gosto, ainda que fossem coisas que seriam para nós as melhores... Não, meu Deus, não, não mais confiança nos meus desejos pessoais! Escolhe Tu para mim tudo aquilo que te aprouver querer: isso também eu quererei, porque todo o meu bem está em contentar-te, ao passo que certamente eu me perderia se Tu quisesses contentar-me, dando-me aquilo que eu desejo" (T.G. Cam. 30, 2; Es. 17, 2).
+
+Ó Jesus, eu me confio a ti, abandono-me a ti, dispõe da minha pessoa, da minha saúde e de todas as minhas coisas como Tu sabes ser melhor para o meu proveito espiritual. Peço-te com insistência uma só coisa: cura esta pobre alma minha. Também eu sou, no espírito, um pouco leproso, um pouco paralítico: o meu amor-próprio, a minha vaidade procuram sempre atingir, corroer aquele pouco de bem que faço; a preguiça e a inércia procuram paralisar os meus ímpetos para a perfeição. Eis-me diante de ti, necessitado da tua intervenção como o leproso e o servo paralítico. Também eu, Senhor, creio que, se queres, podes curar-me.
+"Embora tão miserável, creio firmemente que a tua potência se estende a tudo aquilo que Tu queres: quanto maiores são as maravilhas que ouço dizer de ti, tanto mais se fortalece a minha fé ao pensar que podes fazer maiores ainda, e tanto mais me confirmo na esperança de que atenderás o meu pedido" (T.G. Es. 4, 2).
+
+E depois, ó Jesus, peço-te um pouco da tua caridade, tão plena, tão universal, tão benevolente para com todos: Tu bem conheces as dificuldades que às vezes encontro no exercício desta virtude, sobretudo em relação àquelas pessoas que tanto contrastam com o meu modo de pensar e de agir. Ó Senhor, enche o meu coração de bondade cordial e sincera para com elas. Só a caridade que vem de ti me dará a força de superar todos os contrastes que derivam das diversidades de temperamento, de educação e de opiniões, de sacrificar-me com generosidade por quem me faz sofrer, de continuar a cercar de benevolência os que me rejeitam.
+
+Ó Jesus, que vieste à terra acender o fogo da caridade, acende em mim um vivo amor por todo o meu próximo.

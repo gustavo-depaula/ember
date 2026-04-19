@@ -1,0 +1,31 @@
+## 278 — SIMPLICITY
+
+### Presence of God
+
+Give me, O Lord, a simple heart, without duplicity, without crookedness; a heart that tends to You with the simplicity of a child.
+
+### Meditation
+
+1. — Simplicity is a virtue very akin to sincerity: it presupposes it as an indispensable basis and goes beyond it, coming, when perfect, to embrace man's whole moral life and reduce it to unity. Simplicity excludes every form of duplicity and complication deriving from egoism, self-love, attachment to self and to creatures; thus it urges the soul in one single direction, God: to live for Him, to please Him, to give Him glory. The whole spiritual life consists in this progressive simplification, which goes hand in hand with interior purification. When a soul is perfectly purified from every passion and every attachment, then it is reduced to perfect simplicity, that simplicity which makes it live solely from God and for God. To reach this goal, in our whole life we must let ourselves be guided by one light, lean on one strength, tend toward one end: God.
+
+The soul that wants to acquire holy simplicity accepts no other light except that which comes from God, which is God Himself. Therefore it rejects all viewpoints of self-love and egoism, repels the dazzling but false reflections of passions and worldly maxims, recognizing that all is darkness and deception except the light of truth that can come from God alone, from his law, from the Gospel. It judges all things in the light of faith, seeing in every circumstance, in every event, even the most painful, God's hand, and making use of everything to go to Him, without losing time reasoning about creatures' conduct, which only complicates life and creates obstacles to the exercise of virtue. Nothing holds it back in its swift progress, because in God it finds not only light to discern the right path, but also strength to walk in it. At every moment and every step of its life, the simple soul leans on God, seeking in Him its sole support and sole strength. This does not prevent it from making use also of the help of wise and prudent persons, but it does so with detachment, without troubling or agitating itself when the Lord permits these helps to fail. In any case, in every circumstance, it seeks its first support always in God and with full confidence, convinced that only in Him will it find the strength necessary to sustain its weakness, and that this strength will never be denied.
+
+2. — Whatever it does, the simple soul aims at one end alone: God; and has one intention alone: to serve God, to please Him, to delight Him. Therefore it is very attentive lest secondary intentions infiltrate its conduct, such as, for example, making a good impression, attracting others' esteem, satisfying a little one's own curiosity or laziness, one's own honor or egoism. These secondary intentions are like the little foxes spoken of in the Canticle, which slip stealthily into the soul's flowering vineyard and damage the flowers and fruits of good works. How many good actions, begun for love of God, lose at least half their value because halfway they are contaminated by some secondary intention not sufficiently repressed and rectified! And how many others, from good, are transformed into bad for lack of rectitude of intention! The simple soul has declared war on all this and repeats with St. Francis de Sales: "My God, if I knew that one single fiber of my heart did not beat for You, I would immediately tear it out and cast it far from me."
+
+Great purity of intention ensures that all its words and actions are simple, reflecting without shadow its thoughts and intentions. Its speech is simple: "yes, yes; no, no" (Mt. 5:37). Its conduct is simple: it does what it must without hiding, without pretending. It fears nothing because it seeks only God and his approval, therefore it acts with the holy freedom of God's children, without human respect, without concern for creatures' judgment and favor. "He who must judge me is the Lord" (1 Cor. 4:4), it says with St. Paul, and continues its way, aiming only at God. Thus, free from encumbrances and useless preoccupations, the simple soul goes to God swiftly and straight as an arrow. The one light, one strength, one end of its life is God, and precisely for this whole conduct acquires a luminosity, vigor, and enchanting unity, pale reflection of divine perfections.
+
+### Colloquy
+
+"O Lord, may I come to You by the straight way of truth and simplicity! Grant my soul that upright intention, that single gaze which wants to please You alone and is not concerned with others' interpretations of its actions.
+
+"Give me a gaze of faith to see only You in my superiors, so that I may deal with them with frankness, respect, esteem, confidence, obedience, docility.
+
+"Grant that regarding myself I may know how to go straight to the center of my nothingness and keep myself in this position without folding back on myself, eliminating every scruple and melancholy, every disturbance. Teach me to go straight to the deepest center of my soul where You dwell.
+
+"Grant that, dealing with neighbor, I may always follow the straight way of love of pure benevolence, loving You in him without search for natural satisfaction.
+
+"In the midst of life's vicissitudes and unforeseen events, teach me to go straight where your will calls me, without curiosity or distractions. Teach me to tread the straight way of love that knows no delays, of simplicity that knows no deviations, of truth that knows no ruses, of obedience that knows no replies, of purity that knows no fascination with creatures, of recollection that knows no distractions.
+
+"This is the way that pleases You, O Jesus, who willed to call Yourself straightest way: ego sum via rectissima. This is the way that leads to the Father, since You said: 'no one goes to the Father except through me.' This is the way by which the Holy Spirit guides us, for Wisdom 'leads the just by straight ways.'
+
+"Therefore, O God, I ask You with fervor and desire full of confidence: create in me a clean heart and renew in me your spirit. May your good Spirit lead me on the straight way!" (Sr. Carmela d. Spirito S.).

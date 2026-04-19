@@ -1,0 +1,30 @@
+## 163 — THE GREAT PROMISE
+*Fourth Sunday after Easter*
+
+### Presence of God
+
+O Jesus, dispose my heart to welcome the Holy Spirit whom you have promised and merited for us.
+
+### Meditation
+
+1. — Since last Sunday the Church has begun to prepare us for the Lord's Ascension; today, taking up the subject again, she takes one step further, that is, she speaks to us of the coming of the Holy Spirit, and to do so she again uses a passage from Jesus' discourse after the Last Supper.
+
+It is always the Lord who speaks to the Apostles and continues to dispose their souls to his departure; they listen sad and thoughtful, without having the courage to question him. And the Lord, like a good mother, breaks that painful silence: "I go to Him who sent me; and none of you asks me: Where are you going?" and then hastens to console them: "It is expedient for you that I go; for if I do not go, the Paraclete will not come to you; but if I go, I will send him to you." Indeed, only Jesus' death would merit this great gift for us, and only after his Ascension into heaven would the Holy Spirit, sent by the Father and the Son, effectively descend upon the Church. The Apostles are about to lose the sensible, physical presence of the adored Master, but He will not leave them orphans and will continue to assist them invisibly through his Spirit, who will continue his work among them. Jesus lived among them in a visible way; the Holy Spirit will do so in a secret and hidden way, but for that no less effective and no less real. Indeed - Jesus himself says it - the action of the divine Paraclete will complete his own. "I still have many things to say to you, but you cannot bear them now. When the Spirit of truth comes, He will teach you all truth. He... will take of what is mine and declare it to you." The hearts of the Apostles, still dulled by sin, cannot understand the deeper truths; it will be necessary for Jesus, by dying on the Cross, to destroy sin - the great obstacle to the Holy Spirit's action - and then, having ascended to heaven, to send us the divine Paraclete, merited for us by his Passion.
+
+The sending of the Holy Spirit to our souls is the greatest fruit of Jesus' Passion.
+
+2. — From today's Gospel we can draw some practical applications. First of all, we must dispose ourselves ardently for Pentecost so that the descent of the Holy Spirit may be renewed in us in great fullness. And, since the obstacle to the outpouring of the Holy Spirit is precisely sin, our preparation should consist in a particular purity of conscience. Sin must be destroyed in us not only in its present manifestations, however slight, but also in its deeper and more hidden roots.
+
+We must also be convinced that in the soul in grace, all the more when it seeks to correspond faithfully to divine motions, a certain action of the Holy Spirit is never lacking, and it is by no means necessary that this be sensible and consoling. Even in aridity and discouragement the Holy Spirit works in the faithful soul: it is an action wholly secret and hidden, but real and effective, aiming principally to purify it and dispose it for union with God. The soul convinced of this remains trusting even through difficulties and, if it does not understand and does not see its way, entrusts itself to the Holy Spirit, who well knows and well sees where He wants to lead it.
+
+Finally, today's Gospel invites us to invoke the action of the Holy Spirit upon the Church and upon the whole world. Upon the Church, that He may govern and direct her to the fulfillment of her mission; upon the world, that He may convince it of the truth it has rejected. "And when He has come," Jesus said, "He will convict the world of sin, and of justice, and of judgment," that is, He will show it that it is enslaved by sin for not having believed in Christ, He will make it understand that only in Him, the Redeemer, are justice and holiness found, and He will show it that the devil, the "prince of this world," is now conquered and condemned.
+
+### Colloquy
+
+"Ah! eternal Word, tell me, I beg you: what is the cause that prevents the Holy Spirit from accomplishing his whole work in the soul? And You tell me that the first impediment is malice; another impediment is self-will, by which we want to serve you, but in our own way. We want your Spirit, yes, but we want Him in the way that pleases us and as far as it pleases us, and in this way we make ourselves unable to receive Him. At other times this impediment is tepidity, so that it seems to us we serve you and we do not perceive that we serve ourselves. But You, O Lord, want to be served without self-love, but with sincerity and humility. Thus your Spirit rests only in that soul found at the center of its own humility. But ah! loving Word, I would like to know what I must do against these impediments, because what would it profit me to have understood them if I did not know the remedy? Behold, the remedy for malice is upright and simple intention; the remedy for self-will is a dead will that wills nothing but what is your will. The remedy for tepidity is the ardor of charity, which like fire descends into hearts and burns up all tepidity" (St. Mary Magdalene de' Pazzi).
+
+"Come, O Holy Spirit, sanctify me! Come, O Spirit of truth, fill me! Your divine wisdom will establish me in truth. I thirst for it, and I would like truth to reign in my mind, in my words, in my affections, in my actions, avoiding all that is contrary to it, and not only lies, but also dissimulations, duplicities, lack of sincerity with myself.
+
+"Come, O Spirit of peace, give me your peace! That deep peace that dilates the soul, makes it apt for your operations, calms and masters the whole sensitive part and also the higher part.
+
+"Come, O Spirit of charity, enkindle me and grant that I may be so inflamed with your love as to pour it out upon all souls that I would like to lead all to you! Oh! transform me into love; only thus shall I be able fully to answer your call and be useful to the Church" (Sr. Carmela of the Holy Spirit, c.s.).

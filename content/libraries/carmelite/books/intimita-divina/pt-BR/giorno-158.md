@@ -1,0 +1,29 @@
+## 158 — VIDA DE ORAÇÃO
+
+### Presença de Deus
+
+— Ó Senhor, que eu te busque não só em alguma hora ou momento do dia, mas em todos os momentos da minha vida.
+
+### Meditação
+
+1. — A alma que anela a uma vida de intimidade com Deus não se contenta em limitar suas relações com Ele ao tempo da oração, mas procura prolongá-las durante todo o dia. É este um desejo mais que legítimo, porque quem ama tende a relações sempre mais estáveis e contínuas com a pessoa amada. Assim acontece com a alma que ama a Deus; e isto é tanto mais possível pelo fato de que o próprio Deus está sempre conosco, está sempre presente e operante em nós; trata-se, é verdade, de uma presença espiritual, invisível, mas real e não somente afetiva e moral, como pode ser a da pessoa amada na mente e no coração de quem ama.
+
+Se Deus está sempre conosco, por que nós não poderemos manter-nos em contínuo contato com Ele? Este contato se realiza mediante o pensamento e o afeto, mas muito mais com este do que com aquele. De fato, não é possível pensar sempre em Deus, quer porque a mente se cansa, quer porque muitas ocupações exigem toda a aplicação da inteligência e esta não pode atender, ao mesmo tempo, a dois objetos diversos. Em vez disso, mesmo enquanto o pensamento está ocupado em outra parte, o coração pode sempre amar, nem jamais se cansa de tender ao objeto do seu amor. Como o amor sobrenatural não consiste no sentimento, mas numa íntima orientação da vontade para Deus, vemos que esta orientação é possível também durante o desempenho de deveres que absorvem toda a inteligência. Aliás, a vontade poderá reforçar esta sua orientação para Deus justamente com o desejo de cumprir todo dever por amor dele, para agradá-lo, para dar-lhe glória. S. Tomás ensina precisamente que o coração pode tender sempre para Deus mediante «o desejo da caridade», isto é, mediante o desejo de amá-lo, servi-lo e unir-se a Ele em toda ação. «A oração não é outra coisa senão um desejo do coração; se o vosso desejo é contínuo, a vossa oração é contínua. Quereis, pois, não cessar jamais de rezar? Não cesseis jamais de desejar» (S. Agostinho).
+
+2. — Como a oração não consiste no muito pensar, mas no muito amar, assim a vida de contínua oração consiste muito mais no amor do que no pensamento. Todavia uma certa atividade do pensamento é necessária, seja para orientar o coração para Deus, seja para mantê-lo nessa direção.
+
+A alma que se aplica bem à sua oração mental facilmente recolherá nela bons pensamentos que poderão servir-lhe durante o dia para manter seu coração dirigido para Deus; será, portanto, útil que com frequência, entre suas ocupações, procure despertar tais pensamentos e enganchá-los à sua vida prática.
+
+Se, por exemplo, na oração consideramos a infinita misericórdia de Deus para conosco, procuraremos que este pensamento nos acompanhe também no meio das nossas ocupações, reconhecendo nas várias circunstâncias em que nos encontramos outros tantos traços desta misericórdia. De fato, tantos acontecimentos que, de um ponto de vista humano, são desagradáveis e penosos, escondem na realidade verdadeiras misericórdias do Senhor que, mediante as dores, as fadigas e os incômodos da vida, quer desapegar-nos das criaturas, fazer-nos exercitar a virtude e progredir para o bem. Por outro lado, em nossos contatos com o próximo procuraremos imitar a misericórdia do Senhor: «Sede misericordiosos, como é misericordioso o vosso Pai» (Lc. 6, 36). Se depois nossa oração se tiver desenrolado na aridez, sem nos deixar nenhum pensamento determinado, mas só um senso mais profundo do nosso nada e da infinita grandeza de Deus, faremos tesouro disso procurando, durante o dia, cumprir nossos deveres em espírito de humildade e de homenagem a Deus, contentes se se apresentar alguma ocasião de humilhar-nos e de reconhecer nossa pequenez também diante das criaturas, e de exaltar, ao contrário, as grandezas do Senhor.
+
+Deste modo a oração não ficará um fato isolado em nosso dia, mas o penetrará todo, conferindo a cada ação e circunstância um tom de contínua oração.
+
+### Colóquio
+
+«Ó Senhor, faze que minha vida seja oração contínua, à qual é obrigada toda criatura racional. Esta oração nasce do amor, é fogo e verdadeiro desejo fundado na caridade que impele a alma a fazer todas as suas operações para tua honra. Desperta em mim, ó Senhor, a caridade, para que eu sempre te deseje e, sempre te desejando, continuamente reze. Em todo lugar, em todo tempo, em tudo o que faço, minha alma sempre reze diante de ti pelo afeto da caridade» (cfr. S. Catarina de Sena).
+
+«Meu Deus, se eu estivesse inebriado de amor por ti, nada mais buscaria em todas as coisas senão como servir-te com maior diligência e perfeição e, renegando minha vontade em tudo e por tudo, esforçar-me-ia, com impulso de coração, por fazer somente aquilo que é de teu maior agrado.
+
+«Dá-me, ó Senhor, tão grande fervor e desmedido amor que eu não faça diferença entre vida e vida, estado e estado, pessoa e pessoa, tempo e tempo, lugar e lugar, mas de qualquer modo e em qualquer hora me aplique a cumprir o que mais te agrada, sempre tendendo a ti com o afeto da alma. Faze que eu veja todas as coisas em ti e em todas as coisas não veja senão a ti, sempre suspirando, sempre desejoso de servir-te em tudo; e, todo aceso, todo ardente de amor, não considere o que para mim é mais fácil e suave, mas somente o que a ti torna mais agradado.
+
+«Concede-me, ó Senhor, imitar os espíritos angélicos que, enquanto estão conosco, não cessam, porém, da divina contemplação. Faze que trate e sirva os meus semelhantes, considerando e gozando-te neles e oferecendo o coração a ti. E quando me acontecer afastar-me deste nobre exercício, ajuda-me a voltar a ele, fazendo logo todo esforço para consegui-lo, para que, com teu divino socorro, eu possa sempre viver com o coração fixo em ti» (cfr. S. Boaventura).

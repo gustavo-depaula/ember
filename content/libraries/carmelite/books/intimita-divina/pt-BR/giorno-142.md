@@ -1,0 +1,30 @@
+## 142 — A PÁSCOA DO SENHOR
+*Domingo da Ressurreição*
+
+### Presença de Deus
+
+— Ó Jesus ressuscitado, faze-me digno de participar da alegria da tua ressurreição.
+
+### Meditação
+
+1. — «Este é o dia que o Senhor fez: exultemos e alegremo-nos nele!» (BR.). É o dia por excelência, o dia mais jubiloso de todo o ano, porque nele «a nossa Páscoa, Cristo, foi imolada». Também o Natal é festa de alegria, mas, enquanto a alegria natalina tem uma nota inconfundível de doçura, a alegria pascal tem uma nota inconfundível de triunfo: é o júbilo pelo triunfo de Cristo, pela sua vitória. A liturgia da Missa nos indica as duas características da alegria pascal: alegria na verdade (Epístola), alegria na caridade (Postcommunio).
+
+Alegria na verdade: segundo a vibrante exortação de S. Paulo: «Celebremos a festa não com o velho fermento... mas com os ázimos da pureza e da verdade». Neste mundo há tantas alegrias efêmeras, baseadas em fundamentos frágeis e inconsistentes, mas a alegria pascal é a alegria de saber-se na verdade, a verdade que Cristo trouxe ao mundo e confirmou com a sua ressurreição. A sua ressurreição nos diz que a nossa fé não é vã, que a nossa esperança não está posta em um morto, mas em um vivo, no Vivo por excelência, cuja vida é tão poderosa que vivifica não só para o tempo, mas também para a eternidade todos os que nele creem: «Eu sou a ressurreição e a vida; quem crê em mim, ainda que esteja morto, viverá» (Jo. 11, 25). Alegria na verdade: porque só as almas sinceras e retas, que procuram com amor a verdade e, mais ainda, que praticam a verdade, podem gozar plenamente a ressurreição. Alma sincera é aquela que se reconhece como é, com os seus defeitos, com as suas deficiências, com a sua necessidade de conversão e que, precisamente por tal consciência da sua miséria, está sinceramente decidida a querer purificar-se do velho fermento das paixões para renovar-se toda em Cristo ressuscitado.
+
+Mas a verdade deve ser praticada na caridade: «veritatem facientes in charitatem» (Ef. 4, 15); é, portanto, mais do que oportuna a oração que o Postcommunio põe em nossos lábios: «Senhor, infunde em nós o espírito de caridade... e, por tua piedade, torna-nos concordes». Não pode haver verdadeira alegria pascal onde não há concórdia e mútua benevolência.
+
+2. — O Evangelho nos apresenta as piedosas mulheres, as fidelíssimas, que ao primeiro alvorecer do domingo correm ao sepulcro e, pelo caminho, perguntam-se preocupadas: «Quem nos removerá a pedra da entrada do sepulcro?». Mas essa preocupação, embora muito justificada pelo tamanho e pelo peso da pedra de fechamento, não as desvia do seu propósito: estão demasiado tomadas pelo desejo de encontrar Jesus! E eis que, logo que chegam, veem a «pedra removida» e, portanto, entrando no túmulo, encontram um Anjo que lhes dá o grande anúncio: «Ele ressuscitou; não está aqui». Por enquanto Jesus não se deixa encontrar, nem ver; mas pouco depois, quando, segundo a ordem recebida dos Anjos, as mulheres irão dar a notícia aos discípulos, ele lhes virá ao encontro dizendo: «Salve!» (Mt. 28, 9), e a alegria delas será plena.
+
+Também nós temos o grande desejo de encontrar o Senhor: talvez já há muitos anos nos pusemos a procurá-lo e talvez também para nós o desejo tenha sido acompanhado de sérias preocupações: como farei para remover os obstáculos, para tirar da minha alma aquelas pedras que me impedem de encontrar o Senhor, de me dar inteiramente a ele, de fazê-lo triunfar em mim? Mas, precisamente porque queríamos encontrar o Senhor, sustentados por sua graça, superamos tantos obstáculos, e a divina Providência nos ajudou a remover muitas pedras, a vencer tantas dificuldades. Contudo, a busca de Deus é progressiva e deve continuar por toda a vida; por isso, como as piedosas mulheres, devemos ter sempre a santa preocupação de encontrar o Senhor; preocupação que deve tornar-nos industriosos e solícitos na busca e, ao mesmo tempo, confiantes no auxílio divino, porque é certo que, onde as nossas forças não podem chegar, o Senhor proverá, fazendo ele por nós aquilo que não sabemos fazer.
+
+Que a Páscoa assinale todos os anos uma renovação em nossa vida espiritual, uma renovação em nossa busca de Deus; todos os anos retomemos o nosso caminho para ele em «novitate vitae».
+
+### Colóquio
+
+«Senhor Jesus, Jesus piedoso, Jesus bom, que te dignaste morrer por nossos pecados e ressuscitaste para a nossa justificação, peço-te, por tua gloriosa ressurreição, ressuscita-me do sepulcro dos meus vícios e pecados, para que eu mereça participar verdadeiramente da tua ressurreição. Dulcíssimo Senhor, que subiste ao Céu com triunfo na tua glória e estás sentado à direita do Pai, tu que poderosíssimo me atrais para o alto, até ti, para que eu corra ao odor dos teus perfumes, para que eu corra e não desfaleça, enquanto tu me atrais e me conduzes. Atrai a boca da minha alma sedenta para junto da fonte suprema da eterna saciedade; do fundo atrai-me à fonte viva, para que ali, segundo a minha capacidade, eu beba daquilo por que eu viva para sempre, ó meu Deus, minha vida.
+
+«Assuma, ó Senhor, assuma, eu te peço, o meu espírito asas como de águia, e voe, e não desfaleça; voe, e chegue até o esplendor da tua glória, para que ali seja alimentado dos teus segredos à mesa dos cidadãos celestes, no lugar da tua páscoa, junto da fonte abundantíssima; repouse em ti, ó Senhor, o meu coração; coração semelhante a grande mar, agitado por ondas túmidas.
+
+«Preciosíssimo, desejadíssimo, amabilíssimo Senhor, quando te verei? Quando comparecerei diante da tua face? Quando serei saciado da tua beleza? Quando me tirarás desta prisão tenebrosa, para que eu confesse o teu nome, sem mais ser confundido?... Que farei eu, miserável, oprimido pelo peso das cadeias da minha mortalidade? Que farei?... Enquanto estamos no corpo, peregrinamos para o Senhor. Não temos aqui morada estável, mas buscamos a cidade futura, pois a nossa pátria está nos Céus.
+
+«Dá-me graça, ó Senhor, que, enquanto trago comigo estes frágeis membros, eu adira a ti, porque: quem adere ao Senhor é um só espírito com ele» (S. Agostinho)

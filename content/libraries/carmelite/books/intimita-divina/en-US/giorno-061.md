@@ -1,0 +1,30 @@
+## 61 — THE WORKS OF JESUS
+
+### Presence of God
+
+Grant me, O Jesus, to penetrate the immensity of Your works.
+
+### Meditation
+
+1 — "The works that the Father has given Me to accomplish, these works... I accomplish. I must accomplish the works of Him who sent Me" (Jn. 5, 36; 9, 4). Jesus has no other aim than to fulfill the mission entrusted to Him by the Father for the Father's own glory, for the redemption of humanity. He burns with the desire - "with desire I have desired" (Lk. 22, 15) - to accomplish this work to the very end, and with this living desire He goes forth to meet the Passion and embraces the cross.
+
+To each of us God has entrusted a part in Jesus' great redemptive work: souls consecrated to God, we are expressly called to collaborate in Christ's work. First of all, we must collaborate with grace so that the fruits of Redemption may be fully applied to our souls: this is the work of our personal sanctification. But this is not enough; we are called to sanctify ourselves in order to sanctify; each of us has a mission to accomplish for the good, for the sanctification of other souls: it is a matter of collaborating with Christ to extend to as many souls as possible the fruits of Redemption. This is the work that the heavenly Father entrusts to us; we must apply ourselves to it with Jesus' very sentiments: total, generous, exclusive dedication, capable of embracing even the greatest sacrifices. Every action of ours has value insofar as it leads us to realization of this work; all that does not serve our sanctification or the sanctification of others is useless, is a waste of time, and therefore must be courageously eliminated.
+
+Let us repeat together with Jesus: it is fitting that I fulfill the work the Father has entrusted to me.
+
+2 — "I am not alone, because the Father is with Me. My Father works... and I work as He does... As I hear [from the Father], I judge... I do nothing of Myself, but I always speak in conformity with what My Father taught Me" (Jn. 16, 32; 5, 17-30; 8, 28).
+
+Jesus not only gives Himself completely to the mission entrusted Him by the Father, but in fulfilling this mission, and in every detail, He always acts in union with the Father, in perfect harmony with Him, always depending on Him, solely according to what He hears from Him and sees in Him. Jesus' actions only translate in human, tangible form the invisible and incessant work of the Father: "what He sees the Father doing, the Son does likewise" (ibid., 5, 19); "The things I say," Jesus affirms, "I say as the Father told Me" (ibid., 12, 50).
+
+Every soul in grace can say: I am not alone, because the Trinity is in me; in me the Father, the Son, the Holy Spirit. In likeness to Jesus', our attitude must be this: to act in continual dependence on God present in us. To listen to His intimate voice, the interior movement of grace, and according to this to act; to seek to judge according to God's judgments, to see all things in His light, and then to act so that our actions may always be in harmony with God's views, designs, good pleasure. We too, of each one of our actions, should be able to say: I do nothing alone; I act according to what God inspires in me interiorly, according to what in Him I see and what pleases Him. All works, even the greatest, that fall outside this framework are vain and sterile.
+
+### Colloquy
+
+O Jesus, I place my poor soul before Yours: deign to infuse into it Your sentiments of zeal for the Father's works, of full and unconditional dedication to the mission received from Him. How I would like to fulfill with Your very zeal and love the tiniest part assigned to me in Your grand redemptive work! But I need You to teach me in what this zeal must consist in order to be true and fruitful.
+
+You make me understand that first of all I must commit myself to sanctifying myself, to correcting my faults, to conquering my bad tendencies; this is the first field You point out to my zeal. And then You teach me to give myself generously for the good of souls: prayer and sacrifice are the great weapons You show me, those same weapons You used. But You are not content that I think a little in the abstract about helping distant souls; You want first of all that I concern myself concretely with the good of those who live beside me. O Jesus, give me zeal and strength to sacrifice myself generously for my neighbor, give me strength to renounce my tastes and comforts in order to adapt myself to others' tastes and place myself at others' disposal and service. O Jesus, meek and humble of heart, make my heart like Yours, because only with humility, meekness, and patience can I carry out a true apostolate.
+
+And then You tell me further that Your zeal does not want purely human works, undertaken more from natural inclination to activity than from motion of grace. O Jesus, as in all Your works You depended on the Father and acted according to what You saw in Him and heard from Him, so grant that all my works may depend on divine light and inspiration. This light, this inspiration, it is You who give it to me, You who, as Word, are in me together with the Father and with the Holy Spirit. And since You are Word, the Father's Word, You cannot be mute, but are in me that I may listen to You.
+"O eternal Word, Word of my God, I want to spend my life listening to You!" (E.T. El.): listening to You in order to act according to Your teachings. O Word, You are the light in which I must judge all, consider all; You are the word that must direct my every action. You are the interior Master always ready to instruct me, provided I listen to You! O yes, grant that even amid activity my soul may know how to remain listening to Your interior voice. I am not alone, because You are always with me, in me; grant that I may not act as though I were alone, but help me to act always with You, always depending on Your light, on Your word.
+
+O Jesus, as You always looked and listened to the Father, so I want always to look and listen to You and act according to what I see in You and hear from You.

@@ -1,0 +1,27 @@
+## 60 — JESUS E A VONTADE DO PAI
+
+### Presença de Deus
+
+Ó Jesus da Paixão, faze que na tua Paixão eu possa ler o teu amor por mim.
+
+### Meditação
+
+1 — Cristo, "entrando no mundo, diz [ao Pai]: Tu não quiseste sacrifício nem oferta, mas me preparaste um corpo... Eis que venho para cumprir, ó Deus, a tua vontade" (Heb. 10, 5 e 7). Esta é a disposição constante de Jesus diante da vontade do Pai. Aos Apóstolos, que o solicitam a tomar um pouco de alimento, o divino Mestre responde: "Eu tenho para comer um alimento que vós não conheceis... Meu alimento é fazer a vontade daquele que me enviou e levar sua obra a termo" (Jo. 4, 32 e 34). O que Jesus deseja, aquilo que o restaura é unicamente cumprir o querer de seu Pai: seu olhar interior está sempre fixo nisso, e Ele não faz a mínima ação, não diz uma palavra que não seja conforme ao querer do Pai. A vontade humana de Jesus está do modo mais pleno e perfeito transformada, perdida na vontade de Deus, de modo que Ele age somente sob o impulso dela. "Desci do céu para fazer não a minha vontade, mas a vontade daquele que me enviou... Não busco a minha vontade, mas a vontade daquele que me enviou" (Jo. 6, 38; 5, 30). Assim Jesus mesmo nos revela as disposições da sua Alma, o motivo profundo das suas ações, a regra que o guia em toda a vida, até sua dolorosíssima Paixão, quando, apesar de sentir as repugnâncias da sua natureza humana, repete: "Pai, faça-se não a minha vontade, mas a tua" (Lc. 22, 42).
+
+2 — Filhos adotivos de Deus, também para nós o caminho da santidade, a regra da nossa conduta, deve ser a vontade do Pai celeste. Devemos, como Jesus, "alimentar-nos" desta santa e santificante vontade, e alimentar-nos dela a cada momento, não buscando outra coisa, não desejando senão viver dela e fazer dela a única grande mola de ação da nossa vida. "É preciso chegar à plena conformidade do nosso querer com o de Deus, de modo que" - como ensina S. João da Cruz - "no nosso pensar e no nosso agir não haja coisa alguma contrária à vontade divina" (cf. S.I, 11, 2).
+
+A conformidade com a vontade de Deus e o desenvolvimento em nós da graça são os dois elementos constitutivos da santidade, da vida de união com Deus; elementos que caminham juntos, porque um condiciona o outro: a maior conformidade de vontade corresponde maior graça. Jesus disse: "Se alguém me ama, guardará minha palavra... e viremos a ele e faremos nele morada" (Jo. 14, 23). A observância da palavra, isto é, da vontade de Deus manifestada nos mandamentos, é a condição para viver em graça e, portanto, para gozar da inabitação da Trindade em nossas almas. À medida que a conformidade ao querer divino se torna mais plena, de modo a observar não só os preceitos graves, mas cada mínimo detalhe da lei de Deus, de modo a excluir não só os pecados mortais, mas também os veniais, até a menor imperfeição voluntária, à medida que se chega a buscar o beneplácito divino em tudo e a abraçar tudo o que de qualquer modo Deus quer e permite para nós, a vida da graça cresce, se desenvolve. Correspondentemente a SS.ma Trindade doa-se cada vez mais à alma, vem fazer sua morada de modo cada vez mais pleno e profundo, tornando assim possível à alma uma maior união com Ela.
+
+Também Jesus dizia: o Pai "está comigo e não me deixou só, porque faço sempre o que lhe agrada" (Jo. 8, 29).
+
+### Colóquio
+
+Ó Jesus, como eu gostaria de compreender ao menos um pouco a tua estreitíssima união com a vontade do Pai! - União não só profunda, mas inalterável, porque - eu o sei - como Deus não podes ter outra vontade senão a do Pai, e como homem a tua vontade não depende de um eu humano, mas pertence diretamente à tua Pessoa divina. Semelhante união só pode verificar-se em ti, que és o Verbo Encarnado, e, no entanto, quanto mais a contemplo, tanto mais me sinto impelido a reproduzir em mim ao menos algum traço dela. És Tu, ó Jesus, que me inspiras este desejo, Tu que te fizeste nosso irmão, nosso modelo, precisamente para que nós fôssemos semelhantes a ti. Não foste Tu que nos ensinaste a dizer ao Pai celeste: "seja feita a tua vontade assim na terra como no céu"? Oh, sim, como esta vontade divina se cumpriu perfeitamente no céu da tua santíssima Alma, assim se cumpra no pequeno céu da minha alma!
+
+"Ó bom Mestre, Tu sabes que não há nada mais vantajoso para mim do que consagrar a minha vontade ao teu Pai; e, sabendo que por esta via se pode ganhar o coração de teu Pai, tu ma ensinas e me ensinas o modo de servi-lo. Aliás, Tu mesmo te fizeste meu intermediário e também em meu nome lhe disseste: seja feita a tua vontade.
+
+"Ó divino Pai, depois que teu Filho, juntamente com a vontade de todos, te consagrou também a minha, não é razoável que eu não mantenha a sua palavra...
+
+"Ó Senhor, que força não tem diante de ti o dom da vontade! Se se fizesse com a generosidade com que deve ser feito, não poderia deixar de atrair-te, ó Onipotente, a fazer uma coisa só com a nossa fraqueza, transformando-nos em ti, a criatura no Criador... Ó meu Deus, quanto mais Tu vês que o dom da nossa vontade se manifesta não com palavras de cortesia, mas com obras, tanto mais nos atrais a ti, elevando a alma acima de si mesma e de todas as coisas terrenas... E, não contente de tê-la unido a ti mesmo, fazendo-te uma só coisa com ela, começarás a pôr nela as tuas delícias e a descobrir-lhe os teus segredos...
+
+"Neste instante, ó meu Deus, livremente e sem reserva alguma, eu te consagro a minha vontade!" (cf. T.G. Cam. 32, 4).

@@ -1,0 +1,29 @@
+## 61 — AS OBRAS DE JESUS
+
+### Presença de Deus
+
+Concede-me, ó Jesus, penetrar a imensidade das tuas obras.
+
+### Meditação
+
+1 — "As obras que o Pai me deu para cumprir, essas obras... eu as cumpro. É preciso que eu cumpra as obras daquele que me enviou" (Jo. 5, 36; 9, 4). Jesus não tem outro objetivo senão cumprir a missão que lhe foi confiada pelo Pai para a glória do próprio Pai, para a redenção da humanidade. Ele arde de desejo - "desejei ardentemente" (Lc. 22, 15) - de cumprir até o fim tal obra, e com este vivo desejo vai ao encontro da Paixão e abraça a cruz.
+
+A cada um de nós Deus confiou uma parte na grande obra redentiva de Jesus: almas consagradas a Deus, somos expressamente chamadas a colaborar na obra de Cristo. Antes de tudo devemos colaborar com a graça para que os frutos da Redenção sejam aplicados em plenitude às nossas almas: esta é a obra da nossa santificação pessoal. Mas não basta; somos chamados a santificar-nos para santificar; cada um de nós tem uma missão a cumprir para o bem, para a santificação de outras almas: trata-se de colaborar com Cristo para estender ao maior número possível de almas os frutos da Redenção. Esta é a obra que o Pai celeste nos confia; devemos aplicar-nos a ela com os mesmos sentimentos de Jesus: dedicação total, generosa, exclusiva, capaz de abraçar até os maiores sacrifícios. Toda ação nossa vale na medida em que nos leva à realização desta obra; tudo aquilo que não serve à nossa santificação ou à santificação alheia é inútil, é perda de tempo e, por isso, deve ser corajosamente eliminado.
+
+Repitamos com Jesus: convém que eu cumpra a obra que o Pai me confiou.
+
+2 — "Não estou só, porque o Pai está comigo. Meu Pai opera... e eu trabalho como ele... Como eu ouço [do Pai], julgo... Não faço nada por mim mesmo, mas falo sempre em conformidade com o que meu Pai me ensinou" (Jo. 16, 32; 5, 17-30; 8, 28).
+
+Jesus não só se entrega completamente à missão que lhe foi confiada pelo Pai, mas no cumprimento dessa missão, e em cada particular, age sempre em união com o Pai, em perfeita harmonia com ele, sempre dependendo dele, unicamente segundo o que dele escuta e nele vê. As ações de Jesus não fazem senão traduzir de modo humano, tangível, a invisível e incessante obra do Pai: "aquilo que vê o Pai fazer, isso também o Filho faz igualmente" (ibid., 5, 19); "As coisas que eu digo" - afirma Jesus - "digo-as como o Pai mas disse" (ibid., 12, 50).
+
+Toda alma em graça pode dizer: não estou só, porque a Trindade está em mim; em mim o Pai, o Filho, o Espírito Santo. À semelhança da de Jesus, a nossa atitude deve ser: operar em contínua dependência de Deus presente em nós. Escutar sua voz íntima, o movimento interior da graça e, segundo ela, agir; procurar julgar segundo os juízos de Deus, ver todas as coisas na sua luz e depois agir de modo que as nossas ações estejam sempre em harmonia com as vistas, os desígnios, o beneplácito de Deus. Também nós, de cada uma das nossas ações, deveríamos poder dizer: não faço nada sozinho, ajo segundo aquilo que Deus me inspira interiormente, segundo o que nele vejo e que a ele agrada. Todas as obras, mesmo as maiores, que saem deste quadro são vãs e estéreis.
+
+### Colóquio
+
+Ó Jesus, ponho a minha pobre alma diante da tua: digna-te infundir nela os teus sentimentos de zelo pelas obras do Pai, de dedicação plena e incondicionada à missão dele recebida. Como eu desejaria cumprir com o teu mesmo zelo e amor a pequeníssima parte que me foi designada na tua grandiosa obra redentora! Mas preciso que Tu me ensines em que deve consistir este zelo para ser verdadeiro e fecundo.
+
+Fazes-me compreender que, antes de tudo, devo empenhar-me em santificar-me, em corrigir os meus defeitos, em vencer as minhas más tendências; este é o primeiro campo que apontas ao meu zelo. E depois me ensinas a dar-me com generosidade pelo bem das almas: oração e sacrifício são as grandes armas que me mostras, aquelas mesmas que Tu usaste. Mas não te contentas que eu pense um pouco, em abstrato, em ajudar almas distantes; queres antes de tudo que eu me ocupe em concreto do bem daqueles que vivem ao meu lado. Ó Jesus, dá-me zelo e força para sacrificar-me com generosidade em favor do meu próximo, dá-me força para renunciar aos meus gostos e aos meus cômodos, para adaptar-me aos gostos alheios e pôr-me à disposição e a serviço dos outros. Ó Jesus, doce e humilde de coração, torna meu coração semelhante ao teu, porque só com humildade, com doçura e paciência poderei realizar um verdadeiro apostolado.
+
+E depois me dizes ainda que o teu zelo não quer obras puramente humanas, empreendidas mais por inclinação natural à atividade do que por moção da graça. Ó Jesus, como em todas as tuas obras Tu dependias do Pai e operavas segundo o que nele vias e dele ouvias, assim faze que todas as minhas obras dependam da luz e da inspiração divina. Esta luz, esta inspiração és Tu que ma dás, Tu que, como Verbo, estás em mim juntamente com o Pai e com o Espírito Santo. E porque és Verbo, Palavra do Pai, não podes ser mudo, mas estás em mim para que eu te escute. "Ó Verbo eterno, Palavra do meu Deus, quero passar a minha vida a escutar-te!" (E.T. El.): escutar-te para operar segundo os teus ensinamentos. Ó Verbo, Tu és a luz na qual devo tudo julgar, tudo considerar; és a palavra que deve dirigir cada ação minha. Tu és o Mestre interior sempre pronto a instruir-me, contanto que eu te escute! Ó sim, faze que também no meio da atividade a minha alma saiba permanecer à escuta da tua voz interior. Não estou só, porque Tu estás sempre comigo, em mim; faze que eu não aja como se estivesse só, mas ajuda-me a agir sempre contigo, sempre dependendo da tua luz, da tua palavra.
+
+Ó Jesus, como Tu sempre olhavas e escutavas o Pai, assim eu quero sempre olhar e escutar-te e operar segundo aquilo que em ti vejo e de ti ouço.

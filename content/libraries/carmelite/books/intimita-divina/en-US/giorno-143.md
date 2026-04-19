@@ -1,0 +1,28 @@
+## 143 — STAY WITH US
+*Easter Monday*
+
+### Presence of God
+
+— O Jesus, sweet pilgrim, do not leave me; I need you.
+
+### Meditation
+
+1. — God made us for Himself and we cannot live without Him; we need Him, we hunger and thirst for Him, the Only One who can fill our heart. The Easter liturgy is wholly pervaded by this longing for God, for what is above; indeed it presents this to us as the mark of our participation in the paschal mystery: "If you have risen with Christ, seek the things that are above, where Christ sits at the right hand of God; mind the things that are above, not those of earth" (RB.). The more the soul is renewed in Christ's Resurrection, the more it feels the need of God and of heavenly things; and so it detaches itself ever more from earthly things, to turn toward those of heaven.
+
+As physical hunger is a sign of a healthy organism full of life, so spiritual hunger is a sign of an efficient spiritual life in continual growth. The soul that does not feel the need of God, the need to seek Him and find Him, the soul that does not thrill and suffer with the yearning of this search, does not bear within itself the marks of the Resurrection: it will be a dead soul or at least a stunned one, made insensitive by tepidity. The Easter alleluia is a cry of triumph for Christ's Resurrection, but at the same time it is an urgent invitation to our own resurrection. Like a war reveille, it calls us to the combats of the spirit; it invites us to shake ourselves, to renew ourselves, to share ever more deeply in Christ's Resurrection. Who, however advanced in the ways of the spirit, can say he has totally brought about his resurrection?
+
+2. — In today's Mass we read the beautiful Gospel of the disciples of Emmaus (Lk. 24, 13-35), in which we find the pressing plea: "Stay with us, for it is toward evening and the day is now far spent."
+
+Stay with us, Lord! This is the cry of the soul that, having found its God, no longer wishes to be separated from Him. We too, like the disciples of Emmaus, go in search of the Lord; our whole life is a continual pilgrimage toward Him, and often we too are sad because we cannot find Him, because, not understanding His mysterious ways, it almost seems to us that He has abandoned us. "We had hoped that he was the one to redeem Israel, but..." said the two disciples, disappointed by Jesus' death; and they did not realize that just when they were about to lose all hope, Jesus was there beside them, having made Himself their traveling companion. So it happens with us as well: though hidden in the darkness of faith, God draws near to our souls, makes Himself companion of our journey; indeed, more than that, He lives in us by grace. It is true: here below He does not show Himself in the clarity of the "face to face" reserved for eternity, and we see Him only "through a glass, in a dark manner" (I Cor. 13, 12); yet God knows how to make Himself recognized. As to the disciples of Emmaus, so to us His presence is revealed in an obscure, yes, but unmistakable way, by that wholly particular ardor that He alone can awaken in our hearts: "Did not our hearts burn within us while he spoke to us?" The soul that, even once, has thus found the Lord, and has found Him not only outside itself but within itself, living and working in its heart, cannot refrain from crying to Him: "Stay with me!"
+
+And yet this cry is already answered; it is already a permanent reality because in fact God is always with the soul in grace; God is always with us, even when we do not feel Him, even when we do not perceive His presence. God is there, God remains with us; it is for us to remain with Him. And if at certain moments God lets Himself be recognized by the soul, He does so precisely to invite it to live with Him, in His intimacy. Let us therefore ask Him with ardor: teach us, Lord, to remain with you, to live with you.
+
+### Colloquy
+
+"My hope, my Father, my Creator, my true Lord and brother, when I think of what You say - namely, that your delights are to dwell with the children of men - my soul is flooded with joy. Lord of heaven and earth, where is the sinner who, after such words, can still despair? Perhaps, Lord, you have no one else with whom to take your delight, that you come to seek it in a loathsome worm such as I am?... O immense mercy! O favor infinitely above our merits!
+
+"Rejoice, my soul... and since the Lord finds in you His delights, let not the things of earth prevent you from finding in Him yours and from rejoicing in His greatness.
+
+"O Lord, I do not love the world, nor anything that belongs to it; apart from you I find no contentment anywhere; indeed, it seems to me that everything is a most heavy cross...
+
+"O my God, the only thing I fear - and I fear it with reason - is that You may leave me. I know well how far my little virtue and strength go, and what I can do if You do not continue to infuse strength into me and to help me so that I may not leave You... It seems to me, O Lord, that it would be impossible for me to abandon You... But since I have abandoned You so many times, now I cannot but fear, knowing that it would be enough for You to withdraw a little from me for me at once to tumble to the ground. But blessed be You, O Lord! While I was abandoning You, You never abandoned me completely; rather, You stretched out your hand so that I might at once rise again. O Lord, You who know all things, consider my weakness and do not leave me alone" (cf. T.J. Excl. 7, 1 and 3; Way 6, 9).

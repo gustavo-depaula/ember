@@ -1,0 +1,26 @@
+## 63 — THE CALMED STORM
+*Fourth Sunday after Epiphany*
+
+### Presence of God
+
+O Jesus, crucified for love of me, reveal to me the victory won by Your death.
+
+### Meditation
+
+1 — In today's liturgy, and particularly in the Gospel (Mt. 8, 23-27), Jesus appears to us as master of the elements, conqueror of every tempest.
+
+"And behold, a great tempest arose, so that the boat was covered by the waves." We can think of the persecutions that for centuries have fallen upon Peter's ship, the Church; or of the trials God permits for individual souls. In any case, the spirit of faith tells us that every kind of struggle, of tempest, is always willed or permitted, or at least not prevented, by God: "all is grace" (T.B.G.N.V.), all is fruit of His infinite love. God is not a tyrant who crushes us, but the Father who tests us precisely because He loves us: if He permits pain, interior or exterior storms, individual or social, it is only to draw from them a greater good. In difficulties, good and virtue are strengthened: the effort to react always leads one to go beyond what one would have done in full calm.
+
+Jesus sleeps tranquilly in the stern and the frightened Apostles wake Him: "Save us, Lord, we are perishing!" and He, in a tone of reproach, answers: "Why are you afraid, men of little faith?"
+
+If in trials we are dismayed, we lose ourselves, fundamentally it is always for lack of faith. Even when God hides Himself, everything seems to collapse and we feel terribly alone, it is absolutely certain that He never abandons us, unless we are the first to abandon Him. Instead of becoming bitter or despairing, this is the moment to intensify our faith, to make vigorous acts of it: "I count on Him," said St. Thérèse of the Child Jesus, "Pain may reach its peak, but I am sure He will not abandon me" (St. 12).
+
+2 — The Apostles were saved only when they had recourse to Jesus: as long as they had struggled and toiled alone, they had succeeded in nothing. Many times we fail to overcome certain interior struggles precisely because we work alone, but the Lord wants to make us experience that our effort is not enough if His work does not intervene, and therefore He leaves us in the storm until we have recourse to Him with full confidence. Certainly God wants our efforts, but He does not want us to base all our hopes on them. This is the reason for so many failed advances in the way of holiness: relying too much on one's own personal resources and little on God's help. One must be well convinced that "our sufficiency is from God" (II Cor. 3, 5); one must have less trust in ourselves and more trust in God. Jesus can do all and trust works miracles. "One obtains from God what one hopes from Him" (J.C.N. II, 21, 8).
+
+But we can consider another kind of storms: those provoked by difficulties sometimes encountered in relations with neighbor. The remedy is indicated to us by St. Paul in the Epistle (Rom. 13, 8-10): "Owe no one anything except to love one another." Love conquers all: love of God conquers interior storms; love of neighbor, which loves brothers and sisters for love of God, conquers storms that derive from divisions, misunderstandings, clashes of temperament. If from certain persons we receive only bitterness and wrongs, let us follow St. John of the Cross's precious counsel: "where there is no love, put love and you will draw out love" (Lt. 22).
+
+### Colloquy
+
+"My God, how true it is that You are a strong and generous friend, who can do all You will and do not cease to love those who love You! Let all creatures praise You, sovereign Lord of the world! Let it be proclaimed everywhere that You are faithful with Your friends! Everything fails, but not You, O Creator of all, who never leave those who love You to suffer too much. With what delicacy, Lord, with what tender care You know how to console them! Most happy is he who has loved none but You! If You test Your lovers with rigor, it seems, my God, only so that, in the excess of their sufferings, the greater excess of Your love may be shown. And why, Lord, because I have no height of intellect and doctrine, because I cannot forge new words to exalt the magnificence of Your works as I feel it? I lack everything, my God, but if You do not leave me, I will not fail You! Let all the learned in the world rise to persecute me, let all things rise up against me, let all demons torment me, but do not fail me, Lord; for I already know by experience the advantages that are gained by placing all trust in You!..." (cf. T.G. Vi. 25, 17).
+
+O Lord, strip me of every confidence in my own strength, make me understand well that without You I can do nothing: make me understand it in practice too, even if this will be painful and humiliating for me. No, Lord, I no longer want to trust in myself, but I want to place my confidence in You alone. With Your help I will continue to strive to practice virtue, to progress in Your ways, but always with my gaze fixed on You, divine Sun, who alone can make my poor efforts fruitful and bring the fruits of virtue to maturity. And in storms I will take refuge in You, I will invoke You with all the strength of my heart and my faith, sure that You will give me that peace and that victory which I would seek in vain far from You.

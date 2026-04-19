@@ -1,0 +1,28 @@
+## 48 — LIVING IN CHRIST
+
+### Presence of God
+
+— Make me understand, O Lord, the sweetness and the responsibility of the great duty You impose on me by communicating Your life to me: to die to myself in order to live in You alone.
+
+### Meditation
+
+1 — "Unless one is born of water and the Holy Spirit, he cannot enter the kingdom of God" (Jn. 3, 5). We cannot reach God and His kingdom except through Christ and incorporated into Him: this incorporation was effected in us "through water and the Holy Spirit" on the blessed day of our baptism. Jesus said to Nicodemus: "You must be born again"; and it is truly a new birth, because through baptism we receive a new seed of life. Before the sacrament there is in us a purely human life; after the sacrament there is in us a participation in divine life; incorporated into Christ as His members, we receive the Holy Spirit who diffuses in us Christ's grace. "As many of you as were baptized into Christ" - St. Paul wrote to the Galatians - "have put on Christ" (3, 27). On the day of baptism we were born in Christ and in Him we became that "new creature," born not of the flesh but of the Spirit, born "not of blood... nor of the will of man," but born only "of God" (Jn. 1, 13).
+
+Born in Christ, we must live in Christ, we must walk in Christ, according to the Apostle's exhortation: "live in Him, rooted and built up in Him" (Col. 2, 6). Baptism made us be born in Christ; the other sacraments are intended not only to restore but also to strengthen, to root, to build up our life in Christ.
+
+2 — "O God... grant us to become partakers of the divinity of Him who deigned to become partaker of our humanity." We can say that this prayer - which the Church repeats at the Offertory of every Mass - was answered beforehand, because from the day of our baptism we were made partakers of Christ's divinity. But the gift that was given to us without any merit of ours requires our correspondence. "Recognize, O Christian, your dignity" - exclaims St. Leo - "and, having become a partaker of the divine nature, do not wish, by an unworthy manner of life, to return to your former baseness. Remember of what Head and of what Body you are a member."
+
+Everything that is sin, that is fault or voluntary negligence, dishonors Christ our Head, grieves the Holy Spirit who dwells in us. But the soul consecrated to God cannot be content with avoiding sin; it must be concerned with making Christ's life grow in it. In natural life we grow even without the cooperation of our will, but in the life of grace it is not so: without our cooperation, it can remain in us still at an initial stage after twenty, thirty, fifty years from our baptism, after hundreds of confessions and communions. And then, what monstrous disproportion! Adults and perhaps old according to nature, we continue to be children according to grace.
+
+We must grow in Christ; Christ must grow in us. Let the Baptist's word become our program: "that He may increase and that I may decrease" (Jn. 3, 30); here are the demands of the development of grace in us: to put to death "the old man," with his bad habits, his faults, his imperfections, so that Christ's life may grow in us unto perfect age.
+
+### Colloquy
+
+"O my Lord, how poorly we make use of Your benefits! To make us know the love You bear us, You resort to every kind of means and inventions; we, on the contrary, are so little practiced in Your love that we make little account of it. Little accustomed to this exercise, we let our thoughts go where they are accustomed to go, without caring at all to delve into the great mysteries of Your infinite love.
+
+"How miserable is the wisdom of mortals, and uncertain their foresight! In Your providence, supply me with the means necessary to serve You not as I wish, but as You wish... Let this self now die, and let Him live in me who is greater than I and better for me than I am for myself, so that I may serve Him. Let Him live and give me life; let Him reign and keep me as His slave, since now my soul wants no other freedom.
+
+"How can one be free who has withdrawn from You, Most High? Is there perhaps a greater and more miserable slavery than that of a soul withdrawn from the hand of its Creator? O my God, happy those who, bound by the benefits of Your mercy as by so many shackles and chains, feel themselves so enslaved as to be unable to free themselves!... O free will, how you make yourself slave to your freedom when you refuse to be nailed down by the love and fear of Him who created you!" (T.G. P. 1,4; Es. 17,3 and 4).
+
+O Lord, when I think that I have the tremendous power to paralyze in me the action of grace, the action of the Holy Spirit, I feel that the greatest mercy You can show me is precisely that of captivating my freedom with Your love so as to render it forever Your prisoner. My Jesus, I beg You, take from me the freedom to frustrate Your graces, to live in a purely human way as if in me there did not throb a seed of divine life. Oh, I understand it: I am greatly distracted, greatly forgetful; I am superficial, I let myself be taken up by a multitude of tasks, of material, exterior things, and I forget supernatural realities which I do not see, which do not strike my senses and which, nevertheless, are the most beautiful and the truest.
+O Lord, only Your love can have the power to conquer the great fickleness of my mind and my heart so as to fix them in You, that I may live more interiorly than exteriorly, more by You and Your grace than by my self and earthly things.

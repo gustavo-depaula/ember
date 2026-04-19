@@ -1,0 +1,29 @@
+## 255 — NÃO JULGUEIS
+
+### Presença de Deus
+
+Ó Senhor, preserva a minha mente de julgar e criticar o próximo e dá-me para todos pensamentos de bondade e de amor.
+
+### Meditação
+
+1. — «Não julgueis, para que não sejais julgados» (Mt. 7, 1). A caridade para com o próximo começa pelo pensamento; muitas faltas de caridade têm a sua raiz justamente em nossos juízos. Não estimamos bastante os outros, não levamos bastante em conta as suas boas qualidades, não somos benevolentes ao interpretar o seu modo de agir. Por quê? Porque quase sempre julgamos o próximo com base em seus defeitos e sobretudo naqueles que ferem a nossa sensibilidade, que chocam com o nosso modo de ver e de fazer, enquanto damos pouco ou nenhum valor aos seus lados bons.
+
+É um grave erro julgar pessoas e coisas do ponto de vista negativo e é também ilógico, porque, se o negativo existe, existe somente como defeito de alguma coisa positiva, de algo bom, como o rasgo de uma veste só existe enquanto existe aquela veste. Quando nos detemos a criticar os lados negativos de uma pessoa ou de um ambiente, fazemos obra demolidora: demolidora para a nossa virtude pessoal e para o bem do próximo. Para fazer obra construtiva, ao contrário, é preciso ultrapassar o defeito e saber valorizar as qualidades e os lados bons que nunca faltam em pessoa alguma.
+
+Além disso, não temos também nós muitos defeitos, e talvez mais graves que os do próximo? «Por que olhas o argueiro no olho do teu irmão e não reparas na trave que está no teu?» (Mt. 7, 3). Consideremos seriamente estas palavras de Jesus, porque, infelizmente, não é difícil que, embora desejando santificar-nos, se aninhe ainda em nosso coração algo deste detestável espírito crítico, desta dupla medida ao considerar os nossos defeitos e os defeitos alheios. Quanto progresso faríamos na caridade fraterna e na aquisição da perfeição pessoal se, diante dos defeitos alheios, em vez de criticá-los, nos examinássemos para ver se não há em nós algo semelhante ou talvez pior e nos aplicássemos a emendar-nos! Dizia Santa Teresa de Jesus às suas monjas: «Quando descobrirdes em vossas irmãs algum defeito... procurai exercitar com toda perfeição possível a virtude contrária à falta que nelas observastes» (Caminho 7, 7); é justamente este um dos melhores modos de ajudar também os outros a corrigirem-se.
+
+2. — O juízo é coisa reservada somente a Deus, porque só Deus vê o íntimo dos corações, conhece as intenções e os motivos que nos levam a agir: «enquanto o homem olha a aparência, o Senhor olha o coração» (1 Sm. 16, 7). Por isso, quem julga — a não ser que seja obrigado por ofício, como os superiores — usurpa em certo sentido o direito de Deus, põe-se no lugar de Deus. Erigir-se em juiz dos próprios irmãos inclui sempre uma atitude de orgulho diante de Deus e do próximo. Além disso, julgando com facilidade os outros, expomo-nos a cometer erros grosseiros, justamente porque, não conhecendo as intenções alheias, faltam-nos elementos suficientes para formular um juízo reto.
+
+Evidentemente, diante de uma ação em si reprovável não somos obrigados a julgá-la boa; contudo, devemos saber escusar a intenção de quem a pratica, não a atribuindo logo à má vontade. «Se as ações do próximo tivessem cem faces, deveríamos considerá-las segundo a melhor; e se depois a ação é repreensível, escusemos ao menos a intenção» (S. Francisco de Sales, Esprit, p. 413).
+
+De fato, também eu cometo cada dia muitas faltas, também eu caio em tantos defeitos; mas isso não significa que tudo dependa de má vontade. Muitas vezes são faltas que me escapam por inadvertência, por fragilidade; e o Senhor, contanto que eu deteste essas minhas fraquezas, quer que eu continue a ter plena confiança no seu amor, e Ele continua a amar-me. Como é para mim, assim é para os outros; não tenho, portanto, nenhum direito de duvidar da boa vontade do próximo só porque o vejo cometer faltas, e tampouco tenho o direito de diminuir por esse motivo a minha benevolência e a minha estima por ele. Talvez aquela pessoa que tanto censuro já tenha detestado e chorado em seu coração os seus defeitos mais do que eu faço pelos meus; o Senhor já a perdoou e continua a amá-la; quererei eu, então, ser mais severo que o Senhor? Devo então lembrar-me de que aquela severidade que eu uso para com o próximo, o próprio Deus a usará para comigo, porque Jesus disse: «Sereis julgados com o mesmo juízo com que tiverdes julgado, e sereis medidos com a mesma medida com que tiverdes medido» (Mt. 7, 2).
+
+### Colóquio
+
+«Quem julga és Tu, ó Jesus! E para tornar-me favorável o teu juízo, ou melhor, para não ser julgada, pois Tu disseste: 'não julgueis e não sereis julgados', quero sempre alimentar pensamentos indulgentes. Por isso, quando me acontecer ver alguma coisa irregular, procurarei logo escusar o culpado e atribuir-lhe boas intenções, que ele certamente tem.
+
+«Ó Jesus, Tu me fazes compreender que a principal indulgência plenária é aquela que todos podem adquirir sem as condições habituais: é a indulgência da caridade que cobre a multidão dos pecados» (cf. T.B.G. St. 9 e 10; CR.).
+
+«Ensina-me, ó Senhor, a não julgar o próximo por defeito algum que eu o veja cometer; e se o vir pecar, dá-me graça de escusar-lhe a intenção, a qual é oculta e não se pode ver. Mas, ainda que eu visse que a intenção foi abertamente má, dá-me graça de escusar o próximo pela tentação da qual nenhum mortal é excluído» (Santa Maria Madalena de' Pazzi).
+
+«Ó Senhor, ajuda-me a não considerar no próximo nada mais que as virtudes e as boas obras e a cobrir os defeitos alheios com os meus grandes pecados. Deste modo Tu me conduzirás, pouco a pouco, a uma virtude tão sólida de considerar os outros sempre melhores do que eu. Mas, para chegar a isso, o teu auxílio me é absolutamente necessário: sem ti, de fato, as minhas diligências são todas inúteis; por isso te suplico que Tu mesmo ponhas em mim esta virtude» (cf. Santa Teresa de Jesus, Vida 13, 10).

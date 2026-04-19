@@ -1,0 +1,29 @@
+## 264 — THE ASSUMPTION OF MARY
+
+### Presence of God
+
+O Most Holy Mary assumed into heaven, I beg you to purify my senses, so that I may learn to taste God even here below.
+
+### Meditation
+
+1. — Our Lady, whom today we contemplate assumed into the glory of heaven in soul and body, reminds us with very particular force that our stable dwelling is not earth but heaven, where, together with her divine Son, she has preceded us in the wholeness of her person. This is the dominant thought of today's liturgy: "Almighty and eternal God," says the day's Collect, "who raised in body and soul to heavenly glory the Immaculate Virgin Mary, Mother of your Son, grant, we beseech You, that always intent on heavenly things we may merit to be associated with her glory." Yes, the feast of the Assumption is for us a strong call to live "always intent on heavenly goods," not letting ourselves be swept away by the vicissitudes and allurements of earthly life. Not only our soul is created for heaven, but also the body, which after the resurrection of the flesh will be welcomed into the heavenly dwellings and admitted to share in the glory of the spirit. This full glorification of our humanity, which for us and for our saints will be realized only at the end of time, today we contemplate as already fully realized in Mary, our Mother. This was most fitting for her, all pure and all holy, whose body was never touched by the shadow of evil, but was always temple of the Holy Spirit, whose virginal womb was the immaculate tabernacle of the Son of God. And this calls us to raise our whole life, not only that of the spirit but also that of the senses, to the height of the heavenly life that awaits us. "O Mother of God and Mother of men," exclaims Pius XII in his beautiful prayer to Our Lady Assumed, "we beg you to purify our senses, so that we may learn, even from here below, to taste God, God alone, in the charm of creatures."
+
+2. — The Assumption of the Most Holy Virgin points out to us the itinerary of our spiritual ascent: detachment from earth, impulse toward God, union with God.
+
+Our Lady was assumed into heaven in soul and body because she is the Immaculate: she, so pure not only from every shadow of fault but also from every least attachment to earthly things, "in her soul never had impressed any form of creature that moved her to act" (St. John of the Cross, Ascent III, 2, 11). The first condition for reaching God is precisely total purity, fruit of total detachment. Our Lady, who lived our earthly life in absolute detachment from every created thing, teaches us not to let ourselves be enthralled by creatures' fascination, but to live among them, to occupy ourselves with them with much charity indeed, yet never attaching our heart to them, never seeking in them our satisfaction.
+
+Our Lady Assumed speaks to us of a surge toward heaven, toward God. It is not enough to purify the heart from every sin and from every attachment; one must at the same time launch it toward God, tending to Him with all our strength. "O Lord," the Church has us pray in the Mass of the day, "through the intercession of the Blessed Virgin Mary assumed into heaven, may our hearts, inflamed by the fire of your love, aspire unceasingly to You" (Secret). Our earthly life is worth for eternal life insofar as it is an impulse toward God, a continual search for Him, continual adhesion to his grace. When this impulse fails, the ultra-earthly value of our existence fails as well.
+
+Mary was assumed into heaven because she is the Mother of God, and this highest privilege of hers, root and motive of all the others, speaks to us in a particular way of intimate union with God, as does the fact of the Assumption to beatifying union of heaven. Our Lady Assumed therefore confirms us in this great and sweet truth: we are created and called to union with God; and Our Lady herself extends her maternal hand to arouse us to the attainment of so lofty an ideal. With our gaze fixed on her, the way will be easier: she will be "our guide, strength, and consolation" in every struggle and difficulty.
+
+### Colloquy
+
+"O Immaculate Virgin, Mother of God and Mother of men.
+
+"We believe with all the fervor of our faith in your triumphant Assumption in soul and body into heaven, where you are acclaimed Queen by all choirs of angels and all hosts of saints; and with them we unite to praise and bless the Lord, who has exalted you above all other pure creatures, and to offer you the longing of our devotion and our love.
+
+"We know that your gaze, which maternally caressed the humble and suffering humanity of Jesus on earth, is satisfied in heaven by the sight of the glorious humanity of uncreated Wisdom; and that the joy of your soul in contemplating face to face the adorable Trinity makes your heart leap with beatifying tenderness. And we, poor sinners, we to whom the body burdens the flight of the soul, pray you to purify our senses so that we may learn, even from here below, to taste God, God alone, in the charm of creatures.
+
+"We trust that your merciful eyes look down on our miseries and our anguishes, on our struggles and our weaknesses; that your lips smile upon our joys and our victories; that you hear Jesus' voice saying to you of each one of us, as once of his beloved disciple: 'Behold your son.' And we, who invoke you as our Mother, we take you, like John, as guide, strength, and consolation of our mortal life.
+
+"From this earth, where we pass as pilgrims, comforted by faith in the future resurrection, we look toward you, our life, our sweetness, our hope. Draw us by the sweetness of your voice, to show us one day, after our exile, Jesus, blessed fruit of your womb, O clement, O loving, O sweet Virgin Mary" (Pius XII).

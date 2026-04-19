@@ -1,0 +1,29 @@
+## 57 — "EU SOU O CAMINHO"
+
+### Presença de Deus
+
+Ó Jesus, meu doce Mestre, toma-me pela mão e guia-me ao Pai: só Tu és o caminho da salvação e da santidade.
+
+### Meditação
+
+1 — Jesus não é só o Mestre que nos ensina a tender para a perfeição do Pai celeste, mas é o modelo vivo desta perfeição. Os homens, por mais santos que possam ser, são sempre por sua natureza tão limitados e imperfeitos que não podem servir-nos de modelos completos, e Deus, que é a própria santidade, nós não o podemos ver. E eis que o Filho de Deus, sua viva imagem, fazendo-se homem, encarna em si a infinita perfeição dele. Em Jesus vemos, conhecemos, tocamos, por assim dizer, a santidade de Deus: a perfeição divina, que escapava à nossa experiência, que era inacessível aos nossos sentidos, nós a encontramos viva, concreta, tangível em Cristo Senhor. O Pai o apresentou ao mundo como seu Filho amado em quem se compraz, justamente porque vê nele a perfeita imagem de si mesmo, de todas as suas infinitas perfeições; o Pai, portanto, no-lo dá não só como Mestre, mas também como Modelo, pois desde a eternidade nos "predestinou a ser conformes à imagem de seu Filho" (Rom. 8, 29).
+
+O próprio Jesus se declarou nosso único Modelo: "Eu sou o caminho... ninguém vem ao Pai senão por mim" (Jo. 14, 6): Ele, com seu exemplo, mostra-nos como nesta terra podemos aproximar-nos da perfeição divina.
+
+E disse-nos expressamente que devemos imitá-lo: "Eu vos dei o exemplo, para que também vós façais como eu vos fiz" (ibid., 13, 15); "Aprendei de mim, que sou manso e humilde de coração" (Mt. 11, 29). Imitando Jesus, imitamos o Pai celeste; esforçando-nos por praticar as virtudes como Ele as praticou, aproximamo-nos da infinita perfeição de Deus; conformando-nos à imagem de Cristo, conformamo-nos à imagem de Deus.
+
+2 — Nos Atos dos Apóstolos está dito que Jesus "começou a fazer e a ensinar" (1, 1): todas as suas ações são modelo das nossas; as virtudes que Jesus nos propõe, Ele, em primeiro lugar, as praticou no grau máximo, de modo perfeitíssimo. E, depois de fazer, ensinou-nos a fazer como ele: a sua doutrina nos mostra precisamente qual deve ser a nossa conduta para se assemelhar à sua. Por isso toda a tradição cristã proclama que a via da santidade é a imitação de Cristo. S. João da Cruz ensina: "Primeiramente, é necessário que a alma alimente um contínuo e vivo desejo de imitar Cristo em tudo, conformando-se à vida dele, a qual deve ser bem considerada para poder imitá-la, e portar-se em cada circunstância nem mais nem menos como Ele se portaria" (S.I, 13, 3).
+
+Não se trata, porém, de uma imitação puramente externa, material, das ações de Jesus, mas é preciso chegar a estudar, a penetrar as íntimas disposições de sua Alma para torná-las nossas, segundo o conselho de S. Paulo: "Tende em vós os mesmos sentimentos que houve também em Jesus Cristo" (Fil. 2, 5). Deste modo, a imitação de Jesus apreende nele o que há de mais profundo e vital, isto é, as íntimas disposições que constituem o princípio interior de todas as suas ações; e, por outro lado, é acessível a todos em qualquer estado e condição de vida, ao passo que a imitação material das ações de Jesus nunca pode ser completa e varia sempre segundo as circunstâncias em que cada um se encontra.
+
+### Colóquio
+
+"Ó Cristo, verdade eterna, qual é a tua doutrina? E qual é o caminho pelo qual Tu nos convidas e convém que vamos ao Pai? Não sei ver outra estrada senão aquela que Tu pavimentaste com as verdadeiras e reais virtudes: com o fogo da tua caridade, Tu, Verbo eterno, a bateste com o teu Sangue: este é o caminho.
+
+"Ó doce e amoroso Verbo, Tu me dizes: 'Eis que te fiz o caminho e abri a porta com o meu Sangue: não sejas, pois, negligente em segui-la. Mas toma o caminho traçado por mim, eterna Verdade, e batido com o meu Sangue'. Levanta-te, pois, minha alma, e segue o teu Redentor, porque ninguém pode ir ao Pai senão por ele. Ó doce Cristo, Cristo amor, Tu és o caminho e a porta por onde convém entrar para chegar ao Pai" (S. Catarina de Sena).
+
+Ó Jesus, és verdadeiramente o meu modelo, o meu caminho! Tudo o que nos revelaste da infinita santidade do Pai, tudo o que nos ensinaste, eu vejo encarnado na tua vida, nas tuas ações; que bom Mestre és Tu, e como te adaptas à minha fraqueza, que precisa não só de saber, mas de ver em concreto o que deve fazer! Se me custa humilhar-me, eis que te apresentas a mim reduzido a Menino impotente e pobre numa manjedoura, num recinto de animais; ou me mostras os longos anos passados na oficina de Nazaré, as humilhações nos tribunais e na cruz; se me repugna obedecer, eis que te vejo, meu Deus, obedecer a Maria e a José, tuas criaturas, obedecer e submeter-te, como Cordeiro manso, aos juízes e aos algozes; se me é difícil praticar a caridade fraterna, não tenho senão contemplar-te enquanto cercas dos mais amorosos cuidados os pecadores mais obstinados e os teus mais acerbos inimigos. Em ti, ó Jesus, encontro tudo: encontro a vida, encontro o ensinamento, encontro o exemplo. Em ti possuo e vejo o meu Deus, em ti tenho o Mediador que a Deus me conduz, em ti o Mestre e o Modelo da santidade.
+
+Ó Jesus, permite-me dizer-te que, como o Pai se compraz em ti, assim Tu és para mim, mísera tua criatura, o objeto único das minhas complacências: tudo o que procuro encontro em ti, só Tu me bastas.
+
+Faze, Senhor, que a tua doce figura esteja sempre impressa na minha mente e no meu coração, faze que o meu olhar interior esteja sempre voltado para ti, para que em tudo eu possa modelar-me por ti, meu Mestre, meu Modelo, meu Caminho!

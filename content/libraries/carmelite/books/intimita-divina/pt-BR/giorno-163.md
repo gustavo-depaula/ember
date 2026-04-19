@@ -1,0 +1,30 @@
+## 163 — A GRANDE PROMESSA
+*IV Domingo depois da Páscoa*
+
+### Presença de Deus
+
+Ó Jesus, dispõe meu coração para acolher o Espírito Santo que nos prometeste e mereceste.
+
+### Meditação
+
+1. — Desde o domingo passado a Igreja começou a preparar-nos para a Ascensão do Senhor; hoje, retomando o assunto, dá um passo adiante, isto é, fala-nos da vinda do Espírito Santo e, para isso, serve-se ainda de um trecho do discurso de Jesus depois da última Ceia.
+
+É sempre o Senhor que fala aos Apóstolos e continua a dispor seus ânimos para a sua partida; eles escutam tristes e pensativos, sem ter coragem de interrogá-lo. E o Senhor, como uma boa mãe, rompe aquele penoso silêncio: «Vou para Aquele que me enviou; e nenhum de vós me pergunta: Para onde vais?» e então se apressa a consolá-los: «Convém-vos que eu vá, porque se eu não for o Paráclito não virá a vós; mas se eu for, vo-lo enviarei». De fato, somente a morte de Jesus nos teria merecido este grande dom e somente depois de sua Ascensão ao céu o Espírito Santo, o Enviado do Pai e do Filho, teria efetivamente descido sobre a Igreja. Os Apóstolos estão para perder a presença sensível, física, do Mestre adorado, mas este não os deixará órfãos e continuará a assisti-los invisivelmente por meio do seu Espírito, que prosseguirá junto deles sua obra. Jesus viveu no meio deles de modo visível, o Espírito Santo o fará, ao contrário, de modo secreto e escondido, mas nem por isso menos eficaz e menos real. Antes - o próprio Jesus o diz - a ação do divino Paráclito completará a sua. «Ainda tenho muitas coisas a dizer-vos, mas por ora não as podeis suportar. Quando vier o Espírito de verdade, Ele vos ensinará toda a verdade. Ele... tomará do que é meu e vo-lo anunciará». O coração dos Apóstolos, ainda embotado pelo pecado, não pode entender as verdades mais profundas; será necessário que Jesus, morrendo na Cruz, destrua o pecado - o grande obstáculo à ação do Espírito Santo - e depois, subido ao Céu, nos envie o divino Paráclito, merecido para nós por sua Paixão.
+
+O envio do Espírito Santo às nossas almas é o máximo fruto da Paixão de Jesus.
+
+2. — Do Evangelho de hoje podemos tirar algumas aplicações práticas. Antes de tudo, devemos dispor-nos com ardor para Pentecostes a fim de que se renove em nós, com grande plenitude, a descida do Espírito Santo. E, como o obstáculo à efusão do Espírito Santo é precisamente o pecado, nossa preparação consista numa particular pureza de consciência. O pecado deve ser destruído em nós não só em suas manifestações atuais, por mais leves que sejam, mas também em suas raízes mais profundas e escondidas.
+
+Devemos além disso estar convencidos de que na alma em graça, tanto mais quando ela procura corresponder com fidelidade às moções divinas, nunca falta uma certa ação do Espírito Santo e não é de modo algum necessário que esta seja sensível e consoladora. Também na aridez e no desalento o Espírito Santo trabalha na alma fiel: é uma ação toda secreta e escondida, mas real e eficaz, que visa principalmente purificá-la e dispô-la à união com Deus. A alma que está convencida disso mantém-se confiante mesmo através das dificuldades e, se não compreende nem vê seu caminho, entrega-se ao Espírito Santo que bem sabe e bem vê para onde quer conduzi-la.
+
+Enfim, o Evangelho de hoje nos convida a invocar a ação do Espírito Santo sobre a Igreja e sobre o mundo inteiro. Sobre a Igreja para que a governe e a dirija ao cumprimento de sua missão, sobre o mundo para que o convença da verdade por ele rejeitada. «E quando Ele vier - disse Jesus - convencerá o mundo do pecado, da justiça e do juízo», isto é, mostrar-lhe-á que é escravo do pecado por não ter crido em Cristo, far-lhe-á compreender como só nEle, o Redentor, está a justiça e a santidade e mostrar-lhe-á que o demônio, o «príncipe deste mundo», já está vencido e condenado.
+
+### Colóquio
+
+«Ah! Verbo eterno, dize-me, peço-te: qual é a causa que impede que o Espírito Santo cumpra na alma toda inteira sua obra? E Tu me dizes que o primeiro impedimento é a malícia; outro impedimento é o próprio querer, pelo qual queremos servir-te, mas ao nosso modo. Queremos teu Espírito, sim, mas o queremos do modo que nos agrada e quanto nos agrada, e assim nos tornamos inábeis para recebê-lo. Outras vezes este impedimento é a tibieza, de modo que nos parece servir-te e não percebemos que servimos a nós mesmos. Mas Tu, ó Senhor, queres ser servido sem amor-próprio, mas com sinceridade e humildade. Assim teu Espírito não repousa senão naquela alma que se encontra no centro da própria humildade. Mas ah! amoroso Verbo, eu quereria saber o que devo fazer contra esses impedimentos, porque de que me adiantaria tê-los entendido, se não soubesse o remédio? Eis: o remédio para a malícia é a intenção reta e simples; o remédio para o próprio querer é uma vontade morta a ponto de não querer senão aquilo que é tua vontade. O remédio para a tibieza é o ardor da caridade que à maneira de fogo desce nos corações e queima toda tibieza» (S. M. Madalena de' Pazzi).
+
+«Vem, ó Espírito Santo, santifica-me! Vem, ó Espírito de verdade, enche-me! Tua sabedoria divina me estabelecerá na verdade. Tenho sede dela e quereria que a verdade reinasse em minha mente, em minhas palavras, em meus afetos, em minhas ações, evitando tudo o que lhe é contrário, e não só a mentira, mas também as dissimulações, as duplicidades, as faltas de sinceridade comigo mesma.
+
+«Vem, ó Tu de paz, dá-me tua paz! Aquela paz profunda que dilata a alma, que a torna apta para tuas operações, que acalma e domina toda a parte sensível e também a superior.
+
+«Vem, ó Espírito de caridade, acende-me e faze que eu esteja tão inflamada de teu amor a ponto de derramá-lo sobre todas as almas que eu quereria levar todas a ti! Oh! transforma-me em amor; só assim poderei responder plenamente ao teu chamado e ser útil à Igreja» (Sr. Carmela do Espírito Santo, c.s.).

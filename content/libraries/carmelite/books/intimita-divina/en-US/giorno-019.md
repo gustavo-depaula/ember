@@ -1,0 +1,29 @@
+## 19 — SEEKING GOD IN LOVE
+
+### Presence of God
+
+O Lord, help me to concentrate all my affections in You, so that my heart may always know how to seek You alone.
+
+### Meditation
+
+1 — Faith "serves as feet by which the soul goes to God, and love is the guide that sets it on the way" (J.C. C. 1, 11). Charity follows faith; in this life faith and charity go, so to speak, hand in hand: one leans on the other, one progresses as the other progresses, and both immerse the soul ever more in God. The soul that with all its strength believes that God is truly God, that He is the supreme Being to whom we all belong and who deserves all our love, will love Him strongly, and in it what St. John of the Cross says will be fulfilled: "The soul will merit that love unveil to it what faith contains in itself" (ibid.). That is, faith makes us believe in God's greatness, mercy, infinite charity, but love will make us taste and almost experience them. This is realized especially in contemplative prayer in which God draws the soul to Himself; but even apart from this, we must exercise ourselves in charity in order to go to God "with the steps of love."
+
+Jesus Himself asked us for the exercise of this virtue to the highest degree: "You shall love the Lord your God with all your heart, with all your soul, with all your mind and with all your strength" (Mk. 12, 30). St. Paul exhorts: "Walk in love" (Eph. 5, 2), and St. Thomas teaches: "Love is the life of the soul." Yet the love that belongs to the virtue of charity is pure benevolence toward God; its purity is the condition of its intensity: that is, this love must consist in the sole desire to please God and do His will, without seeking personal satisfactions.
+
+2 — The love with which we must go to God does not consist in feeling, but is an act of the will. To love is "to will good"; to love God is "to will good to God"; the good we can desire for God is what Jesus Himself taught us to ask of our heavenly Father: "Hallowed be Thy name; Thy will be done." Since God is the infinite Good on whom everything depends, the good that He desires and is pleased with is nothing other than His glory and the fulfillment of His holy will.
+
+Therefore, we love God to the extent that we apply ourselves to fulfilling His will, without any personal concern or self-seeking. St. John of the Cross teaches that if the soul seeks in God pleasure and sweetness, "it does not love God with purity, above all things" (Lt. 11), for together with Him it also loves its own satisfaction; therefore it has a divided heart between love of God and love of self and is incapable of "placing in Him all the strength of the will." Therefore, the Saint concludes, "it must remain with hunger and thirst for God alone, without wishing to satisfy itself in anything else" (ibid.). The soul that, moment by moment and in each action, seeks nothing but to do God's will truly seeks God in love and is effectively united with Him, even while tasting no sweetness. But since it is always true that "if the soul seeks God, much more does its beloved Lord seek her" (J.C. F. 3, 28), at times He may draw it to Himself, making it taste the sweetness of His love, the joy of being wholly His; nevertheless, not even then may the soul stop in such consolations to satisfy itself, but, accepting them humbly, must use them to give itself to God with greater resolve and generosity.
+
+\* Cf. Fr. Gabriel of St. Mary Magdalene: Union with God according to St. John of the Cross, pp. 63 and 64.
+
+### Colloquy
+
+Grant me, O Lord, this pure and strong love that seeks You alone through a continual and generous adherence to Your holy will. Let Your will be my food and my drink, as it was for Jesus; grant that, like Jesus, I may hunger and thirst only for Your divine will and apply all my faith to recognize it and all my love to fulfill it in every circumstance of my life.
+
+If I learn to look at them with the eye of faith, my duties, my daily occupations present to me, moment by moment and under various aspects, Your will. Your will that asks of me that work, that service, those practices of piety, those acts of charity. And if I know how to do this with fidelity and constancy, I will truly know how to "seek You in love" and You will not delay in letting my soul find You.
+
+But how weak my love is, O Lord, how feeble, how easily it stops before difficulties, gets lost before trials, grows dismayed in dryness!
+
+"How could I have a love worthy of You, my God, if You do not strengthen it with the very love You have for me? Only love gives value to works and the one necessary thing is that love be so strong that nothing can smother it. But, alas, I have only words, nor am I capable of anything else. Grant, O Lord, that at least my desires may have value before You, without looking at the smallness of my merits. May we all deserve to love You, Lord! Since one must live, let all live for You, forgetful of every care and interest of our own. What is greater than meriting to please You?... Lord, I desire to please You. I know well that no creature can satisfy me. Therefore You will not blame my longings. Here I am, Lord! If to serve You in some way I must suffer, I refuse none of the crosses that may await me on earth... But what shall I do to please You, O my Delight and my God? Since I serve You in nothing, I must at least console myself with some little service. Happy the one who serves You with great works! If my desire and envy for this were worth anything, I certainly would not be among the last in pleasing You. But I am good for nothing, Lord! Give me a little strength, You who love me so much!" (T.G. Es. 5, 2; 15, 3, 3 and 2; Vi. 30, 13).
+
+O Lord, in my weakness, I cannot ask You to do great things; I do not even want to ask You for consolations or sweetnesses; I desire only that You grant me to be able to show You my love, to know how to "seek You in love," by doing Your will moment by moment.

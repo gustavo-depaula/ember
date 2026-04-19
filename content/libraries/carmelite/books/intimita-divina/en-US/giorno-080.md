@@ -1,0 +1,32 @@
+## 80 — THE ESSENCE OF DETACHMENT
+
+### Presence of God
+
+O Lord, make me understand in what that total detachment consists which You require of the soul that wants to reach union with You.
+
+### Meditation
+
+1 — "The soul has only one will, and this, if it becomes entangled in [disordered] affection for anything, does not remain free, alone, and pure as is required for divine transformation" (A. I, 11, 6). St. John of the Cross's teaching corresponds perfectly to the greatest precept given us by Jesus: "You shall love the Lord your God with all your heart, with all your soul, with all your strength and with all your mind" (Lk. 10, 27). If the heart is occupied by disordered affections for one's own self or for creatures, it is clear that it cannot love God with all its strength, but that strength will be divided between God and self, between God and creatures. Therefore, to fulfill the precept of charity proposed by Jesus to all Christians, radical renunciation is necessary of every affection that is not conformed to the will of God, that cannot be in harmony with the love of God. Total detachment is the logical consequence of Jesus' precept and the indispensable means for fulfilling it perfectly.
+
+This is why St. John of the Cross insists: if the soul wants to arrive at possessing God, it must strip itself of everything that is not God and therefore must renounce every satisfaction, every affection that does not lead to God. This is the meaning of the maxims: "To savor all [that is, to taste God who is all], have no taste [that is, seek no disordered satisfaction] in anything. To possess all, possess nothing of nothing... When you stop at something, you cease to fling yourself toward the all" (A. I, 12, 11 and 12). When the soul stops, with disordered affection, at some creature or even at itself, it halts its race toward God: the nothingness of creatures prevents it from reaching the all of God.
+
+
+2 — The essence of total detachment does not properly consist in material, effective separation from things and creatures, which, moreover, on this earth is never possible absolutely. Even one who lives in cloister or in a hermitage cannot escape certain relationships with neighbor and cannot do without things indispensable to life. Furthermore, in any setting everyone carries with himself his own person, his own self; and yet detachment from self is always the starting point, but it is clear that this can never be a material detachment, only an affective, spiritual one.
+
+The doctrine of total detachment does not therefore require that all materially abandon everything, but that each one, while remaining in his own state of life, know how to keep the heart free from every attachment. "To enter divine union, all affections that live in the soul must die, whether few or many, small or great, and the soul must be detached from them as though she were not for them, nor they for her" (A. I, 11, 8).
+
+Yet it will be impossible to arrive at this affective detachment, that is, to make all disordered affections for self and creatures die, if, at least to some extent, effective, material detachment is not practiced. Whoever does not know how to renounce useless dealings with creatures, superfluous things, and things merely for personal satisfaction or comfort will never reach interior detachment. And, on the other hand, whoever, in consecrating himself to God, has already materially separated himself from loved ones or has already effectively renounced many things cannot believe he has thereby done everything; rather he must always keep watch to maintain the soul free of every attachment. In short, whether one lives in the world or in a hermitage, whether one possesses much or little, it is always necessary to tend to the essence of detachment, that is, detachment of heart and spirit.
+
+This is St. Paul's teaching: "those who have wives [should live] as though they had none... and those who buy, as though they had no possessions; and those who use this world, as though not using it" (I Cor. 7, 29-30).
+
+### Colloquy
+
+O Lord, why should total detachment frighten me, when it is the means to succeed at last in loving You with all my heart, with all my soul, with all my strength? When it is the way that leads me to union with You, infinite beauty and charity, God-Trinity, beginning and end of all things?
+
+"O most happy detachment from every low and perishable thing, which raises me to so sublime a state! You love me, my God, and with those who love You, Your love is certainly no small thing. Why then should I not also love You with all my strength? It would truly be a most happy exchange, O my God, to give You my love in order to have Yours. I well know that You can do all things, while I can do only what You make me capable of. But what is it, in the end, that I do for You, my God and Creator? Some little resolution that in reality is nothing. But if You want me, with nothing, to gain the All, I do not want to be so foolish as not to listen to You!" (T.G. Cam. 16, 10).
+
+O Lord, with Your help I want at once to set myself to work and refuse no sacrifice, spare no fiber of my heart, to detach myself totally from what still binds me to earth. These sacrifices, these detachments cost my weak nature dearly, but You make me understand that, even if they should make my heart bleed, they are still nothing in comparison with the immense treasure they procure for me: the conquest of You, my God, who are the All.
+
+No, do not permit, O Lord, that through my cowardice my heart should still linger among earthly things; do not permit that my affections should still be divided, even in the least part, between You who are the All and creatures who are nothing. Between You who are my God and my selfishness, which is only misery and sin. Shall I perhaps think "that it is no great matter to consecrate myself entirely and without any reserve to You who are all?" (ibid., 8, 1). O Lord, how I desire this sovereign grace of total detachment that will give me the freedom to love You with all my strength!
+
+And if You, O Lord, have already granted me the grace to renounce earthly things, to leave the life of the world in order to consecrate myself to Your service, how great my gratitude must always be! But do not permit, I beg You, that I be so blind as to believe that, having left the world, I now have nothing more to do. What a deception it would be, after having left the greater, to attach oneself to the lesser, to wretched trifles unworthy of a soul consecrated to You!

@@ -1,0 +1,32 @@
+## 70 — O VÍNCULO DA PERFEIÇÃO
+*V domingo depois da Epifania*
+
+### Presença de Deus
+
+Meu Deus, faze que antes de qualquer outra coisa eu deseje e busque a perfeição do amor.
+
+### Meditação
+
+1 — A Epístola de hoje (Col. 3, 12-17) chama-nos ao dever fundamental do cristão: a caridade. Pouco valem todos os programas e propósitos de vida espiritual, se não são animados pelo amor e não conduzem à perfeição do amor. Pouco valem o desapego, a mortificação, a humildade e todas as outras virtudes, se não dispõem o coração para uma caridade mais profunda, mais plena, mais expansiva. "Sobretudo" - recomenda S. Paulo - "revesti-vos desse amor que é o vínculo da perfeição"; não só amor para com Deus, mas também amor para com o próximo; aliás, é justamente sob este aspecto que, na Epístola de hoje, o Apóstolo fala da caridade, mostrando com tanta fineza como todas as nossas relações com o próximo devem ser inspiradas pelo amor. "Revesti-vos, como eleitos de Deus, santos e amados, de entranhas de misericórdia, benignidade, humildade, modéstia, longanimidade, suportando-vos uns aos outros e perdoando-vos mutuamente, se alguém tiver queixa contra outro." A característica dos eleitos de Deus, dos santos e amados por ele, é precisamente o amor fraterno; sem este distintivo Jesus não nos reconhece como seus discípulos, o Pai celeste não nos ama como seus filhos, nem nos introduzirá em seu reino. A vida espiritual requer o uso de muitos meios, comporta o exercício de muitas virtudes, mas é preciso estar atento para não se perder e não parar nos particulares, esquecendo o mais pelo menos, isto é, esquecendo o amor que deve ser o fundamento e o fim de tudo. De que valeria a vida espiritual e a própria consagração a Deus, de que valeriam os votos religiosos, se não ajudassem as almas a tender ao amor perfeito?
+
+Eis o amor perfeito que o Apóstolo nos pede para com o próximo: misericórdia, compaixão; perdão recíproco, cordial, que não deixa lugar a divisões, a atritos, que supera os contrastes, que esquece as ofensas; caridade longânime que faz qualquer sacrifício e supera qualquer dificuldade para viver em concórdia com todos, porque todos formamos em Cristo "um só corpo", porque todos somos filhos do mesmo Pai celeste.
+
+Semelhante caridade fraterna é a garantia mais certa de uma vida espiritual em caminho para a santidade.
+
+2 — A Epístola nos apresentou o ideal da vida cristã, ideal de amor que deve unir todos os fiéis em um só coração; o Evangelho (Mt. 13, 24-30) nos mostra o terreno prático sobre o qual é preciso viver este ideal.
+
+"O reino dos céus é semelhante a um homem que semeou boa semente no seu campo. Mas... veio o seu inimigo e semeou joio no meio do trigo." No mundo, seu campo, Deus semeou o bem com mãos cheias, semeou graça e amor, semeou desejos de doação total, ideais de vida apostólica, de vida religiosa, de vida santa. Mas no meio de tanto bem veio o inimigo semear o mal. Por que Deus permite isso? Para joeirar seus servos como se joeira o trigo, para pô-los à prova.
+
+Às vezes nos escandalizamos vendo que o mal se insinua também nos melhores ambientes, vendo que também entre os amigos de Deus, entre aqueles que deveriam ser edificação para os outros, há alguns que se comportam indignamente; então, cheios de zelo, como os servos da parábola, quereríamos remediar isso e arrancar este joio: "Queres, pois, que vamos arrancá-lo?" Mas Deus nos responde: "Não, para que, ao arrancar o joio, não arranqueis talvez também o trigo." O joio é poupado não porque seja bom, mas por consideração ao trigo; assim Deus poupa os maus e não os tira do meio precisamente para o bem dos seus eleitos. Pedindo-nos que suportemos com paciência certas situações, tão inevitáveis quanto deploráveis, Deus nos pede um dos maiores exercícios de caridade, de compaixão, de misericórdia. Deus não nos diz para comungar com o mal, para fazer aliança com o joio, mas nos diz para suportá-lo com a longanimidade com que ele mesmo o suporta. Não houve porventura um traidor no colégio apostólico? E no entanto Jesus o quis entre os seus íntimos, e com quanto amor o tratou! A máxima caridade se exerce para com aqueles que, com sua má conduta, nos dão tantas ocasiões de perdoar, de retribuir bem por mal, de sofrer injustiças por amor de Deus. Além disso, devemos considerar que, se é impossível que o joio se transforme em trigo, é sempre possível que os maus se convertam em bons. Não se converteram porventura Madalena, o bom ladrão e o próprio Pedro, que havia negado Jesus? Este é um dos motivos mais fortes para nos impelir à bondade para com todos. O amor, quando é perfeito, permite-nos viver junto dos maus sem aspereza, sem brigas, sem sofrer sua influência, mas antes fazendo-lhes bem.
+
+### Colóquio
+
+"Ó Senhor Jesus, que, sendo nobilíssimo, belíssimo, inocentíssimo, amaste a mim, baixíssimo, feíssimo e cheio de deformidade pelo pecado, ensina-me a emular tua imensa caridade para que eu ame com afeto sincero e cordial os meus próximos, mesmo defeituosos e culpados, não excluindo nem mesmo os que levam vida repreensível.
+
+"Ensina-me a amar a todos por amor de ti, e então nunca me faltarão motivos de grande benevolência, ainda que eu deva tratar com pessoas rudes, tolas e cheias de toda outra imperfeição. Só fixando o olhar em ti, Senhor Deus, objeto de amor infinito, poderei superar todos os incômodos e dificuldades que encontro nos contatos com o próximo.
+
+"Ó Jesus, que te adaptaste à minha miséria fazendo-te homem e revestindo-te da minha frágil natureza, ensina-me a adaptar-me ao meu próximo, suportando com paciência seus defeitos e esforçando-me por corrigir os meus, bem como por tirar da minha conduta tudo aquilo que pode desagradar aos outros" (Venerável João de Jesus Maria).
+
+"Ó Senhor, quanto ainda estou longe da verdadeira caridade e humildade! Tu me ensinas que não é grande coisa viver de acordo com os homens mansos e bons; isso naturalmente agrada a todos e cada um vive de boa vontade em paz e ama mais os que pensam como ele. Mas, ao contrário, é graça grande, virtude viril e digna de muitos louvores saber viver em paz com os obstinados, os perversos, os indisciplinados e com aqueles que nos são contrários.
+
+"Concede-me, Senhor, eu te peço, esta graça sem a qual não poderei conservar por muito tempo a paz com o próximo, mas estarei sempre pronto a irar-me e indignar-me. Oh, como eu deveria antes corrigir a mim mesmo, em vez de ressentir-me pelas faltas alheias! Como deveria suportar os defeitos dos outros, se por minha vez quero ser suportado!" (cf. Imit. II, 3, 2).

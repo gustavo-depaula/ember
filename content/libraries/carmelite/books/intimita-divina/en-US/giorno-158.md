@@ -1,0 +1,29 @@
+## 158 — LIFE OF PRAYER
+
+### Presence of God
+
+— O Lord, may I seek you not only in some hour or moment of the day, but in every moment of my life.
+
+### Meditation
+
+1. — The soul that longs for a life of intimacy with God is not content to limit its relations with Him to prayer time, but seeks to prolong them throughout the whole day. This is a more than legitimate desire, because whoever loves tends to ever more stable and continuous relations with the beloved person. So it happens with the soul that loves God; and this is all the more possible because God himself is always with us, always present and operative in us; it is true, this is a spiritual, invisible presence, but real and not merely affective and moral, as can be that of the beloved person in the lover's mind and heart.
+
+If God is always with us, why should we not be able to remain in continual contact with Him? This contact is realized through thought and affection, but much more through affection than thought. In fact, it is not possible always to think of God, both because the mind grows tired and because many occupations require the whole application of the intellect, and this cannot attend at the same time to two different objects. Instead, even while thought is occupied elsewhere, the heart can always love, nor does it ever grow tired of tending toward the object of its love. Since supernatural love does not consist in feeling, but in an intimate orientation of the will toward God, we see that this orientation is possible even during the discharge of duties that absorb the whole intellect. Indeed, the will can strengthen this orientation toward God precisely by the desire to perform every duty for love of Him, to please Him, to give Him glory. St. Thomas teaches precisely that the heart can always tend to God through "the desire of charity," that is, through the desire to love Him, to serve Him, and to unite itself to Him in every action. "Prayer is nothing other than the heart's desire; if your desire is continual, your prayer is continual. Do you therefore want never to cease praying? Never cease desiring" (St. Augustine).
+
+2. — As prayer consists not in thinking much, but in loving much, so the life of continual prayer consists much more in love than in thought. Nevertheless, a certain activity of thought is necessary, both to orient the heart toward God and to maintain it in that direction.
+
+The soul that applies itself well to mental prayer will easily gather from it good thoughts that can serve it during the day to keep its heart directed to God; it will therefore be useful that often, amid its occupations, it seek to awaken such thoughts and link them to its practical life.
+
+If, for example, in prayer we have considered God's infinite mercy toward us, we shall seek that this thought may accompany us even in the midst of our occupations, recognizing in the various circumstances in which we find ourselves so many expressions of this mercy. In fact, many events which, from a human point of view, are unpleasant and painful, in reality conceal true mercies of the Lord who, through the sorrows, labors, and annoyances of life, wishes to detach us from creatures, make us practice virtue, and progress toward the good. On the other hand, in our contacts with neighbor we shall try to imitate the Lord's mercy: "Be merciful, as your Father is merciful" (Lk. 6, 36). If our prayer has unfolded in aridity, leaving us no determined thought but only a deeper sense of our nothingness and of God's infinite greatness, we shall treasure this by seeking, during the day, to fulfill our duties in a spirit of humility and homage to God, glad if some occasion presents itself for humility and for recognizing our smallness even before creatures, and for exalting instead the Lord's greatness.
+
+In this way prayer will not remain an isolated fact in our day, but will penetrate it wholly, giving every action and circumstance a tone of continual prayer.
+
+### Colloquy
+
+"O Lord, grant that my life may be continual prayer, to which every rational creature is bound. This prayer is born of love, is fire and true desire founded in charity that impels the soul to do all its works for your honor. Awaken charity in me, O Lord, that I may always desire You and, always desiring You, continually pray. In every place, at every time, in all that I do, may my soul always pray before You through the affection of charity" (cf. St. Catherine of Siena).
+
+"My God, if I were inebriated with love for You, in all things I would seek nothing else except how to serve You with greater diligence and perfection and, denying my own will in all things and altogether, I would strive, with an impulse of the heart, to do only what is of greater pleasure to You.
+
+"Give me, O Lord, so great a fervor and measureless love that I make no difference between life and life, state and state, person and person, time and time, place and place, but however and at whatever hour I may be employed in doing what pleases You most, always tending toward You with the affection of my soul. Grant that I may see all things in You and in all things see nothing but You, always sighing, always desiring to serve You in everything; and, wholly kindled, wholly burning with love, may I consider not what is easier and sweeter to me, but only what is more pleasing to You.
+
+"Grant me, O Lord, to imitate the angelic spirits who, while they are with us, do not cease from divine contemplation. Grant that I may deal with and serve my neighbor while considering and enjoying You in them and directing my heart to You. And when it happens that I move away from this noble exercise, help me to return to it, at once making every effort to succeed, so that, with your divine help, I may always live with my heart fixed on You" (cf. St. Bonaventure).
