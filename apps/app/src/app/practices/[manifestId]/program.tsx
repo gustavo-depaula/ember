@@ -172,13 +172,12 @@ export default function ProgramDetailScreen() {
             const state = dayStates[dayIndex]
             const title = dayTitles[dayIndex]
             const label = title || t('program.dayLabel', { day: dayNum })
-            const stateLabel = state.isCompleted
-              ? t('program.completed')
-              : state.isCurrent
-                ? t('program.currentDay')
-                : state.isMissed
-                  ? t('program.missed')
-                  : t('program.upcoming')
+            const stateLabel = (() => {
+              if (state.isCompleted) return t('program.completed')
+              if (state.isCurrent) return t('program.currentDay')
+              if (state.isMissed) return t('program.missed')
+              return t('program.upcoming')
+            })()
             return (
               <DayRow
                 key={`day-${dayNum}`}
