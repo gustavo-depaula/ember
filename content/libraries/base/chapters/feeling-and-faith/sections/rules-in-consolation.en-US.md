@@ -1,0 +1,15 @@
+When consolation comes, four movements to keep.
+
+**1. Receive it with thanks, and without hoarding.** The correct response to a felt gift in prayer is gratitude, not grasping. Enjoy it, notice it, let it do its work — and do not turn it into a condition. The soul that says *"thank you"* is free; the soul that says *"keep this coming"* has begun to bargain. Consolation is a meal; faith is a life.
+
+**2. Use the light to see what you could not see in the dark.** This is the great counsel of St. Ignatius for consolation: *while the light is given*, make decisions you could not make when the mind was cloudy. Write the letter of forgiveness. Plan the confession. Decide what small thing your prayer of life most needs. Consolation is a good moment to *commit*, not a good moment to *promise* — commitments require only the present, promises require a future you do not yet own.
+
+**3. Prepare for the desolation that will follow.** This is almost a law of the interior life: every serious consolation is a preparation for a coming trial. Not as punishment, but as education. The saints who knew their own souls would say, when a day of great sweetness came, *"I wonder what is coming next."* Not cynicism — readiness. Write to yourself, in consolation, the words you will need to hear in the dark. *"God has given; God will give again; what He has shown me in the light is true whether I can feel it tomorrow or not."*
+
+**4. Do not tell everyone.** This is a habit of the mature soul and a protection against vanity. Share your consolations only with your director and, if the occasion demands, with those whom the consolation directly concerns. The instinct to *announce* an interior favor is almost always the instinct to confirm it against your own doubt, and it tends to cash the gift into social currency, which devalues it. The consolation the saints treasured most was the one nobody saw.
+
+An important note for our anxious age: **you do not have to produce consolation**. Modern souls, fed on affirmation, feel that a dry prayer is a failed prayer and that if they could only find the right devotion or posture the warmth would return on demand. It would not. Consolation cannot be engineered. It can only be *received*, and the only way to be ready to receive it is to keep the appointment whether it comes or not.
+
+One last discernment, subtle and important. Not every warm feeling at prayer is a divine consolation. Some are what the old writers called *"natural" consolations* — the pleasure of a well-ordered interior, the aesthetic satisfaction of beautiful liturgy, the emotional release of finally sitting still. These are good things, but they are not themselves graces; they are the body and soul resting well. You notice the difference not in the taste but in the trail: a divine consolation leaves you humbler, softer toward others, more eager to obey. A merely natural one leaves you pleased with yourself.
+
+*"Every best gift, and every perfect gift, is from above, coming down from the Father of lights."* (*James 1:17*)

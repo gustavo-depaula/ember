@@ -1,0 +1,20 @@
+{
+	"sections": [
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "Feeling and Faith",
+				"pt-BR": "Sentimento e Fé"
+			}
+		},
+		{ "type": "prose", "file": "sections/the-names" },
+		{ "type": "divider" },
+		{ "type": "prose", "file": "sections/why-feelings-mislead" },
+		{ "type": "divider" },
+		{ "type": "prose", "file": "sections/rules-in-consolation" },
+		{ "type": "divider" },
+		{ "type": "prose", "file": "sections/rules-in-desolation" },
+		{ "type": "divider" },
+		{ "type": "prose", "file": "sections/what-asks-for-action" }
+	]
+}

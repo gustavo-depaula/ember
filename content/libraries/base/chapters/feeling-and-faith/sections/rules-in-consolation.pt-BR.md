@@ -1,0 +1,15 @@
+Quando a consolação vier, quatro movimentos a manter.
+
+**1. Receba-a com gratidão, e sem acumular.** A resposta correta a um dom sentido na oração é gratidão, não apego. Desfrute-a, perceba-a, deixe-a fazer seu trabalho — e não a transforme em condição. A alma que diz *"obrigado"* é livre; a alma que diz *"continue me dando isto"* começou a barganhar. A consolação é uma refeição; a fé é uma vida.
+
+**2. Use a luz para ver o que não podia ver no escuro.** Este é o grande conselho de Santo Inácio para a consolação: *enquanto a luz é dada*, tome decisões que não podia tomar quando a mente estava nublada. Escreva a carta de perdão. Planeje a confissão. Decida qual pequena coisa sua oração de vida mais precisa. A consolação é um bom momento para *comprometer-se*, não um bom momento para *prometer* — compromissos exigem apenas o presente, promessas exigem um futuro que você ainda não possui.
+
+**3. Prepare-se para a desolação que virá.** Isto é quase uma lei da vida interior: toda consolação séria é uma preparação para uma provação vindoura. Não como punição, mas como educação. Os santos que conheciam suas próprias almas diziam, quando vinha um dia de grande doçura: *"Pergunto-me o que vem a seguir."* Não cinismo — prontidão. Escreva para si mesmo, na consolação, as palavras que precisará ouvir no escuro. *"Deus deu; Deus dará de novo; o que Ele me mostrou na luz é verdadeiro, quer eu possa senti-lo amanhã ou não."*
+
+**4. Não conte a todos.** Este é um hábito da alma madura e uma proteção contra a vaidade. Compartilhe suas consolações apenas com seu diretor e, se a ocasião exigir, com aqueles a quem a consolação diretamente diz respeito. O instinto de *anunciar* um favor interior é quase sempre o instinto de confirmá-lo contra sua própria dúvida, e tende a converter o dom em moeda social, o que o desvaloriza. A consolação que os santos mais estimavam era a que ninguém via.
+
+Uma nota importante para a nossa era ansiosa: **você não precisa produzir consolação**. Almas modernas, alimentadas de afirmação, sentem que uma oração seca é uma oração fracassada e que, se pudessem apenas encontrar a devoção ou postura certa, o calor retornaria sob demanda. Não retornaria. A consolação não pode ser projetada. Ela só pode ser *recebida*, e o único modo de estar pronto para recebê-la é manter o encontro, venha ou não.
+
+Um último discernimento, sutil e importante. Nem todo sentimento quente na oração é uma consolação divina. Alguns são o que os velhos escritores chamavam de *consolações "naturais"* — o prazer de um interior bem ordenado, a satisfação estética de uma liturgia bela, o alívio emocional de finalmente sentar-se quieto. São boas coisas, mas não são em si graças; são o corpo e a alma descansando bem. Percebe-se a diferença não no gosto, mas no rastro: uma consolação divina o deixa mais humilde, mais brando com os outros, mais ansioso para obedecer. Uma meramente natural o deixa satisfeito consigo mesmo.
+
+*"Toda a boa dádiva e todo o dom perfeito vem do alto, descendo do Pai das luzes."* (*Tiago 1, 17*)
