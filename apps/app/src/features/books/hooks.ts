@@ -40,7 +40,11 @@ export function useDownloadBook() {
         setProgress((prev) => ({ ...prev, [entry.id]: p }))
       }),
     onSuccess: async () => {
-      await seedPractices()
+      try {
+        await seedPractices()
+      } catch (err) {
+        console.warn('[download] seedPractices failed:', err)
+      }
       queryClient.invalidateQueries({ queryKey: ['installed-books'] })
       queryClient.invalidateQueries({ queryKey: ['available-books'] })
       queryClient.invalidateQueries({ queryKey: ['slots'] })
