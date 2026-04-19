@@ -1,0 +1,47 @@
+{
+	"id": "chaplet-of-divine-mercy",
+	"icon": "heart",
+	"name": {
+		"en-US": "Chaplet of Divine Mercy",
+		"pt-BR": "Terço da Divina Misericórdia"
+	},
+	"categories": [
+		"devotional",
+		"mercy"
+	],
+	"estimatedMinutes": 10,
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flow": "flow.json",
+	"description": {
+		"en-US": "A short, powerful chaplet prayed on rosary beads, pleading the Father's mercy through the Passion of Christ — given to St. Faustina Kowalska in 1935.",
+		"pt-BR": "Um terço curto e poderoso rezado nas contas do rosário, suplicando a misericórdia do Pai pela Paixão de Cristo — dado a Santa Faustina Kowalska em 1935."
+	},
+	"history": {
+		"en-US": "On September 13, 1935, Jesus dictated the Chaplet of Divine Mercy to Sr. Faustina Kowalska (1905–1938) in Vilnius, Poland. The Lord promised extraordinary graces to those who pray it, especially for the dying: 'When they say this chaplet in the presence of the dying, I will stand between my Father and the dying person, not as the just Judge but as the merciful Saviour' (Diary, 1541). St. John Paul II canonized St. Faustina in 2000 and established Divine Mercy Sunday (the Octave of Easter). The chaplet is traditionally prayed at 3 PM — the Hour of Mercy — but may be prayed at any time.",
+		"pt-BR": "Em 13 de setembro de 1935, Jesus ditou o Terço da Divina Misericórdia a Santa Faustina Kowalska (1905–1938) em Vilnius, Polônia. O Senhor prometeu graças extraordinárias a quem o reza, especialmente pelos moribundos: 'Quando rezarem este terço junto a um moribundo, Eu me colocarei entre meu Pai e o moribundo não como Juiz justo, mas como Salvador misericordioso' (Diário, 1541). São João Paulo II canonizou Santa Faustina em 2000 e estabeleceu o Domingo da Divina Misericórdia (Oitava da Páscoa). O terço é tradicionalmente rezado às 15h — a Hora da Misericórdia — mas pode ser rezado em qualquer momento."
+	},
+	"howToPray": {
+		"en-US": "Pray on regular rosary beads. Begin with the Sign of the Cross, one Our Father, one Hail Mary, and the Apostles' Creed. Then on each Our Father bead (five times), pray the 'Eternal Father' prayer; on each Hail Mary bead (ten per decade, five decades), pray 'For the sake of His sorrowful Passion...' Conclude with the 'Holy God' three times. Prayed at 3 PM, it gains special grace; prayed for the dying, it obtains Christ's mercy.",
+		"pt-BR": "Rezado nas contas do rosário comum. Comece com o Sinal da Cruz, um Pai-Nosso, uma Ave-Maria e o Credo. Depois, em cada conta de Pai-Nosso (cinco vezes), reze o 'Pai Eterno'; em cada conta de Ave-Maria (dez por dezena, cinco dezenas), reze 'Pela Sua dolorosa Paixão...' Conclua com o 'Santo Deus' três vezes. Rezado às 15h, alcança graça especial; rezado pelos moribundos, obtém a misericórdia de Cristo."
+	},
+	"tags": [
+		"mercy",
+		"faustina",
+		"chaplet",
+		"passion",
+		"3pm"
+	],
+	"defaults": {
+		"sortOrder": 12,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
+}

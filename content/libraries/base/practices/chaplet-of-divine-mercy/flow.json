@@ -1,0 +1,60 @@
+{
+	"sections": [
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "Opening Prayers",
+				"pt-BR": "Orações Iniciais"
+			}
+		},
+		{ "type": "prayer", "ref": "sign-of-cross" },
+		{ "type": "prayer", "ref": "our-father" },
+		{ "type": "prayer", "ref": "hail-mary" },
+		{ "type": "prayer", "ref": "apostles-creed" },
+		{ "type": "divider" },
+		{
+			"type": "repeat",
+			"count": 5,
+			"sections": [
+				{
+					"type": "heading",
+					"text": {
+						"en-US": "{{ordinal}} Decade",
+						"pt-BR": "{{ordinal}} Dezena"
+					}
+				},
+				{ "type": "prayer", "ref": "eternal-father" },
+				{
+					"type": "repeat",
+					"count": 10,
+					"sections": [
+						{ "type": "prayer", "ref": "divine-mercy-response" }
+					]
+				},
+				{ "type": "divider" }
+			]
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "Closing",
+				"pt-BR": "Encerramento"
+			}
+		},
+		{
+			"type": "repeat",
+			"count": 3,
+			"sections": [
+				{ "type": "prayer", "ref": "holy-god" }
+			]
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Jesus, King of Mercy, I trust in You.",
+				"pt-BR": "Jesus, Rei da Misericórdia, eu confio em Vós."
+			}
+		},
+		{ "type": "prayer", "ref": "sign-of-cross" }
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"id": "stations-of-the-cross",
+	"icon": "cross",
+	"name": {
+		"en-US": "Stations of the Cross",
+		"pt-BR": "Via-Sacra"
+	},
+	"categories": [
+		"devotional",
+		"passion"
+	],
+	"estimatedMinutes": 25,
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flow": "flow.json",
+	"description": {
+		"en-US": "The fourteen stations — meditating step by step on the Passion of Christ from His condemnation to His burial. The Church's ancient Friday devotion.",
+		"pt-BR": "As quatorze estações — meditando passo a passo a Paixão de Cristo, desde a condenação até a sepultura. A antiga devoção das sextas-feiras da Igreja."
+	},
+	"history": {
+		"en-US": "From the earliest centuries, Christian pilgrims retraced Christ's steps through Jerusalem along what came to be called the Via Dolorosa. When the Holy Land fell to the Saracens and pilgrimage became dangerous, the Franciscans (entrusted with custody of the Holy Places in 1342) carried the devotion to the West. St. Leonard of Port Maurice (1676–1751) preached the Stations in over 500 parishes; the fourteen-station form was universally adopted. The devotion gained a plenary indulgence, and Fridays — especially in Lent — became the traditional day. The meditations here follow the traditional St. Alphonsus Liguori form, beloved for its directness and compunction.",
+		"pt-BR": "Desde os primeiros séculos, os peregrinos cristãos refaziam os passos de Cristo em Jerusalém, no caminho que veio a chamar-se Via Dolorosa. Quando a Terra Santa caiu em poder dos sarracenos e a peregrinação tornou-se perigosa, os franciscanos (a quem foi confiada a custódia dos Lugares Santos em 1342) trouxeram a devoção ao Ocidente. São Leonardo de Porto Maurício (1676–1751) pregou a Via-Sacra em mais de 500 paróquias; a forma das quatorze estações foi universalmente adotada. Obteve indulgência plenária, e as sextas-feiras — especialmente na Quaresma — tornaram-se o dia tradicional. As meditações aqui seguem a forma tradicional de Santo Afonso Maria de Ligório, amada por sua franqueza e compunção."
+	},
+	"howToPray": {
+		"en-US": "Traditionally prayed before the fourteen images in a church, moving physically from station to station. At home or on the go, pray reflectively through each one. At each station, genuflect or bow, make the versicle and response ('We adore Thee, O Christ...'), meditate on the scene, and pray an Our Father, Hail Mary, and Glory Be. Conclude at the Fourteenth Station with a prayer for the Pope. Friday is the classic day, and Lent the classic season — but the Passion never expires.",
+		"pt-BR": "Tradicionalmente rezada diante das quatorze imagens numa igreja, indo fisicamente de estação em estação. Em casa ou no caminho, reze refletindo em cada uma. Em cada estação, genuflita ou incline-se, faça o versículo e a resposta ('Nós Vos adoramos, ó Cristo...'), medite a cena, e reze um Pai-Nosso, Ave-Maria e Glória. Conclua na Décima Quarta com uma oração pelo Papa. Sexta-feira é o dia clássico, e a Quaresma a estação clássica — mas a Paixão nunca expira."
+	},
+	"tags": [
+		"passion",
+		"via-crucis",
+		"lent",
+		"friday",
+		"alphonsus"
+	],
+	"defaults": {
+		"sortOrder": 18,
+		"slots": [
+			{
+				"schedule": {
+					"type": "weekly",
+					"daysOfWeek": [5]
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
+}
