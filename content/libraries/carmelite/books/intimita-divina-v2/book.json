@@ -1,0 +1,118 @@
+{
+  "id": "intimita-divina-v2",
+  "name": {
+    "it": "Intimità Divina",
+    "en-US": "Divine Intimacy",
+    "pt-BR": "Intimidade Divina"
+  },
+  "author": {
+    "it": "P. Gabriele di S. Maria Maddalena, O.C.D.",
+    "en-US": "Fr. Gabriel of St. Mary Magdalen, O.C.D.",
+    "pt-BR": "P. Gabriel de Santa Maria Madalena, O.C.D."
+  },
+  "description": {
+    "it": "Meditazioni sulla vita interiore per tutti i giorni dell'anno. Terza edizione, Monastero S. Giuseppe, Carmelitane Scalze, Roma, 1957.",
+    "en-US": "Meditations on the interior life for every day of the year. Third edition, Monastery of St. Joseph, Rome, 1957.",
+    "pt-BR": "Meditações sobre a vida interior para todos os dias do ano. Terceira edição, Mosteiro de São José, Roma, 1957."
+  },
+  "composed": 1953,
+  "languages": ["it"],
+  "sources": [
+    {
+      "language": "it",
+      "description": "Terza Edizione (1957), 6 volumi, Monastero S. Giuseppe, Carmelitane Scalze, Roma. Retranscritto dai PDF originali."
+    }
+  ],
+  "toc": [
+    {
+      "id": "front-matter",
+      "title": { "it": "Prefazione" },
+      "children": [
+        { "id": "presentazione", "title": { "it": "Presentazione" } },
+        { "id": "prefazione", "title": { "it": "Prefazione" } }
+      ]
+    },
+    {
+      "id": "volume-1",
+      "title": { "it": "Volume I — Dall'Avvento alla V dopo l'Epifania" },
+      "children": [
+        { "id": "giorno-001", "title": { "it": "Il Signore viene da lontano" } },
+        { "id": "giorno-002", "title": { "it": "Invito alla santità" } },
+        { "id": "giorno-003", "title": { "it": "Santità pienezza della grazia" } },
+        { "id": "giorno-004", "title": { "it": "La carità essenza della santità" } },
+        { "id": "giorno-005", "title": { "it": "Santità e volontà di Dio" } },
+        { "id": "giorno-006", "title": { "it": "La santità e i propri doveri" } },
+        { "id": "giorno-007", "title": { "it": "Il monte della perfezione" } },
+        { "id": "giorno-008", "title": { "it": "Presto il Signore verrà" } },
+        { "id": "giorno-009", "title": { "it": "L'Immacolata Concezione" } },
+        { "id": "giorno-010", "title": { "it": "Invito all'intimità divina" } },
+        { "id": "giorno-011", "title": { "it": "In cerca di Dio" } },
+        { "id": "giorno-012", "title": { "it": "Cercare Dio nell'orazione" } },
+        { "id": "giorno-013", "title": { "it": "La ricerca di Dio e i doveri quotidiani" } },
+        { "id": "giorno-014", "title": { "it": "La Vergine dell'Incarnazione" } },
+        { "id": "giorno-015", "title": { "it": "Il Signore è vicino" } },
+        { "id": "giorno-016", "title": { "it": "La custodia dei sensi" } },
+        { "id": "giorno-017", "title": { "it": "Il silenzio interiore" } },
+        { "id": "giorno-018", "title": { "it": "Cercare Dio in fede" } },
+        { "id": "giorno-019", "title": { "it": "Cercare Dio in amore" } },
+        { "id": "giorno-020", "title": { "it": "Cercare Dio nelle creature" } },
+        { "id": "giorno-021", "title": { "it": "Cercare Dio nell'attività" } },
+        { "id": "giorno-022", "title": { "it": "Ecco viene il Salvatore" } },
+        { "id": "giorno-023", "title": { "it": "Invito all'apostolato" } },
+        { "id": "giorno-024", "title": { "it": "Apostolato interiore" } },
+        { "id": "giorno-025", "title": { "it": "L'azione apostolica" } },
+        { "id": "giorno-026", "title": { "it": "Il mistero dell'Incarnazione" } },
+        { "id": "giorno-027", "title": { "it": "Il Verbo si è fatto carne" } },
+        { "id": "giorno-028", "title": { "it": "Si compie il gran mistero" } },
+        { "id": "giorno-029", "title": { "it": "È apparso il Salvatore" } },
+        { "id": "giorno-030", "title": { "it": "Credere all'amore" } },
+        { "id": "giorno-031", "title": { "it": "Ricambiare l'amore" } },
+        { "id": "giorno-032", "title": { "it": "Gloria a Dio" } },
+        { "id": "giorno-033", "title": { "it": "Pace agli uomini" } },
+        { "id": "giorno-034", "title": { "it": "Segno di contraddizione" } },
+        { "id": "giorno-035", "title": { "it": "Traffichiamo il tempo" } },
+        { "id": "giorno-036", "title": { "it": "La Circoncisione del Signore" } },
+        { "id": "giorno-037", "title": { "it": "Il Nome di Gesù" } },
+        { "id": "giorno-038", "title": { "it": "Gesù Mediatore" } },
+        { "id": "giorno-039", "title": { "it": "Gesù primogenito di tutte le creature" } },
+        { "id": "giorno-040", "title": { "it": "Gesù Re universale" } },
+        { "id": "giorno-041", "title": { "it": "Epifania" } },
+        { "id": "giorno-042", "title": { "it": "La Sacra Famiglia" } },
+        { "id": "giorno-043", "title": { "it": "Gesù vite vera" } },
+        { "id": "giorno-044", "title": { "it": "Il Corpo mistico di Cristo" } },
+        { "id": "giorno-045", "title": { "it": "«Io sono la vita»" } },
+        { "id": "giorno-046", "title": { "it": "L'influsso di Gesù" } },
+        { "id": "giorno-047", "title": { "it": "Lo Spirito di Gesù" } },
+        { "id": "giorno-048", "title": { "it": "Vivere in Cristo" } },
+        { "id": "giorno-049", "title": { "it": "Il primo miracolo di Gesù" } },
+        { "id": "giorno-050", "title": { "it": "«Io sono la verità»" } },
+        { "id": "giorno-051", "title": { "it": "La dottrina di Gesù" } },
+        { "id": "giorno-052", "title": { "it": "Gesù ci rivela il Padre" } },
+        { "id": "giorno-053", "title": { "it": "Gesù Maestro di santità" } },
+        { "id": "giorno-054", "title": { "it": "Le esigenze dell'insegnamento di Gesù" } },
+        { "id": "giorno-055", "title": { "it": "La potenza del Maestro divino" } },
+        { "id": "giorno-056", "title": { "it": "Gesù accoglie tutti" } },
+        { "id": "giorno-057", "title": { "it": "«Io sono la via»" } },
+        { "id": "giorno-058", "title": { "it": "«Io sono nel Padre»" } },
+        { "id": "giorno-059", "title": { "it": "La preghiera di Gesù" } },
+        { "id": "giorno-060", "title": { "it": "Gesù e la volontà del Padre" } },
+        { "id": "giorno-061", "title": { "it": "Le opere di Gesù" } },
+        { "id": "giorno-062", "title": { "it": "Gesù e la gloria del Padre" } },
+        { "id": "giorno-063", "title": { "it": "La tempesta sedata" } },
+        { "id": "giorno-064", "title": { "it": "Gesù e gli uomini" } },
+        { "id": "giorno-065", "title": { "it": "Vivere Cristo" } },
+        { "id": "giorno-066", "title": { "it": "Gesù nostro tutto" } },
+        { "id": "giorno-067", "title": { "it": "La Chiesa" } },
+        { "id": "giorno-068", "title": { "it": "Il sacerdozio" } },
+        { "id": "giorno-069", "title": { "it": "I sacramenti" } },
+        { "id": "giorno-070", "title": { "it": "Il vincolo della perfezione" } },
+        { "id": "giorno-071", "title": { "it": "Il battesimo" } },
+        { "id": "giorno-072", "title": { "it": "La cresima" } },
+        { "id": "giorno-073", "title": { "it": "La penitenza" } },
+        { "id": "giorno-074", "title": { "it": "L'estrema unzione" } },
+        { "id": "giorno-075", "title": { "it": "La vocazione" } },
+        { "id": "giorno-076", "title": { "it": "Corrispondenza alla vocazione" } }
+      ]
+    }
+  ]
+}
