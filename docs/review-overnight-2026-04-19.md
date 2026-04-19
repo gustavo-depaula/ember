@@ -236,3 +236,70 @@ git revert --no-commit origin/main..HEAD && git commit -m "Revert session range"
 ```
 
 No schema changes, no dependency changes. App code changes are confined to: BilingualBlock, Oratio, a11y labels, error-surface commits, layout title localization. Everything else is content JSON/markdown or docs.
+
+---
+
+## 9. Session 4 addendum — commits after the review file was first written
+
+Three more commits since the review doc landed, all continuing the profile-redesign content work (all on base library, no app code, no schema touched):
+
+### `9cb9a84` — "When Prayer Goes Dark" chapter
+Highest-leverage pastoral chapter flagged by the profile redesign (serves profile 07 Committed Practitioner and profile 08 Hidden Dark Night). Diagnoses the single most dangerous pattern an app can reinforce: souls in ordinary dryness self-diagnosing into the Dark Night of the Senses.
+
+5 sections, ~10 min, EN/PT-BR:
+1. *What Dryness Is* — ordinary, 2000 years old, named by the Fathers (acedia) and Carmelites
+2. *The Three Signs* — St. John of the Cross's three signs from *Ascent* II.13 and *Dark Night* I.9 laid out plainly, with his warning that the one in the state is usually the last to know
+3. *What Not to Do* — don't add penance, don't diagnose yourself, don't parish-shop for warmth, don't stop, don't blame your surroundings
+4. *What to Do* — find a director, reduce don't add, pray the Psalter (lament psalms), pray Compline/Lauds/Vespers, sit with a verse and a crucifix without reading
+5. *Grace Through Nature* — medical symptoms (fatigue, sleep, loss of interest, sustained sadness, self-harm thoughts) as reasons to see a doctor alongside the spiritual work
+
+Cites St. John of the Cross, Teresa of Ávila, St. Thomas on bodily remedies, Scripture (Pss 5, 6, 22, 26, 42, 63, 130, 138; Lam 3; Prov 12; 1 Sam 15).
+
+### `c11d296` — "Feeling and Faith" chapter
+Second chapter from the redesign (serves profile 05 Emotional Enthusiast and profile 08; universally useful).
+
+5 sections, ~10 min, EN/PT-BR:
+1. *The Names* — consolation and desolation as Ignatius means them (movements with a vector)
+2. *Why Feelings Mislead* — three reasons tradition is careful with feeling: same feeling has many sources, the enemy imitates consolation, God also sends dryness that is not desolation; Carmelite/Jesuit rule "trust the direction, not the weight"
+3. *Rules in Consolation* — receive and don't hoard; use the light; prepare for what follows; don't tell everyone; natural vs divine consolation
+4. *Rules in Desolation* — never change course (the hinge rule); intensify quietly; remember it passes; examine gently; Psalms of lament and the Passion
+5. *What Asks for Action* — four-question taxonomy (duties of state? cross? survives prayer? bears the director?); mature inspirations are small and specific; carve-out for the scrupulous (obedience over self-reading)
+
+Sources: Spiritual Exercises rules §313–336 (both sets), Lallemant, Teresa of Ávila, de Sales; Scripture.
+
+### `d5f79cc` — "The Book and the Silence" chapter
+Third chapter; direct diagnosis for profile 04 Apologetics Nerd — a large and growing population in the YouTube/podcast-catechesis era.
+
+4 sections, ~8 min, EN/PT-BR:
+1. *The Student and the Pray-er* — St. Thomas's December 1273 "straw" moment as icon of scientia → sapientia; St. Bernard on kinds of seekers
+2. *Why It Goes This Way* — catechetical collapse pushed adults into apologetics-first formation; study has measurable returns, prayer doesn't; doctrine is easier to love than God is; subtle pride in being-the-one-who-knows
+3. *Prayer of the Full Mind* — four dispositions (come empty-handed, shorten the material — one verse often too much, refuse the reflex to explain, accept feeling you're wasting time) integrated by lectio divina (Guigo II)
+4. *Learning Not to Instruct* — conversion from instruction to adoration; what changes daily; warning against over-correction by burning the apologetics
+
+Closes with John 11:28: "Magister adest, et vocat te."
+
+### Net stats after Session 4
+- **21 chapters** in base (up from 18 at the top of the review file; +3 this session)
+- **base-1.0.0.pray ≈ 473K** (up from 449K; prose additions only)
+- Journal entries for all three in `docs/journal.md`
+
+### Planned but not done (pastoral content queue)
+Each of these was flagged by a specific profile in the redesign as a content gap. In rough leverage order:
+1. **"The First Mass Back"** — profile 03 Lapsed Returner (largest population segment of the app's likely users)
+2. **"The Baptism You Already Have"** — profile 02 Nominal Catholic
+3. **"Pacing: One Thing at a Time"** — profile 06 Sacramental Baseline (but universally useful counter-temptation)
+4. **"Measuring What Cannot Be Measured"** — profile 07 Committed Practitioner
+5. **"The Form and the Fire"** — traditional-leaning overlay
+6. **"The First Year After Reception"** — convert overlay
+7. **"Marian Devotion from Scratch"** — profile 01 + convert overlay
+8. **"The Psalter in the Dark"** — profile 08 companion to When Prayer Goes Dark
+
+Also queued and not done:
+- **Litany of Humility** (prayer) and **Act of Consecration to the Immaculate Heart** — remaining prayer gaps in base
+- **Memento Mori meditation chapter** — speculative; useful across multiple profiles
+- **`docs/ARCHITECTURE.md` stats** — still says "18 chapters"; should tick to 21
+
+### Still open from original review file
+All "Open items / what's next" (§7) remain open. Added in Session 4:
+- Theological and pastoral review of the three new chapters (cite accuracy, tone)
+- Portuguese translation pass for the same
