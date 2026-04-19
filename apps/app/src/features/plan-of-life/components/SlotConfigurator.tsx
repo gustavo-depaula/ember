@@ -209,6 +209,7 @@ function SlotRow({
   const schedule = parseSchedule(slot.schedule)
 
   const [localEnabled, setLocalEnabled] = useState(slot.enabled === 1)
+  const [localTier, setLocalTier] = useState<Tier>(slot.tier)
   const [localNotify, setLocalNotify] = useState(
     slot.notify ? JSON.parse(slot.notify).enabled : false,
   )
@@ -249,7 +250,7 @@ function SlotRow({
                 {enriched.name}
               </Text>
               <XStack gap="$sm" alignItems="center">
-                <TierBadge tier={slot.tier} />
+                <TierBadge tier={localTier} />
                 {slot.time && (
                   <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
                     {slot.time}
@@ -282,7 +283,13 @@ function SlotRow({
                 <Text fontFamily="$heading" fontSize="$2" color="$color">
                   {t('editor.tier')}
                 </Text>
-                <TierSelector value={slot.tier} onChange={(tier) => onUpdate({ tier })} />
+                <TierSelector
+                  value={localTier}
+                  onChange={(tier) => {
+                    setLocalTier(tier)
+                    onUpdate({ tier })
+                  }}
+                />
               </YStack>
 
               <YStack borderBottomWidth={0.5} borderColor="$borderColor" />
