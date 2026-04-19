@@ -1,0 +1,22 @@
+{
+	"sections": [
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "What the Mass Is",
+				"pt-BR": "O Que É a Missa"
+			}
+		},
+		{ "type": "prose", "file": "sections/source-and-summit" },
+		{ "type": "divider" },
+		{ "type": "prose", "file": "sections/the-sacrifice" },
+		{ "type": "divider" },
+		{ "type": "prose", "file": "sections/real-presence" },
+		{ "type": "divider" },
+		{ "type": "prose", "file": "sections/the-shape" },
+		{ "type": "divider" },
+		{ "type": "prose", "file": "sections/interior-participation" },
+		{ "type": "divider" },
+		{ "type": "prose", "file": "sections/when-you-feel-nothing" }
+	]
+}
