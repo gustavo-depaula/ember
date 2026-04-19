@@ -33,4 +33,6 @@ jobs:
           eas-version: latest
           token: ${{ secrets.EXPO_TOKEN }}
 
-      - run: pnpm --filter @ember/app exec eas update --channel production --non-interactive --message "${{ github.event.head_commit.message }}"
+      - run: pnpm --filter @ember/app exec eas update --channel production --non-interactive --message "$EAS_MESSAGE"
+        env:
+          EAS_MESSAGE: ${{ github.event.head_commit.message }}
