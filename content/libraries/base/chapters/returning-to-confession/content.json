@@ -1,0 +1,20 @@
+{
+	"sections": [
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "Returning to Confession After a Long Time",
+				"pt-BR": "Voltar à Confissão Depois de Muito Tempo"
+			}
+		},
+		{ "type": "prose", "file": "sections/the-father-is-running" },
+		{ "type": "divider" },
+		{ "type": "prose", "file": "sections/what-keeps-us-away" },
+		{ "type": "divider" },
+		{ "type": "prose", "file": "sections/what-the-priest-will-do" },
+		{ "type": "divider" },
+		{ "type": "prose", "file": "sections/simple-path" },
+		{ "type": "divider" },
+		{ "type": "prose", "file": "sections/after-the-first-confession" }
+	]
+}

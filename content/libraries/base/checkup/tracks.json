@@ -28,8 +28,14 @@
 				"pt-BR": "Formar um hábito honesto de oração. Dar o primeiro passo concreto em direção à vida sacramental."
 			},
 			"durationWeeks": 3,
-			"essentialPractices": ["morning-offering", "scripture-trust", "night-prayer"],
-			"idealPractices": ["angelus"],
+			"essentialPractices": [
+				"morning-offering",
+				"scripture-trust",
+				"night-prayer"
+			],
+			"idealPractices": [
+				"angelus"
+			],
 			"extraPractices": [],
 			"weeklyFormation": [
 				{
@@ -92,8 +98,14 @@
 				"pt-BR": "Conduzi-lo de volta ao Sacramento da Confissão e a um ritmo sustentável dominical + diário."
 			},
 			"durationWeeks": 4,
-			"essentialPractices": ["morning-offering", "examination-of-conscience", "act-contrition-short"],
-			"idealPractices": ["rosary"],
+			"essentialPractices": [
+				"morning-offering",
+				"examination-of-conscience",
+				"act-contrition-short"
+			],
+			"idealPractices": [
+				"rosary"
+			],
 			"extraPractices": [],
 			"notes": {
 				"rosary-phased": {
@@ -104,11 +116,11 @@
 			"weeklyFormation": [
 				{
 					"week": 1,
-					"chapter": "how-to-make-a-good-confession",
+					"chapter": "returning-to-confession",
 					"cccRange": "1422-1470",
 					"note": {
-						"en-US": "A careful, unhurried read. Confession is the door, not the obstacle.",
-						"pt-BR": "Uma leitura cuidadosa e sem pressa. A confissão é a porta, não o obstáculo."
+						"en-US": "Written for Catholics who have been away for a long time. The Father is running toward you. Read this before anything else.",
+						"pt-BR": "Escrito para os católicos que estão afastados há muito tempo. O Pai corre ao seu encontro. Leia isto antes de qualquer outra coisa."
 					}
 				},
 				{
@@ -179,7 +191,10 @@
 				"examination-of-conscience",
 				"night-prayer"
 			],
-			"idealPractices": ["spiritual-reading", "angelus"],
+			"idealPractices": [
+				"spiritual-reading",
+				"angelus"
+			],
 			"extraPractices": [],
 			"weeklyFormation": [
 				{
@@ -258,8 +273,14 @@
 				"examination-of-conscience",
 				"night-prayer"
 			],
-			"idealPractices": ["spiritual-reading", "angelus", "holy-hour"],
-			"extraPractices": ["gospel-of-the-day"],
+			"idealPractices": [
+				"spiritual-reading",
+				"angelus",
+				"holy-hour"
+			],
+			"extraPractices": [
+				"gospel-of-the-day"
+			],
 			"notes": {
 				"mental-prayer-duration": {
 					"en-US": "Aim for 20 minutes of mental prayer this track.",
@@ -344,8 +365,14 @@
 				"examination-of-conscience",
 				"act-contrition"
 			],
-			"idealPractices": ["holy-hour", "stations-of-the-cross", "spiritual-reading"],
-			"extraPractices": ["chaplet-of-divine-mercy"],
+			"idealPractices": [
+				"holy-hour",
+				"stations-of-the-cross",
+				"spiritual-reading"
+			],
+			"extraPractices": [
+				"chaplet-of-divine-mercy"
+			],
 			"notes": {
 				"office-lauds-vespers": {
 					"en-US": "Lauds + Vespers minimum from the Liturgy of the Hours. If already praying both, add Compline.",
@@ -438,8 +465,13 @@
 			},
 			"durationWeeks": 4,
 			"renewable": true,
-			"essentialPractices": ["mental-prayer-carmelite", "holy-hour"],
-			"idealPractices": ["rosary"],
+			"essentialPractices": [
+				"mental-prayer-carmelite",
+				"holy-hour"
+			],
+			"idealPractices": [
+				"rosary"
+			],
 			"extraPractices": [],
 			"notes": {
 				"office-full": {
