@@ -1,0 +1,13 @@
+{
+  "id": "lectio-divina",
+  "title": {
+    "en-US": "Lectio Divina",
+    "pt-BR": "Lectio Divina"
+  },
+  "subtitle": {
+    "en-US": "Praying with Scripture — Guigo's four rungs",
+    "pt-BR": "Rezar com a Escritura — os quatro degraus de Guigo"
+  },
+  "estimatedMinutes": 8,
+  "tags": ["formation", "prayer", "scripture", "lectio-divina"]
+}

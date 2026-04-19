@@ -1,0 +1,17 @@
+{
+  "sections": [
+    {
+      "type": "heading",
+      "text": { "en-US": "How to Pray", "pt-BR": "Como Rezar" }
+    },
+    { "type": "prose", "file": "sections/intro" },
+    { "type": "divider" },
+    { "type": "prose", "file": "sections/forms" },
+    { "type": "divider" },
+    { "type": "prose", "file": "sections/expressions" },
+    { "type": "divider" },
+    { "type": "prose", "file": "sections/practical" },
+    { "type": "divider" },
+    { "type": "prose", "file": "sections/battles" }
+  ]
+}

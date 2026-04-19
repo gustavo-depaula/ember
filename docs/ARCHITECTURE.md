@@ -237,7 +237,7 @@ This is a pnpm workspaces + turborepo monorepo.
 ember/
   content/                            (source files — deployed to Hearth)
     libraries/                        (THE content source of truth)
-      base/                  (core daily prayers — 41 practices, 25 prayers, 8 catechetical chapters)
+      base/                  (core daily prayers — 41 practices, 33 prayers, 15 catechetical + formation chapters)
         library.json
         practices/
           morning-offering/

@@ -1,0 +1,17 @@
+{
+  "sections": [
+    {
+      "type": "heading",
+      "text": { "en-US": "How to Make a Good Confession", "pt-BR": "Como Fazer uma Boa Confissão" }
+    },
+    { "type": "prose", "file": "sections/intro" },
+    { "type": "divider" },
+    { "type": "prose", "file": "sections/preparation" },
+    { "type": "divider" },
+    { "type": "prose", "file": "sections/in-the-confessional" },
+    { "type": "divider" },
+    { "type": "prose", "file": "sections/after" },
+    { "type": "divider" },
+    { "type": "prose", "file": "sections/frequency" }
+  ]
+}

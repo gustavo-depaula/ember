@@ -1,0 +1,17 @@
+{
+  "sections": [
+    {
+      "type": "heading",
+      "text": { "en-US": "A Plan of Life", "pt-BR": "Plano de Vida" }
+    },
+    { "type": "prose", "file": "sections/intro" },
+    { "type": "divider" },
+    { "type": "prose", "file": "sections/why" },
+    { "type": "divider" },
+    { "type": "prose", "file": "sections/daily" },
+    { "type": "divider" },
+    { "type": "prose", "file": "sections/weekly-monthly-yearly" },
+    { "type": "divider" },
+    { "type": "prose", "file": "sections/how-to-start" }
+  ]
+}

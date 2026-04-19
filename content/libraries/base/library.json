@@ -80,7 +80,15 @@
     "magnificat",
     "nunc-dimittis",
     "sub-tuum-praesidium",
-    "st-michael"
+    "st-michael",
+    "memorare",
+    "angele-dei",
+    "adoro-te-devote",
+    "tantum-ergo",
+    "te-deum",
+    "veni-creator-spiritus",
+    "de-profundis",
+    "eternal-rest"
   ],
   "chapters": [
     "ten-commandments",
@@ -90,7 +98,14 @@
     "works-of-mercy",
     "virtues",
     "capital-sins-and-virtues",
-    "gifts-and-fruits-of-the-holy-spirit"
+    "gifts-and-fruits-of-the-holy-spirit",
+    "how-to-pray",
+    "lectio-divina",
+    "ignatian-examen",
+    "mental-prayer-carmelite-method",
+    "how-to-pray-the-rosary-well",
+    "how-to-make-a-good-confession",
+    "plan-of-life"
   ],
   "defaults": {
     "autoSeed": true

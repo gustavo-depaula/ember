@@ -1,0 +1,15 @@
+{
+  "sections": [
+    {
+      "type": "heading",
+      "text": { "en-US": "Lectio Divina", "pt-BR": "Lectio Divina" }
+    },
+    { "type": "prose", "file": "sections/intro" },
+    { "type": "divider" },
+    { "type": "prose", "file": "sections/four-rungs" },
+    { "type": "divider" },
+    { "type": "prose", "file": "sections/practical" },
+    { "type": "divider" },
+    { "type": "prose", "file": "sections/fruits" }
+  ]
+}

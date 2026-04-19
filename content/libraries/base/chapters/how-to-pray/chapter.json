@@ -1,0 +1,13 @@
+{
+  "id": "how-to-pray",
+  "title": {
+    "en-US": "How to Pray",
+    "pt-BR": "Como Rezar"
+  },
+  "subtitle": {
+    "en-US": "A primer on the life of prayer — vocal, meditative, contemplative",
+    "pt-BR": "Um manual sobre a vida de oração — vocal, meditativa, contemplativa"
+  },
+  "estimatedMinutes": 10,
+  "tags": ["formation", "prayer-life", "foundations"]
+}

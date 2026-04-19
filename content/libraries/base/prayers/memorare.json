@@ -1,0 +1,17 @@
+{
+	"title": {
+		"en-US": "The Memorare",
+		"pt-BR": "Memorare (Lembrai-vos)",
+		"la": "Memorare"
+	},
+	"body": [
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Remember, O most gracious Virgin Mary,\nthat never was it known\nthat anyone who fled to thy protection,\nimplored thy help, or sought thy intercession,\nwas left unaided.\n\nInspired by this confidence,\nI fly unto thee,\nO Virgin of virgins, my Mother;\nto thee do I come,\nbefore thee I stand, sinful and sorrowful.\n\nO Mother of the Word Incarnate,\ndespise not my petitions,\nbut in thy mercy hear and answer me. Amen.",
+				"pt-BR": "Lembrai-vos, ó piíssima Virgem Maria,\nque nunca se ouviu dizer\nque algum daqueles que recorreram à vossa proteção,\nimplorado o vosso auxílio\nou pedido vossa intercessão,\nfosse por Vós desamparado.\n\nAnimado eu, pois, de igual confiança,\na Vós, Virgem entre todas singular,\ncomo a Mãe recorro,\nde Vós me valho\ne, gemendo sob o peso de meus pecados,\nme prostro a vossos pés.\n\nNão desprezeis as minhas súplicas,\nó Mãe do Verbo encarnado,\nmas dignai-vos de ouvi-las propícia,\ne mostrai-vos sempre minha advogada\njunto ao divino Filho Jesus. Amém.",
+				"la": "Memorare, O piissima Virgo Maria,\nnon esse auditum a saeculo,\nquemquam ad tua currentem praesidia,\ntua implorantem auxilia,\ntua petentem suffragia,\nesse derelictum.\n\nEgo tali animatus confidentia,\nad te, Virgo Virginum, Mater,\ncurro, ad te venio,\ncoram te gemens peccator assisto.\n\nNoli, Mater Verbi,\nverba mea despicere,\nsed audi propitia et exaudi. Amen."
+			}
+		}
+	]
+}

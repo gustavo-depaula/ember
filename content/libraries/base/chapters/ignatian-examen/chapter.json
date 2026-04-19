@@ -1,0 +1,13 @@
+{
+  "id": "ignatian-examen",
+  "title": {
+    "en-US": "The Ignatian Examen",
+    "pt-BR": "O Exame Inaciano"
+  },
+  "subtitle": {
+    "en-US": "Fifteen minutes that sanctify the rest of the day",
+    "pt-BR": "Quinze minutos que santificam o resto do dia"
+  },
+  "estimatedMinutes": 8,
+  "tags": ["formation", "ignatian", "examen", "daily-practice"]
+}

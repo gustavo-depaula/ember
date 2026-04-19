@@ -1,0 +1,17 @@
+{
+	"title": {
+		"en-US": "Eternal Rest",
+		"pt-BR": "Descanso Eterno",
+		"la": "Requiem Aeternam"
+	},
+	"body": [
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Eternal rest grant unto them, O Lord,\nand let perpetual light shine upon them.\nMay they rest in peace. Amen.\n\nMay the souls of the faithful departed,\nthrough the mercy of God, rest in peace. Amen.",
+				"pt-BR": "Dai-lhes, Senhor, o eterno descanso,\nentre os esplendores da vossa luz.\nDescansem em paz. Amém.\n\nQue as almas dos fiéis defuntos,\npela misericórdia de Deus, descansem em paz. Amém.",
+				"la": "Requiem aeternam dona eis, Domine,\net lux perpetua luceat eis.\nRequiescant in pace. Amen.\n\nFidelium animae,\nper misericordiam Dei, requiescant in pace. Amen."
+			}
+		}
+	]
+}

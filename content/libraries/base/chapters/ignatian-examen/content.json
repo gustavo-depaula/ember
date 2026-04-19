@@ -1,0 +1,15 @@
+{
+  "sections": [
+    {
+      "type": "heading",
+      "text": { "en-US": "The Ignatian Examen", "pt-BR": "O Exame Inaciano" }
+    },
+    { "type": "prose", "file": "sections/intro" },
+    { "type": "divider" },
+    { "type": "prose", "file": "sections/five-steps" },
+    { "type": "divider" },
+    { "type": "prose", "file": "sections/practical" },
+    { "type": "divider" },
+    { "type": "prose", "file": "sections/fruits" }
+  ]
+}

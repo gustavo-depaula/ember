@@ -1,0 +1,13 @@
+{
+  "id": "plan-of-life",
+  "title": {
+    "en-US": "A Plan of Life",
+    "pt-BR": "Plano de Vida"
+  },
+  "subtitle": {
+    "en-US": "A rule for daily fidelity — and how to build one",
+    "pt-BR": "Uma regra de fidelidade cotidiana — e como construí-la"
+  },
+  "estimatedMinutes": 9,
+  "tags": ["formation", "plan-of-life", "fidelity", "rule-of-life"]
+}

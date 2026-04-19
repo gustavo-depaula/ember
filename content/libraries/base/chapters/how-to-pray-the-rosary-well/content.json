@@ -1,0 +1,17 @@
+{
+  "sections": [
+    {
+      "type": "heading",
+      "text": { "en-US": "How to Pray the Rosary Well", "pt-BR": "Como Rezar Bem o Rosário" }
+    },
+    { "type": "prose", "file": "sections/intro" },
+    { "type": "divider" },
+    { "type": "prose", "file": "sections/structure" },
+    { "type": "divider" },
+    { "type": "prose", "file": "sections/meditation" },
+    { "type": "divider" },
+    { "type": "prose", "file": "sections/fruits" },
+    { "type": "divider" },
+    { "type": "prose", "file": "sections/struggles" }
+  ]
+}
