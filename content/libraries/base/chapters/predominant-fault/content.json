@@ -1,0 +1,20 @@
+{
+	"sections": [
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "The Predominant Fault",
+				"pt-BR": "O Defeito Dominante"
+			}
+		},
+		{ "type": "prose", "file": "sections/what-it-is" },
+		{ "type": "divider" },
+		{ "type": "prose", "file": "sections/why-it-matters" },
+		{ "type": "divider" },
+		{ "type": "prose", "file": "sections/how-to-find-it" },
+		{ "type": "divider" },
+		{ "type": "prose", "file": "sections/how-to-fight-it" },
+		{ "type": "divider" },
+		{ "type": "prose", "file": "sections/when-it-hides" }
+	]
+}
