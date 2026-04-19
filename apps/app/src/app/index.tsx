@@ -18,18 +18,13 @@ import { getManifest } from '@/content/registry'
 import { useEventStore } from '@/db/events'
 import { useYearCalendar } from '@/features/calendar'
 import {
-  AngelusLine,
   AppShortcuts,
   Aspiratio,
-  BenedictioLine,
   CelebrationOfDay,
   ConfessioLine,
   DiesDevotion,
-  HoraLine,
   LiturgicalHeader,
   MementoLine,
-  NocturneLine,
-  OblatioLine,
   QuickCaptureChips,
   RestartNeededList,
   SeasonalContext,
@@ -173,13 +168,10 @@ export default function HomeScreen() {
         <YStack gap="$md">
           <LiturgicalHeader date={now} season={season} rose={isRose} />
 
-          <OblatioLine date={now} />
+          <FadeInView>
+            <DiesDevotion date={now} />
+          </FadeInView>
 
-          <AngelusLine date={now} />
-
-          <BenedictioLine />
-
-          <HoraLine />
 
           <DayCarousel
             today={anchorDate}
@@ -188,10 +180,6 @@ export default function HomeScreen() {
 
           <FadeInView>
             <SeasonalContext date={now} season={season} />
-          </FadeInView>
-
-          <FadeInView>
-            <DiesDevotion date={now} />
           </FadeInView>
 
           <FadeInView>
@@ -322,8 +310,6 @@ export default function HomeScreen() {
         <ConfessioLine />
 
         <MementoLine />
-
-        <NocturneLine />
       </YStack>
     </ScreenLayout>
   )

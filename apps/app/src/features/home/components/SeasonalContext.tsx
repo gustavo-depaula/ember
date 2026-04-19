@@ -2,7 +2,9 @@ import { differenceInCalendarDays, format } from 'date-fns'
 import { useMemo } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Text, YStack } from 'tamagui'
+import { useRouter } from 'expo-router'
 
+import { AnimatedPressable } from '@/components'
 import { useUpcomingCelebration } from '@/features/calendar'
 import { localizeContent } from '@/lib/i18n'
 import type { LiturgicalSeason } from '@/lib/liturgical'
@@ -10,6 +12,7 @@ import { normalizeDate } from '@/lib/liturgical'
 
 export function SeasonalContext({ date, season }: { date: Date; season: LiturgicalSeason }) {
   const { t } = useTranslation()
+  const router = useRouter()
   const upcoming = useUpcomingCelebration(14)
   const dateKey = format(date, 'yyyy-MM-dd')
 
@@ -22,24 +25,30 @@ export function SeasonalContext({ date, season }: { date: Date; season: Liturgic
   const feastName = upcoming ? localizeContent(upcoming.entry.name) : undefined
 
   return (
-    <YStack alignItems="center" gap="$xs" paddingHorizontal="$lg">
-      <Text
-        fontFamily="$body"
-        fontSize="$2"
-        color="$colorSecondary"
-        textAlign="center"
-        fontStyle="italic"
-      >
-        {t(`home.seasonDescription.${season}`)}
-      </Text>
-
-      {feastName && daysUntil && daysUntil > 0 && (
-        <Text fontFamily="$body" fontSize="$1" color="$accent" textAlign="center">
-          {daysUntil === 1
-            ? t('home.tomorrow', { feast: feastName })
-            : t('home.daysUntil', { count: daysUntil, feast: feastName })}
+    <AnimatedPressable
+      onPress={() => router.push('/calendar')}
+      accessibilityRole="link"
+      accessibilityLabel={t('a11y.viewCalendar')}
+    >
+      <YStack alignItems="center" gap="$xs" paddingHorizontal="$lg">
+        <Text
+          fontFamily="$body"
+          fontSize="$2"
+          color="$colorSecondary"
+          textAlign="center"
+          fontStyle="italic"
+        >
+          {t(`home.seasonDescription.${season}`)}
         </Text>
-      )}
-    </YStack>
+
+        {feastName && daysUntil && daysUntil > 0 && (
+          <Text fontFamily="$body" fontSize="$1" color="$accent" textAlign="center">
+            {daysUntil === 1
+              ? t('home.tomorrow', { feast: feastName })
+              : t('home.daysUntil', { count: daysUntil, feast: feastName })}
+          </Text>
+        )}
+      </YStack>
+    </AnimatedPressable>
   )
 }
