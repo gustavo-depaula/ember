@@ -1,0 +1,21 @@
+## Os Mandamentos
+
+**1.** Amar a Deus sobre todas as coisas.
+
+**2.** Não tomar seu santo nome em vão.
+
+**3.** Guardar domingos e festas de guarda.
+
+**4.** Honrar pai e mãe.
+
+**5.** Não matar.
+
+**6.** Não pecar contra a castidade.
+
+**7.** Não roubar.
+
+**8.** Não levantar falso testemunho.
+
+**9.** Não desejar a mulher do próximo.
+
+**10.** Não cobiçar as coisas alheias.

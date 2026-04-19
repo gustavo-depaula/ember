@@ -1,0 +1,25 @@
+{
+  "sections": [
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "The Works of Mercy",
+        "pt-BR": "As Obras de Misericórdia"
+      }
+    },
+    {
+      "type": "prose",
+      "file": "sections/intro"
+    },
+    { "type": "divider" },
+    {
+      "type": "prose",
+      "file": "sections/corporal"
+    },
+    { "type": "divider" },
+    {
+      "type": "prose",
+      "file": "sections/spiritual"
+    }
+  ]
+}

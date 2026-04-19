@@ -1,0 +1,21 @@
+{
+	"title": {
+		"en-US": "Nicene Creed",
+		"pt-BR": "Credo Niceno-Constantinopolitano",
+		"la": "Symbolum Nicaenum"
+	},
+	"subtitle": {
+		"en-US": "Professed at Sunday Mass and solemnities",
+		"pt-BR": "Professado na Missa dominical e solenidades"
+	},
+	"body": [
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "I believe in one God,\nthe Father almighty,\nmaker of heaven and earth,\nof all things visible and invisible.\n\nI believe in one Lord Jesus Christ,\nthe Only Begotten Son of God,\nborn of the Father before all ages.\nGod from God, Light from Light,\ntrue God from true God,\nbegotten, not made, consubstantial with the Father;\nthrough him all things were made.\nFor us men and for our salvation\nhe came down from heaven,\nand by the Holy Spirit was incarnate of the Virgin Mary,\nand became man.\nFor our sake he was crucified under Pontius Pilate,\nhe suffered death and was buried,\nand rose again on the third day\nin accordance with the Scriptures.\nHe ascended into heaven\nand is seated at the right hand of the Father.\nHe will come again in glory\nto judge the living and the dead\nand his kingdom will have no end.\n\nI believe in the Holy Spirit, the Lord, the giver of life,\nwho proceeds from the Father and the Son,\nwho with the Father and the Son is adored and glorified,\nwho has spoken through the prophets.\n\nI believe in one, holy, catholic and apostolic Church.\nI confess one Baptism for the forgiveness of sins\nand I look forward to the resurrection of the dead\nand the life of the world to come.\nAmen.",
+				"pt-BR": "Creio em um só Deus,\nPai todo-poderoso,\nCriador do céu e da terra,\nde todas as coisas visíveis e invisíveis.\n\nCreio em um só Senhor, Jesus Cristo,\nFilho Unigênito de Deus,\nnascido do Pai antes de todos os séculos:\nDeus de Deus, luz da luz,\nDeus verdadeiro de Deus verdadeiro;\ngerado, não criado, consubstancial ao Pai.\nPor ele todas as coisas foram feitas.\nE por nós, homens, e para nossa salvação,\ndesceu dos céus,\ne encarnou pelo Espírito Santo,\nno seio da Virgem Maria, e se fez homem.\nTambém por nós foi crucificado sob Pôncio Pilatos;\npadeceu e foi sepultado.\nRessuscitou ao terceiro dia, conforme as Escrituras,\ne subiu aos céus,\nonde está sentado à direita do Pai.\nE de novo há de vir, em sua glória,\npara julgar os vivos e os mortos;\ne o seu reino não terá fim.\n\nCreio no Espírito Santo, Senhor que dá a vida,\ne procede do Pai e do Filho;\ne com o Pai e o Filho é adorado e glorificado:\nele que falou pelos profetas.\n\nCreio na Igreja, una, santa, católica e apostólica.\nProfesso um só batismo para remissão dos pecados.\nE espero a ressurreição dos mortos\ne a vida do mundo que há de vir.\nAmém.",
+				"la": "Credo in unum Deum,\nPatrem omnipoténtem,\nfactórem cæli et terræ,\nvisibílium ómnium et invisibílium.\n\nEt in unum Dóminum Iesum Christum,\nFílium Dei unigénitum,\net ex Patre natum ante ómnia sǽcula.\nDeum de Deo, lumen de lúmine,\nDeum verum de Deo vero,\ngénitum, non factum, consubstantiálem Patri:\nper quem ómnia facta sunt.\nQui propter nos hómines et propter nostram salútem\ndescéndit de cælis.\nEt incarnátus est de Spíritu Sancto\nex María Vírgine, et homo factus est.\nCrucifíxus étiam pro nobis sub Póntio Piláto;\npassus et sepúltus est,\net resurréxit tértia die, secúndum Scriptúras,\net ascéndit in cælum, sedet ad déxteram Patris.\nEt íterum ventúrus est cum glória,\niudicáre vivos et mórtuos,\ncuius regni non erit finis.\n\nEt in Spíritum Sanctum, Dóminum et vivificántem,\nqui ex Patre Filióque procédit.\nQui cum Patre et Fílio simul adorátur et conglorificátur:\nqui locútus est per prophétas.\n\nEt unam, sanctam, cathólicam et apostólicam Ecclésiam.\nConfíteor unum baptísma in remissiónem peccatórum.\nEt exspécto resurrectiónem mortuórum,\net vitam ventúri sǽculi. Amen."
+			}
+		}
+	]
+}

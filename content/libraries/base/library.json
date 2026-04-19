@@ -61,6 +61,7 @@
     "hail-mary",
     "glory-be",
     "apostles-creed",
+    "nicene-creed",
     "act-of-contrition",
     "act-of-faith",
     "act-of-hope",
@@ -80,6 +81,16 @@
     "nunc-dimittis",
     "sub-tuum-praesidium",
     "st-michael"
+  ],
+  "chapters": [
+    "ten-commandments",
+    "beatitudes",
+    "precepts-of-the-church",
+    "seven-sacraments",
+    "works-of-mercy",
+    "virtues",
+    "capital-sins-and-virtues",
+    "gifts-and-fruits-of-the-holy-spirit"
   ],
   "defaults": {
     "autoSeed": true

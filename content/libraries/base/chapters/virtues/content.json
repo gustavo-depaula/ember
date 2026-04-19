@@ -1,0 +1,25 @@
+{
+  "sections": [
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "The Virtues",
+        "pt-BR": "As Virtudes"
+      }
+    },
+    {
+      "type": "prose",
+      "file": "sections/intro"
+    },
+    { "type": "divider" },
+    {
+      "type": "prose",
+      "file": "sections/theological"
+    },
+    { "type": "divider" },
+    {
+      "type": "prose",
+      "file": "sections/cardinal"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "sections": [
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "The Seven Sacraments",
+        "pt-BR": "Os Sete Sacramentos"
+      }
+    },
+    {
+      "type": "prose",
+      "file": "sections/intro"
+    },
+    { "type": "divider" },
+    {
+      "type": "prose",
+      "file": "sections/initiation"
+    },
+    { "type": "divider" },
+    {
+      "type": "prose",
+      "file": "sections/healing"
+    },
+    { "type": "divider" },
+    {
+      "type": "prose",
+      "file": "sections/service"
+    }
+  ]
+}

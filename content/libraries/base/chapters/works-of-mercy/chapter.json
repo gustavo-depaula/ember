@@ -1,0 +1,13 @@
+{
+  "id": "works-of-mercy",
+  "title": {
+    "en-US": "The Works of Mercy",
+    "pt-BR": "As Obras de Misericórdia"
+  },
+  "subtitle": {
+    "en-US": "Corporal and spiritual acts of charity",
+    "pt-BR": "Atos corporais e espirituais de caridade"
+  },
+  "estimatedMinutes": 6,
+  "tags": ["catechesis", "charity", "mercy"]
+}

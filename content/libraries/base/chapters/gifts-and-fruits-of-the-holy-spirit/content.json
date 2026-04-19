@@ -1,0 +1,25 @@
+{
+  "sections": [
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Gifts and Fruits of the Holy Spirit",
+        "pt-BR": "Dons e Frutos do Espírito Santo"
+      }
+    },
+    {
+      "type": "prose",
+      "file": "sections/intro"
+    },
+    { "type": "divider" },
+    {
+      "type": "prose",
+      "file": "sections/gifts"
+    },
+    { "type": "divider" },
+    {
+      "type": "prose",
+      "file": "sections/fruits"
+    }
+  ]
+}

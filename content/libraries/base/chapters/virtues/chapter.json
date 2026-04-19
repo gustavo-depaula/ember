@@ -1,0 +1,13 @@
+{
+  "id": "virtues",
+  "title": {
+    "en-US": "The Virtues",
+    "pt-BR": "As Virtudes"
+  },
+  "subtitle": {
+    "en-US": "Theological and cardinal — the habits of a holy life",
+    "pt-BR": "Teologais e cardeais — os hábitos da vida santa"
+  },
+  "estimatedMinutes": 7,
+  "tags": ["catechesis", "moral-life", "virtues"]
+}

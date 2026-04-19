@@ -1,0 +1,25 @@
+{
+  "sections": [
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "The Beatitudes",
+        "pt-BR": "As Bem-aventuranças"
+      }
+    },
+    {
+      "type": "prose",
+      "file": "sections/intro"
+    },
+    { "type": "divider" },
+    {
+      "type": "prose",
+      "file": "sections/beatitudes"
+    },
+    { "type": "divider" },
+    {
+      "type": "prose",
+      "file": "sections/summary"
+    }
+  ]
+}

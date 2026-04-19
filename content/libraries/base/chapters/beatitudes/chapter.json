@@ -1,0 +1,13 @@
+{
+  "id": "beatitudes",
+  "title": {
+    "en-US": "The Beatitudes",
+    "pt-BR": "As Bem-aventuranças"
+  },
+  "subtitle": {
+    "en-US": "The heart of Christ's preaching",
+    "pt-BR": "O coração da pregação de Cristo"
+  },
+  "estimatedMinutes": 6,
+  "tags": ["catechesis", "moral-life", "gospel"]
+}

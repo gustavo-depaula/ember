@@ -1,0 +1,25 @@
+{
+  "sections": [
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "The Capital Sins and Opposing Virtues",
+        "pt-BR": "Os Pecados Capitais e as Virtudes Opostas"
+      }
+    },
+    {
+      "type": "prose",
+      "file": "sections/intro"
+    },
+    { "type": "divider" },
+    {
+      "type": "prose",
+      "file": "sections/capital-sins"
+    },
+    { "type": "divider" },
+    {
+      "type": "prose",
+      "file": "sections/opposing-virtues"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "sections": [
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "The Precepts of the Church",
+        "pt-BR": "Os Mandamentos da Igreja"
+      }
+    },
+    {
+      "type": "prose",
+      "file": "sections/intro"
+    },
+    { "type": "divider" },
+    {
+      "type": "prose",
+      "file": "sections/precepts"
+    },
+    { "type": "divider" },
+    {
+      "type": "prose",
+      "file": "sections/note"
+    }
+  ]
+}

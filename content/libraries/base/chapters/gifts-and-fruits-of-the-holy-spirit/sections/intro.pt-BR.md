@@ -1,0 +1,3 @@
+O Espírito Santo, dado no Batismo e fortalecido na Confirmação, não deixa a alma mover-se sozinha. Ele dá **sete dons** — disposições estáveis que nos tornam "dóceis em obedecer prontamente às inspirações divinas" (CIC 1830). Onde as virtudes nos movem pela razão iluminada pela fé, os dons permitem ao próprio Espírito mover-nos diretamente.
+
+E ele dá **frutos** — os sinais de que sua obra está lançando raízes. São Paulo os elenca na carta aos Gálatas; a tradição (seguindo a Vulgata) enumera doze. "A árvore se conhece pelos frutos" (Mt 12,33): julgamos a presença do Espírito não por sentimentos ou fenômenos, mas pelos frutos que ele lenta e pacientemente faz nascer.

@@ -1,0 +1,25 @@
+{
+  "sections": [
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "The Ten Commandments",
+        "pt-BR": "Os Dez Mandamentos"
+      }
+    },
+    {
+      "type": "prose",
+      "file": "sections/intro"
+    },
+    { "type": "divider" },
+    {
+      "type": "prose",
+      "file": "sections/commandments"
+    },
+    { "type": "divider" },
+    {
+      "type": "prose",
+      "file": "sections/summary"
+    }
+  ]
+}

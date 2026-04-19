@@ -1,0 +1,13 @@
+{
+  "id": "ten-commandments",
+  "title": {
+    "en-US": "The Ten Commandments",
+    "pt-BR": "Os Dez Mandamentos"
+  },
+  "subtitle": {
+    "en-US": "The Decalogue — God's covenant written on the heart",
+    "pt-BR": "O Decálogo — a aliança de Deus escrita no coração"
+  },
+  "estimatedMinutes": 8,
+  "tags": ["catechesis", "moral-life", "decalogue"]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "precepts-of-the-church",
+  "title": {
+    "en-US": "The Precepts of the Church",
+    "pt-BR": "Os Mandamentos da Igreja"
+  },
+  "subtitle": {
+    "en-US": "The minimum of Catholic life",
+    "pt-BR": "O mínimo da vida católica"
+  },
+  "estimatedMinutes": 5,
+  "tags": ["catechesis", "moral-life", "precepts"]
+}

@@ -1,0 +1,3 @@
+The Holy Spirit, given in Baptism and strengthened in Confirmation, does not leave the soul to move on its own. He gives **seven gifts** — stable dispositions that make us "docile in readily obeying divine inspirations" (CCC 1830). Where the virtues move us by reason enlightened by faith, the gifts allow the Spirit himself to move us directly.
+
+And he gives **fruits** — the signs that his work is taking root. St. Paul lists them in Galatians; the tradition (following the Vulgate) numbers twelve. "The tree is known by its fruit" (Mt 12:33): we judge the Spirit's presence not by feelings or phenomena but by the fruits he slowly, patiently bears.
