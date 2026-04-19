@@ -99,7 +99,7 @@
         },
         {
           "type": "prayer",
-          "ref": "base:eternal-father"
+          "ref": "divine-mercy:eternal-father"
         },
         {
           "type": "rubric",
@@ -114,7 +114,7 @@
           "sections": [
             {
               "type": "prayer",
-              "ref": "base:divine-mercy-response"
+              "ref": "divine-mercy:divine-mercy-response"
             }
           ]
         },
@@ -136,7 +136,7 @@
       "sections": [
         {
           "type": "prayer",
-          "ref": "base:holy-god"
+          "ref": "divine-mercy:holy-god"
         }
       ]
     },

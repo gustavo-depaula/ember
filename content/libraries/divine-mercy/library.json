@@ -1,0 +1,26 @@
+{
+	"id": "divine-mercy",
+	"version": "1.0.0",
+	"name": {
+		"en-US": "Divine Mercy",
+		"pt-BR": "Divina Misericórdia"
+	},
+	"description": {
+		"en-US": "The Chaplet, the Hour of Mercy, and the devotional prayers entrusted to St. Faustina Kowalska — a school of trust in Jesus, rich in mercy.",
+		"pt-BR": "O Terço, a Hora da Misericórdia e as orações devocionais confiadas a Santa Faustina Kowalska — uma escola de confiança em Jesus, rico em misericórdia."
+	},
+	"languages": ["en-US", "pt-BR"],
+	"tags": ["devotion", "mercy", "faustina"],
+	"practices": [
+		"chaplet-of-divine-mercy",
+		"three-oclock-prayer"
+	],
+	"prayers": [
+		"eternal-father",
+		"divine-mercy-response",
+		"holy-god"
+	],
+	"defaults": {
+		"autoSeed": false
+	}
+}

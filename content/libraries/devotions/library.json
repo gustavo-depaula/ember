@@ -1,6 +1,6 @@
 {
   "id": "devotions",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "name": {
     "en-US": "Catholic Devotions & Formation",
     "pt-BR": "Devoções e Formação Católica"
@@ -14,8 +14,6 @@
   "practices": [
     "divine-office",
     "bible-catechism-in-year",
-    "lectio-divina",
-    "divine-mercy",
     "seven-sorrows",
     "stations-cross",
     "way-of-light",
@@ -29,7 +27,8 @@
     "stations-cross-jpii",
     "stations-cross-franciscan",
     "seven-sorrows-scriptural",
-    "way-of-light-scriptural"
+    "way-of-light-scriptural",
+    "prayers-st-thomas-aquinas"
   ],
   "prayers": [],
   "defaults": {
