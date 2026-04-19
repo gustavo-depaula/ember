@@ -1,0 +1,20 @@
+{
+	"sections": [
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "When Prayer Goes Dark",
+				"pt-BR": "Quando a Oração Entra na Escuridão"
+			}
+		},
+		{ "type": "prose", "file": "sections/what-dryness-is" },
+		{ "type": "divider" },
+		{ "type": "prose", "file": "sections/three-signs" },
+		{ "type": "divider" },
+		{ "type": "prose", "file": "sections/what-not-to-do" },
+		{ "type": "divider" },
+		{ "type": "prose", "file": "sections/what-to-do" },
+		{ "type": "divider" },
+		{ "type": "prose", "file": "sections/grace-through-nature" }
+	]
+}
