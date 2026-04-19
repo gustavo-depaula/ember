@@ -138,7 +138,9 @@ export default function RootLayout() {
       // Seed practices and cursors
       await Promise.all([seedPractices(), seedCursors()])
       setSeeded(true)
-      setupNotifications().then(() => rescheduleAllReminders())
+      setupNotifications()
+        .then(() => rescheduleAllReminders())
+        .catch((err) => console.error('[startup] notification setup failed', err))
 
       if (installed.length > 0) {
         InteractionManager.runAfterInteractions(() => {

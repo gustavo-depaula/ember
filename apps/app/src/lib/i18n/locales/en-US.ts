@@ -1026,6 +1026,12 @@ export default {
     tryAgainLater: 'Please try again.',
   },
 
+  reminders: {
+    scheduleFailed: 'Reminders couldn\u2019t be scheduled',
+    scheduleFailedDesc:
+      'Your change was saved, but reminder notifications couldn\u2019t be set up. Check your notification permissions and try again.',
+  },
+
   bookName: {
     genesis: 'Genesis',
     exodus: 'Exodus',
@@ -1208,6 +1214,9 @@ export default {
     pray: 'Pray',
     noContent: 'No prayer content available for this practice yet.',
     threshold: 'Oremus',
+    completionSyncFailed: 'Couldn\u2019t update your progress',
+    completionSyncFailedDesc:
+      'Your prayer was recorded, but we couldn\u2019t advance to the next day. Please try again later.',
   },
 
   obligations: {

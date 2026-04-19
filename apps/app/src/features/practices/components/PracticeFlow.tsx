@@ -13,6 +13,7 @@ import {
   AnimatedPressable,
   BibleReadingBlock,
   CccReadingBlock,
+  confirm,
   InlineRetry,
   ManuscriptFrame,
   ProperSlot,
@@ -351,30 +352,40 @@ export function PracticeFlow({
       {
         onSuccess: async () => {
           successBuzz()
-          if (trackDefs) {
-            const trackIds = findTrackIds(sections)
-            await Promise.all(
-              trackIds.map((id) =>
-                advanceCursor.mutateAsync({
-                  cursorId: `${practiceId}/${id}`,
-                  entryCount: trackDefs[id].entries.length,
-                }),
-              ),
-            )
-          }
-          if (manifest?.program) {
-            const isFinalDay =
-              programProgress && programProgress.completionCount + 1 >= manifest.program.totalDays
-            if (isFinalDay) {
-              await handleProgramCompletion.mutateAsync({
-                practiceId,
-                completionBehavior: manifest.program.completionBehavior,
-              })
-              setShowCompleteModal(true)
-              return
+          try {
+            if (trackDefs) {
+              const trackIds = findTrackIds(sections)
+              await Promise.all(
+                trackIds.map((id) =>
+                  advanceCursor.mutateAsync({
+                    cursorId: `${practiceId}/${id}`,
+                    entryCount: trackDefs[id].entries.length,
+                  }),
+                ),
+              )
             }
+            if (manifest?.program) {
+              const isFinalDay =
+                programProgress &&
+                programProgress.completionCount + 1 >= manifest.program.totalDays
+              if (isFinalDay) {
+                await handleProgramCompletion.mutateAsync({
+                  practiceId,
+                  completionBehavior: manifest.program.completionBehavior,
+                })
+                setShowCompleteModal(true)
+                return
+              }
+            }
+            router.back()
+          } catch (err) {
+            console.error('[practice] post-completion sync failed', err)
+            confirm({
+              title: t('practice.completionSyncFailed'),
+              description: t('practice.completionSyncFailedDesc'),
+              singleAction: true,
+            })
           }
-          router.back()
         },
       },
     )

@@ -1030,6 +1030,12 @@ export default {
     tryAgainLater: 'Por favor, tente novamente.',
   },
 
+  reminders: {
+    scheduleFailed: 'Não foi possível agendar os lembretes',
+    scheduleFailedDesc:
+      'Sua alteração foi salva, mas as notificações de lembrete não puderam ser configuradas. Verifique as permissões de notificação e tente novamente.',
+  },
+
   bookName: {
     genesis: 'Gênesis',
     exodus: 'Êxodo',
@@ -1212,6 +1218,9 @@ export default {
     pray: 'Rezar',
     noContent: 'Conteúdo de oração ainda não disponível para esta prática.',
     threshold: 'Oremus',
+    completionSyncFailed: 'Não foi possível atualizar seu progresso',
+    completionSyncFailedDesc:
+      'Sua oração foi registrada, mas não conseguimos avançar para o próximo dia. Tente novamente mais tarde.',
   },
 
   obligations: {

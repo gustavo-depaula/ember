@@ -2,6 +2,7 @@ import { useMutation } from '@tanstack/react-query'
 import { useMemo } from 'react'
 import { useShallow } from 'zustand/react/shallow'
 
+import { confirm } from '@/components'
 import { getManifest } from '@/content/registry'
 import type { ProgramConfig } from '@/content/types'
 import type { SlotState } from '@/db/events'
@@ -26,6 +27,7 @@ import {
 } from '@/db/repositories'
 import type { Completion, UserPractice } from '@/db/schema'
 import { getToday } from '@/hooks/useToday'
+import i18n from '@/lib/i18n'
 import { rescheduleAllReminders } from '@/lib/notifications'
 
 import { computeProgramProgress, resolveCalendarDay } from './program'
@@ -36,6 +38,17 @@ import { getPracticeStreak } from './utils'
 
 function sortedSlots(slots: Iterable<SlotState>): SlotState[] {
   return [...slots].sort((a, b) => a.sort_order - b.sort_order)
+}
+
+function resyncReminders() {
+  return rescheduleAllReminders().catch((error) => {
+    console.error('[reminders] reschedule failed', error)
+    confirm({
+      title: i18n.t('reminders.scheduleFailed'),
+      description: i18n.t('reminders.scheduleFailedDesc'),
+      singleAction: true,
+    })
+  })
 }
 
 // --- Slot reads ---
@@ -324,14 +337,14 @@ export function useCreatePractice() {
       activeVariant?: string
       slot?: Parameters<typeof addSlot>[1]
     }) => createPracticeWithSlot(data, data.slot ?? {}),
-    onSuccess: () => rescheduleAllReminders().catch(console.warn),
+    onSuccess: resyncReminders,
   })
 }
 
 export function useEnableSlotsForPractice() {
   return useMutation({
     mutationFn: enableSlotsForPractice,
-    onSuccess: () => rescheduleAllReminders().catch(console.warn),
+    onSuccess: resyncReminders,
   })
 }
 
@@ -345,7 +358,7 @@ export function useUpdatePractice() {
 export function useDeletePractice() {
   return useMutation({
     mutationFn: deletePractice,
-    onSuccess: () => rescheduleAllReminders().catch(console.warn),
+    onSuccess: resyncReminders,
   })
 }
 
@@ -354,14 +367,14 @@ export function useDeletePractice() {
 export function useArchivePractice() {
   return useMutation({
     mutationFn: archivePractice,
-    onSuccess: () => rescheduleAllReminders().catch(console.warn),
+    onSuccess: resyncReminders,
   })
 }
 
 export function useUnarchivePractice() {
   return useMutation({
     mutationFn: unarchivePractice,
-    onSuccess: () => rescheduleAllReminders().catch(console.warn),
+    onSuccess: resyncReminders,
   })
 }
 
@@ -376,7 +389,7 @@ export function useAddSlot() {
       practiceId: string
       data: Parameters<typeof addSlot>[1]
     }) => addSlot(practiceId, data),
-    onSuccess: () => rescheduleAllReminders().catch(console.warn),
+    onSuccess: resyncReminders,
   })
 }
 
@@ -384,14 +397,14 @@ export function useUpdateSlot() {
   return useMutation({
     mutationFn: ({ id, data }: { id: string; data: Parameters<typeof updateSlot>[1] }) =>
       updateSlot(id, data),
-    onSuccess: () => rescheduleAllReminders().catch(console.warn),
+    onSuccess: resyncReminders,
   })
 }
 
 export function useDeleteSlot() {
   return useMutation({
     mutationFn: deleteSlot,
-    onSuccess: () => rescheduleAllReminders().catch(console.warn),
+    onSuccess: resyncReminders,
   })
 }
 
