@@ -2,7 +2,6 @@ import { useMemo } from 'react'
 
 import { useEventStore } from '@/db/events'
 import type { ConfessionState, GratitudeState, IntentionState } from '@/db/events/state'
-import type { AngelusSlot, MealSlot } from '@/db/events/types'
 import type { Completion } from '@/db/schema'
 
 export type MemoriaEntry =
@@ -12,9 +11,6 @@ export type MemoriaEntry =
   | { kind: 'gratitude'; id: string; timestamp: number; gratitude: GratitudeState }
   | { kind: 'day-offered'; id: string; timestamp: number; date: string }
   | { kind: 'confession'; id: string; timestamp: number; confession: ConfessionState }
-  | { kind: 'angelus'; id: string; timestamp: number; date: string; slot: AngelusSlot }
-  | { kind: 'meal-blessed'; id: string; timestamp: number; date: string; slot: MealSlot }
-  | { kind: 'compline'; id: string; timestamp: number; date: string }
 
 export function useMemoriaEntries(limit = 200): MemoriaEntry[] {
   const completions = useEventStore((s) => s.completions)
@@ -22,9 +18,6 @@ export function useMemoriaEntries(limit = 200): MemoriaEntry[] {
   const gratitudes = useEventStore((s) => s.gratitudes)
   const offeredDays = useEventStore((s) => s.offeredDays)
   const confessions = useEventStore((s) => s.confessions)
-  const angelusPrayed = useEventStore((s) => s.angelusPrayed)
-  const mealsBlessed = useEventStore((s) => s.mealsBlessed)
-  const complinePrayed = useEventStore((s) => s.complinePrayed)
 
   return useMemo(() => {
     const entries: MemoriaEntry[] = []
@@ -71,30 +64,9 @@ export function useMemoriaEntries(limit = 200): MemoriaEntry[] {
         confession: c,
       })
     }
-    for (const [key, prayedAt] of angelusPrayed) {
-      const [date, slot] = key.split(':') as [string, AngelusSlot]
-      entries.push({ kind: 'angelus', id: `a:${key}`, timestamp: prayedAt, date, slot })
-    }
-    for (const [key, blessedAt] of mealsBlessed) {
-      const [date, slot] = key.split(':') as [string, MealSlot]
-      entries.push({ kind: 'meal-blessed', id: `m:${key}`, timestamp: blessedAt, date, slot })
-    }
-    for (const [date, prayedAt] of complinePrayed) {
-      entries.push({ kind: 'compline', id: `n:${date}`, timestamp: prayedAt, date })
-    }
     entries.sort((a, b) => b.timestamp - a.timestamp)
     return entries.slice(0, limit)
-  }, [
-    completions,
-    intentions,
-    gratitudes,
-    offeredDays,
-    confessions,
-    angelusPrayed,
-    mealsBlessed,
-    complinePrayed,
-    limit,
-  ])
+  }, [completions, intentions, gratitudes, offeredDays, confessions, limit])
 }
 
 export function useMemoriaEntriesCount(): number {
@@ -105,10 +77,7 @@ export function useMemoriaEntriesCount(): number {
       countAnswered(s.intentions) +
       s.gratitudes.size +
       s.offeredDays.size +
-      s.confessions.size +
-      s.angelusPrayed.size +
-      s.mealsBlessed.size +
-      s.complinePrayed.size,
+      s.confessions.size,
   )
 }
 
@@ -117,9 +86,6 @@ export function useOnThisDayEntries(now: Date): MemoriaEntry[] {
   const gratitudes = useEventStore((s) => s.gratitudes)
   const offeredDays = useEventStore((s) => s.offeredDays)
   const confessions = useEventStore((s) => s.confessions)
-  const angelusPrayed = useEventStore((s) => s.angelusPrayed)
-  const mealsBlessed = useEventStore((s) => s.mealsBlessed)
-  const complinePrayed = useEventStore((s) => s.complinePrayed)
 
   return useMemo(() => {
     const month = now.getMonth()
@@ -163,35 +129,9 @@ export function useOnThisDayEntries(now: Date): MemoriaEntry[] {
         })
       }
     }
-    for (const [key, prayedAt] of angelusPrayed) {
-      if (onPriorAnniversary(prayedAt)) {
-        const [date, slot] = key.split(':') as [string, AngelusSlot]
-        entries.push({ kind: 'angelus', id: `a:${key}`, timestamp: prayedAt, date, slot })
-      }
-    }
-    for (const [key, blessedAt] of mealsBlessed) {
-      if (onPriorAnniversary(blessedAt)) {
-        const [date, slot] = key.split(':') as [string, MealSlot]
-        entries.push({ kind: 'meal-blessed', id: `m:${key}`, timestamp: blessedAt, date, slot })
-      }
-    }
-    for (const [date, prayedAt] of complinePrayed) {
-      if (onPriorAnniversary(prayedAt)) {
-        entries.push({ kind: 'compline', id: `n:${date}`, timestamp: prayedAt, date })
-      }
-    }
     entries.sort((a, b) => b.timestamp - a.timestamp)
     return entries
-  }, [
-    completions,
-    gratitudes,
-    offeredDays,
-    confessions,
-    angelusPrayed,
-    mealsBlessed,
-    complinePrayed,
-    now,
-  ])
+  }, [completions, gratitudes, offeredDays, confessions, now])
 }
 
 function isPriorAnniversary(timestamp: number, month: number, day: number, year: number): boolean {

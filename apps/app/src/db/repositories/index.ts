@@ -1,5 +1,3 @@
-export { prayAngelus, revokeAngelus } from './angelus'
-export { blessMeal, revokeMealBlessing } from './benedictio'
 export { clearCache, getCached, setCache } from './cache'
 export { recordConfession, removeConfession } from './confessio'
 export {
@@ -21,7 +19,6 @@ export {
   removeIntention,
   updateIntention,
 } from './intentions'
-export { prayCompline, revokeCompline } from './nocturne'
 export { offerDay, revokeDayOffering } from './oblatio'
 export {
   addSlot,

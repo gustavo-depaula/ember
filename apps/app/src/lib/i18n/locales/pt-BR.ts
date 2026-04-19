@@ -263,9 +263,6 @@ export default {
     noneInFilter: 'Nada por aqui neste filtro.',
     dayOffered: 'Ofereceu este dia ao Senhor',
     confession: 'Recebeu o Sacramento da Penit\u00eancia',
-    angelus: 'Ang\u00e9lus \u00b7 {{slot}}',
-    mealBlessed: 'Refei\u00e7\u00e3o aben\u00e7oada \u00b7 {{slot}}',
-    compline: 'Completas rezadas \u2014 dia encomendado',
   },
 
   oblatio: {
@@ -295,25 +292,6 @@ export default {
     homeToday: 'Penit\u00eancia \u00b7 recebida hoje',
     homeYesterday: 'Penit\u00eancia \u00b7 recebida ontem',
     examenPrompt: 'Ou, se o Senhor convida, busca a Confiss\u00e3o.',
-  },
-
-  angelus: {
-    title: 'Ang\u00e9lus',
-    subtitle: 'O sino mariano tr\u00eas vezes ao dia \u2014 6h, meio-dia, 18h.',
-    reginaCaeliTitle: 'Regina C\u00e6li',
-    reginaCaeliSubtitle:
-      'A ant\u00edfona mariana do Tempo Pascal \u2014 substitui o Ang\u00e9lus at\u00e9 Pentecostes.',
-    bell: 'O sino toca. Ang\u00e9lus.',
-    reginaCaeliBell: 'O sino toca. Regina C\u00e6li.',
-    slot: {
-      morning: 'Manh\u00e3',
-      noon: 'Meio-dia',
-      evening: 'Tarde',
-    },
-    prayer:
-      'V. O Anjo do Senhor anunciou a Maria.\nR. E ela concebeu do Esp\u00edrito Santo.\n\nAve Maria, cheia de gra\u00e7a, o Senhor \u00e9 convosco; bendita sois v\u00f3s entre as mulheres, e bendito \u00e9 o fruto do vosso ventre, Jesus. Santa Maria, M\u00e3e de Deus, rogai por n\u00f3s pecadores, agora e na hora de nossa morte. Am\u00e9m.\n\nV. Eis aqui a escrava do Senhor.\nR. Fa\u00e7a-se em mim segundo a vossa palavra.\n\nAve Maria\u2026\n\nV. E o Verbo se fez carne.\nR. E habitou entre n\u00f3s.\n\nAve Maria\u2026\n\nV. Rogai por n\u00f3s, Santa M\u00e3e de Deus.\nR. Para que sejamos dignos das promessas de Cristo.\n\nOremos. Infundi, Senhor, a vossa gra\u00e7a em nossos cora\u00e7\u00f5es, para que n\u00f3s, que pela mensagem do Anjo conhecemos a Encarna\u00e7\u00e3o de Cristo, vosso Filho, pela sua Paix\u00e3o e Cruz cheguemos \u00e0 gl\u00f3ria da Ressurrei\u00e7\u00e3o. Por Cristo Senhor nosso. Am\u00e9m.',
-    reginaCaeli:
-      'V. Rainha do C\u00e9u, alegrai-vos, aleluia.\nR. Porque aquele que merecestes trazer em vosso seio, aleluia.\n\nV. Ressuscitou como disse, aleluia.\nR. Rogai a Deus por n\u00f3s, aleluia.\n\nV. Alegrai-vos e exultai, \u00f3 Virgem Maria, aleluia.\nR. Porque o Senhor ressuscitou verdadeiramente, aleluia.\n\nOremos. \u00d3 Deus, que pela Ressurrei\u00e7\u00e3o de vosso Filho, Nosso Senhor Jesus Cristo, vos dignastes alegrar o mundo: concedei-nos, vos pedimos, que por sua M\u00e3e, a Virgem Maria, alcancemos as alegrias da vida eterna. Pelo mesmo Cristo Senhor nosso. Am\u00e9m.',
   },
 
   memento: {
@@ -362,56 +340,6 @@ export default {
       '27': 'Os anjos e santos te esperam. N\u00e3o desaponte essa companhia.',
       '28': 'O Inferno \u00e9 porta trancada por dentro. O amor \u00e9 a chave. Ama agora.',
     },
-  },
-
-  nocturne: {
-    title: 'Nocturne',
-    subtitle: 'O Nunc Dimittis \u2014 entregando a alma antes do sono.',
-    homeLine: 'Em tuas m\u00e3os, Senhor. Nocturne.',
-    latinHeading: 'Nunc dimittis',
-    latinBody:
-      'Nunc dimittis servum tuum, Domine,\nsecundum verbum tuum in pace:\nquia viderunt oculi mei salutare tuum,\nquod parasti ante faciem omnium populorum:\nlumen ad revelationem gentium,\net gloriam plebis tuae Israel.',
-    translationHeading: 'C\u00e2ntico de Sime\u00e3o',
-    translationBody:
-      'Agora, Senhor, podes deixar ir em paz o teu servo,\nsegundo a tua palavra;\nporque os meus olhos viram a salva\u00e7\u00e3o\nque preparaste diante de todos os povos:\nluz para iluminar as na\u00e7\u00f5es\ne gl\u00f3ria do teu povo Israel.',
-    blessingHeading: 'A B\u00ean\u00e7\u00e3o de Completas',
-    blessingBody:
-      'Noctem quietam et finem perfectum\nconcedat nobis Dominus omnipotens. Amen.\n\nUma noite tranquila e um fim perfeito\nconceda-nos o Senhor todo-poderoso. Am\u00e9m.',
-    antiphonHeading: 'Antífona Mariana',
-    antiphon: {
-      alma: 'Alma Redemptoris Mater, quae pervia caeli porta manes, et stella maris, succurre cadenti, surgere qui curat, populo: Tu quae genuisti, natura mirante, tuum sanctum Genitorem: Virgo prius ac posterius, Gabrielis ab ore sumens illud Ave, peccatorum miserere.\n\nSanta Mãe do Redentor, porta do céu sempre aberta, estrela do mar, socorrei o povo que cai e quer levantar-se. Para assombro da natureza, gerastes vosso santo Criador; Virgem antes e depois, que recebestes aquele Avé da boca de Gabriel, tende piedade dos pecadores.',
-      aveRegina:
-        'Ave Regina caelorum, ave Domina angelorum, salve radix, salve porta, ex qua mundo lux est orta. Gaude Virgo gloriosa, super omnes speciosa; vale, o valde decora, et pro nobis Christum exora.\n\nSalve, Rainha dos céus; salve, Senhora dos anjos; salve, raiz; salve, porta, da qual nasceu a Luz do mundo. Alegrai-vos, ó Virgem gloriosa, formosa acima de todas; salve, ó toda bela, e rogai por nós a Cristo.',
-      reginaCaeli:
-        'Regina caeli, laetare, alleluia: Quia quem meruisti portare, alleluia, Resurrexit, sicut dixit, alleluia: Ora pro nobis Deum, alleluia.\n\nRainha do céu, alegrai-vos, aleluia: porque aquele que merecestes trazer em vosso seio, aleluia, ressuscitou como disse, aleluia. Rogai por nós a Deus, aleluia.',
-      salve:
-        'Salve, Regina, Mater misericordiae, vita, dulcedo et spes nostra, salve. Ad te clamamus, exsules filii Hevae. Ad te suspiramus, gementes et flentes in hac lacrimarum valle. Eia ergo, Advocata nostra, illos tuos misericordes oculos ad nos converte. Et Iesum, benedictum fructum ventris tui, nobis post hoc exsilium ostende. O clemens, o pia, o dulcis Virgo Maria.\n\nSalve, Rainha, Mãe de misericórdia, vida, doçura e esperança nossa, salve! A vós bradamos, os desterrados filhos de Eva. A vós suspiramos, gemendo e chorando neste vale de lágrimas. Eia, pois, advogada nossa, esses vossos olhos misericordiosos a nós volvei. E, depois deste desterro, mostrai-nos Jesus, bendito fruto do vosso ventre. Ó clemente, ó piedosa, ó doce sempre Virgem Maria.',
-    },
-    commendDay: 'Completas rezadas \u2014 encomendar o dia',
-    commended: 'Dia encomendado',
-    a11yCommend: 'Marcar Completas rezadas e encomendar o dia',
-  },
-
-  benedictio: {
-    title: 'Benedictio',
-    subtitle:
-      'Gra\u00e7a antes e depois das refei\u00e7\u00f5es \u2014 a ora\u00e7\u00e3o cotidiana mais antiga do lar crist\u00e3o.',
-    slot: {
-      breakfast: 'Caf\u00e9',
-      lunch: 'Almo\u00e7o',
-      dinner: 'Jantar',
-    },
-    invite: {
-      breakfast: 'Aben\u00e7oa este caf\u00e9 da manh\u00e3.',
-      lunch: 'Aben\u00e7oa esta refei\u00e7\u00e3o.',
-      dinner: 'Aben\u00e7oa esta ceia.',
-    },
-    before: 'Antes da refei\u00e7\u00e3o',
-    after: 'Depois da refei\u00e7\u00e3o',
-    beforePrayer:
-      'Aben\u00e7oai, Senhor, a n\u00f3s e aos alimentos que pela vossa bondade iremos tomar. Por Cristo nosso Senhor. Am\u00e9m.',
-    afterPrayer:
-      'N\u00f3s vos damos gra\u00e7as, Deus todo-poderoso, por todos os vossos benef\u00edcios, v\u00f3s que viveis e reinais pelos s\u00e9culos dos s\u00e9culos. Am\u00e9m.',
   },
 
   gratias: {

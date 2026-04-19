@@ -261,9 +261,6 @@ export default {
     noneInFilter: 'Nothing here yet in this view.',
     dayOffered: 'Offered this day to the Lord',
     confession: 'Received the Sacrament of Penance',
-    angelus: 'Angelus · {{slot}}',
-    mealBlessed: 'Meal blessed · {{slot}}',
-    compline: 'Compline prayed — day commended',
   },
 
   oblatio: {
@@ -293,25 +290,6 @@ export default {
     homeToday: 'Penance · received today',
     homeYesterday: 'Penance · received yesterday',
     examenPrompt: 'Or, if the Lord invites, seek Confession.',
-  },
-
-  angelus: {
-    title: 'Angelus',
-    subtitle: 'The thrice-daily Marian bell — 6 a.m., noon, 6 p.m.',
-    reginaCaeliTitle: 'Regina Cæli',
-    reginaCaeliSubtitle:
-      'The Marian antiphon of Eastertide — replaces the Angelus until Pentecost.',
-    bell: 'The bell rings. Angelus.',
-    reginaCaeliBell: 'The bell rings. Regina Cæli.',
-    slot: {
-      morning: 'Morning',
-      noon: 'Noon',
-      evening: 'Evening',
-    },
-    prayer:
-      'V. The Angel of the Lord declared unto Mary.\nR. And she conceived of the Holy Spirit.\n\nHail Mary, full of grace, the Lord is with thee; blessed art thou amongst women, and blessed is the fruit of thy womb, Jesus. Holy Mary, Mother of God, pray for us sinners, now and at the hour of our death. Amen.\n\nV. Behold the handmaid of the Lord.\nR. Be it done unto me according to thy word.\n\nHail Mary…\n\nV. And the Word was made flesh.\nR. And dwelt among us.\n\nHail Mary…\n\nV. Pray for us, O holy Mother of God.\nR. That we may be made worthy of the promises of Christ.\n\nLet us pray. Pour forth, we beseech thee, O Lord, thy grace into our hearts: that we, to whom the Incarnation of Christ thy Son was made known by the message of an angel, may by his Passion and Cross be brought to the glory of his Resurrection, through the same Christ our Lord. Amen.',
-    reginaCaeli:
-      'V. Queen of Heaven, rejoice, alleluia.\nR. For He whom thou didst merit to bear, alleluia.\n\nV. Hath risen, as he said, alleluia.\nR. Pray for us to God, alleluia.\n\nV. Rejoice and be glad, O Virgin Mary, alleluia.\nR. For the Lord is truly risen, alleluia.\n\nLet us pray. O God, who through the Resurrection of thy Son our Lord Jesus Christ didst vouchsafe to give joy to the world: grant, we beseech thee, that through his Mother, the Virgin Mary, we may obtain the joys of everlasting life. Through the same Christ our Lord. Amen.',
   },
 
   memento: {
@@ -360,55 +338,6 @@ export default {
       '27': 'The angels and saints are waiting for you. Do not disappoint that company.',
       '28': 'Hell is a door locked from the inside. Love is the key. Love now.',
     },
-  },
-
-  nocturne: {
-    title: 'Nocturne',
-    subtitle: 'The Nunc Dimittis — commending the soul before sleep.',
-    homeLine: 'Into your hands, Lord. Nocturne.',
-    latinHeading: 'Nunc dimittis',
-    latinBody:
-      'Nunc dimittis servum tuum, Domine,\nsecundum verbum tuum in pace:\nquia viderunt oculi mei salutare tuum,\nquod parasti ante faciem omnium populorum:\nlumen ad revelationem gentium,\net gloriam plebis tuae Israel.',
-    translationHeading: 'Canticle of Simeon',
-    translationBody:
-      'Now, Master, you let your servant go in peace;\nyour word has been fulfilled.\nMy own eyes have seen the salvation\nwhich you have prepared in the sight of every people:\na light to reveal you to the nations\nand the glory of your people Israel.',
-    blessingHeading: 'The Compline Blessing',
-    blessingBody:
-      'Noctem quietam et finem perfectum\nconcedat nobis Dominus omnipotens. Amen.\n\nMay the Lord almighty grant us a quiet night\nand a perfect end. Amen.',
-    antiphonHeading: 'Marian Antiphon',
-    antiphon: {
-      alma: 'Alma Redemptoris Mater, quae pervia caeli porta manes, et stella maris, succurre cadenti, surgere qui curat, populo: Tu quae genuisti, natura mirante, tuum sanctum Genitorem: Virgo prius ac posterius, Gabrielis ab ore sumens illud Ave, peccatorum miserere.\n\nLoving Mother of the Redeemer, Gate of heaven, Star of the sea, help your people who have fallen yet strive to rise again. To the wonderment of nature you bore your Creator, yet remained a virgin after as before. You who received Gabriel’s joyful greeting, have pity on us poor sinners.',
-      aveRegina:
-        'Ave Regina caelorum, ave Domina angelorum, salve radix, salve porta, ex qua mundo lux est orta. Gaude Virgo gloriosa, super omnes speciosa; vale, o valde decora, et pro nobis Christum exora.\n\nHail, Queen of heaven; hail, Mistress of the angels; hail, root of Jesse; hail, the gate through which the Light rose over the earth. Rejoice, Virgin most renowned and of unsurpassed beauty. Farewell, Lady most comely; prevail upon Christ to pity us.',
-      reginaCaeli:
-        'Regina caeli, laetare, alleluia: Quia quem meruisti portare, alleluia, Resurrexit, sicut dixit, alleluia: Ora pro nobis Deum, alleluia.\n\nQueen of heaven, rejoice, alleluia: for He whom you were worthy to bear, alleluia, has risen as He said, alleluia. Pray for us to God, alleluia.',
-      salve:
-        'Salve, Regina, Mater misericordiae, vita, dulcedo et spes nostra, salve. Ad te clamamus, exsules filii Hevae. Ad te suspiramus, gementes et flentes in hac lacrimarum valle. Eia ergo, Advocata nostra, illos tuos misericordes oculos ad nos converte. Et Iesum, benedictum fructum ventris tui, nobis post hoc exsilium ostende. O clemens, o pia, o dulcis Virgo Maria.\n\nHail, holy Queen, Mother of mercy, our life, our sweetness, and our hope. To thee do we cry, poor banished children of Eve; to thee do we send up our sighs, mourning and weeping in this valley of tears. Turn, then, most gracious advocate, thine eyes of mercy toward us; and after this our exile, show unto us the blessed fruit of thy womb, Jesus. O clement, O loving, O sweet Virgin Mary.',
-    },
-    commendDay: 'Compline prayed — commend the day',
-    commended: 'Commended this day',
-    a11yCommend: 'Mark Compline prayed and commend the day',
-  },
-
-  benedictio: {
-    title: 'Benedictio',
-    subtitle: 'Grace before and after meals — the oldest daily prayer of a Christian home.',
-    slot: {
-      breakfast: 'Breakfast',
-      lunch: 'Lunch',
-      dinner: 'Dinner',
-    },
-    invite: {
-      breakfast: 'Bless this breakfast.',
-      lunch: 'Bless this meal.',
-      dinner: 'Bless this supper.',
-    },
-    before: 'Before the meal',
-    after: 'After the meal',
-    beforePrayer:
-      'Bless us, O Lord, and these Thy gifts, which we are about to receive from Thy bounty, through Christ our Lord. Amen.',
-    afterPrayer:
-      'We give Thee thanks, almighty God, for all Thy benefits, who livest and reignest forever. Amen.',
   },
 
   gratias: {

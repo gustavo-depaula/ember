@@ -282,42 +282,6 @@ export function applyEvent(draft: WritableDraft<EventStoreState>, event: AppEven
       draft.confessions.delete(event.confessionId)
       break
     }
-
-    // --- Angelus events ---
-
-    case 'AngelusPrayed': {
-      draft.angelusPrayed.set(`${event.date}:${event.slot}`, event.prayedAt)
-      break
-    }
-
-    case 'AngelusRevoked': {
-      draft.angelusPrayed.delete(`${event.date}:${event.slot}`)
-      break
-    }
-
-    // --- Benedictio events ---
-
-    case 'MealBlessed': {
-      draft.mealsBlessed.set(`${event.date}:${event.slot}`, event.blessedAt)
-      break
-    }
-
-    case 'MealBlessingRevoked': {
-      draft.mealsBlessed.delete(`${event.date}:${event.slot}`)
-      break
-    }
-
-    // --- Nocturne events ---
-
-    case 'ComplinePrayed': {
-      draft.complinePrayed.set(event.date, event.prayedAt)
-      break
-    }
-
-    case 'ComplineRevoked': {
-      draft.complinePrayed.delete(event.date)
-      break
-    }
   }
 }
 

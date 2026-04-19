@@ -222,59 +222,6 @@ type ConfessionRemoved = {
 
 export type ConfessioEvent = ConfessionRecorded | ConfessionRemoved
 
-// --- Angelus (thrice-daily Marian prayer) events ---
-
-export type AngelusSlot = 'morning' | 'noon' | 'evening'
-
-type AngelusPrayed = {
-  type: 'AngelusPrayed'
-  date: string
-  slot: AngelusSlot
-  prayedAt: number
-}
-
-type AngelusRevoked = {
-  type: 'AngelusRevoked'
-  date: string
-  slot: AngelusSlot
-}
-
-export type AngelusEvent = AngelusPrayed | AngelusRevoked
-
-// --- Benedictio (meal grace) events ---
-
-export type MealSlot = 'breakfast' | 'lunch' | 'dinner'
-
-type MealBlessed = {
-  type: 'MealBlessed'
-  date: string
-  slot: MealSlot
-  blessedAt: number
-}
-
-type MealBlessingRevoked = {
-  type: 'MealBlessingRevoked'
-  date: string
-  slot: MealSlot
-}
-
-export type BenedictioEvent = MealBlessed | MealBlessingRevoked
-
-// --- Nocturne (night prayer / Compline) events ---
-
-type ComplinePrayed = {
-  type: 'ComplinePrayed'
-  date: string
-  prayedAt: number
-}
-
-type ComplineRevoked = {
-  type: 'ComplineRevoked'
-  date: string
-}
-
-export type NocturneEvent = ComplinePrayed | ComplineRevoked
-
 // --- Union ---
 
 export type AppEvent =
@@ -285,9 +232,6 @@ export type AppEvent =
   | GratitudeEvent
   | OblatioEvent
   | ConfessioEvent
-  | AngelusEvent
-  | BenedictioEvent
-  | NocturneEvent
 
 // --- Stored row shape ---
 
