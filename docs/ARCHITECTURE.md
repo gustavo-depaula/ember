@@ -237,7 +237,7 @@ This is a pnpm workspaces + turborepo monorepo.
 ember/
   content/                            (source files — deployed to Hearth)
     libraries/                        (THE content source of truth)
-      base/                  (core daily prayers — 44 practices, 33 prayers, 15 catechetical + formation chapters)
+      base/                  (core daily prayers — 44 practices, 33 prayers, 15 catechetical + formation chapters, spiritual-checkup seed)
         library.json
         practices/
           morning-offering/
@@ -251,6 +251,10 @@ ember/
           our-father.json
           hail-mary.json
           ...
+        checkup/               (spiritual-checkup #156 seed content — private pastoral onboarding)
+          archetypes.json      (6 archetypes, loosely mapped to the Three Ways)
+          questions.json       (9-question intake — Q9 non-scoring — with weight vectors)
+          tracks.json          (per-archetype starter tracks: essentials/ideals/extras + weekly formation)
       montfort-spirituality/          (mixed library — books + practice + chapter)
         library.json
         books/

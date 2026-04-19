@@ -1,0 +1,509 @@
+{
+	"version": "v1",
+	"archetypeOrder": ["quaerens", "redivivus", "discipulus", "proficiens", "perseverans", "contemplativus"],
+	"scoringNotes": "Each option contributes a weight vector over the six archetypes in archetypeOrder. Sum across answered questions; argmax is the primary archetype, modulo the tiebreakers in docs/features/spiritual-checkup.md §2. Q9 is non-scoring (empty weights).",
+	"consent": {
+		"title": {
+			"en-US": "A short, private check-in",
+			"pt-BR": "Um breve check-in privado"
+		},
+		"body": {
+			"en-US": "Nine questions. Your answers stay on this device — never sent anywhere, never used to label you publicly. This is a companion, not a diagnosis.",
+			"pt-BR": "Nove perguntas. Suas respostas ficam neste aparelho — nunca enviadas a lugar algum, nunca usadas para rotulá-lo publicamente. Isto é um companheiro, não um diagnóstico."
+		},
+		"beginLabel": {
+			"en-US": "Begin",
+			"pt-BR": "Começar"
+		},
+		"skipLabel": {
+			"en-US": "Skip for now",
+			"pt-BR": "Pular por agora"
+		}
+	},
+	"questions": [
+		{
+			"id": "mass-frequency",
+			"scoring": true,
+			"prompt": {
+				"en-US": "In a typical month, how often do you attend Mass?",
+				"pt-BR": "Em um mês típico, com que frequência você vai à Missa?"
+			},
+			"options": [
+				{
+					"id": "rarely-or-never",
+					"label": {
+						"en-US": "Rarely or never",
+						"pt-BR": "Raramente ou nunca"
+					},
+					"weights": [3, 1, 0, 0, 0, 0]
+				},
+				{
+					"id": "few-times-a-year",
+					"label": {
+						"en-US": "A few times a year (Christmas, Easter, family events)",
+						"pt-BR": "Algumas vezes no ano (Natal, Páscoa, eventos de família)"
+					},
+					"weights": [2, 2, 0, 0, 0, 0]
+				},
+				{
+					"id": "most-sundays",
+					"label": {
+						"en-US": "Most Sundays",
+						"pt-BR": "Quase todos os domingos"
+					},
+					"weights": [0, 2, 3, 1, 0, 0]
+				},
+				{
+					"id": "every-sunday-some-weekdays",
+					"label": {
+						"en-US": "Every Sunday, sometimes weekdays",
+						"pt-BR": "Todo domingo, às vezes durante a semana"
+					},
+					"weights": [0, 0, 2, 3, 2, 1]
+				},
+				{
+					"id": "daily-or-close",
+					"label": {
+						"en-US": "Daily, or very close to it",
+						"pt-BR": "Diariamente, ou quase"
+					},
+					"weights": [0, 0, 0, 2, 3, 3]
+				}
+			]
+		},
+		{
+			"id": "confession-frequency",
+			"scoring": true,
+			"prompt": {
+				"en-US": "When did you last go to confession?",
+				"pt-BR": "Quando foi sua última confissão?"
+			},
+			"options": [
+				{
+					"id": "never-or-childhood",
+					"label": {
+						"en-US": "Never, or not since childhood",
+						"pt-BR": "Nunca, ou não vou desde a infância"
+					},
+					"weights": [3, 2, 0, 0, 0, 0]
+				},
+				{
+					"id": "over-a-year",
+					"label": {
+						"en-US": "More than a year ago",
+						"pt-BR": "Há mais de um ano"
+					},
+					"weights": [1, 3, 0, 0, 0, 0]
+				},
+				{
+					"id": "within-a-year",
+					"label": {
+						"en-US": "Within the last year",
+						"pt-BR": "No último ano"
+					},
+					"weights": [0, 1, 2, 1, 0, 0]
+				},
+				{
+					"id": "monthly",
+					"label": {
+						"en-US": "Roughly monthly",
+						"pt-BR": "Aproximadamente mensal"
+					},
+					"weights": [0, 0, 2, 3, 2, 1]
+				},
+				{
+					"id": "more-than-monthly",
+					"label": {
+						"en-US": "More often than monthly",
+						"pt-BR": "Mais de uma vez por mês"
+					},
+					"weights": [0, 0, 1, 2, 3, 2]
+				}
+			]
+		},
+		{
+			"id": "daily-prayer",
+			"scoring": true,
+			"prompt": {
+				"en-US": "Which best describes your current daily prayer?",
+				"pt-BR": "O que melhor descreve sua oração diária atual?"
+			},
+			"options": [
+				{
+					"id": "none-want-to-start",
+					"label": {
+						"en-US": "I don't pray regularly — I'd like to start",
+						"pt-BR": "Não rezo regularmente — gostaria de começar"
+					},
+					"weights": [3, 2, 0, 0, 0, 0]
+				},
+				{
+					"id": "sporadic",
+					"label": {
+						"en-US": "A few quick prayers when I remember",
+						"pt-BR": "Algumas orações rápidas quando lembro"
+					},
+					"weights": [1, 3, 1, 0, 0, 0]
+				},
+				{
+					"id": "morning-evening-rosary",
+					"label": {
+						"en-US": "Morning/evening prayers and the Rosary most days",
+						"pt-BR": "Orações da manhã/noite e o Rosário quase todos os dias"
+					},
+					"weights": [0, 1, 3, 2, 1, 0]
+				},
+				{
+					"id": "plan-of-life",
+					"label": {
+						"en-US": "A structured Plan of Life including mental prayer",
+						"pt-BR": "Um plano de vida estruturado, com oração mental"
+					},
+					"weights": [0, 0, 1, 3, 3, 2]
+				},
+				{
+					"id": "extended-silent",
+					"label": {
+						"en-US": "Extended silent prayer / Liturgy of the Hours",
+						"pt-BR": "Oração silenciosa prolongada / Liturgia das Horas"
+					},
+					"weights": [0, 0, 0, 1, 3, 3]
+				}
+			]
+		},
+		{
+			"id": "scripture-catechism",
+			"scoring": true,
+			"prompt": {
+				"en-US": "How familiar are you with Sacred Scripture and the Catechism?",
+				"pt-BR": "Quão familiar você é com a Sagrada Escritura e o Catecismo?"
+			},
+			"options": [
+				{
+					"id": "very-little",
+					"label": {
+						"en-US": "Very little — I wouldn't know where to start",
+						"pt-BR": "Muito pouco — não saberia por onde começar"
+					},
+					"weights": [3, 2, 0, 0, 0, 0]
+				},
+				{
+					"id": "basics-from-mass",
+					"label": {
+						"en-US": "I know the basics from Mass and childhood",
+						"pt-BR": "Conheço o básico pela Missa e pela infância"
+					},
+					"weights": [1, 3, 2, 0, 0, 0]
+				},
+				{
+					"id": "occasional",
+					"label": {
+						"en-US": "I read Scripture sometimes; I've touched the Catechism",
+						"pt-BR": "Leio a Escritura às vezes; já folheei o Catecismo"
+					},
+					"weights": [0, 1, 3, 2, 1, 0]
+				},
+				{
+					"id": "daily-both",
+					"label": {
+						"en-US": "Regular daily reading of both",
+						"pt-BR": "Leitura diária regular de ambos"
+					},
+					"weights": [0, 0, 1, 3, 3, 2]
+				},
+				{
+					"id": "classics",
+					"label": {
+						"en-US": "I've read the Fathers and/or spiritual classics",
+						"pt-BR": "Já li os Padres e/ou clássicos espirituais"
+					},
+					"weights": [0, 0, 0, 2, 3, 3]
+				}
+			]
+		},
+		{
+			"id": "moral-life",
+			"scoring": true,
+			"prompt": {
+				"en-US": "Which comes closest to your experience right now?",
+				"pt-BR": "O que mais se aproxima da sua experiência atual?"
+			},
+			"promptNote": {
+				"en-US": "We're asking about posture, not content. Nothing to confess here.",
+				"pt-BR": "Estamos perguntando sobre postura, não sobre conteúdo. Nada aqui precisa ser confessado."
+			},
+			"options": [
+				{
+					"id": "unsure",
+					"label": {
+						"en-US": "I'm not sure what the Church asks of me in daily life",
+						"pt-BR": "Não sei bem o que a Igreja me pede na vida diária"
+					},
+					"weights": [3, 2, 0, 0, 0, 0]
+				},
+				{
+					"id": "afraid-to-start",
+					"label": {
+						"en-US": "I know I'm far from where I want to be, and I'm afraid to start",
+						"pt-BR": "Sei que estou longe de onde quero estar, e tenho medo de começar"
+					},
+					"weights": [1, 3, 1, 0, 0, 0]
+				},
+				{
+					"id": "fall-and-rise",
+					"label": {
+						"en-US": "I fail often but try to get back up quickly",
+						"pt-BR": "Falho com frequência, mas tento me levantar logo"
+					},
+					"weights": [0, 1, 3, 2, 1, 0]
+				},
+				{
+					"id": "one-main-fault",
+					"label": {
+						"en-US": "I examine my conscience most days and fight one main fault",
+						"pt-BR": "Examino a consciência quase todos os dias e combato um defeito principal"
+					},
+					"weights": [0, 0, 1, 3, 3, 1]
+				},
+				{
+					"id": "subtler-things",
+					"label": {
+						"en-US": "My struggle is with subtler things — attachments, pride, dryness",
+						"pt-BR": "Minha luta é com coisas mais sutis — apegos, orgulho, aridez"
+					},
+					"weights": [0, 0, 0, 1, 3, 3]
+				}
+			]
+		},
+		{
+			"id": "consolation-dryness",
+			"scoring": true,
+			"prompt": {
+				"en-US": "When you pray, what has been most common lately?",
+				"pt-BR": "Quando você reza, o que tem sido mais comum ultimamente?"
+			},
+			"options": [
+				{
+					"id": "not-sure",
+					"label": {
+						"en-US": "I rarely pray, so I'm not sure",
+						"pt-BR": "Rezo pouco, então não sei bem"
+					},
+					"weights": [3, 1, 0, 0, 0, 0]
+				},
+				{
+					"id": "mechanical",
+					"label": {
+						"en-US": "Mostly distraction; prayer feels mechanical",
+						"pt-BR": "Muita distração; a oração parece mecânica"
+					},
+					"weights": [1, 2, 2, 1, 1, 0]
+				},
+				{
+					"id": "peace",
+					"label": {
+						"en-US": "Real moments of peace and warmth",
+						"pt-BR": "Momentos reais de paz e calor"
+					},
+					"weights": [0, 1, 3, 2, 0, 0]
+				},
+				{
+					"id": "mixed",
+					"label": {
+						"en-US": "A mix of consolation and dryness, and I keep going either way",
+						"pt-BR": "Uma mistura de consolação e aridez, e sigo adiante de qualquer modo"
+					},
+					"weights": [0, 0, 1, 3, 3, 2]
+				},
+				{
+					"id": "silence",
+					"label": {
+						"en-US": "Mostly silence and dryness, but I trust God is at work",
+						"pt-BR": "Quase sempre silêncio e aridez, mas confio que Deus está agindo"
+					},
+					"weights": [0, 0, 0, 1, 3, 3]
+				}
+			]
+		},
+		{
+			"id": "interior-prayer",
+			"scoring": true,
+			"prompt": {
+				"en-US": "How do you feel about silent, interior prayer — sitting with Scripture or before the Blessed Sacrament?",
+				"pt-BR": "Como você se sente em relação à oração silenciosa e interior — diante da Escritura ou do Santíssimo?"
+			},
+			"options": [
+				{
+					"id": "dont-understand",
+					"label": {
+						"en-US": "I don't really understand what that is",
+						"pt-BR": "Não entendo bem o que seja"
+					},
+					"weights": [3, 2, 1, 0, 0, 0]
+				},
+				{
+					"id": "intimidating",
+					"label": {
+						"en-US": "It sounds intimidating, but I'd like to try",
+						"pt-BR": "Parece intimidador, mas eu gostaria de experimentar"
+					},
+					"weights": [1, 3, 2, 1, 0, 0]
+				},
+				{
+					"id": "occasional",
+					"label": {
+						"en-US": "I try it occasionally",
+						"pt-BR": "Tento às vezes"
+					},
+					"weights": [0, 1, 3, 2, 1, 1]
+				},
+				{
+					"id": "regular",
+					"label": {
+						"en-US": "It's a regular part of my day",
+						"pt-BR": "É parte regular do meu dia"
+					},
+					"weights": [0, 0, 1, 3, 3, 2]
+				},
+				{
+					"id": "center",
+					"label": {
+						"en-US": "It's the center of my prayer life",
+						"pt-BR": "É o centro da minha vida de oração"
+					},
+					"weights": [0, 0, 0, 1, 3, 3]
+				}
+			]
+		},
+		{
+			"id": "current-struggle",
+			"scoring": true,
+			"prompt": {
+				"en-US": "Which of these feels most like your struggle right now?",
+				"pt-BR": "Qual destes mais se parece com sua luta atual?"
+			},
+			"options": [
+				{
+					"id": "beginning",
+					"label": {
+						"en-US": "Even beginning — I don't know how",
+						"pt-BR": "Apenas começar — não sei como"
+					},
+					"weights": [3, 2, 1, 0, 0, 0]
+				},
+				{
+					"id": "shame",
+					"label": {
+						"en-US": "Shame and fear around confession and recommitting",
+						"pt-BR": "Vergonha e medo ao redor da confissão e de recomeçar"
+					},
+					"weights": [1, 3, 1, 0, 0, 0]
+				},
+				{
+					"id": "consistency",
+					"label": {
+						"en-US": "Consistency — keeping a daily rule",
+						"pt-BR": "Constância — manter uma regra diária"
+					},
+					"weights": [0, 1, 3, 2, 1, 0]
+				},
+				{
+					"id": "dryness-stuck",
+					"label": {
+						"en-US": "Dryness, distraction, or feeling stuck",
+						"pt-BR": "Aridez, distração, ou sensação de estagnação"
+					},
+					"weights": [0, 0, 1, 3, 3, 2]
+				},
+				{
+					"id": "acedia-pull",
+					"label": {
+						"en-US": "Acedia, subtle pride, or a pull toward deeper silence",
+						"pt-BR": "Acédia, orgulho sutil, ou atração por um silêncio mais profundo"
+					},
+					"weights": [0, 0, 0, 1, 3, 3]
+				}
+			]
+		},
+		{
+			"id": "why-here",
+			"scoring": false,
+			"prompt": {
+				"en-US": "What brought you to this companion today?",
+				"pt-BR": "O que te trouxe a este companheiro hoje?"
+			},
+			"promptNote": {
+				"en-US": "This answer shapes only the tone of what you read next — it does not affect the result.",
+				"pt-BR": "Esta resposta molda apenas o tom do que você lerá a seguir — não afeta o resultado."
+			},
+			"options": [
+				{
+					"id": "starting-fresh",
+					"label": {
+						"en-US": "Starting from scratch",
+						"pt-BR": "Começando do zero"
+					}
+				},
+				{
+					"id": "coming-back",
+					"label": {
+						"en-US": "Coming back to the faith",
+						"pt-BR": "Voltando à fé"
+					}
+				},
+				{
+					"id": "build-plan",
+					"label": {
+						"en-US": "Building a Plan of Life",
+						"pt-BR": "Construindo um plano de vida"
+					}
+				},
+				{
+					"id": "going-deeper",
+					"label": {
+						"en-US": "Going deeper",
+						"pt-BR": "Indo mais fundo"
+					}
+				},
+				{
+					"id": "supporting-mission",
+					"label": {
+						"en-US": "Supporting the mission",
+						"pt-BR": "Apoiando a missão"
+					}
+				}
+			]
+		}
+	],
+	"tieBreakers": [
+		"within-2-prefer-lower-ordered: bias toward humility — lower archetype order wins on near-ties",
+		"mass-rarely-caps-at-redivivus: if Q1 is 'rarely-or-never' and top archetype order >= 3, downgrade to redivivus",
+		"contemplativus-suggests-only: if top archetype is perseverans and Q7 is 'center', surface contemplativus as secondary only"
+	],
+	"labels": {
+		"progressOf": {
+			"en-US": "{{current}} of {{total}}",
+			"pt-BR": "{{current}} de {{total}}"
+		},
+		"backLabel": {
+			"en-US": "Back",
+			"pt-BR": "Voltar"
+		},
+		"continueLabel": {
+			"en-US": "Continue",
+			"pt-BR": "Continuar"
+		},
+		"reviewTitle": {
+			"en-US": "Any changes?",
+			"pt-BR": "Alguma mudança?"
+		},
+		"reviewBody": {
+			"en-US": "No one sees this but you. You can still go back.",
+			"pt-BR": "Só você vê isto. Ainda pode voltar."
+		},
+		"finishLabel": {
+			"en-US": "Finish",
+			"pt-BR": "Concluir"
+		}
+	}
+}

@@ -1,0 +1,198 @@
+{
+	"version": "v1",
+	"note": "Pastoral phases, not personality types. Loosely mapped to the Three Ways (purgative / illuminative / unitive). Private to the user; never surfaced socially.",
+	"archetypes": [
+		{
+			"id": "quaerens",
+			"order": 1,
+			"name": {
+				"la": "Quaerens",
+				"en-US": "The Seeker",
+				"pt-BR": "O que busca"
+			},
+			"phase": {
+				"en-US": "Pre-purgative. Often unbaptized, recently returning, or nominally Catholic with little lived practice.",
+				"pt-BR": "Pré-purgativa. Muitas vezes não batizado, recém-retornando, ou católico apenas de nome com pouca prática vivida."
+			},
+			"description": {
+				"en-US": "Something is drawing you toward God — curiosity, grief, a conversion story, a longing you can't name. Sacramental life is absent or just waking. The door is open.",
+				"pt-BR": "Algo te atrai para Deus, ainda que de longe. A vida sacramental é distante ou apenas começa a despertar, e no coração já se ouve o chamado d'Aquele que primeiro te amou."
+			},
+			"resonance": {
+				"en-US": "The Samaritan woman at the well (John 4). Augustine before the garden in *Confessions* VIII. Nicodemus coming by night.",
+				"pt-BR": "A samaritana no poço (João 4). Agostinho antes do jardim nas *Confissões* VIII. Nicodemos vindo de noite."
+			},
+			"risks": {
+				"en-US": "Mixing prayer with other spiritualities; emotional enthusiasm that dies at the first hard teaching; mistaking aesthetic attraction for conversion; the scruple that you 'aren't Catholic enough' to pray.",
+				"pt-BR": "Misturar a oração com outras espiritualidades; um entusiasmo emocional que morre ao primeiro ensinamento difícil; confundir a atração estética com conversão; o escrúpulo de 'ainda não ser católico o bastante' para rezar."
+			},
+			"nextStep": {
+				"en-US": "The *Our Father*, prayed slowly, daily. A simple Morning Offering. One short Gospel passage a day — start with Mark. A warm, firm nudge toward a parish priest and — if unbaptized or uncatechized — toward RCIA. This app is an antechamber; the Church is the home.",
+				"pt-BR": "O *Pai-Nosso* rezado devagar, todos os dias. Um oferecimento simples da manhã. Uma passagem curta do Evangelho por dia — comece por Marcos. Um empurrão caloroso e firme em direção a um sacerdote de paróquia e — se não for batizado ou catequizado — ao RCIA. Este app é uma antessala; a Igreja é a casa."
+			}
+		},
+		{
+			"id": "redivivus",
+			"order": 2,
+			"name": {
+				"la": "Redivivus",
+				"en-US": "The Rekindling",
+				"pt-BR": "O coração que volta"
+			},
+			"phase": {
+				"en-US": "Early purgative. Returning Catholic — grace has relit a faith that looked extinguished.",
+				"pt-BR": "Purgativa inicial. Católico que está voltando — a graça reacendeu uma fé que parecia apagada."
+			},
+			"description": {
+				"en-US": "Grace has relit a faith that looked extinguished, and the Father is running down the road to meet you. This is the season of mercy rediscovered, when every sacrament tastes like a first time.",
+				"pt-BR": "A graça reacendeu uma fé que parecia apagada, e o Pai corre ao seu encontro no caminho de casa. É o tempo da misericórdia redescoberta, em que cada sacramento tem sabor de primeira vez."
+			},
+			"resonance": {
+				"en-US": "The Prodigal Son (Luke 15). Mary Magdalene at the feet of the risen Christ. The good thief, Dismas.",
+				"pt-BR": "O Filho Pródigo (Lucas 15). Maria Madalena aos pés do Cristo ressuscitado. O bom ladrão, Dimas."
+			},
+			"risks": {
+				"en-US": "Scrupulosity and shame delaying confession; overreach — a zealous plan of life that collapses in a month; treating the return as a solo project rather than bringing it under a confessor; surface-level enthusiasm without interior repentance.",
+				"pt-BR": "Escrúpulo e vergonha que adiam a confissão; exagero — um plano de vida zeloso que desaba em um mês; tratar o retorno como um projeto solo sem levá-lo a um confessor; entusiasmo de superfície sem arrependimento interior."
+			},
+			"nextStep": {
+				"en-US": "A concrete date for confession — the sooner, the better. One decade of the Rosary daily, not five yet. Nightly examination, briefly. Sunday Mass without fail for four weeks. Tell someone trustworthy that you are coming back.",
+				"pt-BR": "Uma data concreta para a confissão — quanto antes, melhor. Uma dezena do Rosário por dia, ainda não cinco. Exame de consciência à noite, breve. Missa dominical sem falhar por quatro semanas. Conte a alguém de confiança que você está voltando."
+			}
+		},
+		{
+			"id": "discipulus",
+			"order": 3,
+			"name": {
+				"la": "Discipulus",
+				"en-US": "The Committed Beginner",
+				"pt-BR": "Os primeiros passos fiéis"
+			},
+			"phase": {
+				"en-US": "Mid-purgative. A stable sacramental rhythm, a simple daily rule, hunger for formation.",
+				"pt-BR": "Purgativa intermediária. Ritmo sacramental estável, uma regra simples de vida, fome de formação."
+			},
+			"description": {
+				"en-US": "You have a simple rule: Sunday Mass reliably, some daily prayer, an honest examen most nights. Like the Twelve in the Galilean ministry, you walk with the Lord and ask — humbly — 'teach us to pray.'",
+				"pt-BR": "Há uma regra simples de vida, a Missa dominical fiel, um começo de oração diária. Como os Doze na Galileia, você caminha com o Senhor e pede humildemente: 'ensinai-nos a orar'."
+			},
+			"resonance": {
+				"en-US": "The Twelve in the early Galilean ministry. The Gerasene after the healing, asking 'may I come with you?'",
+				"pt-BR": "Os Doze no início da missão na Galileia. O geraseno curado perguntando 'posso ir convosco?'"
+			},
+			"risks": {
+				"en-US": "Plateau — a tidy rule without interior growth; reading *about* prayer instead of praying; accumulating practices rather than deepening one; hiding behind correctness.",
+				"pt-BR": "Platô — uma regra arrumada sem crescimento interior; ler *sobre* oração em vez de rezar; acumular práticas em vez de aprofundar uma; esconder-se atrás da correção."
+			},
+			"nextStep": {
+				"en-US": "Introduce 10–15 minutes of mental prayer. Move toward monthly — or weekly — confession. Read *Introduction to the Devout Life*. Identify your predominant fault, in writing, and begin cultivating one counter-virtue.",
+				"pt-BR": "Introduza 10–15 minutos de oração mental. Caminhe para a confissão mensal — ou semanal. Leia a *Introdução à Vida Devota*. Identifique seu defeito dominante, por escrito, e comece a cultivar uma virtude oposta."
+			}
+		},
+		{
+			"id": "proficiens",
+			"order": 4,
+			"name": {
+				"la": "Proficiens",
+				"en-US": "The Deepening",
+				"pt-BR": "Alma em combate"
+			},
+			"phase": {
+				"en-US": "Late purgative / early illuminative. Mental prayer established, predominant fault named, reading the classics.",
+				"pt-BR": "Purgativa tardia / iluminativa inicial. Oração mental estabelecida, defeito dominante nomeado, lendo os clássicos."
+			},
+			"description": {
+				"en-US": "Mental prayer is taking root and you are fighting one dominant fault with eyes open. Spiritual reading feeds the day, and the Holy Spirit is quietly purifying what still resists love.",
+				"pt-BR": "A oração mental já se enraíza, e há uma luta concreta contra um defeito dominante. A leitura espiritual alimenta o coração, e o Espírito Santo vai purificando o que ainda resiste ao amor."
+			},
+			"resonance": {
+				"en-US": "Peter after Pentecost. St. Francis de Sales's *Philothea*. The unnamed disciple taking the first steps into the interior combat.",
+				"pt-BR": "Pedro depois de Pentecostes. A *Filoteia* de São Francisco de Sales. O discípulo anônimo dando os primeiros passos no combate interior."
+			},
+			"risks": {
+				"en-US": "Subtle pride — tracking one's own progress as if it were one's own work; dryness mistaken for failure; impatience with beginners; heroic goals that quietly replace the hidden life.",
+				"pt-BR": "Orgulho sutil — monitorar o próprio progresso como se fosse obra sua; a aridez confundida com fracasso; impaciência com os iniciantes; metas heroicas que silenciosamente substituem a vida oculta."
+			},
+			"nextStep": {
+				"en-US": "Extend mental prayer to 20–30 minutes. Move toward weekly confession if you haven't. Seriously pursue spiritual direction — an actual priest, not a book. Read the second and third parts of the *Introduction to the Devout Life*, then Scupoli's *Spiritual Combat*.",
+				"pt-BR": "Estenda a oração mental para 20–30 minutos. Caminhe para a confissão semanal, se ainda não for. Busque seriamente a direção espiritual — um sacerdote real, não um livro. Leia a segunda e a terceira partes da *Introdução à Vida Devota*, depois o *Combate Espiritual* de Scupoli."
+			}
+		},
+		{
+			"id": "perseverans",
+			"order": 5,
+			"name": {
+				"la": "Perseverans",
+				"en-US": "The Hidden Growth",
+				"pt-BR": "Fidelidade escondida"
+			},
+			"phase": {
+				"en-US": "Late illuminative. Long fidelity through dryness, acedia, and subtler temptations.",
+				"pt-BR": "Iluminativa tardia. Longa fidelidade em meio à aridez, à acédia e a tentações mais sutis."
+			},
+			"description": {
+				"en-US": "Long years of quiet fidelity through dryness, spiritual boredom, and the subtler temptations of vanity. This is the hour of serious mystical theology and the perseverance of the saints hidden in the world.",
+				"pt-BR": "Longos anos de fidelidade silenciosa, em meio a secura, tédio espiritual e tentações mais sutis de vaidade. É a hora da teologia mística séria e da perseverança dos santos ocultos no mundo."
+			},
+			"resonance": {
+				"en-US": "The martyrs of the long slow kind — those who die daily. St. Francis de Sales's devout layman. The faithful housewife of the *Philokalia*.",
+				"pt-BR": "Os mártires da longa duração — os que morrem cada dia. O leigo devoto de São Francisco de Sales. A dona de casa fiel da *Filocalia*."
+			},
+			"risks": {
+				"en-US": "Acedia — the 'noonday devil'; quiet self-sufficiency; contempt for beginners; the temptation to coast; dryness that hardens into dullness if not met with surrender.",
+				"pt-BR": "Acédia — o 'demônio do meio-dia'; autossuficiência silenciosa; desprezo pelos iniciantes; a tentação de ficar no automático; a secura que endurece em embotamento se não é enfrentada com entrega."
+			},
+			"nextStep": {
+				"en-US": "Deepen, don't broaden. 20–30 minute mental prayer. Serious reading — John of the Cross, *Imitation of Christ*, *The Spiritual Combat*. Lauds + Vespers minimum from the Liturgy of the Hours. Practical almsgiving and hidden service of concrete persons.",
+				"pt-BR": "Aprofunde, não amplie. Oração mental de 20–30 minutos. Leitura séria — São João da Cruz, *Imitação de Cristo*, *Combate Espiritual*. Laudes + Vésperas, no mínimo, da Liturgia das Horas. Esmola concreta e serviço escondido a pessoas específicas."
+			}
+		},
+		{
+			"id": "contemplativus",
+			"order": 6,
+			"name": {
+				"la": "Contemplativus",
+				"en-US": "The Contemplative",
+				"pt-BR": "Alma de oração silenciosa"
+			},
+			"phase": {
+				"en-US": "Illuminative / unitive. Drawn to silent prayer; life reordered around interior quiet.",
+				"pt-BR": "Iluminativa / unitiva. Atraído à oração silenciosa; vida reordenada em torno do silêncio interior."
+			},
+			"description": {
+				"en-US": "You pray less *about* God and more *with* God in silence. Vocal and mental prayer remain, but the soul is often drawn beyond them. Like Mary at the Lord's feet, you have chosen the better part.",
+				"pt-BR": "O Senhor o conduz cada vez mais ao silêncio, e os dons do Espírito Santo operam com docilidade crescente. Como Maria aos pés de Jesus, você escolheu a melhor parte, e dela quer viver."
+			},
+			"resonance": {
+				"en-US": "Mary of Bethany at the Lord's feet. St. John of the Cross. Blessed Elizabeth of the Trinity. The anonymous author of *The Cloud of Unknowing*.",
+				"pt-BR": "Maria de Betânia aos pés do Senhor. São João da Cruz. Beata Isabel da Trindade. O autor anônimo da *Nuvem do Não-Saber*."
+			},
+			"risks": {
+				"en-US": "Quietism; spiritual singularity — disdaining vocal prayer, the Rosary, parish life; illusions mistaken for locutions; isolation from community and the ordinary sacramental life.",
+				"pt-BR": "Quietismo; singularidade espiritual — desprezar a oração vocal, o Rosário, a vida paroquial; ilusões confundidas com locuções; isolamento da comunidade e da vida sacramental ordinária."
+			},
+			"nextStep": {
+				"en-US": "**Do not let this app become your director.** A spiritual director with contemplative experience is not optional at this phase. Long silent-prayer timers, the Divine Office, and the Fathers and mystics are here when you want them. Otherwise we step back.",
+				"pt-BR": "**Não deixe este app se tornar seu diretor.** Um diretor espiritual com experiência contemplativa não é opcional nesta etapa. Cronômetros longos de oração silenciosa, o Ofício Divino e os Padres e místicos estão aqui quando quiser. No mais, nós nos afastamos."
+			}
+		}
+	],
+	"labels": {
+		"risksHeading": {
+			"en-US": "Watch for",
+			"pt-BR": "Cuidados desta etapa"
+		},
+		"nextStepHeading": {
+			"en-US": "Where you might focus next",
+			"pt-BR": "Para onde olhar agora"
+		},
+		"resonanceHeading": {
+			"en-US": "Resonance",
+			"pt-BR": "Ecos na tradição"
+		},
+		"secondaryLead": {
+			"en-US": "You may also recognize yourself in",
+			"pt-BR": "Você também pode se reconhecer em"
+		}
+	}
+}

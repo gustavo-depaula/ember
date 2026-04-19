@@ -1,0 +1,532 @@
+{
+	"version": "v1",
+	"note": "One starter track per archetype. Each track is a lightweight wrapper over existing Plan of Life infrastructure: accepting it seeds the listed practices into user_practices + user_practice_slots at the chosen tier, and sets track.v1.current in the cursors table. Formation readings reference chapters and CCC anchors; any 'import-candidate' entry means the referenced content doesn't exist yet and must be authored or imported before v1 ships.",
+	"tierLegend": {
+		"essential": {
+			"en-US": "Essential",
+			"pt-BR": "Essencial"
+		},
+		"ideal": {
+			"en-US": "Ideal",
+			"pt-BR": "Ideal"
+		},
+		"extra": {
+			"en-US": "Extra",
+			"pt-BR": "Extra"
+		}
+	},
+	"tracks": [
+		{
+			"id": "track-quaerens",
+			"archetype": "quaerens",
+			"title": {
+				"en-US": "First Steps",
+				"pt-BR": "Primeiros passos"
+			},
+			"goal": {
+				"en-US": "Form one honest prayer habit. Take the first concrete step toward the sacramental life.",
+				"pt-BR": "Formar um hábito honesto de oração. Dar o primeiro passo concreto em direção à vida sacramental."
+			},
+			"durationWeeks": 3,
+			"essentialPractices": ["morning-offering", "scripture-trust", "night-prayer"],
+			"idealPractices": ["angelus"],
+			"extraPractices": [],
+			"weeklyFormation": [
+				{
+					"week": 1,
+					"chapter": "how-to-pray",
+					"cccRange": "2558-2589",
+					"note": {
+						"en-US": "What prayer is — and why it's not performance.",
+						"pt-BR": "O que é a oração — e por que não é performance."
+					}
+				},
+				{
+					"week": 2,
+					"scripture": "Mark 1-4",
+					"note": {
+						"en-US": "One chapter a day. Read slowly. Meet the Lord on the page.",
+						"pt-BR": "Um capítulo por dia. Leia devagar. Encontre o Senhor na página."
+					}
+				},
+				{
+					"week": 3,
+					"cccRange": "1210-1274",
+					"note": {
+						"en-US": "The sacraments of initiation — read as preparation for a conversation with a priest.",
+						"pt-BR": "Os sacramentos da iniciação — leia como preparação para uma conversa com um sacerdote."
+					}
+				}
+			],
+			"milestones": [
+				{
+					"at": "week-1-end",
+					"en-US": "A daily Morning Offering habit — showing on the Fidelity Wall.",
+					"pt-BR": "Um hábito diário de Oferecimento das Obras — visível no Mural de Fidelidade."
+				},
+				{
+					"at": "week-2-end",
+					"en-US": "One Gospel chapter read five days running.",
+					"pt-BR": "Um capítulo do Evangelho lido em cinco dias consecutivos."
+				},
+				{
+					"at": "week-3-end",
+					"en-US": "A gentle prompt: 'Have you had a conversation with a parish priest yet?' with parish-finder links.",
+					"pt-BR": "Um lembrete suave: 'Você já conversou com um sacerdote de paróquia?' com links de busca de paróquias."
+				}
+			],
+			"closingPrompt": {
+				"en-US": "Three weeks with a simple rule. The next door is a priest and — if you're not yet baptized or catechized — RCIA. We'll walk with you from here.",
+				"pt-BR": "Três semanas com uma regra simples. A próxima porta é um sacerdote e — se ainda não é batizado ou catequizado — o catecumenato. Caminharemos com você a partir daqui."
+			}
+		},
+		{
+			"id": "track-redivivus",
+			"archetype": "redivivus",
+			"title": {
+				"en-US": "The Road Home",
+				"pt-BR": "O caminho de volta para casa"
+			},
+			"goal": {
+				"en-US": "Bring you back to the Sacrament of Confession and to a sustainable Sunday + daily rhythm.",
+				"pt-BR": "Conduzi-lo de volta ao Sacramento da Confissão e a um ritmo sustentável dominical + diário."
+			},
+			"durationWeeks": 4,
+			"essentialPractices": ["morning-offering", "examination-of-conscience", "act-contrition-short"],
+			"idealPractices": ["rosary"],
+			"extraPractices": [],
+			"notes": {
+				"rosary-phased": {
+					"en-US": "Rosary: one decade a day for the first two weeks, then five decades from week 3.",
+					"pt-BR": "Rosário: uma dezena por dia nas duas primeiras semanas, depois cinco dezenas a partir da semana 3."
+				}
+			},
+			"weeklyFormation": [
+				{
+					"week": 1,
+					"chapter": "how-to-make-a-good-confession",
+					"cccRange": "1422-1470",
+					"note": {
+						"en-US": "A careful, unhurried read. Confession is the door, not the obstacle.",
+						"pt-BR": "Uma leitura cuidadosa e sem pressa. A confissão é a porta, não o obstáculo."
+					}
+				},
+				{
+					"week": 2,
+					"scripture": "Luke 15",
+					"note": {
+						"en-US": "The Prodigal Son, one reading per day across the week. Different detail each day.",
+						"pt-BR": "O Filho Pródigo, uma leitura por dia durante a semana. Um detalhe diferente a cada dia."
+					}
+				},
+				{
+					"week": 3,
+					"chapter": "how-to-pray-the-rosary-well",
+					"note": {
+						"en-US": "From mechanical repetition to praying *with* Mary.",
+						"pt-BR": "Da repetição mecânica ao rezar *com* Maria."
+					}
+				},
+				{
+					"week": 4,
+					"book": "alphonsus-liguori:practice-of-love",
+					"chapterRef": "1",
+					"importCandidate": true,
+					"note": {
+						"en-US": "St. Alphonsus on love — chapter 1 is enough for a week.",
+						"pt-BR": "Santo Afonso sobre o amor — o capítulo 1 basta para uma semana."
+					}
+				}
+			],
+			"milestones": [
+				{
+					"at": "week-1-end",
+					"en-US": "A date committed, on the calendar, for confession.",
+					"pt-BR": "Uma data marcada no calendário para a confissão."
+				},
+				{
+					"at": "week-2-end",
+					"en-US": "Confession made (self-marked).",
+					"pt-BR": "Confissão realizada (marcada por você mesmo)."
+				},
+				{
+					"at": "week-4-end",
+					"en-US": "Four Sundays of Mass attended. A daily examen streak of at least ten days.",
+					"pt-BR": "Quatro Missas dominicais frequentadas. Um hábito diário de exame por ao menos dez dias."
+				}
+			],
+			"closingPrompt": {
+				"en-US": "The Father has been watching the road. Keep walking. The rhythm is yours now — Sunday Mass, examen, Rosary, confession. Not heroic. Faithful.",
+				"pt-BR": "O Pai vem observando o caminho. Continue andando. O ritmo agora é seu — Missa dominical, exame, Rosário, confissão. Não heroico. Fiel."
+			}
+		},
+		{
+			"id": "track-discipulus",
+			"archetype": "discipulus",
+			"title": {
+				"en-US": "A Simple Rule",
+				"pt-BR": "Uma regra simples"
+			},
+			"goal": {
+				"en-US": "Consolidate a tight daily rule. Introduce mental prayer. Begin formation reading.",
+				"pt-BR": "Consolidar uma regra diária enxuta. Introduzir a oração mental. Começar a leitura formativa."
+			},
+			"durationWeeks": 4,
+			"essentialPractices": [
+				"morning-offering",
+				"rosary",
+				"mental-prayer-simple",
+				"examination-of-conscience",
+				"night-prayer"
+			],
+			"idealPractices": ["spiritual-reading", "angelus"],
+			"extraPractices": [],
+			"weeklyFormation": [
+				{
+					"week": 1,
+					"chapter": "plan-of-life",
+					"note": {
+						"en-US": "Write yours down this week. Four lines at most.",
+						"pt-BR": "Escreva o seu esta semana. No máximo quatro linhas."
+					}
+				},
+				{
+					"week": 2,
+					"chapter": "how-to-pray",
+					"note": {
+						"en-US": "Re-read the *forms* section. Pick one form to deepen.",
+						"pt-BR": "Releia a seção *formas*. Escolha uma forma para aprofundar."
+					}
+				},
+				{
+					"week": 3,
+					"book": "introduction-to-devout-life",
+					"chapterRef": "part-1",
+					"importCandidate": true,
+					"note": {
+						"en-US": "St. Francis de Sales, Part I. Gentle but firm.",
+						"pt-BR": "São Francisco de Sales, Parte I. Suave mas firme."
+					}
+				},
+				{
+					"week": 4,
+					"cccRange": "2697-2758",
+					"note": {
+						"en-US": "The Catechism on the life of prayer — the summary you wish you'd read first.",
+						"pt-BR": "O Catecismo sobre a vida de oração — o resumo que você gostaria de ter lido antes."
+					}
+				}
+			],
+			"milestones": [
+				{
+					"at": "week-2-end",
+					"en-US": "Monthly confession rhythm on the calendar.",
+					"pt-BR": "Ritmo de confissão mensal marcado no calendário."
+				},
+				{
+					"at": "week-3-end",
+					"en-US": "A 21-day essential-tier streak on the Fidelity Wall.",
+					"pt-BR": "Uma sequência de 21 dias no nível essencial no Mural de Fidelidade."
+				},
+				{
+					"at": "week-4-end",
+					"en-US": "Predominant fault named in writing. One counter-virtue chosen.",
+					"pt-BR": "Defeito dominante nomeado por escrito. Uma virtude oposta escolhida."
+				}
+			],
+			"closingPrompt": {
+				"en-US": "You have a rule. Now the work is interior, not additive. Fewer new practices; more depth in the ones you have.",
+				"pt-BR": "Você tem uma regra. Agora o trabalho é interior, não aditivo. Menos práticas novas; mais profundidade nas que já tem."
+			}
+		},
+		{
+			"id": "track-proficiens",
+			"archetype": "proficiens",
+			"title": {
+				"en-US": "Deepening",
+				"pt-BR": "Aprofundamento"
+			},
+			"goal": {
+				"en-US": "Stabilize mental prayer. Deepen doctrinal formation. Introduce *lectio divina* or the Divine Office.",
+				"pt-BR": "Estabilizar a oração mental. Aprofundar a formação doutrinal. Introduzir a *lectio divina* ou o Ofício Divino."
+			},
+			"durationWeeks": 4,
+			"essentialPractices": [
+				"morning-offering",
+				"rosary",
+				"mental-prayer-carmelite",
+				"examination-of-conscience",
+				"night-prayer"
+			],
+			"idealPractices": ["spiritual-reading", "angelus", "holy-hour"],
+			"extraPractices": ["gospel-of-the-day"],
+			"notes": {
+				"mental-prayer-duration": {
+					"en-US": "Aim for 20 minutes of mental prayer this track.",
+					"pt-BR": "Busque 20 minutos de oração mental neste ciclo."
+				},
+				"lectio-or-office": {
+					"en-US": "Pick one this track: lectio divina as a daily practice, or Lauds from the Divine Office.",
+					"pt-BR": "Escolha um para este ciclo: lectio divina como prática diária, ou Laudes do Ofício Divino."
+				}
+			},
+			"weeklyFormation": [
+				{
+					"week": 1,
+					"chapter": "mental-prayer-carmelite-method",
+					"note": {
+						"en-US": "The method, and why Teresa insists it's friendship.",
+						"pt-BR": "O método — e por que Teresa insiste que é amizade."
+					}
+				},
+				{
+					"week": 2,
+					"chapter": "lectio-divina",
+					"note": {
+						"en-US": "Guigo's four rungs. Try one real lectio this week.",
+						"pt-BR": "Os quatro degraus de Guigo. Tente uma lectio de verdade esta semana."
+					}
+				},
+				{
+					"week": 3,
+					"book": "introduction-to-devout-life",
+					"chapterRef": "part-2",
+					"importCandidate": true,
+					"note": {
+						"en-US": "Francis de Sales, Part II. The interior of prayer.",
+						"pt-BR": "Francisco de Sales, Parte II. O interior da oração."
+					}
+				},
+				{
+					"week": 4,
+					"book": "teresa-way-of-perfection",
+					"chapterRef": "mental-prayer-chapters",
+					"importCandidate": true,
+					"note": {
+						"en-US": "Teresa on mental prayer — bluntly.",
+						"pt-BR": "Teresa sobre a oração mental — sem rodeios."
+					}
+				}
+			],
+			"milestones": [
+				{
+					"at": "week-2-end",
+					"en-US": "Sustained 20-minute mental prayer, five days in a row.",
+					"pt-BR": "Oração mental de 20 minutos sustentada, cinco dias seguidos."
+				},
+				{
+					"at": "week-4-end",
+					"en-US": "A written reflection on a candidate spiritual director. A concrete next step to contact them.",
+					"pt-BR": "Uma reflexão escrita sobre um candidato a diretor espiritual. Um próximo passo concreto para contatá-lo."
+				}
+			],
+			"closingPrompt": {
+				"en-US": "Mental prayer is the anchor now. Everything else orbits it. Find a director.",
+				"pt-BR": "A oração mental agora é a âncora. Tudo o resto gira em torno dela. Encontre um diretor."
+			}
+		},
+		{
+			"id": "track-perseverans",
+			"archetype": "perseverans",
+			"title": {
+				"en-US": "Hidden Growth",
+				"pt-BR": "Crescimento escondido"
+			},
+			"goal": {
+				"en-US": "Resist coasting. Deepen silent prayer. Engage the great spiritual tradition seriously.",
+				"pt-BR": "Resistir ao piloto automático. Aprofundar a oração silenciosa. Engajar seriamente a grande tradição espiritual."
+			},
+			"durationWeeks": 4,
+			"renewable": true,
+			"essentialPractices": [
+				"mental-prayer-carmelite",
+				"rosary",
+				"examination-of-conscience",
+				"act-contrition"
+			],
+			"idealPractices": ["holy-hour", "stations-of-the-cross", "spiritual-reading"],
+			"extraPractices": ["chaplet-of-divine-mercy"],
+			"notes": {
+				"office-lauds-vespers": {
+					"en-US": "Lauds + Vespers minimum from the Liturgy of the Hours. If already praying both, add Compline.",
+					"pt-BR": "Laudes + Vésperas, no mínimo, da Liturgia das Horas. Se já reza ambas, acrescente Completas."
+				},
+				"mental-prayer-duration": {
+					"en-US": "30 minutes.",
+					"pt-BR": "30 minutos."
+				},
+				"stations-seasonal": {
+					"en-US": "Stations of the Cross: Fridays especially, and throughout Lent.",
+					"pt-BR": "Via-Sacra: sobretudo às sextas-feiras, e por toda a Quaresma."
+				}
+			},
+			"weeklyFormation": [
+				{
+					"week": 1,
+					"book": "imitation-of-christ",
+					"chapterRef": "book-3-part-1",
+					"importCandidate": true,
+					"note": {
+						"en-US": "Kempis, Book III, first part. The inner voice.",
+						"pt-BR": "Kempis, Livro III, primeira parte. A voz interior."
+					}
+				},
+				{
+					"week": 2,
+					"book": "imitation-of-christ",
+					"chapterRef": "book-3-part-2",
+					"importCandidate": true,
+					"note": {
+						"en-US": "Kempis, Book III, second part.",
+						"pt-BR": "Kempis, Livro III, segunda parte."
+					}
+				},
+				{
+					"week": 3,
+					"book": "ascent-of-mount-carmel",
+					"chapterRef": "book-1",
+					"importCandidate": true,
+					"reviewNote": "Requires careful translation review. John of the Cross is catastrophic for beginners — only surfaced at this phase.",
+					"note": {
+						"en-US": "John of the Cross, *Ascent*, Book I. Read with a director if possible.",
+						"pt-BR": "São João da Cruz, *Subida do Monte Carmelo*, Livro I. Leia com um diretor, se possível."
+					}
+				},
+				{
+					"week": 4,
+					"book": "ascent-of-mount-carmel",
+					"chapterRef": "book-1-continued",
+					"importCandidate": true,
+					"note": {
+						"en-US": "John of the Cross, continued.",
+						"pt-BR": "São João da Cruz, continuação."
+					}
+				}
+			],
+			"milestones": [
+				{
+					"at": "week-2-end",
+					"en-US": "Lauds + Vespers for 14 days straight.",
+					"pt-BR": "Laudes + Vésperas por 14 dias consecutivos."
+				},
+				{
+					"at": "week-4-end",
+					"en-US": "A private list of hidden charities toward specific persons.",
+					"pt-BR": "Uma lista privada de caridades escondidas a pessoas específicas."
+				},
+				{
+					"at": "track-end",
+					"en-US": "Is a spiritual director in place? If not, this is the time.",
+					"pt-BR": "Você tem um diretor espiritual? Se não, é o momento."
+				}
+			],
+			"closingPrompt": {
+				"en-US": "The visible work is already done. What remains is hidden — to God, and often to you. That's where the growth is.",
+				"pt-BR": "O trabalho visível já está feito. O que resta é escondido — a Deus, e muitas vezes a você. É lá que está o crescimento."
+			}
+		},
+		{
+			"id": "track-contemplativus",
+			"archetype": "contemplativus",
+			"title": {
+				"en-US": "Silence",
+				"pt-BR": "Silêncio"
+			},
+			"goal": {
+				"en-US": "Get out of the way. Offer long-form silent prayer tooling and the great contemplative texts. Keep the soul rooted in the ordinary Sacraments.",
+				"pt-BR": "Sair do caminho. Oferecer cronômetros longos de oração silenciosa e os grandes textos contemplativos. Manter a alma enraizada nos Sacramentos ordinários."
+			},
+			"durationWeeks": 4,
+			"renewable": true,
+			"essentialPractices": ["mental-prayer-carmelite", "holy-hour"],
+			"idealPractices": ["rosary"],
+			"extraPractices": [],
+			"notes": {
+				"office-full": {
+					"en-US": "Full Divine Office — at minimum Lauds + Vespers + Compline.",
+					"pt-BR": "Ofício Divino completo — no mínimo Laudes + Vésperas + Completas."
+				},
+				"silent-prayer-duration": {
+					"en-US": "30–60 minutes of silent prayer. Use the mental-prayer-carmelite long-timer variant.",
+					"pt-BR": "30–60 minutos de oração silenciosa. Use a variante com cronômetro longo do método carmelita."
+				},
+				"daily-mass": {
+					"en-US": "Daily Mass when your state of life allows it.",
+					"pt-BR": "Missa diária, quando seu estado de vida permitir."
+				}
+			},
+			"weeklyFormation": [
+				{
+					"week": "suggested",
+					"suggestions": [
+						{
+							"en-US": "*The Cloud of Unknowing*",
+							"pt-BR": "*A Nuvem do Não-Saber*"
+						},
+						{
+							"en-US": "St. John of the Cross, *Dark Night* and *Living Flame*",
+							"pt-BR": "São João da Cruz, *Noite Escura* e *Chama Viva de Amor*"
+						},
+						{
+							"en-US": "Bl. Elizabeth of the Trinity's letters",
+							"pt-BR": "Cartas da Beata Isabel da Trindade"
+						},
+						{
+							"en-US": "Cassian, *Conferences* IX and X (on prayer)",
+							"pt-BR": "Cassiano, *Conferências* IX e X (sobre a oração)"
+						}
+					]
+				}
+			],
+			"milestones": [
+				{
+					"at": "track-end",
+					"en-US": "A standing monthly appointment with a spiritual director.",
+					"pt-BR": "Um compromisso mensal fixo com um diretor espiritual."
+				}
+			],
+			"appPosture": {
+				"en-US": "At this phase, the app steps back. Silence is better than features.",
+				"pt-BR": "Nesta etapa, o app recua. O silêncio vale mais do que recursos."
+			}
+		}
+	],
+	"labels": {
+		"durationUnit": {
+			"en-US": "weeks",
+			"pt-BR": "semanas"
+		},
+		"renewableNote": {
+			"en-US": "Renewable — review and repeat as desired.",
+			"pt-BR": "Renovável — revise e repita conforme desejar."
+		},
+		"weekLabel": {
+			"en-US": "Week",
+			"pt-BR": "Semana"
+		},
+		"milestonesHeading": {
+			"en-US": "Milestones",
+			"pt-BR": "Marcos"
+		},
+		"formationHeading": {
+			"en-US": "This week's reading",
+			"pt-BR": "Leitura da semana"
+		},
+		"startTrackLabel": {
+			"en-US": "Start my track",
+			"pt-BR": "Começar meu ciclo"
+		},
+		"skipForNowLabel": {
+			"en-US": "Skip for now",
+			"pt-BR": "Pular por agora"
+		},
+		"retakeLabel": {
+			"en-US": "Retake the check-in",
+			"pt-BR": "Refazer o check-in"
+		},
+		"importCandidateNote": {
+			"en-US": "Reading pending — we'll surface it when it's in the library.",
+			"pt-BR": "Leitura pendente — mostraremos assim que estiver na biblioteca."
+		}
+	}
+}
