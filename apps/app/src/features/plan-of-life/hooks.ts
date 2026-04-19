@@ -41,14 +41,16 @@ function sortedSlots(slots: Iterable<SlotState>): SlotState[] {
 }
 
 function resyncReminders() {
-  return rescheduleAllReminders().catch((error) => {
-    console.error('[reminders] reschedule failed', error)
-    confirm({
-      title: i18n.t('reminders.scheduleFailed'),
-      description: i18n.t('reminders.scheduleFailedDesc'),
-      singleAction: true,
+  setTimeout(() => {
+    rescheduleAllReminders().catch((error) => {
+      console.error('[reminders] reschedule failed', error)
+      confirm({
+        title: i18n.t('reminders.scheduleFailed'),
+        description: i18n.t('reminders.scheduleFailedDesc'),
+        singleAction: true,
+      })
     })
-  })
+  }, 0)
 }
 
 // --- Slot reads ---
