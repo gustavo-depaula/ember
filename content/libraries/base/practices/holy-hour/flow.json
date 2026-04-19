@@ -1,0 +1,123 @@
+{
+	"sections": [
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "Approach",
+				"pt-BR": "Aproximação"
+			}
+		},
+		{ "type": "prayer", "ref": "sign-of-cross" },
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "Kneel or sit. Put aside phone and distractions. Take one full minute in silence, aware that the Lord is really, substantially, truly present before you — Body, Blood, Soul, and Divinity.",
+				"pt-BR": "Ajoelhe-se ou sente-se. Ponha de lado o celular e as distrações. Passe um minuto inteiro em silêncio, consciente de que o Senhor está real, substancial e verdadeiramente presente diante de você — Corpo, Sangue, Alma e Divindade."
+			}
+		},
+		{ "type": "prayer", "ref": "adoro-te-devote" },
+		{ "type": "divider" },
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "Adoration",
+				"pt-BR": "Adoração"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "Ten minutes. Adore Him. Praise Him for who He is, not for what He has done for you. Say, repeat, and mean: *\"My Lord and my God.\"* Use a Psalm of praise if words help — Psalm 8, 63, 95, 103, 116, 150 — or be silent. This is not petition time yet.",
+				"pt-BR": "Dez minutos. Adore-O. Louve-O por quem Ele é, não pelo que Ele fez por você. Diga, repita e sinta: *\"Meu Senhor e meu Deus.\"* Use um Salmo de louvor se as palavras ajudarem — Sl 8, 63, 95, 103, 116, 150 — ou fique em silêncio. Ainda não é a hora da petição."
+			}
+		},
+		{ "type": "prayer", "ref": "anima-christi" },
+		{ "type": "divider" },
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "Lectio — Listen",
+				"pt-BR": "Lectio — Escuta"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "Fifteen minutes with Scripture. The Gospel of the day is a classic; otherwise a short passage you have been drawn to. Read slowly. Let a word or image take hold. Stay with it. Let it ask *you* the questions. (If you have not yet, see the *Lectio Divina* chapter in this library.)",
+				"pt-BR": "Quinze minutos com a Escritura. O Evangelho do dia é um clássico; ou uma passagem curta pela qual se sente atraído. Leia devagar. Deixe uma palavra ou imagem tomá-lo. Permaneça nela. Deixe que ela o questione. (Se ainda não conhece, veja o capítulo *Lectio Divina* nesta biblioteca.)"
+			}
+		},
+		{ "type": "divider" },
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "Contrition",
+				"pt-BR": "Contrição"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "Five minutes. Name your sins simply — what has weighed on your conscience since your last confession, or since yesterday's examen. Do not wallow; do not rush. Look at the Host. His Passion was for these.",
+				"pt-BR": "Cinco minutos. Nomeie seus pecados simplesmente — o que pesou na sua consciência desde a última confissão, ou desde o exame de ontem. Não se regodeie; não apresse. Olhe para a Hóstia. A Paixão foi por estes."
+			}
+		},
+		{ "type": "prayer", "ref": "act-of-contrition" },
+		{ "type": "divider" },
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "Intercession",
+				"pt-BR": "Intercessão"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "Ten minutes. Now bring your petitions — your family, the sick, the dying, your work, the Church, the Pope, your enemies, the souls in purgatory, the conversion of sinners. Name them by name. Jesus intercedes eternally; join Him.",
+				"pt-BR": "Dez minutos. Traga agora suas petições — sua família, os doentes, os moribundos, seu trabalho, a Igreja, o Papa, seus inimigos, as almas do purgatório, a conversão dos pecadores. Nomeie-os pelo nome. Jesus intercede eternamente; una-se a Ele."
+			}
+		},
+		{ "type": "prayer", "ref": "fatima-prayer" },
+		{ "type": "divider" },
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "Silence",
+				"pt-BR": "Silêncio"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "Ten minutes. No more words. Just look at Him. Let Him look at you. If the mind wanders, bring it back without scolding. This is where the Hour does its deepest work. *\"Be still and know that I am God\"* (Ps 46:10).",
+				"pt-BR": "Dez minutos. Nada mais de palavras. Apenas olhe para Ele. Deixe que Ele olhe para você. Se a mente se dispersar, traga-a de volta sem ralhar. É aqui que a Hora faz sua obra mais profunda. *\"Parai e sabei que Eu sou Deus\"* (Sl 46,10)."
+			}
+		},
+		{ "type": "divider" },
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "Offering and Close",
+				"pt-BR": "Oferecimento e Encerramento"
+			}
+		},
+		{ "type": "prayer", "ref": "suscipe" },
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "Name one concrete thing you will carry out of this Hour into the rest of the day — a resolution, a small act of charity, a temptation to resist.",
+				"pt-BR": "Nomeie uma coisa concreta que você levará desta Hora para o resto do dia — uma resolução, um pequeno ato de caridade, uma tentação a resistir."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Jesus, meek and humble of heart, make my heart like unto Yours.",
+				"pt-BR": "Jesus, manso e humilde de coração, fazei o meu coração semelhante ao Vosso."
+			}
+		},
+		{ "type": "prayer", "ref": "sub-tuum-praesidium" },
+		{ "type": "prayer", "ref": "sign-of-cross" }
+	]
+}

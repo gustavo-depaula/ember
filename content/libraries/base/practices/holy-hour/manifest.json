@@ -1,0 +1,48 @@
+{
+	"id": "holy-hour",
+	"icon": "eucharist",
+	"name": {
+		"en-US": "Holy Hour",
+		"pt-BR": "Hora Santa"
+	},
+	"categories": [
+		"eucharistic",
+		"devotional"
+	],
+	"estimatedMinutes": 60,
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flow": "flow.json",
+	"description": {
+		"en-US": "One hour with Our Lord in the Blessed Sacrament — the devotion Christ Himself asked in Gethsemane: 'Could you not watch one hour with me?'",
+		"pt-BR": "Uma hora com Nosso Senhor no Santíssimo Sacramento — a devoção que o próprio Cristo pediu no Getsêmani: 'Não pudestes vigiar uma hora comigo?'"
+	},
+	"history": {
+		"en-US": "The Holy Hour traces to Christ's reproach to the sleeping apostles at Gethsemane (Mt 26:40). St. Margaret Mary Alacoque (1647–1690) received a request from Our Lord for Thursday-night Holy Hours in reparation. Ven. Fulton Sheen (1895–1979) made the daily Holy Hour central to priestly life — 'The hour that I have spent before the Blessed Sacrament has been the joy of my life.' Many priests, religious, and laity build the Holy Hour into their plan of life; it is the classic deep well of Eucharistic devotion.",
+		"pt-BR": "A Hora Santa remonta à repreensão de Cristo aos apóstolos adormecidos no Getsêmani (Mt 26,40). Santa Margarida Maria Alacoque (1647–1690) recebeu do Senhor o pedido de Horas Santas na noite de quinta em reparação. Venerável Fulton Sheen (1895–1979) tornou a Hora Santa diária central na vida sacerdotal — 'A hora que passei diante do Santíssimo Sacramento foi a alegria da minha vida.' Muitos sacerdotes, religiosos e leigos incluem a Hora Santa em seu plano de vida; é o clássico poço profundo da devoção eucarística."
+	},
+	"howToPray": {
+		"en-US": "Ideally prayed before the exposed Blessed Sacrament, or in a church before the tabernacle. At home, before an icon or crucifix. The structure below is a scaffold, not a script — alternate vocal prayer, Scripture, silence, and personal conversation. Archbishop Sheen's rule: do not fill the silence with words; sometimes just look at Him and let Him look at you. *'I look at Him, and He looks at me'* (Curé d'Ars, of a peasant at prayer).",
+		"pt-BR": "Idealmente rezada diante do Santíssimo Sacramento exposto, ou numa igreja diante do sacrário. Em casa, diante de um ícone ou crucifixo. A estrutura abaixo é um andaime, não um roteiro — alterne oração vocal, Escritura, silêncio e conversa pessoal. Regra do Arcebispo Sheen: não preencha o silêncio com palavras; às vezes basta olhar para Ele e deixar que Ele olhe para você. *'Eu olho para Ele, e Ele olha para mim'* (Cura d'Ars, de um camponês em oração)."
+	},
+	"tags": [
+		"eucharist",
+		"adoration",
+		"sheen",
+		"margaret-mary",
+		"gethsemane"
+	],
+	"defaults": {
+		"sortOrder": 19,
+		"slots": [
+			{
+				"schedule": {
+					"type": "weekly",
+					"daysOfWeek": [4]
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
+}
