@@ -196,6 +196,18 @@ export default function HomeScreen() {
         </YStack>
 
         <YStack gap="$md">
+          <FadeInView>
+            <YStack paddingVertical="$sm" paddingBottom="$md">
+              <AppShortcuts />
+            </YStack>
+          </FadeInView>
+
+          <FadeInView>
+            <QuickCaptureChips />
+          </FadeInView>
+        </YStack>
+
+        <YStack gap="$md">
           <FadeInView index={1}>
             <Pressable
               onPress={() => router.push('/plan')}
@@ -292,16 +304,6 @@ export default function HomeScreen() {
             </FadeInView>
           </>
         )}
-
-        <FadeInView>
-          <QuickCaptureChips />
-        </FadeInView>
-
-        <FadeInView>
-          <YStack paddingVertical="$sm" paddingBottom="$md">
-            <AppShortcuts />
-          </YStack>
-        </FadeInView>
 
         <PageBreakOrnament />
 
