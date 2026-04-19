@@ -1,8 +1,8 @@
 import type { BilingualText, ContentLanguage } from '@ember/content-engine'
 import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
+import { Platform, Pressable } from 'react-native'
 import { Text, View, XStack, YStack } from 'tamagui'
-import { AnimatedPressable } from '@/components/AnimatedPressable'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
 const languageLabel: Record<ContentLanguage, string> = {
@@ -11,8 +11,7 @@ const languageLabel: Record<ContentLanguage, string> = {
   la: 'LA',
 }
 
-const toggleAlignEnd = { alignSelf: 'flex-end' } as const
-const toggleHitSlop = { top: 12, bottom: 12, left: 16, right: 16 }
+const webTapStyle = { cursor: 'pointer', userSelect: 'text' } as const
 
 export function BilingualBlock({
   content,
@@ -84,29 +83,35 @@ function TapToSwitch({
   const [showSecondary, setShowSecondary] = useState(false)
   const activeText = showSecondary ? secondary : primary
   const toggleTargetLang = showSecondary ? primaryLanguage : secondaryLanguage
+  const toggle = () => setShowSecondary((v) => !v)
+  const a11yLabel = t('a11y.switchLanguage', {
+    language: t(`languages.${toggleTargetLang}`),
+  })
+
+  if (Platform.OS === 'web') {
+    return (
+      // biome-ignore lint/a11y/useSemanticElements: <button> collapses child text selection; we need tap-to-toggle AND selectable prayer text
+      <div
+        onClick={toggle}
+        onKeyDown={(e) => {
+          if (e.key === 'Enter' || e.key === ' ') {
+            e.preventDefault()
+            toggle()
+          }
+        }}
+        role="button"
+        tabIndex={0}
+        aria-label={a11yLabel}
+        style={webTapStyle}
+      >
+        {renderText(activeText)}
+      </div>
+    )
+  }
 
   return (
-    <YStack>
-      <AnimatedPressable
-        onPress={() => setShowSecondary((v) => !v)}
-        accessibilityRole="button"
-        accessibilityLabel={t('a11y.switchLanguage', {
-          language: t(`languages.${toggleTargetLang}`),
-        })}
-        hitSlop={toggleHitSlop}
-        style={toggleAlignEnd}
-      >
-        <Text
-          fontFamily="$heading"
-          fontSize="$1"
-          color="$colorSecondary"
-          opacity={0.55}
-          paddingHorizontal="$xs"
-        >
-          {languageLabel[toggleTargetLang]}
-        </Text>
-      </AnimatedPressable>
+    <Pressable onPress={toggle} accessibilityRole="button" accessibilityLabel={a11yLabel}>
       {renderText(activeText)}
-    </YStack>
+    </Pressable>
   )
 }
