@@ -125,14 +125,12 @@ export default function RootLayout() {
       // Load already-installed books into the ContentRegistry
       await loadInstalledBooks()
 
-      // If no books installed (first launch), download the default
+      // Ensure the default library is installed (first launch or after an ID rename)
       const installed = await getInstalledBooks()
-      if (installed.length === 0) {
-        const registry = await fetchRegistry()
-        const defaultBook = registry.libraries.find((b) => b.tags?.includes('default'))
-        if (defaultBook) {
-          await downloadAndInstallBook(defaultBook)
-        }
+      const registry = await fetchRegistry()
+      const defaultBook = registry.libraries.find((b) => b.tags?.includes('default'))
+      if (defaultBook && !installed.some((b) => b.book_id === defaultBook.id)) {
+        await downloadAndInstallBook(defaultBook)
       }
 
       // Seed practices and cursors

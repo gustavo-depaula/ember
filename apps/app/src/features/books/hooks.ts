@@ -1,5 +1,6 @@
 import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
 import { useMemo, useState } from 'react'
+import { seedPractices } from '@/db/seed'
 import {
   downloadAndInstallBook,
   fetchRegistry,
@@ -38,9 +39,11 @@ export function useDownloadBook() {
       downloadAndInstallBook(entry, (p) => {
         setProgress((prev) => ({ ...prev, [entry.id]: p }))
       }),
-    onSuccess: () => {
+    onSuccess: async () => {
+      await seedPractices()
       queryClient.invalidateQueries({ queryKey: ['installed-books'] })
       queryClient.invalidateQueries({ queryKey: ['available-books'] })
+      queryClient.invalidateQueries({ queryKey: ['slots'] })
     },
   })
 
