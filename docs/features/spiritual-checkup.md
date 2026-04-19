@@ -1,7 +1,9 @@
-> **Status:** Draft spec (seed document)
+> **Status:** Draft spec (seed document). **§2 superseded** by the decision-tree redesign — see [`spiritual-checkup-profiles/`](./spiritual-checkup-profiles/README.md).
 > **Tracks:** Onboarding, Content Platform, Devotion
 > **Related issue:** #156
 > **Owner:** TBD (requires theological reviewer — see §5)
+
+> **Redesign note (2026-04-19).** The 9-question flat-weighted-sum intake described in §2 is demoted to a fallback. The target shape is a decision tree that routes early on axes the linear sum cannot separate (doctrinal formation vs prayer life depth — the Apologetics Nerd and Emotional Enthusiast profiles motivate this). Archetypes, tracks, and the primary/secondary output from this spec are retained. See [`spiritual-checkup-profiles/README.md`](./spiritual-checkup-profiles/README.md) for the redesign, [`decision-tree.md`](./spiritual-checkup-profiles/decision-tree.md) for the tree sketch, and nine profile files plus three overlays in the same directory.
 
 # Spiritual Checkup
 
