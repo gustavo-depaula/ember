@@ -1,0 +1,11 @@
+What was given to you at the font did not wait for your awareness to become real. The graces of baptism were deposited in a soul that could not yet speak, and they have been there ever since, whether you thought about them or not. This is strange to modern ears — we are used to thinking that nothing is real for us until we feel it. But grace is not a feeling. Grace is God's own life given to the soul, and it keeps its own time.
+
+St. Paul, writing to his disciple Timothy, says: *"I admonish thee, that thou stir up the grace of God which is in thee"* (2 Timothy 1:6). Stir up — the Greek word is the one you use for coals under ash. The fire is there. The ash is what lies on top. The life of grace given at baptism can lie quiet for years under the ash of a life that forgot about it, and it can be stirred back into flame, and **the flame is the same flame**. Nothing new has to be brought in; what was given is being uncovered.
+
+The Catechism names these baptismal graces: the forgiveness of original sin, incorporation into the Church, sanctifying grace, the indwelling of the Holy Trinity, the theological virtues of faith, hope, and charity (CCC 1262–1274). Read that list and notice the tense. These are not offers extended to you if you show up. They are realities placed in you that you are being invited to live.
+
+John Henry Newman, in one of his Anglican sermons that he kept after becoming Catholic, spoke about the baptized soul as a land that has been sown with seed. The seed is in the earth. The owner of the field has been away for years. When he returns, he is not arriving at an empty field for the first time; he is coming back to his own wheat, which has been waiting for him. The work now is not planting. The work is tending.
+
+This reframes everything about your situation. You have not been outside the family all this time. You have been a member who was away. The question is not whether to *join*; you were joined. The question is whether to *come home*, and coming home is a very different kind of motion than joining a club. It is quieter. It is usually small. It begins with a single decision that you are going to let the fire be stirred.
+
+*"A bruised reed he shall not break, and smoking flax he shall not quench."* (Isaiah 42:3)

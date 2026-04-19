@@ -1,0 +1,20 @@
+{
+	"sections": [
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "The First Year After Reception",
+				"pt-BR": "O Primeiro Ano Após a Recepção"
+			}
+		},
+		{ "type": "prose", "file": "sections/after-the-easter-high" },
+		{ "type": "divider" },
+		{ "type": "prose", "file": "sections/the-honeymoon-ends" },
+		{ "type": "divider" },
+		{ "type": "prose", "file": "sections/building-a-small-rule" },
+		{ "type": "divider" },
+		{ "type": "prose", "file": "sections/when-a-cradle-catholic-disappoints-you" },
+		{ "type": "divider" },
+		{ "type": "prose", "file": "sections/the-work-of-the-second-year" }
+	]
+}

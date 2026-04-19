@@ -1,0 +1,9 @@
+Há um tipo de hora em que o conselho *"simplesmente reze"* é cruel. A alma vem à cadeira, ou ao genuflexório, ou à cama no escuro, e descobre que **não tem nada a oferecer**. O luto esvaziou a sala onde antes vivia a oração espontânea. Ou uma doença longa. Ou a vergonha de um pecado que ainda não pode ser dito. Ou uma raiva que a alma tem medo de trazer à frente. Ou simplesmente a luz seca da alma fiel que está nisto há tempo suficiente para que as palavras fáceis tenham acabado.
+
+Os santos não fogem disto. Teresa de Ávila, que passou quarenta anos ensinando oração, escreveu de próprio punho que por longos períodos não conseguia dizer um *Pai-Nosso* sem distração. João Maria Vianney, padroeiro dos párocos, ficava frequentemente sem palavras diante do sacrário — não em um grande silêncio místico, mas num cansaço humano ordinário. A *Filocalia* o pressupõe. Os Padres do Deserto o pressupõem. Se você chegou à hora da oração e se descobriu de mãos vazias, **você não fracassou na vida interior**. Você chegou a uma condição que ela sempre considerou.
+
+A primeira coisa a saber é que isto não é apenas permitido — está providenciado. Deus não se senta do outro lado da sala à espera de que você componha algo digno. Ele, de fato, já escreveu algo para você usar. É este o ponto do capítulo que você está lendo.
+
+A segunda coisa a saber é que, mesmo na total ausência de palavras, a oração está acontecendo. São Paulo é direto sobre isto: quando não sabemos como rezar, o Espírito Santo reza em nós, em gemidos que estão abaixo da fala. Você não precisa descer sozinho até ali. Precisa apenas permanecer na cadeira.
+
+*"O Espírito também vem em auxílio da nossa fraqueza. Pois não sabemos o que pedir como convém; mas o próprio Espírito intercede por nós com gemidos inefáveis."* (*Romanos 8, 26*)

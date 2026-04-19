@@ -1,0 +1,20 @@
+{
+	"sections": [
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "The Psalter in the Dark",
+				"pt-BR": "O Saltério no Escuro"
+			}
+		},
+		{ "type": "prose", "file": "sections/when-words-wont-come" },
+		{ "type": "divider" },
+		{ "type": "prose", "file": "sections/the-church-already-wrote-it" },
+		{ "type": "divider" },
+		{ "type": "prose", "file": "sections/the-lament-psalms" },
+		{ "type": "divider" },
+		{ "type": "prose", "file": "sections/praying-without-feeling" },
+		{ "type": "divider" },
+		{ "type": "prose", "file": "sections/picking-back-up" }
+	]
+}

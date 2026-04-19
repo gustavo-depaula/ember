@@ -1,0 +1,20 @@
+{
+	"sections": [
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "Measuring What Cannot Be Measured",
+				"pt-BR": "Medindo o que Não Pode Ser Medido"
+			}
+		},
+		{ "type": "prose", "file": "sections/the-accounting-temptation" },
+		{ "type": "divider" },
+		{ "type": "prose", "file": "sections/what-cannot-be-counted" },
+		{ "type": "divider" },
+		{ "type": "prose", "file": "sections/the-little-way" },
+		{ "type": "divider" },
+		{ "type": "prose", "file": "sections/using-the-app-rightly" },
+		{ "type": "divider" },
+		{ "type": "prose", "file": "sections/what-the-lord-weighs" }
+	]
+}

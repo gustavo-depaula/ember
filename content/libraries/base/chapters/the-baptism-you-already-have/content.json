@@ -1,0 +1,20 @@
+{
+	"sections": [
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "The Baptism You Already Have",
+				"pt-BR": "O Batismo que Você Já Tem"
+			}
+		},
+		{ "type": "prose", "file": "sections/what-happened-to-you" },
+		{ "type": "divider" },
+		{ "type": "prose", "file": "sections/unrepeatable" },
+		{ "type": "divider" },
+		{ "type": "prose", "file": "sections/the-sleeping-graces" },
+		{ "type": "divider" },
+		{ "type": "prose", "file": "sections/confirmation-and-the-rest" },
+		{ "type": "divider" },
+		{ "type": "prose", "file": "sections/how-to-begin-now" }
+	]
+}

@@ -1,0 +1,13 @@
+A maioria das pessoas que quer começar o Rosário e não consegue começar está travada pela mesma coisa: a conta. Cinquenta Ave-Marias, cinco dezenas, um cordão de contas que parece, para o iniciante, um castigo. Se é essa a imagem que você tem do Rosário, ele ficará sem ser rezado, e você carregará uma pequena vergonha silenciosa a respeito. Largue essa imagem.
+
+Comece com **uma dezena**. Dez Ave-Marias. Um único mistério. Um Pai-Nosso, dez Ave-Marias, um Glória. Isso é uma dezena. Você pode rezá-la em menos de cinco minutos, enquanto caminha até o ponto de ônibus, enquanto lava a louça depois do jantar, enquanto espera o sono chegar. Isto basta. Não é um Rosário menor — é o Rosário em forma de semente, que é como o Rosário foi rezado no início, antes de a conta se tornar padrão.
+
+Quando rezar a dezena, lembre-se do que as contas servem. São uma moldura. Você não deve estar concentrado nas contas mais do que um leitor deve estar concentrado na margem da página. Você deve estar olhando, através da moldura, para o quadro — para uma cena do Evangelho. A Anunciação. A Visitação. O encontro do menino Jesus no Templo. A agonia no horto. O túmulo vazio. Enquanto seus lábios dizem *Ave-Maria, Ave-Maria*, sua mente está, em silêncio, dentro de uma cena do Evangelho, contemplando.
+
+É o ponto que São João Paulo II fez, numa carta sobre o Rosário escrita no fim de sua vida: *"O Rosário, embora claramente mariano no caráter, é no fundo uma oração cristocêntrica."* Você está meditando em Cristo *pelos olhos* da mãe d'Ele, porque ela é a alma da Escritura que melhor guardou essas coisas, *meditando-as no seu coração*. O Rosário é Maria emprestando a você a memória que ela tem do Filho.
+
+Se você já conhece o Rosário inteiro, mas vem rezando-o como uma obrigação, e sente que este capítulo é pequeno demais para você, tome esta seção como permissão — *permissão para encolher de volta a uma dezena* por uma temporada, até que a oração fique honesta de novo. Uma devoção que virou performance não é, por isso, santa; é apenas barulhenta. Melhor uma dezena rezada com amor do que cinco dezenas resmungadas para alcançar um número. O Rosário é uma oração, não uma cota. Se a cota está matando a oração, mate a cota.
+
+Para a forma completa — os cinco mistérios, sua ordem, as orações tradicionais, como de fato habitar um Rosário inteiro — o capítulo **Como Rezar Bem o Rosário** é o próximo a ler. Esta seção é só para a alma que precisa atravessar a primeira linha. Atravesse hoje. Uma dezena. Um mistério. Uma cena do Evangelho, vista pelos olhos d'ela.
+
+*"Maria, porém, guardava todas essas coisas, meditando-as no seu coração."* (*Lucas 2, 19*)

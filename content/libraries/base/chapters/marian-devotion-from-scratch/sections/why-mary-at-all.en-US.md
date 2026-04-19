@@ -1,0 +1,11 @@
+Begin, if you have to, not with a doctrine but with a scene. Jesus is on the cross. There is very little breath left. He looks down, and he sees two people: his mother, and the disciple he loved. He does not speak to them about his pain, or about the men who are killing him, or about anything he is losing. He speaks to arrange one thing — that his mother will not be alone, and that the disciple will not be motherless. *"Woman, behold thy son. Behold thy mother."* Then the Gospel adds a line that is almost a legal notice: *"And from that hour, the disciple took her unto his own."*
+
+This is where Marian devotion begins in the Christian life, and it is the only place it *has* to begin. Jesus, dying, gave his mother to the disciple who loved him. The Fathers of the Church read that scene almost with one voice: the Beloved Disciple stands there for every disciple. If you are one of the people Jesus loves, you were written into that sentence. His mother was given to you the same day she was given to John.
+
+This is not a Catholic embellishment laid on top of the Gospel. It is in the Gospel, and it is among the last things Jesus chose to do with his remaining minutes. If it seems strange to you — if you grew up in a tradition where Mary was politely kept to one scene at Christmas, or suspiciously edited out altogether, or reduced to a symbol of femininity — that is only a sign that something was left out of your formation, not that something was added to the faith. The Church is not smuggling Mary in. She is already there, at the foot of the cross, and Jesus is handing her to you.
+
+So the first answer to the honest question — *why Mary at all?* — is not an argument. It is an inheritance. She is the gift your dying Lord gave you when he had nothing else to give. You are not asked to manufacture feelings about her. You are asked, at first, only to notice that she was given, and to not refuse the gift.
+
+The disciple "took her unto his own" — *took her into his own home*. That is the whole program of this chapter. Not a cult, not a spectacle, not a fourth person of the Trinity. Just letting this woman whom Christ loved become quietly part of the household of your interior life, the way she became part of John's.
+
+*"Behold thy mother. And from that hour, the disciple took her unto his own."* (*John 19:27*)

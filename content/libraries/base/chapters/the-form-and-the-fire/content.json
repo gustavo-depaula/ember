@@ -1,0 +1,20 @@
+{
+	"sections": [
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "The Form and the Fire",
+				"pt-BR": "A Forma e o Fogo"
+			}
+		},
+		{ "type": "prose", "file": "sections/the-drift-toward-aesthetics" },
+		{ "type": "divider" },
+		{ "type": "prose", "file": "sections/the-fathers-on-external-observance" },
+		{ "type": "divider" },
+		{ "type": "prose", "file": "sections/why-the-form-matters" },
+		{ "type": "divider" },
+		{ "type": "prose", "file": "sections/the-fire-is-charity" },
+		{ "type": "divider" },
+		{ "type": "prose", "file": "sections/both-together" }
+	]
+}

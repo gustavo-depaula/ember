@@ -1,0 +1,17 @@
+No décimo segundo mês, se você guardou a pequena regra, algo mudou que talvez você não perceba por dentro. Você não é mais novo. Os catecúmenos desta Vigília são os novos; você está um ano à frente deles. A pergunta diante de você não é mais *como construo o hábito?* — o hábito está construído. A pergunta agora é *como aprofundo?*
+
+A resposta honesta é que o segundo ano se parece muito diferente do primeiro, e é mais silencioso, e mais lento. Quatro coisas merecem consideração, uma de cada vez, não todas de uma vez.
+
+**Um confessor regular.** Não um padre diferente a cada vez, escolhido por quem tem a fila mais curta. O mesmo padre, idealmente mensal, que começa a conhecer o formato da sua vida e sabe distinguir quando um pecado que você confessa é um padrão antigo e quando é terreno novo. Isto importa mais do que qualquer livro que você vai ler no segundo ano. Se a sua paróquia tem um padre disponível, peça para vê-lo em horário regular. Se não, procure uma paróquia próxima ou uma casa religiosa. Os convertidos que adquirem um confessor no segundo ano são, em boa medida, os que ainda estão rezando no décimo.
+
+**Um clássico espiritual, lido devagar.** Um. Não uma estante deles. A escolha tradicional de primeira viagem é a *Imitação de Cristo* de Tomás de Kempis — capítulos curtos, linguagem simples, uma ou duas páginas por vez, com pausa depois. Outras primeiras escolhas defensáveis são a *Introdução à Vida Devota* de São Francisco de Sales e a *História de uma Alma* de Santa Teresinha. Escolha um; leia ao longo de seis meses; termine. Um livro lido nesse ritmo entra na alma; um livro lido em três noites é entretenimento.
+
+**Uma obra de misericórdia corporal, integrada à semana.** Não como projeto; como ritmo. Visitar um paroquiano idoso específico todo sábado por meia hora. Levar comida a um doente específico uma vez por mês. Fazer um turno no refeitório comunitário na primeira terça de cada mês. O ponto da integração é que a obra se torna enfadonha, e mesmo assim é feita. Misericórdia que sobrevive ao tédio é o modo como a caridade é de fato adquirida.
+
+**O começo da oração mental — dez minutos por dia.** Não vinte, não trinta. Dez, em lugar fixo, em hora fixa, sentado em silêncio diante de Deus com um pequeno trecho da Escritura aberto. Se dez parecer curto demais, ótimo — mantenha em dez. Se dez parecer longo demais, mantenha em dez e aguente. O segundo ano é o ano de começar isto; o primeiro era cedo demais. O capítulo sobre oração mental nesta biblioteca (método carmelita) lhe dará uma forma. Não acrescente uma quinta coisa no segundo ano. Estas quatro, ao longo de um segundo ano, já bastam.
+
+E a verdade sem romantismo, já que vai poupar anos de confusão se você a aceitar agora: **a santidade não é construída no primeiro ano**. O primeiro ano é para sobreviver. O segundo ano é para começar a aprofundar. O terceiro e o quarto são para o primeiro contato real com o seu próprio defeito predominante. Do quinto ao décimo, aprende-se, devagar, que a vida cristã não é uma série de picos cada vez mais altos, mas uma fidelidade longa e em grande parte oculta. As décadas depois disso é onde os santos são feitos, e eles são feitos quase inteiramente de terças-feiras.
+
+A Vigília foi a porta. O primeiro ano foi o limiar. O segundo ano são os primeiros passos dentro da casa. A casa em si é grande, e você tem o resto da sua vida dentro dela.
+
+*"Crescei na graça e no conhecimento de Nosso Senhor e Salvador Jesus Cristo."* (*2 Pedro 3, 18*)

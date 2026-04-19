@@ -1,0 +1,20 @@
+{
+	"sections": [
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "The First Mass Back",
+				"pt-BR": "A Primeira Missa de Volta"
+			}
+		},
+		{ "type": "prose", "file": "sections/before-you-go" },
+		{ "type": "divider" },
+		{ "type": "prose", "file": "sections/the-body-remembers" },
+		{ "type": "divider" },
+		{ "type": "prose", "file": "sections/what-you-will-feel" },
+		{ "type": "divider" },
+		{ "type": "prose", "file": "sections/confession-first-if-you-can" },
+		{ "type": "divider" },
+		{ "type": "prose", "file": "sections/after" }
+	]
+}

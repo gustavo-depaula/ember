@@ -1,0 +1,20 @@
+{
+	"sections": [
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "Marian Devotion from Scratch",
+				"pt-BR": "Devoção Mariana do Zero"
+			}
+		},
+		{ "type": "prose", "file": "sections/why-mary-at-all" },
+		{ "type": "divider" },
+		{ "type": "prose", "file": "sections/what-shes-not" },
+		{ "type": "divider" },
+		{ "type": "prose", "file": "sections/the-hail-mary-slow" },
+		{ "type": "divider" },
+		{ "type": "prose", "file": "sections/the-rosary-without-performance" },
+		{ "type": "divider" },
+		{ "type": "prose", "file": "sections/one-small-marian-habit" }
+	]
+}

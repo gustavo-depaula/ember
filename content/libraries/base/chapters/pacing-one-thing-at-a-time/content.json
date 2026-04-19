@@ -1,0 +1,20 @@
+{
+	"sections": [
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "Pacing",
+				"pt-BR": "Ritmo"
+			}
+		},
+		{ "type": "prose", "file": "sections/the-common-failure" },
+		{ "type": "divider" },
+		{ "type": "prose", "file": "sections/why-one-thing" },
+		{ "type": "divider" },
+		{ "type": "prose", "file": "sections/choose-your-one-thing" },
+		{ "type": "divider" },
+		{ "type": "prose", "file": "sections/keep-it-for-a-year" },
+		{ "type": "divider" },
+		{ "type": "prose", "file": "sections/adding-the-next" }
+	]
+}

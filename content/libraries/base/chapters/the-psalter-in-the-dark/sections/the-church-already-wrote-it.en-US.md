@@ -1,0 +1,11 @@
+When your own words fail, **borrow God's**. That is the very old answer the Church hands a soul that has come to the end of itself, and it has a book to go with it.
+
+The Psalter is the prayerbook the Church has been using for three thousand years. It was the prayerbook of Israel; it was the prayerbook of the Lord Himself. On the cross, Jesus did not improvise. He prayed Psalm 22 — *"My God, my God, why hast thou forsaken me?"* — and, in His last breath according to Luke, a verse of Psalm 31 — *"Into thy hands I commend my spirit."* The Gospel shows us the Son of God, at the most abandoned hour a man has ever known, **reaching for a psalm because a psalm was already there**.
+
+The Church received this habit whole. St. Benedict, in the sixth century, structured the entire week of the monastery so that **all 150 psalms would be prayed in seven days** (*Rule*, chapter 18). The Divine Office — Lauds, Vespers, Compline, and the rest — is still, in its bones, the Psalter in liturgical order. Every Mass carries a psalm at its heart. When a diocesan priest opens his breviary at five in the morning and prays Lauds, he is doing what the Church has done since the apostolic age: putting the words of the Psalms into a human mouth and offering them to God.
+
+Aquinas noted that the Psalter contains, in compressed form, the whole of Scripture — creation and fall, exile and return, kingship and priesthood, suffering and deliverance, praise of the Creator and longing for the Redeemer. This is why the tradition has always treated the Psalter as the first prayerbook, prior even to the Gospels in liturgical formation: the Psalms **train the soul in the full range of what it means to speak to God** — petition, lament, confession, trust, thanksgiving, praise. Every register is there. Every weather.
+
+When you pick up a psalm, you are not introducing a new prayer. You are joining one in progress. Every saint who ever lived prayed these words. So did the Lord. So do the monks tonight in a hundred monasteries. Your voice joins a long one.
+
+*"Let the word of Christ dwell in you plentifully, in all wisdom: teaching and admonishing one another in psalms, hymns, and spiritual canticles."* (*Colossians 3:16*)

@@ -1,0 +1,11 @@
+Comece, se for preciso, não por uma doutrina, mas por uma cena. Jesus está na cruz. Resta muito pouco fôlego. Ele olha para baixo e vê duas pessoas: sua mãe e o discípulo a quem amava. Não lhes fala de sua dor, nem dos homens que o estão matando, nem de nada que está perdendo. Fala para arranjar uma coisa — que sua mãe não fique só, e que o discípulo não fique sem mãe. *"Mulher, eis aí o teu filho. Eis aí tua mãe."* E o Evangelho acrescenta uma linha que é quase uma notificação legal: *"E daquela hora em diante, o discípulo a recebeu em sua casa."*
+
+É aqui que a devoção mariana começa na vida cristã, e é o único lugar em que ela *precisa* começar. Jesus, morrendo, entregou sua mãe ao discípulo que o amava. Os Padres da Igreja leram essa cena quase em uma só voz: o Discípulo Amado está ali por cada discípulo. Se você é uma das pessoas a quem Jesus ama, você foi inscrito naquela frase. Sua mãe foi dada a você no mesmo dia em que foi dada a João.
+
+Isto não é um adorno católico colocado sobre o Evangelho. Está no Evangelho, e está entre as últimas coisas que Jesus escolheu fazer com os minutos que lhe restavam. Se lhe parece estranho — se você cresceu em uma tradição em que Maria era educadamente mantida em uma única cena no Natal, ou desconfiadamente editada para fora, ou reduzida a símbolo da feminilidade — isso é só sinal de que algo faltou à sua formação, não de que algo foi acrescentado à fé. A Igreja não está contrabandeando Maria para dentro. Ela já está lá, ao pé da cruz, e Jesus a está entregando a você.
+
+Assim, a primeira resposta à pergunta honesta — *por que Maria, afinal?* — não é um argumento. É uma herança. Ela é o presente que seu Senhor moribundo lhe deu quando não tinha mais nada para dar. Não se pede que você fabrique sentimentos por ela. Pede-se, a princípio, apenas que você note que ela foi dada, e que não recuse o presente.
+
+O discípulo "a recebeu em sua casa" — *levou-a para dentro de sua própria casa*. Esse é todo o programa deste capítulo. Não um culto, não um espetáculo, não uma quarta pessoa da Trindade. Apenas deixar que essa mulher a quem Cristo amava se torne, em silêncio, parte da casa da sua vida interior, do modo como se tornou parte da casa de João.
+
+*"Eis aí tua mãe. E daquela hora em diante, o discípulo a recebeu em sua casa."* (*João 19, 27*)

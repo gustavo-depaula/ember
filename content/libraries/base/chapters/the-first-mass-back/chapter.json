@@ -1,0 +1,13 @@
+{
+	"id": "the-first-mass-back",
+	"title": {
+		"en-US": "The First Mass Back",
+		"pt-BR": "A Primeira Missa de Volta"
+	},
+	"subtitle": {
+		"en-US": "On returning after a long absence",
+		"pt-BR": "Sobre o retorno após longa ausência"
+	},
+	"estimatedMinutes": 9,
+	"tags": ["formation", "mass", "returning", "lapsed", "conversion", "sacraments"]
+}

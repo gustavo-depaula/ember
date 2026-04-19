@@ -1,0 +1,9 @@
+There is a kind of hour in which the advice *"just pray"* is cruel. The soul comes to the chair, or the kneeler, or the bed in the dark, and finds that **it has nothing to offer**. Grief has hollowed out the room where spontaneous prayer used to live. Or a long illness. Or the shame of a sin that cannot yet be spoken. Or an anger the soul is frightened to bring forward. Or simply the dry daylight of the faithful soul who has been at this long enough that the easy words are gone.
+
+The saints do not flinch at this. Teresa of Ávila, who spent forty years teaching prayer, wrote in her own hand that for long stretches she could not say a *Pater Noster* without distraction. John Vianney, patron of parish priests, was frequently wordless before the tabernacle — not in a great mystical silence, but in an ordinary human tiredness. The *Philokalia* assumes it. The Desert Fathers assume it. If you have come to the hour of prayer and found yourself empty-handed, **you have not failed at the interior life**. You have arrived at a condition it has always accounted for.
+
+The first thing to know is that this is not only allowed — it is provided for. God does not sit on the other side of the room waiting for you to compose something worthy. He has, in fact, already written something for you to use. That is the point of the chapter you are reading.
+
+The second thing to know is that even in the total wordlessness, the prayer is happening. St. Paul is direct about it: when we do not know how to pray, the Holy Spirit prays in us, in groanings that are below speech. You do not have to reach that far down yourself. You only have to stay in the chair.
+
+*"The Spirit also helpeth our infirmity. For we know not what we should pray for as we ought; but the Spirit himself asketh for us with unspeakable groanings."* (*Romans 8:26*)

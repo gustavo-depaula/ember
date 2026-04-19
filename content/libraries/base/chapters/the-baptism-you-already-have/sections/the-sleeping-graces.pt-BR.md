@@ -1,0 +1,11 @@
+O que foi dado a você na pia batismal não esperou a sua consciência para se tornar real. As graças do batismo foram depositadas numa alma que ainda não sabia falar, e lá estão desde então, pensasse você nelas ou não. Isto soa estranho aos ouvidos modernos — estamos acostumados a pensar que nada é real para nós até sentirmos. Mas graça não é sentimento. Graça é a própria vida de Deus dada à alma, e ela tem o seu próprio tempo.
+
+São Paulo, escrevendo ao seu discípulo Timóteo, diz: *"exorto-te a reavivares a graça de Deus que está em ti"* (2 Timóteo 1, 6). Reavivar — a palavra grega é a mesma que se usa para brasas sob a cinza. O fogo está lá. A cinza é o que está por cima. A vida de graça dada no batismo pode permanecer quieta por anos sob a cinza de uma vida que se esqueceu dela, e pode ser reavivada em chama, e **a chama é a mesma chama**. Nada novo precisa ser trazido; o que foi dado está sendo descoberto.
+
+O Catecismo nomeia estas graças batismais: a remissão do pecado original, a incorporação à Igreja, a graça santificante, a inabitação da Santíssima Trindade, as virtudes teologais da fé, da esperança e da caridade (CIC 1262–1274). Leia esta lista e note o tempo verbal. Não são ofertas estendidas a você caso apareça. São realidades colocadas em você, que você está sendo convidado a viver.
+
+John Henry Newman, num dos seus sermões anglicanos que ele manteve depois de se tornar católico, falava da alma batizada como uma terra que foi semeada. A semente está na terra. O dono do campo esteve ausente por anos. Quando ele retorna, não está chegando pela primeira vez a um campo vazio; está voltando ao seu próprio trigo, que o esperava. O trabalho agora não é plantar. O trabalho é cuidar.
+
+Isto reorganiza tudo na sua situação. Você não esteve fora da família todo este tempo. Foi um membro que esteve afastado. A pergunta não é se deve *entrar*; você foi inserido. A pergunta é se quer *voltar para casa*, e voltar para casa é um tipo de movimento muito diferente de entrar num clube. É mais silencioso. É quase sempre pequeno. Começa com uma única decisão de deixar que o fogo seja reavivado.
+
+*"Não quebrará a cana rachada, nem apagará o pavio que ainda fumega."* (Isaías 42, 3)
