@@ -1,11 +1,6 @@
 {
 	"id": "stations-cross",
 	"icon": "cross",
-	"alternativeTo": {
-		"id": "stations-cross",
-		"label": { "en-US": "Traditional", "pt-BR": "Tradicional" },
-		"description": { "en-US": "The traditional Stations of the Cross" }
-	},
 	"name": {
 		"en-US": "Stations of the Cross",
 		"pt-BR": "Via Sacra"

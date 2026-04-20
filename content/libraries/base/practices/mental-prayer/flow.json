@@ -1,68 +1,4 @@
 {
-	"data": {
-		"steps": [
-			{
-				"name": {
-					"en-US": "Remote Preparation",
-					"pt-BR": "Preparação Remota"
-				},
-				"meditation": {
-					"en-US": "Choose your subject: a mystery of Christ's life, a virtue you wish to grow in, or a truth of faith. Read a few lines about it — from the Gospel, a saint's reflection, or the Catechism. Carry the subject with you to prayer.",
-					"pt-BR": "Escolha seu tema: um mistério da vida de Cristo, uma virtude que deseja desenvolver ou uma verdade da fé. Leia algumas linhas sobre ele — do Evangelho, da reflexão de um santo ou do Catecismo. Leve o tema consigo para a oração."
-				}
-			},
-			{
-				"name": {
-					"en-US": "Composition of Place",
-					"pt-BR": "Composição de Lugar"
-				},
-				"meditation": {
-					"en-US": "Make the Sign of the Cross. Become aware of God's presence. Now place yourself imaginatively in the scene: if the subject is a Gospel event, see the place, the faces, the light. If it is a truth or a virtue, place yourself before God who is all goodness and truth. Do not hurry; this preparation matters.",
-					"pt-BR": "Faça o Sinal da Cruz. Tome consciência da presença de Deus. Coloque-se imaginativamente na cena: se o tema é um evento evangélico, veja o lugar, os rostos, a luz. Se é uma verdade ou uma virtude, coloque-se diante de Deus, que é toda bondade e verdade. Não tenha pressa; esta preparação é importante."
-				}
-			},
-			{
-				"name": {
-					"en-US": "First Point — Memory",
-					"pt-BR": "Primeiro Ponto — Memória"
-				},
-				"meditation": {
-					"en-US": "Apply your memory to the subject. What happened? What did Our Lord say and do? Recall the details with care, as though you were present. See Him, hear His voice, notice what stirs in you as you watch.",
-					"pt-BR": "Aplique a memória ao tema. O que aconteceu? O que Nosso Senhor disse e fez? Recorde os detalhes com cuidado, como se estivesse presente. Veja-O, ouça Sua voz, observe o que se move em você ao contemplar."
-				}
-			},
-			{
-				"name": {
-					"en-US": "Second Point — Intellect",
-					"pt-BR": "Segundo Ponto — Intelecto"
-				},
-				"meditation": {
-					"en-US": "Apply your intellect. What does this mean? What does God wish to show you through this mystery or truth today? What light does it cast on your life, your struggles, your vocation? Ask questions. Receive answers in silence.",
-					"pt-BR": "Aplique o intelecto. O que isso significa? O que Deus quer mostrar-lhe através deste mistério ou verdade hoje? Que luz lança sobre sua vida, suas lutas, sua vocação? Faça perguntas. Receba respostas no silêncio."
-				}
-			},
-			{
-				"name": {
-					"en-US": "Third Point — Will",
-					"pt-BR": "Terceiro Ponto — Vontade"
-				},
-				"meditation": {
-					"en-US": "This is the most important movement. Apply your will. Let love, gratitude, contrition, or resolution arise from within you. Speak to God from the heart — not with polished phrases, but with truth. Do not rush through this; remain here as long as grace sustains you.",
-					"pt-BR": "Este é o movimento mais importante. Aplique a vontade. Deixe surgir amor, gratidão, contrição ou resolução de dentro de você. Fale com Deus do coração — não com frases polidas, mas com verdade. Não se apresse; permaneça aqui enquanto a graça o sustentar."
-				}
-			},
-			{
-				"name": {
-					"en-US": "Colloquy & Resolution",
-					"pt-BR": "Colóquio e Resolução"
-				},
-				"meditation": {
-					"en-US": "Conclude with a personal colloquy — a heart-to-heart with Christ, Our Lady, or the Father. Speak to them as one friend speaks to another. Make one concrete resolution to carry into your day. Then close with an Our Father.",
-					"pt-BR": "Conclua com um colóquio pessoal — uma conversa íntima com Cristo, Nossa Senhora ou o Pai. Fale com eles como um amigo fala com outro. Faça uma resolução concreta para levar ao longo do dia. Depois, encerre com um Pai Nosso."
-				}
-			}
-		]
-	},
 	"sections": [
 		{
 			"type": "prayer",
@@ -72,22 +8,155 @@
 			"type": "divider"
 		},
 		{
-			"type": "repeat",
-			"count": 6,
-			"from": "steps",
-			"sections": [
-				{
-					"type": "heading",
-					"text": "{{name}}"
-				},
-				{
-					"type": "meditation",
-					"text": "{{meditation}}"
-				},
-				{
-					"type": "divider"
-				}
-			]
+			"type": "subheading",
+			"text": {
+				"en-US": "Introductory",
+				"pt-BR": "Partes Introdutórias"
+			}
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "1. Preparation — Presence of God",
+				"pt-BR": "1. Preparação — Presença de Deus"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "Place yourself formally in the presence of God. A simple act of faith is enough: He is here, and He loves you. Orient yourself toward Him with a good thought — recall His nearness, His fatherhood, or the indwelling of the Holy Trinity in your soul. You are about to speak with a Friend who already waits for you.",
+				"pt-BR": "Coloque-se formalmente na presença de Deus. Basta um simples ato de fé: Ele está aqui e o ama. Oriente-se para Ele com um bom pensamento — recorde a Sua proximidade, a Sua paternidade ou a inabitação da Santíssima Trindade na sua alma. Você está para falar com um Amigo que já o espera."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "2. Reading",
+				"pt-BR": "2. Leitura"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "Read slowly the passage you have chosen for today — a point from Divine Intimacy, the Gospel of the day, or a short passage from Scripture or the saints. Read it with faith, not as information, but as a word addressed to you. One paragraph is enough. The reading awakens the mind so that the heart may follow.",
+				"pt-BR": "Leia devagar o trecho que escolheu para hoje — um ponto de Intimidade Divina, o Evangelho do dia, ou uma breve passagem da Escritura ou dos santos. Leia-o com fé, não como informação, mas como uma palavra dirigida a você. Um parágrafo basta. A leitura desperta a mente para que o coração a siga."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "Substantial",
+				"pt-BR": "Partes Substanciais"
+			}
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "3. Meditation",
+				"pt-BR": "3. Meditação"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "Now reflect. Let the intellect go deeper into what you have read. Ask: what does this reveal of God's love for me? What truth is He showing me today? Let the beautiful thoughts of the point persuade you of His love here and now, so that words of affection begin to arise spontaneously in your heart — and perhaps on your lips. Do not hurry. Meditation is the door; it is not the destination.",
+				"pt-BR": "Agora reflita. Deixe o intelecto aprofundar-se no que leu. Pergunte: o que isto revela do amor de Deus por mim? Que verdade Ele quer mostrar-me hoje? Deixe os belos pensamentos do ponto persuadi-lo do Seu amor aqui e agora, para que palavras de afeto comecem a surgir espontaneamente no seu coração — e talvez nos seus lábios. Não tenha pressa. A meditação é a porta, não o destino."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "4. Colloquy",
+				"pt-BR": "4. Colóquio"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "This is the heart of prayer. Speak with the Lord freely, heart to Heart, as one friend speaks with another. Tell Him in every way — using whatever comes most spontaneously — that you love Him, that you want to love Him, that you want to progress in His holy love, that you want to prove your love by works, by doing His holy will. Remain here as long as grace sustains you. St. Teresa said: it is here that the soul converses with Him by whom she knows she is loved.",
+				"pt-BR": "Este é o coração da oração. Fale com o Senhor livremente, de coração a Coração, como um amigo fala com outro. Diga-Lhe de todos os modos — usando o que vier com mais espontaneidade — que O ama, que O quer amar, que deseja progredir em Seu santo amor, que deseja provar-Lhe esse amor com as obras, fazendo a Sua santa vontade. Permaneça aqui enquanto a graça o sustentar. Santa Teresa diz: é aqui que a alma fala com Aquele de quem sabe ser amada."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "The three that follow are optional — they help prolong the colloquy. Use them when they come naturally, or close here.",
+				"pt-BR": "As três partes que seguem são facultativas — ajudam a prolongar o colóquio. Use-as quando surgirem naturalmente, ou encerre aqui."
+			}
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "Optional",
+				"pt-BR": "Partes Facultativas"
+			}
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "5. Thanksgiving",
+				"pt-BR": "5. Ação de Graças"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "After telling the Lord you love Him, tell Him your gratitude. Recall His benefits — creation, redemption, the sacraments, the particular graces of your life. Thank Him for this very hour of prayer, whether it has felt consoling or dry. Show yourself grateful.",
+				"pt-BR": "Depois de dizer ao Senhor que O ama, diga-Lhe o seu reconhecimento. Recorde os Seus benefícios — a criação, a redenção, os sacramentos, as graças particulares da sua vida. Agradeça-Lhe por esta mesma hora de oração, tenha sido consoladora ou árida. Mostre-se agradecido."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "6. Offering",
+				"pt-BR": "6. Oferta"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "Having received so much, seek to repay as you can. Present the Lord with some concrete resolution for today — one small step in fidelity, one virtue to practice, one fault to resist. A single, specific, small resolution is worth more than many good intentions. Offer it to Him.",
+				"pt-BR": "Tendo recebido tanto, procure retribuir no que puder. Apresente ao Senhor alguma resolução concreta para hoje — um pequeno passo de fidelidade, uma virtude a praticar, uma falta a resistir. Uma única resolução, específica e pequena, vale mais do que muitas boas intenções. Ofereça-a a Ele."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "7. Petition",
+				"pt-BR": "7. Súplica"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "Convinced of your littleness and fragility, implore God's help. Ask for the grace to keep your resolution and to grow in His love. Pray also for those He has entrusted to you — the Church, the Holy Father, your family, those who suffer, the souls in purgatory. Close with an Our Father, entrusting all through Our Lady, who keeps you close to her Son.",
+				"pt-BR": "Convencido da sua pequenez e fragilidade, implore o auxílio de Deus. Peça a graça de manter a sua resolução e de crescer no Seu amor. Reze também por aqueles que Ele lhe confiou — a Igreja, o Santo Padre, a sua família, os que sofrem, as almas do purgatório. Encerre com um Pai Nosso, confiando tudo por Nossa Senhora, que o mantém junto ao seu Filho."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "prayer",
+			"ref": "our-father"
 		}
 	]
 }

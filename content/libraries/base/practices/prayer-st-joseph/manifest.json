@@ -1,11 +1,6 @@
 {
 	"id": "prayer-st-joseph",
 	"icon": "prayer",
-	"alternativeTo": {
-		"id": "prayer-st-joseph",
-		"label": { "en-US": "Traditional", "pt-BR": "Tradicional" },
-		"description": { "en-US": "The traditional prayer to the Foster Father of Our Lord" }
-	},
 	"name": {
 		"en-US": "Prayer to St. Joseph",
 		"pt-BR": "Oração a São José"

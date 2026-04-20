@@ -1,11 +1,6 @@
 {
 	"id": "seven-sorrows-scriptural",
 	"icon": "mary",
-	"alternativeTo": {
-		"id": "seven-sorrows",
-		"label": { "en-US": "Scriptural Meditations", "pt-BR": "Meditações Bíblicas" },
-		"description": { "en-US": "Scripture-based meditations for each sorrow" }
-	},
 	"name": {
 		"en-US": "Chaplet of the Seven Sorrows",
 		"pt-BR": "Coroa das Sete Dores"

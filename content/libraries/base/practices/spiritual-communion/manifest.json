@@ -1,11 +1,6 @@
 {
 	"id": "spiritual-communion",
 	"icon": "eucharist",
-	"alternativeTo": {
-		"id": "spiritual-communion",
-		"label": { "en-US": "Traditional", "pt-BR": "Tradicional" },
-		"description": { "en-US": "The traditional Act of Spiritual Communion" }
-	},
 	"name": {
 		"en-US": "Act of Spiritual Communion",
 		"pt-BR": "Ato de Comunhão Espiritual"

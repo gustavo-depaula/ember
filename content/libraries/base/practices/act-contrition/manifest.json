@@ -1,11 +1,6 @@
 {
 	"id": "act-contrition",
 	"icon": "cross",
-	"alternativeTo": {
-		"id": "act-contrition",
-		"label": { "en-US": "Traditional", "pt-BR": "Tradicional" },
-		"description": { "en-US": "The traditional Act of Contrition" }
-	},
 	"name": {
 		"en-US": "Act of Contrition",
 		"pt-BR": "Ato de Contrição"

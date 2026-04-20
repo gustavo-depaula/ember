@@ -1,11 +1,6 @@
 {
 	"id": "mental-prayer",
 	"icon": "prayer",
-	"alternativeTo": {
-		"id": "mental-prayer",
-		"label": { "en-US": "Ignatian Method", "pt-BR": "Método Inaciano" },
-		"description": { "en-US": "The structured Ignatian method of mental prayer" }
-	},
 	"name": {
 		"en-US": "Mental Prayer",
 		"pt-BR": "Oração Mental"
@@ -20,12 +15,12 @@
 		"pt-BR": "A oração mental é uma conversa pessoal e interior com Deus — distinta da oração vocal por envolver toda a alma: memória, intelecto e vontade. É o coração da vida espiritual, a fornalha de onde toda atividade apostólica extrai seu fogo."
 	},
 	"history": {
-		"en-US": "The practice of mental prayer has been central to Catholic spirituality since the desert fathers of the 4th century. St. Teresa of Ávila defined it as 'an intimate sharing between friends; it means taking time frequently to be alone with Him who we know loves us.' St. Ignatius of Loyola systematized it in the Spiritual Exercises. St. Alphonsus Liguori called mental prayer 'the great means of salvation' and taught that whoever prays is certainly saved.",
-		"pt-BR": "A prática da oração mental é central na espiritualidade católica desde os Padres do Deserto no século IV. Santa Teresa de Ávila a definiu como 'um trato de amizade, estando muitas vezes a sós com quem sabemos que nos ama.' Santo Inácio de Loyola a sistematizou nos Exercícios Espirituais. Santo Afonso Liguori chamou-a de 'o grande meio de salvação.'"
+		"en-US": "The practice of mental prayer has been central to Catholic spirituality since the desert fathers of the 4th century. St. Teresa of Ávila defined it as 'an intimate sharing between friends; it means taking time frequently to be alone with Him who we know loves us.' In the Carmelite school, this prayer is taught as recollection, loving attention to God, and a simple colloquy. Fr. Gabriel of St. Mary Magdalen's Divine Intimacy gave this method to generations of ordinary Catholics.",
+		"pt-BR": "A prática da oração mental é central na espiritualidade católica desde os Padres do Deserto no século IV. Santa Teresa de Ávila a definiu como 'um trato de amizade, estando muitas vezes a sós com quem sabemos que nos ama.' Na escola carmelita, essa oração é ensinada como recolhimento, atenção amorosa a Deus e colóquio simples. O Pe. Gabriel de Santa Maria Madalena, em Intimidade Divina, transmitiu esse método a gerações de católicos comuns."
 	},
 	"howToPray": {
-		"en-US": "Choose a quiet time and a subject for your meditation: a mystery of Christ's life, a virtue, or a truth of faith. The method (Ignatian, Carmelite, or Simple) can be changed in your practice settings. Start with 15 minutes; grow gradually to 30 or more. The goal is not to have many thoughts, but to love much.",
-		"pt-BR": "Escolha um momento tranquilo e um tema: um mistério da vida de Cristo, uma virtude ou uma verdade da fé. O método (Inaciano, Carmelita ou Simples) pode ser alterado nas configurações. Comece com 15 minutos; cresça gradualmente para 30 ou mais. O objetivo não é ter muitos pensamentos, mas amar muito."
+		"en-US": "Choose a quiet time and one short subject: a Gospel scene, a line from Divine Intimacy, or a truth of faith. Begin in recollection, consider briefly, move to affection and colloquy, and finish with one concrete resolution. Start with 15 minutes; grow gradually to 30 or more. The goal is not to think many thoughts, but to love much.",
+		"pt-BR": "Escolha um momento tranquilo e um tema breve: uma cena do Evangelho, uma linha de Intimidade Divina ou uma verdade da fé. Comece no recolhimento, considere brevemente, passe ao afeto e ao colóquio, e termine com uma resolução concreta. Comece com 15 minutos; cresça gradualmente para 30 ou mais. O objetivo não é pensar muitas coisas, mas amar muito."
 	},
 	"flowMode": "step",
 	"completion": "flow-end",
@@ -35,8 +30,8 @@
 		"meditation",
 		"contemplation",
 		"mental",
-		"ignatian",
 		"carmelite",
+		"divine-intimacy",
 		"daily",
 		"morning"
 	],

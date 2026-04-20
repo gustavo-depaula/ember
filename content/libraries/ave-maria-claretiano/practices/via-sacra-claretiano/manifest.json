@@ -1,15 +1,14 @@
 {
 	"id": "via-sacra-claretiano",
 	"icon": "cross",
-	"alternativeTo": {
-		"id": "via-sacra",
-		"label": { "pt-BR": "Claretiana" },
-		"description": { "pt-BR": "A Via Sacra com meditações claretianas" }
-	},
 	"name": {
 		"pt-BR": "Via Sacra"
 	},
-	"categories": ["lenten", "meditation", "passion"],
+	"categories": [
+		"lenten",
+		"meditation",
+		"passion"
+	],
 	"estimatedMinutes": 30,
 	"description": {
 		"pt-BR": "A Via Sacra com as meditações claretianas do devocionário Ave Maria (1957), com as quatorze estações da Paixão de Nosso Senhor, incluindo meditações, orações e hinos para cada estação."
@@ -17,14 +16,21 @@
 	"flowMode": "scroll",
 	"completion": "flow-end",
 	"flow": "flow.json",
-	"tags": ["passion", "lent", "meditation", "friday"],
+	"tags": [
+		"passion",
+		"lent",
+		"meditation",
+		"friday"
+	],
 	"defaults": {
 		"sortOrder": 9,
 		"slots": [
 			{
 				"schedule": {
 					"type": "days-of-week",
-					"days": [5]
+					"days": [
+						5
+					]
 				},
 				"tier": "extra",
 				"enabled": false

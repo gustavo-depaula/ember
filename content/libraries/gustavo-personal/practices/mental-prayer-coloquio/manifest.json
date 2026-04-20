@@ -1,17 +1,6 @@
 {
 	"id": "mental-prayer-coloquio",
 	"icon": "prayer",
-	"alternativeTo": {
-		"id": "mental-prayer",
-		"label": {
-			"en-US": "Colloquy Method",
-			"pt-BR": "Método do Colóquio"
-		},
-		"description": {
-			"en-US": "A heart-centered method uniting intimate colloquy, structured meditation, and an examen of the prayer itself.",
-			"pt-BR": "Um método centrado no coração que une colóquio íntimo, meditação estruturada e exame da própria oração."
-		}
-	},
 	"name": {
 		"en-US": "Mental Prayer",
 		"pt-BR": "Oração Mental"

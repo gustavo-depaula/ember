@@ -1,11 +1,6 @@
 {
 	"id": "way-of-light-scriptural",
 	"icon": "cross",
-	"alternativeTo": {
-		"id": "way-of-light",
-		"label": { "en-US": "Scriptural Meditations", "pt-BR": "Meditações Bíblicas" },
-		"description": { "en-US": "Scripture-based meditations for each station" }
-	},
 	"name": {
 		"en-US": "Way of Light",
 		"pt-BR": "Via Lucis"

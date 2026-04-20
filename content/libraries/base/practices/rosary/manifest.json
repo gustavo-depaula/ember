@@ -1,11 +1,6 @@
 {
 	"id": "rosary",
 	"icon": "rosary",
-	"alternativeTo": {
-		"id": "rosary",
-		"label": { "en-US": "Traditional", "pt-BR": "Tradicional" },
-		"description": { "en-US": "The classic Rosary with the standard mysteries" }
-	},
 	"name": {
 		"en-US": "Holy Rosary",
 		"pt-BR": "Santo Rosário"

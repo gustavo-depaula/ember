@@ -16,7 +16,7 @@
 					"sections": [
 						{
 							"type": "prayer",
-							"ref": "sign-of-cross"
+							"ref": "base:sign-of-cross"
 						},
 						{
 							"type": "divider"
@@ -40,7 +40,7 @@
 					"sections": [
 						{
 							"type": "prayer",
-							"ref": "sign-of-cross"
+							"ref": "base:sign-of-cross"
 						},
 						{
 							"type": "divider"
@@ -64,7 +64,7 @@
 					"sections": [
 						{
 							"type": "prayer",
-							"ref": "sign-of-cross"
+							"ref": "base:sign-of-cross"
 						},
 						{
 							"type": "divider"
@@ -88,7 +88,7 @@
 					"sections": [
 						{
 							"type": "prayer",
-							"ref": "sign-of-cross"
+							"ref": "base:sign-of-cross"
 						},
 						{
 							"type": "divider"
@@ -112,7 +112,7 @@
 					"sections": [
 						{
 							"type": "prayer",
-							"ref": "sign-of-cross"
+							"ref": "base:sign-of-cross"
 						},
 						{
 							"type": "divider"
